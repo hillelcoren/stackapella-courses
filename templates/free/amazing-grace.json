@@ -3,7 +3,7 @@
  "version": 2,
  "reviewed": false,
  "title": "Amazing Grace",
- "description": "The best-loved hymn in four parts (SATB): the soprano sings the melody, the alto moves beneath it, the tenor fills the chord, and the bass holds the roots on \"oo\". A gentle first harmony.",
+ "description": "The best-loved hymn, for 2 to 4 singers: the soprano sings the melody, the alto moves beneath it, the bass holds the roots on \"oo\", and the tenor fills the chord. A gentle first harmony.",
  "difficulty": "beginner",
  "genre": [
   "hymn",
@@ -713,5 +713,22 @@
     ]
    }
   }
- ]
+ ],
+ "voicings": {
+  "2": [
+   "soprano",
+   "alto"
+  ],
+  "3": [
+   "soprano",
+   "alto",
+   "bass"
+  ],
+  "4": [
+   "soprano",
+   "alto",
+   "tenor",
+   "bass"
+  ]
+ }
 }

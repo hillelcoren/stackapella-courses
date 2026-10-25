@@ -3,7 +3,7 @@
  "version": 2,
  "reviewed": false,
  "title": "Silent Night",
- "description": "The gentle carol in four parts (SATB): the soprano sings the melody, the alto a third below most of the way, the tenor fills the chord, and the bass holds the roots on \"oo\". Slow and singable.",
+ "description": "The gentle carol, for 2 to 4 singers: the soprano sings the melody, the alto a third below most of the way, the bass holds the roots on \"oo\", and the tenor fills the chord. Slow and singable.",
  "difficulty": "beginner",
  "genre": [
   "carol",
@@ -1070,5 +1070,22 @@
     ]
    }
   }
- ]
+ ],
+ "voicings": {
+  "2": [
+   "soprano",
+   "alto"
+  ],
+  "3": [
+   "soprano",
+   "alto",
+   "bass"
+  ],
+  "4": [
+   "soprano",
+   "alto",
+   "tenor",
+   "bass"
+  ]
+ }
 }
