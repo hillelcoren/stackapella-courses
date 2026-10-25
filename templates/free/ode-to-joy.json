@@ -1,0 +1,1456 @@
+{
+ "id": "ode-to-joy",
+ "version": 1,
+ "reviewed": false,
+ "title": "Ode to Joy (Joyful, Joyful)",
+ "description": "Beethoven's great tune with the hymn words \"Joyful, Joyful, We Adore Thee\", for 2 to 4 singers: the soprano sings the melody, the alto moves beneath it, the bass holds the roots on \"oo\", and the tenor fills the chord. Steady and bright.",
+ "difficulty": "beginner",
+ "genre": [
+  "hymn",
+  "classical"
+ ],
+ "tempo": 100,
+ "key": "G",
+ "timeSignature": "4/4",
+ "pickupBeats": 0,
+ "credits": {
+  "words": "Henry van Dyke (1907)",
+  "tune": "Ludwig van Beethoven, Symphony No. 9 (1824)",
+  "arrangement": "Stackapella (draft)"
+ },
+ "licence": {
+  "words": "public domain: published 1911; van Dyke died 1933",
+  "tune": "public domain: 1824",
+  "arrangement": "original, written for Stackapella",
+  "recordings": "synthesized guides",
+  "checked": null,
+  "source": "melody from the score in Wikipedia, \"Ode to Joy\""
+ },
+ "order": [
+  "soprano",
+  "bass",
+  "alto",
+  "tenor"
+ ],
+ "voicings": {
+  "2": [
+   "soprano",
+   "alto"
+  ],
+  "3": [
+   "soprano",
+   "alto",
+   "bass"
+  ],
+  "4": [
+   "soprano",
+   "alto",
+   "tenor",
+   "bass"
+  ]
+ },
+ "sections": [
+  {
+   "name": "Verse 1",
+   "startBeat": 0,
+   "endBeat": 64.0,
+   "phrases": [
+    [
+     0.0,
+     8.0
+    ],
+    [
+     8.0,
+     16.0
+    ],
+    [
+     16.0,
+     24.0
+    ],
+    [
+     24.0,
+     32.0
+    ],
+    [
+     32.0,
+     40.0
+    ],
+    [
+     40.0,
+     47.0
+    ],
+    [
+     47.0,
+     56.0
+    ],
+    [
+     56.0,
+     64.0
+    ]
+   ]
+  }
+ ],
+ "parts": [
+  {
+   "key": "soprano",
+   "name": "Soprano",
+   "range": {
+    "low": 62,
+    "high": 74
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "Joy-",
+      "br": true
+     },
+     {
+      "beat": 1.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "ful,"
+     },
+     {
+      "beat": 2.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "joy-"
+     },
+     {
+      "beat": 3.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "ful,"
+     },
+     {
+      "beat": 4.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "we"
+     },
+     {
+      "beat": 5.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "a-"
+     },
+     {
+      "beat": 6.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "dore"
+     },
+     {
+      "beat": 7.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "Thee,"
+     },
+     {
+      "beat": 8.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "God",
+      "br": true
+     },
+     {
+      "beat": 9.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "of"
+     },
+     {
+      "beat": 10.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "glo-"
+     },
+     {
+      "beat": 11.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "ry,"
+     },
+     {
+      "beat": 12.0,
+      "length": 1.5,
+      "pitch": 71,
+      "lyric": "Lord"
+     },
+     {
+      "beat": 13.5,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "of"
+     },
+     {
+      "beat": 14.0,
+      "length": 2.0,
+      "pitch": 69,
+      "lyric": "love;"
+     },
+     {
+      "beat": 16.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "Hearts",
+      "br": true
+     },
+     {
+      "beat": 17.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "un-"
+     },
+     {
+      "beat": 18.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "fold"
+     },
+     {
+      "beat": 19.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "like"
+     },
+     {
+      "beat": 20.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "flow'rs"
+     },
+     {
+      "beat": 21.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "be-"
+     },
+     {
+      "beat": 22.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "fore"
+     },
+     {
+      "beat": 23.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "Thee,"
+     },
+     {
+      "beat": 24.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "Op'n-",
+      "br": true
+     },
+     {
+      "beat": 25.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "ing"
+     },
+     {
+      "beat": 26.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "to"
+     },
+     {
+      "beat": 27.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "the"
+     },
+     {
+      "beat": 28.0,
+      "length": 1.5,
+      "pitch": 69,
+      "lyric": "sun"
+     },
+     {
+      "beat": 29.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "a-"
+     },
+     {
+      "beat": 30.0,
+      "length": 2.0,
+      "pitch": 67,
+      "lyric": "bove."
+     },
+     {
+      "beat": 32.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "Melt",
+      "br": true
+     },
+     {
+      "beat": 33.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "the"
+     },
+     {
+      "beat": 34.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "clouds"
+     },
+     {
+      "beat": 35.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "of"
+     },
+     {
+      "beat": 36.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "sin"
+     },
+     {
+      "beat": 37.0,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "and"
+     },
+     {
+      "beat": 37.5,
+      "length": 0.5,
+      "pitch": 72
+     },
+     {
+      "beat": 38.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "sad-"
+     },
+     {
+      "beat": 39.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "ness;"
+     },
+     {
+      "beat": 40.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "drive",
+      "br": true
+     },
+     {
+      "beat": 41.0,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "the"
+     },
+     {
+      "beat": 41.5,
+      "length": 0.5,
+      "pitch": 72
+     },
+     {
+      "beat": 42.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "dark"
+     },
+     {
+      "beat": 43.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "of"
+     },
+     {
+      "beat": 44.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "doubt"
+     },
+     {
+      "beat": 45.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "a-"
+     },
+     {
+      "beat": 46.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "way;"
+     },
+     {
+      "beat": 47.0,
+      "length": 2.0,
+      "pitch": 71,
+      "lyric": "Giv-",
+      "br": true
+     },
+     {
+      "beat": 49.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "er"
+     },
+     {
+      "beat": 50.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "of"
+     },
+     {
+      "beat": 51.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "im-"
+     },
+     {
+      "beat": 52.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "mor-"
+     },
+     {
+      "beat": 53.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "tal"
+     },
+     {
+      "beat": 54.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "glad-"
+     },
+     {
+      "beat": 55.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "ness,"
+     },
+     {
+      "beat": 56.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "fill",
+      "br": true
+     },
+     {
+      "beat": 57.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "us"
+     },
+     {
+      "beat": 58.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "with"
+     },
+     {
+      "beat": 59.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "the"
+     },
+     {
+      "beat": 60.0,
+      "length": 1.5,
+      "pitch": 69,
+      "lyric": "light"
+     },
+     {
+      "beat": 61.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "of"
+     },
+     {
+      "beat": 62.0,
+      "length": 2.0,
+      "pitch": 67,
+      "lyric": "day!"
+     }
+    ]
+   },
+   "melody": true
+  },
+  {
+   "key": "alto",
+   "name": "Alto",
+   "range": {
+    "low": 55,
+    "high": 71
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "Joy-",
+      "br": true
+     },
+     {
+      "beat": 1.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "ful,"
+     },
+     {
+      "beat": 2.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "joy-"
+     },
+     {
+      "beat": 3.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "ful,"
+     },
+     {
+      "beat": 4.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "we"
+     },
+     {
+      "beat": 5.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "a-"
+     },
+     {
+      "beat": 6.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "dore"
+     },
+     {
+      "beat": 7.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Thee,"
+     },
+     {
+      "beat": 8.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "God",
+      "br": true
+     },
+     {
+      "beat": 9.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "of"
+     },
+     {
+      "beat": 10.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "glo-"
+     },
+     {
+      "beat": 11.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "ry,"
+     },
+     {
+      "beat": 12.0,
+      "length": 1.5,
+      "pitch": 66,
+      "lyric": "Lord"
+     },
+     {
+      "beat": 13.5,
+      "length": 0.5,
+      "pitch": 66,
+      "lyric": "of"
+     },
+     {
+      "beat": 14.0,
+      "length": 2.0,
+      "pitch": 66,
+      "lyric": "love;"
+     },
+     {
+      "beat": 16.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "Hearts",
+      "br": true
+     },
+     {
+      "beat": 17.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "un-"
+     },
+     {
+      "beat": 18.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "fold"
+     },
+     {
+      "beat": 19.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "like"
+     },
+     {
+      "beat": 20.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "flow'rs"
+     },
+     {
+      "beat": 21.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "be-"
+     },
+     {
+      "beat": 22.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "fore"
+     },
+     {
+      "beat": 23.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Thee,"
+     },
+     {
+      "beat": 24.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Op'n-",
+      "br": true
+     },
+     {
+      "beat": 25.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "ing"
+     },
+     {
+      "beat": 26.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "to"
+     },
+     {
+      "beat": 27.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "the"
+     },
+     {
+      "beat": 28.0,
+      "length": 1.5,
+      "pitch": 66,
+      "lyric": "sun"
+     },
+     {
+      "beat": 29.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "a-"
+     },
+     {
+      "beat": 30.0,
+      "length": 2.0,
+      "pitch": 62,
+      "lyric": "bove."
+     },
+     {
+      "beat": 32.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "Melt",
+      "br": true
+     },
+     {
+      "beat": 33.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "the"
+     },
+     {
+      "beat": 34.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "clouds"
+     },
+     {
+      "beat": 35.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "of"
+     },
+     {
+      "beat": 36.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "sin"
+     },
+     {
+      "beat": 37.0,
+      "length": 0.5,
+      "pitch": 66,
+      "lyric": "and"
+     },
+     {
+      "beat": 37.5,
+      "length": 0.5,
+      "pitch": 69
+     },
+     {
+      "beat": 38.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "sad-"
+     },
+     {
+      "beat": 39.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "ness;"
+     },
+     {
+      "beat": 40.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "drive",
+      "br": true
+     },
+     {
+      "beat": 41.0,
+      "length": 0.5,
+      "pitch": 66,
+      "lyric": "the"
+     },
+     {
+      "beat": 41.5,
+      "length": 0.5,
+      "pitch": 69
+     },
+     {
+      "beat": 42.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "dark"
+     },
+     {
+      "beat": 43.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "of"
+     },
+     {
+      "beat": 44.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "doubt"
+     },
+     {
+      "beat": 45.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "a-"
+     },
+     {
+      "beat": 46.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "way;"
+     },
+     {
+      "beat": 47.0,
+      "length": 2.0,
+      "pitch": 57,
+      "lyric": "Giv-",
+      "br": true
+     },
+     {
+      "beat": 49.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "er"
+     },
+     {
+      "beat": 50.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "of"
+     },
+     {
+      "beat": 51.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "im-"
+     },
+     {
+      "beat": 52.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "mor-"
+     },
+     {
+      "beat": 53.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "tal"
+     },
+     {
+      "beat": 54.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "glad-"
+     },
+     {
+      "beat": 55.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "ness,"
+     },
+     {
+      "beat": 56.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "fill",
+      "br": true
+     },
+     {
+      "beat": 57.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "us"
+     },
+     {
+      "beat": 58.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "with"
+     },
+     {
+      "beat": 59.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "the"
+     },
+     {
+      "beat": 60.0,
+      "length": 1.5,
+      "pitch": 66,
+      "lyric": "light"
+     },
+     {
+      "beat": 61.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "of"
+     },
+     {
+      "beat": 62.0,
+      "length": 2.0,
+      "pitch": 62,
+      "lyric": "day!"
+     }
+    ]
+   }
+  },
+  {
+   "key": "tenor",
+   "name": "Tenor",
+   "range": {
+    "low": 50,
+    "high": 62
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "Joy-",
+      "br": true
+     },
+     {
+      "beat": 1.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "ful,"
+     },
+     {
+      "beat": 2.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "joy-"
+     },
+     {
+      "beat": 3.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "ful,"
+     },
+     {
+      "beat": 4.0,
+      "length": 1.0,
+      "pitch": 54,
+      "lyric": "we"
+     },
+     {
+      "beat": 5.0,
+      "length": 1.0,
+      "pitch": 54,
+      "lyric": "a-"
+     },
+     {
+      "beat": 6.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "dore"
+     },
+     {
+      "beat": 7.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "Thee,"
+     },
+     {
+      "beat": 8.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "God",
+      "br": true
+     },
+     {
+      "beat": 9.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "of"
+     },
+     {
+      "beat": 10.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "glo-"
+     },
+     {
+      "beat": 11.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "ry,"
+     },
+     {
+      "beat": 12.0,
+      "length": 1.5,
+      "pitch": 57,
+      "lyric": "Lord"
+     },
+     {
+      "beat": 13.5,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "of"
+     },
+     {
+      "beat": 14.0,
+      "length": 2.0,
+      "pitch": 57,
+      "lyric": "love;"
+     },
+     {
+      "beat": 16.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Hearts",
+      "br": true
+     },
+     {
+      "beat": 17.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "un-"
+     },
+     {
+      "beat": 18.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "fold"
+     },
+     {
+      "beat": 19.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "like"
+     },
+     {
+      "beat": 20.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "flow'rs"
+     },
+     {
+      "beat": 21.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "be-"
+     },
+     {
+      "beat": 22.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "fore"
+     },
+     {
+      "beat": 23.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "Thee,"
+     },
+     {
+      "beat": 24.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "Op'n-",
+      "br": true
+     },
+     {
+      "beat": 25.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "ing"
+     },
+     {
+      "beat": 26.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "to"
+     },
+     {
+      "beat": 27.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "the"
+     },
+     {
+      "beat": 28.0,
+      "length": 1.5,
+      "pitch": 62,
+      "lyric": "sun"
+     },
+     {
+      "beat": 29.5,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "a-"
+     },
+     {
+      "beat": 30.0,
+      "length": 2.0,
+      "pitch": 59,
+      "lyric": "bove."
+     },
+     {
+      "beat": 32.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Melt",
+      "br": true
+     },
+     {
+      "beat": 33.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "the"
+     },
+     {
+      "beat": 34.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "clouds"
+     },
+     {
+      "beat": 35.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "of"
+     },
+     {
+      "beat": 36.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "sin"
+     },
+     {
+      "beat": 37.0,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "and"
+     },
+     {
+      "beat": 37.5,
+      "length": 0.5,
+      "pitch": 54
+     },
+     {
+      "beat": 38.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "sad-"
+     },
+     {
+      "beat": 39.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "ness;"
+     },
+     {
+      "beat": 40.0,
+      "length": 1.0,
+      "pitch": 54,
+      "lyric": "drive",
+      "br": true
+     },
+     {
+      "beat": 41.0,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "the"
+     },
+     {
+      "beat": 41.5,
+      "length": 0.5,
+      "pitch": 54
+     },
+     {
+      "beat": 42.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "dark"
+     },
+     {
+      "beat": 43.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "of"
+     },
+     {
+      "beat": 44.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "doubt"
+     },
+     {
+      "beat": 45.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "a-"
+     },
+     {
+      "beat": 46.0,
+      "length": 1.0,
+      "pitch": 54,
+      "lyric": "way;"
+     },
+     {
+      "beat": 47.0,
+      "length": 2.0,
+      "pitch": 54,
+      "lyric": "Giv-",
+      "br": true
+     },
+     {
+      "beat": 49.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "er"
+     },
+     {
+      "beat": 50.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "of"
+     },
+     {
+      "beat": 51.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "im-"
+     },
+     {
+      "beat": 52.0,
+      "length": 1.0,
+      "pitch": 54,
+      "lyric": "mor-"
+     },
+     {
+      "beat": 53.0,
+      "length": 1.0,
+      "pitch": 54,
+      "lyric": "tal"
+     },
+     {
+      "beat": 54.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "glad-"
+     },
+     {
+      "beat": 55.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "ness,"
+     },
+     {
+      "beat": 56.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "fill",
+      "br": true
+     },
+     {
+      "beat": 57.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "us"
+     },
+     {
+      "beat": 58.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "with"
+     },
+     {
+      "beat": 59.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "the"
+     },
+     {
+      "beat": 60.0,
+      "length": 1.5,
+      "pitch": 54,
+      "lyric": "light"
+     },
+     {
+      "beat": 61.5,
+      "length": 0.5,
+      "pitch": 54,
+      "lyric": "of"
+     },
+     {
+      "beat": 62.0,
+      "length": 2.0,
+      "pitch": 55,
+      "lyric": "day!"
+     }
+    ]
+   }
+  },
+  {
+   "key": "bass",
+   "name": "Bass",
+   "range": {
+    "low": 43,
+    "high": 50
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0.0,
+      "length": 2.0,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 2.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 4.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 6.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 8.0,
+      "length": 2.0,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 10.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 12.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 14.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 16.0,
+      "length": 2.0,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 18.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 20.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 22.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 24.0,
+      "length": 2.0,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 26.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 28.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 30.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 32.0,
+      "length": 2.0,
+      "pitch": 50,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 34.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 36.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 38.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 40.0,
+      "length": 2.0,
+      "pitch": 50,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 42.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 44.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 46.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 48.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 50.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 52.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 54.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 56.0,
+      "length": 2.0,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 58.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 60.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 62.0,
+      "length": 2.0,
+      "pitch": 43
+     }
+    ]
+   }
+  }
+ ]
+}

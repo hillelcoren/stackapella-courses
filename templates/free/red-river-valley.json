@@ -1,0 +1,910 @@
+{
+ "id": "red-river-valley",
+ "version": 1,
+ "reviewed": false,
+ "title": "Red River Valley",
+ "description": "The gentle cowboy song, for 2 to 4 singers: the soprano sings the melody, the alto moves beneath it, the bass holds the roots on \"oo\", and the tenor fills the chord. Easy to learn by ear.",
+ "difficulty": "beginner",
+ "genre": [
+  "folk",
+  "american"
+ ],
+ "tempo": 90,
+ "key": "G",
+ "timeSignature": "4/4",
+ "pickupBeats": 1,
+ "credits": {
+  "words": "traditional (Canadian and American, 1870s to 1890s)",
+  "tune": "traditional",
+  "arrangement": "Stackapella (draft)"
+ },
+ "licence": {
+  "words": "public domain: traditional, printed by 1896",
+  "tune": "public domain: traditional",
+  "arrangement": "original, written for Stackapella",
+  "recordings": "synthesized guides",
+  "checked": null,
+  "source": "melody, words and chords from the score in Wikipedia, \"Red River Valley\""
+ },
+ "order": [
+  "soprano",
+  "bass",
+  "alto",
+  "tenor"
+ ],
+ "voicings": {
+  "2": [
+   "soprano",
+   "alto"
+  ],
+  "3": [
+   "soprano",
+   "alto",
+   "bass"
+  ],
+  "4": [
+   "soprano",
+   "alto",
+   "tenor",
+   "bass"
+  ]
+ },
+ "sections": [
+  {
+   "name": "Verse 1",
+   "startBeat": 0,
+   "endBeat": 33.0,
+   "phrases": [
+    [
+     0.0,
+     8.0
+    ],
+    [
+     8.0,
+     16.0
+    ],
+    [
+     16.0,
+     24.0
+    ],
+    [
+     24.0,
+     33.0
+    ]
+   ]
+  }
+ ],
+ "parts": [
+  {
+   "key": "soprano",
+   "name": "Soprano",
+   "range": {
+    "low": 62,
+    "high": 74
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0.0,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "From",
+      "br": true
+     },
+     {
+      "beat": 0.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "this"
+     },
+     {
+      "beat": 1.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "val-"
+     },
+     {
+      "beat": 2.0,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "ley"
+     },
+     {
+      "beat": 2.5,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "they"
+     },
+     {
+      "beat": 3.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "say"
+     },
+     {
+      "beat": 4.0,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 4.5,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "are"
+     },
+     {
+      "beat": 5.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "go-"
+     },
+     {
+      "beat": 6.0,
+      "length": 2.0,
+      "pitch": 67,
+      "lyric": "ing."
+     },
+     {
+      "beat": 8.0,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "We",
+      "br": true
+     },
+     {
+      "beat": 8.5,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "will"
+     },
+     {
+      "beat": 9.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "miss"
+     },
+     {
+      "beat": 10.0,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "your"
+     },
+     {
+      "beat": 10.5,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "bright"
+     },
+     {
+      "beat": 11.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "eyes"
+     },
+     {
+      "beat": 12.0,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "and"
+     },
+     {
+      "beat": 12.5,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 13.0,
+      "length": 3.0,
+      "pitch": 69,
+      "lyric": "smile,"
+     },
+     {
+      "beat": 16.0,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "for",
+      "br": true
+     },
+     {
+      "beat": 16.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "they"
+     },
+     {
+      "beat": 17.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "say"
+     },
+     {
+      "beat": 18.0,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "you"
+     },
+     {
+      "beat": 18.5,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "are"
+     },
+     {
+      "beat": 19.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "ta-"
+     },
+     {
+      "beat": 20.0,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "king"
+     },
+     {
+      "beat": 20.5,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "the"
+     },
+     {
+      "beat": 21.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "sun-"
+     },
+     {
+      "beat": 22.0,
+      "length": 2.0,
+      "pitch": 72,
+      "lyric": "shine,"
+     },
+     {
+      "beat": 24.0,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "that",
+      "br": true
+     },
+     {
+      "beat": 24.5,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "has"
+     },
+     {
+      "beat": 25.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "bright-"
+     },
+     {
+      "beat": 26.0,
+      "length": 0.5,
+      "pitch": 66,
+      "lyric": "ened"
+     },
+     {
+      "beat": 26.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "our"
+     },
+     {
+      "beat": 27.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "path-"
+     },
+     {
+      "beat": 28.0,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "way"
+     },
+     {
+      "beat": 28.5,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "a"
+     },
+     {
+      "beat": 29.0,
+      "length": 4.0,
+      "pitch": 67,
+      "lyric": "while."
+     }
+    ]
+   },
+   "melody": true
+  },
+  {
+   "key": "alto",
+   "name": "Alto",
+   "range": {
+    "low": 57,
+    "high": 71
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0.0,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "From",
+      "br": true
+     },
+     {
+      "beat": 0.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "this"
+     },
+     {
+      "beat": 1.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "val-"
+     },
+     {
+      "beat": 2.0,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ley"
+     },
+     {
+      "beat": 2.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "they"
+     },
+     {
+      "beat": 3.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "say"
+     },
+     {
+      "beat": 4.0,
+      "length": 0.5,
+      "pitch": 66,
+      "lyric": "you"
+     },
+     {
+      "beat": 4.5,
+      "length": 0.5,
+      "pitch": 66,
+      "lyric": "are"
+     },
+     {
+      "beat": 5.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "go-"
+     },
+     {
+      "beat": 6.0,
+      "length": 2.0,
+      "pitch": 62,
+      "lyric": "ing."
+     },
+     {
+      "beat": 8.0,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "We",
+      "br": true
+     },
+     {
+      "beat": 8.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "will"
+     },
+     {
+      "beat": 9.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "miss"
+     },
+     {
+      "beat": 10.0,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "your"
+     },
+     {
+      "beat": 10.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "bright"
+     },
+     {
+      "beat": 11.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "eyes"
+     },
+     {
+      "beat": 12.0,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "and"
+     },
+     {
+      "beat": 12.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 13.0,
+      "length": 3.0,
+      "pitch": 66,
+      "lyric": "smile,"
+     },
+     {
+      "beat": 16.0,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "for",
+      "br": true
+     },
+     {
+      "beat": 16.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "they"
+     },
+     {
+      "beat": 17.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "say"
+     },
+     {
+      "beat": 18.0,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "you"
+     },
+     {
+      "beat": 18.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "are"
+     },
+     {
+      "beat": 19.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "ta-"
+     },
+     {
+      "beat": 20.0,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "king"
+     },
+     {
+      "beat": 20.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "the"
+     },
+     {
+      "beat": 21.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "sun-"
+     },
+     {
+      "beat": 22.0,
+      "length": 2.0,
+      "pitch": 67,
+      "lyric": "shine,"
+     },
+     {
+      "beat": 24.0,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "that",
+      "br": true
+     },
+     {
+      "beat": 24.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "has"
+     },
+     {
+      "beat": 25.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "bright-"
+     },
+     {
+      "beat": 26.0,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ened"
+     },
+     {
+      "beat": 26.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "our"
+     },
+     {
+      "beat": 27.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "path-"
+     },
+     {
+      "beat": 28.0,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "way"
+     },
+     {
+      "beat": 28.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "a"
+     },
+     {
+      "beat": 29.0,
+      "length": 4.0,
+      "pitch": 64,
+      "lyric": "while."
+     }
+    ]
+   }
+  },
+  {
+   "key": "tenor",
+   "name": "Tenor",
+   "range": {
+    "low": 54,
+    "high": 65
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0.0,
+      "length": 0.5,
+      "pitch": 55,
+      "lyric": "From",
+      "br": true
+     },
+     {
+      "beat": 0.5,
+      "length": 0.5,
+      "pitch": 55,
+      "lyric": "this"
+     },
+     {
+      "beat": 1.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "val-"
+     },
+     {
+      "beat": 2.0,
+      "length": 0.5,
+      "pitch": 55,
+      "lyric": "ley"
+     },
+     {
+      "beat": 2.5,
+      "length": 0.5,
+      "pitch": 55,
+      "lyric": "they"
+     },
+     {
+      "beat": 3.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "say"
+     },
+     {
+      "beat": 4.0,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "you"
+     },
+     {
+      "beat": 4.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "are"
+     },
+     {
+      "beat": 5.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "go-"
+     },
+     {
+      "beat": 6.0,
+      "length": 2.0,
+      "pitch": 59,
+      "lyric": "ing."
+     },
+     {
+      "beat": 8.0,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "We",
+      "br": true
+     },
+     {
+      "beat": 8.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "will"
+     },
+     {
+      "beat": 9.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "miss"
+     },
+     {
+      "beat": 10.0,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "your"
+     },
+     {
+      "beat": 10.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "bright"
+     },
+     {
+      "beat": 11.0,
+      "length": 1.0,
+      "pitch": 65,
+      "lyric": "eyes"
+     },
+     {
+      "beat": 12.0,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "and"
+     },
+     {
+      "beat": 12.5,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 13.0,
+      "length": 3.0,
+      "pitch": 60,
+      "lyric": "smile,"
+     },
+     {
+      "beat": 16.0,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "for",
+      "br": true
+     },
+     {
+      "beat": 16.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "they"
+     },
+     {
+      "beat": 17.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "say"
+     },
+     {
+      "beat": 18.0,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "you"
+     },
+     {
+      "beat": 18.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "are"
+     },
+     {
+      "beat": 19.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "ta-"
+     },
+     {
+      "beat": 20.0,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "king"
+     },
+     {
+      "beat": 20.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "the"
+     },
+     {
+      "beat": 21.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "sun-"
+     },
+     {
+      "beat": 22.0,
+      "length": 2.0,
+      "pitch": 64,
+      "lyric": "shine,"
+     },
+     {
+      "beat": 24.0,
+      "length": 0.5,
+      "pitch": 55,
+      "lyric": "that",
+      "br": true
+     },
+     {
+      "beat": 24.5,
+      "length": 0.5,
+      "pitch": 55,
+      "lyric": "has"
+     },
+     {
+      "beat": 25.0,
+      "length": 1.0,
+      "pitch": 54,
+      "lyric": "bright-"
+     },
+     {
+      "beat": 26.0,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "ened"
+     },
+     {
+      "beat": 26.5,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "our"
+     },
+     {
+      "beat": 27.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "path-"
+     },
+     {
+      "beat": 28.0,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "way"
+     },
+     {
+      "beat": 28.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "a"
+     },
+     {
+      "beat": 29.0,
+      "length": 4.0,
+      "pitch": 60,
+      "lyric": "while."
+     }
+    ]
+   }
+  },
+  {
+   "key": "bass",
+   "name": "Bass",
+   "range": {
+    "low": 43,
+    "high": 50
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 1.0,
+      "length": 2.0,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 3.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 5.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 7.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 9.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 11.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 13.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 15.0,
+      "length": 2.0,
+      "pitch": 48
+     },
+     {
+      "beat": 17.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 19.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 21.0,
+      "length": 2.0,
+      "pitch": 48
+     },
+     {
+      "beat": 23.0,
+      "length": 2.0,
+      "pitch": 48
+     },
+     {
+      "beat": 25.0,
+      "length": 2.0,
+      "pitch": 50
+     },
+     {
+      "beat": 27.0,
+      "length": 2.0,
+      "pitch": 43
+     },
+     {
+      "beat": 29.0,
+      "length": 2.0,
+      "pitch": 48
+     },
+     {
+      "beat": 31.0,
+      "length": 2.0,
+      "pitch": 43
+     }
+    ]
+   }
+  }
+ ]
+}
