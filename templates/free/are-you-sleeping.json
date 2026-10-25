@@ -1,0 +1,1314 @@
+{
+ "id": "are-you-sleeping",
+ "version": 1,
+ "reviewed": false,
+ "title": "Are You Sleeping (round)",
+ "description": "Frere Jacques as a three-part round: everyone sings the same tune, starting two bars apart, and the harmony happens by itself. The easiest way into singing parts.",
+ "difficulty": "beginner",
+ "genre": [
+  "round",
+  "children's",
+  "folk"
+ ],
+ "tempo": 100,
+ "key": "G",
+ "timeSignature": "4/4",
+ "pickupBeats": 0,
+ "credits": {
+  "words": "traditional English version",
+  "tune": "\"Frere Jacques\", traditional French (published 1780)",
+  "arrangement": "Stackapella (draft round setting)"
+ },
+ "licence": {
+  "words": "public domain: traditional, 19th century",
+  "tune": "public domain: published 1780",
+  "arrangement": "original round setting",
+  "recordings": "synthesized guides",
+  "checked": null
+ },
+ "order": [
+  "voice-1",
+  "voice-2",
+  "voice-3"
+ ],
+ "sections": [
+  {
+   "name": "Voice 1 alone",
+   "startBeat": 0,
+   "endBeat": 8,
+   "phrases": [
+    [
+     0,
+     8
+    ]
+   ]
+  },
+  {
+   "name": "Round",
+   "startBeat": 8,
+   "endBeat": 64,
+   "phrases": [
+    [
+     8,
+     16
+    ],
+    [
+     16,
+     24
+    ],
+    [
+     24,
+     32
+    ],
+    [
+     32,
+     40
+    ],
+    [
+     40,
+     48
+    ],
+    [
+     48,
+     56
+    ],
+    [
+     56,
+     64
+    ]
+   ]
+  },
+  {
+   "name": "Ending",
+   "startBeat": 64,
+   "endBeat": 80,
+   "phrases": [
+    [
+     64,
+     72
+    ],
+    [
+     72,
+     80
+    ]
+   ]
+  }
+ ],
+ "parts": [
+  {
+   "key": "voice-1",
+   "name": "Voice 1",
+   "range": {
+    "low": 62,
+    "high": 76
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "Are",
+      "br": true
+     },
+     {
+      "beat": 1,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 2,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sleep-"
+     },
+     {
+      "beat": 3,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 4,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "are"
+     },
+     {
+      "beat": 5,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 6,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sleep-"
+     },
+     {
+      "beat": 7,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Bro-",
+      "br": true
+     },
+     {
+      "beat": 9,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ther"
+     },
+     {
+      "beat": 10,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "John?"
+     },
+     {
+      "beat": 12,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Bro-"
+     },
+     {
+      "beat": 13,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ther"
+     },
+     {
+      "beat": 14,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "John?"
+     },
+     {
+      "beat": 16,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "Morn-",
+      "br": true
+     },
+     {
+      "beat": 16.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "ing"
+     },
+     {
+      "beat": 17,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "bells"
+     },
+     {
+      "beat": 17.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "are"
+     },
+     {
+      "beat": 18,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ring-"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 20,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "morn-"
+     },
+     {
+      "beat": 20.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "ing"
+     },
+     {
+      "beat": 21,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "bells"
+     },
+     {
+      "beat": 21.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "are"
+     },
+     {
+      "beat": 22,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ring-"
+     },
+     {
+      "beat": 23,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 24,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ding,",
+      "br": true
+     },
+     {
+      "beat": 25,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "dang,"
+     },
+     {
+      "beat": 26,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "dong,"
+     },
+     {
+      "beat": 28,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ding,"
+     },
+     {
+      "beat": 29,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "dang,"
+     },
+     {
+      "beat": 30,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "dong."
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "Are",
+      "br": true
+     },
+     {
+      "beat": 33,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 34,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sleep-"
+     },
+     {
+      "beat": 35,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 36,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "are"
+     },
+     {
+      "beat": 37,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 38,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sleep-"
+     },
+     {
+      "beat": 39,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 40,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Bro-",
+      "br": true
+     },
+     {
+      "beat": 41,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ther"
+     },
+     {
+      "beat": 42,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "John?"
+     },
+     {
+      "beat": 44,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Bro-"
+     },
+     {
+      "beat": 45,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ther"
+     },
+     {
+      "beat": 46,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "John?"
+     },
+     {
+      "beat": 48,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "Morn-",
+      "br": true
+     },
+     {
+      "beat": 48.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "ing"
+     },
+     {
+      "beat": 49,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "bells"
+     },
+     {
+      "beat": 49.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "are"
+     },
+     {
+      "beat": 50,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ring-"
+     },
+     {
+      "beat": 51,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 52,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "morn-"
+     },
+     {
+      "beat": 52.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "ing"
+     },
+     {
+      "beat": 53,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "bells"
+     },
+     {
+      "beat": 53.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "are"
+     },
+     {
+      "beat": 54,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ring-"
+     },
+     {
+      "beat": 55,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 56,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ding,",
+      "br": true
+     },
+     {
+      "beat": 57,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "dang,"
+     },
+     {
+      "beat": 58,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "dong,"
+     },
+     {
+      "beat": 60,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ding,"
+     },
+     {
+      "beat": 61,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "dang,"
+     },
+     {
+      "beat": 62,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "dong."
+     }
+    ]
+   }
+  },
+  {
+   "key": "voice-2",
+   "name": "Voice 2",
+   "range": {
+    "low": 62,
+    "high": 76
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "Are",
+      "br": true
+     },
+     {
+      "beat": 9,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 10,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sleep-"
+     },
+     {
+      "beat": 11,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 12,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "are"
+     },
+     {
+      "beat": 13,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 14,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sleep-"
+     },
+     {
+      "beat": 15,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 16,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Bro-",
+      "br": true
+     },
+     {
+      "beat": 17,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ther"
+     },
+     {
+      "beat": 18,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "John?"
+     },
+     {
+      "beat": 20,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Bro-"
+     },
+     {
+      "beat": 21,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ther"
+     },
+     {
+      "beat": 22,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "John?"
+     },
+     {
+      "beat": 24,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "Morn-",
+      "br": true
+     },
+     {
+      "beat": 24.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "ing"
+     },
+     {
+      "beat": 25,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "bells"
+     },
+     {
+      "beat": 25.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "are"
+     },
+     {
+      "beat": 26,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ring-"
+     },
+     {
+      "beat": 27,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 28,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "morn-"
+     },
+     {
+      "beat": 28.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "ing"
+     },
+     {
+      "beat": 29,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "bells"
+     },
+     {
+      "beat": 29.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "are"
+     },
+     {
+      "beat": 30,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ring-"
+     },
+     {
+      "beat": 31,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ding,",
+      "br": true
+     },
+     {
+      "beat": 33,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "dang,"
+     },
+     {
+      "beat": 34,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "dong,"
+     },
+     {
+      "beat": 36,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ding,"
+     },
+     {
+      "beat": 37,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "dang,"
+     },
+     {
+      "beat": 38,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "dong."
+     },
+     {
+      "beat": 40,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "Are",
+      "br": true
+     },
+     {
+      "beat": 41,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 42,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sleep-"
+     },
+     {
+      "beat": 43,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 44,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "are"
+     },
+     {
+      "beat": 45,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 46,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sleep-"
+     },
+     {
+      "beat": 47,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 48,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Bro-",
+      "br": true
+     },
+     {
+      "beat": 49,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ther"
+     },
+     {
+      "beat": 50,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "John?"
+     },
+     {
+      "beat": 52,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Bro-"
+     },
+     {
+      "beat": 53,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ther"
+     },
+     {
+      "beat": 54,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "John?"
+     },
+     {
+      "beat": 56,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "Morn-",
+      "br": true
+     },
+     {
+      "beat": 56.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "ing"
+     },
+     {
+      "beat": 57,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "bells"
+     },
+     {
+      "beat": 57.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "are"
+     },
+     {
+      "beat": 58,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ring-"
+     },
+     {
+      "beat": 59,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 60,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "morn-"
+     },
+     {
+      "beat": 60.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "ing"
+     },
+     {
+      "beat": 61,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "bells"
+     },
+     {
+      "beat": 61.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "are"
+     },
+     {
+      "beat": 62,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ring-"
+     },
+     {
+      "beat": 63,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 64,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ding,",
+      "br": true
+     },
+     {
+      "beat": 65,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "dang,"
+     },
+     {
+      "beat": 66,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "dong,"
+     },
+     {
+      "beat": 68,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ding,"
+     },
+     {
+      "beat": 69,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "dang,"
+     },
+     {
+      "beat": 70,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "dong."
+     }
+    ]
+   }
+  },
+  {
+   "key": "voice-3",
+   "name": "Voice 3",
+   "range": {
+    "low": 62,
+    "high": 76
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 16,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "Are",
+      "br": true
+     },
+     {
+      "beat": 17,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 18,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sleep-"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 20,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "are"
+     },
+     {
+      "beat": 21,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 22,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sleep-"
+     },
+     {
+      "beat": 23,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 24,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Bro-",
+      "br": true
+     },
+     {
+      "beat": 25,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ther"
+     },
+     {
+      "beat": 26,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "John?"
+     },
+     {
+      "beat": 28,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Bro-"
+     },
+     {
+      "beat": 29,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ther"
+     },
+     {
+      "beat": 30,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "John?"
+     },
+     {
+      "beat": 32,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "Morn-",
+      "br": true
+     },
+     {
+      "beat": 32.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "ing"
+     },
+     {
+      "beat": 33,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "bells"
+     },
+     {
+      "beat": 33.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "are"
+     },
+     {
+      "beat": 34,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ring-"
+     },
+     {
+      "beat": 35,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 36,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "morn-"
+     },
+     {
+      "beat": 36.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "ing"
+     },
+     {
+      "beat": 37,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "bells"
+     },
+     {
+      "beat": 37.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "are"
+     },
+     {
+      "beat": 38,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ring-"
+     },
+     {
+      "beat": 39,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 40,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ding,",
+      "br": true
+     },
+     {
+      "beat": 41,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "dang,"
+     },
+     {
+      "beat": 42,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "dong,"
+     },
+     {
+      "beat": 44,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ding,"
+     },
+     {
+      "beat": 45,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "dang,"
+     },
+     {
+      "beat": 46,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "dong."
+     },
+     {
+      "beat": 48,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "Are",
+      "br": true
+     },
+     {
+      "beat": 49,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 50,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sleep-"
+     },
+     {
+      "beat": 51,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 52,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "are"
+     },
+     {
+      "beat": 53,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "you"
+     },
+     {
+      "beat": 54,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sleep-"
+     },
+     {
+      "beat": 55,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 56,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Bro-",
+      "br": true
+     },
+     {
+      "beat": 57,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ther"
+     },
+     {
+      "beat": 58,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "John?"
+     },
+     {
+      "beat": 60,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Bro-"
+     },
+     {
+      "beat": 61,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ther"
+     },
+     {
+      "beat": 62,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "John?"
+     },
+     {
+      "beat": 64,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "Morn-",
+      "br": true
+     },
+     {
+      "beat": 64.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "ing"
+     },
+     {
+      "beat": 65,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "bells"
+     },
+     {
+      "beat": 65.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "are"
+     },
+     {
+      "beat": 66,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ring-"
+     },
+     {
+      "beat": 67,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 68,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "morn-"
+     },
+     {
+      "beat": 68.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "ing"
+     },
+     {
+      "beat": 69,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "bells"
+     },
+     {
+      "beat": 69.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "are"
+     },
+     {
+      "beat": 70,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ring-"
+     },
+     {
+      "beat": 71,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ing,"
+     },
+     {
+      "beat": 72,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ding,",
+      "br": true
+     },
+     {
+      "beat": 73,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "dang,"
+     },
+     {
+      "beat": 74,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "dong,"
+     },
+     {
+      "beat": 76,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ding,"
+     },
+     {
+      "beat": 77,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "dang,"
+     },
+     {
+      "beat": 78,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "dong."
+     }
+    ]
+   }
+  }
+ ]
+}
