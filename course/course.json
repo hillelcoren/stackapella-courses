@@ -1,0 +1,1182 @@
+{
+ "id": "stackapella-course",
+ "version": 1,
+ "reviewed": false,
+ "title": {
+  "en": "Learn to sing harmony"
+ },
+ "units": [
+  {
+   "id": "find-your-voice",
+   "title": {
+    "en": "Find your voice"
+   },
+   "colour": 1,
+   "lessons": [
+    {
+     "id": "1-comfortable",
+     "title": {
+      "en": "Your comfortable note"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "Every voice has a note that feels easy, not too high and not too low. Hum one, then sing it on \"oo\". There's no wrong note."
+       }
+      },
+      {
+       "kind": "home",
+       "text": {
+        "en": "Sing any note that feels easy, and hold it for a few seconds."
+       }
+      }
+     ],
+     "findsHome": true
+    },
+    {
+     "id": "1-match",
+     "title": {
+      "en": "Match a note"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "Now you'll hear a note. Listen, then sing the same note back. When you match it, it lights up."
+       },
+       "listen": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 3,
+          "step": 0,
+          "lyric": "oo"
+         }
+        ],
+        "turn": false
+       }
+      },
+      {
+       "kind": "try",
+       "text": {
+        "en": "Sing along with the note."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 4,
+          "step": 0,
+          "lyric": "oo"
+         }
+        ],
+        "turn": false
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Listen, then sing it back. One star for trying, more for matching."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 2,
+          "step": 0,
+          "lyric": "oo"
+         },
+         {
+          "beat": 3,
+          "length": 2,
+          "step": 2,
+          "lyric": "oo"
+         },
+         {
+          "beat": 6,
+          "length": 2,
+          "step": -2,
+          "lyric": "oo"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ]
+    },
+    {
+     "id": "1-high-low",
+     "title": {
+      "en": "Higher and lower"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "A note can sit above or below your easy note. Listen for which way it goes before you sing."
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Listen, then sing each note back."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 2,
+          "step": 0,
+          "lyric": "oo"
+         },
+         {
+          "beat": 3,
+          "length": 2,
+          "step": 4,
+          "lyric": "oo"
+         },
+         {
+          "beat": 6,
+          "length": 2,
+          "step": 0,
+          "lyric": "oo"
+         },
+         {
+          "beat": 9,
+          "length": 2,
+          "step": -3,
+          "lyric": "oo"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ]
+    },
+    {
+     "id": "1-breath",
+     "title": {
+      "en": "Breathing for singing"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "Breathe in low, as if filling your belly, shoulders still. Then let the air out slowly on \"sss\" for as long as is comfortable. Breath that's steady gives notes that are steady."
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Breathe in, then hold this long note on \"oo\"."
+       },
+       "exercise": {
+        "tempo": 60,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 6,
+          "step": 0,
+          "lyric": "oo"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ]
+    },
+    {
+     "id": "1-challenge",
+     "title": {
+      "en": "Sing back five notes"
+     },
+     "steps": [
+      {
+       "kind": "play",
+       "text": {
+        "en": "The unit's challenge: listen, then sing all five notes back."
+       },
+       "exercise": {
+        "tempo": 66,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 1,
+          "step": 0,
+          "lyric": "oo"
+         },
+         {
+          "beat": 1,
+          "length": 1,
+          "step": 2,
+          "lyric": "oo"
+         },
+         {
+          "beat": 2,
+          "length": 1,
+          "step": 4,
+          "lyric": "oo"
+         },
+         {
+          "beat": 3,
+          "length": 1,
+          "step": 2,
+          "lyric": "oo"
+         },
+         {
+          "beat": 4,
+          "length": 2,
+          "step": 0,
+          "lyric": "oo"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ],
+     "challenge": true
+    }
+   ]
+  },
+  {
+   "id": "steady-notes",
+   "title": {
+    "en": "Steady notes"
+   },
+   "colour": 2,
+   "lessons": [
+    {
+     "id": "2-hold",
+     "title": {
+      "en": "Hold a note"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "A steady note doesn't wobble or slide. Breathe, start the note cleanly, and keep the air flowing evenly."
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Listen, then hold the note for four beats."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 4,
+          "step": 0,
+          "lyric": "oo"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ]
+    },
+    {
+     "id": "2-drone",
+     "title": {
+      "en": "Against a drone"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "A drone is a note that keeps sounding. Singing against one is how choirs tune: you'll hear the two notes settle together when you're right."
+       },
+       "listen": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 4,
+          "step": 0,
+          "lyric": "oo"
+         }
+        ],
+        "turn": false,
+        "drone": {
+         "step": 0
+        }
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Hold your note with the drone under it."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 6,
+          "step": 0,
+          "lyric": "oo"
+         }
+        ],
+        "turn": false,
+        "drone": {
+         "step": 0
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "2-vowels",
+     "title": {
+      "en": "Vowels"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "Keep the note the same while the vowel changes: \"oo\", \"oh\", \"ah\". Your mouth moves; the pitch stays."
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Listen, then sing the three vowels on one note."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 2,
+          "step": 0,
+          "lyric": "oo"
+         },
+         {
+          "beat": 2,
+          "length": 2,
+          "step": 0,
+          "lyric": "oh"
+         },
+         {
+          "beat": 4,
+          "length": 2,
+          "step": 0,
+          "lyric": "ah"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ]
+    },
+    {
+     "id": "2-challenge",
+     "title": {
+      "en": "Eight beats with the drone"
+     },
+     "steps": [
+      {
+       "kind": "play",
+       "text": {
+        "en": "The unit's challenge: hold your note for eight beats against the drone."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 8,
+          "step": 0,
+          "lyric": "oo"
+         }
+        ],
+        "turn": false,
+        "drone": {
+         "step": 0
+        }
+       }
+      }
+     ],
+     "challenge": true
+    }
+   ]
+  },
+  {
+   "id": "moving-notes",
+   "title": {
+    "en": "Moving notes"
+   },
+   "colour": 3,
+   "lessons": [
+    {
+     "id": "3-steps-up",
+     "title": {
+      "en": "Steps up"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "Most tunes move by step, to the next note up or down. Here's do, re, mi."
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Listen, then sing the steps up."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 1,
+          "step": 0,
+          "lyric": "do"
+         },
+         {
+          "beat": 1,
+          "length": 1,
+          "step": 2,
+          "lyric": "re"
+         },
+         {
+          "beat": 2,
+          "length": 2,
+          "step": 4,
+          "lyric": "mi"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ]
+    },
+    {
+     "id": "3-steps-down",
+     "title": {
+      "en": "Steps down"
+     },
+     "steps": [
+      {
+       "kind": "play",
+       "text": {
+        "en": "Listen, then sing the steps down."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 1,
+          "step": 4,
+          "lyric": "mi"
+         },
+         {
+          "beat": 1,
+          "length": 1,
+          "step": 2,
+          "lyric": "re"
+         },
+         {
+          "beat": 2,
+          "length": 2,
+          "step": 0,
+          "lyric": "do"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ]
+    },
+    {
+     "id": "3-jumps",
+     "title": {
+      "en": "Small jumps"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "A jump skips a note. Hear the landing note in your head before you sing it."
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Listen, then sing the jumps."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 1,
+          "step": 0,
+          "lyric": "do"
+         },
+         {
+          "beat": 1,
+          "length": 1,
+          "step": 4,
+          "lyric": "mi"
+         },
+         {
+          "beat": 2,
+          "length": 1,
+          "step": 7,
+          "lyric": "so"
+         },
+         {
+          "beat": 3,
+          "length": 1,
+          "step": 4,
+          "lyric": "mi"
+         },
+         {
+          "beat": 4,
+          "length": 2,
+          "step": 0,
+          "lyric": "do"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ]
+    },
+    {
+     "id": "3-challenge",
+     "title": {
+      "en": "Ode to Joy's opening"
+     },
+     "steps": [
+      {
+       "kind": "play",
+       "text": {
+        "en": "The unit's challenge: the opening of Ode to Joy, which moves by step. Listen, then sing it."
+       },
+       "exercise": {
+        "tempo": 84,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 1,
+          "step": 4,
+          "lyric": "mi"
+         },
+         {
+          "beat": 1,
+          "length": 1,
+          "step": 4,
+          "lyric": "mi"
+         },
+         {
+          "beat": 2,
+          "length": 1,
+          "step": 5,
+          "lyric": "fa"
+         },
+         {
+          "beat": 3,
+          "length": 1,
+          "step": 7,
+          "lyric": "so"
+         },
+         {
+          "beat": 4,
+          "length": 1,
+          "step": 7,
+          "lyric": "so"
+         },
+         {
+          "beat": 5,
+          "length": 1,
+          "step": 5,
+          "lyric": "fa"
+         },
+         {
+          "beat": 6,
+          "length": 1,
+          "step": 4,
+          "lyric": "mi"
+         },
+         {
+          "beat": 7,
+          "length": 1,
+          "step": 2,
+          "lyric": "re"
+         },
+         {
+          "beat": 8,
+          "length": 1,
+          "step": 0,
+          "lyric": "do"
+         },
+         {
+          "beat": 9,
+          "length": 1,
+          "step": 0,
+          "lyric": "do"
+         },
+         {
+          "beat": 10,
+          "length": 1,
+          "step": 2,
+          "lyric": "re"
+         },
+         {
+          "beat": 11,
+          "length": 1,
+          "step": 4,
+          "lyric": "mi"
+         },
+         {
+          "beat": 12,
+          "length": 1.5,
+          "step": 4,
+          "lyric": "mi"
+         },
+         {
+          "beat": 13.5,
+          "length": 0.5,
+          "step": 2,
+          "lyric": "re"
+         },
+         {
+          "beat": 14,
+          "length": 2,
+          "step": 2,
+          "lyric": "re"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ],
+     "challenge": true
+    }
+   ]
+  },
+  {
+   "id": "singing-a-tune",
+   "title": {
+    "en": "Singing a tune"
+   },
+   "colour": 4,
+   "lessons": [
+    {
+     "id": "4-words",
+     "title": {
+      "en": "Following the words"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "In a song, each word sits on a note. Watch the words light up as you sing."
+       }
+      },
+      {
+       "kind": "use",
+       "text": {
+        "en": "Sing the first line of Amazing Grace with the guide."
+       },
+       "template": "amazing-grace",
+       "singers": 4,
+       "part": "soprano",
+       "phrases": [
+        0
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-phrasing",
+     "title": {
+      "en": "Phrasing"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "A phrase is one breath's worth of song. Breathe at the end of each line, not in the middle of a word."
+       }
+      },
+      {
+       "kind": "use",
+       "text": {
+        "en": "Sing two lines of Amazing Grace, breathing between them."
+       },
+       "template": "amazing-grace",
+       "singers": 4,
+       "part": "soprano",
+       "phrases": [
+        0,
+        1
+       ]
+      }
+     ]
+    },
+    {
+     "id": "4-challenge",
+     "title": {
+      "en": "Amazing Grace, verse 1"
+     },
+     "steps": [
+      {
+       "kind": "record",
+       "text": {
+        "en": "The unit's challenge: record the melody of Amazing Grace, verse 1."
+       },
+       "template": "amazing-grace",
+       "singers": 4,
+       "part": "soprano"
+      }
+     ],
+     "challenge": true
+    }
+   ]
+  },
+  {
+   "id": "first-harmony",
+   "title": {
+    "en": "Your first harmony"
+   },
+   "colour": 5,
+   "lessons": [
+    {
+     "id": "5-drone",
+     "title": {
+      "en": "Hum against a drone"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "Harmony is two notes at once. Hum the drone's note, then the note above it, then the one below, while the drone keeps going."
+       },
+       "listen": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 3,
+          "step": 0,
+          "lyric": "mm"
+         }
+        ],
+        "turn": false,
+        "drone": {
+         "step": 0
+        }
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Sing with the drone: the same note, then above, then below."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 3,
+          "step": 0,
+          "lyric": "mm"
+         },
+         {
+          "beat": 3,
+          "length": 3,
+          "step": 4,
+          "lyric": "mm"
+         },
+         {
+          "beat": 6,
+          "length": 3,
+          "step": -3,
+          "lyric": "mm"
+         }
+        ],
+        "turn": false,
+        "drone": {
+         "step": 0
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "5-third",
+     "title": {
+      "en": "Find the third"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "A third is the sweetest harmony: two notes, one step apart on paper, that ring together. Listen to a note, then the third above it."
+       },
+       "listen": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 2,
+          "step": 0,
+          "lyric": "oo"
+         },
+         {
+          "beat": 2,
+          "length": 2,
+          "step": 4,
+          "lyric": "oo"
+         }
+        ],
+        "turn": false
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "A note plays: sing the third above it while it keeps sounding."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 4,
+          "step": 4,
+          "lyric": "oo"
+         }
+        ],
+        "turn": false,
+        "drone": {
+         "step": 0
+        }
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Now the third below."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 4,
+          "step": -3,
+          "lyric": "oo"
+         }
+        ],
+        "turn": false,
+        "drone": {
+         "step": 0
+        }
+       }
+      }
+     ]
+    },
+    {
+     "id": "5-round",
+     "title": {
+      "en": "A round"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "In a round, everyone sings the same tune, starting at different times. The harmony happens by itself."
+       }
+      },
+      {
+       "kind": "use",
+       "text": {
+        "en": "Learn the 2nd voice of Are You Sleeping, which starts two bars after the 1st."
+       },
+       "template": "are-you-sleeping",
+       "singers": 2,
+       "part": "alto"
+      }
+     ]
+    },
+    {
+     "id": "5-thirds",
+     "title": {
+      "en": "Two parts in thirds"
+     },
+     "steps": [
+      {
+       "kind": "use",
+       "text": {
+        "en": "Learn the alto of Michael, Row the Boat Ashore, a third below the tune."
+       },
+       "template": "michael-row",
+       "singers": 2,
+       "part": "alto"
+      }
+     ]
+    },
+    {
+     "id": "5-challenge",
+     "title": {
+      "en": "Record the round's 2nd voice"
+     },
+     "steps": [
+      {
+       "kind": "record",
+       "text": {
+        "en": "The unit's challenge: record the 2nd voice of Are You Sleeping."
+       },
+       "template": "are-you-sleeping",
+       "singers": 2,
+       "part": "alto"
+      }
+     ],
+     "challenge": true
+    }
+   ]
+  },
+  {
+   "id": "low-and-inner",
+   "title": {
+    "en": "Low and inner voices"
+   },
+   "colour": 6,
+   "lessons": [
+    {
+     "id": "6-bass",
+     "title": {
+      "en": "The bass line"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "The bass sings the chord's roots, the floor the others stand on. It moves less, and sings \"oo\"."
+       }
+      },
+      {
+       "kind": "use",
+       "text": {
+        "en": "Learn the bass of Amazing Grace, for 3 singers."
+       },
+       "template": "amazing-grace",
+       "singers": 3,
+       "part": "bass"
+      }
+     ]
+    },
+    {
+     "id": "6-tenor",
+     "title": {
+      "en": "The tenor"
+     },
+     "steps": [
+      {
+       "kind": "use",
+       "text": {
+        "en": "Learn the tenor of Amazing Grace, the inner voice that fills the chord."
+       },
+       "template": "amazing-grace",
+       "singers": 4,
+       "part": "tenor"
+      }
+     ]
+    },
+    {
+     "id": "6-hold",
+     "title": {
+      "en": "Hold your note"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "Holding your note while the harmony moves around you is the heart of singing a part. The chords change; your note stays."
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Hold your note as the chords move."
+       },
+       "exercise": {
+        "tempo": 66,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 8,
+          "step": 0,
+          "lyric": "oo"
+         }
+        ],
+        "turn": false,
+        "chords": [
+         {
+          "beat": 0,
+          "root": 0,
+          "quality": "maj",
+          "bass": null
+         },
+         {
+          "beat": 2,
+          "root": 5,
+          "quality": "maj",
+          "bass": 0
+         },
+         {
+          "beat": 4,
+          "root": 9,
+          "quality": "min",
+          "bass": null
+         },
+         {
+          "beat": 6,
+          "root": 0,
+          "quality": "maj",
+          "bass": null
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "6-challenge",
+     "title": {
+      "en": "Record the bass of Amazing Grace"
+     },
+     "steps": [
+      {
+       "kind": "record",
+       "text": {
+        "en": "The unit's challenge: record the bass of Amazing Grace."
+       },
+       "template": "amazing-grace",
+       "singers": 3,
+       "part": "bass"
+      }
+     ],
+     "challenge": true
+    }
+   ]
+  },
+  {
+   "id": "whole-song",
+   "title": {
+    "en": "The whole song is you"
+   },
+   "colour": 7,
+   "lessons": [
+    {
+     "id": "7-blend",
+     "title": {
+      "en": "Hearing the blend"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "When every part is your voice, listen to how they sit together. A part that's too loud or late stands out; nudge and balance it in the studio."
+       }
+      },
+      {
+       "kind": "use",
+       "text": {
+        "en": "Sing the alto of Amazing Grace with the other parts."
+       },
+       "template": "amazing-grace",
+       "singers": 4,
+       "part": "alto"
+      }
+     ]
+    },
+    {
+     "id": "7-challenge",
+     "title": {
+      "en": "All four parts of Amazing Grace"
+     },
+     "steps": [
+      {
+       "kind": "record",
+       "text": {
+        "en": "The unit's challenge: record all four parts of Amazing Grace, one at a time."
+       },
+       "template": "amazing-grace",
+       "singers": 4,
+       "part": "all"
+      }
+     ],
+     "challenge": true
+    }
+   ]
+  },
+  {
+   "id": "expression",
+   "title": {
+    "en": "Expression"
+   },
+   "colour": 8,
+   "plus": true,
+   "lessons": [
+    {
+     "id": "8-dynamics",
+     "title": {
+      "en": "Loud and soft"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "Expression is how you sing, not just which notes: getting softer at the end of a line, warmer on a long note."
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Sing this phrase, starting strong and ending soft."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 2,
+          "step": 0,
+          "lyric": "oo"
+         },
+         {
+          "beat": 2,
+          "length": 2,
+          "step": 2,
+          "lyric": "oo"
+         },
+         {
+          "beat": 4,
+          "length": 4,
+          "step": 0,
+          "lyric": "oo"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
