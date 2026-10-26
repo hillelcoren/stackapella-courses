@@ -1,0 +1,2193 @@
+{
+ "id": "swing-low",
+ "version": 1,
+ "reviewed": false,
+ "title": "Swing Low, Sweet Chariot",
+ "description": "The spiritual, for 2 to 4 singers: the chorus, the first verse and the chorus again. The soprano sings the melody, the alto and tenor sing the words beneath it, and the bass holds the roots on \"oo\". Warm and unhurried.",
+ "language": "en",
+ "difficulty": "beginner",
+ "genre": [
+  "spiritual",
+  "gospel"
+ ],
+ "tempo": 76,
+ "key": "G",
+ "timeSignature": "4/4",
+ "pickupBeats": 0,
+ "credits": {
+  "words": "traditional spiritual, attributed to Wallace Willis (published 1872)",
+  "tune": "traditional spiritual (published 1872)",
+  "arrangement": "Stackapella (draft)"
+ },
+ "licence": {
+  "words": "public domain: traditional, published 1872 (Jubilee Songs, Fisk Jubilee Singers)",
+  "tune": "public domain: traditional, published 1872",
+  "arrangement": "original, written for Stackapella",
+  "recordings": "synthesized guides",
+  "checked": null,
+  "source": "history in Wikipedia, \"Swing Low, Sweet Chariot\"; melody checked against the traditional John C. Campbell Folk School Song Book transcription on abcnotation.com"
+ },
+ "order": [
+  "soprano",
+  "bass",
+  "alto",
+  "tenor"
+ ],
+ "voicings": {
+  "2": [
+   "soprano",
+   "alto"
+  ],
+  "3": [
+   "soprano",
+   "alto",
+   "bass"
+  ],
+  "4": [
+   "soprano",
+   "alto",
+   "tenor",
+   "bass"
+  ]
+ },
+ "sections": [
+  {
+   "name": "Chorus",
+   "startBeat": 0,
+   "endBeat": 31,
+   "phrases": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     16
+    ],
+    [
+     16,
+     24
+    ],
+    [
+     24,
+     31
+    ]
+   ]
+  },
+  {
+   "name": "Verse 1",
+   "startBeat": 31,
+   "endBeat": 64,
+   "phrases": [
+    [
+     31,
+     40
+    ],
+    [
+     40,
+     47
+    ],
+    [
+     47,
+     56
+    ],
+    [
+     56,
+     64
+    ]
+   ]
+  },
+  {
+   "name": "Chorus",
+   "startBeat": 64,
+   "endBeat": 96,
+   "phrases": [
+    [
+     64,
+     72
+    ],
+    [
+     72,
+     80
+    ],
+    [
+     80,
+     88
+    ],
+    [
+     88,
+     96
+    ]
+   ]
+  }
+ ],
+ "parts": [
+  {
+   "key": "soprano",
+   "name": "Soprano",
+   "melody": true,
+   "range": {
+    "low": 62,
+    "high": 76
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Swing",
+      "br": true
+     },
+     {
+      "beat": 1,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "low,"
+     },
+     {
+      "beat": 3,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 4,
+      "length": 1.5,
+      "pitch": 67,
+      "lyric": "char-"
+     },
+     {
+      "beat": 5.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "i-"
+     },
+     {
+      "beat": 6,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "ot,"
+     },
+     {
+      "beat": 6.5,
+      "length": 1.5,
+      "pitch": 62
+     },
+     {
+      "beat": 8,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 8.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ing"
+     },
+     {
+      "beat": 9,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "for"
+     },
+     {
+      "beat": 9.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "to"
+     },
+     {
+      "beat": 10,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "car-"
+     },
+     {
+      "beat": 10.5,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "ry"
+     },
+     {
+      "beat": 11,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "me"
+     },
+     {
+      "beat": 12,
+      "length": 4,
+      "pitch": 74,
+      "lyric": "home."
+     },
+     {
+      "beat": 16,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "Swing",
+      "br": true
+     },
+     {
+      "beat": 16.5,
+      "length": 0.5,
+      "pitch": 74
+     },
+     {
+      "beat": 17,
+      "length": 2,
+      "pitch": 71,
+      "lyric": "low,"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 20,
+      "length": 1.5,
+      "pitch": 67,
+      "lyric": "char-"
+     },
+     {
+      "beat": 21.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "i-"
+     },
+     {
+      "beat": 22,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "ot,"
+     },
+     {
+      "beat": 22.5,
+      "length": 1.5,
+      "pitch": 62
+     },
+     {
+      "beat": 24,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 24.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ing"
+     },
+     {
+      "beat": 25,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "for"
+     },
+     {
+      "beat": 25.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "to"
+     },
+     {
+      "beat": 26,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "car-"
+     },
+     {
+      "beat": 26.5,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "ry"
+     },
+     {
+      "beat": 27,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "me"
+     },
+     {
+      "beat": 28,
+      "length": 3,
+      "pitch": 67,
+      "lyric": "home."
+     },
+     {
+      "beat": 31,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "I",
+      "br": true
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "looked"
+     },
+     {
+      "beat": 33,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "o-"
+     },
+     {
+      "beat": 33.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ver"
+     },
+     {
+      "beat": 34,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "Jor-"
+     },
+     {
+      "beat": 35,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "dan,"
+     },
+     {
+      "beat": 35.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "and"
+     },
+     {
+      "beat": 36,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "what"
+     },
+     {
+      "beat": 36.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "did"
+     },
+     {
+      "beat": 37,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "I"
+     },
+     {
+      "beat": 38,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "see,"
+     },
+     {
+      "beat": 38.5,
+      "length": 1.5,
+      "pitch": 62
+     },
+     {
+      "beat": 40,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 40.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ing"
+     },
+     {
+      "beat": 41,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "for"
+     },
+     {
+      "beat": 41.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "to"
+     },
+     {
+      "beat": 42,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "car-"
+     },
+     {
+      "beat": 42.5,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "ry"
+     },
+     {
+      "beat": 43,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "me"
+     },
+     {
+      "beat": 44,
+      "length": 3,
+      "pitch": 74,
+      "lyric": "home."
+     },
+     {
+      "beat": 47,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "A",
+      "br": true
+     },
+     {
+      "beat": 48,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "band"
+     },
+     {
+      "beat": 48.5,
+      "length": 0.5,
+      "pitch": 74
+     },
+     {
+      "beat": 49,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "of"
+     },
+     {
+      "beat": 50,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "an-"
+     },
+     {
+      "beat": 51,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "gels"
+     },
+     {
+      "beat": 52,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "com-"
+     },
+     {
+      "beat": 52.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ing"
+     },
+     {
+      "beat": 53,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "af-"
+     },
+     {
+      "beat": 53.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ter"
+     },
+     {
+      "beat": 54,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "me,"
+     },
+     {
+      "beat": 54.5,
+      "length": 1.5,
+      "pitch": 62
+     },
+     {
+      "beat": 56,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 56.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ing"
+     },
+     {
+      "beat": 57,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "for"
+     },
+     {
+      "beat": 57.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "to"
+     },
+     {
+      "beat": 58,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "car-"
+     },
+     {
+      "beat": 58.5,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "ry"
+     },
+     {
+      "beat": 59,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "me"
+     },
+     {
+      "beat": 60,
+      "length": 4,
+      "pitch": 67,
+      "lyric": "home."
+     },
+     {
+      "beat": 64,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Swing",
+      "br": true
+     },
+     {
+      "beat": 65,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "low,"
+     },
+     {
+      "beat": 67,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 68,
+      "length": 1.5,
+      "pitch": 67,
+      "lyric": "char-"
+     },
+     {
+      "beat": 69.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "i-"
+     },
+     {
+      "beat": 70,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "ot,"
+     },
+     {
+      "beat": 70.5,
+      "length": 1.5,
+      "pitch": 62
+     },
+     {
+      "beat": 72,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 72.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ing"
+     },
+     {
+      "beat": 73,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "for"
+     },
+     {
+      "beat": 73.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "to"
+     },
+     {
+      "beat": 74,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "car-"
+     },
+     {
+      "beat": 74.5,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "ry"
+     },
+     {
+      "beat": 75,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "me"
+     },
+     {
+      "beat": 76,
+      "length": 4,
+      "pitch": 74,
+      "lyric": "home."
+     },
+     {
+      "beat": 80,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "Swing",
+      "br": true
+     },
+     {
+      "beat": 80.5,
+      "length": 0.5,
+      "pitch": 74
+     },
+     {
+      "beat": 81,
+      "length": 2,
+      "pitch": 71,
+      "lyric": "low,"
+     },
+     {
+      "beat": 83,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 84,
+      "length": 1.5,
+      "pitch": 67,
+      "lyric": "char-"
+     },
+     {
+      "beat": 85.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "i-"
+     },
+     {
+      "beat": 86,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "ot,"
+     },
+     {
+      "beat": 86.5,
+      "length": 1.5,
+      "pitch": 62
+     },
+     {
+      "beat": 88,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 88.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ing"
+     },
+     {
+      "beat": 89,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "for"
+     },
+     {
+      "beat": 89.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "to"
+     },
+     {
+      "beat": 90,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "car-"
+     },
+     {
+      "beat": 90.5,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "ry"
+     },
+     {
+      "beat": 91,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "me"
+     },
+     {
+      "beat": 92,
+      "length": 4,
+      "pitch": 67,
+      "lyric": "home."
+     }
+    ]
+   }
+  },
+  {
+   "key": "alto",
+   "name": "Alto",
+   "range": {
+    "low": 59,
+    "high": 67
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "Swing",
+      "br": true
+     },
+     {
+      "beat": 1,
+      "length": 2,
+      "pitch": 62,
+      "lyric": "low,"
+     },
+     {
+      "beat": 3,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 4,
+      "length": 1.5,
+      "pitch": 64,
+      "lyric": "char-"
+     },
+     {
+      "beat": 5.5,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "i-"
+     },
+     {
+      "beat": 6,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ot,"
+     },
+     {
+      "beat": 6.5,
+      "length": 1.5,
+      "pitch": 59
+     },
+     {
+      "beat": 8,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 8.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ing"
+     },
+     {
+      "beat": 9,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "for"
+     },
+     {
+      "beat": 9.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "to"
+     },
+     {
+      "beat": 10,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "car-"
+     },
+     {
+      "beat": 10.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ry"
+     },
+     {
+      "beat": 11,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "me"
+     },
+     {
+      "beat": 12,
+      "length": 4,
+      "pitch": 66,
+      "lyric": "home."
+     },
+     {
+      "beat": 16,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "Swing",
+      "br": true
+     },
+     {
+      "beat": 17,
+      "length": 2,
+      "pitch": 62,
+      "lyric": "low,"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 20,
+      "length": 1.5,
+      "pitch": 64,
+      "lyric": "char-"
+     },
+     {
+      "beat": 21.5,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "i-"
+     },
+     {
+      "beat": 22,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ot,"
+     },
+     {
+      "beat": 22.5,
+      "length": 1.5,
+      "pitch": 59
+     },
+     {
+      "beat": 24,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 24.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ing"
+     },
+     {
+      "beat": 25,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "for"
+     },
+     {
+      "beat": 25.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "to"
+     },
+     {
+      "beat": 26,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "car-"
+     },
+     {
+      "beat": 26.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ry"
+     },
+     {
+      "beat": 27,
+      "length": 1,
+      "pitch": 66,
+      "lyric": "me"
+     },
+     {
+      "beat": 28,
+      "length": 3,
+      "pitch": 62,
+      "lyric": "home."
+     },
+     {
+      "beat": 31,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "I",
+      "br": true
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "looked"
+     },
+     {
+      "beat": 33,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "o-"
+     },
+     {
+      "beat": 33.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ver"
+     },
+     {
+      "beat": 34,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "Jor-"
+     },
+     {
+      "beat": 35,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "dan,"
+     },
+     {
+      "beat": 35.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "and"
+     },
+     {
+      "beat": 36,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "what"
+     },
+     {
+      "beat": 36.5,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "did"
+     },
+     {
+      "beat": 37,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "I"
+     },
+     {
+      "beat": 38,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "see,"
+     },
+     {
+      "beat": 38.5,
+      "length": 1.5,
+      "pitch": 59
+     },
+     {
+      "beat": 40,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 40.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ing"
+     },
+     {
+      "beat": 41,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "for"
+     },
+     {
+      "beat": 41.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "to"
+     },
+     {
+      "beat": 42,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "car-"
+     },
+     {
+      "beat": 42.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ry"
+     },
+     {
+      "beat": 43,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "me"
+     },
+     {
+      "beat": 44,
+      "length": 3,
+      "pitch": 66,
+      "lyric": "home."
+     },
+     {
+      "beat": 47,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "A",
+      "br": true
+     },
+     {
+      "beat": 48,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "band"
+     },
+     {
+      "beat": 49,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "of"
+     },
+     {
+      "beat": 50,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "an-"
+     },
+     {
+      "beat": 51,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "gels"
+     },
+     {
+      "beat": 52,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "com-"
+     },
+     {
+      "beat": 52.5,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "ing"
+     },
+     {
+      "beat": 53,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "af-"
+     },
+     {
+      "beat": 53.5,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "ter"
+     },
+     {
+      "beat": 54,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "me,"
+     },
+     {
+      "beat": 54.5,
+      "length": 1.5,
+      "pitch": 59
+     },
+     {
+      "beat": 56,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 56.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ing"
+     },
+     {
+      "beat": 57,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "for"
+     },
+     {
+      "beat": 57.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "to"
+     },
+     {
+      "beat": 58,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "car-"
+     },
+     {
+      "beat": 58.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ry"
+     },
+     {
+      "beat": 59,
+      "length": 1,
+      "pitch": 66,
+      "lyric": "me"
+     },
+     {
+      "beat": 60,
+      "length": 4,
+      "pitch": 62,
+      "lyric": "home."
+     },
+     {
+      "beat": 64,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "Swing",
+      "br": true
+     },
+     {
+      "beat": 65,
+      "length": 2,
+      "pitch": 62,
+      "lyric": "low,"
+     },
+     {
+      "beat": 67,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 68,
+      "length": 1.5,
+      "pitch": 64,
+      "lyric": "char-"
+     },
+     {
+      "beat": 69.5,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "i-"
+     },
+     {
+      "beat": 70,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ot,"
+     },
+     {
+      "beat": 70.5,
+      "length": 1.5,
+      "pitch": 59
+     },
+     {
+      "beat": 72,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 72.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ing"
+     },
+     {
+      "beat": 73,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "for"
+     },
+     {
+      "beat": 73.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "to"
+     },
+     {
+      "beat": 74,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "car-"
+     },
+     {
+      "beat": 74.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ry"
+     },
+     {
+      "beat": 75,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "me"
+     },
+     {
+      "beat": 76,
+      "length": 4,
+      "pitch": 66,
+      "lyric": "home."
+     },
+     {
+      "beat": 80,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "Swing",
+      "br": true
+     },
+     {
+      "beat": 81,
+      "length": 2,
+      "pitch": 62,
+      "lyric": "low,"
+     },
+     {
+      "beat": 83,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 84,
+      "length": 1.5,
+      "pitch": 64,
+      "lyric": "char-"
+     },
+     {
+      "beat": 85.5,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "i-"
+     },
+     {
+      "beat": 86,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ot,"
+     },
+     {
+      "beat": 86.5,
+      "length": 1.5,
+      "pitch": 59
+     },
+     {
+      "beat": 88,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 88.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ing"
+     },
+     {
+      "beat": 89,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "for"
+     },
+     {
+      "beat": 89.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "to"
+     },
+     {
+      "beat": 90,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "car-"
+     },
+     {
+      "beat": 90.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ry"
+     },
+     {
+      "beat": 91,
+      "length": 1,
+      "pitch": 66,
+      "lyric": "me"
+     },
+     {
+      "beat": 92,
+      "length": 4,
+      "pitch": 62,
+      "lyric": "home."
+     }
+    ]
+   }
+  },
+  {
+   "key": "tenor",
+   "name": "Tenor",
+   "range": {
+    "low": 55,
+    "high": 60
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "Swing",
+      "br": true
+     },
+     {
+      "beat": 1,
+      "length": 2,
+      "pitch": 59,
+      "lyric": "low,"
+     },
+     {
+      "beat": 3,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 4,
+      "length": 1.5,
+      "pitch": 60,
+      "lyric": "char-"
+     },
+     {
+      "beat": 5.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "i-"
+     },
+     {
+      "beat": 6,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "ot,"
+     },
+     {
+      "beat": 8,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 8.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ing"
+     },
+     {
+      "beat": 9,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "for"
+     },
+     {
+      "beat": 9.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "to"
+     },
+     {
+      "beat": 10,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "car-"
+     },
+     {
+      "beat": 10.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ry"
+     },
+     {
+      "beat": 11,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "me"
+     },
+     {
+      "beat": 12,
+      "length": 4,
+      "pitch": 57,
+      "lyric": "home."
+     },
+     {
+      "beat": 16,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "Swing",
+      "br": true
+     },
+     {
+      "beat": 17,
+      "length": 2,
+      "pitch": 59,
+      "lyric": "low,"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 20,
+      "length": 1.5,
+      "pitch": 60,
+      "lyric": "char-"
+     },
+     {
+      "beat": 21.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "i-"
+     },
+     {
+      "beat": 22,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "ot,"
+     },
+     {
+      "beat": 24,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 24.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ing"
+     },
+     {
+      "beat": 25,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "for"
+     },
+     {
+      "beat": 25.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "to"
+     },
+     {
+      "beat": 26,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "car-"
+     },
+     {
+      "beat": 26.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ry"
+     },
+     {
+      "beat": 27,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "me"
+     },
+     {
+      "beat": 28,
+      "length": 3,
+      "pitch": 59,
+      "lyric": "home."
+     },
+     {
+      "beat": 31,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "I",
+      "br": true
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "looked"
+     },
+     {
+      "beat": 33,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "o-"
+     },
+     {
+      "beat": 33.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ver"
+     },
+     {
+      "beat": 34,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "Jor-"
+     },
+     {
+      "beat": 35,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "dan,"
+     },
+     {
+      "beat": 35.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "and"
+     },
+     {
+      "beat": 36,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "what"
+     },
+     {
+      "beat": 36.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "did"
+     },
+     {
+      "beat": 37,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "I"
+     },
+     {
+      "beat": 38,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "see,"
+     },
+     {
+      "beat": 40,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 40.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ing"
+     },
+     {
+      "beat": 41,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "for"
+     },
+     {
+      "beat": 41.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "to"
+     },
+     {
+      "beat": 42,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "car-"
+     },
+     {
+      "beat": 42.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ry"
+     },
+     {
+      "beat": 43,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "me"
+     },
+     {
+      "beat": 44,
+      "length": 3,
+      "pitch": 57,
+      "lyric": "home."
+     },
+     {
+      "beat": 47,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "A",
+      "br": true
+     },
+     {
+      "beat": 48,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "band"
+     },
+     {
+      "beat": 49,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "of"
+     },
+     {
+      "beat": 50,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "an-"
+     },
+     {
+      "beat": 51,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "gels"
+     },
+     {
+      "beat": 52,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "com-"
+     },
+     {
+      "beat": 52.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ing"
+     },
+     {
+      "beat": 53,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "af-"
+     },
+     {
+      "beat": 53.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ter"
+     },
+     {
+      "beat": 54,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "me,"
+     },
+     {
+      "beat": 56,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 56.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ing"
+     },
+     {
+      "beat": 57,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "for"
+     },
+     {
+      "beat": 57.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "to"
+     },
+     {
+      "beat": 58,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "car-"
+     },
+     {
+      "beat": 58.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ry"
+     },
+     {
+      "beat": 59,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "me"
+     },
+     {
+      "beat": 60,
+      "length": 4,
+      "pitch": 59,
+      "lyric": "home."
+     },
+     {
+      "beat": 64,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "Swing",
+      "br": true
+     },
+     {
+      "beat": 65,
+      "length": 2,
+      "pitch": 59,
+      "lyric": "low,"
+     },
+     {
+      "beat": 67,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 68,
+      "length": 1.5,
+      "pitch": 60,
+      "lyric": "char-"
+     },
+     {
+      "beat": 69.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "i-"
+     },
+     {
+      "beat": 70,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "ot,"
+     },
+     {
+      "beat": 72,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 72.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ing"
+     },
+     {
+      "beat": 73,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "for"
+     },
+     {
+      "beat": 73.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "to"
+     },
+     {
+      "beat": 74,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "car-"
+     },
+     {
+      "beat": 74.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ry"
+     },
+     {
+      "beat": 75,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "me"
+     },
+     {
+      "beat": 76,
+      "length": 4,
+      "pitch": 57,
+      "lyric": "home."
+     },
+     {
+      "beat": 80,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "Swing",
+      "br": true
+     },
+     {
+      "beat": 81,
+      "length": 2,
+      "pitch": 59,
+      "lyric": "low,"
+     },
+     {
+      "beat": 83,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "sweet"
+     },
+     {
+      "beat": 84,
+      "length": 1.5,
+      "pitch": 60,
+      "lyric": "char-"
+     },
+     {
+      "beat": 85.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "i-"
+     },
+     {
+      "beat": 86,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "ot,"
+     },
+     {
+      "beat": 88,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "Com-",
+      "br": true
+     },
+     {
+      "beat": 88.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ing"
+     },
+     {
+      "beat": 89,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "for"
+     },
+     {
+      "beat": 89.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "to"
+     },
+     {
+      "beat": 90,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "car-"
+     },
+     {
+      "beat": 90.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "ry"
+     },
+     {
+      "beat": 91,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "me"
+     },
+     {
+      "beat": 92,
+      "length": 4,
+      "pitch": 59,
+      "lyric": "home."
+     }
+    ]
+   }
+  },
+  {
+   "key": "bass",
+   "name": "Bass",
+   "range": {
+    "low": 43,
+    "high": 52
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 4,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 4,
+      "length": 2.5,
+      "pitch": 48
+     },
+     {
+      "beat": 6.5,
+      "length": 1.5,
+      "pitch": 43
+     },
+     {
+      "beat": 8,
+      "length": 4,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 12,
+      "length": 4,
+      "pitch": 50
+     },
+     {
+      "beat": 16,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 17,
+      "length": 2,
+      "pitch": 43
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 50
+     },
+     {
+      "beat": 20,
+      "length": 2.5,
+      "pitch": 48
+     },
+     {
+      "beat": 22.5,
+      "length": 1.5,
+      "pitch": 43
+     },
+     {
+      "beat": 24,
+      "length": 3,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 27,
+      "length": 1,
+      "pitch": 50
+     },
+     {
+      "beat": 28,
+      "length": 4,
+      "pitch": 43
+     },
+     {
+      "beat": 32,
+      "length": 4,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 36,
+      "length": 2.5,
+      "pitch": 48
+     },
+     {
+      "beat": 38.5,
+      "length": 1.5,
+      "pitch": 43
+     },
+     {
+      "beat": 40,
+      "length": 4,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 44,
+      "length": 3,
+      "pitch": 50
+     },
+     {
+      "beat": 47,
+      "length": 1,
+      "pitch": 43
+     },
+     {
+      "beat": 48,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 49,
+      "length": 1,
+      "pitch": 43
+     },
+     {
+      "beat": 50,
+      "length": 1,
+      "pitch": 47
+     },
+     {
+      "beat": 51,
+      "length": 1,
+      "pitch": 52
+     },
+     {
+      "beat": 52,
+      "length": 2.5,
+      "pitch": 48
+     },
+     {
+      "beat": 54.5,
+      "length": 1.5,
+      "pitch": 43
+     },
+     {
+      "beat": 56,
+      "length": 3,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 59,
+      "length": 1,
+      "pitch": 50
+     },
+     {
+      "beat": 60,
+      "length": 4,
+      "pitch": 43
+     },
+     {
+      "beat": 64,
+      "length": 4,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 68,
+      "length": 2.5,
+      "pitch": 48
+     },
+     {
+      "beat": 70.5,
+      "length": 1.5,
+      "pitch": 43
+     },
+     {
+      "beat": 72,
+      "length": 4,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 76,
+      "length": 4,
+      "pitch": 50
+     },
+     {
+      "beat": 80,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 81,
+      "length": 2,
+      "pitch": 43
+     },
+     {
+      "beat": 83,
+      "length": 1,
+      "pitch": 50
+     },
+     {
+      "beat": 84,
+      "length": 2.5,
+      "pitch": 48
+     },
+     {
+      "beat": 86.5,
+      "length": 1.5,
+      "pitch": 43
+     },
+     {
+      "beat": 88,
+      "length": 3,
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 91,
+      "length": 1,
+      "pitch": 50
+     },
+     {
+      "beat": 92,
+      "length": 4,
+      "pitch": 43
+     }
+    ]
+   }
+  }
+ ]
+}

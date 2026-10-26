@@ -1,0 +1,850 @@
+{
+ "id": "scarborough-fair",
+ "version": 1,
+ "reviewed": false,
+ "title": "Scarborough Fair",
+ "description": "The old English ballad in its haunting Dorian tune, for 2 to 4 singers: the soprano sings the melody, the alto and tenor move gently beneath it, and the bass holds the roots on \"oo\".",
+ "difficulty": "beginner",
+ "genre": [
+  "folk",
+  "ballad"
+ ],
+ "tempo": 84,
+ "key": "Em",
+ "timeSignature": "3/4",
+ "pickupBeats": 0,
+ "language": "en",
+ "credits": {
+  "words": "traditional English ballad",
+  "tune": "traditional English",
+  "arrangement": "Stackapella (draft)"
+ },
+ "licence": {
+  "words": "public domain: traditional English ballad (a form of \"The Elfin Knight\", Child 2), printed by 1891",
+  "tune": "public domain: traditional English (the Dorian tune from the Yorkshire Dales)",
+  "arrangement": "original, written for Stackapella",
+  "recordings": "synthesized guides",
+  "source": "melody and words from the score in Wikipedia, \"Scarborough Fair (ballad)\" (the version commonly used today), moved up a tone to E",
+  "checked": null
+ },
+ "order": [
+  "soprano",
+  "bass",
+  "alto",
+  "tenor"
+ ],
+ "sections": [
+  {
+   "name": "Verse 1",
+   "startBeat": 0,
+   "endBeat": 48,
+   "phrases": [
+    [
+     0,
+     12
+    ],
+    [
+     12,
+     23
+    ],
+    [
+     23,
+     36
+    ],
+    [
+     36,
+     48
+    ]
+   ]
+  }
+ ],
+ "parts": [
+  {
+   "key": "soprano",
+   "name": "Soprano",
+   "range": {
+    "low": 62,
+    "high": 76
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 2,
+      "pitch": 64,
+      "lyric": "Are",
+      "br": true
+     },
+     {
+      "beat": 2,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "you"
+     },
+     {
+      "beat": 3,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "go-"
+     },
+     {
+      "beat": 3.5,
+      "length": 1.5,
+      "pitch": 71,
+      "lyric": "ing"
+     },
+     {
+      "beat": 5,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "to"
+     },
+     {
+      "beat": 6,
+      "length": 1.5,
+      "pitch": 66,
+      "lyric": "Scar-"
+     },
+     {
+      "beat": 7.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "bor-"
+     },
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 66,
+      "lyric": "ough"
+     },
+     {
+      "beat": 9,
+      "length": 3,
+      "pitch": 64,
+      "lyric": "Fair?"
+     },
+     {
+      "beat": 13,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "Pars-",
+      "br": true
+     },
+     {
+      "beat": 14,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "ley,"
+     },
+     {
+      "beat": 15,
+      "length": 2,
+      "pitch": 76,
+      "lyric": "sage,"
+     },
+     {
+      "beat": 17,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "rose-"
+     },
+     {
+      "beat": 18,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "ma-"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 73,
+      "lyric": "ry"
+     },
+     {
+      "beat": 20,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "and"
+     },
+     {
+      "beat": 21,
+      "length": 2,
+      "pitch": 71,
+      "lyric": "thyme."
+     },
+     {
+      "beat": 23,
+      "length": 1,
+      "pitch": 76,
+      "lyric": "Re-",
+      "br": true
+     },
+     {
+      "beat": 24,
+      "length": 2,
+      "pitch": 76,
+      "lyric": "mem-"
+     },
+     {
+      "beat": 26,
+      "length": 1,
+      "pitch": 76,
+      "lyric": "ber"
+     },
+     {
+      "beat": 27,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "me"
+     },
+     {
+      "beat": 29,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "to"
+     },
+     {
+      "beat": 30,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "one"
+     },
+     {
+      "beat": 31,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "who"
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "lives"
+     },
+     {
+      "beat": 33,
+      "length": 3,
+      "pitch": 66,
+      "lyric": "there,"
+     },
+     {
+      "beat": 36,
+      "length": 2,
+      "pitch": 64,
+      "lyric": "She",
+      "br": true
+     },
+     {
+      "beat": 38,
+      "length": 1,
+      "pitch": 71,
+      "lyric": "once"
+     },
+     {
+      "beat": 39,
+      "length": 2,
+      "pitch": 69,
+      "lyric": "was"
+     },
+     {
+      "beat": 41,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "a"
+     },
+     {
+      "beat": 42,
+      "length": 1,
+      "pitch": 66,
+      "lyric": "true"
+     },
+     {
+      "beat": 43,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "love"
+     },
+     {
+      "beat": 44,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "of"
+     },
+     {
+      "beat": 45,
+      "length": 3,
+      "pitch": 64,
+      "lyric": "mine."
+     }
+    ]
+   },
+   "melody": true
+  },
+  {
+   "key": "alto",
+   "name": "Alto",
+   "range": {
+    "low": 57,
+    "high": 71
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 2,
+      "pitch": 59,
+      "lyric": "Are",
+      "br": true
+     },
+     {
+      "beat": 2,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "you"
+     },
+     {
+      "beat": 3,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "go-"
+     },
+     {
+      "beat": 3.5,
+      "length": 1.5,
+      "pitch": 59,
+      "lyric": "ing"
+     },
+     {
+      "beat": 5,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "to"
+     },
+     {
+      "beat": 6,
+      "length": 1.5,
+      "pitch": 62,
+      "lyric": "Scar-"
+     },
+     {
+      "beat": 7.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "bor-"
+     },
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "ough"
+     },
+     {
+      "beat": 9,
+      "length": 3,
+      "pitch": 59,
+      "lyric": "Fair?"
+     },
+     {
+      "beat": 13,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "Pars-",
+      "br": true
+     },
+     {
+      "beat": 14,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ley,"
+     },
+     {
+      "beat": 15,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "sage,"
+     },
+     {
+      "beat": 17,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "rose-"
+     },
+     {
+      "beat": 18,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ma-"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "ry"
+     },
+     {
+      "beat": 20,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "and"
+     },
+     {
+      "beat": 21,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "thyme."
+     },
+     {
+      "beat": 23,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "Re-",
+      "br": true
+     },
+     {
+      "beat": 24,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "mem-"
+     },
+     {
+      "beat": 26,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ber"
+     },
+     {
+      "beat": 27,
+      "length": 2,
+      "pitch": 71,
+      "lyric": "me"
+     },
+     {
+      "beat": 29,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "to"
+     },
+     {
+      "beat": 30,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "one"
+     },
+     {
+      "beat": 31,
+      "length": 1,
+      "pitch": 66,
+      "lyric": "who"
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "lives"
+     },
+     {
+      "beat": 33,
+      "length": 3,
+      "pitch": 62,
+      "lyric": "there,"
+     },
+     {
+      "beat": 36,
+      "length": 2,
+      "pitch": 59,
+      "lyric": "She",
+      "br": true
+     },
+     {
+      "beat": 38,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "once"
+     },
+     {
+      "beat": 39,
+      "length": 2,
+      "pitch": 61,
+      "lyric": "was"
+     },
+     {
+      "beat": 41,
+      "length": 1,
+      "pitch": 61,
+      "lyric": "a"
+     },
+     {
+      "beat": 42,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "true"
+     },
+     {
+      "beat": 43,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "love"
+     },
+     {
+      "beat": 44,
+      "length": 1,
+      "pitch": 57,
+      "lyric": "of"
+     },
+     {
+      "beat": 45,
+      "length": 3,
+      "pitch": 59,
+      "lyric": "mine."
+     }
+    ]
+   }
+  },
+  {
+   "key": "tenor",
+   "name": "Tenor",
+   "range": {
+    "low": 54,
+    "high": 61
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "Are",
+      "br": true
+     },
+     {
+      "beat": 2,
+      "length": 1,
+      "pitch": 55,
+      "lyric": "you"
+     },
+     {
+      "beat": 3,
+      "length": 0.5,
+      "pitch": 55,
+      "lyric": "go-"
+     },
+     {
+      "beat": 3.5,
+      "length": 1.5,
+      "pitch": 55,
+      "lyric": "ing"
+     },
+     {
+      "beat": 5,
+      "length": 1,
+      "pitch": 55,
+      "lyric": "to"
+     },
+     {
+      "beat": 6,
+      "length": 1.5,
+      "pitch": 54,
+      "lyric": "Scar-"
+     },
+     {
+      "beat": 7.5,
+      "length": 0.5,
+      "pitch": 54,
+      "lyric": "bor-"
+     },
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 54,
+      "lyric": "ough"
+     },
+     {
+      "beat": 9,
+      "length": 3,
+      "pitch": 55,
+      "lyric": "Fair?"
+     },
+     {
+      "beat": 13,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "Pars-",
+      "br": true
+     },
+     {
+      "beat": 14,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "ley,"
+     },
+     {
+      "beat": 15,
+      "length": 2,
+      "pitch": 59,
+      "lyric": "sage,"
+     },
+     {
+      "beat": 17,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "rose-"
+     },
+     {
+      "beat": 18,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "ma-"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 57,
+      "lyric": "ry"
+     },
+     {
+      "beat": 20,
+      "length": 1,
+      "pitch": 61,
+      "lyric": "and"
+     },
+     {
+      "beat": 21,
+      "length": 2,
+      "pitch": 59,
+      "lyric": "thyme."
+     },
+     {
+      "beat": 23,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "Re-",
+      "br": true
+     },
+     {
+      "beat": 24,
+      "length": 2,
+      "pitch": 59,
+      "lyric": "mem-"
+     },
+     {
+      "beat": 26,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "ber"
+     },
+     {
+      "beat": 27,
+      "length": 2,
+      "pitch": 59,
+      "lyric": "me"
+     },
+     {
+      "beat": 29,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "to"
+     },
+     {
+      "beat": 30,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "one"
+     },
+     {
+      "beat": 31,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "who"
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 59,
+      "lyric": "lives"
+     },
+     {
+      "beat": 33,
+      "length": 3,
+      "pitch": 59,
+      "lyric": "there,"
+     },
+     {
+      "beat": 36,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "She",
+      "br": true
+     },
+     {
+      "beat": 38,
+      "length": 1,
+      "pitch": 55,
+      "lyric": "once"
+     },
+     {
+      "beat": 39,
+      "length": 2,
+      "pitch": 57,
+      "lyric": "was"
+     },
+     {
+      "beat": 41,
+      "length": 1,
+      "pitch": 57,
+      "lyric": "a"
+     },
+     {
+      "beat": 42,
+      "length": 1,
+      "pitch": 54,
+      "lyric": "true"
+     },
+     {
+      "beat": 43,
+      "length": 1,
+      "pitch": 54,
+      "lyric": "love"
+     },
+     {
+      "beat": 44,
+      "length": 1,
+      "pitch": 54,
+      "lyric": "of"
+     },
+     {
+      "beat": 45,
+      "length": 3,
+      "pitch": 55,
+      "lyric": "mine."
+     }
+    ]
+   }
+  },
+  {
+   "key": "bass",
+   "name": "Bass",
+   "range": {
+    "low": 43,
+    "high": 55
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 3,
+      "pitch": 52,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 3,
+      "length": 3,
+      "pitch": 43
+     },
+     {
+      "beat": 6,
+      "length": 3,
+      "pitch": 47
+     },
+     {
+      "beat": 9,
+      "length": 3,
+      "pitch": 52
+     },
+     {
+      "beat": 13,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 15,
+      "length": 4,
+      "pitch": 52
+     },
+     {
+      "beat": 19,
+      "length": 2,
+      "pitch": 45
+     },
+     {
+      "beat": 21,
+      "length": 2,
+      "pitch": 52
+     },
+     {
+      "beat": 23,
+      "length": 4,
+      "pitch": 52,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 27,
+      "length": 3,
+      "pitch": 55
+     },
+     {
+      "beat": 30,
+      "length": 3,
+      "pitch": 52
+     },
+     {
+      "beat": 33,
+      "length": 3,
+      "pitch": 47
+     },
+     {
+      "beat": 36,
+      "length": 3,
+      "pitch": 52,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 39,
+      "length": 3,
+      "pitch": 45
+     },
+     {
+      "beat": 42,
+      "length": 2,
+      "pitch": 50
+     },
+     {
+      "beat": 44,
+      "length": 1,
+      "pitch": 47
+     },
+     {
+      "beat": 45,
+      "length": 3,
+      "pitch": 52
+     }
+    ]
+   }
+  }
+ ],
+ "voicings": {
+  "2": [
+   "soprano",
+   "alto"
+  ],
+  "3": [
+   "soprano",
+   "alto",
+   "bass"
+  ],
+  "4": [
+   "soprano",
+   "alto",
+   "tenor",
+   "bass"
+  ]
+ }
+}

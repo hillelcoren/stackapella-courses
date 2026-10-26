@@ -1,0 +1,2184 @@
+{
+ "id": "row-row-row",
+ "version": 1,
+ "reviewed": false,
+ "title": "Row, Row, Row Your Boat (round)",
+ "description": "The nursery round for 2 to 4 singers: everyone sings the same short tune three times, entering two bars apart (tenor and bass an octave lower), and the parts ripple along together. A cheerful first round.",
+ "language": "en",
+ "difficulty": "beginner",
+ "genre": [
+  "round",
+  "children's",
+  "folk"
+ ],
+ "tempo": 60,
+ "key": "C",
+ "timeSignature": "6/8",
+ "pickupBeats": 0,
+ "credits": {
+  "words": "traditional (published 1852)",
+  "tune": "traditional, The Franklin Square Song Collection (1881), credited to Eliphalet Oram Lyte",
+  "arrangement": "Stackapella (draft)"
+ },
+ "licence": {
+  "words": "public domain: traditional, published 1852",
+  "tune": "public domain: published 1881",
+  "arrangement": "original, written for Stackapella",
+  "recordings": "synthesized guides",
+  "checked": null,
+  "source": "melody and words from the score in Wikipedia, \"Row, Row, Row Your Boat\""
+ },
+ "order": [
+  "soprano",
+  "alto",
+  "tenor",
+  "bass"
+ ],
+ "voicings": {
+  "2": [
+   "soprano",
+   "alto"
+  ],
+  "3": [
+   "soprano",
+   "alto",
+   "tenor"
+  ],
+  "4": [
+   "soprano",
+   "alto",
+   "tenor",
+   "bass"
+  ]
+ },
+ "sections": [
+  {
+   "name": "Soprano alone",
+   "startBeat": 0,
+   "endBeat": 4,
+   "phrases": [
+    [
+     0,
+     4
+    ]
+   ]
+  },
+  {
+   "name": "Round",
+   "startBeat": 4,
+   "endBeat": 48,
+   "phrases": [
+    [
+     4,
+     8
+    ],
+    [
+     8,
+     12
+    ],
+    [
+     12,
+     16
+    ],
+    [
+     16,
+     20
+    ],
+    [
+     20,
+     24
+    ],
+    [
+     24,
+     28
+    ],
+    [
+     28,
+     32
+    ],
+    [
+     32,
+     36
+    ],
+    [
+     36,
+     40
+    ],
+    [
+     40,
+     44
+    ],
+    [
+     44,
+     48
+    ]
+   ]
+  },
+  {
+   "name": "Ending",
+   "startBeat": 48,
+   "endBeat": 60,
+   "phrases": [
+    [
+     48,
+     52
+    ],
+    [
+     52,
+     56
+    ],
+    [
+     56,
+     60
+    ]
+   ]
+  }
+ ],
+ "parts": [
+  {
+   "key": "soprano",
+   "name": "Soprano",
+   "melody": true,
+   "range": {
+    "low": 60,
+    "high": 72
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "Row,",
+      "br": true
+     },
+     {
+      "beat": 1,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "row,"
+     },
+     {
+      "beat": 2,
+      "length": 0.6666666666666666,
+      "pitch": 60,
+      "lyric": "row"
+     },
+     {
+      "beat": 2.6666666666666665,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "your"
+     },
+     {
+      "beat": 3,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "boat,"
+     },
+     {
+      "beat": 4,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "gent-",
+      "br": true
+     },
+     {
+      "beat": 4.666666666666667,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "ly"
+     },
+     {
+      "beat": 5,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "down"
+     },
+     {
+      "beat": 5.666666666666667,
+      "length": 0.3333333333333333,
+      "pitch": 65,
+      "lyric": "the"
+     },
+     {
+      "beat": 6,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "stream."
+     },
+     {
+      "beat": 8,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "Mer-",
+      "br": true
+     },
+     {
+      "beat": 8.333333333333334,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 8.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 9,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 9.333333333333334,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 9.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 10,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 10.333333333333334,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 10.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 11,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 11.333333333333334,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 11.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 12,
+      "length": 0.6666666666666666,
+      "pitch": 67,
+      "lyric": "life",
+      "br": true
+     },
+     {
+      "beat": 12.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 65,
+      "lyric": "is"
+     },
+     {
+      "beat": 13,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "but"
+     },
+     {
+      "beat": 13.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "a"
+     },
+     {
+      "beat": 14,
+      "length": 2,
+      "pitch": 60,
+      "lyric": "dream."
+     },
+     {
+      "beat": 16,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "Row,",
+      "br": true
+     },
+     {
+      "beat": 17,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "row,"
+     },
+     {
+      "beat": 18,
+      "length": 0.6666666666666666,
+      "pitch": 60,
+      "lyric": "row"
+     },
+     {
+      "beat": 18.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "your"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "boat,"
+     },
+     {
+      "beat": 20,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "gent-",
+      "br": true
+     },
+     {
+      "beat": 20.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "ly"
+     },
+     {
+      "beat": 21,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "down"
+     },
+     {
+      "beat": 21.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 65,
+      "lyric": "the"
+     },
+     {
+      "beat": 22,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "stream."
+     },
+     {
+      "beat": 24,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "Mer-",
+      "br": true
+     },
+     {
+      "beat": 24.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 24.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 25,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 25.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 25.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 26,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 26.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 26.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 27,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 27.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 27.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 28,
+      "length": 0.6666666666666666,
+      "pitch": 67,
+      "lyric": "life",
+      "br": true
+     },
+     {
+      "beat": 28.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 65,
+      "lyric": "is"
+     },
+     {
+      "beat": 29,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "but"
+     },
+     {
+      "beat": 29.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "a"
+     },
+     {
+      "beat": 30,
+      "length": 2,
+      "pitch": 60,
+      "lyric": "dream."
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "Row,",
+      "br": true
+     },
+     {
+      "beat": 33,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "row,"
+     },
+     {
+      "beat": 34,
+      "length": 0.6666666666666666,
+      "pitch": 60,
+      "lyric": "row"
+     },
+     {
+      "beat": 34.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "your"
+     },
+     {
+      "beat": 35,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "boat,"
+     },
+     {
+      "beat": 36,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "gent-",
+      "br": true
+     },
+     {
+      "beat": 36.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "ly"
+     },
+     {
+      "beat": 37,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "down"
+     },
+     {
+      "beat": 37.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 65,
+      "lyric": "the"
+     },
+     {
+      "beat": 38,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "stream."
+     },
+     {
+      "beat": 40,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "Mer-",
+      "br": true
+     },
+     {
+      "beat": 40.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 40.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 41,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 41.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 41.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 42,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 42.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 42.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 43,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 43.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 43.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 44,
+      "length": 0.6666666666666666,
+      "pitch": 67,
+      "lyric": "life",
+      "br": true
+     },
+     {
+      "beat": 44.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 65,
+      "lyric": "is"
+     },
+     {
+      "beat": 45,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "but"
+     },
+     {
+      "beat": 45.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "a"
+     },
+     {
+      "beat": 46,
+      "length": 2,
+      "pitch": 60,
+      "lyric": "dream."
+     }
+    ]
+   }
+  },
+  {
+   "key": "alto",
+   "name": "Alto",
+   "range": {
+    "low": 60,
+    "high": 72
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 4,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "Row,",
+      "br": true
+     },
+     {
+      "beat": 5,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "row,"
+     },
+     {
+      "beat": 6,
+      "length": 0.6666666666666666,
+      "pitch": 60,
+      "lyric": "row"
+     },
+     {
+      "beat": 6.666666666666667,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "your"
+     },
+     {
+      "beat": 7,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "boat,"
+     },
+     {
+      "beat": 8,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "gent-",
+      "br": true
+     },
+     {
+      "beat": 8.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "ly"
+     },
+     {
+      "beat": 9,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "down"
+     },
+     {
+      "beat": 9.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 65,
+      "lyric": "the"
+     },
+     {
+      "beat": 10,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "stream."
+     },
+     {
+      "beat": 12,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "Mer-",
+      "br": true
+     },
+     {
+      "beat": 12.333333333333334,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 12.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 13,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 13.333333333333334,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 13.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 14,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 14.333333333333334,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 14.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 15,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 15.333333333333334,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 15.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 16,
+      "length": 0.6666666666666666,
+      "pitch": 67,
+      "lyric": "life",
+      "br": true
+     },
+     {
+      "beat": 16.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 65,
+      "lyric": "is"
+     },
+     {
+      "beat": 17,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "but"
+     },
+     {
+      "beat": 17.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "a"
+     },
+     {
+      "beat": 18,
+      "length": 2,
+      "pitch": 60,
+      "lyric": "dream."
+     },
+     {
+      "beat": 20,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "Row,",
+      "br": true
+     },
+     {
+      "beat": 21,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "row,"
+     },
+     {
+      "beat": 22,
+      "length": 0.6666666666666666,
+      "pitch": 60,
+      "lyric": "row"
+     },
+     {
+      "beat": 22.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "your"
+     },
+     {
+      "beat": 23,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "boat,"
+     },
+     {
+      "beat": 24,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "gent-",
+      "br": true
+     },
+     {
+      "beat": 24.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "ly"
+     },
+     {
+      "beat": 25,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "down"
+     },
+     {
+      "beat": 25.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 65,
+      "lyric": "the"
+     },
+     {
+      "beat": 26,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "stream."
+     },
+     {
+      "beat": 28,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "Mer-",
+      "br": true
+     },
+     {
+      "beat": 28.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 28.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 29,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 29.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 29.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 30,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 30.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 30.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 31,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 31.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 31.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 32,
+      "length": 0.6666666666666666,
+      "pitch": 67,
+      "lyric": "life",
+      "br": true
+     },
+     {
+      "beat": 32.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 65,
+      "lyric": "is"
+     },
+     {
+      "beat": 33,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "but"
+     },
+     {
+      "beat": 33.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "a"
+     },
+     {
+      "beat": 34,
+      "length": 2,
+      "pitch": 60,
+      "lyric": "dream."
+     },
+     {
+      "beat": 36,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "Row,",
+      "br": true
+     },
+     {
+      "beat": 37,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "row,"
+     },
+     {
+      "beat": 38,
+      "length": 0.6666666666666666,
+      "pitch": 60,
+      "lyric": "row"
+     },
+     {
+      "beat": 38.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "your"
+     },
+     {
+      "beat": 39,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "boat,"
+     },
+     {
+      "beat": 40,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "gent-",
+      "br": true
+     },
+     {
+      "beat": 40.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "ly"
+     },
+     {
+      "beat": 41,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "down"
+     },
+     {
+      "beat": 41.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 65,
+      "lyric": "the"
+     },
+     {
+      "beat": 42,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "stream."
+     },
+     {
+      "beat": 44,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "Mer-",
+      "br": true
+     },
+     {
+      "beat": 44.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 44.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 72,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 45,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 45.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 45.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 67,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 46,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 46.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 46.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 64,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 47,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 47.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 47.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 48,
+      "length": 0.6666666666666666,
+      "pitch": 67,
+      "lyric": "life",
+      "br": true
+     },
+     {
+      "beat": 48.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 65,
+      "lyric": "is"
+     },
+     {
+      "beat": 49,
+      "length": 0.6666666666666666,
+      "pitch": 64,
+      "lyric": "but"
+     },
+     {
+      "beat": 49.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 62,
+      "lyric": "a"
+     },
+     {
+      "beat": 50,
+      "length": 2,
+      "pitch": 60,
+      "lyric": "dream."
+     }
+    ]
+   }
+  },
+  {
+   "key": "tenor",
+   "name": "Tenor",
+   "range": {
+    "low": 48,
+    "high": 60
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "Row,",
+      "br": true
+     },
+     {
+      "beat": 9,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "row,"
+     },
+     {
+      "beat": 10,
+      "length": 0.6666666666666666,
+      "pitch": 48,
+      "lyric": "row"
+     },
+     {
+      "beat": 10.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "your"
+     },
+     {
+      "beat": 11,
+      "length": 1,
+      "pitch": 52,
+      "lyric": "boat,"
+     },
+     {
+      "beat": 12,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "gent-",
+      "br": true
+     },
+     {
+      "beat": 12.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "ly"
+     },
+     {
+      "beat": 13,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "down"
+     },
+     {
+      "beat": 13.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 53,
+      "lyric": "the"
+     },
+     {
+      "beat": 14,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "stream."
+     },
+     {
+      "beat": 16,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "Mer-",
+      "br": true
+     },
+     {
+      "beat": 16.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 16.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 17,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 17.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 17.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 18,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 18.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 18.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 19,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 19.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 19.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 20,
+      "length": 0.6666666666666666,
+      "pitch": 55,
+      "lyric": "life",
+      "br": true
+     },
+     {
+      "beat": 20.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 53,
+      "lyric": "is"
+     },
+     {
+      "beat": 21,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "but"
+     },
+     {
+      "beat": 21.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "a"
+     },
+     {
+      "beat": 22,
+      "length": 2,
+      "pitch": 48,
+      "lyric": "dream."
+     },
+     {
+      "beat": 24,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "Row,",
+      "br": true
+     },
+     {
+      "beat": 25,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "row,"
+     },
+     {
+      "beat": 26,
+      "length": 0.6666666666666666,
+      "pitch": 48,
+      "lyric": "row"
+     },
+     {
+      "beat": 26.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "your"
+     },
+     {
+      "beat": 27,
+      "length": 1,
+      "pitch": 52,
+      "lyric": "boat,"
+     },
+     {
+      "beat": 28,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "gent-",
+      "br": true
+     },
+     {
+      "beat": 28.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "ly"
+     },
+     {
+      "beat": 29,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "down"
+     },
+     {
+      "beat": 29.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 53,
+      "lyric": "the"
+     },
+     {
+      "beat": 30,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "stream."
+     },
+     {
+      "beat": 32,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "Mer-",
+      "br": true
+     },
+     {
+      "beat": 32.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 32.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 33,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 33.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 33.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 34,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 34.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 34.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 35,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 35.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 35.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 36,
+      "length": 0.6666666666666666,
+      "pitch": 55,
+      "lyric": "life",
+      "br": true
+     },
+     {
+      "beat": 36.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 53,
+      "lyric": "is"
+     },
+     {
+      "beat": 37,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "but"
+     },
+     {
+      "beat": 37.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "a"
+     },
+     {
+      "beat": 38,
+      "length": 2,
+      "pitch": 48,
+      "lyric": "dream."
+     },
+     {
+      "beat": 40,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "Row,",
+      "br": true
+     },
+     {
+      "beat": 41,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "row,"
+     },
+     {
+      "beat": 42,
+      "length": 0.6666666666666666,
+      "pitch": 48,
+      "lyric": "row"
+     },
+     {
+      "beat": 42.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "your"
+     },
+     {
+      "beat": 43,
+      "length": 1,
+      "pitch": 52,
+      "lyric": "boat,"
+     },
+     {
+      "beat": 44,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "gent-",
+      "br": true
+     },
+     {
+      "beat": 44.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "ly"
+     },
+     {
+      "beat": 45,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "down"
+     },
+     {
+      "beat": 45.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 53,
+      "lyric": "the"
+     },
+     {
+      "beat": 46,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "stream."
+     },
+     {
+      "beat": 48,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "Mer-",
+      "br": true
+     },
+     {
+      "beat": 48.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 48.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 49,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 49.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 49.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 50,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 50.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 50.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 51,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 51.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 51.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 52,
+      "length": 0.6666666666666666,
+      "pitch": 55,
+      "lyric": "life",
+      "br": true
+     },
+     {
+      "beat": 52.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 53,
+      "lyric": "is"
+     },
+     {
+      "beat": 53,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "but"
+     },
+     {
+      "beat": 53.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "a"
+     },
+     {
+      "beat": 54,
+      "length": 2,
+      "pitch": 48,
+      "lyric": "dream."
+     }
+    ]
+   }
+  },
+  {
+   "key": "bass",
+   "name": "Bass",
+   "range": {
+    "low": 48,
+    "high": 60
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 12,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "Row,",
+      "br": true
+     },
+     {
+      "beat": 13,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "row,"
+     },
+     {
+      "beat": 14,
+      "length": 0.6666666666666666,
+      "pitch": 48,
+      "lyric": "row"
+     },
+     {
+      "beat": 14.666666666666666,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "your"
+     },
+     {
+      "beat": 15,
+      "length": 1,
+      "pitch": 52,
+      "lyric": "boat,"
+     },
+     {
+      "beat": 16,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "gent-",
+      "br": true
+     },
+     {
+      "beat": 16.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "ly"
+     },
+     {
+      "beat": 17,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "down"
+     },
+     {
+      "beat": 17.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 53,
+      "lyric": "the"
+     },
+     {
+      "beat": 18,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "stream."
+     },
+     {
+      "beat": 20,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "Mer-",
+      "br": true
+     },
+     {
+      "beat": 20.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 20.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 21,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 21.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 21.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 22,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 22.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 22.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 23,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 23.333333333333332,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 23.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 24,
+      "length": 0.6666666666666666,
+      "pitch": 55,
+      "lyric": "life",
+      "br": true
+     },
+     {
+      "beat": 24.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 53,
+      "lyric": "is"
+     },
+     {
+      "beat": 25,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "but"
+     },
+     {
+      "beat": 25.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "a"
+     },
+     {
+      "beat": 26,
+      "length": 2,
+      "pitch": 48,
+      "lyric": "dream."
+     },
+     {
+      "beat": 28,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "Row,",
+      "br": true
+     },
+     {
+      "beat": 29,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "row,"
+     },
+     {
+      "beat": 30,
+      "length": 0.6666666666666666,
+      "pitch": 48,
+      "lyric": "row"
+     },
+     {
+      "beat": 30.666666666666668,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "your"
+     },
+     {
+      "beat": 31,
+      "length": 1,
+      "pitch": 52,
+      "lyric": "boat,"
+     },
+     {
+      "beat": 32,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "gent-",
+      "br": true
+     },
+     {
+      "beat": 32.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "ly"
+     },
+     {
+      "beat": 33,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "down"
+     },
+     {
+      "beat": 33.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 53,
+      "lyric": "the"
+     },
+     {
+      "beat": 34,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "stream."
+     },
+     {
+      "beat": 36,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "Mer-",
+      "br": true
+     },
+     {
+      "beat": 36.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 36.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 37,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 37.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 37.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 38,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 38.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 38.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 39,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 39.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 39.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 40,
+      "length": 0.6666666666666666,
+      "pitch": 55,
+      "lyric": "life",
+      "br": true
+     },
+     {
+      "beat": 40.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 53,
+      "lyric": "is"
+     },
+     {
+      "beat": 41,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "but"
+     },
+     {
+      "beat": 41.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "a"
+     },
+     {
+      "beat": 42,
+      "length": 2,
+      "pitch": 48,
+      "lyric": "dream."
+     },
+     {
+      "beat": 44,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "Row,",
+      "br": true
+     },
+     {
+      "beat": 45,
+      "length": 1,
+      "pitch": 48,
+      "lyric": "row,"
+     },
+     {
+      "beat": 46,
+      "length": 0.6666666666666666,
+      "pitch": 48,
+      "lyric": "row"
+     },
+     {
+      "beat": 46.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "your"
+     },
+     {
+      "beat": 47,
+      "length": 1,
+      "pitch": 52,
+      "lyric": "boat,"
+     },
+     {
+      "beat": 48,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "gent-",
+      "br": true
+     },
+     {
+      "beat": 48.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "ly"
+     },
+     {
+      "beat": 49,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "down"
+     },
+     {
+      "beat": 49.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 53,
+      "lyric": "the"
+     },
+     {
+      "beat": 50,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "stream."
+     },
+     {
+      "beat": 52,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "Mer-",
+      "br": true
+     },
+     {
+      "beat": 52.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 52.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 60,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 53,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 53.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 53.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 55,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 54,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 54.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 54.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 52,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 55,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 55.333333333333336,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "ri-"
+     },
+     {
+      "beat": 55.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 48,
+      "lyric": "ly,"
+     },
+     {
+      "beat": 56,
+      "length": 0.6666666666666666,
+      "pitch": 55,
+      "lyric": "life",
+      "br": true
+     },
+     {
+      "beat": 56.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 53,
+      "lyric": "is"
+     },
+     {
+      "beat": 57,
+      "length": 0.6666666666666666,
+      "pitch": 52,
+      "lyric": "but"
+     },
+     {
+      "beat": 57.666666666666664,
+      "length": 0.3333333333333333,
+      "pitch": 50,
+      "lyric": "a"
+     },
+     {
+      "beat": 58,
+      "length": 2,
+      "pitch": 48,
+      "lyric": "dream."
+     }
+    ]
+   }
+  }
+ ]
+}

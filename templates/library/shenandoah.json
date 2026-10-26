@@ -1,0 +1,885 @@
+{
+ "id": "shenandoah",
+ "version": 1,
+ "reviewed": false,
+ "title": "Shenandoah",
+ "description": "The American river song, for 2 to 4 singers: the soprano sings the long, rolling melody, the alto and tenor move gently beneath it, and the bass holds the roots on \"oo\". Slow and spacious, with time to breathe.",
+ "language": "en",
+ "difficulty": "intermediate",
+ "genre": [
+  "folk",
+  "sea shanty"
+ ],
+ "tempo": 63,
+ "key": "F",
+ "timeSignature": "4/4",
+ "pickupBeats": 1,
+ "credits": {
+  "words": "traditional American (19th century)",
+  "tune": "traditional American (printed by 1876)",
+  "arrangement": "Stackapella (draft)"
+ },
+ "licence": {
+  "words": "public domain: traditional, printed 1876 (\"Shanadore\", The New Dominion Monthly)",
+  "tune": "public domain: traditional, 19th century",
+  "arrangement": "original, written for Stackapella",
+  "recordings": "synthesized guides",
+  "checked": null,
+  "source": "history in Wikipedia, \"Oh Shenandoah\"; melody checked against the traditional Musica Viva transcription on abcnotation.com"
+ },
+ "order": [
+  "soprano",
+  "bass",
+  "alto",
+  "tenor"
+ ],
+ "voicings": {
+  "2": [
+   "soprano",
+   "alto"
+  ],
+  "3": [
+   "soprano",
+   "alto",
+   "bass"
+  ],
+  "4": [
+   "soprano",
+   "alto",
+   "tenor",
+   "bass"
+  ]
+ },
+ "sections": [
+  {
+   "name": "Verse 1",
+   "startBeat": 0,
+   "endBeat": 41,
+   "phrases": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     16
+    ],
+    [
+     16,
+     24
+    ],
+    [
+     24,
+     32
+    ],
+    [
+     32,
+     41
+    ]
+   ]
+  }
+ ],
+ "parts": [
+  {
+   "key": "soprano",
+   "name": "Soprano",
+   "melody": true,
+   "range": {
+    "low": 60,
+    "high": 77
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "Oh",
+      "br": true
+     },
+     {
+      "beat": 1,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "Shen-"
+     },
+     {
+      "beat": 1.5,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "an-"
+     },
+     {
+      "beat": 2,
+      "length": 1.5,
+      "pitch": 65,
+      "lyric": "doah,"
+     },
+     {
+      "beat": 3.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "I"
+     },
+     {
+      "beat": 4,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "long"
+     },
+     {
+      "beat": 4.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "to"
+     },
+     {
+      "beat": 5,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "hear"
+     },
+     {
+      "beat": 5.5,
+      "length": 2.5,
+      "pitch": 72,
+      "lyric": "you,"
+     },
+     {
+      "beat": 8,
+      "length": 0.5,
+      "pitch": 77,
+      "lyric": "A-",
+      "br": true
+     },
+     {
+      "beat": 8.5,
+      "length": 0.5,
+      "pitch": 76
+     },
+     {
+      "beat": 9,
+      "length": 1.5,
+      "pitch": 74,
+      "lyric": "way,"
+     },
+     {
+      "beat": 10.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "you"
+     },
+     {
+      "beat": 11,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "roll-"
+     },
+     {
+      "beat": 12,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ing"
+     },
+     {
+      "beat": 13,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "riv-"
+     },
+     {
+      "beat": 14,
+      "length": 2,
+      "pitch": 72,
+      "lyric": "er."
+     },
+     {
+      "beat": 16,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "Oh",
+      "br": true
+     },
+     {
+      "beat": 17,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "Shen-"
+     },
+     {
+      "beat": 17.5,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "an-"
+     },
+     {
+      "beat": 18,
+      "length": 1.5,
+      "pitch": 74,
+      "lyric": "doah,"
+     },
+     {
+      "beat": 19.5,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "I"
+     },
+     {
+      "beat": 20,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "long"
+     },
+     {
+      "beat": 20.5,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "to"
+     },
+     {
+      "beat": 21,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "hear"
+     },
+     {
+      "beat": 21.5,
+      "length": 2.5,
+      "pitch": 65,
+      "lyric": "you,"
+     },
+     {
+      "beat": 24,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "A-",
+      "br": true
+     },
+     {
+      "beat": 25,
+      "length": 1.5,
+      "pitch": 69,
+      "lyric": "way,"
+     },
+     {
+      "beat": 26.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "I'm"
+     },
+     {
+      "beat": 27,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "bound"
+     },
+     {
+      "beat": 28,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "a-"
+     },
+     {
+      "beat": 29,
+      "length": 3,
+      "pitch": 72,
+      "lyric": "way,"
+     },
+     {
+      "beat": 32,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "'cross",
+      "br": true
+     },
+     {
+      "beat": 32.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "the"
+     },
+     {
+      "beat": 33,
+      "length": 3,
+      "pitch": 69,
+      "lyric": "wide"
+     },
+     {
+      "beat": 36,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "Mis-"
+     },
+     {
+      "beat": 37,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "sou-"
+     },
+     {
+      "beat": 39,
+      "length": 2,
+      "pitch": 65,
+      "lyric": "ri."
+     }
+    ]
+   }
+  },
+  {
+   "key": "alto",
+   "name": "Alto",
+   "range": {
+    "low": 60,
+    "high": 69
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 1,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "Shen-",
+      "br": true
+     },
+     {
+      "beat": 1.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "an-"
+     },
+     {
+      "beat": 2,
+      "length": 1.5,
+      "pitch": 60,
+      "lyric": "doah,"
+     },
+     {
+      "beat": 3.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "I"
+     },
+     {
+      "beat": 4,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "long"
+     },
+     {
+      "beat": 4.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "to"
+     },
+     {
+      "beat": 5,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "hear"
+     },
+     {
+      "beat": 5.5,
+      "length": 2.5,
+      "pitch": 65,
+      "lyric": "you,"
+     },
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "A-",
+      "br": true
+     },
+     {
+      "beat": 9,
+      "length": 1.5,
+      "pitch": 65,
+      "lyric": "way,"
+     },
+     {
+      "beat": 10.5,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "you"
+     },
+     {
+      "beat": 11,
+      "length": 1,
+      "pitch": 65,
+      "lyric": "roll-"
+     },
+     {
+      "beat": 12,
+      "length": 1,
+      "pitch": 65,
+      "lyric": "ing"
+     },
+     {
+      "beat": 13,
+      "length": 1,
+      "pitch": 65,
+      "lyric": "riv-"
+     },
+     {
+      "beat": 14,
+      "length": 2,
+      "pitch": 65,
+      "lyric": "er."
+     },
+     {
+      "beat": 16,
+      "length": 1,
+      "pitch": 65,
+      "lyric": "Oh",
+      "br": true
+     },
+     {
+      "beat": 17,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "Shen-"
+     },
+     {
+      "beat": 17.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "an-"
+     },
+     {
+      "beat": 18,
+      "length": 1.5,
+      "pitch": 62,
+      "lyric": "doah,"
+     },
+     {
+      "beat": 19.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "I"
+     },
+     {
+      "beat": 20,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "long"
+     },
+     {
+      "beat": 20.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "to"
+     },
+     {
+      "beat": 21,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "hear"
+     },
+     {
+      "beat": 21.5,
+      "length": 2.5,
+      "pitch": 60,
+      "lyric": "you,"
+     },
+     {
+      "beat": 24,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "A-",
+      "br": true
+     },
+     {
+      "beat": 25,
+      "length": 1.5,
+      "pitch": 65,
+      "lyric": "way,"
+     },
+     {
+      "beat": 26.5,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "I'm"
+     },
+     {
+      "beat": 27,
+      "length": 1,
+      "pitch": 65,
+      "lyric": "bound"
+     },
+     {
+      "beat": 28,
+      "length": 1,
+      "pitch": 65,
+      "lyric": "a-"
+     },
+     {
+      "beat": 29,
+      "length": 3,
+      "pitch": 65,
+      "lyric": "way,"
+     },
+     {
+      "beat": 32,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "'cross",
+      "br": true
+     },
+     {
+      "beat": 32.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "the"
+     },
+     {
+      "beat": 33,
+      "length": 3,
+      "pitch": 65,
+      "lyric": "wide"
+     },
+     {
+      "beat": 36,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "Mis-"
+     },
+     {
+      "beat": 37,
+      "length": 2,
+      "pitch": 64,
+      "lyric": "sou-"
+     },
+     {
+      "beat": 39,
+      "length": 2,
+      "pitch": 60,
+      "lyric": "ri."
+     }
+    ]
+   }
+  },
+  {
+   "key": "tenor",
+   "name": "Tenor",
+   "range": {
+    "low": 53,
+    "high": 62
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 1,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "Shen-",
+      "br": true
+     },
+     {
+      "beat": 1.5,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "an-"
+     },
+     {
+      "beat": 2,
+      "length": 1.5,
+      "pitch": 57,
+      "lyric": "doah,"
+     },
+     {
+      "beat": 3.5,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "I"
+     },
+     {
+      "beat": 4,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "long"
+     },
+     {
+      "beat": 4.5,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "to"
+     },
+     {
+      "beat": 5,
+      "length": 0.5,
+      "pitch": 58,
+      "lyric": "hear"
+     },
+     {
+      "beat": 5.5,
+      "length": 2.5,
+      "pitch": 57,
+      "lyric": "you,"
+     },
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "A-",
+      "br": true
+     },
+     {
+      "beat": 9,
+      "length": 1.5,
+      "pitch": 58,
+      "lyric": "way,"
+     },
+     {
+      "beat": 10.5,
+      "length": 0.5,
+      "pitch": 58,
+      "lyric": "you"
+     },
+     {
+      "beat": 11,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "roll-"
+     },
+     {
+      "beat": 12,
+      "length": 1,
+      "pitch": 57,
+      "lyric": "ing"
+     },
+     {
+      "beat": 13,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "riv-"
+     },
+     {
+      "beat": 14,
+      "length": 2,
+      "pitch": 57,
+      "lyric": "er."
+     },
+     {
+      "beat": 16,
+      "length": 1,
+      "pitch": 57,
+      "lyric": "Oh",
+      "br": true
+     },
+     {
+      "beat": 17,
+      "length": 0.5,
+      "pitch": 53,
+      "lyric": "Shen-"
+     },
+     {
+      "beat": 17.5,
+      "length": 0.5,
+      "pitch": 53,
+      "lyric": "an-"
+     },
+     {
+      "beat": 18,
+      "length": 1.5,
+      "pitch": 53,
+      "lyric": "doah,"
+     },
+     {
+      "beat": 19.5,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "I"
+     },
+     {
+      "beat": 20,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "long"
+     },
+     {
+      "beat": 20.5,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "to"
+     },
+     {
+      "beat": 21,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "hear"
+     },
+     {
+      "beat": 21.5,
+      "length": 2.5,
+      "pitch": 57,
+      "lyric": "you,"
+     },
+     {
+      "beat": 24,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "A-",
+      "br": true
+     },
+     {
+      "beat": 25,
+      "length": 1.5,
+      "pitch": 60,
+      "lyric": "way,"
+     },
+     {
+      "beat": 26.5,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "I'm"
+     },
+     {
+      "beat": 27,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "bound"
+     },
+     {
+      "beat": 28,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "a-"
+     },
+     {
+      "beat": 29,
+      "length": 3,
+      "pitch": 57,
+      "lyric": "way,"
+     },
+     {
+      "beat": 32,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "'cross",
+      "br": true
+     },
+     {
+      "beat": 32.5,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "the"
+     },
+     {
+      "beat": 33,
+      "length": 3,
+      "pitch": 62,
+      "lyric": "wide"
+     },
+     {
+      "beat": 36,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "Mis-"
+     },
+     {
+      "beat": 37,
+      "length": 2,
+      "pitch": 58,
+      "lyric": "sou-"
+     },
+     {
+      "beat": 39,
+      "length": 2,
+      "pitch": 57,
+      "lyric": "ri."
+     }
+    ]
+   }
+  },
+  {
+   "key": "bass",
+   "name": "Bass",
+   "range": {
+    "low": 41,
+    "high": 53
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 1,
+      "length": 4,
+      "pitch": 53,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 5,
+      "length": 4,
+      "pitch": 53
+     },
+     {
+      "beat": 9,
+      "length": 3,
+      "pitch": 46
+     },
+     {
+      "beat": 12,
+      "length": 5,
+      "pitch": 53
+     },
+     {
+      "beat": 17,
+      "length": 2.5,
+      "pitch": 46,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 19.5,
+      "length": 4.5,
+      "pitch": 53
+     },
+     {
+      "beat": 24,
+      "length": 1,
+      "pitch": 48
+     },
+     {
+      "beat": 25,
+      "length": 3,
+      "pitch": 53
+     },
+     {
+      "beat": 28,
+      "length": 1,
+      "pitch": 46
+     },
+     {
+      "beat": 29,
+      "length": 4,
+      "pitch": 53
+     },
+     {
+      "beat": 33,
+      "length": 3,
+      "pitch": 50
+     },
+     {
+      "beat": 36,
+      "length": 1,
+      "pitch": 43
+     },
+     {
+      "beat": 37,
+      "length": 2,
+      "pitch": 48
+     },
+     {
+      "beat": 39,
+      "length": 2,
+      "pitch": 41
+     }
+    ]
+   }
+  }
+ ]
+}

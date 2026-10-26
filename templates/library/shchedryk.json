@@ -1,0 +1,1799 @@
+{
+ "id": "shchedryk",
+ "version": 1,
+ "reviewed": false,
+ "title": "Shchedryk",
+ "description": "The Ukrainian New Year song of the swallow, for 2 to 4 singers: the soprano sings the famous four-note tune all the way through, the alto joins in thirds and sixths, and the bass and tenor ring slowly underneath like bells.",
+ "language": "uk",
+ "difficulty": "intermediate",
+ "genre": [
+  "folk",
+  "christmas"
+ ],
+ "tempo": 132,
+ "key": "Gm",
+ "timeSignature": "3/4",
+ "pickupBeats": 0,
+ "credits": {
+  "words": "traditional Ukrainian shchedrivka (New Year song)",
+  "tune": "traditional Ukrainian folk melody",
+  "arrangement": "Stackapella (draft)"
+ },
+ "licence": {
+  "words": "public domain: traditional Ukrainian folk words",
+  "tune": "public domain: traditional Ukrainian folk melody (the four-note motif); Leontovych's 1916 setting is not used",
+  "arrangement": "original, written for Stackapella",
+  "recordings": "synthesized guides",
+  "checked": null
+ },
+ "order": [
+  "soprano",
+  "alto",
+  "bass",
+  "tenor"
+ ],
+ "sections": [
+  {
+   "name": "Soprano alone",
+   "startBeat": 0,
+   "endBeat": 12,
+   "phrases": [
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     12
+    ]
+   ]
+  },
+  {
+   "name": "Alto joins",
+   "startBeat": 12,
+   "endBeat": 24,
+   "phrases": [
+    [
+     12,
+     18
+    ],
+    [
+     18,
+     24
+    ]
+   ]
+  },
+  {
+   "name": "Bass joins",
+   "startBeat": 24,
+   "endBeat": 36,
+   "phrases": [
+    [
+     24,
+     30
+    ],
+    [
+     30,
+     36
+    ]
+   ]
+  },
+  {
+   "name": "All parts",
+   "startBeat": 36,
+   "endBeat": 72,
+   "phrases": [
+    [
+     36,
+     42
+    ],
+    [
+     42,
+     48
+    ],
+    [
+     48,
+     54
+    ],
+    [
+     54,
+     60
+    ],
+    [
+     60,
+     66
+    ],
+    [
+     66,
+     72
+    ]
+   ]
+  },
+  {
+   "name": "Ending",
+   "startBeat": 72,
+   "endBeat": 87,
+   "phrases": [
+    [
+     72,
+     78
+    ],
+    [
+     78,
+     87
+    ]
+   ]
+  }
+ ],
+ "parts": [
+  {
+   "key": "soprano",
+   "name": "Soprano",
+   "range": {
+    "low": 67,
+    "high": 70
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 1,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 1.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 2,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 3,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 4,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "рі-"
+     },
+     {
+      "beat": 4.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "воч-"
+     },
+     {
+      "beat": 5,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ка,"
+     },
+     {
+      "beat": 6,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "При-",
+      "br": true
+     },
+     {
+      "beat": 7,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "ле-"
+     },
+     {
+      "beat": 7.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "ті-"
+     },
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ла"
+     },
+     {
+      "beat": 9,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "лас-"
+     },
+     {
+      "beat": 10,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "ті-"
+     },
+     {
+      "beat": 10.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "воч-"
+     },
+     {
+      "beat": 11,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ка,"
+     },
+     {
+      "beat": 12,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "Ста-",
+      "br": true
+     },
+     {
+      "beat": 13,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "ла"
+     },
+     {
+      "beat": 13.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "со-"
+     },
+     {
+      "beat": 14,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "бі"
+     },
+     {
+      "beat": 15,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "ще-"
+     },
+     {
+      "beat": 16,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "бе-"
+     },
+     {
+      "beat": 16.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "та-"
+     },
+     {
+      "beat": 17,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ти,"
+     },
+     {
+      "beat": 18,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "Гос-",
+      "br": true
+     },
+     {
+      "beat": 19,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "по-"
+     },
+     {
+      "beat": 19.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "да-"
+     },
+     {
+      "beat": 20,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ря"
+     },
+     {
+      "beat": 21,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "вик-"
+     },
+     {
+      "beat": 22,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "ли-"
+     },
+     {
+      "beat": 22.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "ка-"
+     },
+     {
+      "beat": 23,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ти:"
+     },
+     {
+      "beat": 24,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "Вий-",
+      "br": true
+     },
+     {
+      "beat": 25,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "ди,"
+     },
+     {
+      "beat": 25.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "вий-"
+     },
+     {
+      "beat": 26,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ди,"
+     },
+     {
+      "beat": 27,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "гос-"
+     },
+     {
+      "beat": 28,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "по-"
+     },
+     {
+      "beat": 28.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "да-"
+     },
+     {
+      "beat": 29,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "рю,"
+     },
+     {
+      "beat": 30,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "По-",
+      "br": true
+     },
+     {
+      "beat": 31,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "ди-"
+     },
+     {
+      "beat": 31.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "ви-"
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ся"
+     },
+     {
+      "beat": 33,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "на"
+     },
+     {
+      "beat": 34,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "ко-"
+     },
+     {
+      "beat": 34.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "ша-"
+     },
+     {
+      "beat": 35,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ру,"
+     },
+     {
+      "beat": 36,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "Там",
+      "br": true
+     },
+     {
+      "beat": 37,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "о-"
+     },
+     {
+      "beat": 37.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "веч-"
+     },
+     {
+      "beat": 38,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ки"
+     },
+     {
+      "beat": 39,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "по-"
+     },
+     {
+      "beat": 40,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "ко-"
+     },
+     {
+      "beat": 40.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "ти-"
+     },
+     {
+      "beat": 41,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "лись,"
+     },
+     {
+      "beat": 42,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "А",
+      "br": true
+     },
+     {
+      "beat": 43,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "яг-"
+     },
+     {
+      "beat": 43.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "нич-"
+     },
+     {
+      "beat": 44,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ки"
+     },
+     {
+      "beat": 45,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "на-"
+     },
+     {
+      "beat": 46,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "ро-"
+     },
+     {
+      "beat": 46.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "ди-"
+     },
+     {
+      "beat": 47,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "лись."
+     },
+     {
+      "beat": 48,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "В те-",
+      "br": true
+     },
+     {
+      "beat": 49,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "бе"
+     },
+     {
+      "beat": 49.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "то-"
+     },
+     {
+      "beat": 50,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "вар"
+     },
+     {
+      "beat": 51,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "весь"
+     },
+     {
+      "beat": 52,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "хо-"
+     },
+     {
+      "beat": 52.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "ро-"
+     },
+     {
+      "beat": 53,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ший,"
+     },
+     {
+      "beat": 54,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "Бу-",
+      "br": true
+     },
+     {
+      "beat": 55,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "деш"
+     },
+     {
+      "beat": 55.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "ма-"
+     },
+     {
+      "beat": 56,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ти"
+     },
+     {
+      "beat": 57,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "мір-"
+     },
+     {
+      "beat": 58,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "ку"
+     },
+     {
+      "beat": 58.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "гро-"
+     },
+     {
+      "beat": 59,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "шей."
+     },
+     {
+      "beat": 60,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "Хоч",
+      "br": true
+     },
+     {
+      "beat": 61,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "не"
+     },
+     {
+      "beat": 61.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "гро-"
+     },
+     {
+      "beat": 62,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ші,"
+     },
+     {
+      "beat": 63,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "то"
+     },
+     {
+      "beat": 64,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "по-"
+     },
+     {
+      "beat": 64.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "ло-"
+     },
+     {
+      "beat": 65,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ва:"
+     },
+     {
+      "beat": 66,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "В те-",
+      "br": true
+     },
+     {
+      "beat": 67,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "бе"
+     },
+     {
+      "beat": 67.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "жін-"
+     },
+     {
+      "beat": 68,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ка"
+     },
+     {
+      "beat": 69,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "чор-"
+     },
+     {
+      "beat": 70,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "но-"
+     },
+     {
+      "beat": 70.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "бро-"
+     },
+     {
+      "beat": 71,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ва."
+     },
+     {
+      "beat": 72,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 73,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 73.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 74,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 75,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 76,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "рі-"
+     },
+     {
+      "beat": 76.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "воч-"
+     },
+     {
+      "beat": 77,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ка,"
+     },
+     {
+      "beat": 78,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "При-",
+      "br": true
+     },
+     {
+      "beat": 79,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "ле-"
+     },
+     {
+      "beat": 79.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "ті-"
+     },
+     {
+      "beat": 80,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ла"
+     },
+     {
+      "beat": 81,
+      "length": 1,
+      "pitch": 70,
+      "lyric": "лас-"
+     },
+     {
+      "beat": 82,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "ті-"
+     },
+     {
+      "beat": 82.5,
+      "length": 0.5,
+      "pitch": 70,
+      "lyric": "воч-"
+     },
+     {
+      "beat": 83,
+      "length": 4,
+      "pitch": 67,
+      "lyric": "ка."
+     }
+    ]
+   },
+   "melody": true
+  },
+  {
+   "key": "alto",
+   "name": "Alto",
+   "range": {
+    "low": 58,
+    "high": 67
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 12,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "Ста-",
+      "br": true
+     },
+     {
+      "beat": 13,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ла"
+     },
+     {
+      "beat": 13.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "со-"
+     },
+     {
+      "beat": 14,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "бі"
+     },
+     {
+      "beat": 15,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "ще-"
+     },
+     {
+      "beat": 16,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "бе-"
+     },
+     {
+      "beat": 16.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "та-"
+     },
+     {
+      "beat": 17,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "ти,"
+     },
+     {
+      "beat": 18,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "Гос-",
+      "br": true
+     },
+     {
+      "beat": 19,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "по-"
+     },
+     {
+      "beat": 19.5,
+      "length": 0.5,
+      "pitch": 63,
+      "lyric": "да-"
+     },
+     {
+      "beat": 20,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "ря"
+     },
+     {
+      "beat": 21,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "вик-"
+     },
+     {
+      "beat": 22,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ли-"
+     },
+     {
+      "beat": 22.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ка-"
+     },
+     {
+      "beat": 23,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "ти:"
+     },
+     {
+      "beat": 24,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "Вий-",
+      "br": true
+     },
+     {
+      "beat": 25,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ди,"
+     },
+     {
+      "beat": 25.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "вий-"
+     },
+     {
+      "beat": 26,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "ди,"
+     },
+     {
+      "beat": 27,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "гос-"
+     },
+     {
+      "beat": 28,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "по-"
+     },
+     {
+      "beat": 28.5,
+      "length": 0.5,
+      "pitch": 63,
+      "lyric": "да-"
+     },
+     {
+      "beat": 29,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "рю,"
+     },
+     {
+      "beat": 30,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "По-",
+      "br": true
+     },
+     {
+      "beat": 31,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "ди-"
+     },
+     {
+      "beat": 31.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ви-"
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "ся"
+     },
+     {
+      "beat": 33,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "на"
+     },
+     {
+      "beat": 34,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ко-"
+     },
+     {
+      "beat": 34.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ша-"
+     },
+     {
+      "beat": 35,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "ру,"
+     },
+     {
+      "beat": 36,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "Там",
+      "br": true
+     },
+     {
+      "beat": 37,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "о-"
+     },
+     {
+      "beat": 37.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "веч-"
+     },
+     {
+      "beat": 38,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "ки"
+     },
+     {
+      "beat": 39,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "по-"
+     },
+     {
+      "beat": 40,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ко-"
+     },
+     {
+      "beat": 40.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ти-"
+     },
+     {
+      "beat": 41,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "лись,"
+     },
+     {
+      "beat": 42,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "А",
+      "br": true
+     },
+     {
+      "beat": 43,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "яг-"
+     },
+     {
+      "beat": 43.5,
+      "length": 0.5,
+      "pitch": 63,
+      "lyric": "нич-"
+     },
+     {
+      "beat": 44,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "ки"
+     },
+     {
+      "beat": 45,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "на-"
+     },
+     {
+      "beat": 46,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ро-"
+     },
+     {
+      "beat": 46.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ди-"
+     },
+     {
+      "beat": 47,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "лись."
+     },
+     {
+      "beat": 48,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "В те-",
+      "br": true
+     },
+     {
+      "beat": 49,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "бе"
+     },
+     {
+      "beat": 49.5,
+      "length": 0.5,
+      "pitch": 63,
+      "lyric": "то-"
+     },
+     {
+      "beat": 50,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "вар"
+     },
+     {
+      "beat": 51,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "весь"
+     },
+     {
+      "beat": 52,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "хо-"
+     },
+     {
+      "beat": 52.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ро-"
+     },
+     {
+      "beat": 53,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "ший,"
+     },
+     {
+      "beat": 54,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "Бу-",
+      "br": true
+     },
+     {
+      "beat": 55,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "деш"
+     },
+     {
+      "beat": 55.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ма-"
+     },
+     {
+      "beat": 56,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "ти"
+     },
+     {
+      "beat": 57,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "мір-"
+     },
+     {
+      "beat": 58,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "ку"
+     },
+     {
+      "beat": 58.5,
+      "length": 0.5,
+      "pitch": 63,
+      "lyric": "гро-"
+     },
+     {
+      "beat": 59,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "шей."
+     },
+     {
+      "beat": 60,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "Хоч",
+      "br": true
+     },
+     {
+      "beat": 61,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "не"
+     },
+     {
+      "beat": 61.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "гро-"
+     },
+     {
+      "beat": 62,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "ші,"
+     },
+     {
+      "beat": 63,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "то"
+     },
+     {
+      "beat": 64,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "по-"
+     },
+     {
+      "beat": 64.5,
+      "length": 0.5,
+      "pitch": 63,
+      "lyric": "ло-"
+     },
+     {
+      "beat": 65,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "ва:"
+     },
+     {
+      "beat": 66,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "В те-",
+      "br": true
+     },
+     {
+      "beat": 67,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "бе"
+     },
+     {
+      "beat": 67.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "жін-"
+     },
+     {
+      "beat": 68,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "ка"
+     },
+     {
+      "beat": 69,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "чор-"
+     },
+     {
+      "beat": 70,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "но-"
+     },
+     {
+      "beat": 70.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "бро-"
+     },
+     {
+      "beat": 71,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "ва."
+     },
+     {
+      "beat": 72,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 73,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 73.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 74,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 75,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 76,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "рі-"
+     },
+     {
+      "beat": 76.5,
+      "length": 0.5,
+      "pitch": 63,
+      "lyric": "воч-"
+     },
+     {
+      "beat": 77,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "ка,"
+     },
+     {
+      "beat": 78,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "При-",
+      "br": true
+     },
+     {
+      "beat": 79,
+      "length": 0.5,
+      "pitch": 65,
+      "lyric": "ле-"
+     },
+     {
+      "beat": 79.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "ті-"
+     },
+     {
+      "beat": 80,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "ла"
+     },
+     {
+      "beat": 81,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "лас-"
+     },
+     {
+      "beat": 82,
+      "length": 0.5,
+      "pitch": 60,
+      "lyric": "ті-"
+     },
+     {
+      "beat": 82.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "воч-"
+     },
+     {
+      "beat": 83,
+      "length": 4,
+      "pitch": 62,
+      "lyric": "ка."
+     }
+    ]
+   }
+  },
+  {
+   "key": "tenor",
+   "name": "Tenor",
+   "range": {
+    "low": 55,
+    "high": 60
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 36,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 38,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 39,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 41,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 42,
+      "length": 2,
+      "pitch": 58,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 44,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 45,
+      "length": 2,
+      "pitch": 58,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 47,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 48,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 50,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 51,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 53,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 54,
+      "length": 2,
+      "pitch": 58,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 56,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 57,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 59,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 60,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 62,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 63,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 65,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 66,
+      "length": 2,
+      "pitch": 58,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 68,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 69,
+      "length": 2,
+      "pitch": 58,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 71,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 72,
+      "length": 2,
+      "pitch": 58,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 74,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 75,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 77,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 78,
+      "length": 2,
+      "pitch": 58,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 80,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 81,
+      "length": 2,
+      "pitch": 58,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 83,
+      "length": 4,
+      "pitch": 58,
+      "lyric": "рик."
+     }
+    ]
+   }
+  },
+  {
+   "key": "bass",
+   "name": "Bass",
+   "range": {
+    "low": 43,
+    "high": 55
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 24,
+      "length": 3,
+      "pitch": 55,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 27,
+      "length": 3,
+      "pitch": 51,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 30,
+      "length": 3,
+      "pitch": 48,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 33,
+      "length": 3,
+      "pitch": 50,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 36,
+      "length": 3,
+      "pitch": 43,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 39,
+      "length": 3,
+      "pitch": 43,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 42,
+      "length": 3,
+      "pitch": 48,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 45,
+      "length": 3,
+      "pitch": 50,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 48,
+      "length": 3,
+      "pitch": 51,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 51,
+      "length": 3,
+      "pitch": 51,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 54,
+      "length": 3,
+      "pitch": 48,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 57,
+      "length": 3,
+      "pitch": 48,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 60,
+      "length": 3,
+      "pitch": 52,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 63,
+      "length": 3,
+      "pitch": 51,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 66,
+      "length": 3,
+      "pitch": 48,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 69,
+      "length": 3,
+      "pitch": 50,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 72,
+      "length": 3,
+      "pitch": 55,
+      "lyric": "Щед-",
+      "br": true
+     },
+     {
+      "beat": 75,
+      "length": 3,
+      "pitch": 51,
+      "lyric": "рик,"
+     },
+     {
+      "beat": 78,
+      "length": 3,
+      "pitch": 48,
+      "lyric": "щед-"
+     },
+     {
+      "beat": 81,
+      "length": 6,
+      "pitch": 43,
+      "lyric": "рик."
+     }
+    ]
+   }
+  }
+ ],
+ "voicings": {
+  "2": [
+   "soprano",
+   "alto"
+  ],
+  "3": [
+   "soprano",
+   "alto",
+   "bass"
+  ],
+  "4": [
+   "soprano",
+   "alto",
+   "tenor",
+   "bass"
+  ]
+ }
+}
