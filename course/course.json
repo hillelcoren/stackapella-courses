@@ -155,7 +155,7 @@
                   {
                     "beat": 6,
                     "length": 2,
-                    "step": -2,
+                    "step": -3,
                     "lyric": "oo"
                   }
                 ],
@@ -259,7 +259,7 @@
                     "en": "Breathe in low"
                   },
                   "detail": {
-                    "en": "Like you're filling your belly"
+                    "en": "Let your belly and lower ribs widen"
                   }
                 },
                 {
@@ -419,6 +419,42 @@
                 ],
                 "turn": true
               }
+            },
+            {
+              "kind": "play",
+              "text": {
+                "en": "Now six beats. Breathe low first."
+              },
+              "exercise": {
+                "tempo": 72,
+                "notes": [
+                  {
+                    "beat": 0,
+                    "length": 6,
+                    "step": 0,
+                    "lyric": "oo"
+                  }
+                ],
+                "turn": true
+              }
+            },
+            {
+              "kind": "play",
+              "text": {
+                "en": "Now eight beats, steady to the end."
+              },
+              "exercise": {
+                "tempo": 72,
+                "notes": [
+                  {
+                    "beat": 0,
+                    "length": 8,
+                    "step": 0,
+                    "lyric": "oo"
+                  }
+                ],
+                "turn": true
+              }
             }
           ]
         },
@@ -446,7 +482,7 @@
                 }
               },
               "headline": {
-                "en": "Singing against a drone is how choirs tune."
+                "en": "Singers have tuned to drones for centuries, from Indian classical music to choir warm-ups."
               },
               "steps": [
                 {
@@ -467,10 +503,10 @@
                 },
                 {
                   "title": {
-                    "en": "Hear them settle"
+                    "en": "Hear them melt"
                   },
                   "detail": {
-                    "en": "The buzz stops when you're right"
+                    "en": "A slow wobble means close. When it stops, you match"
                   }
                 }
               ],
@@ -486,7 +522,7 @@
                 "tempo": 72,
                 "notes": [
                   {
-                    "beat": 0,
+                    "beat": 2,
                     "length": 6,
                     "step": 0,
                     "lyric": "oo"
@@ -587,7 +623,7 @@
                 "tempo": 72,
                 "notes": [
                   {
-                    "beat": 0,
+                    "beat": 2,
                     "length": 8,
                     "step": 0,
                     "lyric": "oo"
@@ -934,7 +970,7 @@
             {
               "kind": "learn",
               "headline": {
-                "en": "In a song, each word sits on a note."
+                "en": "In a song, each syllable sits on a note. Some stretch over two."
               },
               "steps": [
                 {
@@ -947,10 +983,10 @@
                 },
                 {
                   "title": {
-                    "en": "Sing word by word"
+                    "en": "Sing syllable by syllable"
                   },
                   "detail": {
-                    "en": "Each on its own note"
+                    "en": "Each on its note, some held over two"
                   }
                 },
                 {
@@ -1073,9 +1109,21 @@
                 "tempo": 72,
                 "notes": [
                   {
-                    "beat": 0,
+                    "beat": 2,
                     "length": 3,
                     "step": 0,
+                    "lyric": "mm"
+                  },
+                  {
+                    "beat": 5,
+                    "length": 3,
+                    "step": 4,
+                    "lyric": "mm"
+                  },
+                  {
+                    "beat": 8,
+                    "length": 3,
+                    "step": -3,
                     "lyric": "mm"
                   }
                 ],
@@ -1098,18 +1146,18 @@
                 },
                 {
                   "title": {
-                    "en": "Step above it"
+                    "en": "Climb to mi"
                   },
                   "detail": {
-                    "en": "While the drone keeps going"
+                    "en": "Two steps above the drone"
                   }
                 },
                 {
                   "title": {
-                    "en": "Then step below"
+                    "en": "Drop to la"
                   },
                   "detail": {
-                    "en": "Hear the two notes together"
+                    "en": "Below the drone"
                   }
                 }
               ],
@@ -1117,9 +1165,9 @@
               "reviewed": false
             },
             {
-              "kind": "play",
+              "kind": "try",
               "text": {
-                "en": "Sing with the drone: the same note, then above, then below."
+                "en": "Find each note over the drone: the same, then mi above, then la below."
               },
               "exercise": {
                 "tempo": 72,
@@ -1148,8 +1196,75 @@
                   "step": 0
                 }
               }
+            },
+            {
+              "kind": "play",
+              "text": {
+                "en": "Hear them over the drone, then sing them with it."
+              },
+              "exercise": {
+                "tempo": 72,
+                "notes": [
+                  {
+                    "beat": 0,
+                    "length": 3,
+                    "step": 0,
+                    "lyric": "mm"
+                  },
+                  {
+                    "beat": 3,
+                    "length": 3,
+                    "step": 4,
+                    "lyric": "mm"
+                  },
+                  {
+                    "beat": 6,
+                    "length": 3,
+                    "step": -3,
+                    "lyric": "mm"
+                  }
+                ],
+                "turn": true,
+                "drone": {
+                  "step": 0
+                }
+              }
+            },
+            {
+              "kind": "play",
+              "text": {
+                "en": "Now just the drone: the same note, then above, then below."
+              },
+              "exercise": {
+                "tempo": 72,
+                "notes": [
+                  {
+                    "beat": 2,
+                    "length": 3,
+                    "step": 0,
+                    "lyric": "mm"
+                  },
+                  {
+                    "beat": 5,
+                    "length": 3,
+                    "step": 4,
+                    "lyric": "mm"
+                  },
+                  {
+                    "beat": 8,
+                    "length": 3,
+                    "step": -3,
+                    "lyric": "mm"
+                  }
+                ],
+                "turn": false,
+                "drone": {
+                  "step": 0
+                }
+              }
             }
-          ]
+          ],
+          "strictness": "relaxed"
         },
         {
           "id": "5-third",
@@ -1163,19 +1278,16 @@
                 "tempo": 72,
                 "notes": [
                   {
-                    "beat": 0,
-                    "length": 2,
-                    "step": 0,
-                    "lyric": "oo"
-                  },
-                  {
                     "beat": 2,
-                    "length": 2,
+                    "length": 4,
                     "step": 4,
                     "lyric": "oo"
                   }
                 ],
-                "turn": false
+                "turn": false,
+                "drone": {
+                  "step": 0
+                }
               },
               "headline": {
                 "en": "A third is the sweetest harmony."
@@ -1191,7 +1303,7 @@
                 },
                 {
                   "title": {
-                    "en": "Find the third above"
+                    "en": "Mi above do is a third"
                   },
                   "detail": {
                     "en": "Two notes that ring together"
@@ -1210,9 +1322,9 @@
               "reviewed": false
             },
             {
-              "kind": "play",
+              "kind": "try",
               "text": {
-                "en": "A note plays: sing the third above it while it keeps sounding."
+                "en": "Find mi above the drone. It waits for you."
               },
               "exercise": {
                 "tempo": 72,
@@ -1233,7 +1345,49 @@
             {
               "kind": "play",
               "text": {
-                "en": "Now the third below."
+                "en": "Hear mi over the drone, then sing it with the drone."
+              },
+              "exercise": {
+                "tempo": 72,
+                "notes": [
+                  {
+                    "beat": 0,
+                    "length": 4,
+                    "step": 4,
+                    "lyric": "oo"
+                  }
+                ],
+                "turn": true,
+                "drone": {
+                  "step": 0
+                }
+              }
+            },
+            {
+              "kind": "play",
+              "text": {
+                "en": "Now just the drone: sing the third above it."
+              },
+              "exercise": {
+                "tempo": 72,
+                "notes": [
+                  {
+                    "beat": 2,
+                    "length": 4,
+                    "step": 4,
+                    "lyric": "oo"
+                  }
+                ],
+                "turn": false,
+                "drone": {
+                  "step": 0
+                }
+              }
+            },
+            {
+              "kind": "play",
+              "text": {
+                "en": "The third below: hear la under the drone, then sing it."
               },
               "exercise": {
                 "tempo": 72,
@@ -1245,13 +1399,35 @@
                     "lyric": "oo"
                   }
                 ],
+                "turn": true,
+                "drone": {
+                  "step": 0
+                }
+              }
+            },
+            {
+              "kind": "play",
+              "text": {
+                "en": "Now just the drone: sing the third below it."
+              },
+              "exercise": {
+                "tempo": 72,
+                "notes": [
+                  {
+                    "beat": 2,
+                    "length": 4,
+                    "step": -3,
+                    "lyric": "oo"
+                  }
+                ],
                 "turn": false,
                 "drone": {
                   "step": 0
                 }
               }
             }
-          ]
+          ],
+          "strictness": "relaxed"
         },
         {
           "id": "5-round",
@@ -1313,7 +1489,7 @@
             {
               "kind": "use",
               "text": {
-                "en": "Learn the alto of Michael, Row the Boat Ashore, a third below the tune."
+                "en": "Learn the alto of Michael, Row the Boat Ashore: mostly a third below the tune, landing on the note below do at the ends."
               },
               "template": "michael-row",
               "singers": 2,
@@ -1348,74 +1524,6 @@
       },
       "colour": 6,
       "lessons": [
-        {
-          "id": "6-bass",
-          "title": {
-            "en": "The bass line"
-          },
-          "steps": [
-            {
-              "kind": "learn",
-              "headline": {
-                "en": "The bass is the floor the others stand on."
-              },
-              "steps": [
-                {
-                  "title": {
-                    "en": "Sing the chord's root"
-                  },
-                  "detail": {
-                    "en": "The lowest, steadiest note"
-                  }
-                },
-                {
-                  "title": {
-                    "en": "Move less"
-                  },
-                  "detail": {
-                    "en": "Others move; you anchor"
-                  }
-                },
-                {
-                  "title": {
-                    "en": "Sing \"oo\""
-                  },
-                  "detail": {
-                    "en": "Round and warm"
-                  }
-                }
-              ],
-              "visual": "bass",
-              "reviewed": false
-            },
-            {
-              "kind": "use",
-              "text": {
-                "en": "Learn the bass of Amazing Grace, for 3 singers."
-              },
-              "template": "amazing-grace",
-              "singers": 3,
-              "part": "bass"
-            }
-          ]
-        },
-        {
-          "id": "6-tenor",
-          "title": {
-            "en": "The tenor"
-          },
-          "steps": [
-            {
-              "kind": "use",
-              "text": {
-                "en": "Learn the tenor of Amazing Grace, the inner voice that fills the chord."
-              },
-              "template": "amazing-grace",
-              "singers": 4,
-              "part": "tenor"
-            }
-          ]
-        },
         {
           "id": "6-hold",
           "title": {
@@ -1465,7 +1573,7 @@
                 "tempo": 66,
                 "notes": [
                   {
-                    "beat": 0,
+                    "beat": 2,
                     "length": 8,
                     "step": 0,
                     "lyric": "oo"
@@ -1480,25 +1588,93 @@
                     "bass": null
                   },
                   {
-                    "beat": 2,
+                    "beat": 4,
                     "root": 5,
                     "quality": "maj",
                     "bass": 0
                   },
                   {
-                    "beat": 4,
+                    "beat": 6,
                     "root": 9,
                     "quality": "min",
                     "bass": null
                   },
                   {
-                    "beat": 6,
+                    "beat": 8,
                     "root": 0,
                     "quality": "maj",
                     "bass": null
                   }
                 ]
               }
+            }
+          ]
+        },
+        {
+          "id": "6-bass",
+          "title": {
+            "en": "The bass line"
+          },
+          "steps": [
+            {
+              "kind": "learn",
+              "headline": {
+                "en": "The bass is the floor the others stand on."
+              },
+              "steps": [
+                {
+                  "title": {
+                    "en": "Sing the chord's root"
+                  },
+                  "detail": {
+                    "en": "The note the chord is named after"
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Big jumps are normal"
+                  },
+                  "detail": {
+                    "en": "The bass leaps from root to root"
+                  }
+                },
+                {
+                  "title": {
+                    "en": "Sing \"oo\""
+                  },
+                  "detail": {
+                    "en": "Round and warm"
+                  }
+                }
+              ],
+              "visual": "bass",
+              "reviewed": false
+            },
+            {
+              "kind": "use",
+              "text": {
+                "en": "Learn the bass of Amazing Grace, for 3 singers. Too low? Sing it an octave up. We'll still light your notes."
+              },
+              "template": "amazing-grace",
+              "singers": 3,
+              "part": "bass"
+            }
+          ]
+        },
+        {
+          "id": "6-tenor",
+          "title": {
+            "en": "The tenor"
+          },
+          "steps": [
+            {
+              "kind": "use",
+              "text": {
+                "en": "Learn the tenor of Amazing Grace. It keeps coming back to the home note while the chords change around it, just as you held your note."
+              },
+              "template": "amazing-grace",
+              "singers": 4,
+              "part": "tenor"
             }
           ]
         },
@@ -1689,7 +1865,7 @@
             {
               "kind": "learn",
               "headline": {
-                "en": "Vibrato comes by itself when the breath is steady."
+                "en": "Vibrato often comes on its own when the breath is steady and the throat is easy. If it doesn't yet, that's fine: a straight tone is beautiful too."
               },
               "steps": [
                 {
