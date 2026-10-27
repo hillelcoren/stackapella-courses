@@ -1,0 +1,694 @@
+{
+ "id": "happy-birthday",
+ "version": 1,
+ "reviewed": false,
+ "title": "Happy Birthday",
+ "description": "The song everyone knows, for 2 to 4 singers: the soprano sings the tune, the alto follows it a third below, the tenor fills the chord with the words, and the bass holds the roots on \"oo\". Short, and a lovely surprise to send someone.",
+ "difficulty": "beginner",
+ "genre": [
+  "celebration",
+  "traditional"
+ ],
+ "tempo": 100,
+ "key": "F",
+ "timeSignature": "3/4",
+ "pickupBeats": 1,
+ "credits": {
+  "words": "Traditional (published 1912)",
+  "tune": "\"Good Morning to All\", Mildred J. Hill (1893)",
+  "arrangement": "Stackapella (draft)"
+ },
+ "licence": {
+  "words": "public domain: the US copyright claim was ruled invalid (2015); expired in the EU (2017)",
+  "tune": "public domain: published 1893",
+  "arrangement": "original, written for Stackapella",
+  "recordings": "synthesized guides",
+  "checked": null
+ },
+ "order": [
+  "soprano",
+  "bass",
+  "alto",
+  "tenor"
+ ],
+ "chords": [
+  {
+   "beat": 0,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 1,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 4,
+   "root": 0,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 10,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 13,
+   "root": 5,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 16,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 19,
+   "root": 5,
+   "quality": "maj",
+   "bass": 0
+  },
+  {
+   "beat": 21,
+   "root": 0,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 22,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  }
+ ],
+ "sections": [
+  {
+   "name": "Verse",
+   "startBeat": 0,
+   "endBeat": 25,
+   "phrases": [
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     12
+    ],
+    [
+     12,
+     18
+    ],
+    [
+     18,
+     25
+    ]
+   ]
+  }
+ ],
+ "parts": [
+  {
+   "key": "soprano",
+   "name": "Soprano",
+   "range": {
+    "low": 60,
+    "high": 72
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 0.75,
+      "pitch": 60,
+      "lyric": "Hap-",
+      "br": true
+     },
+     {
+      "beat": 0.75,
+      "length": 0.25,
+      "pitch": 60,
+      "lyric": "py"
+     },
+     {
+      "beat": 1,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "birth-"
+     },
+     {
+      "beat": 2,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "day"
+     },
+     {
+      "beat": 3,
+      "length": 1,
+      "pitch": 65,
+      "lyric": "to"
+     },
+     {
+      "beat": 4,
+      "length": 2,
+      "pitch": 64,
+      "lyric": "you,"
+     },
+     {
+      "beat": 6,
+      "length": 0.75,
+      "pitch": 60,
+      "lyric": "Hap-",
+      "br": true
+     },
+     {
+      "beat": 6.75,
+      "length": 0.25,
+      "pitch": 60,
+      "lyric": "py"
+     },
+     {
+      "beat": 7,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "birth-"
+     },
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "day"
+     },
+     {
+      "beat": 9,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "to"
+     },
+     {
+      "beat": 10,
+      "length": 2,
+      "pitch": 65,
+      "lyric": "you,"
+     },
+     {
+      "beat": 12,
+      "length": 0.75,
+      "pitch": 60,
+      "lyric": "Hap-",
+      "br": true
+     },
+     {
+      "beat": 12.75,
+      "length": 0.25,
+      "pitch": 60,
+      "lyric": "py"
+     },
+     {
+      "beat": 13,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "birth-"
+     },
+     {
+      "beat": 14,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "day"
+     },
+     {
+      "beat": 15,
+      "length": 1,
+      "pitch": 65,
+      "lyric": "dear"
+     },
+     {
+      "beat": 16,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "friend,"
+     },
+     {
+      "beat": 17,
+      "length": 1,
+      "pitch": 62
+     },
+     {
+      "beat": 18,
+      "length": 0.75,
+      "pitch": 70,
+      "lyric": "Hap-",
+      "br": true
+     },
+     {
+      "beat": 18.75,
+      "length": 0.25,
+      "pitch": 70,
+      "lyric": "py"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 69,
+      "lyric": "birth-"
+     },
+     {
+      "beat": 20,
+      "length": 1,
+      "pitch": 65,
+      "lyric": "day"
+     },
+     {
+      "beat": 21,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "to"
+     },
+     {
+      "beat": 22,
+      "length": 3,
+      "pitch": 65,
+      "lyric": "you."
+     }
+    ]
+   },
+   "melody": true
+  },
+  {
+   "key": "alto",
+   "name": "Alto",
+   "range": {
+    "low": 57,
+    "high": 65
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 0.75,
+      "pitch": 57,
+      "lyric": "Hap-",
+      "br": true
+     },
+     {
+      "beat": 0.75,
+      "length": 0.25,
+      "pitch": 57,
+      "lyric": "py"
+     },
+     {
+      "beat": 1,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "birth-"
+     },
+     {
+      "beat": 2,
+      "length": 1,
+      "pitch": 57,
+      "lyric": "day"
+     },
+     {
+      "beat": 3,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "to"
+     },
+     {
+      "beat": 4,
+      "length": 2,
+      "pitch": 58,
+      "lyric": "you,"
+     },
+     {
+      "beat": 6,
+      "length": 0.75,
+      "pitch": 58,
+      "lyric": "Hap-",
+      "br": true
+     },
+     {
+      "beat": 6.75,
+      "length": 0.25,
+      "pitch": 58,
+      "lyric": "py"
+     },
+     {
+      "beat": 7,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "birth-"
+     },
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "day"
+     },
+     {
+      "beat": 9,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "to"
+     },
+     {
+      "beat": 10,
+      "length": 2,
+      "pitch": 57,
+      "lyric": "you,"
+     },
+     {
+      "beat": 12,
+      "length": 0.75,
+      "pitch": 57,
+      "lyric": "Hap-",
+      "br": true
+     },
+     {
+      "beat": 12.75,
+      "length": 0.25,
+      "pitch": 57,
+      "lyric": "py"
+     },
+     {
+      "beat": 13,
+      "length": 1,
+      "pitch": 65,
+      "lyric": "birth-"
+     },
+     {
+      "beat": 14,
+      "length": 1,
+      "pitch": 65,
+      "lyric": "day"
+     },
+     {
+      "beat": 15,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "dear"
+     },
+     {
+      "beat": 16,
+      "length": 1,
+      "pitch": 62,
+      "lyric": "friend,"
+     },
+     {
+      "beat": 17,
+      "length": 1,
+      "pitch": 58
+     },
+     {
+      "beat": 18,
+      "length": 0.75,
+      "pitch": 62,
+      "lyric": "Hap-",
+      "br": true
+     },
+     {
+      "beat": 18.75,
+      "length": 0.25,
+      "pitch": 62,
+      "lyric": "py"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 65,
+      "lyric": "birth-"
+     },
+     {
+      "beat": 20,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "day"
+     },
+     {
+      "beat": 21,
+      "length": 1,
+      "pitch": 64,
+      "lyric": "to"
+     },
+     {
+      "beat": 22,
+      "length": 3,
+      "pitch": 57,
+      "lyric": "you."
+     }
+    ]
+   }
+  },
+  {
+   "key": "tenor",
+   "name": "Tenor",
+   "range": {
+    "low": 53,
+    "high": 60
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 0.75,
+      "pitch": 53,
+      "lyric": "Hap-",
+      "br": true
+     },
+     {
+      "beat": 0.75,
+      "length": 0.25,
+      "pitch": 53,
+      "lyric": "py"
+     },
+     {
+      "beat": 1,
+      "length": 1,
+      "pitch": 53,
+      "lyric": "birth-"
+     },
+     {
+      "beat": 2,
+      "length": 1,
+      "pitch": 53,
+      "lyric": "day"
+     },
+     {
+      "beat": 3,
+      "length": 1,
+      "pitch": 57,
+      "lyric": "to"
+     },
+     {
+      "beat": 4,
+      "length": 2,
+      "pitch": 55,
+      "lyric": "you,"
+     },
+     {
+      "beat": 6,
+      "length": 0.75,
+      "pitch": 55,
+      "lyric": "Hap-",
+      "br": true
+     },
+     {
+      "beat": 6.75,
+      "length": 0.25,
+      "pitch": 55,
+      "lyric": "py"
+     },
+     {
+      "beat": 7,
+      "length": 1,
+      "pitch": 55,
+      "lyric": "birth-"
+     },
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 55,
+      "lyric": "day"
+     },
+     {
+      "beat": 9,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "to"
+     },
+     {
+      "beat": 10,
+      "length": 2,
+      "pitch": 53,
+      "lyric": "you,"
+     },
+     {
+      "beat": 12,
+      "length": 0.75,
+      "pitch": 53,
+      "lyric": "Hap-",
+      "br": true
+     },
+     {
+      "beat": 12.75,
+      "length": 0.25,
+      "pitch": 53,
+      "lyric": "py"
+     },
+     {
+      "beat": 13,
+      "length": 1,
+      "pitch": 57,
+      "lyric": "birth-"
+     },
+     {
+      "beat": 14,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "day"
+     },
+     {
+      "beat": 15,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "dear"
+     },
+     {
+      "beat": 16,
+      "length": 2,
+      "pitch": 58,
+      "lyric": "friend,"
+     },
+     {
+      "beat": 18,
+      "length": 0.75,
+      "pitch": 53,
+      "lyric": "Hap-",
+      "br": true
+     },
+     {
+      "beat": 18.75,
+      "length": 0.25,
+      "pitch": 53,
+      "lyric": "py"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 60,
+      "lyric": "birth-"
+     },
+     {
+      "beat": 20,
+      "length": 1,
+      "pitch": 57,
+      "lyric": "day"
+     },
+     {
+      "beat": 21,
+      "length": 1,
+      "pitch": 58,
+      "lyric": "to"
+     },
+     {
+      "beat": 22,
+      "length": 3,
+      "pitch": 57,
+      "lyric": "you."
+     }
+    ]
+   }
+  },
+  {
+   "key": "bass",
+   "name": "Bass",
+   "range": {
+    "low": 41,
+    "high": 48
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 1,
+      "length": 3,
+      "pitch": 41,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 4,
+      "length": 3,
+      "pitch": 48
+     },
+     {
+      "beat": 7,
+      "length": 3,
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 10,
+      "length": 3,
+      "pitch": 41
+     },
+     {
+      "beat": 13,
+      "length": 3,
+      "pitch": 41,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 16,
+      "length": 3,
+      "pitch": 46
+     },
+     {
+      "beat": 19,
+      "length": 2,
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 21,
+      "length": 1,
+      "pitch": 48
+     },
+     {
+      "beat": 22,
+      "length": 3,
+      "pitch": 41
+     }
+    ]
+   }
+  }
+ ],
+ "voicings": {
+  "2": [
+   "soprano",
+   "alto"
+  ],
+  "3": [
+   "soprano",
+   "alto",
+   "bass"
+  ],
+  "4": [
+   "soprano",
+   "alto",
+   "tenor",
+   "bass"
+  ]
+ }
+}
