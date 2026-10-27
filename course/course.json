@@ -1175,6 +1175,240 @@
        }
       }
      ]
+    },
+    {
+     "id": "8-vibrato",
+     "title": {
+      "en": "A gentle vibrato"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "Vibrato is a gentle wave in a long note. It comes by itself when your breath is steady and your throat is relaxed, so never push it or shake it. Here, just hold each note easy and steady, and let it move if it wants to."
+       }
+      },
+      {
+       "kind": "try",
+       "text": {
+        "en": "Find each note and hold it, relaxed."
+       },
+       "exercise": {
+        "tempo": 60,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 4,
+          "step": 0,
+          "lyric": "ah"
+         },
+         {
+          "beat": 4,
+          "length": 4,
+          "step": 4,
+          "lyric": "ah"
+         }
+        ],
+        "turn": false
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Listen, then hold each long note steady and easy."
+       },
+       "exercise": {
+        "tempo": 60,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 4,
+          "step": 0,
+          "lyric": "ah"
+         },
+         {
+          "beat": 4,
+          "length": 6,
+          "step": 4,
+          "lyric": "ah"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ]
+    },
+    {
+     "id": "8-high-vowels",
+     "title": {
+      "en": "Vowels on high notes"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "High notes like room. As you climb, let the vowel open a little: \"ee\" leans toward \"ih\", \"ah\" gets taller. A tight, wide vowel pulls a high note sharp or thin."
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Climb on \"ah\", opening the vowel as you go up."
+       },
+       "exercise": {
+        "tempo": 66,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 1,
+          "step": 0,
+          "lyric": "ah"
+         },
+         {
+          "beat": 1,
+          "length": 1,
+          "step": 4,
+          "lyric": "ah"
+         },
+         {
+          "beat": 2,
+          "length": 1,
+          "step": 7,
+          "lyric": "ah"
+         },
+         {
+          "beat": 3,
+          "length": 3,
+          "step": 9,
+          "lyric": "ah"
+         }
+        ],
+        "turn": true
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Now on \"ee\": let it lean toward \"ih\" at the top."
+       },
+       "exercise": {
+        "tempo": 66,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 1,
+          "step": 0,
+          "lyric": "ee"
+         },
+         {
+          "beat": 1,
+          "length": 1,
+          "step": 4,
+          "lyric": "ee"
+         },
+         {
+          "beat": 2,
+          "length": 1,
+          "step": 7,
+          "lyric": "ee"
+         },
+         {
+          "beat": 3,
+          "length": 3,
+          "step": 9,
+          "lyric": "ih"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ]
+    },
+    {
+     "id": "8-phrasing",
+     "title": {
+      "en": "Shaping a line"
+     },
+     "steps": [
+      {
+       "kind": "learn",
+       "text": {
+        "en": "A phrase is a breath with a shape: it grows toward its highest or longest note, then settles. Take your breath before it, not in the middle, and let the last note fade rather than stop."
+       }
+      },
+      {
+       "kind": "play",
+       "text": {
+        "en": "Sing it in one breath, growing to the top and settling at the end."
+       },
+       "exercise": {
+        "tempo": 72,
+        "notes": [
+         {
+          "beat": 0,
+          "length": 1,
+          "step": 0,
+          "lyric": "loo"
+         },
+         {
+          "beat": 1,
+          "length": 1,
+          "step": 2,
+          "lyric": "loo"
+         },
+         {
+          "beat": 2,
+          "length": 1,
+          "step": 4,
+          "lyric": "loo"
+         },
+         {
+          "beat": 3,
+          "length": 2,
+          "step": 5,
+          "lyric": "loo"
+         },
+         {
+          "beat": 5,
+          "length": 1,
+          "step": 4,
+          "lyric": "loo"
+         },
+         {
+          "beat": 6,
+          "length": 1,
+          "step": 2,
+          "lyric": "loo"
+         },
+         {
+          "beat": 7,
+          "length": 3,
+          "step": 0,
+          "lyric": "loo"
+         }
+        ],
+        "turn": true
+       }
+      }
+     ]
+    },
+    {
+     "id": "8-challenge",
+     "title": {
+      "en": "Danny Boy, with expression"
+     },
+     "steps": [
+      {
+       "kind": "record",
+       "text": {
+        "en": "The unit's challenge: record the melody of Danny Boy, shaping each line: a breath before it, growing to its top, settling at the end."
+       },
+       "template": "danny-boy",
+       "singers": 4,
+       "part": "soprano"
+      }
+     ],
+     "challenge": true
     }
    ]
   }
