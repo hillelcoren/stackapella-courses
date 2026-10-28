@@ -1,6 +1,6 @@
 {
  "id": "silent-night",
- "version": 2,
+ "version": 3,
  "reviewed": false,
  "title": "Silent Night",
  "description": "The gentle carol, for 2 to 4 singers: the soprano sings the melody, the alto a third below most of the way, the bass holds the roots on \"oo\", and the tenor fills the chord. Slow and singable.",
@@ -382,13 +382,13 @@
      },
      {
       "beat": 60.0,
-      "length": 1,
+      "length": 1.5,
       "pitch": 72,
       "lyric": "in"
      },
      {
-      "beat": 61.0,
-      "length": 1,
+      "beat": 61.5,
+      "length": 0.5,
       "pitch": 67,
       "lyric": "hea-"
      },
@@ -429,7 +429,7 @@
    "name": "Alto",
    "range": {
     "low": 59,
-    "high": 74
+    "high": 71
    },
    "guide": {
     "type": "notes",
@@ -503,13 +503,13 @@
      {
       "beat": 18.0,
       "length": 2,
-      "pitch": 67,
+      "pitch": 64,
       "lyric": "all"
      },
      {
       "beat": 20.0,
       "length": 1,
-      "pitch": 67,
+      "pitch": 64,
       "lyric": "is"
      },
      {
@@ -643,7 +643,7 @@
      {
       "beat": 51.0,
       "length": 1.5,
-      "pitch": 74,
+      "pitch": 71,
       "lyric": "hea-"
      },
      {
@@ -661,25 +661,25 @@
      {
       "beat": 54.0,
       "length": 3,
-      "pitch": 67,
+      "pitch": 64,
       "lyric": "peace,"
      },
      {
       "beat": 57.0,
       "length": 3,
-      "pitch": 72,
+      "pitch": 67,
       "lyric": "sleep",
       "br": true
      },
      {
       "beat": 60.0,
-      "length": 1,
-      "pitch": 67,
+      "length": 1.5,
+      "pitch": 64,
       "lyric": "in"
      },
      {
-      "beat": 61.0,
-      "length": 1,
+      "beat": 61.5,
+      "length": 0.5,
       "pitch": 64,
       "lyric": "hea-"
      },
@@ -718,7 +718,7 @@
    "key": "tenor",
    "name": "Tenor",
    "range": {
-    "low": 50,
+    "low": 52,
     "high": 60
    },
    "guide": {
@@ -793,19 +793,19 @@
      {
       "beat": 18.0,
       "length": 2,
-      "pitch": 52,
+      "pitch": 55,
       "lyric": "all"
      },
      {
       "beat": 20.0,
       "length": 1,
-      "pitch": 52,
+      "pitch": 55,
       "lyric": "is"
      },
      {
       "beat": 21.0,
       "length": 3,
-      "pitch": 52,
+      "pitch": 55,
       "lyric": "bright,"
      },
      {
@@ -842,19 +842,19 @@
      {
       "beat": 30.0,
       "length": 1.5,
-      "pitch": 52,
+      "pitch": 55,
       "lyric": "ther"
      },
      {
       "beat": 31.5,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 55,
       "lyric": "and"
      },
      {
       "beat": 32.0,
       "length": 1,
-      "pitch": 52
+      "pitch": 55
      },
      {
       "beat": 33.0,
@@ -945,13 +945,13 @@
      {
       "beat": 53.0,
       "length": 1,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "ly"
      },
      {
       "beat": 54.0,
       "length": 3,
-      "pitch": 52,
+      "pitch": 55,
       "lyric": "peace,"
      },
      {
@@ -963,13 +963,13 @@
      },
      {
       "beat": 60.0,
-      "length": 1,
-      "pitch": 52,
+      "length": 1.5,
+      "pitch": 55,
       "lyric": "in"
      },
      {
-      "beat": 61.0,
-      "length": 1,
+      "beat": 61.5,
+      "length": 0.5,
       "pitch": 52,
       "lyric": "hea-"
      },
@@ -982,18 +982,18 @@
      {
       "beat": 63.0,
       "length": 1.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "ly"
      },
      {
       "beat": 64.5,
       "length": 0.5,
-      "pitch": 50
+      "pitch": 55
      },
      {
       "beat": 65.0,
       "length": 1,
-      "pitch": 53
+      "pitch": 55
      },
      {
       "beat": 66.0,
@@ -1039,7 +1039,9 @@
      {
       "beat": 12,
       "length": 3,
-      "pitch": 43
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
      },
      {
       "beat": 15,
@@ -1081,7 +1083,9 @@
      {
       "beat": 36,
       "length": 3,
-      "pitch": 41
+      "pitch": 41,
+      "lyric": "oo",
+      "br": true
      },
      {
       "beat": 39,
@@ -1118,7 +1122,9 @@
      {
       "beat": 57,
       "length": 3,
-      "pitch": 48
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
      },
      {
       "beat": 60,
