@@ -1,16 +1,16 @@
 {
  "id": "danny-boy",
- "version": 1,
+ "version": 2,
  "reviewed": false,
  "title": "Danny Boy",
  "description": "The Irish song to the Londonderry Air, for 2 to 4 singers: the soprano sings the melody, the alto moves beneath it, the bass holds the roots on \"oo\", and the tenor fills the chord. Slow and expressive, with a wide melody.",
- "difficulty": "beginner",
+ "difficulty": "intermediate",
  "genre": [
   "folk",
   "irish"
  ],
  "tempo": 60,
- "key": "C",
+ "key": "D",
  "timeSignature": "4/4",
  "pickupBeats": 2,
  "credits": {
@@ -52,145 +52,175 @@
  "chords": [
   {
    "beat": 0.0,
-   "root": 7,
-   "quality": "sus4",
-   "bass": 2
+   "root": 9,
+   "quality": "maj",
+   "bass": null
   },
   {
    "beat": 2.0,
-   "root": 0,
+   "root": 2,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 6.0,
-   "root": 2,
+   "root": 4,
    "quality": "min",
-   "bass": 5
+   "bass": 7
   },
   {
-   "beat": 9.0,
-   "root": 0,
+   "beat": 8.0,
+   "root": 2,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 12.0,
-   "root": 9,
+   "root": 11,
    "quality": "min7",
    "bass": null
   },
   {
+   "beat": 13.0,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
    "beat": 14.0,
-   "root": 7,
+   "root": 9,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 18.0,
-   "root": 0,
+   "root": 2,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 22.0,
-   "root": 2,
+   "root": 4,
    "quality": "min",
-   "bass": 5
+   "bass": 7
   },
   {
    "beat": 24.0,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
+   "beat": 26.0,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 28.0,
    "root": 9,
    "quality": "dom7",
    "bass": null
   },
   {
-   "beat": 26.0,
-   "root": 0,
+   "beat": 30.0,
+   "root": 2,
    "quality": "maj",
    "bass": null
   },
   {
-   "beat": 33.0,
-   "root": 7,
-   "quality": "sus2",
+   "beat": 32.0,
+   "root": 9,
+   "quality": "maj",
    "bass": null
   },
   {
    "beat": 34.0,
-   "root": 0,
+   "root": 2,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 36.0,
-   "root": 4,
+   "root": 6,
    "quality": "min",
    "bass": null
   },
   {
    "beat": 38.0,
-   "root": 0,
+   "root": 2,
    "quality": "maj",
    "bass": null
   },
   {
-   "beat": 41.0,
-   "root": 7,
-   "quality": "sus2",
+   "beat": 40.0,
+   "root": 9,
+   "quality": "maj",
    "bass": null
   },
   {
    "beat": 42.0,
-   "root": 0,
+   "root": 2,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 44.0,
-   "root": 9,
+   "root": 11,
    "quality": "min",
    "bass": null
   },
   {
+   "beat": 45.0,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
    "beat": 46.0,
-   "root": 7,
+   "root": 9,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 50.0,
-   "root": 0,
+   "root": 2,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 52.0,
-   "root": 2,
+   "root": 4,
    "quality": "min",
-   "bass": 5
+   "bass": 7
   },
   {
    "beat": 54.0,
-   "root": 0,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 56.0,
+   "root": 9,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 58.0,
-   "root": 9,
-   "quality": "min",
+   "root": 2,
+   "quality": "maj",
    "bass": null
   },
   {
    "beat": 60.0,
-   "root": 7,
+   "root": 9,
    "quality": "dom7",
    "bass": null
   },
   {
    "beat": 62.0,
-   "root": 0,
+   "root": 2,
    "quality": "maj",
    "bass": null
   }
@@ -241,8 +271,8 @@
    "key": "soprano",
    "name": "Soprano",
    "range": {
-    "low": 56,
-    "high": 76
+    "low": 58,
+    "high": 78
    },
    "guide": {
     "type": "notes",
@@ -250,555 +280,555 @@
      {
       "beat": 0.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "Oh",
       "br": true
      },
      {
       "beat": 1.0,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "Dan-"
      },
      {
       "beat": 1.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "ny"
      },
      {
       "beat": 2.0,
       "length": 1.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "boy"
      },
      {
       "beat": 3.5,
       "length": 0.5,
-      "pitch": 62
+      "pitch": 64
      },
      {
       "beat": 4.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "the"
      },
      {
       "beat": 4.5,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 71,
       "lyric": "pipes,"
      },
      {
       "beat": 5.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "the"
      },
      {
       "beat": 5.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "pipes"
      },
      {
       "beat": 6.0,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "are"
      },
      {
       "beat": 6.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "call-"
      },
      {
       "beat": 7.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 59,
       "lyric": "ing"
      },
      {
       "beat": 8.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "From",
       "br": true
      },
      {
       "beat": 9.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "glen"
      },
      {
       "beat": 9.5,
       "length": 0.5,
-      "pitch": 65,
+      "pitch": 67,
       "lyric": "to"
      },
      {
       "beat": 10.0,
       "length": 1.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "glen,"
      },
      {
       "beat": 11.5,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 71,
       "lyric": "and"
      },
      {
       "beat": 12.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "down"
      },
      {
       "beat": 12.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "the"
      },
      {
       "beat": 13.0,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "moun-"
      },
      {
       "beat": 13.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "tain"
      },
      {
       "beat": 14.0,
       "length": 2.0,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "side."
      },
      {
       "beat": 16.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "The",
       "br": true
      },
      {
       "beat": 17.0,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "sum-"
      },
      {
       "beat": 17.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "mer's"
      },
      {
       "beat": 18.0,
       "length": 1.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "gone,"
      },
      {
       "beat": 19.5,
       "length": 0.5,
-      "pitch": 62
+      "pitch": 64
      },
      {
       "beat": 20.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "and"
      },
      {
       "beat": 20.5,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 71,
       "lyric": "all"
      },
      {
       "beat": 21.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "the"
      },
      {
       "beat": 21.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "ro-"
      },
      {
       "beat": 22.0,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "ses"
      },
      {
       "beat": 22.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "fall-"
      },
      {
       "beat": 23.0,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 59,
       "lyric": "ing,"
      },
      {
       "beat": 23.5,
       "length": 0.5,
-      "pitch": 56,
+      "pitch": 58,
       "lyric": "It's",
       "br": true
      },
      {
       "beat": 24.0,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 59,
       "lyric": "you,"
      },
      {
       "beat": 24.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "it's"
      },
      {
       "beat": 25.0,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "you"
      },
      {
       "beat": 25.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "must"
      },
      {
       "beat": 26.0,
       "length": 1.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "go"
      },
      {
       "beat": 27.5,
       "length": 0.5,
-      "pitch": 65,
+      "pitch": 67,
       "lyric": "and"
      },
      {
       "beat": 28.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "I"
      },
      {
       "beat": 28.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "must"
      },
      {
       "beat": 29.0,
       "length": 0.5,
-      "pitch": 60
+      "pitch": 62
      },
      {
       "beat": 29.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "bide."
      },
      {
       "beat": 30.0,
       "length": 2.0,
-      "pitch": 60
+      "pitch": 62
      },
      {
       "beat": 32.5,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "But",
       "br": true
      },
      {
       "beat": 33.0,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 71,
       "lyric": "come"
      },
      {
       "beat": 33.5,
       "length": 0.5,
-      "pitch": 71,
+      "pitch": 73,
       "lyric": "ye"
      },
      {
       "beat": 34.0,
       "length": 1.5,
-      "pitch": 72,
+      "pitch": 74,
       "lyric": "back"
      },
      {
       "beat": 35.5,
       "length": 0.5,
-      "pitch": 71
+      "pitch": 73
      },
      {
       "beat": 36.0,
       "length": 0.5,
-      "pitch": 71,
+      "pitch": 73,
       "lyric": "when"
      },
      {
       "beat": 36.5,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 71,
       "lyric": "sum-"
      },
      {
       "beat": 37.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "mer's"
      },
      {
       "beat": 37.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "in"
      },
      {
       "beat": 38.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "the"
      },
      {
       "beat": 38.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "mea-"
      },
      {
       "beat": 39.0,
       "length": 1.0,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "dow,"
      },
      {
       "beat": 40.5,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "Or",
       "br": true
      },
      {
       "beat": 41.0,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 71,
       "lyric": "when"
      },
      {
       "beat": 41.5,
       "length": 0.5,
-      "pitch": 71,
+      "pitch": 73,
       "lyric": "the"
      },
      {
       "beat": 42.0,
       "length": 1.5,
-      "pitch": 72,
+      "pitch": 74,
       "lyric": "val-"
      },
      {
       "beat": 43.5,
       "length": 0.5,
-      "pitch": 71,
+      "pitch": 73,
       "lyric": "ley's"
      },
      {
       "beat": 44.0,
       "length": 0.5,
-      "pitch": 71,
+      "pitch": 73,
       "lyric": "hushed"
      },
      {
       "beat": 44.5,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 71,
       "lyric": "and"
      },
      {
       "beat": 45.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "white"
      },
      {
       "beat": 45.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "with"
      },
      {
       "beat": 46.0,
       "length": 2.0,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "snow,"
      },
      {
       "beat": 48.5,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "It's",
       "br": true
      },
      {
       "beat": 49.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "I'll"
      },
      {
       "beat": 49.5,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "be"
      },
      {
       "beat": 50.0,
       "length": 1.5,
-      "pitch": 76,
+      "pitch": 78,
       "lyric": "here"
      },
      {
       "beat": 51.5,
       "length": 0.5,
-      "pitch": 74
+      "pitch": 76
      },
      {
       "beat": 52.0,
       "length": 0.5,
-      "pitch": 74,
+      "pitch": 76,
       "lyric": "in"
      },
      {
       "beat": 52.5,
       "length": 0.5,
-      "pitch": 72,
+      "pitch": 74,
       "lyric": "sun-"
      },
      {
       "beat": 53.0,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 71,
       "lyric": "shine"
      },
      {
       "beat": 53.5,
       "length": 0.5,
-      "pitch": 72,
+      "pitch": 74,
       "lyric": "or"
      },
      {
       "beat": 54.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "in"
      },
      {
       "beat": 54.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "sha-"
      },
      {
       "beat": 55.0,
       "length": 1.0,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "dow,"
      },
      {
       "beat": 56.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "Oh",
       "br": true
      },
      {
       "beat": 57.0,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "Dan-"
      },
      {
       "beat": 57.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "ny"
      },
      {
       "beat": 58.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "boy,"
      },
      {
       "beat": 58.5,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 71,
       "lyric": "oh"
      },
      {
       "beat": 59.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "Dan-"
      },
      {
       "beat": 59.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "ny"
      },
      {
       "beat": 60.0,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "boy,"
      },
      {
       "beat": 60.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "I"
      },
      {
       "beat": 61.0,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 59,
       "lyric": "love"
      },
      {
       "beat": 61.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "you"
      },
      {
       "beat": 62.0,
       "length": 2.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "so!"
      }
     ]
@@ -809,8 +839,8 @@
    "key": "alto",
    "name": "Alto",
    "range": {
-    "low": 55,
-    "high": 69
+    "low": 54,
+    "high": 71
    },
    "guide": {
     "type": "notes",
@@ -818,67 +848,67 @@
      {
       "beat": 0.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "Oh",
       "br": true
      },
      {
       "beat": 1.0,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "Dan-"
      },
      {
       "beat": 1.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "ny"
      },
      {
       "beat": 2.0,
       "length": 1.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "boy"
      },
      {
       "beat": 3.5,
       "length": 0.5,
-      "pitch": 55
+      "pitch": 57
      },
      {
       "beat": 4.0,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "the"
      },
      {
       "beat": 4.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "pipes,"
      },
      {
       "beat": 5.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "the"
      },
      {
       "beat": 5.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "pipes"
      },
      {
       "beat": 6.0,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 59,
       "lyric": "are"
      },
      {
       "beat": 6.5,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 59,
       "lyric": "call-"
      },
      {
@@ -890,128 +920,128 @@
      {
       "beat": 8.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "From",
       "br": true
      },
      {
       "beat": 9.0,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "glen"
      },
      {
       "beat": 9.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "to"
      },
      {
       "beat": 10.0,
       "length": 1.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "glen,"
      },
      {
       "beat": 11.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "and"
      },
      {
       "beat": 12.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "down"
      },
      {
       "beat": 12.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "the"
      },
      {
       "beat": 13.0,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 59,
       "lyric": "moun-"
      },
      {
       "beat": 13.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "tain"
      },
      {
       "beat": 14.0,
       "length": 2.0,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "side."
      },
      {
       "beat": 16.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "The",
       "br": true
      },
      {
       "beat": 17.0,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "sum-"
      },
      {
       "beat": 17.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "mer's"
      },
      {
       "beat": 18.0,
       "length": 1.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "gone,"
      },
      {
       "beat": 19.5,
       "length": 0.5,
-      "pitch": 55
+      "pitch": 57
      },
      {
       "beat": 20.0,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "and"
      },
      {
       "beat": 20.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "all"
      },
      {
       "beat": 21.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "the"
      },
      {
       "beat": 21.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "ro-"
      },
      {
       "beat": 22.0,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 59,
       "lyric": "ses"
      },
      {
       "beat": 22.5,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 59,
       "lyric": "fall-"
      },
      {
@@ -1036,319 +1066,319 @@
      {
       "beat": 24.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "it's"
      },
      {
       "beat": 25.0,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 59,
       "lyric": "you"
      },
      {
       "beat": 25.5,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 61,
       "lyric": "must"
      },
      {
       "beat": 26.0,
       "length": 1.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "go"
      },
      {
       "beat": 27.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "and"
      },
      {
       "beat": 28.0,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "I"
      },
      {
       "beat": 28.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "must"
      },
      {
       "beat": 29.0,
       "length": 0.5,
-      "pitch": 55
+      "pitch": 57
      },
      {
       "beat": 29.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "bide."
      },
      {
       "beat": 30.0,
       "length": 2.0,
-      "pitch": 55
+      "pitch": 57
      },
      {
       "beat": 32.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "But",
       "br": true
      },
      {
       "beat": 33.0,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "come"
      },
      {
       "beat": 33.5,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "ye"
      },
      {
       "beat": 34.0,
       "length": 1.5,
-      "pitch": 67,
+      "pitch": 66,
       "lyric": "back"
      },
      {
       "beat": 35.5,
       "length": 0.5,
-      "pitch": 67
+      "pitch": 66
      },
      {
       "beat": 36.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "when"
      },
      {
       "beat": 36.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "sum-"
      },
      {
       "beat": 37.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "mer's"
      },
      {
       "beat": 37.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "in"
      },
      {
       "beat": 38.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "the"
      },
      {
       "beat": 38.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "mea-"
      },
      {
       "beat": 39.0,
       "length": 1.0,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "dow,"
      },
      {
       "beat": 40.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "Or",
       "br": true
      },
      {
       "beat": 41.0,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "when"
      },
      {
       "beat": 41.5,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 69,
       "lyric": "the"
      },
      {
       "beat": 42.0,
       "length": 1.5,
-      "pitch": 67,
+      "pitch": 66,
       "lyric": "val-"
      },
      {
       "beat": 43.5,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 66,
       "lyric": "ley's"
      },
      {
       "beat": 44.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "hushed"
      },
      {
       "beat": 44.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "and"
      },
      {
       "beat": 45.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "white"
      },
      {
       "beat": 45.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "with"
      },
      {
       "beat": 46.0,
       "length": 2.0,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "snow,"
      },
      {
       "beat": 48.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 61,
       "lyric": "It's",
       "br": true
      },
      {
       "beat": 49.0,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 61,
       "lyric": "I'll"
      },
      {
       "beat": 49.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 61,
       "lyric": "be"
      },
      {
       "beat": 50.0,
       "length": 1.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "here"
      },
      {
       "beat": 51.5,
       "length": 0.5,
-      "pitch": 67
+      "pitch": 69
      },
      {
       "beat": 52.0,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 71,
       "lyric": "in"
      },
      {
       "beat": 52.5,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 71,
       "lyric": "sun-"
      },
      {
       "beat": 53.0,
       "length": 0.5,
-      "pitch": 65,
+      "pitch": 67,
       "lyric": "shine"
      },
      {
       "beat": 53.5,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 71,
       "lyric": "or"
      },
      {
       "beat": 54.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "in"
      },
      {
       "beat": 54.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "sha-"
      },
      {
       "beat": 55.0,
       "length": 1.0,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "dow,"
      },
      {
       "beat": 56.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "Oh",
       "br": true
      },
      {
       "beat": 57.0,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "Dan-"
      },
      {
       "beat": 57.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "ny"
      },
      {
       "beat": 58.0,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "boy,"
      },
      {
       "beat": 58.5,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "oh"
      },
      {
       "beat": 59.0,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 66,
       "lyric": "Dan-"
      },
      {
       "beat": 59.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 62,
       "lyric": "ny"
      },
      {
       "beat": 60.0,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "boy,"
      },
      {
       "beat": 60.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 59,
       "lyric": "I"
      },
      {
@@ -1366,7 +1396,7 @@
      {
       "beat": 62.0,
       "length": 2.5,
-      "pitch": 55,
+      "pitch": 54,
       "lyric": "so!"
      }
     ]
@@ -1376,8 +1406,8 @@
    "key": "tenor",
    "name": "Tenor",
    "range": {
-    "low": 48,
-    "high": 60
+    "low": 50,
+    "high": 61
    },
    "guide": {
     "type": "notes",
@@ -1385,555 +1415,555 @@
      {
       "beat": 0.5,
       "length": 0.5,
-      "pitch": 50,
+      "pitch": 52,
       "lyric": "Oh",
       "br": true
      },
      {
       "beat": 1.0,
       "length": 0.5,
-      "pitch": 50,
+      "pitch": 52,
       "lyric": "Dan-"
      },
      {
       "beat": 1.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "ny"
      },
      {
       "beat": 2.0,
       "length": 1.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "boy"
      },
      {
       "beat": 3.5,
       "length": 0.5,
-      "pitch": 52
+      "pitch": 54
      },
      {
       "beat": 4.0,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "the"
      },
      {
       "beat": 4.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "pipes,"
      },
      {
       "beat": 5.0,
       "length": 0.5,
-      "pitch": 58,
+      "pitch": 57,
       "lyric": "the"
      },
      {
       "beat": 5.5,
       "length": 0.5,
-      "pitch": 58,
+      "pitch": 57,
       "lyric": "pipes"
      },
      {
       "beat": 6.0,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "are"
      },
      {
       "beat": 6.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "call-"
      },
      {
       "beat": 7.0,
       "length": 1.0,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "ing"
      },
      {
       "beat": 8.5,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 54,
       "lyric": "From",
       "br": true
      },
      {
       "beat": 9.0,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "glen"
      },
      {
       "beat": 9.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "to"
      },
      {
       "beat": 10.0,
       "length": 1.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "glen,"
      },
      {
       "beat": 11.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "and"
      },
      {
       "beat": 12.0,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 59,
       "lyric": "down"
      },
      {
       "beat": 12.5,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 59,
       "lyric": "the"
      },
      {
       "beat": 13.0,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 54,
       "lyric": "moun-"
      },
      {
       "beat": 13.5,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 54,
       "lyric": "tain"
      },
      {
       "beat": 14.0,
       "length": 2.0,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "side."
      },
      {
       "beat": 16.5,
       "length": 0.5,
-      "pitch": 50,
+      "pitch": 57,
       "lyric": "The",
       "br": true
      },
      {
       "beat": 17.0,
       "length": 0.5,
-      "pitch": 50,
+      "pitch": 57,
       "lyric": "sum-"
      },
      {
       "beat": 17.5,
       "length": 0.5,
-      "pitch": 50,
+      "pitch": 57,
       "lyric": "mer's"
      },
      {
       "beat": 18.0,
       "length": 1.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "gone,"
      },
      {
       "beat": 19.5,
       "length": 0.5,
-      "pitch": 52
+      "pitch": 54
      },
      {
       "beat": 20.0,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "and"
      },
      {
       "beat": 20.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "all"
      },
      {
       "beat": 21.0,
       "length": 0.5,
-      "pitch": 58,
+      "pitch": 57,
       "lyric": "the"
      },
      {
       "beat": 21.5,
       "length": 0.5,
-      "pitch": 58,
+      "pitch": 57,
       "lyric": "ro-"
      },
      {
       "beat": 22.0,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "ses"
      },
      {
       "beat": 22.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "fall-"
      },
      {
       "beat": 23.0,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "ing,"
      },
      {
       "beat": 23.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "It's",
       "br": true
      },
      {
       "beat": 24.0,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 50,
       "lyric": "you,"
      },
      {
       "beat": 24.5,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 50,
       "lyric": "it's"
      },
      {
       "beat": 25.0,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 50,
       "lyric": "you"
      },
      {
       "beat": 25.5,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 50,
       "lyric": "must"
      },
      {
       "beat": 26.0,
       "length": 1.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "go"
      },
      {
       "beat": 27.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "and"
      },
      {
       "beat": 28.0,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "I"
      },
      {
       "beat": 28.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "must"
      },
      {
       "beat": 29.0,
       "length": 0.5,
-      "pitch": 53
+      "pitch": 55
      },
      {
       "beat": 29.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "bide."
      },
      {
       "beat": 30.0,
       "length": 2.0,
-      "pitch": 52
+      "pitch": 54
      },
      {
       "beat": 32.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "But",
       "br": true
      },
      {
       "beat": 33.0,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "come"
      },
      {
       "beat": 33.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "ye"
      },
      {
       "beat": 34.0,
       "length": 1.5,
-      "pitch": 52,
+      "pitch": 57,
       "lyric": "back"
      },
      {
       "beat": 35.5,
       "length": 0.5,
-      "pitch": 52
+      "pitch": 57
      },
      {
       "beat": 36.0,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "when"
      },
      {
       "beat": 36.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "sum-"
      },
      {
       "beat": 37.0,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 61,
       "lyric": "mer's"
      },
      {
       "beat": 37.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "in"
      },
      {
       "beat": 38.0,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "the"
      },
      {
       "beat": 38.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "mea-"
      },
      {
       "beat": 39.0,
       "length": 1.0,
-      "pitch": 52,
+      "pitch": 54,
       "lyric": "dow,"
      },
      {
       "beat": 40.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "Or",
       "br": true
      },
      {
       "beat": 41.0,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "when"
      },
      {
       "beat": 41.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "the"
      },
      {
       "beat": 42.0,
       "length": 1.5,
-      "pitch": 52,
+      "pitch": 57,
       "lyric": "val-"
      },
      {
       "beat": 43.5,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 57,
       "lyric": "ley's"
      },
      {
       "beat": 44.0,
       "length": 0.5,
-      "pitch": 48,
+      "pitch": 50,
       "lyric": "hushed"
      },
      {
       "beat": 44.5,
       "length": 0.5,
-      "pitch": 48,
+      "pitch": 50,
       "lyric": "and"
      },
      {
       "beat": 45.0,
       "length": 0.5,
-      "pitch": 48,
+      "pitch": 50,
       "lyric": "white"
      },
      {
       "beat": 45.5,
       "length": 0.5,
-      "pitch": 48,
+      "pitch": 50,
       "lyric": "with"
      },
      {
       "beat": 46.0,
       "length": 2.0,
-      "pitch": 50,
+      "pitch": 52,
       "lyric": "snow,"
      },
      {
       "beat": 48.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 57,
       "lyric": "It's",
       "br": true
      },
      {
       "beat": 49.0,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 57,
       "lyric": "I'll"
      },
      {
       "beat": 49.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 57,
       "lyric": "be"
      },
      {
       "beat": 50.0,
       "length": 1.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "here"
      },
      {
       "beat": 51.5,
       "length": 0.5,
-      "pitch": 52
+      "pitch": 54
      },
      {
       "beat": 52.0,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "in"
      },
      {
       "beat": 52.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "sun-"
      },
      {
       "beat": 53.0,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "shine"
      },
      {
       "beat": 53.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "or"
      },
      {
       "beat": 54.0,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 54,
       "lyric": "in"
      },
      {
       "beat": 54.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "sha-"
      },
      {
       "beat": 55.0,
       "length": 1.0,
-      "pitch": 52,
+      "pitch": 54,
       "lyric": "dow,"
      },
      {
       "beat": 56.5,
       "length": 0.5,
-      "pitch": 50,
+      "pitch": 57,
       "lyric": "Oh",
       "br": true
      },
      {
       "beat": 57.0,
       "length": 0.5,
-      "pitch": 50,
+      "pitch": 57,
       "lyric": "Dan-"
      },
      {
       "beat": 57.5,
       "length": 0.5,
-      "pitch": 50,
+      "pitch": 57,
       "lyric": "ny"
      },
      {
       "beat": 58.0,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 54,
       "lyric": "boy,"
      },
      {
       "beat": 58.5,
       "length": 0.5,
-      "pitch": 48,
+      "pitch": 50,
       "lyric": "oh"
      },
      {
       "beat": 59.0,
       "length": 0.5,
-      "pitch": 48,
+      "pitch": 50,
       "lyric": "Dan-"
      },
      {
       "beat": 59.5,
       "length": 0.5,
-      "pitch": 48,
+      "pitch": 50,
       "lyric": "ny"
      },
      {
       "beat": 60.0,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 52,
       "lyric": "boy,"
      },
      {
       "beat": 60.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 52,
       "lyric": "I"
      },
      {
       "beat": 61.0,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 52,
       "lyric": "love"
      },
      {
       "beat": 61.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 52,
       "lyric": "you"
      },
      {
       "beat": 62.0,
       "length": 2.5,
-      "pitch": 52,
+      "pitch": 50,
       "lyric": "so!"
      }
     ]
@@ -1943,8 +1973,8 @@
    "key": "bass",
    "name": "Bass",
    "range": {
-    "low": 41,
-    "high": 52
+    "low": 43,
+    "high": 54
    },
    "guide": {
     "type": "notes",
@@ -1952,164 +1982,183 @@
      {
       "beat": 2.0,
       "length": 2.0,
-      "pitch": 48,
+      "pitch": 50,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 4.0,
       "length": 2.0,
-      "pitch": 48
+      "pitch": 50
      },
      {
       "beat": 6.0,
       "length": 2.0,
-      "pitch": 41
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
      },
      {
       "beat": 8.0,
       "length": 2.0,
-      "pitch": 48
+      "pitch": 50
      },
      {
       "beat": 10.0,
       "length": 2.0,
-      "pitch": 48
+      "pitch": 50
      },
      {
       "beat": 12.0,
-      "length": 2.0,
-      "pitch": 45
+      "length": 1.0,
+      "pitch": 47
+     },
+     {
+      "beat": 13.0,
+      "length": 1.0,
+      "pitch": 50
      },
      {
       "beat": 14.0,
       "length": 2.0,
-      "pitch": 43
+      "pitch": 45,
+      "lyric": "oo",
+      "br": true
      },
      {
       "beat": 16.0,
       "length": 2.0,
-      "pitch": 43
+      "pitch": 45
      },
      {
       "beat": 18.0,
       "length": 2.0,
-      "pitch": 48
+      "pitch": 50
      },
      {
       "beat": 20.0,
       "length": 2.0,
-      "pitch": 48
+      "pitch": 50
      },
      {
       "beat": 22.0,
       "length": 2.0,
-      "pitch": 41
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
      },
      {
       "beat": 24.0,
       "length": 2.0,
-      "pitch": 45
+      "pitch": 47
      },
      {
       "beat": 26.0,
       "length": 2.0,
-      "pitch": 48
+      "pitch": 50
      },
      {
       "beat": 28.0,
       "length": 2.0,
-      "pitch": 43
+      "pitch": 45
      },
      {
       "beat": 30.0,
       "length": 2.0,
-      "pitch": 48
+      "pitch": 50
      },
      {
       "beat": 32.0,
       "length": 2.0,
-      "pitch": 43
+      "pitch": 45,
+      "lyric": "oo",
+      "br": true
      },
      {
       "beat": 34.0,
       "length": 2.0,
-      "pitch": 48
+      "pitch": 50
      },
      {
       "beat": 36.0,
       "length": 2.0,
-      "pitch": 52
+      "pitch": 54
      },
      {
       "beat": 38.0,
       "length": 2.0,
-      "pitch": 48
+      "pitch": 50
      },
      {
       "beat": 40.0,
       "length": 2.0,
-      "pitch": 43
+      "pitch": 45,
+      "lyric": "oo",
+      "br": true
      },
      {
       "beat": 42.0,
       "length": 2.0,
-      "pitch": 48
+      "pitch": 50
      },
      {
       "beat": 44.0,
-      "length": 2.0,
-      "pitch": 45
+      "length": 1.0,
+      "pitch": 47
+     },
+     {
+      "beat": 45.0,
+      "length": 1.0,
+      "pitch": 50
      },
      {
       "beat": 46.0,
       "length": 2.0,
-      "pitch": 43
+      "pitch": 45,
+      "lyric": "oo",
+      "br": true
      },
      {
       "beat": 48.0,
       "length": 2.0,
-      "pitch": 43
+      "pitch": 45
      },
      {
       "beat": 50.0,
       "length": 2.0,
-      "pitch": 48
+      "pitch": 50
      },
      {
       "beat": 52.0,
       "length": 2.0,
-      "pitch": 41
+      "pitch": 43
      },
      {
       "beat": 54.0,
       "length": 2.0,
-      "pitch": 48
+      "pitch": 50
      },
      {
       "beat": 56.0,
       "length": 2.0,
-      "pitch": 43
+      "pitch": 45,
+      "lyric": "oo",
+      "br": true
      },
      {
       "beat": 58.0,
       "length": 2.0,
-      "pitch": 45
+      "pitch": 50
      },
      {
       "beat": 60.0,
       "length": 2.0,
-      "pitch": 43
+      "pitch": 45
      },
      {
       "beat": 62.0,
-      "length": 2.0,
-      "pitch": 48
-     },
-     {
-      "beat": 64.0,
-      "length": 0.5,
-      "pitch": 48
+      "length": 2.5,
+      "pitch": 50
      }
     ]
    }
