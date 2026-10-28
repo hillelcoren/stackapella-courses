@@ -1,6 +1,6 @@
 {
  "id": "amazing-grace",
- "version": 2,
+ "version": 3,
  "reviewed": false,
  "title": "Amazing Grace",
  "description": "The best-loved hymn, for 2 to 4 singers: the soprano sings the melody, the alto moves beneath it, the bass holds the roots on \"oo\", and the tenor fills the chord. A gentle first harmony.",
@@ -42,7 +42,7 @@
    "beat": 4.0,
    "root": 7,
    "quality": "maj",
-   "bass": 11
+   "bass": null
   },
   {
    "beat": 7.0,
@@ -60,13 +60,19 @@
    "beat": 16.0,
    "root": 7,
    "quality": "maj",
-   "bass": 11
+   "bass": null
   },
   {
    "beat": 19.0,
    "root": 2,
    "quality": "maj",
    "bass": null
+  },
+  {
+   "beat": 24.0,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
   },
   {
    "beat": 25.0,
@@ -96,6 +102,12 @@
    "beat": 40.0,
    "root": 2,
    "quality": "maj6",
+   "bass": null
+  },
+  {
+   "beat": 42.0,
+   "root": 2,
+   "quality": "dom7",
    "bass": null
   },
   {
@@ -350,7 +362,7 @@
      {
       "beat": 1,
       "length": 2,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "maz-",
       "br": true
      },
@@ -400,7 +412,7 @@
      {
       "beat": 13,
       "length": 2,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "saved"
      },
      {
@@ -486,7 +498,7 @@
      {
       "beat": 37,
       "length": 2,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "blind"
      },
      {
@@ -609,7 +621,7 @@
      {
       "beat": 24,
       "length": 1,
-      "pitch": 57,
+      "pitch": 55,
       "lyric": "I",
       "br": true
      },
@@ -715,7 +727,7 @@
      {
       "beat": 4,
       "length": 3,
-      "pitch": 47
+      "pitch": 43
      },
      {
       "beat": 7,
@@ -730,12 +742,14 @@
      {
       "beat": 13,
       "length": 3,
-      "pitch": 43
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
      },
      {
       "beat": 16,
       "length": 3,
-      "pitch": 47
+      "pitch": 43
      },
      {
       "beat": 19,
@@ -772,7 +786,9 @@
      {
       "beat": 37,
       "length": 3,
-      "pitch": 43
+      "pitch": 43,
+      "lyric": "oo",
+      "br": true
      },
      {
       "beat": 40,
