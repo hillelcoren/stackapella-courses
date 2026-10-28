@@ -1,6 +1,6 @@
 {
  "id": "the-water-is-wide",
- "version": 2,
+ "version": 3,
  "reviewed": false,
  "title": "The Water Is Wide",
  "description": "The folk song, for 2 to 4 singers: two verses, slow and lyrical. The soprano sings the melody, the alto and tenor sing the words beneath it, and the bass holds the roots on \"oo\".",
@@ -14,17 +14,17 @@
  "timeSignature": "3/4",
  "pickupBeats": 0,
  "credits": {
-  "words": "traditional, as collected by Cecil Sharp (1906); verse 2 after \"Waly, Waly\" (1724)",
+  "words": "traditional, as collected by Cecil Sharp and Charles Marson, Folk Songs from Somerset, third series (1906), no. 66, verses 1 and 6",
   "tune": "traditional, sung by Caroline Cox of High Ham, collected by Cecil Sharp (1906)",
   "arrangement": "Stackapella (draft)"
  },
  "licence": {
-  "words": "public domain: verse 1 as published by Cecil Sharp in Folk Songs from Somerset (1906; Sharp died 1924); verse 2 adapted from \"Waly, Waly\" in Ramsay's Tea-Table Miscellany (1724). Check verse 2's wording against Sharp's 1906 print before release",
+  "words": "public domain: Folk Songs from Somerset (1906); Sharp died 1924, Marson 1914",
   "tune": "public domain: traditional, as transcribed by Cecil Sharp, Folk Songs from Somerset (1906), song 66",
   "arrangement": "original, written for Stackapella",
   "recordings": "synthesized guides",
   "checked": null,
-  "source": "melody from Sharp's 1906 transcription (song 66, Mrs Cox of High Ham), as given in ABC by the Traditional Tune Archive (Fiddler's Companion); history in Wikipedia, \"The Water Is Wide (song)\"; not Pete Seeger's or any later arrangement"
+  "source": "melody and words from Sharp and Marson, Folk Songs from Somerset, third series (Simpkin, 1906), no. 66, \"O Waly, Waly\" (the scan on IMSLP and archive.org, Sibley Library copy); not Pete Seeger's or any later arrangement"
  },
  "order": [
   "soprano",
@@ -90,7 +90,7 @@
    "beat": 18,
    "root": 9,
    "quality": "min",
-   "bass": null
+   "bass": 0
   },
   {
    "beat": 21,
@@ -105,9 +105,21 @@
    "bass": null
   },
   {
+   "beat": 27,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
    "beat": 30,
    "root": 0,
    "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 32,
+   "root": 9,
+   "quality": "min",
    "bass": null
   },
   {
@@ -180,7 +192,7 @@
    "beat": 66,
    "root": 9,
    "quality": "min",
-   "bass": null
+   "bass": 0
   },
   {
    "beat": 69,
@@ -195,9 +207,21 @@
    "bass": null
   },
   {
+   "beat": 75,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
    "beat": 78,
    "root": 0,
    "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 80,
+   "root": 9,
+   "quality": "min",
    "bass": null
   },
   {
@@ -534,14 +558,9 @@
      },
      {
       "beat": 49.0,
-      "length": 1,
+      "length": 1.5,
       "pitch": 67,
       "lyric": "love"
-     },
-     {
-      "beat": 50.0,
-      "length": 0.5,
-      "pitch": 67
      },
      {
       "beat": 50.5,
@@ -657,12 +676,13 @@
       "beat": 74.0,
       "length": 0.5,
       "pitch": 71,
-      "lyric": "'tis"
+      "lyric": "it"
      },
      {
       "beat": 74.5,
       "length": 0.5,
-      "pitch": 72
+      "pitch": 72,
+      "lyric": "is"
      },
      {
       "beat": 75.0,
@@ -915,13 +935,13 @@
      {
       "beat": 30.0,
       "length": 1.0,
-      "pitch": 67,
+      "pitch": 64,
       "lyric": "will"
      },
      {
       "beat": 31.0,
       "length": 1.0,
-      "pitch": 67,
+      "pitch": 64,
       "lyric": "car-"
      },
      {
@@ -933,7 +953,7 @@
      {
       "beat": 33.0,
       "length": 3.0,
-      "pitch": 64,
+      "pitch": 67,
       "lyric": "two,"
      },
      {
@@ -1110,9 +1130,15 @@
      },
      {
       "beat": 74.0,
-      "length": 1.0,
+      "length": 0.5,
       "pitch": 62,
-      "lyric": "'tis"
+      "lyric": "it"
+     },
+     {
+      "beat": 74.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "is"
      },
      {
       "beat": 75.0,
@@ -1129,13 +1155,13 @@
      {
       "beat": 78.0,
       "length": 1.0,
-      "pitch": 67,
+      "pitch": 64,
       "lyric": "grow-"
      },
      {
       "beat": 79.0,
       "length": 2.0,
-      "pitch": 67,
+      "pitch": 64,
       "lyric": "eth"
      },
      {
@@ -1200,8 +1226,8 @@
    "key": "tenor",
    "name": "Tenor",
    "range": {
-    "low": 54,
-    "high": 60
+    "low": 52,
+    "high": 62
    },
    "guide": {
     "type": "notes",
@@ -1277,13 +1303,13 @@
      {
       "beat": 13.0,
       "length": 1.0,
-      "pitch": 54,
+      "pitch": 55,
       "lyric": "nei-"
      },
      {
       "beat": 14.0,
       "length": 1.0,
-      "pitch": 54,
+      "pitch": 57,
       "lyric": "ther"
      },
      {
@@ -1295,19 +1321,19 @@
      {
       "beat": 18.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 52,
       "lyric": "I"
      },
      {
       "beat": 19.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 52,
       "lyric": "wings"
      },
      {
       "beat": 20.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 52,
       "lyric": "to"
      },
      {
@@ -1338,13 +1364,13 @@
      {
       "beat": 27.0,
       "length": 2.0,
-      "pitch": 59,
+      "pitch": 62,
       "lyric": "boat"
      },
      {
       "beat": 29.0,
       "length": 1.0,
-      "pitch": 59,
+      "pitch": 62,
       "lyric": "that"
      },
      {
@@ -1411,7 +1437,7 @@
      {
       "beat": 44.0,
       "length": 1.0,
-      "pitch": 54,
+      "pitch": 57,
       "lyric": "and"
      },
      {
@@ -1485,13 +1511,13 @@
      {
       "beat": 61.0,
       "length": 1.0,
-      "pitch": 54,
+      "pitch": 55,
       "lyric": "love's"
      },
      {
       "beat": 62.0,
       "length": 1.0,
-      "pitch": 54,
+      "pitch": 57,
       "lyric": "a"
      },
      {
@@ -1503,25 +1529,25 @@
      {
       "beat": 66.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 52,
       "lyric": "el"
      },
      {
       "beat": 67.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 52,
       "lyric": "while"
      },
      {
       "beat": 68.0,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 52,
       "lyric": "it"
      },
      {
       "beat": 68.5,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 52,
       "lyric": "is"
      },
      {
@@ -1545,20 +1571,26 @@
      },
      {
       "beat": 74.0,
-      "length": 1.0,
+      "length": 0.5,
       "pitch": 59,
-      "lyric": "'tis"
+      "lyric": "it"
+     },
+     {
+      "beat": 74.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "is"
      },
      {
       "beat": 75.0,
       "length": 2.0,
-      "pitch": 59,
+      "pitch": 62,
       "lyric": "old,"
      },
      {
       "beat": 77.0,
       "length": 1.0,
-      "pitch": 59,
+      "pitch": 62,
       "lyric": "it"
      },
      {
@@ -1619,7 +1651,7 @@
      {
       "beat": 92.0,
       "length": 1.0,
-      "pitch": 54,
+      "pitch": 57,
       "lyric": "ing"
      },
      {
@@ -1636,7 +1668,7 @@
    "name": "Bass",
    "range": {
     "low": 43,
-    "high": 55
+    "high": 52
    },
    "guide": {
     "type": "notes",
@@ -1672,7 +1704,7 @@
      {
       "beat": 18,
       "length": 3,
-      "pitch": 45
+      "pitch": 48
      },
      {
       "beat": 21,
@@ -1681,14 +1713,24 @@
      },
      {
       "beat": 24,
-      "length": 6,
-      "pitch": 55,
+      "length": 3,
+      "pitch": 43,
       "lyric": "oo"
      },
      {
-      "beat": 30,
+      "beat": 27,
       "length": 3,
+      "pitch": 47
+     },
+     {
+      "beat": 30,
+      "length": 2,
       "pitch": 48
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 45
      },
      {
       "beat": 33,
@@ -1742,7 +1784,7 @@
      {
       "beat": 66,
       "length": 3,
-      "pitch": 45
+      "pitch": 48
      },
      {
       "beat": 69,
@@ -1751,14 +1793,24 @@
      },
      {
       "beat": 72,
-      "length": 6,
-      "pitch": 55,
+      "length": 3,
+      "pitch": 43,
       "lyric": "oo"
      },
      {
-      "beat": 78,
+      "beat": 75,
       "length": 3,
+      "pitch": 47
+     },
+     {
+      "beat": 78,
+      "length": 2,
       "pitch": 48
+     },
+     {
+      "beat": 80,
+      "length": 1,
+      "pitch": 45
      },
      {
       "beat": 81,
