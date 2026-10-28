@@ -297,7 +297,8 @@
                     "lyric": "oo"
                   }
                 ],
-                "turn": true
+                "turn": true,
+                "score": "hold"
               }
             }
           ]
@@ -417,7 +418,8 @@
                     "lyric": "oo"
                   }
                 ],
-                "turn": true
+                "turn": true,
+                "score": "hold"
               }
             },
             {
@@ -435,7 +437,8 @@
                     "lyric": "oo"
                   }
                 ],
-                "turn": true
+                "turn": true,
+                "score": "hold"
               }
             },
             {
@@ -453,7 +456,8 @@
                     "lyric": "oo"
                   }
                 ],
-                "turn": true
+                "turn": true,
+                "score": "hold"
               }
             }
           ]
@@ -632,7 +636,8 @@
                 "turn": false,
                 "drone": {
                   "step": 0
-                }
+                },
+                "score": "hold"
               }
             }
           ],
@@ -1477,6 +1482,104 @@
               "template": "are-you-sleeping",
               "singers": 2,
               "part": "alto"
+            },
+            {
+              "kind": "play",
+              "text": {
+                "en": "Now on your own: sing the 2nd voice's first line over the chords. Keep your own words."
+              },
+              "exercise": {
+                "tempo": 100,
+                "notes": [
+                  {
+                    "beat": 4,
+                    "length": 1,
+                    "step": 0,
+                    "lyric": "Are"
+                  },
+                  {
+                    "beat": 5,
+                    "length": 1,
+                    "step": 2,
+                    "lyric": "you"
+                  },
+                  {
+                    "beat": 6,
+                    "length": 1,
+                    "step": 4,
+                    "lyric": "sleep-"
+                  },
+                  {
+                    "beat": 7,
+                    "length": 1,
+                    "step": 0,
+                    "lyric": "ing,"
+                  },
+                  {
+                    "beat": 8,
+                    "length": 1,
+                    "step": 0,
+                    "lyric": "are"
+                  },
+                  {
+                    "beat": 9,
+                    "length": 1,
+                    "step": 2,
+                    "lyric": "you"
+                  },
+                  {
+                    "beat": 10,
+                    "length": 1,
+                    "step": 4,
+                    "lyric": "sleep-"
+                  },
+                  {
+                    "beat": 11,
+                    "length": 1,
+                    "step": 0,
+                    "lyric": "ing,"
+                  }
+                ],
+                "turn": false,
+                "chords": [
+                  {
+                    "beat": 0.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": null
+                  },
+                  {
+                    "beat": 5.0,
+                    "root": 7,
+                    "quality": "dom7",
+                    "bass": null
+                  },
+                  {
+                    "beat": 6.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": null
+                  },
+                  {
+                    "beat": 8.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": null
+                  },
+                  {
+                    "beat": 9.0,
+                    "root": 7,
+                    "quality": "dom7",
+                    "bass": null
+                  },
+                  {
+                    "beat": 10.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": null
+                  }
+                ]
+              }
             }
           ]
         },
@@ -1494,6 +1597,110 @@
               "template": "michael-row",
               "singers": 2,
               "part": "alto"
+            },
+            {
+              "kind": "play",
+              "text": {
+                "en": "Now on your own: sing the alto's first line over the chords. Listen to the chords, not the tune."
+              },
+              "exercise": {
+                "tempo": 92,
+                "notes": [
+                  {
+                    "beat": 4.0,
+                    "length": 1.0,
+                    "step": -5,
+                    "lyric": "Mi-"
+                  },
+                  {
+                    "beat": 5.0,
+                    "length": 1.0,
+                    "step": 0,
+                    "lyric": "chael,"
+                  },
+                  {
+                    "beat": 6.0,
+                    "length": 1.5,
+                    "step": 4,
+                    "lyric": "row"
+                  },
+                  {
+                    "beat": 7.5,
+                    "length": 0.5,
+                    "step": 0,
+                    "lyric": "the"
+                  },
+                  {
+                    "beat": 8.0,
+                    "length": 1.0,
+                    "step": 4,
+                    "lyric": "boat"
+                  },
+                  {
+                    "beat": 9.0,
+                    "length": 1.0,
+                    "step": 4,
+                    "lyric": "a-"
+                  },
+                  {
+                    "beat": 10.0,
+                    "length": 2.0,
+                    "step": 4,
+                    "lyric": "shore,"
+                  },
+                  {
+                    "beat": 12.0,
+                    "length": 1.0,
+                    "step": 0,
+                    "lyric": "Hal-"
+                  },
+                  {
+                    "beat": 13.0,
+                    "length": 1.0,
+                    "step": 4,
+                    "lyric": "le-"
+                  },
+                  {
+                    "beat": 14.0,
+                    "length": 4.0,
+                    "step": 5,
+                    "lyric": "lu-"
+                  },
+                  {
+                    "beat": 18.0,
+                    "length": 2.0,
+                    "step": 4,
+                    "lyric": "jah!"
+                  }
+                ],
+                "turn": false,
+                "chords": [
+                  {
+                    "beat": 0.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": 4
+                  },
+                  {
+                    "beat": 6.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": null
+                  },
+                  {
+                    "beat": 14.0,
+                    "root": 5,
+                    "quality": "maj",
+                    "bass": null
+                  },
+                  {
+                    "beat": 18.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": null
+                  }
+                ]
+              }
             }
           ]
         },
@@ -1658,6 +1865,65 @@
               "template": "amazing-grace",
               "singers": 3,
               "part": "bass"
+            },
+            {
+              "kind": "play",
+              "text": {
+                "en": "Now on your own: sing the bass's third line over the chords. Big jumps, root to root."
+              },
+              "exercise": {
+                "tempo": 80,
+                "notes": [
+                  {
+                    "beat": 3,
+                    "length": 3,
+                    "step": 0,
+                    "lyric": "oo"
+                  },
+                  {
+                    "beat": 6,
+                    "length": 3,
+                    "step": 4
+                  },
+                  {
+                    "beat": 9,
+                    "length": 3,
+                    "step": 5
+                  },
+                  {
+                    "beat": 12,
+                    "length": 3,
+                    "step": 0
+                  }
+                ],
+                "turn": false,
+                "chords": [
+                  {
+                    "beat": 0.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": null
+                  },
+                  {
+                    "beat": 6.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": 4
+                  },
+                  {
+                    "beat": 9.0,
+                    "root": 5,
+                    "quality": "maj",
+                    "bass": null
+                  },
+                  {
+                    "beat": 12.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": null
+                  }
+                ]
+              }
             }
           ]
         },
@@ -1675,6 +1941,86 @@
               "template": "amazing-grace",
               "singers": 4,
               "part": "tenor"
+            },
+            {
+              "kind": "play",
+              "text": {
+                "en": "Now on your own: sing the tenor's first line over the chords, and keep coming back home."
+              },
+              "exercise": {
+                "tempo": 80,
+                "notes": [
+                  {
+                    "beat": 3,
+                    "length": 2,
+                    "step": 0,
+                    "lyric": "maz-"
+                  },
+                  {
+                    "beat": 5,
+                    "length": 1,
+                    "step": 0,
+                    "lyric": "ing"
+                  },
+                  {
+                    "beat": 6,
+                    "length": 2,
+                    "step": 0,
+                    "lyric": "grace,"
+                  },
+                  {
+                    "beat": 8,
+                    "length": 1,
+                    "step": 0,
+                    "lyric": "how"
+                  },
+                  {
+                    "beat": 9,
+                    "length": 2,
+                    "step": 0,
+                    "lyric": "sweet"
+                  },
+                  {
+                    "beat": 11,
+                    "length": 1,
+                    "step": 0,
+                    "lyric": "the"
+                  },
+                  {
+                    "beat": 12,
+                    "length": 2,
+                    "step": 0,
+                    "lyric": "sound"
+                  }
+                ],
+                "turn": false,
+                "chords": [
+                  {
+                    "beat": 0.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": null
+                  },
+                  {
+                    "beat": 6.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": null
+                  },
+                  {
+                    "beat": 9.0,
+                    "root": 5,
+                    "quality": "maj",
+                    "bass": null
+                  },
+                  {
+                    "beat": 12.0,
+                    "root": 0,
+                    "quality": "maj",
+                    "bass": null
+                  }
+                ]
+              }
             }
           ]
         },
@@ -1852,6 +2198,9 @@
                   }
                 ],
                 "turn": true
+              },
+              "measures": {
+                "en": "Your stars are for the notes. The shape is for you to feel: listen back."
               }
             }
           ]
@@ -1941,7 +2290,11 @@
                     "lyric": "ah"
                   }
                 ],
-                "turn": true
+                "turn": true,
+                "show": "vibrato"
+              },
+              "measures": {
+                "en": "Your stars are for the notes. Vibrato isn't graded: a straight tone is beautiful too."
               }
             }
           ]
@@ -2020,6 +2373,9 @@
                   }
                 ],
                 "turn": true
+              },
+              "measures": {
+                "en": "Your stars are for the notes. The vowels are for you to hear: listen back."
               }
             },
             {
@@ -2056,6 +2412,9 @@
                   }
                 ],
                 "turn": true
+              },
+              "measures": {
+                "en": "Your stars are for the notes. The vowels are for you to hear: listen back."
               }
             }
           ]
@@ -2152,6 +2511,9 @@
                   }
                 ],
                 "turn": true
+              },
+              "measures": {
+                "en": "Your stars are for the notes. The shape is for you to feel: listen back."
               }
             }
           ]
@@ -2169,7 +2531,10 @@
               },
               "template": "danny-boy",
               "singers": 4,
-              "part": "soprano"
+              "part": "soprano",
+              "measures": {
+                "en": "Your stars are for the notes. The shape is for you to feel: listen back."
+              }
             }
           ],
           "challenge": true
