@@ -1,6 +1,6 @@
 {
  "id": "shchedryk",
- "version": 1,
+ "version": 2,
  "reviewed": false,
  "title": "Shchedryk",
  "description": "The Ukrainian New Year song of the swallow, for 2 to 4 singers: the soprano sings the famous four-note tune all the way through, the alto joins in thirds and sixths, and the bass and tenor ring slowly underneath like bells.",
@@ -31,6 +31,122 @@
   "alto",
   "bass",
   "tenor"
+ ],
+ "chords": [
+  {
+   "beat": 0,
+   "root": 7,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 18,
+   "root": 3,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 21,
+   "root": 7,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 27,
+   "root": 3,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 30,
+   "root": 0,
+   "quality": "min7",
+   "bass": null
+  },
+  {
+   "beat": 33,
+   "root": 7,
+   "quality": "min",
+   "bass": 2
+  },
+  {
+   "beat": 36,
+   "root": 7,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 42,
+   "root": 0,
+   "quality": "min7",
+   "bass": null
+  },
+  {
+   "beat": 45,
+   "root": 7,
+   "quality": "min",
+   "bass": 2
+  },
+  {
+   "beat": 48,
+   "root": 3,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 54,
+   "root": 0,
+   "quality": "min7",
+   "bass": null
+  },
+  {
+   "beat": 60,
+   "root": 7,
+   "quality": "min",
+   "bass": 10
+  },
+  {
+   "beat": 63,
+   "root": 3,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 66,
+   "root": 0,
+   "quality": "min7",
+   "bass": null
+  },
+  {
+   "beat": 69,
+   "root": 7,
+   "quality": "min",
+   "bass": 2
+  },
+  {
+   "beat": 72,
+   "root": 7,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 75,
+   "root": 3,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 78,
+   "root": 0,
+   "quality": "min7",
+   "bass": null
+  },
+  {
+   "beat": 81,
+   "root": 7,
+   "quality": "min",
+   "bass": null
+  }
  ],
  "sections": [
   {
@@ -1728,7 +1844,7 @@
      {
       "beat": 60,
       "length": 3,
-      "pitch": 52,
+      "pitch": 46,
       "lyric": "Щед-",
       "br": true
      },

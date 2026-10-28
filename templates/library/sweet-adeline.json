@@ -1,6 +1,6 @@
 {
  "id": "sweet-adeline",
- "version": 1,
+ "version": 2,
  "reviewed": false,
  "title": "Sweet Adeline",
  "description": "The barbershop favourite, for 2 to 4 singers: the soprano sings the melody, the alto and tenor slide through close chords beneath it, and the bass walks the roots, with a few ringing sevenths along the way.",
@@ -31,6 +31,116 @@
   "bass",
   "alto",
   "tenor"
+ ],
+ "chords": [
+  {
+   "beat": 0,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 4.5,
+   "root": 2,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 5.5,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 8,
+   "root": 0,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 9.5,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 12,
+   "root": 0,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 13.5,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 15,
+   "root": 5,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 16,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 20.5,
+   "root": 2,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 21.5,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 24.5,
+   "root": 0,
+   "quality": "maj6",
+   "bass": null
+  },
+  {
+   "beat": 25,
+   "root": 0,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 25.5,
+   "root": 10,
+   "quality": "maj",
+   "bass": 5
+  },
+  {
+   "beat": 26.5,
+   "root": 0,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 27.5,
+   "root": 0,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 28.5,
+   "root": 5,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 29.5,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  }
  ],
  "sections": [
   {
@@ -294,7 +404,7 @@
    "key": "alto",
    "name": "Alto",
    "range": {
-    "low": 60,
+    "low": 59,
     "high": 65
    },
    "guide": {
@@ -322,13 +432,13 @@
      {
       "beat": 1.5,
       "length": 2.5,
-      "pitch": 65,
+      "pitch": 62,
       "lyric": "line,"
      },
      {
       "beat": 4,
       "length": 0.5,
-      "pitch": 65,
+      "pitch": 62,
       "lyric": "My"
      },
      {
@@ -340,13 +450,13 @@
      {
       "beat": 5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 60,
       "lyric": "e-"
      },
      {
       "beat": 5.5,
       "length": 2.5,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "line,"
      },
      {
@@ -425,13 +535,13 @@
      {
       "beat": 17.5,
       "length": 2.5,
-      "pitch": 65,
+      "pitch": 62,
       "lyric": "dreams"
      },
      {
       "beat": 20,
       "length": 0.5,
-      "pitch": 65,
+      "pitch": 62,
       "lyric": "Your"
      },
      {
@@ -443,13 +553,13 @@
      {
       "beat": 21,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 60,
       "lyric": "face"
      },
      {
       "beat": 21.5,
       "length": 3,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "beams,"
      },
      {
@@ -516,7 +626,7 @@
      {
       "beat": 29.5,
       "length": 3,
-      "pitch": 65,
+      "pitch": 62,
       "lyric": "line."
      }
     ]
@@ -526,8 +636,8 @@
    "key": "tenor",
    "name": "Tenor",
    "range": {
-    "low": 55,
-    "high": 62
+    "low": 53,
+    "high": 60
    },
    "guide": {
     "type": "notes",
@@ -554,44 +664,44 @@
      {
       "beat": 1.5,
       "length": 2.5,
-      "pitch": 62,
+      "pitch": 53,
       "lyric": "line,"
      },
      {
       "beat": 4,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 53,
       "lyric": "My"
      },
      {
       "beat": 4.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 54,
       "lyric": "Ad-"
      },
      {
       "beat": 5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 57,
       "lyric": "e-"
      },
      {
       "beat": 5.5,
       "length": 2.5,
-      "pitch": 59,
+      "pitch": 55,
       "lyric": "line,"
      },
      {
       "beat": 8,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 55,
       "lyric": "At",
       "br": true
      },
      {
       "beat": 8.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 55,
       "lyric": "night,"
      },
      {
@@ -652,37 +762,37 @@
      {
       "beat": 17.5,
       "length": 2.5,
-      "pitch": 62,
+      "pitch": 53,
       "lyric": "dreams"
      },
      {
       "beat": 20,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 53,
       "lyric": "Your"
      },
      {
       "beat": 20.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 54,
       "lyric": "fair"
      },
      {
       "beat": 21,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 57,
       "lyric": "face"
      },
      {
       "beat": 21.5,
       "length": 3,
-      "pitch": 59,
+      "pitch": 55,
       "lyric": "beams,"
      },
      {
       "beat": 24.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 55,
       "lyric": "You're",
       "br": true
      },
@@ -743,7 +853,7 @@
      {
       "beat": 29.5,
       "length": 3,
-      "pitch": 62,
+      "pitch": 58,
       "lyric": "line."
      }
     ]

@@ -1,6 +1,6 @@
 {
  "id": "shenandoah",
- "version": 1,
+ "version": 2,
  "reviewed": false,
  "title": "Shenandoah",
  "description": "The American river song, for 2 to 4 singers: the soprano sings the long, rolling melody, the alto and tenor move gently beneath it, and the bass holds the roots on \"oo\". Slow and spacious, with time to breathe.",
@@ -32,6 +32,98 @@
   "bass",
   "alto",
   "tenor"
+ ],
+ "chords": [
+  {
+   "beat": 0,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 5,
+   "root": 10,
+   "quality": "maj",
+   "bass": 5
+  },
+  {
+   "beat": 5.5,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 9,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 12,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 17,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 19.5,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 24,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 25,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 28,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 29,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 33,
+   "root": 2,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 36,
+   "root": 7,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 37,
+   "root": 0,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 39,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  }
  ],
  "voicings": {
   "2": [
@@ -330,7 +422,7 @@
    "key": "alto",
    "name": "Alto",
    "range": {
-    "low": 60,
+    "low": 57,
     "high": 69
    },
    "guide": {
@@ -339,20 +431,20 @@
      {
       "beat": 1,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 57,
       "lyric": "Shen-",
       "br": true
      },
      {
       "beat": 1.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 57,
       "lyric": "an-"
      },
      {
       "beat": 2,
       "length": 1.5,
-      "pitch": 60,
+      "pitch": 57,
       "lyric": "doah,"
      },
      {
@@ -425,7 +517,7 @@
      {
       "beat": 14,
       "length": 2,
-      "pitch": 65,
+      "pitch": 69,
       "lyric": "er."
      },
      {
@@ -480,7 +572,7 @@
      {
       "beat": 21.5,
       "length": 2.5,
-      "pitch": 60,
+      "pitch": 57,
       "lyric": "you,"
      },
      {
@@ -542,19 +634,19 @@
      {
       "beat": 36,
       "length": 1,
-      "pitch": 62,
+      "pitch": 58,
       "lyric": "Mis-"
      },
      {
       "beat": 37,
       "length": 2,
-      "pitch": 64,
+      "pitch": 58,
       "lyric": "sou-"
      },
      {
       "beat": 39,
       "length": 2,
-      "pitch": 60,
+      "pitch": 57,
       "lyric": "ri."
      }
     ]
@@ -564,8 +656,8 @@
    "key": "tenor",
    "name": "Tenor",
    "range": {
-    "low": 53,
-    "high": 62
+    "low": 52,
+    "high": 60
    },
    "guide": {
     "type": "notes",
@@ -573,20 +665,20 @@
      {
       "beat": 1,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "Shen-",
       "br": true
      },
      {
       "beat": 1.5,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "an-"
      },
      {
       "beat": 2,
       "length": 1.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "doah,"
      },
      {
@@ -659,7 +751,7 @@
      {
       "beat": 14,
       "length": 2,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "er."
      },
      {
@@ -714,7 +806,7 @@
      {
       "beat": 21.5,
       "length": 2.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "you,"
      },
      {
@@ -770,25 +862,25 @@
      {
       "beat": 33,
       "length": 3,
-      "pitch": 62,
+      "pitch": 53,
       "lyric": "wide"
      },
      {
       "beat": 36,
       "length": 1,
-      "pitch": 58,
+      "pitch": 55,
       "lyric": "Mis-"
      },
      {
       "beat": 37,
       "length": 2,
-      "pitch": 58,
+      "pitch": 52,
       "lyric": "sou-"
      },
      {
       "beat": 39,
       "length": 2,
-      "pitch": 57,
+      "pitch": 53,
       "lyric": "ri."
      }
     ]

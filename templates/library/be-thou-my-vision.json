@@ -1,6 +1,6 @@
 {
  "id": "be-thou-my-vision",
- "version": 1,
+ "version": 2,
  "reviewed": false,
  "title": "Be Thou My Vision",
  "description": "The old Irish hymn tune Slane, for 2 to 4 singers: the soprano sings the melody, the alto and tenor move gently in the middle, and the bass walks the roots. A quiet, steady prayer to sing together.",
@@ -15,14 +15,15 @@
  "pickupBeats": 0,
  "credits": {
   "words": "Irish, c. 8th century; translated by Mary Byrne (1905), versified by Eleanor Hull (1912)",
-  "tune": "\"Slane\", traditional Irish melody",
+  "tune": "\"Slane\", traditional Irish melody, from P. W. Joyce, Old Irish Folk Music and Songs (1909); first set to these words in the Irish Church Hymnal (1919)",
   "arrangement": "Stackapella (draft)"
  },
  "licence": {
   "words": "public domain: Byrne died 1931, Hull died 1935; words as printed in Hull's Poem-Book of the Gael (1912)",
-  "tune": "public domain: traditional Irish melody",
+  "tune": "public domain: traditional Irish melody, printed in P. W. Joyce, Old Irish Folk Music and Songs (1909), as \"With my love on the road\"; first paired with these words in the Irish Church Hymnal (1919), whose harmony (Leopold Dix) is not used",
   "arrangement": "original, written for Stackapella",
   "recordings": "synthesized guides",
+  "source": "words checked against the 1912 printing: Hull, The Poem-Book of the Gael, p. 119, \"A Prayer\" (archive.org scan), 2026-10-28",
   "checked": null
  },
  "order": [
@@ -30,6 +31,242 @@
   "bass",
   "alto",
   "tenor"
+ ],
+ "chords": [
+  {
+   "beat": 0,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 1,
+   "root": 2,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 2,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 4,
+   "root": 5,
+   "quality": "maj",
+   "bass": 0
+  },
+  {
+   "beat": 5,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 6,
+   "root": 5,
+   "quality": "maj",
+   "bass": 9
+  },
+  {
+   "beat": 7,
+   "root": 2,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 8,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 9,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 12,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 13,
+   "root": 0,
+   "quality": "dom7",
+   "bass": 10
+  },
+  {
+   "beat": 14,
+   "root": 9,
+   "quality": "min7",
+   "bass": null
+  },
+  {
+   "beat": 15,
+   "root": 7,
+   "quality": "min7",
+   "bass": null
+  },
+  {
+   "beat": 16,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 17,
+   "root": 5,
+   "quality": "maj",
+   "bass": 9
+  },
+  {
+   "beat": 18,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 19,
+   "root": 5,
+   "quality": "maj",
+   "bass": 9
+  },
+  {
+   "beat": 20,
+   "root": 2,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 21,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 24,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 25,
+   "root": 7,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 26,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 27,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 28,
+   "root": 5,
+   "quality": "maj",
+   "bass": 9
+  },
+  {
+   "beat": 29,
+   "root": 2,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 30,
+   "root": 5,
+   "quality": "maj",
+   "bass": 0
+  },
+  {
+   "beat": 31,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 32,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 33,
+   "root": 2,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 36,
+   "root": 10,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 37,
+   "root": 2,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 38,
+   "root": 5,
+   "quality": "maj",
+   "bass": 0
+  },
+  {
+   "beat": 39,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 40,
+   "root": 5,
+   "quality": "maj",
+   "bass": 9
+  },
+  {
+   "beat": 41,
+   "root": 2,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 42,
+   "root": 0,
+   "quality": "maj",
+   "bass": 4
+  },
+  {
+   "beat": 43,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 44,
+   "root": 0,
+   "quality": "sus4",
+   "bass": null
+  },
+  {
+   "beat": 45,
+   "root": 5,
+   "quality": "maj",
+   "bass": null
+  }
  ],
  "sections": [
   {
@@ -588,13 +825,13 @@
      {
       "beat": 44,
       "length": 1,
-      "pitch": 62,
+      "pitch": 58,
       "lyric": "my"
      },
      {
       "beat": 45,
       "length": 3,
-      "pitch": 60,
+      "pitch": 57,
       "lyric": "light."
      }
     ]
@@ -777,9 +1014,14 @@
      },
      {
       "beat": 31,
-      "length": 2,
+      "length": 1,
       "pitch": 58,
       "lyric": "by"
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 55
      },
      {
       "beat": 33,
@@ -839,13 +1081,13 @@
      {
       "beat": 44,
       "length": 1,
-      "pitch": 58,
+      "pitch": 55,
       "lyric": "my"
      },
      {
       "beat": 45,
       "length": 3,
-      "pitch": 57,
+      "pitch": 53,
       "lyric": "light."
      }
     ]
@@ -1095,7 +1337,7 @@
      {
       "beat": 44,
       "length": 1,
-      "pitch": 46,
+      "pitch": 48,
       "lyric": "my"
      },
      {

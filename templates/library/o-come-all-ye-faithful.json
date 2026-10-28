@@ -1,6 +1,6 @@
 {
  "id": "o-come-all-ye-faithful",
- "version": 1,
+ "version": 2,
  "reviewed": false,
  "title": "O Come, All Ye Faithful",
  "description": "The great Christmas processional, for 2 to 4 singers: the soprano sings the melody, the alto and tenor fill the chords, and the bass climbs and falls beneath. Bright, festive and easy to love.",
@@ -15,12 +15,12 @@
  "timeSignature": "4/4",
  "pickupBeats": 1,
  "credits": {
-  "words": "Latin hymn \"Adeste Fideles\" (18th century); English words Frederick Oakeley (1841)",
+  "words": "Latin hymn \"Adeste Fideles\" (18th century); English words Frederick Oakeley (1841), as revised in Murray's Hymnal (1852)",
   "tune": "\"Adeste Fideles\", attributed to John Francis Wade (c. 1743)",
   "arrangement": "Stackapella (draft)"
  },
  "licence": {
-  "words": "public domain: Latin 18th century; Oakeley's translation 1841, he died 1880",
+  "words": "public domain: Oakeley died 1880; the 1852 revision is anonymous",
   "tune": "public domain: 18th century",
   "arrangement": "original, written for Stackapella",
   "recordings": "synthesized guides",
@@ -31,6 +31,350 @@
   "bass",
   "alto",
   "tenor"
+ ],
+ "chords": [
+  {
+   "beat": 0,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 1,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 3,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
+   "beat": 4,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 5,
+   "root": 9,
+   "quality": "min",
+   "bass": 0
+  },
+  {
+   "beat": 7,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 9,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 10,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 11,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
+   "beat": 12,
+   "root": 9,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 13,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 15,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 16,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
+   "beat": 17,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 19,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 20,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 21,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 22,
+   "root": 4,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 23,
+   "root": 2,
+   "quality": "maj",
+   "bass": 6
+  },
+  {
+   "beat": 24,
+   "root": 4,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 25,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 27,
+   "root": 9,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 28.5,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 33,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 35,
+   "root": 2,
+   "quality": "dom7",
+   "bass": 6
+  },
+  {
+   "beat": 36,
+   "root": 4,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 37,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 39,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 41,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 42,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 43,
+   "root": 4,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 44,
+   "root": 9,
+   "quality": "min7",
+   "bass": null
+  },
+  {
+   "beat": 45,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 47,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 49,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 50,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 51,
+   "root": 4,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 52,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 53,
+   "root": 4,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 55,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
+   "beat": 56,
+   "root": 4,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 58,
+   "root": 2,
+   "quality": "maj",
+   "bass": 6
+  },
+  {
+   "beat": 59,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 60,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 61,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 63,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 64,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 65,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 66,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 67,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 68,
+   "root": 4,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 69,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 71,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
+   "beat": 72,
+   "root": 9,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 73,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 75,
+   "root": 2,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 76.5,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  }
  ],
  "sections": [
   {
@@ -1237,7 +1581,7 @@
      {
       "beat": 5,
       "length": 2,
-      "pitch": 45,
+      "pitch": 48,
       "lyric": "faith-"
      },
      {
