@@ -17,12 +17,20 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A shanty kept a ship's crew pulling together. Sing it strong, not loud, in the middle of your voice, over a drone: one note held underneath, like a bagpipe's. Stop if anything tightens, tickles or hurts, and rest when you're hoarse."
+                                "en": "A shanty kept a ship's crew pulling together. Sing it strong, not loud, over a drone: one note held underneath, like a bagpipe's."
                             },
                             "steps": [
-                                { "title": { "en": "Listen to the lead singer" }, "detail": { "en": "Drunken Sailor, the first verse" } },
-                                { "title": { "en": "Answer each line" }, "detail": { "en": "You're the crew" } },
-                                { "title": { "en": "Keep the top notes light" }, "detail": { "en": "Strong, never pushed" } }
+                                {
+                                    "title": { "en": "Listen, then answer" },
+                                    "detail": { "en": "You're the crew: echo each line of Drunken Sailor" }
+                                },
+                                { "title": { "en": "Keep the top notes light" }, "detail": { "en": "In the middle of your voice, never pushed" } },
+                                {
+                                    "title": { "en": "Look after your voice" },
+                                    "detail": {
+                                        "en": "Stop if anything tightens, tickles or hurts. Don't sing when you're ill, and see someone if hoarseness lasts more than two weeks"
+                                    }
+                                }
                             ],
                             "listen": {
                                 "tempo": 88,
@@ -157,6 +165,7 @@
                 {
                     "id": "folk-1-ring",
                     "title": { "en": "Ring with the drone" },
+                    "strictness": "precise",
                     "steps": [
                         {
                             "kind": "learn",
@@ -249,7 +258,7 @@
                                 "score": "hold"
                             },
                             "measures": {
-                                "en": "Your stars are for how long you held the note on pitch with the drone, and how steadily. Next: telling a story in song."
+                                "en": "Your stars are for how long you held the note within a fifth of a semitone of the drone, close enough to ring, and how steadily. Next: telling a story in song."
                             }
                         }
                     ]
@@ -293,7 +302,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "Sing the first line along with the guide, at your own pace." },
+                            "text": { "en": "The first line at your own pace. Each note waits until you find it." },
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -363,7 +372,41 @@
                                 "drone": { "step": -4 }
                             },
                             "measures": {
-                                "en": "Your stars are for the notes of the second line; the rhythm is yours to tell. Listen back: could someone hear every word? Next: the whole verse."
+                                "en": "Follow the guide's telling: your stars are for the notes of the second line. Next: hear how it told the story."
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {
+                                "en": "Sing the first line once more, then hear yours beside the guide's. We don't score how a story is told."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "lead": 3,
+                                "model": {
+                                    "notes": [
+                                        { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
+                                        { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
+                                        { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
+                                        { "beat": 1.5, "length": 1.5, "step": 0, "lyric": "Town" },
+                                        { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
+                                        { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                        { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
+                                        { "beat": 4.5, "length": 1.5, "step": -9, "lyric": "born," },
+                                        { "beat": 6, "length": 0.5, "step": -9, "lyric": "There" },
+                                        { "beat": 6.5, "length": 0.5, "step": -4, "lyric": "was" },
+                                        { "beat": 7, "length": 0.5, "step": -2, "lyric": "a" },
+                                        { "beat": 7.5, "length": 1.5, "step": 0, "lyric": "fair" },
+                                        { "beat": 9, "length": 0.5, "step": -2, "lyric": "maid" },
+                                        { "beat": 9.5, "length": 0.25, "step": 0, "lyric": "dwell-" },
+                                        { "beat": 9.75, "length": 2.25, "step": 3, "lyric": "in'," }
+                                    ],
+                                    "drone": { "step": -4 }
+                                },
+                                "questions": [
+                                    { "en": "Could a listener hear every word?" },
+                                    { "en": "Did the long words, \"Town\", \"born\" and \"fair\", get their time?" }
+                                ]
                             }
                         }
                     ]
@@ -576,7 +619,9 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen to the first two lines, then sing them back. No bright note yet: it's coming." },
+                            "text": {
+                                "en": "First the third line as plain minor would sing it, with the dark note on \"-en\": listen, then sing it back."
+                            },
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -587,19 +632,9 @@
                                     { "beat": 3, "length": 0.5, "step": 0, "lyric": "with" },
                                     { "beat": 3.5, "length": 0.5, "step": 0, "lyric": "a" },
                                     { "beat": 4, "length": 1, "step": 0, "lyric": "drunk-" },
-                                    { "beat": 5, "length": 1, "step": -7, "lyric": "en" },
-                                    { "beat": 6, "length": 1, "step": -4, "lyric": "sai-" },
-                                    { "beat": 7, "length": 1, "step": 0, "lyric": "lor?" },
-                                    { "beat": 8, "length": 1, "step": -2, "lyric": "What" },
-                                    { "beat": 9, "length": 0.5, "step": -2, "lyric": "shall" },
-                                    { "beat": 9.5, "length": 0.5, "step": -2, "lyric": "we" },
-                                    { "beat": 10, "length": 1, "step": -2, "lyric": "do" },
-                                    { "beat": 11, "length": 0.5, "step": -2, "lyric": "with" },
-                                    { "beat": 11.5, "length": 0.5, "step": -2, "lyric": "a" },
-                                    { "beat": 12, "length": 1, "step": -2, "lyric": "drunk-" },
-                                    { "beat": 13, "length": 1, "step": -9, "lyric": "en" },
-                                    { "beat": 14, "length": 1, "step": -5, "lyric": "sai-" },
-                                    { "beat": 15, "length": 1, "step": -2, "lyric": "lor?" }
+                                    { "beat": 5, "length": 1, "step": 1, "lyric": "en" },
+                                    { "beat": 6, "length": 1, "step": 3, "lyric": "sai-" },
+                                    { "beat": 7, "length": 1, "step": 5, "lyric": "lor?" }
                                 ],
                                 "turn": true,
                                 "drone": { "step": -7 }
@@ -608,32 +643,28 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "After a bar of the drone, sing the last two lines. Make the bright note bright, and keep the top notes light."
+                                "en": "Now as it really goes, with the bright note. Hear the difference one note makes, then sing it back, the top notes light."
                             },
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
-                                    { "beat": 4, "length": 1, "step": 0, "lyric": "What" },
-                                    { "beat": 5, "length": 0.5, "step": 0, "lyric": "shall" },
-                                    { "beat": 5.5, "length": 0.5, "step": 0, "lyric": "we" },
-                                    { "beat": 6, "length": 1, "step": 0, "lyric": "do" },
-                                    { "beat": 7, "length": 0.5, "step": 0, "lyric": "with" },
-                                    { "beat": 7.5, "length": 0.5, "step": 0, "lyric": "a" },
-                                    { "beat": 8, "length": 1, "step": 0, "lyric": "drunk-" },
-                                    { "beat": 9, "length": 1, "step": 2, "lyric": "en" },
-                                    { "beat": 10, "length": 1, "step": 3, "lyric": "sai-" },
-                                    { "beat": 11, "length": 1, "step": 5, "lyric": "lor?" },
-                                    { "beat": 12, "length": 1, "step": 3, "lyric": "Ear-" },
-                                    { "beat": 13, "length": 1, "step": 0, "lyric": "ly" },
-                                    { "beat": 14, "length": 1, "step": -2, "lyric": "in" },
-                                    { "beat": 15, "length": 1, "step": -5, "lyric": "the" },
-                                    { "beat": 16, "length": 2, "step": -7, "lyric": "morn-" },
-                                    { "beat": 18, "length": 2, "step": -7, "lyric": "ing." }
+                                    { "beat": 0, "length": 1, "step": 0, "lyric": "What" },
+                                    { "beat": 1, "length": 0.5, "step": 0, "lyric": "shall" },
+                                    { "beat": 1.5, "length": 0.5, "step": 0, "lyric": "we" },
+                                    { "beat": 2, "length": 1, "step": 0, "lyric": "do" },
+                                    { "beat": 3, "length": 0.5, "step": 0, "lyric": "with" },
+                                    { "beat": 3.5, "length": 0.5, "step": 0, "lyric": "a" },
+                                    { "beat": 4, "length": 1, "step": 0, "lyric": "drunk-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "en" },
+                                    { "beat": 6, "length": 1, "step": 3, "lyric": "sai-" },
+                                    { "beat": 7, "length": 1, "step": 5, "lyric": "lor?" }
                                 ],
-                                "turn": false,
+                                "turn": true,
                                 "drone": { "step": -7 }
                             },
-                            "measures": { "en": "Your stars are for the notes, the bright one among them. Next: the soft note, its major cousin." }
+                            "measures": {
+                                "en": "Your stars are for the line with its bright note. One note changed, and the tune went from plain minor to Dorian. Next: the soft note, its major cousin."
+                            }
                         }
                     ]
                 },
@@ -773,7 +804,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Two short tunes over the same drone, one note apart. Which mode is it?" },
+                            "headline": { "en": "Two short tunes over the same drone. Which mode is it?" },
                             "steps": [
                                 { "title": { "en": "The bright note" }, "detail": { "en": "Minor with a raised sixth: Dorian" } },
                                 { "title": { "en": "The soft note" }, "detail": { "en": "Major with a lowered seventh: Mixolydian" } },
@@ -795,6 +826,44 @@
                             },
                             "visual": "echo",
                             "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "First sing each: the Dorian scale, the bright sixth near the top. Listen, then sing it back." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "la" },
+                                    { "beat": 1, "length": 1, "step": -5, "lyric": "la" },
+                                    { "beat": 2, "length": 1, "step": -4, "lyric": "la" },
+                                    { "beat": 3, "length": 1, "step": -2, "lyric": "la" },
+                                    { "beat": 4, "length": 1, "step": 0, "lyric": "la" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "la" },
+                                    { "beat": 6, "length": 1, "step": 3, "lyric": "la" },
+                                    { "beat": 7, "length": 1, "step": 5, "lyric": "la" }
+                                ],
+                                "turn": true,
+                                "drone": { "step": -7 }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "And the Mixolydian, the soft seventh near the top." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "la" },
+                                    { "beat": 1, "length": 1, "step": -5, "lyric": "la" },
+                                    { "beat": 2, "length": 1, "step": -3, "lyric": "la" },
+                                    { "beat": 3, "length": 1, "step": -2, "lyric": "la" },
+                                    { "beat": 4, "length": 1, "step": 0, "lyric": "la" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "la" },
+                                    { "beat": 6, "length": 1, "step": 3, "lyric": "la" },
+                                    { "beat": 7, "length": 1, "step": 5, "lyric": "la" }
+                                ],
+                                "turn": true,
+                                "drone": { "step": -7 }
+                            }
                         },
                         {
                             "kind": "choose",
@@ -993,25 +1062,28 @@
                                                     { "beat": 1.8, "length": 0.6, "step": -2 },
                                                     { "beat": 2.4, "length": 0.6, "step": 0 },
                                                     { "beat": 3.0, "length": 0.6, "step": 2 },
-                                                    { "beat": 3.6, "length": 1.2, "step": 0 }
+                                                    { "beat": 3.6, "length": 0.6, "step": 3 },
+                                                    { "beat": 4.2, "length": 1.2, "step": 5 }
                                                 ],
                                                 "drone": { "step": -7 }
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.6, "step": -7 },
-                                                    { "beat": 0.6, "length": 0.6, "step": -3 },
-                                                    { "beat": 1.2, "length": 0.6, "step": 0 },
-                                                    { "beat": 1.8, "length": 0.6, "step": 3 },
-                                                    { "beat": 2.4, "length": 0.6, "step": 5 },
-                                                    { "beat": 3.0, "length": 1.2, "step": 0 }
+                                                    { "beat": 0.6, "length": 0.6, "step": -5 },
+                                                    { "beat": 1.2, "length": 0.6, "step": -3 },
+                                                    { "beat": 1.8, "length": 0.6, "step": -2 },
+                                                    { "beat": 2.4, "length": 0.6, "step": 0 },
+                                                    { "beat": 3.0, "length": 0.6, "step": 2 },
+                                                    { "beat": 3.6, "length": 0.6, "step": 3 },
+                                                    { "beat": 4.2, "length": 1.2, "step": 5 }
                                                 ],
                                                 "drone": { "step": -7 }
                                             }
                                         ],
                                         "answer": 0,
                                         "why": {
-                                            "en": "A sounded minor and B major. Of these two modes, the minor-sounding one is Dorian; the major one is Mixolydian."
+                                            "en": "Same shape, one note apart: A's third was low, so it sounded minor, with the bright sixth: Dorian. B's third was high, major with the soft seventh: Mixolydian."
                                         }
                                     },
                                     {
@@ -1019,13 +1091,14 @@
                                         "clips": [
                                             {
                                                 "notes": [
-                                                    { "beat": 0.0, "length": 0.6, "step": 0 },
-                                                    { "beat": 0.6, "length": 0.6, "step": 2 },
-                                                    { "beat": 1.2, "length": 0.6, "step": 0 },
-                                                    { "beat": 1.8, "length": 0.6, "step": -2 },
-                                                    { "beat": 2.4, "length": 0.6, "step": -4 },
-                                                    { "beat": 3.0, "length": 0.6, "step": -5 },
-                                                    { "beat": 3.6, "length": 1.2, "step": -7 }
+                                                    { "beat": 0.0, "length": 0.6, "step": 5 },
+                                                    { "beat": 0.6, "length": 0.6, "step": 3 },
+                                                    { "beat": 1.2, "length": 0.6, "step": 2 },
+                                                    { "beat": 1.8, "length": 0.6, "step": 0 },
+                                                    { "beat": 2.4, "length": 0.6, "step": -2 },
+                                                    { "beat": 3.0, "length": 0.6, "step": -4 },
+                                                    { "beat": 3.6, "length": 0.6, "step": -5 },
+                                                    { "beat": 4.2, "length": 1.2, "step": -7 }
                                                 ],
                                                 "drone": { "step": -7 }
                                             },
@@ -1033,17 +1106,19 @@
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.6, "step": 5 },
                                                     { "beat": 0.6, "length": 0.6, "step": 3 },
-                                                    { "beat": 1.2, "length": 0.6, "step": 0 },
-                                                    { "beat": 1.8, "length": 0.6, "step": -3 },
-                                                    { "beat": 2.4, "length": 0.6, "step": -5 },
-                                                    { "beat": 3.0, "length": 1.2, "step": -7 }
+                                                    { "beat": 1.2, "length": 0.6, "step": 2 },
+                                                    { "beat": 1.8, "length": 0.6, "step": 0 },
+                                                    { "beat": 2.4, "length": 0.6, "step": -2 },
+                                                    { "beat": 3.0, "length": 0.6, "step": -3 },
+                                                    { "beat": 3.6, "length": 0.6, "step": -5 },
+                                                    { "beat": 4.2, "length": 1.2, "step": -7 }
                                                 ],
                                                 "drone": { "step": -7 }
                                             }
                                         ],
                                         "answer": 1,
                                         "why": {
-                                            "en": "B sounded major and A minor. The major-sounding one of these two is Mixolydian; the minor one, Dorian."
+                                            "en": "Coming down the same steps: B's third was high, so it was the major one with the soft seventh, Mixolydian. A's was low: Dorian."
                                         }
                                     }
                                 ]
@@ -1302,6 +1377,27 @@
                         },
                         {
                             "kind": "play",
+                            "text": { "en": "Again, a touch quicker." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
+                                    { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
+                                    { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
+                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "Town" },
+                                    { "beat": 1.75, "length": 1.25, "step": 0 },
+                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
+                                    { "beat": 4.5, "length": 0.25, "step": -7, "lyric": "born," },
+                                    { "beat": 4.75, "length": 1.25, "step": -9 }
+                                ],
+                                "turn": true,
+                                "drone": { "step": -4 }
+                            }
+                        },
+                        {
+                            "kind": "play",
                             "text": { "en": "Once more, a little quicker." },
                             "exercise": {
                                 "tempo": 72,
@@ -1387,6 +1483,28 @@
                             "text": { "en": "Listen, then sing it back with the turn." },
                             "exercise": {
                                 "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": 3, "lyric": "Made" },
+                                    { "beat": 0.5, "length": 0.5, "step": 5, "lyric": "ev-" },
+                                    { "beat": 1, "length": 0.5, "step": 3, "lyric": "'ry" },
+                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "youth" },
+                                    { "beat": 1.75, "length": 0.25, "step": 0 },
+                                    { "beat": 2.0, "length": 0.25, "step": -2 },
+                                    { "beat": 2.25, "length": 0.75, "step": 0 },
+                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "cry" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "well-" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "a-" },
+                                    { "beat": 4.5, "length": 1, "step": -9, "lyric": "day," }
+                                ],
+                                "turn": true,
+                                "drone": { "step": -4 }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Again, a touch quicker." },
+                            "exercise": {
+                                "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 0.5, "step": 3, "lyric": "Made" },
                                     { "beat": 0.5, "length": 0.5, "step": 5, "lyric": "ev-" },
@@ -1892,12 +2010,18 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Where few people had books, a leader sang each line of a hymn and everyone sang it back. That's lining out, and there's no drone: the leader's line gives you the key."
+                                "en": "Lining out is how many congregations sang before they had books: a leader sang each line and everyone sang it back. There's no drone: the leader's line gives you the key."
                             },
                             "steps": [
-                                { "title": { "en": "Wondrous Love" }, "detail": { "en": "From an American shape-note book of about 1840" } },
+                                {
+                                    "title": { "en": "Wondrous Love" },
+                                    "detail": { "en": "This hymn comes from a later shape-note book, of about 1840" }
+                                },
                                 { "title": { "en": "Line by line" }, "detail": { "en": "Listen, then sing it back" } },
-                                { "title": { "en": "Medium, not loud" }, "detail": { "en": "Shape-note singing is famous for loud; keep it easy" } }
+                                {
+                                    "title": { "en": "Medium, not loud" },
+                                    "detail": { "en": "Shape-note singing is famous for singing loud; keep it easy" }
+                                }
                             ],
                             "listen": {
                                 "tempo": 96,
@@ -2139,7 +2263,7 @@
                                     { "beat": 24, "length": 0.5, "step": -9, "lyric": "ra" },
                                     { "beat": 24.5, "length": 0.5, "step": -9, "lyric": "Al-" },
                                     { "beat": 25, "length": 2.5, "step": -4, "lyric": "len." },
-                                    { "beat": 28.5, "length": 3, "step": -4, "lyric": "home", "listenOnly": true }
+                                    { "beat": 28.5, "length": 3, "step": -4, "lyric": "ah", "listenOnly": true }
                                 ],
                                 "turn": false,
                                 "score": "keyDrift"
@@ -2302,7 +2426,7 @@
                                     { "beat": 31, "length": 0.375, "step": -5, "lyric": "morn-" },
                                     { "beat": 31.375, "length": 1.625, "step": -7 },
                                     { "beat": 33, "length": 2, "step": -7, "lyric": "ing." },
-                                    { "beat": 36, "length": 3, "step": -7, "lyric": "home", "listenOnly": true }
+                                    { "beat": 36, "length": 3, "step": -7, "lyric": "ah", "listenOnly": true }
                                 ],
                                 "turn": false,
                                 "score": "keyDrift"
