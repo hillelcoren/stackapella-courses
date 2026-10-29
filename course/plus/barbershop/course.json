@@ -238,6 +238,89 @@
                                                     {
                                                         "beat": 0,
                                                         "length": 4,
+                                                        "step": 0.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -0.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "A has the piano's third: a fast shimmer against the others. B rings."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one rings?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
                                                         "step": -0.14,
                                                         "vibrato": {
                                                             "cents": 0
@@ -282,9 +365,9 @@
                                                 ]
                                             }
                                         ],
-                                        "answer": 1,
+                                        "answer": 0,
                                         "why": {
-                                            "en": "B has the piano's third: a fast shimmer against the others. A rings."
+                                            "en": "A's third sits 14 cents low and rings. B is the piano's."
                                         }
                                     }
                                 ]
@@ -426,7 +509,7 @@
                                 "generous": true
                             },
                             "measures": {
-                                "en": "Your stars are for how close your held mi came to ringing: within 6 cents of pure rings, and the piano's own third never counts. Barbershop harmony grew from Black American quartet singing of the late 1800s. In unit 4, two of these voices are you."
+                                "en": "Your stars are for how close your held mi came to ringing: within 6 cents of pure. This first lesson gives a fair try two stars; three need the low third. Barbershop harmony grew from Black American quartet singing of the late 1800s. In unit 4, two of these voices are you."
                             }
                         }
                     ]
@@ -652,7 +735,7 @@
                         {
                             "kind": "selfcheck",
                             "text": {
-                                "en": "Now record mi over the chord twice: once on \"oo\", once on \"ah\". Play both back."
+                                "en": "Now record your note over the chord twice: once on \"oo\", once on \"ah\". Play both back. Headphones on: through a speaker the mic hears the chord too."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -666,8 +749,7 @@
                                             "lyric": "oo",
                                             "vibrato": {
                                                 "cents": 0
-                                            },
-                                            "cents": -14
+                                            }
                                         }
                                     ],
                                     "chords": [
@@ -1210,76 +1292,9 @@
                                         }
                                     }
                                 ]
-                            }
-                        },
-                        {
-                            "kind": "play",
-                            "text": {
-                                "en": "Now hold mi and make the chord ring. Straight, not squeezed: medium-soft. Headphones on: through a speaker the mic hears the chord too."
-                            },
-                            "exercise": {
-                                "tempo": 60,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 4,
-                                        "step": 0,
-                                        "lyric": "oo",
-                                        "vibrato": {
-                                            "cents": 0
-                                        },
-                                        "cents": -14
-                                    }
-                                ],
-                                "turn": false,
-                                "with": [
-                                    {
-                                        "notes": [
-                                            {
-                                                "beat": 0,
-                                                "length": 5.5,
-                                                "step": -16,
-                                                "lyric": "oo",
-                                                "vibrato": {
-                                                    "cents": 0
-                                                }
-                                            }
-                                        ],
-                                        "volume": 0.55
-                                    },
-                                    {
-                                        "notes": [
-                                            {
-                                                "beat": 0,
-                                                "length": 5.5,
-                                                "step": -9,
-                                                "lyric": "oo",
-                                                "vibrato": {
-                                                    "cents": 0
-                                                }
-                                            }
-                                        ],
-                                        "volume": 0.55
-                                    },
-                                    {
-                                        "notes": [
-                                            {
-                                                "beat": 0,
-                                                "length": 5.5,
-                                                "step": -4,
-                                                "lyric": "oo",
-                                                "vibrato": {
-                                                    "cents": 0
-                                                }
-                                            }
-                                        ],
-                                        "volume": 0.55
-                                    }
-                                ],
-                                "score": "ring"
                             },
                             "measures": {
-                                "en": "Your stars are for how close your held mi came to ringing: within 6 cents of pure rings."
+                                "en": "Your stars are for the voices you picked out, first time."
                             }
                         }
                     ]
@@ -1388,7 +1403,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "The fifth, the easy seat: hold so while the others sing theirs. Headphones on: through a speaker the mic hears the chord too."
+                                "en": "The fifth, the easy seat: hold so while the others sing theirs. Straight, not squeezed: medium-soft. Headphones on: through a speaker the mic hears the chord too."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1455,7 +1470,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "The root: hold do while the others sing around you. Headphones on: through a speaker the mic hears the chord too."
+                                "en": "The root: hold do while the others sing around you. Straight, not squeezed: medium-soft. Headphones on: through a speaker the mic hears the chord too."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1683,7 +1698,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Hold do over the low do: the octave. Headphones on: through a speaker the mic hears the chord too."
+                                "en": "Hold do over the low do: the octave. Straight, not squeezed: medium-soft. Headphones on: through a speaker the mic hears the chord too."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -2049,7 +2064,8 @@
                                                 "lyric": "oo",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -14
                                             }
                                         ],
                                         "volume": 0.55
@@ -2093,7 +2109,7 @@
                                                     {
                                                         "beat": 0,
                                                         "length": 4,
-                                                        "step": -1,
+                                                        "step": -1.14,
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
@@ -2129,7 +2145,7 @@
                                                     {
                                                         "beat": 0,
                                                         "length": 4,
-                                                        "step": -1,
+                                                        "step": -1.14,
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
@@ -2148,6 +2164,172 @@
                                         "answer": 1,
                                         "why": {
                                             "en": "B's seventh is 31 cents low: it locks. A's is the piano's and shimmers."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which seventh rings?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -17,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -10,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -1.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": 4.69,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -17,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -10,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -1.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": 5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "A: the low seventh. B is the piano's."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one beats?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -17,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -10,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -1.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": 4.69,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -17,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -10,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -1.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": 4.85,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "B is only halfway down: still a shimmer. A locks."
                                         }
                                     }
                                 ]
@@ -2211,7 +2393,8 @@
                                                 "lyric": "oo",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -14
                                             }
                                         ],
                                         "volume": 0.55
@@ -2358,7 +2541,8 @@
                                                 "lyric": "oo",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -14
                                             },
                                             {
                                                 "beat": 5,
@@ -2376,7 +2560,8 @@
                                                 "lyric": "oo",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -14
                                             },
                                             {
                                                 "beat": 13,
@@ -2408,7 +2593,8 @@
                                                 "lyric": "oo",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -31
                                             },
                                             {
                                                 "beat": 9,
@@ -2426,7 +2612,8 @@
                                                 "lyric": "oo",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -31
                                             }
                                         ],
                                         "volume": 0.55
@@ -2536,7 +2723,8 @@
                                                 "lyric": "oo",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -14
                                             },
                                             {
                                                 "beat": 5,
@@ -2554,7 +2742,8 @@
                                                 "lyric": "oo",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -14
                                             },
                                             {
                                                 "beat": 13,
@@ -2586,7 +2775,8 @@
                                                 "lyric": "oo",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -31
                                             },
                                             {
                                                 "beat": 9,
@@ -2604,7 +2794,8 @@
                                                 "lyric": "oo",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -31
                                             }
                                         ],
                                         "volume": 0.55
@@ -2636,7 +2827,7 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "The hole: the quartet without your part, then with it. The lead sings the tune, the second voice from the top. The others tune to you: you're the reference."
+                                "en": "The hole: the quartet without your part, then with it. The lead sings the tune, the second voice from the top; the others tune to you. On \"stream\" your note is the chord's seventh: tune it low."
                             },
                             "steps": [
                                 {
@@ -2644,7 +2835,7 @@
                                         "en": "The tune"
                                     },
                                     "detail": {
-                                        "en": "Down by the old mill stream"
+                                        "en": "Down by the Old Mill Stream (Tell Taylor, 1910)"
                                     }
                                 },
                                 {
@@ -2652,7 +2843,7 @@
                                         "en": "The reference"
                                     },
                                     "detail": {
-                                        "en": "Steady and sure; the others tune around you"
+                                        "en": "The others tune around you, except \"stream\""
                                     }
                                 },
                                 {
@@ -3427,7 +3618,7 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Your stars are for every note of the tune on pitch, within 20 cents: the others tune to you."
+                                "en": "Your stars are for every note of the tune on pitch, within 20 cents, and \"stream\" tuned low as the chord's seventh."
                             }
                         }
                     ],
@@ -3450,7 +3641,7 @@
                                         "en": "Roots"
                                     },
                                     "detail": {
-                                        "en": "B-flat, then D-flat, then F"
+                                        "en": "Do, then up a minor third, then so"
                                     }
                                 },
                                 {
@@ -5054,7 +5245,7 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "The hole: the quartet without your part, then with it. The baritone sings the note the chord still needs, and crosses the lead: above it on the pickup and \"old\", under it after."
+                                "en": "The hole: the quartet without your part, then with it. The baritone sings the note the chord still needs, and crosses the lead: above it on the pickup, then under it."
                             },
                             "steps": [
                                 {
@@ -5070,7 +5261,7 @@
                                         "en": "It crosses"
                                     },
                                     "detail": {
-                                        "en": "Above the lead, then under"
+                                        "en": "Above the lead on the pickup, then under"
                                     }
                                 },
                                 {
@@ -7027,7 +7218,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "The baritone with the other three, crossing the lead. Straight, not squeezed: medium-soft. Headphones on: through a speaker the mic hears the others too."
+                                "en": "The baritone with the other three, crossing the lead on the pickup. Straight, not squeezed: medium-soft. Headphones on: through a speaker the mic hears the chord too."
                             },
                             "exercise": {
                                 "tempo": 84,
@@ -7327,7 +7518,7 @@
                                         "en": "Your line moves"
                                     },
                                     "detail": {
-                                        "en": "Up a third, then down by half steps"
+                                        "en": "Up a third, then down by half steps, and home"
                                     }
                                 },
                                 {
@@ -7358,7 +7549,8 @@
                                         "lyric": "Home",
                                         "vibrato": {
                                             "cents": 0
-                                        }
+                                        },
+                                        "cents": -31
                                     },
                                     {
                                         "beat": 5.0,
@@ -7367,7 +7559,8 @@
                                         "lyric": "Home",
                                         "vibrato": {
                                             "cents": 0
-                                        }
+                                        },
+                                        "cents": -14
                                     },
                                     {
                                         "beat": 7.0,
@@ -7445,7 +7638,8 @@
                                                 "lyric": "Home",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -14
                                             },
                                             {
                                                 "beat": 5.0,
@@ -7472,7 +7666,8 @@
                                                 "lyric": "Home",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -14
                                             }
                                         ],
                                         "volume": 0.55
@@ -7485,7 +7680,7 @@
                         {
                             "kind": "try",
                             "text": {
-                                "en": "Try it: your swipe line with the guide, a note at a time: F, A-flat, G, G-flat, F on \"Home\"."
+                                "en": "Try it: your swipe line with the guide, a note at a time: up a third, then down by half steps, on \"Home\"."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -7506,7 +7701,8 @@
                                         "lyric": "Home",
                                         "vibrato": {
                                             "cents": 0
-                                        }
+                                        },
+                                        "cents": -31
                                     },
                                     {
                                         "beat": 5.0,
@@ -7515,7 +7711,8 @@
                                         "lyric": "Home",
                                         "vibrato": {
                                             "cents": 0
-                                        }
+                                        },
+                                        "cents": -14
                                     },
                                     {
                                         "beat": 7.0,
@@ -7563,7 +7760,8 @@
                                         "lyric": "Home",
                                         "vibrato": {
                                             "cents": 0
-                                        }
+                                        },
+                                        "cents": -31
                                     },
                                     {
                                         "beat": 5.0,
@@ -7572,7 +7770,8 @@
                                         "lyric": "Home",
                                         "vibrato": {
                                             "cents": 0
-                                        }
+                                        },
+                                        "cents": -14
                                     },
                                     {
                                         "beat": 7.0,
@@ -7581,7 +7780,8 @@
                                         "lyric": "Home",
                                         "vibrato": {
                                             "cents": 0
-                                        }
+                                        },
+                                        "ring": false
                                     },
                                     {
                                         "beat": 9.0,
@@ -7650,7 +7850,8 @@
                                                 "lyric": "Home",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -14
                                             },
                                             {
                                                 "beat": 5.0,
@@ -7677,7 +7878,8 @@
                                                 "lyric": "Home",
                                                 "vibrato": {
                                                     "cents": 0
-                                                }
+                                                },
+                                                "cents": -14
                                             }
                                         ],
                                         "volume": 0.55
@@ -7686,7 +7888,7 @@
                                 "score": "ring"
                             },
                             "measures": {
-                                "en": "Your stars are for each of your notes ringing in its chord: within 6 cents of pure."
+                                "en": "Your stars are for each of your notes ringing in its chord (the seventh low, the third low), within 6 cents of pure. The minor chord near the end is judged on pitch."
                             }
                         }
                     ]
@@ -8090,7 +8292,7 @@
                                 "score": "ring"
                             },
                             "measures": {
-                                "en": "Your stars are for your note staying put while the chords move around it: within 6 cents of where it started, every chord."
+                                "en": "Your stars are for your note staying on its pitch while the chords move around it: within 6 cents, every hold."
                             }
                         }
                     ]
@@ -8717,7 +8919,7 @@
                                 "score": "ring"
                             },
                             "measures": {
-                                "en": "Your stars are for the final chord ringing: your tenor on \"song\" within 6 cents of pure over your own lead. Two of these four voices are you."
+                                "en": "Your stars are for the final chord ringing: your tenor on \"song\" within 6 cents of pure against the guides, with your own lead playing under you. Two of these four voices are you."
                             }
                         }
                     ]
