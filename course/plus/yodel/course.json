@@ -85,7 +85,7 @@
                                 "combo": false,
                                 "score": "flipFinder",
                                 "target": [
-                                    { "seconds": 6, "kind": "path", "band": 150, "points": [[0, 3], [1.5, 17], [3, 3], [4.5, 17], [6, 3]] }
+                                    { "seconds": 6, "kind": "path", "band": 150, "points": [[0, 3], [1.5, 19], [3, 3], [4.5, 19], [6, 3]] }
                                 ]
                             }
                         },
@@ -609,7 +609,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The guide sings two hooks, then drops out: keep going for two more, in time." },
+                            "text": { "en": "The guide sings two hooks, then drops out: breathe, then sing two more, in time. Just listen to the guide's two." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -619,12 +619,12 @@
                                     { "beat": 4, "length": 1, "step": -7, "lyric": "yo-", "listenOnly": true },
                                     { "beat": 5, "length": 1, "step": 2, "lyric": "hee-", "listenOnly": true, "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o", "listenOnly": true },
-                                    { "beat": 8, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 9, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
-                                    { "beat": 10, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 12, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 13, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
-                                    { "beat": 14, "length": 2, "step": -7, "lyric": "o" }
+                                    { "beat": 9, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 10, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 11, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 13, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 14, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 15, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
                                 "base": "flip",
