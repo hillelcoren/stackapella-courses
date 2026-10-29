@@ -1745,6 +1745,2834 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "ear-more",
+            "title": {
+                "en": "More leaps"
+            },
+            "colour": 6,
+            "lessons": [
+                {
+                    "id": "ear-2-fourfive",
+                    "title": {
+                        "en": "Four or five?"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A leap of four is Amazing Grace. A leap of five is Twinkle: one step wider, and it vibrates three to two."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Four: so below to do"
+                                    },
+                                    "detail": {
+                                        "en": "A-ma-zing"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Five: do to so"
+                                    },
+                                    "detail": {
+                                        "en": "Twinkle, twinkle"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Five sounds open"
+                                    },
+                                    "detail": {
+                                        "en": "Four sounds like coming home"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 84,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 2,
+                                        "step": 7,
+                                        "lyric": "loo"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Each clip starts with the key's chord. Four or five?"
+                            },
+                            "exercise": {
+                                "tempo": 84,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "So below to do: four, like Amazing Grace."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 7,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 2,
+                                        "why": {
+                                            "en": "Do to so: five, like Twinkle."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 7,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 7,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Four, in a new key: so to do."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -3,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 9,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 2,
+                                        "why": {
+                                            "en": "Five, in a new key: do to so."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Three, from before: the Saints."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 7,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 2,
+                                        "why": {
+                                            "en": "Five: do to so in this key."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "The guide gives a note; sing the leap the screen names."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [
+                                            -5
+                                        ],
+                                        "sing": [
+                                            -5,
+                                            0
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Up a leap of four"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            0
+                                        ],
+                                        "sing": [
+                                            0,
+                                            7
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Up a leap of five"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            2
+                                        ],
+                                        "sing": [
+                                            2,
+                                            7
+                                        ],
+                                        "key": -5,
+                                        "label": {
+                                            "en": "Up a leap of four"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            -5
+                                        ],
+                                        "sing": [
+                                            -5,
+                                            2
+                                        ],
+                                        "key": -5,
+                                        "label": {
+                                            "en": "Up a leap of five"
+                                        }
+                                    }
+                                ],
+                                "home": true,
+                                "named": true
+                            },
+                            "measures": {
+                                "en": "Your stars are for singing each leap asked, the note you sang being the one asked, close to its middle."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ear-2-steps",
+                    "title": {
+                        "en": "Small and smaller"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A whole step is two piano keys apart; a half step is the very next key. Ode to Joy has both."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Ode to Joy"
+                                    },
+                                    "detail": {
+                                        "en": "Mi, mi, fa, so: a half step, then a whole step"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Frère Jacques"
+                                    },
+                                    "detail": {
+                                        "en": "Do to re: a whole step"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Half steps"
+                                    },
+                                    "detail": {
+                                        "en": "Mi to fa, and ti to do"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 84,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 7,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 7.5,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 8.5,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 9.5,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 10.5,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Each clip starts with the key's chord. Half step or whole step?"
+                            },
+                            "exercise": {
+                                "tempo": 84,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Which step?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "A half step"
+                                            },
+                                            {
+                                                "en": "A whole step"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Mi to fa: a half step, the closest two notes in the scale."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which step?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "A half step"
+                                            },
+                                            {
+                                                "en": "A whole step"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Do to re: a whole step, Frère Jacques."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which step?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 7,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "A half step"
+                                            },
+                                            {
+                                                "en": "A whole step"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Fa to so: a whole step, the end of Ode to Joy's start."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which step?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -1,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "A half step"
+                                            },
+                                            {
+                                                "en": "A whole step"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Ti below to do: a half step, leaning home."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which step?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "A half step"
+                                            },
+                                            {
+                                                "en": "A whole step"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Re down to do: a whole step."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "A step"
+                                            },
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "From before: do to mi, a leap of three."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Sing the step the screen names, from the guide's note."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [
+                                            0
+                                        ],
+                                        "sing": [
+                                            0,
+                                            2
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Up a whole step"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            4
+                                        ],
+                                        "sing": [
+                                            4,
+                                            5
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Up a half step"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            2
+                                        ],
+                                        "sing": [
+                                            2,
+                                            0
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Down a whole step"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            5
+                                        ],
+                                        "sing": [
+                                            5,
+                                            4
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Down a half step"
+                                        }
+                                    }
+                                ],
+                                "home": true,
+                                "named": true
+                            },
+                            "measures": {
+                                "en": "Your stars are for singing each leap asked, the note you sang being the one asked, close to its middle."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ear-2-thirds",
+                    "title": {
+                        "en": "Big and small threes"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A leap of three comes big or small. The Saints' is big and bright; Greensleeves' is small and dark."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Big three"
+                                    },
+                                    "detail": {
+                                        "en": "Do to mi: Oh when the saints"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Small three"
+                                    },
+                                    "detail": {
+                                        "en": "La below to do: Greensleeves"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Half a step apart"
+                                    },
+                                    "detail": {
+                                        "en": "That half step is the difference"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 84,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 2,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Each clip starts with the key's chord. Big three or small three?"
+                            },
+                            "exercise": {
+                                "tempo": 84,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Which three?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Big three"
+                                            },
+                                            {
+                                                "en": "Small three"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Do to mi: big, like the Saints."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which three?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -3,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Big three"
+                                            },
+                                            {
+                                                "en": "Small three"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "La below to do: small, like Greensleeves."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which three?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Big three"
+                                            },
+                                            {
+                                                "en": "Small three"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Re to fa: small."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which three?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": -1,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 7,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Big three"
+                                            },
+                                            {
+                                                "en": "Small three"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Big: do to mi in its own key."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which three?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 7,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Big three"
+                                            },
+                                            {
+                                                "en": "Small three"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Mi to so: small."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "From before: four, Amazing Grace."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Sing the three the screen names, from the guide's note."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [
+                                            0
+                                        ],
+                                        "sing": [
+                                            0,
+                                            4
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Up a big three"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            -3
+                                        ],
+                                        "sing": [
+                                            -3,
+                                            0
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Up a small three"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            -3
+                                        ],
+                                        "sing": [
+                                            -3,
+                                            1
+                                        ],
+                                        "key": -3,
+                                        "label": {
+                                            "en": "Up a big three"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            2
+                                        ],
+                                        "sing": [
+                                            2,
+                                            5
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Up a small three"
+                                        }
+                                    }
+                                ],
+                                "home": true,
+                                "named": true
+                            },
+                            "measures": {
+                                "en": "Your stars are for singing each leap asked, the note you sang being the one asked, close to its middle."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ear-2-wide",
+                    "title": {
+                        "en": "Six and eight"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A leap of six is My Bonnie. Eight is the octave: the same note, higher, vibrating exactly twice as fast."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Six: so below to mi"
+                                    },
+                                    "detail": {
+                                        "en": "My Bon-nie"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Octave: so below to so"
+                                    },
+                                    "detail": {
+                                        "en": "The same note, higher"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Big leaps start low"
+                                    },
+                                    "detail": {
+                                        "en": "So the top stays easy"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 84,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 2,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 2,
+                                        "step": 7,
+                                        "lyric": "loo"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Each clip starts with the key's chord. Five, six or an octave?"
+                            },
+                            "exercise": {
+                                "tempo": 84,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Five"
+                                            },
+                                            {
+                                                "en": "Six"
+                                            },
+                                            {
+                                                "en": "Octave"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "So below to mi: six, My Bonnie."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 7,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Five"
+                                            },
+                                            {
+                                                "en": "Six"
+                                            },
+                                            {
+                                                "en": "Octave"
+                                            }
+                                        ],
+                                        "answer": 2,
+                                        "why": {
+                                            "en": "So below to so: the same note, higher."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 7,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Five"
+                                            },
+                                            {
+                                                "en": "Six"
+                                            },
+                                            {
+                                                "en": "Octave"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Do to so: five, Twinkle."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -3,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 6,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 2,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Five"
+                                            },
+                                            {
+                                                "en": "Six"
+                                            },
+                                            {
+                                                "en": "Octave"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Six, in a new key."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 7,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Five"
+                                            },
+                                            {
+                                                "en": "Six"
+                                            },
+                                            {
+                                                "en": "Octave"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Five, from a low note."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 7,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 7,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Five"
+                                            },
+                                            {
+                                                "en": "Six"
+                                            },
+                                            {
+                                                "en": "Octave"
+                                            }
+                                        ],
+                                        "answer": 2,
+                                        "why": {
+                                            "en": "The octave: it sounds like the same note."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Sing the leap the screen names. Big leaps start low."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [
+                                            -5
+                                        ],
+                                        "sing": [
+                                            -5,
+                                            4
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Up a leap of six"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            -5
+                                        ],
+                                        "sing": [
+                                            -5,
+                                            7
+                                        ],
+                                        "key": -5,
+                                        "label": {
+                                            "en": "Up an octave"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            -3
+                                        ],
+                                        "sing": [
+                                            -3,
+                                            6
+                                        ],
+                                        "key": 2,
+                                        "label": {
+                                            "en": "Up a leap of six"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            -5
+                                        ],
+                                        "sing": [
+                                            -5,
+                                            2
+                                        ],
+                                        "key": -5,
+                                        "label": {
+                                            "en": "Up a leap of five"
+                                        }
+                                    }
+                                ],
+                                "home": true,
+                                "named": true
+                            },
+                            "measures": {
+                                "en": "Your stars are for singing each leap asked, the note you sang being the one asked, close to its middle."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ear-2-down",
+                    "title": {
+                        "en": "Leaps down"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "The same leaps, falling. Each has its song too."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Big three down"
+                                    },
+                                    "detail": {
+                                        "en": "Mi to do: Swing Low"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Small three down"
+                                    },
+                                    "detail": {
+                                        "en": "So to mi: This Old Man"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Four and five down"
+                                    },
+                                    "detail": {
+                                        "en": "O Come, All Ye Faithful; Twinkle backwards"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 84,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 2,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 10.0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 11.0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 12.0,
+                                        "length": 2,
+                                        "step": -5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 15.5,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 16.5,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Each clip starts with the key's chord. Which leap, going down?"
+                            },
+                            "exercise": {
+                                "tempo": 84,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap down?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Mi to do: three down, Swing Low."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap down?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Do to so below: four down, O Come, All Ye Faithful."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap down?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 7,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 2,
+                                        "why": {
+                                            "en": "So to do: five down, Twinkle backwards."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap down?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 7,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "So to mi: a small three down, This Old Man."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap down?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 5,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Four down, in a new key."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Up or down?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Up"
+                                            },
+                                            {
+                                                "en": "Down"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Up: so below to do, Amazing Grace."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Sing the leap down the screen names, from the guide's note."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [
+                                            4
+                                        ],
+                                        "sing": [
+                                            4,
+                                            0
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Down a big three"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            7
+                                        ],
+                                        "sing": [
+                                            7,
+                                            4
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Down a small three"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            0
+                                        ],
+                                        "sing": [
+                                            0,
+                                            -5
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Down a leap of four"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            7
+                                        ],
+                                        "sing": [
+                                            7,
+                                            0
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Down a leap of five"
+                                        }
+                                    }
+                                ],
+                                "home": true,
+                                "named": true
+                            },
+                            "measures": {
+                                "en": "Your stars are for singing each leap asked, the note you sang being the one asked, close to its middle."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ear-2-challenge",
+                    "title": {
+                        "en": "Leap ladder"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Any leap, up or down. First, the round from your first lesson."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Then and now"
+                                    },
+                                    "detail": {
+                                        "en": "Your six leaps from Song starts"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Hear them"
+                                    },
+                                    "detail": {
+                                        "en": "Which leap?"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Sing them"
+                                    },
+                                    "detail": {
+                                        "en": "Up or down, as the screen says"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 84,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 2,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Your six leaps from Song starts, to see how far you've come."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [
+                                            0
+                                        ],
+                                        "sing": [
+                                            0,
+                                            4
+                                        ],
+                                        "key": 0
+                                    },
+                                    {
+                                        "call": [
+                                            -5
+                                        ],
+                                        "sing": [
+                                            -5,
+                                            0
+                                        ],
+                                        "key": 0
+                                    },
+                                    {
+                                        "call": [
+                                            0
+                                        ],
+                                        "sing": [
+                                            0,
+                                            7
+                                        ],
+                                        "key": 0
+                                    },
+                                    {
+                                        "call": [
+                                            2
+                                        ],
+                                        "sing": [
+                                            2,
+                                            6
+                                        ],
+                                        "key": 2
+                                    },
+                                    {
+                                        "call": [
+                                            2
+                                        ],
+                                        "sing": [
+                                            2,
+                                            7
+                                        ],
+                                        "key": -5
+                                    },
+                                    {
+                                        "call": [
+                                            -5
+                                        ],
+                                        "sing": [
+                                            -5,
+                                            2
+                                        ],
+                                        "key": -5
+                                    }
+                                ],
+                                "home": true,
+                                "named": true
+                            }
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Which leap is it?"
+                            },
+                            "exercise": {
+                                "tempo": 84,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            },
+                                            {
+                                                "en": "Six"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Do to fa: four."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            },
+                                            {
+                                                "en": "Six"
+                                            }
+                                        ],
+                                        "answer": 3,
+                                        "why": {
+                                            "en": "So below to mi: six, My Bonnie."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap down?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 7,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            },
+                                            {
+                                                "en": "Six"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "So to mi: three down."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 7,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            },
+                                            {
+                                                "en": "Six"
+                                            }
+                                        ],
+                                        "answer": 2,
+                                        "why": {
+                                            "en": "Do to so: five."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap down?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            },
+                                            {
+                                                "en": "Six"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Do to so below: four down."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -3,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            },
+                                            {
+                                                "en": "Six"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "La below to do: a small three."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Four leaps, up or down, as the screen says."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [
+                                            -5
+                                        ],
+                                        "sing": [
+                                            -5,
+                                            4
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Up a leap of six"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            7
+                                        ],
+                                        "sing": [
+                                            7,
+                                            0
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Down a leap of five"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            2
+                                        ],
+                                        "sing": [
+                                            2,
+                                            5
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Up a small three"
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            0
+                                        ],
+                                        "sing": [
+                                            0,
+                                            -5
+                                        ],
+                                        "key": 0,
+                                        "label": {
+                                            "en": "Down a leap of four"
+                                        }
+                                    }
+                                ],
+                                "home": true,
+                                "named": true
+                            },
+                            "measures": {
+                                "en": "Your stars are for singing each leap asked, the note you sang being the one asked, close to its middle."
+                            }
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
