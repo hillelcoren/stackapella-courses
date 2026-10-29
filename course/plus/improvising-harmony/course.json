@@ -19,7 +19,7 @@
                             "headline": {"en": "The simplest harmony: sing the tune's next chord tone up. Mostly that's a third; over so it's a fourth, because the third would rub."},
                             "steps": [
                                 {"title": {"en": "Hear it first"}, "detail": {"en": "One line, the tune and the part above together"}},
-                                {"title": {"en": "Sing the tune, then the part"}, "detail": {"en": "Every harmony note lit"}},
+                                {"title": {"en": "Above a loud tune, go lighter"}, "detail": {"en": "Never louder; stop if anything tightens or hurts"}},
                                 {"title": {"en": "Best with headphones"}, "detail": {"en": "You'll hear the tune as you sing"}}
                             ],
                             "listen": {
@@ -177,6 +177,7 @@
                                     {"beat": 34.0, "length": 2.0, "step": -3, "lyric": "jah!"}
                                 ],
                                 "turn": false,
+                                "generous": true,
                                 "with": [
                                     {
                                         "notes": [
@@ -218,7 +219,7 @@
                                     {"beat": 34.0, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Your stars are for your harmony's notes on pitch. You sang parallel thirds, with a fourth wherever the third would rub."}
+                            "measures": {"en": "Your stars are for your harmony's notes on pitch. The part was parallel thirds, with a fourth wherever the third would rub."}
                         }
                     ]
                 },
@@ -636,17 +637,17 @@
                                                     {"beat": 9.0, "length": 1.0, "step": 0},
                                                     {"beat": 10.0, "length": 4.0, "step": 2},
                                                     {"beat": 14.0, "length": 2.0, "step": 0},
-                                                    {"beat": 0.0, "length": 1.0, "step": 5},
-                                                    {"beat": 1.0, "length": 1.0, "step": 9},
-                                                    {"beat": 2.0, "length": 1.5, "step": 12},
-                                                    {"beat": 3.5, "length": 0.5, "step": 9},
-                                                    {"beat": 4.0, "length": 1.0, "step": 12},
-                                                    {"beat": 5.0, "length": 1.0, "step": 14},
-                                                    {"beat": 6.0, "length": 2.0, "step": 12},
-                                                    {"beat": 8.0, "length": 1.0, "step": 9},
-                                                    {"beat": 9.0, "length": 1.0, "step": 12},
-                                                    {"beat": 10.0, "length": 4.0, "step": 14},
-                                                    {"beat": 14.0, "length": 2.0, "step": 12}
+                                                    {"beat": 0.0, "length": 1.0, "step": -19},
+                                                    {"beat": 1.0, "length": 1.0, "step": -15},
+                                                    {"beat": 2.0, "length": 1.5, "step": -12},
+                                                    {"beat": 3.5, "length": 0.5, "step": -15},
+                                                    {"beat": 4.0, "length": 1.0, "step": -12},
+                                                    {"beat": 5.0, "length": 1.0, "step": -10},
+                                                    {"beat": 6.0, "length": 2.0, "step": -12},
+                                                    {"beat": 8.0, "length": 1.0, "step": -15},
+                                                    {"beat": 9.0, "length": 1.0, "step": -12},
+                                                    {"beat": 10.0, "length": 4.0, "step": -10},
+                                                    {"beat": 14.0, "length": 2.0, "step": -12}
                                                 ]
                                             },
                                             {
@@ -662,22 +663,22 @@
                                                     {"beat": 9.0, "length": 1.0, "step": 0},
                                                     {"beat": 10.0, "length": 4.0, "step": 2},
                                                     {"beat": 14.0, "length": 2.0, "step": 0},
-                                                    {"beat": 0.0, "length": 1.0, "step": -3},
-                                                    {"beat": 1.0, "length": 1.0, "step": 0},
-                                                    {"beat": 2.0, "length": 1.5, "step": 5},
-                                                    {"beat": 3.5, "length": 0.5, "step": 0},
-                                                    {"beat": 4.0, "length": 1.0, "step": 5},
-                                                    {"beat": 5.0, "length": 1.0, "step": 5},
-                                                    {"beat": 6.0, "length": 2.0, "step": 5},
-                                                    {"beat": 8.0, "length": 1.0, "step": 0},
-                                                    {"beat": 9.0, "length": 1.0, "step": 5},
-                                                    {"beat": 10.0, "length": 4.0, "step": 5},
-                                                    {"beat": 14.0, "length": 2.0, "step": 5}
+                                                    {"beat": 0.0, "length": 1.0, "step": -15},
+                                                    {"beat": 1.0, "length": 1.0, "step": -12},
+                                                    {"beat": 2.0, "length": 1.5, "step": -7},
+                                                    {"beat": 3.5, "length": 0.5, "step": -12},
+                                                    {"beat": 4.0, "length": 1.0, "step": -7},
+                                                    {"beat": 5.0, "length": 1.0, "step": -7},
+                                                    {"beat": 6.0, "length": 2.0, "step": -7},
+                                                    {"beat": 8.0, "length": 1.0, "step": -12},
+                                                    {"beat": 9.0, "length": 1.0, "step": -7},
+                                                    {"beat": 10.0, "length": 4.0, "step": -7},
+                                                    {"beat": 14.0, "length": 2.0, "step": -7}
                                                 ]
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "A copied. Listen for the moment two voices become one: that's a copy."}
+                                        "why": {"en": "A copied, an octave down: the same notes, so it adds no chords. B sang its own part below."}
                                     }
                                 ]
                             }
@@ -755,7 +756,7 @@
                                     {"beat": 34.0, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Your stars are for your harmony's notes on pitch, the second half sung with no lights to follow."}
+                            "measures": {"en": "Your stars are for your harmony's notes on pitch, the second half sung with only faint outlines to follow."}
                         }
                     ]
                 },
@@ -1127,6 +1128,43 @@
                                 {"title": {"en": "When it rubs"}, "detail": {"en": "The chord changes to so: step down to ti"}},
                                 {"title": {"en": "Then home"}, "detail": {"en": "Back to do when the chord comes home"}}
                             ],
+                            "listen": {
+                                "tempo": 92,
+                                "notes": [
+                                    {"beat": 0, "length": 5.5, "step": 5, "lyric": "oo"},
+                                    {"beat": 6, "length": 2, "step": 4, "lyric": "oo"},
+                                    {"beat": 8, "length": 3.5, "step": 5, "lyric": "oo"},
+                                    {"beat": 12, "length": 2, "step": 4, "lyric": "oo"},
+                                    {"beat": 14, "length": 2, "step": 5, "lyric": "oo"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0.0, "length": 1.0, "step": -3},
+                                            {"beat": 1.0, "length": 1.0, "step": 0},
+                                            {"beat": 2.0, "length": 1.5, "step": 0},
+                                            {"beat": 3.5, "length": 0.5, "step": -3},
+                                            {"beat": 4.0, "length": 1.0, "step": -2},
+                                            {"beat": 5.0, "length": 1.0, "step": -3},
+                                            {"beat": 6.0, "length": 2.0, "step": -5},
+                                            {"beat": 8.0, "length": 1.0, "step": -7},
+                                            {"beat": 9.0, "length": 1.0, "step": -5},
+                                            {"beat": 10.0, "length": 2.0, "step": -3},
+                                            {"beat": 12.0, "length": 2.0, "step": -5},
+                                            {"beat": 14.0, "length": 2.0, "step": -7}
+                                        ]
+                                    }
+                                ],
+                                "chords": [
+                                    {"beat": 0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 4.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 6.0, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 8.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 12.0, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 14.0, "root": 5, "quality": "maj", "bass": null}
+                                ]
+                            },
                             "visual": "drone",
                             "reviewed": false
                         },
@@ -1163,10 +1201,11 @@
                                     }
                                 ],
                                 "chords": [
+                                    {"beat": 4, "root": 5, "quality": "maj", "bass": null},
                                     {"beat": 8.0, "root": 10, "quality": "maj", "bass": null},
-                                    {"beat": 10.0, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 10.0, "root": 0, "quality": "maj", "bass": null},
                                     {"beat": 12.0, "root": 5, "quality": "maj", "bass": null},
-                                    {"beat": 16.0, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 16.0, "root": 0, "quality": "maj", "bass": null},
                                     {"beat": 18.0, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             },
@@ -1184,7 +1223,7 @@
                             "steps": [
                                 {"title": {"en": "Listen"}, "detail": {"en": "The guide sings a line"}},
                                 {"title": {"en": "Then harmonise"}, "detail": {"en": "The line again, you above it"}},
-                                {"title": {"en": "The next chord tone up"}, "detail": {"en": "As before, by ear now"}}
+                                {"title": {"en": "The next chord tone up"}, "detail": {"en": "Lit for you, as before"}}
                             ],
                             "visual": "echo",
                             "reviewed": false
@@ -1299,6 +1338,7 @@
                                     }
                                 ],
                                 "chords": [
+                                    {"beat": 17.0, "root": 5, "quality": "maj", "bass": null},
                                     {"beat": 21.0, "root": 10, "quality": "maj", "bass": null},
                                     {"beat": 23.0, "root": 0, "quality": "dom7", "bass": null},
                                     {"beat": 25.0, "root": 5, "quality": "maj", "bass": null},
@@ -1320,9 +1360,57 @@
                             "headline": {"en": "Steal Away, the spiritual's refrain: once with your part below the tune, then once above it."},
                             "steps": [
                                 {"title": {"en": "First, below"}, "detail": {"en": "Your part under the tune"}},
-                                {"title": {"en": "Then, above"}, "detail": {"en": "The same part, an octave up"}},
+                                {"title": {"en": "Then, above"}, "detail": {"en": "The same notes; now the tune is under you"}},
                                 {"title": {"en": "Lost?"}, "detail": {"en": "Hold your note until it rubs, then step"}}
                             ],
+                            "listen": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.5, "step": 2, "lyric": "Steal"},
+                                    {"beat": 1.5, "length": 0.5, "step": 2, "lyric": "a-"},
+                                    {"beat": 2.0, "length": 2.0, "step": 2, "lyric": "way,"},
+                                    {"beat": 4.0, "length": 1.5, "step": 6, "lyric": "steal"},
+                                    {"beat": 5.5, "length": 0.5, "step": 6, "lyric": "a-"},
+                                    {"beat": 6.0, "length": 2.0, "step": 6, "lyric": "way,"},
+                                    {"beat": 8.0, "length": 1.5, "step": 9, "lyric": "steal"},
+                                    {"beat": 9.5, "length": 0.5, "step": 9, "lyric": "a-"},
+                                    {"beat": 10.0, "length": 1.5, "step": 9, "lyric": "way"},
+                                    {"beat": 11.5, "length": 0.5, "step": 11, "lyric": "to"},
+                                    {"beat": 12.0, "length": 1.0, "step": 4, "lyric": "Je-"},
+                                    {"beat": 13.0, "length": 1.0, "step": 6, "lyric": "sus!"},
+                                    {"beat": 16.0, "length": 1.5, "step": 2, "lyric": "Steal"},
+                                    {"beat": 17.5, "length": 0.5, "step": 2, "lyric": "a-"},
+                                    {"beat": 18.0, "length": 2.0, "step": 2, "lyric": "way,"},
+                                    {"beat": 20.0, "length": 0.6666666666666666, "step": 11, "lyric": "steal"},
+                                    {"beat": 20.666666666666668, "length": 0.6666666666666666, "step": 9, "lyric": "a-"},
+                                    {"beat": 21.333333333333332, "length": 0.6666666666666666, "step": 6, "lyric": "way"},
+                                    {"beat": 22.0, "length": 1.5, "step": 9, "lyric": "home,"},
+                                    {"beat": 23.5, "length": 0.5, "step": 2, "lyric": "I"},
+                                    {"beat": 24.0, "length": 1.0, "step": 2, "lyric": "hain't"},
+                                    {"beat": 25.0, "length": 1.0, "step": 2, "lyric": "got"},
+                                    {"beat": 26.0, "length": 1.5, "step": 6, "lyric": "long"},
+                                    {"beat": 27.5, "length": 0.5, "step": 6, "lyric": "to"},
+                                    {"beat": 28.0, "length": 1.0, "step": 4, "lyric": "stay"},
+                                    {"beat": 29.0, "length": 3.0, "step": 2, "lyric": "here."}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": 2, "quality": "maj", "bass": null},
+                                    {"beat": 4.0, "root": 2, "quality": "maj", "bass": null},
+                                    {"beat": 8.0, "root": 9, "quality": "maj", "bass": null},
+                                    {"beat": 11.5, "root": 7, "quality": "maj", "bass": null},
+                                    {"beat": 12.0, "root": 9, "quality": "dom7", "bass": null},
+                                    {"beat": 13.0, "root": 2, "quality": "maj", "bass": null},
+                                    {"beat": 16.0, "root": 2, "quality": "maj", "bass": null},
+                                    {"beat": 18.0, "root": 2, "quality": "maj", "bass": null},
+                                    {"beat": 20.0, "root": 7, "quality": "maj", "bass": null},
+                                    {"beat": 22.0, "root": 2, "quality": "maj", "bass": null},
+                                    {"beat": 24.0, "root": 2, "quality": "maj", "bass": null},
+                                    {"beat": 26.0, "root": 2, "quality": "maj", "bass": null},
+                                    {"beat": 28.0, "root": 9, "quality": "dom7", "bass": null},
+                                    {"beat": 29.0, "root": 2, "quality": "maj", "bass": null}
+                                ]
+                            },
                             "visual": "harmony",
                             "reviewed": false
                         },
@@ -1522,6 +1610,63 @@
                             "reviewed": false
                         },
                         {
+                            "kind": "choose",
+                            "text": {"en": "First, ears only: in the chord, or not?"},
+                            "exercise": {
+                                "tempo": 72,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -3}],
+                                                "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
+                                            }
+                                        ],
+                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "answer": 0,
+                                        "why": {"en": "Mi over the chord of do: in it, so it rings."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -2}],
+                                                "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
+                                            }
+                                        ],
+                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "answer": 1,
+                                        "why": {"en": "Fa over the chord of do: a half step from mi, and it rubs."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 2}],
+                                                "chords": [{"beat": 0, "root": 10, "quality": "maj", "bass": null}]
+                                            }
+                                        ],
+                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "answer": 0,
+                                        "why": {"en": "La over the chord of fa: its third, in it."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -7}],
+                                                "chords": [{"beat": 0, "root": 0, "quality": "dom7", "bass": null}]
+                                            }
+                                        ],
+                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "answer": 1,
+                                        "why": {"en": "Do over the chord of so: not in it, and it wants to step down to ti."}
+                                    }
+                                ]
+                            }
+                        },
+                        {
                             "kind": "play",
                             "text": {"en": "Sing each chord's notes, up and back, over its chord."},
                             "exercise": {
@@ -1538,7 +1683,7 @@
                                     {"beat": 11, "length": 1, "step": -3, "lyric": "ah"},
                                     {"beat": 12, "length": 1, "step": -2, "lyric": "ah"},
                                     {"beat": 13, "length": 1, "step": 2, "lyric": "ah"},
-                                    {"beat": 14, "length": 1, "step": -7, "lyric": "ah"},
+                                    {"beat": 14, "length": 1, "step": 5, "lyric": "ah"},
                                     {"beat": 15, "length": 1, "step": 2, "lyric": "ah"},
                                     {"beat": 16, "length": 1, "step": -7, "lyric": "ah"},
                                     {"beat": 17, "length": 1, "step": -3, "lyric": "ah"},
@@ -1564,15 +1709,15 @@
                                     {
                                         "beat": 4.0,
                                         "length": 2.0,
-                                        "step": -3,
-                                        "choices": [-3, 0],
+                                        "step": 0,
+                                        "choices": [0],
                                         "lyric": null
                                     },
                                     {
                                         "beat": 6.0,
                                         "length": 8.0,
                                         "step": -7,
-                                        "choices": [-7, -3, 5],
+                                        "choices": [-7, 5],
                                         "lyric": null
                                     },
                                     {
@@ -1584,7 +1729,7 @@
                                     },
                                     {
                                         "beat": 18.0,
-                                        "length": 6.0,
+                                        "length": 2.0,
                                         "step": -7,
                                         "choices": [-7, -3, 5],
                                         "lyric": null
@@ -1613,11 +1758,9 @@
                                     {"beat": 6.0, "root": 5, "quality": "maj", "bass": null},
                                     {"beat": 14.0, "root": 10, "quality": "maj", "bass": null},
                                     {"beat": 18.0, "root": 5, "quality": "maj", "bass": null}
-                                ],
-                                "score": "species",
-                                "rules": "contrary"
+                                ]
                             },
-                            "measures": {"en": "Your stars are for landing on a lit note at each chord, and three need at least three moves against the tune."}
+                            "measures": {"en": "Your stars are for landing on a lit note at each chord, held while the tune moves."}
                         }
                     ]
                 },
@@ -1682,7 +1825,7 @@
                                         "beat": 9.0,
                                         "length": 1.0,
                                         "step": -7,
-                                        "choices": [-7, -3, 0, 5],
+                                        "choices": [-7, -3, 5],
                                         "lyric": "a-"
                                     },
                                     {
@@ -1759,7 +1902,7 @@
                                         "beat": 25.0,
                                         "length": 1.0,
                                         "step": -7,
-                                        "choices": [-7, -2, 2, 5],
+                                        "choices": [-7, 2, 5],
                                         "lyric": "a-"
                                     },
                                     {
@@ -1779,8 +1922,8 @@
                                     {
                                         "beat": 29.0,
                                         "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, -3, 0, 5],
+                                        "step": 0,
+                                        "choices": [0],
                                         "lyric": "le-"
                                     },
                                     {
@@ -1849,7 +1992,7 @@
                                 "score": "species",
                                 "rules": "close"
                             },
-                            "measures": {"en": "Three stars need four moves in five to be a step or less."}
+                            "measures": {"en": "Three stars need four moves in five to be a step or less, and some real moving: not one held note."}
                         },
                         {
                             "kind": "play",
@@ -1897,7 +2040,7 @@
                                         "beat": 9.0,
                                         "length": 1.0,
                                         "step": -7,
-                                        "choices": [-7, -3, 0, 5],
+                                        "choices": [-7, -3, 5],
                                         "lyric": "a-"
                                     },
                                     {
@@ -1974,7 +2117,7 @@
                                         "beat": 25.0,
                                         "length": 1.0,
                                         "step": -7,
-                                        "choices": [-7, -2, 2, 5],
+                                        "choices": [-7, 2, 5],
                                         "lyric": "a-"
                                     },
                                     {
@@ -1994,8 +2137,8 @@
                                     {
                                         "beat": 29.0,
                                         "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, -3, 0, 5],
+                                        "step": 0,
+                                        "choices": [0],
                                         "lyric": "le-"
                                     },
                                     {
@@ -2062,9 +2205,9 @@
                                     {"beat": 34.0, "root": 5, "quality": "maj", "bass": null}
                                 ],
                                 "score": "species",
-                                "rules": "contrary"
+                                "rules": "against"
                             },
-                            "measures": {"en": "Three stars need at least three moves against the tune."}
+                            "measures": {"en": "Three stars need half your moves, of the ones that move, against the tune."}
                         }
                     ]
                 },
@@ -2081,6 +2224,56 @@
                                 {"title": {"en": "Stay close"}, "detail": {"en": "Small moves make a part easy to sing"}},
                                 {"title": {"en": "Listen"}, "detail": {"en": "Hear it together afterwards"}}
                             ],
+                            "listen": {
+                                "tempo": 76,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 11, "lyric": "Swing"},
+                                    {"beat": 1, "length": 2, "step": 7, "lyric": "low,"},
+                                    {"beat": 3, "length": 1, "step": 11, "lyric": "sweet"},
+                                    {"beat": 4, "length": 1.5, "step": 7, "lyric": "char-"},
+                                    {"beat": 5.5, "length": 0.5, "step": 7, "lyric": "i-"},
+                                    {"beat": 6, "length": 0.5, "step": 4, "lyric": "ot,"},
+                                    {"beat": 6.5, "length": 1.5, "step": 2},
+                                    {"beat": 8, "length": 0.5, "step": 7, "lyric": "Com-"},
+                                    {"beat": 8.5, "length": 0.5, "step": 7, "lyric": "ing"},
+                                    {"beat": 9, "length": 0.5, "step": 7, "lyric": "for"},
+                                    {"beat": 9.5, "length": 0.5, "step": 7, "lyric": "to"},
+                                    {"beat": 10, "length": 0.5, "step": 11, "lyric": "car-"},
+                                    {"beat": 10.5, "length": 0.5, "step": 11, "lyric": "ry"},
+                                    {"beat": 11, "length": 1, "step": 14, "lyric": "me"},
+                                    {"beat": 12, "length": 4, "step": 14, "lyric": "home."},
+                                    {"beat": 16, "length": 0.5, "step": 16, "lyric": "Swing"},
+                                    {"beat": 16.5, "length": 0.5, "step": 14},
+                                    {"beat": 17, "length": 2, "step": 11, "lyric": "low,"},
+                                    {"beat": 19, "length": 1, "step": 14, "lyric": "sweet"},
+                                    {"beat": 20, "length": 1.5, "step": 7, "lyric": "char-"},
+                                    {"beat": 21.5, "length": 0.5, "step": 7, "lyric": "i-"},
+                                    {"beat": 22, "length": 0.5, "step": 4, "lyric": "ot,"},
+                                    {"beat": 22.5, "length": 1.5, "step": 2},
+                                    {"beat": 24, "length": 0.5, "step": 7, "lyric": "Com-"},
+                                    {"beat": 24.5, "length": 0.5, "step": 7, "lyric": "ing"},
+                                    {"beat": 25, "length": 0.5, "step": 7, "lyric": "for"},
+                                    {"beat": 25.5, "length": 0.5, "step": 7, "lyric": "to"},
+                                    {"beat": 26, "length": 0.5, "step": 11, "lyric": "car-"},
+                                    {"beat": 26.5, "length": 0.5, "step": 11, "lyric": "ry"},
+                                    {"beat": 27, "length": 1, "step": 9, "lyric": "me"},
+                                    {"beat": 28, "length": 3, "step": 7, "lyric": "home."}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": 7, "quality": "maj", "bass": null},
+                                    {"beat": 4, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 6.5, "root": 7, "quality": "maj", "bass": null},
+                                    {"beat": 12, "root": 2, "quality": "maj", "bass": null},
+                                    {"beat": 16, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 17, "root": 7, "quality": "maj", "bass": null},
+                                    {"beat": 19, "root": 7, "quality": "maj", "bass": null},
+                                    {"beat": 20, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 22.5, "root": 7, "quality": "maj", "bass": null},
+                                    {"beat": 27, "root": 2, "quality": "dom7", "bass": null},
+                                    {"beat": 28, "root": 7, "quality": "maj", "bass": null}
+                                ]
+                            },
                             "visual": "harmony",
                             "reviewed": false
                         },
@@ -2206,8 +2399,8 @@
                                     {
                                         "beat": 20.5,
                                         "length": 0.5,
-                                        "step": -8,
-                                        "choices": [-8, -5, 0, 4],
+                                        "step": -5,
+                                        "choices": [-5],
                                         "lyric": null
                                     },
                                     {
@@ -2376,232 +2569,387 @@
             "lessons": [
                 {
                     "id": "imp-4-hints",
-                    "title": {"en": "Lights at the changes"},
+                    "title": {"en": "Lights when you need them"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Fewer lights: they show only where the chord changes. Between, you know where you are."},
+                            "headline": {"en": "Fewer lights: a note shows only once you've been off it for a beat. Find it by ear first."},
                             "steps": [
-                                {"title": {"en": "A light at each change"}, "detail": {"en": "Then hold or step by ear"}},
+                                {"title": {"en": "Listen to the verse"}, "detail": {"en": "Steal Away's verse, with its chords"}},
                                 {"title": {"en": "Lost?"}, "detail": {"en": "Hold your note until it rubs, then step"}},
-                                {"title": {"en": "Every note still counts"}, "detail": {"en": "In the chord, never the tune's own"}}
+                                {"title": {"en": "A light comes late"}, "detail": {"en": "Only if you need it"}}
                             ],
+                            "listen": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.0, "step": 3, "lyric": "My"},
+                                    {"beat": 1.0, "length": 2.0, "step": 3, "lyric": "Lord"},
+                                    {"beat": 3.0, "length": 1.0, "step": 1},
+                                    {"beat": 4.0, "length": 1.0, "step": 3, "lyric": "calls"},
+                                    {"beat": 5.0, "length": 2.0, "step": 1, "lyric": "me,"},
+                                    {"beat": 7.0, "length": 1.0, "step": -2, "lyric": "He"},
+                                    {"beat": 8.0, "length": 1.5, "step": 1, "lyric": "calls"},
+                                    {"beat": 9.5, "length": 0.5, "step": 1, "lyric": "me"},
+                                    {"beat": 10.0, "length": 1.5, "step": 1, "lyric": "by"},
+                                    {"beat": 11.5, "length": 0.5, "step": -2, "lyric": "the"},
+                                    {"beat": 12.0, "length": 1.0, "step": 1, "lyric": "thun-"},
+                                    {"beat": 13.0, "length": 2.0, "step": -2, "lyric": "der;"},
+                                    {"beat": 15.0, "length": 1.0, "step": -6, "lyric": "The"},
+                                    {"beat": 16.0, "length": 0.5, "step": -2, "lyric": "trum-"},
+                                    {"beat": 16.5, "length": 1.5, "step": 1, "lyric": "pet"},
+                                    {"beat": 18.0, "length": 1.5, "step": 1, "lyric": "sounds"},
+                                    {"beat": 19.5, "length": 0.5, "step": 1, "lyric": "it"},
+                                    {"beat": 20.0, "length": 1.0, "step": 3, "lyric": "in"},
+                                    {"beat": 21.0, "length": 1.0, "step": -2, "lyric": "my"},
+                                    {"beat": 22.0, "length": 1.5, "step": 1, "lyric": "soul,"},
+                                    {"beat": 23.5, "length": 0.5, "step": -6, "lyric": "I"},
+                                    {"beat": 24.0, "length": 1.0, "step": -6, "lyric": "hain't"},
+                                    {"beat": 25.0, "length": 1.0, "step": -6, "lyric": "got"},
+                                    {"beat": 26.0, "length": 1.5, "step": -2, "lyric": "long"},
+                                    {"beat": 27.5, "length": 0.5, "step": -2, "lyric": "to"},
+                                    {"beat": 28.0, "length": 1.0, "step": -4, "lyric": "stay"},
+                                    {"beat": 29.0, "length": 3.0, "step": -6, "lyric": "here."}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": 11, "quality": "maj", "bass": null},
+                                    {"beat": 3.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 4.0, "root": 11, "quality": "maj", "bass": null},
+                                    {"beat": 5.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 8.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 10.0, "root": 10, "quality": "min", "bass": null},
+                                    {"beat": 12.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 13.0, "root": 3, "quality": "min", "bass": null},
+                                    {"beat": 15.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 16.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 18.0, "root": 1, "quality": "maj", "bass": null},
+                                    {"beat": 20.0, "root": 11, "quality": "maj", "bass": null},
+                                    {"beat": 21.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 22.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 23.5, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 24.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 26.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 28.0, "root": 1, "quality": "dom7", "bass": null},
+                                    {"beat": 29.0, "root": 6, "quality": "maj", "bass": null}
+                                ]
+                            },
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
-                            "kind": "play",
-                            "text": {"en": "Michael, Row with lights only at the chord changes."},
+                            "kind": "choose",
+                            "text": {"en": "Ears only: in the chord, or not?"},
                             "exercise": {
-                                "tempo": 92,
+                                "tempo": 72,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -7}],
+                                                "chords": [{"beat": 0, "root": 0, "quality": "dom7", "bass": null}]
+                                            }
+                                        ],
+                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "answer": 1,
+                                        "why": {"en": "Do over the chord of so: not in it, and it wants to step down to ti."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 2}],
+                                                "chords": [{"beat": 0, "root": 10, "quality": "maj", "bass": null}]
+                                            }
+                                        ],
+                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "answer": 0,
+                                        "why": {"en": "La over the chord of fa: its third, in it."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -2}],
+                                                "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
+                                            }
+                                        ],
+                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "answer": 1,
+                                        "why": {"en": "Fa over the chord of do: a half step from mi, and it rubs."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -3}],
+                                                "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
+                                            }
+                                        ],
+                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "answer": 0,
+                                        "why": {"en": "Mi over the chord of do: in it, so it rings."}
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Steal Away's verse, any chord tone; a light shows only once you've been off for a beat."},
+                            "exercise": {
+                                "tempo": 66,
                                 "notes": [
-                                    {"beat": 0, "length": 2, "step": -7, "listenOnly": true},
+                                    {"beat": 0, "length": 2, "step": -6, "listenOnly": true},
                                     {
                                         "beat": 4.0,
                                         "length": 1.0,
-                                        "step": -3,
-                                        "choices": [-3, 0],
-                                        "lyric": "Mi-"
+                                        "step": -6,
+                                        "choices": [-6, -1],
+                                        "lyric": "My"
                                     },
                                     {
                                         "beat": 5.0,
+                                        "length": 2.0,
+                                        "step": -6,
+                                        "choices": [-6, -1],
+                                        "lyric": "Lord"
+                                    },
+                                    {
+                                        "beat": 7.0,
                                         "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, 0, 5],
-                                        "lyric": "chael,"
-                                    },
-                                    {
-                                        "beat": 6.0,
-                                        "length": 1.5,
-                                        "step": -7,
-                                        "choices": [-7, -3, 5],
-                                        "lyric": "row"
-                                    },
-                                    {
-                                        "beat": 7.5,
-                                        "length": 0.5,
-                                        "step": -7,
-                                        "choices": [-7, 0, 5],
-                                        "lyric": "the"
+                                        "step": -6,
+                                        "choices": [-6, -2],
+                                        "lyric": null
                                     },
                                     {
                                         "beat": 8.0,
                                         "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, -3, 5],
-                                        "lyric": "boat"
+                                        "step": -6,
+                                        "choices": [-6, -1],
+                                        "lyric": "calls"
                                     },
                                     {
                                         "beat": 9.0,
-                                        "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, -3, 0, 5],
-                                        "lyric": "a-"
+                                        "length": 2.0,
+                                        "step": -6,
+                                        "choices": [-6, -2],
+                                        "lyric": "me,"
                                     },
                                     {
-                                        "beat": 10.0,
-                                        "length": 2.0,
-                                        "step": -7,
-                                        "choices": [-7, -3, 5],
-                                        "lyric": "shore,"
+                                        "beat": 11.0,
+                                        "length": 1.0,
+                                        "step": -6,
+                                        "choices": [-6, 1],
+                                        "lyric": "He"
                                     },
                                     {
                                         "beat": 12.0,
-                                        "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, 0, 5],
-                                        "lyric": "Hal-"
+                                        "length": 1.5,
+                                        "step": -6,
+                                        "choices": [-6, -2],
+                                        "lyric": "calls"
                                     },
                                     {
-                                        "beat": 13.0,
-                                        "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, -3, 5],
-                                        "lyric": "le-"
+                                        "beat": 13.5,
+                                        "length": 0.5,
+                                        "step": -6,
+                                        "choices": [-6, -2],
+                                        "lyric": "me"
                                     },
                                     {
                                         "beat": 14.0,
-                                        "length": 4.0,
+                                        "length": 1.5,
                                         "step": -7,
                                         "choices": [-7, -2, 5],
-                                        "lyric": "lu-"
+                                        "lyric": "by"
                                     },
                                     {
-                                        "beat": 18.0,
-                                        "length": 2.0,
+                                        "beat": 15.5,
+                                        "length": 0.5,
                                         "step": -7,
-                                        "choices": [-7, -3, 5],
-                                        "lyric": "jah!"
+                                        "choices": [-7, 1, 5],
+                                        "lyric": "the"
+                                    },
+                                    {
+                                        "beat": 16.0,
+                                        "length": 1.0,
+                                        "step": -6,
+                                        "choices": [-6, -2],
+                                        "lyric": "thun-"
+                                    },
+                                    {
+                                        "beat": 17.0,
+                                        "length": 2.0,
+                                        "step": -9,
+                                        "choices": [-9, -6, 3],
+                                        "lyric": "der;"
+                                    },
+                                    {
+                                        "beat": 19.0,
+                                        "length": 1.0,
+                                        "step": -2,
+                                        "choices": [-2, 1],
+                                        "lyric": "The"
                                     },
                                     {
                                         "beat": 20.0,
-                                        "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, 0, 5],
-                                        "lyric": "Mi-"
+                                        "length": 0.5,
+                                        "step": -6,
+                                        "choices": [-6, 1],
+                                        "lyric": "trum-"
                                     },
                                     {
-                                        "beat": 21.0,
-                                        "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, -3, 5],
-                                        "lyric": "chael,"
+                                        "beat": 20.5,
+                                        "length": 1.5,
+                                        "step": -6,
+                                        "choices": [-6, -2],
+                                        "lyric": "pet"
                                     },
                                     {
                                         "beat": 22.0,
                                         "length": 1.5,
                                         "step": -7,
-                                        "choices": [-7, -3, 5],
-                                        "lyric": "row"
+                                        "choices": [-7, -4, 5],
+                                        "lyric": "sounds"
                                     },
                                     {
                                         "beat": 23.5,
                                         "length": 0.5,
                                         "step": -7,
-                                        "choices": [-7, 0, 5],
-                                        "lyric": "the"
+                                        "choices": [-7, -4, 5],
+                                        "lyric": "it"
                                     },
                                     {
                                         "beat": 24.0,
                                         "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, 2, 5],
-                                        "lyric": "boat"
+                                        "step": -6,
+                                        "choices": [-6, -1],
+                                        "lyric": "in"
                                     },
                                     {
                                         "beat": 25.0,
                                         "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, -2, 2, 5],
-                                        "lyric": "a-"
+                                        "step": -6,
+                                        "choices": [-6, 1],
+                                        "lyric": "my"
                                     },
                                     {
                                         "beat": 26.0,
-                                        "length": 2.0,
-                                        "step": -8,
-                                        "choices": [-8, 0, 4],
-                                        "lyric": "shore,"
+                                        "length": 1.5,
+                                        "step": -6,
+                                        "choices": [-6, -2],
+                                        "lyric": "soul,"
+                                    },
+                                    {
+                                        "beat": 27.5,
+                                        "length": 0.5,
+                                        "step": -2,
+                                        "choices": [-2, 1],
+                                        "lyric": "I"
                                     },
                                     {
                                         "beat": 28.0,
                                         "length": 1.0,
-                                        "step": -3,
-                                        "choices": [-3, 0],
-                                        "lyric": "Hal-"
+                                        "step": -2,
+                                        "choices": [-2, 1],
+                                        "lyric": "hain't"
                                     },
                                     {
                                         "beat": 29.0,
                                         "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, -3, 0, 5],
-                                        "lyric": "le-"
+                                        "step": -2,
+                                        "choices": [-2, 1],
+                                        "lyric": "got"
                                     },
                                     {
                                         "beat": 30.0,
-                                        "length": 2.0,
-                                        "step": -7,
-                                        "choices": [-7, 0, 5],
-                                        "lyric": "lu-"
+                                        "length": 1.5,
+                                        "step": -6,
+                                        "choices": [-6, 1],
+                                        "lyric": "long"
+                                    },
+                                    {
+                                        "beat": 31.5,
+                                        "length": 0.5,
+                                        "step": -6,
+                                        "choices": [-6, 1],
+                                        "lyric": "to"
                                     },
                                     {
                                         "beat": 32.0,
-                                        "length": 2.0,
-                                        "step": -8,
-                                        "choices": [-8, 0, 4],
-                                        "lyric": null
+                                        "length": 1.0,
+                                        "step": -7,
+                                        "choices": [-7, -1, 1, 5],
+                                        "lyric": "stay"
                                     },
                                     {
-                                        "beat": 34.0,
-                                        "length": 2.0,
-                                        "step": -3,
-                                        "choices": [-3, 0],
-                                        "lyric": "jah!"
+                                        "beat": 33.0,
+                                        "length": 3.0,
+                                        "step": -2,
+                                        "choices": [-2, 1],
+                                        "lyric": "here."
                                     }
                                 ],
                                 "turn": false,
-                                "lights": "changes",
+                                "lights": "late",
                                 "with": [
                                     {
                                         "notes": [
-                                            {"beat": 4.0, "length": 1.0, "step": -7},
-                                            {"beat": 5.0, "length": 1.0, "step": -3},
-                                            {"beat": 6.0, "length": 1.5, "step": 0},
-                                            {"beat": 7.5, "length": 0.5, "step": -3},
-                                            {"beat": 8.0, "length": 1.0, "step": 0},
-                                            {"beat": 9.0, "length": 1.0, "step": 2},
-                                            {"beat": 10.0, "length": 2.0, "step": 0},
-                                            {"beat": 12.0, "length": 1.0, "step": -3},
-                                            {"beat": 13.0, "length": 1.0, "step": 0},
-                                            {"beat": 14.0, "length": 4.0, "step": 2},
-                                            {"beat": 18.0, "length": 2.0, "step": 0},
-                                            {"beat": 20.0, "length": 1.0, "step": -3},
-                                            {"beat": 21.0, "length": 1.0, "step": 0},
-                                            {"beat": 22.0, "length": 1.5, "step": 0},
-                                            {"beat": 23.5, "length": 0.5, "step": -3},
-                                            {"beat": 24.0, "length": 1.0, "step": -2},
-                                            {"beat": 25.0, "length": 1.0, "step": -3},
-                                            {"beat": 26.0, "length": 2.0, "step": -5},
-                                            {"beat": 28.0, "length": 1.0, "step": -7},
-                                            {"beat": 29.0, "length": 1.0, "step": -5},
-                                            {"beat": 30.0, "length": 2.0, "step": -3},
-                                            {"beat": 32.0, "length": 2.0, "step": -5},
-                                            {"beat": 34.0, "length": 2.0, "step": -7}
+                                            {"beat": 4.0, "length": 1.0, "step": 3},
+                                            {"beat": 5.0, "length": 2.0, "step": 3},
+                                            {"beat": 7.0, "length": 1.0, "step": 1},
+                                            {"beat": 8.0, "length": 1.0, "step": 3},
+                                            {"beat": 9.0, "length": 2.0, "step": 1},
+                                            {"beat": 11.0, "length": 1.0, "step": -2},
+                                            {"beat": 12.0, "length": 1.5, "step": 1},
+                                            {"beat": 13.5, "length": 0.5, "step": 1},
+                                            {"beat": 14.0, "length": 1.5, "step": 1},
+                                            {"beat": 15.5, "length": 0.5, "step": -2},
+                                            {"beat": 16.0, "length": 1.0, "step": 1},
+                                            {"beat": 17.0, "length": 2.0, "step": -2},
+                                            {"beat": 19.0, "length": 1.0, "step": -6},
+                                            {"beat": 20.0, "length": 0.5, "step": -2},
+                                            {"beat": 20.5, "length": 1.5, "step": 1},
+                                            {"beat": 22.0, "length": 1.5, "step": 1},
+                                            {"beat": 23.5, "length": 0.5, "step": 1},
+                                            {"beat": 24.0, "length": 1.0, "step": 3},
+                                            {"beat": 25.0, "length": 1.0, "step": -2},
+                                            {"beat": 26.0, "length": 1.5, "step": 1},
+                                            {"beat": 27.5, "length": 0.5, "step": -6},
+                                            {"beat": 28.0, "length": 1.0, "step": -6},
+                                            {"beat": 29.0, "length": 1.0, "step": -6},
+                                            {"beat": 30.0, "length": 1.5, "step": -2},
+                                            {"beat": 31.5, "length": 0.5, "step": -2},
+                                            {"beat": 32.0, "length": 1.0, "step": -4},
+                                            {"beat": 33.0, "length": 3.0, "step": -6}
                                         ]
                                     }
                                 ],
                                 "chords": [
-                                    {"beat": 4.0, "root": 5, "quality": "maj", "bass": null},
-                                    {"beat": 6.0, "root": 5, "quality": "maj", "bass": null},
-                                    {"beat": 14.0, "root": 10, "quality": "maj", "bass": null},
-                                    {"beat": 18.0, "root": 5, "quality": "maj", "bass": null},
-                                    {"beat": 24.0, "root": 10, "quality": "maj", "bass": null},
-                                    {"beat": 26.0, "root": 0, "quality": "dom7", "bass": null},
-                                    {"beat": 28.0, "root": 5, "quality": "maj", "bass": null},
-                                    {"beat": 32.0, "root": 0, "quality": "dom7", "bass": null},
-                                    {"beat": 34.0, "root": 5, "quality": "maj", "bass": null}
-                                ]
+                                    {"beat": 4, "root": 11, "quality": "maj", "bass": null},
+                                    {"beat": 7.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 8.0, "root": 11, "quality": "maj", "bass": null},
+                                    {"beat": 9.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 12.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 14.0, "root": 10, "quality": "min", "bass": null},
+                                    {"beat": 16.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 17.0, "root": 3, "quality": "min", "bass": null},
+                                    {"beat": 19.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 20.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 22.0, "root": 1, "quality": "maj", "bass": null},
+                                    {"beat": 24.0, "root": 11, "quality": "maj", "bass": null},
+                                    {"beat": 25.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 26.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 27.5, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 28.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 30.0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 32.0, "root": 1, "quality": "dom7", "bass": null},
+                                    {"beat": 33.0, "root": 6, "quality": "maj", "bass": null}
+                                ],
+                                "score": "species",
+                                "rules": "close"
                             },
-                            "measures": {"en": "Your stars are for your notes landing in the chord, most of them with no light to follow."}
+                            "measures": {"en": "Your stars are for your notes landing in the chord, most of them before any light showed, and three need small, moving steps."}
                         }
                     ]
                 },
@@ -2617,6 +2965,46 @@
                                 {"title": {"en": "Lost?"}, "detail": {"en": "Hold a note until it rubs, then step"}},
                                 {"title": {"en": "Afterwards"}, "detail": {"en": "Hear what you made"}}
                             ],
+                            "listen": {
+                                "tempo": 92,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.0, "step": -7, "lyric": "Mi-"},
+                                    {"beat": 1.0, "length": 1.0, "step": -3, "lyric": "chael,"},
+                                    {"beat": 2.0, "length": 1.5, "step": 0, "lyric": "row"},
+                                    {"beat": 3.5, "length": 0.5, "step": -3, "lyric": "the"},
+                                    {"beat": 4.0, "length": 1.0, "step": 0, "lyric": "boat"},
+                                    {"beat": 5.0, "length": 1.0, "step": 2, "lyric": "a-"},
+                                    {"beat": 6.0, "length": 2.0, "step": 0, "lyric": "shore,"},
+                                    {"beat": 8.0, "length": 1.0, "step": -3, "lyric": "Hal-"},
+                                    {"beat": 9.0, "length": 1.0, "step": 0, "lyric": "le-"},
+                                    {"beat": 10.0, "length": 4.0, "step": 2, "lyric": "lu-"},
+                                    {"beat": 14.0, "length": 2.0, "step": 0, "lyric": "jah!"},
+                                    {"beat": 16.0, "length": 1.0, "step": -3, "lyric": "Mi-"},
+                                    {"beat": 17.0, "length": 1.0, "step": 0, "lyric": "chael,"},
+                                    {"beat": 18.0, "length": 1.5, "step": 0, "lyric": "row"},
+                                    {"beat": 19.5, "length": 0.5, "step": -3, "lyric": "the"},
+                                    {"beat": 20.0, "length": 1.0, "step": -2, "lyric": "boat"},
+                                    {"beat": 21.0, "length": 1.0, "step": -3, "lyric": "a-"},
+                                    {"beat": 22.0, "length": 2.0, "step": -5, "lyric": "shore,"},
+                                    {"beat": 24.0, "length": 1.0, "step": -7, "lyric": "Hal-"},
+                                    {"beat": 25.0, "length": 1.0, "step": -5, "lyric": "le-"},
+                                    {"beat": 26.0, "length": 2.0, "step": -3, "lyric": "lu-"},
+                                    {"beat": 28.0, "length": 2.0, "step": -5},
+                                    {"beat": 30.0, "length": 2.0, "step": -7, "lyric": "jah!"}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 2.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 10.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 14.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 20.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 22.0, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 24.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 28.0, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 30.0, "root": 5, "quality": "maj", "bass": null}
+                                ]
+                            },
                             "visual": "harmony",
                             "reviewed": false
                         },
@@ -2666,7 +3054,7 @@
                                         "beat": 9.0,
                                         "length": 1.0,
                                         "step": -7,
-                                        "choices": [-7, -3, 0, 5],
+                                        "choices": [-7, -3, 5],
                                         "lyric": "a-"
                                     },
                                     {
@@ -2743,7 +3131,7 @@
                                         "beat": 25.0,
                                         "length": 1.0,
                                         "step": -7,
-                                        "choices": [-7, -2, 2, 5],
+                                        "choices": [-7, 2, 5],
                                         "lyric": "a-"
                                     },
                                     {
@@ -2763,8 +3151,8 @@
                                     {
                                         "beat": 29.0,
                                         "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, -3, 0, 5],
+                                        "step": 0,
+                                        "choices": [0],
                                         "lyric": "le-"
                                     },
                                     {
@@ -2830,9 +3218,11 @@
                                     {"beat": 28.0, "root": 5, "quality": "maj", "bass": null},
                                     {"beat": 32.0, "root": 0, "quality": "dom7", "bass": null},
                                     {"beat": 34.0, "root": 5, "quality": "maj", "bass": null}
-                                ]
+                                ],
+                                "score": "species",
+                                "rules": "close"
                             },
-                            "measures": {"en": "Your stars are for your notes landing in the chord, by ear."}
+                            "measures": {"en": "Your stars are for your notes landing in the chord, by ear, and three need small, moving steps."}
                         }
                     ]
                 },
@@ -2844,10 +3234,74 @@
                             "kind": "learn",
                             "headline": {"en": "The tenor, a part above the lead, is part of bluegrass's high lonesome sound. Light and easy, never the pressed edge."},
                             "steps": [
-                                {"title": {"en": "Above the tune"}, "detail": {"en": "Every note higher than the lead's"}},
-                                {"title": {"en": "Lights off"}, "detail": {"en": "By ear"}},
-                                {"title": {"en": "Light and easy"}, "detail": {"en": "Never pushed"}}
+                                {"title": {"en": "Above the tune"}, "detail": {"en": "Every lit note is higher than the tune's"}},
+                                {"title": {"en": "Hear it first"}, "detail": {"en": "Simple Gifts, then lights off"}},
+                                {"title": {"en": "Light and easy"}, "detail": {"en": "Never pushed; stop if anything tightens"}}
                             ],
+                            "listen": {
+                                "tempo": 84,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -11, "lyric": "'Tis"},
+                                    {"beat": 1, "length": 1, "step": -11, "lyric": "the"},
+                                    {"beat": 2, "length": 1, "step": -6, "lyric": "gift"},
+                                    {"beat": 3, "length": 0.5, "step": -6, "lyric": "to"},
+                                    {"beat": 3.5, "length": 0.5, "step": -4, "lyric": "be"},
+                                    {"beat": 4, "length": 0.5, "step": -2, "lyric": "sim-"},
+                                    {"beat": 4.5, "length": 0.5, "step": -6, "lyric": "ple,"},
+                                    {"beat": 5, "length": 0.5, "step": -2, "lyric": "'tis"},
+                                    {"beat": 5.5, "length": 0.5, "step": -1, "lyric": "the"},
+                                    {"beat": 6, "length": 1, "step": 1, "lyric": "gift"},
+                                    {"beat": 7, "length": 0.5, "step": 1, "lyric": "to"},
+                                    {"beat": 7.5, "length": 0.5, "step": 1, "lyric": "be"},
+                                    {"beat": 8, "length": 1, "step": -2, "lyric": "free,"},
+                                    {"beat": 9, "length": 0.5, "step": -4, "lyric": "'Tis"},
+                                    {"beat": 9.5, "length": 0.5, "step": -6, "lyric": "the"},
+                                    {"beat": 10, "length": 1, "step": -4, "lyric": "gift"},
+                                    {"beat": 11, "length": 1, "step": -4, "lyric": "to"},
+                                    {"beat": 12, "length": 1, "step": -4, "lyric": "come"},
+                                    {"beat": 13, "length": 1, "step": -4, "lyric": "down"},
+                                    {"beat": 14, "length": 0.5, "step": -4, "lyric": "where"},
+                                    {"beat": 14.5, "length": 0.5, "step": -2, "lyric": "we"},
+                                    {"beat": 15, "length": 0.5, "step": -4, "lyric": "ought"},
+                                    {"beat": 15.5, "length": 0.5, "step": -7, "lyric": "to"},
+                                    {"beat": 16, "length": 1, "step": -11, "lyric": "be,"},
+                                    {"beat": 17, "length": 1, "step": -11, "lyric": "And"},
+                                    {"beat": 18, "length": 0.5, "step": -6, "lyric": "when"},
+                                    {"beat": 18.5, "length": 0.5, "step": -7, "lyric": "we"},
+                                    {"beat": 19, "length": 0.5, "step": -6, "lyric": "find"},
+                                    {"beat": 19.5, "length": 0.5, "step": -4, "lyric": "our-"},
+                                    {"beat": 20, "length": 1, "step": -2, "lyric": "selves"},
+                                    {"beat": 21, "length": 0.5, "step": -4, "lyric": "in"},
+                                    {"beat": 21.5, "length": 0.5, "step": -4, "lyric": "the"},
+                                    {"beat": 22, "length": 1, "step": -2, "lyric": "place"},
+                                    {"beat": 23, "length": 1, "step": -1, "lyric": "just"},
+                                    {"beat": 24, "length": 1.5, "step": 1, "lyric": "right,"},
+                                    {"beat": 25.5, "length": 0.5, "step": 1, "lyric": "'Twill"},
+                                    {"beat": 26, "length": 1, "step": -4, "lyric": "be"},
+                                    {"beat": 27, "length": 0.5, "step": -4, "lyric": "in"},
+                                    {"beat": 27.5, "length": 0.5, "step": -2, "lyric": "the"},
+                                    {"beat": 28, "length": 1, "step": -4, "lyric": "val-"},
+                                    {"beat": 29, "length": 0.5, "step": -6, "lyric": "ley"},
+                                    {"beat": 29.5, "length": 0.5, "step": -6, "lyric": "of"},
+                                    {"beat": 30, "length": 1, "step": -4, "lyric": "love"},
+                                    {"beat": 31, "length": 0.5, "step": -6, "lyric": "and"},
+                                    {"beat": 31.5, "length": 0.5, "step": -7, "lyric": "de-"},
+                                    {"beat": 32, "length": 2, "step": -6, "lyric": "light."}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 9, "root": 8, "quality": "min", "bass": null},
+                                    {"beat": 14, "root": 1, "quality": "maj", "bass": null},
+                                    {"beat": 16, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 23, "root": 11, "quality": "maj", "bass": null},
+                                    {"beat": 24, "root": 6, "quality": "maj", "bass": null},
+                                    {"beat": 26, "root": 1, "quality": "maj", "bass": null},
+                                    {"beat": 28, "root": 8, "quality": "min", "bass": null},
+                                    {"beat": 30, "root": 1, "quality": "maj", "bass": null},
+                                    {"beat": 32, "root": 6, "quality": "maj", "bass": null}
+                                ]
+                            },
                             "visual": "harmony",
                             "reviewed": false
                         },
@@ -2857,7 +3311,7 @@
                             "exercise": {
                                 "tempo": 84,
                                 "notes": [
-                                    {"beat": 0, "length": 2, "step": -18, "listenOnly": true},
+                                    {"beat": 0, "length": 2, "step": -6, "listenOnly": true},
                                     {
                                         "beat": 4,
                                         "length": 1,
@@ -2889,8 +3343,8 @@
                                     {
                                         "beat": 7.5,
                                         "length": 0.5,
-                                        "step": -2,
-                                        "choices": [-2, 1],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "be"
                                     },
                                     {
@@ -2922,27 +3376,6 @@
                                         "lyric": "the"
                                     },
                                     {
-                                        "beat": 10,
-                                        "length": 1,
-                                        "step": -6,
-                                        "choices": [-6, -2],
-                                        "lyric": "gift"
-                                    },
-                                    {
-                                        "beat": 11,
-                                        "length": 0.5,
-                                        "step": -6,
-                                        "choices": [-6, -2],
-                                        "lyric": "to"
-                                    },
-                                    {
-                                        "beat": 11.5,
-                                        "length": 0.5,
-                                        "step": -6,
-                                        "choices": [-6, -2],
-                                        "lyric": "be"
-                                    },
-                                    {
                                         "beat": 12,
                                         "length": 1,
                                         "step": 1,
@@ -2959,8 +3392,8 @@
                                     {
                                         "beat": 13.5,
                                         "length": 0.5,
-                                        "step": -4,
-                                        "choices": [-4, -1, 3],
+                                        "step": -1,
+                                        "choices": [-1, 3],
                                         "lyric": "the"
                                     },
                                     {
@@ -3043,8 +3476,8 @@
                                     {
                                         "beat": 22.5,
                                         "length": 0.5,
-                                        "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "step": -2,
+                                        "choices": [-2, 1],
                                         "lyric": "we"
                                     },
                                     {
@@ -3057,8 +3490,8 @@
                                     {
                                         "beat": 23.5,
                                         "length": 0.5,
-                                        "step": -2,
-                                        "choices": [-2, 1],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "our-"
                                     },
                                     {
@@ -3071,15 +3504,15 @@
                                     {
                                         "beat": 25,
                                         "length": 0.5,
-                                        "step": -2,
-                                        "choices": [-2, 1],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "in"
                                     },
                                     {
                                         "beat": 25.5,
                                         "length": 0.5,
-                                        "step": -2,
-                                        "choices": [-2, 1],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "the"
                                     },
                                     {
@@ -3095,20 +3528,6 @@
                                         "step": 3,
                                         "choices": [3],
                                         "lyric": "just"
-                                    },
-                                    {
-                                        "beat": 28,
-                                        "length": 1.5,
-                                        "step": -6,
-                                        "choices": [-6, -2],
-                                        "lyric": "right,"
-                                    },
-                                    {
-                                        "beat": 29.5,
-                                        "length": 0.5,
-                                        "step": -6,
-                                        "choices": [-6, -2],
-                                        "lyric": "'Twill"
                                     },
                                     {
                                         "beat": 30,
@@ -3141,15 +3560,15 @@
                                     {
                                         "beat": 33,
                                         "length": 0.5,
-                                        "step": -4,
-                                        "choices": [-4, -1, 3],
+                                        "step": -1,
+                                        "choices": [-1, 3],
                                         "lyric": "ley"
                                     },
                                     {
                                         "beat": 33.5,
                                         "length": 0.5,
-                                        "step": -4,
-                                        "choices": [-4, -1, 3],
+                                        "step": -1,
+                                        "choices": [-1, 3],
                                         "lyric": "of"
                                     },
                                     {
@@ -3162,8 +3581,8 @@
                                     {
                                         "beat": 35,
                                         "length": 0.5,
-                                        "step": -4,
-                                        "choices": [-4, 1, 5],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "and"
                                     },
                                     {
@@ -3246,9 +3665,11 @@
                                     {"beat": 32, "root": 8, "quality": "min", "bass": null},
                                     {"beat": 34, "root": 1, "quality": "maj", "bass": null},
                                     {"beat": 36, "root": 6, "quality": "maj", "bass": null}
-                                ]
+                                ],
+                                "score": "species",
+                                "rules": "close"
                             },
-                            "measures": {"en": "Your stars are for your notes landing in the chord, above the tune."}
+                            "measures": {"en": "Your stars are for landing on the chord tones above the tune, by ear, and three need small, moving steps."}
                         }
                     ]
                 },
@@ -3263,7 +3684,7 @@
                             "steps": [
                                 {"title": {"en": "Hear it once"}, "detail": {"en": "Just the tune"}},
                                 {"title": {"en": "Harmonise it twice"}, "detail": {"en": "Lights off; the second time you know it"}},
-                                {"title": {"en": "Then a part under yourself"}, "detail": {"en": "Three of you"}}
+                                {"title": {"en": "Then a bass under yourself"}, "detail": {"en": "Roots and fifths: three of you"}}
                             ],
                             "listen": {
                                 "tempo": 90,
@@ -3371,7 +3792,7 @@
                                         "beat": 7.0,
                                         "length": 1.0,
                                         "step": -7,
-                                        "choices": [-7, -4, -1, 1, 5],
+                                        "choices": [-7, 1, 5],
                                         "lyric": "say"
                                     },
                                     {
@@ -3385,14 +3806,14 @@
                                         "beat": 8.5,
                                         "length": 0.5,
                                         "step": -7,
-                                        "choices": [-7, -4, -1, 1, 5],
+                                        "choices": [-7, 1, 5],
                                         "lyric": "are"
                                     },
                                     {
                                         "beat": 9.0,
                                         "length": 1.0,
-                                        "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "go-"
                                     },
                                     {
@@ -3448,7 +3869,7 @@
                                         "beat": 16.0,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "choices": [-6],
                                         "lyric": "and"
                                     },
                                     {
@@ -3496,8 +3917,8 @@
                                     {
                                         "beat": 22.5,
                                         "length": 0.5,
-                                        "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "are"
                                     },
                                     {
@@ -3511,7 +3932,7 @@
                                         "beat": 24.0,
                                         "length": 0.5,
                                         "step": -8,
-                                        "choices": [-8, -6, -2, 1, 4],
+                                        "choices": [-8, 1, 4],
                                         "lyric": "king"
                                     },
                                     {
@@ -3524,8 +3945,8 @@
                                     {
                                         "beat": 25.0,
                                         "length": 1.0,
-                                        "step": -9,
-                                        "choices": [-9, -6, -1, 3],
+                                        "step": -6,
+                                        "choices": [-6],
                                         "lyric": "sun-"
                                     },
                                     {
@@ -3566,15 +3987,15 @@
                                     {
                                         "beat": 30.5,
                                         "length": 0.5,
-                                        "step": -7,
-                                        "choices": [-7, -4, 1, 5],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "our"
                                     },
                                     {
                                         "beat": 31.0,
                                         "length": 1.0,
-                                        "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "path-"
                                     },
                                     {
@@ -3587,8 +4008,8 @@
                                     {
                                         "beat": 32.5,
                                         "length": 0.5,
-                                        "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "a"
                                     },
                                     {
@@ -3706,7 +4127,7 @@
                                         "beat": 7.0,
                                         "length": 1.0,
                                         "step": -7,
-                                        "choices": [-7, -4, -1, 1, 5],
+                                        "choices": [-7, 1, 5],
                                         "lyric": "say"
                                     },
                                     {
@@ -3720,14 +4141,14 @@
                                         "beat": 8.5,
                                         "length": 0.5,
                                         "step": -7,
-                                        "choices": [-7, -4, -1, 1, 5],
+                                        "choices": [-7, 1, 5],
                                         "lyric": "are"
                                     },
                                     {
                                         "beat": 9.0,
                                         "length": 1.0,
-                                        "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "go-"
                                     },
                                     {
@@ -3783,7 +4204,7 @@
                                         "beat": 16.0,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "choices": [-6],
                                         "lyric": "and"
                                     },
                                     {
@@ -3831,8 +4252,8 @@
                                     {
                                         "beat": 22.5,
                                         "length": 0.5,
-                                        "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "are"
                                     },
                                     {
@@ -3846,7 +4267,7 @@
                                         "beat": 24.0,
                                         "length": 0.5,
                                         "step": -8,
-                                        "choices": [-8, -6, -2, 1, 4],
+                                        "choices": [-8, 1, 4],
                                         "lyric": "king"
                                     },
                                     {
@@ -3859,8 +4280,8 @@
                                     {
                                         "beat": 25.0,
                                         "length": 1.0,
-                                        "step": -9,
-                                        "choices": [-9, -6, -1, 3],
+                                        "step": -6,
+                                        "choices": [-6],
                                         "lyric": "sun-"
                                     },
                                     {
@@ -3901,15 +4322,15 @@
                                     {
                                         "beat": 30.5,
                                         "length": 0.5,
-                                        "step": -7,
-                                        "choices": [-7, -4, 1, 5],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "our"
                                     },
                                     {
                                         "beat": 31.0,
                                         "length": 1.0,
-                                        "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "path-"
                                     },
                                     {
@@ -3922,8 +4343,8 @@
                                     {
                                         "beat": 32.5,
                                         "length": 0.5,
-                                        "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "step": 1,
+                                        "choices": [1],
                                         "lyric": "a"
                                     },
                                     {
@@ -3997,7 +4418,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Last: a part under the tune, with your second take singing too. A trio of you."},
+                            "text": {"en": "Last: a bass under it all, roots and fifths, with your second take singing too. A trio of you."},
                             "exercise": {
                                 "tempo": 90,
                                 "notes": [
@@ -4006,266 +4427,266 @@
                                         "beat": 4.0,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, -2],
+                                        "choices": [-6],
                                         "lyric": "From"
                                     },
                                     {
                                         "beat": 4.5,
                                         "length": 0.5,
-                                        "step": -2,
-                                        "choices": [-2, 1],
+                                        "step": -6,
+                                        "choices": [-6],
                                         "lyric": "this"
                                     },
                                     {
                                         "beat": 5.0,
                                         "length": 1.0,
                                         "step": -6,
-                                        "choices": [-6, 1],
+                                        "choices": [-6],
                                         "lyric": "val-"
                                     },
                                     {
                                         "beat": 6.0,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, 1],
+                                        "choices": [-6],
                                         "lyric": "ley"
                                     },
                                     {
                                         "beat": 6.5,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, 1],
+                                        "choices": [-6],
                                         "lyric": "they"
                                     },
                                     {
                                         "beat": 7.0,
                                         "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, -4, -1, 1, 5],
+                                        "step": -4,
+                                        "choices": [-4],
                                         "lyric": "say"
                                     },
                                     {
                                         "beat": 8.0,
                                         "length": 0.5,
-                                        "step": -7,
-                                        "choices": [-7, -1, 1, 5],
+                                        "step": -4,
+                                        "choices": [-4],
                                         "lyric": "you"
                                     },
                                     {
                                         "beat": 8.5,
                                         "length": 0.5,
-                                        "step": -7,
-                                        "choices": [-7, -4, -1, 1, 5],
+                                        "step": -4,
+                                        "choices": [-4],
                                         "lyric": "are"
                                     },
                                     {
                                         "beat": 9.0,
                                         "length": 1.0,
                                         "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "choices": [-6],
                                         "lyric": "go-"
                                     },
                                     {
                                         "beat": 10.0,
                                         "length": 2.0,
-                                        "step": -2,
-                                        "choices": [-2, 1],
+                                        "step": -6,
+                                        "choices": [-6],
                                         "lyric": "ing."
                                     },
                                     {
                                         "beat": 12.0,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, 1],
+                                        "choices": [-6],
                                         "lyric": "We"
                                     },
                                     {
                                         "beat": 12.5,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, 1],
+                                        "choices": [-6],
                                         "lyric": "will"
                                     },
                                     {
                                         "beat": 13.0,
                                         "length": 1.0,
                                         "step": -6,
-                                        "choices": [-6, 1],
+                                        "choices": [-6],
                                         "lyric": "miss"
                                     },
                                     {
                                         "beat": 14.0,
                                         "length": 0.5,
-                                        "step": -2,
-                                        "choices": [-2, 1],
+                                        "step": -6,
+                                        "choices": [-6],
                                         "lyric": "your"
                                     },
                                     {
                                         "beat": 14.5,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, 1],
+                                        "choices": [-6],
                                         "lyric": "bright"
                                     },
                                     {
                                         "beat": 15.0,
                                         "length": 1.0,
                                         "step": -6,
-                                        "choices": [-6, -2],
+                                        "choices": [-6],
                                         "lyric": "eyes"
                                     },
                                     {
                                         "beat": 16.0,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "choices": [-6],
                                         "lyric": "and"
                                     },
                                     {
                                         "beat": 16.5,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, 1],
+                                        "choices": [-6],
                                         "lyric": "sweet"
                                     },
                                     {
                                         "beat": 17.0,
                                         "length": 3.0,
-                                        "step": -7,
-                                        "choices": [-7, -1, 1, 5],
+                                        "step": -4,
+                                        "choices": [-4],
                                         "lyric": "smile,"
                                     },
                                     {
                                         "beat": 20.0,
                                         "length": 0.5,
-                                        "step": -7,
-                                        "choices": [-7, -4, -1, 5],
+                                        "step": -4,
+                                        "choices": [-4],
                                         "lyric": "for"
                                     },
                                     {
                                         "beat": 20.5,
                                         "length": 0.5,
-                                        "step": -7,
-                                        "choices": [-7, -4, 1, 5],
+                                        "step": -4,
+                                        "choices": [-4],
                                         "lyric": "they"
                                     },
                                     {
                                         "beat": 21.0,
                                         "length": 1.0,
                                         "step": -6,
-                                        "choices": [-6, 1],
+                                        "choices": [-6],
                                         "lyric": "say"
                                     },
                                     {
                                         "beat": 22.0,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, 1],
+                                        "choices": [-6],
                                         "lyric": "you"
                                     },
                                     {
                                         "beat": 22.5,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "choices": [-6],
                                         "lyric": "are"
                                     },
                                     {
                                         "beat": 23.0,
                                         "length": 1.0,
-                                        "step": -8,
-                                        "choices": [-8, -2, 1, 4],
+                                        "step": -6,
+                                        "choices": [-6],
                                         "lyric": "ta-"
                                     },
                                     {
                                         "beat": 24.0,
                                         "length": 0.5,
-                                        "step": -8,
-                                        "choices": [-8, -6, -2, 1, 4],
+                                        "step": -6,
+                                        "choices": [-6],
                                         "lyric": "king"
                                     },
                                     {
                                         "beat": 24.5,
                                         "length": 0.5,
-                                        "step": -8,
-                                        "choices": [-8, -6, 1, 4],
+                                        "step": -6,
+                                        "choices": [-6],
                                         "lyric": "the"
                                     },
                                     {
                                         "beat": 25.0,
                                         "length": 1.0,
-                                        "step": -9,
-                                        "choices": [-9, -6, -1, 3],
+                                        "step": -6,
+                                        "choices": [-6],
                                         "lyric": "sun-"
                                     },
                                     {
                                         "beat": 26.0,
                                         "length": 2.0,
-                                        "step": -9,
-                                        "choices": [-9, -6, 3],
+                                        "step": -6,
+                                        "choices": [-6],
                                         "lyric": "shine,"
                                     },
                                     {
                                         "beat": 28.0,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, -1],
+                                        "choices": [-6],
                                         "lyric": "that"
                                     },
                                     {
                                         "beat": 28.5,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, -1],
+                                        "choices": [-6],
                                         "lyric": "has"
                                     },
                                     {
                                         "beat": 29.0,
                                         "length": 1.0,
-                                        "step": -7,
-                                        "choices": [-7, -4],
+                                        "step": -4,
+                                        "choices": [-4],
                                         "lyric": "bright-"
                                     },
                                     {
                                         "beat": 30.0,
                                         "length": 0.5,
                                         "step": -4,
-                                        "choices": [-4, 1],
+                                        "choices": [-4],
                                         "lyric": "ened"
                                     },
                                     {
                                         "beat": 30.5,
                                         "length": 0.5,
-                                        "step": -7,
-                                        "choices": [-7, -4, 1, 5],
+                                        "step": -4,
+                                        "choices": [-4],
                                         "lyric": "our"
                                     },
                                     {
                                         "beat": 31.0,
                                         "length": 1.0,
                                         "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "choices": [-6],
                                         "lyric": "path-"
                                     },
                                     {
                                         "beat": 32.0,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, 1],
+                                        "choices": [-6],
                                         "lyric": "way"
                                     },
                                     {
                                         "beat": 32.5,
                                         "length": 0.5,
                                         "step": -6,
-                                        "choices": [-6, -2, 1],
+                                        "choices": [-6],
                                         "lyric": "a"
                                     },
                                     {
                                         "beat": 33.0,
                                         "length": 4.0,
-                                        "step": -9,
-                                        "choices": [-9, -1, 3],
+                                        "step": -6,
+                                        "choices": [-6],
                                         "lyric": "while."
                                     }
                                 ],
@@ -4328,9 +4749,11 @@
                                     {"beat": 33.0, "root": 11, "quality": "maj", "bass": null},
                                     {"beat": 35.0, "root": 6, "quality": "maj", "bass": null}
                                 ],
-                                "under": {"step": 2}
+                                "under": {"step": 2},
+                                "rules": "close",
+                                "score": "species"
                             },
-                            "measures": {"en": "Your stars are for this last part's notes landing in the chord. Hear it together: the tune, and three of you."}
+                            "measures": {"en": "Your stars are for the bass you sang under your own harmony: roots and fifths, landing in the chord. Hear it together plays the tune, your second take and this one."}
                         }
                     ]
                 }
