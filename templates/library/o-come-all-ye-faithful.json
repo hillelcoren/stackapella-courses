@@ -1,6 +1,6 @@
 {
  "id": "o-come-all-ye-faithful",
- "version": 2,
+ "version": 3,
  "reviewed": true,
  "title": "O Come, All Ye Faithful",
  "description": "The great Christmas processional, for 2 to 4 singers: the soprano sings the melody, the alto and tenor fill the chords, and the bass climbs and falls beneath. Bright, festive and easy to love.",
@@ -60,8 +60,8 @@
   },
   {
    "beat": 5,
-   "root": 9,
-   "quality": "min",
+   "root": 2,
+   "quality": "dom7",
    "bass": 0
   },
   {
@@ -367,7 +367,7 @@
   {
    "beat": 75,
    "root": 2,
-   "quality": "dom7",
+   "quality": "maj",
    "bass": null
   },
   {
@@ -804,8 +804,8 @@
    "key": "alto",
    "name": "Alto",
    "range": {
-    "low": 55,
-    "high": 67
+    "low": 57,
+    "high": 71
    },
    "guide": {
     "type": "notes",
@@ -832,19 +832,19 @@
      {
       "beat": 4,
       "length": 1,
-      "pitch": 55,
+      "pitch": 64,
       "lyric": "ye"
      },
      {
       "beat": 5,
       "length": 2,
-      "pitch": 60,
+      "pitch": 66,
       "lyric": "faith-"
      },
      {
       "beat": 7,
       "length": 2,
-      "pitch": 57,
+      "pitch": 66,
       "lyric": "ful,"
      },
      {
@@ -857,7 +857,7 @@
      {
       "beat": 10,
       "length": 1,
-      "pitch": 62,
+      "pitch": 66,
       "lyric": "ful"
      },
      {
@@ -881,20 +881,20 @@
      {
       "beat": 15,
       "length": 1,
-      "pitch": 62,
+      "pitch": 66,
       "lyric": "phant,"
      },
      {
       "beat": 16,
       "length": 1,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "O",
       "br": true
      },
      {
       "beat": 17,
       "length": 2,
-      "pitch": 60,
+      "pitch": 64,
       "lyric": "come"
      },
      {
@@ -930,7 +930,7 @@
      {
       "beat": 24,
       "length": 1,
-      "pitch": 59,
+      "pitch": 67,
       "lyric": "Beth-"
      },
      {
@@ -948,25 +948,25 @@
      {
       "beat": 28.5,
       "length": 3.5,
-      "pitch": 57
+      "pitch": 66
      },
      {
       "beat": 33,
       "length": 2,
-      "pitch": 62,
+      "pitch": 71,
       "lyric": "Come",
       "br": true
      },
      {
       "beat": 35,
       "length": 1,
-      "pitch": 62,
+      "pitch": 69,
       "lyric": "and"
      },
      {
       "beat": 36,
       "length": 1,
-      "pitch": 64,
+      "pitch": 67,
       "lyric": "be-"
      },
      {
@@ -984,7 +984,7 @@
      {
       "beat": 41,
       "length": 1,
-      "pitch": 62,
+      "pitch": 66,
       "lyric": "born"
      },
      {
@@ -1020,7 +1020,7 @@
      {
       "beat": 48,
       "length": 1,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "O",
       "br": true
      },
@@ -1045,7 +1045,7 @@
      {
       "beat": 52,
       "length": 1,
-      "pitch": 62,
+      "pitch": 66,
       "lyric": "a-"
      },
      {
@@ -1063,14 +1063,14 @@
      {
       "beat": 56,
       "length": 1,
-      "pitch": 59,
+      "pitch": 67,
       "lyric": "O",
       "br": true
      },
      {
       "beat": 57,
       "length": 1,
-      "pitch": 59,
+      "pitch": 67,
       "lyric": "come,"
      },
      {
@@ -1088,7 +1088,7 @@
      {
       "beat": 60,
       "length": 1,
-      "pitch": 67,
+      "pitch": 64,
       "lyric": "a-"
      },
      {
@@ -1125,25 +1125,25 @@
      {
       "beat": 67,
       "length": 1,
-      "pitch": 62,
+      "pitch": 66,
       "lyric": "us"
      },
      {
       "beat": 68,
       "length": 1,
-      "pitch": 59,
+      "pitch": 64,
       "lyric": "a-"
      },
      {
       "beat": 69,
       "length": 2,
-      "pitch": 62,
+      "pitch": 57,
       "lyric": "dore"
      },
      {
       "beat": 71,
       "length": 1,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "him,"
      },
      {
@@ -1161,7 +1161,7 @@
      {
       "beat": 75,
       "length": 1.5,
-      "pitch": 60,
+      "pitch": 66,
       "lyric": "Lord."
      },
      {
@@ -1176,7 +1176,7 @@
    "key": "tenor",
    "name": "Tenor",
    "range": {
-    "low": 52,
+    "low": 50,
     "high": 64
    },
    "guide": {
@@ -1204,19 +1204,19 @@
      {
       "beat": 4,
       "length": 1,
-      "pitch": 52,
+      "pitch": 55,
       "lyric": "ye"
      },
      {
       "beat": 5,
       "length": 2,
-      "pitch": 52,
+      "pitch": 62,
       "lyric": "faith-"
      },
      {
       "beat": 7,
       "length": 2,
-      "pitch": 54,
+      "pitch": 57,
       "lyric": "ful,"
      },
      {
@@ -1229,7 +1229,7 @@
      {
       "beat": 10,
       "length": 1,
-      "pitch": 54,
+      "pitch": 57,
       "lyric": "ful"
      },
      {
@@ -1253,7 +1253,7 @@
      {
       "beat": 15,
       "length": 1,
-      "pitch": 54,
+      "pitch": 62,
       "lyric": "phant,"
      },
      {
@@ -1320,7 +1320,7 @@
      {
       "beat": 28.5,
       "length": 3.5,
-      "pitch": 54
+      "pitch": 57
      },
      {
       "beat": 33,
@@ -1332,7 +1332,7 @@
      {
       "beat": 35,
       "length": 1,
-      "pitch": 57,
+      "pitch": 62,
       "lyric": "and"
      },
      {
@@ -1356,13 +1356,13 @@
      {
       "beat": 41,
       "length": 1,
-      "pitch": 54,
+      "pitch": 57,
       "lyric": "born"
      },
      {
       "beat": 42,
       "length": 1,
-      "pitch": 59,
+      "pitch": 55,
       "lyric": "the"
      },
      {
@@ -1380,7 +1380,7 @@
      {
       "beat": 45,
       "length": 2,
-      "pitch": 54,
+      "pitch": 50,
       "lyric": "an-"
      },
      {
@@ -1417,13 +1417,13 @@
      {
       "beat": 52,
       "length": 1,
-      "pitch": 54,
+      "pitch": 62,
       "lyric": "a-"
      },
      {
       "beat": 53,
       "length": 2,
-      "pitch": 55,
+      "pitch": 59,
       "lyric": "dore"
      },
      {
@@ -1497,13 +1497,13 @@
      {
       "beat": 67,
       "length": 1,
-      "pitch": 54,
+      "pitch": 57,
       "lyric": "us"
      },
      {
       "beat": 68,
       "length": 1,
-      "pitch": 55,
+      "pitch": 52,
       "lyric": "a-"
      },
      {
@@ -1533,13 +1533,13 @@
      {
       "beat": 75,
       "length": 1.5,
-      "pitch": 54,
+      "pitch": 62,
       "lyric": "Lord."
      },
      {
       "beat": 76.5,
       "length": 3.5,
-      "pitch": 55
+      "pitch": 62
      }
     ]
    }
