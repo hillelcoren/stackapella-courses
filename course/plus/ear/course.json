@@ -6151,6 +6151,946 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "ear-home",
+            "title": {
+                "en": "Find home"
+            },
+            "colour": 6,
+            "lessons": [
+                {
+                    "id": "ear-4-home",
+                    "title": {
+                        "en": "Where's home?"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Most tunes want to end at home, on do. Hear a phrase, and feel where it wants to land."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Home feels settled"
+                                    },
+                                    "detail": {
+                                        "en": "Like a full stop"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Away feels open"
+                                    },
+                                    "detail": {
+                                        "en": "Like a question"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "The key moves"
+                                    },
+                                    "detail": {
+                                        "en": "So listen each time"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 84,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 7.5,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 8.5,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 9.5,
+                                        "length": 2,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Does the phrase end at home?"
+                            },
+                            "exercise": {
+                                "tempo": 84,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Did it end at home?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 1,
+                                                        "length": 1,
+                                                        "step": 2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 2,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Mi, re, do: it settles on do."
+                                        },
+                                        "options": [
+                                            {
+                                                "en": "Yes, home"
+                                            },
+                                            {
+                                                "en": "No, not yet"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Did it end at home?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 1,
+                                                        "length": 1,
+                                                        "step": 2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 2,
+                                                        "step": 2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "It stops on re, wanting to go on."
+                                        },
+                                        "options": [
+                                            {
+                                                "en": "Yes, home"
+                                            },
+                                            {
+                                                "en": "No, not yet"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Did it end at home?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 1,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 2,
+                                                        "step": 7,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "It ends on so: open, like a question."
+                                        },
+                                        "options": [
+                                            {
+                                                "en": "Yes, home"
+                                            },
+                                            {
+                                                "en": "No, not yet"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Did it end at home?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 1,
+                                                        "length": 1,
+                                                        "step": 1,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -1,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 2,
+                                                        "step": -3,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Home, in a new key."
+                                        },
+                                        "options": [
+                                            {
+                                                "en": "Yes, home"
+                                            },
+                                            {
+                                                "en": "No, not yet"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Did it end at home?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 1,
+                                                        "step": 2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 1,
+                                                        "length": 1,
+                                                        "step": 4,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": 6,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 2,
+                                                        "step": 1,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "It ends on ti, leaning toward home but not there."
+                                        },
+                                        "options": [
+                                            {
+                                                "en": "Yes, home"
+                                            },
+                                            {
+                                                "en": "No, not yet"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 1,
+                                                        "length": 1,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "From before: four, Amazing Grace."
+                                        },
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "After each phrase, sing home. The key moves each time, so listen for it."
+                            },
+                            "exercise": {
+                                "tempo": 84,
+                                "echoes": [
+                                    {
+                                        "call": [
+                                            4,
+                                            2,
+                                            4,
+                                            5,
+                                            2
+                                        ],
+                                        "sing": [
+                                            0
+                                        ],
+                                        "key": 0
+                                    },
+                                    {
+                                        "call": [
+                                            1,
+                                            4,
+                                            2,
+                                            -1
+                                        ],
+                                        "sing": [
+                                            -3
+                                        ],
+                                        "key": -3
+                                    },
+                                    {
+                                        "call": [
+                                            6,
+                                            4,
+                                            7,
+                                            1
+                                        ],
+                                        "sing": [
+                                            2
+                                        ],
+                                        "key": 2
+                                    },
+                                    {
+                                        "call": [
+                                            2,
+                                            -1,
+                                            0,
+                                            -3
+                                        ],
+                                        "sing": [
+                                            -5
+                                        ],
+                                        "key": -5
+                                    }
+                                ],
+                                "named": true
+                            },
+                            "measures": {
+                                "en": "Your stars are for singing home after each phrase, the note you sang being that key's do, close to its middle."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ear-4-root",
+                    "title": {
+                        "en": "The chord's root"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Every chord is built on a root. Your brain can even hear a root that isn't played: the missing fundamental."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Home (I)"
+                                    },
+                                    "detail": {
+                                        "en": "Built on do"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Four (IV)"
+                                    },
+                                    "detail": {
+                                        "en": "Built on fa, above do"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Five (V)"
+                                    },
+                                    "detail": {
+                                        "en": "Built on so, below do"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 84,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 2,
+                                        "step": 7,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 2,
+                                        "step": 5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 10.0,
+                                        "length": 2,
+                                        "step": -5,
+                                        "lyric": "loo"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "bass",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Try it: hear each chord with its root sung, then sing the root back."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [
+                                            0
+                                        ],
+                                        "sing": [
+                                            0
+                                        ],
+                                        "chord": {
+                                            "root": 0
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            5
+                                        ],
+                                        "sing": [
+                                            5
+                                        ],
+                                        "chord": {
+                                            "root": 5
+                                        }
+                                    },
+                                    {
+                                        "call": [
+                                            -5
+                                        ],
+                                        "sing": [
+                                            -5
+                                        ],
+                                        "chord": {
+                                            "root": 7
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Now only the chord: sing its root. Home is do, four is fa above, five is so below."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [],
+                                        "sing": [
+                                            0
+                                        ],
+                                        "chord": {
+                                            "root": 0
+                                        },
+                                        "label": {
+                                            "en": "Which chord? Sing its root"
+                                        }
+                                    },
+                                    {
+                                        "call": [],
+                                        "sing": [
+                                            5
+                                        ],
+                                        "chord": {
+                                            "root": 5
+                                        },
+                                        "label": {
+                                            "en": "Which chord? Sing its root"
+                                        }
+                                    },
+                                    {
+                                        "call": [],
+                                        "sing": [
+                                            -5
+                                        ],
+                                        "chord": {
+                                            "root": 7
+                                        },
+                                        "label": {
+                                            "en": "Which chord? Sing its root"
+                                        }
+                                    },
+                                    {
+                                        "call": [],
+                                        "sing": [
+                                            0
+                                        ],
+                                        "chord": {
+                                            "root": 0
+                                        },
+                                        "label": {
+                                            "en": "Which chord? Sing its root"
+                                        }
+                                    }
+                                ],
+                                "named": true
+                            },
+                            "measures": {
+                                "en": "Your stars are for singing each chord's root, the note you sang being that root, close to its middle."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ear-4-challenge",
+                    "title": {
+                        "en": "Sing the bass"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A bass sings the roots under a tune. The guide sings Amazing Grace; at each chord you sing its root."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Then and now"
+                                    },
+                                    "detail": {
+                                        "en": "Your six leaps from Song starts"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Under \"Amazing grace\""
+                                    },
+                                    "detail": {
+                                        "en": "Home: do"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Under \"like me\""
+                                    },
+                                    "detail": {
+                                        "en": "Five: so below"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 84,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 4.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 5.0,
+                                        "length": 2,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 8.5,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 9.5,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 11.5,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 12.5,
+                                        "length": 2,
+                                        "step": -5,
+                                        "lyric": "loo"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "bass",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Your six leaps from Song starts, to see how far you've come."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [
+                                            0
+                                        ],
+                                        "sing": [
+                                            0,
+                                            4
+                                        ],
+                                        "key": 0
+                                    },
+                                    {
+                                        "call": [
+                                            -5
+                                        ],
+                                        "sing": [
+                                            -5,
+                                            0
+                                        ],
+                                        "key": 0
+                                    },
+                                    {
+                                        "call": [
+                                            0
+                                        ],
+                                        "sing": [
+                                            0,
+                                            7
+                                        ],
+                                        "key": 0
+                                    },
+                                    {
+                                        "call": [
+                                            2
+                                        ],
+                                        "sing": [
+                                            2,
+                                            6
+                                        ],
+                                        "key": 2
+                                    },
+                                    {
+                                        "call": [
+                                            2
+                                        ],
+                                        "sing": [
+                                            2,
+                                            7
+                                        ],
+                                        "key": -5
+                                    },
+                                    {
+                                        "call": [
+                                            -5
+                                        ],
+                                        "sing": [
+                                            -5,
+                                            2
+                                        ],
+                                        "key": -5
+                                    }
+                                ],
+                                "home": true,
+                                "named": true
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "The guide sings Amazing Grace a phrase at a time, over its chords. After each, sing the chord's root, as a bass would."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [
+                                            -5,
+                                            0,
+                                            4,
+                                            0,
+                                            4
+                                        ],
+                                        "sing": [
+                                            0
+                                        ],
+                                        "chord": {
+                                            "root": 0
+                                        },
+                                        "lengths": [
+                                            1,
+                                            2,
+                                            0.5,
+                                            0.5,
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "call": [
+                                            2,
+                                            0,
+                                            -3,
+                                            -5
+                                        ],
+                                        "sing": [
+                                            5
+                                        ],
+                                        "chord": {
+                                            "root": 5
+                                        },
+                                        "lengths": [
+                                            1,
+                                            2,
+                                            1,
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "call": [
+                                            -5,
+                                            0,
+                                            4,
+                                            0,
+                                            4
+                                        ],
+                                        "sing": [
+                                            0
+                                        ],
+                                        "chord": {
+                                            "root": 0
+                                        },
+                                        "lengths": [
+                                            1,
+                                            2,
+                                            0.5,
+                                            0.5,
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "call": [
+                                            2,
+                                            7
+                                        ],
+                                        "sing": [
+                                            -5
+                                        ],
+                                        "chord": {
+                                            "root": 7
+                                        },
+                                        "lengths": [
+                                            1,
+                                            2
+                                        ]
+                                    }
+                                ],
+                                "named": true,
+                                "stack": true
+                            },
+                            "measures": {
+                                "en": "Your stars are for singing each phrase's root, the note you sang being that root, close to its middle. You just sang bass."
+                            }
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
