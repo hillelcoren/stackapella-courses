@@ -134,7 +134,8 @@
                                     "step": 0
                                 },
                                 "baseline": true,
-                                "generous": true
+                                "generous": true,
+                                "keep": "breath.first"
                             }
                         },
                         {
@@ -2230,7 +2231,8 @@
                                     "step": 0
                                 },
                                 "max": 8,
-                                "compare": "baseline"
+                                "compare": "baseline",
+                                "thenAndNow": "breath.first"
                             }
                         },
                         {
@@ -4016,7 +4018,8 @@
                                     "step": 0
                                 },
                                 "max": 8,
-                                "compare": "baseline"
+                                "compare": "baseline",
+                                "thenAndNow": "breath.first"
                             }
                         },
                         {
