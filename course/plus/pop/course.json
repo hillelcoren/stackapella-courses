@@ -1,0 +1,382 @@
+{
+    "id": "pop",
+    "version": 1,
+    "reviewed": false,
+    "title": { "en": "Pop and country styling" },
+    "units": [
+        {
+            "id": "pop-scoops-and-falls",
+            "title": { "en": "Scoops and fall-offs" },
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "pop-1-style",
+                    "title": { "en": "Plain to styled" },
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A plain tune and a styled one are the same notes. The difference is a few small moves, like a scoop up into a note."
+                            },
+                            "steps": [
+                                { "title": { "en": "Listen to the line" }, "detail": { "en": "Down in the Valley, with a scoop into \"val-\"" } },
+                                { "title": { "en": "Small and light" }, "detail": { "en": "Medium volume, the middle of your voice" } },
+                                { "title": { "en": "Stop if anything hurts" }, "detail": { "en": "Tightens, tickles or hurts: rest" } }
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 96,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -5, "lyric": "Down" },
+                                    { "beat": 1, "length": 1, "step": 0, "lyric": "in" },
+                                    { "beat": 2, "length": 1, "step": 2, "lyric": "the" },
+                                    { "beat": 3, "length": 3, "step": 4, "lyric": "val-", "style": "scoop" },
+                                    { "beat": 6, "length": 3, "step": 0, "lyric": "ley," },
+                                    { "beat": 9, "length": 1, "step": 4, "lyric": "val-" },
+                                    { "beat": 10, "length": 1, "step": 2, "lyric": "ley" },
+                                    { "beat": 11, "length": 1, "step": 0, "lyric": "so" },
+                                    { "beat": 12, "length": 3, "step": 2, "lyric": "low," }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "The scoop on its own: start a little below \"val-\" and slide up into it." },
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    { "beat": 0, "length": 3, "step": 4, "lyric": "val-", "style": "scoop" }
+                                ],
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "First the line plain, over the chords." },
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    { "beat": 3, "length": 1, "step": -5, "lyric": "Down" },
+                                    { "beat": 4, "length": 1, "step": 0, "lyric": "in" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "the" },
+                                    { "beat": 6, "length": 3, "step": 4, "lyric": "val-" },
+                                    { "beat": 9, "length": 3, "step": 0, "lyric": "ley," },
+                                    { "beat": 12, "length": 1, "step": 4, "lyric": "val-" },
+                                    { "beat": 13, "length": 1, "step": 2, "lyric": "ley" },
+                                    { "beat": 14, "length": 1, "step": 0, "lyric": "so" },
+                                    { "beat": 15, "length": 3, "step": 2, "lyric": "low," }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 3, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Now the same line with your scoop into \"val-\". If we don't hear it, try a bigger, slower one." },
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    { "beat": 3, "length": 1, "step": -5, "lyric": "Down" },
+                                    { "beat": 4, "length": 1, "step": 0, "lyric": "in" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "the" },
+                                    { "beat": 6, "length": 3, "step": 4, "lyric": "val-", "style": "scoop" },
+                                    { "beat": 9, "length": 3, "step": 0, "lyric": "ley," },
+                                    { "beat": 12, "length": 1, "step": 4, "lyric": "val-" },
+                                    { "beat": 13, "length": 1, "step": 2, "lyric": "ley" },
+                                    { "beat": 14, "length": 1, "step": 0, "lyric": "so" },
+                                    { "beat": 15, "length": 3, "step": 2, "lyric": "low," }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 3, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
+                                ],
+                                "score": "styled"
+                            },
+                            "measures": {
+                                "en": "Your stars are for the scoop and the notes. Listen back to both takes: same notes, different song. Next: the scoop, up close."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "pop-1-scoop",
+                    "title": { "en": "The scoop" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A scoop slides up into a note from a little below, on purpose. Done well it sounds meant, not missed."
+                            },
+                            "steps": [
+                                { "title": { "en": "From below" }, "detail": { "en": "A semitone to a third under the note" } },
+                                { "title": { "en": "Quick or lazy" }, "detail": { "en": "A flick, or a slow, easy rise" } },
+                                { "title": { "en": "Land on the note" }, "detail": { "en": "Then hold it steady" } }
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 2, "step": 0, "lyric": "oo", "style": "scoop" },
+                                    { "beat": 3, "length": 2, "step": 2, "lyric": "oo", "style": "scoop" }
+                                ],
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "choose",
+                            "text": { "en": "Listen to both, then choose." },
+                            "exercise": {
+                                "tempo": 72,
+                                "rounds": [
+                                    {
+                                        "prompt": { "en": "Which one scooped?" },
+                                        "clips": [
+                                            { "notes": [{ "beat": 0, "length": 2, "step": 0, "lyric": "oo" }] },
+                                            { "notes": [{ "beat": 0, "length": 2, "step": 0, "lyric": "oo", "style": "scoop" }] }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "B slid up into the note from below. A started right on it." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one scooped?" },
+                                        "clips": [
+                                            { "notes": [{ "beat": 0, "length": 2, "step": 2, "lyric": "oo", "style": "scoop" }] },
+                                            { "notes": [{ "beat": 0, "length": 2, "step": 2, "lyric": "oo" }] }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "A rose into its note; B was straight from the start." }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Listen, then sing them back, each with a quick scoop." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 2, "step": 0, "lyric": "oo", "style": "scoop" },
+                                    { "beat": 3, "length": 2, "step": 2, "lyric": "oo", "style": "scoop" },
+                                    { "beat": 6, "length": 2, "step": 4, "lyric": "oo", "style": "scoop" }
+                                ],
+                                "turn": true,
+                                "score": "styled"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Now lazy scoops: a slower, easy rise into each." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 2, "step": 0, "lyric": "oo", "style": "scoop" },
+                                    { "beat": 3, "length": 2, "step": 2, "lyric": "oo", "style": "scoop" },
+                                    { "beat": 6, "length": 2, "step": 4, "lyric": "oo", "style": "scoop" }
+                                ],
+                                "turn": true,
+                                "score": "styled",
+                                "window": 0.5
+                            },
+                            "measures": {
+                                "en": "Your stars are for the scoops and the notes they land on. Did they sound meant, not missed? Next: the fall-off."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "pop-1-fall",
+                    "title": { "en": "The fall-off" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A fall-off lets the end of a note drop away. Let the pitch go and keep the breath steady, never a collapse into a creak."
+                            },
+                            "steps": [
+                                { "title": { "en": "Hold, then let go" }, "detail": { "en": "The note first, the fall at its end" } },
+                                { "title": { "en": "Short, then longer" }, "detail": { "en": "A little drop, then a bigger one" } },
+                                { "title": { "en": "Keep the breath" }, "detail": { "en": "The pitch falls, the breath doesn't" } }
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 3, "step": 2, "lyric": "oo", "style": "fall" },
+                                    { "beat": 4, "length": 3, "step": 4, "lyric": "oo", "style": "fall" }
+                                ],
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Listen, then sing them back, each falling off at the end." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 3, "step": 2, "lyric": "oo", "style": "fall" },
+                                    { "beat": 4, "length": 3, "step": 4, "lyric": "oo", "style": "fall" }
+                                ],
+                                "turn": true,
+                                "score": "styled"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "The line's last note, \"low\", with a fall-off." },
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    { "beat": 3, "length": 1, "step": -5, "lyric": "Down" },
+                                    { "beat": 4, "length": 1, "step": 0, "lyric": "in" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "the" },
+                                    { "beat": 6, "length": 3, "step": 4, "lyric": "val-" },
+                                    { "beat": 9, "length": 3, "step": 0, "lyric": "ley," },
+                                    { "beat": 12, "length": 1, "step": 4, "lyric": "val-" },
+                                    { "beat": 13, "length": 1, "step": 2, "lyric": "ley" },
+                                    { "beat": 14, "length": 1, "step": 0, "lyric": "so" },
+                                    { "beat": 15, "length": 3, "step": 2, "lyric": "low,", "style": "fall" }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 3, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
+                                ],
+                                "score": "styled"
+                            },
+                            "measures": { "en": "Your stars are for the fall-off and the notes. Next: the whole verse, styled." }
+                        }
+                    ]
+                },
+                {
+                    "id": "pop-1-challenge",
+                    "title": { "en": "Styled valley" },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": { "en": "The whole verse with three scoops and two fall-offs, on the long notes and the ends of lines." },
+                            "steps": [
+                                { "title": { "en": "Scoops" }, "detail": { "en": "Into \"val-\", \"val-\" and \"o-\"" } },
+                                { "title": { "en": "Fall-offs" }, "detail": { "en": "On \"low\" and \"blow\"" } },
+                                { "title": { "en": "Everything else plain" }, "detail": { "en": "Moves mean more when they're rare" } }
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 96,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -5, "lyric": "Down" },
+                                    { "beat": 1, "length": 1, "step": 0, "lyric": "in" },
+                                    { "beat": 2, "length": 1, "step": 2, "lyric": "the" },
+                                    { "beat": 3, "length": 3, "step": 4, "lyric": "val-", "style": "scoop" },
+                                    { "beat": 6, "length": 3, "step": 0, "lyric": "ley," },
+                                    { "beat": 9, "length": 1, "step": 4, "lyric": "val-", "style": "scoop" },
+                                    { "beat": 10, "length": 1, "step": 2, "lyric": "ley" },
+                                    { "beat": 11, "length": 1, "step": 0, "lyric": "so" },
+                                    { "beat": 12, "length": 3, "step": 2, "lyric": "low,", "style": "fall" },
+                                    { "beat": 15, "length": 1, "step": -5, "lyric": "Hang" },
+                                    { "beat": 16, "length": 1, "step": -1, "lyric": "your" },
+                                    { "beat": 17, "length": 1, "step": 2, "lyric": "head" },
+                                    { "beat": 18, "length": 3, "step": 5, "lyric": "o-", "style": "scoop" },
+                                    { "beat": 21, "length": 3, "step": 2, "lyric": "ver," },
+                                    { "beat": 24, "length": 1, "step": -1, "lyric": "hear" },
+                                    { "beat": 25, "length": 1, "step": 0, "lyric": "the" },
+                                    { "beat": 26, "length": 1, "step": 2, "lyric": "wind" },
+                                    { "beat": 27, "length": 3, "step": 0, "lyric": "blow.", "style": "fall" }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "The verse at your own pace first." },
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -5, "lyric": "Down" },
+                                    { "beat": 1, "length": 1, "step": 0, "lyric": "in" },
+                                    { "beat": 2, "length": 1, "step": 2, "lyric": "the" },
+                                    { "beat": 3, "length": 3, "step": 4, "lyric": "val-", "style": "scoop" },
+                                    { "beat": 6, "length": 3, "step": 0, "lyric": "ley," },
+                                    { "beat": 9, "length": 1, "step": 4, "lyric": "val-", "style": "scoop" },
+                                    { "beat": 10, "length": 1, "step": 2, "lyric": "ley" },
+                                    { "beat": 11, "length": 1, "step": 0, "lyric": "so" },
+                                    { "beat": 12, "length": 3, "step": 2, "lyric": "low,", "style": "fall" },
+                                    { "beat": 15, "length": 1, "step": -5, "lyric": "Hang" },
+                                    { "beat": 16, "length": 1, "step": -1, "lyric": "your" },
+                                    { "beat": 17, "length": 1, "step": 2, "lyric": "head" },
+                                    { "beat": 18, "length": 3, "step": 5, "lyric": "o-", "style": "scoop" },
+                                    { "beat": 21, "length": 3, "step": 2, "lyric": "ver," },
+                                    { "beat": 24, "length": 1, "step": -1, "lyric": "hear" },
+                                    { "beat": 25, "length": 1, "step": 0, "lyric": "the" },
+                                    { "beat": 26, "length": 1, "step": 2, "lyric": "wind" },
+                                    { "beat": 27, "length": 3, "step": 0, "lyric": "blow.", "style": "fall" }
+                                ],
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "After a bar of chords, sing the styled verse." },
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    { "beat": 3, "length": 1, "step": -5, "lyric": "Down" },
+                                    { "beat": 4, "length": 1, "step": 0, "lyric": "in" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "the" },
+                                    { "beat": 6, "length": 3, "step": 4, "lyric": "val-", "style": "scoop" },
+                                    { "beat": 9, "length": 3, "step": 0, "lyric": "ley," },
+                                    { "beat": 12, "length": 1, "step": 4, "lyric": "val-", "style": "scoop" },
+                                    { "beat": 13, "length": 1, "step": 2, "lyric": "ley" },
+                                    { "beat": 14, "length": 1, "step": 0, "lyric": "so" },
+                                    { "beat": 15, "length": 3, "step": 2, "lyric": "low,", "style": "fall" },
+                                    { "beat": 18, "length": 1, "step": -5, "lyric": "Hang" },
+                                    { "beat": 19, "length": 1, "step": -1, "lyric": "your" },
+                                    { "beat": 20, "length": 1, "step": 2, "lyric": "head" },
+                                    { "beat": 21, "length": 3, "step": 5, "lyric": "o-", "style": "scoop" },
+                                    { "beat": 24, "length": 3, "step": 2, "lyric": "ver," },
+                                    { "beat": 27, "length": 1, "step": -1, "lyric": "hear" },
+                                    { "beat": 28, "length": 1, "step": 0, "lyric": "the" },
+                                    { "beat": 29, "length": 1, "step": 2, "lyric": "wind" },
+                                    { "beat": 30, "length": 3, "step": 0, "lyric": "blow.", "style": "fall" }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 3, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
+                                ],
+                                "score": "styled"
+                            },
+                            "measures": {
+                                "en": "Your stars are for the moves asked for and the notes. Listen back, and sing Plain to styled again to hear how far you've come. Next: the slide."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
