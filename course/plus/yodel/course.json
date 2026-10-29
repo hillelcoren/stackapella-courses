@@ -91,34 +91,21 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now on purpose: from below your flip, jump over it, then back." },
-                            "exercise": {
-                                "tempo": 60,
-                                "notes": [
-                                    { "beat": 0, "length": 2, "step": -5, "lyric": "oo" },
-                                    { "beat": 2, "length": 2, "step": 2, "lyric": "hoo", "voice": "head" },
-                                    { "beat": 4, "length": 2, "step": -5, "lyric": "oo" }
-                                ],
-                                "turn": true,
-                                "base": "flip",
-                                "score": "flip"
-                            }
-                        },
-                        {
-                            "kind": "play",
-                            "text": { "en": "Your first yodel hook: listen, then sing \"yo-hee-o\" back, three times." },
+                            "text": {
+                                "en": "Now on purpose: from below your flip, jump over it and back, then your first yodel hook, \"yo-hee-o\", twice. Listen, then sing it back."
+                            },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
-                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
-                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 5, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
-                                    { "beat": 7, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 10, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 11, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
-                                    { "beat": 12, "length": 2, "step": -7, "lyric": "o" }
+                                    { "beat": 0, "length": 2, "step": -5, "lyric": "oo" },
+                                    { "beat": 2, "length": 2, "step": 2, "lyric": "hoo", "voice": "head" },
+                                    { "beat": 4, "length": 2, "step": -5, "lyric": "oo" },
+                                    { "beat": 7, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 8, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 9, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 12, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 13, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 14, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
@@ -127,26 +114,6 @@
                             },
                             "measures": {
                                 "en": "Your stars are for the flips and the notes. If the top sounded the same as the bottom, let it tip over: lighter, quieter, hootier. Listen back: did the top sound lighter, like a different voice? Next: hear your two voices."
-                            }
-                        },
-                        {
-                            "kind": "selfcheck",
-                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's. The app hears the jump in pitch, not which voice made it." },
-                            "exercise": {
-                                "tempo": 66,
-                                "lead": 2,
-                                "base": "flip",
-                                "model": {
-                                    "notes": [
-                                        { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                        { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
-                                        { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
-                                    ]
-                                },
-                                "questions": [
-                                    { "en": "Did the top sound like a different, lighter voice?" },
-                                    { "en": "Did the way down land lightly, at speaking volume?" }
-                                ]
                             }
                         }
                     ]
@@ -195,20 +162,9 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now \"hoo\", light and quiet, above your flip. If your voice cracks on the way, you found it." },
-                            "exercise": {
-                                "tempo": 60,
-                                "notes": [
-                                    { "beat": 2, "length": 4, "step": 2, "lyric": "hoo", "voice": "head" }
-                                ],
-                                "turn": false,
-                                "base": "flip",
-                                "score": "hold"
-                            }
-                        },
-                        {
-                            "kind": "play",
-                            "text": { "en": "Once more, light and easy: 4 beats of \"hoo\". A light voice may waver a little, and that's fine." },
+                            "text": {
+                                "en": "Now \"hoo\", light and easy, above your flip: 4 beats. If your voice cracks on the way, you found it; a light voice may waver a little, and that's fine."
+                            },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -777,21 +733,6 @@
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
                                     { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
-                                ],
-                                "turn": true,
-                                "base": "flip",
-                                "score": "flip"
-                            }
-                        },
-                        {
-                            "kind": "play",
-                            "text": { "en": "An octave." },
-                            "exercise": {
-                                "tempo": 66,
-                                "notes": [
-                                    { "beat": 0, "length": 1, "step": -10, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
-                                    { "beat": 2, "length": 2, "step": -10, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
@@ -1455,24 +1396,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The tag slowly first: listen, then yodel it back." },
-                            "exercise": {
-                                "tempo": 60,
-                                "notes": [
-                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
-                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 4, "length": 1, "step": -7, "lyric": "lo-" },
-                                    { "beat": 5, "length": 1, "step": 2, "lyric": "ee-", "voice": "head" },
-                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
-                                ],
-                                "turn": true,
-                                "base": "flip",
-                                "score": "flip"
-                            }
-                        },
-                        {
-                            "kind": "play",
                             "text": { "en": "Now the tag: listen, then yodel it back, open below and narrow above." },
                             "exercise": {
                                 "tempo": 72,
@@ -2008,26 +1931,6 @@
                                 ],
                                 "turn": false,
                                 "drone": { "step": -2 }
-                            }
-                        },
-                        {
-                            "kind": "play",
-                            "text": { "en": "The tag slowly first: a hook and a roll." },
-                            "exercise": {
-                                "tempo": 66,
-                                "notes": [
-                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
-                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 5.0, "length": 0.75, "step": -7, "lyric": "yo-" },
-                                    { "beat": 5.75, "length": 0.75, "step": 2, "lyric": "dee-", "voice": "head" },
-                                    { "beat": 6.5, "length": 0.75, "step": -7, "lyric": "ay-" },
-                                    { "beat": 7.25, "length": 0.75, "step": 2, "lyric": "ee-", "voice": "head" },
-                                    { "beat": 8.0, "length": 1.5, "step": -7, "lyric": "o" }
-                                ],
-                                "turn": true,
-                                "base": "flip",
-                                "score": "flip"
                             }
                         },
                         {
