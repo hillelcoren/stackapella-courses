@@ -269,7 +269,9 @@
             "window": "a lazy scoop's time to arrive, in seconds (Pop and country: docs/courses/pop-country.md)",
             "giveNote": "true: a Give me my note button while you sing your turn (not through a speaker); the note is played quietly, once, and never scored (Folk: docs/courses/folk.md)",
             "rules": "with score species: contrary (three moves against the first partner), all (every first-species rule), close (four moves in five a step or less, with some real moving) or against (half the moving notes against the tune) for three stars (docs/courses/counterpoint.md 8b)",
-            "lights": "how your notes are drawn, all still scored: on (the default), fade (the second half faint), changes (only where the chord changes), late (after a beat off) or off (Improvising a harmony: docs/courses/improvising-harmony.md)"
+            "lights": "how your notes are drawn, all still scored: on (the default), fade (the second half faint), changes (only where the chord changes), late (after a beat off) or off (Improvising a harmony: docs/courses/improvising-harmony.md)",
+            "keep": "an id (\"<course>.<name>\"): the step's first heard take is kept on this device, never synced, for Then and now",
+            "thenAndNow": "an id an earlier lesson keeps: after the take, that first take plays beside today's (Then and now, every course's finale)"
         },
         "webOnly": [
             "score",
@@ -284,7 +286,9 @@
             "window",
             "giveNote",
             "rules",
-            "lights"
+            "lights",
+            "keep",
+            "thenAndNow"
         ]
     },
     "note": {

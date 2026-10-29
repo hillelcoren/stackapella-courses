@@ -143,6 +143,7 @@ def course(path, seen, clip_ids, unplayable, facts):
     name = path.relative_to(ROOT / "course")
     known(str(name), data, FORMAT["course"])
     lessons = 0
+    kept = set()  # Then and now: the ids kept so far in this course, lesson by lesson
     for unit in data.get("units", []):
         known(f"{name} {unit.get('id')}", unit, FORMAT["unit"])
         if sum(1 for lesson in unit.get("lessons", []) if "fact" in lesson) > 2:
@@ -173,9 +174,13 @@ def course(path, seen, clip_ids, unplayable, facts):
                     exercise(at, step["exercise"], kind.get("exercise", "play"), web_only, clip_ids)
                 if "listen" in step:
                     exercise(at, step["listen"], "play", web_only, clip_ids)
+                ex = step.get("exercise") if isinstance(step.get("exercise"), dict) else {}
+                if ex.get("thenAndNow") and ex["thenAndNow"] not in kept:
+                    problem(at, f"thenAndNow '{ex['thenAndNow']}' isn't kept by an earlier lesson of this course")
                 if kind["flutter"] != "yes":
                     flutter.add(f"{step['kind']} ({kind['flutter']})")
                 flutter.update(f"play.{k}" for k in web_only)
+            kept.update(s["exercise"]["keep"] for s in lesson.get("steps", []) if isinstance(s.get("exercise"), dict) and s["exercise"].get("keep"))
             if flutter:
                 unplayable[lid] = sorted(flutter)
     return lessons
