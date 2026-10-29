@@ -174,9 +174,7 @@
                                 "base": "flip",
                                 "generous": true
                             },
-                            "measures": {
-                                "en": "Scored on your last \"hoo\" being on its note, not how steady it was: a new head voice wavers. Next: hear a flip from a slide."
-                            }
+                            "measures": { "en": "Scored on your last \"hoo\" being on its note, not how steady it was: a new head voice wavers. Next: hear a flip from a slide." }
                         },
                         {
                             "kind": "selfcheck",
@@ -241,14 +239,16 @@
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
                                                     { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
-                                                ]
+                                                ],
+                                                "clip": "yodel.hook-clean"
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-", "style": "slide" },
                                                     { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
-                                                ]
+                                                ],
+                                                "clip": "yodel.hook-slid"
                                             }
                                         ],
                                         "answer": 0,
@@ -262,14 +262,16 @@
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-", "style": "slide" },
                                                     { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
-                                                ]
+                                                ],
+                                                "clip": "yodel.hook-slid"
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
                                                     { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
-                                                ]
+                                                ],
+                                                "clip": "yodel.hook-clean"
                                             }
                                         ],
                                         "answer": 1,
@@ -1411,9 +1413,7 @@
                                 "base": "flip",
                                 "score": "flip"
                             },
-                            "measures": {
-                                "en": "Scored on the tag's flips and notes. Take a break. Listen back: did the top sound lighter, like a different voice? Next: the roll."
-                            }
+                            "measures": { "en": "Scored on the tag's flips and notes. Take a break. Listen back: did the top sound lighter, like a different voice? Next: the roll." }
                         },
                         {
                             "kind": "selfcheck",
@@ -1687,7 +1687,8 @@
                                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
                                                     { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
-                                                ]
+                                                ],
+                                                "clip": "yodel.roll-clean"
                                             },
                                             {
                                                 "notes": [
@@ -1696,7 +1697,8 @@
                                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-", "style": "slide" },
                                                     { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "style": "slide", "voice": "head" },
                                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
-                                                ]
+                                                ],
+                                                "clip": "yodel.roll-smeared"
                                             }
                                         ],
                                         "answer": 0,
@@ -1712,7 +1714,8 @@
                                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-", "style": "slide" },
                                                     { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "style": "slide", "voice": "head" },
                                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
-                                                ]
+                                                ],
+                                                "clip": "yodel.roll-smeared"
                                             },
                                             {
                                                 "notes": [
@@ -1721,7 +1724,8 @@
                                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
                                                     { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
-                                                ]
+                                                ],
+                                                "clip": "yodel.roll-clean"
                                             }
                                         ],
                                         "answer": 1,
