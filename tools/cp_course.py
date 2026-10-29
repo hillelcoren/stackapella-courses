@@ -685,6 +685,7 @@ def cp_5_hold():
 def cp_5_challenge():
     return {
         "id": "cp-5-challenge", "title": EN("Write a counterpoint"), "challenge": True,
+        "keepSong": {"title": EN("My counterpoint"), "takes": [{"step": 1, "name": EN("My line")}], "from": 1, "partners": [EN("Cantus")]},
         "steps": [
             learn("A new cantus, and every note is your choice. Make a line by the rules, then listen to the duet you wrote.",
                   [("Nearly every note lit", "Choose as you go"),

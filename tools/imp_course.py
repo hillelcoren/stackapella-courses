@@ -613,6 +613,7 @@ def imp_4_challenge():
                                     "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4), **(extra or {})}
     return {
         "id": "imp-4-challenge", "title": EN("A trio of you"), "challenge": True,
+        "keepSong": {"title": EN("Red River Valley, a trio of me"), "takes": [{"step": 2, "name": EN("My harmony")}, {"step": 3, "name": EN("My bass")}], "from": 3, "partners": [EN("The tune")], "chords": EN("Chords")},
         "steps": [
             learn("Red River Valley, a tune new to this course. Hear it once; then harmonise it by ear, again, and then a part under your own.",
                   [("Hear it once", "Just the tune"),

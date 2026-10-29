@@ -3687,6 +3687,13 @@
                     "id": "imp-4-challenge",
                     "title": {"en": "A trio of you"},
                     "challenge": true,
+                    "keepSong": {
+                        "title": {"en": "Red River Valley, a trio of me"},
+                        "takes": [{"step": 2, "name": {"en": "My harmony"}}, {"step": 3, "name": {"en": "My bass"}}],
+                        "from": 3,
+                        "partners": [{"en": "The tune"}],
+                        "chords": {"en": "Chords"}
+                    },
                     "steps": [
                         {
                             "kind": "learn",

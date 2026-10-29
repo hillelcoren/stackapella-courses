@@ -3388,6 +3388,12 @@
                     "id": "cp-5-challenge",
                     "title": {"en": "Write a counterpoint"},
                     "challenge": true,
+                    "keepSong": {
+                        "title": {"en": "My counterpoint"},
+                        "takes": [{"step": 1, "name": {"en": "My line"}}],
+                        "from": 1,
+                        "partners": [{"en": "Cantus"}]
+                    },
                     "steps": [
                         {
                             "kind": "learn",
