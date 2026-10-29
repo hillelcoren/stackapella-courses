@@ -1,0 +1,154 @@
+{
+    "id": "counterpoint",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Counterpoint"},
+    "units": [
+        {
+            "id": "cp-hold-your-own",
+            "title": {"en": "Hold your own"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "cp-1-round",
+                    "title": {"en": "Be a round"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A round is one tune that fits itself when it starts at different times. You start it."},
+                            "steps": [
+                                {"title": {"en": "Sing Row, Row, Row"}, "detail": {"en": "Twice through, at an easy volume"}},
+                                {"title": {"en": "Three voices join you"}, "detail": {"en": "Each one two bars behind the last"}},
+                                {"title": {"en": "Best with headphones"}, "detail": {"en": "You'll hear the voices join as you sing"}}
+                            ],
+                            "listen": {
+                                "tempo": 150,
+                                "notes": [
+                                    {"beat": 6, "length": 3, "step": -7, "lyric": "Row,"},
+                                    {"beat": 9, "length": 3, "step": -7, "lyric": "row,"},
+                                    {"beat": 12, "length": 2, "step": -7, "lyric": "row"},
+                                    {"beat": 14, "length": 1, "step": -5, "lyric": "your"},
+                                    {"beat": 15, "length": 3, "step": -3, "lyric": "boat"},
+                                    {"beat": 18, "length": 2, "step": -3, "lyric": "gent-"},
+                                    {"beat": 20, "length": 1, "step": -5, "lyric": "ly"},
+                                    {"beat": 21, "length": 2, "step": -3, "lyric": "down"},
+                                    {"beat": 23, "length": 1, "step": -2, "lyric": "the"},
+                                    {"beat": 24, "length": 6, "step": 0, "lyric": "stream."},
+                                    {"beat": 30, "length": 1, "step": 5, "lyric": "Mer-"},
+                                    {"beat": 31, "length": 1, "step": 5, "lyric": "ri-"},
+                                    {"beat": 32, "length": 1, "step": 5, "lyric": "ly,"},
+                                    {"beat": 33, "length": 1, "step": 0, "lyric": "mer-"},
+                                    {"beat": 34, "length": 1, "step": 0, "lyric": "ri-"},
+                                    {"beat": 35, "length": 1, "step": 0, "lyric": "ly,"},
+                                    {"beat": 36, "length": 1, "step": -3, "lyric": "mer-"},
+                                    {"beat": 37, "length": 1, "step": -3, "lyric": "ri-"},
+                                    {"beat": 38, "length": 1, "step": -3, "lyric": "ly,"},
+                                    {"beat": 39, "length": 1, "step": -7, "lyric": "mer-"},
+                                    {"beat": 40, "length": 1, "step": -7, "lyric": "ri-"},
+                                    {"beat": 41, "length": 1, "step": -7, "lyric": "ly,"},
+                                    {"beat": 42, "length": 2, "step": 0, "lyric": "life"},
+                                    {"beat": 44, "length": 1, "step": -2, "lyric": "is"},
+                                    {"beat": 45, "length": 2, "step": -3, "lyric": "but"},
+                                    {"beat": 47, "length": 1, "step": -5, "lyric": "a"},
+                                    {"beat": 48, "length": 6, "step": -7, "lyric": "dream."}
+                                ],
+                                "turn": false,
+                                "drone": {"step": -7}
+                            },
+                            "visual": "round",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "The first two lines, at your own pace."},
+                            "exercise": {
+                                "tempo": 150,
+                                "notes": [
+                                    {"beat": 0, "length": 3, "step": -7, "lyric": "Row,"},
+                                    {"beat": 3, "length": 3, "step": -7, "lyric": "row,"},
+                                    {"beat": 6, "length": 2, "step": -7, "lyric": "row"},
+                                    {"beat": 8, "length": 1, "step": -5, "lyric": "your"},
+                                    {"beat": 9, "length": 3, "step": -3, "lyric": "boat"},
+                                    {"beat": 12, "length": 2, "step": -3, "lyric": "gent-"},
+                                    {"beat": 14, "length": 1, "step": -5, "lyric": "ly"},
+                                    {"beat": 15, "length": 2, "step": -3, "lyric": "down"},
+                                    {"beat": 17, "length": 1, "step": -2, "lyric": "the"},
+                                    {"beat": 18, "length": 6, "step": 0, "lyric": "stream."}
+                                ],
+                                "drone": {"step": -7}
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "After a bar of the drone, sing it twice through. Keep your own line while the voices come in."},
+                            "exercise": {
+                                "tempo": 150,
+                                "notes": [
+                                    {"beat": 6, "length": 3, "step": -7, "lyric": "Row,"},
+                                    {"beat": 9, "length": 3, "step": -7, "lyric": "row,"},
+                                    {"beat": 12, "length": 2, "step": -7, "lyric": "row"},
+                                    {"beat": 14, "length": 1, "step": -5, "lyric": "your"},
+                                    {"beat": 15, "length": 3, "step": -3, "lyric": "boat"},
+                                    {"beat": 18, "length": 2, "step": -3, "lyric": "gent-"},
+                                    {"beat": 20, "length": 1, "step": -5, "lyric": "ly"},
+                                    {"beat": 21, "length": 2, "step": -3, "lyric": "down"},
+                                    {"beat": 23, "length": 1, "step": -2, "lyric": "the"},
+                                    {"beat": 24, "length": 6, "step": 0, "lyric": "stream."},
+                                    {"beat": 30, "length": 1, "step": 5, "lyric": "Mer-"},
+                                    {"beat": 31, "length": 1, "step": 5, "lyric": "ri-"},
+                                    {"beat": 32, "length": 1, "step": 5, "lyric": "ly,"},
+                                    {"beat": 33, "length": 1, "step": 0, "lyric": "mer-"},
+                                    {"beat": 34, "length": 1, "step": 0, "lyric": "ri-"},
+                                    {"beat": 35, "length": 1, "step": 0, "lyric": "ly,"},
+                                    {"beat": 36, "length": 1, "step": -3, "lyric": "mer-"},
+                                    {"beat": 37, "length": 1, "step": -3, "lyric": "ri-"},
+                                    {"beat": 38, "length": 1, "step": -3, "lyric": "ly,"},
+                                    {"beat": 39, "length": 1, "step": -7, "lyric": "mer-"},
+                                    {"beat": 40, "length": 1, "step": -7, "lyric": "ri-"},
+                                    {"beat": 41, "length": 1, "step": -7, "lyric": "ly,"},
+                                    {"beat": 42, "length": 2, "step": 0, "lyric": "life"},
+                                    {"beat": 44, "length": 1, "step": -2, "lyric": "is"},
+                                    {"beat": 45, "length": 2, "step": -3, "lyric": "but"},
+                                    {"beat": 47, "length": 1, "step": -5, "lyric": "a"},
+                                    {"beat": 48, "length": 6, "step": -7, "lyric": "dream."},
+                                    {"beat": 54, "length": 3, "step": -7, "lyric": "Row,"},
+                                    {"beat": 57, "length": 3, "step": -7, "lyric": "row,"},
+                                    {"beat": 60, "length": 2, "step": -7, "lyric": "row"},
+                                    {"beat": 62, "length": 1, "step": -5, "lyric": "your"},
+                                    {"beat": 63, "length": 3, "step": -3, "lyric": "boat"},
+                                    {"beat": 66, "length": 2, "step": -3, "lyric": "gent-"},
+                                    {"beat": 68, "length": 1, "step": -5, "lyric": "ly"},
+                                    {"beat": 69, "length": 2, "step": -3, "lyric": "down"},
+                                    {"beat": 71, "length": 1, "step": -2, "lyric": "the"},
+                                    {"beat": 72, "length": 6, "step": 0, "lyric": "stream."},
+                                    {"beat": 78, "length": 1, "step": 5, "lyric": "Mer-"},
+                                    {"beat": 79, "length": 1, "step": 5, "lyric": "ri-"},
+                                    {"beat": 80, "length": 1, "step": 5, "lyric": "ly,"},
+                                    {"beat": 81, "length": 1, "step": 0, "lyric": "mer-"},
+                                    {"beat": 82, "length": 1, "step": 0, "lyric": "ri-"},
+                                    {"beat": 83, "length": 1, "step": 0, "lyric": "ly,"},
+                                    {"beat": 84, "length": 1, "step": -3, "lyric": "mer-"},
+                                    {"beat": 85, "length": 1, "step": -3, "lyric": "ri-"},
+                                    {"beat": 86, "length": 1, "step": -3, "lyric": "ly,"},
+                                    {"beat": 87, "length": 1, "step": -7, "lyric": "mer-"},
+                                    {"beat": 88, "length": 1, "step": -7, "lyric": "ri-"},
+                                    {"beat": 89, "length": 1, "step": -7, "lyric": "ly,"},
+                                    {"beat": 90, "length": 2, "step": 0, "lyric": "life"},
+                                    {"beat": 92, "length": 1, "step": -2, "lyric": "is"},
+                                    {"beat": 93, "length": 2, "step": -3, "lyric": "but"},
+                                    {"beat": 95, "length": 1, "step": -5, "lyric": "a"},
+                                    {"beat": 96, "length": 6, "step": -7, "lyric": "dream."}
+                                ],
+                                "turn": false,
+                                "drone": {"step": -7},
+                                "with": [{"delay": 12, "steps": 12}, {"delay": 24}, {"delay": 36, "steps": -12}]
+                            },
+                            "measures": {"en": "Your stars are for your notes on pitch. By the end of the course you'll write your own line against a melody."}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
