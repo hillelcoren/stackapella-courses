@@ -10,7 +10,8 @@
         "prompt",
         "why",
         "label",
-        "line"
+        "line",
+        "description"
     ],
     "course": [
         "id",
@@ -166,7 +167,7 @@
                 "along",
                 "questions"
             ],
-            "about": "What we can't hear yet: hear a model, record, compare, answer self-check questions; never scored"
+            "about": "What we can't hear yet: hear a model, record, compare, answer self-check questions; never scored; its model may name a real singer's clip (`clip`), with `seconds` and a `description` until it's recorded"
         },
         "bullseye": {
             "web": "yes",
@@ -322,7 +323,10 @@
         "fields": [
             "notes",
             "drone",
-            "chords"
+            "chords",
+            "clip",
+            "seconds",
+            "description"
         ]
     }
 }
