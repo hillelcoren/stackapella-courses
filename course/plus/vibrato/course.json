@@ -843,10 +843,1440 @@
                                         "quality": "maj",
                                         "bass": null
                                     }
-                                ]
+                                ],
+                                "score": "straight"
                             },
                             "measures": {
                                 "en": "Your stars are for the notes. Listen back: were the long ones calm and straight?"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vib-steer-the-wave",
+            "title": {
+                "en": "Steer the wave"
+            },
+            "colour": 5,
+            "lessons": [
+                {
+                    "id": "vib-2-ladder",
+                    "title": {
+                        "en": "Slow to quicker"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A wave you steer is the gym for vibrato: slow and even first, then a little quicker. Tiny slurs between two notes. Jaw and belly still."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Rest a fingertip on your chin"
+                                    },
+                                    "detail": {
+                                        "en": "It shouldn't move"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Slow and even"
+                                    },
+                                    "detail": {
+                                        "en": "Every wave the same size"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Quicker, never harder"
+                                    },
+                                    "detail": {
+                                        "en": "Smaller as it speeds up"
+                                    }
+                                }
+                            ],
+                            "visual": "vibrato",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Follow the ribbon: 2 a second, then 3, then 4."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 2,
+                                        "cents": 50
+                                    },
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 3,
+                                        "cents": 40
+                                    },
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 4,
+                                        "cents": 30
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Again, with an extra rung at 5 a second if you like. Stop whenever it feels tight."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 3,
+                                        "cents": 40
+                                    },
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 4,
+                                        "cents": 30
+                                    },
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 5,
+                                        "cents": 20,
+                                        "scored": false
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Your stars are for how even your waves were at 3 and 4 a second. The fastest rung is there to try."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "vib-2-narrow",
+                    "title": {
+                        "en": "Smaller waves"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A natural vibrato is small. Keep the speed, and shrink the wave. Tiny slurs between two notes. Jaw and belly still."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Same speed"
+                                    },
+                                    "detail": {
+                                        "en": "4 a second"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Half the size"
+                                    },
+                                    "detail": {
+                                        "en": "Think smaller, not tighter"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Stay inside the ribbon"
+                                    },
+                                    "detail": {
+                                        "en": "Wider earns nothing extra"
+                                    }
+                                }
+                            ],
+                            "visual": "vibrato",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "At 4 a second: from a wide wave to a small one."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 4,
+                                        "cents": 40
+                                    },
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 4,
+                                        "cents": 30
+                                    },
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 4,
+                                        "cents": 20
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Your stars are for staying inside the ribbon, evenly. Wider is never better."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "vib-2-echo",
+                    "title": {
+                        "en": "Echo the guide"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Hear a wave, then sing it back the same way: straight, or a wave at the same speed."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Listen first"
+                                    },
+                                    "detail": {
+                                        "en": "Is it straight, or does it wave?"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "How fast?"
+                                    },
+                                    "detail": {
+                                        "en": "Slow, or quicker"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Sing it back"
+                                    },
+                                    "detail": {
+                                        "en": "The same shape"
+                                    }
+                                }
+                            ],
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Warm up your ear: which is quicker?"
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Which wave is quicker?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 3,
+                                                            "cents": 40,
+                                                            "after": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 4.5,
+                                                            "cents": 30,
+                                                            "after": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "B waves about four and a half times a second; A, three."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one is straight?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 4,
+                                                            "cents": 30,
+                                                            "after": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "B stays on one line."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Echo 1: hear it with Hear it, then sing it the same."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 3,
+                                        "cents": 40
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Echo 2: a straight one."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "straight"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Echo 3: quicker and smaller."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 4,
+                                        "cents": 25
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Your stars are for matching the last echo's speed and size."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "vib-2-challenge",
+                    "title": {
+                        "en": "Wave a tune"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Three held notes, a wave on each, and a steady straight step between them."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "do, mi, so"
+                                    },
+                                    "detail": {
+                                        "en": "Each held with a wave"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Straight on the move"
+                                    },
+                                    "detail": {
+                                        "en": "No wave between notes"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Even all the way"
+                                    },
+                                    "detail": {
+                                        "en": "Same speed on all three"
+                                    }
+                                }
+                            ],
+                            "visual": "ladder",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "On do: a wave at 3 a second."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 3,
+                                        "cents": 35
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "On mi."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 4,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 4
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 3,
+                                        "cents": 35
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "On so: straight for a moment, then the wave."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 7,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 7
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 1.5,
+                                        "kind": "straight"
+                                    },
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 3,
+                                        "cents": 35
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Your stars are for an even wave on so, after a straight start (unit 1's skill)."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vib-let-it-happen",
+            "title": {
+                "en": "Let it happen"
+            },
+            "colour": 5,
+            "lessons": [
+                {
+                    "id": "vib-3-ghost",
+                    "title": {
+                        "en": "The ghost wave"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Now the ribbon fades away. Keep the note going and let it settle on its own: a wave, or calm."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Ride the wave"
+                                    },
+                                    "detail": {
+                                        "en": "4 a second"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "It fades"
+                                    },
+                                    "detail": {
+                                        "en": "Stop steering"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Let it settle"
+                                    },
+                                    "detail": {
+                                        "en": "Whatever comes is fine"
+                                    }
+                                }
+                            ],
+                            "visual": "vibrato",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Follow the wave as it fades, then keep going on your own."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "wave",
+                                        "hz": 4,
+                                        "cents": 30,
+                                        "fade": 2
+                                    },
+                                    {
+                                        "seconds": 4,
+                                        "kind": "free"
+                                    }
+                                ],
+                                "combo": false
+                            },
+                            "measures": {
+                                "en": "Your stars are for a steady note after the ribbon fades, with a wave or without."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "vib-3-vowels",
+                    "title": {
+                        "en": "Vowels and places"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Some vowels let the voice move more easily. Try three, at three easy heights. Tiny slurs, jaw still, never pushed."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "oo, oh, ah"
+                                    },
+                                    "detail": {
+                                        "en": "One on each note"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Low to high"
+                                    },
+                                    "detail": {
+                                        "en": "All in your comfortable range"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Easy"
+                                    },
+                                    "detail": {
+                                        "en": "If it tightens, sing softer"
+                                    }
+                                }
+                            ],
+                            "visual": "vowels",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "\"oo\", a little below your note."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": -3,
+                                "lyric": "oo",
+                                "drone": {
+                                    "step": -3
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 5,
+                                        "kind": "free"
+                                    }
+                                ],
+                                "combo": false
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "\"oh\", on your note."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oh",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 5,
+                                        "kind": "free"
+                                    }
+                                ],
+                                "combo": false
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "\"ah\", a little above."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 3,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 3
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 5,
+                                        "kind": "free"
+                                    }
+                                ],
+                                "combo": false
+                            },
+                            "measures": {
+                                "en": "Your stars are for steady, easy holds on all three. Listen back: which vowel moved most freely?"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "vib-3-yours",
+                    "title": {
+                        "en": "Your vibrato"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Three long, easy notes. We'll describe what your voice does by itself: a natural vibrato, or a calm straight tone. Both are fine."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Medium volume"
+                                    },
+                                    "detail": {
+                                        "en": "Not breathy, never loud"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Breathe low"
+                                    },
+                                    "detail": {
+                                        "en": "Then let the note float"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Don't steer"
+                                    },
+                                    "detail": {
+                                        "en": "Just listen to yourself"
+                                    }
+                                }
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "The first long note."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "free"
+                                    }
+                                ],
+                                "combo": false
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "The second."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "free"
+                                    }
+                                ],
+                                "combo": false
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "The third."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "free"
+                                    }
+                                ],
+                                "combo": false
+                            },
+                            "measures": {
+                                "en": "Your stars are for three steady, easy holds. A vibrato is described when it comes, and it can take days."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "vib-3-challenge",
+                    "title": {
+                        "en": "The rolling river"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Shenandoah's last long \"a-way\": hold it easy, and let it happen."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Listen to the line"
+                                    },
+                                    "detail": {
+                                        "en": "Away, I'm bound away"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Breathe before it"
+                                    },
+                                    "detail": {
+                                        "en": "A low, easy breath"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Let the long note float"
+                                    },
+                                    "detail": {
+                                        "en": "Wave or calm"
+                                    }
+                                }
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 63,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "a-"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 5,
+                                        "step": -5,
+                                        "lyric": "way"
+                                    }
+                                ],
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "After a bar of chords, sing \"a-way\", the long note easy."
+                            },
+                            "exercise": {
+                                "tempo": 63,
+                                "notes": [
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "a-"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 5,
+                                        "step": -5,
+                                        "lyric": "way"
+                                    }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {
+                                        "beat": 0,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "root": 5,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    }
+                                ],
+                                "score": "hold"
+                            },
+                            "measures": {
+                                "en": "Your stars are for the long note: on pitch and steady. A wave is welcome, never needed."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "vib-choose-it",
+            "title": {
+                "en": "Choose it"
+            },
+            "colour": 5,
+            "lessons": [
+                {
+                    "id": "vib-4-bloom",
+                    "title": {
+                        "en": "Straight, then bloom"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "The delayed vibrato: start straight, then let the wave in. If no wave comes yet, a straight start still counts."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Start straight"
+                                    },
+                                    "detail": {
+                                        "en": "Two calm seconds"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Then let go"
+                                    },
+                                    "detail": {
+                                        "en": "Don't push the wave in"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Let it settle"
+                                    },
+                                    "detail": {
+                                        "en": "Even to the end"
+                                    }
+                                }
+                            ],
+                            "visual": "vibrato",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 6,
+                                        "step": 0,
+                                        "lyric": "ah",
+                                        "vibrato": {
+                                            "hz": 5.5,
+                                            "cents": 30,
+                                            "after": 2,
+                                            "jitter": 0.2
+                                        }
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Hold \"ah\": straight for 2 seconds, then let the wave bloom."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 8,
+                                        "kind": "bloom",
+                                        "straight": 2
+                                    }
+                                ],
+                                "combo": false
+                            },
+                            "measures": {
+                                "en": "Your stars are for the straight start and the wave settling after it. No wave yet? The straight part still earns two stars."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "vib-4-switch",
+                    "title": {
+                        "en": "On and off"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Choose on each note: straight, or with a wave. Listen to each one first with Hear it."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Straight"
+                                    },
+                                    "detail": {
+                                        "en": "One calm line"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "A wave"
+                                    },
+                                    "detail": {
+                                        "en": "Small and even"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Your choice"
+                                    },
+                                    "detail": {
+                                        "en": "Note by note"
+                                    }
+                                }
+                            ],
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Note 1: straight."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 3,
+                                        "kind": "straight"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Note 2: let the wave in after a moment."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "bloom",
+                                        "straight": 1.5
+                                    }
+                                ],
+                                "combo": false
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Note 3: straight again."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 3,
+                                        "kind": "straight"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Your stars are for the last straight note: switching back is the skill."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "vib-4-style",
+                    "title": {
+                        "en": "One line, two styles"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A choir sings straight so the chords ring; a folk singer lets the voice move. Same line, both ways."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "The Water Is Wide"
+                                    },
+                                    "detail": {
+                                        "en": "Its first line"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "First: straight"
+                                    },
+                                    "detail": {
+                                        "en": "Like a choir"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Then: free"
+                                    },
+                                    "detail": {
+                                        "en": "Let the long notes move"
+                                    }
+                                }
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "The line, straight, like a choir."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "The"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "wa-"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "ter"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 0.5,
+                                        "step": 2,
+                                        "lyric": "is"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 4,
+                                        "step": 4,
+                                        "lyric": "wide"
+                                    }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {
+                                        "beat": 0,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    }
+                                ],
+                                "score": "straight"
+                            },
+                            "measures": {
+                                "en": "Your stars are for keeping the long notes straight."
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Now free: the same line, and let \"wide\" move if it wants to."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "The"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "wa-"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "ter"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 0.5,
+                                        "step": 2,
+                                        "lyric": "is"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 4,
+                                        "step": 4,
+                                        "lyric": "wide"
+                                    }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {
+                                        "beat": 0,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    }
+                                ],
+                                "score": "hold",
+                                "show": "vibrato"
+                            },
+                            "measures": {
+                                "en": "Your stars are for the notes and an easy long \"wide\". Listen back to the two."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "vib-4-challenge",
+                    "title": {
+                        "en": "The water is wide"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Everything at once: straight starts, and the long note blooming. Then hear how far you've come."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Start each note straight"
+                                    },
+                                    "detail": {
+                                        "en": "Unit 1"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Even, easy waves"
+                                    },
+                                    "detail": {
+                                        "en": "Units 2 and 3"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Bloom on the long note"
+                                    },
+                                    "detail": {
+                                        "en": "Unit 4"
+                                    }
+                                }
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "First, the long note alone: straight for 2 seconds, then let it bloom."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 4,
+                                "lyric": "wide",
+                                "drone": {
+                                    "step": 4
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 7,
+                                        "kind": "bloom",
+                                        "straight": 2
+                                    }
+                                ],
+                                "combo": false
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Now the whole line, the long \"wide\" blooming at the end."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "The"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "wa-"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "ter"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 0.5,
+                                        "step": 2,
+                                        "lyric": "is"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 6,
+                                        "step": 4,
+                                        "lyric": "wide"
+                                    }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {
+                                        "beat": 0,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    }
+                                ],
+                                "score": "hold",
+                                "show": "vibrato"
+                            },
+                            "measures": {
+                                "en": "Your stars are for the line on pitch and the long note held. Listen back, then compare with your first wave in lesson 1."
                             }
                         }
                     ]
