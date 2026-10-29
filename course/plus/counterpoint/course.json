@@ -293,7 +293,8 @@
                             },
                             "measures": {"en": "Your stars are for the rounds you heard right the first time."}
                         }
-                    ]
+                    ],
+                    "strictness": "relaxed"
                 },
                 {
                     "id": "cp-1-pedal",
@@ -407,7 +408,8 @@
                             },
                             "measures": {"en": "Your stars are for how long and how steadily you held your note while the tune moved."}
                         }
-                    ]
+                    ],
+                    "strictness": "relaxed"
                 },
                 {
                     "id": "cp-1-ostinato",
@@ -490,7 +492,8 @@
                             },
                             "measures": {"en": "Your stars are for your pattern's notes on pitch while the other line moved."}
                         }
-                    ]
+                    ],
+                    "strictness": "relaxed"
                 },
                 {
                     "id": "cp-1-challenge",
@@ -562,7 +565,8 @@
                             },
                             "measures": {"en": "Your stars are for your notes on pitch, the long one too. Could you still hear the tune while you held the floor?"}
                         }
-                    ]
+                    ],
+                    "strictness": "relaxed"
                 }
             ]
         },
@@ -1955,6 +1959,983 @@
                                 ]
                             },
                             "measures": {"en": "Your stars are for the descant's notes on pitch and the last long note. Could you hear the tune under you?"}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cp-note-against-note",
+            "title": {"en": "Note against note"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "cp-4-consonance",
+                    "title": {"en": "Smooth and rubbing"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Some notes sound smooth together, some rub. In this style unisons, thirds, fifths, sixths and octaves are smooth; seconds, fourths and sevenths rub, and a rub wants to move."},
+                            "steps": [
+                                {"title": {"en": "A third"}, "detail": {"en": "Do to mi: skip one note"}},
+                                {"title": {"en": "A fifth, a sixth, an octave"}, "detail": {"en": "Do to so, to la, to do"}},
+                                {"title": {"en": "A rub"}, "detail": {"en": "Re over do: it leans, then steps home"}}
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": -8},
+                                    {"beat": 2, "length": 2, "step": -5},
+                                    {"beat": 4, "length": 2, "step": -3},
+                                    {"beat": 6, "length": 2, "step": 0},
+                                    {"beat": 8, "length": 2, "step": 2},
+                                    {"beat": 10, "length": 2, "step": 0}
+                                ],
+                                "turn": false,
+                                "drone": {"step": -12}
+                            },
+                            "visual": "drone",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "The notes over the low drone, at your own pace."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": -8},
+                                    {"beat": 2, "length": 2, "step": -5},
+                                    {"beat": 4, "length": 2, "step": -3},
+                                    {"beat": 6, "length": 2, "step": 0},
+                                    {"beat": 8, "length": 2, "step": 2},
+                                    {"beat": 10, "length": 2, "step": 0}
+                                ],
+                                "drone": {"step": -12}
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Over a low do, sing a third, a fifth, a sixth and an octave, then the rub, re, and step down home."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 2, "length": 2, "step": -8},
+                                    {"beat": 4, "length": 2, "step": -5},
+                                    {"beat": 6, "length": 2, "step": -3},
+                                    {"beat": 8, "length": 2, "step": 0},
+                                    {"beat": 10, "length": 2, "step": 2},
+                                    {"beat": 12, "length": 2, "step": 0}
+                                ],
+                                "turn": false,
+                                "drone": {"step": -12}
+                            },
+                            "measures": {"en": "Your stars are for each interval on pitch over the drone, the rub too."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cp-4-motion",
+                    "title": {"en": "Ways to move"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Two voices can move the same way, opposite ways, or one can hold while the other moves. Opposite ways keeps them most independent."},
+                            "steps": [
+                                {"title": {"en": "Similar"}, "detail": {"en": "The same way (parallel, if the distance stays)"}},
+                                {"title": {"en": "Contrary"}, "detail": {"en": "Opposite ways"}},
+                                {"title": {"en": "Oblique"}, "detail": {"en": "One holds, one moves"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen, then choose how the voices moved."},
+                            "exercise": {
+                                "tempo": 80,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "How did the two voices move?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 4},
+                                                    {"beat": 1, "length": 1, "step": 5},
+                                                    {"beat": 2, "length": 1, "step": 7},
+                                                    {"beat": 0, "length": 1, "step": -12},
+                                                    {"beat": 1, "length": 1, "step": -10},
+                                                    {"beat": 2, "length": 1, "step": -8}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "The same way"}, {"en": "Opposite ways"}, {"en": "One held"}],
+                                        "answer": 0,
+                                        "why": {"en": "Both climbed together: similar motion. When they keep the same distance, it's parallel."}
+                                    },
+                                    {
+                                        "prompt": {"en": "How did the two voices move?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 7},
+                                                    {"beat": 1, "length": 1, "step": 5},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 0, "length": 1, "step": -12},
+                                                    {"beat": 1, "length": 1, "step": -10},
+                                                    {"beat": 2, "length": 1, "step": -8}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "The same way"}, {"en": "Opposite ways"}, {"en": "One held"}],
+                                        "answer": 1,
+                                        "why": {"en": "One climbed while the other fell: contrary motion, the surest way to sound like two voices."}
+                                    },
+                                    {
+                                        "prompt": {"en": "How did the two voices move?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 4},
+                                                    {"beat": 1, "length": 1, "step": 4},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 0, "length": 1, "step": -12},
+                                                    {"beat": 1, "length": 1, "step": -10},
+                                                    {"beat": 2, "length": 1, "step": -8}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "The same way"}, {"en": "Opposite ways"}, {"en": "One held"}],
+                                        "answer": 2,
+                                        "why": {"en": "The top held while the bottom climbed: oblique motion."}
+                                    },
+                                    {
+                                        "prompt": {"en": "How did the two voices move?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 0, "length": 1, "step": -8},
+                                                    {"beat": 1, "length": 1, "step": -10},
+                                                    {"beat": 2, "length": 1, "step": -12}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "The same way"}, {"en": "Opposite ways"}, {"en": "One held"}],
+                                        "answer": 1,
+                                        "why": {"en": "Up against down again: contrary motion."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one moves in fifths?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 7},
+                                                    {"beat": 1, "length": 1, "step": 9},
+                                                    {"beat": 2, "length": 1, "step": 11},
+                                                    {"beat": 3, "length": 1, "step": 12},
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 5}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 4},
+                                                    {"beat": 1, "length": 1, "step": 5},
+                                                    {"beat": 2, "length": 1, "step": 7},
+                                                    {"beat": 3, "length": 1, "step": 9},
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 5}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "A moves in fifths: the two voices fuse into one hollow sound, like medieval chant. B's thirds keep them two."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one moves in fifths?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 9},
+                                                    {"beat": 1, "length": 1, "step": 11},
+                                                    {"beat": 2, "length": 1, "step": 12},
+                                                    {"beat": 3, "length": 1, "step": 11},
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 2}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 7},
+                                                    {"beat": 1, "length": 1, "step": 9},
+                                                    {"beat": 2, "length": 1, "step": 11},
+                                                    {"beat": 3, "length": 1, "step": 9},
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 2}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "B moves in fifths and sounds bare. A moves in sixths, sweet and full. That's why counterpoint avoids parallel fifths."}
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Contrary motion: the guide climbs do re mi up high while you fall mi re do."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "listenOnly": true},
+                                    {"beat": 4, "length": 2, "step": 4, "lyric": "ah"},
+                                    {"beat": 6, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 8, "length": 2, "step": 0, "lyric": "ah"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 2, "step": 12},
+                                            {"beat": 6, "length": 2, "step": 14},
+                                            {"beat": 8, "length": 2, "step": 16}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for your falling line on pitch while the guide climbed."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cp-4-first",
+                    "title": {"en": "First species"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Note against note: start and end on an octave, sing only smooth intervals, move mostly by step, and prefer opposite ways. Haydn, Mozart and Beethoven learned counterpoint like this."},
+                            "steps": [
+                                {"title": {"en": "The cantus"}, "detail": {"en": "A slow tune, an octave below you"}},
+                                {"title": {"en": "Your line"}, "detail": {"en": "One note to each of its notes"}},
+                                {"title": {"en": "This line"}, "detail": {"en": "Moves contrary six times of eight"}}
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 2, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 4, "length": 2, "step": -3, "lyric": "ah"},
+                                    {"beat": 6, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 8, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 10, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 12, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 14, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 16, "length": 2, "step": 0, "lyric": "ah"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0, "length": 2, "step": -12},
+                                            {"beat": 2, "length": 2, "step": -10},
+                                            {"beat": 4, "length": 2, "step": -7},
+                                            {"beat": 6, "length": 2, "step": -8},
+                                            {"beat": 8, "length": 2, "step": -5},
+                                            {"beat": 10, "length": 2, "step": -7},
+                                            {"beat": 12, "length": 2, "step": -8},
+                                            {"beat": 14, "length": 2, "step": -10},
+                                            {"beat": 16, "length": 2, "step": -12}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Your line, at your own pace."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 2, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 4, "length": 2, "step": -3, "lyric": "ah"},
+                                    {"beat": 6, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 8, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 10, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 12, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 14, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 16, "length": 2, "step": 0, "lyric": "ah"}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "After the guide's do, sing your line against the cantus."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "listenOnly": true},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 6, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 8, "length": 2, "step": -3, "lyric": "ah"},
+                                    {"beat": 10, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 12, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 14, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 16, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 18, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 20, "length": 2, "step": 0, "lyric": "ah"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 2, "step": -12},
+                                            {"beat": 6, "length": 2, "step": -10},
+                                            {"beat": 8, "length": 2, "step": -7},
+                                            {"beat": 10, "length": 2, "step": -8},
+                                            {"beat": 12, "length": 2, "step": -5},
+                                            {"beat": 14, "length": 2, "step": -7},
+                                            {"beat": 16, "length": 2, "step": -8},
+                                            {"beat": 18, "length": 2, "step": -10},
+                                            {"beat": 20, "length": 2, "step": -12}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for your line's notes on pitch against the cantus. This line moves contrary six times of eight, with no parallel fifths or octaves."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cp-4-second",
+                    "title": {"en": "Two against one"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Two notes to each cantus note. The first must sound smooth; the second may rub if it's on its way somewhere by step: a passing note."},
+                            "steps": [
+                                {"title": {"en": "Strong beat"}, "detail": {"en": "A smooth interval"}},
+                                {"title": {"en": "Weak beat"}, "detail": {"en": "Smooth, or a step passing through"}},
+                                {"title": {"en": "The ending"}, "detail": {"en": "La, ti, do"}}
+                            ],
+                            "listen": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -5, "lyric": "ah"},
+                                    {"beat": 1, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 2, "length": 1, "step": -1, "lyric": "ah"},
+                                    {"beat": 3, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "ah"},
+                                    {"beat": 5, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 6, "length": 1, "step": -5, "lyric": "ah"},
+                                    {"beat": 7, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 8, "length": 1, "step": -1, "lyric": "ah"},
+                                    {"beat": 9, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "ah"},
+                                    {"beat": 11, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 12, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 13, "length": 1, "step": -5, "lyric": "ah"},
+                                    {"beat": 14, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 15, "length": 1, "step": -1, "lyric": "ah"},
+                                    {"beat": 16, "length": 2, "step": 0, "lyric": "ah"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0, "length": 2, "step": -12},
+                                            {"beat": 2, "length": 2, "step": -10},
+                                            {"beat": 4, "length": 2, "step": -7},
+                                            {"beat": 6, "length": 2, "step": -8},
+                                            {"beat": 8, "length": 2, "step": -5},
+                                            {"beat": 10, "length": 2, "step": -7},
+                                            {"beat": 12, "length": 2, "step": -8},
+                                            {"beat": 14, "length": 2, "step": -10},
+                                            {"beat": 16, "length": 2, "step": -12}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Your line, at your own pace."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -5, "lyric": "ah"},
+                                    {"beat": 1, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 2, "length": 1, "step": -1, "lyric": "ah"},
+                                    {"beat": 3, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "ah"},
+                                    {"beat": 5, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 6, "length": 1, "step": -5, "lyric": "ah"},
+                                    {"beat": 7, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 8, "length": 1, "step": -1, "lyric": "ah"},
+                                    {"beat": 9, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "ah"},
+                                    {"beat": 11, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 12, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 13, "length": 1, "step": -5, "lyric": "ah"},
+                                    {"beat": 14, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 15, "length": 1, "step": -1, "lyric": "ah"},
+                                    {"beat": 16, "length": 2, "step": 0, "lyric": "ah"}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "After the guide's do, sing two notes to each of the cantus's."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "listenOnly": true},
+                                    {"beat": 4, "length": 1, "step": -5, "lyric": "ah"},
+                                    {"beat": 5, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 6, "length": 1, "step": -1, "lyric": "ah"},
+                                    {"beat": 7, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 8, "length": 1, "step": 2, "lyric": "ah"},
+                                    {"beat": 9, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 10, "length": 1, "step": -5, "lyric": "ah"},
+                                    {"beat": 11, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 12, "length": 1, "step": -1, "lyric": "ah"},
+                                    {"beat": 13, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 14, "length": 1, "step": 2, "lyric": "ah"},
+                                    {"beat": 15, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 16, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 17, "length": 1, "step": -5, "lyric": "ah"},
+                                    {"beat": 18, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 19, "length": 1, "step": -1, "lyric": "ah"},
+                                    {"beat": 20, "length": 2, "step": 0, "lyric": "ah"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 2, "step": -12},
+                                            {"beat": 6, "length": 2, "step": -10},
+                                            {"beat": 8, "length": 2, "step": -7},
+                                            {"beat": 10, "length": 2, "step": -8},
+                                            {"beat": 12, "length": 2, "step": -5},
+                                            {"beat": 14, "length": 2, "step": -7},
+                                            {"beat": 16, "length": 2, "step": -8},
+                                            {"beat": 18, "length": 2, "step": -10},
+                                            {"beat": 20, "length": 2, "step": -12}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for your line's notes on pitch, the passing notes too."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cp-4-challenge",
+                    "title": {"en": "A new cantus"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A cantus you haven't heard, with a line written to the same rules. Hold your own against it."},
+                            "steps": [
+                                {"title": {"en": "New cantus"}, "detail": {"en": "Do fa mi re so fa mi re do"}},
+                                {"title": {"en": "Its line"}, "detail": {"en": "Do la do re ti re do ti do"}},
+                                {"title": {"en": "Listen down"}, "detail": {"en": "Could you hear the cantus as you sang?"}}
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 2, "length": 2, "step": -3, "lyric": "ah"},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 6, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 8, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 10, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 12, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 14, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 16, "length": 2, "step": 0, "lyric": "ah"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0, "length": 2, "step": -12},
+                                            {"beat": 2, "length": 2, "step": -7},
+                                            {"beat": 4, "length": 2, "step": -8},
+                                            {"beat": 6, "length": 2, "step": -10},
+                                            {"beat": 8, "length": 2, "step": -5},
+                                            {"beat": 10, "length": 2, "step": -7},
+                                            {"beat": 12, "length": 2, "step": -8},
+                                            {"beat": 14, "length": 2, "step": -10},
+                                            {"beat": 16, "length": 2, "step": -12}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "After the guide's do, sing the line against the new cantus."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "listenOnly": true},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 6, "length": 2, "step": -3, "lyric": "ah"},
+                                    {"beat": 8, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 10, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 12, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 14, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 16, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 18, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 20, "length": 2, "step": 0, "lyric": "ah"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 2, "step": -12},
+                                            {"beat": 6, "length": 2, "step": -7},
+                                            {"beat": 8, "length": 2, "step": -8},
+                                            {"beat": 10, "length": 2, "step": -10},
+                                            {"beat": 12, "length": 2, "step": -5},
+                                            {"beat": 14, "length": 2, "step": -7},
+                                            {"beat": 16, "length": 2, "step": -8},
+                                            {"beat": 18, "length": 2, "step": -10},
+                                            {"beat": 20, "length": 2, "step": -12}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for your notes on pitch. Could you hear the cantus under you while you sang?"}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cp-make-your-own",
+            "title": {"en": "Make your own"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "cp-5-yours",
+                    "title": {"en": "Your choice"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now you choose. At each cantus note, every smooth note in your range lights up: sing any one of them."},
+                            "steps": [
+                                {"title": {"en": "Every lit note works"}, "detail": {"en": "Thirds, fifths, sixths and octaves"}},
+                                {"title": {"en": "Move against it"}, "detail": {"en": "Opposite ways, as often as you can"}},
+                                {"title": {"en": "A dimmed note"}, "detail": {"en": "Would make parallel fifths or octaves"}}
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 2, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 4, "length": 2, "step": -3, "lyric": "ah"},
+                                    {"beat": 6, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 8, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 10, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 12, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 14, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 16, "length": 2, "step": 0, "lyric": "ah"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0, "length": 2, "step": -12},
+                                            {"beat": 2, "length": 2, "step": -10},
+                                            {"beat": 4, "length": 2, "step": -7},
+                                            {"beat": 6, "length": 2, "step": -8},
+                                            {"beat": 8, "length": 2, "step": -5},
+                                            {"beat": 10, "length": 2, "step": -7},
+                                            {"beat": 12, "length": 2, "step": -8},
+                                            {"beat": 14, "length": 2, "step": -10},
+                                            {"beat": 16, "length": 2, "step": -12}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Slowly: at each note of the cantus, sing any lit note. Make your own line."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "listenOnly": true},
+                                    {
+                                        "beat": 4,
+                                        "length": 4,
+                                        "step": 0,
+                                        "choices": [0, -5],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 4,
+                                        "step": -7,
+                                        "choices": [-7, -3, -1, 2, 5],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 4,
+                                        "step": -3,
+                                        "choices": [-3, 0, 2, 5],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 16,
+                                        "length": 4,
+                                        "step": -5,
+                                        "choices": [-5, -1, 0, 4],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 20,
+                                        "length": 4,
+                                        "step": -1,
+                                        "choices": [-1, 2, 4],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 24,
+                                        "length": 4,
+                                        "step": -3,
+                                        "choices": [-3, 0, 2, 5],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 28,
+                                        "length": 4,
+                                        "step": -5,
+                                        "choices": [-5, -1, 0, 4],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 32,
+                                        "length": 4,
+                                        "step": -1,
+                                        "choices": [-1],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 36,
+                                        "length": 4,
+                                        "step": 0,
+                                        "choices": [0],
+                                        "lyric": "ah"
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 4, "step": -12},
+                                            {"beat": 8, "length": 4, "step": -10},
+                                            {"beat": 12, "length": 4, "step": -7},
+                                            {"beat": 16, "length": 4, "step": -8},
+                                            {"beat": 20, "length": 4, "step": -5},
+                                            {"beat": 24, "length": 4, "step": -7},
+                                            {"beat": 28, "length": 4, "step": -8},
+                                            {"beat": 32, "length": 4, "step": -10},
+                                            {"beat": 36, "length": 4, "step": -12}
+                                        ]
+                                    }
+                                ],
+                                "score": "species",
+                                "rules": "contrary"
+                            },
+                            "measures": {"en": "Landing on a lit note is the easy part: your stars are for that, and three need at least three moves in opposite ways. Read your line's checklist above."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cp-5-hold",
+                    "title": {"en": "Hold on, then let go"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Hold a note into the next chord, where it rubs, then fall a step: a suspension, one of the oldest ways to make a listener lean in."},
+                            "steps": [
+                                {"title": {"en": "Hold do"}, "detail": {"en": "While the bass moves under you"}},
+                                {"title": {"en": "Feel the rub"}, "detail": {"en": "Do against so and re"}},
+                                {"title": {"en": "Then let go"}, "detail": {"en": "Step down to ti, then home to do"}}
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 6, "step": 0, "lyric": "ah"},
+                                    {"beat": 6, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 8, "length": 4, "step": 0, "lyric": "ah"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0, "length": 4, "step": -12},
+                                            {"beat": 4, "length": 4, "step": -17},
+                                            {"beat": 8, "length": 4, "step": -12},
+                                            {"beat": 4, "length": 4, "step": -10}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "visual": "drone",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Two ways to move. Listen to both, then choose."},
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one holds on into the rub?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 4, "step": 0},
+                                                    {"beat": 4, "length": 4, "step": -1},
+                                                    {"beat": 8, "length": 4, "step": 0},
+                                                    {"beat": 0, "length": 4, "step": -12},
+                                                    {"beat": 4, "length": 4, "step": -17},
+                                                    {"beat": 4, "length": 4, "step": -10},
+                                                    {"beat": 8, "length": 4, "step": -12}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 6, "step": 0},
+                                                    {"beat": 6, "length": 2, "step": -1},
+                                                    {"beat": 8, "length": 4, "step": 0},
+                                                    {"beat": 0, "length": 4, "step": -12},
+                                                    {"beat": 4, "length": 4, "step": -17},
+                                                    {"beat": 4, "length": 4, "step": -10},
+                                                    {"beat": 8, "length": 4, "step": -12}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "B holds do over the new chord, where it rubs, then lets go. A steps down as the chord changes: smooth, but no lean."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one do you like better?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 6, "step": 0},
+                                                    {"beat": 6, "length": 2, "step": -1},
+                                                    {"beat": 8, "length": 4, "step": 0},
+                                                    {"beat": 0, "length": 4, "step": -12},
+                                                    {"beat": 4, "length": 4, "step": -17},
+                                                    {"beat": 4, "length": 4, "step": -10},
+                                                    {"beat": 8, "length": 4, "step": -12}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 4, "step": 0},
+                                                    {"beat": 4, "length": 4, "step": -1},
+                                                    {"beat": 8, "length": 4, "step": 0},
+                                                    {"beat": 0, "length": 4, "step": -12},
+                                                    {"beat": 4, "length": 4, "step": -17},
+                                                    {"beat": 4, "length": 4, "step": -10},
+                                                    {"beat": 8, "length": 4, "step": -12}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "A, the suspension"}, {"en": "B, straight down"}],
+                                        "answer": 0,
+                                        "why": {"en": "Composers have loved the suspension for 500 years. Next, you sing it."}
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hold do while the bass moves, feel the rub, then step to ti and home to do."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "listenOnly": true},
+                                    {"beat": 4, "length": 6, "step": 0, "lyric": "ah"},
+                                    {"beat": 10, "length": 2, "step": -1, "lyric": "ah"},
+                                    {"beat": 12, "length": 4, "step": 0, "lyric": "ah"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 4, "step": -12},
+                                            {"beat": 8, "length": 4, "step": -17},
+                                            {"beat": 12, "length": 4, "step": -12}
+                                        ]
+                                    },
+                                    {
+                                        "notes": [{"beat": 8, "length": 4, "step": -10}],
+                                        "volume": 0.4
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for your notes on pitch, the held one too."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cp-5-challenge",
+                    "title": {"en": "Write a counterpoint"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A new cantus, and every note is your choice. Make a line by the rules, then listen to the duet you wrote."},
+                            "steps": [
+                                {"title": {"en": "Every note lit"}, "detail": {"en": "Choose as you go"}},
+                                {"title": {"en": "By the rules"}, "detail": {"en": "Half your moves opposite, no parallel fifths or octaves"}},
+                                {"title": {"en": "The ending"}, "detail": {"en": "Ti to do"}}
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": -12},
+                                    {"beat": 2, "length": 2, "step": -10},
+                                    {"beat": 4, "length": 2, "step": -7},
+                                    {"beat": 6, "length": 2, "step": -8},
+                                    {"beat": 8, "length": 2, "step": -3},
+                                    {"beat": 10, "length": 2, "step": -5},
+                                    {"beat": 12, "length": 2, "step": -8},
+                                    {"beat": 14, "length": 2, "step": -7},
+                                    {"beat": 16, "length": 2, "step": -10},
+                                    {"beat": 18, "length": 2, "step": -12}
+                                ],
+                                "turn": false
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Slowly: at each note of the cantus, choose a lit note. Then hear your duet."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "listenOnly": true},
+                                    {
+                                        "beat": 4,
+                                        "length": 4,
+                                        "step": 0,
+                                        "choices": [0, -5],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 4,
+                                        "step": -7,
+                                        "choices": [-7, -3, -1, 2, 5],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 4,
+                                        "step": -3,
+                                        "choices": [-3, 0, 2, 5],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 16,
+                                        "length": 4,
+                                        "step": -5,
+                                        "choices": [-5, -1, 0, 4],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 20,
+                                        "length": 4,
+                                        "step": 0,
+                                        "choices": [0, 4, 5],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 24,
+                                        "length": 4,
+                                        "step": -1,
+                                        "choices": [-1, 2, 4],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 28,
+                                        "length": 4,
+                                        "step": -5,
+                                        "choices": [-5, -1, 0, 4],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 32,
+                                        "length": 4,
+                                        "step": -3,
+                                        "choices": [-3, 0, 2, 5],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 36,
+                                        "length": 4,
+                                        "step": -1,
+                                        "choices": [-1],
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 40,
+                                        "length": 4,
+                                        "step": 0,
+                                        "choices": [0],
+                                        "lyric": "ah"
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 4, "step": -12},
+                                            {"beat": 8, "length": 4, "step": -10},
+                                            {"beat": 12, "length": 4, "step": -7},
+                                            {"beat": 16, "length": 4, "step": -8},
+                                            {"beat": 20, "length": 4, "step": -3},
+                                            {"beat": 24, "length": 4, "step": -5},
+                                            {"beat": 28, "length": 4, "step": -8},
+                                            {"beat": 32, "length": 4, "step": -7},
+                                            {"beat": 36, "length": 4, "step": -10},
+                                            {"beat": 40, "length": 4, "step": -12}
+                                        ]
+                                    }
+                                ],
+                                "score": "species",
+                                "rules": "all"
+                            },
+                            "measures": {"en": "Three stars need every rule: every note lit, half your moves opposite ways, no parallel fifths or octaves, and ti to do at the end. Lesson 1, you sang a round. Today you wrote a line."}
                         }
                     ]
                 }
