@@ -16,11 +16,9 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "A plain tune and a styled one are the same notes. The difference is a few small moves, like a scoop up into a note."
-                            },
+                            "headline": { "en": "A plain tune and a styled one are the same notes. The difference is a few small moves, like a scoop up into a note." },
                             "steps": [
-                                { "title": { "en": "Listen to the line" }, "detail": { "en": "Down in the Valley, with a scoop into \"val-\"" } },
+                                { "title": { "en": "Listen to the line" }, "detail": { "en": "Down in the Valley, a traditional song, with a scoop into \"val-\"" } },
                                 { "title": { "en": "Small and light" }, "detail": { "en": "Medium volume, the middle of your voice" } },
                                 {
                                     "title": { "en": "Look after your voice" },
@@ -55,13 +53,7 @@
                         {
                             "kind": "try",
                             "text": { "en": "The scoop on its own: start a little below \"val-\" and slide up into it." },
-                            "exercise": {
-                                "tempo": 96,
-                                "notes": [
-                                    { "beat": 0, "length": 3, "step": 4, "lyric": "val-", "style": "scoop" }
-                                ],
-                                "turn": false
-                            }
+                            "exercise": { "tempo": 96, "notes": [{ "beat": 0, "length": 3, "step": 4, "lyric": "val-", "style": "scoop" }], "turn": false }
                         },
                         {
                             "kind": "play",
@@ -110,11 +102,10 @@
                                     { "beat": 30, "root": 0, "quality": "maj", "bass": null }
                                 ],
                                 "score": "styled",
-                                "window": 0.5
+                                "window": 0.5,
+                                "generous": true
                             },
-                            "measures": {
-                                "en": "Your stars are for the scoop and the notes. Listen back to both takes: same notes, different song. Next: the scoop, up close."
-                            }
+                            "measures": { "en": "Your stars are for the scoop and the notes. Listen back to both takes: same notes, different song. Next: the scoop, up close." }
                         }
                     ]
                 },
@@ -124,9 +115,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "A scoop slides up into a note from a little below, on purpose. Done well it sounds meant, not missed."
-                            },
+                            "headline": { "en": "A scoop slides up into a note from a little below, on purpose. Done well it sounds meant, not missed." },
                             "steps": [
                                 { "title": { "en": "From below" }, "detail": { "en": "A semitone to a third under the note" } },
                                 { "title": { "en": "Quick or lazy" }, "detail": { "en": "A flick, or a slow, easy rise" } },
@@ -211,9 +200,7 @@
                                 "score": "styled",
                                 "window": 0.5
                             },
-                            "measures": {
-                                "en": "Your stars are for the scoops and the notes they land on. Did they sound meant, not missed? Next: the fall-off."
-                            }
+                            "measures": { "en": "Your stars are for the scoops and the notes they land on. Did they sound meant, not missed? Next: the fall-off." }
                         }
                     ]
                 },
@@ -223,9 +210,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "A fall-off lets the end of a note drop away. Let the pitch go and keep the breath steady, never a collapse into a creak."
-                            },
+                            "headline": { "en": "A fall-off lets the end of a note drop away. Let the pitch go and keep the breath steady, never a collapse into a creak." },
                             "steps": [
                                 { "title": { "en": "Hold, then let go" }, "detail": { "en": "The note first, the fall at its end" } },
                                 { "title": { "en": "Longer notes" }, "detail": { "en": "Hold, then let each end drop away" } },
@@ -414,9 +399,7 @@
                                 ],
                                 "score": "styled"
                             },
-                            "measures": {
-                                "en": "Your stars are for the moves asked for and the notes. Listen back: did they sound meant? Next: the slide."
-                            }
+                            "measures": { "en": "Your stars are for the moves asked for and the notes. Listen back: did they sound meant? Next: the slide." }
                         }
                     ]
                 }
@@ -439,10 +422,7 @@
                             "steps": [
                                 { "title": { "en": "On one breath" }, "detail": { "en": "The two notes joined, no gap" } },
                                 { "title": { "en": "Through the middle" }, "detail": { "en": "Every pitch between, evenly" } },
-                                {
-                                    "title": { "en": "Look after your voice" },
-                                    "detail": { "en": "Stop if anything tightens, tickles or hurts; rest when hoarse" }
-                                }
+                                { "title": { "en": "Look after your voice" }, "detail": { "en": "Stop if anything tightens, tickles or hurts; rest when hoarse" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -610,9 +590,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "Four moves so far: a scoop, a fall-off, a slide and a cry. Can you tell them apart, and hear when they're too many?"
-                            },
+                            "headline": { "en": "Four moves so far: a scoop, a fall-off, a slide and a cry. Can you tell them apart, and hear when they're too many?" },
                             "steps": [
                                 { "title": { "en": "Listen to the line" }, "detail": { "en": "Each round has one move" } },
                                 { "title": { "en": "Pick the move" }, "detail": { "en": "Only your first answer counts" } },
@@ -808,18 +786,13 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "A cowboy lament, styled: a slide from \"not\", a light cry on \"lone\", a scoop into \"low\" and a fall-off at the end."
-                            },
+                            "headline": { "en": "A cowboy lament, styled: a slide from \"not\", a light cry on \"lone\", a scoop into \"low\" and a fall-off at the end." },
                             "steps": [
                                 {
                                     "title": { "en": "Bury Me Not on the Lone Prairie" },
-                                    "detail": { "en": "A cowboy song, words collected in 1910" }
+                                    "detail": { "en": "Words collected in 1910, to The Ocean Burial, George N. Allen's 1839 tune" }
                                 },
-                                {
-                                    "title": { "en": "Long notes, long moves" },
-                                    "detail": { "en": "The slide, the scoop and the fall sit on five-beat notes" }
-                                },
+                                { "title": { "en": "Long notes, long moves" }, "detail": { "en": "The slide, the scoop and the fall sit on five-beat notes" } },
                                 { "title": { "en": "The cry is light" }, "detail": { "en": "A flick, never a hard catch" } }
                             ],
                             "visual": "phrase",
@@ -920,9 +893,7 @@
                                 ],
                                 "score": "styled"
                             },
-                            "measures": {
-                                "en": "Your stars are for the moves asked for and the notes. Listen back: did the long notes carry them? Next: tone colours."
-                            }
+                            "measures": { "en": "Your stars are for the moves asked for and the notes. Listen back: did the long notes carry them? Next: tone colours." }
                         }
                     ]
                 }
@@ -939,9 +910,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "The same line can be breathy, bright or twangy. These are tone colours: we can't score them yet, so you'll be the judge."
-                            },
+                            "headline": { "en": "The same line can be breathy, bright or twangy. These are tone colours: we can't score them yet, so you'll be the judge." },
                             "steps": [
                                 { "title": { "en": "Breathy" }, "detail": { "en": "A little air, quiet and close; water nearby" } },
                                 { "title": { "en": "Bright" }, "detail": { "en": "A clear ring from the vowel, never louder" } },
@@ -949,6 +918,31 @@
                             ],
                             "visual": "dynamics",
                             "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "First the line plain, over the chords: the colours come next." },
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    { "beat": 3, "length": 1, "step": -5, "lyric": "Down" },
+                                    { "beat": 4, "length": 1, "step": 0, "lyric": "in" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "the" },
+                                    { "beat": 6, "length": 3, "step": 4, "lyric": "val-" },
+                                    { "beat": 9, "length": 3, "step": 0, "lyric": "ley," },
+                                    { "beat": 12, "length": 1, "step": 4, "lyric": "val-" },
+                                    { "beat": 13, "length": 1, "step": 2, "lyric": "ley" },
+                                    { "beat": 14, "length": 1, "step": 0, "lyric": "so" },
+                                    { "beat": 15, "length": 3, "step": 2, "lyric": "low," }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 15, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 30, "root": 0, "quality": "maj", "bass": null }
+                                ]
+                            },
+                            "measures": { "en": "Your stars are for the plain line's notes; the colours that follow are yours to judge. Next: the crooner." }
                         },
                         {
                             "kind": "selfcheck",
@@ -984,9 +978,7 @@
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {
-                                "en": "Now bright: a clear, forward ring from the vowel and a slight smile, never from more volume. This isn't belting."
-                            },
+                            "text": { "en": "Now bright: a clear, forward ring from the vowel and a slight smile, never from more volume. This isn't belting." },
                             "exercise": {
                                 "tempo": 96,
                                 "lead": 3,
@@ -1039,13 +1031,10 @@
                                     ]
                                 },
                                 "questions": [
-                                    {
-                                        "en": "Pinch your nose and sing it again: did it sound about the same? (If it changed a lot, it was nasal, not twang.)"
-                                    },
+                                    { "en": "Pinch your nose and sing it again: did it sound about the same? (If it changed a lot, it was nasal, not twang.)" },
                                     { "en": "Did one colour feel most like you? Keep it in mind for Your colour." }
                                 ]
-                            },
-                            "measures": { "en": "This lesson's stars are for practising: we don't score tone colour yet. Next: the crooner." }
+                            }
                         }
                     ]
                 },
@@ -1060,7 +1049,7 @@
                                 "en": "Crooning became popular when electric microphones arrived in the 1920s: quiet, close singing, a little air in it, and fall-offs at the ends of lines."
                             },
                             "steps": [
-                                { "title": { "en": "A little air" }, "detail": { "en": "Quiet and close, never a whisper" } },
+                                { "title": { "en": "Aura Lee" }, "detail": { "en": "Poulton and Fosdick, 1861: a little air, quiet and close, never a whisper" } },
                                 { "title": { "en": "Your phone is your mic" }, "detail": { "en": "Stay quiet; don't push to be heard" } },
                                 { "title": { "en": "Water nearby" }, "detail": { "en": "Breathy singing dries the voice" } }
                             ],
@@ -1192,10 +1181,7 @@
                             },
                             "steps": [
                                 { "title": { "en": "Start from \"nyeh\"" }, "detail": { "en": "Light and bratty, like teasing" } },
-                                {
-                                    "title": { "en": "The nose-pinch check" },
-                                    "detail": { "en": "If pinching your nose changes it a lot, it's nasal, not twang" }
-                                },
+                                { "title": { "en": "The nose-pinch check" }, "detail": { "en": "If pinching your nose changes it a lot, it's nasal, not twang" } },
                                 { "title": { "en": "Stop if it burns" }, "detail": { "en": "Twang is bright, never squeezed" } }
                             ],
                             "visual": "phrase",
@@ -1303,9 +1289,7 @@
                                 },
                                 "questions": [
                                     { "en": "Bright, not tight?" },
-                                    {
-                                        "en": "Pinch your nose and sing it again: did it sound about the same? (If it changed a lot, it was nasal, not twang.)"
-                                    }
+                                    { "en": "Pinch your nose and sing it again: did it sound about the same? (If it changed a lot, it was nasal, not twang.)" }
                                 ]
                             }
                         }
@@ -1319,9 +1303,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "Aura Lee's verse in the colour that felt most like you, with two slides from unit 2 and fall-offs at the line ends."
-                            },
+                            "headline": { "en": "Aura Lee's verse in the colour that felt most like you, with two slides from unit 2 and fall-offs at the line ends." },
                             "steps": [
                                 { "title": { "en": "Pick your colour" }, "detail": { "en": "Breathy, bright or a little twang" } },
                                 { "title": { "en": "Slides" }, "detail": { "en": "From \"bird\" and from \"him\"" } },
@@ -1458,9 +1440,7 @@
                                     { "beat": 32, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             },
-                            "measures": {
-                                "en": "Your stars are for the moves and the notes, judged gently. The colour is yours to judge: listen back. Next: where the moves go."
-                            }
+                            "measures": { "en": "Your stars are for the moves and the notes, judged gently. The colour is yours to judge: listen back. Next: where the moves go." }
                         }
                     ]
                 }
@@ -1477,9 +1457,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "A rule of thumb: moves on the long notes and the ends of lines, plain everywhere else. They mean more when they're rare."
-                            },
+                            "headline": { "en": "A rule of thumb: moves on the long notes and the ends of lines, plain everywhere else. They mean more when they're rare." },
                             "steps": [
                                 { "title": { "en": "Long notes" }, "detail": { "en": "Room for a move to be heard" } },
                                 { "title": { "en": "Line ends" }, "detail": { "en": "A fall-off or a cry to close" } },
@@ -1525,9 +1503,7 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {
-                                            "en": "A's moves were on \"val-\", \"ley\" and \"low\", the long ones. B's were on quick notes, where they blur."
-                                        }
+                                        "why": { "en": "A's moves were on \"val-\", \"ley\" and \"low\", the long ones. B's were on quick notes, where they blur." }
                                     },
                                     {
                                         "prompt": { "en": "Which one saved its move for the last word?" },
@@ -1630,31 +1606,33 @@
                                     }
                                 ]
                             },
-                            "measures": { "en": "Your stars are for the rounds you got right first time. Next: answer the guide back." }
+                            "measures": { "en": "Your stars are for the rounds you got right first time." }
                         },
                         {
-                            "kind": "try",
-                            "text": { "en": "Now the line your way: pick where your moves go, at your own pace." },
+                            "kind": "play",
+                            "text": { "en": "Now the line your way: two moves at most, on the long notes." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
-                                    { "beat": 0, "length": 1, "step": -5, "lyric": "Down" },
-                                    { "beat": 1, "length": 1, "step": 0, "lyric": "in" },
-                                    { "beat": 2, "length": 1, "step": 2, "lyric": "the" },
-                                    { "beat": 3, "length": 3, "step": 4, "lyric": "val-" },
-                                    { "beat": 6, "length": 3, "step": 0, "lyric": "ley," },
-                                    { "beat": 9, "length": 1, "step": 4, "lyric": "val-" },
-                                    { "beat": 10, "length": 1, "step": 2, "lyric": "ley" },
-                                    { "beat": 11, "length": 1, "step": 0, "lyric": "so" },
-                                    { "beat": 12, "length": 3, "step": 2, "lyric": "low," }
+                                    { "beat": 3, "length": 1, "step": -5, "lyric": "Down" },
+                                    { "beat": 4, "length": 1, "step": 0, "lyric": "in" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "the" },
+                                    { "beat": 6, "length": 3, "step": 4, "lyric": "val-" },
+                                    { "beat": 9, "length": 3, "step": 0, "lyric": "ley," },
+                                    { "beat": 12, "length": 1, "step": 4, "lyric": "val-" },
+                                    { "beat": 13, "length": 1, "step": 2, "lyric": "ley" },
+                                    { "beat": 14, "length": 1, "step": 0, "lyric": "so" },
+                                    { "beat": 15, "length": 3, "step": 2, "lyric": "low," }
                                 ],
                                 "turn": false,
                                 "chords": [
                                     { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
-                                ]
-                            }
+                                    { "beat": 15, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 30, "root": 0, "quality": "maj", "bass": null }
+                                ],
+                                "score": "styled"
+                            },
+                            "measures": { "en": "Your stars are for the notes and any move of yours we heard on a long note. Next: answer the guide back." }
                         }
                     ]
                 },
@@ -1666,7 +1644,7 @@
                             "kind": "learn",
                             "headline": { "en": "The guide styles a line its way; you answer the same notes with moves of your own." },
                             "steps": [
-                                { "title": { "en": "Listen to its moves" }, "detail": { "en": "Then choose different ones" } },
+                                { "title": { "en": "Listen to its moves" }, "detail": { "en": "Then answer with your own" } },
                                 { "title": { "en": "Any move counts" }, "detail": { "en": "One heard is enough" } },
                                 { "title": { "en": "Less is more" }, "detail": { "en": "Two or three, on long notes" } }
                             ],
@@ -1767,9 +1745,7 @@
                                     { "beat": 12, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             },
-                            "measures": {
-                                "en": "Your stars are for the notes and any move of yours we heard: never more for more. Next: your way, on a new tune."
-                            }
+                            "measures": { "en": "Your stars are for the notes and any move of yours we heard: never more for more. Next: your way, on a new tune." }
                         }
                     ]
                 },
@@ -1779,9 +1755,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "Beautiful Dreamer's first line, plain on the screen. Style it your way: a scoop, a fall-off, a slide or a cry."
-                            },
+                            "headline": { "en": "Beautiful Dreamer's first line, plain on the screen. Style it your way: a scoop, a fall-off, a slide or a cry." },
                             "steps": [
                                 { "title": { "en": "Beautiful Dreamer" }, "detail": { "en": "Stephen Foster, 1864" } },
                                 { "title": { "en": "Your palette" }, "detail": { "en": "Every move from the course" } },
@@ -1920,10 +1894,7 @@
                             "steps": [
                                 { "title": { "en": "Down in the Valley" }, "detail": { "en": "The whole verse, over chords" } },
                                 { "title": { "en": "Your moves, your colour" }, "detail": { "en": "Two or three moves, where they fit" } },
-                                {
-                                    "title": { "en": "Look after your voice" },
-                                    "detail": { "en": "Stop if anything tightens, tickles or hurts; rest when hoarse" }
-                                }
+                                { "title": { "en": "Look after your voice" }, "detail": { "en": "Stop if anything tightens, tickles or hurts; rest when hoarse" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -2023,9 +1994,7 @@
                                 ],
                                 "score": "styled"
                             },
-                            "measures": {
-                                "en": "Your stars are for the notes and any move of yours we heard. Listen back: then plain, now your record."
-                            }
+                            "measures": { "en": "Your stars are for the notes and any move of yours we heard. Listen back: then plain, now your record." }
                         },
                         {
                             "kind": "selfcheck",

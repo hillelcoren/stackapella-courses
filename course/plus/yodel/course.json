@@ -17,17 +17,14 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Herders called across valleys with a voice that flips, and the flip is already in yours. Listen for the jump: yours will do this too, and that's the point."
+                                "en": "Herders called across valleys with a voice that flips, and the flip is already in yours. Listen for the jump: yours will do this too. The app hears the jump in pitch, not which voice made it: you'll hear that part yourself."
                             },
                             "steps": [
                                 { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                {
-                                    "title": { "en": "A light flick" },
-                                    "detail": { "en": "Never a crack, never a slam back down: medium volume, land at speaking volume" }
-                                },
+                                { "title": { "en": "A light flick" }, "detail": { "en": "Never a crack, never a slam back down: medium volume, land at speaking volume" } },
                                 {
                                     "title": { "en": "Stop if it strains" },
-                                    "detail": { "en": "Tightens, tickles or hurts: rest. Hoarse or ill? Not today" }
+                                    "detail": { "en": "Tightens, tickles or hurts: rest. Don't yodel when ill, and see someone if hoarseness lasts more than two weeks" }
                                 }
                             ],
                             "visual": "echo",
@@ -35,69 +32,10 @@
                             "listen": {
                                 "tempo": 60,
                                 "notes": [
-                                    {
-                                        "beat": 0,
-                                        "length": 1.5,
-                                        "step": -3,
-                                        "lyric": "oo",
-                                        "bend": [
-                                            [
-                                                0,
-                                                0
-                                            ],
-                                            [
-                                                1.5,
-                                                900
-                                            ]
-                                        ]
-                                    },
-                                    {
-                                        "beat": 1.5,
-                                        "length": 1.5,
-                                        "step": 8,
-                                        "voice": "head",
-                                        "bend": [
-                                            [
-                                                0,
-                                                0
-                                            ],
-                                            [
-                                                1.5,
-                                                400
-                                            ]
-                                        ]
-                                    },
-                                    {
-                                        "beat": 3,
-                                        "length": 1.5,
-                                        "step": 12,
-                                        "voice": "head",
-                                        "bend": [
-                                            [
-                                                0,
-                                                0
-                                            ],
-                                            [
-                                                1.5,
-                                                -400
-                                            ]
-                                        ]
-                                    },
-                                    {
-                                        "beat": 4.5,
-                                        "length": 1.5,
-                                        "step": 6,
-                                        "bend": [
-                                            [
-                                                0,
-                                                0
-                                            ],
-                                            [
-                                                1.5,
-                                                -900
-                                            ]
-                                        ]
-                                    }
+                                    { "beat": 0, "length": 1.5, "step": -3, "lyric": "oo", "bend": [[0, 0], [1.5, 800]] },
+                                    { "beat": 1.5, "length": 1.5, "step": 9, "voice": "head", "bend": [[0, 0], [1.5, 300]] },
+                                    { "beat": 3, "length": 1.5, "step": 12, "voice": "head", "bend": [[0, 0], [1.5, -300]] },
+                                    { "beat": 4.5, "length": 1.5, "step": 5, "bend": [[0, 0], [1.5, -800]] }
                                 ],
                                 "turn": false
                             }
@@ -105,7 +43,7 @@
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Slide up and down on a quiet \"oo\", three times, following the ribbon. Somewhere your voice will jump: that's your flip. Go only as high as feels easy, and keep the top light, like an owl's hoo, never louder."
+                                "en": "Slide up and down once on a quiet \"oo\", following the ribbon. Somewhere your voice may jump: that's your flip. Go only as high as feels easy, and keep the top light, never louder."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -115,41 +53,39 @@
                                 "combo": false,
                                 "score": "flipFinder",
                                 "target": [
-                                    {
-                                        "seconds": 12,
-                                        "kind": "path",
-                                        "band": 150,
-                                        "points": [
-                                            [
-                                                0,
-                                                -3
-                                            ],
-                                            [
-                                                2,
-                                                12
-                                            ],
-                                            [
-                                                4,
-                                                -3
-                                            ],
-                                            [
-                                                6,
-                                                12
-                                            ],
-                                            [
-                                                8,
-                                                -3
-                                            ],
-                                            [
-                                                10,
-                                                12
-                                            ],
-                                            [
-                                                12,
-                                                -3
-                                            ]
-                                        ]
-                                    }
+                                    { "seconds": 4, "kind": "path", "band": 150, "points": [[0, -3], [2, 12], [4, -3]] }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": { "en": "Breathe, then once more, the same way. Two jumps in the same place make sure it's your flip." },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "score": "flipFinder",
+                                "target": [
+                                    { "seconds": 4, "kind": "path", "band": 150, "points": [[0, -3], [2, 12], [4, -3]] }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "A higher siren, twice up and down, lighter still, like an owl's hoo: many voices, often men's, flip higher. If yours already jumped twice in the same place, sing it gently or skip it."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "score": "flipFinder",
+                                "target": [
+                                    { "seconds": 6, "kind": "path", "band": 150, "points": [[0, 3], [1.5, 17], [3, 3], [4.5, 17], [6, 3]] }
                                 ]
                             }
                         },
@@ -190,7 +126,27 @@
                                 "generous": true
                             },
                             "measures": {
-                                "en": "Your stars are for the flips and the notes. Listen back: did the top sound lighter, like a different voice? If it sounded the same, let it tip over: lighter, quieter, hootier. Next: hear your two voices."
+                                "en": "Your stars are for the flips and the notes. If the top sounded the same as the bottom, let it tip over: lighter, quieter, hootier. Listen back: did the top sound lighter, like a different voice? Next: hear your two voices."
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's. The app hears the jump in pitch, not which voice made it." },
+                            "exercise": {
+                                "tempo": 66,
+                                "lead": 2,
+                                "base": "flip",
+                                "model": {
+                                    "notes": [
+                                        { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                        { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                        { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                    ]
+                                },
+                                "questions": [
+                                    { "en": "Did the top sound like a different, lighter voice?" },
+                                    { "en": "Did the way down land lightly, at speaking volume?" }
+                                ]
                             }
                         }
                     ]
@@ -201,9 +157,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "Your voice has two sounds: chest voice, low and speaking-like, and head voice, high, light and hooty. A yodel flips between them."
-                            },
+                            "headline": { "en": "Your voice has two sounds: chest voice, low and speaking-like, and head voice, high, light and hooty. A yodel flips between them." },
                             "steps": [
                                 { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
                                 { "title": { "en": "\"ho\" below your flip" }, "detail": { "en": "Chest buzzes" } },
@@ -237,15 +191,7 @@
                         {
                             "kind": "play",
                             "text": { "en": "Hold \"ho\" in chest voice, easy and low." },
-                            "exercise": {
-                                "tempo": 60,
-                                "notes": [
-                                    { "beat": 2, "length": 4, "step": -7, "lyric": "ho" }
-                                ],
-                                "turn": false,
-                                "base": "flip",
-                                "score": "hold"
-                            }
+                            "exercise": { "tempo": 60, "notes": [{ "beat": 2, "length": 4, "step": -7, "lyric": "ho" }], "turn": false, "base": "flip", "score": "hold" }
                         },
                         {
                             "kind": "play",
@@ -262,18 +208,37 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Once more, a little longer, still light: 6 beats of \"hoo\"." },
+                            "text": { "en": "Once more, light and easy: 4 beats of \"hoo\". A light voice may waver a little, and that's fine." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
-                                    { "beat": 2, "length": 6, "step": 2, "lyric": "hoo", "voice": "head" }
+                                    { "beat": 2, "length": 4, "step": 2, "lyric": "hoo", "voice": "head" }
                                 ],
                                 "turn": false,
                                 "base": "flip",
-                                "score": "hold"
+                                "generous": true
                             },
                             "measures": {
-                                "en": "Your stars are for how steady your last \"hoo\" was. Listen back: did the \"hoo\" sound lighter, like a different voice? Next: hear a flip from a slide."
+                                "en": "Your stars are for your last \"hoo\" being on its note, not how steady it was: a new head voice wavers. Next: hear a flip from a slide."
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": { "en": "Sing \"ho\" then \"hoo\" once more, and hear yours beside the guide's." },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "base": "flip",
+                                "model": {
+                                    "notes": [
+                                        { "beat": 0, "length": 3, "step": -7, "lyric": "ho" },
+                                        { "beat": 4, "length": 3, "step": 2, "lyric": "hoo" }
+                                    ]
+                                },
+                                "questions": [
+                                    { "en": "Did the \"hoo\" sound like a different, lighter voice?" },
+                                    { "en": "Did the \"ho\" buzz, and the \"hoo\" float?" }
+                                ]
                             }
                         }
                     ]
@@ -535,7 +500,27 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Your stars are half for clean flips, up and down, half for the notes. About five minutes of flips at a time, then rest. Listen back: did the top sound lighter, like a different voice? Next: open below, narrow above."
+                                "en": "Your stars are half for clean flips, up and down, half for the notes. About five minutes of flips at a time: take a break. Listen back: did the top sound lighter, like a different voice? Next: open below, narrow above."
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's. The app hears the jump in pitch, not which voice made it." },
+                            "exercise": {
+                                "tempo": 66,
+                                "lead": 2,
+                                "base": "flip",
+                                "model": {
+                                    "notes": [
+                                        { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                        { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                        { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                    ]
+                                },
+                                "questions": [
+                                    { "en": "Did the top sound like a different, lighter voice?" },
+                                    { "en": "Did the way down land lightly, at speaking volume?" }
+                                ]
                             }
                         }
                     ]
@@ -575,6 +560,21 @@
                                 ],
                                 "turn": false,
                                 "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": { "en": "Trace the yodel: the ribbon jumps straight up and back. Jump with it, light at the top." },
+                            "exercise": {
+                                "tempo": 66,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "yo",
+                                "base": "flip",
+                                "combo": false,
+                                "target": [
+                                    { "seconds": 6, "kind": "path", "band": 80, "points": [[0, -7], [1, -7], [1, 2], [2, 2], [2, -7], [3, -7], [3, 2], [4, 2], [4, -7], [6, -7]] }
+                                ]
                             }
                         },
                         {
@@ -630,9 +630,7 @@
                                 "base": "flip",
                                 "score": "flip"
                             },
-                            "measures": {
-                                "en": "Your stars are for clean flips and the notes. Listen back: did the top sound lighter, like a different voice? Next: the way down."
-                            }
+                            "measures": { "en": "Your stars are for clean flips and the notes. Listen back: did the top sound lighter, like a different voice? Next: the way down." }
                         }
                     ]
                 },
@@ -714,7 +712,7 @@
                                 "score": "flip"
                             },
                             "measures": {
-                                "en": "Your stars are for the downward flips and the notes. Listen back: did each one land lightly? Listen back: did the top sound lighter, like a different voice? Next: different leaps."
+                                "en": "Your stars are for the downward flips and the notes. Listen back: did each one land lightly? Did the top sound lighter, like a different voice? Next: different leaps."
                             }
                         }
                     ]
@@ -725,11 +723,9 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "The same flip across different leaps: a sixth, then an octave (often easier), then a fifth, the smallest and hardest."
-                            },
+                            "headline": { "en": "The same flip across different leaps: a sixth, then an octave (often easier), then a fifth, the smallest and hardest." },
                             "steps": [
-                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "Rest first" }, "detail": { "en": "You've sung a lot of flips: a minute's quiet, then a gentle warm-up" } },
                                 { "title": { "en": "Bigger can be easier" }, "detail": { "en": "The octave gives the voice room to tip over" } },
                                 { "title": { "en": "The fifth last" }, "detail": { "en": "Small leaps tempt you to slide" } }
                             ],
@@ -850,9 +846,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "Herders called across valleys with a yodel, and the valley carried it, so you never need to push: medium volume."
-                            },
+                            "headline": { "en": "Herders called across valleys with a yodel, and the valley carried it, so you never need to push: medium volume." },
                             "steps": [
                                 { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
                                 { "title": { "en": "Listen to the call" }, "detail": { "en": "Then answer it" } },
@@ -937,7 +931,27 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Your stars are for clean flips and the notes across all three hooks. Listen back: did the top sound lighter, like a different voice? Next: yodeling on the chord."
+                                "en": "Your stars are for clean flips and the notes across all three hooks. Take a break. Listen back: did the top sound lighter, like a different voice? Next: yodeling on the chord."
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's. The app hears the jump in pitch, not which voice made it." },
+                            "exercise": {
+                                "tempo": 66,
+                                "lead": 2,
+                                "base": "flip",
+                                "model": {
+                                    "notes": [
+                                        { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                        { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                        { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                    ]
+                                },
+                                "questions": [
+                                    { "en": "Did the top sound like a different, lighter voice?" },
+                                    { "en": "Did the way down land lightly, at speaking volume?" }
+                                ]
                             }
                         }
                     ]
@@ -955,9 +969,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "A yodel sounds right when both its notes belong to the chord underneath. As the chord changes, the top note moves with it."
-                            },
+                            "headline": { "en": "A yodel sounds right when both its notes belong to the chord underneath. As the chord changes, the top note moves with it." },
                             "steps": [
                                 { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
                                 { "title": { "en": "Over the home chord" }, "detail": { "en": "The top lands on mi" } },
@@ -1074,9 +1086,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "Cowboy yodels sway: long, short, long, like a horse's easy lope. The quick top note still flips cleanly."
-                            },
+                            "headline": { "en": "Cowboy yodels sway: long, short, long, like a horse's easy lope. The quick top note still flips cleanly." },
                             "steps": [
                                 { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
                                 { "title": { "en": "Long, short, long" }, "detail": { "en": "\"yo-\" held, \"hee\" quick, \"o\" held" } },
@@ -1168,7 +1178,7 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Your stars are for the flips and the notes. Listen back: did it sway? Listen back: did the top sound lighter, like a different voice? Next: hear whether a yodel fits."
+                                "en": "Your stars are for the flips and the notes. Listen back: did it sway? Did the top sound lighter, like a different voice? Next: hear whether a yodel fits."
                             }
                         }
                     ]
@@ -1301,7 +1311,7 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "B's fa belongs to this chord. A's top was a step off it." }
+                                        "why": { "en": "B's fa belongs to this chord. A's top was a half step off it." }
                                     },
                                     {
                                         "prompt": { "en": "Which one rubs?" },
@@ -1378,9 +1388,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "A cowboy song with a yodel tag: sing the line plainly, then yodel after it, open below and narrow above."
-                            },
+                            "headline": { "en": "A cowboy song with a yodel tag: sing the line plainly, then yodel after it, open below and narrow above." },
                             "steps": [
                                 { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
                                 { "title": { "en": "The line first" }, "detail": { "en": "\"And the skies are not cloudy all day\"" } },
@@ -1481,7 +1489,27 @@
                                 "score": "flip"
                             },
                             "measures": {
-                                "en": "Your stars are for the tag's flips and notes. Sing \"Find the flip\" again sometime to hear how far you've come. Listen back: did the top sound lighter, like a different voice? Next: the roll."
+                                "en": "Your stars are for the tag's flips and notes. Take a break. Listen back: did the top sound lighter, like a different voice? Next: the roll."
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's. The app hears the jump in pitch, not which voice made it." },
+                            "exercise": {
+                                "tempo": 66,
+                                "lead": 2,
+                                "base": "flip",
+                                "model": {
+                                    "notes": [
+                                        { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                        { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                        { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                    ]
+                                },
+                                "questions": [
+                                    { "en": "Did the top sound like a different, lighter voice?" },
+                                    { "en": "Did the way down land lightly, at speaking volume?" }
+                                ]
                             }
                         }
                     ]
@@ -1572,23 +1600,24 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Quicker again, every flip still clean." },
+                            "text": { "en": "The same roll over the home chord, every flip clean." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
-                                    { "beat": 0.0, "length": 0.6, "step": -7, "lyric": "yo-" },
-                                    { "beat": 0.6, "length": 0.6, "step": 2, "lyric": "dee-", "voice": "head" },
-                                    { "beat": 1.2, "length": 0.6, "step": -7, "lyric": "ay-" },
-                                    { "beat": 1.8, "length": 0.6, "step": 2, "lyric": "ee-", "voice": "head" },
-                                    { "beat": 2.4, "length": 2, "step": -7, "lyric": "o" }
+                                    { "beat": 0.0, "length": 0.75, "step": -7, "lyric": "yo-" },
+                                    { "beat": 0.75, "length": 0.75, "step": 2, "lyric": "dee-", "voice": "head" },
+                                    { "beat": 1.5, "length": 0.75, "step": -7, "lyric": "ay-" },
+                                    { "beat": 2.25, "length": 0.75, "step": 2, "lyric": "ee-", "voice": "head" },
+                                    { "beat": 3.0, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
-                                "score": "flip"
+                                "score": "flip",
+                                "chords": [
+                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null }
+                                ]
                             },
-                            "measures": {
-                                "en": "Your stars are for the four flips and the notes. Listen back: did the top sound lighter, like a different voice? Next: faster."
-                            }
+                            "measures": { "en": "Your stars are for the four flips and the notes. Listen back: did the top sound lighter, like a different voice? Next: faster." }
                         }
                     ]
                 },
@@ -1598,9 +1627,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "The same roll at three speeds. Keep every flip clean; if they start to smear, stay at the speed before."
-                            },
+                            "headline": { "en": "The same roll at three speeds. Keep every flip clean; if they start to smear, stay at the speed before." },
                             "steps": [
                                 { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
                                 { "title": { "en": "60, then 76, then 92" }, "detail": { "en": "Three rungs" } },
@@ -1699,9 +1726,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {
-                                "en": "Fast, a roll either flips cleanly or smears into slides. The clean one sparkles; the smeared one sounds like a siren."
-                            },
+                            "headline": { "en": "Fast, a roll either flips cleanly or smears into slides. The clean one sparkles; the smeared one sounds like a siren." },
                             "steps": [
                                 { "title": { "en": "Clean" }, "detail": { "en": "Each note distinct, even when quick" } },
                                 { "title": { "en": "Smeared" }, "detail": { "en": "Glides between, no flips" } },
@@ -2025,7 +2050,27 @@
                                 "score": "flip"
                             },
                             "measures": {
-                                "en": "Your stars are for the tag's flips and notes. Sing \"Find the flip\" again to hear how far you've come. Listen back: did the top sound lighter, like a different voice?"
+                                "en": "Your stars are for the tag's flips and notes. Take a break: that's the course. Listen back: did the top sound lighter, like a different voice?"
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's. The app hears the jump in pitch, not which voice made it." },
+                            "exercise": {
+                                "tempo": 66,
+                                "lead": 2,
+                                "base": "flip",
+                                "model": {
+                                    "notes": [
+                                        { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                        { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                        { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                    ]
+                                },
+                                "questions": [
+                                    { "en": "Did the top sound like a different, lighter voice?" },
+                                    { "en": "Did the way down land lightly, at speaking volume?" }
+                                ]
                             }
                         }
                     ]
