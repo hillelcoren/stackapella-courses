@@ -1,0 +1,22 @@
+name: checks
+
+# Every push and pull request: the course format and the songs' checks, Python's standard library
+# only. The app's own suites run in the Stackapella repository when a commit here is pinned.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: The courses follow the format
+        run: python3 -I tools/course_check.py
+      - name: The songs
+        run: python3 -I tools/template_check.py
