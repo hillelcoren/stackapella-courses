@@ -80,7 +80,7 @@ def cp_1_round():
             {"kind": "try", "text": EN("The quick half, \"merrily\" to \"dream\", at your own pace."), "exercise": tryit},
             {"kind": "play", "text": EN("After a bar of the drone, sing it twice through. Keep your own line while the voices come in."),
              "exercise": play,
-             "measures": EN("Scored on your notes on pitch. By the end of the course you'll write your own line against a melody.")},
+             "measures": EN("Scored on your notes on pitch. By the end of the course you'll write your own line against a melody. Did you know? Row, Row, Row Your Boat was in print by 1852, though its early tune differs from today's.")},
         ],
     }
 
@@ -135,7 +135,7 @@ def cp_1_pedal():
     return {
         "id": "cp-1-pedal", "title": EN("Be the drone"),
         "steps": [
-            learn("A note held under a moving tune is a pedal, after the organ's pedals that can hold a low note forever.",
+            learn("A note held under a moving tune is a pedal, after the organ's pedals, which hold a low note as long as it's pressed.",
                   [("Hold one note", "Do, on \"oo\", easy and steady"),
                    ("The tune moves above", "Ode to Joy, leaning on your note"),
                    ("Breathe between", "Four holds of three and a half beats, a quick breath each time")], "drone",
@@ -163,7 +163,7 @@ def cp_1_ostinato():
         "steps": [
             learn("A pattern sung over and over is an ostinato, Italian for \"stubborn\". Once you know it, it keeps itself going.",
                   [("Four notes", "Do ti do la: a darker colour you'll meet properly in unit 2"),
-                   ("Over and over", "Eight times through"),
+                   ("Did you know?", "Choir singers' heart rates have been measured rising and falling together, most of all on a slow, repeating chant"),
                    ("A line falls above it", "Let it pass; keep your pattern")], "echo",
                   {"tempo": 84, "notes": notes(MOTIF * 4, start=3), "turn": False, "with": [{"notes": notes([(6, 9), (6, 7)])}]}),
             {"kind": "try", "text": EN("The pattern, at your own pace."), "exercise": {"tempo": 84, "notes": notes(MOTIF)}},
@@ -235,7 +235,7 @@ def cp_2_minor():
     return {
         "id": "cp-2-minor", "title": EN("A round in minor"),
         "steps": [
-            learn("This tune in minor: its mi and la a half step lower, and it sounds darker. Mahler turned this round into a slow march in minor in his First Symphony.",
+            learn("This tune in minor: its mi and la a half step lower, and it sounds darker. Mahler turned this round into a funeral march in minor in his First Symphony.",
                   [("Listen to the minor tune", "The same shape, a darker colour"),
                    ("You're the third voice", "Two are singing before you come in"),
                    ("Your mi is lower now", "Listen for it against the others")], "round",
@@ -245,7 +245,7 @@ def cp_2_minor():
              "exercise": {"tempo": 80, "notes": notes(AYS_MINOR, 16, AYS_DO), "turn": False,
                           "with": [{"notes": until(notes(AYS_MINOR * 2, 0, AYS_DO + 12), 48)},
                                    {"notes": until(notes(AYS_MINOR * 2, 8, AYS_DO), 48)}]},
-             "measures": EN("Scored on your notes on pitch, in minor, with two voices already going.")},
+             "measures": EN("Scored on your notes on pitch, in minor, with two voices already going. Did you know? Mahler's minor round opens with a muted double bass alone, high in its range.")},
         ],
     }
 
@@ -276,7 +276,7 @@ def cp_2_canon():
             {"kind": "play", "text": EN("Now you follow. The guide leads an octave up; come in a bar later."),
              "exercise": {"tempo": 72, "notes": notes(CANON, 4), "turn": False,
                           "with": [{"notes": notes(CANON + CODA, 0, 12)}]},
-             "measures": EN("Scored on your notes on pitch as the follower, a bar behind the leader.")},
+             "measures": EN("Scored on your notes on pitch as the follower, a bar behind the leader. Did you know? Pachelbel's Canon is a true canon: three violins two bars apart, over a bass that repeats.")},
         ],
     }
 
@@ -296,7 +296,7 @@ def cp_2_challenge():
         {"prompt": EN("How many voices are singing by the end?"), "clips": [clip(2)], "options": count, "answer": 0,
          "why": EN("Two: a leader and one follower.")},
         {"prompt": EN("How many voices are singing by the end?"), "clips": [clip(4)], "options": count, "answer": 2,
-         "why": EN("Four, the most a round like this usually has. Next, you're one of them.")},
+         "why": EN("Four: with entries two bars apart, every seat is filled. The oldest known round, Sumer is icumen in (about 1250), has four voices over two more. Next, you're one of them.")},
     ]
     ding = [(1, 0, "ding,"), (1, -5, "dang,"), (2, 0, "dong,")]
     floor = notes(ding * 4, 48, AYS_DO)
@@ -356,10 +356,10 @@ def cp_3_call():
     return {
         "id": "cp-3-call", "title": EN("Call and response"),
         "steps": [
-            learn("A phrase that ends away from do sounds like a question. The answer brings it home.",
+            learn("In call and response, a leader sings and others answer. Here the call ends away from do, and the answer brings it home.",
                   [("The guide calls", "A short phrase, ending away from do"),
                    ("You answer", "A different phrase, landing on do"),
-                   ("From West African singing", "Into gospel, blues and work songs")], "echo",
+                   ("Rooted in West African singing", "Then work songs, spirituals, gospel and blues")], "echo",
                   {"tempo": 90, "notes": notes(first_call) + notes(first_answer, 5), "turn": False}),
             {"kind": "play", "text": EN("Hear the call, then sing the answer: mi re do."),
              "exercise": {"tempo": 90, "notes": notes(first_call), "answer": notes(first_answer), "turn": True}},
@@ -397,7 +397,7 @@ def cp_3_descant():
     return {
         "id": "cp-3-descant", "title": EN("Float above it"),
         "steps": [
-            learn("A descant floats above the tune in longer notes, so the tune still comes through. Choirs save it for the last verse.",
+            learn("A descant floats above the tune, often in longer notes, so the tune still comes through. Choirs usually save one for a late verse.",
                   [("The tune below", "O Come, All Ye Faithful, with its chords"),
                    ("Your line above", "Long notes on \"ah\""),
                    ("Light, never loud", "Let the tune be heard through you")], "phrase",
@@ -406,7 +406,7 @@ def cp_3_descant():
             {"kind": "play", "text": EN("After a bar, sing the descant over the tune and its chords."),
              "exercise": {"tempo": 80, "notes": [{"beat": 0, "length": 2, "step": 0, "listenOnly": True}] + notes(DESCANT_1, 4, OCOME_DO), "turn": False,
                           "with": [{"notes": notes(OCOME[:12], 4, OCOME_DO)}], "chords": oc_chords(OCOME_DO, 4, 16)},
-             "measures": EN("Scored on the descant's notes on pitch over the tune.")},
+             "measures": EN("Scored on the descant's notes on pitch over the tune. Did you know? The best-known descant to this carol, by David Willcocks, appeared in 1961, over the \"Sing, choirs of angels\" verse.")},
         ],
     }
 
@@ -433,7 +433,7 @@ def cp_3_partners():
     return {
         "id": "cp-3-partners", "title": EN("Two songs at once"),
         "steps": [
-            learn("Songs on the same chords fit together, whatever their tunes. Singing two at once is a quodlibet, Latin for \"whatever you please\".",
+            learn("Songs on the same chords, in the same time, often fit together. Singing two at once is a quodlibet, Latin for \"whatever you please\".",
                   [("Row, Row, Row is yours", "Twice through"),
                    ("Are You Sleeping above", "Swung, so its bars line up with yours"),
                    ("Two tunes, one chord", "Both rest on do")], "harmony",
@@ -441,7 +441,7 @@ def cp_3_partners():
             {"kind": "play", "text": EN("After a bar of the drone, sing Row, Row, Row twice through while the guide sings Are You Sleeping."),
              "exercise": {"tempo": 150, "notes": notes(ROW * 2, BAR68, ROW_DO), "turn": False, "drone": {"step": ROW_DO},
                           "with": [{"notes": notes(AYS_SWUNG, BAR68, ROW_DO + 12)}]},
-             "measures": EN("Scored on your notes on pitch while a different song went on above you.")},
+             "measures": EN("Scored on your notes on pitch while a different song went on above you. Did you know? Bach titled the last of his Goldberg Variations, published in 1741, \"Quodlibet\".")},
         ],
     }
 
@@ -508,7 +508,7 @@ def cp_4_consonance():
             {"kind": "try", "text": EN("The notes over the low drone, at your own pace."), "exercise": {"tempo": 60, "notes": notes(sung), "drone": drone}},
             {"kind": "play", "text": EN("Over a low do, sing a third, a fifth, a sixth and an octave; then re, rubbing, step home; then fa, rubbing, step to mi."),
              "exercise": {"tempo": 60, "notes": notes(sung, 2), "turn": False, "drone": drone},
-             "measures": EN("Scored on each interval on pitch over the drone, the rubs too.")},
+             "measures": EN("Scored on each interval on pitch over the drone, the rubs too. Did you know? In 1863 Hermann von Helmholtz explained a rub as beating: overtones close in pitch wobbling against each other.")},
         ],
     }
 
@@ -528,7 +528,7 @@ def cp_4_motion():
          "why": EN("Up against down again: contrary motion.")},
         {"prompt": EN("Which one moves in fifths?"),
          "clips": [pair([7, 9, 11, 12], [0, 2, 4, 5]), pair([4, 5, 7, 9], [0, 2, 4, 5])], "answer": 0,
-         "why": EN("A moves in fifths: the two voices fuse into one hollow sound, like medieval organum. B's thirds keep them two.")},
+         "why": EN("A moves in fifths: the two voices fuse into one hollow sound, like medieval organum, first written down in the late 800s. B's thirds keep them two.")},
         {"prompt": EN("Which one moves in fifths?"),
          "clips": [pair([9, 11, 12, 11], [0, 2, 4, 2]), pair([7, 9, 11, 9], [0, 2, 4, 2])], "answer": 1,
          "why": EN("B moves in fifths and sounds bare. A moves in sixths, sweet and full. That's why counterpoint avoids parallel fifths.")},
@@ -552,15 +552,15 @@ def cp_4_first():
     return {
         "id": "cp-4-first", "title": EN("First species"),
         "steps": [
-            learn("In 1725 Johann Joseph Fux taught counterpoint as a dialogue between a teacher and a student, in steps he called species. The first: note against note. Start and end on an octave, sing only smooth intervals, move mostly by step, prefer opposite ways.",
+            learn("In 1725 Johann Joseph Fux taught counterpoint in steps he called species. The first is note against note: start and end on a perfect interval (here an octave), sing only smooth intervals, move mostly by step, prefer opposite ways.",
                   [("The cantus", "A slow tune, an octave below you"),
                    ("Your line", "One note to each of its notes"),
-                   ("Haydn, Mozart, Beethoven", "All learned this way")], "harmony",
+                   ("Haydn, Beethoven, probably Mozart", "All studied Fux's book")], "harmony",
                   {"tempo": 60, "notes": line(FIRST_1, 0), "turn": False, "with": [{"notes": cantus(CANTUS_1, 0)}]}),
             {"kind": "try", "text": EN("Your line, at your own pace."), "exercise": {"tempo": 60, "notes": line(FIRST_1, 0)}},
             {"kind": "play", "text": EN("After the guide's do, sing your line against the cantus."),
              "exercise": {"tempo": 60, "notes": CUE + line(FIRST_1, 4), "turn": False, "with": [{"notes": cantus(CANTUS_1, 4)}]},
-             "measures": EN("Scored on your line's notes on pitch against the cantus. This line moves contrary six times of eight, with no parallel fifths or octaves.")},
+             "measures": EN("Scored on your line's notes on pitch against the cantus. This line moves contrary six times of eight, with no parallel fifths or octaves. Did you know? Fux wrote his book as a dialogue: the teacher, Aloysius, stands for Palestrina, and the student, Josephus, for Fux himself.")},
         ],
     }
 
@@ -570,7 +570,7 @@ def cp_4_second():
     return {
         "id": "cp-4-second", "title": EN("Two against one"),
         "steps": [
-            learn("Two notes to each cantus note. The first must sound smooth; the second may rub if it's on its way somewhere by step: a passing note.",
+            learn("Two notes to each cantus note. The first must sound smooth; the second may rub if it passes by step, in one direction, between smooth notes: a passing note.",
                   [("Strong beat", "A smooth interval"),
                    ("Weak beat", "Smooth, or a step passing through"),
                    ("The ending", "La, ti, do")], "harmony",
@@ -677,7 +677,7 @@ def cp_5_hold():
              ]}},
             {"kind": "play", "text": EN("Hold do while the bass moves, feel the rub, then step to ti and home to do."),
              "exercise": {"tempo": 60, "notes": CUE + held, "turn": False, "with": [{"notes": bass}, {"notes": re, "volume": 0.4}]},
-             "measures": EN("Scored on your notes on pitch, the held one too.")},
+             "measures": EN("Scored on your notes on pitch, the held one too. Did you know? Fux's fourth species is all suspensions: notes tied over, rubbing on the strong beat, then falling a step.")},
         ],
     }
 
