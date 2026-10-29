@@ -106,7 +106,9 @@ notes. **A slot's id never changes once it's recorded**: to change what's asked,
 - **Plain, warm and short.** One or two lines to say why; no lectures. Sentence case. No em dashes.
 - **True.** A fact needs a source, and no living famous person is named as a model.
 - **Safe.** Nothing at the edge of a voice's range; holds of eight seconds at most; a safety line
-  wherever a voice could strain.
+  wherever a voice could strain. (Breath and stamina's holds run longer, by design: up to a 15-second
+  goal set from the learner's own easy hold, never past it, with rests between and its own safety
+  words. Keep those if you change it.)
 - **Public domain** for tunes and words. If you're not sure, choose another.
 - **Honest.** The stars measure only what the app can really hear. What it can't hear yet is a
   `selfcheck`, which says so.
