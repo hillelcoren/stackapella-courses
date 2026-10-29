@@ -165,6 +165,7 @@
                 },
                 {
                     "id": "folk-1-ring",
+                    "fact": {"id": "byzantine-ison", "text": {"en": "In Byzantine chant, some singers hold one low note under the melody, a sung drone called the ison."}, "source": {"en": "Wikipedia, Ison (music)"}, "url": "https://en.wikipedia.org/wiki/Ison_(music)"},
                     "title": { "en": "Ring with the drone" },
                     "strictness": "precise",
                     "steps": [
@@ -175,8 +176,8 @@
                             },
                             "steps": [
                                 { "title": { "en": "Hear it ring" }, "detail": { "en": "Your note and the drone, as one sound" } },
-                                { "title": { "en": "A plain, easy tone" }, "detail": { "en": "Like a relaxed sigh; a light wave is fine" } },
-                                { "title": { "en": "Singers as the drone" }, "detail": { "en": "In Byzantine chant, some voices hold one low note, the ison, under the tune" } }
+                                { "title": { "en": "A plain, easy tone" }, "detail": { "en": "Like a relaxed sigh, never squeezed" } },
+                                { "title": { "en": "A light wave is fine" }, "detail": { "en": "Softer, never squeezed" } }
                             ],
                             "listen": {
                                 "tempo": 60,
@@ -266,13 +267,14 @@
                 },
                 {
                     "id": "folk-1-tell",
+                    "fact": {"id": "pepys-barbara-allen-1666", "text": {"en": "On 2 January 1666, Samuel Pepys wrote in his diary of hearing the actress Elizabeth Knipp sing Barbara Allen."}, "source": {"en": "Pepys's diary, 2 January 1665/66"}, "url": "https://www.pepysdiary.com/diary/1666/01/02/"},
                     "title": { "en": "Tell it" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": { "en": "A ballad is a story. Each word gets its own time, the way you'd tell it." },
                             "steps": [
-                                { "title": { "en": "Over 350 years old" }, "detail": { "en": "Samuel Pepys heard an actress sing Barbara Allen in 1666" } },
+                                { "title": { "en": "Listen to the line" }, "detail": { "en": "Barbara Allen, a ballad hundreds of years old" } },
                                 { "title": { "en": "Let the long words last" }, "detail": { "en": "\"Town\", \"born\", \"fair\"" } },
                                 { "title": { "en": "Plain and clear" }, "detail": { "en": "So every word reaches the listener" } }
                             ],
@@ -564,6 +566,7 @@
             "lessons": [
                 {
                     "id": "folk-2-dorian",
+                    "fact": {"id": "medieval-dorian-name", "text": {"en": "Medieval musicians borrowed the name Dorian from ancient Greek music, but used it for a different scale from the Greeks' own."}, "source": {"en": "Wikipedia, Dorian mode"}, "url": "https://en.wikipedia.org/wiki/Dorian_mode"},
                     "title": { "en": "The bright note" },
                     "steps": [
                         {
@@ -573,7 +576,7 @@
                             },
                             "steps": [
                                 { "title": { "en": "Listen for it" }, "detail": { "en": "The second note of \"drunk-en\"" } },
-                                { "title": { "en": "A borrowed name" }, "detail": { "en": "Medieval singers took the name Dorian from ancient Greek music, for a different scale" } },
+                                { "title": { "en": "Minor, but brighter" }, "detail": { "en": "Plain minor with one note raised" } },
                                 { "title": { "en": "The home note" }, "detail": { "en": "The drone's note, where the tune comes to rest" } }
                             ],
                             "listen": {
@@ -671,6 +674,7 @@
                 },
                 {
                     "id": "folk-2-mixo",
+                    "fact": {"id": "highland-pipes-soft-seventh", "text": {"en": "A Highland bagpipe's chanter plays this soft seventh too: its scale is close to the Mixolydian."}, "source": {"en": "Wikipedia, Great Highland bagpipe"}, "url": "https://en.wikipedia.org/wiki/Great_Highland_bagpipe"},
                     "title": { "en": "The soft note" },
                     "steps": [
                         {
@@ -684,7 +688,7 @@
                                     "detail": { "en": "Old Joe Clark, a dance tune from the Appalachians" }
                                 },
                                 { "title": { "en": "Find the soft note" }, "detail": { "en": "On \"a-\" of \"away\", just below the home note" } },
-                                { "title": { "en": "The bagpipe's scale" }, "detail": { "en": "A Highland bagpipe's notes have this soft seventh too" } }
+                                { "title": { "en": "Major, but softer" }, "detail": { "en": "One note lower than a major tune would sing" } }
                             ],
                             "listen": {
                                 "tempo": 92,
@@ -1550,6 +1554,7 @@
                 },
                 {
                     "id": "folk-3-spot",
+                    "fact": {"id": "sean-nos-ornaments", "text": {"en": "Irish sean-nós (\"old style\") singers ornament a song differently from verse to verse, so no two verses are quite the same."}, "source": {"en": "Wikipedia, Sean-nós singing"}, "url": "https://en.wikipedia.org/wiki/Sean-n%C3%B3s_singing"},
                     "title": { "en": "Spot the ornament" },
                     "steps": [
                         {
@@ -1557,7 +1562,7 @@
                             "headline": { "en": "A good ornament is small. Can you hear where it is?" },
                             "steps": [
                                 { "title": { "en": "Listen to the line" }, "detail": { "en": "One word has a flick or a turn" } },
-                                { "title": { "en": "Never the same twice" }, "detail": { "en": "Irish sean-nós singers change their ornaments from verse to verse" } },
+                                { "title": { "en": "Play it again" }, "detail": { "en": "As often as you like" } },
                                 { "title": { "en": "Pick the word" }, "detail": { "en": "Only your first answer counts" } }
                             ],
                             "listen": {
@@ -2006,6 +2011,7 @@
                 },
                 {
                     "id": "folk-4-lining",
+                    "fact": {"id": "gaelic-psalm-lining-out", "text": {"en": "Lining out still lives in the Gaelic psalm singing of the Scottish Hebrides, where a precentor sings each line first."}, "source": {"en": "Wikipedia, Lining out"}, "url": "https://en.wikipedia.org/wiki/Lining_out"},
                     "title": { "en": "Lining out" },
                     "steps": [
                         {

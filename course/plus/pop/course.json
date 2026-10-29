@@ -11,6 +11,7 @@
             "lessons": [
                 {
                     "id": "pop-1-style",
+                    "fact": {"id": "weill-down-in-the-valley", "text": {"en": "Kurt Weill built a folk opera around Down in the Valley. It opened at Indiana University in 1948."}, "source": {"en": "Kurt Weill Foundation, Down in the Valley"}, "url": "https://www.kwf.org/works/down-in-the-valley/"},
                     "title": { "en": "Plain to styled" },
                     "strictness": "relaxed",
                     "steps": [
@@ -18,7 +19,7 @@
                             "kind": "learn",
                             "headline": { "en": "A plain tune and a styled one are the same notes. The difference is a few small moves, like a scoop up into a note." },
                             "steps": [
-                                { "title": { "en": "Down in the Valley" }, "detail": { "en": "A traditional American song: Kurt Weill built a 1948 folk opera on it" } },
+                                { "title": { "en": "Listen to the line" }, "detail": { "en": "Down in the Valley, a traditional song, with a scoop into \"val-\"" } },
                                 { "title": { "en": "Small and light" }, "detail": { "en": "Medium volume, the middle of your voice" } },
                                 {
                                     "title": { "en": "Look after your voice" },
@@ -507,12 +508,13 @@
                 },
                 {
                     "id": "pop-2-cry",
+                    "fact": {"id": "hank-williams-cry", "text": {"en": "Hank Williams was famous for this flick into the lighter voice: his Lovesick Blues of 1949 yodels on \"cry\" and on every syllable of \"lonesome\"."}, "source": {"en": "Wikipedia, Lovesick Blues"}, "url": "https://en.wikipedia.org/wiki/Lovesick_Blues"},
                     "title": { "en": "The little cry" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Country singers add a little cry: a quick flip up into the lighter voice and straight back down, a tiny yodel. Hank Williams was famous for it in the late 1940s. Light, never a hard catch."
+                                "en": "Country singers add a little cry: a quick flip up into the lighter voice and straight back down, a tiny yodel. Light, never a hard catch."
                             },
                             "steps": [
                                 { "title": { "en": "A quick flick up" }, "detail": { "en": "Into the lighter voice, and back" } },
@@ -783,6 +785,7 @@
                 },
                 {
                     "id": "pop-2-challenge",
+                    "fact": {"id": "ocean-burial-prairie", "text": {"en": "Cowboys reworked The Ocean Burial, E. H. Chapin's 1839 poem of a burial at sea, into a burial on the prairie. John Lomax printed their words in 1910."}, "source": {"en": "Wikipedia, The Ocean Burial"}, "url": "https://en.wikipedia.org/wiki/The_Ocean_Burial"},
                     "title": { "en": "Lone prairie" },
                     "challenge": true,
                     "steps": [
@@ -791,8 +794,8 @@
                             "headline": { "en": "A cowboy lament, styled: a slide from \"not\", a light cry on \"lone\", a scoop into \"low\" and a fall-off at the end." },
                             "steps": [
                                 {
-                                    "title": { "en": "From sea to prairie" },
-                                    "detail": { "en": "Cowboys reworked The Ocean Burial, E. H. Chapin's 1839 poem of a burial at sea; John Lomax printed their words in 1910" }
+                                    "title": { "en": "Bury Me Not on the Lone Prairie" },
+                                    "detail": { "en": "Cowboy words of 1910, to The Ocean Burial's tune" }
                                 },
                                 { "title": { "en": "Long notes, long moves" }, "detail": { "en": "The slide, the scoop and the fall sit on five-beat notes" } },
                                 { "title": { "en": "The cry is light" }, "detail": { "en": "A flick, never a hard catch" } }
@@ -1051,6 +1054,7 @@
                 },
                 {
                     "id": "pop-3-crooner",
+                    "fact": {"id": "aura-lee-love-me-tender", "text": {"en": "Aura Lee's 1861 tune came back in 1956 as the melody of Love Me Tender."}, "source": {"en": "Wikipedia, Aura Lea"}, "url": "https://en.wikipedia.org/wiki/Aura_Lea"},
                     "title": { "en": "The crooner" },
                     "strictness": "relaxed",
                     "steps": [
@@ -1060,7 +1064,7 @@
                                 "en": "Crooning became popular when electric microphones arrived in the 1920s: quiet, close singing, a little air in it, and fall-offs at the ends of lines."
                             },
                             "steps": [
-                                { "title": { "en": "Aura Lee" }, "detail": { "en": "An 1861 song by Poulton and Fosdick, whose tune later became Love Me Tender" } },
+                                { "title": { "en": "Aura Lee" }, "detail": { "en": "Poulton and Fosdick, 1861: a little air, quiet and close, never a whisper" } },
                                 { "title": { "en": "Your phone is your mic" }, "detail": { "en": "Stay quiet; don't push to be heard" } },
                                 { "title": { "en": "Water nearby" }, "detail": { "en": "Breathy singing dries the voice" } }
                             ],
@@ -1649,6 +1653,7 @@
                 },
                 {
                     "id": "pop-4-answer",
+                    "fact": {"id": "nashville-number-system", "text": {"en": "In the late 1950s Neal Matthews Jr. of the Jordanaires began writing vocal parts as numbers. Nashville's studios still chart songs that way."}, "source": {"en": "Wikipedia, Nashville Number System"}, "url": "https://en.wikipedia.org/wiki/Nashville_Number_System"},
                     "title": { "en": "Answer back" },
                     "steps": [
                         {
@@ -1657,7 +1662,7 @@
                             "steps": [
                                 { "title": { "en": "Listen to its moves" }, "detail": { "en": "Then answer with your own" } },
                                 { "title": { "en": "Any move counts" }, "detail": { "en": "One heard is enough" } },
-                                { "title": { "en": "Nashville's numbers" }, "detail": { "en": "A Jordanaires singer wrote vocal parts as numbers in the late 1950s; studios still use them" } }
+                                { "title": { "en": "Less is more" }, "detail": { "en": "Two or three, on long notes" } }
                             ],
                             "visual": "echo",
                             "reviewed": false
@@ -1762,13 +1767,14 @@
                 },
                 {
                     "id": "pop-4-yours",
+                    "fact": {"id": "beautiful-dreamer-1864", "text": {"en": "Beautiful Dreamer was published in 1864, shortly after Stephen Foster died."}, "source": {"en": "Wikipedia, Beautiful Dreamer"}, "url": "https://en.wikipedia.org/wiki/Beautiful_Dreamer"},
                     "title": { "en": "Your way" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": { "en": "Beautiful Dreamer's first line, plain on the screen. Style it your way: a scoop, a fall-off, a slide or a cry." },
                             "steps": [
-                                { "title": { "en": "Beautiful Dreamer" }, "detail": { "en": "Stephen Foster's, published in 1864, just after he died" } },
+                                { "title": { "en": "Beautiful Dreamer" }, "detail": { "en": "Stephen Foster, 1864" } },
                                 { "title": { "en": "Your palette" }, "detail": { "en": "Every move from the course" } },
                                 { "title": { "en": "Hear your takes" }, "detail": { "en": "Listen back after each" } }
                             ],
