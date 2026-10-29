@@ -22,7 +22,12 @@
                             "steps": [
                                 { "title": { "en": "Listen to the line" }, "detail": { "en": "Down in the Valley, with a scoop into \"val-\"" } },
                                 { "title": { "en": "Small and light" }, "detail": { "en": "Medium volume, the middle of your voice" } },
-                                { "title": { "en": "Stop if anything hurts" }, "detail": { "en": "Tightens, tickles or hurts: rest" } }
+                                {
+                                    "title": { "en": "Look after your voice" },
+                                    "detail": {
+                                        "en": "Stop if anything tightens, tickles or hurts. Don't sing when you're ill; see someone if hoarseness lasts more than two weeks. No app replaces a teacher"
+                                    }
+                                }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -42,8 +47,8 @@
                                 "turn": false,
                                 "chords": [
                                     { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             }
                         },
@@ -76,9 +81,9 @@
                                 ],
                                 "turn": false,
                                 "chords": [
-                                    { "beat": 3, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 15, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 30, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             }
                         },
@@ -100,11 +105,12 @@
                                 ],
                                 "turn": false,
                                 "chords": [
-                                    { "beat": 3, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 15, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 30, "root": 0, "quality": "maj", "bass": null }
                                 ],
-                                "score": "styled"
+                                "score": "styled",
+                                "window": 0.5
                             },
                             "measures": {
                                 "en": "Your stars are for the scoop and the notes. Listen back to both takes: same notes, different song. Next: the scoop, up close."
@@ -165,6 +171,19 @@
                             }
                         },
                         {
+                            "kind": "try",
+                            "text": { "en": "Three notes at your own pace: start a little below each and slide up into it." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 2, "step": 0, "lyric": "oo" },
+                                    { "beat": 3, "length": 2, "step": 2, "lyric": "oo" },
+                                    { "beat": 6, "length": 2, "step": 4, "lyric": "oo" }
+                                ],
+                                "turn": false
+                            }
+                        },
+                        {
                             "kind": "play",
                             "text": { "en": "Listen, then sing them back, each with a quick scoop." },
                             "exercise": {
@@ -209,7 +228,7 @@
                             },
                             "steps": [
                                 { "title": { "en": "Hold, then let go" }, "detail": { "en": "The note first, the fall at its end" } },
-                                { "title": { "en": "Short, then longer" }, "detail": { "en": "A little drop, then a bigger one" } },
+                                { "title": { "en": "Longer notes" }, "detail": { "en": "Hold, then let each end drop away" } },
                                 { "title": { "en": "Keep the breath" }, "detail": { "en": "The pitch falls, the breath doesn't" } }
                             ],
                             "visual": "phrase",
@@ -250,7 +269,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Longer notes, longer falls: let each one drift down." },
+                            "text": { "en": "Longer notes: hold, then let each end drop away." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -279,9 +298,9 @@
                                 ],
                                 "turn": false,
                                 "chords": [
-                                    { "beat": 3, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 15, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 30, "root": 0, "quality": "maj", "bass": null }
                                 ],
                                 "score": "styled"
                             },
@@ -296,9 +315,9 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "The whole verse with three scoops and two fall-offs, on the long notes and the ends of lines." },
+                            "headline": { "en": "The whole verse with two scoops and two fall-offs, on the long notes and the ends of lines." },
                             "steps": [
-                                { "title": { "en": "Scoops" }, "detail": { "en": "Into \"val-\", \"val-\" and \"o-\"" } },
+                                { "title": { "en": "Scoops" }, "detail": { "en": "Into \"val-\" and \"o-\"" } },
                                 { "title": { "en": "Fall-offs" }, "detail": { "en": "On \"low\" and \"blow\"" } },
                                 { "title": { "en": "Everything else plain" }, "detail": { "en": "Moves mean more when they're rare" } }
                             ],
@@ -312,7 +331,7 @@
                                     { "beat": 2, "length": 1, "step": 2, "lyric": "the" },
                                     { "beat": 3, "length": 3, "step": 4, "lyric": "val-", "style": "scoop" },
                                     { "beat": 6, "length": 3, "step": 0, "lyric": "ley," },
-                                    { "beat": 9, "length": 1, "step": 4, "lyric": "val-", "style": "scoop" },
+                                    { "beat": 9, "length": 1, "step": 4, "lyric": "val-" },
                                     { "beat": 10, "length": 1, "step": 2, "lyric": "ley" },
                                     { "beat": 11, "length": 1, "step": 0, "lyric": "so" },
                                     { "beat": 12, "length": 3, "step": 2, "lyric": "low,", "style": "fall" },
@@ -329,8 +348,8 @@
                                 "turn": false,
                                 "chords": [
                                     { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             }
                         },
@@ -345,7 +364,7 @@
                                     { "beat": 2, "length": 1, "step": 2, "lyric": "the" },
                                     { "beat": 3, "length": 3, "step": 4, "lyric": "val-", "style": "scoop" },
                                     { "beat": 6, "length": 3, "step": 0, "lyric": "ley," },
-                                    { "beat": 9, "length": 1, "step": 4, "lyric": "val-", "style": "scoop" },
+                                    { "beat": 9, "length": 1, "step": 4, "lyric": "val-" },
                                     { "beat": 10, "length": 1, "step": 2, "lyric": "ley" },
                                     { "beat": 11, "length": 1, "step": 0, "lyric": "so" },
                                     { "beat": 12, "length": 3, "step": 2, "lyric": "low,", "style": "fall" },
@@ -373,7 +392,7 @@
                                     { "beat": 5, "length": 1, "step": 2, "lyric": "the" },
                                     { "beat": 6, "length": 3, "step": 4, "lyric": "val-", "style": "scoop" },
                                     { "beat": 9, "length": 3, "step": 0, "lyric": "ley," },
-                                    { "beat": 12, "length": 1, "step": 4, "lyric": "val-", "style": "scoop" },
+                                    { "beat": 12, "length": 1, "step": 4, "lyric": "val-" },
                                     { "beat": 13, "length": 1, "step": 2, "lyric": "ley" },
                                     { "beat": 14, "length": 1, "step": 0, "lyric": "so" },
                                     { "beat": 15, "length": 3, "step": 2, "lyric": "low,", "style": "fall" },
@@ -389,14 +408,14 @@
                                 ],
                                 "turn": false,
                                 "chords": [
-                                    { "beat": 3, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 15, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 30, "root": 0, "quality": "maj", "bass": null }
                                 ],
                                 "score": "styled"
                             },
                             "measures": {
-                                "en": "Your stars are for the moves asked for and the notes. Listen back, and sing Plain to styled again to hear how far you've come. Next: the slide."
+                                "en": "Your stars are for the moves asked for and the notes. Listen back: did they sound meant? Next: the slide."
                             }
                         }
                     ]
@@ -495,9 +514,9 @@
                                 ],
                                 "turn": false,
                                 "chords": [
-                                    { "beat": 3, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 15, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 30, "root": 0, "quality": "maj", "bass": null }
                                 ],
                                 "score": "styled"
                             },
@@ -531,21 +550,8 @@
                             }
                         },
                         {
-                            "kind": "play",
-                            "text": { "en": "A slow practice cry first: the note, a quick step up, and back." },
-                            "exercise": {
-                                "tempo": 60,
-                                "notes": [
-                                    { "beat": 0, "length": 1, "step": 0, "lyric": "oh" },
-                                    { "beat": 1, "length": 0.5, "step": 3 },
-                                    { "beat": 1.5, "length": 1.5, "step": 0 }
-                                ],
-                                "turn": true
-                            }
-                        },
-                        {
                             "kind": "try",
-                            "text": { "en": "The slow cry at your own pace: the note, a quick step up, and back." },
+                            "text": { "en": "A slow practice cry first, at your own pace: the note, a quick step up, and back." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -588,9 +594,9 @@
                                 ],
                                 "turn": false,
                                 "chords": [
-                                    { "beat": 3, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 15, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 30, "root": 0, "quality": "maj", "bass": null }
                                 ],
                                 "score": "styled"
                             },
@@ -803,18 +809,18 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A cowboy lament, styled: a slide from \"not\", a cry on \"lone\", a scoop into \"low\" and a fall-off at the end."
+                                "en": "A cowboy lament, styled: a slide from \"not\", a light cry on \"lone\", a scoop into \"low\" and a fall-off at the end."
                             },
                             "steps": [
                                 {
                                     "title": { "en": "Bury Me Not on the Lone Prairie" },
                                     "detail": { "en": "A cowboy song, words collected in 1910" }
                                 },
-                                { "title": { "en": "Long notes, long moves" }, "detail": { "en": "They're held for five beats" } },
                                 {
-                                    "title": { "en": "Look after your voice" },
-                                    "detail": { "en": "Stop if anything tightens, tickles or hurts; rest when hoarse" }
-                                }
+                                    "title": { "en": "Long notes, long moves" },
+                                    "detail": { "en": "The slide, the scoop and the fall sit on five-beat notes" }
+                                },
+                                { "title": { "en": "The cry is light" }, "detail": { "en": "A flick, never a hard catch" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -838,11 +844,14 @@
                                     { "beat": 25, "length": 0.5, "step": 5, "lyric": "and" },
                                     { "beat": 25.5, "length": 0.5, "step": 3 },
                                     { "beat": 26, "length": 1, "step": 0, "lyric": "mourn-" },
-                                    { "beat": 27, "length": 1, "step": -4, "lyric": "ful-", "style": "fall" },
-                                    { "beat": 28, "length": 5, "step": -2, "lyric": "ly" }
+                                    { "beat": 27, "length": 1, "step": -4, "lyric": "ful-" },
+                                    { "beat": 28, "length": 5, "step": -2, "lyric": "ly", "style": "fall" }
                                 ],
                                 "turn": false,
-                                "drone": { "step": 0 }
+                                "chords": [
+                                    { "beat": 0, "root": -4, "quality": "maj", "bass": null },
+                                    { "beat": 28, "root": 3, "quality": "dom7", "bass": null }
+                                ]
                             }
                         },
                         {
@@ -868,11 +877,14 @@
                                     { "beat": 25, "length": 0.5, "step": 5, "lyric": "and" },
                                     { "beat": 25.5, "length": 0.5, "step": 3 },
                                     { "beat": 26, "length": 1, "step": 0, "lyric": "mourn-" },
-                                    { "beat": 27, "length": 1, "step": -4, "lyric": "ful-", "style": "fall" },
-                                    { "beat": 28, "length": 5, "step": -2, "lyric": "ly" }
+                                    { "beat": 27, "length": 1, "step": -4, "lyric": "ful-" },
+                                    { "beat": 28, "length": 5, "step": -2, "lyric": "ly", "style": "fall" }
                                 ],
                                 "turn": false,
-                                "drone": { "step": 0 }
+                                "chords": [
+                                    { "beat": 0, "root": -4, "quality": "maj", "bass": null },
+                                    { "beat": 28, "root": 3, "quality": "dom7", "bass": null }
+                                ]
                             }
                         },
                         {
@@ -898,15 +910,18 @@
                                     { "beat": 28, "length": 0.5, "step": 5, "lyric": "and" },
                                     { "beat": 28.5, "length": 0.5, "step": 3 },
                                     { "beat": 29, "length": 1, "step": 0, "lyric": "mourn-" },
-                                    { "beat": 30, "length": 1, "step": -4, "lyric": "ful-", "style": "fall" },
-                                    { "beat": 31, "length": 5, "step": -2, "lyric": "ly" }
+                                    { "beat": 30, "length": 1, "step": -4, "lyric": "ful-" },
+                                    { "beat": 31, "length": 5, "step": -2, "lyric": "ly", "style": "fall" }
                                 ],
                                 "turn": false,
-                                "drone": { "step": 0 },
+                                "chords": [
+                                    { "beat": 0, "root": -4, "quality": "maj", "bass": null },
+                                    { "beat": 31, "root": 3, "quality": "dom7", "bass": null }
+                                ],
                                 "score": "styled"
                             },
                             "measures": {
-                                "en": "Your stars are for the moves asked for and the notes. Listen back, then sing Plain to styled again to hear how far you've come. Next: tone colours."
+                                "en": "Your stars are for the moves asked for and the notes. Listen back: did the long notes carry them? Next: tone colours."
                             }
                         }
                     ]
@@ -957,8 +972,8 @@
                                     ],
                                     "chords": [
                                         { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                        { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
-                                        { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                        { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                        { "beat": 27, "root": 0, "quality": "maj", "bass": null }
                                     ]
                                 },
                                 "questions": [
@@ -989,8 +1004,8 @@
                                     ],
                                     "chords": [
                                         { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                        { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
-                                        { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                        { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                        { "beat": 27, "root": 0, "quality": "maj", "bass": null }
                                     ]
                                 },
                                 "questions": [
@@ -1019,13 +1034,15 @@
                                     ],
                                     "chords": [
                                         { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                        { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
-                                        { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                        { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                        { "beat": 27, "root": 0, "quality": "maj", "bass": null }
                                     ]
                                 },
                                 "questions": [
-                                    { "en": "Pinch your nose and sing it again: did it change a lot? Then it was nasal, not twang." },
-                                    { "en": "Which of the three colours felt most like you?" }
+                                    {
+                                        "en": "Pinch your nose and sing it again: did it sound about the same? (If it changed a lot, it was nasal, not twang.)"
+                                    },
+                                    { "en": "Did one colour feel most like you? Keep it in mind for Your colour." }
                                 ]
                             },
                             "measures": { "en": "This lesson's stars are for practising: we don't score tone colour yet. Next: the crooner." }
@@ -1087,7 +1104,13 @@
                                     { "beat": 11, "length": 1, "step": -1, "lyric": "low" },
                                     { "beat": 12, "length": 4, "step": 0, "lyric": "tree," }
                                 ],
-                                "turn": false
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 4, "root": 2, "quality": "dom7", "bass": null },
+                                    { "beat": 8, "root": -5, "quality": "dom7", "bass": null },
+                                    { "beat": 12, "root": 0, "quality": "maj", "bass": null }
+                                ]
                             }
                         },
                         {
@@ -1110,7 +1133,13 @@
                                     { "beat": 16, "length": 4, "step": 0, "lyric": "tree,", "style": "fall" }
                                 ],
                                 "turn": false,
-                                "score": "styled"
+                                "score": "styled",
+                                "chords": [
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 8, "root": 2, "quality": "dom7", "bass": null },
+                                    { "beat": 12, "root": -5, "quality": "dom7", "bass": null },
+                                    { "beat": 16, "root": 0, "quality": "maj", "bass": null }
+                                ]
                             },
                             "measures": {
                                 "en": "Your stars are for the fall-offs and the notes, judged gently: air in the sound makes pitch harder to hear. The tone is yours to judge. Next: the country edge."
@@ -1136,6 +1165,12 @@
                                         { "beat": 10, "length": 1, "step": -3, "lyric": "wil-" },
                                         { "beat": 11, "length": 1, "step": -1, "lyric": "low" },
                                         { "beat": 12, "length": 4, "step": 0, "lyric": "tree," }
+                                    ],
+                                    "chords": [
+                                        { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                        { "beat": 4, "root": 2, "quality": "dom7", "bass": null },
+                                        { "beat": 8, "root": -5, "quality": "dom7", "bass": null },
+                                        { "beat": 12, "root": 0, "quality": "maj", "bass": null }
                                     ]
                                 },
                                 "questions": [
@@ -1189,12 +1224,38 @@
                                     { "beat": 28, "length": 5, "step": -2, "lyric": "ly" }
                                 ],
                                 "turn": false,
-                                "drone": { "step": 0 }
+                                "chords": [
+                                    { "beat": 0, "root": -4, "quality": "maj", "bass": null },
+                                    { "beat": 28, "root": 3, "quality": "dom7", "bass": null }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "Find the twang first: a light, bratty \"nyeh\" on the line's notes, at your own pace." },
+                            "exercise": {
+                                "tempo": 84,
+                                "notes": [
+                                    { "beat": 1, "length": 1, "step": -9, "lyric": "nyeh" },
+                                    { "beat": 2, "length": 0.5, "step": -4, "lyric": "nyeh" },
+                                    { "beat": 2.5, "length": 0.5, "step": -4, "lyric": "nyeh" },
+                                    { "beat": 3, "length": 1, "step": 0, "lyric": "nyeh" },
+                                    { "beat": 4, "length": 5, "step": 3, "lyric": "nyeh" },
+                                    { "beat": 9, "length": 0.5, "step": 5, "lyric": "nyeh" },
+                                    { "beat": 9.5, "length": 0.5, "step": 3, "lyric": "nyeh" },
+                                    { "beat": 10, "length": 1, "step": 0, "lyric": "nyeh" },
+                                    { "beat": 11, "length": 1, "step": -4, "lyric": "nyeh" },
+                                    { "beat": 12, "length": 5, "step": 0, "lyric": "nyeh" }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 0, "root": -4, "quality": "maj", "bass": null }
+                                ]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The first line with a little twang and a cry on \"lone\"." },
+                            "text": { "en": "The first line with a little twang and a light cry on \"lone\"." },
                             "exercise": {
                                 "tempo": 84,
                                 "notes": [
@@ -1210,7 +1271,9 @@
                                     { "beat": 15, "length": 5, "step": 0, "lyric": "rie," }
                                 ],
                                 "turn": false,
-                                "drone": { "step": 0 },
+                                "chords": [
+                                    { "beat": 0, "root": -4, "quality": "maj", "bass": null }
+                                ],
                                 "score": "styled"
                             },
                             "measures": { "en": "Your stars are for the cry and the notes. The twang is yours to judge. Next: your colour, your song." }
@@ -1234,11 +1297,15 @@
                                         { "beat": 11, "length": 1, "step": -4, "lyric": "prai-" },
                                         { "beat": 12, "length": 5, "step": 0, "lyric": "rie," }
                                     ],
-                                    "drone": { "step": 0 }
+                                    "chords": [
+                                        { "beat": 0, "root": -4, "quality": "maj", "bass": null }
+                                    ]
                                 },
                                 "questions": [
                                     { "en": "Bright, not tight?" },
-                                    { "en": "Pinch your nose: did it change a lot? Then it was nasal, not twang." }
+                                    {
+                                        "en": "Pinch your nose and sing it again: did it sound about the same? (If it changed a lot, it was nasal, not twang.)"
+                                    }
                                 ]
                             }
                         }
@@ -1282,15 +1349,25 @@
                                     { "beat": 18, "length": 1, "step": -1, "lyric": "rocked," },
                                     { "beat": 19, "length": 1, "step": 0, "lyric": "I" },
                                     { "beat": 20, "length": 1, "step": 2, "lyric": "heard" },
-                                    { "beat": 21, "length": 1, "step": -3, "lyric": "him" },
+                                    { "beat": 21, "length": 1, "step": -3, "lyric": "him", "style": "slide" },
                                     { "beat": 22, "length": 2, "step": 2, "lyric": "sing," },
                                     { "beat": 24, "length": 1, "step": 0, "lyric": "Sing-" },
                                     { "beat": 25, "length": 1, "step": -1, "lyric": "ing" },
-                                    { "beat": 26, "length": 1, "step": -3, "lyric": "Au-", "style": "slide" },
+                                    { "beat": 26, "length": 1, "step": -3, "lyric": "Au-" },
                                     { "beat": 27, "length": 1, "step": -1, "lyric": "ra" },
                                     { "beat": 28, "length": 4, "step": 0, "lyric": "Lea.", "style": "fall" }
                                 ],
-                                "turn": false
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 4, "root": 2, "quality": "dom7", "bass": null },
+                                    { "beat": 8, "root": -5, "quality": "dom7", "bass": null },
+                                    { "beat": 12, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 16, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 20, "root": 2, "quality": "dom7", "bass": null },
+                                    { "beat": 24, "root": -5, "quality": "dom7", "bass": null },
+                                    { "beat": 28, "root": 0, "quality": "maj", "bass": null }
+                                ]
                             }
                         },
                         {
@@ -1324,12 +1401,22 @@
                                     { "beat": 27, "length": 1, "step": -1, "lyric": "ra" },
                                     { "beat": 28, "length": 4, "step": 0, "lyric": "Lea." }
                                 ],
-                                "turn": false
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 4, "root": 2, "quality": "dom7", "bass": null },
+                                    { "beat": 8, "root": -5, "quality": "dom7", "bass": null },
+                                    { "beat": 12, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 16, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 20, "root": 2, "quality": "dom7", "bass": null },
+                                    { "beat": 24, "root": -5, "quality": "dom7", "bass": null },
+                                    { "beat": 28, "root": 0, "quality": "maj", "bass": null }
+                                ]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "After a bar's lead-in, sing the verse in your colour, styled." },
+                            "text": { "en": "After a bar of chords, sing the verse in your colour, styled." },
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1350,16 +1437,26 @@
                                     { "beat": 22, "length": 1, "step": -1, "lyric": "rocked," },
                                     { "beat": 23, "length": 1, "step": 0, "lyric": "I" },
                                     { "beat": 24, "length": 1, "step": 2, "lyric": "heard" },
-                                    { "beat": 25, "length": 1, "step": -3, "lyric": "him" },
+                                    { "beat": 25, "length": 1, "step": -3, "lyric": "him", "style": "slide" },
                                     { "beat": 26, "length": 2, "step": 2, "lyric": "sing," },
                                     { "beat": 28, "length": 1, "step": 0, "lyric": "Sing-" },
                                     { "beat": 29, "length": 1, "step": -1, "lyric": "ing" },
-                                    { "beat": 30, "length": 1, "step": -3, "lyric": "Au-", "style": "slide" },
+                                    { "beat": 30, "length": 1, "step": -3, "lyric": "Au-" },
                                     { "beat": 31, "length": 1, "step": -1, "lyric": "ra" },
                                     { "beat": 32, "length": 4, "step": 0, "lyric": "Lea.", "style": "fall" }
                                 ],
                                 "turn": false,
-                                "score": "styled"
+                                "score": "styled",
+                                "chords": [
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 8, "root": 2, "quality": "dom7", "bass": null },
+                                    { "beat": 12, "root": -5, "quality": "dom7", "bass": null },
+                                    { "beat": 16, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 20, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 24, "root": 2, "quality": "dom7", "bass": null },
+                                    { "beat": 28, "root": -5, "quality": "dom7", "bass": null },
+                                    { "beat": 32, "root": 0, "quality": "maj", "bass": null }
+                                ]
                             },
                             "measures": {
                                 "en": "Your stars are for the moves and the notes, judged gently. The colour is yours to judge: listen back. Next: where the moves go."
@@ -1532,7 +1629,8 @@
                                         "why": { "en": "A's \"blow\" dropped away at the end." }
                                     }
                                 ]
-                            }
+                            },
+                            "measures": { "en": "Your stars are for the rounds you got right first time. Next: answer the guide back." }
                         },
                         {
                             "kind": "try",
@@ -1553,8 +1651,8 @@
                                 "turn": false,
                                 "chords": [
                                     { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             }
                         }
@@ -1594,8 +1692,8 @@
                                 "turn": false,
                                 "chords": [
                                     { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             }
                         },
@@ -1630,8 +1728,8 @@
                                 "score": "styled",
                                 "chords": [
                                     { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             }
                         },
@@ -1666,7 +1764,7 @@
                                 "score": "styled",
                                 "chords": [
                                     { "beat": 0, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 9, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 12, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             },
                             "measures": {
@@ -1682,12 +1780,12 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Beautiful Dreamer's first line, plain on the screen. Style it your way: a scoop, a fall-off, a slide, a cry, a little wave at the end."
+                                "en": "Beautiful Dreamer's first line, plain on the screen. Style it your way: a scoop, a fall-off, a slide or a cry."
                             },
                             "steps": [
                                 { "title": { "en": "Beautiful Dreamer" }, "detail": { "en": "Stephen Foster, 1864" } },
                                 { "title": { "en": "Your palette" }, "detail": { "en": "Every move from the course" } },
-                                { "title": { "en": "Hear both takes" }, "detail": { "en": "Then keep the one you like" } }
+                                { "title": { "en": "Hear your takes" }, "detail": { "en": "Listen back after each" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -1704,7 +1802,11 @@
                                     { "beat": 3.6667, "length": 0.3333333333333333, "step": -5, "lyric": "to" },
                                     { "beat": 4, "length": 2, "step": 2, "lyric": "me." }
                                 ],
-                                "turn": false
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 0, "root": 5, "quality": "maj", "bass": null },
+                                    { "beat": 3, "root": 0, "quality": "dom7", "bass": null }
+                                ]
                             }
                         },
                         {
@@ -1723,12 +1825,16 @@
                                     { "beat": 3.6667, "length": 0.3333333333333333, "step": -5, "lyric": "to" },
                                     { "beat": 4, "length": 2, "step": 2, "lyric": "me." }
                                 ],
-                                "turn": false
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 0, "root": 5, "quality": "maj", "bass": null },
+                                    { "beat": 3, "root": 0, "quality": "dom7", "bass": null }
+                                ]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "After a bar's lead-in, sing it your way." },
+                            "text": { "en": "After a bar of chords, sing it your way." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1743,7 +1849,11 @@
                                     { "beat": 7, "length": 2, "step": 2, "lyric": "me." }
                                 ],
                                 "turn": false,
-                                "score": "styled"
+                                "score": "styled",
+                                "chords": [
+                                    { "beat": 0, "root": 5, "quality": "maj", "bass": null },
+                                    { "beat": 6, "root": 0, "quality": "dom7", "bass": null }
+                                ]
                             }
                         },
                         {
@@ -1762,7 +1872,11 @@
                                     { "beat": 6.6667, "length": 0.3333333333333333, "step": -5, "lyric": "to" },
                                     { "beat": 7, "length": 2, "step": 2, "lyric": "me." }
                                 ],
-                                "turn": false
+                                "turn": false,
+                                "chords": [
+                                    { "beat": 0, "root": 5, "quality": "maj", "bass": null },
+                                    { "beat": 6, "root": 0, "quality": "dom7", "bass": null }
+                                ]
                             }
                         },
                         {
@@ -1782,7 +1896,11 @@
                                     { "beat": 7, "length": 2, "step": 2, "lyric": "me." }
                                 ],
                                 "turn": false,
-                                "score": "styled"
+                                "score": "styled",
+                                "chords": [
+                                    { "beat": 0, "root": 5, "quality": "maj", "bass": null },
+                                    { "beat": 6, "root": 0, "quality": "dom7", "bass": null }
+                                ]
                             },
                             "measures": {
                                 "en": "Your stars are for the notes and any move of yours we heard, never more for more. Meant more? We may have missed a small one. Next: your record."
@@ -1794,6 +1912,7 @@
                     "id": "pop-4-challenge",
                     "title": { "en": "Your record" },
                     "challenge": true,
+                    "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
@@ -1833,8 +1952,8 @@
                                 "turn": false,
                                 "chords": [
                                     { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             }
                         },
@@ -1866,8 +1985,8 @@
                                 "turn": false,
                                 "chords": [
                                     { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             }
                         },
@@ -1898,14 +2017,14 @@
                                 ],
                                 "turn": false,
                                 "chords": [
-                                    { "beat": 3, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
-                                    { "beat": 27, "root": 0, "quality": "maj", "bass": null }
+                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
+                                    { "beat": 15, "root": 7, "quality": "dom7", "bass": null },
+                                    { "beat": 30, "root": 0, "quality": "maj", "bass": null }
                                 ],
                                 "score": "styled"
                             },
                             "measures": {
-                                "en": "Your stars are for the notes and any move of yours we heard. Listen back, then sing Plain to styled again: then plain, now your record."
+                                "en": "Your stars are for the notes and any move of yours we heard. Listen back: then plain, now your record."
                             }
                         },
                         {
@@ -1937,8 +2056,8 @@
                                     ],
                                     "chords": [
                                         { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                        { "beat": 9, "root": 7, "quality": "dom7", "bass": null },
-                                        { "beat": 24, "root": 0, "quality": "maj", "bass": null }
+                                        { "beat": 12, "root": 7, "quality": "dom7", "bass": null },
+                                        { "beat": 27, "root": 0, "quality": "maj", "bass": null }
                                     ]
                                 },
                                 "questions": [
