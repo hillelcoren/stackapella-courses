@@ -92,16 +92,9 @@ TONES = {"maj": [0, 4, 7], "min": [0, 3, 7], "dom7": [0, 4, 7, 10], "min7": [0, 
 SCALE = [0, 2, 4, 5, 7, 9, 11]
 
 
-def _fixed(name, changes):
-    """A template's chords with some corrected (beat, root's pitch class, quality), until the template itself is."""
-    data = json.load(open(f"{LIBRARY}/{name}.json"))
-    keep = [c for c in data["chords"] if c["beat"] not in {b for b, _, _ in changes}]
-    return sorted(keep + [{"beat": b, "root": r, "quality": q} for b, r, q in changes], key=lambda c: c["beat"])
-
-
-# The arranger's corrections, waiting on the templates: Red River Valley's D7 came a beat early under
-# "say you are going" (G from beat 3, D7 on "go-" at 5, G on "-ing" at 6).
-CHORD_FIXES = {"red-river-valley": _fixed("red-river-valley", [(3.0, 7, "maj"), (5.0, 2, "dom7"), (6.0, 7, "maj")])}
+# Corrections to a template's chords, until the template itself is fixed: none now (Red River Valley's
+# early dominant was fixed in its template, version 5).
+CHORD_FIXES = {}
 
 
 def tune(name, frm=0, to=None):
