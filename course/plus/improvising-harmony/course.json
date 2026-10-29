@@ -1,0 +1,478 @@
+{
+    "id": "improvising-harmony",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Improvising a harmony"},
+    "units": [
+        {
+            "id": "imp-a-part-above",
+            "title": {"en": "A part above"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "imp-1-third",
+                    "title": {"en": "A part above"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The simplest harmony: sing the tune's next chord tone up. Mostly that's a third; over so it's a fourth, because the third would rub."},
+                            "steps": [
+                                {"title": {"en": "Hear it first"}, "detail": {"en": "One line, the tune and the part above together"}},
+                                {"title": {"en": "Sing the tune, then the part"}, "detail": {"en": "Every harmony note lit"}},
+                                {"title": {"en": "Best with headphones"}, "detail": {"en": "You'll hear the tune as you sing"}}
+                            ],
+                            "listen": {
+                                "tempo": 92,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.0, "step": -3, "lyric": "Mi-"},
+                                    {"beat": 1.0, "length": 1.0, "step": 0, "lyric": "chael,"},
+                                    {"beat": 2.0, "length": 1.5, "step": 5, "lyric": "row"},
+                                    {"beat": 3.5, "length": 0.5, "step": 0, "lyric": "the"},
+                                    {"beat": 4.0, "length": 1.0, "step": 5, "lyric": "boat"},
+                                    {"beat": 5.0, "length": 1.0, "step": 5, "lyric": "a-"},
+                                    {"beat": 6.0, "length": 2.0, "step": 5, "lyric": "shore,"},
+                                    {"beat": 8.0, "length": 1.0, "step": 0, "lyric": "Hal-"},
+                                    {"beat": 9.0, "length": 1.0, "step": 5, "lyric": "le-"},
+                                    {"beat": 10.0, "length": 4.0, "step": 5, "lyric": "lu-"},
+                                    {"beat": 14.0, "length": 2.0, "step": 5, "lyric": "jah!"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0.0, "length": 1.0, "step": -7, "lyric": "Mi-"},
+                                            {"beat": 1.0, "length": 1.0, "step": -3, "lyric": "chael,"},
+                                            {"beat": 2.0, "length": 1.5, "step": 0, "lyric": "row"},
+                                            {"beat": 3.5, "length": 0.5, "step": -3, "lyric": "the"},
+                                            {"beat": 4.0, "length": 1.0, "step": 0, "lyric": "boat"},
+                                            {"beat": 5.0, "length": 1.0, "step": 2, "lyric": "a-"},
+                                            {"beat": 6.0, "length": 2.0, "step": 0, "lyric": "shore,"},
+                                            {"beat": 8.0, "length": 1.0, "step": -3, "lyric": "Hal-"},
+                                            {"beat": 9.0, "length": 1.0, "step": 0, "lyric": "le-"},
+                                            {"beat": 10.0, "length": 4.0, "step": 2, "lyric": "lu-"},
+                                            {"beat": 14.0, "length": 2.0, "step": 0, "lyric": "jah!"}
+                                        ]
+                                    }
+                                ],
+                                "chords": [
+                                    {"beat": 0.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 2.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 10.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 14.0, "root": 5, "quality": "maj", "bass": null}
+                                ]
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hold the harmony on the long notes while the tune moves. Hear the chord ring."},
+                            "exercise": {
+                                "tempo": 92,
+                                "notes": [
+                                    {"beat": 6.0, "length": 1.5, "step": 5, "lyric": "row"},
+                                    {"beat": 10.0, "length": 2.0, "step": 5, "lyric": "shore,"},
+                                    {"beat": 14.0, "length": 4.0, "step": 5, "lyric": "lu-"},
+                                    {"beat": 18.0, "length": 2.0, "step": 5, "lyric": "jah!"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4.0, "length": 1.0, "step": -7, "lyric": "Mi-"},
+                                            {"beat": 5.0, "length": 1.0, "step": -3, "lyric": "chael,"},
+                                            {"beat": 6.0, "length": 1.5, "step": 0, "lyric": "row"},
+                                            {"beat": 7.5, "length": 0.5, "step": -3, "lyric": "the"},
+                                            {"beat": 8.0, "length": 1.0, "step": 0, "lyric": "boat"},
+                                            {"beat": 9.0, "length": 1.0, "step": 2, "lyric": "a-"},
+                                            {"beat": 10.0, "length": 2.0, "step": 0, "lyric": "shore,"},
+                                            {"beat": 12.0, "length": 1.0, "step": -3, "lyric": "Hal-"},
+                                            {"beat": 13.0, "length": 1.0, "step": 0, "lyric": "le-"},
+                                            {"beat": 14.0, "length": 4.0, "step": 2, "lyric": "lu-"},
+                                            {"beat": 18.0, "length": 2.0, "step": 0, "lyric": "jah!"}
+                                        ]
+                                    }
+                                ],
+                                "chords": [
+                                    {"beat": 4.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 6.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 14.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 18.0, "root": 5, "quality": "maj", "bass": null}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now sing the tune itself, once through, so it's yours."},
+                            "exercise": {
+                                "tempo": 92,
+                                "notes": [
+                                    {"beat": 4.0, "length": 1.0, "step": -7, "lyric": "Mi-"},
+                                    {"beat": 5.0, "length": 1.0, "step": -3, "lyric": "chael,"},
+                                    {"beat": 6.0, "length": 1.5, "step": 0, "lyric": "row"},
+                                    {"beat": 7.5, "length": 0.5, "step": -3, "lyric": "the"},
+                                    {"beat": 8.0, "length": 1.0, "step": 0, "lyric": "boat"},
+                                    {"beat": 9.0, "length": 1.0, "step": 2, "lyric": "a-"},
+                                    {"beat": 10.0, "length": 2.0, "step": 0, "lyric": "shore,"},
+                                    {"beat": 12.0, "length": 1.0, "step": -3, "lyric": "Hal-"},
+                                    {"beat": 13.0, "length": 1.0, "step": 0, "lyric": "le-"},
+                                    {"beat": 14.0, "length": 4.0, "step": 2, "lyric": "lu-"},
+                                    {"beat": 18.0, "length": 2.0, "step": 0, "lyric": "jah!"},
+                                    {"beat": 20.0, "length": 1.0, "step": -3, "lyric": "Mi-"},
+                                    {"beat": 21.0, "length": 1.0, "step": 0, "lyric": "chael,"},
+                                    {"beat": 22.0, "length": 1.5, "step": 0, "lyric": "row"},
+                                    {"beat": 23.5, "length": 0.5, "step": -3, "lyric": "the"},
+                                    {"beat": 24.0, "length": 1.0, "step": -2, "lyric": "boat"},
+                                    {"beat": 25.0, "length": 1.0, "step": -3, "lyric": "a-"},
+                                    {"beat": 26.0, "length": 2.0, "step": -5, "lyric": "shore,"},
+                                    {"beat": 28.0, "length": 1.0, "step": -7, "lyric": "Hal-"},
+                                    {"beat": 29.0, "length": 1.0, "step": -5, "lyric": "le-"},
+                                    {"beat": 30.0, "length": 2.0, "step": -3, "lyric": "lu-"},
+                                    {"beat": 32.0, "length": 2.0, "step": -5},
+                                    {"beat": 34.0, "length": 2.0, "step": -7, "lyric": "jah!"}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 4.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 6.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 14.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 18.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 24.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 26.0, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 28.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 32.0, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 34.0, "root": 5, "quality": "maj", "bass": null}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now the part above, the whole verse, every note lit, while the guide sings the tune."},
+                            "exercise": {
+                                "tempo": 92,
+                                "notes": [
+                                    {"beat": 4.0, "length": 1.0, "step": -3, "lyric": "Mi-"},
+                                    {"beat": 5.0, "length": 1.0, "step": 0, "lyric": "chael,"},
+                                    {"beat": 6.0, "length": 1.5, "step": 5, "lyric": "row"},
+                                    {"beat": 7.5, "length": 0.5, "step": 0, "lyric": "the"},
+                                    {"beat": 8.0, "length": 1.0, "step": 5, "lyric": "boat"},
+                                    {"beat": 9.0, "length": 1.0, "step": 5, "lyric": "a-"},
+                                    {"beat": 10.0, "length": 2.0, "step": 5, "lyric": "shore,"},
+                                    {"beat": 12.0, "length": 1.0, "step": 0, "lyric": "Hal-"},
+                                    {"beat": 13.0, "length": 1.0, "step": 5, "lyric": "le-"},
+                                    {"beat": 14.0, "length": 4.0, "step": 5, "lyric": "lu-"},
+                                    {"beat": 18.0, "length": 2.0, "step": 5, "lyric": "jah!"},
+                                    {"beat": 20.0, "length": 1.0, "step": 0, "lyric": "Mi-"},
+                                    {"beat": 21.0, "length": 1.0, "step": 5, "lyric": "chael,"},
+                                    {"beat": 22.0, "length": 1.5, "step": 5, "lyric": "row"},
+                                    {"beat": 23.5, "length": 0.5, "step": 0, "lyric": "the"},
+                                    {"beat": 24.0, "length": 1.0, "step": 2, "lyric": "boat"},
+                                    {"beat": 25.0, "length": 1.0, "step": 0, "lyric": "a-"},
+                                    {"beat": 26.0, "length": 2.0, "step": -2, "lyric": "shore,"},
+                                    {"beat": 28.0, "length": 1.0, "step": -3, "lyric": "Hal-"},
+                                    {"beat": 29.0, "length": 1.0, "step": -2, "lyric": "le-"},
+                                    {"beat": 30.0, "length": 2.0, "step": 0, "lyric": "lu-"},
+                                    {"beat": 32.0, "length": 2.0, "step": -2},
+                                    {"beat": 34.0, "length": 2.0, "step": -3, "lyric": "jah!"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4.0, "length": 1.0, "step": -7, "lyric": "Mi-"},
+                                            {"beat": 5.0, "length": 1.0, "step": -3, "lyric": "chael,"},
+                                            {"beat": 6.0, "length": 1.5, "step": 0, "lyric": "row"},
+                                            {"beat": 7.5, "length": 0.5, "step": -3, "lyric": "the"},
+                                            {"beat": 8.0, "length": 1.0, "step": 0, "lyric": "boat"},
+                                            {"beat": 9.0, "length": 1.0, "step": 2, "lyric": "a-"},
+                                            {"beat": 10.0, "length": 2.0, "step": 0, "lyric": "shore,"},
+                                            {"beat": 12.0, "length": 1.0, "step": -3, "lyric": "Hal-"},
+                                            {"beat": 13.0, "length": 1.0, "step": 0, "lyric": "le-"},
+                                            {"beat": 14.0, "length": 4.0, "step": 2, "lyric": "lu-"},
+                                            {"beat": 18.0, "length": 2.0, "step": 0, "lyric": "jah!"},
+                                            {"beat": 20.0, "length": 1.0, "step": -3, "lyric": "Mi-"},
+                                            {"beat": 21.0, "length": 1.0, "step": 0, "lyric": "chael,"},
+                                            {"beat": 22.0, "length": 1.5, "step": 0, "lyric": "row"},
+                                            {"beat": 23.5, "length": 0.5, "step": -3, "lyric": "the"},
+                                            {"beat": 24.0, "length": 1.0, "step": -2, "lyric": "boat"},
+                                            {"beat": 25.0, "length": 1.0, "step": -3, "lyric": "a-"},
+                                            {"beat": 26.0, "length": 2.0, "step": -5, "lyric": "shore,"},
+                                            {"beat": 28.0, "length": 1.0, "step": -7, "lyric": "Hal-"},
+                                            {"beat": 29.0, "length": 1.0, "step": -5, "lyric": "le-"},
+                                            {"beat": 30.0, "length": 2.0, "step": -3, "lyric": "lu-"},
+                                            {"beat": 32.0, "length": 2.0, "step": -5},
+                                            {"beat": 34.0, "length": 2.0, "step": -7, "lyric": "jah!"}
+                                        ]
+                                    }
+                                ],
+                                "chords": [
+                                    {"beat": 4.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 6.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 14.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 18.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 24.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 26.0, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 28.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 32.0, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 34.0, "root": 5, "quality": "maj", "bass": null}
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for your harmony's notes on pitch. You sang parallel thirds, with a fourth wherever the third would rub."}
+                        }
+                    ]
+                },
+                {
+                    "id": "imp-1-switch",
+                    "title": {"en": "Major and minor thirds"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A third above switches between major and minor to stay in the key. You don't count it: you follow the scale, two notes up."},
+                            "steps": [
+                                {"title": {"en": "Major thirds"}, "detail": {"en": "Do to mi, fa to la, so to ti"}},
+                                {"title": {"en": "Minor thirds"}, "detail": {"en": "Re to fa, mi to so"}},
+                                {"title": {"en": "The chords decide"}, "detail": {"en": "Listen to them under you"}}
+                            ],
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": -3, "lyric": "ah"},
+                                    {"beat": 2, "length": 2, "step": -2, "lyric": "ah"},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 6, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 8, "length": 2, "step": 4, "lyric": "ah"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0, "length": 2, "step": -7},
+                                            {"beat": 2, "length": 2, "step": -5},
+                                            {"beat": 4, "length": 2, "step": -3},
+                                            {"beat": 6, "length": 2, "step": -2},
+                                            {"beat": 8, "length": 2, "step": 0}
+                                        ]
+                                    }
+                                ],
+                                "chords": [
+                                    {"beat": 0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 2, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 4, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 6, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 8, "root": 0, "quality": "dom7", "bass": null}
+                                ]
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, as often as you like, then choose the third that fits."},
+                            "exercise": {
+                                "tempo": 72,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Over do, which third fits the key?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -7}, {"beat": 0, "length": 3, "step": -3}],
+                                                "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -7}, {"beat": 0, "length": 3, "step": -4}],
+                                                "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "A, do to mi, is a major third, in the key. B's note is a half step low: it clashes with the chord."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Over re, which third fits the key?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -5}, {"beat": 0, "length": 3, "step": -1}],
+                                                "chords": [{"beat": 0, "root": 0, "quality": "dom7", "bass": null}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -5}, {"beat": 0, "length": 3, "step": -2}],
+                                                "chords": [{"beat": 0, "root": 0, "quality": "dom7", "bass": null}]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "B, re to fa, is a minor third: smaller, but in the key. A's note is outside it."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Over mi, which third fits the key?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -3}, {"beat": 0, "length": 3, "step": 0}],
+                                                "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -3}, {"beat": 0, "length": 3, "step": 1}],
+                                                "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "A, mi to so, a minor third, stays in the key. A third above isn't always the same size."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Over fa, which third fits the key?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -2}, {"beat": 0, "length": 3, "step": 1}],
+                                                "chords": [{"beat": 0, "root": 10, "quality": "maj", "bass": null}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": -2}, {"beat": 0, "length": 3, "step": 2}],
+                                                "chords": [{"beat": 0, "root": 10, "quality": "maj", "bass": null}]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "B, fa to la, a major third. The key decides: you just follow the scale."}
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide climbs do re mi fa so; you sing a third above each, over the chords."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 4, "length": 2, "step": -3, "lyric": "ah"},
+                                    {"beat": 6, "length": 2, "step": -2, "lyric": "ah"},
+                                    {"beat": 8, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 10, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 12, "length": 2, "step": 4, "lyric": "ah"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 2, "step": -7},
+                                            {"beat": 6, "length": 2, "step": -5},
+                                            {"beat": 8, "length": 2, "step": -3},
+                                            {"beat": 10, "length": 2, "step": -2},
+                                            {"beat": 12, "length": 2, "step": 0}
+                                        ]
+                                    }
+                                ],
+                                "chords": [
+                                    {"beat": 4, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 6, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 8, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 10, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 12, "root": 0, "quality": "dom7", "bass": null}
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for your thirds on pitch, major and minor."}
+                        }
+                    ]
+                },
+                {
+                    "id": "imp-1-fourth",
+                    "title": {"en": "Third or fourth?"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Over so, the third above is ti, and ti rubs against the chord of do. So the part goes up a fourth, to do."},
+                            "steps": [
+                                {"title": {"en": "Over so"}, "detail": {"en": "Not ti, but do"}},
+                                {"title": {"en": "A fourth, not a third"}, "detail": {"en": "The next note in the chord"}},
+                                {"title": {"en": "Every so in the tune"}, "detail": {"en": "Row, boat, shore, jah"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose the one that rubs."},
+                            "exercise": {
+                                "tempo": 72,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Over so, which harmony rubs?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 0}, {"beat": 0, "length": 3, "step": 4}],
+                                                "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 0}, {"beat": 0, "length": 3, "step": 5}],
+                                                "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "A puts ti over the chord of do: a seventh against do, and it rubs. B's do rings."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Over so, which harmony rubs?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 0}, {"beat": 0, "length": 3, "step": 5}],
+                                                "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 0}, {"beat": 0, "length": 3, "step": 4}],
+                                                "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "B's ti rubs again. Over so, take do: a fourth up, in the chord."}
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The first line again, the part above: do over every so."},
+                            "exercise": {
+                                "tempo": 92,
+                                "notes": [
+                                    {"beat": 4.0, "length": 1.0, "step": -3, "lyric": "Mi-"},
+                                    {"beat": 5.0, "length": 1.0, "step": 0, "lyric": "chael,"},
+                                    {"beat": 6.0, "length": 1.5, "step": 5, "lyric": "row"},
+                                    {"beat": 7.5, "length": 0.5, "step": 0, "lyric": "the"},
+                                    {"beat": 8.0, "length": 1.0, "step": 5, "lyric": "boat"},
+                                    {"beat": 9.0, "length": 1.0, "step": 5, "lyric": "a-"},
+                                    {"beat": 10.0, "length": 2.0, "step": 5, "lyric": "shore,"},
+                                    {"beat": 12.0, "length": 1.0, "step": 0, "lyric": "Hal-"},
+                                    {"beat": 13.0, "length": 1.0, "step": 5, "lyric": "le-"},
+                                    {"beat": 14.0, "length": 4.0, "step": 5, "lyric": "lu-"},
+                                    {"beat": 18.0, "length": 2.0, "step": 5, "lyric": "jah!"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4.0, "length": 1.0, "step": -7, "lyric": "Mi-"},
+                                            {"beat": 5.0, "length": 1.0, "step": -3, "lyric": "chael,"},
+                                            {"beat": 6.0, "length": 1.5, "step": 0, "lyric": "row"},
+                                            {"beat": 7.5, "length": 0.5, "step": -3, "lyric": "the"},
+                                            {"beat": 8.0, "length": 1.0, "step": 0, "lyric": "boat"},
+                                            {"beat": 9.0, "length": 1.0, "step": 2, "lyric": "a-"},
+                                            {"beat": 10.0, "length": 2.0, "step": 0, "lyric": "shore,"},
+                                            {"beat": 12.0, "length": 1.0, "step": -3, "lyric": "Hal-"},
+                                            {"beat": 13.0, "length": 1.0, "step": 0, "lyric": "le-"},
+                                            {"beat": 14.0, "length": 4.0, "step": 2, "lyric": "lu-"},
+                                            {"beat": 18.0, "length": 2.0, "step": 0, "lyric": "jah!"}
+                                        ]
+                                    }
+                                ],
+                                "chords": [
+                                    {"beat": 4.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 6.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 14.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 18.0, "root": 5, "quality": "maj", "bass": null}
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for your harmony's notes on pitch, every so answered with do."}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
