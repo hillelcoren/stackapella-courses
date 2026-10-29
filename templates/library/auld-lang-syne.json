@@ -1,6 +1,6 @@
 {
  "id": "auld-lang-syne",
- "version": 4,
+ "version": 5,
  "reviewed": true,
  "title": "Auld Lang Syne",
  "description": "The first verse of the New Year song, for 2 to 4 singers: the soprano sings the melody, the alto and tenor harmonise beneath it, and the bass holds the roots on \"oo\". Short, and a good first try at holding your own line.",
@@ -34,9 +34,9 @@
  ],
  "chords": [
   {
-   "beat": 0.0,
+   "beat": 0,
    "root": 0,
-   "quality": "maj",
+   "quality": "maj6",
    "bass": null
   },
   {
@@ -74,6 +74,12 @@
    "root": 0,
    "quality": "maj",
    "bass": null
+  },
+  {
+   "beat": 24,
+   "root": 5,
+   "quality": "maj",
+   "bass": 0
   },
   {
    "beat": 25.0,
@@ -303,7 +309,7 @@
    "key": "alto",
    "name": "Alto",
    "range": {
-    "low": 55,
+    "low": 57,
     "high": 70
    },
    "guide": {
@@ -312,7 +318,7 @@
      {
       "beat": 0,
       "length": 1,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "Should",
       "br": true
      },
@@ -374,7 +380,7 @@
      {
       "beat": 10.5,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "ver"
      },
      {
@@ -522,7 +528,7 @@
      {
       "beat": 6.5,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 55,
       "lyric": "for-"
      },
      {
@@ -608,7 +614,7 @@
      {
       "beat": 22.5,
       "length": 0.5,
-      "pitch": 52,
+      "pitch": 55,
       "lyric": "for-"
      },
      {
@@ -620,7 +626,7 @@
      {
       "beat": 24.0,
       "length": 1,
-      "pitch": 52,
+      "pitch": 53,
       "lyric": "and",
       "br": true
      },

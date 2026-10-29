@@ -1,6 +1,6 @@
 {
  "id": "danny-boy",
- "version": 3,
+ "version": 4,
  "reviewed": true,
  "title": "Danny Boy",
  "description": "The Irish song to the Londonderry Air, for 2 to 4 singers: the soprano sings the melody, the alto moves beneath it, the bass holds the roots on \"oo\", and the tenor fills the chord. Slow and expressive, with a wide melody.",
@@ -214,9 +214,21 @@
    "bass": null
   },
   {
-   "beat": 60.0,
+   "beat": 60,
    "root": 9,
-   "quality": "dom7",
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 61,
+   "root": 9,
+   "quality": "sus4",
+   "bass": null
+  },
+  {
+   "beat": 61.5,
+   "root": 9,
+   "quality": "maj",
    "bass": null
   },
   {
@@ -964,7 +976,7 @@
      {
       "beat": 13.0,
       "length": 0.5,
-      "pitch": 66,
+      "pitch": 59,
       "lyric": "moun-"
      },
      {
@@ -1531,7 +1543,7 @@
      {
       "beat": 13.0,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 54,
       "lyric": "moun-"
      },
      {
@@ -1687,7 +1699,7 @@
      {
       "beat": 30.0,
       "length": 2.0,
-      "pitch": 57
+      "pitch": 54
      },
      {
       "beat": 32.5,
