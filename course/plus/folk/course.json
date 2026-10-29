@@ -1036,6 +1036,489 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "folk-ornaments",
+            "title": { "en": "Ornaments" },
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "folk-3-flick",
+                    "title": { "en": "A flick from above" },
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": { "en": "Folk singers decorate a note with a flick: a quick touch of the next note up, then the note itself." },
+                            "steps": [
+                                {
+                                    "title": { "en": "Light, from the breath" },
+                                    "detail": { "en": "Never from the jaw: rest a fingertip on your chin" }
+                                },
+                                { "title": { "en": "The next note up" }, "detail": { "en": "Just a touch, then home" } },
+                                {
+                                    "title": { "en": "Slow first" },
+                                    "detail": { "en": "Real flicks are under a tenth of a second. We practise a slow one" }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
+                                    { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
+                                    { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
+                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "Town" },
+                                    { "beat": 1.75, "length": 1.25, "step": 0 },
+                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
+                                    { "beat": 4.5, "length": 0.25, "step": -7, "lyric": "born," },
+                                    { "beat": 4.75, "length": 1.25, "step": -9 }
+                                ],
+                                "turn": false,
+                                "drone": { "step": -4 }
+                            },
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "The line with its two flicks, on \"Town\" and \"born\", at your own pace." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
+                                    { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
+                                    { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
+                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "Town" },
+                                    { "beat": 1.75, "length": 1.25, "step": 0 },
+                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
+                                    { "beat": 4.5, "length": 0.25, "step": -7, "lyric": "born," },
+                                    { "beat": 4.75, "length": 1.25, "step": -9 }
+                                ],
+                                "turn": false,
+                                "drone": { "step": -4 }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Listen, then sing it back, flicks and all." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
+                                    { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
+                                    { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
+                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "Town" },
+                                    { "beat": 1.75, "length": 1.25, "step": 0 },
+                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
+                                    { "beat": 4.5, "length": 0.25, "step": -7, "lyric": "born," },
+                                    { "beat": 4.75, "length": 1.25, "step": -9 }
+                                ],
+                                "turn": true,
+                                "drone": { "step": -4 }
+                            },
+                            "measures": {
+                                "en": "Your stars are for every note, the flicks too, with a little extra room for the quick ones. Once it's easy, speed it up yourself. Next: the turn."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "folk-3-turn",
+                    "title": { "en": "The turn" },
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": { "en": "A turn wraps around a note: the note above, the note, the note below, and back to the note." },
+                            "steps": [
+                                { "title": { "en": "Above, on, below, on" }, "detail": { "en": "Four quick notes, then hold" } },
+                                { "title": { "en": "On \"youth\"" }, "detail": { "en": "The long note of the line" } },
+                                { "title": { "en": "Small and light" }, "detail": { "en": "Tiny steps, jaw and belly still" } }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": 3, "lyric": "Made" },
+                                    { "beat": 0.5, "length": 0.5, "step": 5, "lyric": "ev-" },
+                                    { "beat": 1, "length": 0.5, "step": 3, "lyric": "'ry" },
+                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "youth" },
+                                    { "beat": 1.75, "length": 0.25, "step": 0 },
+                                    { "beat": 2.0, "length": 0.25, "step": -2 },
+                                    { "beat": 2.25, "length": 0.75, "step": 0 },
+                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "cry" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "well-" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "a-" },
+                                    { "beat": 4.5, "length": 1, "step": -9, "lyric": "day," }
+                                ],
+                                "turn": false,
+                                "drone": { "step": -4 }
+                            },
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "The line with its turn on \"youth\", at your own pace." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": 3, "lyric": "Made" },
+                                    { "beat": 0.5, "length": 0.5, "step": 5, "lyric": "ev-" },
+                                    { "beat": 1, "length": 0.5, "step": 3, "lyric": "'ry" },
+                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "youth" },
+                                    { "beat": 1.75, "length": 0.25, "step": 0 },
+                                    { "beat": 2.0, "length": 0.25, "step": -2 },
+                                    { "beat": 2.25, "length": 0.75, "step": 0 },
+                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "cry" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "well-" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "a-" },
+                                    { "beat": 4.5, "length": 1, "step": -9, "lyric": "day," }
+                                ],
+                                "turn": false,
+                                "drone": { "step": -4 }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Listen, then sing it back with the turn." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": 3, "lyric": "Made" },
+                                    { "beat": 0.5, "length": 0.5, "step": 5, "lyric": "ev-" },
+                                    { "beat": 1, "length": 0.5, "step": 3, "lyric": "'ry" },
+                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "youth" },
+                                    { "beat": 1.75, "length": 0.25, "step": 0 },
+                                    { "beat": 2.0, "length": 0.25, "step": -2 },
+                                    { "beat": 2.25, "length": 0.75, "step": 0 },
+                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "cry" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "well-" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "a-" },
+                                    { "beat": 4.5, "length": 1, "step": -9, "lyric": "day," }
+                                ],
+                                "turn": true,
+                                "drone": { "step": -4 }
+                            },
+                            "measures": { "en": "Your stars are for every note of the line, the turn's four too. Next: hear where an ornament sits." }
+                        }
+                    ]
+                },
+                {
+                    "id": "folk-3-spot",
+                    "title": { "en": "Spot the ornament" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": { "en": "A good ornament is small. Can you hear where it is?" },
+                            "steps": [
+                                { "title": { "en": "Listen to the line" }, "detail": { "en": "One word has a flick or a turn" } },
+                                { "title": { "en": "Play it again" }, "detail": { "en": "As often as you like" } },
+                                { "title": { "en": "Pick the word" }, "detail": { "en": "Only your first answer counts" } }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
+                                    { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
+                                    { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
+                                    { "beat": 1.5, "length": 1.5, "step": 0, "lyric": "Town" },
+                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
+                                    { "beat": 4.5, "length": 1.5, "step": -9, "lyric": "born," }
+                                ],
+                                "turn": false,
+                                "drone": { "step": -4 }
+                            },
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": { "en": "Listen, then pick the word with the ornament." },
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": { "en": "Which word had the ornament?" },
+                                        "clips": [
+                                            {
+                                                "label": { "en": "The line" },
+                                                "notes": [
+                                                    { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
+                                                    { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
+                                                    { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
+                                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "Town" },
+                                                    { "beat": 1.75, "length": 1.25, "step": 0 },
+                                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
+                                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
+                                                    { "beat": 4.5, "length": 1.5, "step": -9, "lyric": "born," }
+                                                ],
+                                                "drone": { "step": -4 }
+                                            }
+                                        ],
+                                        "options": [
+                                            { "en": "Scarlet" },
+                                            { "en": "Town" },
+                                            { "en": "born" }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "A flick on \"Town\": a quick touch of the note above." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which word had the ornament?" },
+                                        "clips": [
+                                            {
+                                                "label": { "en": "The line" },
+                                                "notes": [
+                                                    { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
+                                                    { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
+                                                    { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
+                                                    { "beat": 1.5, "length": 1.5, "step": 0, "lyric": "Town" },
+                                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
+                                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
+                                                    { "beat": 4.5, "length": 0.25, "step": -7, "lyric": "born," },
+                                                    { "beat": 4.75, "length": 1.25, "step": -9 }
+                                                ],
+                                                "drone": { "step": -4 }
+                                            }
+                                        ],
+                                        "options": [
+                                            { "en": "Scarlet" },
+                                            { "en": "Town" },
+                                            { "en": "born" }
+                                        ],
+                                        "answer": 2,
+                                        "why": { "en": "A flick on \"born\", the line's low note." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which word had the ornament?" },
+                                        "clips": [
+                                            {
+                                                "label": { "en": "The line" },
+                                                "notes": [
+                                                    { "beat": 0, "length": 0.5, "step": 3, "lyric": "Made" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 5, "lyric": "ev-" },
+                                                    { "beat": 1, "length": 0.5, "step": 3, "lyric": "'ry" },
+                                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "youth" },
+                                                    { "beat": 1.75, "length": 0.25, "step": 0 },
+                                                    { "beat": 2.0, "length": 0.25, "step": -2 },
+                                                    { "beat": 2.25, "length": 0.75, "step": 0 },
+                                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "cry" },
+                                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "well-" },
+                                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "a-" },
+                                                    { "beat": 4.5, "length": 1, "step": -9, "lyric": "day," }
+                                                ],
+                                                "drone": { "step": -4 }
+                                            }
+                                        ],
+                                        "options": [
+                                            { "en": "every" },
+                                            { "en": "youth" },
+                                            { "en": "day" }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "A turn on \"youth\": above, on, below, on." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which word had the ornament?" },
+                                        "clips": [
+                                            {
+                                                "label": { "en": "The line" },
+                                                "notes": [
+                                                    { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
+                                                    { "beat": 0.5, "length": 0.25, "step": -2, "lyric": "Scar-" },
+                                                    { "beat": 0.75, "length": 0.25, "step": -4 },
+                                                    { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
+                                                    { "beat": 1.5, "length": 1.5, "step": 0, "lyric": "Town" },
+                                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
+                                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
+                                                    { "beat": 4.5, "length": 1.5, "step": -9, "lyric": "born," }
+                                                ],
+                                                "drone": { "step": -4 }
+                                            }
+                                        ],
+                                        "options": [
+                                            { "en": "Scarlet" },
+                                            { "en": "Town" },
+                                            { "en": "born" }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "A flick on \"Scar-\": quick ornaments can sit on short notes too." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which word had the ornament?" },
+                                        "clips": [
+                                            {
+                                                "label": { "en": "The line" },
+                                                "notes": [
+                                                    { "beat": 0, "length": 0.5, "step": 3, "lyric": "Made" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 5, "lyric": "ev-" },
+                                                    { "beat": 1, "length": 0.5, "step": 3, "lyric": "'ry" },
+                                                    { "beat": 1.5, "length": 1.5, "step": 0, "lyric": "youth" },
+                                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "cry" },
+                                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "well-" },
+                                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "a-" },
+                                                    { "beat": 4.5, "length": 0.25, "step": -7, "lyric": "day," },
+                                                    { "beat": 4.75, "length": 0.75, "step": -9 }
+                                                ],
+                                                "drone": { "step": -4 }
+                                            }
+                                        ],
+                                        "options": [
+                                            { "en": "every" },
+                                            { "en": "youth" },
+                                            { "en": "day" }
+                                        ],
+                                        "answer": 2,
+                                        "why": { "en": "A flick on \"day\", at the end of the line." }
+                                    }
+                                ]
+                            },
+                            "measures": { "en": "Your stars are for the rounds you got right first time." }
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "Now sing a line with a flick on \"Town\", at your own pace." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
+                                    { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
+                                    { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
+                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "Town" },
+                                    { "beat": 1.75, "length": 1.25, "step": 0 },
+                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
+                                    { "beat": 4.5, "length": 1.5, "step": -9, "lyric": "born," }
+                                ],
+                                "turn": false,
+                                "drone": { "step": -4 }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "folk-3-challenge",
+                    "title": { "en": "Decorate a ballad" },
+                    "challenge": true,
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": { "en": "The whole verse, a flick on \"Town\" and a turn on \"youth\", plain everywhere else." },
+                            "steps": [
+                                { "title": { "en": "Listen to the verse" }, "detail": { "en": "Two ornaments, no more" } },
+                                { "title": { "en": "Plain between" }, "detail": { "en": "The long notes steady and easy" } },
+                                { "title": { "en": "Breathe after \"dwellin'\"" }, "detail": { "en": "Halfway, where the line turns" } }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
+                                    { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
+                                    { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
+                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "Town" },
+                                    { "beat": 1.75, "length": 1.25, "step": 0 },
+                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
+                                    { "beat": 4.5, "length": 1.5, "step": -9, "lyric": "born," },
+                                    { "beat": 6, "length": 0.5, "step": -9, "lyric": "There" },
+                                    { "beat": 6.5, "length": 0.5, "step": -4, "lyric": "was" },
+                                    { "beat": 7, "length": 0.5, "step": -2, "lyric": "a" },
+                                    { "beat": 7.5, "length": 1.5, "step": 0, "lyric": "fair" },
+                                    { "beat": 9, "length": 0.5, "step": -2, "lyric": "maid" },
+                                    { "beat": 9.5, "length": 0.25, "step": 0, "lyric": "dwell-" },
+                                    { "beat": 9.75, "length": 2.25, "step": 3, "lyric": "in'," },
+                                    { "beat": 12, "length": 0.5, "step": 3, "lyric": "Made" },
+                                    { "beat": 12.5, "length": 0.5, "step": 5, "lyric": "ev-" },
+                                    { "beat": 13, "length": 0.5, "step": 3, "lyric": "'ry" },
+                                    { "beat": 13.5, "length": 0.25, "step": 1, "lyric": "youth" },
+                                    { "beat": 13.75, "length": 0.25, "step": 0 },
+                                    { "beat": 14.0, "length": 0.25, "step": -2 },
+                                    { "beat": 14.25, "length": 0.75, "step": 0 },
+                                    { "beat": 15, "length": 0.5, "step": -2, "lyric": "cry" },
+                                    { "beat": 15.5, "length": 0.5, "step": -4, "lyric": "well-" },
+                                    { "beat": 16, "length": 0.5, "step": 0, "lyric": "a-" },
+                                    { "beat": 16.5, "length": 1, "step": -9, "lyric": "day," },
+                                    { "beat": 17.5, "length": 0.75, "step": 0, "lyric": "Her" },
+                                    { "beat": 18.25, "length": 0.25, "step": -2, "lyric": "name" },
+                                    { "beat": 18.5, "length": 0.5, "step": -4, "lyric": "was" },
+                                    { "beat": 19, "length": 0.5, "step": 5, "lyric": "Bar-" },
+                                    { "beat": 19.5, "length": 1.5, "step": 5, "lyric": "ba-" },
+                                    { "beat": 21, "length": 0.5, "step": -9, "lyric": "ra" },
+                                    { "beat": 21.5, "length": 0.5, "step": -9, "lyric": "Al-" },
+                                    { "beat": 22, "length": 2.5, "step": -4, "lyric": "len." }
+                                ],
+                                "turn": false,
+                                "drone": { "step": -4 }
+                            },
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "After a bar of the drone, sing the decorated verse." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 3, "length": 0.5, "step": -9, "lyric": "In" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
+                                    { "beat": 4, "length": 0.5, "step": -2, "lyric": "let" },
+                                    { "beat": 4.5, "length": 0.25, "step": 1, "lyric": "Town" },
+                                    { "beat": 4.75, "length": 1.25, "step": 0 },
+                                    { "beat": 6, "length": 0.5, "step": -2, "lyric": "where" },
+                                    { "beat": 6.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                    { "beat": 7, "length": 0.5, "step": 0, "lyric": "was" },
+                                    { "beat": 7.5, "length": 1.5, "step": -9, "lyric": "born," },
+                                    { "beat": 9, "length": 0.5, "step": -9, "lyric": "There" },
+                                    { "beat": 9.5, "length": 0.5, "step": -4, "lyric": "was" },
+                                    { "beat": 10, "length": 0.5, "step": -2, "lyric": "a" },
+                                    { "beat": 10.5, "length": 1.5, "step": 0, "lyric": "fair" },
+                                    { "beat": 12, "length": 0.5, "step": -2, "lyric": "maid" },
+                                    { "beat": 12.5, "length": 0.25, "step": 0, "lyric": "dwell-" },
+                                    { "beat": 12.75, "length": 2.25, "step": 3, "lyric": "in'," },
+                                    { "beat": 15, "length": 0.5, "step": 3, "lyric": "Made" },
+                                    { "beat": 15.5, "length": 0.5, "step": 5, "lyric": "ev-" },
+                                    { "beat": 16, "length": 0.5, "step": 3, "lyric": "'ry" },
+                                    { "beat": 16.5, "length": 0.25, "step": 1, "lyric": "youth" },
+                                    { "beat": 16.75, "length": 0.25, "step": 0 },
+                                    { "beat": 17.0, "length": 0.25, "step": -2 },
+                                    { "beat": 17.25, "length": 0.75, "step": 0 },
+                                    { "beat": 18, "length": 0.5, "step": -2, "lyric": "cry" },
+                                    { "beat": 18.5, "length": 0.5, "step": -4, "lyric": "well-" },
+                                    { "beat": 19, "length": 0.5, "step": 0, "lyric": "a-" },
+                                    { "beat": 19.5, "length": 1, "step": -9, "lyric": "day," },
+                                    { "beat": 20.5, "length": 0.75, "step": 0, "lyric": "Her" },
+                                    { "beat": 21.25, "length": 0.25, "step": -2, "lyric": "name" },
+                                    { "beat": 21.5, "length": 0.5, "step": -4, "lyric": "was" },
+                                    { "beat": 22, "length": 0.5, "step": 5, "lyric": "Bar-" },
+                                    { "beat": 22.5, "length": 1.5, "step": 5, "lyric": "ba-" },
+                                    { "beat": 24, "length": 0.5, "step": -9, "lyric": "ra" },
+                                    { "beat": 24.5, "length": 0.5, "step": -9, "lyric": "Al-" },
+                                    { "beat": 25, "length": 2.5, "step": -4, "lyric": "len." }
+                                ],
+                                "turn": false,
+                                "drone": { "step": -4 }
+                            },
+                            "measures": {
+                                "en": "Your stars are for every note, the ornaments too. Listen back: were the long notes plain and steady? Next: singing on your own."
+                            }
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
