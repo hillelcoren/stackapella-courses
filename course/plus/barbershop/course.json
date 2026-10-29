@@ -1,0 +1,1597 @@
+{
+    "id": "barbershop",
+    "version": 1,
+    "reviewed": false,
+    "title": {
+        "en": "Barbershop and tags"
+    },
+    "units": [
+        {
+            "id": "bb-make-it-ring",
+            "title": {
+                "en": "Make it ring"
+            },
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "bb-1-ring",
+                    "title": {
+                        "en": "A chord that rings"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A barbershop chord rings when every voice is tuned to the others, so closely it hums. Here, one note is yours."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Hear it ring"
+                                    },
+                                    "detail": {
+                                        "en": "Four straight voices, tuned"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Then the hole"
+                                    },
+                                    "detail": {
+                                        "en": "The top note, mi, is yours"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Lower than a piano"
+                                    },
+                                    "detail": {
+                                        "en": "A ringing third sits 14 cents under the piano's"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "cents": 0
+                                        },
+                                        "cents": -14
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 9,
+                                                "step": -16,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 9,
+                                                "step": -9,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 9,
+                                                "step": -4,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    }
+                                ]
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Listen to each chord, as often as you like. Headphones on: through a speaker the mic hears the chord too."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Which one rings?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": 0.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -0.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "B's third is 14 cents lower than the piano's: the beating stops and the chord hums."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one beats?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -0.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": 0.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "B has the piano's third: a fast shimmer against the others. A rings."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Try it: hold mi with the three voices, straight, and let it settle where the chord hums. This one's practice. Headphones on: through a speaker the mic hears the chord too."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "cents": 0
+                                        },
+                                        "cents": -14
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -16,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -9,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -4,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    }
+                                ],
+                                "score": "ring",
+                                "generous": true
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Now hold mi for four beats, straight, until it rings. Straight, not squeezed: medium-soft. Headphones on: through a speaker the mic hears the chord too."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "cents": 0
+                                        },
+                                        "cents": -14
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -16,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -9,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -4,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    }
+                                ],
+                                "score": "ring",
+                                "generous": true
+                            },
+                            "measures": {
+                                "en": "Your stars are for how close your held mi came to ringing: within 6 cents of pure rings, and the piano's own third never counts. Barbershop harmony grew from Black American quartet singing of the late 1800s. In unit 4, two of these voices are you."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "bb-1-straight",
+                    "title": {
+                        "en": "Straight, not squeezed"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A chord rings on straight tones: no wave. Straight, not squeezed: medium-soft. If your throat tightens, let a little wave back in."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Straight"
+                                    },
+                                    "detail": {
+                                        "en": "One steady line, no wave"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Not squeezed"
+                                    },
+                                    "detail": {
+                                        "en": "Light and medium-soft"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Hear the difference"
+                                    },
+                                    "detail": {
+                                        "en": "A wave blurs the ring"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "cents": 0
+                                        },
+                                        "cents": -14
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 4,
+                                        "step": 0,
+                                        "cents": -14,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "hz": 5.5,
+                                            "cents": 35
+                                        }
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 9,
+                                                "step": -16,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 9,
+                                                "step": -9,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 9,
+                                                "step": -4,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    }
+                                ]
+                            },
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Hold mi straight over the three voices, then so's place in the chord, a note at a time. Headphones on: through a speaker the mic hears the chord too."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "cents": 0
+                                        },
+                                        "cents": -14
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 4,
+                                        "step": -9,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "cents": 0
+                                        }
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -16,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            },
+                                            {
+                                                "beat": 6,
+                                                "length": 5.5,
+                                                "step": -16,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -9,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            },
+                                            {
+                                                "beat": 6,
+                                                "length": 5.5,
+                                                "step": -4,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -4,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            },
+                                            {
+                                                "beat": 6,
+                                                "length": 5.5,
+                                                "step": 0,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                },
+                                                "cents": -14
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    }
+                                ],
+                                "score": "straight"
+                            },
+                            "measures": {
+                                "en": "Your stars are for how straight your held notes stayed. Was it light, not squeezed?"
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {
+                                "en": "Now record mi over the chord twice: once on \"oo\", once on \"ah\". Play both back."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "model": {
+                                    "notes": [
+                                        {
+                                            "beat": 0,
+                                            "length": 4,
+                                            "step": 0,
+                                            "lyric": "oo",
+                                            "vibrato": {
+                                                "cents": 0
+                                            },
+                                            "cents": -14
+                                        }
+                                    ],
+                                    "chords": [
+                                        {
+                                            "beat": 0,
+                                            "root": 0,
+                                            "quality": "maj",
+                                            "bass": null
+                                        }
+                                    ]
+                                },
+                                "questions": [
+                                    {
+                                        "en": "Which vowel rang more for you, \"oo\" or \"ah\"?"
+                                    },
+                                    {
+                                        "en": "Did your throat stay easy on both?"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "bb-1-out",
+                    "title": {
+                        "en": "Who's out?"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "One voice out of tune makes the whole chord beat. Find it."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Bass, bari, lead, tenor"
+                                    },
+                                    "detail": {
+                                        "en": "Low to high"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "One is off"
+                                    },
+                                    "detail": {
+                                        "en": "By about a fifth of a semitone"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Listen for the shimmer"
+                                    },
+                                    "detail": {
+                                        "en": "Which voice is it in?"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "cents": 0
+                                        },
+                                        "cents": -14
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 4,
+                                                "step": -16,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 4,
+                                                "step": -9,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 4,
+                                                "step": -4,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    }
+                                ]
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Each chord has one voice 20 cents out. Which one? Headphones on: through a speaker the mic hears the chord too."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Who's out?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": 0.06,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Bass"
+                                            },
+                                            {
+                                                "en": "Baritone"
+                                            },
+                                            {
+                                                "en": "Lead"
+                                            },
+                                            {
+                                                "en": "Tenor"
+                                            }
+                                        ],
+                                        "answer": 3,
+                                        "why": {
+                                            "en": "The top voice, the tenor, was 20 cents sharp."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Who's out?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -0.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Bass"
+                                            },
+                                            {
+                                                "en": "Baritone"
+                                            },
+                                            {
+                                                "en": "Lead"
+                                            },
+                                            {
+                                                "en": "Tenor"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "The bass, the lowest, was 20 cents flat."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Who's out?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -3.8,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -0.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Bass"
+                                            },
+                                            {
+                                                "en": "Baritone"
+                                            },
+                                            {
+                                                "en": "Lead"
+                                            },
+                                            {
+                                                "en": "Tenor"
+                                            }
+                                        ],
+                                        "answer": 2,
+                                        "why": {
+                                            "en": "The lead, the octave above the bass, was 20 cents sharp."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Who's out?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -0.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Bass"
+                                            },
+                                            {
+                                                "en": "Baritone"
+                                            },
+                                            {
+                                                "en": "Lead"
+                                            },
+                                            {
+                                                "en": "Tenor"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "The baritone, on so, was 20 cents flat."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one beats?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -0.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -0.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "B has a voice out: it shimmers. A rings."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one beats?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": 0.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -16.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -9.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -4.0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 4,
+                                                        "step": -0.14,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "A has the piano's third. B rings."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Now hold mi and make the chord ring. Straight, not squeezed: medium-soft. Headphones on: through a speaker the mic hears the chord too."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "cents": 0
+                                        },
+                                        "cents": -14
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -16,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -9,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -4,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    }
+                                ],
+                                "score": "ring"
+                            },
+                            "measures": {
+                                "en": "Your stars are for how close your held mi came to ringing: within 6 cents of pure rings."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "bb-1-challenge",
+                    "title": {
+                        "en": "Any seat"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "One chord, three seats: the root, the fifth or the third. Lock each one."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "The root"
+                                    },
+                                    "detail": {
+                                        "en": "Do, the floor of the chord"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "The fifth"
+                                    },
+                                    "detail": {
+                                        "en": "So, where the piano puts it"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "The third"
+                                    },
+                                    "detail": {
+                                        "en": "Mi, 14 cents low"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "cents": 0
+                                        },
+                                        "cents": -14
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 4,
+                                                "step": -16,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 4,
+                                                "step": -9,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 4,
+                                                "step": -4,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    }
+                                ]
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "The fifth, the easy seat: hold so while the others sing theirs. Headphones on: through a speaker the mic hears the chord too."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": -9,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "cents": 0
+                                        }
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -16,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -4,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": 0,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                },
+                                                "cents": -14
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    }
+                                ],
+                                "score": "ring"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "The root: hold do while the others sing around you. Headphones on: through a speaker the mic hears the chord too."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": -4,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "cents": 0
+                                        }
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -16,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -9,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": 0,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                },
+                                                "cents": -14
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    }
+                                ],
+                                "score": "ring"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "And the third: hold mi until the chord rings. Straight, not squeezed: medium-soft. Headphones on: through a speaker the mic hears the chord too."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo",
+                                        "vibrato": {
+                                            "cents": 0
+                                        },
+                                        "cents": -14
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -16,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -9,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    },
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 0,
+                                                "length": 5.5,
+                                                "step": -4,
+                                                "lyric": "oo",
+                                                "vibrato": {
+                                                    "cents": 0
+                                                }
+                                            }
+                                        ],
+                                        "volume": 0.55
+                                    }
+                                ],
+                                "score": "ring"
+                            },
+                            "measures": {
+                                "en": "Your stars are for your third ringing: within 6 cents of pure. The fifth and the root before it were your warm-up."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
