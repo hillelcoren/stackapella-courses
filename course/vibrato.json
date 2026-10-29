@@ -337,6 +337,325 @@
                     ]
                 },
                 {
+                    "id": "vib-1-hear",
+                    "title": {
+                        "en": "Hear the difference"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Before you shape your voice, train your ear: straight, a wave, a wobble."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Straight"
+                                    },
+                                    "detail": {
+                                        "en": "One calm line"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Vibrato"
+                                    },
+                                    "detail": {
+                                        "en": "A small, quick, even wave"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Wobble"
+                                    },
+                                    "detail": {
+                                        "en": "Slow and wide"
+                                    }
+                                }
+                            ],
+                            "visual": "vibrato",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Listen to each, as often as you like, then choose."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Which one is straight?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 5.5,
+                                                            "cents": 35,
+                                                            "after": 0.3,
+                                                            "jitter": 0.2
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "A stays on one line. B moves a little up and down: that's a wave."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one has a wave?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 5.5,
+                                                            "cents": 35,
+                                                            "after": 0.3,
+                                                            "jitter": 0.2
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Listen against the drone: a wave makes the note shimmer around it."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one has a wave?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 5.5,
+                                                            "cents": 20,
+                                                            "after": 0.3
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "B's wave is small, but it's there. Smaller waves are harder to hear: you're training your ear."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one is a wobble?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 5.5,
+                                                            "cents": 35,
+                                                            "after": 0.3,
+                                                            "jitter": 0.2
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 3,
+                                                            "cents": 80,
+                                                            "after": 0.2
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "B is slow and wide: a wobble. A natural vibrato is quicker and smaller, about five or six a second."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one is the natural vibrato?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 3.2,
+                                                            "cents": 90,
+                                                            "after": 0.2
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 6,
+                                                            "cents": 30,
+                                                            "after": 0.3,
+                                                            "jitter": 0.2
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "B is quick, small and even. A is a wobble: slower and much wider."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "What happened in this note?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 5,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 5.5,
+                                                            "cents": 30,
+                                                            "after": 2,
+                                                            "jitter": 0.2
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Straight all the way"
+                                            },
+                                            {
+                                                "en": "Straight, then a wave"
+                                            },
+                                            {
+                                                "en": "A wave all the way"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "It started straight, then the wave came in: a delayed vibrato. You'll sing it in unit 4."
+                                        }
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Your stars are for the rounds you heard right first time."
+                            }
+                        }
+                    ]
+                },
+                {
                     "id": "vib-1-challenge",
                     "title": {
                         "en": "Straight through a line"
