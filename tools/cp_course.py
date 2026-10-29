@@ -80,7 +80,7 @@ def cp_1_round():
             {"kind": "try", "text": EN("The quick half, \"merrily\" to \"dream\", at your own pace."), "exercise": tryit},
             {"kind": "play", "text": EN("After a bar of the drone, sing it twice through. Keep your own line while the voices come in."),
              "exercise": play,
-             "measures": EN("Your stars are for your notes on pitch. By the end of the course you'll write your own line against a melody.")},
+             "measures": EN("Scored on your notes on pitch. By the end of the course you'll write your own line against a melody.")},
         ],
     }
 
@@ -120,7 +120,7 @@ def cp_1_hear():
                    ("Hear it as often as you like", "Then choose")], "harmony"),
             {"kind": "choose", "text": EN("Listen to each, as often as you like, then choose."),
              "exercise": {"tempo": 80, "rounds": rounds},
-             "measures": EN("Your stars are for the questions you answered right the first time.")},
+             "measures": EN("Scored on the questions you answered right the first time.")},
         ],
     }
 
@@ -145,7 +145,7 @@ def cp_1_pedal():
              "exercise": pedal(0)},
             {"kind": "play", "text": EN("Now be the floor on so, below your do. The same tune, a new pedal."),
              "exercise": pedal(-5),
-             "measures": EN("Your stars are for how long and how steadily you held your note while the tune moved.")},
+             "measures": EN("Scored on how long and how steadily you held your note while the tune moved.")},
         ],
     }
 
@@ -169,7 +169,7 @@ def cp_1_ostinato():
             {"kind": "try", "text": EN("The pattern, at your own pace."), "exercise": {"tempo": 84, "notes": notes(MOTIF)}},
             {"kind": "play", "text": EN("The guide gives you do. After a bar, sing the pattern eight times under the line, then hold the last note."),
              "exercise": {"tempo": 84, "notes": cue + pattern, "turn": False, "with": [{"notes": above}]},
-             "measures": EN("Your stars are for your pattern's notes on pitch while the other line moved.")},
+             "measures": EN("Scored on your pattern's notes on pitch while the other line moved.")},
         ],
     }
 
@@ -188,7 +188,7 @@ def cp_1_challenge():
             {"kind": "play", "text": EN("After a bar, sing do and so under the tune, then hold do to the end, with one quick breath."),
              "exercise": {"tempo": 150, "notes": cue + floor + hold, "turn": False,
                           "with": [{"notes": notes(ROW, start=BAR68, shift=ROW_DO + 12)}]},
-             "measures": EN("Your stars are for your notes on pitch, the long ones too. Could you still hear the tune while you held the floor?")},
+             "measures": EN("Scored on your notes on pitch, the long ones too. Could you still hear the tune while you held the floor?")},
         ],
     }
 
@@ -226,7 +226,7 @@ def cp_2_follow():
             {"kind": "play", "text": EN("The guide leads. Come in two bars later and sing it through."),
              "exercise": {"tempo": 100, "notes": notes(AYS, 8, AYS_DO), "turn": False,
                           "with": [{"notes": until(notes(AYS * 2, 0, AYS_DO + 12), 40)}]},
-             "measures": EN("Your stars are for your notes on pitch while the leader sang other notes.")},
+             "measures": EN("Scored on your notes on pitch while the leader sang other notes.")},
         ],
     }
 
@@ -245,7 +245,7 @@ def cp_2_minor():
              "exercise": {"tempo": 80, "notes": notes(AYS_MINOR, 16, AYS_DO), "turn": False,
                           "with": [{"notes": until(notes(AYS_MINOR * 2, 0, AYS_DO + 12), 48)},
                                    {"notes": until(notes(AYS_MINOR * 2, 8, AYS_DO), 48)}]},
-             "measures": EN("Your stars are for your notes on pitch, in minor, with two voices already going.")},
+             "measures": EN("Scored on your notes on pitch, in minor, with two voices already going.")},
         ],
     }
 
@@ -276,7 +276,7 @@ def cp_2_canon():
             {"kind": "play", "text": EN("Now you follow. The guide leads an octave up; come in a bar later."),
              "exercise": {"tempo": 72, "notes": notes(CANON, 4), "turn": False,
                           "with": [{"notes": notes(CANON + CODA, 0, 12)}]},
-             "measures": EN("Your stars are for your notes on pitch as the follower, a bar behind the leader.")},
+             "measures": EN("Scored on your notes on pitch as the follower, a bar behind the leader.")},
         ],
     }
 
@@ -313,7 +313,7 @@ def cp_2_challenge():
             {"kind": "choose", "text": EN("First, ears only: count the voices."), "exercise": {"tempo": 100, "rounds": rounds}},
             {"kind": "play", "text": EN("Come in third and sing it through, then keep \"ding, dang, dong\" going under the others."),
              "exercise": {"tempo": 100, "notes": notes(AYS, 16, AYS_DO) + floor, "turn": False, "with": others},
-             "measures": EN("Your stars are for your notes on pitch, in the middle and then as the floor. Could you still hear the others while you sang?")},
+             "measures": EN("Scored on your notes on pitch, in the middle and then as the floor. Could you still hear the others while you sang?")},
         ],
     }
 
@@ -365,7 +365,7 @@ def cp_3_call():
              "exercise": {"tempo": 90, "notes": notes(first_call), "answer": notes(first_answer), "turn": True}},
             {"kind": "play", "text": EN("Four calls, each with its answer. Sing each answer right after its call."),
              "exercise": {"tempo": 90, "notes": alternating, "turn": False},
-             "measures": EN("Your stars are for your answers' notes on pitch.")},
+             "measures": EN("Scored on your answers' notes on pitch.")},
         ],
     }
 
@@ -384,7 +384,7 @@ def cp_3_counter():
             {"kind": "try", "text": EN("Your four notes, at your own pace."), "exercise": {"tempo": 72, "notes": notes([(1, 0), (1, -1), (1, -3), (1, -5)])}},
             {"kind": "play", "text": EN("The guide gives you do. Then sing your slow line under Ode to Joy."),
              "exercise": {"tempo": 72, "notes": cue + line, "turn": False, "with": [{"notes": notes(ODE, start=4)}]},
-             "measures": EN("Your stars are for your slow line's notes on pitch while the tune moved above.")},
+             "measures": EN("Scored on your slow line's notes on pitch while the tune moved above.")},
         ],
     }
 
@@ -406,7 +406,7 @@ def cp_3_descant():
             {"kind": "play", "text": EN("After a bar, sing the descant over the tune and its chords."),
              "exercise": {"tempo": 80, "notes": [{"beat": 0, "length": 2, "step": 0, "listenOnly": True}] + notes(DESCANT_1, 4, OCOME_DO), "turn": False,
                           "with": [{"notes": notes(OCOME[:12], 4, OCOME_DO)}], "chords": oc_chords(OCOME_DO, 4, 16)},
-             "measures": EN("Your stars are for the descant's notes on pitch over the tune.")},
+             "measures": EN("Scored on the descant's notes on pitch over the tune.")},
         ],
     }
 
@@ -441,7 +441,7 @@ def cp_3_partners():
             {"kind": "play", "text": EN("After a bar of the drone, sing Row, Row, Row twice through while the guide sings Are You Sleeping."),
              "exercise": {"tempo": 150, "notes": notes(ROW * 2, BAR68, ROW_DO), "turn": False, "drone": {"step": ROW_DO},
                           "with": [{"notes": notes(AYS_SWUNG, BAR68, ROW_DO + 12)}]},
-             "measures": EN("Your stars are for your notes on pitch while a different song went on above you.")},
+             "measures": EN("Scored on your notes on pitch while a different song went on above you.")},
         ],
     }
 
@@ -463,7 +463,7 @@ def cp_3_challenge():
             {"kind": "play", "text": EN("The last verse: your descant over the tune, two lines, and hold the last note."),
              "exercise": {"tempo": 80, "notes": [{"beat": 0, "length": 2, "step": 0, "listenOnly": True}] + last, "turn": False,
                           "with": [{"notes": notes(OCOME, 4, OCOME_DO) + [{"beat": 37, "length": 4, "step": OCOME_DO}]}], "chords": oc_chords(OCOME_DO, 4)},
-             "measures": EN("Your stars are for the descant's notes on pitch, the last long one too. Could you hear the tune under you?")},
+             "measures": EN("Scored on the descant's notes on pitch, the last long one too. Could you hear the tune under you?")},
         ],
     }
 
@@ -508,7 +508,7 @@ def cp_4_consonance():
             {"kind": "try", "text": EN("The notes over the low drone, at your own pace."), "exercise": {"tempo": 60, "notes": notes(sung), "drone": drone}},
             {"kind": "play", "text": EN("Over a low do, sing a third, a fifth, a sixth and an octave; then re, rubbing, step home; then fa, rubbing, step to mi."),
              "exercise": {"tempo": 60, "notes": notes(sung, 2), "turn": False, "drone": drone},
-             "measures": EN("Your stars are for each interval on pitch over the drone, the rubs too.")},
+             "measures": EN("Scored on each interval on pitch over the drone, the rubs too.")},
         ],
     }
 
@@ -543,7 +543,7 @@ def cp_4_motion():
             {"kind": "choose", "text": EN("Listen, then choose how the voices moved."), "exercise": {"tempo": 80, "rounds": rounds}},
             {"kind": "play", "text": EN("Eight notes against the guide: opposite ways, then one held, then together in sixths, then home."),
              "exercise": {"tempo": 60, "notes": CUE + line([4, 2, 0, 4, 5, 4, 2, 0], 4, 2, "ah"), "turn": False, "with": [{"notes": cantus([12, 14, 16, 16, 14, 12, 11, 12], 4)}]},
-             "measures": EN("Your stars are for your line on pitch. It moved opposite ways four times, once against a held note, and twice in parallel sixths.")},
+             "measures": EN("Scored on your line on pitch. It moved opposite ways four times, once against a held note, and twice in parallel sixths.")},
         ],
     }
 
@@ -560,7 +560,7 @@ def cp_4_first():
             {"kind": "try", "text": EN("Your line, at your own pace."), "exercise": {"tempo": 60, "notes": line(FIRST_1, 0)}},
             {"kind": "play", "text": EN("After the guide's do, sing your line against the cantus."),
              "exercise": {"tempo": 60, "notes": CUE + line(FIRST_1, 4), "turn": False, "with": [{"notes": cantus(CANTUS_1, 4)}]},
-             "measures": EN("Your stars are for your line's notes on pitch against the cantus. This line moves contrary six times of eight, with no parallel fifths or octaves.")},
+             "measures": EN("Scored on your line's notes on pitch against the cantus. This line moves contrary six times of eight, with no parallel fifths or octaves.")},
         ],
     }
 
@@ -578,7 +578,7 @@ def cp_4_second():
             {"kind": "try", "text": EN("Your line, at your own pace."), "exercise": {"tempo": 66, "notes": [dict(n, beat=n["beat"] - 4) for n in sung]}},
             {"kind": "play", "text": EN("After the guide's do, sing two notes to each of the cantus's."),
              "exercise": {"tempo": 66, "notes": CUE + sung, "turn": False, "with": [{"notes": cantus(CANTUS_1, 4)}]},
-             "measures": EN("Your stars are for your line's notes on pitch, the passing notes too.")},
+             "measures": EN("Scored on your line's notes on pitch, the passing notes too.")},
         ],
     }
 
@@ -596,7 +596,7 @@ def cp_4_challenge():
                   {"tempo": 60, "notes": line(low, 0), "turn": False, "with": [{"notes": line(high, 0)}]}),
             {"kind": "play", "text": EN("After the guide's do, sing the cantus while the guide sings the counterpoint above you."),
              "exercise": {"tempo": 60, "notes": [{"beat": 0, "length": 2, "step": -7, "listenOnly": True}] + line(low, 4), "turn": False, "with": [{"notes": line(high, 4)}]},
-             "measures": EN("Your stars are for the cantus on pitch with the counterpoint close above. Could you hear both lines while you sang?")},
+             "measures": EN("Scored on the cantus on pitch with the counterpoint close above. Could you hear both lines while you sang?")},
         ],
     }
 
@@ -641,12 +641,12 @@ def cp_5_yours():
                    ("Move against it", "Opposite ways, as often as you can"),
                    ("A dimmed note", "Parallel or direct fifths or octaves, or an awkward leap")], "harmony",
                   {"tempo": 60, "notes": line(FIRST_1, 0), "turn": False, "with": [{"notes": cantus(CANTUS_1, 0)}]}),
-            {"kind": "play", "text": EN("A practice pass, not starred: at each cantus note, try a lit note and hear what it does."),
+            {"kind": "play", "text": EN("A practice pass, not scored: at each cantus note, try a lit note and hear what it does."),
              "exercise": {"tempo": 60, "notes": CUE + chosen_line(CANTUS_1, 4), "turn": False, "with": [{"notes": cantus(CANTUS_1, 4, 4)}]}},
             {"kind": "play", "text": EN("Now for real, slowly: at each note of the cantus, sing any lit note. Make your own line."),
              "exercise": {"tempo": 60, "notes": CUE + chosen_line(CANTUS_1, 4), "turn": False, "with": [{"notes": cantus(CANTUS_1, 4, 4)}],
                           "score": "species", "rules": "contrary"},
-             "measures": EN("Landing on a lit note is the easy part: your stars are for that, and three need at least three moves in opposite ways. Read your line's checklist above.")},
+             "measures": EN("Landing on a lit note is the easy part: it's what's scored, and the top score needs at least three moves in opposite ways. Read your line's checklist above.")},
         ],
     }
 
@@ -677,7 +677,7 @@ def cp_5_hold():
              ]}},
             {"kind": "play", "text": EN("Hold do while the bass moves, feel the rub, then step to ti and home to do."),
              "exercise": {"tempo": 60, "notes": CUE + held, "turn": False, "with": [{"notes": bass}, {"notes": re, "volume": 0.4}]},
-             "measures": EN("Your stars are for your notes on pitch, the held one too.")},
+             "measures": EN("Scored on your notes on pitch, the held one too.")},
         ],
     }
 
@@ -694,7 +694,7 @@ def cp_5_challenge():
             {"kind": "play", "text": EN("Slowly: at each note of the cantus, choose a lit note. Then hear your duet."),
              "exercise": {"tempo": 60, "notes": CUE + chosen_line(CANTUS_3, 4), "turn": False, "with": [{"notes": cantus(CANTUS_3, 4, 4)}],
                           "score": "species", "rules": "all"},
-             "measures": EN("Three stars need nearly every note on a lit pitch and every rule: half your moves opposite ways, no parallel or direct fifths or octaves, and ti to do at the end. Lesson 1, you sang a round. Today you wrote a line.")},
+             "measures": EN("The top score needs nearly every note on a lit pitch and every rule: half your moves opposite ways, no parallel or direct fifths or octaves, and ti to do at the end. Lesson 1, you sang a round. Today you wrote a line.")},
         ],
     }
 

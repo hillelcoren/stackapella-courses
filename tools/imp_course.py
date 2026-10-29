@@ -217,7 +217,7 @@ def imp_1_third():
             {"kind": "play", "text": EN("Now the part above, the whole verse, every note lit, while the guide sings the tune."),
              "exercise": {"tempo": 92, "notes": placed(HARMONY, DO, BAR), "turn": False, "generous": True,
                           "with": [{"notes": placed(TUNE, DO, BAR)}], "chords": chords(DO, BAR)},
-             "measures": EN("Your stars are for your harmony's notes on pitch. The part was parallel thirds, with a fourth wherever the third would rub.")},
+             "measures": EN("Scored on your harmony's notes on pitch. The part was parallel thirds, with a fourth wherever the third would rub.")},
         ],
     }
 
@@ -255,7 +255,7 @@ def imp_1_switch():
             {"kind": "choose", "text": EN("Listen to each, as often as you like, then choose the third that fits."), "exercise": {"tempo": 72, "rounds": rounds}},
             {"kind": "play", "text": EN("The guide climbs do re mi fa so; you sing a third above each, over the chords."),
              "exercise": {"tempo": 72, "notes": sung, "turn": False, "with": [{"notes": guide}], "chords": harm},
-             "measures": EN("Your stars are for your thirds on pitch, major and minor.")},
+             "measures": EN("Scored on your thirds on pitch, major and minor.")},
         ],
     }
 
@@ -282,7 +282,7 @@ def imp_1_fourth():
             {"kind": "play", "text": EN("The first line again, the part above: do over every so."),
              "exercise": {"tempo": 92, "notes": placed(first, DO, BAR), "turn": False,
                           "with": [{"notes": placed(line(TUNE, 0, 16), DO, BAR)}], "chords": chords(DO, BAR, 16)},
-             "measures": EN("Your stars are for your harmony's notes on pitch, every so answered with do.")},
+             "measures": EN("Scored on your harmony's notes on pitch, every so answered with do.")},
         ],
     }
 
@@ -316,7 +316,7 @@ def imp_1_ear():
             {"kind": "play", "text": EN("The part above, the whole verse. Halfway through, the lights fade: keep going by ear."),
              "exercise": {"tempo": 92, "notes": placed(HARMONY, DO, BAR), "turn": False, "lights": "fade",
                           "with": [{"notes": placed(TUNE, DO, BAR)}], "chords": chords(DO, BAR)},
-             "measures": EN("Your stars are for your harmony's notes on pitch, the second half sung with only faint outlines to follow.")},
+             "measures": EN("Scored on your harmony's notes on pitch, the second half sung with only faint outlines to follow.")},
         ],
     }
 
@@ -356,7 +356,7 @@ def imp_1_challenge():
             {"kind": "play", "text": EN("The part above the refrain. The lights show only where the chord changes."),
              "exercise": {"tempo": 100, "notes": cue(do + above[0]["step"]) + sung(above, do, 4), "turn": False, "lights": "changes",
                           "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4)},
-             "measures": EN("Your stars are for your part's notes on pitch, most of them sung with no light to follow.")},
+             "measures": EN("Scored on your part's notes on pitch, most of them sung with no light to follow.")},
         ],
     }
 
@@ -376,7 +376,7 @@ def imp_2_below():
                   {"tempo": 92, "notes": sung(line(below, 0, 16), do, 0), "turn": False, "with": [guide_line(line(TUNE, 0, 16), do, 0)], "chords": chords(do, until=16)}),
             {"kind": "play", "text": EN("The part below, the whole verse, while the guide sings the tune above you."),
              "exercise": {"tempo": 92, "notes": cue(do) + sung(below, do, BAR), "turn": False, "with": [guide_line(TUNE, do, BAR)], "chords": chords(do, BAR)},
-             "measures": EN("Your stars are for your part's notes on pitch, under the tune.")},
+             "measures": EN("Scored on your part's notes on pitch, under the tune.")},
         ],
     }
 
@@ -404,7 +404,7 @@ def imp_2_hold():
             {"kind": "play", "text": EN("Hold do under the tune; where the chord changes and it rubs, step to ti, then back home."),
              "exercise": {"tempo": 92, "notes": cue(12 + do) + notes_, "turn": False,
                           "with": [guide_line([dict(n, beat=n["beat"] - 16) for n in second], do, BAR)], "chords": hold_chords(BAR)},
-             "measures": EN("Your stars are for your held notes on pitch, and the step to ti where the chord changed.")},
+             "measures": EN("Scored on your held notes on pitch, and the step to ti where the chord changed.")},
         ],
     }
 
@@ -420,7 +420,7 @@ def imp_2_echo():
                              "with": [guide_line(call0, DO, span + 1)], "chords": chords_window(DO, frm, to, span + 1)}}
     first = round_(0, 16, "Hear the line; then the guide sings it again and you sing the part above.")
     second = round_(16, 32, "The second line: hear it, then harmonise it as it comes round again.")
-    second["measures"] = EN("Your stars are for your part's notes on pitch as the line came round again.")
+    second["measures"] = EN("Scored on your part's notes on pitch as the line came round again.")
     return {
         "id": "imp-2-echo", "title": EN("Answer in harmony"),
         "steps": [
@@ -451,12 +451,25 @@ def imp_2_challenge():
              "exercise": {"tempo": 66, "notes": cue(do_low + below[0]["step"]) + sung(below, do_low, 4), "turn": False, "with": [guide_line(mel, do_low, 4)], "chords": lib_chords(chs, do_low, 4)}},
             {"kind": "play", "text": EN("Again, your part above the tune."),
              "exercise": {"tempo": 66, "notes": cue(do_high + above[0]["step"]) + sung(above, do_high, 4), "turn": False, "with": [guide_line(mel, do_high, 4)], "chords": lib_chords(chs, do_high, 4)},
-             "measures": EN("Your stars are for your part above on pitch. Could you hear the tune under you?")},
+             "measures": EN("Scored on your part above on pitch. Could you hear the tune under you?")},
         ],
     }
 
 
 # ---- Unit 3: Any chord tone ----
+
+def in_chord_rounds_v(do):
+    """Unit 4's own rounds, in Steal Away's key, two of them harder: the seventh of the chord of so is in
+    it; la over the chord of so rubs."""
+    def clip(note, root, quality="maj"):
+        return {"notes": [{"beat": 0, "length": 3, "step": note + do}], "chords": [{"beat": 0, "root": (root + do) % 12, "quality": quality, "bass": None}]}
+    two = [EN("In the chord"), EN("It clashes")]
+    return [
+        {"prompt": EN("Over this chord, is the held note in it?"), "clips": [clip(5, 7, "dom7")], "options": two, "answer": 0, "why": EN("Fa over the chord of so with its seventh: fa is that seventh, so it belongs, leaning toward mi.")},
+        {"prompt": EN("Over this chord, is the held note in it?"), "clips": [clip(9, 7, "dom7")], "options": two, "answer": 1, "why": EN("La over the chord of so: a step above so, and it rubs.")},
+        {"prompt": EN("Over this chord, is the held note in it?"), "clips": [clip(7, 0)], "options": two, "answer": 0, "why": EN("So over the chord of do: its fifth, open and in.")},
+        {"prompt": EN("Over this chord, is the held note in it?"), "clips": [clip(2, 5)], "options": two, "answer": 1, "why": EN("Re over the chord of fa: a step from do, and it rubs.")},
+    ]
 
 def in_chord_rounds():
     """Listen and choose: a held note over a chord, in it or clashing (the tune's chords, in the course key)."""
@@ -495,7 +508,7 @@ def imp_3_chord():
             {"kind": "play", "text": EN("One long note to each chord: any lit note, under or over the tune."),
              "exercise": {"tempo": 92, "notes": cue(DO) + [dict(p, beat=p["beat"] + BAR) for p in picks], "turn": False,
                           "with": [guide_line(first, DO, BAR)], "chords": chords(DO, BAR, 16)},
-             "measures": EN("Your stars are for landing on a lit note at each chord, held while the tune moves.")},
+             "measures": EN("Scored on landing on a lit note at each chord, held while the tune moves.")},
         ],
     }
 
@@ -508,13 +521,13 @@ def imp_3_two_ways():
         "id": "imp-3-two-ways", "title": EN("Close, then against"),
         "steps": [
             learn("Two ways to make a part your own: barely move, or move against the tune.",
-                  [("Take 1: stay close", "A step or less from note to note"),
+                  [("Take 1: stay close", "Hold, or move to the nearest lit note"),
                    ("Take 2: move against it", "When the tune climbs, fall"),
                    ("Compare them", "Hear both together")], "harmony"),
-            {"kind": "play", "text": EN("Take 1: any lit note, moving as little as you can."), "exercise": ex("close"),
-             "measures": EN("Three stars need four moves in five to be a step or less, and some real moving: not one held note.")},
+            {"kind": "play", "text": EN("Take 1: any lit note, moving as little as you can: hold, or take the nearest."), "exercise": ex("close"),
+             "measures": EN("The top score needs four moves in five to be a step or a third, and some real moving: not one held note.")},
             {"kind": "play", "text": EN("Take 2: any lit note, moving against the tune."), "exercise": ex("against"),
-             "measures": EN("Three stars need half your moves, of the ones that move, against the tune.")},
+             "measures": EN("The top score needs half your moves, of the ones that move, against the tune.")},
         ],
     }
 
@@ -533,7 +546,7 @@ def imp_3_challenge():
                   {"tempo": 76, "notes": sung(mel, do, 0), "turn": False, "chords": lib_chords(chs, do)}),
             {"kind": "play", "text": EN("The chorus: at each note, any lit note. Make your own harmony."),
              "exercise": {"tempo": 76, "notes": cue(do) + shifted(picks, 4), "turn": False, "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4), "score": "species", "rules": "close"},
-             "measures": EN("Your stars are for landing on lit notes, and three need four moves in five to be a step or less.")},
+             "measures": EN("Scored on landing on lit notes, and the top score needs four moves in five to be a step or a third.")},
         ],
     }
 
@@ -552,11 +565,11 @@ def imp_4_hints():
                    ("Lost?", "Hold your note until it rubs, then step"),
                    ("A light comes late", "Only if you need it")], "harmony",
                   {"tempo": 66, "notes": sung(mel, do, 0), "turn": False, "chords": lib_chords(chs, do)}),
-            {"kind": "choose", "text": EN("Ears only: in the chord, or not?"), "exercise": {"tempo": 72, "rounds": in_chord_rounds()[::-1]}},
+            {"kind": "choose", "text": EN("Ears only: in the chord, or not?"), "exercise": {"tempo": 72, "rounds": in_chord_rounds_v(do)}},
             {"kind": "play", "text": EN("Steal Away's verse, any chord tone; a light shows only once you've been off for a beat."),
              "exercise": {"tempo": 66, "notes": cue(do) + shifted(picks, 4), "turn": False, "lights": "late",
                           "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4), "score": "species", "rules": "close"},
-             "measures": EN("Your stars are for your notes landing in the chord, most of them before any light showed, and three need small, moving steps.")},
+             "measures": EN("Scored on your notes landing in the chord, most of them before any light showed, and the top score needs small moves, a step or a third, and some real moving.")},
         ],
     }
 
@@ -574,7 +587,7 @@ def imp_4_free():
             {"kind": "play", "text": EN("Michael, Row, lights off. Sing a harmony by ear."),
              "exercise": {"tempo": 92, "notes": cue(DO) + [dict(p, beat=p["beat"] + BAR) for p in picks], "turn": False, "lights": "off",
                           "with": [guide_line(TUNE, DO, BAR)], "chords": chords(DO, BAR), "score": "species", "rules": "close"},
-             "measures": EN("Your stars are for your notes landing in the chord, by ear, and three need small, moving steps.")},
+             "measures": EN("Scored on your notes landing in the chord, by ear, and the top score needs small moves, a step or a third, and some real moving.")},
         ],
     }
 
@@ -592,8 +605,8 @@ def imp_4_high():
                    ("Light and easy", "Never pushed; stop if anything tightens")], "harmony",
                   {"tempo": 84, "notes": sung(mel, do, 0), "turn": False, "chords": lib_chords(chs, do)}),
             {"kind": "play", "text": EN("Simple Gifts: a part above the tune, lights off."),
-             "exercise": {"tempo": 84, "notes": cue(picks[0]["step"]) + shifted(picks, 4), "turn": False, "lights": "off", "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4), "score": "species", "rules": "close"},
-             "measures": EN("Your stars are for landing on the chord tones above the tune, by ear, and three need small, moving steps.")},
+             "exercise": {"tempo": 84, "notes": cue(picks[0]["step"]) + shifted(picks, 4), "turn": False, "lights": "off", "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4)},
+             "measures": EN("Scored on landing on the chord tones above the tune, by ear.")},
         ],
     }
 
@@ -616,8 +629,8 @@ def imp_4_challenge():
             {"kind": "play", "text": EN("First listen: a harmony by ear, lights off."), "exercise": ex(above)},
             {"kind": "play", "text": EN("Again: now you know the tune."), "exercise": ex(above)},
             {"kind": "play", "text": EN("Last: a bass under it all, roots and fifths, with your second take singing too. A trio of you."),
-             "exercise": ex(below, {"under": {"step": 2}, "rules": "close", "score": "species"}),
-             "measures": EN("Your stars are for the bass you sang under your own harmony: roots and fifths, landing in the chord. Hear it together plays the tune, your second take and this one.")},
+             "exercise": ex(below, {"under": {"step": 2}}),
+             "measures": EN("Scored on the bass you sang under your own harmony: roots and fifths, landing in the chord. Hear it together plays the tune, your second take and this one.")},
         ],
     }
 
@@ -635,6 +648,27 @@ course = {
          "lessons": [imp_4_hints(), imp_4_free(), imp_4_high(), imp_4_challenge()]},
     ],
 }
+def hold_or_nearest(notes):
+    """The line a singer makes doing what a close step asks: hold where the held note is still lit,
+    else the nearest lit note."""
+    line = []
+    for n in notes:
+        choices = n.get("choices") or [n["step"]]
+        line.append(line[-1] if line and line[-1] in choices else min(choices, key=lambda c: (abs(c - line[-1]) if line else abs(c), c)))
+    return line
+
+
+for unit in course["units"]:
+    for lesson in unit["lessons"]:
+        for step in lesson["steps"]:
+            ex = step.get("exercise") or {}
+            if ex.get("rules") != "close":
+                continue
+            line = hold_or_nearest([n for n in ex["notes"] if not n.get("listenOnly")])
+            moves = [abs(b - a) for a, b in zip(line, line[1:])]
+            close, moving = sum(m <= 4 for m in moves), sum(m > 0 for m in moves)
+            assert close >= 0.8 * len(moves) and moving >= 0.3 * len(moves), f"{lesson['id']}: a singer holding or taking the nearest note can't keep 'close' ({close}/{len(moves)} close, {moving} moving)"
+
 json.dump(course, open(OUT, "w"))
 if FALLBACKS:
     print("rests where nothing fits:", len(FALLBACKS))
