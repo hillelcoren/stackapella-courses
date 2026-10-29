@@ -22,7 +22,7 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A long note isn't about big lungs. It's letting the air out slowly, and stopping while it's still easy."
+                                "en": "A long note isn't about big lungs. It's letting the air out slowly and stopping while it's still easy. Hear one run out of air, then one end on purpose."
                             },
                             "steps": [
                                 {
@@ -57,6 +57,26 @@
                                         "beat": 1,
                                         "length": 6,
                                         "step": 0,
+                                        "lyric": "oo",
+                                        "bend": [
+                                            [
+                                                0,
+                                                0
+                                            ],
+                                            [
+                                                4.8,
+                                                0
+                                            ],
+                                            [
+                                                6,
+                                                -60
+                                            ]
+                                        ]
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 6,
+                                        "step": 0,
                                         "lyric": "oo"
                                     }
                                 ],
@@ -65,6 +85,40 @@
                                     "step": 0
                                 }
                             },
+                            "visual": "breath",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Before your first hold: sing easy and medium-soft, and stop while it's easy."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Never hold your breath first"
+                                    },
+                                    "detail": {
+                                        "en": "Breathe in and start the note, no pause"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Don't lock your stomach"
+                                    },
+                                    "detail": {
+                                        "en": "Stop if you feel dizzy, wheezy or tight"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Take care"
+                                    },
+                                    "detail": {
+                                        "en": "With asthma, a heart condition or pregnancy keep holds short and easy; not when hoarse or ill"
+                                    }
+                                }
+                            ],
                             "visual": "breath",
                             "reviewed": false
                         },
@@ -84,6 +138,40 @@
                             }
                         },
                         {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Breathe normally for three easy breaths. No countdown: go on when you're ready."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Breathe normally"
+                                    },
+                                    "detail": {
+                                        "en": "In and out, easy"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Shoulders down"
+                                    },
+                                    "detail": {
+                                        "en": "Let them drop"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "When you're ready"
+                                    },
+                                    "detail": {
+                                        "en": "Go on"
+                                    }
+                                }
+                            ],
+                            "visual": "breath",
+                            "reviewed": false
+                        },
+                        {
                             "kind": "breathhold",
                             "text": {
                                 "en": "Again, with your first try marked. Breathe low, let the air out slowly, and stop while it's still steady."
@@ -98,7 +186,7 @@
                                     "plus": 0
                                 },
                                 "compare": {
-                                    "step": 1
+                                    "step": 2
                                 },
                                 "generous": true
                             },
@@ -117,7 +205,7 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Good support slows your ribs from collapsing. Singers call it appoggio: leaning."
+                                "en": "Good support keeps your ribs from closing too fast. Singers call it appoggio: leaning."
                             },
                             "steps": [
                                 {
@@ -166,7 +254,7 @@
                         {
                             "kind": "breathhold",
                             "text": {
-                                "en": "Try a big breath (not your biggest) and sing at once, without holding it. Then a normal breath. Which felt easier?"
+                                "en": "Try a big breath (not your biggest) and start the note at once, without holding it. Stop while it's easy."
                             },
                             "exercise": {
                                 "step": 0,
@@ -177,9 +265,43 @@
                             }
                         },
                         {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Breathe normally for three easy breaths. No countdown: go on when you're ready."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Breathe normally"
+                                    },
+                                    "detail": {
+                                        "en": "In and out, easy"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Shoulders down"
+                                    },
+                                    "detail": {
+                                        "en": "Let them drop"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "When you're ready"
+                                    },
+                                    "detail": {
+                                        "en": "Go on"
+                                    }
+                                }
+                            ],
+                            "visual": "breath",
+                            "reviewed": false
+                        },
+                        {
                             "kind": "breathhold",
                             "text": {
-                                "en": "Hands on your ribs. Hold \"vv\" to your goal, keeping the ribs wide. Did your shoulders stay down?"
+                                "en": "Now a normal breath, hands on your lower ribs. Hold \"vv\" to your goal, keeping the ribs wide. Did your shoulders stay down? Was it easier than the big breath?"
                             },
                             "exercise": {
                                 "step": 0,
@@ -276,9 +398,9 @@
                                     },
                                     {
                                         "beat": 7.5,
-                                        "length": 1.5,
+                                        "length": 1,
                                         "step": -5,
-                                        "lyric": "oh"
+                                        "lyric": "-"
                                     },
                                     {
                                         "beat": 9,
@@ -380,9 +502,9 @@
                                     },
                                     {
                                         "beat": 7.5,
-                                        "length": 1.5,
+                                        "length": 1,
                                         "step": -5,
-                                        "lyric": "oh"
+                                        "lyric": "-"
                                     },
                                     {
                                         "beat": 9,
@@ -482,9 +604,9 @@
                                     },
                                     {
                                         "beat": 7.5,
-                                        "length": 1.5,
+                                        "length": 1,
                                         "step": -5,
-                                        "lyric": "oh"
+                                        "lyric": "-"
                                     },
                                     {
                                         "beat": 9,
@@ -715,7 +837,7 @@
                         {
                             "kind": "breathhold",
                             "text": {
-                                "en": "Hold your buzz over the drone to your goal: \"vv\", \"zz\", \"mm\" or a trill, your pick. Stop while it's even."
+                                "en": "Hold your buzz over the drone to your goal: \"vv\", \"zz\", \"mm\" or a trill, your pick. A trill uses more air, so it runs shorter: stop while it's even."
                             },
                             "exercise": {
                                 "step": 0,
@@ -724,7 +846,7 @@
                                     "step": 0
                                 },
                                 "goal": {
-                                    "plus": 2
+                                    "plus": 0
                                 },
                                 "compare": "baseline"
                             },
@@ -903,7 +1025,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Now on your own, in one breath. Keep the buzz even, up and down."
+                                "en": "Now on your own, in one breath. Did the buzz keep going all the way? That's yours to hear: we hear the notes."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -967,10 +1089,10 @@
                                 "drone": {
                                     "step": 0
                                 },
-                                "score": "centre"
+                                "score": "landing"
                             },
                             "measures": {
-                                "en": "Your stars are for every note of the hill landing close to its middle while you kept the buzz going."
+                                "en": "Your stars are for every note of the hill landing close to its pitch."
                             }
                         }
                     ]
@@ -1064,40 +1186,22 @@
                                                 "notes": [
                                                     {
                                                         "beat": 0,
-                                                        "length": 5,
+                                                        "length": 6,
                                                         "step": 0,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.0,
-                                                        "length": 0.25,
-                                                        "step": -0.1,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.25,
-                                                        "length": 0.25,
-                                                        "step": -0.2,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.5,
-                                                        "length": 0.25,
-                                                        "step": -0.35,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.75,
-                                                        "length": 0.25,
-                                                        "step": -0.5,
+                                                        "bend": [
+                                                            [
+                                                                0,
+                                                                0
+                                                            ],
+                                                            [
+                                                                4.8,
+                                                                0
+                                                            ],
+                                                            [
+                                                                6,
+                                                                -60
+                                                            ]
+                                                        ],
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
@@ -1123,47 +1227,29 @@
                                                 "notes": [
                                                     {
                                                         "beat": 0,
-                                                        "length": 5,
-                                                        "step": 0,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.0,
-                                                        "length": 0.25,
-                                                        "step": -0.1,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.25,
-                                                        "length": 0.25,
-                                                        "step": -0.2,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.5,
-                                                        "length": 0.25,
-                                                        "step": -0.35,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.75,
-                                                        "length": 0.25,
-                                                        "step": -0.5,
+                                                        "length": 6,
+                                                        "step": 2,
+                                                        "bend": [
+                                                            [
+                                                                0,
+                                                                0
+                                                            ],
+                                                            [
+                                                                4.8,
+                                                                0
+                                                            ],
+                                                            [
+                                                                6,
+                                                                -60
+                                                            ]
+                                                        ],
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
                                                     }
                                                 ],
                                                 "drone": {
-                                                    "step": 0
+                                                    "step": 2
                                                 }
                                             },
                                             {
@@ -1172,14 +1258,14 @@
                                                     {
                                                         "beat": 0,
                                                         "length": 6,
-                                                        "step": 0,
+                                                        "step": 2,
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
                                                     }
                                                 ],
                                                 "drone": {
-                                                    "step": 0
+                                                    "step": 2
                                                 }
                                             }
                                         ],
@@ -1198,47 +1284,29 @@
                                                 "notes": [
                                                     {
                                                         "beat": 0,
-                                                        "length": 5,
-                                                        "step": 0,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.0,
-                                                        "length": 0.25,
-                                                        "step": -0.1,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.25,
-                                                        "length": 0.25,
-                                                        "step": -0.2,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.5,
-                                                        "length": 0.25,
-                                                        "step": -0.35,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.75,
-                                                        "length": 0.25,
-                                                        "step": -0.5,
+                                                        "length": 6,
+                                                        "step": -2,
+                                                        "bend": [
+                                                            [
+                                                                0,
+                                                                0
+                                                            ],
+                                                            [
+                                                                4.8,
+                                                                0
+                                                            ],
+                                                            [
+                                                                6,
+                                                                -60
+                                                            ]
+                                                        ],
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
                                                     }
                                                 ],
                                                 "drone": {
-                                                    "step": 0
+                                                    "step": -2
                                                 }
                                             },
                                             {
@@ -1247,14 +1315,14 @@
                                                     {
                                                         "beat": 0,
                                                         "length": 6,
-                                                        "step": 0,
+                                                        "step": -2,
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
                                                     }
                                                 ],
                                                 "drone": {
-                                                    "step": 0
+                                                    "step": -2
                                                 }
                                             }
                                         ],
@@ -1274,14 +1342,14 @@
                                                     {
                                                         "beat": 0,
                                                         "length": 6,
-                                                        "step": 0,
+                                                        "step": 4,
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
                                                     }
                                                 ],
                                                 "drone": {
-                                                    "step": 0
+                                                    "step": 4
                                                 }
                                             },
                                             {
@@ -1289,47 +1357,29 @@
                                                 "notes": [
                                                     {
                                                         "beat": 0,
-                                                        "length": 5,
-                                                        "step": 0,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.0,
-                                                        "length": 0.25,
-                                                        "step": -0.1,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.25,
-                                                        "length": 0.25,
-                                                        "step": -0.2,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.5,
-                                                        "length": 0.25,
-                                                        "step": -0.35,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 5.75,
-                                                        "length": 0.25,
-                                                        "step": -0.5,
+                                                        "length": 6,
+                                                        "step": 4,
+                                                        "bend": [
+                                                            [
+                                                                0,
+                                                                0
+                                                            ],
+                                                            [
+                                                                4.8,
+                                                                0
+                                                            ],
+                                                            [
+                                                                6,
+                                                                -60
+                                                            ]
+                                                        ],
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
                                                     }
                                                 ],
                                                 "drone": {
-                                                    "step": 0
+                                                    "step": 4
                                                 }
                                             }
                                         ],
@@ -1404,26 +1454,26 @@
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Then and now"
+                                        "en": "Do first"
                                     },
                                     "detail": {
-                                        "en": "An easy eight seconds, as at the start"
+                                        "en": "Your note, over the drone"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Then your chord"
+                                        "en": "Then mi, a third up"
                                     },
                                     "detail": {
-                                        "en": "Do, mi, so, one at a time"
+                                        "en": "Over your own do"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Headphones on"
+                                        "en": "Then so, a fifth up"
                                     },
                                     "detail": {
-                                        "en": "So you hear yourself underneath"
+                                        "en": "Over both"
                                     }
                                 }
                             ],
@@ -1467,55 +1517,6 @@
                         {
                             "kind": "breathhold",
                             "text": {
-                                "en": "Then and now: hold \"oo\" for an easy eight seconds. Your first hold is marked."
-                            },
-                            "exercise": {
-                                "step": 0,
-                                "lyric": "oo",
-                                "drone": {
-                                    "step": 0
-                                },
-                                "max": 8,
-                                "compare": "baseline"
-                            }
-                        },
-                        {
-                            "kind": "learn",
-                            "headline": {
-                                "en": "Breathe normally for a few breaths. Then your chord, one note at a time."
-                            },
-                            "steps": [
-                                {
-                                    "title": {
-                                        "en": "Do first"
-                                    },
-                                    "detail": {
-                                        "en": "Your note, over the drone"
-                                    }
-                                },
-                                {
-                                    "title": {
-                                        "en": "Then mi"
-                                    },
-                                    "detail": {
-                                        "en": "Over your own do"
-                                    }
-                                },
-                                {
-                                    "title": {
-                                        "en": "Then so"
-                                    },
-                                    "detail": {
-                                        "en": "Over both"
-                                    }
-                                }
-                            ],
-                            "visual": "breath",
-                            "reviewed": false
-                        },
-                        {
-                            "kind": "breathhold",
-                            "text": {
                                 "en": "Hold do over the drone, easy and steady."
                             },
                             "exercise": {
@@ -1528,34 +1529,108 @@
                             }
                         },
                         {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Breathe normally for three easy breaths. No countdown: go on when you're ready."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Breathe normally"
+                                    },
+                                    "detail": {
+                                        "en": "In and out, easy"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Shoulders down"
+                                    },
+                                    "detail": {
+                                        "en": "Let them drop"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "When you're ready"
+                                    },
+                                    "detail": {
+                                        "en": "Go on"
+                                    }
+                                }
+                            ],
+                            "visual": "breath",
+                            "reviewed": false
+                        },
+                        {
                             "kind": "breathhold",
                             "text": {
-                                "en": "Now mi, three up, over your own do."
+                                "en": "Now mi, a third up, over your own do (and the drone)."
                             },
                             "exercise": {
                                 "step": 4,
                                 "lyric": "oo",
+                                "drone": {
+                                    "step": 0
+                                },
                                 "max": 10,
                                 "under": {
                                     "steps": [
-                                        3
+                                        1
                                     ]
                                 }
                             }
                         },
                         {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Breathe normally for three easy breaths. No countdown: go on when you're ready."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Breathe normally"
+                                    },
+                                    "detail": {
+                                        "en": "In and out, easy"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Shoulders down"
+                                    },
+                                    "detail": {
+                                        "en": "Let them drop"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "When you're ready"
+                                    },
+                                    "detail": {
+                                        "en": "Go on"
+                                    }
+                                }
+                            ],
+                            "visual": "breath",
+                            "reviewed": false
+                        },
+                        {
                             "kind": "breathhold",
                             "text": {
-                                "en": "Now so, five up, over your do and mi: your chord."
+                                "en": "Now so, a fifth up, over your do and mi: your chord."
                             },
                             "exercise": {
                                 "step": 7,
                                 "lyric": "oo",
+                                "drone": {
+                                    "step": 0
+                                },
                                 "max": 10,
                                 "under": {
                                     "steps": [
-                                        3,
-                                        4
+                                        1,
+                                        3
                                     ]
                                 }
                             },
@@ -1583,31 +1658,31 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Breathe in, then let the breath turn straight into the note, with no hold. Think an \"h\", don't sing it."
+                                "en": "Breathe in, then let the breath turn straight into the note, with no hold. Think an \"h\", don't sing it. Whispering can tire the voice more than singing softly."
                             },
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "No hold after the breath"
+                                        "en": "Balanced"
                                     },
                                     "detail": {
-                                        "en": "A pause there usually means a closed throat"
+                                        "en": "The breath turns straight into the tone"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Think an \"h\""
+                                        "en": "Breathy"
                                     },
                                     "detail": {
-                                        "en": "The tone starts from moving air"
+                                        "en": "Air escapes before the tone starts"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Soft isn't whispery"
+                                        "en": "Hard"
                                     },
                                     "detail": {
-                                        "en": "Whispering can tire the voice more"
+                                        "en": "A little click in the throat first: only for hearing, never practising"
                                     }
                                 }
                             ],
@@ -1674,7 +1749,10 @@
                                                             "cents": 0
                                                         }
                                                     }
-                                                ]
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
                                             },
                                             {
                                                 "notes": [
@@ -1847,7 +1925,10 @@
                                                             "cents": 0
                                                         }
                                                     }
-                                                ]
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
                                             }
                                         ],
                                         "answer": 0,
@@ -1962,7 +2043,7 @@
                         {
                             "kind": "bullseye",
                             "text": {
-                                "en": "\"Ha\" on each note, short and bouncy: listen, then echo. Do, mi, so, mi, do."
+                                "en": "\"Ha\" on each note, short and bouncy: listen, then echo. Do, mi, so, mi, do. Did the bounce come from low in the belly, the throat open? That's yours to feel."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -2031,7 +2112,7 @@
                                         "en": "Hold the last"
                                     },
                                     "detail": {
-                                        "en": "Steady to its end"
+                                        "en": "Three beats, steady to its end"
                                     }
                                 }
                             ],
@@ -2118,7 +2199,7 @@
                                     },
                                     {
                                         "beat": 16,
-                                        "length": 1.5,
+                                        "length": 3,
                                         "step": -5,
                                         "lyric": "dah"
                                     }
@@ -2231,7 +2312,7 @@
                                     },
                                     {
                                         "beat": 16,
-                                        "length": 1.5,
+                                        "length": 3,
                                         "step": -5,
                                         "lyric": "dah"
                                     }
@@ -2327,7 +2408,7 @@
                                     },
                                     {
                                         "beat": 16,
-                                        "length": 1.5,
+                                        "length": 3,
                                         "step": -5,
                                         "lyric": "dah"
                                     }
@@ -3531,7 +3612,10 @@
                                 "under": {
                                     "step": 1
                                 },
-                                "score": "entry"
+                                "score": "entry",
+                                "drone": {
+                                    "step": 0
+                                }
                             },
                             "measures": {
                                 "en": "Your stars are for coming back in on time and on pitch after your breath. Listen back: your two breaths fall at different moments, so the chord never breaks."
@@ -3570,10 +3654,10 @@
                                 },
                                 {
                                     "title": {
-                                        "en": "Steady to the end"
+                                        "en": "Back in on time"
                                     },
                                     "detail": {
-                                        "en": "Hold \"delight\" steady"
+                                        "en": "After every breath"
                                     }
                                 }
                             ],
