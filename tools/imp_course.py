@@ -197,7 +197,7 @@ def imp_1_third():
     return {
         "id": "imp-1-third", "title": EN("A part above"), "strictness": "relaxed",
         "steps": [
-            learn("The simplest harmony: sing the tune's next chord tone up. Mostly that's a third; over so it's a fourth, because the third would rub.",
+            learn("The simplest harmony: sing the tune's next chord tone up. Mostly that's a third; over so, when the chord is do, it's a fourth, because the third would rub.",
                   [("Hear it first", "One line, the tune and the part above together"),
                    ("Above a loud tune, go lighter", "Never louder; stop if anything tightens or hurts"),
                    ("Best with headphones", "You'll hear the tune as you sing")], "harmony",
@@ -210,7 +210,7 @@ def imp_1_third():
             {"kind": "play", "text": EN("Now the part above, the whole verse, every note lit, while the guide sings the tune."),
              "exercise": {"tempo": 92, "notes": placed(HARMONY, DO, BAR), "turn": False, "generous": True,
                           "with": [{"notes": placed(TUNE, DO, BAR)}], "chords": chords(DO, BAR)},
-             "measures": EN("Scored on your harmony's notes on pitch. The part was parallel thirds, with a fourth wherever the third would rub.")},
+             "measures": EN("Scored on your harmony's notes on pitch. The part was parallel thirds, with a fourth wherever the third would rub. Did you know? Medieval English singers called two voices moving mostly in thirds \"gymel\", from the Latin for twin.")},
         ],
     }
 
@@ -349,7 +349,7 @@ def imp_1_challenge():
             {"kind": "play", "text": EN("The part above the refrain. The lights show only where the chord changes."),
              "exercise": {"tempo": 100, "notes": cue(do + above[0]["step"]) + sung(above, do, 4), "turn": False, "lights": "changes",
                           "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4)},
-             "measures": EN("Scored on your part's notes on pitch, most of them sung with no light to follow.")},
+             "measures": EN("Scored on your part's notes on pitch, most of them sung with no light to follow. Did you know? Home on the Range began as a Kansas doctor's poem, printed in 1873, and became Kansas's state song in 1947.")},
         ],
     }
 
@@ -369,7 +369,7 @@ def imp_2_below():
                   {"tempo": 92, "notes": sung(line(below, 0, 16), do, 0), "turn": False, "with": [guide_line(line(TUNE, 0, 16), do, 0)], "chords": chords(do, until=16)}),
             {"kind": "play", "text": EN("The part below, the whole verse, while the guide sings the tune above you."),
              "exercise": {"tempo": 92, "notes": cue(do) + sung(below, do, BAR), "turn": False, "with": [guide_line(TUNE, do, BAR)], "chords": chords(do, BAR)},
-             "measures": EN("Scored on your part's notes on pitch, under the tune.")},
+             "measures": EN("Scored on your part's notes on pitch, under the tune. Did you know? Michael, Row the Boat Ashore was written down in 1863 from freed people on St. Helena Island, South Carolina, and printed in 1867.")},
         ],
     }
 
@@ -444,7 +444,7 @@ def imp_2_challenge():
              "exercise": {"tempo": 66, "notes": cue(do_low + below[0]["step"]) + sung(below, do_low, 4), "turn": False, "with": [guide_line(mel, do_low, 4)], "chords": lib_chords(chs, do_low, 4)}},
             {"kind": "play", "text": EN("Again, your part above the tune."),
              "exercise": {"tempo": 66, "notes": cue(do_high + above[0]["step"]) + sung(above, do_high, 4), "turn": False, "with": [guide_line(mel, do_high, 4)], "chords": lib_chords(chs, do_high, 4)},
-             "measures": EN("Scored on your part above on pitch. Could you hear the tune under you?")},
+             "measures": EN("Scored on your part above on pitch. Could you hear the tune under you? Did you know? The Fisk Jubilee Singers carried Steal Away around the world in the 1870s.")},
         ],
     }
 
@@ -491,7 +491,7 @@ def imp_3_chord():
     return {
         "id": "imp-3-chord", "title": EN("Sing the chord"),
         "steps": [
-            learn("A chord has three notes, and any of them is a harmony, except the tune's own.",
+            learn("A basic chord, a triad, has three notes, and any of them is a harmony, except the tune's own.",
                   [("Sing each chord", "Its three notes, up and back"),
                    ("Then choose", "One long note to each chord"),
                    ("Every lit note works", "The tune's own note never lights")], "harmony"),
@@ -501,7 +501,7 @@ def imp_3_chord():
             {"kind": "play", "text": EN("One long note to each chord: any lit note, under or over the tune."),
              "exercise": {"tempo": 92, "notes": cue(DO) + [dict(p, beat=p["beat"] + BAR) for p in picks], "turn": False,
                           "with": [guide_line(first, DO, BAR)], "chords": chords(DO, BAR, 16)},
-             "measures": EN("Scored on landing on a lit note at each chord, held while the tune moves.")},
+             "measures": EN("Scored on landing on a lit note at each chord, held while the tune moves. Did you know? In barbershop the lead sings the tune, the tenor above it, the bass below, and the baritone fills in the chord.")},
         ],
     }
 
@@ -539,7 +539,7 @@ def imp_3_challenge():
                   {"tempo": 76, "notes": sung(mel, do, 0), "turn": False, "chords": lib_chords(chs, do)}),
             {"kind": "play", "text": EN("The chorus: at each note, any lit note. Make your own harmony."),
              "exercise": {"tempo": 76, "notes": cue(do) + shifted(picks, 4), "turn": False, "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4), "score": "species", "rules": "close"},
-             "measures": EN("Scored on landing on lit notes, and the top score needs four moves in five to be a step or a third.")},
+             "measures": EN("Scored on landing on lit notes, and the top score needs four moves in five to be a step or a third. Did you know? The Barbershop Harmony Society began in 1938 at a rooftop songfest in Tulsa, Oklahoma, with 26 men.")},
         ],
     }
 
@@ -594,12 +594,12 @@ def imp_4_high():
         "steps": [
             learn("The tenor, a part above the lead, is part of bluegrass's high lonesome sound. Light and easy, never the pressed edge.",
                   [("Above the tune", "Every lit note is higher than the tune's"),
-                   ("Hear it first", "Simple Gifts, then lights off"),
+                   ("Simple Gifts", "A Shaker song from 1848, famous since Copland's Appalachian Spring in 1944"),
                    ("Light and easy", "Never pushed; stop if anything tightens")], "harmony",
                   {"tempo": 84, "notes": sung(mel, do, 0), "turn": False, "chords": lib_chords(chs, do)}),
             {"kind": "play", "text": EN("Simple Gifts: a part above the tune, lights off."),
              "exercise": {"tempo": 84, "notes": cue(picks[0]["step"]) + shifted(picks, 4), "turn": False, "lights": "off", "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4)},
-             "measures": EN("Scored on landing on the chord tones above the tune, by ear.")},
+             "measures": EN("Scored on landing on the chord tones above the tune, by ear. Did you know? Bluegrass is named after Bill Monroe's Blue Grass Boys, and Monroe often sang the high tenor above the lead.")},
         ],
     }
 
