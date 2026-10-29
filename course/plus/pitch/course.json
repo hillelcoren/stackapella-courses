@@ -22,7 +22,7 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Land right on a note, don't slide into it. That's what makes a harmony ring."
+                                "en": "Land right on a note, don't slide into it: that's what makes a harmony ring. This trains relative pitch; true absolute pitch is rare."
                             },
                             "steps": [
                                 {
@@ -46,7 +46,7 @@
                                         "en": "Land on \"dah\""
                                     },
                                     "detail": {
-                                        "en": "Medium volume, easy and relaxed"
+                                        "en": "Medium volume, easy. Stop if anything tightens or hurts, and rest when hoarse"
                                     }
                                 }
                             ],
@@ -148,7 +148,7 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A scoop is sliding up into a note from below. It's a habit, and habits change."
+                                "en": "A scoop is sliding up into a note from below. Hear one, then a clean start. It's a habit, and habits change."
                             },
                             "steps": [
                                 {
@@ -180,27 +180,25 @@
                                 "tempo": 72,
                                 "notes": [
                                     {
-                                        "beat": 1.0,
-                                        "length": 1.5,
+                                        "beat": 1,
+                                        "length": 2,
                                         "step": 0,
-                                        "lyric": "dah"
+                                        "lyric": "dah",
+                                        "bend": [
+                                            [
+                                                0,
+                                                -200
+                                            ],
+                                            [
+                                                0.25,
+                                                0
+                                            ]
+                                        ]
                                     },
                                     {
-                                        "beat": 3.0,
-                                        "length": 1.5,
+                                        "beat": 4,
+                                        "length": 2,
                                         "step": 0,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 5.5,
-                                        "length": 1.5,
-                                        "step": 4,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 7.5,
-                                        "length": 1.5,
-                                        "step": 4,
                                         "lyric": "dah"
                                     }
                                 ],
@@ -226,24 +224,18 @@
                                                 "notes": [
                                                     {
                                                         "beat": 0,
-                                                        "length": 0.15,
-                                                        "step": -0.6,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 0.15,
-                                                        "length": 0.15,
-                                                        "step": -0.3,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 0.3,
-                                                        "length": 1.7,
+                                                        "length": 2,
                                                         "step": 0,
+                                                        "bend": [
+                                                            [
+                                                                0,
+                                                                -200
+                                                            ],
+                                                            [
+                                                                0.25,
+                                                                0
+                                                            ]
+                                                        ],
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
@@ -304,24 +296,18 @@
                                                 "notes": [
                                                     {
                                                         "beat": 0,
-                                                        "length": 0.15,
-                                                        "step": 1.4,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 0.15,
-                                                        "length": 0.15,
-                                                        "step": 1.7,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 0.3,
-                                                        "length": 1.7,
+                                                        "length": 2,
                                                         "step": 2,
+                                                        "bend": [
+                                                            [
+                                                                0,
+                                                                -200
+                                                            ],
+                                                            [
+                                                                0.25,
+                                                                0
+                                                            ]
+                                                        ],
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
@@ -367,24 +353,18 @@
                                                 "notes": [
                                                     {
                                                         "beat": 0,
-                                                        "length": 0.15,
-                                                        "step": 4.4,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 0.15,
-                                                        "length": 0.15,
-                                                        "step": 4.7,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 0.3,
-                                                        "length": 1.7,
+                                                        "length": 2,
                                                         "step": 5,
+                                                        "bend": [
+                                                            [
+                                                                0,
+                                                                -200
+                                                            ],
+                                                            [
+                                                                0.25,
+                                                                0
+                                                            ]
+                                                        ],
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
@@ -765,7 +745,7 @@
                                 }
                             },
                             "measures": {
-                                "en": "Your stars are for landing all sixteen notes, close to the middle. A note that slid in counts half, so one scoop costs a little, never a star."
+                                "en": "Your stars are for landing all sixteen notes, close to the middle. A note that slid in counts half."
                             }
                         }
                     ]
@@ -1160,18 +1140,18 @@
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "So (5)"
+                                        "en": "So (5), below your note"
                                     },
                                     "detail": {
-                                        "en": "Five up from the drone"
+                                        "en": "A fifth above the low drone"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Do (1), an octave up"
+                                        "en": "Do (1), your note"
                                     },
                                     "detail": {
-                                        "en": "The same note an octave apart, over a low drone"
+                                        "en": "An octave above the low drone"
                                     }
                                 },
                                 {
@@ -1189,13 +1169,19 @@
                                     {
                                         "beat": 1,
                                         "length": 4,
-                                        "step": 7,
+                                        "step": -5,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 4,
+                                        "step": 0,
                                         "lyric": "oo"
                                     }
                                 ],
                                 "turn": false,
                                 "drone": {
-                                    "step": 0
+                                    "step": -12
                                 }
                             },
                             "visual": "drone",
@@ -1204,7 +1190,7 @@
                         {
                             "kind": "try",
                             "text": {
-                                "en": "So over the drone on do: find where it goes smooth."
+                                "en": "So below, then do, over the low drone: find where each goes smooth."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1212,28 +1198,34 @@
                                     {
                                         "beat": 1,
                                         "length": 4,
-                                        "step": 7,
+                                        "step": -5,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 4,
+                                        "step": 0,
                                         "lyric": "oo"
                                     }
                                 ],
                                 "turn": false,
                                 "drone": {
-                                    "step": 0
+                                    "step": -12
                                 }
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Hold so, five up, over the drone on do, until it rings."
+                                "en": "Hold so below your note over the low drone (a fifth above it), until it rings."
                             },
                             "exercise": {
                                 "tempo": 60,
                                 "lead": 2,
-                                "step": 7,
+                                "step": -5,
                                 "lyric": "oo",
                                 "drone": {
-                                    "step": 0
+                                    "step": -12
                                 },
                                 "cue": true,
                                 "score": "lock",
@@ -1421,7 +1413,7 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "The end of a breath and repeated notes pull you flat. Slow the breath out, and think up. Never squeeze."
+                                "en": "The end of a breath and repeated notes pull you flat. Hear a note sag, then one that stays up. Slow the breath out, and think up. Never squeeze."
                             },
                             "steps": [
                                 {
@@ -1454,6 +1446,26 @@
                                 "notes": [
                                     {
                                         "beat": 1,
+                                        "length": 6,
+                                        "step": 0,
+                                        "lyric": "oo",
+                                        "bend": [
+                                            [
+                                                0,
+                                                0
+                                            ],
+                                            [
+                                                4,
+                                                0
+                                            ],
+                                            [
+                                                6,
+                                                -35
+                                            ]
+                                        ]
+                                    },
+                                    {
+                                        "beat": 8,
                                         "length": 6,
                                         "step": 0,
                                         "lyric": "oo"
@@ -1640,7 +1652,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Two long notes over the drone: do, then so. Keep each one up to its very end. Neck, jaw and tongue soft."
+                                "en": "Two long notes over the drone: do, then mi. Keep each one up to its very end. Headphones help: one ear off. Neck, jaw and tongue soft."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1654,7 +1666,7 @@
                                     {
                                         "beat": 11,
                                         "length": 8,
-                                        "step": 7,
+                                        "step": 4,
                                         "lyric": "oo"
                                     }
                                 ],
@@ -2663,10 +2675,10 @@
                                 "under": {
                                     "step": 1
                                 },
-                                "score": "lock"
+                                "score": "centre"
                             },
                             "measures": {
-                                "en": "Your stars are for your do locked against your own mi: within 10 cents of the note."
+                                "en": "Your stars are for your do sitting close to its note while your own mi sounds with it. If it rings, you've found it."
                             }
                         }
                     ]
@@ -2681,7 +2693,7 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A pedal note: you hold do while the tune moves around you. Amazing Grace's first line, in two breaths."
+                                "en": "A pedal note: you hold do while the tune moves around it. Amazing Grace's first line, in two breaths."
                             },
                             "steps": [
                                 {
@@ -2811,7 +2823,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Hold do under the tune: breathe after \"grace\". Neck, jaw and tongue soft."
+                                "en": "Hold do while the tune moves around it: breathe after \"grace\". Neck, jaw and tongue soft."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -2945,7 +2957,7 @@
                                         "en": "Warm up first"
                                     },
                                     "detail": {
-                                        "en": "A siren on \"ng\", low to high and back, then a hum"
+                                        "en": "A siren on \"ng\", then a soft hum"
                                     }
                                 },
                                 {
@@ -2969,9 +2981,42 @@
                             "reviewed": false
                         },
                         {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Warm up with a siren on \"ng\": slide low to high and back, following the line. No note to find here, just an easy slide."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 1,
+                                "step": 0,
+                                "lyric": "ng",
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "path",
+                                        "points": [
+                                            [
+                                                0,
+                                                -4
+                                            ],
+                                            [
+                                                3,
+                                                6
+                                            ],
+                                            [
+                                                6,
+                                                -4
+                                            ]
+                                        ],
+                                        "scored": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
                             "kind": "bullseye",
                             "text": {
-                                "en": "First a siren on \"ng\", low to high and back, then a soft hum. Now, with no sound first, sing your comfortable note on \"oo\" when you're ready. The drone then shows how close you were. Three tries."
+                                "en": "Now a soft hum, then wait for Your turn: sing your comfortable note on \"oo\" from memory. Three tries; the drone shows how close you were after the last."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -2996,14 +3041,14 @@
                                     }
                                 ],
                                 "lengths": [
-                                    2
+                                    3
                                 ],
-                                "think": 1.5,
-                                "reveal": true,
+                                "think": 2,
+                                "reveal": "last",
                                 "score": "memory"
                             },
                             "measures": {
-                                "en": "Your stars are for how close your note from memory came: within a semitone earns them all. Only your first try is truly cold: after it, you've heard the drone. Your note moves a little through the day, too."
+                                "en": "Your stars are for how close your notes from memory came: within a semitone earns them all. Your note moves a little through the day, too."
                             }
                         }
                     ]
@@ -3206,6 +3251,39 @@
                             "reviewed": false
                         },
                         {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Warm up with a siren on \"ng\": slide low to high and back, following the line. No note to find here, just an easy slide."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 1,
+                                "step": 0,
+                                "lyric": "ng",
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "path",
+                                        "points": [
+                                            [
+                                                0,
+                                                -4
+                                            ],
+                                            [
+                                                3,
+                                                6
+                                            ],
+                                            [
+                                                6,
+                                                -4
+                                            ]
+                                        ],
+                                        "scored": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
                             "kind": "bullseye",
                             "text": {
                                 "en": "Warm up in another key: hear do, mi and so, and sing them back. (Not your do: we'll find that from memory next.)"
@@ -3227,7 +3305,7 @@
                         {
                             "kind": "bullseye",
                             "text": {
-                                "en": "First a siren on \"ng\", then a soft hum. Now, with no sound first, sing do from memory, then mi and so from it. The drone comes in after to check you."
+                                "en": "Now, with no sound first, wait for Your turn: sing do from memory, then mi and so from it. The drone comes in after your last try to check you."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -3249,8 +3327,8 @@
                                         ]
                                     }
                                 ],
-                                "think": 1.5,
-                                "reveal": true,
+                                "think": 2,
+                                "reveal": "last",
                                 "score": "cold"
                             },
                             "measures": {
@@ -3403,59 +3481,153 @@
                             "reviewed": false
                         },
                         {
-                            "kind": "bullseye",
+                            "kind": "wave",
                             "text": {
-                                "en": "First a siren on \"ng\", then a soft hum. Now sing do from memory, then Ode to Joy's first line from mi, on \"loo\". The drone joins at the end to show your key."
+                                "en": "Warm up with a siren on \"ng\": slide low to high and back, following the line. No note to find here, just an easy slide."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 1,
+                                "step": 0,
+                                "lyric": "ng",
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "path",
+                                        "points": [
+                                            [
+                                                0,
+                                                -4
+                                            ],
+                                            [
+                                                3,
+                                                6
+                                            ],
+                                            [
+                                                6,
+                                                -4
+                                            ]
+                                        ],
+                                        "scored": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Sing do from memory (the first note), then Ode to Joy's first line from mi, on \"loo\", following the lane. The drone joins at the end to show your key."
                             },
                             "exercise": {
                                 "tempo": 72,
-                                "echoes": [
+                                "notes": [
                                     {
-                                        "call": [],
-                                        "sing": [
-                                            0,
-                                            4,
-                                            4,
-                                            5,
-                                            7,
-                                            7,
-                                            5,
-                                            4,
-                                            2,
-                                            0,
-                                            0,
-                                            2,
-                                            4,
-                                            4,
-                                            2,
-                                            2
-                                        ]
+                                        "beat": 1,
+                                        "length": 1.5,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2.5,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 3.5,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 4.5,
+                                        "length": 1,
+                                        "step": 5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 7.5,
+                                        "length": 1,
+                                        "step": 5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 8.5,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 9.5,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 10.5,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 11.5,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 12.5,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 13.5,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 14.5,
+                                        "length": 1.5,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 16.0,
+                                        "length": 0.5,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 16.5,
+                                        "length": 2,
+                                        "step": 2,
+                                        "lyric": "loo"
                                     }
                                 ],
-                                "lengths": [
-                                    1.5,
-                                    1,
-                                    1,
-                                    1,
-                                    1,
-                                    1,
-                                    1,
-                                    1,
-                                    1,
-                                    1,
-                                    1,
-                                    1,
-                                    1,
-                                    1.5,
-                                    0.5,
-                                    2
-                                ],
-                                "think": 1.5,
-                                "reveal": true,
+                                "turn": false,
+                                "guide": false,
+                                "drone": {
+                                    "step": 0
+                                },
+                                "droneAfter": 15.5,
                                 "score": "cold"
                             },
                             "measures": {
-                                "en": "Your stars are for your do from memory, then every note of the line landing close to where it belongs."
+                                "en": "Your stars are for your do from memory (within a semitone earns it all), then every note of the line landing close to where it belongs from your do."
                             }
                         }
                     ]
