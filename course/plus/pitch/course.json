@@ -3410,6 +3410,23 @@
                             "measures": {
                                 "en": "Scored on your do from memory (within a half step earns it all), then every note of the line landing close to where it belongs from your do."
                             }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Last, your Bullseye round once more: the same five notes as your first lesson."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    0,
+                                    4,
+                                    2,
+                                    -3,
+                                    5
+                                ],
+                                "thenAndNow": "pitch.bullseye"
+                            }
                         }
                     ]
                 }

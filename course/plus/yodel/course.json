@@ -95,6 +95,7 @@
                                 "en": "Now on purpose: from below your flip, jump over it and back, then your first yodel hook, \"yo-hee-o\", twice. Listen, then sing it back."
                             },
                             "exercise": {
+                                "keep": "yodel.first-hook",
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 2, "step": -5, "lyric": "oo" },
@@ -1941,6 +1942,7 @@
                             "kind": "play",
                             "text": { "en": "Now the tag: a hook and a roll. Listen, then yodel it back." },
                             "exercise": {
+                                "thenAndNow": "yodel.first-hook",
                                 "tempo": 84,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },

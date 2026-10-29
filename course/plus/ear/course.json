@@ -155,6 +155,7 @@
                                 "en": "Round 1: the guide sings the first note. You sing the leap from it, as the screen says."
                             },
                             "exercise": {
+                                "keep": "ear.first-leaps",
                                 "tempo": 72,
                                 "echoes": [
                                     {
@@ -7102,9 +7103,10 @@
                         {
                             "kind": "bullseye",
                             "text": {
-                                "en": "The round from your first lesson, again: the six leaps from Song starts."
+                                "en": "The round from your first lesson, again: its three leaps, Saints, Amazing Grace and Twinkle."
                             },
                             "exercise": {
+                                "thenAndNow": "ear.first-leaps",
                                 "tempo": 72,
                                 "echoes": [
                                     {
@@ -7141,42 +7143,6 @@
                                         "key": 0,
                                         "label": {
                                             "en": "Twinkle: up a leap of five"
-                                        }
-                                    },
-                                    {
-                                        "call": [
-                                            2
-                                        ],
-                                        "sing": [
-                                            6
-                                        ],
-                                        "key": 2,
-                                        "label": {
-                                            "en": "Saints, from a new note: up a leap of three"
-                                        }
-                                    },
-                                    {
-                                        "call": [
-                                            2
-                                        ],
-                                        "sing": [
-                                            7
-                                        ],
-                                        "key": -5,
-                                        "label": {
-                                            "en": "Amazing Grace, from a new note: up a leap of four"
-                                        }
-                                    },
-                                    {
-                                        "call": [
-                                            -5
-                                        ],
-                                        "sing": [
-                                            2
-                                        ],
-                                        "key": -5,
-                                        "label": {
-                                            "en": "Twinkle, from a new note: up a leap of five"
                                         }
                                     }
                                 ],

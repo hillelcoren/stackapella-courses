@@ -59,6 +59,7 @@
                             "kind": "play",
                             "text": { "en": "First the line plain, over the chords." },
                             "exercise": {
+                                "keep": "pop.first",
                                 "tempo": 96,
                                 "notes": [
                                     { "beat": 3, "length": 1, "step": -5, "lyric": "Down" },
@@ -1975,6 +1976,7 @@
                             "kind": "play",
                             "text": { "en": "After a bar of chords, sing your record." },
                             "exercise": {
+                                "thenAndNow": "pop.first",
                                 "tempo": 96,
                                 "notes": [
                                     { "beat": 3, "length": 1, "step": -5, "lyric": "Down" },
