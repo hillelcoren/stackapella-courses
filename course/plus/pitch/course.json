@@ -128,7 +128,10 @@
                                     0,
                                     3
                                 ],
-                                "generous": true
+                                "generous": true,
+                                "compare": {
+                                    "step": 2
+                                }
                             },
                             "measures": {
                                 "en": "Your stars are for where your second round's notes landed: close to the middle, and without sliding in."
@@ -1772,6 +1775,575 @@
                             },
                             "measures": {
                                 "en": "Your stars are for the long do locked to the drone and every other note's centre."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "pp-memory",
+            "title": {
+                "en": "Pitch memory"
+            },
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "pp-4-cold",
+                    "title": {
+                        "en": "Your note, cold"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Many people start a song they know well within a semitone or two of its usual key. Your own note is an anchor you carry too."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Warm up first"
+                                    },
+                                    "detail": {
+                                        "en": "A siren on \"ng\", low to high and back, then a hum"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "No note given"
+                                    },
+                                    "detail": {
+                                        "en": "Hum your comfortable note from memory"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Then the drone"
+                                    },
+                                    "detail": {
+                                        "en": "It comes in to show how close you were"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "No sound first. When you're ready, sing your comfortable note on \"oo\", softly. Then the drone shows how close you were. Three tries."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [],
+                                        "sing": [
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "call": [],
+                                        "sing": [
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "call": [],
+                                        "sing": [
+                                            0
+                                        ]
+                                    }
+                                ],
+                                "lengths": [
+                                    2
+                                ],
+                                "think": 1.5,
+                                "reveal": true,
+                                "score": "memory"
+                            },
+                            "measures": {
+                                "en": "Your stars are for how close your note from memory came: within a semitone earns them all. Your note moves a little through the day, too."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "pp-4-keep",
+                    "title": {
+                        "en": "Keep it in mind"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Holding a note in your head while other notes go by is what harmony asks."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Hear the first note"
+                                    },
+                                    "detail": {
+                                        "en": "That's the one to keep"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Let the others go by"
+                                    },
+                                    "detail": {
+                                        "en": "Two, then three, then four"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Sing the first one back"
+                                    },
+                                    "detail": {
+                                        "en": "Only the first"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1.5,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1.5,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Keep the first note in mind while the others go by, then sing only the first one."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [
+                                            0,
+                                            4,
+                                            2
+                                        ],
+                                        "sing": [
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "call": [
+                                            2,
+                                            5,
+                                            0
+                                        ],
+                                        "sing": [
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "call": [
+                                            4,
+                                            0,
+                                            7,
+                                            2
+                                        ],
+                                        "sing": [
+                                            4
+                                        ]
+                                    },
+                                    {
+                                        "call": [
+                                            -3,
+                                            2,
+                                            5,
+                                            0,
+                                            4
+                                        ],
+                                        "sing": [
+                                            -3
+                                        ]
+                                    }
+                                ],
+                                "think": 1
+                            },
+                            "measures": {
+                                "en": "Your stars are for landing the remembered note, close to the middle and without sliding in."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "pp-4-from",
+                    "title": {
+                        "en": "From your anchor"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "One anchor gives you every note of the scale: find do, then mi and so from it."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Do (1)"
+                                    },
+                                    "detail": {
+                                        "en": "Your note, from memory"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Mi (3)"
+                                    },
+                                    "detail": {
+                                        "en": "Three steps up"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "So (5)"
+                                    },
+                                    "detail": {
+                                        "en": "Five steps up"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1.5,
+                                        "step": 0,
+                                        "lyric": "do"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1.5,
+                                        "step": 4,
+                                        "lyric": "mi"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1.5,
+                                        "step": 7,
+                                        "lyric": "so"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
+                            "visual": "ladder",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Warm up with the drone: hear do, mi and so, and sing them back."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    [
+                                        0,
+                                        4,
+                                        7
+                                    ]
+                                ],
+                                "drone": {
+                                    "step": 0
+                                }
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "No sound first: sing do from memory, then mi and so from it. The drone comes in after to check you."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [],
+                                        "sing": [
+                                            0,
+                                            4,
+                                            7
+                                        ]
+                                    },
+                                    {
+                                        "call": [],
+                                        "sing": [
+                                            0,
+                                            4,
+                                            7
+                                        ]
+                                    }
+                                ],
+                                "think": 1.5,
+                                "reveal": true,
+                                "score": "cold"
+                            },
+                            "measures": {
+                                "en": "Your stars are for your do from memory (within a semitone earns it all), then mi and so landing close to where they belong."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "pp-4-challenge",
+                    "title": {
+                        "en": "Start it yourself"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "No note given: find your do, think up to mi, and start Ode to Joy from there."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Do from memory"
+                                    },
+                                    "detail": {
+                                        "en": "Your comfortable note"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Think up to mi"
+                                    },
+                                    "detail": {
+                                        "en": "Ode to Joy starts on mi"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "The drone shows your key"
+                                    },
+                                    "detail": {
+                                        "en": "It comes in at the end"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1.5,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2.5,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 3.5,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 4.5,
+                                        "length": 1,
+                                        "step": 5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 7.5,
+                                        "length": 1,
+                                        "step": 5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 8.5,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 9.5,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 10.5,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 11.5,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 12.5,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 13.5,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 14.5,
+                                        "length": 1.5,
+                                        "step": 4,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 16.0,
+                                        "length": 0.5,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 16.5,
+                                        "length": 2,
+                                        "step": 2,
+                                        "lyric": "loo"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "ladder",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Your Bullseye round first: five notes, to see how far you've come."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    0,
+                                    4,
+                                    2,
+                                    -3,
+                                    5
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Sing do from memory, then Ode to Joy's first line from mi, on \"loo\". The drone joins at the end to show your key."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    {
+                                        "call": [],
+                                        "sing": [
+                                            0,
+                                            4,
+                                            4,
+                                            5,
+                                            7,
+                                            7,
+                                            5,
+                                            4,
+                                            2,
+                                            0,
+                                            0,
+                                            2,
+                                            4,
+                                            4,
+                                            2,
+                                            2
+                                        ]
+                                    }
+                                ],
+                                "lengths": [
+                                    1.5,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1,
+                                    1.5,
+                                    0.5,
+                                    2
+                                ],
+                                "think": 1.5,
+                                "reveal": true,
+                                "score": "cold"
+                            },
+                            "measures": {
+                                "en": "Your stars are for your do from memory, then every note of the line landing close to where it belongs."
                             }
                         }
                     ]
