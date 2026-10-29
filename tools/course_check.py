@@ -5,11 +5,13 @@ course/plus/clips.json; and it counts the lessons an app can't play yet (Flutter
 lesson on the web"). Prints one line; `--apps` lists those lessons. Python's standard library only.
 """
 import json
+import re
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 FORMAT = json.loads((ROOT / "course" / "format" / "steps.json").read_text())
+STARS = re.compile(r"\bstars?\b", re.IGNORECASE)  # only game mode shows stars (docs/decisions.md)
 problems = []
 
 
@@ -31,6 +33,8 @@ def words(where, obj):
                 problem(where, f"'{key}' must be {{ \"en\": \"...\" }}")
             elif "—" in json.dumps(value, ensure_ascii=False) and key in FORMAT["words"]:
                 problem(where, f"'{key}' has an em dash")
+            elif STARS.search(json.dumps(value, ensure_ascii=False)) and key in FORMAT["words"]:
+                problem(where, f"'{key}' says stars, which serious mode hides: say what it's scored on")
             if key not in FORMAT["words"]:
                 words(where, value)
     elif isinstance(obj, list):

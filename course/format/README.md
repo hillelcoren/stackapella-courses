@@ -14,6 +14,7 @@ only, and runs with the web tests (`web/tool/test.sh`). It fails on:
 
 - a step kind or a field that `steps.json` doesn't list;
 - a word that isn't `{ "en": "..." }` (every word people read is one string per language);
+- a word with an em dash, or one that says "star" or "stars": serious mode hides stars, so a step's line says what it's "Scored on" and a threshold is "the top score";
 - a lesson id used twice anywhere (progress is kept by it);
 - a listening round whose answer isn't one of its options;
 - a clip slot that isn't in `web/course/plus/clips.json`.
