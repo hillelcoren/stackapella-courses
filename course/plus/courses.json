@@ -1,0 +1,63 @@
+{
+    "version": 1,
+    "courses": [
+        {
+            "id": "vibrato",
+            "prefix": "vib",
+            "file": "vibrato/course.json",
+            "status": "live",
+            "colour": 5,
+            "visual": "vibrato",
+            "minutes": 55,
+            "title": {
+                "en": "Vibrato"
+            },
+            "line": {
+                "en": "A steady, easy note first, then a wave that grows by itself, and the choice of when."
+            }
+        },
+        {
+            "id": "counterpoint",
+            "prefix": "cp",
+            "status": "soon",
+            "colour": 3,
+            "visual": "round",
+            "title": {
+                "en": "Counterpoint"
+            },
+            "line": {
+                "en": "Sing your own line while other voices pull at your ear: drones, rounds, descants and partner songs."
+            }
+        },
+        {
+            "id": "folk",
+            "prefix": "folk",
+            "file": "folk/course.json",
+            "status": "soon",
+            "colour": 2,
+            "visual": "drone",
+            "minutes": 50,
+            "title": {
+                "en": "Folk and early music"
+            },
+            "line": {
+                "en": "A plain, storytelling voice over a drone, the old scales that make a tune sound old, and a ballad sung on your own."
+            }
+        },
+        {
+            "id": "pitch",
+            "prefix": "pp",
+            "file": "pitch/course.json",
+            "status": "soon",
+            "colour": 2,
+            "visual": "echo",
+            "minutes": 55,
+            "title": {
+                "en": "Perfect your pitch"
+            },
+            "line": {
+                "en": "Land right on a note, lock it to a drone, hold it while the harmony moves, and find it again from memory."
+            }
+        }
+    ]
+}
