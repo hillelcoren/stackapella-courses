@@ -880,25 +880,26 @@
                             }
                         },
                         {
-                            "kind": "play",
+                            "kind": "wave",
                             "text": {
-                                "en": "Hold your note over the drone until it rings. Neck, jaw and tongue soft."
+                                "en": "Hold your note over the drone until it rings. The lane glows as you get close. Neck, jaw and tongue soft."
                             },
                             "exercise": {
                                 "tempo": 60,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 6,
-                                        "step": 0,
-                                        "lyric": "oo"
-                                    }
-                                ],
-                                "turn": false,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
                                 "drone": {
                                     "step": 0
                                 },
-                                "score": "lock"
+                                "cue": true,
+                                "score": "lock",
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "straight"
+                                    }
+                                ]
                             },
                             "measures": {
                                 "en": "Your stars are for how closely you held your note to the drone: within 10 cents is locked. Was your neck soft?"
@@ -995,34 +996,52 @@
                             }
                         },
                         {
-                            "kind": "play",
+                            "kind": "wave",
                             "text": {
-                                "en": "Hold so, then do, over the drone an octave below. Neck, jaw and tongue soft."
+                                "en": "Hold so over the drone an octave below, until it rings."
                             },
                             "exercise": {
                                 "tempo": 60,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 6,
-                                        "step": 7,
-                                        "lyric": "oo"
-                                    },
-                                    {
-                                        "beat": 9,
-                                        "length": 6,
-                                        "step": 0,
-                                        "lyric": "oo"
-                                    }
-                                ],
-                                "turn": false,
+                                "lead": 2,
+                                "step": 7,
+                                "lyric": "oo",
                                 "drone": {
                                     "step": -12
                                 },
-                                "score": "lock"
+                                "cue": true,
+                                "score": "lock",
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "straight"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Now do, an octave above the drone. Neck, jaw and tongue soft."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "drone": {
+                                    "step": -12
+                                },
+                                "cue": true,
+                                "score": "lock",
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "straight"
+                                    }
+                                ]
                             },
                             "measures": {
-                                "en": "Your stars are for how closely you locked so and do to the drone. Did each get smoother when you found it?"
+                                "en": "Your stars are for how closely you locked do to the drone an octave below; so, just before, was your warm-up. Did each get smoother when you found it?"
                             }
                         }
                     ]
