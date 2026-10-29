@@ -1,0 +1,462 @@
+{
+    "id": "yodel",
+    "version": 1,
+    "reviewed": false,
+    "title": { "en": "Yodeling" },
+    "units": [
+        {
+            "id": "yodel-find-the-flip",
+            "title": { "en": "Find the flip" },
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "yodel-1-two",
+                    "title": { "en": "Two voices" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Your voice has two sounds: chest voice, low and speaking-like, and head voice, high, light and hooty. A yodel flips between them."
+                            },
+                            "steps": [
+                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "\"ho\" below your flip" }, "detail": { "en": "Chest buzzes" } },
+                                { "title": { "en": "\"hoo\" above it" }, "detail": { "en": "Head floats, light and quiet" } }
+                            ],
+                            "visual": "steady",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 3, "step": -7, "lyric": "ho" },
+                                    { "beat": 4, "length": 3, "step": 2, "lyric": "hoo" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Hold \"ho\" in chest voice, easy and low." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 2, "length": 4, "step": -7, "lyric": "ho" }
+                                ],
+                                "turn": false,
+                                "base": "flip",
+                                "score": "hold"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Now \"hoo\", light and quiet, above your flip. If your voice cracks on the way, you found it." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 2, "length": 4, "step": 2, "lyric": "hoo" }
+                                ],
+                                "turn": false,
+                                "base": "flip",
+                                "score": "hold"
+                            },
+                            "measures": {
+                                "en": "Your stars are for steady holds only. Listen back: did the \"hoo\" sound lighter, like a different voice? Next: hear a flip from a slide."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "yodel-1-challenge",
+                    "title": { "en": "The hook in time" },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": { "en": "Four hooks in rhythm. First slowly, with a gap after each; then four in a row." },
+                            "steps": [
+                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "A light flick" }, "detail": { "en": "Let the top tip over, never a hard catch" } },
+                                { "title": { "en": "Land lightly" }, "detail": { "en": "Back down at speaking volume" } }
+                            ],
+                            "visual": "echo",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 5, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 7, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Listen, then sing two hooks back, a gap after each." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 5, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 7, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Now four in a row, in time." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 8, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 9, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 10, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 12, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 13, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 14, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            },
+                            "measures": {
+                                "en": "Your stars are half for clean flips, up and down, half for the notes. Next: open below, narrow above."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yodel-vowel-switch",
+            "title": { "en": "The vowel switch" },
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "yodel-2-yodelay",
+                    "title": { "en": "Open below, narrow above" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Yodelers switch vowel at the flip: an open vowel on the low chest note, a narrow one on the high head note. It helps the voice tip over."
+                            },
+                            "steps": [
+                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "\"yo\" low, \"hee\" high" }, "detail": { "en": "Open, then narrow" } },
+                                { "title": { "en": "High voices: \"oo\" first" }, "detail": { "en": "\"ee\" up high can pinch" } }
+                            ],
+                            "visual": "vowels",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 5, "length": 1, "step": -7, "lyric": "lo-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 7, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Listen, then sing \"yo-hee-o\" back." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "And \"lo-ee-o\"." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "lo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "The guide sings two hooks, then drops out: keep going for two more, in time." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-", "listenOnly": true },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "listenOnly": true },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o", "listenOnly": true },
+                                    { "beat": 4, "length": 1, "step": -7, "lyric": "yo-", "listenOnly": true },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-", "listenOnly": true },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o", "listenOnly": true },
+                                    { "beat": 8, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 9, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 10, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 12, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 13, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 14, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip",
+                                "score": "flip"
+                            },
+                            "measures": { "en": "Your stars are for clean flips and the notes. Next: the way down." }
+                        }
+                    ]
+                },
+                {
+                    "id": "yodel-2-down",
+                    "title": { "en": "The way down" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "The way down is the flip most singers slam. Land in chest voice lightly, at speaking volume, as if you'd just said \"oh\"."
+                            },
+                            "steps": [
+                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "\"hee-o\"" }, "detail": { "en": "High to low, one flip" } },
+                                { "title": { "en": "Land lightly" }, "detail": { "en": "Speaking volume, never a thump" } }
+                            ],
+                            "visual": "echo",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 5, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Listen, then sing three \"hee-o\"s back, each landing lightly." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 5, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 8, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 9, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            },
+                            "measures": {
+                                "en": "Your stars are for the downward flips and the notes. Listen back: did each one land lightly? Next: different leaps."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "yodel-2-leaps",
+                    "title": { "en": "Sixths, octaves, fifths" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "The same flip across different leaps: a sixth, then an octave (often easier), then a fifth, the smallest and hardest."
+                            },
+                            "steps": [
+                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "Bigger can be easier" }, "detail": { "en": "The octave gives the voice room to tip over" } },
+                                { "title": { "en": "The fifth last" }, "detail": { "en": "Small leaps tempt you to slide" } }
+                            ],
+                            "visual": "ladder",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 5, "length": 1, "step": -10, "lyric": "yo-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 7, "length": 2, "step": -10, "lyric": "o" },
+                                    { "beat": 10, "length": 1, "step": -5, "lyric": "yo-" },
+                                    { "beat": 11, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 12, "length": 2, "step": -5, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "A sixth: listen, then sing it back." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "An octave." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -10, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -10, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "A fifth, the hardest. Flip, don't slide." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -5, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -5, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            },
+                            "measures": { "en": "Your stars are for the fifth's flips and notes. Next: call across the valley." }
+                        }
+                    ]
+                },
+                {
+                    "id": "yodel-2-challenge",
+                    "title": { "en": "Call across the valley" },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Herders called across valleys with a yodel, and the valley carried it, so you don't have to: medium volume."
+                            },
+                            "steps": [
+                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "Listen to the call" }, "detail": { "en": "Then answer it" } },
+                                { "title": { "en": "Each call longer" }, "detail": { "en": "One hook, then two, then three" } }
+                            ],
+                            "visual": "echo",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "The first call: one hook." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Two hooks." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Three hooks, in time." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 8, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 9, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 10, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            },
+                            "measures": { "en": "Your stars are for clean flips and the notes across all three hooks. Next: yodeling on the chord." }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
