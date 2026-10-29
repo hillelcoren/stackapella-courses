@@ -1,6 +1,6 @@
 {
  "id": "michael-row",
- "version": 2,
+ "version": 3,
  "reviewed": true,
  "title": "Michael, Row the Boat Ashore",
  "description": "The spiritual, for 2 to 4 singers: a short, easy tune with a \"Hallelujah!\" to answer. The soprano sings the melody, the alto moves beneath it, the bass holds the roots on \"oo\", and the tenor fills the chord.",
@@ -11,7 +11,7 @@
  ],
  "style": "free",
  "tempo": 92,
- "key": "D",
+ "key": "F",
  "timeSignature": "4/4",
  "pickupBeats": 2,
  "credits": {
@@ -53,55 +53,55 @@
  "chords": [
   {
    "beat": 0.0,
-   "root": 2,
+   "root": 5,
    "quality": "maj",
-   "bass": 6
+   "bass": 9
   },
   {
    "beat": 2.0,
-   "root": 2,
+   "root": 5,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 10.0,
-   "root": 7,
+   "root": 10,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 14.0,
-   "root": 2,
+   "root": 5,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 20.0,
-   "root": 7,
+   "root": 10,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 22.0,
-   "root": 9,
+   "root": 0,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 24.0,
-   "root": 2,
+   "root": 5,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 28.0,
-   "root": 9,
+   "root": 0,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 30.0,
-   "root": 2,
+   "root": 5,
    "quality": "maj",
    "bass": null
   }
@@ -128,8 +128,8 @@
    "key": "soprano",
    "name": "Soprano",
    "range": {
-    "low": 62,
-    "high": 71
+    "low": 65,
+    "high": 74
    },
    "guide": {
     "type": "notes",
@@ -137,140 +137,140 @@
      {
       "beat": 0.0,
       "length": 1.0,
-      "pitch": 62,
+      "pitch": 65,
       "lyric": "Mi-",
       "br": true
      },
      {
       "beat": 1.0,
       "length": 1.0,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "chael,"
      },
      {
       "beat": 2.0,
       "length": 1.5,
-      "pitch": 69,
+      "pitch": 72,
       "lyric": "row"
      },
      {
       "beat": 3.5,
       "length": 0.5,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "the"
      },
      {
       "beat": 4.0,
       "length": 1.0,
-      "pitch": 69,
+      "pitch": 72,
       "lyric": "boat"
      },
      {
       "beat": 5.0,
       "length": 1.0,
-      "pitch": 71,
+      "pitch": 74,
       "lyric": "a-"
      },
      {
       "beat": 6.0,
       "length": 2.0,
-      "pitch": 69,
+      "pitch": 72,
       "lyric": "shore,"
      },
      {
       "beat": 8.0,
       "length": 1.0,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "Hal-"
      },
      {
       "beat": 9.0,
       "length": 1.0,
-      "pitch": 69,
+      "pitch": 72,
       "lyric": "le-"
      },
      {
       "beat": 10.0,
       "length": 4.0,
-      "pitch": 71,
+      "pitch": 74,
       "lyric": "lu-"
      },
      {
       "beat": 14.0,
       "length": 2.0,
-      "pitch": 69,
+      "pitch": 72,
       "lyric": "jah!"
      },
      {
       "beat": 16.0,
       "length": 1.0,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "Mi-",
       "br": true
      },
      {
       "beat": 17.0,
       "length": 1.0,
-      "pitch": 69,
+      "pitch": 72,
       "lyric": "chael,"
      },
      {
       "beat": 18.0,
       "length": 1.5,
-      "pitch": 69,
+      "pitch": 72,
       "lyric": "row"
      },
      {
       "beat": 19.5,
       "length": 0.5,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "the"
      },
      {
       "beat": 20.0,
       "length": 1.0,
-      "pitch": 67,
+      "pitch": 70,
       "lyric": "boat"
      },
      {
       "beat": 21.0,
       "length": 1.0,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "a-"
      },
      {
       "beat": 22.0,
       "length": 2.0,
-      "pitch": 64,
+      "pitch": 67,
       "lyric": "shore,"
      },
      {
       "beat": 24.0,
       "length": 1.0,
-      "pitch": 62,
+      "pitch": 65,
       "lyric": "Hal-"
      },
      {
       "beat": 25.0,
       "length": 1.0,
-      "pitch": 64,
+      "pitch": 67,
       "lyric": "le-"
      },
      {
       "beat": 26.0,
       "length": 2.0,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "lu-"
      },
      {
       "beat": 28.0,
       "length": 2.0,
-      "pitch": 64
+      "pitch": 67
      },
      {
       "beat": 30.0,
       "length": 2.0,
-      "pitch": 62,
+      "pitch": 65,
       "lyric": "jah!"
      }
     ]
@@ -282,7 +282,7 @@
    "name": "Alto",
    "range": {
     "low": 57,
-    "high": 67
+    "high": 70
    },
    "guide": {
     "type": "notes",
@@ -290,93 +290,93 @@
      {
       "beat": 0.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "Mi-",
       "br": true
      },
      {
       "beat": 1.0,
       "length": 1.0,
-      "pitch": 62,
+      "pitch": 65,
       "lyric": "chael,"
      },
      {
       "beat": 2.0,
       "length": 1.5,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "row"
      },
      {
       "beat": 3.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 65,
       "lyric": "the"
      },
      {
       "beat": 4.0,
       "length": 1.0,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "boat"
      },
      {
       "beat": 5.0,
       "length": 1.0,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "a-"
      },
      {
       "beat": 6.0,
       "length": 2.0,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "shore,"
      },
      {
       "beat": 8.0,
       "length": 1.0,
-      "pitch": 62,
+      "pitch": 65,
       "lyric": "Hal-"
      },
      {
       "beat": 9.0,
       "length": 1.0,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "le-"
      },
      {
       "beat": 10.0,
       "length": 4.0,
-      "pitch": 67,
+      "pitch": 70,
       "lyric": "lu-"
      },
      {
       "beat": 14.0,
       "length": 2.0,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "jah!"
      },
      {
       "beat": 16.0,
       "length": 1.0,
-      "pitch": 62,
+      "pitch": 65,
       "lyric": "Mi-",
       "br": true
      },
      {
       "beat": 17.0,
       "length": 1.0,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "chael,"
      },
      {
       "beat": 18.0,
       "length": 1.5,
-      "pitch": 66,
+      "pitch": 69,
       "lyric": "row"
      },
      {
       "beat": 19.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 65,
       "lyric": "the"
      },
      {
@@ -388,13 +388,13 @@
      {
       "beat": 21.0,
       "length": 1.0,
-      "pitch": 62,
+      "pitch": 65,
       "lyric": "a-"
      },
      {
       "beat": 22.0,
       "length": 2.0,
-      "pitch": 61,
+      "pitch": 64,
       "lyric": "shore,"
      },
      {
@@ -406,19 +406,19 @@
      {
       "beat": 25.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 58,
       "lyric": "le-"
      },
      {
       "beat": 26.0,
       "length": 2.0,
-      "pitch": 62,
+      "pitch": 60,
       "lyric": "lu-"
      },
      {
       "beat": 28.0,
       "length": 2.0,
-      "pitch": 61
+      "pitch": 64
      },
      {
       "beat": 30.0,
@@ -433,8 +433,8 @@
    "key": "tenor",
    "name": "Tenor",
    "range": {
-    "low": 54,
-    "high": 62
+    "low": 53,
+    "high": 65
    },
    "guide": {
     "type": "notes",
@@ -442,123 +442,123 @@
      {
       "beat": 0.0,
       "length": 1.0,
-      "pitch": 54,
+      "pitch": 57,
       "lyric": "Mi-",
       "br": true
      },
      {
       "beat": 1.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "chael,"
      },
      {
       "beat": 2.0,
       "length": 1.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "row"
      },
      {
       "beat": 3.5,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "the"
      },
      {
       "beat": 4.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "boat"
      },
      {
       "beat": 5.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "a-"
      },
      {
       "beat": 6.0,
       "length": 2.0,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "shore,"
      },
      {
       "beat": 8.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "Hal-"
      },
      {
       "beat": 9.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "le-"
      },
      {
       "beat": 10.0,
       "length": 4.0,
-      "pitch": 62,
+      "pitch": 65,
       "lyric": "lu-"
      },
      {
       "beat": 14.0,
       "length": 2.0,
-      "pitch": 62,
+      "pitch": 65,
       "lyric": "jah!"
      },
      {
       "beat": 16.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "Mi-",
       "br": true
      },
      {
       "beat": 17.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "chael,"
      },
      {
       "beat": 18.0,
       "length": 1.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "row"
      },
      {
       "beat": 19.5,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "the"
      },
      {
       "beat": 20.0,
       "length": 1.0,
-      "pitch": 59,
+      "pitch": 58,
       "lyric": "boat"
      },
      {
       "beat": 21.0,
       "length": 1.0,
-      "pitch": 62,
+      "pitch": 53,
       "lyric": "a-"
      },
      {
       "beat": 22.0,
       "length": 2.0,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "shore,"
      },
      {
       "beat": 24.0,
       "length": 1.0,
-      "pitch": 54,
+      "pitch": 60,
       "lyric": "Hal-"
      },
      {
       "beat": 25.0,
       "length": 1.0,
-      "pitch": 54,
+      "pitch": 57,
       "lyric": "le-"
      },
      {
@@ -570,12 +570,12 @@
      {
       "beat": 28.0,
       "length": 2.0,
-      "pitch": 57
+      "pitch": 60
      },
      {
       "beat": 30.0,
       "length": 2.0,
-      "pitch": 54,
+      "pitch": 60,
       "lyric": "jah!"
      }
     ]
@@ -585,8 +585,8 @@
    "key": "bass",
    "name": "Bass",
    "range": {
-    "low": 43,
-    "high": 50
+    "low": 46,
+    "high": 53
    },
    "guide": {
     "type": "notes",
@@ -594,81 +594,81 @@
      {
       "beat": 2.0,
       "length": 2.0,
-      "pitch": 50,
+      "pitch": 53,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 4.0,
       "length": 2.0,
-      "pitch": 50
+      "pitch": 53
      },
      {
       "beat": 6.0,
       "length": 2.0,
-      "pitch": 50
+      "pitch": 53
      },
      {
       "beat": 8.0,
       "length": 2.0,
-      "pitch": 50
+      "pitch": 53
      },
      {
       "beat": 10.0,
       "length": 2.0,
-      "pitch": 43
+      "pitch": 46
      },
      {
       "beat": 12.0,
       "length": 2.0,
-      "pitch": 43
+      "pitch": 46
      },
      {
       "beat": 14.0,
       "length": 2.0,
-      "pitch": 50
+      "pitch": 53
      },
      {
       "beat": 16.0,
       "length": 2.0,
-      "pitch": 50,
+      "pitch": 53,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 18.0,
       "length": 2.0,
-      "pitch": 50
+      "pitch": 53
      },
      {
       "beat": 20.0,
       "length": 2.0,
-      "pitch": 43
+      "pitch": 46
      },
      {
       "beat": 22.0,
       "length": 2.0,
-      "pitch": 45
+      "pitch": 48
      },
      {
       "beat": 24.0,
       "length": 2.0,
-      "pitch": 50
+      "pitch": 53
      },
      {
       "beat": 26.0,
       "length": 2.0,
-      "pitch": 50
+      "pitch": 53
      },
      {
       "beat": 28.0,
       "length": 2.0,
-      "pitch": 45
+      "pitch": 48
      },
      {
       "beat": 30.0,
       "length": 2.0,
-      "pitch": 50
+      "pitch": 53
      }
     ]
    }
