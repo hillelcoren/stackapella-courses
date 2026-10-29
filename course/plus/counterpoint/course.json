@@ -19,8 +19,8 @@
                             "headline": {"en": "A round is one tune that fits itself when it starts at different times. You start it."},
                             "steps": [
                                 {"title": {"en": "Sing Row, Row, Row"}, "detail": {"en": "Twice through, at an easy volume"}},
-                                {"title": {"en": "Three voices join you"}, "detail": {"en": "Each one two bars behind the last"}},
-                                {"title": {"en": "Best with headphones"}, "detail": {"en": "You'll hear the voices join as you sing"}}
+                                {"title": {"en": "Three voices join you"}, "detail": {"en": "Two bars apart. Listen to them: never sing louder to hear yourself"}},
+                                {"title": {"en": "Best with headphones"}, "detail": {"en": "And stop if anything tightens or hurts"}}
                             ],
                             "listen": {
                                 "tempo": 150,
@@ -61,20 +61,27 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "The first two lines, at your own pace."},
+                            "text": {"en": "The quick half, \"merrily\" to \"dream\", at your own pace."},
                             "exercise": {
                                 "tempo": 150,
                                 "notes": [
-                                    {"beat": 0, "length": 3, "step": -7, "lyric": "Row,"},
-                                    {"beat": 3, "length": 3, "step": -7, "lyric": "row,"},
-                                    {"beat": 6, "length": 2, "step": -7, "lyric": "row"},
-                                    {"beat": 8, "length": 1, "step": -5, "lyric": "your"},
-                                    {"beat": 9, "length": 3, "step": -3, "lyric": "boat"},
-                                    {"beat": 12, "length": 2, "step": -3, "lyric": "gent-"},
-                                    {"beat": 14, "length": 1, "step": -5, "lyric": "ly"},
-                                    {"beat": 15, "length": 2, "step": -3, "lyric": "down"},
-                                    {"beat": 17, "length": 1, "step": -2, "lyric": "the"},
-                                    {"beat": 18, "length": 6, "step": 0, "lyric": "stream."}
+                                    {"beat": 0, "length": 1, "step": 5, "lyric": "Mer-"},
+                                    {"beat": 1, "length": 1, "step": 5, "lyric": "ri-"},
+                                    {"beat": 2, "length": 1, "step": 5, "lyric": "ly,"},
+                                    {"beat": 3, "length": 1, "step": 0, "lyric": "mer-"},
+                                    {"beat": 4, "length": 1, "step": 0, "lyric": "ri-"},
+                                    {"beat": 5, "length": 1, "step": 0, "lyric": "ly,"},
+                                    {"beat": 6, "length": 1, "step": -3, "lyric": "mer-"},
+                                    {"beat": 7, "length": 1, "step": -3, "lyric": "ri-"},
+                                    {"beat": 8, "length": 1, "step": -3, "lyric": "ly,"},
+                                    {"beat": 9, "length": 1, "step": -7, "lyric": "mer-"},
+                                    {"beat": 10, "length": 1, "step": -7, "lyric": "ri-"},
+                                    {"beat": 11, "length": 1, "step": -7, "lyric": "ly,"},
+                                    {"beat": 12, "length": 2, "step": 0, "lyric": "life"},
+                                    {"beat": 14, "length": 1, "step": -2, "lyric": "is"},
+                                    {"beat": 15, "length": 2, "step": -3, "lyric": "but"},
+                                    {"beat": 17, "length": 1, "step": -5, "lyric": "a"},
+                                    {"beat": 18, "length": 6, "step": -7, "lyric": "dream."}
                                 ],
                                 "drone": {"step": -7}
                             }
@@ -142,6 +149,7 @@
                                 ],
                                 "turn": false,
                                 "drone": {"step": -7},
+                                "generous": true,
                                 "with": [{"delay": 12, "steps": 12}, {"delay": 24}, {"delay": 36, "steps": -12}]
                             },
                             "measures": {"en": "Your stars are for your notes on pitch. By the end of the course you'll write your own line against a melody."}
@@ -157,7 +165,7 @@
                             "headline": {"en": "Your ear can follow two voices at once. Listen for which one moves."},
                             "steps": [
                                 {"title": {"en": "Two voices"}, "detail": {"en": "One high, one low, at the same time"}},
-                                {"title": {"en": "Find the one that moves"}, "detail": {"en": "The other holds still, or sings its own tune"}},
+                                {"title": {"en": "Which one moves?"}, "detail": {"en": "One may hold, both may move, or sing their own tune"}},
                                 {"title": {"en": "Hear it as often as you like"}, "detail": {"en": "Then choose"}}
                             ],
                             "visual": "harmony",
@@ -174,23 +182,6 @@
                                         "clips": [
                                             {
                                                 "notes": [
-                                                    {"beat": 0, "length": 4, "step": 4},
-                                                    {"beat": 0, "length": 1, "step": -5},
-                                                    {"beat": 1, "length": 1, "step": -3},
-                                                    {"beat": 2, "length": 1, "step": -1},
-                                                    {"beat": 3, "length": 1, "step": 0}
-                                                ]
-                                            }
-                                        ],
-                                        "options": [{"en": "The high one"}, {"en": "The low one"}],
-                                        "answer": 0,
-                                        "why": {"en": "The high voice stayed on one note while the low one climbed underneath."}
-                                    },
-                                    {
-                                        "prompt": {"en": "Which voice held still?"},
-                                        "clips": [
-                                            {
-                                                "notes": [
                                                     {"beat": 0, "length": 1, "step": 7},
                                                     {"beat": 1, "length": 1, "step": 5},
                                                     {"beat": 2, "length": 1, "step": 4},
@@ -199,7 +190,7 @@
                                                 ]
                                             }
                                         ],
-                                        "options": [{"en": "The high one"}, {"en": "The low one"}],
+                                        "options": [{"en": "The high one"}, {"en": "The low one"}, {"en": "Both moved"}],
                                         "answer": 1,
                                         "why": {"en": "The low voice held one note, like a drone, while the high one stepped down."}
                                     },
@@ -208,17 +199,37 @@
                                         "clips": [
                                             {
                                                 "notes": [
-                                                    {"beat": 0, "length": 4, "step": 7},
-                                                    {"beat": 0, "length": 1, "step": 0},
-                                                    {"beat": 1, "length": 1, "step": 2},
-                                                    {"beat": 2, "length": 1, "step": 4},
-                                                    {"beat": 3, "length": 1, "step": 2}
+                                                    {"beat": 0, "length": 4, "step": 4},
+                                                    {"beat": 0, "length": 1, "step": -5},
+                                                    {"beat": 1, "length": 1, "step": -3},
+                                                    {"beat": 2, "length": 1, "step": -1},
+                                                    {"beat": 3, "length": 1, "step": 0}
                                                 ]
                                             }
                                         ],
-                                        "options": [{"en": "The high one"}, {"en": "The low one"}],
+                                        "options": [{"en": "The high one"}, {"en": "The low one"}, {"en": "Both moved"}],
                                         "answer": 0,
-                                        "why": {"en": "The high voice held. Under it, the low one went up and came back."}
+                                        "why": {"en": "The high voice stayed on one note while the low one climbed underneath."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which voice held still?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 4},
+                                                    {"beat": 1, "length": 1, "step": 5},
+                                                    {"beat": 2, "length": 1, "step": 7},
+                                                    {"beat": 3, "length": 1, "step": 9},
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": -1},
+                                                    {"beat": 2, "length": 1, "step": -3},
+                                                    {"beat": 3, "length": 1, "step": -5}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "The high one"}, {"en": "The low one"}, {"en": "Both moved"}],
+                                        "answer": 2,
+                                        "why": {"en": "Neither held: the high voice climbed while the low one fell. Two lines moving at once."}
                                     },
                                     {
                                         "prompt": {"en": "Which voice held still?"},
@@ -233,9 +244,33 @@
                                                 ]
                                             }
                                         ],
-                                        "options": [{"en": "The high one"}, {"en": "The low one"}],
+                                        "options": [{"en": "The high one"}, {"en": "The low one"}, {"en": "Both moved"}],
                                         "answer": 1,
                                         "why": {"en": "The low voice held do while the high one climbed away from it."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Same tune, or a different one?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 0},
+                                                    {"beat": 4, "length": 1, "step": 0},
+                                                    {"beat": 5, "length": 1, "step": 2},
+                                                    {"beat": 6, "length": 1, "step": 4},
+                                                    {"beat": 7, "length": 1, "step": 0},
+                                                    {"beat": 0, "length": 2, "step": -5},
+                                                    {"beat": 2, "length": 2, "step": -3},
+                                                    {"beat": 4, "length": 2, "step": -5},
+                                                    {"beat": 6, "length": 2, "step": -8}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "The same tune"}, {"en": "Different tunes"}],
+                                        "answer": 1,
+                                        "why": {"en": "The low voice sang its own, slower line. Two different tunes that fit: that's counterpoint."}
                                     },
                                     {
                                         "prompt": {"en": "Same tune, or a different one?"},
@@ -264,34 +299,10 @@
                                         "options": [{"en": "The same tune"}, {"en": "Different tunes"}],
                                         "answer": 0,
                                         "why": {"en": "The low voice sang the same tune two beats later: a little round."}
-                                    },
-                                    {
-                                        "prompt": {"en": "Same tune, or a different one?"},
-                                        "clips": [
-                                            {
-                                                "notes": [
-                                                    {"beat": 0, "length": 1, "step": 0},
-                                                    {"beat": 1, "length": 1, "step": 2},
-                                                    {"beat": 2, "length": 1, "step": 4},
-                                                    {"beat": 3, "length": 1, "step": 0},
-                                                    {"beat": 4, "length": 1, "step": 0},
-                                                    {"beat": 5, "length": 1, "step": 2},
-                                                    {"beat": 6, "length": 1, "step": 4},
-                                                    {"beat": 7, "length": 1, "step": 0},
-                                                    {"beat": 0, "length": 2, "step": -5},
-                                                    {"beat": 2, "length": 2, "step": -3},
-                                                    {"beat": 4, "length": 2, "step": -5},
-                                                    {"beat": 6, "length": 2, "step": -8}
-                                                ]
-                                            }
-                                        ],
-                                        "options": [{"en": "The same tune"}, {"en": "Different tunes"}],
-                                        "answer": 1,
-                                        "why": {"en": "The low voice sang its own, slower line. Two different tunes that fit: that's counterpoint."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Your stars are for the rounds you heard right the first time."}
+                            "measures": {"en": "Your stars are for the questions you answered right the first time."}
                         }
                     ],
                     "strictness": "relaxed"
@@ -306,7 +317,7 @@
                             "steps": [
                                 {"title": {"en": "Hold one note"}, "detail": {"en": "Do, on \"oo\", easy and steady"}},
                                 {"title": {"en": "The tune moves above"}, "detail": {"en": "Ode to Joy, leaning on your note"}},
-                                {"title": {"en": "Breathe between"}, "detail": {"en": "Four holds, a quick breath each time"}}
+                                {"title": {"en": "Breathe between"}, "detail": {"en": "Four holds of three and a half beats, a quick breath each time"}}
                             ],
                             "listen": {
                                 "tempo": 72,
@@ -324,14 +335,25 @@
                                     {"beat": 9, "length": 1, "step": 0},
                                     {"beat": 10, "length": 1, "step": 2},
                                     {"beat": 11, "length": 1, "step": 4},
-                                    {"beat": 12, "length": 1.5, "step": 4},
-                                    {"beat": 13.5, "length": 0.5, "step": 2},
-                                    {"beat": 14.0, "length": 2, "step": 2}
+                                    {"beat": 12, "length": 1.5, "step": 2},
+                                    {"beat": 13.5, "length": 0.5, "step": 0},
+                                    {"beat": 14.0, "length": 2, "step": 0}
                                 ],
                                 "turn": false
                             },
                             "visual": "drone",
                             "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find your do, and your so below it."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "oo"},
+                                    {"beat": 2, "length": 2, "step": -5, "lyric": "oo"}
+                                ]
+                            }
                         },
                         {
                             "kind": "play",
@@ -362,9 +384,9 @@
                                             {"beat": 11, "length": 1, "step": 0},
                                             {"beat": 12, "length": 1, "step": 2},
                                             {"beat": 13, "length": 1, "step": 4},
-                                            {"beat": 14, "length": 1.5, "step": 4},
-                                            {"beat": 15.5, "length": 0.5, "step": 2},
-                                            {"beat": 16.0, "length": 2, "step": 2}
+                                            {"beat": 14, "length": 1.5, "step": 2},
+                                            {"beat": 15.5, "length": 0.5, "step": 0},
+                                            {"beat": 16.0, "length": 2, "step": 0}
                                         ]
                                     }
                                 ]
@@ -399,9 +421,9 @@
                                             {"beat": 11, "length": 1, "step": 0},
                                             {"beat": 12, "length": 1, "step": 2},
                                             {"beat": 13, "length": 1, "step": 4},
-                                            {"beat": 14, "length": 1.5, "step": 4},
-                                            {"beat": 15.5, "length": 0.5, "step": 2},
-                                            {"beat": 16.0, "length": 2, "step": 2}
+                                            {"beat": 14, "length": 1.5, "step": 2},
+                                            {"beat": 15.5, "length": 0.5, "step": 0},
+                                            {"beat": 16.0, "length": 2, "step": 0}
                                         ]
                                     }
                                 ]
@@ -420,44 +442,11 @@
                             "headline": {"en": "A pattern sung over and over is an ostinato, Italian for \"stubborn\". Once you know it, it keeps itself going."},
                             "steps": [
                                 {"title": {"en": "Four notes"}, "detail": {"en": "Do ti do la: a darker colour you'll meet properly in unit 2"}},
-                                {"title": {"en": "Over and over"}, "detail": {"en": "Four times through"}},
+                                {"title": {"en": "Over and over"}, "detail": {"en": "Eight times through"}},
                                 {"title": {"en": "A line falls above it"}, "detail": {"en": "Let it pass; keep your pattern"}}
                             ],
                             "listen": {
-                                "tempo": 96,
-                                "notes": [
-                                    {"beat": 0, "length": 1, "step": 0},
-                                    {"beat": 1, "length": 0.5, "step": -1},
-                                    {"beat": 1.5, "length": 0.5, "step": 0},
-                                    {"beat": 2.0, "length": 1, "step": -3},
-                                    {"beat": 3.0, "length": 1, "step": 0},
-                                    {"beat": 4.0, "length": 0.5, "step": -1},
-                                    {"beat": 4.5, "length": 0.5, "step": 0},
-                                    {"beat": 5.0, "length": 1, "step": -3}
-                                ],
-                                "turn": false
-                            },
-                            "visual": "echo",
-                            "reviewed": false
-                        },
-                        {
-                            "kind": "try",
-                            "text": {"en": "The pattern, at your own pace."},
-                            "exercise": {
-                                "tempo": 96,
-                                "notes": [
-                                    {"beat": 0, "length": 1, "step": 0},
-                                    {"beat": 1, "length": 0.5, "step": -1},
-                                    {"beat": 1.5, "length": 0.5, "step": 0},
-                                    {"beat": 2.0, "length": 1, "step": -3}
-                                ]
-                            }
-                        },
-                        {
-                            "kind": "play",
-                            "text": {"en": "After a bar of the high line, sing the pattern four times, then hold the last note."},
-                            "exercise": {
-                                "tempo": 96,
+                                "tempo": 84,
                                 "notes": [
                                     {"beat": 3, "length": 1, "step": 0},
                                     {"beat": 4, "length": 0.5, "step": -1},
@@ -474,18 +463,81 @@
                                     {"beat": 12.0, "length": 1, "step": 0},
                                     {"beat": 13.0, "length": 0.5, "step": -1},
                                     {"beat": 13.5, "length": 0.5, "step": 0},
+                                    {"beat": 14.0, "length": 1, "step": -3}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [{"beat": 0, "length": 6, "step": 9}, {"beat": 6, "length": 6, "step": 7}]
+                                    }
+                                ]
+                            },
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "The pattern, at your own pace."},
+                            "exercise": {
+                                "tempo": 84,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0},
+                                    {"beat": 1, "length": 0.5, "step": -1},
+                                    {"beat": 1.5, "length": 0.5, "step": 0},
+                                    {"beat": 2.0, "length": 1, "step": -3}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide gives you do. After a bar, sing the pattern eight times under the line, then hold the last note."},
+                            "exercise": {
+                                "tempo": 84,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "listenOnly": true},
+                                    {"beat": 3, "length": 1, "step": 0},
+                                    {"beat": 4, "length": 0.5, "step": -1},
+                                    {"beat": 4.5, "length": 0.5, "step": 0},
+                                    {"beat": 5.0, "length": 1, "step": -3},
+                                    {"beat": 6.0, "length": 1, "step": 0},
+                                    {"beat": 7.0, "length": 0.5, "step": -1},
+                                    {"beat": 7.5, "length": 0.5, "step": 0},
+                                    {"beat": 8.0, "length": 1, "step": -3},
+                                    {"beat": 9.0, "length": 1, "step": 0},
+                                    {"beat": 10.0, "length": 0.5, "step": -1},
+                                    {"beat": 10.5, "length": 0.5, "step": 0},
+                                    {"beat": 11.0, "length": 1, "step": -3},
+                                    {"beat": 12.0, "length": 1, "step": 0},
+                                    {"beat": 13.0, "length": 0.5, "step": -1},
+                                    {"beat": 13.5, "length": 0.5, "step": 0},
                                     {"beat": 14.0, "length": 1, "step": -3},
-                                    {"beat": 15, "length": 3, "step": -3}
+                                    {"beat": 15.0, "length": 1, "step": 0},
+                                    {"beat": 16.0, "length": 0.5, "step": -1},
+                                    {"beat": 16.5, "length": 0.5, "step": 0},
+                                    {"beat": 17.0, "length": 1, "step": -3},
+                                    {"beat": 18.0, "length": 1, "step": 0},
+                                    {"beat": 19.0, "length": 0.5, "step": -1},
+                                    {"beat": 19.5, "length": 0.5, "step": 0},
+                                    {"beat": 20.0, "length": 1, "step": -3},
+                                    {"beat": 21.0, "length": 1, "step": 0},
+                                    {"beat": 22.0, "length": 0.5, "step": -1},
+                                    {"beat": 22.5, "length": 0.5, "step": 0},
+                                    {"beat": 23.0, "length": 1, "step": -3},
+                                    {"beat": 24.0, "length": 1, "step": 0},
+                                    {"beat": 25.0, "length": 0.5, "step": -1},
+                                    {"beat": 25.5, "length": 0.5, "step": 0},
+                                    {"beat": 26.0, "length": 1, "step": -3},
+                                    {"beat": 27, "length": 3, "step": -3}
                                 ],
                                 "turn": false,
                                 "with": [
                                     {
                                         "notes": [
                                             {"beat": 0, "length": 6, "step": 9},
-                                            {"beat": 6, "length": 3, "step": 7},
-                                            {"beat": 9, "length": 3, "step": 5},
-                                            {"beat": 12, "length": 3, "step": 4},
-                                            {"beat": 15, "length": 3, "step": 4}
+                                            {"beat": 6, "length": 6, "step": 7},
+                                            {"beat": 12, "length": 6, "step": 5},
+                                            {"beat": 18, "length": 6, "step": 4},
+                                            {"beat": 24, "length": 6, "step": 4}
                                         ]
                                     }
                                 ]
@@ -505,7 +557,7 @@
                             "headline": {"en": "Under a whole tune: a pattern first, then one long note."},
                             "steps": [
                                 {"title": {"en": "Do and so"}, "detail": {"en": "Two notes a bar, under the first half"}},
-                                {"title": {"en": "Then hold do"}, "detail": {"en": "A pedal under \"merrily\" to the end"}},
+                                {"title": {"en": "Then hold do"}, "detail": {"en": "A pedal from \"merrily\" to the end, with one breath"}},
                                 {"title": {"en": "Listen up"}, "detail": {"en": "Could you still hear the tune?"}}
                             ],
                             "visual": "bass",
@@ -513,20 +565,21 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "After a bar, sing do and so under the tune, then hold do to the end."},
+                            "text": {"en": "After a bar, sing do and so under the tune, then hold do to the end, with one quick breath."},
                             "exercise": {
                                 "tempo": 150,
                                 "notes": [
                                     {"beat": 0, "length": 3, "step": -7, "listenOnly": true},
                                     {"beat": 6, "length": 3, "step": -7, "lyric": "doo"},
-                                    {"beat": 9, "length": 3, "step": -2, "lyric": "bm"},
+                                    {"beat": 9, "length": 3, "step": 0, "lyric": "bm"},
                                     {"beat": 12, "length": 3, "step": -7, "lyric": "doo"},
-                                    {"beat": 15, "length": 3, "step": -2, "lyric": "bm"},
+                                    {"beat": 15, "length": 3, "step": 0, "lyric": "bm"},
                                     {"beat": 18, "length": 3, "step": -7, "lyric": "doo"},
-                                    {"beat": 21, "length": 3, "step": -2, "lyric": "bm"},
+                                    {"beat": 21, "length": 3, "step": 0, "lyric": "bm"},
                                     {"beat": 24, "length": 3, "step": -7, "lyric": "doo"},
-                                    {"beat": 27, "length": 3, "step": -2, "lyric": "bm"},
-                                    {"beat": 30, "length": 11, "step": -7, "lyric": "oo"}
+                                    {"beat": 27, "length": 3, "step": 0, "lyric": "bm"},
+                                    {"beat": 30, "length": 11, "step": -7, "lyric": "oo"},
+                                    {"beat": 42, "length": 11, "step": -7, "lyric": "oo"}
                                 ],
                                 "turn": false,
                                 "with": [
@@ -585,7 +638,7 @@
                             "steps": [
                                 {"title": {"en": "Listen to the leader"}, "detail": {"en": "Are You Sleeping, from the top"}},
                                 {"title": {"en": "Come in after two bars"}, "detail": {"en": "On \"Are you sleeping\""}},
-                                {"title": {"en": "Keep your own tune"}, "detail": {"en": "Even when theirs is louder in your ear"}}
+                                {"title": {"en": "Keep your own tune"}, "detail": {"en": "Listen to both, never louder"}}
                             ],
                             "listen": {
                                 "tempo": 100,
@@ -743,7 +796,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Minor is the same tune with two notes a half step lower: mi and la. It sounds darker. Mahler turned this round into a slow march in minor in his First Symphony."},
+                            "headline": {"en": "This tune in minor: its mi and la a half step lower, and it sounds darker. Mahler turned this round into a slow march in minor in his First Symphony."},
                             "steps": [
                                 {"title": {"en": "Listen to the minor tune"}, "detail": {"en": "The same shape, a darker colour"}},
                                 {"title": {"en": "You're the third voice"}, "detail": {"en": "Two are singing before you come in"}},
@@ -985,10 +1038,34 @@
                                     {"beat": 13, "length": 1, "step": 4},
                                     {"beat": 14, "length": 1, "step": 2},
                                     {"beat": 15, "length": 1, "step": 0},
-                                    {"beat": 16, "length": 4, "step": 0}
+                                    {"beat": 16, "length": 1, "step": -3},
+                                    {"beat": 17, "length": 1, "step": -5},
+                                    {"beat": 18, "length": 1, "step": -1},
+                                    {"beat": 19, "length": 1, "step": 0}
                                 ],
                                 "turn": false,
-                                "with": [{"delay": 4, "steps": -12}]
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 1, "step": -12},
+                                            {"beat": 5, "length": 1, "step": -10},
+                                            {"beat": 6, "length": 1, "step": -12},
+                                            {"beat": 7, "length": 1, "step": -15},
+                                            {"beat": 8, "length": 1, "step": -17},
+                                            {"beat": 9, "length": 1, "step": -13},
+                                            {"beat": 10, "length": 1, "step": -15},
+                                            {"beat": 11, "length": 1, "step": -12},
+                                            {"beat": 12, "length": 1, "step": -10},
+                                            {"beat": 13, "length": 1, "step": -8},
+                                            {"beat": 14, "length": 1, "step": -7},
+                                            {"beat": 15, "length": 1, "step": -8},
+                                            {"beat": 16, "length": 1, "step": -7},
+                                            {"beat": 17, "length": 1, "step": -8},
+                                            {"beat": 18, "length": 1, "step": -10},
+                                            {"beat": 19, "length": 1, "step": -12}
+                                        ]
+                                    }
+                                ]
                             },
                             "visual": "round",
                             "reviewed": false
@@ -1020,7 +1097,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "You lead. After the guide's do, sing the line, then hold do while the follower finishes."},
+                            "text": {"en": "You lead. After the guide's do, sing the line, then la so ti do while the follower finishes."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1041,7 +1118,10 @@
                                     {"beat": 17, "length": 1, "step": 4},
                                     {"beat": 18, "length": 1, "step": 2},
                                     {"beat": 19, "length": 1, "step": 0},
-                                    {"beat": 20, "length": 4, "step": 0}
+                                    {"beat": 20, "length": 1, "step": -3},
+                                    {"beat": 21, "length": 1, "step": -5},
+                                    {"beat": 22, "length": 1, "step": -1},
+                                    {"beat": 23, "length": 1, "step": 0}
                                 ],
                                 "turn": false,
                                 "with": [
@@ -1111,7 +1191,10 @@
                                             {"beat": 13, "length": 1, "step": 16},
                                             {"beat": 14, "length": 1, "step": 14},
                                             {"beat": 15, "length": 1, "step": 12},
-                                            {"beat": 16, "length": 4, "step": 12}
+                                            {"beat": 16, "length": 1, "step": 9},
+                                            {"beat": 17, "length": 1, "step": 7},
+                                            {"beat": 18, "length": 1, "step": 11},
+                                            {"beat": 19, "length": 1, "step": 12}
                                         ]
                                     }
                                 ]
@@ -1127,57 +1210,168 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The hardest seat in a round: two voices are already singing when you start, and one more comes in after you."},
+                            "headline": {"en": "The hardest seat in a round: two voices are already singing when you start, and one more comes in after you. Then you become the floor."},
                             "steps": [
                                 {"title": {"en": "Voice 3 of 4"}, "detail": {"en": "Come in four bars in"}},
-                                {"title": {"en": "Voices on every side"}, "detail": {"en": "Above you, below you, and after you"}},
-                                {"title": {"en": "Your own line"}, "detail": {"en": "Hold it the way you held your pedal"}}
+                                {"title": {"en": "Then the floor"}, "detail": {"en": "\"Ding, dang, dong\", over and over, like unit 1's pattern"}},
+                                {"title": {"en": "Your own line"}, "detail": {"en": "Listen to them all, never louder"}}
                             ],
-                            "listen": {
-                                "tempo": 100,
-                                "notes": [
-                                    {"beat": 0, "length": 1, "step": -4, "lyric": "Are"},
-                                    {"beat": 1, "length": 1, "step": -2, "lyric": "you"},
-                                    {"beat": 2, "length": 1, "step": 0, "lyric": "sleep-"},
-                                    {"beat": 3, "length": 1, "step": -4, "lyric": "ing,"},
-                                    {"beat": 4, "length": 1, "step": -4, "lyric": "are"},
-                                    {"beat": 5, "length": 1, "step": -2, "lyric": "you"},
-                                    {"beat": 6, "length": 1, "step": 0, "lyric": "sleep-"},
-                                    {"beat": 7, "length": 1, "step": -4, "lyric": "ing,"},
-                                    {"beat": 8, "length": 1, "step": 0, "lyric": "Broth-"},
-                                    {"beat": 9, "length": 1, "step": 1, "lyric": "er"},
-                                    {"beat": 10, "length": 2, "step": 3, "lyric": "John?"},
-                                    {"beat": 12, "length": 1, "step": 0, "lyric": "Broth-"},
-                                    {"beat": 13, "length": 1, "step": 1, "lyric": "er"},
-                                    {"beat": 14, "length": 2, "step": 3, "lyric": "John?"},
-                                    {"beat": 16, "length": 0.5, "step": 3, "lyric": "Morn-"},
-                                    {"beat": 16.5, "length": 0.5, "step": 5, "lyric": "ing"},
-                                    {"beat": 17.0, "length": 0.5, "step": 3, "lyric": "bells"},
-                                    {"beat": 17.5, "length": 0.5, "step": 1, "lyric": "are"},
-                                    {"beat": 18.0, "length": 1, "step": 0, "lyric": "ring-"},
-                                    {"beat": 19.0, "length": 1, "step": -4, "lyric": "ing,"},
-                                    {"beat": 20.0, "length": 0.5, "step": 3, "lyric": "morn-"},
-                                    {"beat": 20.5, "length": 0.5, "step": 5, "lyric": "ing"},
-                                    {"beat": 21.0, "length": 0.5, "step": 3, "lyric": "bells"},
-                                    {"beat": 21.5, "length": 0.5, "step": 1, "lyric": "are"},
-                                    {"beat": 22.0, "length": 1, "step": 0, "lyric": "ring-"},
-                                    {"beat": 23.0, "length": 1, "step": -4, "lyric": "ing,"},
-                                    {"beat": 24.0, "length": 1, "step": -4, "lyric": "ding,"},
-                                    {"beat": 25.0, "length": 1, "step": -9, "lyric": "dang,"},
-                                    {"beat": 26.0, "length": 2, "step": -4, "lyric": "dong,"},
-                                    {"beat": 28.0, "length": 1, "step": -4, "lyric": "ding,"},
-                                    {"beat": 29.0, "length": 1, "step": -9, "lyric": "dang,"},
-                                    {"beat": 30.0, "length": 2, "step": -4, "lyric": "dong."}
-                                ],
-                                "turn": false,
-                                "with": [{"delay": 8, "steps": -12}, {"delay": 16}, {"delay": 24, "steps": -12}]
-                            },
                             "visual": "round",
                             "reviewed": false
                         },
                         {
+                            "kind": "choose",
+                            "text": {"en": "First, ears only: count the voices."},
+                            "exercise": {
+                                "tempo": 100,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "How many voices are singing by the end?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 8},
+                                                    {"beat": 1, "length": 1, "step": 10},
+                                                    {"beat": 2, "length": 1, "step": 12},
+                                                    {"beat": 3, "length": 1, "step": 8},
+                                                    {"beat": 4, "length": 1, "step": 8},
+                                                    {"beat": 5, "length": 1, "step": 10},
+                                                    {"beat": 6, "length": 1, "step": 12},
+                                                    {"beat": 7, "length": 1, "step": 8},
+                                                    {"beat": 8, "length": 1, "step": 12},
+                                                    {"beat": 9, "length": 1, "step": 13},
+                                                    {"beat": 10, "length": 2, "step": 15},
+                                                    {"beat": 12, "length": 1, "step": 12},
+                                                    {"beat": 13, "length": 1, "step": 13},
+                                                    {"beat": 14, "length": 2, "step": 15},
+                                                    {"beat": 4, "length": 1, "step": -4},
+                                                    {"beat": 5, "length": 1, "step": -2},
+                                                    {"beat": 6, "length": 1, "step": 0},
+                                                    {"beat": 7, "length": 1, "step": -4},
+                                                    {"beat": 8, "length": 1, "step": -4},
+                                                    {"beat": 9, "length": 1, "step": -2},
+                                                    {"beat": 10, "length": 1, "step": 0},
+                                                    {"beat": 11, "length": 1, "step": -4},
+                                                    {"beat": 12, "length": 1, "step": 0},
+                                                    {"beat": 13, "length": 1, "step": 1},
+                                                    {"beat": 14, "length": 2, "step": 3},
+                                                    {"beat": 8, "length": 1, "step": 8},
+                                                    {"beat": 9, "length": 1, "step": 10},
+                                                    {"beat": 10, "length": 1, "step": 12},
+                                                    {"beat": 11, "length": 1, "step": 8},
+                                                    {"beat": 12, "length": 1, "step": 8},
+                                                    {"beat": 13, "length": 1, "step": 10},
+                                                    {"beat": 14, "length": 1, "step": 12},
+                                                    {"beat": 15, "length": 1, "step": 8}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "Two"}, {"en": "Three"}, {"en": "Four"}],
+                                        "answer": 1,
+                                        "why": {"en": "Three: each came in a bar after the one before."}
+                                    },
+                                    {
+                                        "prompt": {"en": "How many voices are singing by the end?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 8},
+                                                    {"beat": 1, "length": 1, "step": 10},
+                                                    {"beat": 2, "length": 1, "step": 12},
+                                                    {"beat": 3, "length": 1, "step": 8},
+                                                    {"beat": 4, "length": 1, "step": 8},
+                                                    {"beat": 5, "length": 1, "step": 10},
+                                                    {"beat": 6, "length": 1, "step": 12},
+                                                    {"beat": 7, "length": 1, "step": 8},
+                                                    {"beat": 8, "length": 1, "step": 12},
+                                                    {"beat": 9, "length": 1, "step": 13},
+                                                    {"beat": 10, "length": 2, "step": 15},
+                                                    {"beat": 4, "length": 1, "step": -4},
+                                                    {"beat": 5, "length": 1, "step": -2},
+                                                    {"beat": 6, "length": 1, "step": 0},
+                                                    {"beat": 7, "length": 1, "step": -4},
+                                                    {"beat": 8, "length": 1, "step": -4},
+                                                    {"beat": 9, "length": 1, "step": -2},
+                                                    {"beat": 10, "length": 1, "step": 0},
+                                                    {"beat": 11, "length": 1, "step": -4}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "Two"}, {"en": "Three"}, {"en": "Four"}],
+                                        "answer": 0,
+                                        "why": {"en": "Two: a leader and one follower."}
+                                    },
+                                    {
+                                        "prompt": {"en": "How many voices are singing by the end?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 8},
+                                                    {"beat": 1, "length": 1, "step": 10},
+                                                    {"beat": 2, "length": 1, "step": 12},
+                                                    {"beat": 3, "length": 1, "step": 8},
+                                                    {"beat": 4, "length": 1, "step": 8},
+                                                    {"beat": 5, "length": 1, "step": 10},
+                                                    {"beat": 6, "length": 1, "step": 12},
+                                                    {"beat": 7, "length": 1, "step": 8},
+                                                    {"beat": 8, "length": 1, "step": 12},
+                                                    {"beat": 9, "length": 1, "step": 13},
+                                                    {"beat": 10, "length": 2, "step": 15},
+                                                    {"beat": 12, "length": 1, "step": 12},
+                                                    {"beat": 13, "length": 1, "step": 13},
+                                                    {"beat": 14, "length": 2, "step": 15},
+                                                    {"beat": 16, "length": 0.5, "step": 15},
+                                                    {"beat": 16.5, "length": 0.5, "step": 17},
+                                                    {"beat": 17.0, "length": 0.5, "step": 15},
+                                                    {"beat": 17.5, "length": 0.5, "step": 13},
+                                                    {"beat": 18.0, "length": 1, "step": 12},
+                                                    {"beat": 19.0, "length": 1, "step": 8},
+                                                    {"beat": 4, "length": 1, "step": -4},
+                                                    {"beat": 5, "length": 1, "step": -2},
+                                                    {"beat": 6, "length": 1, "step": 0},
+                                                    {"beat": 7, "length": 1, "step": -4},
+                                                    {"beat": 8, "length": 1, "step": -4},
+                                                    {"beat": 9, "length": 1, "step": -2},
+                                                    {"beat": 10, "length": 1, "step": 0},
+                                                    {"beat": 11, "length": 1, "step": -4},
+                                                    {"beat": 12, "length": 1, "step": 0},
+                                                    {"beat": 13, "length": 1, "step": 1},
+                                                    {"beat": 14, "length": 2, "step": 3},
+                                                    {"beat": 16, "length": 1, "step": 0},
+                                                    {"beat": 17, "length": 1, "step": 1},
+                                                    {"beat": 18, "length": 2, "step": 3},
+                                                    {"beat": 8, "length": 1, "step": 8},
+                                                    {"beat": 9, "length": 1, "step": 10},
+                                                    {"beat": 10, "length": 1, "step": 12},
+                                                    {"beat": 11, "length": 1, "step": 8},
+                                                    {"beat": 12, "length": 1, "step": 8},
+                                                    {"beat": 13, "length": 1, "step": 10},
+                                                    {"beat": 14, "length": 1, "step": 12},
+                                                    {"beat": 15, "length": 1, "step": 8},
+                                                    {"beat": 16, "length": 1, "step": 12},
+                                                    {"beat": 17, "length": 1, "step": 13},
+                                                    {"beat": 18, "length": 2, "step": 15},
+                                                    {"beat": 12, "length": 1, "step": -4},
+                                                    {"beat": 13, "length": 1, "step": -2},
+                                                    {"beat": 14, "length": 1, "step": 0},
+                                                    {"beat": 15, "length": 1, "step": -4},
+                                                    {"beat": 16, "length": 1, "step": -4},
+                                                    {"beat": 17, "length": 1, "step": -2},
+                                                    {"beat": 18, "length": 1, "step": 0},
+                                                    {"beat": 19, "length": 1, "step": -4}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "Two"}, {"en": "Three"}, {"en": "Four"}],
+                                        "answer": 2,
+                                        "why": {"en": "Four, the most a round like this usually has. Next, you're one of them."}
+                                    }
+                                ]
+                            }
+                        },
+                        {
                             "kind": "play",
-                            "text": {"en": "Two voices start. Come in third, four bars in, and sing it through while the fourth joins you."},
+                            "text": {"en": "Come in third and sing it through, then keep \"ding, dang, dong\" going under the others."},
                             "exercise": {
                                 "tempo": 100,
                                 "notes": [
@@ -1212,7 +1406,19 @@
                                     {"beat": 42.0, "length": 2, "step": -4, "lyric": "dong,"},
                                     {"beat": 44.0, "length": 1, "step": -4, "lyric": "ding,"},
                                     {"beat": 45.0, "length": 1, "step": -9, "lyric": "dang,"},
-                                    {"beat": 46.0, "length": 2, "step": -4, "lyric": "dong."}
+                                    {"beat": 46.0, "length": 2, "step": -4, "lyric": "dong."},
+                                    {"beat": 48, "length": 1, "step": -4, "lyric": "ding,"},
+                                    {"beat": 49, "length": 1, "step": -9, "lyric": "dang,"},
+                                    {"beat": 50, "length": 2, "step": -4, "lyric": "dong,"},
+                                    {"beat": 52, "length": 1, "step": -4, "lyric": "ding,"},
+                                    {"beat": 53, "length": 1, "step": -9, "lyric": "dang,"},
+                                    {"beat": 54, "length": 2, "step": -4, "lyric": "dong,"},
+                                    {"beat": 56, "length": 1, "step": -4, "lyric": "ding,"},
+                                    {"beat": 57, "length": 1, "step": -9, "lyric": "dang,"},
+                                    {"beat": 58, "length": 2, "step": -4, "lyric": "dong,"},
+                                    {"beat": 60, "length": 1, "step": -4, "lyric": "ding,"},
+                                    {"beat": 61, "length": 1, "step": -9, "lyric": "dang,"},
+                                    {"beat": 62, "length": 2, "step": -4, "lyric": "dong,"}
                                 ],
                                 "turn": false,
                                 "with": [
@@ -1275,8 +1481,15 @@
                                             {"beat": 53.0, "length": 0.5, "step": 15, "lyric": "bells"},
                                             {"beat": 53.5, "length": 0.5, "step": 13, "lyric": "are"},
                                             {"beat": 54.0, "length": 1, "step": 12, "lyric": "ring-"},
-                                            {"beat": 55.0, "length": 1, "step": 8, "lyric": "ing,"}
-                                        ]
+                                            {"beat": 55.0, "length": 1, "step": 8, "lyric": "ing,"},
+                                            {"beat": 56.0, "length": 1, "step": 8, "lyric": "ding,"},
+                                            {"beat": 57.0, "length": 1, "step": 3, "lyric": "dang,"},
+                                            {"beat": 58.0, "length": 2, "step": 8, "lyric": "dong,"},
+                                            {"beat": 60.0, "length": 1, "step": 8, "lyric": "ding,"},
+                                            {"beat": 61.0, "length": 1, "step": 3, "lyric": "dang,"},
+                                            {"beat": 62.0, "length": 2, "step": 8, "lyric": "dong."}
+                                        ],
+                                        "volume": 0.35
                                     },
                                     {
                                         "notes": [
@@ -1325,8 +1538,21 @@
                                             {"beat": 50.0, "length": 2, "step": -9, "lyric": "John?"},
                                             {"beat": 52.0, "length": 1, "step": -12, "lyric": "Broth-"},
                                             {"beat": 53.0, "length": 1, "step": -11, "lyric": "er"},
-                                            {"beat": 54.0, "length": 2, "step": -9, "lyric": "John?"}
-                                        ]
+                                            {"beat": 54.0, "length": 2, "step": -9, "lyric": "John?"},
+                                            {"beat": 56.0, "length": 0.5, "step": -9, "lyric": "Morn-"},
+                                            {"beat": 56.5, "length": 0.5, "step": -7, "lyric": "ing"},
+                                            {"beat": 57.0, "length": 0.5, "step": -9, "lyric": "bells"},
+                                            {"beat": 57.5, "length": 0.5, "step": -11, "lyric": "are"},
+                                            {"beat": 58.0, "length": 1, "step": -12, "lyric": "ring-"},
+                                            {"beat": 59.0, "length": 1, "step": -16, "lyric": "ing,"},
+                                            {"beat": 60.0, "length": 0.5, "step": -9, "lyric": "morn-"},
+                                            {"beat": 60.5, "length": 0.5, "step": -7, "lyric": "ing"},
+                                            {"beat": 61.0, "length": 0.5, "step": -9, "lyric": "bells"},
+                                            {"beat": 61.5, "length": 0.5, "step": -11, "lyric": "are"},
+                                            {"beat": 62.0, "length": 1, "step": -12, "lyric": "ring-"},
+                                            {"beat": 63.0, "length": 1, "step": -16, "lyric": "ing,"}
+                                        ],
+                                        "volume": 0.35
                                     },
                                     {
                                         "notes": [
@@ -1361,12 +1587,21 @@
                                             {"beat": 50.0, "length": 2, "step": -16, "lyric": "dong,"},
                                             {"beat": 52.0, "length": 1, "step": -16, "lyric": "ding,"},
                                             {"beat": 53.0, "length": 1, "step": -21, "lyric": "dang,"},
-                                            {"beat": 54.0, "length": 2, "step": -16, "lyric": "dong."}
-                                        ]
+                                            {"beat": 54.0, "length": 2, "step": -16, "lyric": "dong."},
+                                            {"beat": 56.0, "length": 1, "step": -16, "lyric": "Are"},
+                                            {"beat": 57.0, "length": 1, "step": -14, "lyric": "you"},
+                                            {"beat": 58.0, "length": 1, "step": -12, "lyric": "sleep-"},
+                                            {"beat": 59.0, "length": 1, "step": -16, "lyric": "ing,"},
+                                            {"beat": 60.0, "length": 1, "step": -16, "lyric": "are"},
+                                            {"beat": 61.0, "length": 1, "step": -14, "lyric": "you"},
+                                            {"beat": 62.0, "length": 1, "step": -12, "lyric": "sleep-"},
+                                            {"beat": 63.0, "length": 1, "step": -16, "lyric": "ing,"}
+                                        ],
+                                        "volume": 0.35
                                     }
                                 ]
                             },
-                            "measures": {"en": "Your stars are for your notes on pitch with a voice on every side. Could you still hear the others while you sang?"}
+                            "measures": {"en": "Your stars are for your notes on pitch, in the middle and then as the floor. Could you still hear the others while you sang?"}
                         }
                     ]
                 }
@@ -1387,7 +1622,7 @@
                             "steps": [
                                 {"title": {"en": "The guide calls"}, "detail": {"en": "A short phrase, ending away from do"}},
                                 {"title": {"en": "You answer"}, "detail": {"en": "A different phrase, landing on do"}},
-                                {"title": {"en": "Four in a row"}, "detail": {"en": "From West African singing into gospel, blues and work songs"}}
+                                {"title": {"en": "From West African singing"}, "detail": {"en": "Into gospel, blues and work songs"}}
                             ],
                             "listen": {
                                 "tempo": 90,
@@ -1571,8 +1806,8 @@
                             "kind": "learn",
                             "headline": {"en": "A descant floats above the tune in longer notes, so the tune still comes through. Choirs save it for the last verse."},
                             "steps": [
-                                {"title": {"en": "The tune below"}, "detail": {"en": "O Come, All Ye Faithful"}},
-                                {"title": {"en": "Your line above"}, "detail": {"en": "Five long notes on \"ah\""}},
+                                {"title": {"en": "The tune below"}, "detail": {"en": "O Come, All Ye Faithful, with its chords"}},
+                                {"title": {"en": "Your line above"}, "detail": {"en": "Long notes on \"ah\""}},
                                 {"title": {"en": "Light, never loud"}, "detail": {"en": "Let the tune be heard through you"}}
                             ],
                             "listen": {
@@ -1580,11 +1815,12 @@
                                 "notes": [
                                     {"beat": 0, "length": 1, "step": 0, "lyric": "Ah,"},
                                     {"beat": 1, "length": 4, "step": 5, "lyric": "ah,"},
-                                    {"beat": 5, "length": 2, "step": 4, "lyric": "ah"},
-                                    {"beat": 7, "length": 2, "step": 5, "lyric": "ah,"},
-                                    {"beat": 9, "length": 2, "step": 0, "lyric": "ah"},
-                                    {"beat": 11, "length": 2, "step": 2, "lyric": "ah,"},
-                                    {"beat": 13, "length": 4, "step": 0, "lyric": "ah."}
+                                    {"beat": 5, "length": 4, "step": 4, "lyric": "ah,"},
+                                    {"beat": 9, "length": 1, "step": 5, "lyric": "ah,"},
+                                    {"beat": 10, "length": 1, "step": 4, "lyric": "ah,"},
+                                    {"beat": 11, "length": 1, "step": 5, "lyric": "ah,"},
+                                    {"beat": 12, "length": 1, "step": 2, "lyric": "ah,"},
+                                    {"beat": 13, "length": 3, "step": 0, "lyric": "ah."}
                                 ],
                                 "turn": false,
                                 "with": [
@@ -1601,9 +1837,23 @@
                                             {"beat": 11, "length": 1, "step": -3, "lyric": "and"},
                                             {"beat": 12, "length": 1, "step": -2, "lyric": "tri-"},
                                             {"beat": 13, "length": 2, "step": -3, "lyric": "um-"},
-                                            {"beat": 15, "length": 2, "step": -5, "lyric": "phant!"}
+                                            {"beat": 15, "length": 1, "step": -5, "lyric": "phant,"}
                                         ]
                                     }
+                                ],
+                                "chords": [
+                                    {"beat": 0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 1, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 3, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 4, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 5, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 7, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 9, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 10, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 11, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 12, "root": 7, "quality": "min", "bass": null},
+                                    {"beat": 13, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 15, "root": 0, "quality": "maj", "bass": null}
                                 ]
                             },
                             "visual": "phrase",
@@ -1617,47 +1867,63 @@
                                 "notes": [
                                     {"beat": 0, "length": 1, "step": 0, "lyric": "Ah,"},
                                     {"beat": 1, "length": 4, "step": 5, "lyric": "ah,"},
-                                    {"beat": 5, "length": 2, "step": 4, "lyric": "ah"},
-                                    {"beat": 7, "length": 2, "step": 5, "lyric": "ah,"},
-                                    {"beat": 9, "length": 2, "step": 0, "lyric": "ah"},
-                                    {"beat": 11, "length": 2, "step": 2, "lyric": "ah,"},
-                                    {"beat": 13, "length": 4, "step": 0, "lyric": "ah."}
+                                    {"beat": 5, "length": 4, "step": 4, "lyric": "ah,"},
+                                    {"beat": 9, "length": 1, "step": 5, "lyric": "ah,"},
+                                    {"beat": 10, "length": 1, "step": 4, "lyric": "ah,"},
+                                    {"beat": 11, "length": 1, "step": 5, "lyric": "ah,"},
+                                    {"beat": 12, "length": 1, "step": 2, "lyric": "ah,"},
+                                    {"beat": 13, "length": 3, "step": 0, "lyric": "ah."}
                                 ]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "After a bar, sing the descant over the tune."},
+                            "text": {"en": "After a bar, sing the descant over the tune and its chords."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
                                     {"beat": 0, "length": 2, "step": 0, "listenOnly": true},
-                                    {"beat": 3, "length": 1, "step": 0, "lyric": "Ah,"},
-                                    {"beat": 4, "length": 4, "step": 5, "lyric": "ah,"},
-                                    {"beat": 8, "length": 2, "step": 4, "lyric": "ah"},
-                                    {"beat": 10, "length": 2, "step": 5, "lyric": "ah,"},
-                                    {"beat": 12, "length": 2, "step": 0, "lyric": "ah"},
-                                    {"beat": 14, "length": 2, "step": 2, "lyric": "ah,"},
-                                    {"beat": 16, "length": 4, "step": 0, "lyric": "ah."}
+                                    {"beat": 4, "length": 1, "step": 0, "lyric": "Ah,"},
+                                    {"beat": 5, "length": 4, "step": 5, "lyric": "ah,"},
+                                    {"beat": 9, "length": 4, "step": 4, "lyric": "ah,"},
+                                    {"beat": 13, "length": 1, "step": 5, "lyric": "ah,"},
+                                    {"beat": 14, "length": 1, "step": 4, "lyric": "ah,"},
+                                    {"beat": 15, "length": 1, "step": 5, "lyric": "ah,"},
+                                    {"beat": 16, "length": 1, "step": 2, "lyric": "ah,"},
+                                    {"beat": 17, "length": 3, "step": 0, "lyric": "ah."}
                                 ],
                                 "turn": false,
                                 "with": [
                                     {
                                         "notes": [
-                                            {"beat": 3, "length": 1, "step": -7, "lyric": "O"},
-                                            {"beat": 4, "length": 2, "step": -7, "lyric": "come,"},
-                                            {"beat": 6, "length": 1, "step": -12, "lyric": "all"},
-                                            {"beat": 7, "length": 1, "step": -7, "lyric": "ye"},
-                                            {"beat": 8, "length": 2, "step": -5, "lyric": "faith-"},
-                                            {"beat": 10, "length": 2, "step": -12, "lyric": "ful,"},
-                                            {"beat": 12, "length": 1, "step": -3, "lyric": "joy-"},
-                                            {"beat": 13, "length": 1, "step": -5, "lyric": "ful"},
-                                            {"beat": 14, "length": 1, "step": -3, "lyric": "and"},
-                                            {"beat": 15, "length": 1, "step": -2, "lyric": "tri-"},
-                                            {"beat": 16, "length": 2, "step": -3, "lyric": "um-"},
-                                            {"beat": 18, "length": 2, "step": -5, "lyric": "phant!"}
+                                            {"beat": 4, "length": 1, "step": -7, "lyric": "O"},
+                                            {"beat": 5, "length": 2, "step": -7, "lyric": "come,"},
+                                            {"beat": 7, "length": 1, "step": -12, "lyric": "all"},
+                                            {"beat": 8, "length": 1, "step": -7, "lyric": "ye"},
+                                            {"beat": 9, "length": 2, "step": -5, "lyric": "faith-"},
+                                            {"beat": 11, "length": 2, "step": -12, "lyric": "ful,"},
+                                            {"beat": 13, "length": 1, "step": -3, "lyric": "joy-"},
+                                            {"beat": 14, "length": 1, "step": -5, "lyric": "ful"},
+                                            {"beat": 15, "length": 1, "step": -3, "lyric": "and"},
+                                            {"beat": 16, "length": 1, "step": -2, "lyric": "tri-"},
+                                            {"beat": 17, "length": 2, "step": -3, "lyric": "um-"},
+                                            {"beat": 19, "length": 1, "step": -5, "lyric": "phant,"}
                                         ]
                                     }
+                                ],
+                                "chords": [
+                                    {"beat": 4, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 5, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 7, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 8, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 9, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 11, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 13, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 14, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 15, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 16, "root": 7, "quality": "min", "bass": null},
+                                    {"beat": 17, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 19, "root": 0, "quality": "maj", "bass": null}
                                 ]
                             },
                             "measures": {"en": "Your stars are for the descant's notes on pitch over the tune."}
@@ -1673,7 +1939,7 @@
                             "headline": {"en": "Songs on the same chords fit together, whatever their tunes. Singing two at once is a quodlibet, Latin for \"whatever you please\"."},
                             "steps": [
                                 {"title": {"en": "Row, Row, Row is yours"}, "detail": {"en": "Twice through"}},
-                                {"title": {"en": "Are You Sleeping above"}, "detail": {"en": "Swung, so it fits bar for bar"}},
+                                {"title": {"en": "Are You Sleeping above"}, "detail": {"en": "Swung, so its bars line up with yours"}},
                                 {"title": {"en": "Two tunes, one chord"}, "detail": {"en": "Both rest on do"}}
                             ],
                             "listen": {
@@ -1890,75 +2156,189 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Sing the tune, then come back for the last verse with the descant above it."},
+                            "headline": {"en": "Two verses, two parts: the tune first, with a descant over you; then the descant yourself, over the tune."},
                             "steps": [
-                                {"title": {"en": "Verse one"}, "detail": {"en": "The tune itself"}},
-                                {"title": {"en": "The last verse"}, "detail": {"en": "Your descant, floating above"}},
-                                {"title": {"en": "Hold the end"}, "detail": {"en": "Let the last note ring"}}
+                                {"title": {"en": "Verse one"}, "detail": {"en": "The tune, the guide's descant above"}},
+                                {"title": {"en": "The last verse"}, "detail": {"en": "Your descant, two lines long"}},
+                                {"title": {"en": "Hold the end"}, "detail": {"en": "Your last note rings over the home chord"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse one: sing the tune."},
+                            "text": {"en": "Verse one: sing the tune while the guide sings a descant above you."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
                                     {"beat": 0, "length": 2, "step": -2, "listenOnly": true},
-                                    {"beat": 3, "length": 1, "step": -2, "lyric": "O"},
-                                    {"beat": 4, "length": 2, "step": -2, "lyric": "come,"},
-                                    {"beat": 6, "length": 1, "step": -7, "lyric": "all"},
-                                    {"beat": 7, "length": 1, "step": -2, "lyric": "ye"},
-                                    {"beat": 8, "length": 2, "step": 0, "lyric": "faith-"},
-                                    {"beat": 10, "length": 2, "step": -7, "lyric": "ful,"},
-                                    {"beat": 12, "length": 1, "step": 2, "lyric": "joy-"},
-                                    {"beat": 13, "length": 1, "step": 0, "lyric": "ful"},
-                                    {"beat": 14, "length": 1, "step": 2, "lyric": "and"},
-                                    {"beat": 15, "length": 1, "step": 3, "lyric": "tri-"},
-                                    {"beat": 16, "length": 2, "step": 2, "lyric": "um-"},
-                                    {"beat": 18, "length": 2, "step": 0, "lyric": "phant!"}
-                                ],
-                                "turn": false
-                            }
-                        },
-                        {
-                            "kind": "play",
-                            "text": {"en": "The last verse: the descant above the tune, and hold the last note."},
-                            "exercise": {
-                                "tempo": 80,
-                                "notes": [
-                                    {"beat": 0, "length": 2, "step": 0, "listenOnly": true},
-                                    {"beat": 3, "length": 1, "step": 0, "lyric": "Ah,"},
-                                    {"beat": 4, "length": 4, "step": 5, "lyric": "ah,"},
-                                    {"beat": 8, "length": 2, "step": 4, "lyric": "ah"},
-                                    {"beat": 10, "length": 2, "step": 5, "lyric": "ah,"},
-                                    {"beat": 12, "length": 2, "step": 0, "lyric": "ah"},
-                                    {"beat": 14, "length": 2, "step": 2, "lyric": "ah,"},
-                                    {"beat": 16, "length": 6, "step": 0, "lyric": "ah."}
+                                    {"beat": 4, "length": 1, "step": -2, "lyric": "O"},
+                                    {"beat": 5, "length": 2, "step": -2, "lyric": "come,"},
+                                    {"beat": 7, "length": 1, "step": -7, "lyric": "all"},
+                                    {"beat": 8, "length": 1, "step": -2, "lyric": "ye"},
+                                    {"beat": 9, "length": 2, "step": 0, "lyric": "faith-"},
+                                    {"beat": 11, "length": 2, "step": -7, "lyric": "ful,"},
+                                    {"beat": 13, "length": 1, "step": 2, "lyric": "joy-"},
+                                    {"beat": 14, "length": 1, "step": 0, "lyric": "ful"},
+                                    {"beat": 15, "length": 1, "step": 2, "lyric": "and"},
+                                    {"beat": 16, "length": 1, "step": 3, "lyric": "tri-"},
+                                    {"beat": 17, "length": 2, "step": 2, "lyric": "um-"},
+                                    {"beat": 19, "length": 1, "step": 0, "lyric": "phant,"},
+                                    {"beat": 20, "length": 1, "step": -2, "lyric": "O"},
+                                    {"beat": 21, "length": 2, "step": -2, "lyric": "come"},
+                                    {"beat": 23, "length": 1, "step": -3, "lyric": "ye,"},
+                                    {"beat": 24, "length": 1, "step": -5, "lyric": "O"},
+                                    {"beat": 25, "length": 1, "step": -3, "lyric": "come"},
+                                    {"beat": 26, "length": 1, "step": -2, "lyric": "ye"},
+                                    {"beat": 27, "length": 1, "step": 0, "lyric": "to"},
+                                    {"beat": 28, "length": 1, "step": 2, "lyric": "Beth-"},
+                                    {"beat": 29, "length": 2, "step": -3, "lyric": "le-"},
+                                    {"beat": 31, "length": 1.5, "step": -5, "lyric": "hem;"},
+                                    {"beat": 32.5, "length": 3.5, "step": -7}
                                 ],
                                 "turn": false,
                                 "with": [
                                     {
                                         "notes": [
-                                            {"beat": 3, "length": 1, "step": -7, "lyric": "O"},
-                                            {"beat": 4, "length": 2, "step": -7, "lyric": "come,"},
-                                            {"beat": 6, "length": 1, "step": -12, "lyric": "all"},
-                                            {"beat": 7, "length": 1, "step": -7, "lyric": "ye"},
-                                            {"beat": 8, "length": 2, "step": -5, "lyric": "faith-"},
-                                            {"beat": 10, "length": 2, "step": -12, "lyric": "ful,"},
-                                            {"beat": 12, "length": 1, "step": -3, "lyric": "joy-"},
-                                            {"beat": 13, "length": 1, "step": -5, "lyric": "ful"},
-                                            {"beat": 14, "length": 1, "step": -3, "lyric": "and"},
-                                            {"beat": 15, "length": 1, "step": -2, "lyric": "tri-"},
-                                            {"beat": 16, "length": 2, "step": -3, "lyric": "um-"},
-                                            {"beat": 18, "length": 2, "step": -5, "lyric": "phant!"},
-                                            {"beat": 20, "length": 2, "step": -7}
+                                            {"beat": 4, "length": 1, "step": 5, "lyric": "Ah,"},
+                                            {"beat": 5, "length": 4, "step": 10, "lyric": "ah,"},
+                                            {"beat": 9, "length": 4, "step": 9, "lyric": "ah,"},
+                                            {"beat": 13, "length": 1, "step": 10, "lyric": "ah,"},
+                                            {"beat": 14, "length": 1, "step": 9, "lyric": "ah,"},
+                                            {"beat": 15, "length": 1, "step": 10, "lyric": "ah,"},
+                                            {"beat": 16, "length": 1, "step": 7, "lyric": "ah,"},
+                                            {"beat": 17, "length": 3, "step": 5, "lyric": "ah."},
+                                            {"beat": 20, "length": 1, "step": 5, "lyric": "Ah,"},
+                                            {"beat": 21, "length": 2, "step": 7, "lyric": "ah,"},
+                                            {"beat": 23, "length": 1, "step": 9, "lyric": "ah,"},
+                                            {"beat": 24, "length": 1, "step": 10, "lyric": "ah,"},
+                                            {"beat": 25, "length": 1, "step": 9, "lyric": "ah,"},
+                                            {"beat": 26, "length": 1, "step": 10, "lyric": "ah,"},
+                                            {"beat": 27, "length": 1, "step": 9, "lyric": "ah,"},
+                                            {"beat": 28, "length": 1, "step": 10, "lyric": "ah,"},
+                                            {"beat": 29, "length": 2, "step": 5, "lyric": "ah,"},
+                                            {"beat": 31, "length": 1.5, "step": 7, "lyric": "ah,"},
+                                            {"beat": 32.5, "length": 3.5, "step": 9, "lyric": "ah."}
                                         ]
                                     }
+                                ],
+                                "chords": [
+                                    {"beat": 4, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 5, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 7, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 8, "root": 3, "quality": "maj", "bass": null},
+                                    {"beat": 9, "root": 5, "quality": "dom7", "bass": null},
+                                    {"beat": 11, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 13, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 14, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 15, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 16, "root": 0, "quality": "min", "bass": null},
+                                    {"beat": 17, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 19, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 20, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 21, "root": 3, "quality": "maj", "bass": null},
+                                    {"beat": 23, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 24, "root": 3, "quality": "maj", "bass": null},
+                                    {"beat": 25, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 26, "root": 7, "quality": "min", "bass": null},
+                                    {"beat": 27, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 28, "root": 7, "quality": "min", "bass": null},
+                                    {"beat": 29, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 31, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 32.5, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 37, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 37, "root": 10, "quality": "maj", "bass": null}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The last verse: your descant over the tune, two lines, and hold the last note."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "listenOnly": true},
+                                    {"beat": 4, "length": 1, "step": 0, "lyric": "Ah,"},
+                                    {"beat": 5, "length": 4, "step": 5, "lyric": "ah,"},
+                                    {"beat": 9, "length": 4, "step": 4, "lyric": "ah,"},
+                                    {"beat": 13, "length": 1, "step": 5, "lyric": "ah,"},
+                                    {"beat": 14, "length": 1, "step": 4, "lyric": "ah,"},
+                                    {"beat": 15, "length": 1, "step": 5, "lyric": "ah,"},
+                                    {"beat": 16, "length": 1, "step": 2, "lyric": "ah,"},
+                                    {"beat": 17, "length": 3, "step": 0, "lyric": "ah."},
+                                    {"beat": 20, "length": 1, "step": 0, "lyric": "Ah,"},
+                                    {"beat": 21, "length": 2, "step": 2, "lyric": "ah,"},
+                                    {"beat": 23, "length": 1, "step": 4, "lyric": "ah,"},
+                                    {"beat": 24, "length": 1, "step": 5, "lyric": "ah,"},
+                                    {"beat": 25, "length": 1, "step": 4, "lyric": "ah,"},
+                                    {"beat": 26, "length": 1, "step": 5, "lyric": "ah,"},
+                                    {"beat": 27, "length": 1, "step": 4, "lyric": "ah,"},
+                                    {"beat": 28, "length": 1, "step": 5, "lyric": "ah,"},
+                                    {"beat": 29, "length": 2, "step": 0, "lyric": "ah,"},
+                                    {"beat": 31, "length": 1.5, "step": 2, "lyric": "ah,"},
+                                    {"beat": 32.5, "length": 3.5, "step": 4, "lyric": "ah."},
+                                    {"beat": 37, "length": 4, "step": 5, "lyric": "ah."}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 1, "step": -7, "lyric": "O"},
+                                            {"beat": 5, "length": 2, "step": -7, "lyric": "come,"},
+                                            {"beat": 7, "length": 1, "step": -12, "lyric": "all"},
+                                            {"beat": 8, "length": 1, "step": -7, "lyric": "ye"},
+                                            {"beat": 9, "length": 2, "step": -5, "lyric": "faith-"},
+                                            {"beat": 11, "length": 2, "step": -12, "lyric": "ful,"},
+                                            {"beat": 13, "length": 1, "step": -3, "lyric": "joy-"},
+                                            {"beat": 14, "length": 1, "step": -5, "lyric": "ful"},
+                                            {"beat": 15, "length": 1, "step": -3, "lyric": "and"},
+                                            {"beat": 16, "length": 1, "step": -2, "lyric": "tri-"},
+                                            {"beat": 17, "length": 2, "step": -3, "lyric": "um-"},
+                                            {"beat": 19, "length": 1, "step": -5, "lyric": "phant,"},
+                                            {"beat": 20, "length": 1, "step": -7, "lyric": "O"},
+                                            {"beat": 21, "length": 2, "step": -7, "lyric": "come"},
+                                            {"beat": 23, "length": 1, "step": -8, "lyric": "ye,"},
+                                            {"beat": 24, "length": 1, "step": -10, "lyric": "O"},
+                                            {"beat": 25, "length": 1, "step": -8, "lyric": "come"},
+                                            {"beat": 26, "length": 1, "step": -7, "lyric": "ye"},
+                                            {"beat": 27, "length": 1, "step": -5, "lyric": "to"},
+                                            {"beat": 28, "length": 1, "step": -3, "lyric": "Beth-"},
+                                            {"beat": 29, "length": 2, "step": -8, "lyric": "le-"},
+                                            {"beat": 31, "length": 1.5, "step": -10, "lyric": "hem;"},
+                                            {"beat": 32.5, "length": 3.5, "step": -12},
+                                            {"beat": 37, "length": 4, "step": -7}
+                                        ]
+                                    }
+                                ],
+                                "chords": [
+                                    {"beat": 4, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 5, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 7, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 8, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 9, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 11, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 13, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 14, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 15, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 16, "root": 7, "quality": "min", "bass": null},
+                                    {"beat": 17, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 19, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 20, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 21, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 23, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 24, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 25, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 26, "root": 2, "quality": "min", "bass": null},
+                                    {"beat": 27, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 28, "root": 2, "quality": "min", "bass": null},
+                                    {"beat": 29, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 31, "root": 7, "quality": "maj", "bass": null},
+                                    {"beat": 32.5, "root": 0, "quality": "maj", "bass": null},
+                                    {"beat": 37, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 37, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Your stars are for the descant's notes on pitch and the last long note. Could you hear the tune under you?"}
+                            "measures": {"en": "Your stars are for the descant's notes on pitch, the last long one too. Could you hear the tune under you?"}
                         }
                     ]
                 }
