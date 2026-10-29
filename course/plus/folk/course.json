@@ -2141,7 +2141,7 @@
                             },
                             "steps": [
                                 { "title": { "en": "First with the drone" }, "detail": { "en": "Barbara Allen's first line" } },
-                                { "title": { "en": "Then without it" }, "detail": { "en": "The same line, alone" } },
+                                { "title": { "en": "Then it fades" }, "detail": { "en": "The same line, the drone slipping away" } },
                                 {
                                     "title": { "en": "Then the verse" },
                                     "detail": { "en": "From your first note to the home note: did you stay in key?" }
@@ -2200,7 +2200,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The same line, with no drone." },
+                            "text": { "en": "The same line, and this time the drone fades away while you sing it." },
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -2220,7 +2220,8 @@
                                     { "beat": 9.5, "length": 0.25, "step": 0, "lyric": "dwell-" },
                                     { "beat": 9.75, "length": 2.25, "step": 3, "lyric": "in'," }
                                 ],
-                                "turn": true
+                                "turn": true,
+                                "drone": { "step": -4, "fadeAfter": 13, "fadeOver": 8 }
                             }
                         },
                         {
@@ -2266,7 +2267,8 @@
                                     { "beat": 28.5, "length": 3, "step": -4, "lyric": "ah", "listenOnly": true }
                                 ],
                                 "turn": false,
-                                "score": "keyDrift"
+                                "score": "keyDrift",
+                                "giveNote": true
                             },
                             "measures": {
                                 "en": "Your stars are for your intervals, judged in the key you set yourself, and for how well you held that key to the end. Singers on their own often drift low: think up on the falling notes. Next: the encore."
@@ -2429,7 +2431,8 @@
                                     { "beat": 36, "length": 3, "step": -7, "lyric": "ah", "listenOnly": true }
                                 ],
                                 "turn": false,
-                                "score": "keyDrift"
+                                "score": "keyDrift",
+                                "giveNote": true
                             },
                             "measures": {
                                 "en": "Your stars are for your intervals in your own key, and for holding it to the end. Listen back, and sing Join the crew again to hear how far you've come."
