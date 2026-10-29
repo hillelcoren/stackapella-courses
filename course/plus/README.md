@@ -70,7 +70,7 @@ people read is an object of languages, `{ "en": "..." }`.
 | `wave` | The trace lane: rides a ribbon (a steered wave, a straight line, a bloom, a free hold) | `exercise.target`: `[{ "seconds", "kind", "hz", "cents" }]` |
 | `choose` | Listens to clips and taps the answer; no mic | `exercise.rounds`: `[{ "prompt", "clips", "options", "answer", "why" }]` |
 | `selfcheck` | Hears a model, records, compares, answers self-check questions; not scored | `exercise.model`, `exercise.questions` |
-| `bullseye` | Hears a call and sings the answer (the same notes, a leap from them, a chord's root, home); each sung note lands as a dart; scored on where they landed | `exercise.echoes` (`[0, [0, 7], { "call", "sing", "chord", "key" }]`), `tempo`, `lengths`, `think`, `drone`, `home`, `reveal`, `named`, `stack`, `score`, `generous` (each explained in `docs/courses/perfect-pitch.md`, section 9) |
+| `bullseye` | Hears a call and sings the answer (the same notes, a leap from them, a chord's root, home); each sung note lands as a dart; scored on where they landed | `exercise.echoes` (`[0, [0, 7], { "call", "sing", "chord", "key" }]`), `tempo`, `lengths`, `think`, `drone`, `home`, `reveal`, `named`, `stack`, `score`, `generous`, `compare`, `under` (each explained in `docs/courses/perfect-pitch.md`, section 9) |
 
 ## The rules a change must keep
 
