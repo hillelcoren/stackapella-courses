@@ -1,0 +1,73 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://stackapella.com/course/format/course.schema.json",
+    "title": "A Stackapella course",
+    "description": "One course file (web/course/course.json, web/course/plus/<id>/course.json): units of lessons of steps, shared by the web and Flutter apps. Each step kind's own fields, and which app plays it, are in steps.json beside this file; web/tool/course_check.py checks both.",
+    "type": "object",
+    "required": ["id", "title", "units"],
+    "additionalProperties": false,
+    "properties": {
+        "id": { "type": "string", "pattern": "^[a-z][a-z0-9-]*$" },
+        "version": { "type": "integer", "minimum": 1 },
+        "reviewed": { "type": "boolean", "description": "Checked by a voice teacher and a musician" },
+        "title": { "$ref": "#/$defs/words" },
+        "units": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/unit" } }
+    },
+    "$defs": {
+        "words": {
+            "description": "Every word people read: one string per language, English first",
+            "type": "object",
+            "required": ["en"],
+            "properties": { "en": { "type": "string", "minLength": 1 } },
+            "additionalProperties": { "type": "string" }
+        },
+        "unit": {
+            "type": "object",
+            "required": ["id", "title", "lessons"],
+            "additionalProperties": false,
+            "properties": {
+                "id": { "type": "string" },
+                "title": { "$ref": "#/$defs/words" },
+                "colour": { "type": "integer", "minimum": 1, "description": "A part colour" },
+                "plus": { "type": "boolean", "description": "The free course's Plus unit" },
+                "lessons": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/lesson" } }
+            }
+        },
+        "lesson": {
+            "type": "object",
+            "required": ["id", "title", "steps"],
+            "additionalProperties": false,
+            "properties": {
+                "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "Unique across every course, and never changed once live: progress is kept by it" },
+                "title": { "$ref": "#/$defs/words" },
+                "challenge": { "type": "boolean" },
+                "findsHome": { "type": "boolean" },
+                "strictness": { "enum": ["relaxed", "standard", "precise"] },
+                "steps": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/step" } }
+            }
+        },
+        "step": {
+            "type": "object",
+            "required": ["kind"],
+            "properties": {
+                "kind": { "enum": ["learn", "try", "play", "home", "use", "record", "wave", "choose", "selfcheck", "bullseye", "breathhold"] },
+                "headline": { "$ref": "#/$defs/words" },
+                "text": { "$ref": "#/$defs/words" },
+                "measures": { "$ref": "#/$defs/words" },
+                "exercise": { "type": "object" },
+                "listen": { "type": "object" }
+            }
+        },
+        "note": {
+            "description": "A note: steps are semitones from the learner's own comfortable note, so every exercise fits every voice",
+            "type": "object",
+            "required": ["beat", "length"],
+            "properties": {
+                "beat": { "type": "number", "minimum": 0 },
+                "length": { "type": "number", "exclusiveMinimum": 0 },
+                "step": { "type": "number" },
+                "lyric": { "type": "string" }
+            }
+        }
+    }
+}

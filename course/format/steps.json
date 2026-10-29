@@ -1,0 +1,319 @@
+{
+    "about": "The course format's step kinds and fields (docs/plus-courses-build-plan.md 6a; web/course/format/README.md). Each kind says which app plays it: yes, no (that app says 'open this lesson on the web'), or unknown (not verified). web/tool/course_check.py fails on a kind or field not listed here. Add a field here when you add it to a lesson, with a line saying what it is.",
+    "version": 1,
+    "words": [
+        "title",
+        "headline",
+        "text",
+        "measures",
+        "detail",
+        "prompt",
+        "why",
+        "label",
+        "line"
+    ],
+    "course": [
+        "id",
+        "version",
+        "reviewed",
+        "title",
+        "units"
+    ],
+    "unit": [
+        "id",
+        "title",
+        "colour",
+        "plus",
+        "lessons"
+    ],
+    "lesson": [
+        "id",
+        "title",
+        "steps",
+        "challenge",
+        "findsHome",
+        "strictness"
+    ],
+    "kinds": {
+        "learn": {
+            "web": "yes",
+            "flutter": "unknown",
+            "fields": [
+                "kind",
+                "headline",
+                "text",
+                "steps",
+                "visual",
+                "listen",
+                "reviewed"
+            ],
+            "about": "A headline, up to three cards, a picture; may play an example (listen: an exercise)"
+        },
+        "try": {
+            "web": "yes",
+            "flutter": "unknown",
+            "fields": [
+                "kind",
+                "text",
+                "exercise"
+            ],
+            "exercise": "play",
+            "about": "Wait for me: each note plays and waits until it's found; unscored"
+        },
+        "play": {
+            "web": "yes",
+            "flutter": "unknown",
+            "fields": [
+                "kind",
+                "text",
+                "exercise",
+                "measures"
+            ],
+            "exercise": "play",
+            "about": "Hear it, then sing it back (turn: true), or sing over a drone or chords (turn: false); scored"
+        },
+        "home": {
+            "web": "yes",
+            "flutter": "unknown",
+            "fields": [
+                "kind",
+                "text"
+            ],
+            "about": "Finds the learner's comfortable note"
+        },
+        "use": {
+            "web": "yes",
+            "flutter": "unknown",
+            "fields": [
+                "kind",
+                "text",
+                "template",
+                "part",
+                "singers",
+                "phrases"
+            ],
+            "about": "Opens a song in Sing; done after 20 seconds sung"
+        },
+        "record": {
+            "web": "yes",
+            "flutter": "unknown",
+            "fields": [
+                "kind",
+                "text",
+                "template",
+                "part",
+                "singers",
+                "measures"
+            ],
+            "about": "Records a part in Sing; scored on pitch"
+        },
+        "wave": {
+            "web": "yes",
+            "flutter": "no",
+            "fields": [
+                "kind",
+                "text",
+                "exercise",
+                "measures"
+            ],
+            "exercise": [
+                "tempo",
+                "lead",
+                "step",
+                "base",
+                "lyric",
+                "drone",
+                "target",
+                "score",
+                "generous",
+                "combo",
+                "cue",
+                "under"
+            ],
+            "about": "The trace lane: ride a ribbon (a steered wave, a straight line, a bloom, a free hold, a contour)"
+        },
+        "choose": {
+            "web": "yes",
+            "flutter": "no",
+            "fields": [
+                "kind",
+                "text",
+                "exercise",
+                "measures"
+            ],
+            "exercise": [
+                "tempo",
+                "rounds"
+            ],
+            "about": "Listen and choose, no mic: tap a clip or a word"
+        },
+        "selfcheck": {
+            "web": "yes",
+            "flutter": "no",
+            "fields": [
+                "kind",
+                "text",
+                "exercise",
+                "measures"
+            ],
+            "exercise": [
+                "tempo",
+                "lead",
+                "model",
+                "along",
+                "questions"
+            ],
+            "about": "What we can't hear yet: hear a model, record, compare, answer self-check questions; never scored"
+        },
+        "bullseye": {
+            "web": "yes",
+            "flutter": "no",
+            "fields": [
+                "kind",
+                "text",
+                "exercise",
+                "measures"
+            ],
+            "exercise": [
+                "tempo",
+                "echoes",
+                "lengths",
+                "think",
+                "drone",
+                "generous",
+                "home",
+                "named",
+                "reveal",
+                "score",
+                "stack",
+                "compare"
+            ],
+            "about": "Echo a note and see where it landed (Perfect your pitch: docs/courses/perfect-pitch.md)"
+        },
+        "breathhold": {
+            "web": "yes",
+            "flutter": "no",
+            "fields": [
+                "kind",
+                "text",
+                "exercise",
+                "measures"
+            ],
+            "exercise": [
+                "step",
+                "lyric",
+                "drone",
+                "goal",
+                "baseline",
+                "generous",
+                "compare",
+                "lead",
+                "max",
+                "under"
+            ],
+            "about": "A held note that ends when you stop (Breath and stamina: docs/courses/breath.md)"
+        }
+    },
+    "play": {
+        "about": "A play, try or learn-listen exercise's fields. Those marked web-only make the step web-only for now.",
+        "fields": {
+            "tempo": "beats a minute",
+            "notes": "the notes: see note",
+            "turn": "true: hear it, then sing it back; false: sing over the drone or chords",
+            "drone": "{ step }: a held note under it",
+            "chords": "[{ beat, root, quality, bass }]: chords under it, root in semitones from home",
+            "score": "how it's starred: hold, or a registered scorer (web/js/lesson-scores.js)",
+            "show": "vibrato: describe a held note's vibrato after the take",
+            "generous": "the first lesson's kinder stars",
+            "base": "flip: steps laid from the singer's flip note (Yodeling)",
+            "under": "{ step }: sing over that earlier step's take, this visit",
+            "with": "partner lines that sound while you sing (Counterpoint: docs/courses/counterpoint.md 8b)",
+            "answer": "the notes to sing back when they differ from the call (call and response)",
+            "guide": "false: no guide notes (a cold start)",
+            "droneAfter": "the drone comes back only after the last note",
+            "window": "a lazy scoop's time to arrive, in seconds (Pop and country: docs/courses/pop-country.md)"
+        },
+        "webOnly": [
+            "score",
+            "show",
+            "generous",
+            "base",
+            "under",
+            "with",
+            "answer",
+            "guide",
+            "droneAfter",
+            "window"
+        ]
+    },
+    "note": {
+        "fields": {
+            "beat": "from 0, at the exercise's tempo",
+            "length": "in beats",
+            "step": "semitones from the learner's comfortable note (do = 0)",
+            "lyric": "the word or syllable",
+            "vibrato": "{ hz, cents, after, jitter }: the guide's own vibrato on this note",
+            "bend": "[[seconds, cents], ...]: the guide's pitch path on this note",
+            "voice": "head: a lighter head-voice tone",
+            "style": "scoop, fall, slide or cry (Pop and country: docs/courses/pop-country.md)",
+            "listenOnly": "heard, never sung (a distraction note)",
+            "cents": "a pure-tuning offset for this note (Barbershop)",
+            "choices": "any of these steps lights (Counterpoint)"
+        },
+        "webOnly": [
+            "bend",
+            "voice",
+            "style",
+            "listenOnly",
+            "cents",
+            "choices"
+        ]
+    },
+    "segment": {
+        "about": "A wave step's target: one segment after another",
+        "kinds": [
+            "wave",
+            "straight",
+            "bloom",
+            "free",
+            "path"
+        ],
+        "fields": {
+            "seconds": "how long",
+            "kind": "wave, straight, bloom, free or path",
+            "hz": "a wave's rate, a second",
+            "cents": "a wave's width, plus or minus",
+            "fade": "seconds for the ribbon to fade (the ghost wave)",
+            "straight": "a bloom's straight seconds before the wave",
+            "scored": "false: shown, never starred",
+            "points": "a path's [[seconds, steps], ...]",
+            "band": "a path's ribbon width, plus or minus cents",
+            "voice": "head: the guide sings this segment in head voice"
+        }
+    },
+    "round": {
+        "fields": [
+            "prompt",
+            "clips",
+            "options",
+            "answer",
+            "why"
+        ]
+    },
+    "clip": {
+        "fields": [
+            "label",
+            "notes",
+            "drone",
+            "chords",
+            "clip"
+        ]
+    },
+    "model": {
+        "fields": [
+            "notes",
+            "drone",
+            "chords"
+        ]
+    }
+}

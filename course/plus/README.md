@@ -64,6 +64,10 @@ people read is an object of languages, `{ "en": "..." }`.
 
 ## The step kinds
 
+Every kind and field, what it means and which app plays it, is in
+[`web/course/format/steps.json`](../format/steps.json); `python3 web/tool/course_check.py` checks a
+course file against it. The main ones:
+
 | Kind | What the learner does | Its main fields |
 |---|---|---|
 | `learn` | Reads a headline and up to three cards, sees a picture, may hear an example | `headline`, `steps`, `visual`, `listen` |
