@@ -147,6 +147,422 @@
                             "measures": {"en": "Your stars are for your notes on pitch. By the end of the course you'll write your own line against a melody."}
                         }
                     ]
+                },
+                {
+                    "id": "cp-1-hear",
+                    "title": {"en": "Which voice moved?"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Your ear can follow two voices at once. Listen for which one moves."},
+                            "steps": [
+                                {"title": {"en": "Two voices"}, "detail": {"en": "One high, one low, at the same time"}},
+                                {"title": {"en": "Find the one that moves"}, "detail": {"en": "The other holds still, or sings its own tune"}},
+                                {"title": {"en": "Hear it as often as you like"}, "detail": {"en": "Then choose"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, as often as you like, then choose."},
+                            "exercise": {
+                                "tempo": 80,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which voice held still?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 4, "step": 4},
+                                                    {"beat": 0, "length": 1, "step": -5},
+                                                    {"beat": 1, "length": 1, "step": -3},
+                                                    {"beat": 2, "length": 1, "step": -1},
+                                                    {"beat": 3, "length": 1, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "The high one"}, {"en": "The low one"}],
+                                        "answer": 0,
+                                        "why": {"en": "The high voice stayed on one note while the low one climbed underneath."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which voice held still?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 7},
+                                                    {"beat": 1, "length": 1, "step": 5},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 2},
+                                                    {"beat": 0, "length": 4, "step": -5}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "The high one"}, {"en": "The low one"}],
+                                        "answer": 1,
+                                        "why": {"en": "The low voice held one note, like a drone, while the high one stepped down."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which voice held still?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 4, "step": 7},
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 2}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "The high one"}, {"en": "The low one"}],
+                                        "answer": 0,
+                                        "why": {"en": "The high voice held. Under it, the low one went up and came back."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which voice held still?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 4},
+                                                    {"beat": 1, "length": 1, "step": 5},
+                                                    {"beat": 2, "length": 1, "step": 7},
+                                                    {"beat": 3, "length": 1, "step": 9},
+                                                    {"beat": 0, "length": 4, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "The high one"}, {"en": "The low one"}],
+                                        "answer": 1,
+                                        "why": {"en": "The low voice held do while the high one climbed away from it."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Same tune, or a different one?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 0},
+                                                    {"beat": 4, "length": 1, "step": 0},
+                                                    {"beat": 5, "length": 1, "step": 2},
+                                                    {"beat": 6, "length": 1, "step": 4},
+                                                    {"beat": 7, "length": 1, "step": 0},
+                                                    {"beat": 2, "length": 1, "step": -12},
+                                                    {"beat": 3, "length": 1, "step": -10},
+                                                    {"beat": 4, "length": 1, "step": -8},
+                                                    {"beat": 5, "length": 1, "step": -12},
+                                                    {"beat": 6, "length": 1, "step": -12},
+                                                    {"beat": 7, "length": 1, "step": -10},
+                                                    {"beat": 8, "length": 1, "step": -8},
+                                                    {"beat": 9, "length": 1, "step": -12}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "The same tune"}, {"en": "Different tunes"}],
+                                        "answer": 0,
+                                        "why": {"en": "The low voice sang the same tune two beats later: a little round."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Same tune, or a different one?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 0},
+                                                    {"beat": 4, "length": 1, "step": 0},
+                                                    {"beat": 5, "length": 1, "step": 2},
+                                                    {"beat": 6, "length": 1, "step": 4},
+                                                    {"beat": 7, "length": 1, "step": 0},
+                                                    {"beat": 0, "length": 2, "step": -5},
+                                                    {"beat": 2, "length": 2, "step": -3},
+                                                    {"beat": 4, "length": 2, "step": -5},
+                                                    {"beat": 6, "length": 2, "step": -8}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "The same tune"}, {"en": "Different tunes"}],
+                                        "answer": 1,
+                                        "why": {"en": "The low voice sang its own, slower line. Two different tunes that fit: that's counterpoint."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for the rounds you heard right the first time."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cp-1-pedal",
+                    "title": {"en": "Be the drone"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A note held under a moving tune is a pedal, after the organ's pedals that can hold a low note forever."},
+                            "steps": [
+                                {"title": {"en": "Hold one note"}, "detail": {"en": "Do, on \"oo\", easy and steady"}},
+                                {"title": {"en": "The tune moves above"}, "detail": {"en": "Ode to Joy, leaning on your note"}},
+                                {"title": {"en": "Breathe between"}, "detail": {"en": "Four holds, a quick breath each time"}}
+                            ],
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 16, "step": 0, "lyric": "oo"},
+                                    {"beat": 0, "length": 1, "step": 4},
+                                    {"beat": 1, "length": 1, "step": 4},
+                                    {"beat": 2, "length": 1, "step": 5},
+                                    {"beat": 3, "length": 1, "step": 7},
+                                    {"beat": 4, "length": 1, "step": 7},
+                                    {"beat": 5, "length": 1, "step": 5},
+                                    {"beat": 6, "length": 1, "step": 4},
+                                    {"beat": 7, "length": 1, "step": 2},
+                                    {"beat": 8, "length": 1, "step": 0},
+                                    {"beat": 9, "length": 1, "step": 0},
+                                    {"beat": 10, "length": 1, "step": 2},
+                                    {"beat": 11, "length": 1, "step": 4},
+                                    {"beat": 12, "length": 1.5, "step": 4},
+                                    {"beat": 13.5, "length": 0.5, "step": 2},
+                                    {"beat": 14.0, "length": 2, "step": 2}
+                                ],
+                                "turn": false
+                            },
+                            "visual": "drone",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide gives you do. Hold it four times while the tune moves above you."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "listenOnly": true},
+                                    {"beat": 2, "length": 3.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 6, "length": 3.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 10, "length": 3.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 14, "length": 3.5, "step": 0, "lyric": "oo"}
+                                ],
+                                "turn": false,
+                                "score": "holds",
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 2, "length": 1, "step": 4},
+                                            {"beat": 3, "length": 1, "step": 4},
+                                            {"beat": 4, "length": 1, "step": 5},
+                                            {"beat": 5, "length": 1, "step": 7},
+                                            {"beat": 6, "length": 1, "step": 7},
+                                            {"beat": 7, "length": 1, "step": 5},
+                                            {"beat": 8, "length": 1, "step": 4},
+                                            {"beat": 9, "length": 1, "step": 2},
+                                            {"beat": 10, "length": 1, "step": 0},
+                                            {"beat": 11, "length": 1, "step": 0},
+                                            {"beat": 12, "length": 1, "step": 2},
+                                            {"beat": 13, "length": 1, "step": 4},
+                                            {"beat": 14, "length": 1.5, "step": 4},
+                                            {"beat": 15.5, "length": 0.5, "step": 2},
+                                            {"beat": 16.0, "length": 2, "step": 2}
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now be the floor on so, below your do. The same tune, a new pedal."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": -5, "listenOnly": true},
+                                    {"beat": 2, "length": 3.5, "step": -5, "lyric": "oo"},
+                                    {"beat": 6, "length": 3.5, "step": -5, "lyric": "oo"},
+                                    {"beat": 10, "length": 3.5, "step": -5, "lyric": "oo"},
+                                    {"beat": 14, "length": 3.5, "step": -5, "lyric": "oo"}
+                                ],
+                                "turn": false,
+                                "score": "holds",
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 2, "length": 1, "step": 4},
+                                            {"beat": 3, "length": 1, "step": 4},
+                                            {"beat": 4, "length": 1, "step": 5},
+                                            {"beat": 5, "length": 1, "step": 7},
+                                            {"beat": 6, "length": 1, "step": 7},
+                                            {"beat": 7, "length": 1, "step": 5},
+                                            {"beat": 8, "length": 1, "step": 4},
+                                            {"beat": 9, "length": 1, "step": 2},
+                                            {"beat": 10, "length": 1, "step": 0},
+                                            {"beat": 11, "length": 1, "step": 0},
+                                            {"beat": 12, "length": 1, "step": 2},
+                                            {"beat": 13, "length": 1, "step": 4},
+                                            {"beat": 14, "length": 1.5, "step": 4},
+                                            {"beat": 15.5, "length": 0.5, "step": 2},
+                                            {"beat": 16.0, "length": 2, "step": 2}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for how long and how steadily you held your note while the tune moved."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cp-1-ostinato",
+                    "title": {"en": "A pattern that repeats"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A pattern sung over and over is an ostinato, Italian for \"stubborn\". Once you know it, it keeps itself going."},
+                            "steps": [
+                                {"title": {"en": "Four notes"}, "detail": {"en": "Do ti do la: a darker colour you'll meet properly in unit 2"}},
+                                {"title": {"en": "Over and over"}, "detail": {"en": "Four times through"}},
+                                {"title": {"en": "A line falls above it"}, "detail": {"en": "Let it pass; keep your pattern"}}
+                            ],
+                            "listen": {
+                                "tempo": 96,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0},
+                                    {"beat": 1, "length": 0.5, "step": -1},
+                                    {"beat": 1.5, "length": 0.5, "step": 0},
+                                    {"beat": 2.0, "length": 1, "step": -3},
+                                    {"beat": 3.0, "length": 1, "step": 0},
+                                    {"beat": 4.0, "length": 0.5, "step": -1},
+                                    {"beat": 4.5, "length": 0.5, "step": 0},
+                                    {"beat": 5.0, "length": 1, "step": -3}
+                                ],
+                                "turn": false
+                            },
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "The pattern, at your own pace."},
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0},
+                                    {"beat": 1, "length": 0.5, "step": -1},
+                                    {"beat": 1.5, "length": 0.5, "step": 0},
+                                    {"beat": 2.0, "length": 1, "step": -3}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "After a bar of the high line, sing the pattern four times, then hold the last note."},
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    {"beat": 3, "length": 1, "step": 0},
+                                    {"beat": 4, "length": 0.5, "step": -1},
+                                    {"beat": 4.5, "length": 0.5, "step": 0},
+                                    {"beat": 5.0, "length": 1, "step": -3},
+                                    {"beat": 6.0, "length": 1, "step": 0},
+                                    {"beat": 7.0, "length": 0.5, "step": -1},
+                                    {"beat": 7.5, "length": 0.5, "step": 0},
+                                    {"beat": 8.0, "length": 1, "step": -3},
+                                    {"beat": 9.0, "length": 1, "step": 0},
+                                    {"beat": 10.0, "length": 0.5, "step": -1},
+                                    {"beat": 10.5, "length": 0.5, "step": 0},
+                                    {"beat": 11.0, "length": 1, "step": -3},
+                                    {"beat": 12.0, "length": 1, "step": 0},
+                                    {"beat": 13.0, "length": 0.5, "step": -1},
+                                    {"beat": 13.5, "length": 0.5, "step": 0},
+                                    {"beat": 14.0, "length": 1, "step": -3},
+                                    {"beat": 15, "length": 3, "step": -3}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0, "length": 6, "step": 9},
+                                            {"beat": 6, "length": 3, "step": 7},
+                                            {"beat": 9, "length": 3, "step": 5},
+                                            {"beat": 12, "length": 3, "step": 4},
+                                            {"beat": 15, "length": 3, "step": 4}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for your pattern's notes on pitch while the other line moved."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cp-1-challenge",
+                    "title": {"en": "Hold the floor"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Under a whole tune: a pattern first, then one long note."},
+                            "steps": [
+                                {"title": {"en": "Do and so"}, "detail": {"en": "Two notes a bar, under the first half"}},
+                                {"title": {"en": "Then hold do"}, "detail": {"en": "A pedal under \"merrily\" to the end"}},
+                                {"title": {"en": "Listen up"}, "detail": {"en": "Could you still hear the tune?"}}
+                            ],
+                            "visual": "bass",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "After a bar, sing do and so under the tune, then hold do to the end."},
+                            "exercise": {
+                                "tempo": 150,
+                                "notes": [
+                                    {"beat": 0, "length": 3, "step": -7, "listenOnly": true},
+                                    {"beat": 6, "length": 3, "step": -7, "lyric": "doo"},
+                                    {"beat": 9, "length": 3, "step": -2, "lyric": "bm"},
+                                    {"beat": 12, "length": 3, "step": -7, "lyric": "doo"},
+                                    {"beat": 15, "length": 3, "step": -2, "lyric": "bm"},
+                                    {"beat": 18, "length": 3, "step": -7, "lyric": "doo"},
+                                    {"beat": 21, "length": 3, "step": -2, "lyric": "bm"},
+                                    {"beat": 24, "length": 3, "step": -7, "lyric": "doo"},
+                                    {"beat": 27, "length": 3, "step": -2, "lyric": "bm"},
+                                    {"beat": 30, "length": 11, "step": -7, "lyric": "oo"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 6, "length": 3, "step": 5, "lyric": "Row,"},
+                                            {"beat": 9, "length": 3, "step": 5, "lyric": "row,"},
+                                            {"beat": 12, "length": 2, "step": 5, "lyric": "row"},
+                                            {"beat": 14, "length": 1, "step": 7, "lyric": "your"},
+                                            {"beat": 15, "length": 3, "step": 9, "lyric": "boat"},
+                                            {"beat": 18, "length": 2, "step": 9, "lyric": "gent-"},
+                                            {"beat": 20, "length": 1, "step": 7, "lyric": "ly"},
+                                            {"beat": 21, "length": 2, "step": 9, "lyric": "down"},
+                                            {"beat": 23, "length": 1, "step": 10, "lyric": "the"},
+                                            {"beat": 24, "length": 6, "step": 12, "lyric": "stream."},
+                                            {"beat": 30, "length": 1, "step": 17, "lyric": "Mer-"},
+                                            {"beat": 31, "length": 1, "step": 17, "lyric": "ri-"},
+                                            {"beat": 32, "length": 1, "step": 17, "lyric": "ly,"},
+                                            {"beat": 33, "length": 1, "step": 12, "lyric": "mer-"},
+                                            {"beat": 34, "length": 1, "step": 12, "lyric": "ri-"},
+                                            {"beat": 35, "length": 1, "step": 12, "lyric": "ly,"},
+                                            {"beat": 36, "length": 1, "step": 9, "lyric": "mer-"},
+                                            {"beat": 37, "length": 1, "step": 9, "lyric": "ri-"},
+                                            {"beat": 38, "length": 1, "step": 9, "lyric": "ly,"},
+                                            {"beat": 39, "length": 1, "step": 5, "lyric": "mer-"},
+                                            {"beat": 40, "length": 1, "step": 5, "lyric": "ri-"},
+                                            {"beat": 41, "length": 1, "step": 5, "lyric": "ly,"},
+                                            {"beat": 42, "length": 2, "step": 12, "lyric": "life"},
+                                            {"beat": 44, "length": 1, "step": 10, "lyric": "is"},
+                                            {"beat": 45, "length": 2, "step": 9, "lyric": "but"},
+                                            {"beat": 47, "length": 1, "step": 7, "lyric": "a"},
+                                            {"beat": 48, "length": 6, "step": 5, "lyric": "dream."}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for your notes on pitch, the long one too. Could you still hear the tune while you held the floor?"}
+                        }
+                    ]
                 }
             ]
         }
