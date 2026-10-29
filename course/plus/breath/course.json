@@ -1031,6 +1031,317 @@
                             "reviewed": false
                         },
                         {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Listen to each, as often as you like, then choose."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Which one ran out of air?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "clip": "breath.end-steady",
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 6,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "clip": "breath.end-ranout",
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 5,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.0,
+                                                        "length": 0.25,
+                                                        "step": -0.1,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.25,
+                                                        "length": 0.25,
+                                                        "step": -0.2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.5,
+                                                        "length": 0.25,
+                                                        "step": -0.35,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.75,
+                                                        "length": 0.25,
+                                                        "step": -0.5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "B sags at its end: the air ran out. A stops on purpose, still steady."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one ended on purpose?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "clip": "breath.end-ranout",
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 5,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.0,
+                                                        "length": 0.25,
+                                                        "step": -0.1,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.25,
+                                                        "length": 0.25,
+                                                        "step": -0.2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.5,
+                                                        "length": 0.25,
+                                                        "step": -0.35,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.75,
+                                                        "length": 0.25,
+                                                        "step": -0.5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "clip": "breath.end-steady",
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 6,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "B stops while it's steady. A drops at the end."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one ran out of air?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "clip": "breath.end-ranout",
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 5,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.0,
+                                                        "length": 0.25,
+                                                        "step": -0.1,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.25,
+                                                        "length": 0.25,
+                                                        "step": -0.2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.5,
+                                                        "length": 0.25,
+                                                        "step": -0.35,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.75,
+                                                        "length": 0.25,
+                                                        "step": -0.5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "clip": "breath.end-steady",
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 6,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "A falls in its last moment. That's the sound to avoid: stop a little sooner."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one ended on purpose?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "clip": "breath.end-steady",
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 6,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "clip": "breath.end-ranout",
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 5,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.0,
+                                                        "length": 0.25,
+                                                        "step": -0.1,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.25,
+                                                        "length": 0.25,
+                                                        "step": -0.2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.5,
+                                                        "length": 0.25,
+                                                        "step": -0.35,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 5.75,
+                                                        "length": 0.25,
+                                                        "step": -0.5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "A: steady to its very end."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
                             "kind": "try",
                             "text": {
                                 "en": "Hold do for six beats with the guide, and stop with it."
@@ -1250,6 +1561,782 @@
                             },
                             "measures": {
                                 "en": "Your stars are for how your so ended and how steady it was. Listen back: the chord is all you."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "br-starts",
+            "title": {
+                "en": "Starting on the breath"
+            },
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "br-3-onset",
+                    "title": {
+                        "en": "Breath into note"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Breathe in, then let the breath turn straight into the note, with no hold. Think an \"h\", don't sing it."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "No hold after the breath"
+                                    },
+                                    "detail": {
+                                        "en": "A pause there usually means a closed throat"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Think an \"h\""
+                                    },
+                                    "detail": {
+                                        "en": "The tone starts from moving air"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Soft isn't whispery"
+                                    },
+                                    "detail": {
+                                        "en": "Whispering can tire the voice more"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "ah"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
+                            "visual": "breath",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Listen to each start, as often as you like, then choose. A hard start is only for hearing, never for practising."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Which one started right on its note?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 0.15,
+                                                        "step": -0.6,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0.15,
+                                                        "length": 0.15,
+                                                        "step": -0.3,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0.3,
+                                                        "length": 1.7,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 2,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "A slides up into the note. B starts right on it."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which start is balanced?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "clip": "breath.onset-breathy"
+                                            },
+                                            {
+                                                "clip": "breath.onset-balanced",
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 2,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "A lets air out before the tone: breathy. B turns straight into the note."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which start is balanced?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "clip": "breath.onset-balanced",
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 2,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "clip": "breath.onset-hard"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "B starts with a click in the throat: a hard start. A is smooth."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Breathy, hard or balanced?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "clip": "breath.onset-hard"
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Breathy"
+                                            },
+                                            {
+                                                "en": "Hard"
+                                            },
+                                            {
+                                                "en": "Balanced"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "A little click at the start: hard."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Breathy, hard or balanced?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "clip": "breath.onset-breathy"
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Breathy"
+                                            },
+                                            {
+                                                "en": "Hard"
+                                            },
+                                            {
+                                                "en": "Balanced"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "A puff of air before the tone: breathy."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one started right on its note?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 2,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 0.15,
+                                                        "step": -0.6,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0.15,
+                                                        "length": 0.15,
+                                                        "step": -0.3,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 0.3,
+                                                        "length": 1.7,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "A starts on it; B scoops up from below."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Six \"ah\"s, a breath before each, the breath turning straight into the note. Was each start balanced, breathy or hard? That's yours to hear: we hear the pitch."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "echoes": [
+                                    0,
+                                    0,
+                                    4,
+                                    4,
+                                    2,
+                                    0
+                                ],
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
+                            "measures": {
+                                "en": "Your stars are for each start being on its pitch from the first moment. Whether it was balanced is yours to judge: we can't hear that yet."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "br-3-bounce",
+                    "title": {
+                        "en": "Short and bouncy"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Short notes start with a small bounce low in the belly. The throat stays open."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "A small bounce"
+                                    },
+                                    "detail": {
+                                        "en": "Low in the belly, like a little laugh"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "\"Ha\""
+                                    },
+                                    "detail": {
+                                        "en": "Short and light"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Throat open"
+                                    },
+                                    "detail": {
+                                        "en": "The bounce does the work"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 80,
+                                "notes": [
+                                    {
+                                        "beat": 1.0,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "ha"
+                                    },
+                                    {
+                                        "beat": 1.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "ha"
+                                    },
+                                    {
+                                        "beat": 2.0,
+                                        "length": 0.5,
+                                        "step": 7,
+                                        "lyric": "ha"
+                                    },
+                                    {
+                                        "beat": 2.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "ha"
+                                    },
+                                    {
+                                        "beat": 3.0,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "ha"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "breath",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "\"Ha\" on each note, short and bouncy: listen, then echo. Do, mi, so, mi, do."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "echoes": [
+                                    [
+                                        0,
+                                        4,
+                                        7,
+                                        4,
+                                        0
+                                    ],
+                                    [
+                                        0,
+                                        4,
+                                        7,
+                                        4,
+                                        0
+                                    ]
+                                ],
+                                "lengths": [
+                                    0.5,
+                                    0.5,
+                                    0.5,
+                                    0.5,
+                                    0.5
+                                ],
+                                "home": true
+                            },
+                            "measures": {
+                                "en": "Your stars are for every short note landing close to its pitch from its first moment."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "br-3-challenge",
+                    "title": {
+                        "en": "Ah, vous dirai-je"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "The French tune Mozart wrote twelve variations on, known in English as Twinkle, Twinkle: each note on the breath, the last one held."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Then and now"
+                                    },
+                                    "detail": {
+                                        "en": "An easy eight seconds first"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Detached \"dah\"s"
+                                    },
+                                    "detail": {
+                                        "en": "Each one on the breath"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Hold the last"
+                                    },
+                                    "detail": {
+                                        "en": "Steady to its end"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 80,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 0.75,
+                                        "step": -5,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 0.75,
+                                        "step": -5,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 0.75,
+                                        "step": 2,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 0.75,
+                                        "step": 2,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 0.75,
+                                        "step": 4,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 0.75,
+                                        "step": 4,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 1.5,
+                                        "step": 2,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 0.75,
+                                        "step": 0,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 0.75,
+                                        "step": 0,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 0.75,
+                                        "step": -1,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "length": 0.75,
+                                        "step": -1,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 14,
+                                        "length": 0.75,
+                                        "step": -3,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 15,
+                                        "length": 0.75,
+                                        "step": -3,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 16,
+                                        "length": 1.5,
+                                        "step": -5,
+                                        "lyric": "dah"
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "breath",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "breathhold",
+                            "text": {
+                                "en": "Then and now: hold \"oo\" for an easy eight seconds. Your first hold is marked."
+                            },
+                            "exercise": {
+                                "step": 0,
+                                "lyric": "oo",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "max": 8,
+                                "compare": "baseline"
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {
+                                "en": "With the guide: short \"dah\"s, a breath at the halfway, the last note held."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 0.75,
+                                        "step": -5,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 0.75,
+                                        "step": -5,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 0.75,
+                                        "step": 2,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 0.75,
+                                        "step": 2,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 0.75,
+                                        "step": 4,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 0.75,
+                                        "step": 4,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 1.5,
+                                        "step": 2,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 0.75,
+                                        "step": 0,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 0.75,
+                                        "step": 0,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 0.75,
+                                        "step": -1,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "length": 0.75,
+                                        "step": -1,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 14,
+                                        "length": 0.75,
+                                        "step": -3,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 15,
+                                        "length": 0.75,
+                                        "step": -3,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 16,
+                                        "length": 1.5,
+                                        "step": -5,
+                                        "lyric": "dah"
+                                    }
+                                ],
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "On your own now. Each note on the breath, and hold the last one steady."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 0.75,
+                                        "step": -5,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 0.75,
+                                        "step": -5,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 0.75,
+                                        "step": 2,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 0.75,
+                                        "step": 2,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 0.75,
+                                        "step": 4,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 0.75,
+                                        "step": 4,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 1.5,
+                                        "step": 2,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 0.75,
+                                        "step": 0,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 0.75,
+                                        "step": 0,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 0.75,
+                                        "step": -1,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "length": 0.75,
+                                        "step": -1,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 14,
+                                        "length": 0.75,
+                                        "step": -3,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 15,
+                                        "length": 0.75,
+                                        "step": -3,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 16,
+                                        "length": 1.5,
+                                        "step": -5,
+                                        "lyric": "dah"
+                                    }
+                                ],
+                                "turn": false,
+                                "score": "line"
+                            },
+                            "measures": {
+                                "en": "Your stars are for every note starting on its pitch, and the last one held steady to its end."
                             }
                         }
                     ]
