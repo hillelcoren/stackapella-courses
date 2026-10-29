@@ -529,6 +529,1254 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "pp-lock",
+            "title": {
+                "en": "Lock to the drone"
+            },
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "pp-2-ring",
+                    "title": {
+                        "en": "Hear the ring"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Two notes a little apart beat: a slow wah-wah. The beats slow down as you get closer, and stop when you're there."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Listen for the beating"
+                                    },
+                                    "detail": {
+                                        "en": "A wah-wah against the drone"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Slower is closer"
+                                    },
+                                    "detail": {
+                                        "en": "Move until it slows"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Smooth is in tune"
+                                    },
+                                    "detail": {
+                                        "en": "The beating stops: it rings"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0.3,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 4,
+                                        "step": 0.1,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
+                            "visual": "drone",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {
+                                "en": "Listen to each with the drone, as often as you like, then choose."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {
+                                            "en": "Which one rings?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0.25,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "A beats against the drone. B is smooth: it's in tune."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one rings?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": -0.2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "B is a little flat, so it beats. A is smooth."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which one rings?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0.3,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": -0.15,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "answer": 2,
+                                        "why": {
+                                            "en": "A beats fastest, B slower, C not at all: C is in tune."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Is the guide sharp or flat?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0.3,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Sharp"
+                                            },
+                                            {
+                                                "en": "Flat"
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "It's a little above the drone: sharp."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Is the guide sharp or flat?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": -0.3,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Sharp"
+                                            },
+                                            {
+                                                "en": "Flat"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "It's a little under the drone: flat."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Is the guide sharp or flat?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": -0.2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                }
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Sharp"
+                                            },
+                                            {
+                                                "en": "Flat"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Just under: flat. Closer than the last one, so the beating is slower."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {
+                                "en": "Start a little under the drone, then slide up slowly until the beating stops. Headphones help: one ear off."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 6,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Hold your note over the drone until it rings. Neck, jaw and tongue soft."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 6,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                },
+                                "score": "lock"
+                            },
+                            "measures": {
+                                "en": "Your stars are for how closely you held your note to the drone: within 10 cents is locked. Was your neck soft?"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "pp-2-fifth",
+                    "title": {
+                        "en": "The fifth and the octave"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A drone's strongest partners are the fifth and the octave. Both ring true, so they're easy to lock."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "So (5)"
+                                    },
+                                    "detail": {
+                                        "en": "Five up from the drone"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Do (1), an octave up"
+                                    },
+                                    "detail": {
+                                        "en": "The same note, higher"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Listen for smooth"
+                                    },
+                                    "detail": {
+                                        "en": "It gets smoother when you find it"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 7,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": -12
+                                }
+                            },
+                            "visual": "drone",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {
+                                "en": "So, then do, over the low drone. Find where each one goes smooth."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 7,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": -12
+                                }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Hold so, then do, over the drone an octave below. Neck, jaw and tongue soft."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 6,
+                                        "step": 7,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 9,
+                                        "length": 6,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": -12
+                                },
+                                "score": "lock"
+                            },
+                            "measures": {
+                                "en": "Your stars are for how closely you locked so and do to the drone. Did each get smoother when you found it?"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "pp-2-home",
+                    "title": {
+                        "en": "Leave and come back"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Stepping away and back is where pitch slips. Come home to exactly where you were."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Do, re, do"
+                                    },
+                                    "detail": {
+                                        "en": "A step up and home"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Do, ti (below), do"
+                                    },
+                                    "detail": {
+                                        "en": "A step down and home"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Do, so, do"
+                                    },
+                                    "detail": {
+                                        "en": "A leap up and home"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "do"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "re"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "do"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {
+                                "en": "Do, re, do. Make the last do the same as the first."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "do"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "re"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "do"
+                                    }
+                                ],
+                                "turn": true,
+                                "drone": {
+                                    "step": 0
+                                }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Echo each one, over the drone: do-re-do, do-ti-do, do-so-do."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "do"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "re"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "do"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "do"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 1,
+                                        "step": -1,
+                                        "lyric": "ti"
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "do"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "do"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "so"
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "do"
+                                    }
+                                ],
+                                "turn": true,
+                                "drone": {
+                                    "step": 0
+                                },
+                                "score": "centre"
+                            },
+                            "measures": {
+                                "en": "Your stars are for every note's centre, and most of all for coming home to the same do."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "pp-2-long",
+                    "title": {
+                        "en": "No sag"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "The end of a breath and repeated notes pull you flat. Slow the breath out, and think up. Never squeeze."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Breathe low first"
+                                    },
+                                    "detail": {
+                                        "en": "Then let the air out slowly"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Think up"
+                                    },
+                                    "detail": {
+                                        "en": "As the note goes on, and on the way down"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Never squeeze"
+                                    },
+                                    "detail": {
+                                        "en": "Tightening pushes you sharp"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 6,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {
+                                "en": "Mi, mi, mi, re, do: keep the repeated mi from sinking."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mi"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mi"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mi"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "re"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "do"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Two long notes over the drone: do, then so. Keep each one up to its very end."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 8,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 8,
+                                        "step": 7,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                },
+                                "score": "drift"
+                            },
+                            "measures": {
+                                "en": "Your stars are for where each long note sat and whether it sagged or crept by its end: under 10 cents is steady."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "pp-2-challenge",
+                    "title": {
+                        "en": "Red River Valley"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A cowboy song over a drone on your note. Lock the long notes, keep the rest in tune."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Listen first"
+                                    },
+                                    "detail": {
+                                        "en": "Two lines of the tune"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Lock \"go-ing\""
+                                    },
+                                    "detail": {
+                                        "en": "The long do rings with the drone"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Keep \"smile\" up"
+                                    },
+                                    "detail": {
+                                        "en": "The last long note, on re"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 0.5,
+                                        "step": -5,
+                                        "lyric": "From"
+                                    },
+                                    {
+                                        "beat": 1.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "this"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "val-"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "ley"
+                                    },
+                                    {
+                                        "beat": 3.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "they"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "say"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 0.5,
+                                        "step": 2,
+                                        "lyric": "you"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "are"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "go-"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "ing."
+                                    },
+                                    {
+                                        "beat": 9,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "We"
+                                    },
+                                    {
+                                        "beat": 9.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "will"
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "miss"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "your"
+                                    },
+                                    {
+                                        "beat": 11.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "bright"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "eyes"
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "length": 0.5,
+                                        "step": 5,
+                                        "lyric": "and"
+                                    },
+                                    {
+                                        "beat": 13.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "sweet"
+                                    },
+                                    {
+                                        "beat": 14,
+                                        "length": 3,
+                                        "step": 2,
+                                        "lyric": "smile,"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
+                            "visual": "drone",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Your Bullseye round first: five notes, to see how far you've come."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    0,
+                                    4,
+                                    2,
+                                    -3,
+                                    5
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {
+                                "en": "Sing it with the guide, at your own pace."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 0.5,
+                                        "step": -5,
+                                        "lyric": "From"
+                                    },
+                                    {
+                                        "beat": 1.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "this"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "val-"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "ley"
+                                    },
+                                    {
+                                        "beat": 3.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "they"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "say"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 0.5,
+                                        "step": 2,
+                                        "lyric": "you"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "are"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "go-"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "ing."
+                                    },
+                                    {
+                                        "beat": 9,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "We"
+                                    },
+                                    {
+                                        "beat": 9.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "will"
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "miss"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "your"
+                                    },
+                                    {
+                                        "beat": 11.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "bright"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "eyes"
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "length": 0.5,
+                                        "step": 5,
+                                        "lyric": "and"
+                                    },
+                                    {
+                                        "beat": 13.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "sweet"
+                                    },
+                                    {
+                                        "beat": 14,
+                                        "length": 3,
+                                        "step": 2,
+                                        "lyric": "smile,"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Now on your own, over the drone. Neck, jaw and tongue soft."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 0.5,
+                                        "step": -5,
+                                        "lyric": "From"
+                                    },
+                                    {
+                                        "beat": 1.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "this"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "val-"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "ley"
+                                    },
+                                    {
+                                        "beat": 3.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "they"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "say"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 0.5,
+                                        "step": 2,
+                                        "lyric": "you"
+                                    },
+                                    {
+                                        "beat": 5.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "are"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "go-"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "ing."
+                                    },
+                                    {
+                                        "beat": 9,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "We"
+                                    },
+                                    {
+                                        "beat": 9.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "will"
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "miss"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "your"
+                                    },
+                                    {
+                                        "beat": 11.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "bright"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "eyes"
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "length": 0.5,
+                                        "step": 5,
+                                        "lyric": "and"
+                                    },
+                                    {
+                                        "beat": 13.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "sweet"
+                                    },
+                                    {
+                                        "beat": 14,
+                                        "length": 3,
+                                        "step": 2,
+                                        "lyric": "smile,"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                },
+                                "score": "lock"
+                            },
+                            "measures": {
+                                "en": "Your stars are for the long do locked to the drone and every other note's centre."
+                            }
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
