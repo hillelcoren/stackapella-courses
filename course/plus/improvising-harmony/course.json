@@ -471,6 +471,293 @@
                             "measures": {"en": "Your stars are for your harmony's notes on pitch, every so answered with do."}
                         }
                     ]
+                },
+                {
+                    "id": "imp-1-ear",
+                    "title": {"en": "Harmony or the tune?"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A harmony makes chords with the tune; a copy just doubles it. Learn to hear the difference, then keep your part as the lights fade."},
+                            "steps": [
+                                {"title": {"en": "Listen first"}, "detail": {"en": "Harmony, or the same tune?"}},
+                                {"title": {"en": "Then sing the part above"}, "detail": {"en": "The whole verse"}},
+                                {"title": {"en": "The lights fade"}, "detail": {"en": "The second half is yours, by ear"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, as often as you like, then choose."},
+                            "exercise": {
+                                "tempo": 92,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Is the second voice singing a harmony, or the same tune?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 1.0, "step": -7},
+                                                    {"beat": 1.0, "length": 1.0, "step": -3},
+                                                    {"beat": 2.0, "length": 1.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -3},
+                                                    {"beat": 4.0, "length": 1.0, "step": 0},
+                                                    {"beat": 5.0, "length": 1.0, "step": 2},
+                                                    {"beat": 6.0, "length": 2.0, "step": 0},
+                                                    {"beat": 8.0, "length": 1.0, "step": -3},
+                                                    {"beat": 9.0, "length": 1.0, "step": 0},
+                                                    {"beat": 10.0, "length": 4.0, "step": 2},
+                                                    {"beat": 14.0, "length": 2.0, "step": 0},
+                                                    {"beat": 0.0, "length": 1.0, "step": -3},
+                                                    {"beat": 1.0, "length": 1.0, "step": 0},
+                                                    {"beat": 2.0, "length": 1.5, "step": 5},
+                                                    {"beat": 3.5, "length": 0.5, "step": 0},
+                                                    {"beat": 4.0, "length": 1.0, "step": 5},
+                                                    {"beat": 5.0, "length": 1.0, "step": 5},
+                                                    {"beat": 6.0, "length": 2.0, "step": 5},
+                                                    {"beat": 8.0, "length": 1.0, "step": 0},
+                                                    {"beat": 9.0, "length": 1.0, "step": 5},
+                                                    {"beat": 10.0, "length": 4.0, "step": 5},
+                                                    {"beat": 14.0, "length": 2.0, "step": 5}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "A harmony"}, {"en": "The same tune"}],
+                                        "answer": 0,
+                                        "why": {"en": "A harmony: the second voice moved with the tune but on its own notes, a chord tone above."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Is the second voice singing a harmony, or the same tune?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 1.0, "step": -7},
+                                                    {"beat": 1.0, "length": 1.0, "step": -3},
+                                                    {"beat": 2.0, "length": 1.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -3},
+                                                    {"beat": 4.0, "length": 1.0, "step": 0},
+                                                    {"beat": 5.0, "length": 1.0, "step": 2},
+                                                    {"beat": 6.0, "length": 2.0, "step": 0},
+                                                    {"beat": 8.0, "length": 1.0, "step": -3},
+                                                    {"beat": 9.0, "length": 1.0, "step": 0},
+                                                    {"beat": 10.0, "length": 4.0, "step": 2},
+                                                    {"beat": 14.0, "length": 2.0, "step": 0},
+                                                    {"beat": 0.0, "length": 1.0, "step": 5},
+                                                    {"beat": 1.0, "length": 1.0, "step": 9},
+                                                    {"beat": 2.0, "length": 1.5, "step": 12},
+                                                    {"beat": 3.5, "length": 0.5, "step": 9},
+                                                    {"beat": 4.0, "length": 1.0, "step": 12},
+                                                    {"beat": 5.0, "length": 1.0, "step": 14},
+                                                    {"beat": 6.0, "length": 2.0, "step": 12},
+                                                    {"beat": 8.0, "length": 1.0, "step": 9},
+                                                    {"beat": 9.0, "length": 1.0, "step": 12},
+                                                    {"beat": 10.0, "length": 4.0, "step": 14},
+                                                    {"beat": 14.0, "length": 2.0, "step": 12}
+                                                ]
+                                            }
+                                        ],
+                                        "options": [{"en": "A harmony"}, {"en": "The same tune"}],
+                                        "answer": 1,
+                                        "why": {"en": "The same tune, an octave up. It's fuller, but it isn't a harmony: every note is the tune's own."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one copied the tune?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 1.0, "step": -7},
+                                                    {"beat": 1.0, "length": 1.0, "step": -3},
+                                                    {"beat": 2.0, "length": 1.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -3},
+                                                    {"beat": 4.0, "length": 1.0, "step": 0},
+                                                    {"beat": 5.0, "length": 1.0, "step": 2},
+                                                    {"beat": 6.0, "length": 2.0, "step": 0},
+                                                    {"beat": 8.0, "length": 1.0, "step": -3},
+                                                    {"beat": 9.0, "length": 1.0, "step": 0},
+                                                    {"beat": 10.0, "length": 4.0, "step": 2},
+                                                    {"beat": 14.0, "length": 2.0, "step": 0},
+                                                    {"beat": 0.0, "length": 1.0, "step": -3},
+                                                    {"beat": 1.0, "length": 1.0, "step": 0},
+                                                    {"beat": 2.0, "length": 1.5, "step": 5},
+                                                    {"beat": 3.5, "length": 0.5, "step": 0},
+                                                    {"beat": 4.0, "length": 1.0, "step": 5},
+                                                    {"beat": 5.0, "length": 1.0, "step": 5},
+                                                    {"beat": 6.0, "length": 2.0, "step": 5},
+                                                    {"beat": 8.0, "length": 1.0, "step": 0},
+                                                    {"beat": 9.0, "length": 1.0, "step": 5},
+                                                    {"beat": 10.0, "length": 4.0, "step": 5},
+                                                    {"beat": 14.0, "length": 2.0, "step": 5}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 1.0, "step": -7},
+                                                    {"beat": 1.0, "length": 1.0, "step": -3},
+                                                    {"beat": 2.0, "length": 1.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -3},
+                                                    {"beat": 4.0, "length": 1.0, "step": 0},
+                                                    {"beat": 5.0, "length": 1.0, "step": 2},
+                                                    {"beat": 6.0, "length": 2.0, "step": 0},
+                                                    {"beat": 8.0, "length": 1.0, "step": -3},
+                                                    {"beat": 9.0, "length": 1.0, "step": 0},
+                                                    {"beat": 10.0, "length": 4.0, "step": 2},
+                                                    {"beat": 14.0, "length": 2.0, "step": 0},
+                                                    {"beat": 0.0, "length": 1.0, "step": 5},
+                                                    {"beat": 1.0, "length": 1.0, "step": 9},
+                                                    {"beat": 2.0, "length": 1.5, "step": 12},
+                                                    {"beat": 3.5, "length": 0.5, "step": 9},
+                                                    {"beat": 4.0, "length": 1.0, "step": 12},
+                                                    {"beat": 5.0, "length": 1.0, "step": 14},
+                                                    {"beat": 6.0, "length": 2.0, "step": 12},
+                                                    {"beat": 8.0, "length": 1.0, "step": 9},
+                                                    {"beat": 9.0, "length": 1.0, "step": 12},
+                                                    {"beat": 10.0, "length": 4.0, "step": 14},
+                                                    {"beat": 14.0, "length": 2.0, "step": 12}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "B copied: the second voice sang the tune's own notes. A made chords."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one copied the tune?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 1.0, "step": -7},
+                                                    {"beat": 1.0, "length": 1.0, "step": -3},
+                                                    {"beat": 2.0, "length": 1.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -3},
+                                                    {"beat": 4.0, "length": 1.0, "step": 0},
+                                                    {"beat": 5.0, "length": 1.0, "step": 2},
+                                                    {"beat": 6.0, "length": 2.0, "step": 0},
+                                                    {"beat": 8.0, "length": 1.0, "step": -3},
+                                                    {"beat": 9.0, "length": 1.0, "step": 0},
+                                                    {"beat": 10.0, "length": 4.0, "step": 2},
+                                                    {"beat": 14.0, "length": 2.0, "step": 0},
+                                                    {"beat": 0.0, "length": 1.0, "step": 5},
+                                                    {"beat": 1.0, "length": 1.0, "step": 9},
+                                                    {"beat": 2.0, "length": 1.5, "step": 12},
+                                                    {"beat": 3.5, "length": 0.5, "step": 9},
+                                                    {"beat": 4.0, "length": 1.0, "step": 12},
+                                                    {"beat": 5.0, "length": 1.0, "step": 14},
+                                                    {"beat": 6.0, "length": 2.0, "step": 12},
+                                                    {"beat": 8.0, "length": 1.0, "step": 9},
+                                                    {"beat": 9.0, "length": 1.0, "step": 12},
+                                                    {"beat": 10.0, "length": 4.0, "step": 14},
+                                                    {"beat": 14.0, "length": 2.0, "step": 12}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 1.0, "step": -7},
+                                                    {"beat": 1.0, "length": 1.0, "step": -3},
+                                                    {"beat": 2.0, "length": 1.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -3},
+                                                    {"beat": 4.0, "length": 1.0, "step": 0},
+                                                    {"beat": 5.0, "length": 1.0, "step": 2},
+                                                    {"beat": 6.0, "length": 2.0, "step": 0},
+                                                    {"beat": 8.0, "length": 1.0, "step": -3},
+                                                    {"beat": 9.0, "length": 1.0, "step": 0},
+                                                    {"beat": 10.0, "length": 4.0, "step": 2},
+                                                    {"beat": 14.0, "length": 2.0, "step": 0},
+                                                    {"beat": 0.0, "length": 1.0, "step": -3},
+                                                    {"beat": 1.0, "length": 1.0, "step": 0},
+                                                    {"beat": 2.0, "length": 1.5, "step": 5},
+                                                    {"beat": 3.5, "length": 0.5, "step": 0},
+                                                    {"beat": 4.0, "length": 1.0, "step": 5},
+                                                    {"beat": 5.0, "length": 1.0, "step": 5},
+                                                    {"beat": 6.0, "length": 2.0, "step": 5},
+                                                    {"beat": 8.0, "length": 1.0, "step": 0},
+                                                    {"beat": 9.0, "length": 1.0, "step": 5},
+                                                    {"beat": 10.0, "length": 4.0, "step": 5},
+                                                    {"beat": 14.0, "length": 2.0, "step": 5}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "A copied. Listen for the moment two voices become one: that's a copy."}
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The part above, the whole verse. Halfway through, the lights fade: keep going by ear."},
+                            "exercise": {
+                                "tempo": 92,
+                                "notes": [
+                                    {"beat": 4.0, "length": 1.0, "step": -3, "lyric": "Mi-"},
+                                    {"beat": 5.0, "length": 1.0, "step": 0, "lyric": "chael,"},
+                                    {"beat": 6.0, "length": 1.5, "step": 5, "lyric": "row"},
+                                    {"beat": 7.5, "length": 0.5, "step": 0, "lyric": "the"},
+                                    {"beat": 8.0, "length": 1.0, "step": 5, "lyric": "boat"},
+                                    {"beat": 9.0, "length": 1.0, "step": 5, "lyric": "a-"},
+                                    {"beat": 10.0, "length": 2.0, "step": 5, "lyric": "shore,"},
+                                    {"beat": 12.0, "length": 1.0, "step": 0, "lyric": "Hal-"},
+                                    {"beat": 13.0, "length": 1.0, "step": 5, "lyric": "le-"},
+                                    {"beat": 14.0, "length": 4.0, "step": 5, "lyric": "lu-"},
+                                    {"beat": 18.0, "length": 2.0, "step": 5, "lyric": "jah!"},
+                                    {"beat": 20.0, "length": 1.0, "step": 0, "lyric": "Mi-"},
+                                    {"beat": 21.0, "length": 1.0, "step": 5, "lyric": "chael,"},
+                                    {"beat": 22.0, "length": 1.5, "step": 5, "lyric": "row"},
+                                    {"beat": 23.5, "length": 0.5, "step": 0, "lyric": "the"},
+                                    {"beat": 24.0, "length": 1.0, "step": 2, "lyric": "boat"},
+                                    {"beat": 25.0, "length": 1.0, "step": 0, "lyric": "a-"},
+                                    {"beat": 26.0, "length": 2.0, "step": -2, "lyric": "shore,"},
+                                    {"beat": 28.0, "length": 1.0, "step": -3, "lyric": "Hal-"},
+                                    {"beat": 29.0, "length": 1.0, "step": -2, "lyric": "le-"},
+                                    {"beat": 30.0, "length": 2.0, "step": 0, "lyric": "lu-"},
+                                    {"beat": 32.0, "length": 2.0, "step": -2},
+                                    {"beat": 34.0, "length": 2.0, "step": -3, "lyric": "jah!"}
+                                ],
+                                "turn": false,
+                                "lights": "fade",
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4.0, "length": 1.0, "step": -7, "lyric": "Mi-"},
+                                            {"beat": 5.0, "length": 1.0, "step": -3, "lyric": "chael,"},
+                                            {"beat": 6.0, "length": 1.5, "step": 0, "lyric": "row"},
+                                            {"beat": 7.5, "length": 0.5, "step": -3, "lyric": "the"},
+                                            {"beat": 8.0, "length": 1.0, "step": 0, "lyric": "boat"},
+                                            {"beat": 9.0, "length": 1.0, "step": 2, "lyric": "a-"},
+                                            {"beat": 10.0, "length": 2.0, "step": 0, "lyric": "shore,"},
+                                            {"beat": 12.0, "length": 1.0, "step": -3, "lyric": "Hal-"},
+                                            {"beat": 13.0, "length": 1.0, "step": 0, "lyric": "le-"},
+                                            {"beat": 14.0, "length": 4.0, "step": 2, "lyric": "lu-"},
+                                            {"beat": 18.0, "length": 2.0, "step": 0, "lyric": "jah!"},
+                                            {"beat": 20.0, "length": 1.0, "step": -3, "lyric": "Mi-"},
+                                            {"beat": 21.0, "length": 1.0, "step": 0, "lyric": "chael,"},
+                                            {"beat": 22.0, "length": 1.5, "step": 0, "lyric": "row"},
+                                            {"beat": 23.5, "length": 0.5, "step": -3, "lyric": "the"},
+                                            {"beat": 24.0, "length": 1.0, "step": -2, "lyric": "boat"},
+                                            {"beat": 25.0, "length": 1.0, "step": -3, "lyric": "a-"},
+                                            {"beat": 26.0, "length": 2.0, "step": -5, "lyric": "shore,"},
+                                            {"beat": 28.0, "length": 1.0, "step": -7, "lyric": "Hal-"},
+                                            {"beat": 29.0, "length": 1.0, "step": -5, "lyric": "le-"},
+                                            {"beat": 30.0, "length": 2.0, "step": -3, "lyric": "lu-"},
+                                            {"beat": 32.0, "length": 2.0, "step": -5},
+                                            {"beat": 34.0, "length": 2.0, "step": -7, "lyric": "jah!"}
+                                        ]
+                                    }
+                                ],
+                                "chords": [
+                                    {"beat": 4.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 6.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 14.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 18.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 24.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 26.0, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 28.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 32.0, "root": 0, "quality": "dom7", "bass": null},
+                                    {"beat": 34.0, "root": 5, "quality": "maj", "bass": null}
+                                ]
+                            },
+                            "measures": {"en": "Your stars are for your harmony's notes on pitch, the second half sung with no lights to follow."}
+                        }
+                    ]
                 }
             ]
         }
