@@ -290,6 +290,578 @@
                     "tempo": 60
                 }
             }
+        },
+        {
+            "id": "pop.plain",
+            "course": "pop",
+            "used": [],
+            "sing": {
+                "en": "Down in the Valley's first line (traditional), from your comfortable note, plain: no slides or extras. One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "low": -5,
+                "high": 4
+            },
+            "seconds": 10,
+            "style": "plain",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "tempo": 96,
+                    "notes": [
+                        {
+                            "beat": 0,
+                            "length": 1,
+                            "step": -5,
+                            "lyric": "Down"
+                        },
+                        {
+                            "beat": 1,
+                            "length": 1,
+                            "step": 0,
+                            "lyric": "in"
+                        },
+                        {
+                            "beat": 2,
+                            "length": 1,
+                            "step": 2,
+                            "lyric": "the"
+                        },
+                        {
+                            "beat": 3,
+                            "length": 3,
+                            "step": 4,
+                            "lyric": "val-"
+                        },
+                        {
+                            "beat": 6,
+                            "length": 3,
+                            "step": 0,
+                            "lyric": "ley,"
+                        },
+                        {
+                            "beat": 9,
+                            "length": 1,
+                            "step": 4,
+                            "lyric": "val-"
+                        },
+                        {
+                            "beat": 10,
+                            "length": 1,
+                            "step": 2,
+                            "lyric": "ley"
+                        },
+                        {
+                            "beat": 11,
+                            "length": 1,
+                            "step": 0,
+                            "lyric": "so"
+                        },
+                        {
+                            "beat": 12,
+                            "length": 3,
+                            "step": 2,
+                            "lyric": "low"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "pop.styled",
+            "course": "pop",
+            "used": [],
+            "sing": {
+                "en": "Down in the Valley's first line (traditional), from your comfortable note, with a scoop up into \"val-\" from about a third below, and a fall-off on \"low\". One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "low": -5,
+                "high": 4
+            },
+            "seconds": 10,
+            "style": "scoop-fall",
+            "voices": "any",
+            "fallback": {
+                "description": {
+                    "en": "A scoop slides up into a note; a fall-off lets its end drop away."
+                }
+            }
+        },
+        {
+            "id": "pop.slide-cry",
+            "course": "pop",
+            "used": [],
+            "sing": {
+                "en": "Down in the Valley's first line (traditional), from your comfortable note, with a slide from \"the\" up into \"val-\", and a small cry on \"so\". One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "low": -5,
+                "high": 4
+            },
+            "seconds": 10,
+            "style": "slide-cry",
+            "voices": "any",
+            "fallback": {
+                "description": {
+                    "en": "A slide glides between two notes; a cry flicks up into your lighter voice and straight back down."
+                }
+            }
+        },
+        {
+            "id": "pop.breathy",
+            "course": "pop",
+            "used": [],
+            "sing": {
+                "en": "Down in the Valley's first line (traditional), from your comfortable note, breathy and close: a little air, quiet, never a whisper. One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "low": -5,
+                "high": 4
+            },
+            "seconds": 10,
+            "style": "breathy",
+            "voices": "any",
+            "fallback": {
+                "description": {
+                    "en": "Breathy: quiet and close, with a little air in the sound, like singing to one person."
+                }
+            }
+        },
+        {
+            "id": "pop.bright",
+            "course": "pop",
+            "used": [],
+            "sing": {
+                "en": "Down in the Valley's first line (traditional), from your comfortable note, clear and forward at a medium volume, not belted. One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "low": -5,
+                "high": 4
+            },
+            "seconds": 10,
+            "style": "bright",
+            "voices": "any",
+            "fallback": {
+                "description": {
+                    "en": "Bright: a clear, forward ring from the vowel and a slight smile, never from more volume."
+                }
+            }
+        },
+        {
+            "id": "pop.twang",
+            "course": "pop",
+            "used": [],
+            "sing": {
+                "en": "Down in the Valley's first line (traditional), from your comfortable note, with a little twang: narrow and bright, never pressed or nasal. One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "low": -5,
+                "high": 4
+            },
+            "seconds": 10,
+            "style": "twang",
+            "voices": "any",
+            "fallback": {
+                "description": {
+                    "en": "Twang: a narrow, bright edge, like a light, bratty \"nyeh\", never squeezed."
+                }
+            }
+        },
+        {
+            "id": "yodel.ho",
+            "course": "yodel",
+            "used": [],
+            "sing": {
+                "en": "A speaking-voice \"ho\", low, in chest voice, a little below your comfortable note. One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "step": -2
+            },
+            "seconds": 2,
+            "style": "chest",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "tempo": 60,
+                    "notes": [
+                        {
+                            "beat": 0,
+                            "length": 2,
+                            "step": -2
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "yodel.hoo",
+            "course": "yodel",
+            "used": [],
+            "sing": {
+                "en": "An owl's \"hoo\", light, in head voice, above where your voice flips. One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "step": 7
+            },
+            "seconds": 2,
+            "style": "head",
+            "voices": "any",
+            "fallback": {
+                "description": {
+                    "en": "Light and hooty, like an owl."
+                }
+            }
+        },
+        {
+            "id": "yodel.hook-clean",
+            "course": "yodel",
+            "used": [],
+            "sing": {
+                "en": "\"Yo-hee-o\": low, high, low (a sixth up and back), flipping cleanly each way, sung where your own voice flips. One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "low": -2,
+                "high": 7
+            },
+            "seconds": 3,
+            "style": "flip",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "tempo": 60,
+                    "notes": [
+                        {
+                            "beat": 0.0,
+                            "length": 1.0,
+                            "step": -2
+                        },
+                        {
+                            "beat": 1.0,
+                            "length": 1.0,
+                            "step": 7
+                        },
+                        {
+                            "beat": 2.0,
+                            "length": 1.0,
+                            "step": -2
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "yodel.hook-slid",
+            "course": "yodel",
+            "used": [],
+            "sing": {
+                "en": "The same \"yo-hee-o\", sliding between the notes instead of flipping. One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "low": -2,
+                "high": 7
+            },
+            "seconds": 3,
+            "style": "slide",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "tempo": 60,
+                    "notes": [
+                        {
+                            "beat": 0.0,
+                            "length": 1.0,
+                            "step": -2
+                        },
+                        {
+                            "beat": 1.0,
+                            "length": 1.0,
+                            "step": 7
+                        },
+                        {
+                            "beat": 2.0,
+                            "length": 1.0,
+                            "step": -2
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "yodel.down",
+            "course": "yodel",
+            "used": [],
+            "sing": {
+                "en": "\"Hee-o\": a downward flip, landed lightly at speaking volume. One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "low": -2,
+                "high": 7
+            },
+            "seconds": 2,
+            "style": "flip-down",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "tempo": 60,
+                    "notes": [
+                        {
+                            "beat": 0.0,
+                            "length": 1.0,
+                            "step": 7
+                        },
+                        {
+                            "beat": 1.0,
+                            "length": 1.0,
+                            "step": -2
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "yodel.roll-clean",
+            "course": "yodel",
+            "used": [],
+            "sing": {
+                "en": "Low, high, low, high, low, quickly, every flip clean. One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "low": -2,
+                "high": 7
+            },
+            "seconds": 3,
+            "style": "roll",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "tempo": 100,
+                    "notes": [
+                        {
+                            "beat": 0.0,
+                            "length": 0.6,
+                            "step": -2
+                        },
+                        {
+                            "beat": 0.6,
+                            "length": 0.6,
+                            "step": 7
+                        },
+                        {
+                            "beat": 1.2,
+                            "length": 0.6,
+                            "step": -2
+                        },
+                        {
+                            "beat": 1.7999999999999998,
+                            "length": 0.6,
+                            "step": 7
+                        },
+                        {
+                            "beat": 2.4,
+                            "length": 0.6,
+                            "step": -2
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "yodel.roll-smeared",
+            "course": "yodel",
+            "used": [],
+            "sing": {
+                "en": "Low, high, low, high, low, quickly, the flips smeared into slides. One voice, dry, no reverb, in a quiet room."
+            },
+            "pitch": {
+                "low": -2,
+                "high": 7
+            },
+            "seconds": 3,
+            "style": "roll-smeared",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "tempo": 100,
+                    "notes": [
+                        {
+                            "beat": 0.0,
+                            "length": 0.6,
+                            "step": -2
+                        },
+                        {
+                            "beat": 0.6,
+                            "length": 0.6,
+                            "step": 7
+                        },
+                        {
+                            "beat": 1.2,
+                            "length": 0.6,
+                            "step": -2
+                        },
+                        {
+                            "beat": 1.7999999999999998,
+                            "length": 0.6,
+                            "step": 7
+                        },
+                        {
+                            "beat": 2.4,
+                            "length": 0.6,
+                            "step": -2
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "breath.end-steady",
+            "course": "breath",
+            "used": [
+                "br-2-end"
+            ],
+            "sing": {
+                "en": "One held \"oo\" on your comfortable note for about 6 seconds, then stop on purpose while it's still steady. One voice, dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 0
+            },
+            "seconds": 6,
+            "style": "steady-end",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "tempo": 60,
+                    "notes": [
+                        {
+                            "beat": 0,
+                            "length": 6,
+                            "step": 0,
+                            "vibrato": {
+                                "cents": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "breath.end-ranout",
+            "course": "breath",
+            "used": [
+                "br-2-end"
+            ],
+            "sing": {
+                "en": "The same note, held a little past easy so the last second sags and wobbles as the air runs out. Gently: never strain or squeeze. One voice, dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 0
+            },
+            "seconds": 6,
+            "style": "ran-out",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "tempo": 60,
+                    "notes": [
+                        {
+                            "beat": 0,
+                            "length": 5,
+                            "step": 0,
+                            "vibrato": {
+                                "cents": 0
+                            }
+                        },
+                        {
+                            "beat": 5.0,
+                            "length": 0.25,
+                            "step": -0.1,
+                            "vibrato": {
+                                "cents": 0
+                            }
+                        },
+                        {
+                            "beat": 5.25,
+                            "length": 0.25,
+                            "step": -0.2,
+                            "vibrato": {
+                                "cents": 0
+                            }
+                        },
+                        {
+                            "beat": 5.5,
+                            "length": 0.25,
+                            "step": -0.35,
+                            "vibrato": {
+                                "cents": 0
+                            }
+                        },
+                        {
+                            "beat": 5.75,
+                            "length": 0.25,
+                            "step": -0.5,
+                            "vibrato": {
+                                "cents": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "breath.onset-balanced",
+            "course": "breath",
+            "used": [
+                "br-3-onset"
+            ],
+            "sing": {
+                "en": "\"Ah\" on your note, the breath turning straight into the tone: no click, no puff of air before it. One voice, dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 0
+            },
+            "seconds": 2,
+            "style": "onset-balanced",
+            "voices": "any",
+            "fallback": {
+                "skip": true
+            }
+        },
+        {
+            "id": "breath.onset-breathy",
+            "course": "breath",
+            "used": [
+                "br-3-onset"
+            ],
+            "sing": {
+                "en": "\"Ah\", with an audible puff of air just before the tone starts. One voice, dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 0
+            },
+            "seconds": 2,
+            "style": "onset-breathy",
+            "voices": "any",
+            "fallback": {
+                "skip": true
+            }
+        },
+        {
+            "id": "breath.onset-hard",
+            "course": "breath",
+            "used": [
+                "br-3-onset"
+            ],
+            "sing": {
+                "en": "\"Ah\", starting with a light click in the throat (a glottal start). Lightly: don't press. One voice, dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 0
+            },
+            "seconds": 2,
+            "style": "onset-hard",
+            "voices": "any",
+            "fallback": {
+                "skip": true
+            }
         }
     ]
 }
