@@ -68,7 +68,8 @@ ODE_HOME = ODE[:12] + [(1.5, 2), (0.5, 0), (2, 0)]
 def cp_1_round():
     listen = {"tempo": 150, "notes": notes(ROW, BAR68, ROW_DO), "turn": False, "drone": {"step": ROW_DO}}
     tryit = {"tempo": 150, "notes": notes(ROW[10:], 0, ROW_DO), "drone": {"step": ROW_DO}}
-    play = {"tempo": 150, "notes": notes(ROW * 2, BAR68, ROW_DO), "turn": False, "drone": {"step": ROW_DO}, "generous": True,
+    # Kept on this device as your first round, for the finale's Then and now.
+    play = {"keep": "counterpoint.first-round", "tempo": 150, "notes": notes(ROW * 2, BAR68, ROW_DO), "turn": False, "drone": {"step": ROW_DO}, "generous": True,
             "with": [{"delay": 2 * BAR68, "steps": 12}, {"delay": 4 * BAR68}, {"delay": 6 * BAR68, "steps": -12}]}
     return {
         "id": "cp-1-round", "title": EN("Be a round"), "strictness": "relaxed",
@@ -693,7 +694,7 @@ def cp_5_challenge():
                    ("The ending", "Ti to do")], "harmony",
                   {"tempo": 60, "notes": cantus(CANTUS_3, 0), "turn": False}),
             {"kind": "play", "text": EN("Slowly: at each note of the cantus, choose a lit note. Then hear your duet."),
-             "exercise": {"tempo": 60, "notes": CUE + chosen_line(CANTUS_3, 4), "turn": False, "with": [{"notes": cantus(CANTUS_3, 4, 4)}],
+             "exercise": {"thenAndNow": "counterpoint.first-round", "tempo": 60, "notes": CUE + chosen_line(CANTUS_3, 4), "turn": False, "with": [{"notes": cantus(CANTUS_3, 4, 4)}],
                           "score": "species", "rules": "all"},
              "measures": EN("Scored on landing on lit notes; the top score needs nearly every note lit and every rule: half your moves opposite ways, no parallel or direct fifths or octaves, and ti to do at the end.")},
         ],
