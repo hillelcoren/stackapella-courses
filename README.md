@@ -49,5 +49,8 @@ The app then reads your working copy. Run its server and open a lesson or a song
 
 ## Licence
 
-`CONTENT-LICENSE` (inbound = outbound: what you send is licensed the same way). The Stackapella
-name and mark aren't licensed here. How to propose a change is in `CONTRIBUTING.md`.
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (`CONTENT-LICENSE`): use, change
+and share the courses and arrangements, commercially too, crediting "Stackapella
+(https://stackapella.com)" and sharing what you make from them under the same licence. Real
+singers' recordings and the Stackapella name and mark aren't licensed here. What you send is
+licensed the same way; how to propose a change is in `CONTRIBUTING.md`.

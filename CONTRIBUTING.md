@@ -6,7 +6,7 @@ badly for a voice. A singer's ear is as welcome as a teacher's.
 ## The licence of what you send
 
 **Inbound = outbound.** By sending a pull request, you agree that your contribution is licensed
-under `CONTENT-LICENSE`, and that you have the right to license it so. There's no separate
+under CC BY-SA 4.0 (`CONTENT-LICENSE`), and that you have the right to license it so. There's no separate
 agreement to sign. A song must be in the public domain (its words and its tune), or yours.
 
 ## How
