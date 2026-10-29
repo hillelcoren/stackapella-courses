@@ -2,120 +2,434 @@
     "id": "vibrato",
     "version": 1,
     "reviewed": false,
-    "title": { "en": "Vibrato" },
+    "title": {
+        "en": "Vibrato"
+    },
     "units": [
         {
             "id": "vib-swing-and-settle",
-            "title": { "en": "Swing and settle" },
+            "title": {
+                "en": "Swing and settle"
+            },
             "colour": 5,
             "lessons": [
                 {
                     "id": "vib-1-swing",
-                    "title": { "en": "Swing your voice" },
+                    "title": {
+                        "en": "Swing your voice"
+                    },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "You're about to see your voice draw a wave. Keep it soft, in the middle of your voice." },
+                            "headline": {
+                                "en": "You're about to see your voice draw a wave. Keep it soft, in the middle of your voice."
+                            },
                             "steps": [
-                                { "title": { "en": "Hum, softly" }, "detail": { "en": "\"Mm\" or \"oo\", at a medium volume" } },
-                                { "title": { "en": "Swing up and down" }, "detail": { "en": "Tiny slurs, jaw and belly still" } },
-                                { "title": { "en": "Then settle" }, "detail": { "en": "One easy long note, nothing steered" } }
+                                {
+                                    "title": {
+                                        "en": "Hum, softly"
+                                    },
+                                    "detail": {
+                                        "en": "\"Mm\" or \"oo\", at a medium volume"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Swing up and down"
+                                    },
+                                    "detail": {
+                                        "en": "Tiny slurs, jaw and belly still"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Then settle"
+                                    },
+                                    "detail": {
+                                        "en": "One easy long note, nothing steered"
+                                    }
+                                }
                             ],
-                            "listen": { "tempo": 60, "notes": [{ "beat": 1, "length": 6, "step": 0, "lyric": "mm" }], "turn": false, "drone": { "step": 0 } },
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 6,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
                             "visual": "vibrato",
                             "reviewed": false
                         },
                         {
-                            "kind": "play",
-                            "text": { "en": "Hum one easy long note over the drone. Let it be calm." },
-                            "exercise": { "tempo": 60, "notes": [{ "beat": 2, "length": 6, "step": 0, "lyric": "mm" }], "turn": false, "drone": { "step": 0 }, "score": "hold", "show": "vibrato" },
-                            "measures": { "en": "Your stars are for a steady, easy note. Next: a calm, steady note to build on." }
+                            "kind": "wave",
+                            "text": {
+                                "en": "Follow the ribbon on a soft hum: a slow swing, then quicker and smaller."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "mm",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 2,
+                                        "cents": 50
+                                    },
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 3,
+                                        "cents": 40
+                                    },
+                                    {
+                                        "seconds": 4,
+                                        "kind": "wave",
+                                        "hz": 4,
+                                        "cents": 30
+                                    }
+                                ],
+                                "generous": true
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Now one easy long hum. Nothing to steer: let it be."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "mm",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "free"
+                                    }
+                                ],
+                                "combo": false
+                            },
+                            "measures": {
+                                "en": "Your stars are for an easy, steady note. A real vibrato isn't steered: it grows from a note like this. Next: the easy note."
+                            }
                         }
                     ]
                 },
                 {
                     "id": "vib-1-easy",
-                    "title": { "en": "The easy long note" },
+                    "title": {
+                        "en": "The easy long note"
+                    },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A vibrato grows from steady breath and a free throat. It starts with an easy note." },
+                            "headline": {
+                                "en": "A vibrato grows from steady breath and a free throat. It starts with an easy note."
+                            },
                             "steps": [
-                                { "title": { "en": "Sigh into \"ah\"" }, "detail": { "en": "Like a relieved sigh, then hold it" } },
-                                { "title": { "en": "Medium volume" }, "detail": { "en": "Not quiet and breathy, never loud" } },
-                                { "title": { "en": "Check your jaw" }, "detail": { "en": "Rest a fingertip on your chin. It should stay still" } }
+                                {
+                                    "title": {
+                                        "en": "Sigh into \"ah\""
+                                    },
+                                    "detail": {
+                                        "en": "Like a relieved sigh, then hold it"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Medium volume"
+                                    },
+                                    "detail": {
+                                        "en": "Not quiet and breathy, never loud"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Check your jaw"
+                                    },
+                                    "detail": {
+                                        "en": "Rest a fingertip on your chin. It should stay still"
+                                    }
+                                }
                             ],
-                            "listen": { "tempo": 60, "notes": [{ "beat": 1, "length": 6, "step": 0, "lyric": "ah" }], "turn": false, "drone": { "step": 0 } },
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 6,
+                                        "step": 0,
+                                        "lyric": "ah"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
-                            "kind": "play",
-                            "text": { "en": "Sigh into \"ah\" and hold it, easy and steady, over the drone." },
-                            "exercise": { "tempo": 60, "notes": [{ "beat": 2, "length": 6, "step": 0, "lyric": "ah" }], "turn": false, "drone": { "step": 0 }, "score": "hold", "show": "vibrato" },
-                            "measures": { "en": "Your stars are for how long you held the note on pitch, and how steadily. Did your chin stay still?" }
+                            "kind": "wave",
+                            "text": {
+                                "en": "Sigh into \"ah\" and hold it, easy and steady, over the drone."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "free"
+                                    }
+                                ],
+                                "combo": false
+                            },
+                            "measures": {
+                                "en": "Your stars are for a steady note held all the way. Did your chin stay still?"
+                            }
                         }
                     ]
                 },
                 {
                     "id": "vib-1-laser",
-                    "title": { "en": "A calm, straight line" },
+                    "title": {
+                        "en": "A calm, straight line"
+                    },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A straight tone is how chords ring. It's light and calm, never a held throat." },
+                            "headline": {
+                                "en": "A straight tone is how chords ring. It's light and calm, never a held throat."
+                            },
                             "steps": [
-                                { "title": { "en": "Start from the easy note" }, "detail": { "en": "The same sigh, the same ease" } },
-                                { "title": { "en": "Keep the line flat" }, "detail": { "en": "No wave, like a calm horizon" } },
-                                { "title": { "en": "Stay light" }, "detail": { "en": "If your throat tightens, let the wave back in" } }
+                                {
+                                    "title": {
+                                        "en": "Start from the easy note"
+                                    },
+                                    "detail": {
+                                        "en": "The same sigh, the same ease"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Keep the line flat"
+                                    },
+                                    "detail": {
+                                        "en": "No wave, like a calm horizon"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Stay light"
+                                    },
+                                    "detail": {
+                                        "en": "If your throat tightens, let the wave back in"
+                                    }
+                                }
                             ],
-                            "listen": { "tempo": 60, "notes": [{ "beat": 1, "length": 4, "step": 0, "lyric": "oo" }], "turn": false, "drone": { "step": 0 } },
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
-                            "kind": "play",
-                            "text": { "en": "Hold a calm, straight \"oo\" for 4 beats." },
-                            "exercise": { "tempo": 60, "notes": [{ "beat": 2, "length": 4, "step": 0, "lyric": "oo" }], "turn": false, "drone": { "step": 0 }, "score": "hold" }
+                            "kind": "wave",
+                            "text": {
+                                "en": "Hold a calm, straight \"oo\" for 4 seconds."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "straight"
+                                    }
+                                ]
+                            }
                         },
                         {
-                            "kind": "play",
-                            "text": { "en": "Now 6 beats, still light." },
-                            "exercise": { "tempo": 60, "notes": [{ "beat": 2, "length": 6, "step": 0, "lyric": "oo" }], "turn": false, "drone": { "step": 0 }, "score": "hold" }
+                            "kind": "wave",
+                            "text": {
+                                "en": "Now 6 seconds, still light."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "straight"
+                                    }
+                                ]
+                            }
                         },
                         {
-                            "kind": "play",
-                            "text": { "en": "And 8 beats. Breathe whenever you need to." },
-                            "exercise": { "tempo": 60, "notes": [{ "beat": 2, "length": 8, "step": 0, "lyric": "oo" }], "turn": false, "drone": { "step": 0 }, "score": "hold" },
-                            "measures": { "en": "Your stars are for how long you held it on pitch, and how steadily." }
+                            "kind": "wave",
+                            "text": {
+                                "en": "And 8 seconds. Breathe whenever you need to."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "target": [
+                                    {
+                                        "seconds": 8,
+                                        "kind": "straight"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Your stars are for how long it stayed straight. If your throat tightens, let the wave back in."
+                            }
                         }
                     ]
                 },
                 {
                     "id": "vib-1-challenge",
-                    "title": { "en": "Straight through a line" },
+                    "title": {
+                        "en": "Straight through a line"
+                    },
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Hymns and choirs often sing straight, so every chord rings clear." },
+                            "headline": {
+                                "en": "Hymns and choirs often sing straight, so every chord rings clear."
+                            },
                             "steps": [
-                                { "title": { "en": "Listen to the line" }, "detail": { "en": "Amazing Grace, the first line" } },
-                                { "title": { "en": "Keep each long note calm" }, "detail": { "en": "\"maz-\", \"grace\", \"sweet\", \"sound\"" } },
-                                { "title": { "en": "Light, not held" }, "detail": { "en": "Straight comes from ease, not effort" } }
+                                {
+                                    "title": {
+                                        "en": "Listen to the line"
+                                    },
+                                    "detail": {
+                                        "en": "Amazing Grace, the first line"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Keep each long note calm"
+                                    },
+                                    "detail": {
+                                        "en": "\"maz-\", \"grace\", \"sweet\", \"sound\""
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Light, not held"
+                                    },
+                                    "detail": {
+                                        "en": "Straight comes from ease, not effort"
+                                    }
+                                }
                             ],
                             "listen": {
                                 "tempo": 72,
                                 "notes": [
-                                    { "beat": 0, "length": 1, "step": -5, "lyric": "A-" },
-                                    { "beat": 1, "length": 2, "step": 0, "lyric": "maz-" },
-                                    { "beat": 3, "length": 0.5, "step": 4, "lyric": "ing" },
-                                    { "beat": 3.5, "length": 0.5, "step": 0 },
-                                    { "beat": 4, "length": 2, "step": 4, "lyric": "grace," },
-                                    { "beat": 6, "length": 1, "step": 2, "lyric": "how" },
-                                    { "beat": 7, "length": 2, "step": 0, "lyric": "sweet" },
-                                    { "beat": 9, "length": 1, "step": -3, "lyric": "the" },
-                                    { "beat": 10, "length": 3, "step": -5, "lyric": "sound" }
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "A-"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "maz-"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "ing"
+                                    },
+                                    {
+                                        "beat": 3.5,
+                                        "length": 0.5,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 4,
+                                        "lyric": "grace,"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "how"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "sweet"
+                                    },
+                                    {
+                                        "beat": 9,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "the"
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 3,
+                                        "step": -5,
+                                        "lyric": "sound"
+                                    }
                                 ],
                                 "turn": false
                             },
@@ -124,29 +438,97 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "After a bar of chords, sing the first line, every long note straight." },
+                            "text": {
+                                "en": "After a bar of chords, sing the first line, every long note straight."
+                            },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
-                                    { "beat": 3, "length": 1, "step": -5, "lyric": "A-" },
-                                    { "beat": 4, "length": 2, "step": 0, "lyric": "maz-" },
-                                    { "beat": 6, "length": 0.5, "step": 4, "lyric": "ing" },
-                                    { "beat": 6.5, "length": 0.5, "step": 0 },
-                                    { "beat": 7, "length": 2, "step": 4, "lyric": "grace," },
-                                    { "beat": 9, "length": 1, "step": 2, "lyric": "how" },
-                                    { "beat": 10, "length": 2, "step": 0, "lyric": "sweet" },
-                                    { "beat": 12, "length": 1, "step": -3, "lyric": "the" },
-                                    { "beat": 13, "length": 3, "step": -5, "lyric": "sound" }
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "A-"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "maz-"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "ing"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 0.5,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 2,
+                                        "step": 4,
+                                        "lyric": "grace,"
+                                    },
+                                    {
+                                        "beat": 9,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "how"
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "sweet"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "the"
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "length": 3,
+                                        "step": -5,
+                                        "lyric": "sound"
+                                    }
                                 ],
                                 "turn": false,
                                 "chords": [
-                                    { "beat": 0, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 7, "root": 0, "quality": "maj", "bass": null },
-                                    { "beat": 10, "root": 5, "quality": "maj", "bass": null },
-                                    { "beat": 13, "root": 0, "quality": "maj", "bass": null }
+                                    {
+                                        "beat": 0,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "root": 5,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    }
                                 ]
                             },
-                            "measures": { "en": "Your stars are for the notes. Listen back: were the long ones calm and straight?" }
+                            "measures": {
+                                "en": "Your stars are for the notes. Listen back: were the long ones calm and straight?"
+                            }
                         }
                     ]
                 }
