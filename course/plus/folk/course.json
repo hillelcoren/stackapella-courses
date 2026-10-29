@@ -157,7 +157,7 @@
                                 "drone": { "step": -7 }
                             },
                             "measures": {
-                                "en": "Scored on the notes of the last two lines. You just sang a shanty. That bright note in \"drunk-en\" is why it sounds old: you'll meet it again in unit 2. Next: hear the wobble vanish."
+                                "en": "Scored on the notes of the last two lines. You just sang a shanty: that bright note in \"drunk-en\" is why it sounds old."
                             }
                         }
                     ]
@@ -175,7 +175,7 @@
                             "steps": [
                                 { "title": { "en": "Hear it ring" }, "detail": { "en": "Your note and the drone, as one sound" } },
                                 { "title": { "en": "A plain, easy tone" }, "detail": { "en": "Like a relaxed sigh; a light wave is fine" } },
-                                { "title": { "en": "The wobble counts the gap" }, "detail": { "en": "Two notes 3 vibrations a second apart beat 3 times a second" } }
+                                { "title": { "en": "Indian classical singers too" }, "detail": { "en": "They tune to the tanpura, a drone plucked under every note" } }
                             ],
                             "listen": {
                                 "tempo": 60,
@@ -258,7 +258,7 @@
                                 "score": "hold"
                             },
                             "measures": {
-                                "en": "Scored on how long you held the note within a fifth of a semitone of the drone, close enough to ring, and how steadily. Next: telling a story in song."
+                                "en": "Scored on how long you held the note within a fifth of a semitone of the drone, close enough to ring, and how steadily."
                             }
                         }
                     ]
@@ -372,7 +372,7 @@
                                 "drone": { "step": -4 }
                             },
                             "measures": {
-                                "en": "Follow the guide's telling: scored on the notes of the second line. Next: hear how it told the story."
+                                "en": "Scored on the notes of the second line."
                             }
                         },
                         {
@@ -549,7 +549,7 @@
                                 "drone": { "step": -4 }
                             },
                             "measures": {
-                                "en": "Scored on the notes. Listen back: were the long notes plain and steady? Next: the bright note."
+                                "en": "Scored on the notes. Listen back: were the long notes plain and steady?"
                             }
                         }
                     ]
@@ -568,7 +568,7 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "You've sung this already. The bright note in \"drunk-en\" is what makes it sound old: a minor tune with one note higher. That's the Dorian mode."
+                                "en": "You've sung this already. The bright note in \"drunk-en\" is what makes it sound old: a minor tune (the darker scale) with one note higher. That's the Dorian mode."
                             },
                             "steps": [
                                 { "title": { "en": "Listen for it" }, "detail": { "en": "The second note of \"drunk-en\"" } },
@@ -663,7 +663,7 @@
                                 "drone": { "step": -7 }
                             },
                             "measures": {
-                                "en": "Scored on the line with its bright note. One note changed, and the tune went from plain minor to Dorian. Next: the soft note, its major cousin."
+                                "en": "Scored on the line with its bright note. One note changed, and the tune went from plain minor to Dorian."
                             }
                         }
                     ]
@@ -794,7 +794,7 @@
                                 "turn": false,
                                 "drone": { "step": -4 }
                             },
-                            "measures": { "en": "Scored on the notes, the soft one among them. Next: tell the modes apart by ear." }
+                            "measures": { "en": "Scored on the notes, the soft one among them." }
                         }
                     ]
                 },
@@ -1123,7 +1123,7 @@
                                     }
                                 ]
                             },
-                            "measures": { "en": "Scored on the rounds you got right first time. Next: a whole shanty, on your own." }
+                            "measures": { "en": "Scored on the rounds you got right first time." }
                         }
                     ]
                 },
@@ -1282,7 +1282,7 @@
                                 "drone": { "step": -7 }
                             },
                             "measures": {
-                                "en": "Scored on the notes. Listen back, and sing Join the crew again sometime to hear how far you've come. Next: a flick from above."
+                                "en": "Scored on the notes. Listen back, and sing Join the crew again sometime to hear how far you've come."
                             }
                         }
                     ]
@@ -1417,7 +1417,7 @@
                                 "drone": { "step": -4 }
                             },
                             "measures": {
-                                "en": "Scored on every note, the flicks too, with a little extra room for the quick ones. Once it's easy, speed it up yourself. Next: the turn."
+                                "en": "Scored on every note, the flicks too, with a little extra room for the quick ones. Once it's easy, speed it up yourself."
                             }
                         }
                     ]
@@ -1543,7 +1543,7 @@
                                 "turn": true,
                                 "drone": { "step": -4 }
                             },
-                            "measures": { "en": "Scored on every note of the line, the turn's four too. Next: hear where an ornament sits." }
+                            "measures": { "en": "Scored on every note of the line, the turn's four too." }
                         }
                     ]
                 },
@@ -1576,6 +1576,26 @@
                             },
                             "visual": "echo",
                             "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "First sing a line with a flick on \"Town\", at your own pace." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
+                                    { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
+                                    { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
+                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "Town" },
+                                    { "beat": 1.75, "length": 1.25, "step": 0 },
+                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
+                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
+                                    { "beat": 4.5, "length": 1.5, "step": -9, "lyric": "born," }
+                                ],
+                                "turn": false,
+                                "drone": { "step": -4 }
+                            }
                         },
                         {
                             "kind": "choose",
@@ -1722,27 +1742,7 @@
                                     }
                                 ]
                             },
-                            "measures": { "en": "Scored on the rounds you got right first time. Next: the whole verse, decorated." }
-                        },
-                        {
-                            "kind": "try",
-                            "text": { "en": "Now sing a line with a flick on \"Town\", at your own pace." },
-                            "exercise": {
-                                "tempo": 60,
-                                "notes": [
-                                    { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
-                                    { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
-                                    { "beat": 1, "length": 0.5, "step": -2, "lyric": "let" },
-                                    { "beat": 1.5, "length": 0.25, "step": 1, "lyric": "Town" },
-                                    { "beat": 1.75, "length": 1.25, "step": 0 },
-                                    { "beat": 3, "length": 0.5, "step": -2, "lyric": "where" },
-                                    { "beat": 3.5, "length": 0.5, "step": -4, "lyric": "I" },
-                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "was" },
-                                    { "beat": 4.5, "length": 1.5, "step": -9, "lyric": "born," }
-                                ],
-                                "turn": false,
-                                "drone": { "step": -4 }
-                            }
+                            "measures": { "en": "Scored on the rounds you got right first time." }
                         }
                     ]
                 },
@@ -1897,7 +1897,7 @@
                                 "drone": { "step": -4 }
                             },
                             "measures": {
-                                "en": "Scored on every note, the ornaments too. Listen back: were the long notes plain and steady? Next: singing on your own."
+                                "en": "Scored on every note, the ornaments too. Listen back: were the long notes plain and steady?"
                             }
                         }
                     ]
@@ -1919,7 +1919,7 @@
                                 "en": "About a thousand years ago, Guido of Arezzo taught singers the notes with a hymn, Ut queant laxis, whose half-lines each start one note higher. He named the notes after their first syllables."
                             },
                             "steps": [
-                                { "title": { "en": "Ut, re, mi, fa, sol, la" }, "detail": { "en": "\"Ut\" became \"do\" in 17th-century Italy; a seventh note came later" } },
+                                { "title": { "en": "Ut, re, mi, fa, sol, la" }, "detail": { "en": "\"Ut\" became \"do\" in 17th-century Italy" } },
                                 {
                                     "title": { "en": "Mi to fa is the half step" },
                                     "detail": { "en": "The smallest step, the one to tune with care" }
@@ -1998,7 +1998,7 @@
                                 "drone": { "step": -4 }
                             },
                             "measures": {
-                                "en": "Scored on every note, the half step between mi and fa among them. Next: a hymn sung with nothing underneath."
+                                "en": "Scored on every note, the half step between mi and fa among them."
                             }
                         }
                     ]
@@ -2010,12 +2010,12 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Lining out began in 17th-century Britain, when few in church had books: a leader sang each line and everyone sang it back. Gaelic churches in the Hebrides still sing this way. No drone here: the leader's line gives you the key."
+                                "en": "Lining out began in 17th-century Britain, when few in church had books: a leader sang each line and everyone sang it back. No drone here: the leader's line gives you the key."
                             },
                             "steps": [
                                 {
                                     "title": { "en": "Wondrous Love" },
-                                    "detail": { "en": "From The Southern Harmony of 1840, printed in shape notes: each note's shape names its syllable" }
+                                    "detail": { "en": "This hymn comes from a later shape-note book, of about 1840" }
                                 },
                                 { "title": { "en": "Line by line" }, "detail": { "en": "Listen, then sing it back" } },
                                 {
@@ -2125,7 +2125,7 @@
                                 "turn": true
                             },
                             "measures": {
-                                "en": "Scored on the notes of both lines, sung with nothing underneath. Next: a whole verse on your own."
+                                "en": "Scored on the notes of both lines, sung with nothing underneath."
                             }
                         }
                     ]
@@ -2271,7 +2271,7 @@
                                 "giveNote": true
                             },
                             "measures": {
-                                "en": "Scored on your intervals, judged in the key you set yourself, and for how well you held that key to the end. Singers on their own often drift: think up on the falling notes. Next: the encore."
+                                "en": "Scored on your intervals, judged in the key you set yourself, and for how well you held that key to the end. Singers on their own often drift: think up on the falling notes."
                             }
                         }
                     ]
