@@ -92,6 +92,18 @@ TONES = {"maj": [0, 4, 7], "min": [0, 3, 7], "dom7": [0, 4, 7, 10], "min7": [0, 
 SCALE = [0, 2, 4, 5, 7, 9, 11]
 
 
+def _fixed(name, changes):
+    """A template's chords with some corrected (beat, root's pitch class, quality), until the template itself is."""
+    data = json.load(open(f"{LIBRARY}/{name}.json"))
+    keep = [c for c in data["chords"] if c["beat"] not in {b for b, _, _ in changes}]
+    return sorted(keep + [{"beat": b, "root": r, "quality": q} for b, r, q in changes], key=lambda c: c["beat"])
+
+
+# The arranger's corrections, waiting on the templates: Red River Valley's D7 came a beat early under
+# "say you are going" (G from beat 3, D7 on "go-" at 5, G on "-ing" at 6).
+CHORD_FIXES = {"red-river-valley": _fixed("red-river-valley", [(3.0, 7, "maj"), (5.0, 2, "dom7"), (6.0, 7, "maj")])}
+
+
 def tune(name, frm=0, to=None):
     """A library tune's melody (steps from its do) and chords (roots from its do), from beat `frm`, re-timed to start at 0."""
     data = json.load(open(f"{LIBRARY}/{name}.json"))
@@ -99,7 +111,8 @@ def tune(name, frm=0, to=None):
     tonic = min(p for p in range(48, 84) if p % 12 == key and p >= min(n["pitch"] for n in data["parts"][0]["guide"]["notes"]) - 11)
     to = to if to is not None else 10 ** 6
     mel = [{"beat": n["beat"] - frm, "length": n["length"], "step": n["pitch"] - tonic, "lyric": n.get("lyric")} for n in data["parts"][0]["guide"]["notes"] if frm <= n["beat"] < to]
-    chords = [{"beat": c["beat"] - frm, "rel": (c["root"] - key) % 12, "quality": c["quality"]} for c in data["chords"]]
+    source = CHORD_FIXES.get(name, data["chords"])
+    chords = [{"beat": c["beat"] - frm, "rel": (c["root"] - key) % 12, "quality": c["quality"]} for c in source]
     before = [c for c in chords if c["beat"] <= 0]
     chords = ([dict(before[-1], beat=0)] if before else []) + [c for c in chords if 0 < c["beat"] < to - frm]
     return mel, chords
