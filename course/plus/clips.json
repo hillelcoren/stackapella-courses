@@ -1,0 +1,295 @@
+{
+    "version": 1,
+    "clips": [
+        {
+            "id": "vibrato.straight",
+            "course": "vibrato",
+            "used": [
+                "vib-1-hear"
+            ],
+            "sing": {
+                "en": "One held \"ah\" on your comfortable note, with no wave at all: light and calm. Dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 0
+            },
+            "seconds": 3,
+            "style": "straight",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "notes": [
+                        {
+                            "beat": 0,
+                            "length": 3,
+                            "step": 0,
+                            "vibrato": {
+                                "cents": 0
+                            }
+                        }
+                    ],
+                    "drone": {
+                        "step": 0
+                    },
+                    "tempo": 60
+                }
+            }
+        },
+        {
+            "id": "vibrato.natural",
+            "course": "vibrato",
+            "used": [
+                "vib-1-hear",
+                "vib-2-echo"
+            ],
+            "sing": {
+                "en": "One held \"ah\" on your comfortable note, with your own easy vibrato. Dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 0
+            },
+            "seconds": 3,
+            "style": "vibrato",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "notes": [
+                        {
+                            "beat": 0,
+                            "length": 3,
+                            "step": 0,
+                            "vibrato": {
+                                "hz": 5.5,
+                                "cents": 35,
+                                "after": 0.3,
+                                "jitter": 0.2
+                            }
+                        }
+                    ],
+                    "drone": {
+                        "step": 0
+                    },
+                    "tempo": 60
+                }
+            }
+        },
+        {
+            "id": "vibrato.wide",
+            "course": "vibrato",
+            "used": [
+                "vib-2-echo"
+            ],
+            "sing": {
+                "en": "One held \"ah\", easy, with a clearly wider vibrato than your natural one. Dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 0
+            },
+            "seconds": 3,
+            "style": "vibrato-wide",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "notes": [
+                        {
+                            "beat": 0,
+                            "length": 3,
+                            "step": 0,
+                            "vibrato": {
+                                "hz": 5.5,
+                                "cents": 60,
+                                "after": 0.3,
+                                "jitter": 0.2
+                            }
+                        }
+                    ],
+                    "drone": {
+                        "step": 0
+                    },
+                    "tempo": 60
+                }
+            }
+        },
+        {
+            "id": "vibrato.wobble",
+            "course": "vibrato",
+            "used": [
+                "vib-1-hear"
+            ],
+            "sing": {
+                "en": "One held \"ah\" with a slow, wide wobble, about three waves a second. Dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 0
+            },
+            "seconds": 3,
+            "style": "wobble",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "notes": [
+                        {
+                            "beat": 0,
+                            "length": 3,
+                            "step": 0,
+                            "vibrato": {
+                                "hz": 3,
+                                "cents": 80,
+                                "after": 0.2
+                            }
+                        }
+                    ],
+                    "drone": {
+                        "step": 0
+                    },
+                    "tempo": 60
+                }
+            }
+        },
+        {
+            "id": "vibrato.bloom",
+            "course": "vibrato",
+            "used": [
+                "vib-1-hear",
+                "vib-4-bloom"
+            ],
+            "sing": {
+                "en": "One held \"ah\": straight for about a second and a half, then let your vibrato in. Dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 0
+            },
+            "seconds": 5,
+            "style": "bloom",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "notes": [
+                        {
+                            "beat": 0,
+                            "length": 5,
+                            "step": 0,
+                            "vibrato": {
+                                "hz": 5.5,
+                                "cents": 30,
+                                "after": 1.5,
+                                "jitter": 0.2
+                            }
+                        }
+                    ],
+                    "drone": {
+                        "step": 0
+                    },
+                    "tempo": 60
+                }
+            }
+        },
+        {
+            "id": "vibrato.straight-high",
+            "course": "vibrato",
+            "used": [
+                "vib-1-hear"
+            ],
+            "sing": {
+                "en": "As the straight clip, a fourth higher. Dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 5
+            },
+            "seconds": 3,
+            "style": "straight",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "notes": [
+                        {
+                            "beat": 0,
+                            "length": 3,
+                            "step": 5,
+                            "vibrato": {
+                                "cents": 0
+                            }
+                        }
+                    ],
+                    "drone": {
+                        "step": 0
+                    },
+                    "tempo": 60
+                }
+            }
+        },
+        {
+            "id": "vibrato.natural-high",
+            "course": "vibrato",
+            "used": [
+                "vib-1-hear"
+            ],
+            "sing": {
+                "en": "As the natural vibrato clip, a fourth higher. Dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 5
+            },
+            "seconds": 3,
+            "style": "vibrato",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "notes": [
+                        {
+                            "beat": 0,
+                            "length": 3,
+                            "step": 5,
+                            "vibrato": {
+                                "hz": 5.5,
+                                "cents": 35,
+                                "after": 0.3,
+                                "jitter": 0.2
+                            }
+                        }
+                    ],
+                    "drone": {
+                        "step": 0
+                    },
+                    "tempo": 60
+                }
+            }
+        },
+        {
+            "id": "vibrato.steered",
+            "course": "vibrato",
+            "used": [
+                "vib-2-echo"
+            ],
+            "sing": {
+                "en": "One held \"ah\" with deliberate, even slurs between two close notes, about three a second. Dry, no reverb, in a quiet room, at a medium volume."
+            },
+            "pitch": {
+                "step": 0
+            },
+            "seconds": 3,
+            "style": "steered",
+            "voices": "any",
+            "fallback": {
+                "guide": {
+                    "notes": [
+                        {
+                            "beat": 0,
+                            "length": 3,
+                            "step": 0,
+                            "vibrato": {
+                                "hz": 3,
+                                "cents": 40,
+                                "after": 0
+                            }
+                        }
+                    ],
+                    "drone": {
+                        "step": 0
+                    },
+                    "tempo": 60
+                }
+            }
+        }
+    ]
+}

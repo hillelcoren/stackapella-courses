@@ -15,7 +15,9 @@ has its own outline, with what every unusual field means, in `docs/courses/<id>.
 
 ```
 web/course/plus/
-  courses.json          the list of courses: id, title, one line, status (live or soon), file
+  courses.json          the list of all 27 courses: id, slug (the site's page), group (skills, styles
+                        or beyond), order in its group, featured, status (live or soon), title, line, file
+  clips.json            clips a real singer records for the lessons (see "Clips" below)
   vibrato/course.json   one course: its units, lessons and steps
   folk/course.json
   pitch/course.json
@@ -85,6 +87,15 @@ Every one is optional; an exercise without them plays exactly as the free course
 | `cents` | a note | Tunes a note off the piano's: `-14` is a pure major third, as barbershop singers tune it. |
 | `listenOnly` | a note | Heard, never sung or scored (an echo's call, or notes to distract you). |
 | `guide: false` | the exercise | A cold start: the notes you sing don't sound first, and show no names until your turn ends. With `droneAfter` (beats), the drone comes in that far into your turn. |
+
+## Clips: recordings a real singer makes
+
+Where the guide voice can't model a sound well enough (a natural vibrato, a twang), a clip in a
+listening round can name a slot, `"clip": "vibrato.natural"`, and still carry its own notes. The slot
+is described in `clips.json`: what to sing, the pitch (in steps from the singer's own comfortable
+note, or a range), how long, the style, and a fallback. Beta singers record the slots from their
+My parts page; once one is accepted, the lesson plays the recording, credited, and until then its
+notes. **A slot's id never changes once it's recorded**: to change what's asked, add a new slot.
 
 ## The rules a change must keep
 

@@ -402,7 +402,8 @@
                                                 ],
                                                 "drone": {
                                                     "step": 0
-                                                }
+                                                },
+                                                "clip": "vibrato.straight"
                                             },
                                             {
                                                 "notes": [
@@ -420,7 +421,8 @@
                                                 ],
                                                 "drone": {
                                                     "step": 0
-                                                }
+                                                },
+                                                "clip": "vibrato.natural"
                                             }
                                         ],
                                         "answer": 0,
@@ -449,7 +451,8 @@
                                                 ],
                                                 "drone": {
                                                     "step": 0
-                                                }
+                                                },
+                                                "clip": "vibrato.natural"
                                             },
                                             {
                                                 "notes": [
@@ -464,7 +467,8 @@
                                                 ],
                                                 "drone": {
                                                     "step": 0
-                                                }
+                                                },
+                                                "clip": "vibrato.straight"
                                             }
                                         ],
                                         "answer": 0,
@@ -482,22 +486,23 @@
                                                     {
                                                         "beat": 0,
                                                         "length": 3,
-                                                        "step": 0,
+                                                        "step": 5,
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
                                                     }
                                                 ],
                                                 "drone": {
-                                                    "step": 0
-                                                }
+                                                    "step": 5
+                                                },
+                                                "clip": "vibrato.straight-high"
                                             },
                                             {
                                                 "notes": [
                                                     {
                                                         "beat": 0,
                                                         "length": 3,
-                                                        "step": 0,
+                                                        "step": 5,
                                                         "vibrato": {
                                                             "hz": 5.5,
                                                             "cents": 20,
@@ -506,7 +511,7 @@
                                                     }
                                                 ],
                                                 "drone": {
-                                                    "step": 0
+                                                    "step": 5
                                                 }
                                             }
                                         ],
@@ -536,7 +541,8 @@
                                                 ],
                                                 "drone": {
                                                     "step": 0
-                                                }
+                                                },
+                                                "clip": "vibrato.natural"
                                             },
                                             {
                                                 "notes": [
@@ -553,7 +559,8 @@
                                                 ],
                                                 "drone": {
                                                     "step": 0
-                                                }
+                                                },
+                                                "clip": "vibrato.wobble"
                                             }
                                         ],
                                         "answer": 1,
@@ -571,7 +578,7 @@
                                                     {
                                                         "beat": 0,
                                                         "length": 3,
-                                                        "step": 0,
+                                                        "step": 5,
                                                         "vibrato": {
                                                             "hz": 3.2,
                                                             "cents": 90,
@@ -580,7 +587,7 @@
                                                     }
                                                 ],
                                                 "drone": {
-                                                    "step": 0
+                                                    "step": 5
                                                 }
                                             },
                                             {
@@ -588,7 +595,7 @@
                                                     {
                                                         "beat": 0,
                                                         "length": 3,
-                                                        "step": 0,
+                                                        "step": 5,
                                                         "vibrato": {
                                                             "hz": 6,
                                                             "cents": 30,
@@ -598,8 +605,9 @@
                                                     }
                                                 ],
                                                 "drone": {
-                                                    "step": 0
-                                                }
+                                                    "step": 5
+                                                },
+                                                "clip": "vibrato.natural-high"
                                             }
                                         ],
                                         "answer": 1,
@@ -628,7 +636,8 @@
                                                 ],
                                                 "drone": {
                                                     "step": 0
-                                                }
+                                                },
+                                                "clip": "vibrato.bloom"
                                             }
                                         ],
                                         "options": [
@@ -1125,7 +1134,8 @@
                                                 ],
                                                 "drone": {
                                                     "step": 0
-                                                }
+                                                },
+                                                "clip": "vibrato.steered"
                                             },
                                             {
                                                 "notes": [
@@ -1191,6 +1201,55 @@
                                         "answer": 1,
                                         "why": {
                                             "en": "B stays on one line."
+                                        }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which vibrato is wider?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 5.5,
+                                                            "cents": 35,
+                                                            "after": 0.3,
+                                                            "jitter": 0.2
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                },
+                                                "clip": "vibrato.natural"
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "hz": 5.5,
+                                                            "cents": 60,
+                                                            "after": 0.3,
+                                                            "jitter": 0.2
+                                                        }
+                                                    }
+                                                ],
+                                                "drone": {
+                                                    "step": 0
+                                                },
+                                                "clip": "vibrato.wide"
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "B swings further either side of the note. Wider isn't better: an easy, even width is the goal."
                                         }
                                     }
                                 ]

@@ -1,6 +1,63 @@
 {
-    "version": 1,
+    "version": 2,
     "courses": [
+        {
+            "id": "pitch",
+            "prefix": "pp",
+            "file": "pitch/course.json",
+            "status": "soon",
+            "colour": 2,
+            "visual": "echo",
+            "minutes": 55,
+            "title": {
+                "en": "Perfect your pitch"
+            },
+            "line": {
+                "en": "Land right on a note, lock it to a drone, hold it while the harmony moves, and find it again from memory."
+            },
+            "slug": "perfect-your-pitch",
+            "group": "skills",
+            "order": 1,
+            "launch": true
+        },
+        {
+            "id": "breath",
+            "prefix": "br",
+            "file": "breath/course.json",
+            "status": "soon",
+            "colour": 4,
+            "visual": "breath",
+            "minutes": 50,
+            "title": {
+                "en": "Breath and stamina"
+            },
+            "line": {
+                "en": "Breathe low and wide, let a note end on purpose while it's still steady, and catch quick breaths without going flat."
+            },
+            "slug": "breath-and-stamina",
+            "group": "skills",
+            "order": 2,
+            "launch": true
+        },
+        {
+            "id": "ear",
+            "prefix": "ear",
+            "file": "ear/course.json",
+            "status": "soon",
+            "colour": 6,
+            "visual": "echo",
+            "minutes": 60,
+            "title": {
+                "en": "Ear training"
+            },
+            "line": {
+                "en": "Hear how far apart two notes are, major from minor and where home is, and sing it back: ears and voice trained together."
+            },
+            "slug": "ear-training",
+            "group": "skills",
+            "order": 3,
+            "launch": true
+        },
         {
             "id": "vibrato",
             "prefix": "vib",
@@ -14,7 +71,102 @@
             },
             "line": {
                 "en": "A steady, easy note first, then a wave that grows by itself, and the choice of when."
-            }
+            },
+            "slug": "vibrato",
+            "group": "skills",
+            "order": 4,
+            "featured": true,
+            "launch": true
+        },
+        {
+            "id": "range-and-registers",
+            "slug": "range-and-registers",
+            "group": "skills",
+            "order": 5,
+            "status": "soon",
+            "title": {
+                "en": "Range and registers"
+            },
+            "line": {
+                "en": "Chest, head voice and the mix, and smooth breaks between them."
+            },
+            "prefix": "range-and-registers",
+            "launch": false
+        },
+        {
+            "id": "sight-singing",
+            "slug": "sight-singing",
+            "group": "skills",
+            "order": 6,
+            "status": "soon",
+            "title": {
+                "en": "Sight-singing"
+            },
+            "line": {
+                "en": "Read a stave and sing it, with do, re, mi."
+            },
+            "prefix": "sight-singing",
+            "launch": false
+        },
+        {
+            "id": "humming-and-lip-trills",
+            "slug": "humming-and-lip-trills",
+            "group": "skills",
+            "order": 7,
+            "status": "soon",
+            "title": {
+                "en": "Humming and lip trills"
+            },
+            "line": {
+                "en": "Gentle hums, buzzes and lip bubbles that warm up the voice."
+            },
+            "prefix": "humming-and-lip-trills",
+            "launch": false
+        },
+        {
+            "id": "belting",
+            "slug": "belting",
+            "group": "skills",
+            "order": 8,
+            "status": "soon",
+            "title": {
+                "en": "Belting, safely"
+            },
+            "line": {
+                "en": "A strong, bright sound without strain."
+            },
+            "prefix": "belting",
+            "launch": false
+        },
+        {
+            "id": "diction",
+            "slug": "diction",
+            "group": "skills",
+            "order": 9,
+            "status": "soon",
+            "title": {
+                "en": "Diction for singers"
+            },
+            "line": {
+                "en": "Pure vowels, and consonants on time."
+            },
+            "prefix": "diction",
+            "launch": false
+        },
+        {
+            "id": "other-languages",
+            "slug": "other-languages",
+            "group": "skills",
+            "order": 10,
+            "status": "soon",
+            "title": {
+                "en": "Singing in another language"
+            },
+            "line": {
+                "en": "A song's sounds and rhythm first, by ear, then the words."
+            },
+            "prefix": "other-languages",
+            "launch": false
         },
         {
             "id": "counterpoint",
@@ -28,7 +180,116 @@
             },
             "line": {
                 "en": "Sing your own line while other voices pull at your ear: drones, rounds, descants and partner songs."
-            }
+            },
+            "slug": "counterpoint",
+            "group": "harmony",
+            "order": 1,
+            "launch": true
+        },
+        {
+            "id": "improvising-harmony",
+            "slug": "improvising-harmony",
+            "group": "harmony",
+            "order": 2,
+            "status": "soon",
+            "title": {
+                "en": "Improvising a harmony"
+            },
+            "line": {
+                "en": "Hear a tune and invent a part above or below it on the spot."
+            },
+            "prefix": "improvising-harmony",
+            "launch": true
+        },
+        {
+            "id": "barbershop",
+            "slug": "barbershop",
+            "group": "harmony",
+            "order": 3,
+            "status": "soon",
+            "title": {
+                "en": "Barbershop and tags"
+            },
+            "line": {
+                "en": "Ringing chords and the classic tags."
+            },
+            "prefix": "barbershop",
+            "launch": true
+        },
+        {
+            "id": "a-cappella-bass",
+            "slug": "a-cappella-bass",
+            "group": "harmony",
+            "order": 4,
+            "status": "soon",
+            "title": {
+                "en": "A cappella bass"
+            },
+            "line": {
+                "en": "Low notes, bass syllables and a steady groove."
+            },
+            "prefix": "a-cappella-bass",
+            "launch": false
+        },
+        {
+            "id": "gospel-runs",
+            "slug": "gospel-runs",
+            "group": "harmony",
+            "order": 5,
+            "status": "soon",
+            "title": {
+                "en": "Gospel and soul runs"
+            },
+            "line": {
+                "en": "Fast, clean runs and bends that stay separate notes."
+            },
+            "prefix": "gospel-runs",
+            "launch": false
+        },
+        {
+            "id": "scat",
+            "slug": "scat",
+            "group": "harmony",
+            "order": 6,
+            "status": "soon",
+            "title": {
+                "en": "Scat singing"
+            },
+            "line": {
+                "en": "Jazz syllables, swing, and short improvised lines."
+            },
+            "prefix": "scat",
+            "launch": false
+        },
+        {
+            "id": "beatboxing",
+            "slug": "beatboxing",
+            "group": "harmony",
+            "order": 7,
+            "status": "soon",
+            "title": {
+                "en": "Beatboxing"
+            },
+            "line": {
+                "en": "A drum kit from lips, tongue and breath."
+            },
+            "prefix": "beatboxing",
+            "launch": false
+        },
+        {
+            "id": "vocal-percussion",
+            "slug": "vocal-percussion",
+            "group": "harmony",
+            "order": 8,
+            "status": "soon",
+            "title": {
+                "en": "Vocal percussion"
+            },
+            "line": {
+                "en": "The group's steady drummer, keeping time."
+            },
+            "prefix": "vocal-percussion",
+            "launch": false
         },
         {
             "id": "folk",
@@ -43,44 +304,131 @@
             },
             "line": {
                 "en": "A plain, storytelling voice over a drone, the old scales that make a tune sound old, and a ballad sung on your own."
-            }
+            },
+            "slug": "folk-and-early-music",
+            "group": "styles",
+            "order": 1,
+            "launch": true
         },
         {
-            "id": "pitch",
-            "prefix": "pp",
-            "file": "pitch/course.json",
+            "id": "yodel",
+            "slug": "yodeling",
+            "group": "styles",
+            "order": 2,
             "status": "soon",
-            "colour": 2,
-            "visual": "echo",
-            "minutes": 55,
             "title": {
-                "en": "Perfect your pitch"
+                "en": "Yodeling"
             },
             "line": {
-                "en": "Land right on a note, lock it to a drone, hold it while the harmony moves, and find it again from memory."
-            }
+                "en": "Quick, clean flips between chest voice and a light high voice."
+            },
+            "prefix": "yodel",
+            "launch": true
         },
         {
-            "id": "ear",
-            "prefix": "ear",
-            "file": "ear/course.json",
+            "id": "pop",
+            "slug": "pop-and-country",
+            "group": "styles",
+            "order": 3,
             "status": "soon",
-            "colour": 6,
-            "visual": "echo",
-            "minutes": 60,
-            "title": { "en": "Ear training" },
-            "line": { "en": "Hear how far apart two notes are, major from minor and where home is, and sing it back: ears and voice trained together." }
+            "title": {
+                "en": "Pop and country styling"
+            },
+            "line": {
+                "en": "Slides, fall-offs and little cries that make a plain tune sound recorded."
+            },
+            "prefix": "pop",
+            "launch": true
         },
         {
-            "id": "breath",
-            "prefix": "br",
-            "file": "breath/course.json",
+            "id": "musical-theatre",
+            "slug": "musical-theatre",
+            "group": "styles",
+            "order": 4,
             "status": "soon",
-            "colour": 4,
-            "visual": "breath",
-            "minutes": 50,
-            "title": { "en": "Breath and stamina" },
-            "line": { "en": "Breathe low and wide, let a note end on purpose while it's still steady, and catch quick breaths without going flat." }
+            "title": {
+                "en": "Musical theatre"
+            },
+            "line": {
+                "en": "Acting a song: talk-like verses, smooth lines and a big finish."
+            },
+            "prefix": "musical-theatre",
+            "launch": false
+        },
+        {
+            "id": "whistling",
+            "slug": "whistling",
+            "group": "styles",
+            "order": 5,
+            "status": "soon",
+            "title": {
+                "en": "Whistling"
+            },
+            "line": {
+                "en": "Clear, in-tune whistled melodies, long notes and even vibrato."
+            },
+            "prefix": "whistling",
+            "launch": false
+        },
+        {
+            "id": "live-looping",
+            "slug": "live-looping",
+            "group": "styles",
+            "order": 6,
+            "status": "soon",
+            "title": {
+                "en": "Live looping"
+            },
+            "line": {
+                "en": "Build a song by stacking parts, layer by layer."
+            },
+            "prefix": "live-looping",
+            "launch": false
+        },
+        {
+            "id": "overtone-singing",
+            "slug": "overtone-singing",
+            "group": "styles",
+            "order": 7,
+            "status": "soon",
+            "title": {
+                "en": "Overtone singing"
+            },
+            "line": {
+                "en": "A low drone with a high, whistling melody floating above it."
+            },
+            "prefix": "overtone-singing",
+            "launch": false
+        },
+        {
+            "id": "character-voices",
+            "slug": "character-voices",
+            "group": "styles",
+            "order": 8,
+            "status": "soon",
+            "title": {
+                "en": "Character voices"
+            },
+            "line": {
+                "en": "Voices for stories and games, from pitch, mouth space and rhythm."
+            },
+            "prefix": "character-voices",
+            "launch": false
+        },
+        {
+            "id": "accents",
+            "slug": "accents",
+            "group": "styles",
+            "order": 9,
+            "status": "soon",
+            "title": {
+                "en": "Accents for performance"
+            },
+            "line": {
+                "en": "The rhythm, melody and key sounds of an accent for a role or a song."
+            },
+            "prefix": "accents",
+            "launch": false
         }
     ]
 }
