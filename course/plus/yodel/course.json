@@ -21,10 +21,16 @@
                             },
                             "steps": [
                                 { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                { "title": { "en": "A light flick" }, "detail": { "en": "Never a crack, never a hard catch: medium volume" } },
-                                { "title": { "en": "Stop if it strains" }, "detail": { "en": "Tightens, tickles or hurts: rest" } }
+                                {
+                                    "title": { "en": "A light flick" },
+                                    "detail": { "en": "Never a crack, never a slam back down: medium volume, land at speaking volume" }
+                                },
+                                {
+                                    "title": { "en": "Stop if it strains" },
+                                    "detail": { "en": "Tightens, tickles or hurts: rest. Hoarse or ill? Not today" }
+                                }
                             ],
-                            "visual": "vibrato",
+                            "visual": "echo",
                             "reviewed": false,
                             "listen": {
                                 "tempo": 60,
@@ -149,13 +155,13 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now on purpose: from just below your flip, jump over it, then back." },
+                            "text": { "en": "Now on purpose: from below your flip, jump over it, then back." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
-                                    { "beat": 0, "length": 2, "step": -3, "lyric": "oo" },
-                                    { "beat": 2, "length": 2, "step": 2, "lyric": "hoo" },
-                                    { "beat": 4, "length": 2, "step": -3, "lyric": "oo" }
+                                    { "beat": 0, "length": 2, "step": -5, "lyric": "oo" },
+                                    { "beat": 2, "length": 2, "step": 2, "lyric": "hoo", "voice": "head" },
+                                    { "beat": 4, "length": 2, "step": -5, "lyric": "oo" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
@@ -169,13 +175,13 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 5, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 7, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 10, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 11, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 11, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 12, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -209,7 +215,7 @@
                                 "tempo": 60,
                                 "notes": [
                                     { "beat": 0, "length": 3, "step": -7, "lyric": "ho" },
-                                    { "beat": 4, "length": 3, "step": 2, "lyric": "hoo" }
+                                    { "beat": 4, "length": 3, "step": 2, "lyric": "hoo", "voice": "head" }
                                 ],
                                 "turn": false,
                                 "base": "flip"
@@ -222,7 +228,7 @@
                                 "tempo": 60,
                                 "notes": [
                                     { "beat": 0, "length": 3, "step": -7, "lyric": "ho" },
-                                    { "beat": 4, "length": 3, "step": 2, "lyric": "hoo" }
+                                    { "beat": 4, "length": 3, "step": 2, "lyric": "hoo", "voice": "head" }
                                 ],
                                 "turn": false,
                                 "base": "flip"
@@ -247,7 +253,7 @@
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
-                                    { "beat": 2, "length": 4, "step": 2, "lyric": "hoo" }
+                                    { "beat": 2, "length": 4, "step": 2, "lyric": "hoo", "voice": "head" }
                                 ],
                                 "turn": false,
                                 "base": "flip",
@@ -260,14 +266,14 @@
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
-                                    { "beat": 2, "length": 6, "step": 2, "lyric": "hoo" }
+                                    { "beat": 2, "length": 6, "step": 2, "lyric": "hoo", "voice": "head" }
                                 ],
                                 "turn": false,
                                 "base": "flip",
                                 "score": "hold"
                             },
                             "measures": {
-                                "en": "Your stars are for steady holds only. Listen back: did the \"hoo\" sound lighter, like a different voice? Next: hear a flip from a slide."
+                                "en": "Your stars are for how steady your last \"hoo\" was. Listen back: did the \"hoo\" sound lighter, like a different voice? Next: hear a flip from a slide."
                             }
                         }
                     ]
@@ -282,7 +288,7 @@
                                 "en": "A yodel flips: the voice jumps straight from one note to the other. A slide passes through every note in between. Your ear can learn the difference."
                             },
                             "steps": [
-                                { "title": { "en": "The flip" }, "detail": { "en": "Straight across, like a hiccup of sound, but light" } },
+                                { "title": { "en": "The flip" }, "detail": { "en": "Straight across: a light flick" } },
                                 { "title": { "en": "The slide" }, "detail": { "en": "A siren between the notes" } },
                                 { "title": { "en": "Listen as often as you like" }, "detail": { "en": "Only your first answer counts" } }
                             ],
@@ -292,7 +298,7 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -312,14 +318,14 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-", "style": "slide" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ]
                                             }
@@ -333,14 +339,14 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-", "style": "slide" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ]
                                             }
@@ -354,14 +360,14 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -10, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -10, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -10, "lyric": "yo-", "style": "slide" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -10, "lyric": "o" }
                                                 ]
                                             }
@@ -375,14 +381,14 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -5, "lyric": "yo-", "style": "slide" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -5, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -5, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -5, "lyric": "o" }
                                                 ]
                                             }
@@ -396,14 +402,14 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-", "style": "slide" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ]
                                             }
@@ -417,14 +423,14 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-", "style": "slide" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ]
                                             }
@@ -457,10 +463,10 @@
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 5, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 7, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -474,10 +480,10 @@
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 5, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 7, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -491,10 +497,10 @@
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 5, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 7, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -504,29 +510,32 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now four in a row, in time." },
+                            "text": { "en": "Now four, in time over the home chord, a breath after the second." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 8, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 9, "length": 1, "step": 2, "lyric": "hee-" },
-                                    { "beat": 10, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 12, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 13, "length": 1, "step": 2, "lyric": "hee-" },
-                                    { "beat": 14, "length": 2, "step": -7, "lyric": "o" }
+                                    { "beat": 9, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 10, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 11, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 13, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 14, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 15, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
-                                "score": "flip"
+                                "score": "flip",
+                                "chords": [
+                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null }
+                                ]
                             },
                             "measures": {
-                                "en": "Your stars are half for clean flips, up and down, half for the notes. Next: open below, narrow above."
+                                "en": "Your stars are half for clean flips, up and down, half for the notes. About five minutes of flips at a time, then rest. Listen back: did the top sound lighter, like a different voice? Next: open below, narrow above."
                             }
                         }
                     ]
@@ -558,10 +567,10 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 5, "length": 1, "step": -7, "lyric": "lo-" },
-                                    { "beat": 6, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 7, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -575,7 +584,7 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -590,7 +599,7 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "lo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -605,23 +614,25 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-", "listenOnly": true },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "listenOnly": true },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "listenOnly": true, "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o", "listenOnly": true },
                                     { "beat": 4, "length": 1, "step": -7, "lyric": "yo-", "listenOnly": true },
-                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-", "listenOnly": true },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-", "listenOnly": true, "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o", "listenOnly": true },
                                     { "beat": 8, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 9, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 9, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 10, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 12, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 13, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 13, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 14, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
                                 "base": "flip",
                                 "score": "flip"
                             },
-                            "measures": { "en": "Your stars are for clean flips and the notes. Next: the way down." }
+                            "measures": {
+                                "en": "Your stars are for clean flips and the notes. Listen back: did the top sound lighter, like a different voice? Next: the way down."
+                            }
                         }
                     ]
                 },
@@ -632,7 +643,7 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "The way down is the flip most singers slam. Land in chest voice lightly, at speaking volume, as if you'd just said \"oh\"."
+                                "en": "The way down is the flip singers often slam. Never slam: land in chest voice lightly, at speaking volume, as if you'd just said \"oh\"."
                             },
                             "steps": [
                                 { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
@@ -644,9 +655,9 @@
                             "listen": {
                                 "tempo": 66,
                                 "notes": [
-                                    { "beat": 0, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 0, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 1, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 4, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 4, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 5, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -659,9 +670,9 @@
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
-                                    { "beat": 0, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 0, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 1, "length": 2, "step": -10, "lyric": "o" },
-                                    { "beat": 4, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 4, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 5, "length": 2, "step": -10, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -675,9 +686,9 @@
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
-                                    { "beat": 0, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 0, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 1, "length": 2, "step": -5, "lyric": "o" },
-                                    { "beat": 4, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 4, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 5, "length": 2, "step": -5, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -691,11 +702,11 @@
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
-                                    { "beat": 0, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 0, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 1, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 4, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 4, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 5, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 8, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 8, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 9, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -703,7 +714,7 @@
                                 "score": "flip"
                             },
                             "measures": {
-                                "en": "Your stars are for the downward flips and the notes. Listen back: did each one land lightly? Next: different leaps."
+                                "en": "Your stars are for the downward flips and the notes. Listen back: did each one land lightly? Listen back: did the top sound lighter, like a different voice? Next: different leaps."
                             }
                         }
                     ]
@@ -728,13 +739,13 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 5, "length": 1, "step": -10, "lyric": "yo-" },
-                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 7, "length": 2, "step": -10, "lyric": "o" },
                                     { "beat": 10, "length": 1, "step": -5, "lyric": "yo-" },
-                                    { "beat": 11, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 11, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 12, "length": 2, "step": -5, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -748,13 +759,13 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 5, "length": 1, "step": -10, "lyric": "yo-" },
-                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 7, "length": 2, "step": -10, "lyric": "o" },
                                     { "beat": 10, "length": 1, "step": -5, "lyric": "yo-" },
-                                    { "beat": 11, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 11, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 12, "length": 2, "step": -5, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -768,7 +779,7 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -783,7 +794,7 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -10, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -10, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -798,14 +809,37 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -5, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -5, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
                                 "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Now all three in a row: a sixth, an octave, a fifth." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 5, "length": 1, "step": -10, "lyric": "yo-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 7, "length": 2, "step": -10, "lyric": "o" },
+                                    { "beat": 10, "length": 1, "step": -5, "lyric": "yo-" },
+                                    { "beat": 11, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 12, "length": 2, "step": -5, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
                             },
-                            "measures": { "en": "Your stars are for the fifth's flips and notes. Next: call across the valley." }
+                            "measures": {
+                                "en": "Your stars are for the flips and notes across all three leaps. Listen back: did the top sound lighter, like a different voice? Next: call across the valley."
+                            }
                         }
                     ]
                 },
@@ -817,7 +851,7 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Herders called across valleys with a yodel, and the valley carried it, so you don't have to: medium volume."
+                                "en": "Herders called across valleys with a yodel, and the valley carried it, so you never need to push: medium volume."
                             },
                             "steps": [
                                 { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
@@ -830,10 +864,10 @@
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -847,12 +881,15 @@
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
-                                "score": "flip"
+                                "score": "flip",
+                                "chords": [
+                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null }
+                                ]
                             }
                         },
                         {
@@ -862,38 +899,46 @@
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
-                                "score": "flip"
+                                "score": "flip",
+                                "chords": [
+                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null }
+                                ]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Three hooks, in time." },
+                            "text": { "en": "Three hooks, in time, a breath after the second." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 8, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 9, "length": 1, "step": 2, "lyric": "hee-" },
-                                    { "beat": 10, "length": 2, "step": -7, "lyric": "o" }
+                                    { "beat": 9, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 10, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 11, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
-                                "score": "flip"
+                                "score": "flip",
+                                "chords": [
+                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null }
+                                ]
                             },
-                            "measures": { "en": "Your stars are for clean flips and the notes across all three hooks. Next: yodeling on the chord." }
+                            "measures": {
+                                "en": "Your stars are for clean flips and the notes across all three hooks. Listen back: did the top sound lighter, like a different voice? Next: yodeling on the chord."
+                            }
                         }
                     ]
                 }
@@ -924,25 +969,25 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 5, "length": 1, "step": 3, "lyric": "hee-" },
+                                    { "beat": 5, "length": 1, "step": 3, "lyric": "hee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 8, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 9, "length": 1, "step": 2, "lyric": "hee-" },
-                                    { "beat": 10, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 12, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 13, "length": 1, "step": 3, "lyric": "hee-" },
-                                    { "beat": 14, "length": 2, "step": -7, "lyric": "o" }
+                                    { "beat": 9, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 10, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 11, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 13, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 14, "length": 1, "step": 3, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 15, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
                                 "base": "flip",
                                 "chords": [
                                     { "beat": 0, "root": -2, "quality": "maj", "bass": null },
                                     { "beat": 4, "root": -7, "quality": "dom7", "bass": null },
-                                    { "beat": 8, "root": -2, "quality": "maj", "bass": null },
-                                    { "beat": 12, "root": -7, "quality": "dom7", "bass": null }
+                                    { "beat": 9, "root": -2, "quality": "maj", "bass": null },
+                                    { "beat": 13, "root": -7, "quality": "dom7", "bass": null }
                                 ]
                             }
                         },
@@ -953,10 +998,10 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 5, "length": 1, "step": 3, "lyric": "hee-" },
+                                    { "beat": 5, "length": 1, "step": 3, "lyric": "hee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -974,10 +1019,10 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -995,17 +1040,17 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 5, "length": 1, "step": 3, "lyric": "hee-" },
+                                    { "beat": 5, "length": 1, "step": 3, "lyric": "hee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 8, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 9, "length": 1, "step": 2, "lyric": "hee-" },
-                                    { "beat": 10, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 12, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 13, "length": 1, "step": 3, "lyric": "hee-" },
-                                    { "beat": 14, "length": 2, "step": -7, "lyric": "o" }
+                                    { "beat": 9, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 10, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 11, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 13, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 14, "length": 1, "step": 3, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 15, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
@@ -1013,11 +1058,13 @@
                                 "chords": [
                                     { "beat": 0, "root": -2, "quality": "maj", "bass": null },
                                     { "beat": 4, "root": -7, "quality": "dom7", "bass": null },
-                                    { "beat": 8, "root": -2, "quality": "maj", "bass": null },
-                                    { "beat": 12, "root": -7, "quality": "dom7", "bass": null }
+                                    { "beat": 9, "root": -2, "quality": "maj", "bass": null },
+                                    { "beat": 13, "root": -7, "quality": "dom7", "bass": null }
                                 ]
                             },
-                            "measures": { "en": "Your stars are for the flips and the notes: did the top move with the chord? Next: a cowboy lope." }
+                            "measures": {
+                                "en": "Your stars are for the flips and the notes: did the top move with the chord? Listen back: did the top sound lighter, like a different voice? Next: a cowboy lope."
+                            }
                         }
                     ]
                 },
@@ -1041,10 +1088,10 @@
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 5.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 5.5, "length": 0.5, "step": 3, "lyric": "hee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -1062,7 +1109,7 @@
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -1076,10 +1123,10 @@
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 5.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 5.5, "length": 0.5, "step": 3, "lyric": "hee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -1098,17 +1145,17 @@
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 5.5, "length": 0.5, "step": 3, "lyric": "hee-" },
+                                    { "beat": 5.5, "length": 0.5, "step": 3, "lyric": "hee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 8, "length": 1.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 9.5, "length": 0.5, "step": 2, "lyric": "hee-" },
-                                    { "beat": 10, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 12, "length": 1.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 13.5, "length": 0.5, "step": 3, "lyric": "hee-" },
-                                    { "beat": 14, "length": 2, "step": -7, "lyric": "o" }
+                                    { "beat": 9, "length": 1.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 10.5, "length": 0.5, "step": 2, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 11, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 13, "length": 1.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 14.5, "length": 0.5, "step": 3, "lyric": "hee-", "voice": "head" },
+                                    { "beat": 15, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
@@ -1116,12 +1163,12 @@
                                 "chords": [
                                     { "beat": 0, "root": -2, "quality": "maj", "bass": null },
                                     { "beat": 4, "root": -7, "quality": "dom7", "bass": null },
-                                    { "beat": 8, "root": -2, "quality": "maj", "bass": null },
-                                    { "beat": 12, "root": -7, "quality": "dom7", "bass": null }
+                                    { "beat": 9, "root": -2, "quality": "maj", "bass": null },
+                                    { "beat": 13, "root": -7, "quality": "dom7", "bass": null }
                                 ]
                             },
                             "measures": {
-                                "en": "Your stars are for the flips and the notes. Listen back: did it sway? Next: hear whether a yodel fits."
+                                "en": "Your stars are for the flips and the notes. Listen back: did it sway? Listen back: did the top sound lighter, like a different voice? Next: hear whether a yodel fits."
                             }
                         }
                     ]
@@ -1154,7 +1201,7 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ],
                                                 "chords": [
@@ -1164,7 +1211,7 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 1, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 1, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ],
                                                 "chords": [
@@ -1181,7 +1228,7 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 4, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ],
                                                 "chords": [
@@ -1191,7 +1238,7 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 3, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 3, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ],
                                                 "chords": [
@@ -1200,7 +1247,7 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "Over this chord the top moves up to fa: B. A stayed on mi and rubbed." }
+                                        "why": { "en": "Over this chord the top moves up to fa: B. A went a half step too far and rubbed." }
                                     },
                                     {
                                         "prompt": { "en": "Which one rubs?" },
@@ -1208,7 +1255,7 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 3, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 3, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ],
                                                 "chords": [
@@ -1218,7 +1265,7 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ],
                                                 "chords": [
@@ -1235,7 +1282,7 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 1, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 1, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ],
                                                 "chords": [
@@ -1245,7 +1292,7 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 3, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 3, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ],
                                                 "chords": [
@@ -1262,7 +1309,7 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -6, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -6, "lyric": "o" }
                                                 ],
                                                 "chords": [
@@ -1272,7 +1319,7 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
                                                 ],
                                                 "chords": [
@@ -1289,10 +1336,10 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                                     { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 5, "length": 1, "step": 3, "lyric": "hee-" },
+                                                    { "beat": 5, "length": 1, "step": 3, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
                                                 ],
                                                 "chords": [
@@ -1303,10 +1350,10 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                                     { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 5, "length": 1, "step": 4, "lyric": "hee-", "voice": "head" },
                                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
                                                 ],
                                                 "chords": [
@@ -1316,7 +1363,7 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A's top moved up to fa when the chord changed. B stayed on mi and rubbed on the second chord." }
+                                        "why": { "en": "A's top moved up to fa when the chord changed. B's went a half step too far and rubbed." }
                                     }
                                 ]
                             },
@@ -1405,10 +1452,10 @@
                                 "tempo": 60,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1, "step": -7, "lyric": "lo-" },
-                                    { "beat": 5, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -1423,10 +1470,10 @@
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
                                     { "beat": 4, "length": 1, "step": -7, "lyric": "lo-" },
-                                    { "beat": 5, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -1434,7 +1481,7 @@
                                 "score": "flip"
                             },
                             "measures": {
-                                "en": "Your stars are for the tag's flips and notes. Sing Find the flip again sometime to hear how far you've come. Next: the roll."
+                                "en": "Your stars are for the tag's flips and notes. Sing \"Find the flip\" again sometime to hear how far you've come. Listen back: did the top sound lighter, like a different voice? Next: the roll."
                             }
                         }
                     ]
@@ -1464,9 +1511,9 @@
                                 "tempo": 60,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "dl-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "dee-", "voice": "head" },
                                     { "beat": 2, "length": 1, "step": -7, "lyric": "ay-" },
-                                    { "beat": 3, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 3, "length": 1, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 4, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -1480,9 +1527,9 @@
                                 "tempo": 60,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "dl-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "dee-", "voice": "head" },
                                     { "beat": 2, "length": 1, "step": -7, "lyric": "ay-" },
-                                    { "beat": 3, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 3, "length": 1, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 4, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -1496,9 +1543,9 @@
                                 "tempo": 60,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "dl-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "dee-", "voice": "head" },
                                     { "beat": 2, "length": 1, "step": -7, "lyric": "ay-" },
-                                    { "beat": 3, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 3, "length": 1, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 4, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -1513,9 +1560,9 @@
                                 "tempo": 60,
                                 "notes": [
                                     { "beat": 0.0, "length": 0.75, "step": -7, "lyric": "yo-" },
-                                    { "beat": 0.75, "length": 0.75, "step": 2, "lyric": "dl-" },
+                                    { "beat": 0.75, "length": 0.75, "step": 2, "lyric": "dee-", "voice": "head" },
                                     { "beat": 1.5, "length": 0.75, "step": -7, "lyric": "ay-" },
-                                    { "beat": 2.25, "length": 0.75, "step": 2, "lyric": "ee-" },
+                                    { "beat": 2.25, "length": 0.75, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 3.0, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -1530,16 +1577,18 @@
                                 "tempo": 60,
                                 "notes": [
                                     { "beat": 0.0, "length": 0.6, "step": -7, "lyric": "yo-" },
-                                    { "beat": 0.6, "length": 0.6, "step": 2, "lyric": "dl-" },
+                                    { "beat": 0.6, "length": 0.6, "step": 2, "lyric": "dee-", "voice": "head" },
                                     { "beat": 1.2, "length": 0.6, "step": -7, "lyric": "ay-" },
-                                    { "beat": 1.8, "length": 0.6, "step": 2, "lyric": "ee-" },
+                                    { "beat": 1.8, "length": 0.6, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 2.4, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
                                 "score": "flip"
                             },
-                            "measures": { "en": "Your stars are for the four flips and the notes. Next: faster." }
+                            "measures": {
+                                "en": "Your stars are for the four flips and the notes. Listen back: did the top sound lighter, like a different voice? Next: faster."
+                            }
                         }
                     ]
                 },
@@ -1563,9 +1612,9 @@
                                 "tempo": 76,
                                 "notes": [
                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "voice": "head" },
                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
-                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -1579,9 +1628,9 @@
                                 "tempo": 60,
                                 "notes": [
                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "voice": "head" },
                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
-                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -1595,9 +1644,9 @@
                                 "tempo": 60,
                                 "notes": [
                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "voice": "head" },
                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
-                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -1612,9 +1661,9 @@
                                 "tempo": 76,
                                 "notes": [
                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "voice": "head" },
                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
-                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -1629,9 +1678,9 @@
                                 "tempo": 92,
                                 "notes": [
                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "voice": "head" },
                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
-                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
@@ -1639,7 +1688,7 @@
                                 "score": "flip"
                             },
                             "measures": {
-                                "en": "Your stars are for the flips at 92. If they smeared, the roll at 76 is still a yodel. Next: hear a clean roll from a smeared one."
+                                "en": "Your stars are for the flips at 92. If they smeared, the roll at 76 is still a yodel. Listen back: did the top sound lighter, like a different voice? Next: hear a clean roll from a smeared one."
                             }
                         }
                     ]
@@ -1664,9 +1713,9 @@
                                 "tempo": 84,
                                 "notes": [
                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "voice": "head" },
                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
-                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": false,
@@ -1686,18 +1735,18 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "voice": "head" },
                                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
-                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-", "style": "slide" },
-                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-", "style": "slide" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "style": "slide", "voice": "head" },
                                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-", "style": "slide" },
-                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "style": "slide" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "style": "slide", "voice": "head" },
                                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             }
@@ -1711,18 +1760,18 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-", "style": "slide" },
-                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-", "style": "slide" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "style": "slide", "voice": "head" },
                                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-", "style": "slide" },
-                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "style": "slide" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "style": "slide", "voice": "head" },
                                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "voice": "head" },
                                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
-                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             }
@@ -1736,18 +1785,18 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.4, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dee-", "voice": "head" },
                                                     { "beat": 0.8, "length": 0.4, "step": -7, "lyric": "ay-" },
-                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-", "voice": "head" },
                                                     { "beat": 1.6, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.4, "step": -7, "lyric": "yo-", "style": "slide" },
-                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dl-", "style": "slide" },
+                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dee-", "style": "slide", "voice": "head" },
                                                     { "beat": 0.8, "length": 0.4, "step": -7, "lyric": "ay-", "style": "slide" },
-                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-", "style": "slide" },
+                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-", "style": "slide", "voice": "head" },
                                                     { "beat": 1.6, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             }
@@ -1761,18 +1810,18 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.4, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dee-", "voice": "head" },
                                                     { "beat": 0.8, "length": 0.4, "step": -7, "lyric": "ay-" },
-                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-", "voice": "head" },
                                                     { "beat": 1.6, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.4, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dl-", "style": "slide" },
+                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dee-", "style": "slide", "voice": "head" },
                                                     { "beat": 0.8, "length": 0.4, "step": -7, "lyric": "ay-" },
-                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-", "style": "slide" },
+                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-", "style": "slide", "voice": "head" },
                                                     { "beat": 1.6, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             }
@@ -1786,18 +1835,18 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-", "style": "slide" },
-                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "voice": "head" },
                                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
-                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "voice": "head" },
                                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
-                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             }
@@ -1811,18 +1860,18 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.4, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dee-", "voice": "head" },
                                                     { "beat": 0.8, "length": 0.4, "step": -7, "lyric": "ay-" },
-                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-", "voice": "head" },
                                                     { "beat": 1.6, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.4, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dee-", "voice": "head" },
                                                     { "beat": 0.8, "length": 0.4, "step": -7, "lyric": "ay-", "style": "slide" },
-                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-", "voice": "head" },
                                                     { "beat": 1.6, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             }
@@ -1836,18 +1885,18 @@
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
-                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "voice": "head" },
                                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-", "style": "slide" },
-                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "style": "slide" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "style": "slide", "voice": "head" },
                                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             },
                                             {
                                                 "notes": [
                                                     { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-", "style": "slide" },
-                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-", "style": "slide" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dee-", "style": "slide", "voice": "head" },
                                                     { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
-                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
                                                     { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
                                                 ]
                                             }
@@ -1868,7 +1917,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A line of Red River Valley sung plainly, then a fast yodel tag: everything in the course in one go." },
+                            "headline": { "en": "A line of Red River Valley sung plainly, then a fast yodel tag: the hook and the roll, after a song." },
                             "steps": [
                                 { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
                                 { "title": { "en": "The line first" }, "detail": { "en": "\"From this valley they say you are going\"" } },
@@ -1943,13 +1992,13 @@
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 4.0, "length": 0.75, "step": -7, "lyric": "yo-" },
-                                    { "beat": 4.75, "length": 0.75, "step": 2, "lyric": "dl-" },
-                                    { "beat": 5.5, "length": 0.75, "step": -7, "lyric": "ay-" },
-                                    { "beat": 6.25, "length": 0.75, "step": 2, "lyric": "ee-" },
-                                    { "beat": 7.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                    { "beat": 5.0, "length": 0.75, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5.75, "length": 0.75, "step": 2, "lyric": "dee-", "voice": "head" },
+                                    { "beat": 6.5, "length": 0.75, "step": -7, "lyric": "ay-" },
+                                    { "beat": 7.25, "length": 0.75, "step": 2, "lyric": "ee-", "voice": "head" },
+                                    { "beat": 8.0, "length": 1.5, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
@@ -1963,19 +2012,21 @@
                                 "tempo": 84,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
-                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "voice": "head" },
                                     { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
-                                    { "beat": 4.0, "length": 0.5, "step": -7, "lyric": "yo-" },
-                                    { "beat": 4.5, "length": 0.5, "step": 2, "lyric": "dl-" },
-                                    { "beat": 5.0, "length": 0.5, "step": -7, "lyric": "ay-" },
-                                    { "beat": 5.5, "length": 0.5, "step": 2, "lyric": "ee-" },
-                                    { "beat": 6.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                    { "beat": 5.0, "length": 0.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5.5, "length": 0.5, "step": 2, "lyric": "dee-", "voice": "head" },
+                                    { "beat": 6.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                    { "beat": 6.5, "length": 0.5, "step": 2, "lyric": "ee-", "voice": "head" },
+                                    { "beat": 7.0, "length": 1.5, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
                                 "base": "flip",
                                 "score": "flip"
                             },
-                            "measures": { "en": "Your stars are for the tag's flips and notes. Sing Find the flip again to hear how far you've come." }
+                            "measures": {
+                                "en": "Your stars are for the tag's flips and notes. Sing \"Find the flip\" again to hear how far you've come. Listen back: did the top sound lighter, like a different voice?"
+                            }
                         }
                     ]
                 }
