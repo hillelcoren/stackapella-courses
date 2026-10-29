@@ -43,7 +43,22 @@
                 "challenge": { "type": "boolean" },
                 "findsHome": { "type": "boolean" },
                 "strictness": { "enum": ["relaxed", "standard", "precise"] },
+                "fact": { "$ref": "#/$defs/fact" },
+                "keepSong": { "type": "object", "description": "The lesson end offers to keep the finale as a song in Sing (steps.json lessonExtras)" },
                 "steps": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/step" } }
+            }
+        },
+        "fact": {
+            "description": "The lesson end's \"Did you know?\" card: one checked fact, told in one course only",
+            "type": "object",
+            "required": ["id", "text", "source"],
+            "additionalProperties": false,
+            "properties": {
+                "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+                "text": { "$ref": "#/$defs/words" },
+                "source": { "$ref": "#/$defs/words" },
+                "url": { "type": "string", "pattern": "^https://" },
+                "distinct": { "type": "array", "items": { "type": "string" }, "description": "Facts in other courses it may share two names or years with" }
             }
         },
         "step": {

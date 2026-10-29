@@ -17,7 +17,11 @@ only, and runs with the web tests (`web/tool/test.sh`). It fails on:
 - a word with an em dash, or one that says "star" or "stars": serious mode hides stars, so a step's line says what it's "Scored on" and a threshold is "the top score";
 - a lesson id used twice anywhere (progress is kept by it);
 - a listening round whose answer isn't one of its options;
-- a clip slot that isn't in `web/course/plus/clips.json`.
+- a clip slot that isn't in `web/course/plus/clips.json`;
+- a lesson's `fact` (the lesson end's "Did you know?" card: `{ id, text, source, url? }`) with a
+  missing part, an id used twice, more than two in a unit, or one that looks like a fact in another
+  course (two names or years in common: tell it in one course, or list the other's id in `distinct`);
+  and a "Did you know?" anywhere else, since a fact belongs in its lesson's `fact`.
 
 It also counts the lessons an app can't play yet: a lesson with a step kind or a field that app marks
 `no` (or `unknown`, until someone checks). `python3 web/tool/course_check.py --apps` lists them with

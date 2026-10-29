@@ -11,7 +11,8 @@
         "why",
         "label",
         "line",
-        "description"
+        "description",
+        "source"
     ],
     "course": [
         "id",
@@ -33,8 +34,33 @@
         "steps",
         "challenge",
         "findsHome",
-        "strictness"
+        "strictness",
+        "fact",
+        "keepSong"
     ],
+    "lessonExtras": {
+        "about": "Lesson fields an app may leave out without breaking the lesson: a lesson that has one still plays, so neither makes it web-only. docs/ux-spec.md says how each is shown.",
+        "fact": {
+            "fields": [
+                "id",
+                "text",
+                "source",
+                "url",
+                "distinct"
+            ],
+            "about": "The lesson end's \"Did you know?\" card: one checked fact, said in one course only. id: a kebab-case name, unique across every course; text and source: words; url: the source's page, a quiet link; distinct: ids of facts in other courses it may share two names or years with, since the check fails on those as one fact told twice. One or two a unit."
+        },
+        "keepSong": {
+            "fields": [
+                "title",
+                "takes",
+                "from",
+                "partners",
+                "chords"
+            ],
+            "about": "The lesson end offers to keep the finale as a song in Sing, on the device. title: words; takes: [{ step, name }], the sung steps (from 0) whose kept takes become tracks; from: the step whose partner lines (with, in order, named by partners: [words]) and chords (named by chords: words, optional) become tracks too."
+        }
+    },
     "kinds": {
         "learn": {
             "web": "yes",

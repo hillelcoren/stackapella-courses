@@ -1,7 +1,8 @@
 """Checks every course file against the course format (course/format/steps.json): the free course
 and each Plus course in course/plus/courses.json. It fails on an unknown step kind or field, a
-word that isn't a { "en": ... } object, a lesson id used twice, or a clip slot missing from
-course/plus/clips.json; and it counts the lessons an app can't play yet (Flutter's "open this
+word that isn't a { "en": ... } object, a lesson id used twice, a clip slot missing from
+course/plus/clips.json, or a lesson's fact (the "Did you know?" card) that's malformed, more than two
+a unit, or told in two courses; and it counts the lessons an app can't play yet (Flutter's "open this
 lesson on the web"). Prints one line; `--apps` lists those lessons. Python's standard library only.
 """
 import json
@@ -12,6 +13,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 FORMAT = json.loads((ROOT / "course" / "format" / "steps.json").read_text())
 STARS = re.compile(r"\bstars?\b", re.IGNORECASE)  # only game mode shows stars (docs/decisions.md)
+KEBAB = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
+# A fact told twice: two facts in different courses sharing two names or years ("Beethoven", "1824").
+NAME = re.compile(r"\b[A-Z][\w'’-]*(?:\s+(?:of\s+|de\s+|the\s+)?[A-Z][\w'’-]*)*")
+YEAR = re.compile(r"\b1[0-9]{3}s?\b|\b20[0-2][0-9]\b")
+COMMON = {"Did", "The", "In", "A", "An", "It", "Its", "This", "Today", "His", "Her", "He", "She", "They", "Their", "When", "By",
+          "At", "On", "Your", "You", "From", "After", "Before", "Since", "About", "Many", "Most", "Some", "One", "Two", "Three",
+          "Four", "Five", "Like", "And", "But", "For", "As", "Not", "With"}
 problems = []
 
 
@@ -35,6 +43,8 @@ def words(where, obj):
                 problem(where, f"'{key}' has an em dash")
             elif STARS.search(json.dumps(value, ensure_ascii=False)) and key in FORMAT["words"]:
                 problem(where, f"'{key}' says stars, which serious mode hides: say what it's scored on")
+            elif "Did you know" in json.dumps(value, ensure_ascii=False) and key in FORMAT["words"]:
+                problem(where, f"'{key}' has a fact: it belongs in the lesson's fact, the lesson end's card")
             if key not in FORMAT["words"]:
                 words(where, value)
     elif isinstance(obj, list):
@@ -79,13 +89,64 @@ def exercise(where, ex, spec, web_only, clip_ids):
         notes(where, ex["model"].get("notes"), set())
 
 
-def course(path, seen, clip_ids, unplayable):
+def is_words(value):
+    return isinstance(value, dict) and isinstance(value.get("en"), str) and bool(value["en"].strip())
+
+
+def fact(where, f, facts, course_name):
+    """A lesson's fact: { id, text, source, url?, distinct? } (steps.json lessonExtras)."""
+    if not isinstance(f, dict):
+        return problem(where, "a fact must be { id, text, source }")
+    known(where + " fact", f, FORMAT["lessonExtras"]["fact"]["fields"])
+    if not KEBAB.match(str(f.get("id", ""))):
+        problem(where, "a fact needs a kebab-case id")
+    elif f["id"] in facts:
+        problem(where, f"fact id '{f['id']}' used twice")
+    for key in ("text", "source"):
+        if not is_words(f.get(key)):
+            problem(where, f"a fact's '{key}' must be {{ \"en\": \"...\" }}")
+    if "url" in f and not str(f["url"]).startswith("https://"):
+        problem(where, "a fact's url must be https")
+    text = f.get("text", {}).get("en", "") if isinstance(f.get("text"), dict) else ""
+    for word in (text, f.get("source", {}).get("en", "") if isinstance(f.get("source"), dict) else ""):
+        if "—" in word:
+            problem(where, "a fact has an em dash")
+        if STARS.search(word):
+            problem(where, "a fact says stars")
+    names = {w for w in NAME.findall(text) if not (len(w.split()) == 1 and w in COMMON)}
+    distinct = f.get("distinct", [])
+    if not (isinstance(distinct, list) and all(isinstance(d, str) for d in distinct)):
+        problem(where, "a fact's distinct is a list of fact ids")
+        distinct = []
+    facts.setdefault(f.get("id"), {"where": where, "course": course_name, "tokens": names | set(YEAR.findall(text)), "distinct": set(distinct)})
+
+
+def keep_song(where, k, steps):
+    """A finale kept as a song: { title, takes: [{ step, name }], from, partners?, chords? }."""
+    known(where + " keepSong", k, FORMAT["lessonExtras"]["keepSong"]["fields"])
+    if not is_words(k.get("title")):
+        problem(where, "keepSong needs a title")
+    sung = [i for i, s in enumerate(steps) if s.get("kind") not in ("learn", "choose", "selfcheck", "home")]
+    for take in k.get("takes", []) if isinstance(k.get("takes"), list) else [None]:
+        if not (isinstance(take, dict) and take.get("step") in sung and is_words(take.get("name"))):
+            problem(where, "keepSong's takes are [{ step, name }], each a sung step")
+    if "from" in k and k["from"] not in sung:
+        problem(where, "keepSong's from must be a sung step")
+    if not all(is_words(p) for p in k.get("partners", [])):
+        problem(where, "keepSong's partners are words")
+    if "chords" in k and not is_words(k["chords"]):
+        problem(where, "keepSong's chords is words")
+
+
+def course(path, seen, clip_ids, unplayable, facts):
     data = json.loads(path.read_text())
     name = path.relative_to(ROOT / "course")
     known(str(name), data, FORMAT["course"])
     lessons = 0
     for unit in data.get("units", []):
         known(f"{name} {unit.get('id')}", unit, FORMAT["unit"])
+        if sum(1 for lesson in unit.get("lessons", []) if "fact" in lesson) > 2:
+            problem(f"{name} {unit.get('id')}", "more than two facts in a unit")
         for lesson in unit.get("lessons", []):
             lessons += 1
             lid = lesson.get("id", "?")
@@ -94,7 +155,11 @@ def course(path, seen, clip_ids, unplayable):
             if lid in seen:
                 problem(where, "lesson id used twice")
             seen.add(lid)
-            words(where, lesson)
+            words(where, {k: v for k, v in lesson.items() if k not in ("fact", "keepSong")})
+            if "fact" in lesson:
+                fact(where, lesson["fact"], facts, str(name))
+            if "keepSong" in lesson:
+                keep_song(where, lesson["keepSong"], lesson.get("steps", []))
             flutter = set()
             for i, step in enumerate(lesson.get("steps", [])):
                 at = f"{where} step {i + 1}"
@@ -117,14 +182,20 @@ def course(path, seen, clip_ids, unplayable):
 
 
 def main():
-    seen, unplayable = set(), {}
+    seen, unplayable, facts = set(), {}, {}
     clips_path = ROOT / "course" / "plus" / "clips.json"
     clip_ids = {c["id"] for c in json.loads(clips_path.read_text())["clips"]} if clips_path.exists() else set()
     files = [ROOT / "course" / "course.json"]
     catalogue = ROOT / "course" / "plus" / "courses.json"
     if catalogue.exists():
         files += [ROOT / "course" / "plus" / c["file"] for c in json.loads(catalogue.read_text())["courses"] if c.get("file")]
-    lessons = sum(course(f, seen, clip_ids, unplayable) for f in files if f.exists())
+    lessons = sum(course(f, seen, clip_ids, unplayable, facts) for f in files if f.exists())
+    told = list(facts.items())
+    for i, (a, fa) in enumerate(told):
+        for b, fb in told[i + 1:]:
+            shared = fa["tokens"] & fb["tokens"]
+            if fa.get("course") != fb.get("course") and len(shared) >= 2 and b not in fa["distinct"] and a not in fb["distinct"]:
+                problem(fb["where"], f"fact '{b}' looks like '{a}' ({fa['where']}), sharing {', '.join(sorted(shared))}: tell it in one course, or list it in distinct")
     for f in files:
         if not f.exists():
             problem(str(f.relative_to(ROOT)), "the catalogue names a file that isn't there")

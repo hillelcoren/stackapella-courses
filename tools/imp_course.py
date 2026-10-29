@@ -669,6 +669,10 @@ for unit in course["units"]:
             if step["kind"] == "choose":
                 step.setdefault("measures", EN("Scored on the rounds you got right first time."))
 
+# Each "Did you know?" goes into its lesson's fact, the lesson end's card (tools/facts.py).
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from facts import move_facts  # noqa: E402
+move_facts(course)
 json.dump(course, open(OUT, "w"))
 if FALLBACKS:
     print("rests where nothing fits:", len(FALLBACKS))
