@@ -222,7 +222,7 @@
             "tempo": "beats a minute",
             "notes": "the notes: see note",
             "turn": "true: hear it, then sing it back; false: sing over the drone or chords",
-            "drone": "{ step }: a held note under it",
+            "drone": "{ step, fadeAfter?, fadeOver? }: a held note under it; with fadeAfter it fades to silence from that many beats after the exercise's start (the listen phase included) over fadeOver beats (4 by default)",
             "chords": "[{ beat, root, quality, bass }]: chords under it, root in semitones from home",
             "score": "how it's starred: hold, or a registered scorer (web/js/lesson-scores.js)",
             "show": "vibrato: describe a held note's vibrato after the take",
@@ -234,6 +234,7 @@
             "guide": "false: no guide notes (a cold start)",
             "droneAfter": "with guide: false, the drone comes in this many beats into your turn",
             "window": "a lazy scoop's time to arrive, in seconds (Pop and country: docs/courses/pop-country.md)",
+            "giveNote": "true: a Give me my note button while you sing your turn (not through a speaker); the note is played quietly, once, and never scored (Folk: docs/courses/folk.md)",
         "rules": "with score species: contrary (three moves in opposite ways) or all (every first-species rule) for three stars (Counterpoint: docs/courses/counterpoint.md 8b)"
         },
         "webOnly": [
@@ -247,6 +248,7 @@
             "guide",
             "droneAfter",
             "window",
+            "giveNote",
             "rules"
         ]
     },
