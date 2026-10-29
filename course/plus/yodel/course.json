@@ -216,6 +216,19 @@
                             }
                         },
                         {
+                            "kind": "try",
+                            "text": { "en": "Find \"ho\" low in chest voice, then \"hoo\" up high, light. Each note waits until you find it." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 3, "step": -7, "lyric": "ho" },
+                                    { "beat": 4, "length": 3, "step": 2, "lyric": "hoo" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
                             "kind": "play",
                             "text": { "en": "Hold \"ho\" in chest voice, easy and low." },
                             "exercise": {
@@ -239,10 +252,189 @@
                                 "turn": false,
                                 "base": "flip",
                                 "score": "hold"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Once more, a little longer, still light: 6 beats of \"hoo\"." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 2, "length": 6, "step": 2, "lyric": "hoo" }
+                                ],
+                                "turn": false,
+                                "base": "flip",
+                                "score": "hold"
                             },
                             "measures": {
                                 "en": "Your stars are for steady holds only. Listen back: did the \"hoo\" sound lighter, like a different voice? Next: hear a flip from a slide."
                             }
+                        }
+                    ]
+                },
+                {
+                    "id": "yodel-1-hear",
+                    "title": { "en": "Flip or slide?" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A yodel flips: the voice jumps straight from one note to the other. A slide passes through every note in between. Your ear can learn the difference."
+                            },
+                            "steps": [
+                                { "title": { "en": "The flip" }, "detail": { "en": "Straight across, like a hiccup of sound, but light" } },
+                                { "title": { "en": "The slide" }, "detail": { "en": "A siren between the notes" } },
+                                { "title": { "en": "Listen as often as you like" }, "detail": { "en": "Only your first answer counts" } }
+                            ],
+                            "visual": "echo",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "choose",
+                            "text": { "en": "Listen to both, then choose." },
+                            "exercise": {
+                                "tempo": 66,
+                                "base": "flip",
+                                "rounds": [
+                                    {
+                                        "prompt": { "en": "Which one flipped?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-", "style": "slide" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "A jumped straight across each way. B slid through the notes between." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one flipped?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-", "style": "slide" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "B went straight across. A glided, like a siren." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one slid?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -10, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -10, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -10, "lyric": "yo-", "style": "slide" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide" },
+                                                    { "beat": 2, "length": 2, "step": -10, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "Over an octave the slide is long and easy to hear: B." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one flipped?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -5, "lyric": "yo-", "style": "slide" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide" },
+                                                    { "beat": 2, "length": 2, "step": -5, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -5, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -5, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "A smaller leap, so a slide is shorter. B still jumped straight across." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one slid only on the way down?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-", "style": "slide" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-", "style": "slide" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "A flipped up, then slid down. The way down is the one singers often smear." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one flipped both ways?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-", "style": "slide" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "B flipped up and down. A slid on the way up." }
+                                    }
+                                ]
+                            },
+                            "measures": { "en": "Your stars are for the rounds you got right first time. Next: four hooks in time." }
                         }
                     ]
                 },
@@ -262,6 +454,23 @@
                             "visual": "echo",
                             "reviewed": false,
                             "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 5, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 7, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "Two hooks at your own pace first." },
+                            "exercise": {
                                 "tempo": 72,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
@@ -446,6 +655,38 @@
                         },
                         {
                             "kind": "play",
+                            "text": { "en": "Over an octave first: \"hee-o\", landing lightly." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 2, "step": -10, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 5, "length": 2, "step": -10, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Over a fifth, the smallest leap: flip down, don't slide." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 1, "length": 2, "step": -5, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 5, "length": 2, "step": -5, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
                             "text": { "en": "Listen, then sing three \"hee-o\"s back, each landing lightly." },
                             "exercise": {
                                 "tempo": 66,
@@ -484,6 +725,26 @@
                             "visual": "ladder",
                             "reviewed": false,
                             "listen": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 5, "length": 1, "step": -10, "lyric": "yo-" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 7, "length": 2, "step": -10, "lyric": "o" },
+                                    { "beat": 10, "length": 1, "step": -5, "lyric": "yo-" },
+                                    { "beat": 11, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 12, "length": 2, "step": -5, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "The three leaps at your own pace first: a sixth, an octave, a fifth." },
+                            "exercise": {
                                 "tempo": 66,
                                 "notes": [
                                     { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
@@ -633,6 +894,1088 @@
                                 "score": "flip"
                             },
                             "measures": { "en": "Your stars are for clean flips and the notes across all three hooks. Next: yodeling on the chord." }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yodel-in-rhythm",
+            "title": { "en": "Yodel in rhythm" },
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "yodel-3-chord",
+                    "title": { "en": "On the chord" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A yodel sounds right when both its notes belong to the chord underneath. As the chord changes, the top note moves with it."
+                            },
+                            "steps": [
+                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "Over the home chord" }, "detail": { "en": "The top lands on mi" } },
+                                { "title": { "en": "Over the next chord" }, "detail": { "en": "It moves up a half step, to fa" } }
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5, "length": 1, "step": 3, "lyric": "hee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 8, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 9, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 10, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 12, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 13, "length": 1, "step": 3, "lyric": "hee-" },
+                                    { "beat": 14, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip",
+                                "chords": [
+                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null },
+                                    { "beat": 4, "root": -7, "quality": "dom7", "bass": null },
+                                    { "beat": 8, "root": -2, "quality": "maj", "bass": null },
+                                    { "beat": 12, "root": -7, "quality": "dom7", "bass": null }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "The hooks at your own pace, over the chords: the top moves up a half step on the second." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5, "length": 1, "step": 3, "lyric": "hee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip",
+                                "chords": [
+                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null },
+                                    { "beat": 4, "root": -7, "quality": "dom7", "bass": null }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Two hooks over the home chord: listen, then sing them back." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip",
+                                "chords": [
+                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Listen, then sing the four hooks back as the chords change." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5, "length": 1, "step": 3, "lyric": "hee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 8, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 9, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 10, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 12, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 13, "length": 1, "step": 3, "lyric": "hee-" },
+                                    { "beat": 14, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip",
+                                "chords": [
+                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null },
+                                    { "beat": 4, "root": -7, "quality": "dom7", "bass": null },
+                                    { "beat": 8, "root": -2, "quality": "maj", "bass": null },
+                                    { "beat": 12, "root": -7, "quality": "dom7", "bass": null }
+                                ]
+                            },
+                            "measures": { "en": "Your stars are for the flips and the notes: did the top move with the chord? Next: a cowboy lope." }
+                        }
+                    ]
+                },
+                {
+                    "id": "yodel-3-lope",
+                    "title": { "en": "A cowboy lope" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Cowboy yodels sway: long, short, long, like a horse's easy lope. The quick top note still flips cleanly."
+                            },
+                            "steps": [
+                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "Long, short, long" }, "detail": { "en": "\"yo-\" held, \"hee\" quick, \"o\" held" } },
+                                { "title": { "en": "Sway, don't push" }, "detail": { "en": "The rhythm does the work" } }
+                            ],
+                            "visual": "echo",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip",
+                                "chords": [
+                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null },
+                                    { "beat": 4, "root": -7, "quality": "dom7", "bass": null }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "The lope at your own pace: long, short, long." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Listen, then sing two lopes back." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip",
+                                "chords": [
+                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null },
+                                    { "beat": 4, "root": -7, "quality": "dom7", "bass": null }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Four in a row, over the chords." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 5.5, "length": 0.5, "step": 3, "lyric": "hee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 8, "length": 1.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 9.5, "length": 0.5, "step": 2, "lyric": "hee-" },
+                                    { "beat": 10, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 12, "length": 1.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 13.5, "length": 0.5, "step": 3, "lyric": "hee-" },
+                                    { "beat": 14, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip",
+                                "chords": [
+                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null },
+                                    { "beat": 4, "root": -7, "quality": "dom7", "bass": null },
+                                    { "beat": 8, "root": -2, "quality": "maj", "bass": null },
+                                    { "beat": 12, "root": -7, "quality": "dom7", "bass": null }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Your stars are for the flips and the notes. Listen back: did it sway? Next: hear whether a yodel fits."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "yodel-3-hear",
+                    "title": { "en": "Which one fits?" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": { "en": "Over a chord, a yodel's top note either belongs or rubs. Hear the difference before you sing it." },
+                            "steps": [
+                                { "title": { "en": "Belongs" }, "detail": { "en": "The top is one of the chord's notes" } },
+                                { "title": { "en": "Rubs" }, "detail": { "en": "One note off, and it clashes" } },
+                                { "title": { "en": "Listen as often as you like" }, "detail": { "en": "Only your first answer counts" } }
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": { "en": "Listen to both, then choose." },
+                            "exercise": {
+                                "tempo": 66,
+                                "base": "flip",
+                                "rounds": [
+                                    {
+                                        "prompt": { "en": "Which one fits the chord?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ],
+                                                "chords": [
+                                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 1, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ],
+                                                "chords": [
+                                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "A's top was mi, a note of the chord. B's was a half step lower and rubbed." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one fits the chord?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ],
+                                                "chords": [
+                                                    { "beat": 0, "root": -7, "quality": "dom7", "bass": null }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 3, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ],
+                                                "chords": [
+                                                    { "beat": 0, "root": -7, "quality": "dom7", "bass": null }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "Over this chord the top moves up to fa: B. A stayed on mi and rubbed." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one rubs?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 3, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ],
+                                                "chords": [
+                                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ],
+                                                "chords": [
+                                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "A's top was fa over the home chord: it wants to fall to mi." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one fits the chord?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 1, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ],
+                                                "chords": [
+                                                    { "beat": 0, "root": -7, "quality": "dom7", "bass": null }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 3, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ],
+                                                "chords": [
+                                                    { "beat": 0, "root": -7, "quality": "dom7", "bass": null }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "B's fa belongs to this chord. A's top was a step off it." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one rubs?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -6, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -6, "lyric": "o" }
+                                                ],
+                                                "chords": [
+                                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" }
+                                                ],
+                                                "chords": [
+                                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "This time the low note was off: A's chest note was a half step above sol." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one fits both chords?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                                    { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 5, "length": 1, "step": 3, "lyric": "hee-" },
+                                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
+                                                ],
+                                                "chords": [
+                                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null },
+                                                    { "beat": 4, "root": -7, "quality": "dom7", "bass": null }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                                    { "beat": 4, "length": 1, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 5, "length": 1, "step": 2, "lyric": "hee-" },
+                                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
+                                                ],
+                                                "chords": [
+                                                    { "beat": 0, "root": -2, "quality": "maj", "bass": null },
+                                                    { "beat": 4, "root": -7, "quality": "dom7", "bass": null }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "A's top moved up to fa when the chord changed. B stayed on mi and rubbed on the second chord." }
+                                    }
+                                ]
+                            },
+                            "measures": { "en": "Your stars are for the rounds you got right first time. Next: a real tune with a yodel tag." }
+                        }
+                    ]
+                },
+                {
+                    "id": "yodel-3-challenge",
+                    "title": { "en": "Home on the Range" },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A cowboy song with a yodel tag: sing the line plainly, then yodel after it, open below and narrow above."
+                            },
+                            "steps": [
+                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "The line first" }, "detail": { "en": "\"And the skies are not cloudy all day\"" } },
+                                { "title": { "en": "Then the tag" }, "detail": { "en": "\"yo-hee-o\", \"lo-ee-o\", with the vowel switch" } }
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": 5, "lyric": "And" },
+                                    { "beat": 0.5, "length": 0.5, "step": 5, "lyric": "the" },
+                                    { "beat": 1, "length": 1.5, "step": 4, "lyric": "skies" },
+                                    { "beat": 2.5, "length": 0.5, "step": 2, "lyric": "are" },
+                                    { "beat": 3, "length": 1, "step": 0, "lyric": "not" },
+                                    { "beat": 4, "length": 1, "step": -1, "lyric": "cloud-" },
+                                    { "beat": 5, "length": 1, "step": 0, "lyric": "y" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "all" },
+                                    { "beat": 7, "length": 3, "step": 0, "lyric": "day." }
+                                ],
+                                "turn": false,
+                                "drone": { "step": 0 }
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "The line at your own pace first." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": 5, "lyric": "And" },
+                                    { "beat": 0.5, "length": 0.5, "step": 5, "lyric": "the" },
+                                    { "beat": 1, "length": 1.5, "step": 4, "lyric": "skies" },
+                                    { "beat": 2.5, "length": 0.5, "step": 2, "lyric": "are" },
+                                    { "beat": 3, "length": 1, "step": 0, "lyric": "not" },
+                                    { "beat": 4, "length": 1, "step": -1, "lyric": "cloud-" },
+                                    { "beat": 5, "length": 1, "step": 0, "lyric": "y" },
+                                    { "beat": 6, "length": 1, "step": 2, "lyric": "all" },
+                                    { "beat": 7, "length": 3, "step": 0, "lyric": "day." }
+                                ],
+                                "turn": false,
+                                "drone": { "step": 0 }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "The line, plainly, over the drone." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 3, "length": 0.5, "step": 5, "lyric": "And" },
+                                    { "beat": 3.5, "length": 0.5, "step": 5, "lyric": "the" },
+                                    { "beat": 4, "length": 1.5, "step": 4, "lyric": "skies" },
+                                    { "beat": 5.5, "length": 0.5, "step": 2, "lyric": "are" },
+                                    { "beat": 6, "length": 1, "step": 0, "lyric": "not" },
+                                    { "beat": 7, "length": 1, "step": -1, "lyric": "cloud-" },
+                                    { "beat": 8, "length": 1, "step": 0, "lyric": "y" },
+                                    { "beat": 9, "length": 1, "step": 2, "lyric": "all" },
+                                    { "beat": 10, "length": 3, "step": 0, "lyric": "day." }
+                                ],
+                                "turn": false,
+                                "drone": { "step": 0 }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "The tag slowly first: listen, then yodel it back." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": -7, "lyric": "lo-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Now the tag: listen, then yodel it back, open below and narrow above." },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4, "length": 1, "step": -7, "lyric": "lo-" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            },
+                            "measures": {
+                                "en": "Your stars are for the tag's flips and notes. Sing Find the flip again sometime to hear how far you've come. Next: the roll."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "yodel-faster",
+            "title": { "en": "Faster" },
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "yodel-4-roll",
+                    "title": { "en": "The roll" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": { "en": "A roll is several flips on one breath: low, high, low, high, low. Four flips at most to a breath." },
+                            "steps": [
+                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "Slowly first" }, "detail": { "en": "Each flip clean before it's quick" } },
+                                { "title": { "en": "Breathe between rolls" }, "detail": { "en": "Never more than four flips a breath" } }
+                            ],
+                            "visual": "ladder",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "dl-" },
+                                    { "beat": 2, "length": 1, "step": -7, "lyric": "ay-" },
+                                    { "beat": 3, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 4, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "The roll at your own pace first: low, high, low, high, low." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "dl-" },
+                                    { "beat": 2, "length": 1, "step": -7, "lyric": "ay-" },
+                                    { "beat": 3, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 4, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Listen, then sing the roll back, slowly." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "dl-" },
+                                    { "beat": 2, "length": 1, "step": -7, "lyric": "ay-" },
+                                    { "beat": 3, "length": 1, "step": 2, "lyric": "ee-" },
+                                    { "beat": 4, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "A little quicker." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0.0, "length": 0.75, "step": -7, "lyric": "yo-" },
+                                    { "beat": 0.75, "length": 0.75, "step": 2, "lyric": "dl-" },
+                                    { "beat": 1.5, "length": 0.75, "step": -7, "lyric": "ay-" },
+                                    { "beat": 2.25, "length": 0.75, "step": 2, "lyric": "ee-" },
+                                    { "beat": 3.0, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Quicker again, every flip still clean." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0.0, "length": 0.6, "step": -7, "lyric": "yo-" },
+                                    { "beat": 0.6, "length": 0.6, "step": 2, "lyric": "dl-" },
+                                    { "beat": 1.2, "length": 0.6, "step": -7, "lyric": "ay-" },
+                                    { "beat": 1.8, "length": 0.6, "step": 2, "lyric": "ee-" },
+                                    { "beat": 2.4, "length": 2, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            },
+                            "measures": { "en": "Your stars are for the four flips and the notes. Next: faster." }
+                        }
+                    ]
+                },
+                {
+                    "id": "yodel-4-ladder",
+                    "title": { "en": "Slow to quicker" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "The same roll at three speeds. Keep every flip clean; if they start to smear, stay at the speed before."
+                            },
+                            "steps": [
+                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "60, then 76, then 92" }, "detail": { "en": "Three rungs" } },
+                                { "title": { "en": "Clean beats quick" }, "detail": { "en": "A smeared fast roll is a slide" } }
+                            ],
+                            "visual": "ladder",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 76,
+                                "notes": [
+                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "The roll at your own pace first." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "The roll at 60: listen, then sing it back." },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "At 76." },
+                            "exercise": {
+                                "tempo": 76,
+                                "notes": [
+                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "At 92. Clean, not rushed." },
+                            "exercise": {
+                                "tempo": 92,
+                                "notes": [
+                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            },
+                            "measures": {
+                                "en": "Your stars are for the flips at 92. If they smeared, the roll at 76 is still a yodel. Next: hear a clean roll from a smeared one."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "yodel-4-hear",
+                    "title": { "en": "Clean or smeared?" },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Fast, a roll either flips cleanly or smears into slides. The clean one sparkles; the smeared one sounds like a siren."
+                            },
+                            "steps": [
+                                { "title": { "en": "Clean" }, "detail": { "en": "Each note distinct, even when quick" } },
+                                { "title": { "en": "Smeared" }, "detail": { "en": "Glides between, no flips" } },
+                                { "title": { "en": "Listen as often as you like" }, "detail": { "en": "Only your first answer counts" } }
+                            ],
+                            "visual": "echo",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 84,
+                                "notes": [
+                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": false,
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "choose",
+                            "text": { "en": "Listen to both, then choose." },
+                            "exercise": {
+                                "tempo": 84,
+                                "base": "flip",
+                                "rounds": [
+                                    {
+                                        "prompt": { "en": "Which roll was clean?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-", "style": "slide" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-", "style": "slide" },
+                                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-", "style": "slide" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "style": "slide" },
+                                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "A's notes stayed distinct. B glided between them." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which roll was clean?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-", "style": "slide" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-", "style": "slide" },
+                                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-", "style": "slide" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "style": "slide" },
+                                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "B flipped every time. A smeared." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which roll smeared?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.4, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.8, "length": 0.4, "step": -7, "lyric": "ay-" },
+                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.6, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.4, "step": -7, "lyric": "yo-", "style": "slide" },
+                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dl-", "style": "slide" },
+                                                    { "beat": 0.8, "length": 0.4, "step": -7, "lyric": "ay-", "style": "slide" },
+                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-", "style": "slide" },
+                                                    { "beat": 1.6, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "Faster still, and B slid: no clean flips." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which roll was clean?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.4, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.8, "length": 0.4, "step": -7, "lyric": "ay-" },
+                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.6, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.4, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dl-", "style": "slide" },
+                                                    { "beat": 0.8, "length": 0.4, "step": -7, "lyric": "ay-" },
+                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-", "style": "slide" },
+                                                    { "beat": 1.6, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "B smeared every other flip. A stayed clean at speed." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which roll smeared?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-", "style": "slide" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "Only A's first flip slid, but that's enough to hear." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which roll smeared?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.4, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.8, "length": 0.4, "step": -7, "lyric": "ay-" },
+                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.6, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.4, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 0.4, "length": 0.4, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 0.8, "length": 0.4, "step": -7, "lyric": "ay-", "style": "slide" },
+                                                    { "beat": 1.2, "length": 0.4, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 1.6, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "One smeared flip in the middle of B's roll." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which roll smeared only at the end?" },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-", "style": "slide" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-", "style": "slide" },
+                                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    { "beat": 0.0, "length": 0.5, "step": -7, "lyric": "yo-", "style": "slide" },
+                                                    { "beat": 0.5, "length": 0.5, "step": 2, "lyric": "dl-", "style": "slide" },
+                                                    { "beat": 1.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                                    { "beat": 1.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                                    { "beat": 2.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "A started clean and smeared as it went: the way tiredness shows." }
+                                    }
+                                ]
+                            },
+                            "measures": { "en": "Your stars are for the rounds you got right first time. Next: a yodeled song." }
+                        }
+                    ]
+                },
+                {
+                    "id": "yodel-4-challenge",
+                    "title": { "en": "Red River Valley, yodeled" },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": { "en": "A line of Red River Valley sung plainly, then a fast yodel tag: everything in the course in one go." },
+                            "steps": [
+                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
+                                { "title": { "en": "The line first" }, "detail": { "en": "\"From this valley they say you are going\"" } },
+                                { "title": { "en": "Then the roll" }, "detail": { "en": "Clean, at the speed you can keep clean" } }
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 76,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": -7, "lyric": "From" },
+                                    { "beat": 0.5, "length": 0.5, "step": -2, "lyric": "this" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "val-" },
+                                    { "beat": 2, "length": 0.5, "step": 2, "lyric": "ley" },
+                                    { "beat": 2.5, "length": 0.5, "step": 0, "lyric": "they" },
+                                    { "beat": 3, "length": 1, "step": -2, "lyric": "say" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "you" },
+                                    { "beat": 4.5, "length": 0.5, "step": -2, "lyric": "are" },
+                                    { "beat": 5, "length": 0.5, "step": -5, "lyric": "go-" },
+                                    { "beat": 5.5, "length": 2.5, "step": -2, "lyric": "ing," }
+                                ],
+                                "turn": false,
+                                "drone": { "step": -2 }
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": { "en": "The line at your own pace first." },
+                            "exercise": {
+                                "tempo": 76,
+                                "notes": [
+                                    { "beat": 0, "length": 0.5, "step": -7, "lyric": "From" },
+                                    { "beat": 0.5, "length": 0.5, "step": -2, "lyric": "this" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "val-" },
+                                    { "beat": 2, "length": 0.5, "step": 2, "lyric": "ley" },
+                                    { "beat": 2.5, "length": 0.5, "step": 0, "lyric": "they" },
+                                    { "beat": 3, "length": 1, "step": -2, "lyric": "say" },
+                                    { "beat": 4, "length": 0.5, "step": 0, "lyric": "you" },
+                                    { "beat": 4.5, "length": 0.5, "step": -2, "lyric": "are" },
+                                    { "beat": 5, "length": 0.5, "step": -5, "lyric": "go-" },
+                                    { "beat": 5.5, "length": 2.5, "step": -2, "lyric": "ing," }
+                                ],
+                                "turn": false,
+                                "drone": { "step": -2 }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "The line, plainly, over the drone." },
+                            "exercise": {
+                                "tempo": 76,
+                                "notes": [
+                                    { "beat": 4, "length": 0.5, "step": -7, "lyric": "From" },
+                                    { "beat": 4.5, "length": 0.5, "step": -2, "lyric": "this" },
+                                    { "beat": 5, "length": 1, "step": 2, "lyric": "val-" },
+                                    { "beat": 6, "length": 0.5, "step": 2, "lyric": "ley" },
+                                    { "beat": 6.5, "length": 0.5, "step": 0, "lyric": "they" },
+                                    { "beat": 7, "length": 1, "step": -2, "lyric": "say" },
+                                    { "beat": 8, "length": 0.5, "step": 0, "lyric": "you" },
+                                    { "beat": 8.5, "length": 0.5, "step": -2, "lyric": "are" },
+                                    { "beat": 9, "length": 0.5, "step": -5, "lyric": "go-" },
+                                    { "beat": 9.5, "length": 2.5, "step": -2, "lyric": "ing," }
+                                ],
+                                "turn": false,
+                                "drone": { "step": -2 }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "The tag slowly first: a hook and a roll." },
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4.0, "length": 0.75, "step": -7, "lyric": "yo-" },
+                                    { "beat": 4.75, "length": 0.75, "step": 2, "lyric": "dl-" },
+                                    { "beat": 5.5, "length": 0.75, "step": -7, "lyric": "ay-" },
+                                    { "beat": 6.25, "length": 0.75, "step": 2, "lyric": "ee-" },
+                                    { "beat": 7.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": { "en": "Now the tag: a hook and a roll. Listen, then yodel it back." },
+                            "exercise": {
+                                "tempo": 84,
+                                "notes": [
+                                    { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
+                                    { "beat": 1, "length": 1, "step": 2, "lyric": "hee-" },
+                                    { "beat": 2, "length": 2, "step": -7, "lyric": "o" },
+                                    { "beat": 4.0, "length": 0.5, "step": -7, "lyric": "yo-" },
+                                    { "beat": 4.5, "length": 0.5, "step": 2, "lyric": "dl-" },
+                                    { "beat": 5.0, "length": 0.5, "step": -7, "lyric": "ay-" },
+                                    { "beat": 5.5, "length": 0.5, "step": 2, "lyric": "ee-" },
+                                    { "beat": 6.0, "length": 1.5, "step": -7, "lyric": "o" }
+                                ],
+                                "turn": true,
+                                "base": "flip",
+                                "score": "flip"
+                            },
+                            "measures": { "en": "Your stars are for the tag's flips and notes. Sing Find the flip again to hear how far you've come." }
                         }
                     ]
                 }
