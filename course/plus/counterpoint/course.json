@@ -616,7 +616,7 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Your stars are for your notes on pitch, the long one too. Could you still hear the tune while you held the floor?"}
+                            "measures": {"en": "Your stars are for your notes on pitch, the long ones too. Could you still hear the tune while you held the floor?"}
                         }
                     ],
                     "strictness": "relaxed"
@@ -2213,7 +2213,7 @@
                                             {"beat": 23, "length": 1, "step": 9, "lyric": "ah,"},
                                             {"beat": 24, "length": 1, "step": 10, "lyric": "ah,"},
                                             {"beat": 25, "length": 1, "step": 9, "lyric": "ah,"},
-                                            {"beat": 26, "length": 1, "step": 10, "lyric": "ah,"},
+                                            {"beat": 26, "length": 1, "step": 7, "lyric": "ah,"},
                                             {"beat": 27, "length": 1, "step": 9, "lyric": "ah,"},
                                             {"beat": 28, "length": 1, "step": 10, "lyric": "ah,"},
                                             {"beat": 29, "length": 2, "step": 5, "lyric": "ah,"},
@@ -2245,9 +2245,7 @@
                                     {"beat": 28, "root": 7, "quality": "min", "bass": null},
                                     {"beat": 29, "root": 5, "quality": "maj", "bass": null},
                                     {"beat": 31, "root": 0, "quality": "maj", "bass": null},
-                                    {"beat": 32.5, "root": 5, "quality": "maj", "bass": null},
-                                    {"beat": 37, "root": 10, "quality": "maj", "bass": null},
-                                    {"beat": 37, "root": 10, "quality": "maj", "bass": null}
+                                    {"beat": 32.5, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             }
                         },
@@ -2271,7 +2269,7 @@
                                     {"beat": 23, "length": 1, "step": 4, "lyric": "ah,"},
                                     {"beat": 24, "length": 1, "step": 5, "lyric": "ah,"},
                                     {"beat": 25, "length": 1, "step": 4, "lyric": "ah,"},
-                                    {"beat": 26, "length": 1, "step": 5, "lyric": "ah,"},
+                                    {"beat": 26, "length": 1, "step": 2, "lyric": "ah,"},
                                     {"beat": 27, "length": 1, "step": 4, "lyric": "ah,"},
                                     {"beat": 28, "length": 1, "step": 5, "lyric": "ah,"},
                                     {"beat": 29, "length": 2, "step": 0, "lyric": "ah,"},
@@ -2334,7 +2332,6 @@
                                     {"beat": 29, "root": 0, "quality": "maj", "bass": null},
                                     {"beat": 31, "root": 7, "quality": "maj", "bass": null},
                                     {"beat": 32.5, "root": 0, "quality": "maj", "bass": null},
-                                    {"beat": 37, "root": 5, "quality": "maj", "bass": null},
                                     {"beat": 37, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             },
@@ -3021,7 +3018,7 @@
                             "steps": [
                                 {"title": {"en": "Every lit note works"}, "detail": {"en": "Thirds, fifths, sixths and octaves"}},
                                 {"title": {"en": "Move against it"}, "detail": {"en": "Opposite ways, as often as you can"}},
-                                {"title": {"en": "A dimmed note"}, "detail": {"en": "Would make parallel fifths or octaves"}}
+                                {"title": {"en": "A dimmed note"}, "detail": {"en": "Parallel or direct fifths or octaves, or an awkward leap"}}
                             ],
                             "listen": {
                                 "tempo": 60,
@@ -3242,6 +3239,7 @@
                 {
                     "id": "cp-5-hold",
                     "title": {"en": "Hold on, then let go"},
+                    "strictness": "standard",
                     "steps": [
                         {
                             "kind": "learn",
@@ -3339,7 +3337,7 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "B leans: the held do rubs over the new chord, then lands on ti. Composers have loved that lean for centuries. Next, you sing it."}
+                                        "why": {"en": "B leans: the held do rubs over the new chord, then lands on ti. A steps down as the chord changes: smooth, but no lean. Composers have loved that lean for centuries."}
                                     }
                                 ]
                             }
@@ -3384,8 +3382,8 @@
                             "kind": "learn",
                             "headline": {"en": "A new cantus, and every note is your choice. Make a line by the rules, then listen to the duet you wrote."},
                             "steps": [
-                                {"title": {"en": "Every note lit"}, "detail": {"en": "Choose as you go"}},
-                                {"title": {"en": "By the rules"}, "detail": {"en": "Half your moves opposite, no parallel fifths or octaves"}},
+                                {"title": {"en": "Nearly every note lit"}, "detail": {"en": "Choose as you go"}},
+                                {"title": {"en": "By the rules"}, "detail": {"en": "Half your moves opposite, no parallel or direct fifths or octaves"}},
                                 {"title": {"en": "The ending"}, "detail": {"en": "Ti to do"}}
                             ],
                             "listen": {
