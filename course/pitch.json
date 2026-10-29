@@ -54,238 +54,84 @@
                                 "tempo": 72,
                                 "notes": [
                                     {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2.5,
+                                        "beat": 1.0,
                                         "length": 1.5,
                                         "step": 0,
                                         "lyric": "dah"
                                     },
                                     {
-                                        "beat": 5,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dah",
-                                        "listenOnly": true
+                                        "beat": 3.0,
+                                        "length": 1.5,
+                                        "step": 0,
+                                        "lyric": "dah"
                                     },
                                     {
-                                        "beat": 6.5,
+                                        "beat": 5.5,
+                                        "length": 1.5,
+                                        "step": 4,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 7.5,
                                         "length": 1.5,
                                         "step": 4,
                                         "lyric": "dah"
                                     }
                                 ],
-                                "turn": false,
-                                "guide": true
+                                "turn": false
                             },
                             "visual": "echo",
                             "reviewed": false
                         },
                         {
-                            "kind": "try",
+                            "kind": "bullseye",
                             "text": {
-                                "en": "Two to warm up. Sing each note back after the guide."
+                                "en": "Two to warm up. Sing each note back after the guide, and watch where it lands."
                             },
                             "exercise": {
                                 "tempo": 72,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2.5,
-                                        "length": 1.5,
-                                        "step": 0,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 5,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 6.5,
-                                        "length": 1.5,
-                                        "step": 2,
-                                        "lyric": "dah"
-                                    }
+                                "echoes": [
+                                    0,
+                                    2
                                 ],
-                                "turn": false,
-                                "guide": false
-                            }
-                        },
-                        {
-                            "kind": "play",
-                            "text": {
-                                "en": "Round 1: listen, then sing each note back on \"dah\". Start right on it."
-                            },
-                            "exercise": {
-                                "tempo": 72,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2.5,
-                                        "length": 1.5,
-                                        "step": 0,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 5,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 6.5,
-                                        "length": 1.5,
-                                        "step": 4,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 9,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 10.5,
-                                        "length": 1.5,
-                                        "step": 2,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 13,
-                                        "length": 1,
-                                        "step": -3,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 14.5,
-                                        "length": 1.5,
-                                        "step": -3,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 17,
-                                        "length": 1,
-                                        "step": 5,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 18.5,
-                                        "length": 1.5,
-                                        "step": 5,
-                                        "lyric": "dah"
-                                    }
-                                ],
-                                "turn": false,
-                                "guide": false,
-                                "score": "landing",
                                 "generous": true
                             }
                         },
                         {
-                            "kind": "play",
+                            "kind": "bullseye",
                             "text": {
-                                "en": "Round 2: listen, then sing each note back on \"dah\". Start right on it."
+                                "en": "Round 1: five notes. Listen, think it, then land on it."
                             },
                             "exercise": {
                                 "tempo": 72,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2.5,
-                                        "length": 1.5,
-                                        "step": 2,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 5,
-                                        "length": 1,
-                                        "step": -2,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 6.5,
-                                        "length": 1.5,
-                                        "step": -2,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 9,
-                                        "length": 1,
-                                        "step": 5,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 10.5,
-                                        "length": 1.5,
-                                        "step": 5,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 13,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 14.5,
-                                        "length": 1.5,
-                                        "step": 0,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 17,
-                                        "length": 1,
-                                        "step": 3,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 18.5,
-                                        "length": 1.5,
-                                        "step": 3,
-                                        "lyric": "dah"
-                                    }
+                                "echoes": [
+                                    0,
+                                    4,
+                                    2,
+                                    -3,
+                                    5
                                 ],
-                                "turn": false,
-                                "guide": false,
-                                "score": "landing",
+                                "generous": true
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Round 2: five more. Closer to the middle this time?"
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    2,
+                                    -2,
+                                    5,
+                                    0,
+                                    3
+                                ],
                                 "generous": true
                             },
                             "measures": {
-                                "en": "Your stars are for where your notes landed: close to the middle, and without sliding in. It counts your second round."
+                                "en": "Your stars are for where your second round's notes landed: close to the middle, and without sliding in."
                             }
                         }
                     ]
@@ -331,170 +177,66 @@
                                 "tempo": 72,
                                 "notes": [
                                     {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2.5,
+                                        "beat": 1.0,
                                         "length": 1.5,
                                         "step": 0,
                                         "lyric": "dah"
                                     },
                                     {
-                                        "beat": 5,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dah",
-                                        "listenOnly": true
+                                        "beat": 3.0,
+                                        "length": 1.5,
+                                        "step": 0,
+                                        "lyric": "dah"
                                     },
                                     {
-                                        "beat": 6.5,
+                                        "beat": 5.5,
+                                        "length": 1.5,
+                                        "step": 4,
+                                        "lyric": "dah"
+                                    },
+                                    {
+                                        "beat": 7.5,
                                         "length": 1.5,
                                         "step": 4,
                                         "lyric": "dah"
                                     }
                                 ],
-                                "turn": false,
-                                "guide": true
+                                "turn": false
                             },
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
-                            "kind": "try",
+                            "kind": "bullseye",
                             "text": {
-                                "en": "First slide up into each note on purpose. Then sing it again, starting right on it."
+                                "en": "Slide up into the first two on purpose, then start the next two right on the note. Watch the trails."
                             },
                             "exercise": {
                                 "tempo": 72,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2.5,
-                                        "length": 1.5,
-                                        "step": 0,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 5,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 6.5,
-                                        "length": 1.5,
-                                        "step": 0,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 9,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 10.5,
-                                        "length": 1.5,
-                                        "step": 4,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 13,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 14.5,
-                                        "length": 1.5,
-                                        "step": 4,
-                                        "lyric": "dah"
-                                    }
-                                ],
-                                "turn": false,
-                                "guide": false
+                                "echoes": [
+                                    0,
+                                    0,
+                                    4,
+                                    4
+                                ]
                             }
                         },
                         {
-                            "kind": "play",
+                            "kind": "bullseye",
                             "text": {
                                 "en": "Four notes, each one clean. Listen, think it, then land on it."
                             },
                             "exercise": {
                                 "tempo": 72,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2.5,
-                                        "length": 1.5,
-                                        "step": 0,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 5,
-                                        "length": 1,
-                                        "step": 3,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 6.5,
-                                        "length": 1.5,
-                                        "step": 3,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 9,
-                                        "length": 1,
-                                        "step": -2,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 10.5,
-                                        "length": 1.5,
-                                        "step": -2,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 13,
-                                        "length": 1,
-                                        "step": 5,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 14.5,
-                                        "length": 1.5,
-                                        "step": 5,
-                                        "lyric": "dah"
-                                    }
-                                ],
-                                "turn": false,
-                                "guide": false,
-                                "score": "landing"
+                                "echoes": [
+                                    0,
+                                    3,
+                                    -2,
+                                    5
+                                ]
                             },
                             "measures": {
-                                "en": "Your stars are for clean starts, close to the middle. A note that slid in counts half."
+                                "en": "Your stars are for where your notes landed: close to the middle, and without sliding in. A note that slid in counts half."
                             }
                         }
                     ]
@@ -540,124 +282,16 @@
                                 "tempo": 72,
                                 "notes": [
                                     {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2,
-                                        "length": 1,
-                                        "step": 7,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 4,
+                                        "beat": 1.0,
                                         "length": 1,
                                         "step": 0,
                                         "lyric": "dah"
                                     },
                                     {
-                                        "beat": 5,
-                                        "length": 1,
-                                        "step": 7,
-                                        "lyric": "dah"
-                                    }
-                                ],
-                                "turn": false,
-                                "guide": true
-                            },
-                            "visual": "ladder",
-                            "reviewed": false
-                        },
-                        {
-                            "kind": "try",
-                            "text": {
-                                "en": "Hear the pair, then two quiet beats: hear it in your head. Then sing it. Did you hear it before you sang?"
-                            },
-                            "exercise": {
-                                "tempo": 72,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2,
-                                        "length": 1,
-                                        "step": 7,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 5,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 6,
-                                        "length": 1,
-                                        "step": 7,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 8,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 9,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 12,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 13,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dah"
-                                    }
-                                ],
-                                "turn": false,
-                                "guide": false
-                            }
-                        },
-                        {
-                            "kind": "play",
-                            "text": {
-                                "en": "Do to so, so to do, do to mi, la (below) to do. Each note short and separate."
-                            },
-                            "exercise": {
-                                "tempo": 72,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2,
+                                        "beat": 2.0,
                                         "length": 1.5,
                                         "step": 7,
-                                        "lyric": "dah",
-                                        "listenOnly": true
+                                        "lyric": "dah"
                                     },
                                     {
                                         "beat": 5.5,
@@ -670,92 +304,62 @@
                                         "length": 1.5,
                                         "step": 7,
                                         "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 9.0,
-                                        "length": 1,
-                                        "step": 7,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 10.0,
-                                        "length": 1.5,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 13.5,
-                                        "length": 1,
-                                        "step": 7,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 14.5,
-                                        "length": 1.5,
-                                        "step": 0,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 17.0,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 18.0,
-                                        "length": 1.5,
-                                        "step": 4,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 21.5,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 22.5,
-                                        "length": 1.5,
-                                        "step": 4,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 25.0,
-                                        "length": 1,
-                                        "step": -3,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 26.0,
-                                        "length": 1.5,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 29.5,
-                                        "length": 1,
-                                        "step": -3,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 30.5,
-                                        "length": 1.5,
-                                        "step": 0,
-                                        "lyric": "dah"
                                     }
                                 ],
-                                "turn": false,
-                                "guide": false,
-                                "score": "landing"
+                                "turn": false
+                            },
+                            "visual": "ladder",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Hear the pair, then two quiet beats: hear it in your head. Then sing it. Did you hear it before you sang?"
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    [
+                                        0,
+                                        7
+                                    ],
+                                    [
+                                        0,
+                                        4
+                                    ]
+                                ],
+                                "think": 2
+                            }
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Do to so, so to do, do to mi, la (below) to do. Each note short and separate."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    [
+                                        0,
+                                        7
+                                    ],
+                                    [
+                                        7,
+                                        0
+                                    ],
+                                    [
+                                        0,
+                                        4
+                                    ],
+                                    [
+                                        -3,
+                                        0
+                                    ]
+                                ],
+                                "think": 2
                             },
                             "measures": {
-                                "en": "Your stars are for landing each note of the leaps cleanly, close to the middle."
+                                "en": "Your stars are for landing each note of the leaps, close to the middle, without sliding in."
                             }
                         }
                     ]
@@ -802,32 +406,28 @@
                                 "tempo": 66,
                                 "notes": [
                                     {
-                                        "beat": 1,
+                                        "beat": 1.0,
                                         "length": 1,
                                         "step": 4,
-                                        "lyric": "dong",
-                                        "listenOnly": true
+                                        "lyric": "dong"
                                     },
                                     {
-                                        "beat": 2,
+                                        "beat": 2.0,
                                         "length": 1,
                                         "step": 2,
-                                        "lyric": "dong",
-                                        "listenOnly": true
+                                        "lyric": "dong"
                                     },
                                     {
-                                        "beat": 3,
+                                        "beat": 3.0,
                                         "length": 1,
                                         "step": 0,
-                                        "lyric": "dong",
-                                        "listenOnly": true
+                                        "lyric": "dong"
                                     },
                                     {
-                                        "beat": 4,
+                                        "beat": 4.0,
                                         "length": 2.5,
                                         "step": -5,
-                                        "lyric": "dong",
-                                        "listenOnly": true
+                                        "lyric": "dong"
                                     },
                                     {
                                         "beat": 7.5,
@@ -855,7 +455,6 @@
                                     }
                                 ],
                                 "turn": false,
-                                "guide": true,
                                 "drone": {
                                     "step": 0
                                 }
@@ -864,378 +463,67 @@
                             "reviewed": false
                         },
                         {
-                            "kind": "play",
+                            "kind": "bullseye",
                             "text": {
                                 "en": "Your Bullseye round first: five notes, to see how far you've come."
                             },
                             "exercise": {
                                 "tempo": 72,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2.5,
-                                        "length": 1.5,
-                                        "step": 0,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 5,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 6.5,
-                                        "length": 1.5,
-                                        "step": 4,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 9,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 10.5,
-                                        "length": 1.5,
-                                        "step": 2,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 13,
-                                        "length": 1,
-                                        "step": -3,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 14.5,
-                                        "length": 1.5,
-                                        "step": -3,
-                                        "lyric": "dah"
-                                    },
-                                    {
-                                        "beat": 17,
-                                        "length": 1,
-                                        "step": 5,
-                                        "lyric": "dah",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 18.5,
-                                        "length": 1.5,
-                                        "step": 5,
-                                        "lyric": "dah"
-                                    }
-                                ],
-                                "turn": false,
-                                "guide": false,
-                                "score": "landing"
+                                "echoes": [
+                                    0,
+                                    4,
+                                    2,
+                                    -3,
+                                    5
+                                ]
                             }
                         },
                         {
-                            "kind": "try",
+                            "kind": "bullseye",
                             "text": {
-                                "en": "The first chime. Listen, then sing it back."
+                                "en": "All four chimes, on \"dong\". After each one, it's your turn."
                             },
                             "exercise": {
                                 "tempo": 66,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 3,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 4,
-                                        "length": 2.5,
-                                        "step": -5,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 7.5,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 8.5,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 9.5,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 10.5,
-                                        "length": 2.5,
-                                        "step": -5,
-                                        "lyric": "dong"
-                                    }
+                                "echoes": [
+                                    [
+                                        4,
+                                        2,
+                                        0,
+                                        -5
+                                    ],
+                                    [
+                                        0,
+                                        4,
+                                        2,
+                                        -5
+                                    ],
+                                    [
+                                        0,
+                                        2,
+                                        4,
+                                        0
+                                    ],
+                                    [
+                                        4,
+                                        0,
+                                        2,
+                                        -5
+                                    ]
                                 ],
-                                "turn": false,
-                                "guide": false,
+                                "lengths": [
+                                    1,
+                                    1,
+                                    1,
+                                    2.5
+                                ],
+                                "think": 1,
                                 "drone": {
                                     "step": 0
                                 }
-                            }
-                        },
-                        {
-                            "kind": "play",
-                            "text": {
-                                "en": "All four chimes. After each one, it's your turn."
-                            },
-                            "exercise": {
-                                "tempo": 66,
-                                "notes": [
-                                    {
-                                        "beat": 1,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 2,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 3,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 4,
-                                        "length": 2.5,
-                                        "step": -5,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 7.5,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 8.5,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 9.5,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 10.5,
-                                        "length": 2.5,
-                                        "step": -5,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 14.0,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 15.0,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 16.0,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 17.0,
-                                        "length": 2.5,
-                                        "step": -5,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 20.5,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 21.5,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 22.5,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 23.5,
-                                        "length": 2.5,
-                                        "step": -5,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 27.0,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 28.0,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 29.0,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 30.0,
-                                        "length": 2.5,
-                                        "step": 0,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 33.5,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 34.5,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 35.5,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 36.5,
-                                        "length": 2.5,
-                                        "step": 0,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 40.0,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 41.0,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 42.0,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 43.0,
-                                        "length": 2.5,
-                                        "step": -5,
-                                        "lyric": "dong",
-                                        "listenOnly": true
-                                    },
-                                    {
-                                        "beat": 46.5,
-                                        "length": 1,
-                                        "step": 4,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 47.5,
-                                        "length": 1,
-                                        "step": 0,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 48.5,
-                                        "length": 1,
-                                        "step": 2,
-                                        "lyric": "dong"
-                                    },
-                                    {
-                                        "beat": 49.5,
-                                        "length": 2.5,
-                                        "step": -5,
-                                        "lyric": "dong"
-                                    }
-                                ],
-                                "turn": false,
-                                "guide": false,
-                                "drone": {
-                                    "step": 0
-                                },
-                                "score": "landing"
                             },
                             "measures": {
-                                "en": "Your stars are for landing all sixteen notes cleanly, close to the middle. A note that slid in counts half."
+                                "en": "Your stars are for landing all sixteen notes, close to the middle. A note that slid in counts half, so one scoop costs a little, never a star."
                             }
                         }
                     ]
