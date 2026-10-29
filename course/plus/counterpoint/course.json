@@ -152,7 +152,7 @@
                                 "generous": true,
                                 "with": [{"delay": 12, "steps": 12}, {"delay": 24}, {"delay": 36, "steps": -12}]
                             },
-                            "measures": {"en": "Scored on your notes on pitch. By the end of the course you'll write your own line against a melody. Did you know? Row, Row, Row Your Boat was in print by 1852, though its early tune differs from today's."}
+                            "measures": {"en": "Scored on your notes on pitch. Did you know? Row, Row, Row Your Boat was in print by 1852, though its early tune differs from today's."}
                         }
                     ]
                 },
@@ -302,7 +302,7 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the questions you answered right the first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time."}
                         }
                     ],
                     "strictness": "relaxed"
@@ -439,10 +439,10 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A pattern sung over and over is an ostinato, Italian for \"stubborn\". Once you know it, it keeps itself going."},
+                            "headline": {"en": "A pattern sung over and over is an ostinato. Once you know it, it keeps itself going."},
                             "steps": [
                                 {"title": {"en": "Four notes"}, "detail": {"en": "Do ti do la: a darker colour you'll meet properly in unit 2"}},
-                                {"title": {"en": "Did you know?"}, "detail": {"en": "Choir singers' heart rates have been measured rising and falling together, most of all on a slow, repeating chant"}},
+                                {"title": {"en": "Over and over"}, "detail": {"en": "Eight times through"}},
                                 {"title": {"en": "A line falls above it"}, "detail": {"en": "Let it pass; keep your pattern"}}
                             ],
                             "listen": {
@@ -796,7 +796,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "This tune in minor: its mi and la a half step lower, and it sounds darker."},
+                            "headline": {"en": "This tune in minor: its mi and la a half step lower (the smallest step on a piano), and it sounds darker."},
                             "steps": [
                                 {"title": {"en": "Listen to the minor tune"}, "detail": {"en": "The same shape, a darker colour"}},
                                 {"title": {"en": "You're the third voice"}, "detail": {"en": "Two are singing before you come in"}},
@@ -1364,10 +1364,11 @@
                                         ],
                                         "options": [{"en": "Two"}, {"en": "Three"}, {"en": "Four"}],
                                         "answer": 2,
-                                        "why": {"en": "Four: with entries two bars apart, every seat is filled. The oldest known round, Sumer is icumen in (about 1250), has four voices over two more. Next, you're one of them."}
+                                        "why": {"en": "Four: with entries two bars apart, every seat is filled. The oldest known round, Sumer is icumen in (about 1250), has four voices over two more."}
                                     }
                                 ]
-                            }
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
                         },
                         {
                             "kind": "play",
@@ -2455,7 +2456,8 @@
                                         "why": {"en": "Fa over do, a fourth: in this style it rubs, and steps down to mi."}
                                     }
                                 ]
-                            }
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
                         },
                         {
                             "kind": "try",
@@ -2619,7 +2621,7 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "A moves in fifths: the two voices fuse into one hollow sound, like medieval organum, first written down in the late 800s. B's thirds keep them two."}
+                                        "why": {"en": "A moves in fifths: the two voices fuse into one hollow sound, B's thirds keep them two."}
                                     },
                                     {
                                         "prompt": {"en": "Which one moves in fifths?"},
@@ -2653,7 +2655,8 @@
                                         "why": {"en": "B moves in fifths and sounds bare. A moves in sixths, sweet and full. That's why counterpoint avoids parallel fifths."}
                                     }
                                 ]
-                            }
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
                         },
                         {
                             "kind": "play",
@@ -2697,11 +2700,11 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "In 1725 Johann Joseph Fux taught counterpoint in steps he called species. The first is note against note: start and end on a perfect interval (here an octave), sing only smooth intervals, move mostly by step, prefer opposite ways."},
+                            "headline": {"en": "In 1725 Johann Joseph Fux taught counterpoint in steps he called species. The first is note against note: one of your notes to each note of a cantus, a slow, fixed tune."},
                             "steps": [
-                                {"title": {"en": "The cantus"}, "detail": {"en": "A slow tune, an octave below you"}},
-                                {"title": {"en": "Your line"}, "detail": {"en": "One note to each of its notes"}},
-                                {"title": {"en": "Haydn, Beethoven, probably Mozart"}, "detail": {"en": "All studied Fux's book"}}
+                                {"title": {"en": "Begin and end on a perfect interval"}, "detail": {"en": "Here an octave"}},
+                                {"title": {"en": "Only smooth intervals"}, "detail": {"en": "Thirds, fifths, sixths and octaves"}},
+                                {"title": {"en": "Mostly by step, against the cantus"}, "detail": {"en": "Opposite ways as often as you can"}}
                             ],
                             "listen": {
                                 "tempo": 60,
@@ -3018,7 +3021,7 @@
                             "steps": [
                                 {"title": {"en": "Every lit note works"}, "detail": {"en": "Thirds, fifths, sixths and octaves"}},
                                 {"title": {"en": "Move against it"}, "detail": {"en": "Opposite ways, as often as you can"}},
-                                {"title": {"en": "A dimmed note"}, "detail": {"en": "Parallel or direct fifths or octaves, or an awkward leap"}}
+                                {"title": {"en": "A dimmed note"}, "detail": {"en": "It would make parallel or direct fifths (both voices moving the same way into a fifth or octave), or an awkward leap"}}
                             ],
                             "listen": {
                                 "tempo": 60,
@@ -3232,7 +3235,7 @@
                                 "score": "species",
                                 "rules": "contrary"
                             },
-                            "measures": {"en": "Landing on a lit note is the easy part: it's what's scored, and the top score needs at least three moves in opposite ways. Read your line's checklist above."}
+                            "measures": {"en": "Scored on landing on lit notes; the top score needs at least three moves in opposite ways."}
                         }
                     ]
                 },
@@ -3340,7 +3343,8 @@
                                         "why": {"en": "B leans: the held do rubs over the new chord, then lands on ti. A steps down as the chord changes: smooth, but no lean. Composers have loved that lean for centuries."}
                                     }
                                 ]
-                            }
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
                         },
                         {
                             "kind": "play",
@@ -3503,7 +3507,7 @@
                                 "score": "species",
                                 "rules": "all"
                             },
-                            "measures": {"en": "The top score needs nearly every note on a lit pitch and every rule: half your moves opposite ways, no parallel or direct fifths or octaves, and ti to do at the end. Lesson 1, you sang a round. Today you wrote a line."}
+                            "measures": {"en": "Scored on landing on lit notes; the top score needs nearly every note lit and every rule: half your moves opposite ways, no parallel or direct fifths or octaves, and ti to do at the end."}
                         }
                     ]
                 }

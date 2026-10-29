@@ -16,7 +16,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The simplest harmony: sing the tune's next chord tone up. Mostly that's a third; over so, when the chord is do, it's a fourth, because the third would rub."},
+                            "headline": {"en": "The simplest harmony: sing two scale notes above the tune, a third. Where that clashes with the chord, go one note higher."},
                             "steps": [
                                 {"title": {"en": "Hear it first"}, "detail": {"en": "One line, the tune and the part above together"}},
                                 {"title": {"en": "Above a loud tune, go lighter"}, "detail": {"en": "Never louder; stop if anything tightens or hurts"}},
@@ -67,44 +67,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hold the harmony on the long notes while the tune moves. Hear the chord ring."},
-                            "exercise": {
-                                "tempo": 92,
-                                "notes": [
-                                    {"beat": 6.0, "length": 1.5, "step": 5, "lyric": "row"},
-                                    {"beat": 10.0, "length": 2.0, "step": 5, "lyric": "shore,"},
-                                    {"beat": 14.0, "length": 4.0, "step": 5, "lyric": "lu-"},
-                                    {"beat": 18.0, "length": 2.0, "step": 5, "lyric": "jah!"}
-                                ],
-                                "turn": false,
-                                "with": [
-                                    {
-                                        "notes": [
-                                            {"beat": 4.0, "length": 1.0, "step": -7, "lyric": "Mi-"},
-                                            {"beat": 5.0, "length": 1.0, "step": -3, "lyric": "chael,"},
-                                            {"beat": 6.0, "length": 1.5, "step": 0, "lyric": "row"},
-                                            {"beat": 7.5, "length": 0.5, "step": -3, "lyric": "the"},
-                                            {"beat": 8.0, "length": 1.0, "step": 0, "lyric": "boat"},
-                                            {"beat": 9.0, "length": 1.0, "step": 2, "lyric": "a-"},
-                                            {"beat": 10.0, "length": 2.0, "step": 0, "lyric": "shore,"},
-                                            {"beat": 12.0, "length": 1.0, "step": -3, "lyric": "Hal-"},
-                                            {"beat": 13.0, "length": 1.0, "step": 0, "lyric": "le-"},
-                                            {"beat": 14.0, "length": 4.0, "step": 2, "lyric": "lu-"},
-                                            {"beat": 18.0, "length": 2.0, "step": 0, "lyric": "jah!"}
-                                        ]
-                                    }
-                                ],
-                                "chords": [
-                                    {"beat": 4.0, "root": 5, "quality": "maj", "bass": null},
-                                    {"beat": 6.0, "root": 5, "quality": "maj", "bass": null},
-                                    {"beat": 14.0, "root": 10, "quality": "maj", "bass": null},
-                                    {"beat": 18.0, "root": 5, "quality": "maj", "bass": null}
-                                ]
-                            }
-                        },
-                        {
-                            "kind": "play",
-                            "text": {"en": "Now sing the tune itself, once through, so it's yours."},
+                            "text": {"en": "First sing the tune itself, once through, so it's yours."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -143,6 +106,43 @@
                                     {"beat": 28.0, "root": 5, "quality": "maj", "bass": null},
                                     {"beat": 32.0, "root": 0, "quality": "dom7", "bass": null},
                                     {"beat": 34.0, "root": 5, "quality": "maj", "bass": null}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now hold the harmony on the long notes while the tune moves. Hear the chord ring."},
+                            "exercise": {
+                                "tempo": 92,
+                                "notes": [
+                                    {"beat": 6.0, "length": 1.5, "step": 5, "lyric": "row"},
+                                    {"beat": 10.0, "length": 2.0, "step": 5, "lyric": "shore,"},
+                                    {"beat": 14.0, "length": 4.0, "step": 5, "lyric": "lu-"},
+                                    {"beat": 18.0, "length": 2.0, "step": 5, "lyric": "jah!"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4.0, "length": 1.0, "step": -7, "lyric": "Mi-"},
+                                            {"beat": 5.0, "length": 1.0, "step": -3, "lyric": "chael,"},
+                                            {"beat": 6.0, "length": 1.5, "step": 0, "lyric": "row"},
+                                            {"beat": 7.5, "length": 0.5, "step": -3, "lyric": "the"},
+                                            {"beat": 8.0, "length": 1.0, "step": 0, "lyric": "boat"},
+                                            {"beat": 9.0, "length": 1.0, "step": 2, "lyric": "a-"},
+                                            {"beat": 10.0, "length": 2.0, "step": 0, "lyric": "shore,"},
+                                            {"beat": 12.0, "length": 1.0, "step": -3, "lyric": "Hal-"},
+                                            {"beat": 13.0, "length": 1.0, "step": 0, "lyric": "le-"},
+                                            {"beat": 14.0, "length": 4.0, "step": 2, "lyric": "lu-"},
+                                            {"beat": 18.0, "length": 2.0, "step": 0, "lyric": "jah!"}
+                                        ]
+                                    }
+                                ],
+                                "chords": [
+                                    {"beat": 4.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 6.0, "root": 5, "quality": "maj", "bass": null},
+                                    {"beat": 14.0, "root": 10, "quality": "maj", "bass": null},
+                                    {"beat": 18.0, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             }
                         },
@@ -219,7 +219,7 @@
                                     {"beat": 34.0, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your harmony's notes on pitch. The part was parallel thirds, with a fourth wherever the third would rub. Did you know? Medieval English singers called two voices moving mostly in thirds \"gymel\", from the Latin for twin."}
+                            "measures": {"en": "Scored on your harmony's notes on pitch. Did you know? Medieval English singers called two voices moving mostly in thirds \"gymel\", from the Latin for twin."}
                         }
                     ]
                 },
@@ -286,7 +286,7 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "A, do to mi, is a major third, in the key. B's note is a half step low: it clashes with the chord."}
+                                        "why": {"en": "A, do to mi, is a major third, in the key. B's note is a half step (the smallest step on a piano) low: it clashes with the chord."}
                                     },
                                     {
                                         "prompt": {"en": "Over re, which third fits the key?"},
@@ -334,7 +334,8 @@
                                         "why": {"en": "B, fa to la, a major third. The key decides: you just follow the scale."}
                                     }
                                 ]
-                            }
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
                         },
                         {
                             "kind": "play",
@@ -378,7 +379,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Over so, the third above is ti, and ti rubs against the chord of do. So the part goes up a fourth, to do."},
+                            "headline": {"en": "Hear why the part goes one note higher over so: with the chord of do under it, the third above so (ti) rubs, and do rings."},
                             "steps": [
                                 {"title": {"en": "Over so"}, "detail": {"en": "Not ti, but do"}},
                                 {"title": {"en": "A fourth, not a third"}, "detail": {"en": "The next note in the chord"}},
@@ -424,7 +425,8 @@
                                         "why": {"en": "B's ti rubs again. Over so, take do: a fourth up, in the chord."}
                                     }
                                 ]
-                            }
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
                         },
                         {
                             "kind": "play",
@@ -681,7 +683,8 @@
                                         "why": {"en": "A copied, an octave down: the same notes, so it adds no chords. B sang its own part below."}
                                     }
                                 ]
-                            }
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
                         },
                         {
                             "kind": "play",
@@ -1664,7 +1667,8 @@
                                         "why": {"en": "Do over the chord of so: not in it, and it wants to step down to ti."}
                                     }
                                 ]
-                            }
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
                         },
                         {
                             "kind": "play",
@@ -1992,7 +1996,7 @@
                                 "score": "species",
                                 "rules": "close"
                             },
-                            "measures": {"en": "The top score needs four moves in five to be a step or a third, and some real moving: not one held note."}
+                            "measures": {"en": "Scored on landing on lit notes; the top score needs four moves in five to be a step or a third, and some real moving: not one held note."}
                         },
                         {
                             "kind": "play",
@@ -2207,7 +2211,7 @@
                                 "score": "species",
                                 "rules": "against"
                             },
-                            "measures": {"en": "The top score needs half your moves, of the ones that move, against the tune."}
+                            "measures": {"en": "Scored on landing on lit notes; the top score needs half your moves, of the ones that move, against the tune."}
                         }
                     ]
                 },
@@ -2691,7 +2695,8 @@
                                         "why": {"en": "Re over the chord of fa: a step from do, and it rubs."}
                                     }
                                 ]
-                            }
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
                         },
                         {
                             "kind": "play",
@@ -3235,7 +3240,7 @@
                             "headline": {"en": "The tenor, a part above the lead, is part of bluegrass's high lonesome sound. Light and easy, never the pressed edge."},
                             "steps": [
                                 {"title": {"en": "Above the tune"}, "detail": {"en": "Every lit note is higher than the tune's"}},
-                                {"title": {"en": "Simple Gifts"}, "detail": {"en": "A Shaker song from 1848, famous since Copland's Appalachian Spring in 1944"}},
+                                {"title": {"en": "Hear it first"}, "detail": {"en": "Simple Gifts, then lights off"}},
                                 {"title": {"en": "Light and easy"}, "detail": {"en": "Never pushed; stop if anything tightens"}}
                             ],
                             "listen": {

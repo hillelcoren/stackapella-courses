@@ -80,7 +80,7 @@ def cp_1_round():
             {"kind": "try", "text": EN("The quick half, \"merrily\" to \"dream\", at your own pace."), "exercise": tryit},
             {"kind": "play", "text": EN("After a bar of the drone, sing it twice through. Keep your own line while the voices come in."),
              "exercise": play,
-             "measures": EN("Scored on your notes on pitch. By the end of the course you'll write your own line against a melody. Did you know? Row, Row, Row Your Boat was in print by 1852, though its early tune differs from today's.")},
+             "measures": EN("Scored on your notes on pitch. Did you know? Row, Row, Row Your Boat was in print by 1852, though its early tune differs from today's.")},
         ],
     }
 
@@ -120,7 +120,7 @@ def cp_1_hear():
                    ("Hear it as often as you like", "Then choose")], "harmony"),
             {"kind": "choose", "text": EN("Listen to each, as often as you like, then choose."),
              "exercise": {"tempo": 80, "rounds": rounds},
-             "measures": EN("Scored on the questions you answered right the first time.")},
+             "measures": EN("Scored on the rounds you got right first time.")},
         ],
     }
 
@@ -161,9 +161,9 @@ def cp_1_ostinato():
     return {
         "id": "cp-1-ostinato", "title": EN("A pattern that repeats"),
         "steps": [
-            learn("A pattern sung over and over is an ostinato, Italian for \"stubborn\". Once you know it, it keeps itself going.",
+            learn("A pattern sung over and over is an ostinato. Once you know it, it keeps itself going.",
                   [("Four notes", "Do ti do la: a darker colour you'll meet properly in unit 2"),
-                   ("Did you know?", "Choir singers' heart rates have been measured rising and falling together, most of all on a slow, repeating chant"),
+                   ("Over and over", "Eight times through"),
                    ("A line falls above it", "Let it pass; keep your pattern")], "echo",
                   {"tempo": 84, "notes": notes(MOTIF * 4, start=3), "turn": False, "with": [{"notes": notes([(6, 9), (6, 7)])}]}),
             {"kind": "try", "text": EN("The pattern, at your own pace."), "exercise": {"tempo": 84, "notes": notes(MOTIF)}},
@@ -235,7 +235,7 @@ def cp_2_minor():
     return {
         "id": "cp-2-minor", "title": EN("A round in minor"),
         "steps": [
-            learn("This tune in minor: its mi and la a half step lower, and it sounds darker.",
+            learn("This tune in minor: its mi and la a half step lower (the smallest step on a piano), and it sounds darker.",
                   [("Listen to the minor tune", "The same shape, a darker colour"),
                    ("You're the third voice", "Two are singing before you come in"),
                    ("Your mi is lower now", "Listen for it against the others")], "round",
@@ -296,7 +296,7 @@ def cp_2_challenge():
         {"prompt": EN("How many voices are singing by the end?"), "clips": [clip(2)], "options": count, "answer": 0,
          "why": EN("Two: a leader and one follower.")},
         {"prompt": EN("How many voices are singing by the end?"), "clips": [clip(4)], "options": count, "answer": 2,
-         "why": EN("Four: with entries two bars apart, every seat is filled. The oldest known round, Sumer is icumen in (about 1250), has four voices over two more. Next, you're one of them.")},
+         "why": EN("Four: with entries two bars apart, every seat is filled. The oldest known round, Sumer is icumen in (about 1250), has four voices over two more.")},
     ]
     ding = [(1, 0, "ding,"), (1, -5, "dang,"), (2, 0, "dong,")]
     floor = notes(ding * 4, 48, AYS_DO)
@@ -528,7 +528,7 @@ def cp_4_motion():
          "why": EN("Up against down again: contrary motion.")},
         {"prompt": EN("Which one moves in fifths?"),
          "clips": [pair([7, 9, 11, 12], [0, 2, 4, 5]), pair([4, 5, 7, 9], [0, 2, 4, 5])], "answer": 0,
-         "why": EN("A moves in fifths: the two voices fuse into one hollow sound, like medieval organum, first written down in the late 800s. B's thirds keep them two.")},
+         "why": EN("A moves in fifths: the two voices fuse into one hollow sound, B's thirds keep them two.")},
         {"prompt": EN("Which one moves in fifths?"),
          "clips": [pair([9, 11, 12, 11], [0, 2, 4, 2]), pair([7, 9, 11, 9], [0, 2, 4, 2])], "answer": 1,
          "why": EN("B moves in fifths and sounds bare. A moves in sixths, sweet and full. That's why counterpoint avoids parallel fifths.")},
@@ -552,10 +552,10 @@ def cp_4_first():
     return {
         "id": "cp-4-first", "title": EN("First species"),
         "steps": [
-            learn("In 1725 Johann Joseph Fux taught counterpoint in steps he called species. The first is note against note: start and end on a perfect interval (here an octave), sing only smooth intervals, move mostly by step, prefer opposite ways.",
-                  [("The cantus", "A slow tune, an octave below you"),
-                   ("Your line", "One note to each of its notes"),
-                   ("Haydn, Beethoven, probably Mozart", "All studied Fux's book")], "harmony",
+            learn("In 1725 Johann Joseph Fux taught counterpoint in steps he called species. The first is note against note: one of your notes to each note of a cantus, a slow, fixed tune.",
+                  [("Begin and end on a perfect interval", "Here an octave"),
+                   ("Only smooth intervals", "Thirds, fifths, sixths and octaves"),
+                   ("Mostly by step, against the cantus", "Opposite ways as often as you can")], "harmony",
                   {"tempo": 60, "notes": line(FIRST_1, 0), "turn": False, "with": [{"notes": cantus(CANTUS_1, 0)}]}),
             {"kind": "try", "text": EN("Your line, at your own pace."), "exercise": {"tempo": 60, "notes": line(FIRST_1, 0)}},
             {"kind": "play", "text": EN("After the guide's do, sing your line against the cantus."),
@@ -639,14 +639,14 @@ def cp_5_yours():
             learn("Now you choose. At each cantus note, every smooth note in your range lights up: sing any one of them.",
                   [("Every lit note works", "Thirds, fifths, sixths and octaves"),
                    ("Move against it", "Opposite ways, as often as you can"),
-                   ("A dimmed note", "Parallel or direct fifths or octaves, or an awkward leap")], "harmony",
+                   ("A dimmed note", "It would make parallel or direct fifths (both voices moving the same way into a fifth or octave), or an awkward leap")], "harmony",
                   {"tempo": 60, "notes": line(FIRST_1, 0), "turn": False, "with": [{"notes": cantus(CANTUS_1, 0)}]}),
             {"kind": "play", "text": EN("A practice pass, not scored: at each cantus note, try a lit note and hear what it does."),
              "exercise": {"tempo": 60, "notes": CUE + chosen_line(CANTUS_1, 4), "turn": False, "with": [{"notes": cantus(CANTUS_1, 4, 4)}]}},
             {"kind": "play", "text": EN("Now for real, slowly: at each note of the cantus, sing any lit note. Make your own line."),
              "exercise": {"tempo": 60, "notes": CUE + chosen_line(CANTUS_1, 4), "turn": False, "with": [{"notes": cantus(CANTUS_1, 4, 4)}],
                           "score": "species", "rules": "contrary"},
-             "measures": EN("Landing on a lit note is the easy part: it's what's scored, and the top score needs at least three moves in opposite ways. Read your line's checklist above.")},
+             "measures": EN("Scored on landing on lit notes; the top score needs at least three moves in opposite ways.")},
         ],
     }
 
@@ -694,7 +694,7 @@ def cp_5_challenge():
             {"kind": "play", "text": EN("Slowly: at each note of the cantus, choose a lit note. Then hear your duet."),
              "exercise": {"tempo": 60, "notes": CUE + chosen_line(CANTUS_3, 4), "turn": False, "with": [{"notes": cantus(CANTUS_3, 4, 4)}],
                           "score": "species", "rules": "all"},
-             "measures": EN("The top score needs nearly every note on a lit pitch and every rule: half your moves opposite ways, no parallel or direct fifths or octaves, and ti to do at the end. Lesson 1, you sang a round. Today you wrote a line.")},
+             "measures": EN("Scored on landing on lit notes; the top score needs nearly every note lit and every rule: half your moves opposite ways, no parallel or direct fifths or octaves, and ti to do at the end.")},
         ],
     }
 
@@ -719,4 +719,11 @@ course = {
          "lessons": [cp_5_yours(), cp_5_hold(), cp_5_challenge()]},
     ],
 }
+# Every choose step says what it scored (the house pattern).
+for unit in course["units"]:
+    for lesson in unit["lessons"]:
+        for step in lesson["steps"]:
+            if step["kind"] == "choose":
+                step.setdefault("measures", EN("Scored on the rounds you got right first time."))
+
 json.dump(course, open(OUT, "w"))

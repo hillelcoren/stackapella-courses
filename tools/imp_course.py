@@ -197,20 +197,20 @@ def imp_1_third():
     return {
         "id": "imp-1-third", "title": EN("A part above"), "strictness": "relaxed",
         "steps": [
-            learn("The simplest harmony: sing the tune's next chord tone up. Mostly that's a third; over so, when the chord is do, it's a fourth, because the third would rub.",
+            learn("The simplest harmony: sing two scale notes above the tune, a third. Where that clashes with the chord, go one note higher.",
                   [("Hear it first", "One line, the tune and the part above together"),
                    ("Above a loud tune, go lighter", "Never louder; stop if anything tightens or hurts"),
                    ("Best with headphones", "You'll hear the tune as you sing")], "harmony",
                   {"tempo": 92, "notes": placed(first, DO), "turn": False, "with": [{"notes": placed(line(TUNE, 0, 16), DO)}], "chords": chords(DO, until=16)}),
-            {"kind": "play", "text": EN("Hold the harmony on the long notes while the tune moves. Hear the chord ring."),
+            {"kind": "play", "text": EN("First sing the tune itself, once through, so it's yours."),
+             "exercise": {"tempo": 92, "notes": placed(TUNE, DO, BAR), "turn": False, "chords": chords(DO, BAR)}},
+            {"kind": "play", "text": EN("Now hold the harmony on the long notes while the tune moves. Hear the chord ring."),
              "exercise": {"tempo": 92, "notes": placed(long_ones, DO, BAR), "turn": False,
                           "with": [{"notes": placed(line(TUNE, 0, 16), DO, BAR)}], "chords": chords(DO, BAR, 16)}},
-            {"kind": "play", "text": EN("Now sing the tune itself, once through, so it's yours."),
-             "exercise": {"tempo": 92, "notes": placed(TUNE, DO, BAR), "turn": False, "chords": chords(DO, BAR)}},
             {"kind": "play", "text": EN("Now the part above, the whole verse, every note lit, while the guide sings the tune."),
              "exercise": {"tempo": 92, "notes": placed(HARMONY, DO, BAR), "turn": False, "generous": True,
                           "with": [{"notes": placed(TUNE, DO, BAR)}], "chords": chords(DO, BAR)},
-             "measures": EN("Scored on your harmony's notes on pitch. The part was parallel thirds, with a fourth wherever the third would rub. Did you know? Medieval English singers called two voices moving mostly in thirds \"gymel\", from the Latin for twin.")},
+             "measures": EN("Scored on your harmony's notes on pitch. Did you know? Medieval English singers called two voices moving mostly in thirds \"gymel\", from the Latin for twin.")},
         ],
     }
 
@@ -228,7 +228,7 @@ def imp_1_switch():
                 "chords": [{"beat": 0, "root": (root + DO) % 12, "quality": quality, "bass": None}]}
     rounds = [
         {"prompt": EN("Over do, which third fits the key?"), "clips": [clip(0, 4, 0, "maj"), clip(0, 3, 0, "maj")], "answer": 0,
-         "why": EN("A, do to mi, is a major third, in the key. B's note is a half step low: it clashes with the chord.")},
+         "why": EN("A, do to mi, is a major third, in the key. B's note is a half step (the smallest step on a piano) low: it clashes with the chord.")},
         {"prompt": EN("Over re, which third fits the key?"), "clips": [clip(2, 6, 7, "dom7"), clip(2, 5, 7, "dom7")], "answer": 1,
          "why": EN("B, re to fa, is a minor third: smaller, but in the key. A's note is outside it.")},
         {"prompt": EN("Over mi, which third fits the key?"), "clips": [clip(4, 7, 0, "maj"), clip(4, 8, 0, "maj")], "answer": 0,
@@ -267,7 +267,7 @@ def imp_1_fourth():
     return {
         "id": "imp-1-fourth", "title": EN("Third or fourth?"),
         "steps": [
-            learn("Over so, the third above is ti, and ti rubs against the chord of do. So the part goes up a fourth, to do.",
+            learn("Hear why the part goes one note higher over so: with the chord of do under it, the third above so (ti) rubs, and do rings.",
                   [("Over so", "Not ti, but do"),
                    ("A fourth, not a third", "The next note in the chord"),
                    ("Every so in the tune", "Row, boat, shore, jah")], "harmony"),
@@ -518,9 +518,9 @@ def imp_3_two_ways():
                    ("Take 2: move against it", "When the tune climbs, fall"),
                    ("Compare them", "Hear both together")], "harmony"),
             {"kind": "play", "text": EN("Take 1: any lit note, moving as little as you can: hold, or take the nearest."), "exercise": ex("close"),
-             "measures": EN("The top score needs four moves in five to be a step or a third, and some real moving: not one held note.")},
+             "measures": EN("Scored on landing on lit notes; the top score needs four moves in five to be a step or a third, and some real moving: not one held note.")},
             {"kind": "play", "text": EN("Take 2: any lit note, moving against the tune."), "exercise": ex("against"),
-             "measures": EN("The top score needs half your moves, of the ones that move, against the tune.")},
+             "measures": EN("Scored on landing on lit notes; the top score needs half your moves, of the ones that move, against the tune.")},
         ],
     }
 
@@ -594,7 +594,7 @@ def imp_4_high():
         "steps": [
             learn("The tenor, a part above the lead, is part of bluegrass's high lonesome sound. Light and easy, never the pressed edge.",
                   [("Above the tune", "Every lit note is higher than the tune's"),
-                   ("Simple Gifts", "A Shaker song from 1848, famous since Copland's Appalachian Spring in 1944"),
+                   ("Hear it first", "Simple Gifts, then lights off"),
                    ("Light and easy", "Never pushed; stop if anything tightens")], "harmony",
                   {"tempo": 84, "notes": sung(mel, do, 0), "turn": False, "chords": lib_chords(chs, do)}),
             {"kind": "play", "text": EN("Simple Gifts: a part above the tune, lights off."),
@@ -661,6 +661,13 @@ for unit in course["units"]:
             moves = [abs(b - a) for a, b in zip(line, line[1:])]
             close, moving = sum(m <= 4 for m in moves), sum(m > 0 for m in moves)
             assert close >= 0.8 * len(moves) and moving >= 0.3 * len(moves), f"{lesson['id']}: a singer holding or taking the nearest note can't keep 'close' ({close}/{len(moves)} close, {moving} moving)"
+
+# Every choose step says what it scored (the house pattern).
+for unit in course["units"]:
+    for lesson in unit["lessons"]:
+        for step in lesson["steps"]:
+            if step["kind"] == "choose":
+                step.setdefault("measures", EN("Scored on the rounds you got right first time."))
 
 json.dump(course, open(OUT, "w"))
 if FALLBACKS:
