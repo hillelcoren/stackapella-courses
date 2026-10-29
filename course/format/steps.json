@@ -271,6 +271,7 @@
             "voice": "head: a lighter head-voice tone",
             "style": "scoop, fall, slide or cry (Pop and country: docs/courses/pop-country.md)",
             "listenOnly": "heard, never sung (a distraction note)",
+            "ring": "false: never ring-scored (a chord with no pure tuning, such as a diminished seventh)",
             "cents": "a pure-tuning offset for this note (Barbershop)",
             "choices": "any of these steps lights (Counterpoint)"
         },
@@ -280,7 +281,8 @@
             "style",
             "listenOnly",
             "cents",
-            "choices"
+            "choices",
+            "ring"
         ]
     },
     "segment": {
