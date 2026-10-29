@@ -1801,6 +1801,769 @@
             ]
         },
         {
+            "id": "pp-ground",
+            "title": {
+                "en": "Hold your ground"
+            },
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "pp-3-chords",
+                    "title": {
+                        "en": "The chords change, you don't"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "When the chord changes, your note's job changes, not its pitch. Hold it still."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Hold do"
+                                    },
+                                    "detail": {
+                                        "en": "Your note, steady"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Let the chords move"
+                                    },
+                                    "detail": {
+                                        "en": "Home, four, home, five, home"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Don't follow them"
+                                    },
+                                    "detail": {
+                                        "en": "The five chord rubs against do: hold on"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 8,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {
+                                        "beat": 1,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "root": 5,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "root": 7,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    }
+                                ]
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {
+                                "en": "Hold do with the guide while the chords change under you."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 8,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {
+                                        "beat": 1,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "root": 5,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "root": 7,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Now on your own: hold do through the changes. Neck, jaw and tongue soft."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 8,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {
+                                        "beat": 1,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "root": 5,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "root": 7,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    }
+                                ],
+                                "score": "lock"
+                            },
+                            "measures": {
+                                "en": "Your stars are for how closely your do stayed put while the chords moved: within 10 cents is locked."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "pp-3-pull",
+                    "title": {
+                        "en": "Don't get pulled"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A part close to yours pulls at your ear. Listen to both, and stay where you are."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "A moving part"
+                                    },
+                                    "detail": {
+                                        "en": "Around a third above you"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "A near part"
+                                    },
+                                    "detail": {
+                                        "en": "A step above you: the classic rub"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Stay put"
+                                    },
+                                    "detail": {
+                                        "en": "Neither creep up nor sink away"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 1,
+                                                "step": 4,
+                                                "lyric": "loo"
+                                            },
+                                            {
+                                                "beat": 2,
+                                                "length": 1,
+                                                "step": 5,
+                                                "lyric": "loo"
+                                            },
+                                            {
+                                                "beat": 3,
+                                                "length": 1,
+                                                "step": 4,
+                                                "lyric": "loo"
+                                            },
+                                            {
+                                                "beat": 4,
+                                                "length": 1,
+                                                "step": 2,
+                                                "lyric": "loo"
+                                            }
+                                        ],
+                                        "volume": 0.5
+                                    }
+                                ]
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Hold do while the guide moves around a third above you, softly. Neck, jaw and tongue soft."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 1,
+                                                "step": 4,
+                                                "lyric": "loo"
+                                            },
+                                            {
+                                                "beat": 2,
+                                                "length": 1,
+                                                "step": 5,
+                                                "lyric": "loo"
+                                            },
+                                            {
+                                                "beat": 3,
+                                                "length": 1,
+                                                "step": 4,
+                                                "lyric": "loo"
+                                            },
+                                            {
+                                                "beat": 4,
+                                                "length": 1,
+                                                "step": 3,
+                                                "lyric": "loo"
+                                            }
+                                        ],
+                                        "volume": 0.5
+                                    }
+                                ],
+                                "score": "centre"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A taste of the closest rub: hold do for two beats while the guide holds a half step above. It's meant to feel tight; just notice it."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 2,
+                                                "step": 1,
+                                                "lyric": "loo"
+                                            }
+                                        ],
+                                        "volume": 0.4
+                                    }
+                                ],
+                                "score": "centre"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Now hold do for four beats while the guide holds a whole step above you. Neck, jaw and tongue soft."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 4,
+                                                "step": 2,
+                                                "lyric": "loo"
+                                            }
+                                        ],
+                                        "volume": 0.5
+                                    }
+                                ],
+                                "score": "drift"
+                            },
+                            "measures": {
+                                "en": "Your stars are for where your do sat and whether it crept toward the guide's note or sank away from it."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "pp-3-stack",
+                    "title": {
+                        "en": "Stack yourself"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Record mi, then hold do under it: a third, made entirely by you."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Record mi first"
+                                    },
+                                    "detail": {
+                                        "en": "Three up from your note"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Then hold do"
+                                    },
+                                    "detail": {
+                                        "en": "Your mi plays with you"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Headphones on"
+                                    },
+                                    "detail": {
+                                        "en": "So the mic hears only the new note"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 4,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 4,
+                                                "step": 0,
+                                                "lyric": "oo"
+                                            }
+                                        ],
+                                        "volume": 0.6
+                                    }
+                                ]
+                            },
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Hold mi over the drone, steady, for four beats."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 4,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                },
+                                "score": "centre"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Now hold do while your own mi plays with you. Neck, jaw and tongue soft."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 4,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "under": {
+                                    "step": 1
+                                },
+                                "score": "lock"
+                            },
+                            "measures": {
+                                "en": "Your stars are for your do locked against your own mi: within 10 cents of the note."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "pp-3-challenge",
+                    "title": {
+                        "en": "The held note"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A pedal note: you hold do while the tune moves around you. Amazing Grace's first line, in two breaths."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Hold do"
+                                    },
+                                    "detail": {
+                                        "en": "Under \"Amazing grace\""
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Breathe"
+                                    },
+                                    "detail": {
+                                        "en": "Then do again under \"how sweet the sound\""
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Let the tune move"
+                                    },
+                                    "detail": {
+                                        "en": "You don't"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "A-"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "ma-"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "zing"
+                                    },
+                                    {
+                                        "beat": 4.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "-"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 2,
+                                        "step": 4,
+                                        "lyric": "grace,"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "how"
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "sweet"
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "the"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 2,
+                                        "step": -5,
+                                        "lyric": "sound."
+                                    }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {
+                                        "beat": 1,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "root": 5,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    }
+                                ]
+                            },
+                            "visual": "bass",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {
+                                "en": "Your Bullseye round first: five notes, to see how far you've come."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [
+                                    0,
+                                    4,
+                                    2,
+                                    -3,
+                                    5
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Hold do under the tune: breathe after \"grace\". Neck, jaw and tongue soft."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {
+                                        "beat": 2,
+                                        "length": 4.5,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 5,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {
+                                                "beat": 1,
+                                                "length": 1,
+                                                "step": -5,
+                                                "lyric": "A-"
+                                            },
+                                            {
+                                                "beat": 2,
+                                                "length": 2,
+                                                "step": 0,
+                                                "lyric": "ma-"
+                                            },
+                                            {
+                                                "beat": 4,
+                                                "length": 0.5,
+                                                "step": 4,
+                                                "lyric": "zing"
+                                            },
+                                            {
+                                                "beat": 4.5,
+                                                "length": 0.5,
+                                                "step": 0,
+                                                "lyric": "-"
+                                            },
+                                            {
+                                                "beat": 5,
+                                                "length": 2,
+                                                "step": 4,
+                                                "lyric": "grace,"
+                                            },
+                                            {
+                                                "beat": 7,
+                                                "length": 1,
+                                                "step": 2,
+                                                "lyric": "how"
+                                            },
+                                            {
+                                                "beat": 8,
+                                                "length": 2,
+                                                "step": 0,
+                                                "lyric": "sweet"
+                                            },
+                                            {
+                                                "beat": 10,
+                                                "length": 1,
+                                                "step": -3,
+                                                "lyric": "the"
+                                            },
+                                            {
+                                                "beat": 11,
+                                                "length": 2,
+                                                "step": -5,
+                                                "lyric": "sound."
+                                            }
+                                        ],
+                                        "volume": 0.6
+                                    }
+                                ],
+                                "chords": [
+                                    {
+                                        "beat": 1,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "root": 5,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    }
+                                ],
+                                "score": "lock"
+                            },
+                            "measures": {
+                                "en": "Your stars are for your do held steady under the tune, in both breaths."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "pp-memory",
             "title": {
                 "en": "Pitch memory"
