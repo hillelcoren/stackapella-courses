@@ -235,7 +235,7 @@ def cp_2_minor():
     return {
         "id": "cp-2-minor", "title": EN("A round in minor"),
         "steps": [
-            learn("This tune in minor: its mi and la a half step lower, and it sounds darker. Mahler turned this round into a funeral march in minor in his First Symphony.",
+            learn("This tune in minor: its mi and la a half step lower, and it sounds darker.",
                   [("Listen to the minor tune", "The same shape, a darker colour"),
                    ("You're the third voice", "Two are singing before you come in"),
                    ("Your mi is lower now", "Listen for it against the others")], "round",
@@ -245,7 +245,7 @@ def cp_2_minor():
              "exercise": {"tempo": 80, "notes": notes(AYS_MINOR, 16, AYS_DO), "turn": False,
                           "with": [{"notes": until(notes(AYS_MINOR * 2, 0, AYS_DO + 12), 48)},
                                    {"notes": until(notes(AYS_MINOR * 2, 8, AYS_DO), 48)}]},
-             "measures": EN("Scored on your notes on pitch, in minor, with two voices already going. Did you know? Mahler's minor round opens with a muted double bass alone, high in its range.")},
+             "measures": EN("Scored on your notes on pitch, in minor, with two voices already going.")},
         ],
     }
 

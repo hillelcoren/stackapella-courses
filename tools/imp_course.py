@@ -444,7 +444,7 @@ def imp_2_challenge():
              "exercise": {"tempo": 66, "notes": cue(do_low + below[0]["step"]) + sung(below, do_low, 4), "turn": False, "with": [guide_line(mel, do_low, 4)], "chords": lib_chords(chs, do_low, 4)}},
             {"kind": "play", "text": EN("Again, your part above the tune."),
              "exercise": {"tempo": 66, "notes": cue(do_high + above[0]["step"]) + sung(above, do_high, 4), "turn": False, "with": [guide_line(mel, do_high, 4)], "chords": lib_chords(chs, do_high, 4)},
-             "measures": EN("Scored on your part above on pitch. Could you hear the tune under you? Did you know? The Fisk Jubilee Singers carried Steal Away around the world in the 1870s.")},
+             "measures": EN("Scored on your part above on pitch. Could you hear the tune under you? Did you know? Steal Away was sung at a Choctaw Nation school in Indian Territory, in today's Oklahoma.")},
         ],
     }
 
@@ -539,7 +539,7 @@ def imp_3_challenge():
                   {"tempo": 76, "notes": sung(mel, do, 0), "turn": False, "chords": lib_chords(chs, do)}),
             {"kind": "play", "text": EN("The chorus: at each note, any lit note. Make your own harmony."),
              "exercise": {"tempo": 76, "notes": cue(do) + shifted(picks, 4), "turn": False, "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4), "score": "species", "rules": "close"},
-             "measures": EN("Scored on landing on lit notes, and the top score needs four moves in five to be a step or a third. Did you know? The Barbershop Harmony Society began in 1938 at a rooftop songfest in Tulsa, Oklahoma, with 26 men.")},
+             "measures": EN("Scored on landing on lit notes, and the top score needs four moves in five to be a step or a third. Did you know? In shape-note singing from The Sacred Harp (1844), the tune is in the tenor, with parts sung above and below it.")},
         ],
     }
 
