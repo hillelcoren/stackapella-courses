@@ -180,6 +180,51 @@
                             "reviewed": false
                         },
                         {
+                            "kind": "choose",
+                            "text": { "en": "Listen to each with the drone, as often as you like, then choose." },
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": { "en": "Which one rings with the drone?" },
+                                        "clips": [
+                                            { "notes": [{ "beat": 0, "length": 3, "step": 0, "lyric": "ah" }], "drone": { "step": 0 } },
+                                            { "notes": [{ "beat": 0, "length": 3, "step": 0.45, "lyric": "ah" }], "drone": { "step": 0 } }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "B was a little high: hear the quick wobble in the sound? A rings as one with the drone." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one rings with the drone?" },
+                                        "clips": [
+                                            { "notes": [{ "beat": 0, "length": 3, "step": -0.3, "lyric": "ah" }], "drone": { "step": 0 } },
+                                            { "notes": [{ "beat": 0, "length": 3, "step": 0, "lyric": "ah" }], "drone": { "step": 0 } }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "A was a little low. Its wobble was slower, because it was closer." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one rings with the drone?" },
+                                        "clips": [
+                                            { "notes": [{ "beat": 0, "length": 3, "step": 0, "lyric": "ah" }], "drone": { "step": 0 } },
+                                            { "notes": [{ "beat": 0, "length": 3, "step": 0.22, "lyric": "ah" }], "drone": { "step": 0 } }
+                                        ],
+                                        "answer": 0,
+                                        "why": { "en": "Closer still, so the beats were slower. B wasn't quite one sound with the drone yet." }
+                                    },
+                                    {
+                                        "prompt": { "en": "Which one rings with the drone?" },
+                                        "clips": [
+                                            { "notes": [{ "beat": 0, "length": 3, "step": -0.16, "lyric": "ah" }], "drone": { "step": 0 } },
+                                            { "notes": [{ "beat": 0, "length": 3, "step": 0, "lyric": "ah" }], "drone": { "step": 0 } }
+                                        ],
+                                        "answer": 1,
+                                        "why": { "en": "The hardest one: a slow pulse, almost gone. In tune, it's gone." }
+                                    }
+                                ]
+                            }
+                        },
+                        {
                             "kind": "try",
                             "text": { "en": "Find the drone's note and hold it. Listen for the wobble going." },
                             "exercise": {
