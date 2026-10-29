@@ -1,0 +1,654 @@
+{
+    "id": "breath",
+    "version": 1,
+    "reviewed": false,
+    "title": {
+        "en": "Breath and stamina"
+    },
+    "units": [
+        {
+            "id": "br-one-breath",
+            "title": {
+                "en": "One easy breath"
+            },
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "br-1-long",
+                    "title": {
+                        "en": "The long note"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A long note isn't about big lungs. It's letting the air out slowly, and stopping while it's still easy."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Warm up"
+                                    },
+                                    "detail": {
+                                        "en": "Hum a few slow slides, low to high and back"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Breathe in low"
+                                    },
+                                    "detail": {
+                                        "en": "Belly, sides and back widen; shoulders stay down"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Stop while it's easy"
+                                    },
+                                    "detail": {
+                                        "en": "Never squeeze out the last drop"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 6,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
+                            "visual": "breath",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "breathhold",
+                            "text": {
+                                "en": "Hold \"oo\" over the drone as long as it's easy. No goal: this first hold is your own starting point."
+                            },
+                            "exercise": {
+                                "step": 0,
+                                "lyric": "oo",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "baseline": true,
+                                "generous": true
+                            }
+                        },
+                        {
+                            "kind": "breathhold",
+                            "text": {
+                                "en": "Again, with your first try marked. Breathe low, let the air out slowly, and stop while it's still steady."
+                            },
+                            "exercise": {
+                                "step": 0,
+                                "lyric": "oo",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "goal": {
+                                    "plus": 0
+                                },
+                                "compare": {
+                                    "step": 1
+                                },
+                                "generous": true
+                            },
+                            "measures": {
+                                "en": "Your stars are for how your note ended (steady, because you stopped while it was easy), how steady it was, and reaching your own goal. Going past it earns nothing more."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "br-1-wide",
+                    "title": {
+                        "en": "Keep the ribs wide"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Good support slows your ribs from collapsing. Singers call it appoggio: leaning."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Hands on your lower ribs"
+                                    },
+                                    "detail": {
+                                        "en": "At your sides, thumbs to the back"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Breathe in"
+                                    },
+                                    "detail": {
+                                        "en": "Feel the ribs widen; shoulders stay down"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Keep them wide"
+                                    },
+                                    "detail": {
+                                        "en": "As you sing, let them close slowly"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 6,
+                                        "step": 0,
+                                        "lyric": "vv"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
+                            "visual": "breath",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "breathhold",
+                            "text": {
+                                "en": "Try a big breath (not your biggest) and sing at once, without holding it. Then a normal breath. Which felt easier?"
+                            },
+                            "exercise": {
+                                "step": 0,
+                                "lyric": "vv",
+                                "drone": {
+                                    "step": 0
+                                }
+                            }
+                        },
+                        {
+                            "kind": "breathhold",
+                            "text": {
+                                "en": "Hands on your ribs. Hold \"vv\" to your goal, keeping the ribs wide. Did your shoulders stay down?"
+                            },
+                            "exercise": {
+                                "step": 0,
+                                "lyric": "vv",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "goal": {
+                                    "plus": 0
+                                },
+                                "compare": "baseline"
+                            },
+                            "measures": {
+                                "en": "Your stars are for how the hold ended, how steady it was, and reaching your goal. Whether your ribs stayed wide is yours to check: we can't see it."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "br-1-song",
+                    "title": {
+                        "en": "A long line"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "In songs, the long notes come at the ends of lines. Plan the air so the end stays steady."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Breathe before the line"
+                                    },
+                                    "detail": {
+                                        "en": "Low and easy"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Spend it slowly"
+                                    },
+                                    "detail": {
+                                        "en": "Not all on the first word"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Hold \"home\""
+                                    },
+                                    "detail": {
+                                        "en": "Steady to its end"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "Swing"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "low,"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "sweet"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1.5,
+                                        "step": 0,
+                                        "lyric": "char-"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "i-"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 0.5,
+                                        "step": -3,
+                                        "lyric": "ot,"
+                                    },
+                                    {
+                                        "beat": 7.5,
+                                        "length": 1.5,
+                                        "step": -5,
+                                        "lyric": "oh"
+                                    },
+                                    {
+                                        "beat": 9,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "Com-"
+                                    },
+                                    {
+                                        "beat": 9.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "ing"
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "for"
+                                    },
+                                    {
+                                        "beat": 10.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "to"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "car-"
+                                    },
+                                    {
+                                        "beat": 11.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "ry"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "me"
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "length": 4,
+                                        "step": 7,
+                                        "lyric": "home."
+                                    }
+                                ],
+                                "turn": false
+                            },
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {
+                                "en": "Swing Low, Sweet Chariot, slowly, with the guide. Breathe before \"Coming\"."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "Swing"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "low,"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "sweet"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1.5,
+                                        "step": 0,
+                                        "lyric": "char-"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "i-"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 0.5,
+                                        "step": -3,
+                                        "lyric": "ot,"
+                                    },
+                                    {
+                                        "beat": 7.5,
+                                        "length": 1.5,
+                                        "step": -5,
+                                        "lyric": "oh"
+                                    },
+                                    {
+                                        "beat": 9,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "Com-"
+                                    },
+                                    {
+                                        "beat": 9.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "ing"
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "for"
+                                    },
+                                    {
+                                        "beat": 10.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "to"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "car-"
+                                    },
+                                    {
+                                        "beat": 11.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "ry"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "me"
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "length": 4,
+                                        "step": 7,
+                                        "lyric": "home."
+                                    }
+                                ],
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Now on your own, over its chords. Keep \"home\" steady to its end."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "Swing"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "low,"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "sweet"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1.5,
+                                        "step": 0,
+                                        "lyric": "char-"
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "i-"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 0.5,
+                                        "step": -3,
+                                        "lyric": "ot,"
+                                    },
+                                    {
+                                        "beat": 7.5,
+                                        "length": 1.5,
+                                        "step": -5,
+                                        "lyric": "oh"
+                                    },
+                                    {
+                                        "beat": 9,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "Com-"
+                                    },
+                                    {
+                                        "beat": 9.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "ing"
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "for"
+                                    },
+                                    {
+                                        "beat": 10.5,
+                                        "length": 0.5,
+                                        "step": 0,
+                                        "lyric": "to"
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "car-"
+                                    },
+                                    {
+                                        "beat": 11.5,
+                                        "length": 0.5,
+                                        "step": 4,
+                                        "lyric": "ry"
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1,
+                                        "step": 7,
+                                        "lyric": "me"
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "length": 4,
+                                        "step": 7,
+                                        "lyric": "home."
+                                    }
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {
+                                        "beat": 1,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "root": 5,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 7.5,
+                                        "root": 0,
+                                        "quality": "maj",
+                                        "bass": null
+                                    },
+                                    {
+                                        "beat": 13,
+                                        "root": 7,
+                                        "quality": "maj",
+                                        "bass": null
+                                    }
+                                ],
+                                "score": "line"
+                            },
+                            "measures": {
+                                "en": "Your stars are for where the line's notes landed, and for \"home\" staying steady to its end."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "br-1-challenge",
+                    "title": {
+                        "en": "The easy hold"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A little longer than your first hold, still ending on purpose."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Breathe low"
+                                    },
+                                    "detail": {
+                                        "en": "And easy, not huge"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Your goal"
+                                    },
+                                    "detail": {
+                                        "en": "Two seconds past your first hold"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "End on purpose"
+                                    },
+                                    "detail": {
+                                        "en": "Stop while it's steady"
+                                    }
+                                }
+                            ],
+                            "listen": {
+                                "tempo": 60,
+                                "notes": [
+                                    {
+                                        "beat": 1,
+                                        "length": 8,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "turn": false,
+                                "drone": {
+                                    "step": 0
+                                }
+                            },
+                            "visual": "breath",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "breathhold",
+                            "text": {
+                                "en": "Hold \"oo\" over the drone to your new goal. Your first hold is marked."
+                            },
+                            "exercise": {
+                                "step": 0,
+                                "lyric": "oo",
+                                "drone": {
+                                    "step": 0
+                                },
+                                "goal": {
+                                    "plus": 2
+                                },
+                                "compare": "baseline"
+                            },
+                            "measures": {
+                                "en": "Your stars are for how the hold ended, how steady it was, and reaching your goal: your first hold plus two seconds."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

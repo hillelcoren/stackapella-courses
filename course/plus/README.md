@@ -71,6 +71,7 @@ people read is an object of languages, `{ "en": "..." }`.
 | `choose` | Listens to clips and taps the answer; no mic | `exercise.rounds`: `[{ "prompt", "clips", "options", "answer", "why" }]` |
 | `selfcheck` | Hears a model, records, compares, answers self-check questions; not scored | `exercise.model`, `exercise.questions` |
 | `bullseye` | Hears a call and sings the answer (the same notes, a leap from them, a chord's root, home); each sung note lands as a dart; scored on where they landed | `exercise.echoes` (`[0, [0, 7], { "call", "sing", "chord", "key" }]`), `tempo`, `lengths`, `think`, `drone`, `home`, `reveal`, `named`, `stack`, `score`, `generous`, `compare`, `under` (each explained in `docs/courses/perfect-pitch.md`, section 9) |
+| `breathhold` | Holds one long note over a drone as long as it's easy; the take ends when they stop; scored on how it ended, how steady it was and their own goal | `exercise.step`, `lyric`, `drone`, `lead`, `max`, `baseline`, `goal`, `compare`, `generous` (see `docs/courses/breath.md`, section 9) |
 
 ## A `play` exercise's extra fields
 
