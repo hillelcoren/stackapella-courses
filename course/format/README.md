@@ -29,3 +29,10 @@ the reason, so the Flutter app can say "open this lesson on the web" until it ca
 3. Describe it in the course's own outline (`docs/courses/<id>.md`).
 
 A field the check doesn't know fails the tests, so the format never drifts from what the apps play.
+
+**A new step kind or field lands in the app's code first, then here.** The app plays a lesson, so a
+kind or field it doesn't know yet can't be used in a course: propose it as an issue, it's built and
+released in the app, and then it's added to `steps.json` and used. The checker lives in two places on
+purpose, the app's `web/tool/course_check.py` (run against the content the app pins) and this repo's
+`tools/course_check.py` (run on every pull request): they're the same script with a different root,
+and change together.
