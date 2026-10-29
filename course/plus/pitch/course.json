@@ -22,7 +22,7 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Land right on a note, don't slide into it: it's the first step to a harmony that rings. This trains relative pitch; true absolute pitch is rare."
+                                "en": "Land right on a note, don't slide into it: it's the first step to a harmony that rings. This trains relative pitch, hearing each note against another; absolute pitch, naming a note with nothing to compare, is rare."
                             },
                             "steps": [
                                 {
@@ -379,6 +379,9 @@
                                         }
                                     }
                                 ]
+                            },
+                            "measures": {
+                                "en": "Scored on the rounds you got right first time."
                             }
                         },
                         {
@@ -1077,6 +1080,9 @@
                                         }
                                     }
                                 ]
+                            },
+                            "measures": {
+                                "en": "Scored on the rounds you got right first time."
                             }
                         },
                         {
@@ -1123,7 +1129,7 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on how closely you held your note to the drone: within 10 cents is locked. Was your neck soft? Did you know? The beat rate is exactly the gap between the two notes: two notes 3 hertz apart beat three times a second."
+                                "en": "Scored on how closely you held your note to the drone: within 10 cents is locked (a cent is a hundredth of a half step, the gap between two neighbouring piano keys). Was your neck soft? Did you know? The beat rate is exactly the gap between the two notes: two notes 3 hertz apart beat three times a second."
                             }
                         }
                     ]
@@ -1131,29 +1137,29 @@
                 {
                     "id": "pp-2-fifth",
                     "title": {
-                        "en": "The fifth and the octave"
+                        "en": "The octave and the fifth"
                     },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A drone's strongest partners are the fifth and the octave. Both ring true, so they're easy to lock."
+                                "en": "A drone's strongest partners are the octave and the fifth. Both ring true, so they're easy to lock."
                             },
                             "steps": [
-                                {
-                                    "title": {
-                                        "en": "So (5), below your note"
-                                    },
-                                    "detail": {
-                                        "en": "A fifth above the low drone"
-                                    }
-                                },
                                 {
                                     "title": {
                                         "en": "Do (1), your note"
                                     },
                                     "detail": {
-                                        "en": "An octave above the low drone"
+                                        "en": "An octave above the drone"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "So (5)"
+                                    },
+                                    "detail": {
+                                        "en": "A fifth above the drone"
                                     }
                                 },
                                 {
@@ -1192,7 +1198,7 @@
                         {
                             "kind": "try",
                             "text": {
-                                "en": "So below, then do, over the low drone: find where each goes smooth."
+                                "en": "Do, then so, over the drone: find where each goes smooth."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1200,13 +1206,13 @@
                                     {
                                         "beat": 1,
                                         "length": 4,
-                                        "step": -5,
+                                        "step": 0,
                                         "lyric": "oo"
                                     },
                                     {
                                         "beat": 6,
                                         "length": 4,
-                                        "step": 0,
+                                        "step": -5,
                                         "lyric": "oo"
                                     }
                                 ],
@@ -1219,30 +1225,7 @@
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Hold so below your note over the low drone (a fifth above it), until it rings."
-                            },
-                            "exercise": {
-                                "tempo": 60,
-                                "lead": 2,
-                                "step": -5,
-                                "lyric": "oo",
-                                "drone": {
-                                    "step": -12
-                                },
-                                "cue": true,
-                                "score": "lock",
-                                "target": [
-                                    {
-                                        "seconds": 6,
-                                        "kind": "straight"
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "kind": "wave",
-                            "text": {
-                                "en": "Now do, an octave above the drone. Neck, jaw and tongue soft."
+                                "en": "Hold do, an octave above the drone, until it rings."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1260,9 +1243,32 @@
                                         "kind": "straight"
                                     }
                                 ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Now so, a fifth above the drone, until it rings."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": -5,
+                                "lyric": "oo",
+                                "drone": {
+                                    "step": -12
+                                },
+                                "cue": true,
+                                "score": "lock",
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "straight"
+                                    }
+                                ]
                             },
                             "measures": {
-                                "en": "Scored on how closely you locked do to the drone an octave below; the so before it was your warm-up. Did each get smoother when you found it?"
+                                "en": "Scored on how closely you locked so to the drone: within 10 cents is locked. The octave before it was your warm-up. Did each get smoother when you found it?"
                             }
                         }
                     ]
@@ -1370,7 +1376,7 @@
                         {
                             "kind": "bullseye",
                             "text": {
-                                "en": "Echo each shape over the drone: do, re, do; do, ti (below), do; do, so, do. Come home to the same do. Neck, jaw and tongue soft."
+                                "en": "Echo each shape over the drone: do, re, do; do, ti (below), do; do, so, do. Come home to the same do."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -1604,6 +1610,9 @@
                                         }
                                     }
                                 ]
+                            },
+                            "measures": {
+                                "en": "Scored on the rounds you got right first time."
                             }
                         },
                         {
@@ -1654,7 +1663,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Two long notes over the drone: do, then mi. Keep each one up to its very end. Mi rings a hair low against the drone; that's fine. Headphones help: one ear off. Neck, jaw and tongue soft."
+                                "en": "Two long notes over the drone: do, then mi. Keep each one up to its very end. Mi rings a hair low against the drone; that's fine. Headphones help: one ear off."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1997,7 +2006,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Now on your own, over the drone. Neck, jaw and tongue soft."
+                                "en": "Now on your own, over the drone."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -2337,7 +2346,7 @@
                                 "score": "lock"
                             },
                             "measures": {
-                                "en": "Scored on how closely your do stayed put while the chords moved: within 10 cents is locked. Did you know? It's called a pedal note because organists held a long low note on the organ's foot pedals while their hands played the changing chords."
+                                "en": "Scored on how closely your do stayed put while the chords moved: within 10 cents is locked. Did you know? Home, four and five are the three chords of the twelve-bar blues, the pattern under much early rock and roll."
                             }
                         }
                     ]
@@ -2428,7 +2437,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "The guide gives you do. Hold it while the guide moves around a third above you, softly. Neck, jaw and tongue soft."
+                                "en": "The guide gives you do. Hold it while the guide moves around a third above you, softly."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -2485,7 +2494,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quick taste of the closest rub: hold do for two beats while the guide holds a half step above. It feels tight; just notice it. Not counted."
+                                "en": "A quick taste of the closest rub: hold do for two beats while the guide holds a half step above, the very next piano key. It feels tight; just notice it. Not counted."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -2524,7 +2533,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "The guide gives do. Hold it for four beats while the guide holds a whole step above you. Neck, jaw and tongue soft."
+                                "en": "The guide gives do. Hold it for four beats while the guide holds a whole step above you."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -2655,7 +2664,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "The guide gives you do. Then hold it while your own mi plays with you. Neck, jaw and tongue soft."
+                                "en": "The guide gives you do. Then hold it while your own mi plays with you."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -2827,7 +2836,7 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Hold do while the tune moves around it: breathe after \"grace\". Neck, jaw and tongue soft."
+                                "en": "Hold do while the tune moves around it: breathe after \"grace\"."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -3019,7 +3028,7 @@
                                 "score": "memory"
                             },
                             "measures": {
-                                "en": "Scored on how close your notes from memory came: within a semitone earns full marks. Your note moves a little through the day, too. Did you know? In a 2006 study, conservatory students who grew up speaking Mandarin, a tone language, were far more likely to have absolute pitch than American students."
+                                "en": "Scored on how close your notes from memory came: within a half step earns full marks. Your note moves a little through the day, too. Did you know? In a 2006 study, conservatory students who grew up speaking Mandarin, a tone language, were far more likely to have absolute pitch than American students."
                             }
                         }
                     ]
@@ -3224,7 +3233,7 @@
                                 "score": "cold"
                             },
                             "measures": {
-                                "en": "Scored on your do from memory (within a semitone earns it all), then mi and so landing close to where they belong."
+                                "en": "Scored on your do from memory (within a half step earns it all), then mi and so landing close to where they belong."
                             }
                         }
                     ]
@@ -3391,7 +3400,7 @@
                                 "score": "cold"
                             },
                             "measures": {
-                                "en": "Scored on your do from memory (within a semitone earns it all), then every note of the line landing close to where it belongs from your do. Did you know? The tuning fork, long the way to carry a starting note, is credited to John Shore, Handel's trumpeter, around 1711."
+                                "en": "Scored on your do from memory (within a half step earns it all), then every note of the line landing close to where it belongs from your do. Did you know? The tuning fork, long the way to carry a starting note, is credited to John Shore, Handel's trumpeter, around 1711."
                             }
                         }
                     ]
