@@ -72,6 +72,19 @@ people read is an object of languages, `{ "en": "..." }`.
 | `selfcheck` | Hears a model, records, compares, answers self-check questions; not scored | `exercise.model`, `exercise.questions` |
 | `bullseye` | Hears a call and sings the answer (the same notes, a leap from them, a chord's root, home); each sung note lands as a dart; scored on where they landed | `exercise.echoes` (`[0, [0, 7], { "call", "sing", "chord", "key" }]`), `tempo`, `lengths`, `think`, `drone`, `home`, `reveal`, `named`, `stack`, `score`, `generous`, `compare`, `under` (each explained in `docs/courses/perfect-pitch.md`, section 9) |
 
+## A `play` exercise's extra fields
+
+Every one is optional; an exercise without them plays exactly as the free course's do.
+
+| Field | Where | What it does |
+|---|---|---|
+| `with` | the exercise | Partner voices that sound while you sing, faint on the lane, never scored: `[{ "notes": [...], "volume": 0.5 }]`, or the sung line itself later, for a round or a canon: `[{ "delay": 12, "steps": -12 }]` (12 beats later, an octave down). Afterwards, Hear it together plays your take with them. See `docs/courses/counterpoint.md`. |
+| `answer` | the exercise (`turn: true`) | Call and response: the guide sings `notes`, and you sing back these notes instead. |
+| `choices` | a note | Steps any of which is right (`"choices": [3, 4, 7]`): each lights, and the one you sing is the one scored. |
+| `cents` | a note | Tunes a note off the piano's: `-14` is a pure major third, as barbershop singers tune it. |
+| `listenOnly` | a note | Heard, never sung or scored (an echo's call, or notes to distract you). |
+| `guide: false` | the exercise | A cold start: the notes you sing don't sound first, and show no names until your turn ends. With `droneAfter` (beats), the drone comes in that far into your turn. |
+
 ## The rules a change must keep
 
 - **Plain, warm and short.** One or two lines to say why; no lectures. Sentence case. No em dashes.
