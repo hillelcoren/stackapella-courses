@@ -864,56 +864,6 @@
                                                     {
                                                         "beat": 3,
                                                         "length": 1,
-                                                        "step": 4,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    }
-                                                ],
-                                                "chords": [
-                                                    {
-                                                        "beat": 0,
-                                                        "root": 0,
-                                                        "quality": "maj",
-                                                        "bass": null
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "options": [
-                                            {
-                                                "en": "Three"
-                                            },
-                                            {
-                                                "en": "Four"
-                                            },
-                                            {
-                                                "en": "Five"
-                                            }
-                                        ],
-                                        "answer": 0,
-                                        "why": {
-                                            "en": "Do to mi: three, like Oh When the Saints."
-                                        }
-                                    },
-                                    {
-                                        "prompt": {
-                                            "en": "Which leap?"
-                                        },
-                                        "clips": [
-                                            {
-                                                "notes": [
-                                                    {
-                                                        "beat": 2,
-                                                        "length": 1,
-                                                        "step": 0,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    },
-                                                    {
-                                                        "beat": 3,
-                                                        "length": 1,
                                                         "step": 7,
                                                         "vibrato": {
                                                             "cents": 0
@@ -956,7 +906,7 @@
                                                     {
                                                         "beat": 2,
                                                         "length": 1,
-                                                        "step": -5,
+                                                        "step": 0,
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
@@ -964,7 +914,7 @@
                                                     {
                                                         "beat": 3,
                                                         "length": 1,
-                                                        "step": 0,
+                                                        "step": 4,
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
@@ -991,9 +941,9 @@
                                                 "en": "Five"
                                             }
                                         ],
-                                        "answer": 1,
+                                        "answer": 0,
                                         "why": {
-                                            "en": "So below to do: four, like Amazing Grace."
+                                            "en": "Do to mi: three, like Oh When the Saints."
                                         }
                                     },
                                     {
@@ -1064,7 +1014,7 @@
                                                     {
                                                         "beat": 3,
                                                         "length": 1,
-                                                        "step": 2,
+                                                        "step": 0,
                                                         "vibrato": {
                                                             "cents": 0
                                                         }
@@ -1073,7 +1023,7 @@
                                                 "chords": [
                                                     {
                                                         "beat": 0,
-                                                        "root": 7,
+                                                        "root": 0,
                                                         "quality": "maj",
                                                         "bass": null
                                                     }
@@ -1091,9 +1041,9 @@
                                                 "en": "Five"
                                             }
                                         ],
-                                        "answer": 2,
+                                        "answer": 1,
                                         "why": {
-                                            "en": "Five, in a new key: still Twinkle."
+                                            "en": "So below to do: four, like Amazing Grace."
                                         }
                                     },
                                     {
@@ -1145,6 +1095,56 @@
                                         "why": {
                                             "en": "Four: so to do in this key, like Amazing Grace."
                                         }
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Which leap?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 2,
+                                                        "length": 1,
+                                                        "step": -5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    },
+                                                    {
+                                                        "beat": 3,
+                                                        "length": 1,
+                                                        "step": 2,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 7,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "options": [
+                                            {
+                                                "en": "Three"
+                                            },
+                                            {
+                                                "en": "Four"
+                                            },
+                                            {
+                                                "en": "Five"
+                                            }
+                                        ],
+                                        "answer": 2,
+                                        "why": {
+                                            "en": "Five, in a new key: still Twinkle."
+                                        }
                                     }
                                 ]
                             }
@@ -1152,7 +1152,7 @@
                         {
                             "kind": "bullseye",
                             "text": {
-                                "en": "From new notes: the guide gives the first, you sing it and the leap the screen names."
+                                "en": "From new notes: the guide gives the first note, and you sing the leap the screen names from it."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -1225,12 +1225,12 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Three, four and five, mixed. First, the round from your first lesson, to see how far you've come."
+                                "en": "Three, four and five, mixed. First, the round from your first lesson, again."
                             },
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Then and now"
+                                        "en": "Your first round, again"
                                     },
                                     "detail": {
                                         "en": "Your six leaps from Song starts"
@@ -4040,7 +4040,7 @@
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Then and now"
+                                        "en": "Your first round, again"
                                     },
                                     "detail": {
                                         "en": "Your six leaps from Song starts"
@@ -4735,45 +4735,6 @@
                                                 "notes": [
                                                     {
                                                         "beat": 0,
-                                                        "length": 2,
-                                                        "step": 0,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    }
-                                                ],
-                                                "chords": [
-                                                    {
-                                                        "beat": 0,
-                                                        "root": 0,
-                                                        "quality": "maj",
-                                                        "bass": null
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "answer": 0,
-                                        "why": {
-                                            "en": "Bright: major."
-                                        },
-                                        "options": [
-                                            {
-                                                "en": "Major"
-                                            },
-                                            {
-                                                "en": "Minor"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "prompt": {
-                                            "en": "Major or minor?"
-                                        },
-                                        "clips": [
-                                            {
-                                                "notes": [
-                                                    {
-                                                        "beat": 0,
                                                         "length": 1,
                                                         "step": 0,
                                                         "vibrato": {
@@ -4802,6 +4763,45 @@
                                         "answer": 1,
                                         "why": {
                                             "en": "Do, me, so: minor."
+                                        },
+                                        "options": [
+                                            {
+                                                "en": "Major"
+                                            },
+                                            {
+                                                "en": "Minor"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Major or minor?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 2,
+                                                        "step": 0,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 0,
+                                                        "quality": "maj",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {
+                                            "en": "Bright: major."
                                         },
                                         "options": [
                                             {
@@ -4868,45 +4868,6 @@
                                                 "notes": [
                                                     {
                                                         "beat": 0,
-                                                        "length": 2,
-                                                        "step": 5,
-                                                        "vibrato": {
-                                                            "cents": 0
-                                                        }
-                                                    }
-                                                ],
-                                                "chords": [
-                                                    {
-                                                        "beat": 0,
-                                                        "root": 5,
-                                                        "quality": "min",
-                                                        "bass": null
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "answer": 1,
-                                        "why": {
-                                            "en": "Minor, on another note."
-                                        },
-                                        "options": [
-                                            {
-                                                "en": "Major"
-                                            },
-                                            {
-                                                "en": "Minor"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "prompt": {
-                                            "en": "Major or minor?"
-                                        },
-                                        "clips": [
-                                            {
-                                                "notes": [
-                                                    {
-                                                        "beat": 0,
                                                         "length": 1,
                                                         "step": -3,
                                                         "vibrato": {
@@ -4935,6 +4896,45 @@
                                         "answer": 0,
                                         "why": {
                                             "en": "Major, from a lower note."
+                                        },
+                                        "options": [
+                                            {
+                                                "en": "Major"
+                                            },
+                                            {
+                                                "en": "Minor"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "prompt": {
+                                            "en": "Major or minor?"
+                                        },
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 2,
+                                                        "step": 5,
+                                                        "vibrato": {
+                                                            "cents": 0
+                                                        }
+                                                    }
+                                                ],
+                                                "chords": [
+                                                    {
+                                                        "beat": 0,
+                                                        "root": 5,
+                                                        "quality": "min",
+                                                        "bass": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {
+                                            "en": "Minor, on another note."
                                         },
                                         "options": [
                                             {
@@ -5299,7 +5299,7 @@
                                         "en": "Same tune, one note moved"
                                     },
                                     "detail": {
-                                        "en": "Only the third moved"
+                                        "en": "Only one note moved"
                                     }
                                 }
                             ],
@@ -6075,7 +6075,7 @@
                         {
                             "kind": "bullseye",
                             "text": {
-                                "en": "Try it: the guide sings the root and fifth, then the third. Echo all three."
+                                "en": "Try it: the guide sings the root, the fifth and then the third. Sing the third back."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -6870,7 +6870,7 @@
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Then and now"
+                                        "en": "Your first round, again"
                                     },
                                     "detail": {
                                         "en": "Your six leaps from Song starts"
