@@ -276,7 +276,7 @@
             "lights": "how your notes are drawn, all still scored: on (the default), fade (the second half faint), changes (only where the chord changes), late (after a beat off) or off (Improvising a harmony: docs/courses/improvising-harmony.md)",
             "keep": "an id (\"<course>.<name>\"): the step's first heard take is kept on this device, never synced, for Then and now",
             "thenAndNow": "an id an earlier lesson keeps: after the take, that first take plays beside today's (Then and now, every course's finale)",
-            "song": "{ template, part, phrases, with? }: the notes come from that song's part in those phrases (from 0, every section's in order), loaded with the song so a Plus song's notes stay private; with: others plays the other parts as partner lines. An exercise has song or notes, never both (a song course, course/songs: docs/song-courses-plan.md)"
+            "song": "{ template, part, phrases, with? }: the notes come from that song's part in those phrases (from 0, every section's in order), loaded with the song so a Plus song's notes stay private; with: others plays the other parts as partner lines. With turn: false the guide sings your line with you, unless guide: false; without others, the song's chords play under you. An exercise has song or notes, never both (a song course, course/songs: docs/song-courses-plan.md)"
         },
         "webOnly": [
             "score",

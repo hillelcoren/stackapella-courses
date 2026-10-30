@@ -136,7 +136,7 @@ def unit_for(template, part, place, facts):
         group = new[g:g + 2]
         steps = [play(f"Hear {line_name(i)}, then sing it back.", template, part, [i], turn=True) for i in group]
         if len(group) == 2:
-            steps.append(play(f"Now {lines_name(group)} together, with the guide.", template, part, group, turn=False))
+            steps.append(play(f"Now {lines_name(group)} joined: hear them, then sing them back.", template, part, group, turn=True))
         last = group[-1]
         later = new[g + 2] if g + 2 < len(new) else len(phrases)
         for i in [r for r in repeats if last < r < later][:5 - len(steps)]:
