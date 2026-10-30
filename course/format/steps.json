@@ -12,7 +12,8 @@
         "label",
         "line",
         "description",
-        "source"
+        "source",
+        "endLine"
     ],
     "course": [
         "id",
@@ -36,7 +37,10 @@
         "findsHome",
         "strictness",
         "fact",
-        "keepSong"
+        "keepSong",
+        "unscored",
+        "minutes",
+        "endLine"
     ],
     "lessonExtras": {
         "about": "Lesson fields an app may leave out without breaking the lesson: a lesson that has one still plays, so neither makes it web-only. docs/ux-spec.md says how each is shown.",
@@ -365,5 +369,6 @@
             "seconds",
             "description"
         ]
-    }
+    },
+    "lessonUnscored": "unscored: true makes a lesson practice only: no stars, no XP, no progress or practice record, and its end shows endLine (words) in place of a score; minutes says how long it takes. Every wave target in it is scored: false, and it has no play, record or use step (the cool-down, course/cooldown.json)."
 }

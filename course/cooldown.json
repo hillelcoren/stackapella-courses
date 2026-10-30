@@ -1,0 +1,263 @@
+{
+    "id": "cool-down",
+    "version": 1,
+    "reviewed": false,
+    "title": {
+        "en": "Cool down"
+    },
+    "units": [
+        {
+            "id": "cool-down",
+            "title": {
+                "en": "Cool down"
+            },
+            "lessons": [
+                {
+                    "id": "cool-down-1",
+                    "title": {
+                        "en": "Cool down"
+                    },
+                    "minutes": 2,
+                    "unscored": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Two easy minutes to bring your voice back down to speaking. Nothing here is scored."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Quieter than you sang"
+                                    },
+                                    "detail": {
+                                        "en": "Easy, never pushed"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Every slide goes down"
+                                    },
+                                    "detail": {
+                                        "en": "From a little above your note to below it"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Stop if anything hurts"
+                                    },
+                                    "detail": {
+                                        "en": "Tightness, a tickle or pain: rest instead"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Slide down on a quiet \"oo\", like a sigh, three times. Follow the ribbon, or just let it fall."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "target": [
+                                    {
+                                        "seconds": 3,
+                                        "kind": "path",
+                                        "band": 250,
+                                        "points": [
+                                            [
+                                                0,
+                                                5
+                                            ],
+                                            [
+                                                3,
+                                                -4
+                                            ]
+                                        ],
+                                        "scored": false
+                                    },
+                                    {
+                                        "seconds": 3,
+                                        "kind": "path",
+                                        "band": 250,
+                                        "points": [
+                                            [
+                                                0,
+                                                5
+                                            ],
+                                            [
+                                                3,
+                                                -4
+                                            ]
+                                        ],
+                                        "scored": false
+                                    },
+                                    {
+                                        "seconds": 3,
+                                        "kind": "path",
+                                        "band": 250,
+                                        "points": [
+                                            [
+                                                0,
+                                                5
+                                            ],
+                                            [
+                                                3,
+                                                -4
+                                            ]
+                                        ],
+                                        "scored": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Now lip trills falling: \"brr\", lips loose and floppy. Can't trill? Slide on \"oo\" instead."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "brr",
+                                "combo": false,
+                                "target": [
+                                    {
+                                        "seconds": 2.5,
+                                        "kind": "path",
+                                        "band": 250,
+                                        "points": [
+                                            [
+                                                0,
+                                                4
+                                            ],
+                                            [
+                                                2.5,
+                                                -3
+                                            ]
+                                        ],
+                                        "scored": false
+                                    },
+                                    {
+                                        "seconds": 2.5,
+                                        "kind": "path",
+                                        "band": 250,
+                                        "points": [
+                                            [
+                                                0,
+                                                4
+                                            ],
+                                            [
+                                                2.5,
+                                                -3
+                                            ]
+                                        ],
+                                        "scored": false
+                                    },
+                                    {
+                                        "seconds": 2.5,
+                                        "kind": "path",
+                                        "band": 250,
+                                        "points": [
+                                            [
+                                                0,
+                                                4
+                                            ],
+                                            [
+                                                2.5,
+                                                -3
+                                            ]
+                                        ],
+                                        "scored": false
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {
+                                "en": "Hum down, mouth closed and easy: mi, re, do, ti, la."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "turn": false,
+                                "notes": [
+                                    {
+                                        "beat": 0.0,
+                                        "length": 1.5,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1.5,
+                                        "length": 1.5,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3.0,
+                                        "length": 1.5,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4.5,
+                                        "length": 1.5,
+                                        "step": -1,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 6.0,
+                                        "length": 1.5,
+                                        "step": -3,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Last, a sigh on \"ah\" down into your speaking voice. Then say, out loud: \"That's it for today.\""
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ah",
+                                "combo": false,
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "path",
+                                        "band": 250,
+                                        "points": [
+                                            [
+                                                0,
+                                                0
+                                            ],
+                                            [
+                                                4,
+                                                -4
+                                            ]
+                                        ],
+                                        "scored": false
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "endLine": {
+                        "en": "That's it for today. Your voice recovers overnight."
+                    }
+                }
+            ]
+        }
+    ]
+}
