@@ -62,6 +62,40 @@ songs = sorted(p for p in (ROOT / "templates").glob("*/*.json") if p.name != "in
 for song in songs:
     check(song)
 
+PER_BAR = {"4/4": 4, "3/4": 3, "2/4": 2, "6/8": 2}
+
+
+def check_take(path):
+    """A take for the landing's lane (templates/free/takes): its song and part exist, and each beat in
+    `flat` (a note sung under pitch on purpose, a miss for the lane to show) is where one of the part's
+    notes starts. `flat` holds beats, not note numbers. The miss goes on a short passing note, off the
+    downbeat, so the song still sounds right to a listener: a long or downbeat note sung flat is the
+    sour note people hear first (a musician heard "sweet" in Amazing Grace, 2026-10-30)."""
+    where = path.relative_to(ROOT)
+    take = json.loads(path.read_text())
+    song_path = ROOT / "templates" / "free" / f"{take.get('song')}.json"
+    if not song_path.exists():
+        problems.append(f"{where}: no song {take.get('song')}")
+        return
+    song = json.loads(song_path.read_text())
+    part = next((p for p in song["parts"] if p.get("key") == take.get("part")), None)
+    if not part:
+        problems.append(f"{where}: {take.get('song')} has no part {take.get('part')}")
+        return
+    starts = {n["beat"]: n for n in part["guide"]["notes"]}
+    per_bar = PER_BAR.get(song["timeSignature"], 4)
+    for beat in take.get("flat") or []:
+        note = starts.get(beat)
+        if not note:
+            problems.append(f"{where}: flat names beat {beat}, where no {take.get('part')} note starts (flat holds beats, not note numbers)")
+        elif note["length"] > 1 or abs((beat - song.get("pickupBeats", 0)) % per_bar) < 1e-6:
+            problems.append(f"{where}: flat puts the miss on \"{note.get('lyric', '')}\" (beat {beat}), a long or downbeat note; put it on a short passing note")
+
+
+takes = sorted((ROOT / "templates" / "free" / "takes").glob("*.json"))
+for take in takes:
+    check_take(take)
+
 index = ROOT / "templates" / "free" / "index.json"
 if index.exists():
     listed = json.loads(index.read_text()).get("templates", [])
@@ -71,5 +105,5 @@ if index.exists():
 
 for problem in problems:
     print(problem)
-print(f"{len(songs)} songs checked, {len(problems)} problems.")
+print(f"{len(songs)} songs and {len(takes)} takes checked, {len(problems)} problems.")
 sys.exit(1 if problems else 0)
