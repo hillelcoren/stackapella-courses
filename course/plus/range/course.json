@@ -1,0 +1,2238 @@
+{
+    "id": "range-and-registers",
+    "version": 1,
+    "reviewed": false,
+    "title": {
+        "en": "Range and registers"
+    },
+    "units": [
+        {
+            "id": "range-easy",
+            "title": {
+                "en": "Easy range and chest voice"
+            },
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "range-1-span",
+                    "title": {
+                        "en": "Your easy range"
+                    },
+                    "fact": {
+                        "id": "range-folds-grow",
+                        "text": {
+                            "en": "At birth, the vibrating part of your vocal folds is only about 2 mm long. It grows for about 20 years, to around 16 mm in men and 10 mm in women."
+                        },
+                        "source": {
+                            "en": "National Center for Voice and Speech (NCVS), \"Voice Changes Throughout Life\", tutorials, chapter 7"
+                        },
+                        "url": "https://ncvs.org/tutorials/voice-changes-throughout-life/"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Your range is every note you can sing easily, low to high. Slide down and up, rest where it's easy, and see yours."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Easy, not extreme"
+                                    },
+                                    "detail": {
+                                        "en": "Only as low and as high as feels easy"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Light at the top"
+                                    },
+                                    "detail": {
+                                        "en": "Quieter as you go up, never louder"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Stop if it strains"
+                                    },
+                                    "detail": {
+                                        "en": "Tightens, tickles or hurts: rest. Don't sing when hoarse or ill"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Slide down on a soft \"oo\", rest on your lowest easy note, then come back up. Only as low as is easy."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "score": "span",
+                                "target": [
+                                    {
+                                        "seconds": 7,
+                                        "kind": "path",
+                                        "band": 250,
+                                        "points": [
+                                            [
+                                                0,
+                                                0
+                                            ],
+                                            [
+                                                2.5,
+                                                -9
+                                            ],
+                                            [
+                                                4.5,
+                                                -9
+                                            ],
+                                            [
+                                                7,
+                                                0
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on singing the whole slide, never on how high or low it went."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Now slide up, rest on your highest light note, quiet and easy, then come back down."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "score": "span",
+                                "target": [
+                                    {
+                                        "seconds": 8,
+                                        "kind": "path",
+                                        "band": 250,
+                                        "points": [
+                                            [
+                                                0,
+                                                0
+                                            ],
+                                            [
+                                                3,
+                                                12
+                                            ],
+                                            [
+                                                5,
+                                                12
+                                            ],
+                                            [
+                                                8,
+                                                0
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                "keep": "range.first-slide"
+                            },
+                            "measures": {
+                                "en": "Scored on singing the whole slide, never on how high or low it went."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "range-1-chest",
+                    "title": {
+                        "en": "Your speaking voice, sung"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Chest voice is the voice you speak in: the low and middle notes that buzz a little in your chest. Sing it the way you'd say it."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Say it first"
+                                    },
+                                    "detail": {
+                                        "en": "Then sing it on the same notes"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Talking volume"
+                                    },
+                                    "detail": {
+                                        "en": "Like chatting to a friend"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Nothing to push"
+                                    },
+                                    "detail": {
+                                        "en": "Low notes don't need to be loud"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Hear it, then sing it back, the way you'd say it."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "Hel-"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "lo,"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "how"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "are"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": -3,
+                                        "lyric": "you?"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Hold a low, easy note on \"ah\", at talking volume."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": -3,
+                                "lyric": "ah",
+                                "combo": false,
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "straight"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on holding the note steady."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "range-1-low",
+                    "title": {
+                        "en": "Low and easy"
+                    },
+                    "fact": {
+                        "id": "range-vocal-fry",
+                        "text": {
+                            "en": "The voice's lowest register is vocal fry. Below about 70 puffs of air a second, your ear no longer hears one smooth note: it hears the separate puffs."
+                        },
+                        "source": {
+                            "en": "National Center for Voice and Speech (NCVS), \"Voluntary Register Changes\", tutorials, chapter 10"
+                        },
+                        "url": "https://ncvs.org/tutorials/voluntary-register-changes/"
+                    },
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Five notes down on \"ah\", heard then sung. Let them get lower, not pressed."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": -2,
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": -4,
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "ah"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": -7,
+                                        "lyric": "ah"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Hold the lowest one, easy, without pushing it down."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": -7,
+                                "lyric": "ah",
+                                "combo": false,
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "straight"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on holding the note steady."
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {
+                                "en": "Record the low note once more and listen back."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "model": {
+                                    "notes": [
+                                        {
+                                            "beat": 0,
+                                            "length": 4,
+                                            "step": -7,
+                                            "lyric": "ah"
+                                        }
+                                    ]
+                                },
+                                "questions": [
+                                    {
+                                        "en": "Did the low notes feel easy, not squashed?"
+                                    },
+                                    {
+                                        "en": "Did your voice stay at its talking loudness?"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "range-1-challenge",
+                    "title": {
+                        "en": "A low line"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A short line in the low part of your range. Easy, at talking volume."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Breathe first"
+                                    },
+                                    "detail": {
+                                        "en": "Then the whole line"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Low, not loud"
+                                    },
+                                    "detail": {
+                                        "en": "Let it sit"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Hear it, then sing it back."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": -2,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": -7,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "loo"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "loo"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "range-break",
+            "title": {
+                "en": "Mapping your break"
+            },
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "range-2-find",
+                    "title": {
+                        "en": "Find your break"
+                    },
+                    "fact": {
+                        "id": "range-break-higher-going-up",
+                        "text": {
+                            "en": "Your break tends to sit higher on the way up than on the way down. In a lab study, the jump into falsetto came at a higher pitch than the jump back into chest voice."
+                        },
+                        "source": {
+                            "en": "Svec, Schutte and Miller, \"On pitch jumps between chest and falsetto registers in voice: data from living and excised human larynges\", Journal of the Acoustical Society of America, 1999"
+                        },
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/10489708/"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Everyone has a place where the voice changes, from the heavier sound to a lighter one. It isn't a fault. The app hears the jump in pitch, not which voice made it."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Warm up first"
+                                    },
+                                    "detail": {
+                                        "en": "A quiet hum or an easy slide"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Light at the top"
+                                    },
+                                    "detail": {
+                                        "en": "Never louder"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Stop if it strains"
+                                    },
+                                    "detail": {
+                                        "en": "Tightens, tickles or hurts: rest"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Slide up and down once on a quiet \"oo\", following the ribbon. Somewhere your voice may jump: that's your break. Only as high as is easy."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "score": "flipFinder",
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "path",
+                                        "band": 150,
+                                        "points": [
+                                            [
+                                                0,
+                                                -3
+                                            ],
+                                            [
+                                                2,
+                                                12
+                                            ],
+                                            [
+                                                4,
+                                                -3
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on singing the siren. Where it jumps, if it does, is kept as your break."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Breathe, then the same again. Two jumps in the same place make sure it's yours."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "score": "flipFinder",
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "path",
+                                        "band": 150,
+                                        "points": [
+                                            [
+                                                0,
+                                                -3
+                                            ],
+                                            [
+                                                2,
+                                                12
+                                            ],
+                                            [
+                                                4,
+                                                -3
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on singing the siren. Where it jumps, if it does, is kept as your break."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "range-2-higher",
+                    "title": {
+                        "en": "Higher sirens"
+                    },
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "A higher siren, twice up and down, lighter still, like an owl's hoo: many voices, often men's, change higher. If yours jumped twice in the same place already, sing it gently."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "score": "flipFinder",
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "path",
+                                        "band": 150,
+                                        "points": [
+                                            [
+                                                0,
+                                                3
+                                            ],
+                                            [
+                                                1.5,
+                                                19
+                                            ],
+                                            [
+                                                3,
+                                                3
+                                            ],
+                                            [
+                                                4.5,
+                                                19
+                                            ],
+                                            [
+                                                6,
+                                                3
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on singing the siren. Where it jumps, if it does, is kept as your break."
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {
+                                "en": "Hum from low to high and back, slowly, and listen back."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "model": {
+                                    "notes": [
+                                        {
+                                            "beat": 0,
+                                            "length": 2,
+                                            "step": 0,
+                                            "lyric": "mm"
+                                        },
+                                        {
+                                            "beat": 2,
+                                            "length": 2,
+                                            "step": 7,
+                                            "lyric": "mm"
+                                        },
+                                        {
+                                            "beat": 4,
+                                            "length": 2,
+                                            "step": 0,
+                                            "lyric": "mm"
+                                        }
+                                    ]
+                                },
+                                "questions": [
+                                    {
+                                        "en": "Did you feel a place where it changed?"
+                                    },
+                                    {
+                                        "en": "Did the top stay quiet and easy?"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "range-2-around",
+                    "title": {
+                        "en": "Around the break"
+                    },
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Notes stepping up to just past your break and back, heard then sung."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": -4,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": -2,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": -2,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": -4,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "base": "flip"
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {
+                                "en": "Sing them once more, slowly, and listen back."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "model": {
+                                    "notes": [
+                                        {
+                                            "beat": 0,
+                                            "length": 2,
+                                            "step": -2,
+                                            "lyric": "oo"
+                                        },
+                                        {
+                                            "beat": 2,
+                                            "length": 2,
+                                            "step": 0,
+                                            "lyric": "oo"
+                                        },
+                                        {
+                                            "beat": 4,
+                                            "length": 2,
+                                            "step": 2,
+                                            "lyric": "oo"
+                                        }
+                                    ]
+                                },
+                                "questions": [
+                                    {
+                                        "en": "Where did it change: a jump, or a gentle shift?"
+                                    },
+                                    {
+                                        "en": "Did it stay easy at the top?"
+                                    }
+                                ],
+                                "base": "flip"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "range-2-challenge",
+                    "title": {
+                        "en": "Know your break"
+                    },
+                    "challenge": true,
+                    "fact": {
+                        "id": "range-boys-voice-change",
+                        "text": {
+                            "en": "A boy's voice usually begins to change at 12 or 13 and settles between 15 and 18. Most of the change comes within a year, and low notes stay steadier than high ones."
+                        },
+                        "source": {
+                            "en": "National Center for Voice and Speech (NCVS), \"Voice Changes Throughout Life\", tutorials, chapter 7"
+                        },
+                        "url": "https://ncvs.org/tutorials/voice-changes-throughout-life/"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Today is about finding your break, not getting rid of it. Crossing it smoothly comes later."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Two sirens"
+                                    },
+                                    "detail": {
+                                        "en": "Agreeing on one place"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Then steps"
+                                    },
+                                    "detail": {
+                                        "en": "Up to just past it and back"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "One more siren, light at the top."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "score": "flipFinder",
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "path",
+                                        "band": 150,
+                                        "points": [
+                                            [
+                                                0,
+                                                -3
+                                            ],
+                                            [
+                                                2,
+                                                12
+                                            ],
+                                            [
+                                                4,
+                                                -3
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on singing the siren. Where it jumps, if it does, is kept as your break."
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Up to just past your break and back, heard then sung."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": -1,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": -1,
+                                        "lyric": "oo"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "oo"
+                                    }
+                                ],
+                                "base": "flip"
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "range-head",
+            "title": {
+                "en": "Head voice and falsetto"
+            },
+            "colour": 6,
+            "lessons": [
+                {
+                    "id": "range-3-hoot",
+                    "title": {
+                        "en": "A light hoot"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Above your break is a lighter, higher voice: head voice, or for many men falsetto. It sounds like an owl's hoo: quieter, never louder."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Just above your break"
+                                    },
+                                    "detail": {
+                                        "en": "Every note here is set from yours"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Quiet and easy"
+                                    },
+                                    "detail": {
+                                        "en": "Lighter than you speak"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Stop if it strains"
+                                    },
+                                    "detail": {
+                                        "en": "Tightens, tickles or hurts: rest"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Hold a light \"hoo\" just above your break."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 2,
+                                "lyric": "hoo",
+                                "combo": false,
+                                "base": "flip",
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "straight",
+                                        "voice": "head"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on holding the note steady."
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {
+                                "en": "Hear the guide's light hoo, then record yours and compare."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "model": {
+                                    "notes": [
+                                        {
+                                            "beat": 0,
+                                            "length": 4,
+                                            "step": 2,
+                                            "lyric": "hoo",
+                                            "voice": "head"
+                                        }
+                                    ]
+                                },
+                                "questions": [
+                                    {
+                                        "en": "Did it sound lighter, like a different voice?"
+                                    },
+                                    {
+                                        "en": "Was it quieter than your speaking voice?"
+                                    }
+                                ],
+                                "base": "flip"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "range-3-high",
+                    "title": {
+                        "en": "High and light"
+                    },
+                    "fact": {
+                        "id": "range-girls-voice-change",
+                        "text": {
+                            "en": "Girls' voices change in puberty too, just less obviously: they can turn breathy or husky, crack now and then, and sing a little less in tune for a while."
+                        },
+                        "source": {
+                            "en": "National Center for Voice and Speech (NCVS), \"Voice Changes Throughout Life\", tutorials, chapter 7"
+                        },
+                        "url": "https://ncvs.org/tutorials/voice-changes-throughout-life/"
+                    },
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Light notes up and back, from just above your break, heard then sung."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 1,
+                                        "lyric": "hoo",
+                                        "voice": "head"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 3,
+                                        "lyric": "hoo",
+                                        "voice": "head"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 5,
+                                        "lyric": "hoo",
+                                        "voice": "head"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 3,
+                                        "lyric": "hoo",
+                                        "voice": "head"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 1,
+                                        "lyric": "hoo",
+                                        "voice": "head"
+                                    }
+                                ],
+                                "base": "flip"
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Hold the top one lightly."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 5,
+                                "lyric": "hoo",
+                                "combo": false,
+                                "base": "flip",
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "straight",
+                                        "voice": "head"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on holding the note steady."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "range-3-down",
+                    "title": {
+                        "en": "Light, coming down"
+                    },
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Slide down from high, staying light, toward your break. Not scored: just listen to how it feels."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "hoo",
+                                "combo": false,
+                                "base": "flip",
+                                "target": [
+                                    {
+                                        "seconds": 3,
+                                        "kind": "path",
+                                        "band": 150,
+                                        "points": [
+                                            [
+                                                0,
+                                                5
+                                            ],
+                                            [
+                                                3,
+                                                1
+                                            ]
+                                        ],
+                                        "scored": false,
+                                        "voice": "head"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {
+                                "en": "Record the slide once more and listen back."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "model": {
+                                    "notes": [
+                                        {
+                                            "beat": 0,
+                                            "length": 2,
+                                            "step": 5,
+                                            "lyric": "hoo",
+                                            "voice": "head"
+                                        },
+                                        {
+                                            "beat": 2,
+                                            "length": 2,
+                                            "step": 1,
+                                            "lyric": "hoo",
+                                            "voice": "head"
+                                        }
+                                    ]
+                                },
+                                "questions": [
+                                    {
+                                        "en": "Did it stay light as it came down?"
+                                    },
+                                    {
+                                        "en": "Did anything tighten?"
+                                    }
+                                ],
+                                "base": "flip"
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Hold a light note just above your break."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 1,
+                                "lyric": "hoo",
+                                "combo": false,
+                                "base": "flip",
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "straight",
+                                        "voice": "head"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on holding the note steady."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "range-3-challenge",
+                    "title": {
+                        "en": "A light line"
+                    },
+                    "challenge": true,
+                    "fact": {
+                        "id": "range-whistle-register",
+                        "text": {
+                            "en": "The whistle register sings above 1,000 vibrations a second. Filmed at over 10,000 frames a second, singers' folds moved in six patterns; in one, only part of the folds vibrated."
+                        },
+                        "source": {
+                            "en": "Kato, Lee, Wakamiya, Nakagawa and Kaburagi, \"Vocal Fold Vibration of the Whistle Register Observed by High-Speed Digital Imaging\", Journal of Voice (online 2023)"
+                        },
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/37806902/"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A short line just above your break, light all the way."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Quiet"
+                                    },
+                                    "detail": {
+                                        "en": "Lighter than you speak"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Easy"
+                                    },
+                                    "detail": {
+                                        "en": "Never reached for"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Hear it, then sing it back."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 1,
+                                        "lyric": "loo",
+                                        "voice": "head"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 3,
+                                        "lyric": "loo",
+                                        "voice": "head"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 5,
+                                        "lyric": "loo",
+                                        "voice": "head"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 3,
+                                        "lyric": "loo",
+                                        "voice": "head"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 1,
+                                        "lyric": "loo",
+                                        "voice": "head"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": 3,
+                                        "lyric": "loo",
+                                        "voice": "head"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 2,
+                                        "step": 1,
+                                        "lyric": "loo",
+                                        "voice": "head"
+                                    }
+                                ],
+                                "base": "flip"
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "range-blend",
+            "title": {
+                "en": "A blend from low to high"
+            },
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "range-4-blend",
+                    "title": {
+                        "en": "A blend"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Now cross your break without a jump. Let the sound get lighter before the break, not after: a blend that keeps some weight without pushing. The app hears a jump, not the blend: you'll hear that yourself."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Lighter before it"
+                                    },
+                                    "detail": {
+                                        "en": "Not after"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "On \"ng\""
+                                    },
+                                    "detail": {
+                                        "en": "Like the end of \"sing\""
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Stop if it strains"
+                                    },
+                                    "detail": {
+                                        "en": "Tightens, tickles or hurts: rest"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Slide through your break on \"ng\", up and back, lighter just before it."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ng",
+                                "combo": false,
+                                "base": "flip",
+                                "score": "smooth",
+                                "target": [
+                                    {
+                                        "seconds": 5,
+                                        "kind": "path",
+                                        "band": 150,
+                                        "points": [
+                                            [
+                                                0,
+                                                -5
+                                            ],
+                                            [
+                                                2.5,
+                                                3
+                                            ],
+                                            [
+                                                5,
+                                                -5
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                "generous": true
+                            },
+                            "measures": {
+                                "en": "Scored on crossing your break without a jump."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "range-4-slow",
+                    "title": {
+                        "en": "Slower through it"
+                    },
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "The same, slower. Give the change more time."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "ng",
+                                "combo": false,
+                                "base": "flip",
+                                "score": "smooth",
+                                "target": [
+                                    {
+                                        "seconds": 8,
+                                        "kind": "path",
+                                        "band": 150,
+                                        "points": [
+                                            [
+                                                0,
+                                                -5
+                                            ],
+                                            [
+                                                4,
+                                                3
+                                            ],
+                                            [
+                                                8,
+                                                -5
+                                            ]
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on crossing your break without a jump."
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {
+                                "en": "Slide once more on \"oo\" and listen back."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "model": {
+                                    "notes": [
+                                        {
+                                            "beat": 0,
+                                            "length": 2,
+                                            "step": -5,
+                                            "lyric": "oo"
+                                        },
+                                        {
+                                            "beat": 2,
+                                            "length": 2,
+                                            "step": 3,
+                                            "lyric": "oo"
+                                        },
+                                        {
+                                            "beat": 4,
+                                            "length": 2,
+                                            "step": -5,
+                                            "lyric": "oo"
+                                        }
+                                    ]
+                                },
+                                "questions": [
+                                    {
+                                        "en": "One voice all the way, or a flip?"
+                                    },
+                                    {
+                                        "en": "Did it feel pushed anywhere?"
+                                    }
+                                ],
+                                "base": "flip"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "range-4-scale",
+                    "title": {
+                        "en": "A scale across"
+                    },
+                    "fact": {
+                        "id": "range-phonetogram-soft",
+                        "text": {
+                            "en": "A voice clinic's phonetogram charts how softly and how loudly you can sing across your range. In 224 people, trained singers' charts were bigger, mostly from singing more softly."
+                        },
+                        "source": {
+                            "en": "Sulter, Schutte and Miller, \"Differences in phonetogram features between male and female subjects with and without vocal training\", Journal of Voice, 1995"
+                        },
+                        "url": "https://research.hanze.nl/nl/publications/differences-in-phonetogram-features-between-male-and-female-subje/"
+                    },
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Five notes stepping across your break and back, heard then sung. Lighter as you go up."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "noo"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": -1,
+                                        "lyric": "noo"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "noo"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 1,
+                                        "lyric": "noo"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 3,
+                                        "lyric": "noo"
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": 1,
+                                        "lyric": "noo"
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "noo"
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 1,
+                                        "step": -1,
+                                        "lyric": "noo"
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "noo"
+                                    }
+                                ],
+                                "base": "flip"
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "range-4-challenge",
+                    "title": {
+                        "en": "Low to high, one voice"
+                    },
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A siren from low to high in one voice, then your first slide beside today's."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Light before the break"
+                                    },
+                                    "detail": {
+                                        "en": "Not after"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Easy"
+                                    },
+                                    "detail": {
+                                        "en": "Only as high as is easy"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2,
+                                        "lyric": "mm"
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 2,
+                                        "step": 0,
+                                        "lyric": "mm"
+                                    }
+                                ]
+                            },
+                            "measures": {
+                                "en": "Scored on the notes."
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {
+                                "en": "Slide from low to high and back, through your break without a jump."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "base": "flip",
+                                "score": "smooth",
+                                "target": [
+                                    {
+                                        "seconds": 6,
+                                        "kind": "path",
+                                        "band": 150,
+                                        "points": [
+                                            [
+                                                0,
+                                                -7
+                                            ],
+                                            [
+                                                3,
+                                                4
+                                            ],
+                                            [
+                                                6,
+                                                -7
+                                            ]
+                                        ]
+                                    }
+                                ],
+                                "thenAndNow": "range.first-slide"
+                            },
+                            "measures": {
+                                "en": "Scored on crossing your break without a jump."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

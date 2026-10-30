@@ -62,7 +62,9 @@
             "id": "vibrato",
             "prefix": "vib",
             "file": "vibrato/course.json",
-            "safety": { "en": "Never force a wave or shake it from your jaw or throat: vibrato grows by itself from an easy note, sung softly." },
+            "safety": {
+                "en": "Never force a wave or shake it from your jaw or throat: vibrato grows by itself from an easy note, sung softly."
+            },
             "status": "live",
             "colour": 5,
             "visual": "vibrato",
@@ -91,8 +93,15 @@
             "line": {
                 "en": "Chest, head voice and the mix, and smooth breaks between them."
             },
-            "prefix": "range-and-registers",
-            "launch": false
+            "prefix": "range",
+            "launch": false,
+            "file": "range/course.json",
+            "colour": 6,
+            "visual": "echo",
+            "minutes": 45,
+            "safety": {
+                "en": "Voices that are still breaking should wait. Sing only as high and low as is easy, keep the top light and quiet, never drag a heavy sound up past your break, and stop if anything tightens, tickles or hurts."
+            }
         },
         {
             "id": "sight-singing",
@@ -218,7 +227,9 @@
             "line": {
                 "en": "Ringing chords tuned closer than a piano can, the four barbershop parts, and original tags."
             },
-            "safety": { "en": "Sing straight, not squeezed, at a medium-soft volume. Wear headphones: ringing needs them. Stop if anything tightens or hurts, and rest when hoarse." },
+            "safety": {
+                "en": "Sing straight, not squeezed, at a medium-soft volume. Wear headphones: ringing needs them. Stop if anything tightens or hurts, and rest when hoarse."
+            },
             "prefix": "bb",
             "file": "barbershop/course.json",
             "launch": true
@@ -331,7 +342,9 @@
             },
             "prefix": "yodel",
             "file": "yodel/course.json",
-            "safety": { "en": "Voices that are still breaking should wait before yodeling. Keep every flip light and at a medium volume, land gently, and stop if anything tightens, tickles or hurts." },
+            "safety": {
+                "en": "Voices that are still breaking should wait before yodeling. Keep every flip light and at a medium volume, land gently, and stop if anything tightens, tickles or hurts."
+            },
             "colour": 4,
             "visual": "echo",
             "minutes": 30,
