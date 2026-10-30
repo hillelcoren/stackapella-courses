@@ -35,6 +35,12 @@ SONGS = {
     "shenandoah": "staff",
     "o-come-all-ye-faithful": "staff",
     "ode-to-joy": "staff",
+    "row-row-row": "staff",
+    "shchedryk": "staff",
+    "simple-gifts": "staff",
+    "swing-low": "staff",
+    "red-river-valley": "staff",
+    "home-on-the-range": "staff",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
@@ -130,7 +136,8 @@ CHUNK = 4  # lines in a lesson at most (with the join, five steps)
 
 def chunks(sung, repeats):
     """The lines a lesson at a time, in order: a new lesson at a third new line (unless it's the last
-    new line, which joins this one rather than stand alone), or after four lines."""
+    new line, which joins this one rather than stand alone), or after four lines; never one line alone
+    at the end."""
     out, cur, fresh = [], [], 0
     for at, i in enumerate(sung):
         is_new = i not in repeats
@@ -142,6 +149,9 @@ def chunks(sung, repeats):
         fresh += is_new
     if cur:
         out.append(cur)
+    # A last line alone, after a full lesson: it takes that lesson's last line with it.
+    if len(out) > 1 and len(out[-1]) == 1 and len(out[-2]) > 2:
+        out[-1].insert(0, out[-2].pop())
     return out
 
 

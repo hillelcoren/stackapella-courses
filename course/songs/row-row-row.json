@@ -1,0 +1,432 @@
+{
+    "id": "song-row-row-row",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Row, Row, Row Your Boat (round)"},
+    "units": [
+        {
+            "id": "song-row-row-row-soprano",
+            "title": {"en": "The round"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-row-row-row-soprano-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Row, Row, Row Your Boat: hear the whole song first, then the tune on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own."},
+                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-row-row-row-soprano-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-row-row-row-soprano-3",
+                    "title": {"en": "Lines 3 to 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 to 6 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [2, 3, 4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-row-row-row-soprano-4",
+                    "title": {"en": "Lines 7 to 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 to 10 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [6, 7, 8, 9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-row-row-row-soprano-5",
+                    "title": {"en": "Lines 11 and 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-row-row-row-soprano-6",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole tune, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-row-row-row-soprano-7",
+                    "title": {"en": "Come in second"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The round: come in second, 4 beats after the first voice, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-row-row-row-soprano-8",
+                    "title": {"en": "Come in third"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The round: come in third, 8 beats after the first voice, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-row-row-row-soprano-9",
+                    "title": {"en": "Come in fourth"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The round: come in fourth, 2 bars after the first voice, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on."},
+                            "exercise": {
+                                "song": {
+                                    "template": "row-row-row",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-row-row-row-soprano-10",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the second voice of Row, Row, Row Your Boat in Sing, coming in over the first."}, "measures": {"en": "Scored on the notes."}, "template": "row-row-row", "singers": 2, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
