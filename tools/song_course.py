@@ -29,6 +29,12 @@ SONGS = {
     "happy-birthday": "staff",
     "michael-row": "staff",
     "are-you-sleeping": "staff",
+    "silent-night": "staff",
+    "auld-lang-syne": "staff",
+    "be-thou-my-vision": "staff",
+    "shenandoah": "staff",
+    "o-come-all-ye-faithful": "staff",
+    "ode-to-joy": "staff",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
@@ -113,7 +119,30 @@ def line_name(i):
 def lines_name(group):
     if len(group) == 1:
         return line_name(group[0])
+    if len(group) > 2 and group == list(range(group[0], group[-1] + 1)):
+        return f"lines {group[0] + 1} to {group[-1] + 1}"
     return "lines " + ", ".join(str(i + 1) for i in group[:-1]) + f" and {group[-1] + 1}"
+
+
+JOIN_BEATS = 24  # lines joined by hearing then singing back up to this long; longer, sung with the guide
+CHUNK = 4  # lines in a lesson at most (with the join, five steps)
+
+
+def chunks(sung, repeats):
+    """The lines a lesson at a time, in order: a new lesson at a third new line (unless it's the last
+    new line, which joins this one rather than stand alone), or after four lines."""
+    out, cur, fresh = [], [], 0
+    for at, i in enumerate(sung):
+        is_new = i not in repeats
+        left_new = sum(1 for j in sung[at:] if j not in repeats)
+        if cur and (len(cur) >= CHUNK or (is_new and fresh >= 2 and not (left_new == 1 and fresh == 2 and len(cur) < CHUNK))):
+            out.append(cur)
+            cur, fresh = [], 0
+        cur.append(i)
+        fresh += is_new
+    if cur:
+        out.append(cur)
+    return out
 
 
 ORDINALS = ["second", "third", "fourth", "fifth", "sixth"]
@@ -139,7 +168,6 @@ def unit_for(template, part, place, facts, entries=None):
             repeats[i] = first_of[t]
         else:
             first_of[t] = i
-    new = [i for i in sung if i not in repeats]
 
     lessons = []
 
@@ -169,29 +197,24 @@ def unit_for(template, part, place, facts, entries=None):
 
     # 2 to n. New lines two at a time: hear and sing back each, then the two joined with the guide.
     # A line that repeats a tune already learned joins the lesson that comes to it, sung with the guide.
-    taught = []
     def again(i):
         was = repeats[i]
         if words(notes, *phrases[i]) == words(notes, *phrases[was]):
             return play(f"{line_name(i).capitalize()} is {line_name(was)} again. Sing it with the guide.", template, part, [i], turn=False)
         return play(f"{line_name(i).capitalize()} is the tune of {line_name(was)} again, with new words. Sing it with the guide.", template, part, [i], turn=False)
 
-    left = []  # repeats with no room in the lesson that comes to them
-    for g in range(0, len(new), 2):
-        group = new[g:g + 2]
-        steps = [play(f"Hear {line_name(i)}, then sing it back.", template, part, [i], turn=True) for i in group]
-        if len(group) == 2:
-            steps.append(play(f"Now {lines_name(group)} joined: hear them, then sing them back.", template, part, group, turn=True))
-        last = group[-1]
-        later = new[g + 2] if g + 2 < len(new) else len(phrases)
-        coming = [r for r in repeats if last < r < later]
-        room = 5 - len(steps)
-        steps += [again(i) for i in coming[:room]]
-        left += coming[room:]
-        taught += group
-        lesson(lines_name(group).capitalize(), steps, strictness="relaxed")
-    for k in range(0, len(left), 5):
-        lesson("The lines that come back", [again(i) for i in left[k:k + 5]], strictness="relaxed")
+    # 2 to n. The lines in order, a lesson at a time: at most two new lines (three, so the last isn't
+    # left alone), and the lines that repeat one already learned where they fall; each new line heard
+    # and sung back, a repeat sung with the guide, then the lesson's lines joined.
+    for chunk in chunks(sung, repeats):
+        steps = [again(i) if i in repeats else play(f"Hear {line_name(i)}, then sing it back.", template, part, [i], turn=True) for i in chunk]
+        if len(chunk) > 1:
+            beats = phrases[chunk[-1]][1] - phrases[chunk[0]][0]
+            if beats <= JOIN_BEATS:
+                steps.append(play(f"Now {lines_name(chunk)} joined: hear them, then sing them back.", template, part, chunk, turn=True))
+            else:
+                steps.append(play(f"Now {lines_name(chunk)} joined, with the guide.", template, part, chunk, turn=False))
+        lesson(lines_name(chunk).capitalize(), steps, strictness="relaxed")
 
     # The whole song with the guide: each section, then all of it.
     sections = []

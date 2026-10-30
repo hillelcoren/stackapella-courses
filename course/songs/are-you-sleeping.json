@@ -107,7 +107,7 @@
                 },
                 {
                     "id": "song-are-you-sleeping-soprano-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 to 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -138,19 +138,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "are-you-sleeping",
-                                    "part": "soprano",
-                                    "phrases": [2, 3]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        },
-                        {
-                            "kind": "play",
                             "text": {"en": "Line 5 is line 1 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
@@ -174,12 +161,25 @@
                                 "turn": false
                             },
                             "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "are-you-sleeping",
+                                    "part": "soprano",
+                                    "phrases": [2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
                         }
                     ]
                 },
                 {
                     "id": "song-are-you-sleeping-soprano-4",
-                    "title": {"en": "The lines that come back"},
+                    "title": {"en": "Lines 7 and 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -205,6 +205,19 @@
                                     "phrases": [7]
                                 },
                                 "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "are-you-sleeping",
+                                    "part": "soprano",
+                                    "phrases": [6, 7]
+                                },
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         }
