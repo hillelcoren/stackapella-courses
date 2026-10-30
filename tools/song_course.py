@@ -41,6 +41,12 @@ SONGS = {
     "swing-low": "staff",
     "red-river-valley": "staff",
     "home-on-the-range": "staff",
+    "all-through-the-night": "staff",
+    "blow-the-man-down": "staff",
+    "danny-boy": "staff",
+    "loch-lomond": "staff",
+    "the-water-is-wide": "staff",
+    "steal-away": "staff",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
@@ -220,7 +226,12 @@ def unit_for(template, part, place, facts, entries=None):
         steps = [again(i) if i in repeats else play(f"Hear {line_name(i)}, then sing it back.", template, part, [i], turn=True) for i in chunk]
         if len(chunk) > 1:
             beats = phrases[chunk[-1]][1] - phrases[chunk[0]][0]
-            if beats <= JOIN_BEATS:
+            span = list(range(chunk[0], chunk[-1] + 1))
+            if chunk != span:
+                # Lines with others' lines between them (a shanty's answers): joined in their places,
+                # the other parts singing the lines between.
+                steps.append(play(f"Now {lines_name(chunk)} in their places, the other parts singing the lines between, with the guide.", template, part, span, turn=False, others=True))
+            elif beats <= JOIN_BEATS:
                 steps.append(play(f"Now {lines_name(chunk)} joined: hear them, then sing them back.", template, part, chunk, turn=True))
             else:
                 steps.append(play(f"Now {lines_name(chunk)} joined, with the guide.", template, part, chunk, turn=False))
