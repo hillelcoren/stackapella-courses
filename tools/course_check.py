@@ -292,7 +292,11 @@ def course(path, seen, clip_ids, unplayable, facts):
 def main():
     seen, unplayable, facts = set(), {}, {}
     clips_path = ROOT / "course" / "plus" / "clips.json"
-    clip_ids = {c["id"] for c in json.loads(clips_path.read_text())["clips"]} if clips_path.exists() else set()
+    clips = json.loads(clips_path.read_text()) if clips_path.exists() else {"clips": []}
+    clip_ids = {c["id"] for c in clips["clips"]}
+    for c in clips["clips"]:  # Lend your voice: each slot names the skill it needs, from the list's own skills
+        if c.get("skill") not in clips.get("skills", {}):
+            problem(f"clips.json {c.get('id')}", f"skill '{c.get('skill')}' isn't one of the list's skills")
     files = [ROOT / "course" / "course.json"]
     if (ROOT / "course" / "cooldown.json").exists():
         files.append(ROOT / "course" / "cooldown.json")  # the cool-down: one unscored lesson

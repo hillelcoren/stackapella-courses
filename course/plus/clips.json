@@ -1,5 +1,19 @@
 {
     "version": 1,
+    "skills": {
+        "any": {
+            "en": "Any singer: an easy, steady voice"
+        },
+        "vibrato": {
+            "en": "A singer with an easy, natural vibrato"
+        },
+        "pop-country": {
+            "en": "A pop or country singer who can scoop, cry, twang and change colour on purpose"
+        },
+        "yodel": {
+            "en": "A yodeler, or a singer who flips cleanly between chest and head voice on purpose"
+        }
+    },
     "clips": [
         {
             "id": "vibrato.straight",
@@ -16,6 +30,7 @@
             "seconds": 3,
             "style": "straight",
             "voices": "any",
+            "skill": "any",
             "fallback": {
                 "guide": {
                     "notes": [
@@ -51,6 +66,7 @@
             "seconds": 3,
             "style": "vibrato",
             "voices": "any",
+            "skill": "vibrato",
             "fallback": {
                 "guide": {
                     "notes": [
@@ -88,6 +104,7 @@
             "seconds": 3,
             "style": "vibrato-wide",
             "voices": "any",
+            "skill": "vibrato",
             "fallback": {
                 "guide": {
                     "notes": [
@@ -125,6 +142,7 @@
             "seconds": 3,
             "style": "wobble",
             "voices": "any",
+            "skill": "vibrato",
             "fallback": {
                 "guide": {
                     "notes": [
@@ -162,6 +180,7 @@
             "seconds": 5,
             "style": "bloom",
             "voices": "any",
+            "skill": "vibrato",
             "fallback": {
                 "guide": {
                     "notes": [
@@ -199,6 +218,7 @@
             "seconds": 3,
             "style": "straight",
             "voices": "any",
+            "skill": "any",
             "fallback": {
                 "guide": {
                     "notes": [
@@ -233,6 +253,7 @@
             "seconds": 3,
             "style": "vibrato",
             "voices": "any",
+            "skill": "vibrato",
             "fallback": {
                 "guide": {
                     "notes": [
@@ -270,6 +291,7 @@
             "seconds": 3,
             "style": "steered",
             "voices": "any",
+            "skill": "any",
             "fallback": {
                 "guide": {
                     "notes": [
@@ -305,6 +327,7 @@
             "seconds": 10,
             "style": "plain",
             "voices": "any",
+            "skill": "any",
             "fallback": {
                 "guide": {
                     "tempo": 96,
@@ -381,6 +404,7 @@
             "seconds": 10,
             "style": "scoop-fall",
             "voices": "any",
+            "skill": "pop-country",
             "fallback": {
                 "description": {
                     "en": "A scoop slides up into a note; a fall-off lets its end drop away."
@@ -401,6 +425,7 @@
             "seconds": 10,
             "style": "slide-cry",
             "voices": "any",
+            "skill": "pop-country",
             "fallback": {
                 "description": {
                     "en": "A slide glides between two notes; a cry flicks up into your lighter voice and straight back down."
@@ -421,6 +446,7 @@
             "seconds": 10,
             "style": "breathy",
             "voices": "any",
+            "skill": "pop-country",
             "fallback": {
                 "description": {
                     "en": "Breathy: quiet and close, with a little air in the sound, like singing to one person."
@@ -441,6 +467,7 @@
             "seconds": 10,
             "style": "bright",
             "voices": "any",
+            "skill": "pop-country",
             "fallback": {
                 "description": {
                     "en": "Bright: a clear, forward ring from the vowel and a slight smile, never from more volume."
@@ -461,6 +488,7 @@
             "seconds": 10,
             "style": "twang",
             "voices": "any",
+            "skill": "pop-country",
             "fallback": {
                 "description": {
                     "en": "Twang: a narrow, bright edge, like a light, bratty \"nyeh\", never squeezed."
@@ -480,6 +508,7 @@
             "seconds": 2,
             "style": "chest",
             "voices": "any",
+            "skill": "any",
             "fallback": {
                 "guide": {
                     "tempo": 60,
@@ -506,6 +535,7 @@
             "seconds": 2,
             "style": "head",
             "voices": "any",
+            "skill": "any",
             "fallback": {
                 "description": {
                     "en": "Light and hooty, like an owl."
@@ -515,7 +545,7 @@
         {
             "id": "yodel.hook-clean",
             "course": "yodel",
-            "used": ["yodel-1-hear"],
+            "used": ["yodel-1-hear", "yodel-1-challenge"],
             "sing": {
                 "en": "\"Yo-hee-o\": low, high, low (a sixth up and back), flipping cleanly each way, sung where your own voice flips. One voice, dry, no reverb, in a quiet room."
             },
@@ -526,6 +556,7 @@
             "seconds": 3,
             "style": "flip",
             "voices": "any",
+            "skill": "yodel",
             "fallback": {
                 "guide": {
                     "tempo": 60,
@@ -563,6 +594,7 @@
             "seconds": 3,
             "style": "slide",
             "voices": "any",
+            "skill": "yodel",
             "fallback": {
                 "guide": {
                     "tempo": 60,
@@ -600,6 +632,7 @@
             "seconds": 2,
             "style": "flip-down",
             "voices": "any",
+            "skill": "yodel",
             "fallback": {
                 "guide": {
                     "tempo": 60,
@@ -632,6 +665,7 @@
             "seconds": 3,
             "style": "roll",
             "voices": "any",
+            "skill": "yodel",
             "fallback": {
                 "guide": {
                     "tempo": 100,
@@ -679,6 +713,7 @@
             "seconds": 3,
             "style": "roll-smeared",
             "voices": "any",
+            "skill": "yodel",
             "fallback": {
                 "guide": {
                     "tempo": 100,
@@ -727,6 +762,7 @@
             "seconds": 6,
             "style": "steady-end",
             "voices": "any",
+            "skill": "any",
             "fallback": {
                 "guide": {
                     "tempo": 60,
@@ -758,6 +794,7 @@
             "seconds": 6,
             "style": "ran-out",
             "voices": "any",
+            "skill": "any",
             "fallback": {
                 "guide": {
                     "tempo": 60,
@@ -821,6 +858,7 @@
             "seconds": 2,
             "style": "onset-balanced",
             "voices": "any",
+            "skill": "any",
             "fallback": {
                 "skip": true
             }
@@ -840,6 +878,7 @@
             "seconds": 2,
             "style": "onset-breathy",
             "voices": "any",
+            "skill": "any",
             "fallback": {
                 "skip": true
             }
@@ -859,6 +898,7 @@
             "seconds": 2,
             "style": "onset-hard",
             "voices": "any",
+            "skill": "any",
             "fallback": {
                 "skip": true
             }
