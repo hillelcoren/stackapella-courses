@@ -3,7 +3,9 @@ and each Plus course in course/plus/courses.json. It fails on an unknown step ki
 word that isn't a { "en": ... } object, a lesson id used twice, a clip slot missing from
 course/plus/clips.json, or a lesson's fact (the "Did you know?" card) that's malformed, more than two
 a unit, or told in two courses; and it counts the lessons an app can't play yet (Flutter's "open this
-lesson on the web"). Prints one line; `--apps` lists those lessons. Python's standard library only.
+lesson on the web"). A song course's exercise (course/songs, `song`) must name a song that's here, one
+of its parts and phrases it has, and never carry notes of its own. Prints one line; `--apps` lists
+those lessons. Python's standard library only.
 """
 import json
 import re
@@ -12,6 +14,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 FORMAT = json.loads((ROOT / "course" / "format" / "steps.json").read_text())
+# Where the songs are: the free four and the library (a song held out of the library fails its lessons).
+SONG_DIRS = [ROOT / "templates" / "free", ROOT / "templates" / "library"]
 STARS = re.compile(r"\bstars?\b", re.IGNORECASE)  # only game mode shows stars (docs/decisions.md)
 KEBAB = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 # A fact told twice: two facts in different courses sharing two names or years ("Beethoven", "1824").
@@ -21,6 +25,7 @@ COMMON = {"Did", "The", "In", "A", "An", "It", "Its", "This", "Today", "His", "H
           "At", "On", "Your", "You", "From", "After", "Before", "Since", "About", "Many", "Most", "Some", "One", "Two", "Three",
           "Four", "Five", "Like", "And", "But", "For", "As", "Not", "With"}
 problems = []
+songs = {}
 
 
 def problem(where, what):
@@ -60,9 +65,41 @@ def notes(where, items, web_only):
         web_only.update(k for k in n if k in FORMAT["note"]["webOnly"])
 
 
+def template(song_id):
+    """A song's template by id, or None when it isn't here."""
+    if song_id not in songs:
+        path = next((d / f"{song_id}.json" for d in SONG_DIRS if (d / f"{song_id}.json").exists()), None)
+        songs[song_id] = json.loads(path.read_text()) if path else None
+    return songs[song_id]
+
+
+def song(where, s):
+    """An exercise's notes from a song: { template, part, phrases, with? }."""
+    if not isinstance(s, dict):
+        problem(where, "song must be { template, part, phrases }")
+        return
+    known(where + " song", s, ["template", "part", "phrases", "with"])
+    t = template(s.get("template"))
+    if t is None:
+        problem(where, f"song '{s.get('template')}' isn't one of the songs")
+        return
+    if s.get("part") not in {p["key"] for p in t["parts"]}:
+        problem(where, f"song '{t['id']}' has no part '{s.get('part')}'")
+    count = sum(len(section["phrases"]) for section in t["sections"])
+    phrases = s.get("phrases")
+    if not (isinstance(phrases, list) and phrases and all(isinstance(i, int) and 0 <= i < count for i in phrases)):
+        problem(where, f"song '{t['id']}' phrases must be a list of its {count} phrases (from 0)")
+    if s.get("with", "others") != "others":
+        problem(where, "song's with can only be others")
+
+
 def exercise(where, ex, spec, web_only, clip_ids):
     if spec == "play":
         known(where + " exercise", ex, FORMAT["play"]["fields"])
+        if "song" in ex:
+            song(where, ex["song"])
+            if "notes" in ex:
+                problem(where, "an exercise has song or notes, never both")
         web_only.update(k for k in ex if k in FORMAT["play"]["webOnly"])
         notes(where, ex.get("notes"), web_only)
         notes(where, ex.get("answer") if isinstance(ex.get("answer"), list) else [], web_only)
@@ -189,6 +226,8 @@ def course(path, seen, clip_ids, unplayable, facts):
                     problem(at, f"unknown step kind '{step.get('kind')}'")
                     continue
                 known(at, step, kind["fields"])
+                if "template" in step and template(step["template"]) is None:
+                    problem(at, f"song '{step['template']}' isn't one of the songs")
                 web_only = set()
                 if "exercise" in step:
                     exercise(at, step["exercise"], kind.get("exercise", "play"), web_only, clip_ids)
@@ -216,6 +255,8 @@ def main():
     catalogue = ROOT / "course" / "plus" / "courses.json"
     if catalogue.exists():
         files += [ROOT / "course" / "plus" / c["file"] for c in json.loads(catalogue.read_text())["courses"] if c.get("file")]
+    # The song courses (tools/song_course.py), one a song; their index.json isn't a course.
+    files += sorted(f for f in (ROOT / "course" / "songs").glob("*.json") if f.name != "index.json")
     lessons = sum(course(f, seen, clip_ids, unplayable, facts) for f in files if f.exists())
     told = list(facts.items())
     for i, (a, fa) in enumerate(told):
