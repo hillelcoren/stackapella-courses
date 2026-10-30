@@ -13,6 +13,7 @@ hand (it would be overwritten).
 It formats what it writes with tools/coursefmt.py, so running it again changes nothing.
 """
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -25,9 +26,17 @@ EN = lambda s: {"en": s}
 # The songs that have a course, and who sees it: "staff" while a song's course is reviewed, "live" after.
 SONGS = {
     "amazing-grace": "staff",
+    "happy-birthday": "staff",
+    "michael-row": "staff",
+    "are-you-sleeping": "staff",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
+
+
+def said(template):
+    """The song's title in a sentence: without a note in brackets ("Are You Sleeping (round)")."""
+    return re.sub(r"\s*\(.*\)$", "", template["title"])
 
 
 def template_of(song_id):
@@ -46,6 +55,31 @@ def phrases_of(template):
 def tune(notes, start, end):
     """A phrase's tune: its notes' places, lengths and pitches from the phrase's start (not its words)."""
     return tuple((round(n["beat"] - start, 3), n["length"], n["pitch"]) for n in notes if start - 1e-6 <= n["beat"] < end - 1e-6)
+
+
+def words(notes, start, end):
+    return [n.get("lyric") for n in notes if start - 1e-6 <= n["beat"] < end - 1e-6]
+
+
+def round_entries(template):
+    """A round (every part the melody's tune, coming in later, maybe an octave down): the other parts
+    as (part, beats after the melody) in the order they come in; None for a song in harmony."""
+    melody = next(p for p in template["parts"] if p.get("melody"))
+    first = melody["guide"]["notes"]
+    entries = []
+    for part in template["parts"]:
+        if part is melody:
+            continue
+        notes = part["guide"]["notes"]
+        delay = notes[0]["beat"] - first[0]["beat"]
+        octave = notes[0]["pitch"] - first[0]["pitch"]
+        same = len(notes) == len(first) and delay > 0 and octave % 12 == 0 and all(
+            abs(n["beat"] - m["beat"] - delay) < 1e-6 and n["length"] == m["length"] and n["pitch"] - m["pitch"] == octave
+            for n, m in zip(notes, first))
+        if not same:
+            return None
+        entries.append((part, delay))
+    return sorted(entries, key=lambda e: e[1]) or None
 
 
 def parts_in_order(template):
@@ -82,8 +116,12 @@ def lines_name(group):
     return "lines " + ", ".join(str(i + 1) for i in group[:-1]) + f" and {group[-1] + 1}"
 
 
-def unit_for(template, part, place, facts):
-    """One part's unit: its lessons, ids song-<template>-<part>-<n>."""
+ORDINALS = ["second", "third", "fourth", "fifth", "sixth"]
+
+
+def unit_for(template, part, place, facts, entries=None):
+    """One part's unit: its lessons, ids song-<template>-<part>-<n>. A round (`entries`, the later
+    voices) has this one unit: the tune, then coming in second, third and so on, with the others."""
     sid, key = template["id"], part["key"]
     name = part["name"]
     is_melody = bool(part.get("melody"))
@@ -115,7 +153,7 @@ def unit_for(template, part, place, facts):
 
     # 1. Hear it: the whole song, then your part alone, then its first line, waiting for you.
     lesson("Hear it", [
-        {"kind": "learn", "headline": EN(f"{template['title']}: hear the whole song first, then {whose} on its own."),
+        {"kind": "learn", "headline": EN(f"{said(template)}: hear the whole song first, then {whose} on its own."),
          "steps": [
              {"title": EN("Listen before you sing"), "detail": EN("The whole song, every part together")},
              {"title": EN(f"Then {whose}"), "detail": EN("The guide sings it, line by line")},
@@ -132,6 +170,13 @@ def unit_for(template, part, place, facts):
     # 2 to n. New lines two at a time: hear and sing back each, then the two joined with the guide.
     # A line that repeats a tune already learned joins the lesson that comes to it, sung with the guide.
     taught = []
+    def again(i):
+        was = repeats[i]
+        if words(notes, *phrases[i]) == words(notes, *phrases[was]):
+            return play(f"{line_name(i).capitalize()} is {line_name(was)} again. Sing it with the guide.", template, part, [i], turn=False)
+        return play(f"{line_name(i).capitalize()} is the tune of {line_name(was)} again, with new words. Sing it with the guide.", template, part, [i], turn=False)
+
+    left = []  # repeats with no room in the lesson that comes to them
     for g in range(0, len(new), 2):
         group = new[g:g + 2]
         steps = [play(f"Hear {line_name(i)}, then sing it back.", template, part, [i], turn=True) for i in group]
@@ -139,10 +184,14 @@ def unit_for(template, part, place, facts):
             steps.append(play(f"Now {lines_name(group)} joined: hear them, then sing them back.", template, part, group, turn=True))
         last = group[-1]
         later = new[g + 2] if g + 2 < len(new) else len(phrases)
-        for i in [r for r in repeats if last < r < later][:5 - len(steps)]:
-            steps.append(play(f"{line_name(i).capitalize()} is the tune of {line_name(repeats[i])} again, with new words. Sing it with the guide.", template, part, [i], turn=False))
+        coming = [r for r in repeats if last < r < later]
+        room = 5 - len(steps)
+        steps += [again(i) for i in coming[:room]]
+        left += coming[room:]
         taught += group
         lesson(lines_name(group).capitalize(), steps, strictness="relaxed")
+    for k in range(0, len(left), 5):
+        lesson("The lines that come back", [again(i) for i in left[k:k + 5]], strictness="relaxed")
 
     # The whole song with the guide: each section, then all of it.
     sections = []
@@ -153,10 +202,28 @@ def unit_for(template, part, place, facts):
         if ids:
             sections.append((s["name"], ids))
     whole = []
-    if len(sections) > 1:
+    if len(sections) > 1 and not entries:
         whole += [play(f"{name_} start to end, with the guide.", template, part, ids, turn=False) for name_, ids in sections[:4]]
-    whole.append(play("The whole song, with the guide.", template, part, sung, turn=False))
+    whole.append(play("The whole tune, with the guide." if entries else "The whole song, with the guide.", template, part, sung, turn=False))
     lesson("The whole song", whole)
+
+    if entries:
+        # A round: come in after the tune, each voice in turn, from the round's start so the earlier
+        # voices lead you in; the guide with you, then not.
+        for (voice, delay), nth in zip(entries, ORDINALS):
+            ids = [i for i in every if phrases[i][0] < delay + phrases[sung[-1]][1] - 1e-6]
+            lesson(f"Come in {nth}", [
+                play(f"The round: come in {nth}, {delay_words(delay, template)} after the first voice, with the guide.", template, voice, ids, turn=False, others=True),
+                play(f"Come in {nth} again, on your own this time: keep your place while the others go on.", template, voice, ids, turn=False, others=True, guide=False),
+            ])
+        second = entries[0][0]
+        lesson("Record it", [
+            {"kind": "record", "text": EN(f"Record the second voice of {said(template)} in Sing, coming in over the first."),
+             "measures": SCORED, "template": sid, "singers": 2, "part": second["key"]},
+        ], challenge=True)
+        for les, f in zip([lessons[0], lessons[-1]], facts):
+            les["fact"] = {"id": f["id"], "text": EN(f["text"]), "source": EN(f["source"]), **({"url": f["url"]} if f.get("url") else {})}
+        return {"id": f"song-{sid}-{key}", "title": EN("The round"), "colour": COLOURS[place % len(COLOURS)], "lessons": lessons}
 
     # With the others, then on your own, then record it.
     lesson("With the others", [
@@ -167,7 +234,7 @@ def unit_for(template, part, place, facts):
         play("Once more on your own, from the top.", template, part, sung, turn=False, others=True, guide=False, give_note=True),
     ])
     lesson("Record it", [
-        {"kind": "record", "text": EN(f"Record {whose} of {template['title']} in Sing, with the other parts playing."),
+        {"kind": "record", "text": EN(f"Record {whose} of {said(template)} in Sing, with the other parts playing."),
          "measures": SCORED, "template": sid, "singers": 4, "part": key},
     ], challenge=True)
 
@@ -179,10 +246,21 @@ def unit_for(template, part, place, facts):
     return {"id": f"song-{sid}-{key}", "title": EN(title), "colour": COLOURS[place % len(COLOURS)], "lessons": lessons}
 
 
+def delay_words(beats, template):
+    per_bar = int(template["timeSignature"].split("/")[0])
+    bars = beats / per_bar
+    return f"{int(bars)} bar{'s' if bars != 1 else ''}" if bars == int(bars) else f"{beats:g} beats"
+
+
 def course_for(song_id):
     template = template_of(song_id)
-    parts = parts_in_order(template)
     facts = list(FACTS.get(song_id, []))
+    entries = round_entries(template)
+    if entries:
+        melody = next(p for p in template["parts"] if p.get("melody"))
+        units = [unit_for(template, melody, 0, facts[:2], entries)]
+        return {"id": f"song-{song_id}", "version": 1, "reviewed": False, "title": EN(template["title"]), "units": units}
+    parts = parts_in_order(template)
     # The melody unit gets two facts (most singers learn only it), every other unit one, while they last.
     shares = [facts[:2]] + [[f] for f in facts[2:]]
     units = [unit_for(template, part, place, shares[place] if place < len(shares) else []) for place, part in enumerate(parts)]

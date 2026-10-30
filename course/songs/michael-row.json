@@ -1,0 +1,759 @@
+{
+    "id": "song-michael-row",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Michael, Row the Boat Ashore"},
+    "units": [
+        {
+            "id": "song-michael-row-soprano",
+            "title": {"en": "The melody"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-michael-row-soprano-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Michael, Row the Boat Ashore: hear the whole song first, then the tune on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "soprano",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own."},
+                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "soprano",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "mr-oars", "text": {"en": "It was noted down by Charles Pickard Ware, a teacher and abolitionist, who heard the boatmen of the Sea Islands sing it in time with their oars."}, "source": {"en": "Wikipedia, \"Michael, Row the Boat Ashore\", its history"}, "url": "https://en.wikipedia.org/wiki/Michael,_Row_the_Boat_Ashore"}
+                },
+                {
+                    "id": "song-michael-row-soprano-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "soprano",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-soprano-3",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "soprano",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-soprano-4",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "soprano",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-soprano-5",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "soprano",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "soprano",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-soprano-6",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of Michael, Row the Boat Ashore in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "michael-row", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "mr-highwaymen", "text": {"en": "A 1960 recording by the Highwaymen, a folk group formed by college students, went to number one in the United States and in Britain in 1961."}, "source": {"en": "Wikipedia, \"Michael, Row the Boat Ashore\", its recordings"}, "url": "https://en.wikipedia.org/wiki/Michael,_Row_the_Boat_Ashore"}
+                }
+            ]
+        },
+        {
+            "id": "song-michael-row-bass",
+            "title": {"en": "Bass"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-michael-row-bass-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Michael, Row the Boat Ashore: hear the whole song first, then the bass part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "bass",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own."},
+                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "bass",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "mr-archangel", "text": {"en": "The Michael of the song is usually taken to be the archangel Michael."}, "source": {"en": "Wikipedia, \"Michael, Row the Boat Ashore\""}, "url": "https://en.wikipedia.org/wiki/Michael,_Row_the_Boat_Ashore"}
+                },
+                {
+                    "id": "song-michael-row-bass-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "bass",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-bass-3",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "bass",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-bass-4",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "bass",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-bass-5",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "bass",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "bass",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-bass-6",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of Michael, Row the Boat Ashore in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "michael-row", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-michael-row-alto",
+            "title": {"en": "Alto"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-michael-row-alto-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Michael, Row the Boat Ashore: hear the whole song first, then the alto part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "alto",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own."},
+                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "alto",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-alto-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "alto",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-alto-3",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "alto",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-alto-4",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "alto",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-alto-5",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "alto",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "alto",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-alto-6",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of Michael, Row the Boat Ashore in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "michael-row", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-michael-row-tenor",
+            "title": {"en": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-michael-row-tenor-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Michael, Row the Boat Ashore: hear the whole song first, then the tenor part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "tenor",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own."},
+                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "tenor",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-tenor-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "tenor",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-tenor-3",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "tenor",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-tenor-4",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "tenor",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-tenor-5",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "tenor",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "michael-row",
+                                    "part": "tenor",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-michael-row-tenor-6",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of Michael, Row the Boat Ashore in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "michael-row", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
