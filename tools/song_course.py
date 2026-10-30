@@ -272,7 +272,7 @@ def unit_for(template, part, place, facts, entries=None):
              "measures": SCORED, "template": sid, "singers": 2, "part": second["key"]},
         ], challenge=True)
         for les, f in zip([lessons[0], lessons[-1]], facts):
-            les["fact"] = {"id": f["id"], "text": EN(f["text"]), "source": EN(f["source"]), **({"url": f["url"]} if f.get("url") else {})}
+            les["fact"] = fact_of(f)
         return {"id": f"song-{sid}-{key}", "title": EN("The round"), "colour": COLOURS[place % len(COLOURS)], "lessons": lessons}
 
     # With the others, then on your own, then record it.
@@ -290,10 +290,21 @@ def unit_for(template, part, place, facts, entries=None):
 
     # Facts: on the unit's first lesson, then its last, in the order song_facts.json gives them.
     for les, f in zip([lessons[0], lessons[-1]], facts):
-        les["fact"] = {"id": f["id"], "text": EN(f["text"]), "source": EN(f["source"]), **({"url": f["url"]} if f.get("url") else {})}
+        les["fact"] = fact_of(f)
 
     title = "The melody" if is_melody else name
     return {"id": f"song-{sid}-{key}", "title": EN(title), "colour": COLOURS[place % len(COLOURS)], "lessons": lessons}
+
+
+def fact_of(f):
+    """A lesson's fact from tools/song_facts.json: its id, words and source, a url, and `distinct` (facts
+    in other courses it may share names or years with, judged and kept as different facts)."""
+    fact = {"id": f["id"], "text": EN(f["text"]), "source": EN(f["source"])}
+    if f.get("url"):
+        fact["url"] = f["url"]
+    if f.get("distinct"):
+        fact["distinct"] = f["distinct"]
+    return fact
 
 
 def delay_words(beats, template):
