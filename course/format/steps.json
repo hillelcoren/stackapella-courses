@@ -40,7 +40,8 @@
         "keepSong",
         "unscored",
         "minutes",
-        "endLine"
+        "endLine",
+        "variants"
     ],
     "lessonExtras": {
         "about": "Lesson fields an app may leave out without breaking the lesson: a lesson that has one still plays, so neither makes it web-only. docs/ux-spec.md says how each is shown.",
@@ -378,5 +379,6 @@
             "description"
         ]
     },
-    "lessonUnscored": "unscored: true makes a lesson practice only: no stars, no XP, no progress or practice record, and its end shows endLine (words) in place of a score; minutes says how long it takes. Every wave target in it is scored: false, and it has no play, record or use step (the cool-down, course/cooldown.json)."
+    "lessonUnscored": "unscored: true makes a lesson practice only: no stars, no XP, no progress or practice record, and its end shows endLine (words) in place of a score; minutes says how long it takes. Every wave target in it is scored: false, and it has no play, record or use step (the cool-down, course/cooldown.json).",
+    "lessonVariants": "variants: { \"<experiment id>-<arm>\": { steps, minutes? } }: in an A/B test (docs/experiments.md), a device drawn into that arm gets these steps in place of the lesson's; everything else (id, title, findsHome) stays the lesson's, and arm a or a device not drawn gets the lesson as written. The id must be in course/format/experiments.json. Removing the losing arm is deleting the variant, or moving its steps into the lesson."
 }

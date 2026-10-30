@@ -16,6 +16,8 @@ ROOT = Path(__file__).resolve().parent.parent
 FORMAT = json.loads((ROOT / "course" / "format" / "steps.json").read_text())
 # Where the songs are: the free four and the library (a song held out of the library fails its lessons).
 SONG_DIRS = [ROOT / "templates" / "free", ROOT / "templates" / "library"]
+_experiments = ROOT / "course" / "format" / "experiments.json"
+EXPERIMENTS = set(json.loads(_experiments.read_text())["experiments"]) if _experiments.exists() else set()
 STARS = re.compile(r"\bstars?\b", re.IGNORECASE)  # only game mode shows stars (docs/decisions.md)
 KEBAB = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 # A fact told twice: two facts in different courses sharing two names or years ("Beethoven", "1824").
@@ -195,6 +197,20 @@ def unscored(where, lesson):
             problem(f"{where} step {i + 1}", "every target in an unscored lesson is scored: false")
 
 
+def variant(where, key, value, lesson):
+    """An A/B arm's steps for a lesson: keyed "<experiment id>-<arm>", the id in course/format/experiments.json."""
+    m = re.match(r"^([a-z0-9]+(?:-[a-z0-9]+)*)-([b-z])$", str(key))
+    if not m or m.group(1) not in EXPERIMENTS:
+        problem(where, f"variant '{key}' isn't '<experiment>-<arm>' for an experiment in course/format/experiments.json")
+        return False
+    if not (isinstance(value, dict) and set(value) <= {"steps", "minutes"} and isinstance(value.get("steps"), list) and value["steps"]):
+        problem(where, f"variant '{key}' is {{ steps, minutes? }} with at least one step")
+        return False
+    if lesson.get("findsHome") and not any(s.get("kind") == "home" for s in value["steps"]):
+        problem(where, f"variant '{key}' drops the step that finds the singer's note")
+    return True
+
+
 def course(path, seen, clip_ids, unplayable, facts):
     data = json.loads(path.read_text())
     name = path.relative_to(ROOT / "course")
@@ -223,26 +239,32 @@ def course(path, seen, clip_ids, unplayable, facts):
             elif "endLine" in lesson:
                 problem(where, "endLine belongs to an unscored lesson")
             flutter = set()
-            for i, step in enumerate(lesson.get("steps", [])):
-                at = f"{where} step {i + 1}"
-                kind = FORMAT["kinds"].get(step.get("kind"))
-                if not kind:
-                    problem(at, f"unknown step kind '{step.get('kind')}'")
-                    continue
-                known(at, step, kind["fields"])
-                if "template" in step and template(step["template"]) is None:
-                    problem(at, f"song '{step['template']}' isn't one of the songs")
-                web_only = set()
-                if "exercise" in step:
-                    exercise(at, step["exercise"], kind.get("exercise", "play"), web_only, clip_ids)
-                if "listen" in step:
-                    exercise(at, step["listen"], "play", web_only, clip_ids)
-                ex = step.get("exercise") if isinstance(step.get("exercise"), dict) else {}
-                if ex.get("thenAndNow") and ex["thenAndNow"] not in kept:
-                    problem(at, f"thenAndNow '{ex['thenAndNow']}' isn't kept by an earlier lesson of this course")
-                if kind["flutter"] != "yes":
-                    flutter.add(f"{step['kind']} ({kind['flutter']})")
-                flutter.update(f"play.{k}" for k in web_only)
+            # The lesson's steps, then each A/B variant's (docs/experiments.md), checked the same way.
+            step_lists = [("", lesson.get("steps", []))]
+            for key, value in (lesson.get("variants") or {}).items():
+                if variant(where, key, value, lesson):
+                    step_lists.append((f" {key}", value["steps"]))
+            for label, steps in step_lists:
+                for i, step in enumerate(steps):
+                    at = f"{where}{label} step {i + 1}"
+                    kind = FORMAT["kinds"].get(step.get("kind"))
+                    if not kind:
+                        problem(at, f"unknown step kind '{step.get('kind')}'")
+                        continue
+                    known(at, step, kind["fields"])
+                    if "template" in step and template(step["template"]) is None:
+                        problem(at, f"song '{step['template']}' isn't one of the songs")
+                    web_only = set()
+                    if "exercise" in step:
+                        exercise(at, step["exercise"], kind.get("exercise", "play"), web_only, clip_ids)
+                    if "listen" in step:
+                        exercise(at, step["listen"], "play", web_only, clip_ids)
+                    ex = step.get("exercise") if isinstance(step.get("exercise"), dict) else {}
+                    if ex.get("thenAndNow") and ex["thenAndNow"] not in kept:
+                        problem(at, f"thenAndNow '{ex['thenAndNow']}' isn't kept by an earlier lesson of this course")
+                    if kind["flutter"] != "yes":
+                        flutter.add(f"{step['kind']} ({kind['flutter']})")
+                    flutter.update(f"play.{k}" for k in web_only)
             kept.update(s["exercise"]["keep"] for s in lesson.get("steps", []) if isinstance(s.get("exercise"), dict) and s["exercise"].get("keep"))
             if flutter:
                 unplayable[lid] = sorted(flutter)
