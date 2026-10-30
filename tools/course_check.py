@@ -95,13 +95,30 @@ def song(where, s):
         problem(where, "song's with can only be others")
 
 
+BAR = {"4/4": 4, "3/4": 3, "2/4": 2, "6/8": 3}  # a bar in quarter-note beats
+
+
+def stave(where, staff, notes):
+    """A line read from the stave (Sight-singing): its names, look, count-in, time and rhythm."""
+    ok = (isinstance(staff, dict) and set(staff) <= {"names", "look", "count", "time", "rhythm"}
+          and staff.get("names", "on") in ("on", "faint", "off")
+          and isinstance(staff.get("look", 4), (int, float)) and 0 <= staff.get("look", 4) <= 10
+          and isinstance(staff.get("count", 0), int) and 0 <= staff.get("count", 0) <= 8
+          and staff.get("time", "4/4") in BAR and isinstance(staff.get("rhythm", False), bool))
+    if not ok:
+        return problem(where, "staff is { names: on | faint | off, look: 0 to 10, count: 0 to 8, time: 4/4 | 3/4 | 2/4 | 6/8, rhythm }")
+    end = max((n.get("beat", 0) + n.get("length", 0) for n in notes), default=0)
+    bar = BAR[staff.get("time", "4/4")]
+    if staff.get("time") and end % bar:
+        problem(where, f"a {staff['time']} line fills whole bars: it ends at beat {end:g}")
+
+
 def exercise(where, ex, spec, web_only, clip_ids):
     if spec == "play":
         known(where + " exercise", ex, FORMAT["play"]["fields"])
         staff = ex.get("staff")
-        if staff is not None and not (isinstance(staff, dict) and set(staff) <= {"names", "look"} and staff.get("names", "on") in ("on", "faint", "off")
-                                      and isinstance(staff.get("look", 4), (int, float)) and 0 <= staff.get("look", 4) <= 10):
-            problem(where, "staff is { names: on | faint | off, look: 0 to 10 seconds }")
+        if staff is not None:
+            stave(where, staff, ex.get("notes") or [])
         if "song" in ex:
             song(where, ex["song"])
             if "notes" in ex:
