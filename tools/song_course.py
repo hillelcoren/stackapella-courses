@@ -8,9 +8,12 @@ fixed song never leaves its course behind. Facts come from tools/song_facts.json
 The course files are generated: fix this script (or a song's facts), then regenerate, never the JSON by
 hand (it would be overwritten).
 
-    python3 -I tools/song_course.py && python3 -I tools/coursefmt.py course/songs/*.json
+    python3 -I tools/song_course.py
+
+It formats what it writes with tools/coursefmt.py, so running it again changes nothing.
 """
 import json
+import subprocess
 import sys
 from pathlib import Path
 
@@ -194,6 +197,8 @@ def main():
         (OUT / f"{song_id}.json").write_text(json.dumps(course, indent=4, ensure_ascii=False) + "\n")
         index["courses"].append({"id": course["id"], "template": song_id, "file": f"{song_id}.json", "prefix": course["id"], "status": status})
     (OUT / "index.json").write_text(json.dumps(index, indent=4, ensure_ascii=False) + "\n")
+    files = [str(OUT / f"{song_id}.json") for song_id in SONGS]
+    subprocess.run([sys.executable, "-I", str(REPO / "tools/coursefmt.py"), *files], check=True)
 
 
 main()
