@@ -173,7 +173,8 @@ def fact(where, f, facts, course_name):
             problem(where, "a fact has an em dash")
         if STARS.search(word):
             problem(where, "a fact says stars")
-    names = {w for w in NAME.findall(text) if not (len(w.split()) == 1 and w in COMMON)}
+    # One letter alone is a note name or an initial ("F, C, G", "W. E. B."), never a name to match.
+    names = {w for w in NAME.findall(text) if len(w) > 1 and not (len(w.split()) == 1 and w in COMMON)}
     distinct = f.get("distinct", [])
     if not (isinstance(distinct, list) and all(isinstance(d, str) for d in distinct)):
         problem(where, "a fact's distinct is a list of fact ids")
