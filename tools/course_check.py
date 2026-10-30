@@ -294,8 +294,8 @@ def main():
     clips_path = ROOT / "course" / "plus" / "clips.json"
     clips = json.loads(clips_path.read_text()) if clips_path.exists() else {"clips": []}
     clip_ids = {c["id"] for c in clips["clips"]}
-    for c in clips["clips"]:  # Lend your voice: each slot names the skill it needs, from the list's own skills
-        if c.get("skill") not in clips.get("skills", {}):
+    for c in clips["clips"] if "skills" in clips else []:  # Lend your voice: each slot names the skill it needs, from the list's own skills
+        if c.get("skill") not in clips["skills"]:
             problem(f"clips.json {c.get('id')}", f"skill '{c.get('skill')}' isn't one of the list's skills")
     files = [ROOT / "course" / "course.json"]
     if (ROOT / "course" / "cooldown.json").exists():
