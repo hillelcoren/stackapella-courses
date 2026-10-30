@@ -1,0 +1,1237 @@
+{
+    "id": "sight-singing",
+    "version": 1,
+    "reviewed": false,
+    "title": {
+        "en": "Sight-singing"
+    },
+    "units": [
+        {
+            "id": "ss-find-do",
+            "title": {
+                "en": "Find do on the stave"
+            },
+            "lessons": [
+                {
+                    "id": "ss-1-do",
+                    "title": {
+                        "en": "Do on the stave"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A stave is five lines. Every line and every space is one note, and higher on the stave is higher in pitch. Your do sits where your own note is."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Lines and spaces"
+                                    },
+                                    "detail": {
+                                        "en": "Each one is the next note up"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Do is home"
+                                    },
+                                    "detail": {
+                                        "en": "Every line here starts on it"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Easy voice"
+                                    },
+                                    "detail": {
+                                        "en": "Medium volume; stop if anything tightens or hurts"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Watch the stave while it plays, then sing it back: do, re, mi, re, do."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 0
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "on",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Your turn to read. Look first, then sing it as the notes light: the names are under them."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "turn": false,
+                                "guide": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 0
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "on",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                },
+                                "hearFirst": true,
+                                "score": "read",
+                                "generous": true
+                            },
+                            "measures": {
+                                "en": "Scored on each note's pitch."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ss-1-up",
+                    "title": {
+                        "en": "Steps up and down"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A step goes from a line to the next space, or a space to the next line. Up the stave is up in pitch."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Count the steps"
+                                    },
+                                    "detail": {
+                                        "en": "Line, space, line: three notes in a row"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Up to so"
+                                    },
+                                    "detail": {
+                                        "en": "Do, re, mi, fa, so"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Then back"
+                                    },
+                                    "detail": {
+                                        "en": "The same steps, down"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Read up to so, names under the notes."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "turn": false,
+                                "guide": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 5
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 7
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "on",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                },
+                                "hearFirst": true,
+                                "score": "read"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Now back down. The names are faint: read the stave first."
+                            },
+                            "exercise": {
+                                "tempo": 60,
+                                "turn": false,
+                                "guide": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 7
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 5
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 0
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "faint",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                },
+                                "hearFirst": true,
+                                "score": "read"
+                            },
+                            "measures": {
+                                "en": "Scored on each note's pitch."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ss-1-turns",
+                    "title": {
+                        "en": "Lines that turn"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Real tunes turn: up a little, back, then on. Follow the notes, not a pattern."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Look at the whole line"
+                                    },
+                                    "detail": {
+                                        "en": "Where does it go highest?"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Find the turns"
+                                    },
+                                    "detail": {
+                                        "en": "Where it changes direction"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Then sing"
+                                    },
+                                    "detail": {
+                                        "en": "Steady, at the beat"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "A line that turns, names faint."
+                            },
+                            "exercise": {
+                                "tempo": 66,
+                                "turn": false,
+                                "guide": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": 5
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 1,
+                                        "step": 2
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "faint",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                },
+                                "hearFirst": true,
+                                "score": "read"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Another, with no names at all."
+                            },
+                            "exercise": {
+                                "tempo": 66,
+                                "turn": false,
+                                "guide": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": 5
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 7
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 1,
+                                        "step": 4
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "off",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                },
+                                "hearFirst": true,
+                                "score": "read"
+                            },
+                            "measures": {
+                                "en": "Scored on each note's pitch."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ss-1-challenge",
+                    "title": {
+                        "en": "A line, read cold"
+                    },
+                    "challenge": true,
+                    "fact": {
+                        "id": "treble-clef-g",
+                        "text": {
+                            "en": "The treble clef is a fancy letter G. Its curl wraps around the line where G sits, which is why it's also called the G clef."
+                        },
+                        "source": {
+                            "en": "Britannica, \"Clef\""
+                        },
+                        "url": "https://www.britannica.com/art/clef"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "A line you haven't heard, two bars long. Look, find do, then read it straight through."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Find do first"
+                                    },
+                                    "detail": {
+                                        "en": "Where your note sits"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Look for the top"
+                                    },
+                                    "detail": {
+                                        "en": "The highest note"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Read it cold"
+                                    },
+                                    "detail": {
+                                        "en": "No names, no help"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Read it cold: no names."
+                            },
+                            "exercise": {
+                                "tempo": 66,
+                                "turn": false,
+                                "guide": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 5
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 0.5,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 6.5,
+                                        "length": 0.5,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 7.0,
+                                        "length": 1,
+                                        "step": 0
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "off",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                },
+                                "hearFirst": true,
+                                "score": "read"
+                            },
+                            "measures": {
+                                "en": "Scored on each note's pitch."
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ss-leaps",
+            "title": {
+                "en": "Leaps you can see"
+            },
+            "lessons": [
+                {
+                    "id": "ss-2-chord",
+                    "title": {
+                        "en": "Do, mi, so"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Do, mi and so are the notes of your home chord. On the stave each sits two steps above the last: line to line, or space to space."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "A skip"
+                                    },
+                                    "detail": {
+                                        "en": "Jumps over one line or space"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Do, mi, so"
+                                    },
+                                    "detail": {
+                                        "en": "Each a skip apart"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Hear it in your head"
+                                    },
+                                    "detail": {
+                                        "en": "Before you sing it"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Watch the skips while they play, then sing them back."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": true,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 7
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 0
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "on",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Read the skips, names under the notes."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": false,
+                                "guide": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 7
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": 7
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 1,
+                                        "step": 0
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "on",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                },
+                                "hearFirst": true,
+                                "score": "read"
+                            },
+                            "measures": {
+                                "en": "Scored on each note's pitch."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ss-2-below",
+                    "title": {
+                        "en": "So below do"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Many tunes start below do, on the so beneath it, and leap up home. On the stave it's a skip and a step lower."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "So below"
+                                    },
+                                    "detail": {
+                                        "en": "A fourth under do"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Leap up home"
+                                    },
+                                    "detail": {
+                                        "en": "So to do, like a call"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Then the chord"
+                                    },
+                                    "detail": {
+                                        "en": "Do, mi, so above"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "So below do, then home: names faint."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": false,
+                                "guide": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": -5
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": -5
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": 0
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "faint",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                },
+                                "hearFirst": true,
+                                "score": "read"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Down to so, up through the chord, no names."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": false,
+                                "guide": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": -5
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 7
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 0
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "off",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                },
+                                "hearFirst": true,
+                                "score": "read"
+                            },
+                            "measures": {
+                                "en": "Scored on each note's pitch."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ss-2-mixed",
+                    "title": {
+                        "en": "Steps and skips"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Now lines mix steps and skips. A step goes to the very next line or space; a skip jumps one."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Spot the skips"
+                                    },
+                                    "detail": {
+                                        "en": "Before you start"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Steps fill in"
+                                    },
+                                    "detail": {
+                                        "en": "Between them"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Keep the beat"
+                                    },
+                                    "detail": {
+                                        "en": "Even when it leaps"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Steps and skips, names faint."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": false,
+                                "guide": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 5
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": 7
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 5
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 1,
+                                        "step": 4
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "faint",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                },
+                                "hearFirst": true,
+                                "score": "read"
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "And again, no names."
+                            },
+                            "exercise": {
+                                "tempo": 72,
+                                "turn": false,
+                                "guide": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 7
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 5
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 1,
+                                        "step": 0
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "off",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                },
+                                "hearFirst": true,
+                                "score": "read"
+                            },
+                            "measures": {
+                                "en": "Scored on each note's pitch."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ss-2-challenge",
+                    "title": {
+                        "en": "Ode to Joy, read"
+                    },
+                    "challenge": true,
+                    "fact": {
+                        "id": "bass-clef-f",
+                        "text": {
+                            "en": "The bass clef is a fancy letter F. Its two dots sit either side of the line where F sits, which is why it's also called the F clef."
+                        },
+                        "source": {
+                            "en": "Britannica, \"Clef\""
+                        },
+                        "url": "https://www.britannica.com/art/clef"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "You know this tune by ear. Now read it: Ode to Joy's second line, four bars, from the stave alone."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "Find do"
+                                    },
+                                    "detail": {
+                                        "en": "It ends there"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Mostly steps"
+                                    },
+                                    "detail": {
+                                        "en": "With one dotted note near the end"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Read, don't remember"
+                                    },
+                                    "detail": {
+                                        "en": "Follow the notes"
+                                    }
+                                }
+                            ],
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {
+                                "en": "Ode to Joy's second line, no names."
+                            },
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "guide": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 1,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": 5
+                                    },
+                                    {
+                                        "beat": 3,
+                                        "length": 1,
+                                        "step": 7
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": 7
+                                    },
+                                    {
+                                        "beat": 5,
+                                        "length": 1,
+                                        "step": 5
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 7,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 9,
+                                        "length": 1,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 1,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 11,
+                                        "length": 1,
+                                        "step": 4
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1.5,
+                                        "step": 2
+                                    },
+                                    {
+                                        "beat": 13.5,
+                                        "length": 0.5,
+                                        "step": 0
+                                    },
+                                    {
+                                        "beat": 14.0,
+                                        "length": 2,
+                                        "step": 0
+                                    }
+                                ],
+                                "staff": {
+                                    "names": "off",
+                                    "look": 4
+                                },
+                                "drone": {
+                                    "step": 0,
+                                    "fadeAfter": 4
+                                },
+                                "hearFirst": true,
+                                "score": "read"
+                            },
+                            "measures": {
+                                "en": "Scored on each note's pitch."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

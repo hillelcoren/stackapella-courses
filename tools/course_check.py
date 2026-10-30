@@ -96,6 +96,10 @@ def song(where, s):
 def exercise(where, ex, spec, web_only, clip_ids):
     if spec == "play":
         known(where + " exercise", ex, FORMAT["play"]["fields"])
+        staff = ex.get("staff")
+        if staff is not None and not (isinstance(staff, dict) and set(staff) <= {"names", "look"} and staff.get("names", "on") in ("on", "faint", "off")
+                                      and isinstance(staff.get("look", 4), (int, float)) and 0 <= staff.get("look", 4) <= 10):
+            problem(where, "staff is { names: on | faint | off, look: 0 to 10 seconds }")
         if "song" in ex:
             song(where, ex["song"])
             if "notes" in ex:

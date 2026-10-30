@@ -259,7 +259,7 @@
             "tempo": "beats a minute",
             "notes": "the notes: see note",
             "turn": "true: hear it, then sing it back; false: sing over the drone or chords",
-            "drone": "{ step, fadeAfter?, fadeOver? }: a held note under it; with fadeAfter it fades to silence from that many beats after the exercise's start (the listen phase included) over fadeOver beats (4 by default)",
+            "drone": "{ step, fadeAfter?, fadeOver? }: a held note under it; with fadeAfter it fades to silence from that many beats after the exercise's start (the listen phase included) over fadeOver beats (4 by default); fadeAfter: beats until it fades out, so do is heard first and the line is then read alone",
             "chords": "[{ beat, root, quality, bass }]: chords under it, root in semitones from home",
             "score": "how it's starred: hold, or a registered scorer (web/js/lesson-scores.js)",
             "show": "vibrato: describe a held note's vibrato after the take",
@@ -277,7 +277,9 @@
             "keep": "an id (\"<course>.<name>\"): the step's first heard take is kept on this device, never synced, for Then and now",
             "thenAndNow": "an id an earlier lesson keeps: after the take, that first take plays beside today's (Then and now, every course's finale)",
             "song": "{ template, part, phrases, with? }: the notes come from that song's part in those phrases (from 0, every section's in order), loaded with the song so a Plus song's notes stay private; with: others plays the other parts as partner lines. With turn: false the guide sings your line with you, unless guide: false; without others, the song's chords play under you. An exercise has song or notes, never both (a song course, course/songs: docs/song-courses-plan.md)",
-            "tuning": "true: the ring meter shows while a note of a beat or more is held in the step's chord (its chords, or its drone as the root): how close it is to pure, not just the piano's pitch (js/tuning.js ringReading, ux-spec 5.10c). A view only, never scored; hidden through a speaker."
+            "tuning": "true: the ring meter shows while a note of a beat or more is held in the step's chord (its chords, or its drone as the root): how close it is to pure, not just the piano's pitch (js/tuning.js ringReading, ux-spec 5.10c). A view only, never scored; hidden through a speaker.",
+            "staff": "{ names: on | faint | off, look: seconds }: the line drawn on a stave instead of the lane, in the key whose do is the singer's note, the clef from its range; names under the notes in the singer's chosen style (solfege by default), faint, or none; look: seconds it shows still before it runs, counted on the audio clock (Sight-singing: docs/sight-singing-plan.md)",
+            "hearFirst": "true: \"Hear it first\" is offered before the take; a take after hearing it is capped just under the top score, and the result says so"
         },
         "webOnly": [
             "score",
@@ -296,7 +298,9 @@
             "keep",
             "thenAndNow",
             "song",
-            "tuning"
+            "tuning",
+            "staff",
+            "hearFirst"
         ]
     },
     "note": {
