@@ -47,6 +47,12 @@ SONGS = {
     "loch-lomond": "staff",
     "the-water-is-wide": "staff",
     "steal-away": "staff",
+    "down-by-the-old-mill-stream": "staff",
+    "keep-on-the-sunny-side": "staff",
+    "let-me-call-you-sweetheart": "staff",
+    "now-is-the-month-of-maying": "staff",
+    "sweet-adeline": "staff",
+    "wade-in-the-water": "staff",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")

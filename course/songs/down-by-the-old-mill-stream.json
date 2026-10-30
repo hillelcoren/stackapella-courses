@@ -1,0 +1,1308 @@
+{
+    "id": "song-down-by-the-old-mill-stream",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Down by the Old Mill Stream"},
+    "units": [
+        {
+            "id": "song-down-by-the-old-mill-stream-lead",
+            "title": {"en": "The melody"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-down-by-the-old-mill-stream-lead-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Down by the Old Mill Stream: hear the whole song first, then the tune on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own."},
+                            "steps": [{"title": {"en": "Lead"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-lead-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-lead-3",
+                    "title": {"en": "Lines 3 and 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-lead-4",
+                    "title": {"en": "Lines 5 and 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-lead-5",
+                    "title": {"en": "Lines 7 and 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [6, 7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-lead-6",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-lead-7",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-lead-8",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "lead",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-lead-9",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of Down by the Old Mill Stream in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "down-by-the-old-mill-stream", "singers": 4, "part": "lead"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-down-by-the-old-mill-stream-bass",
+            "title": {"en": "Bass"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-down-by-the-old-mill-stream-bass-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Down by the Old Mill Stream: hear the whole song first, then the bass part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own."},
+                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-bass-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-bass-3",
+                    "title": {"en": "Lines 3 and 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-bass-4",
+                    "title": {"en": "Lines 5 and 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-bass-5",
+                    "title": {"en": "Lines 7 and 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [6, 7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-bass-6",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-bass-7",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-bass-8",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-bass-9",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of Down by the Old Mill Stream in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "down-by-the-old-mill-stream", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-down-by-the-old-mill-stream-baritone",
+            "title": {"en": "Baritone"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-down-by-the-old-mill-stream-baritone-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Down by the Old Mill Stream: hear the whole song first, then the baritone part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the baritone part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the baritone part on its own."},
+                            "steps": [{"title": {"en": "Baritone"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-baritone-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-baritone-3",
+                    "title": {"en": "Lines 3 and 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-baritone-4",
+                    "title": {"en": "Lines 5 and 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-baritone-5",
+                    "title": {"en": "Lines 7 and 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [6, 7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-baritone-6",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-baritone-7",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-baritone-8",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "baritone",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-baritone-9",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the baritone part of Down by the Old Mill Stream in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "down-by-the-old-mill-stream", "singers": 4, "part": "baritone"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-down-by-the-old-mill-stream-tenor",
+            "title": {"en": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-down-by-the-old-mill-stream-tenor-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Down by the Old Mill Stream: hear the whole song first, then the tenor part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own."},
+                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-tenor-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-tenor-3",
+                    "title": {"en": "Lines 3 and 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-tenor-4",
+                    "title": {"en": "Lines 5 and 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-tenor-5",
+                    "title": {"en": "Lines 7 and 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [6, 7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-tenor-6",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-tenor-7",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-tenor-8",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "down-by-the-old-mill-stream",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-down-by-the-old-mill-stream-tenor-9",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of Down by the Old Mill Stream in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "down-by-the-old-mill-stream", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
