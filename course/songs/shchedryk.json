@@ -564,7 +564,7 @@
                 },
                 {
                     "id": "song-shchedryk-alto-3",
-                    "title": {"en": "Lines 5 to 7"},
+                    "title": {"en": "Lines 5 to 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -582,25 +582,12 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Hear line 6, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "shchedryk",
                                     "part": "alto",
                                     "phrases": [5]
-                                },
-                                "turn": false
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        },
-                        {
-                            "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "shchedryk",
-                                    "part": "alto",
-                                    "phrases": [6]
                                 },
                                 "turn": true
                             },
@@ -608,12 +595,38 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 to 7 joined: hear them, then sing them back."},
+                            "text": {"en": "Line 7 is the tune of line 3 again, with new words. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "shchedryk",
                                     "part": "alto",
-                                    "phrases": [4, 5, 6]
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 6 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shchedryk",
+                                    "part": "alto",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shchedryk",
+                                    "part": "alto",
+                                    "phrases": [4, 5, 6, 7]
                                 },
                                 "turn": true
                             },
@@ -623,22 +636,9 @@
                 },
                 {
                     "id": "song-shchedryk-alto-4",
-                    "title": {"en": "Lines 8 and 9"},
+                    "title": {"en": "Lines 9 to 12"},
                     "strictness": "relaxed",
                     "steps": [
-                        {
-                            "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "shchedryk",
-                                    "part": "alto",
-                                    "phrases": [7]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        },
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 9, then sing it back."},
@@ -652,26 +652,6 @@
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
-                        {
-                            "kind": "play",
-                            "text": {"en": "Now lines 8 and 9 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "shchedryk",
-                                    "part": "alto",
-                                    "phrases": [7, 8]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-shchedryk-alto-5",
-                    "title": {"en": "Lines 10 to 12"},
-                    "strictness": "relaxed",
-                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 10, then sing it back."},
@@ -700,7 +680,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 12 is the tune of line 6 again, with new words. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "shchedryk",
@@ -713,12 +693,12 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 10 to 12 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 9 to 12 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "shchedryk",
                                     "part": "alto",
-                                    "phrases": [9, 10, 11]
+                                    "phrases": [8, 9, 10, 11]
                                 },
                                 "turn": true
                             },
@@ -727,7 +707,7 @@
                     ]
                 },
                 {
-                    "id": "song-shchedryk-alto-6",
+                    "id": "song-shchedryk-alto-5",
                     "title": {"en": "Lines 13 and 14"},
                     "strictness": "relaxed",
                     "steps": [
@@ -773,7 +753,7 @@
                     ]
                 },
                 {
-                    "id": "song-shchedryk-alto-7",
+                    "id": "song-shchedryk-alto-6",
                     "title": {"en": "The whole song"},
                     "steps": [
                         {
@@ -844,7 +824,7 @@
                     ]
                 },
                 {
-                    "id": "song-shchedryk-alto-8",
+                    "id": "song-shchedryk-alto-7",
                     "title": {"en": "With the others"},
                     "steps": [
                         {
@@ -864,7 +844,7 @@
                     ]
                 },
                 {
-                    "id": "song-shchedryk-alto-9",
+                    "id": "song-shchedryk-alto-8",
                     "title": {"en": "On your own"},
                     "steps": [
                         {
@@ -902,7 +882,7 @@
                     ]
                 },
                 {
-                    "id": "song-shchedryk-alto-10",
+                    "id": "song-shchedryk-alto-9",
                     "title": {"en": "Record it"},
                     "steps": [
                         {"kind": "record", "text": {"en": "Record the alto part of Shchedryk in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "shchedryk", "singers": 4, "part": "alto"}
@@ -1359,7 +1339,7 @@
                 },
                 {
                     "id": "song-shchedryk-tenor-2",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 to 9"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -1390,12 +1370,25 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Line 9 is line 7 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "shchedryk",
                                     "part": "tenor",
-                                    "phrases": [6, 7]
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 to 9 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shchedryk",
+                                    "part": "tenor",
+                                    "phrases": [6, 7, 8]
                                 },
                                 "turn": true
                             },
@@ -1405,22 +1398,9 @@
                 },
                 {
                     "id": "song-shchedryk-tenor-3",
-                    "title": {"en": "Lines 9 and 10"},
+                    "title": {"en": "Lines 10 and 11"},
                     "strictness": "relaxed",
                     "steps": [
-                        {
-                            "kind": "play",
-                            "text": {"en": "Hear line 9, then sing it back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "shchedryk",
-                                    "part": "tenor",
-                                    "phrases": [8]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        },
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 10, then sing it back."},
@@ -1436,26 +1416,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 and 10 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "shchedryk",
-                                    "part": "tenor",
-                                    "phrases": [8, 9]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-shchedryk-tenor-4",
-                    "title": {"en": "Lines 11 to 14"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
                             "text": {"en": "Hear line 11, then sing it back."},
                             "exercise": {
                                 "song": {
@@ -1469,27 +1429,47 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 8 again. Sing it with the guide."},
+                            "text": {"en": "Now lines 10 and 11 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shchedryk",
+                                    "part": "tenor",
+                                    "phrases": [9, 10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shchedryk-tenor-4",
+                    "title": {"en": "Lines 12 to 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 12, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "shchedryk",
                                     "part": "tenor",
                                     "phrases": [11]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 13, then sing it back."},
+                            "text": {"en": "Line 13 is line 7 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "shchedryk",
                                     "part": "tenor",
                                     "phrases": [12]
                                 },
-                                "turn": true
+                                "turn": false
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
@@ -1508,14 +1488,14 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 to 14 joined, with the guide."},
+                            "text": {"en": "Now lines 12 to 14 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "shchedryk",
                                     "part": "tenor",
-                                    "phrases": [10, 11, 12, 13]
+                                    "phrases": [11, 12, 13]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         }

@@ -1,6 +1,6 @@
 {
  "id": "red-river-valley",
- "version": 6,
+ "version": 7,
  "reviewed": true,
  "title": "Red River Valley",
  "description": "The gentle cowboy song, for 2 to 4 singers: the soprano sings the melody, the alto moves beneath it, the bass holds the roots on \"oo\", and the tenor fills the chord. Easy to learn by ear.",
@@ -95,12 +95,24 @@
   },
   {
    "beat": 25.0,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 26.0,
    "root": 2,
    "quality": "maj",
    "bass": null
   },
   {
    "beat": 27.0,
+   "root": 9,
+   "quality": "min7",
+   "bass": 7
+  },
+  {
+   "beat": 28.0,
    "root": 7,
    "quality": "maj",
    "bass": null
@@ -394,8 +406,8 @@
    "key": "alto",
    "name": "Alto",
    "range": {
-    "low": 57,
-    "high": 71
+    "low": 59,
+    "high": 67
    },
    "guide": {
     "type": "notes",
@@ -410,25 +422,25 @@
      {
       "beat": 0.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 60,
       "lyric": "this"
      },
      {
       "beat": 1.0,
       "length": 1.0,
-      "pitch": 67,
+      "pitch": 62,
       "lyric": "val-"
      },
      {
       "beat": 2.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 62,
       "lyric": "ley"
      },
      {
       "beat": 2.5,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 64,
       "lyric": "they"
      },
      {
@@ -477,7 +489,7 @@
      {
       "beat": 9.0,
       "length": 1.0,
-      "pitch": 67,
+      "pitch": 62,
       "lyric": "miss"
      },
      {
@@ -489,25 +501,25 @@
      {
       "beat": 10.5,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 62,
       "lyric": "bright"
      },
      {
       "beat": 11.0,
       "length": 1.0,
-      "pitch": 71,
+      "pitch": 59,
       "lyric": "eyes"
      },
      {
       "beat": 12.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 60,
       "lyric": "and"
      },
      {
       "beat": 12.5,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 62,
       "lyric": "sweet"
      },
      {
@@ -526,25 +538,25 @@
      {
       "beat": 16.5,
       "length": 0.5,
-      "pitch": 66,
+      "pitch": 64,
       "lyric": "they"
      },
      {
       "beat": 17.0,
       "length": 1.0,
-      "pitch": 67,
+      "pitch": 62,
       "lyric": "say"
      },
      {
       "beat": 18.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 62,
       "lyric": "you"
      },
      {
       "beat": 18.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 60,
       "lyric": "are"
      },
      {
@@ -593,7 +605,7 @@
      {
       "beat": 25.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 59,
       "lyric": "bright-"
      },
      {
@@ -611,19 +623,19 @@
      {
       "beat": 27.0,
       "length": 1.0,
-      "pitch": 66,
+      "pitch": 60,
       "lyric": "path-"
      },
      {
       "beat": 28.0,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 62,
       "lyric": "way"
      },
      {
       "beat": 28.5,
       "length": 0.5,
-      "pitch": 66,
+      "pitch": 62,
       "lyric": "a"
      },
      {
@@ -644,7 +656,7 @@
    "key": "tenor",
    "name": "Tenor",
    "range": {
-    "low": 52,
+    "low": 53,
     "high": 62
    },
    "guide": {
@@ -660,25 +672,25 @@
      {
       "beat": 0.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 57,
       "lyric": "this"
      },
      {
       "beat": 1.0,
       "length": 1.0,
-      "pitch": 55,
+      "pitch": 59,
       "lyric": "val-"
      },
      {
       "beat": 2.0,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 59,
       "lyric": "ley"
      },
      {
       "beat": 2.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 60,
       "lyric": "they"
      },
      {
@@ -727,7 +739,7 @@
      {
       "beat": 9.0,
       "length": 1.0,
-      "pitch": 62,
+      "pitch": 55,
       "lyric": "miss"
      },
      {
@@ -739,25 +751,25 @@
      {
       "beat": 10.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "bright"
      },
      {
       "beat": 11.0,
       "length": 1.0,
-      "pitch": 62,
+      "pitch": 55,
       "lyric": "eyes"
      },
      {
       "beat": 12.0,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 57,
       "lyric": "and"
      },
      {
       "beat": 12.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "sweet"
      },
      {
@@ -769,7 +781,7 @@
      {
       "beat": 16.0,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "for",
       "br": true
      },
@@ -782,13 +794,13 @@
      {
       "beat": 17.0,
       "length": 1.0,
-      "pitch": 59,
+      "pitch": 55,
       "lyric": "say"
      },
      {
       "beat": 18.0,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 55,
       "lyric": "you"
      },
      {
@@ -818,7 +830,7 @@
      {
       "beat": 21.0,
       "length": 1.0,
-      "pitch": 52,
+      "pitch": 55,
       "lyric": "sun-"
      },
      {
@@ -843,7 +855,7 @@
      {
       "beat": 25.0,
       "length": 1.0,
-      "pitch": 54,
+      "pitch": 55,
       "lyric": "bright-"
      },
      {
@@ -861,19 +873,19 @@
      {
       "beat": 27.0,
       "length": 1.0,
-      "pitch": 59,
+      "pitch": 57,
       "lyric": "path-"
      },
      {
       "beat": 28.0,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 55,
       "lyric": "way"
      },
      {
       "beat": 28.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 55,
       "lyric": "a"
      },
      {

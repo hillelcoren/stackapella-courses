@@ -1,6 +1,6 @@
 {
  "id": "shenandoah",
- "version": 6,
+ "version": 7,
  "reviewed": true,
  "title": "Shenandoah",
  "description": "The American river song, for 2 to 4 singers: the soprano sings the long, rolling melody, the alto and tenor move gently beneath it, and the bass holds the roots on \"oo\". Slow and spacious, with time to breathe.",
@@ -109,9 +109,9 @@
   },
   {
    "beat": 36,
-   "root": 7,
-   "quality": "min",
-   "bass": null
+   "root": 0,
+   "quality": "dom7",
+   "bass": 7
   },
   {
    "beat": 37,
@@ -424,7 +424,7 @@
    "name": "Alto",
    "range": {
     "low": 57,
-    "high": 69
+    "high": 70
    },
    "guide": {
     "type": "notes",
@@ -451,7 +451,7 @@
      {
       "beat": 3.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 58,
       "lyric": "I"
      },
      {
@@ -488,19 +488,19 @@
      {
       "beat": 9,
       "length": 1.5,
-      "pitch": 65,
+      "pitch": 70,
       "lyric": "way,"
      },
      {
       "beat": 10.5,
       "length": 0.5,
-      "pitch": 65,
+      "pitch": 69,
       "lyric": "you"
      },
      {
       "beat": 11,
       "length": 1,
-      "pitch": 65,
+      "pitch": 70,
       "lyric": "roll-"
      },
      {
@@ -555,13 +555,13 @@
      {
       "beat": 20,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 64,
       "lyric": "long"
      },
      {
       "beat": 20.5,
       "length": 0.5,
-      "pitch": 65,
+      "pitch": 60,
       "lyric": "to"
      },
      {
@@ -635,7 +635,7 @@
      {
       "beat": 36,
       "length": 1,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "Mis-"
      },
      {
@@ -658,7 +658,7 @@
    "name": "Tenor",
    "range": {
     "low": 53,
-    "high": 62
+    "high": 60
    },
    "guide": {
     "type": "notes",
@@ -666,20 +666,20 @@
      {
       "beat": 1,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 53,
       "lyric": "Shen-",
       "br": true
      },
      {
       "beat": 1.5,
       "length": 0.5,
-      "pitch": 60,
+      "pitch": 53,
       "lyric": "an-"
      },
      {
       "beat": 2,
       "length": 1.5,
-      "pitch": 60,
+      "pitch": 53,
       "lyric": "doah,"
      },
      {
@@ -728,7 +728,7 @@
      {
       "beat": 10.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 60,
       "lyric": "you"
      },
      {
@@ -740,7 +740,7 @@
      {
       "beat": 12,
       "length": 1,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "ing"
      },
      {
@@ -758,7 +758,7 @@
      {
       "beat": 16,
       "length": 1,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "Oh",
       "br": true
      },
@@ -771,19 +771,19 @@
      {
       "beat": 17.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 58,
       "lyric": "an-"
      },
      {
       "beat": 18,
       "length": 1.5,
-      "pitch": 53,
+      "pitch": 58,
       "lyric": "doah,"
      },
      {
       "beat": 19.5,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "I"
      },
      {
@@ -801,7 +801,7 @@
      {
       "beat": 21,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 57,
       "lyric": "hear"
      },
      {
@@ -826,7 +826,7 @@
      {
       "beat": 26.5,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "I'm"
      },
      {
@@ -850,14 +850,14 @@
      {
       "beat": 32,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "'cross",
       "br": true
      },
      {
       "beat": 32.5,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 58,
       "lyric": "the"
      },
      {
@@ -869,7 +869,7 @@
      {
       "beat": 36,
       "length": 1,
-      "pitch": 58,
+      "pitch": 60,
       "lyric": "Mis-"
      },
      {
@@ -881,7 +881,7 @@
      {
       "beat": 39,
       "length": 2,
-      "pitch": 60,
+      "pitch": 53,
       "lyric": "ri."
      }
     ]

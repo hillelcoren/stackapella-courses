@@ -1,6 +1,6 @@
 {
  "id": "all-through-the-night",
- "version": 2,
+ "version": 3,
  "reviewed": true,
  "title": "All Through the Night",
  "description": "The Welsh lullaby \"Ar Hyd y Nos\" with Harold Boulton's English words, for 2 to 4 singers: the first verse, sung softly like a hymn. The soprano sings the melody and the other parts sing the words with it, the alto in thirds and sixths beneath.",
@@ -169,7 +169,7 @@
   {
    "beat": 22.0,
    "root": 2,
-   "quality": "maj",
+   "quality": "dom7",
    "bass": null
   },
   {
@@ -224,7 +224,7 @@
    "beat": 37.0,
    "root": 7,
    "quality": "maj",
-   "bass": 11
+   "bass": null
   },
   {
    "beat": 38.0,
@@ -258,15 +258,15 @@
   },
   {
    "beat": 43.0,
-   "root": 0,
-   "quality": "maj",
+   "root": 4,
+   "quality": "min",
    "bass": null
   },
   {
    "beat": 44.0,
    "root": 7,
    "quality": "maj",
-   "bass": null
+   "bass": 2
   },
   {
    "beat": 45.0,
@@ -278,7 +278,7 @@
    "beat": 46.0,
    "root": 4,
    "quality": "min",
-   "bass": 7
+   "bass": 11
   },
   {
    "beat": 46.5,
@@ -674,8 +674,8 @@
    "key": "alto",
    "name": "Alto",
    "range": {
-    "low": 59,
-    "high": 71
+    "low": 57,
+    "high": 67
    },
    "guide": {
     "type": "notes",
@@ -850,31 +850,31 @@
      {
       "beat": 35.0,
       "length": 1.0,
-      "pitch": 71,
+      "pitch": 59,
       "lyric": "sy"
      },
      {
       "beat": 36.0,
       "length": 1.0,
-      "pitch": 67,
+      "pitch": 60,
       "lyric": "hours"
      },
      {
       "beat": 37.0,
       "length": 1.0,
-      "pitch": 67,
+      "pitch": 59,
       "lyric": "are"
      },
      {
       "beat": 38,
       "length": 0.5,
-      "pitch": 64,
+      "pitch": 57,
       "lyric": "creep-"
      },
      {
       "beat": 38.5,
       "length": 0.5,
-      "pitch": 67,
+      "pitch": 62,
       "lyric": "ing,"
      },
      {
@@ -905,7 +905,7 @@
      {
       "beat": 44.0,
       "length": 1.0,
-      "pitch": 62,
+      "pitch": 67,
       "lyric": "slum-"
      },
      {
@@ -1090,20 +1090,20 @@
      {
       "beat": 16.0,
       "length": 1.5,
-      "pitch": 50,
+      "pitch": 55,
       "lyric": "Guard-",
       "br": true
      },
      {
       "beat": 17.5,
       "length": 0.5,
-      "pitch": 50,
+      "pitch": 55,
       "lyric": "ian"
      },
      {
       "beat": 18.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "an-"
      },
      {
@@ -1127,7 +1127,7 @@
      {
       "beat": 22,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "lend"
      },
      {
@@ -1171,25 +1171,25 @@
      {
       "beat": 33.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 52,
       "lyric": "the"
      },
      {
       "beat": 34.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 52,
       "lyric": "drow-"
      },
      {
       "beat": 35.0,
       "length": 1.0,
-      "pitch": 59,
+      "pitch": 55,
       "lyric": "sy"
      },
      {
       "beat": 36.0,
       "length": 1.0,
-      "pitch": 60,
+      "pitch": 55,
       "lyric": "hours"
      },
      {
@@ -1201,44 +1201,44 @@
      {
       "beat": 38,
       "length": 0.5,
-      "pitch": 57,
+      "pitch": 52,
       "lyric": "creep-"
      },
      {
       "beat": 38.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 55,
       "lyric": "ing,"
      },
      {
       "beat": 40.0,
       "length": 1.0,
-      "pitch": 60,
+      "pitch": 57,
       "lyric": "Hill",
       "br": true
      },
      {
       "beat": 41.0,
       "length": 1.0,
-      "pitch": 55,
+      "pitch": 62,
       "lyric": "and"
      },
      {
       "beat": 42.0,
       "length": 1.0,
-      "pitch": 57,
+      "pitch": 62,
       "lyric": "dale"
      },
      {
       "beat": 43.0,
       "length": 1.0,
-      "pitch": 60,
+      "pitch": 59,
       "lyric": "in"
      },
      {
       "beat": 44.0,
       "length": 1.0,
-      "pitch": 55,
+      "pitch": 62,
       "lyric": "slum-"
      },
      {
@@ -1528,7 +1528,7 @@
      {
       "beat": 37.0,
       "length": 1.0,
-      "pitch": 47,
+      "pitch": 43,
       "lyric": "are"
      },
      {
@@ -1571,7 +1571,7 @@
      {
       "beat": 44.0,
       "length": 1.0,
-      "pitch": 43,
+      "pitch": 50,
       "lyric": "slum-"
      },
      {
@@ -1583,7 +1583,7 @@
      {
       "beat": 46,
       "length": 0.5,
-      "pitch": 43,
+      "pitch": 47,
       "lyric": "steep-"
      },
      {
