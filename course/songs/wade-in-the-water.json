@@ -1236,7 +1236,7 @@
                 },
                 {
                     "id": "song-wade-in-the-water-alto-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 and 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -1267,25 +1267,12 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
                                     "part": "alto",
-                                    "phrases": [2]
-                                },
-                                "turn": false
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        },
-                        {
-                            "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "wade-in-the-water",
-                                    "part": "alto",
-                                    "phrases": [0, 1, 2]
+                                    "phrases": [0, 1]
                                 },
                                 "turn": true
                             },
@@ -1295,9 +1282,22 @@
                 },
                 {
                     "id": "song-wade-in-the-water-alto-3",
-                    "title": {"en": "Lines 4 and 5"},
+                    "title": {"en": "Lines 3 and 4"},
                     "strictness": "relaxed",
                     "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "wade-in-the-water",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 4, then sing it back."},
@@ -1313,6 +1313,26 @@
                         },
                         {
                             "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "wade-in-the-water",
+                                    "part": "alto",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-wade-in-the-water-alto-4",
+                    "title": {"en": "Lines 5 to 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
                             "text": {"en": "Hear line 5, then sing it back."},
                             "exercise": {
                                 "song": {
@@ -1326,34 +1346,14 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "wade-in-the-water",
-                                    "part": "alto",
-                                    "phrases": [3, 4]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-wade-in-the-water-alto-4",
-                    "title": {"en": "Lines 6 to 9"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Line 6 is the tune of line 4 again, with new words. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
                                     "part": "alto",
                                     "phrases": [5]
                                 },
-                                "turn": true
+                                "turn": false
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
@@ -1372,7 +1372,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is the tune of line 6 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1383,6 +1383,26 @@
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "wade-in-the-water",
+                                    "part": "alto",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-wade-in-the-water-alto-5",
+                    "title": {"en": "Lines 9 to 12"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
@@ -1398,26 +1418,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 to 9 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "wade-in-the-water",
-                                    "part": "alto",
-                                    "phrases": [5, 6, 7, 8]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-wade-in-the-water-alto-5",
-                    "title": {"en": "Lines 10 to 13"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
                             "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
@@ -1431,7 +1431,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1457,6 +1457,26 @@
                         },
                         {
                             "kind": "play",
+                            "text": {"en": "Now lines 9 to 12 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "wade-in-the-water",
+                                    "part": "alto",
+                                    "phrases": [8, 9, 10, 11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-wade-in-the-water-alto-6",
+                    "title": {"en": "Lines 13 to 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
                             "text": {"en": "Line 13 is line 5 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
@@ -1470,27 +1490,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 10 to 13 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "wade-in-the-water",
-                                    "part": "alto",
-                                    "phrases": [9, 10, 11, 12]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-wade-in-the-water-alto-6",
-                    "title": {"en": "Lines 14 to 17"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
-                            "text": {"en": "Line 14 is line 6 again. Sing it with the guide."},
+                            "text": {"en": "Line 14 is the tune of line 4 again, with new words. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1516,7 +1516,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is the tune of line 6 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1527,6 +1527,26 @@
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 to 16 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "wade-in-the-water",
+                                    "part": "alto",
+                                    "phrases": [12, 13, 14, 15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-wade-in-the-water-alto-7",
+                    "title": {"en": "Lines 17 to 20"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
@@ -1542,26 +1562,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 14 to 17 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "wade-in-the-water",
-                                    "part": "alto",
-                                    "phrases": [13, 14, 15, 16]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-wade-in-the-water-alto-7",
-                    "title": {"en": "Lines 18 to 20"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
                             "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
@@ -1575,7 +1575,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1601,12 +1601,12 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 18 to 20 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 17 to 20 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
                                     "part": "alto",
-                                    "phrases": [17, 18, 19]
+                                    "phrases": [16, 17, 18, 19]
                                 },
                                 "turn": true
                             },
@@ -1901,7 +1901,7 @@
                 },
                 {
                     "id": "song-wade-in-the-water-tenor-4",
-                    "title": {"en": "Lines 5 and 6"},
+                    "title": {"en": "Lines 5 to 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -1919,37 +1919,17 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Line 6 is the tune of line 4 again, with new words. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
                                     "part": "tenor",
                                     "phrases": [5]
                                 },
-                                "turn": true
+                                "turn": false
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
-                        {
-                            "kind": "play",
-                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "wade-in-the-water",
-                                    "part": "tenor",
-                                    "phrases": [4, 5]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-wade-in-the-water-tenor-5",
-                    "title": {"en": "Lines 7 to 10"},
-                    "strictness": "relaxed",
-                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 7, then sing it back."},
@@ -1965,7 +1945,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is the tune of line 6 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1976,6 +1956,26 @@
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "wade-in-the-water",
+                                    "part": "tenor",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-wade-in-the-water-tenor-5",
+                    "title": {"en": "Lines 9 to 12"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
@@ -2004,26 +2004,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 to 10 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "wade-in-the-water",
-                                    "part": "tenor",
-                                    "phrases": [6, 7, 8, 9]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-wade-in-the-water-tenor-6",
-                    "title": {"en": "Lines 11 to 14"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
                             "text": {"en": "Line 11 is line 3 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
@@ -2050,6 +2030,26 @@
                         },
                         {
                             "kind": "play",
+                            "text": {"en": "Now lines 9 to 12 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "wade-in-the-water",
+                                    "part": "tenor",
+                                    "phrases": [8, 9, 10, 11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-wade-in-the-water-tenor-6",
+                    "title": {"en": "Lines 13 to 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
                             "text": {"en": "Line 13 is line 5 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
@@ -2063,7 +2063,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 14 is line 6 again. Sing it with the guide."},
+                            "text": {"en": "Line 14 is the tune of line 4 again, with new words. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2074,26 +2074,6 @@
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
-                        {
-                            "kind": "play",
-                            "text": {"en": "Now lines 11 to 14 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "wade-in-the-water",
-                                    "part": "tenor",
-                                    "phrases": [10, 11, 12, 13]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-wade-in-the-water-tenor-7",
-                    "title": {"en": "Lines 15 to 18"},
-                    "strictness": "relaxed",
-                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Line 15 is line 7 again. Sing it with the guide."},
@@ -2109,7 +2089,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is the tune of line 6 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2120,6 +2100,26 @@
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 to 16 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "wade-in-the-water",
+                                    "part": "tenor",
+                                    "phrases": [12, 13, 14, 15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-wade-in-the-water-tenor-7",
+                    "title": {"en": "Lines 17 to 20"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
@@ -2148,26 +2148,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 15 to 18 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "wade-in-the-water",
-                                    "part": "tenor",
-                                    "phrases": [14, 15, 16, 17]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-wade-in-the-water-tenor-8",
-                    "title": {"en": "Lines 19 and 20"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
                             "text": {"en": "Line 19 is line 3 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
@@ -2194,12 +2174,12 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 19 and 20 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 17 to 20 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
                                     "part": "tenor",
-                                    "phrases": [18, 19]
+                                    "phrases": [16, 17, 18, 19]
                                 },
                                 "turn": true
                             },
@@ -2208,7 +2188,7 @@
                     ]
                 },
                 {
-                    "id": "song-wade-in-the-water-tenor-9",
+                    "id": "song-wade-in-the-water-tenor-8",
                     "title": {"en": "The whole song"},
                     "steps": [
                         {
@@ -2279,7 +2259,7 @@
                     ]
                 },
                 {
-                    "id": "song-wade-in-the-water-tenor-10",
+                    "id": "song-wade-in-the-water-tenor-9",
                     "title": {"en": "With the others"},
                     "steps": [
                         {
@@ -2299,7 +2279,7 @@
                     ]
                 },
                 {
-                    "id": "song-wade-in-the-water-tenor-11",
+                    "id": "song-wade-in-the-water-tenor-10",
                     "title": {"en": "On your own"},
                     "steps": [
                         {
@@ -2337,7 +2317,7 @@
                     ]
                 },
                 {
-                    "id": "song-wade-in-the-water-tenor-12",
+                    "id": "song-wade-in-the-water-tenor-11",
                     "title": {"en": "Record it"},
                     "steps": [
                         {"kind": "record", "text": {"en": "Record the tenor part of Wade in the Water in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "wade-in-the-water", "singers": 4, "part": "tenor"}

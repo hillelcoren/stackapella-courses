@@ -1,6 +1,6 @@
 {
  "id": "steal-away",
- "version": 3,
+ "version": 4,
  "reviewed": true,
  "title": "Steal Away",
  "description": "The spiritual as the Fisk Jubilee Singers first printed it, for 2 to 4 singers: the refrain, the first verse and the refrain again. The refrain is sung in close harmony; in the verse the soprano sings the words and the others hum the chords beneath, all joining on \"I hain't got long to stay here\". Slow and free, with room to hold the long notes.",
@@ -130,6 +130,12 @@
    "bass": null
   },
   {
+   "beat": 2.0,
+   "root": 5,
+   "quality": "maj",
+   "bass": 9
+  },
+  {
    "beat": 4.0,
    "root": 5,
    "quality": "maj",
@@ -250,12 +256,6 @@
    "bass": null
   },
   {
-   "beat": 45.0,
-   "root": 2,
-   "quality": "min",
-   "bass": null
-  },
-  {
    "beat": 47.0,
    "root": 5,
    "quality": "maj",
@@ -326,6 +326,12 @@
    "root": 5,
    "quality": "maj",
    "bass": null
+  },
+  {
+   "beat": 66.0,
+   "root": 5,
+   "quality": "maj",
+   "bass": 9
   },
   {
    "beat": 68.0,
@@ -433,7 +439,7 @@
      },
      {
       "beat": 2.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 65,
       "lyric": "way,"
      },
@@ -482,13 +488,13 @@
      },
      {
       "beat": 12.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 67,
       "lyric": "Je-"
      },
      {
       "beat": 13.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 69,
       "lyric": "sus!"
      },
@@ -507,7 +513,7 @@
      },
      {
       "beat": 18.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 65,
       "lyric": "way,"
      },
@@ -544,13 +550,13 @@
      },
      {
       "beat": 24.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "hain't"
      },
      {
       "beat": 25.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "got"
      },
@@ -568,7 +574,7 @@
      },
      {
       "beat": 28.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 67,
       "lyric": "stay"
      },
@@ -580,25 +586,25 @@
      },
      {
       "beat": 32.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 74,
       "lyric": "My",
       "br": true
      },
      {
       "beat": 33.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 74,
       "lyric": "Lord"
      },
      {
       "beat": 35.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 72
      },
      {
       "beat": 36.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 74,
       "lyric": "calls"
      },
@@ -610,7 +616,7 @@
      },
      {
       "beat": 39.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 69,
       "lyric": "He",
       "br": true
@@ -641,7 +647,7 @@
      },
      {
       "beat": 44.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 72,
       "lyric": "thun-"
      },
@@ -653,7 +659,7 @@
      },
      {
       "beat": 47.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "The",
       "br": true
@@ -684,13 +690,13 @@
      },
      {
       "beat": 52.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 74,
       "lyric": "in"
      },
      {
       "beat": 53.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 69,
       "lyric": "my"
      },
@@ -709,13 +715,13 @@
      },
      {
       "beat": 56.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "hain't"
      },
      {
       "beat": 57.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "got"
      },
@@ -733,7 +739,7 @@
      },
      {
       "beat": 60.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 67,
       "lyric": "stay"
      },
@@ -758,7 +764,7 @@
      },
      {
       "beat": 66.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 65,
       "lyric": "way,"
      },
@@ -807,13 +813,13 @@
      },
      {
       "beat": 76.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 67,
       "lyric": "Je-"
      },
      {
       "beat": 77.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 69,
       "lyric": "sus!"
      },
@@ -832,7 +838,7 @@
      },
      {
       "beat": 82.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 65,
       "lyric": "way,"
      },
@@ -869,13 +875,13 @@
      },
      {
       "beat": 88.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "hain't"
      },
      {
       "beat": 89.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "got"
      },
@@ -893,13 +899,13 @@
      },
      {
       "beat": 92.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 67,
       "lyric": "stay"
      },
      {
       "beat": 93.0,
-      "length": 3.0,
+      "length": 3,
       "pitch": 65,
       "lyric": "here."
      }
@@ -931,7 +937,7 @@
      },
      {
       "beat": 2.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 57,
       "lyric": "way,"
      },
@@ -980,13 +986,13 @@
      },
      {
       "beat": 12.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 64,
       "lyric": "Je-"
      },
      {
       "beat": 13.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 60,
       "lyric": "sus!"
      },
@@ -1005,7 +1011,7 @@
      },
      {
       "beat": 18.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 57,
       "lyric": "way,"
      },
@@ -1042,13 +1048,13 @@
      },
      {
       "beat": 24.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 57,
       "lyric": "hain't"
      },
      {
       "beat": 25.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 57,
       "lyric": "got"
      },
@@ -1066,8 +1072,8 @@
      },
      {
       "beat": 28.0,
-      "length": 1.0,
-      "pitch": 58,
+      "length": 1,
+      "pitch": 64,
       "lyric": "stay"
      },
      {
@@ -1078,68 +1084,68 @@
      },
      {
       "beat": 32.0,
-      "length": 3.0,
-      "pitch": 65,
+      "length": 3,
+      "pitch": 58,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 35.0,
-      "length": 1.0,
-      "pitch": 69
+      "length": 1,
+      "pitch": 57
      },
      {
       "beat": 36.0,
-      "length": 1.0,
-      "pitch": 65
+      "length": 1,
+      "pitch": 58
      },
      {
       "beat": 37.0,
       "length": 1.25,
-      "pitch": 69
+      "pitch": 57
      },
      {
       "beat": 39.0,
-      "length": 1.0,
-      "pitch": 65,
+      "length": 1,
+      "pitch": 69,
       "br": true,
       "lyric": "oo"
      },
      {
       "beat": 40.0,
-      "length": 5.0,
+      "length": 5,
       "pitch": 69
      },
      {
       "beat": 45.0,
       "length": 1.25,
-      "pitch": 65
+      "pitch": 69
      },
      {
       "beat": 47.0,
-      "length": 1.0,
-      "pitch": 57,
+      "length": 1,
+      "pitch": 69,
       "br": true,
       "lyric": "oo"
      },
      {
       "beat": 48.0,
       "length": 0.5,
-      "pitch": 60
+      "pitch": 69
      },
      {
       "beat": 48.5,
       "length": 1.5,
-      "pitch": 57
+      "pitch": 69
      },
      {
       "beat": 50.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 64
      },
      {
       "beat": 52.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 65
      },
      {
@@ -1156,13 +1162,13 @@
      },
      {
       "beat": 56.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 57,
       "lyric": "hain't"
      },
      {
       "beat": 57.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 57,
       "lyric": "got"
      },
@@ -1180,8 +1186,8 @@
      },
      {
       "beat": 60.0,
-      "length": 1.0,
-      "pitch": 58,
+      "length": 1,
+      "pitch": 64,
       "lyric": "stay"
      },
      {
@@ -1205,7 +1211,7 @@
      },
      {
       "beat": 66.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 57,
       "lyric": "way,"
      },
@@ -1254,13 +1260,13 @@
      },
      {
       "beat": 76.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 64,
       "lyric": "Je-"
      },
      {
       "beat": 77.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 60,
       "lyric": "sus!"
      },
@@ -1279,7 +1285,7 @@
      },
      {
       "beat": 82.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 57,
       "lyric": "way,"
      },
@@ -1316,13 +1322,13 @@
      },
      {
       "beat": 88.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 57,
       "lyric": "hain't"
      },
      {
       "beat": 89.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 57,
       "lyric": "got"
      },
@@ -1340,14 +1346,14 @@
      },
      {
       "beat": 92.0,
-      "length": 1.0,
-      "pitch": 58,
+      "length": 1,
+      "pitch": 64,
       "lyric": "stay"
      },
      {
       "beat": 93.0,
-      "length": 3.0,
-      "pitch": 57,
+      "length": 3,
+      "pitch": 69,
       "lyric": "here."
      }
     ]
@@ -1357,8 +1363,8 @@
    "key": "tenor",
    "name": "Tenor",
    "range": {
-    "low": 50,
-    "high": 58
+    "low": 53,
+    "high": 60
    },
    "guide": {
     "type": "notes",
@@ -1378,7 +1384,7 @@
      },
      {
       "beat": 2.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 53,
       "lyric": "way,"
      },
@@ -1391,7 +1397,7 @@
      {
       "beat": 5.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "a-"
      },
      {
@@ -1427,14 +1433,14 @@
      },
      {
       "beat": 12.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 58,
       "lyric": "Je-"
      },
      {
       "beat": 13.0,
-      "length": 1.0,
-      "pitch": 57,
+      "length": 1,
+      "pitch": 53,
       "lyric": "sus!"
      },
      {
@@ -1452,7 +1458,7 @@
      },
      {
       "beat": 18.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 53,
       "lyric": "way,"
      },
@@ -1489,13 +1495,13 @@
      },
      {
       "beat": 24.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 53,
       "lyric": "hain't"
      },
      {
       "beat": 25.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 53,
       "lyric": "got"
      },
@@ -1508,19 +1514,19 @@
      {
       "beat": 27.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "to"
      },
      {
       "beat": 28.0,
-      "length": 1.0,
-      "pitch": 52,
+      "length": 1,
+      "pitch": 58,
       "lyric": "stay"
      },
      {
       "beat": 29.0,
       "length": 2.25,
-      "pitch": 53,
+      "pitch": 57,
       "lyric": "here."
      },
      {
@@ -1532,32 +1538,32 @@
      },
      {
       "beat": 39.0,
-      "length": 6.0,
-      "pitch": 57,
+      "length": 6,
+      "pitch": 60,
       "br": true,
       "lyric": "oo"
      },
      {
       "beat": 45.0,
       "length": 1.25,
-      "pitch": 50
+      "pitch": 60
      },
      {
       "beat": 47.0,
-      "length": 3.0,
-      "pitch": 53,
+      "length": 3,
+      "pitch": 60,
       "br": true,
       "lyric": "oo"
      },
      {
       "beat": 50.0,
-      "length": 2.0,
-      "pitch": 55
+      "length": 2,
+      "pitch": 60
      },
      {
       "beat": 52.0,
-      "length": 1.0,
-      "pitch": 50
+      "length": 1,
+      "pitch": 53
      },
      {
       "beat": 53.0,
@@ -1573,13 +1579,13 @@
      },
      {
       "beat": 56.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 53,
       "lyric": "hain't"
      },
      {
       "beat": 57.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 53,
       "lyric": "got"
      },
@@ -1592,19 +1598,19 @@
      {
       "beat": 59.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "to"
      },
      {
       "beat": 60.0,
-      "length": 1.0,
-      "pitch": 52,
+      "length": 1,
+      "pitch": 58,
       "lyric": "stay"
      },
      {
       "beat": 61.0,
       "length": 2.25,
-      "pitch": 53,
+      "pitch": 57,
       "lyric": "here."
      },
      {
@@ -1622,7 +1628,7 @@
      },
      {
       "beat": 66.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 53,
       "lyric": "way,"
      },
@@ -1635,7 +1641,7 @@
      {
       "beat": 69.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "a-"
      },
      {
@@ -1671,14 +1677,14 @@
      },
      {
       "beat": 76.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 58,
       "lyric": "Je-"
      },
      {
       "beat": 77.0,
-      "length": 1.0,
-      "pitch": 57,
+      "length": 1,
+      "pitch": 53,
       "lyric": "sus!"
      },
      {
@@ -1696,7 +1702,7 @@
      },
      {
       "beat": 82.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 53,
       "lyric": "way,"
      },
@@ -1733,13 +1739,13 @@
      },
      {
       "beat": 88.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 53,
       "lyric": "hain't"
      },
      {
       "beat": 89.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 53,
       "lyric": "got"
      },
@@ -1752,19 +1758,19 @@
      {
       "beat": 91.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 55,
       "lyric": "to"
      },
      {
       "beat": 92.0,
-      "length": 1.0,
-      "pitch": 52,
+      "length": 1,
+      "pitch": 58,
       "lyric": "stay"
      },
      {
       "beat": 93.0,
-      "length": 3.0,
-      "pitch": 53,
+      "length": 3,
+      "pitch": 60,
       "lyric": "here."
      }
     ]
@@ -1775,7 +1781,7 @@
    "name": "Bass",
    "range": {
     "low": 41,
-    "high": 48
+    "high": 57
    },
    "guide": {
     "type": "notes",
@@ -1795,8 +1801,8 @@
      },
      {
       "beat": 2.0,
-      "length": 2.0,
-      "pitch": 41,
+      "length": 2,
+      "pitch": 45,
       "lyric": "way,"
      },
      {
@@ -1844,13 +1850,13 @@
      },
      {
       "beat": 12.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 48,
       "lyric": "Je-"
      },
      {
       "beat": 13.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 41,
       "lyric": "sus!"
      },
@@ -1869,7 +1875,7 @@
      },
      {
       "beat": 18.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 41,
       "lyric": "way,"
      },
@@ -1906,13 +1912,13 @@
      },
      {
       "beat": 24.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 41,
       "lyric": "hain't"
      },
      {
       "beat": 25.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 41,
       "lyric": "got"
      },
@@ -1925,31 +1931,31 @@
      {
       "beat": 27.5,
       "length": 0.5,
-      "pitch": 41,
+      "pitch": 45,
       "lyric": "to"
      },
      {
       "beat": 28.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 48,
       "lyric": "stay"
      },
      {
       "beat": 29.0,
       "length": 2.25,
-      "pitch": 41,
+      "pitch": 53,
       "lyric": "here."
      },
      {
       "beat": 32.0,
-      "length": 3.0,
+      "length": 3,
       "pitch": 46,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 35.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 41
      },
      {
@@ -1960,30 +1966,30 @@
      {
       "beat": 37.25,
       "length": 4.75,
-      "pitch": 41,
+      "pitch": 53,
       "br": true,
       "lyric": "oo"
      },
      {
       "beat": 42.0,
       "length": 1.25,
-      "pitch": 45
+      "pitch": 57
      },
      {
       "beat": 44.0,
-      "length": 6.0,
-      "pitch": 41,
+      "length": 6,
+      "pitch": 53,
       "br": true,
       "lyric": "oo"
      },
      {
       "beat": 50.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 48
      },
      {
       "beat": 52.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 46
      },
      {
@@ -2000,13 +2006,13 @@
      },
      {
       "beat": 56.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 41,
       "lyric": "hain't"
      },
      {
       "beat": 57.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 41,
       "lyric": "got"
      },
@@ -2019,19 +2025,19 @@
      {
       "beat": 59.5,
       "length": 0.5,
-      "pitch": 41,
+      "pitch": 45,
       "lyric": "to"
      },
      {
       "beat": 60.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 48,
       "lyric": "stay"
      },
      {
       "beat": 61.0,
       "length": 2.25,
-      "pitch": 41,
+      "pitch": 53,
       "lyric": "here."
      },
      {
@@ -2049,8 +2055,8 @@
      },
      {
       "beat": 66.0,
-      "length": 2.0,
-      "pitch": 41,
+      "length": 2,
+      "pitch": 45,
       "lyric": "way,"
      },
      {
@@ -2098,13 +2104,13 @@
      },
      {
       "beat": 76.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 48,
       "lyric": "Je-"
      },
      {
       "beat": 77.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 41,
       "lyric": "sus!"
      },
@@ -2123,7 +2129,7 @@
      },
      {
       "beat": 82.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 41,
       "lyric": "way,"
      },
@@ -2160,13 +2166,13 @@
      },
      {
       "beat": 88.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 41,
       "lyric": "hain't"
      },
      {
       "beat": 89.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 41,
       "lyric": "got"
      },
@@ -2179,18 +2185,18 @@
      {
       "beat": 91.5,
       "length": 0.5,
-      "pitch": 41,
+      "pitch": 45,
       "lyric": "to"
      },
      {
       "beat": 92.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 48,
       "lyric": "stay"
      },
      {
       "beat": 93.0,
-      "length": 3.0,
+      "length": 3,
       "pitch": 41,
       "lyric": "here."
      }
