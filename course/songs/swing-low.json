@@ -591,7 +591,7 @@
                 },
                 {
                     "id": "song-swing-low-bass-4",
-                    "title": {"en": "Lines 5 to 8"},
+                    "title": {"en": "Lines 5 and 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -609,17 +609,37 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Hear line 6, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "swing-low",
                                     "part": "bass",
                                     "phrases": [5]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "swing-low",
+                                    "part": "bass",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-swing-low-bass-5",
+                    "title": {"en": "Lines 7 to 10"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 7, then sing it back."},
@@ -648,26 +668,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 to 8 joined, with the guide."},
-                            "exercise": {
-                                "song": {
-                                    "template": "swing-low",
-                                    "part": "bass",
-                                    "phrases": [4, 5, 6, 7]
-                                },
-                                "turn": false
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-swing-low-bass-5",
-                    "title": {"en": "Lines 9 to 12"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
                             "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
                             "exercise": {
                                 "song": {
@@ -692,6 +692,26 @@
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 to 10 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "swing-low",
+                                    "part": "bass",
+                                    "phrases": [6, 7, 8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-swing-low-bass-6",
+                    "title": {"en": "Lines 11 and 12"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Line 11 is line 3 again. Sing it with the guide."},
@@ -720,21 +740,21 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 to 12 joined, with the guide."},
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "swing-low",
                                     "part": "bass",
-                                    "phrases": [8, 9, 10, 11]
+                                    "phrases": [10, 11]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         }
                     ]
                 },
                 {
-                    "id": "song-swing-low-bass-6",
+                    "id": "song-swing-low-bass-7",
                     "title": {"en": "The whole song"},
                     "steps": [
                         {
@@ -792,7 +812,7 @@
                     ]
                 },
                 {
-                    "id": "song-swing-low-bass-7",
+                    "id": "song-swing-low-bass-8",
                     "title": {"en": "With the others"},
                     "steps": [
                         {
@@ -812,7 +832,7 @@
                     ]
                 },
                 {
-                    "id": "song-swing-low-bass-8",
+                    "id": "song-swing-low-bass-9",
                     "title": {"en": "On your own"},
                     "steps": [
                         {
@@ -850,7 +870,7 @@
                     ]
                 },
                 {
-                    "id": "song-swing-low-bass-9",
+                    "id": "song-swing-low-bass-10",
                     "title": {"en": "Record it"},
                     "steps": [
                         {"kind": "record", "text": {"en": "Record the bass part of Swing Low, Sweet Chariot in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "swing-low", "singers": 4, "part": "bass"}

@@ -480,7 +480,7 @@
                 },
                 {
                     "id": "song-danny-boy-bass-4",
-                    "title": {"en": "Lines 5 to 8"},
+                    "title": {"en": "Lines 5 and 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -498,17 +498,37 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Hear line 6, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
                                     "part": "bass",
                                     "phrases": [5]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "danny-boy",
+                                    "part": "bass",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-danny-boy-bass-5",
+                    "title": {"en": "Lines 7 and 8"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 7, then sing it back."},
@@ -537,21 +557,21 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 to 8 joined, with the guide."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
                                     "part": "bass",
-                                    "phrases": [4, 5, 6, 7]
+                                    "phrases": [6, 7]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         }
                     ]
                 },
                 {
-                    "id": "song-danny-boy-bass-5",
+                    "id": "song-danny-boy-bass-6",
                     "title": {"en": "The whole song"},
                     "steps": [
                         {
@@ -570,7 +590,7 @@
                     ]
                 },
                 {
-                    "id": "song-danny-boy-bass-6",
+                    "id": "song-danny-boy-bass-7",
                     "title": {"en": "With the others"},
                     "steps": [
                         {
@@ -590,7 +610,7 @@
                     ]
                 },
                 {
-                    "id": "song-danny-boy-bass-7",
+                    "id": "song-danny-boy-bass-8",
                     "title": {"en": "On your own"},
                     "steps": [
                         {
@@ -628,7 +648,7 @@
                     ]
                 },
                 {
-                    "id": "song-danny-boy-bass-8",
+                    "id": "song-danny-boy-bass-9",
                     "title": {"en": "Record it"},
                     "steps": [
                         {"kind": "record", "text": {"en": "Record the bass part of Danny Boy in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "danny-boy", "singers": 4, "part": "bass"}
