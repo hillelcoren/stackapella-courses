@@ -414,7 +414,7 @@
                 },
                 {
                     "id": "song-let-me-call-you-sweetheart-bass-3",
-                    "title": {"en": "Lines 3 to 5"},
+                    "title": {"en": "Lines 3 to 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -458,12 +458,25 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 5 joined, with the guide."},
+                            "text": {"en": "Line 6 is the tune of line 2 again, with new words. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "let-me-call-you-sweetheart",
                                     "part": "bass",
-                                    "phrases": [2, 3, 4]
+                                    "phrases": [5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "let-me-call-you-sweetheart",
+                                    "part": "bass",
+                                    "phrases": [2, 3, 4, 5]
                                 },
                                 "turn": false
                             },
@@ -473,22 +486,9 @@
                 },
                 {
                     "id": "song-let-me-call-you-sweetheart-bass-4",
-                    "title": {"en": "Lines 6 to 8"},
+                    "title": {"en": "Lines 7 and 8"},
                     "strictness": "relaxed",
                     "steps": [
-                        {
-                            "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "let-me-call-you-sweetheart",
-                                    "part": "bass",
-                                    "phrases": [5]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        },
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 7, then sing it back."},
@@ -517,14 +517,14 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 to 8 joined, with the guide."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "let-me-call-you-sweetheart",
                                     "part": "bass",
-                                    "phrases": [5, 6, 7]
+                                    "phrases": [6, 7]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         }

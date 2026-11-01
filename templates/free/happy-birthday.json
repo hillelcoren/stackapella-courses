@@ -1,6 +1,6 @@
 {
  "id": "happy-birthday",
- "version": 5,
+ "version": 6,
  "reviewed": true,
  "title": "Happy Birthday",
  "description": "The song everyone knows, for 2 to 4 singers: the soprano sings the tune, the alto follows it a third below, the tenor fills the chord with the words, and the bass holds the roots on \"oo\". Short, and a lovely surprise to send someone.",
@@ -71,6 +71,12 @@
   },
   {
    "beat": 16,
+   "root": 2,
+   "quality": "dom7",
+   "bass": 0
+  },
+  {
+   "beat": 18,
    "root": 0,
    "quality": "maj",
    "bass": null
@@ -84,7 +90,7 @@
   {
    "beat": 21,
    "root": 2,
-   "quality": "maj",
+   "quality": "dom7",
    "bass": null
   },
   {
@@ -292,7 +298,7 @@
    "name": "Alto",
    "range": {
     "low": 57,
-    "high": 71
+    "high": 64
    },
    "guide": {
     "type": "notes",
@@ -337,14 +343,14 @@
      {
       "beat": 6,
       "length": 0.75,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "Hap-",
       "br": true
      },
      {
       "beat": 6.75,
       "length": 0.25,
-      "pitch": 57,
+      "pitch": 60,
       "lyric": "py"
      },
      {
@@ -387,31 +393,26 @@
      {
       "beat": 13,
       "length": 1,
-      "pitch": 71,
+      "pitch": 59,
       "lyric": "birth-"
      },
      {
       "beat": 14,
       "length": 1,
-      "pitch": 67,
+      "pitch": 62,
       "lyric": "day"
      },
      {
       "beat": 15,
       "length": 1,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "dear"
      },
      {
       "beat": 16,
-      "length": 0.5,
+      "length": 1,
       "pitch": 60,
       "lyric": "friend,"
-     },
-     {
-      "beat": 16.5,
-      "length": 0.5,
-      "pitch": 60
      },
      {
       "beat": 18,
@@ -429,19 +430,19 @@
      {
       "beat": 19,
       "length": 1,
-      "pitch": 67,
+      "pitch": 62,
       "lyric": "birth-"
      },
      {
       "beat": 20,
       "length": 1,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "day"
      },
      {
       "beat": 21,
       "length": 1,
-      "pitch": 66,
+      "pitch": 60,
       "lyric": "to"
      },
      {
@@ -457,8 +458,8 @@
    "key": "tenor",
    "name": "Tenor",
    "range": {
-    "low": 54,
-    "high": 62
+    "low": 50,
+    "high": 59
    },
    "guide": {
     "type": "notes",
@@ -553,13 +554,13 @@
      {
       "beat": 13,
       "length": 1,
-      "pitch": 59,
+      "pitch": 55,
       "lyric": "birth-"
      },
      {
       "beat": 14,
       "length": 1,
-      "pitch": 62,
+      "pitch": 59,
       "lyric": "day"
      },
      {
@@ -590,25 +591,25 @@
      {
       "beat": 19,
       "length": 1,
-      "pitch": 62,
+      "pitch": 55,
       "lyric": "birth-"
      },
      {
       "beat": 20,
       "length": 1,
-      "pitch": 59,
+      "pitch": 55,
       "lyric": "day"
      },
      {
       "beat": 21,
       "length": 1,
-      "pitch": 62,
+      "pitch": 54,
       "lyric": "to"
      },
      {
       "beat": 22,
       "length": 3,
-      "pitch": 62,
+      "pitch": 50,
       "lyric": "you."
      }
     ]

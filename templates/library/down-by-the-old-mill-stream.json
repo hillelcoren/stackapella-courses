@@ -1,6 +1,6 @@
 {
  "id": "down-by-the-old-mill-stream",
- "version": 2,
+ "version": 3,
  "reviewed": false,
  "title": "Down by the Old Mill Stream",
  "description": "The 1910 waltz in true barbershop: the lead sings the tune, the tenor rings above it, the baritone fills the chord and the bass holds the roots. The chorus, slow and free, with the others answering the lead's \"You were sixteen\" and \"my village queen\".",
@@ -128,7 +128,7 @@
    "beat": 13.5,
    "root": 10,
    "quality": "maj",
-   "bass": null
+   "bass": 2
   },
   {
    "beat": 16.5,
@@ -152,18 +152,6 @@
    "beat": 31.5,
    "root": 3,
    "quality": "maj",
-   "bass": null
-  },
-  {
-   "beat": 33.5,
-   "root": 7,
-   "quality": "dom7",
-   "bass": 2
-  },
-  {
-   "beat": 34.5,
-   "root": 0,
-   "quality": "min",
    "bass": null
   },
   {
@@ -251,6 +239,12 @@
    "bass": null
   },
   {
+   "beat": 80.5,
+   "root": 10,
+   "quality": "maj",
+   "bass": null
+  },
+  {
    "beat": 82.5,
    "root": 7,
    "quality": "dom7",
@@ -299,9 +293,9 @@
     "type": "notes",
     "notes": [
      {
-      "beat": 0.0,
+      "beat": 0,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 65,
       "lyric": "Down",
       "br": true
      },
@@ -312,21 +306,21 @@
       "lyric": "by"
      },
      {
-      "beat": 1.0,
+      "beat": 1,
       "length": 0.5,
       "pitch": 65,
       "lyric": "the"
      },
      {
       "beat": 1.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 70,
       "lyric": "old"
      },
      {
       "beat": 4.5,
-      "length": 3.0,
-      "pitch": 67,
+      "length": 3,
+      "pitch": 70,
       "lyric": "mill"
      },
      {
@@ -337,26 +331,26 @@
      },
      {
       "beat": 11.5,
-      "length": 1.0,
-      "pitch": 60,
+      "length": 1,
+      "pitch": 66,
       "lyric": "where",
       "br": true
      },
      {
       "beat": 12.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 63,
       "lyric": "I"
      },
      {
       "beat": 13.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 65,
       "lyric": "first"
      },
      {
       "beat": 16.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 63,
       "lyric": "met"
      },
@@ -368,44 +362,34 @@
      },
      {
       "beat": 23.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "With",
       "br": true
      },
      {
       "beat": 24.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "your"
      },
      {
       "beat": 25.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 65,
       "lyric": "eyes"
      },
      {
       "beat": 28.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 65,
       "lyric": "of"
      },
      {
       "beat": 31.5,
-      "length": 2.0,
+      "length": 3.5,
       "pitch": 63,
       "lyric": "blue,"
-     },
-     {
-      "beat": 33.5,
-      "length": 1.0,
-      "pitch": 65
-     },
-     {
-      "beat": 34.5,
-      "length": 0.5,
-      "pitch": 63
      },
      {
       "beat": 36,
@@ -416,19 +400,19 @@
      },
      {
       "beat": 36.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 62,
       "lyric": "in"
      },
      {
       "beat": 37.5,
-      "length": 3.0,
-      "pitch": 63,
+      "length": 3,
+      "pitch": 60,
       "lyric": "ging-"
      },
      {
       "beat": 40.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 60,
       "lyric": "ham"
      },
@@ -440,27 +424,27 @@
      },
      {
       "beat": 47.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "It",
       "br": true
      },
      {
       "beat": 48.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "was"
      },
      {
       "beat": 49.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 70,
       "lyric": "there"
      },
      {
       "beat": 52.5,
-      "length": 3.0,
-      "pitch": 67,
+      "length": 3,
+      "pitch": 70,
       "lyric": "I"
      },
      {
@@ -471,26 +455,26 @@
      },
      {
       "beat": 59.5,
-      "length": 1.0,
-      "pitch": 60,
+      "length": 1,
+      "pitch": 66,
       "lyric": "that",
       "br": true
      },
      {
       "beat": 60.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 63,
       "lyric": "you"
      },
      {
       "beat": 61.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 65,
       "lyric": "loved"
      },
      {
       "beat": 64.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 69,
       "lyric": "me"
      },
@@ -502,14 +486,14 @@
      },
      {
       "beat": 74.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 64,
       "lyric": "sweet",
       "br": true
      },
      {
       "beat": 75.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 64,
       "lyric": "six-"
      },
@@ -521,14 +505,14 @@
      },
      {
       "beat": 80.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "vil-",
       "br": true
      },
      {
       "beat": 81.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "lage"
      },
@@ -547,20 +531,20 @@
      },
      {
       "beat": 84.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 65,
       "lyric": "the"
      },
      {
       "beat": 85.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 58,
       "lyric": "old"
      },
      {
       "beat": 88.5,
-      "length": 3.0,
-      "pitch": 65,
+      "length": 3,
+      "pitch": 62,
       "lyric": "mill"
      },
      {
@@ -584,7 +568,7 @@
     "type": "notes",
     "notes": [
      {
-      "beat": 0.0,
+      "beat": 0,
       "length": 0.5,
       "pitch": 53,
       "lyric": "Down",
@@ -597,20 +581,20 @@
       "lyric": "by"
      },
      {
-      "beat": 1.0,
+      "beat": 1,
       "length": 0.5,
       "pitch": 62,
       "lyric": "the"
      },
      {
       "beat": 1.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 65,
       "lyric": "old"
      },
      {
       "beat": 4.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 64,
       "lyric": "mill"
      },
@@ -622,26 +606,26 @@
      },
      {
       "beat": 11.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 54,
       "lyric": "where",
       "br": true
      },
      {
       "beat": 12.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 55,
       "lyric": "I"
      },
      {
       "beat": 13.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 62,
       "lyric": "first"
      },
      {
       "beat": 16.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 60,
       "lyric": "met"
      },
@@ -653,26 +637,26 @@
      },
      {
       "beat": 23.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 50,
       "lyric": "With",
       "br": true
      },
      {
       "beat": 24.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 53,
       "lyric": "your"
      },
      {
       "beat": 25.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 58,
       "lyric": "eyes"
      },
      {
       "beat": 28.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 57,
       "lyric": "of"
      },
@@ -684,26 +668,26 @@
      },
      {
       "beat": 35.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 54,
       "lyric": "dressed",
       "br": true
      },
      {
       "beat": 36.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 55,
       "lyric": "in"
      },
      {
       "beat": 37.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 57,
       "lyric": "ging-"
      },
      {
       "beat": 40.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 55,
       "lyric": "ham"
      },
@@ -715,26 +699,26 @@
      },
      {
       "beat": 47.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 58,
       "lyric": "It",
       "br": true
      },
      {
       "beat": 48.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 62,
       "lyric": "was"
      },
      {
       "beat": 49.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 65,
       "lyric": "there"
      },
      {
       "beat": 52.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 64,
       "lyric": "I"
      },
@@ -746,26 +730,26 @@
      },
      {
       "beat": 59.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 54,
       "lyric": "that",
       "br": true
      },
      {
       "beat": 60.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 55,
       "lyric": "you"
      },
      {
       "beat": 61.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 62,
       "lyric": "loved"
      },
      {
       "beat": 64.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 60,
       "lyric": "me"
      },
@@ -776,7 +760,7 @@
       "lyric": "true,"
      },
      {
-      "beat": 72.0,
+      "beat": 72,
       "length": 0.5,
       "pitch": 58,
       "lyric": "You",
@@ -789,7 +773,7 @@
       "lyric": "were"
      },
      {
-      "beat": 73.0,
+      "beat": 73,
       "length": 0.5,
       "pitch": 58,
       "lyric": "six-"
@@ -801,7 +785,7 @@
       "lyric": "teen,"
      },
      {
-      "beat": 78.0,
+      "beat": 78,
       "length": 0.5,
       "pitch": 58,
       "lyric": "my",
@@ -814,7 +798,7 @@
       "lyric": "vil-"
      },
      {
-      "beat": 79.0,
+      "beat": 79,
       "length": 0.5,
       "pitch": 58,
       "lyric": "lage"
@@ -827,26 +811,26 @@
      },
      {
       "beat": 83.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 63,
       "lyric": "by",
       "br": true
      },
      {
       "beat": 84.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 62,
       "lyric": "the"
      },
      {
       "beat": 85.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 55,
       "lyric": "old"
      },
      {
       "beat": 88.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 62,
       "lyric": "mill"
      },
@@ -870,7 +854,7 @@
     "type": "notes",
     "notes": [
      {
-      "beat": 0.0,
+      "beat": 0,
       "length": 0.5,
       "pitch": 62,
       "lyric": "Down",
@@ -883,21 +867,21 @@
       "lyric": "by"
      },
      {
-      "beat": 1.0,
+      "beat": 1,
       "length": 0.5,
-      "pitch": 58,
+      "pitch": 62,
       "lyric": "the"
      },
      {
       "beat": 1.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 62,
       "lyric": "old"
      },
      {
       "beat": 4.5,
-      "length": 3.0,
-      "pitch": 58,
+      "length": 3,
+      "pitch": 55,
       "lyric": "mill"
      },
      {
@@ -908,75 +892,65 @@
      },
      {
       "beat": 11.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 57,
       "lyric": "where",
       "br": true
      },
      {
       "beat": 12.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 58,
       "lyric": "I"
      },
      {
       "beat": 13.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 58,
       "lyric": "first"
      },
      {
       "beat": 16.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 57,
       "lyric": "met"
      },
      {
       "beat": 19.5,
       "length": 3,
-      "pitch": 62,
+      "pitch": 50,
       "lyric": "you,"
      },
      {
       "beat": 23.5,
-      "length": 1.0,
-      "pitch": 53,
+      "length": 1,
+      "pitch": 50,
       "lyric": "With",
       "br": true
      },
      {
       "beat": 24.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 50,
       "lyric": "your"
      },
      {
       "beat": 25.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 50,
       "lyric": "eyes"
      },
      {
       "beat": 28.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 53,
       "lyric": "of"
      },
      {
       "beat": 31.5,
-      "length": 2.0,
+      "length": 3.5,
       "pitch": 58,
       "lyric": "blue,"
-     },
-     {
-      "beat": 33.5,
-      "length": 1.0,
-      "pitch": 59
-     },
-     {
-      "beat": 34.5,
-      "length": 0.5,
-      "pitch": 60
      },
      {
       "beat": 36,
@@ -987,19 +961,19 @@
      },
      {
       "beat": 36.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 58,
       "lyric": "in"
      },
      {
       "beat": 37.5,
-      "length": 3.0,
-      "pitch": 60,
+      "length": 3,
+      "pitch": 51,
       "lyric": "ging-"
      },
      {
       "beat": 40.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 51,
       "lyric": "ham"
      },
@@ -1011,27 +985,27 @@
      },
      {
       "beat": 47.5,
-      "length": 1.0,
-      "pitch": 50,
+      "length": 1,
+      "pitch": 62,
       "lyric": "It",
       "br": true
      },
      {
       "beat": 48.5,
-      "length": 1.0,
-      "pitch": 58,
+      "length": 1,
+      "pitch": 62,
       "lyric": "was"
      },
      {
       "beat": 49.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 62,
       "lyric": "there"
      },
      {
       "beat": 52.5,
-      "length": 3.0,
-      "pitch": 58,
+      "length": 3,
+      "pitch": 55,
       "lyric": "I"
      },
      {
@@ -1042,45 +1016,45 @@
      },
      {
       "beat": 59.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 57,
       "lyric": "that",
       "br": true
      },
      {
       "beat": 60.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 58,
       "lyric": "you"
      },
      {
       "beat": 61.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 58,
       "lyric": "loved"
      },
      {
       "beat": 64.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 54,
       "lyric": "me"
      },
      {
       "beat": 67.5,
       "length": 4.5,
-      "pitch": 62,
+      "pitch": 55,
       "lyric": "true,"
      },
      {
       "beat": 74.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 58,
       "lyric": "sweet",
       "br": true
      },
      {
       "beat": 75.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 58,
       "lyric": "six-"
      },
@@ -1092,14 +1066,14 @@
      },
      {
       "beat": 80.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 58,
       "lyric": "vil-",
       "br": true
      },
      {
       "beat": 81.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 58,
       "lyric": "lage"
      },
@@ -1118,26 +1092,26 @@
      },
      {
       "beat": 84.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 59,
       "lyric": "the"
      },
      {
       "beat": 85.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 52,
       "lyric": "old"
      },
      {
       "beat": 88.5,
-      "length": 3.0,
-      "pitch": 57,
+      "length": 3,
+      "pitch": 53,
       "lyric": "mill"
      },
      {
       "beat": 91.5,
       "length": 4.5,
-      "pitch": 62,
+      "pitch": 50,
       "lyric": "stream."
      }
     ]
@@ -1147,14 +1121,14 @@
    "key": "bass",
    "name": "Bass",
    "range": {
-    "low": 43,
-    "high": 55
+    "low": 41,
+    "high": 53
    },
    "guide": {
     "type": "notes",
     "notes": [
      {
-      "beat": 0.0,
+      "beat": 0,
       "length": 0.5,
       "pitch": 46,
       "lyric": "Down",
@@ -1167,20 +1141,20 @@
       "lyric": "by"
      },
      {
-      "beat": 1.0,
+      "beat": 1,
       "length": 0.5,
       "pitch": 46,
       "lyric": "the"
      },
      {
       "beat": 1.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 46,
       "lyric": "old"
      },
      {
       "beat": 4.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 49,
       "lyric": "mill"
      },
@@ -1192,26 +1166,26 @@
      },
      {
       "beat": 11.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 51,
       "lyric": "where",
       "br": true
      },
      {
       "beat": 12.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 51,
       "lyric": "I"
      },
      {
       "beat": 13.5,
-      "length": 3.0,
-      "pitch": 46,
+      "length": 3,
+      "pitch": 50,
       "lyric": "first"
      },
      {
       "beat": 16.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 53,
       "lyric": "met"
      },
@@ -1223,44 +1197,34 @@
      },
      {
       "beat": 23.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 46,
       "lyric": "With",
       "br": true
      },
      {
       "beat": 24.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 46,
       "lyric": "your"
      },
      {
       "beat": 25.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 46,
       "lyric": "eyes"
      },
      {
       "beat": 28.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 50,
       "lyric": "of"
      },
      {
       "beat": 31.5,
-      "length": 2.0,
+      "length": 3.5,
       "pitch": 51,
       "lyric": "blue,"
-     },
-     {
-      "beat": 33.5,
-      "length": 1.0,
-      "pitch": 50
-     },
-     {
-      "beat": 34.5,
-      "length": 0.5,
-      "pitch": 48
      },
      {
       "beat": 36,
@@ -1271,19 +1235,19 @@
      },
      {
       "beat": 36.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 46,
       "lyric": "in"
      },
      {
       "beat": 37.5,
-      "length": 3.0,
-      "pitch": 53,
+      "length": 3,
+      "pitch": 41,
       "lyric": "ging-"
      },
      {
       "beat": 40.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 45,
       "lyric": "ham"
      },
@@ -1295,26 +1259,26 @@
      },
      {
       "beat": 47.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 46,
       "lyric": "It",
       "br": true
      },
      {
       "beat": 48.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 46,
       "lyric": "was"
      },
      {
       "beat": 49.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 46,
       "lyric": "there"
      },
      {
       "beat": 52.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 49,
       "lyric": "I"
      },
@@ -1326,26 +1290,26 @@
      },
      {
       "beat": 59.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 51,
       "lyric": "that",
       "br": true
      },
      {
       "beat": 60.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 51,
       "lyric": "you"
      },
      {
       "beat": 61.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 50,
       "lyric": "loved"
      },
      {
       "beat": 64.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 50,
       "lyric": "me"
      },
@@ -1357,64 +1321,64 @@
      },
      {
       "beat": 74.5,
-      "length": 1.0,
-      "pitch": 54,
+      "length": 1,
+      "pitch": 42,
       "lyric": "sweet",
       "br": true
      },
      {
       "beat": 75.5,
-      "length": 1.0,
-      "pitch": 54,
+      "length": 1,
+      "pitch": 42,
       "lyric": "six-"
      },
      {
       "beat": 76.5,
       "length": 1.5,
-      "pitch": 54,
+      "pitch": 42,
       "lyric": "teen"
      },
      {
       "beat": 80.5,
-      "length": 1.0,
-      "pitch": 53,
+      "length": 1,
+      "pitch": 46,
       "lyric": "vil-",
       "br": true
      },
      {
       "beat": 81.5,
-      "length": 1.0,
-      "pitch": 53,
+      "length": 1,
+      "pitch": 46,
       "lyric": "lage"
      },
      {
       "beat": 82.5,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 43,
       "lyric": "queen"
      },
      {
       "beat": 84,
       "length": 0.5,
-      "pitch": 55,
+      "pitch": 43,
       "lyric": "by",
       "br": true
      },
      {
       "beat": 84.5,
-      "length": 1.0,
+      "length": 1,
       "pitch": 43,
       "lyric": "the"
      },
      {
       "beat": 85.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 48,
       "lyric": "old"
      },
      {
       "beat": 88.5,
-      "length": 3.0,
+      "length": 3,
       "pitch": 53,
       "lyric": "mill"
      },
