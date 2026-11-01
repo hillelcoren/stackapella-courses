@@ -212,7 +212,7 @@
                 },
                 {
                     "id": "song-loch-lomond-soprano-5",
-                    "title": {"en": "Lines 8 to 10"},
+                    "title": {"en": "Lines 8 to 11"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -243,37 +243,17 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 10, then sing it back."},
+                            "text": {"en": "Line 10 is the tune of line 2 again, with new words. Sing it with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "loch-lomond",
                                     "part": "soprano",
                                     "phrases": [9]
                                 },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        },
-                        {
-                            "kind": "play",
-                            "text": {"en": "Now lines 8 to 10 joined, with the guide."},
-                            "exercise": {
-                                "song": {
-                                    "template": "loch-lomond",
-                                    "part": "soprano",
-                                    "phrases": [7, 8, 9]
-                                },
                                 "turn": false
                             },
                             "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-loch-lomond-soprano-6",
-                    "title": {"en": "Lines 11 to 14"},
-                    "strictness": "relaxed",
-                    "steps": [
+                        },
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 11, then sing it back."},
@@ -287,6 +267,26 @@
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8 to 11 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "loch-lomond",
+                                    "part": "soprano",
+                                    "phrases": [7, 8, 9, 10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-loch-lomond-soprano-6",
+                    "title": {"en": "Lines 12 to 14"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Line 12 is the tune of line 4 again, with new words. Sing it with the guide."},
@@ -328,14 +328,14 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 to 14 joined, with the guide."},
+                            "text": {"en": "Now lines 12 to 14 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "loch-lomond",
                                     "part": "soprano",
-                                    "phrases": [10, 11, 12, 13]
+                                    "phrases": [11, 12, 13]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         }
