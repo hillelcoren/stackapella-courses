@@ -1416,7 +1416,8 @@
                                     { "beat": 6, "length": 2, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
-                                "base": "flip",
+                                "base": "flipKey",
+                                "lineKey": 0,
                                 "score": "flip"
                             },
                             "measures": { "en": "Scored on the tag's flips and notes. Take a break." }
@@ -1427,7 +1428,8 @@
                             "exercise": {
                                 "tempo": 66,
                                 "lead": 2,
-                                "base": "flip",
+                                "base": "flipKey",
+                                "lineKey": 0,
                                 "model": {
                                     "notes": [
                                         { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },
@@ -1961,7 +1963,8 @@
                                     { "beat": 7.0, "length": 1.5, "step": -7, "lyric": "o" }
                                 ],
                                 "turn": true,
-                                "base": "flip",
+                                "base": "flipKey",
+                                "lineKey": -2,
                                 "score": "flip"
                             },
                             "measures": {
@@ -1974,7 +1977,8 @@
                             "exercise": {
                                 "tempo": 66,
                                 "lead": 2,
-                                "base": "flip",
+                                "base": "flipKey",
+                                "lineKey": -2,
                                 "model": {
                                     "notes": [
                                         { "beat": 0, "length": 1, "step": -7, "lyric": "yo-" },

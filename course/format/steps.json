@@ -178,7 +178,8 @@
             "exercise": [
                 "tempo",
                 "rounds",
-                "base"
+                "base",
+                "lineKey"
             ],
             "about": "Listen and choose, no mic: tap a clip or a word; `base: flip` lays its clips from the singer's flip note (Yodeling)"
         },
@@ -197,7 +198,8 @@
                 "model",
                 "along",
                 "questions",
-                "base"
+                "base",
+                "lineKey"
             ],
             "about": "What we can't hear yet: hear a model, record, compare, answer self-check questions; never scored; its model may name a real singer's clip (`clip`), with `seconds` and a `description` until it's recorded; `base: flip` lays its model from the singer's flip note (Yodeling)"
         },
@@ -265,7 +267,8 @@
             "score": "how it's starred: hold, or a registered scorer (web/js/lesson-scores.js)",
             "show": "vibrato: describe a held note's vibrato after the take",
             "generous": "the first lesson's kinder stars",
-            "base": "flip: steps laid from the singer's flip note (Yodeling)",
+            "base": "flip: steps laid from the singer's flip note (Yodeling); flipKey: the same, moved up to three semitones (or one down) so the tag's home note, two below, is in the line's key (lineKey), else its V, else its IV: a song's yodel tag",
+            "lineKey": "with base flipKey: the song line's home note, in semitones from the singer's comfortable note (0 by default)",
             "under": "{ step }: sing over that earlier step's take, this visit",
             "with": "partner lines that sound while you sing (Counterpoint: docs/courses/counterpoint.md 8b)",
             "answer": "the notes to sing back when they differ from the call (call and response)",
@@ -287,6 +290,7 @@
             "show",
             "generous",
             "base",
+            "lineKey",
             "under",
             "with",
             "answer",
