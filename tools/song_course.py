@@ -53,6 +53,14 @@ SONGS = {
     "now-is-the-month-of-maying": "live",
     "sweet-adeline": "live",
     "wade-in-the-water": "live",
+    # The next six (docs/library-next-songs.md, part 2): ready, reachable only from the song's page,
+    # so each opens with its song (its template's `reviewed`).
+    "it-is-well": "live",
+    "hey-ho-nobody-home": "live",
+    "daisy-bell": "live",
+    "ave-verum-corpus": "live",
+    "la-paloma": "live",
+    "sakura-sakura": "live",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
