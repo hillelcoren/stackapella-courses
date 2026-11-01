@@ -1,0 +1,1559 @@
+{
+    "id": "gospel-runs",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Gospel and soul runs"},
+    "units": [
+        {
+            "id": "gr-five-stairs",
+            "title": {"en": "Five stairs"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "gr-1-stairs",
+                    "title": {"en": "Five stairs"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A run is a few notes on one syllable, each one clean, like stairs. The spirituals were made by enslaved Black Americans as sacred songs, and gospel grew from them in Black churches: here a run serves the word."},
+                            "steps": [
+                                {"title": {"en": "One syllable"}, "detail": {"en": "Several clean notes"}},
+                                {"title": {"en": "One run a line"}, "detail": {"en": "On a held word; the tune comes first"}},
+                                {"title": {"en": "Light"}, "detail": {"en": "Runs need a light voice: a medium volume, the middle of your voice, no pushing. The run happens in the voice, not the jaw. Stop if anything tightens."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Hum the run slowly, la, so, mi, re, do."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 9, "lyric": "mm"},
+                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                    {"beat": 2, "length": 2, "step": 0}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": -7, "quality": "maj", "bass": null},
+                                    {"beat": 2, "root": -12, "quality": "maj", "bass": null}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now \"A-men\": the run on \"A-\", landing on do as the chord comes home."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 9, "lyric": "A-"},
+                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "men."}
+                                ],
+                                "turn": false,
+                                "score": "landing",
+                                "chords": [
+                                    {"beat": 0, "root": -7, "quality": "maj", "bass": null},
+                                    {"beat": 2, "root": -12, "quality": "maj", "bass": null}
+                                ],
+                                "keep": "gr.first-run",
+                                "generous": true
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        }
+                    ]
+                },
+                {
+                    "id": "gr-1-scale",
+                    "title": {"en": "Five notes only"},
+                    "fact": {"id": "pentatonic-worldwide", "text": {"en": "The pentatonic, a five-note scale, is one of the most widely used scales: it runs through Western folk and popular music and is the basic scale of much East Asian music."}, "source": {"en": "Gill and Purves, PLoS ONE (2009)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2779864/"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Runs are built from five notes, the major pentatonic: do, re, mi, so, la. No fa, no ti."},
+                            "steps": [
+                                {"title": {"en": "Five notes"}, "detail": {"en": "Do, re, mi, so, la"}},
+                                {"title": {"en": "Listen"}, "detail": {"en": "Which run kept to them?"}},
+                                {"title": {"en": "Sing them"}, "detail": {"en": "Up and down, two a second"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which run used only the five notes?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 0},
+                                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                                    {"beat": 1.5, "length": 0.5, "step": 7},
+                                                    {"beat": 2.0, "length": 0.5, "step": 9}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 0},
+                                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                                    {"beat": 1.5, "length": 0.5, "step": 5},
+                                                    {"beat": 2.0, "length": 0.5, "step": 7}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The five are do, re, mi, so and la. The other run used fa."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which run used only the five notes?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 0},
+                                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                                    {"beat": 1.5, "length": 0.5, "step": 5},
+                                                    {"beat": 2.0, "length": 0.5, "step": 7}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 0},
+                                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                                    {"beat": 1.5, "length": 0.5, "step": 7},
+                                                    {"beat": 2.0, "length": 0.5, "step": 9}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The five are do, re, mi, so and la. The other run used fa."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which run used only the five notes?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 0},
+                                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                                    {"beat": 1.5, "length": 0.5, "step": 7},
+                                                    {"beat": 2.0, "length": 0.5, "step": 9}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 0},
+                                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                                    {"beat": 1.5, "length": 0.5, "step": 5},
+                                                    {"beat": 2.0, "length": 0.5, "step": 7}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The five are do, re, mi, so and la. The other run used fa."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Up the five notes and down, two a second."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 0, "lyric": "oh"},
+                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                    {"beat": 1.5, "length": 0.5, "step": 7},
+                                    {"beat": 2.0, "length": 0.5, "step": 9},
+                                    {"beat": 2.5, "length": 0.5, "step": 7},
+                                    {"beat": 3.0, "length": 0.5, "step": 4},
+                                    {"beat": 3.5, "length": 0.5, "step": 2},
+                                    {"beat": 4, "length": 2, "step": 0}
+                                ],
+                                "turn": false,
+                                "drone": {"step": 0},
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        }
+                    ]
+                },
+                {
+                    "id": "gr-1-turn",
+                    "title": {"en": "A turn"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The smallest run is a turn: the note above, the note, the note below, the note."},
+                            "steps": [
+                                {"title": {"en": "Above"}, "detail": {"en": "One stair up"}},
+                                {"title": {"en": "The note"}, "detail": {"en": "Home"}},
+                                {"title": {"en": "Below, and back"}, "detail": {"en": "One stair down, then home"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Two turns, around do and around so: listen, then echo."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 2, "lyric": "oh"},
+                                    {"beat": 0.5, "length": 0.5, "step": 0},
+                                    {"beat": 1.0, "length": 0.5, "step": -3},
+                                    {"beat": 1.5, "length": 1.0, "step": 0},
+                                    {"beat": 4.0, "length": 0.5, "step": 9, "lyric": "oh"},
+                                    {"beat": 4.5, "length": 0.5, "step": 7},
+                                    {"beat": 5.0, "length": 0.5, "step": 4},
+                                    {"beat": 5.5, "length": 1.0, "step": 7}
+                                ],
+                                "turn": true,
+                                "drone": {"step": 0}
+                            },
+                            "measures": {"en": "Scored on every note on pitch."}
+                        }
+                    ]
+                },
+                {
+                    "id": "gr-1-challenge",
+                    "title": {"en": "A run at the end"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Five stairs again, then a real line: Steal Away, sung plain first, then with a short run on its held \"way\"."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Five stairs, today"}},
+                                {"title": {"en": "The tune first"}, "detail": {"en": "Sung plain"}},
+                                {"title": {"en": "Then the run"}, "detail": {"en": "On the held word"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Five stairs."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 9, "lyric": "A-"},
+                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "men."}
+                                ],
+                                "turn": false,
+                                "score": "landing",
+                                "chords": [
+                                    {"beat": 0, "root": -7, "quality": "maj", "bass": null},
+                                    {"beat": 2, "root": -12, "quality": "maj", "bass": null}
+                                ],
+                                "thenAndNow": "gr.first-run"
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Steal away\", sung plain."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.5, "step": 0, "lyric": "Steal"},
+                                    {"beat": 1.5, "length": 0.5, "step": 0, "lyric": "a-"},
+                                    {"beat": 2.0, "length": 2, "step": 0, "lyric": "way,"},
+                                    {"beat": 4.0, "length": 1.5, "step": 4, "lyric": "steal"},
+                                    {"beat": 5.5, "length": 0.5, "step": 4, "lyric": "a-"},
+                                    {"beat": 6.0, "length": 1.25, "step": 4, "lyric": "way,"}
+                                ],
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on every note on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now with a short run on the held \"way\"."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.5, "step": 0, "lyric": "Steal"},
+                                    {"beat": 1.5, "length": 0.5, "step": 0, "lyric": "a-"},
+                                    {"beat": 2.0, "length": 0.5, "step": 4, "lyric": "way,"},
+                                    {"beat": 2.5, "length": 0.5, "step": 2},
+                                    {"beat": 3.0, "length": 1.0, "step": 0},
+                                    {"beat": 4.0, "length": 1.5, "step": 4, "lyric": "steal"},
+                                    {"beat": 5.5, "length": 0.5, "step": 4, "lyric": "a-"},
+                                    {"beat": 6.0, "length": 1.25, "step": 4, "lyric": "way,"}
+                                ],
+                                "turn": false,
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "gr-groups-and-placing",
+            "title": {"en": "Groups, placing, and the minor"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "gr-2-groups",
+                    "title": {"en": "In groups"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Fast runs are groups of three or four, the first of each group leaned on a little: lighter, not louder."},
+                            "steps": [
+                                {"title": {"en": "Threes"}, "detail": {"en": "Three to a beat"}},
+                                {"title": {"en": "A small lean"}, "detail": {"en": "On the first, not louder"}},
+                                {"title": {"en": "Echo"}, "detail": {"en": "Listen, then sing"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Three groups of three: listen, then echo."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.3333, "step": 7, "lyric": "oh"},
+                                    {"beat": 0.3333333333333333, "length": 0.3333, "step": 4},
+                                    {"beat": 0.6666666666666666, "length": 0.3333, "step": 2},
+                                    {"beat": 1, "length": 0.5, "step": 2},
+                                    {"beat": 2.0, "length": 0.3333, "step": 4, "lyric": "oh"},
+                                    {"beat": 2.3333333333333335, "length": 0.3333, "step": 2},
+                                    {"beat": 2.6666666666666665, "length": 0.3333, "step": 0},
+                                    {"beat": 3, "length": 0.5, "step": 0},
+                                    {"beat": 4.0, "length": 0.3333, "step": 9, "lyric": "oh"},
+                                    {"beat": 4.333333333333333, "length": 0.3333, "step": 7},
+                                    {"beat": 4.666666666666667, "length": 0.3333, "step": 4},
+                                    {"beat": 5, "length": 0.5, "step": 4}
+                                ],
+                                "turn": true,
+                                "drone": {"step": 0}
+                            },
+                            "measures": {"en": "Scored on every note on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Once more, then hear yours beside the guide's."},
+                            "exercise": {
+                                "tempo": 60,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0.0, "length": 0.3333, "step": 7, "lyric": "oh"},
+                                        {"beat": 0.3333333333333333, "length": 0.3333, "step": 4},
+                                        {"beat": 0.6666666666666666, "length": 0.3333, "step": 2},
+                                        {"beat": 1, "length": 0.5, "step": 2}
+                                    ]
+                                },
+                                "questions": [{"en": "Did the lean stay light, not louder?"}, {"en": "Did your jaw stay still?"}]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "gr-2-clean",
+                    "title": {"en": "Clean, smeared or choppy?"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A clean run keeps each note separate but joined. A smeared one slides; a choppy one breathes between notes, \"ha-ha-ha\"."},
+                            "steps": [
+                                {"title": {"en": "Clean"}, "detail": {"en": "Separate and joined"}},
+                                {"title": {"en": "Smeared"}, "detail": {"en": "Sliding together"}},
+                                {"title": {"en": "Choppy"}, "detail": {"en": "Breathy gaps"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which run kept its notes clean and joined?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 9},
+                                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                                    {"beat": 2.0, "length": 0.5, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0.0,
+                                                        "length": 0.5,
+                                                        "step": 9,
+                                                        "bend": [
+                                                            [0, 0],
+                                                            [0.25, 0],
+                                                            [0.5, -200]
+                                                        ]
+                                                    },
+                                                    {
+                                                        "beat": 0.5,
+                                                        "length": 0.5,
+                                                        "step": 7,
+                                                        "bend": [
+                                                            [0, 0],
+                                                            [0.25, 0],
+                                                            [0.5, -300]
+                                                        ]
+                                                    },
+                                                    {
+                                                        "beat": 1.0,
+                                                        "length": 0.5,
+                                                        "step": 4,
+                                                        "bend": [
+                                                            [0, 0],
+                                                            [0.25, 0],
+                                                            [0.5, -200]
+                                                        ]
+                                                    },
+                                                    {
+                                                        "beat": 1.5,
+                                                        "length": 0.5,
+                                                        "step": 2,
+                                                        "bend": [
+                                                            [0, 0],
+                                                            [0.25, 0],
+                                                            [0.5, -200]
+                                                        ]
+                                                    },
+                                                    {"beat": 2.0, "length": 0.5, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which run kept its notes clean and joined?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.3, "step": 9},
+                                                    {"beat": 0.5, "length": 0.3, "step": 7},
+                                                    {"beat": 1.0, "length": 0.3, "step": 4},
+                                                    {"beat": 1.5, "length": 0.3, "step": 2},
+                                                    {"beat": 2.0, "length": 0.3, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 9},
+                                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                                    {"beat": 2.0, "length": 0.5, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which run kept its notes clean and joined?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 9},
+                                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                                    {"beat": 2.0, "length": 0.5, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.3, "step": 9},
+                                                    {"beat": 0.5, "length": 0.3, "step": 7},
+                                                    {"beat": 1.0, "length": 0.3, "step": 4},
+                                                    {"beat": 1.5, "length": 0.3, "step": 2},
+                                                    {"beat": 2.0, "length": 0.3, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which run kept its notes clean and joined?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0.0,
+                                                        "length": 0.5,
+                                                        "step": 9,
+                                                        "bend": [
+                                                            [0, 0],
+                                                            [0.25, 0],
+                                                            [0.5, -200]
+                                                        ]
+                                                    },
+                                                    {
+                                                        "beat": 0.5,
+                                                        "length": 0.5,
+                                                        "step": 7,
+                                                        "bend": [
+                                                            [0, 0],
+                                                            [0.25, 0],
+                                                            [0.5, -300]
+                                                        ]
+                                                    },
+                                                    {
+                                                        "beat": 1.0,
+                                                        "length": 0.5,
+                                                        "step": 4,
+                                                        "bend": [
+                                                            [0, 0],
+                                                            [0.25, 0],
+                                                            [0.5, -200]
+                                                        ]
+                                                    },
+                                                    {
+                                                        "beat": 1.5,
+                                                        "length": 0.5,
+                                                        "step": 2,
+                                                        "bend": [
+                                                            [0, 0],
+                                                            [0.25, 0],
+                                                            [0.5, -200]
+                                                        ]
+                                                    },
+                                                    {"beat": 2.0, "length": 0.5, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 9},
+                                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                                    {"beat": 2.0, "length": 0.5, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which run kept its notes clean and joined?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 9},
+                                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                                    {"beat": 2.0, "length": 0.5, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0.0,
+                                                        "length": 0.5,
+                                                        "step": 9,
+                                                        "bend": [
+                                                            [0, 0],
+                                                            [0.25, 0],
+                                                            [0.5, -200]
+                                                        ]
+                                                    },
+                                                    {
+                                                        "beat": 0.5,
+                                                        "length": 0.5,
+                                                        "step": 7,
+                                                        "bend": [
+                                                            [0, 0],
+                                                            [0.25, 0],
+                                                            [0.5, -300]
+                                                        ]
+                                                    },
+                                                    {
+                                                        "beat": 1.0,
+                                                        "length": 0.5,
+                                                        "step": 4,
+                                                        "bend": [
+                                                            [0, 0],
+                                                            [0.25, 0],
+                                                            [0.5, -200]
+                                                        ]
+                                                    },
+                                                    {
+                                                        "beat": 1.5,
+                                                        "length": 0.5,
+                                                        "step": 2,
+                                                        "bend": [
+                                                            [0, 0],
+                                                            [0.25, 0],
+                                                            [0.5, -200]
+                                                        ]
+                                                    },
+                                                    {"beat": 2.0, "length": 0.5, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which run kept its notes clean and joined?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.3, "step": 9},
+                                                    {"beat": 0.5, "length": 0.3, "step": 7},
+                                                    {"beat": 1.0, "length": 0.3, "step": 4},
+                                                    {"beat": 1.5, "length": 0.3, "step": 2},
+                                                    {"beat": 2.0, "length": 0.3, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 9},
+                                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                                    {"beat": 2.0, "length": 0.5, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now yours, clean."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 9, "lyric": "A-"},
+                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "men."}
+                                ],
+                                "turn": false,
+                                "score": "landing",
+                                "chords": [
+                                    {"beat": 0, "root": -7, "quality": "maj", "bass": null},
+                                    {"beat": 2, "root": -12, "quality": "maj", "bass": null}
+                                ]
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        }
+                    ]
+                },
+                {
+                    "id": "gr-2-place",
+                    "title": {"en": "Where a run goes"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "One run a line, on a held word, usually at its end. The tune comes first."},
+                            "steps": [
+                                {"title": {"en": "The tune"}, "detail": {"en": "Sung plain"}},
+                                {"title": {"en": "One run"}, "detail": {"en": "Not on every word"}},
+                                {"title": {"en": "On a held word"}, "detail": {"en": "Where there's time"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which line places its run well?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3.0, "length": 0.5, "step": 7},
+                                                    {"beat": 3.5, "length": 0.5, "step": 4},
+                                                    {"beat": 4.0, "length": 0.5, "step": 2},
+                                                    {"beat": 4.5, "length": 1.0, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 2},
+                                                    {"beat": 0.5, "length": 1.0, "step": 0},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 1.0, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 7},
+                                                    {"beat": 3.5, "length": 1.0, "step": 4}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "One run, at the end, on the held note. Runs on every note hide the tune."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which line places its run well?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 2},
+                                                    {"beat": 0.5, "length": 1.0, "step": 0},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 1.0, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 7},
+                                                    {"beat": 3.5, "length": 1.0, "step": 4}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3.0, "length": 0.5, "step": 7},
+                                                    {"beat": 3.5, "length": 0.5, "step": 4},
+                                                    {"beat": 4.0, "length": 0.5, "step": 2},
+                                                    {"beat": 4.5, "length": 1.0, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "One run, at the end, on the held note. Runs on every note hide the tune."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which line places its run well?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3.0, "length": 0.5, "step": 7},
+                                                    {"beat": 3.5, "length": 0.5, "step": 4},
+                                                    {"beat": 4.0, "length": 0.5, "step": 2},
+                                                    {"beat": 4.5, "length": 1.0, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0.0, "length": 0.5, "step": 2},
+                                                    {"beat": 0.5, "length": 1.0, "step": 0},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 1.0, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 7},
+                                                    {"beat": 3.5, "length": 1.0, "step": 4}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "One run, at the end, on the held note. Runs on every note hide the tune."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Steal away\" with one run, on its held word."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.5, "step": 0, "lyric": "Steal"},
+                                    {"beat": 1.5, "length": 0.5, "step": 0, "lyric": "a-"},
+                                    {"beat": 2.0, "length": 0.5, "step": 4, "lyric": "way,"},
+                                    {"beat": 2.5, "length": 0.5, "step": 2},
+                                    {"beat": 3.0, "length": 1.0, "step": 0},
+                                    {"beat": 4.0, "length": 1.5, "step": 4, "lyric": "steal"},
+                                    {"beat": 5.5, "length": 0.5, "step": 4, "lyric": "a-"},
+                                    {"beat": 6.0, "length": 1.25, "step": 4, "lyric": "way,"}
+                                ],
+                                "turn": false,
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        }
+                    ]
+                },
+                {
+                    "id": "gr-2-challenge",
+                    "title": {"en": "Wade in the Water"},
+                    "challenge": true,
+                    "fact": {"id": "lining-out", "text": {"en": "In lining out, a leader chants a line and the congregation answers with a slower, more decorated version. African American congregations made it their own, and it became one of the roots of gospel singing."}, "source": {"en": "Titon, Smithsonian Folklife Festival program (1997)"}, "url": "https://folklife-media.si.edu/docs/festival/program-book-articles/FESTBK1997_25.pdf"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Five stairs again, then Wade in the Water: a minor song (darker, its third a half step lower), with a minor run in fours (In groups)."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Five stairs, today"}},
+                                {"title": {"en": "Minor"}, "detail": {"en": "The darker five notes"}},
+                                {"title": {"en": "In fours"}, "detail": {"en": "A small lean on the first"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Five stairs."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 9, "lyric": "A-"},
+                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "men."}
+                                ],
+                                "turn": false,
+                                "score": "landing",
+                                "chords": [
+                                    {"beat": 0, "root": -7, "quality": "maj", "bass": null},
+                                    {"beat": 2, "root": -12, "quality": "maj", "bass": null}
+                                ],
+                                "thenAndNow": "gr.first-run"
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Wade in the water\", plain."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.25, "step": -3, "lyric": "Wade"},
+                                    {"beat": 1.25, "length": 0.5, "step": 0, "lyric": "in"},
+                                    {"beat": 1.75, "length": 0.25, "step": -1, "lyric": "the"},
+                                    {"beat": 2.0, "length": 0.5, "step": 0, "lyric": "wa-"},
+                                    {"beat": 2.5, "length": 0.5, "step": -3, "lyric": "ter,"}
+                                ],
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on every note on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now ending in a minor run, in fours."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.25, "step": -3, "lyric": "Wade"},
+                                    {"beat": 1.25, "length": 0.5, "step": 0, "lyric": "in"},
+                                    {"beat": 1.75, "length": 0.25, "step": -1, "lyric": "the"},
+                                    {"beat": 2.0, "length": 0.5, "step": 0, "lyric": "wa-"},
+                                    {"beat": 2.5, "length": 0.25, "step": 4, "lyric": "ter,"},
+                                    {"beat": 2.75, "length": 0.25, "step": 2},
+                                    {"beat": 3.0, "length": 0.25, "step": 0},
+                                    {"beat": 3.25, "length": 1.0, "step": -3}
+                                ],
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on every note on pitch and on the beat."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "gr-the-blue-note",
+            "title": {"en": "The blue note"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "gr-3-bend",
+                    "title": {"en": "Bend up"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The blue note sits between the piano's keys, between the minor and major third, nearer the minor. Start there, loose, and bend up to the third: the arrival is what matters."},
+                            "steps": [
+                                {"title": {"en": "Start low"}, "detail": {"en": "Between the keys"}},
+                                {"title": {"en": "Bend up"}, "detail": {"en": "Slowly, lightly"}},
+                                {"title": {"en": "Arrive"}, "detail": {"en": "And hold the third"}}
+                            ],
+                            "visual": "vibrato",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Ride the line: from the blue note up to the third, then hold."},
+                            "exercise": {
+                                "tempo": 60,
+                                "step": 0,
+                                "lyric": "oh",
+                                "combo": false,
+                                "target": [
+                                    {
+                                        "seconds": 3,
+                                        "kind": "path",
+                                        "band": 60,
+                                        "points": [
+                                            [0, 3],
+                                            [1.0, 4],
+                                            [3, 4]
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Once more, a little quicker into the third."},
+                            "exercise": {
+                                "tempo": 60,
+                                "step": 0,
+                                "lyric": "oh",
+                                "combo": false,
+                                "target": [
+                                    {
+                                        "seconds": 2.5,
+                                        "kind": "path",
+                                        "band": 60,
+                                        "points": [
+                                            [0, 3],
+                                            [1.0, 4],
+                                            [2.5, 4]
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "gr-3-up",
+                    "title": {"en": "Run up to it"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A run can climb into a note too: three stairs up, then hold."},
+                            "steps": [
+                                {"title": {"en": "Three up"}, "detail": {"en": "Light and clean"}},
+                                {"title": {"en": "Then hold"}, "detail": {"en": "The note you ran to"}},
+                                {"title": {"en": "Light"}, "detail": {"en": "No pushing at the top"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Three rising runs, each into a held note."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": -3, "lyric": "oh"},
+                                    {"beat": 0.5, "length": 0.5, "step": 0},
+                                    {"beat": 1.0, "length": 0.5, "step": 2},
+                                    {"beat": 1.5, "length": 1.5, "step": 4},
+                                    {"beat": 4.0, "length": 0.5, "step": 0, "lyric": "oh"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2},
+                                    {"beat": 5.0, "length": 0.5, "step": 4},
+                                    {"beat": 5.5, "length": 1.5, "step": 7},
+                                    {"beat": 8.0, "length": 0.5, "step": -5, "lyric": "oh"},
+                                    {"beat": 8.5, "length": 0.5, "step": -3},
+                                    {"beat": 9.0, "length": 0.5, "step": 0},
+                                    {"beat": 9.5, "length": 1.5, "step": 2}
+                                ],
+                                "turn": true,
+                                "drone": {"step": 0},
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        }
+                    ]
+                },
+                {
+                    "id": "gr-3-hear",
+                    "title": {"en": "Bend or stall?"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A bend has to arrive. Listen for the one that lands."},
+                            "steps": [
+                                {"title": {"en": "Listen"}, "detail": {"en": "Which one lands?"}},
+                                {"title": {"en": "Then you"}, "detail": {"en": "A bend that arrives"}},
+                                {"title": {"en": "Hold it"}, "detail": {"en": "On the third"}}
+                            ],
+                            "visual": "vibrato",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which bend lands on the third?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "bend": [
+                                                            [0, 300],
+                                                            [1, 400],
+                                                            [3, 400]
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "bend": [
+                                                            [0, 300],
+                                                            [1, 330],
+                                                            [3, 330]
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "One bends up and arrives; the other stalls just short."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which bend lands on the third?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "bend": [
+                                                            [0, 300],
+                                                            [1, 330],
+                                                            [3, 330]
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "bend": [
+                                                            [0, 300],
+                                                            [1, 400],
+                                                            [3, 400]
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "One bends up and arrives; the other stalls just short."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which bend lands on the third?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "bend": [
+                                                            [0, 300],
+                                                            [1, 400],
+                                                            [3, 400]
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "bend": [
+                                                            [0, 300],
+                                                            [1, 330],
+                                                            [3, 330]
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "One bends up and arrives; the other stalls just short."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which bend lands on the third?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "bend": [
+                                                            [0, 300],
+                                                            [1, 330],
+                                                            [3, 330]
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {
+                                                        "beat": 0,
+                                                        "length": 3,
+                                                        "step": 0,
+                                                        "bend": [
+                                                            [0, 300],
+                                                            [1, 400],
+                                                            [3, 400]
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "One bends up and arrives; the other stalls just short."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Now your bend, arriving on the third."},
+                            "exercise": {
+                                "tempo": 60,
+                                "step": 0,
+                                "lyric": "oh",
+                                "combo": false,
+                                "target": [
+                                    {
+                                        "seconds": 3,
+                                        "kind": "path",
+                                        "band": 60,
+                                        "points": [
+                                            [0, 3],
+                                            [1.0, 4],
+                                            [3, 4]
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "gr-3-challenge",
+                    "title": {"en": "A bluesy ending"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Five stairs again, a bend on the line, then an ending run in threes (unit 2's groups)."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Five stairs, today"}},
+                                {"title": {"en": "The bend"}, "detail": {"en": "Arrive on the third"}},
+                                {"title": {"en": "The run"}, "detail": {"en": "In threes, landing home"}}
+                            ],
+                            "visual": "vibrato",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Five stairs."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 9, "lyric": "A-"},
+                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "men."}
+                                ],
+                                "turn": false,
+                                "score": "landing",
+                                "chords": [
+                                    {"beat": 0, "root": -7, "quality": "maj", "bass": null},
+                                    {"beat": 2, "root": -12, "quality": "maj", "bass": null}
+                                ],
+                                "thenAndNow": "gr.first-run"
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "The bend, arriving on the third."},
+                            "exercise": {
+                                "tempo": 60,
+                                "step": 0,
+                                "lyric": "oh",
+                                "combo": false,
+                                "target": [
+                                    {
+                                        "seconds": 3,
+                                        "kind": "path",
+                                        "band": 60,
+                                        "points": [
+                                            [0, 3],
+                                            [1.0, 4],
+                                            [3, 4]
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The ending run, in threes, landing on do."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.3333, "step": 7, "lyric": "oh"},
+                                    {"beat": 0.3333333333333333, "length": 0.3333, "step": 4},
+                                    {"beat": 0.6666666666666666, "length": 0.3333, "step": 2},
+                                    {"beat": 1, "length": 2, "step": 0}
+                                ],
+                                "turn": true,
+                                "drone": {"step": 0}
+                            },
+                            "measures": {"en": "Scored on every note on pitch and on the beat."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "gr-the-ladder",
+            "title": {"en": "The ladder, and the songs"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "gr-4-ladder",
+                    "title": {"en": "The ladder"},
+                    "fact": {"id": "slow-practice", "text": {"en": "Almost every classical musician practises slowly: 99.45 percent of 256 players in a 2022 survey. Science hasn't yet shown exactly how it helps."}, "source": {"en": "Allingham and Wöllner, Psychology of Music (2022)"}, "url": "https://doi.org/10.1177/03057356211073481"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The same run, a rung at a time: two, three, then four notes a second, each note still clean. Real runs go faster; clean first is how they're learned."},
+                            "steps": [
+                                {"title": {"en": "Two a second"}, "detail": {"en": "Every note clean"}},
+                                {"title": {"en": "Three, then four"}, "detail": {"en": "As quick as each note still counts"}},
+                                {"title": {"en": "Beyond"}, "detail": {"en": "Real speed, just to hear"}}
+                            ],
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The run at two notes a second."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 9, "lyric": "A-"},
+                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "men."}
+                                ],
+                                "turn": false,
+                                "score": "landing",
+                                "chords": [
+                                    {"beat": 0, "root": -7, "quality": "maj", "bass": null},
+                                    {"beat": 2, "root": -12, "quality": "maj", "bass": null}
+                                ]
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The run at three notes a second."},
+                            "exercise": {
+                                "tempo": 90,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 9, "lyric": "A-"},
+                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "men."}
+                                ],
+                                "turn": false,
+                                "score": "landing",
+                                "chords": [
+                                    {"beat": 0, "root": -7, "quality": "maj", "bass": null},
+                                    {"beat": 2, "root": -12, "quality": "maj", "bass": null}
+                                ]
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The run at four notes a second."},
+                            "exercise": {
+                                "tempo": 120,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 9, "lyric": "A-"},
+                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "men."}
+                                ],
+                                "turn": false,
+                                "score": "landing",
+                                "chords": [
+                                    {"beat": 0, "root": -7, "quality": "maj", "bass": null},
+                                    {"beat": 2, "root": -12, "quality": "maj", "bass": null}
+                                ],
+                                "generous": true
+                            },
+                            "measures": {"en": "Scored on every note on pitch, generously at the top rung."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Beyond the lane: the guide's run at real speed. Try it, then hear yours beside it. We don't score this speed yet."},
+                            "exercise": {
+                                "tempo": 240,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0.0, "length": 0.5, "step": 9, "lyric": "A-"},
+                                        {"beat": 0.5, "length": 0.5, "step": 7},
+                                        {"beat": 1.0, "length": 0.5, "step": 4},
+                                        {"beat": 1.5, "length": 0.5, "step": 2},
+                                        {"beat": 2, "length": 2, "step": 0, "lyric": "men."}
+                                    ]
+                                },
+                                "questions": [{"en": "Did every note stay clean?"}, {"en": "Did your jaw stay still?"}]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "gr-4-swing",
+                    "title": {"en": "Swing Low, with a run"},
+                    "fact": {"id": "blue-note", "text": {"en": "A blue note falls between the piano's keys, flatter than the major third and sharper than the minor. Measured in early blues recordings, the blue third usually sits just above the minor third."}, "source": {"en": "Cutting, Empirical Musicology Review (2019)"}, "url": "https://doi.org/10.18061/emr.v13i1-2.6316"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Swing Low's line, plain, then with a turn on \"home\". The run is ours, one singer's choice: on a spiritual it serves the word."},
+                            "steps": [
+                                {"title": {"en": "Plain first"}, "detail": {"en": "The tune as it is"}},
+                                {"title": {"en": "On home"}, "detail": {"en": "A turn, serving the word"}},
+                                {"title": {"en": "Then breathe"}, "detail": {"en": "Before \"Coming for to carry me\""}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Coming for to carry me home\", plain."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": -4, "lyric": "Com-"},
+                                    {"beat": 0.5, "length": 0.5, "step": -4, "lyric": "ing"},
+                                    {"beat": 1, "length": 0.5, "step": -4, "lyric": "for"},
+                                    {"beat": 1.5, "length": 0.5, "step": -4, "lyric": "to"},
+                                    {"beat": 2, "length": 0.5, "step": 0, "lyric": "car-"},
+                                    {"beat": 2.5, "length": 0.5, "step": 0, "lyric": "ry"},
+                                    {"beat": 3, "length": 1, "step": 3, "lyric": "me"},
+                                    {"beat": 4, "length": 3, "step": 3, "lyric": "home."}
+                                ],
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on every note on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now with a turn on \"home\"."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": -4, "lyric": "Com-"},
+                                    {"beat": 0.5, "length": 0.5, "step": -4, "lyric": "ing"},
+                                    {"beat": 1, "length": 0.5, "step": -4, "lyric": "for"},
+                                    {"beat": 1.5, "length": 0.5, "step": -4, "lyric": "to"},
+                                    {"beat": 2, "length": 0.5, "step": 0, "lyric": "car-"},
+                                    {"beat": 2.5, "length": 0.5, "step": 0, "lyric": "ry"},
+                                    {"beat": 3, "length": 1, "step": 3, "lyric": "me"},
+                                    {"beat": 4.0, "length": 0.5, "step": 5, "lyric": "home."},
+                                    {"beat": 4.5, "length": 0.5, "step": 3},
+                                    {"beat": 5.0, "length": 0.5, "step": 0},
+                                    {"beat": 5.5, "length": 1.5, "step": 3}
+                                ],
+                                "turn": false,
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        }
+                    ]
+                },
+                {
+                    "id": "gr-4-steal",
+                    "title": {"en": "Steal Away"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A quiet spiritual: one gentle run, nothing more."},
+                            "steps": [
+                                {"title": {"en": "Quiet"}, "detail": {"en": "A medium volume or less"}},
+                                {"title": {"en": "One run"}, "detail": {"en": "Gentle, on a held word"}},
+                                {"title": {"en": "The word"}, "detail": {"en": "Comes first"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Steal away to Jesus\", plain."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.5, "step": 7, "lyric": "steal"},
+                                    {"beat": 1.5, "length": 0.5, "step": 7, "lyric": "a-"},
+                                    {"beat": 2.0, "length": 1.5, "step": 7, "lyric": "way"},
+                                    {"beat": 3.5, "length": 0.5, "step": 9, "lyric": "to"},
+                                    {"beat": 4.0, "length": 1, "step": 2, "lyric": "Je-"},
+                                    {"beat": 5.0, "length": 1, "step": 4, "lyric": "sus!"}
+                                ],
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on every note on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now with one gentle run."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 9, "lyric": "steal"},
+                                    {"beat": 0.5, "length": 1.0, "step": 7},
+                                    {"beat": 1.5, "length": 0.5, "step": 7, "lyric": "a-"},
+                                    {"beat": 2.0, "length": 1.5, "step": 7, "lyric": "way"},
+                                    {"beat": 3.5, "length": 0.5, "step": 9, "lyric": "to"},
+                                    {"beat": 4.0, "length": 1, "step": 2, "lyric": "Je-"},
+                                    {"beat": 5.0, "length": 1, "step": 4, "lyric": "sus!"}
+                                ],
+                                "turn": false,
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        }
+                    ]
+                },
+                {
+                    "id": "gr-4-challenge",
+                    "title": {"en": "Your run"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Five stairs again, then Swing Low's line with a run of your own on \"home\": each note its own stair or the next one down, landing on the song's note."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Five stairs, today"}},
+                                {"title": {"en": "Your run"}, "detail": {"en": "Each stair, or the next down"}},
+                                {"title": {"en": "Land it"}, "detail": {"en": "On the song's note"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Five stairs."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": 9, "lyric": "A-"},
+                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                    {"beat": 1.0, "length": 0.5, "step": 4},
+                                    {"beat": 1.5, "length": 0.5, "step": 2},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "men."}
+                                ],
+                                "turn": false,
+                                "score": "landing",
+                                "chords": [
+                                    {"beat": 0, "root": -7, "quality": "maj", "bass": null},
+                                    {"beat": 2, "root": -12, "quality": "maj", "bass": null}
+                                ],
+                                "thenAndNow": "gr.first-run"
+                            },
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Coming for to carry me home\", your run on \"home\"."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": -4, "lyric": "Com-"},
+                                    {"beat": 0.5, "length": 0.5, "step": -4, "lyric": "ing"},
+                                    {"beat": 1, "length": 0.5, "step": -4, "lyric": "for"},
+                                    {"beat": 1.5, "length": 0.5, "step": -4, "lyric": "to"},
+                                    {"beat": 2, "length": 0.5, "step": 0, "lyric": "car-"},
+                                    {"beat": 2.5, "length": 0.5, "step": 0, "lyric": "ry"},
+                                    {"beat": 3, "length": 1, "step": 3, "lyric": "me"},
+                                    {
+                                        "beat": 4.0,
+                                        "length": 0.5,
+                                        "step": 8,
+                                        "choices": [5, 8],
+                                        "lyric": "home."
+                                    },
+                                    {
+                                        "beat": 4.5,
+                                        "length": 0.5,
+                                        "step": 5,
+                                        "choices": [3, 5]
+                                    },
+                                    {"beat": 5.5, "length": 1.5, "step": 3}
+                                ],
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on every note on pitch and landing on the song's note."}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
