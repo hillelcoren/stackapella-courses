@@ -1,6 +1,6 @@
 {
  "id": "danny-boy",
- "version": 5,
+ "version": 6,
  "reviewed": true,
  "title": "Danny Boy",
  "description": "The Irish song to the Londonderry Air, for 2 to 4 singers: the soprano sings the melody, the alto moves beneath it, the bass holds the roots on \"oo\", and the tenor fills the chord. Slow and expressive, with a wide melody.",
@@ -67,7 +67,7 @@
    "beat": 6.0,
    "root": 4,
    "quality": "min",
-   "bass": 7
+   "bass": null
   },
   {
    "beat": 8.0,
@@ -83,9 +83,9 @@
   },
   {
    "beat": 13.0,
-   "root": 2,
-   "quality": "maj",
-   "bass": null
+   "root": 11,
+   "quality": "min",
+   "bass": 2
   },
   {
    "beat": 14.0,
@@ -193,7 +193,7 @@
    "beat": 52.0,
    "root": 4,
    "quality": "min",
-   "bass": 7
+   "bass": null
   },
   {
    "beat": 54.0,
@@ -854,7 +854,7 @@
    "name": "Alto",
    "range": {
     "low": 55,
-    "high": 71
+    "high": 69
    },
    "guide": {
     "type": "notes",
@@ -880,14 +880,9 @@
      },
      {
       "beat": 2.0,
-      "length": 1.5,
+      "length": 2,
       "pitch": 62,
       "lyric": "boy"
-     },
-     {
-      "beat": 3.5,
-      "length": 0.5,
-      "pitch": 57
      },
      {
       "beat": 4.0,
@@ -898,13 +893,13 @@
      {
       "beat": 4.5,
       "length": 0.5,
-      "pitch": 66,
+      "pitch": 62,
       "lyric": "pipes,"
      },
      {
       "beat": 5.0,
       "length": 0.5,
-      "pitch": 66,
+      "pitch": 62,
       "lyric": "the"
      },
      {
@@ -916,13 +911,13 @@
      {
       "beat": 6.0,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 55,
       "lyric": "are"
      },
      {
       "beat": 6.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 55,
       "lyric": "call-"
      },
      {
@@ -965,7 +960,7 @@
      {
       "beat": 12.0,
       "length": 0.5,
-      "pitch": 66,
+      "pitch": 62,
       "lyric": "down"
      },
      {
@@ -1013,14 +1008,9 @@
      },
      {
       "beat": 18.0,
-      "length": 1,
+      "length": 1.5,
       "pitch": 62,
       "lyric": "gone,"
-     },
-     {
-      "beat": 19,
-      "length": 0.5,
-      "pitch": 57
      },
      {
       "beat": 20.0,
@@ -1032,13 +1022,13 @@
      {
       "beat": 20.5,
       "length": 0.5,
-      "pitch": 66,
+      "pitch": 62,
       "lyric": "all"
      },
      {
       "beat": 21.0,
       "length": 0.5,
-      "pitch": 66,
+      "pitch": 62,
       "lyric": "the"
      },
      {
@@ -1116,25 +1106,15 @@
      },
      {
       "beat": 28.5,
-      "length": 0.5,
+      "length": 1,
       "pitch": 61,
       "lyric": "must"
      },
      {
-      "beat": 29.0,
-      "length": 0.5,
-      "pitch": 57
-     },
-     {
       "beat": 29.5,
-      "length": 0.5,
-      "pitch": 61,
+      "length": 2.25,
+      "pitch": 66,
       "lyric": "bide."
-     },
-     {
-      "beat": 30.0,
-      "length": 1.75,
-      "pitch": 66
      },
      {
       "beat": 32.5,
@@ -1152,19 +1132,14 @@
      {
       "beat": 33.5,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 64,
       "lyric": "ye"
      },
      {
       "beat": 34.0,
-      "length": 1.5,
+      "length": 2,
       "pitch": 66,
       "lyric": "back"
-     },
-     {
-      "beat": 35.5,
-      "length": 0.5,
-      "pitch": 66
      },
      {
       "beat": 36.0,
@@ -1187,7 +1162,7 @@
      {
       "beat": 37.5,
       "length": 0.5,
-      "pitch": 61,
+      "pitch": 66,
       "lyric": "in"
      },
      {
@@ -1199,7 +1174,7 @@
      {
       "beat": 38.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 66,
       "lyric": "mea-"
      },
      {
@@ -1224,7 +1199,7 @@
      {
       "beat": 41.5,
       "length": 0.5,
-      "pitch": 69,
+      "pitch": 64,
       "lyric": "the"
      },
      {
@@ -1248,7 +1223,7 @@
      {
       "beat": 44.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 66,
       "lyric": "and"
      },
      {
@@ -1290,25 +1265,20 @@
      },
      {
       "beat": 50.0,
-      "length": 1.5,
+      "length": 2,
       "pitch": 62,
       "lyric": "here"
      },
      {
-      "beat": 51.5,
-      "length": 0.5,
-      "pitch": 69
-     },
-     {
       "beat": 52.0,
       "length": 0.5,
-      "pitch": 71,
+      "pitch": 67,
       "lyric": "in"
      },
      {
       "beat": 52.5,
       "length": 0.5,
-      "pitch": 71,
+      "pitch": 67,
       "lyric": "sun-"
      },
      {
@@ -1320,7 +1290,7 @@
      {
       "beat": 53.5,
       "length": 0.5,
-      "pitch": 71,
+      "pitch": 67,
       "lyric": "or"
      },
      {
@@ -1338,7 +1308,7 @@
      {
       "beat": 55.0,
       "length": 0.75,
-      "pitch": 66,
+      "pitch": 62,
       "lyric": "dow,"
      },
      {
@@ -1369,13 +1339,13 @@
      {
       "beat": 58.5,
       "length": 0.5,
-      "pitch": 66,
+      "pitch": 62,
       "lyric": "oh"
      },
      {
       "beat": 59.0,
       "length": 0.5,
-      "pitch": 66,
+      "pitch": 62,
       "lyric": "Dan-"
      },
      {
@@ -1393,7 +1363,7 @@
      {
       "beat": 60.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 62,
       "lyric": "I"
      },
      {
@@ -1448,14 +1418,9 @@
      },
      {
       "beat": 2.0,
-      "length": 1.5,
+      "length": 2,
       "pitch": 57,
       "lyric": "boy"
-     },
-     {
-      "beat": 3.5,
-      "length": 0.5,
-      "pitch": 54
      },
      {
       "beat": 4.0,
@@ -1581,14 +1546,9 @@
      },
      {
       "beat": 18.0,
-      "length": 1,
+      "length": 1.5,
       "pitch": 57,
       "lyric": "gone,"
-     },
-     {
-      "beat": 19,
-      "length": 0.5,
-      "pitch": 54
      },
      {
       "beat": 20.0,
@@ -1684,25 +1644,15 @@
      },
      {
       "beat": 28.5,
-      "length": 0.5,
-      "pitch": 55,
+      "length": 1,
+      "pitch": 57,
       "lyric": "must"
      },
      {
-      "beat": 29.0,
-      "length": 0.5,
-      "pitch": 55
-     },
-     {
       "beat": 29.5,
-      "length": 0.5,
-      "pitch": 55,
+      "length": 2.25,
+      "pitch": 57,
       "lyric": "bide."
-     },
-     {
-      "beat": 30.0,
-      "length": 1.75,
-      "pitch": 54
      },
      {
       "beat": 32.5,
@@ -1725,14 +1675,9 @@
      },
      {
       "beat": 34.0,
-      "length": 1.5,
+      "length": 2,
       "pitch": 57,
       "lyric": "back"
-     },
-     {
-      "beat": 35.5,
-      "length": 0.5,
-      "pitch": 57
      },
      {
       "beat": 36.0,
@@ -1858,14 +1803,9 @@
      },
      {
       "beat": 50.0,
-      "length": 1.5,
+      "length": 2,
       "pitch": 57,
       "lyric": "here"
-     },
-     {
-      "beat": 51.5,
-      "length": 0.5,
-      "pitch": 54
      },
      {
       "beat": 52.0,
@@ -1894,7 +1834,7 @@
      {
       "beat": 54.0,
       "length": 0.5,
-      "pitch": 54,
+      "pitch": 57,
       "lyric": "in"
      },
      {
@@ -1906,7 +1846,7 @@
      {
       "beat": 55.0,
       "length": 0.75,
-      "pitch": 57,
+      "pitch": 54,
       "lyric": "dow,"
      },
      {
@@ -1997,7 +1937,7 @@
     "notes": [
      {
       "beat": 2.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 50,
       "lyric": "oo",
       "br": true
@@ -2009,29 +1949,29 @@
      },
      {
       "beat": 6.0,
-      "length": 2.0,
-      "pitch": 43,
+      "length": 2,
+      "pitch": 52,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 8.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 50
      },
      {
       "beat": 10.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 50
      },
      {
       "beat": 12.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 47
      },
      {
       "beat": 13.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 50
      },
      {
@@ -2041,14 +1981,14 @@
      },
      {
       "beat": 16.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 45,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 18.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 50
      },
      {
@@ -2058,24 +1998,24 @@
      },
      {
       "beat": 22.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 43,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 24.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 47
      },
      {
       "beat": 26.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 50
      },
      {
       "beat": 28.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 45
      },
      {
@@ -2085,19 +2025,19 @@
      },
      {
       "beat": 32.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 45,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 34.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 50
      },
      {
       "beat": 36.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 54
      },
      {
@@ -2107,24 +2047,24 @@
      },
      {
       "beat": 40.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 45,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 42.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 50
      },
      {
       "beat": 44.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 47
      },
      {
       "beat": 45.0,
-      "length": 1.0,
+      "length": 1,
       "pitch": 50
      },
      {
@@ -2134,20 +2074,20 @@
      },
      {
       "beat": 48.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 45,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 50.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 50
      },
      {
       "beat": 52.0,
-      "length": 2.0,
-      "pitch": 43
+      "length": 2,
+      "pitch": 52
      },
      {
       "beat": 54.0,
@@ -2156,19 +2096,19 @@
      },
      {
       "beat": 56.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 45,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 58.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 50
      },
      {
       "beat": 60.0,
-      "length": 2.0,
+      "length": 2,
       "pitch": 45
      },
      {
