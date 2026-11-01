@@ -10,7 +10,7 @@
     ],
     "style": "straight",
     "tempo": 72,
-    "key": "F",
+    "key": "B",
     "timeSignature": "4/4",
     "pickupBeats": 0,
     "language": "en",
@@ -36,31 +36,31 @@
     "chords": [
         {
             "beat": 0,
-            "root": 5,
+            "root": 11,
             "quality": "maj",
             "bass": null
         },
         {
             "beat": 1,
-            "root": 2,
+            "root": 8,
             "quality": "dom7",
             "bass": null
         },
         {
             "beat": 2,
-            "root": 7,
+            "root": 1,
             "quality": "dom7",
             "bass": null
         },
         {
             "beat": 3,
-            "root": 0,
+            "root": 6,
             "quality": "dom7",
             "bass": null
         },
         {
             "beat": 4,
-            "root": 5,
+            "root": 11,
             "quality": "maj",
             "bass": null
         }
@@ -83,8 +83,8 @@
             "key": "tenor",
             "name": "Tenor",
             "range": {
-                "low": 55,
-                "high": 67
+                "low": 61,
+                "high": 73
             },
             "guide": {
                 "type": "notes",
@@ -92,7 +92,94 @@
                     {
                         "beat": 0,
                         "length": 1,
-                        "pitch": 60,
+                        "pitch": 66,
+                        "lyric": "Sing"
+                    },
+                    {
+                        "beat": 1,
+                        "length": 1,
+                        "pitch": 66,
+                        "lyric": "just"
+                    },
+                    {
+                        "beat": 2,
+                        "length": 1,
+                        "pitch": 65,
+                        "lyric": "one"
+                    },
+                    {
+                        "beat": 3,
+                        "length": 1,
+                        "pitch": 64,
+                        "lyric": "more"
+                    },
+                    {
+                        "beat": 4,
+                        "length": 4,
+                        "pitch": 63,
+                        "lyric": "song"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "lead",
+            "name": "Lead",
+            "range": {
+                "low": 56,
+                "high": 68
+            },
+            "guide": {
+                "type": "notes",
+                "notes": [
+                    {
+                        "beat": 0,
+                        "length": 1,
+                        "pitch": 63,
+                        "lyric": "Sing"
+                    },
+                    {
+                        "beat": 1,
+                        "length": 1,
+                        "pitch": 63,
+                        "lyric": "just"
+                    },
+                    {
+                        "beat": 2,
+                        "length": 1,
+                        "pitch": 61,
+                        "lyric": "one"
+                    },
+                    {
+                        "beat": 3,
+                        "length": 1,
+                        "pitch": 61,
+                        "lyric": "more"
+                    },
+                    {
+                        "beat": 4,
+                        "length": 4,
+                        "pitch": 59,
+                        "lyric": "song"
+                    }
+                ]
+            },
+            "melody": true
+        },
+        {
+            "key": "baritone",
+            "name": "Baritone",
+            "range": {
+                "low": 51,
+                "high": 64
+            },
+            "guide": {
+                "type": "notes",
+                "notes": [
+                    {
+                        "beat": 0,
+                        "length": 1,
+                        "pitch": 59,
                         "lyric": "Sing"
                     },
                     {
@@ -116,94 +203,7 @@
                     {
                         "beat": 4,
                         "length": 4,
-                        "pitch": 57,
-                        "lyric": "song"
-                    }
-                ]
-            }
-        },
-        {
-            "key": "lead",
-            "name": "Lead",
-            "range": {
-                "low": 50,
-                "high": 62
-            },
-            "guide": {
-                "type": "notes",
-                "notes": [
-                    {
-                        "beat": 0,
-                        "length": 1,
-                        "pitch": 57,
-                        "lyric": "Sing"
-                    },
-                    {
-                        "beat": 1,
-                        "length": 1,
-                        "pitch": 57,
-                        "lyric": "just"
-                    },
-                    {
-                        "beat": 2,
-                        "length": 1,
-                        "pitch": 55,
-                        "lyric": "one"
-                    },
-                    {
-                        "beat": 3,
-                        "length": 1,
-                        "pitch": 55,
-                        "lyric": "more"
-                    },
-                    {
-                        "beat": 4,
-                        "length": 4,
-                        "pitch": 53,
-                        "lyric": "song"
-                    }
-                ]
-            },
-            "melody": true
-        },
-        {
-            "key": "baritone",
-            "name": "Baritone",
-            "range": {
-                "low": 45,
-                "high": 58
-            },
-            "guide": {
-                "type": "notes",
-                "notes": [
-                    {
-                        "beat": 0,
-                        "length": 1,
-                        "pitch": 53,
-                        "lyric": "Sing"
-                    },
-                    {
-                        "beat": 1,
-                        "length": 1,
                         "pitch": 54,
-                        "lyric": "just"
-                    },
-                    {
-                        "beat": 2,
-                        "length": 1,
-                        "pitch": 53,
-                        "lyric": "one"
-                    },
-                    {
-                        "beat": 3,
-                        "length": 1,
-                        "pitch": 52,
-                        "lyric": "more"
-                    },
-                    {
-                        "beat": 4,
-                        "length": 4,
-                        "pitch": 48,
                         "lyric": "song"
                     }
                 ]
@@ -213,8 +213,8 @@
             "key": "bass",
             "name": "Bass",
             "range": {
-                "low": 36,
-                "high": 52
+                "low": 42,
+                "high": 58
             },
             "guide": {
                 "type": "notes",
@@ -222,31 +222,31 @@
                     {
                         "beat": 0,
                         "length": 1,
-                        "pitch": 41,
+                        "pitch": 47,
                         "lyric": "Sing"
                     },
                     {
                         "beat": 1,
                         "length": 1,
-                        "pitch": 38,
+                        "pitch": 44,
                         "lyric": "just"
                     },
                     {
                         "beat": 2,
                         "length": 1,
-                        "pitch": 38,
+                        "pitch": 44,
                         "lyric": "one"
                     },
                     {
                         "beat": 3,
                         "length": 1,
-                        "pitch": 36,
+                        "pitch": 42,
                         "lyric": "more"
                     },
                     {
                         "beat": 4,
                         "length": 4,
-                        "pitch": 41,
+                        "pitch": 47,
                         "lyric": "song"
                     }
                 ]
