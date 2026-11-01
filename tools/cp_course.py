@@ -732,4 +732,8 @@ for unit in course["units"]:
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from facts import move_facts  # noqa: E402
 move_facts(course)
+# A breath a beginner can take at every line end (the singable rules: tools/breaths.py).
+from breaths import add_breaths  # noqa: E402
+for where in add_breaths(course):
+    print("no room to breathe:", where)
 json.dump(course, open(OUT, "w"))

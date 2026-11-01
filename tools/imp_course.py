@@ -496,8 +496,9 @@ def imp_3_chord():
                    ("Then choose", "One long note to each chord"),
                    ("Every lit note works", "The tune's own note never lights")], "harmony"),
             {"kind": "choose", "text": EN("First, ears only: in the chord, or not?"), "exercise": {"tempo": 72, "rounds": in_chord_rounds()}},
+            # 84, not 92: sixteen beats of "ah" need room for a breath a beginner can take (tools/breaths.py).
             {"kind": "play", "text": EN("Sing each chord's notes, up and back, over its chord."),
-             "exercise": {"tempo": 92, "notes": cue(DO) + arps, "turn": False, "chords": [dict(c, beat=BAR + 4 * k) for k, c in enumerate(chords(DO, 0, 16))]}},
+             "exercise": {"tempo": 84, "notes": cue(DO) + arps, "turn": False, "chords": [dict(c, beat=BAR + 4 * k) for k, c in enumerate(chords(DO, 0, 16))]}},
             {"kind": "play", "text": EN("One long note to each chord: any lit note, under or over the tune."),
              "exercise": {"tempo": 92, "notes": cue(DO) + [dict(p, beat=p["beat"] + BAR) for p in picks], "turn": False,
                           "with": [guide_line(first, DO, BAR)], "chords": chords(DO, BAR, 16)},
@@ -674,6 +675,10 @@ for unit in course["units"]:
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from facts import move_facts  # noqa: E402
 move_facts(course)
+# A breath a beginner can take at every line end (the singable rules: tools/breaths.py).
+from breaths import add_breaths  # noqa: E402
+for where in add_breaths(course):
+    print("no room to breathe:", where)
 json.dump(course, open(OUT, "w"))
 if FALLBACKS:
     print("rests where nothing fits:", len(FALLBACKS))
