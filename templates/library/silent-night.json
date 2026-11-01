@@ -1,6 +1,6 @@
 {
  "id": "silent-night",
- "version": 5,
+ "version": 6,
  "reviewed": true,
  "title": "Silent Night",
  "description": "The gentle carol, for 2 to 4 singers: the soprano sings the melody, the alto a third below most of the way, the bass holds the roots on \"oo\", and the tenor fills the chord. Slow and singable.",
@@ -62,6 +62,12 @@
    "root": 0,
    "quality": "maj",
    "bass": null
+  },
+  {
+   "beat": 33,
+   "root": 0,
+   "quality": "maj",
+   "bass": 4
   },
   {
    "beat": 36.0,
@@ -445,14 +451,9 @@
      },
      {
       "beat": 1.5,
-      "length": 0.5,
-      "pitch": 65,
+      "length": 1.5,
+      "pitch": 64,
       "lyric": "lent"
-     },
-     {
-      "beat": 2.0,
-      "length": 1,
-      "pitch": 64
      },
      {
       "beat": 3.0,
@@ -468,14 +469,9 @@
      },
      {
       "beat": 7.5,
-      "length": 0.5,
-      "pitch": 65,
+      "length": 1.5,
+      "pitch": 64,
       "lyric": "ly"
-     },
-     {
-      "beat": 8.0,
-      "length": 1,
-      "pitch": 64
      },
      {
       "beat": 9.0,
@@ -559,14 +555,9 @@
      },
      {
       "beat": 31.5,
-      "length": 0.5,
-      "pitch": 65,
+      "length": 1.5,
+      "pitch": 64,
       "lyric": "and"
-     },
-     {
-      "beat": 32.0,
-      "length": 1,
-      "pitch": 64
      },
      {
       "beat": 33.0,
@@ -694,19 +685,9 @@
      },
      {
       "beat": 63.0,
-      "length": 1.5,
+      "length": 3,
       "pitch": 59,
       "lyric": "ly"
-     },
-     {
-      "beat": 64.5,
-      "length": 0.5,
-      "pitch": 59
-     },
-     {
-      "beat": 65.0,
-      "length": 1,
-      "pitch": 59
      },
      {
       "beat": 66.0,
@@ -722,7 +703,7 @@
    "name": "Tenor",
    "range": {
     "low": 52,
-    "high": 60
+    "high": 62
    },
    "guide": {
     "type": "notes",
@@ -736,14 +717,9 @@
      },
      {
       "beat": 1.5,
-      "length": 0.5,
+      "length": 1.5,
       "pitch": 55,
       "lyric": "lent"
-     },
-     {
-      "beat": 2.0,
-      "length": 1,
-      "pitch": 55
      },
      {
       "beat": 3.0,
@@ -759,14 +735,9 @@
      },
      {
       "beat": 7.5,
-      "length": 0.5,
+      "length": 1.5,
       "pitch": 55,
       "lyric": "ly"
-     },
-     {
-      "beat": 8.0,
-      "length": 1,
-      "pitch": 55
      },
      {
       "beat": 9.0,
@@ -790,79 +761,74 @@
      {
       "beat": 15.0,
       "length": 3,
-      "pitch": 55,
+      "pitch": 62,
       "lyric": "calm,"
      },
      {
       "beat": 18.0,
       "length": 2,
-      "pitch": 55,
+      "pitch": 60,
       "lyric": "all"
      },
      {
       "beat": 20.0,
       "length": 1,
-      "pitch": 55,
+      "pitch": 60,
       "lyric": "is"
      },
      {
       "beat": 21.0,
       "length": 2,
-      "pitch": 55,
+      "pitch": 60,
       "lyric": "bright,"
      },
      {
       "beat": 24.0,
       "length": 2,
-      "pitch": 53,
+      "pitch": 60,
       "lyric": "Round",
       "br": true
      },
      {
       "beat": 26.0,
       "length": 1,
-      "pitch": 53,
+      "pitch": 60,
       "lyric": "yon"
      },
      {
       "beat": 27.0,
       "length": 1.5,
-      "pitch": 53,
+      "pitch": 60,
       "lyric": "vir-"
      },
      {
       "beat": 28.5,
       "length": 0.5,
-      "pitch": 53,
+      "pitch": 60,
       "lyric": "gin"
      },
      {
       "beat": 29.0,
       "length": 1,
-      "pitch": 53,
+      "pitch": 60,
       "lyric": "mo-"
      },
      {
       "beat": 30.0,
       "length": 1.5,
-      "pitch": 55,
+      "pitch": 60,
       "lyric": "ther"
      },
      {
       "beat": 31.5,
-      "length": 0.5,
-      "pitch": 55,
+      "length": 1.5,
+      "pitch": 60,
       "lyric": "and"
-     },
-     {
-      "beat": 32.0,
-      "length": 1,
-      "pitch": 55
      },
      {
       "beat": 33.0,
       "length": 2,
-      "pitch": 55,
+      "pitch": 60,
       "lyric": "child,"
      },
      {
@@ -985,19 +951,9 @@
      },
      {
       "beat": 63.0,
-      "length": 1.5,
+      "length": 3,
       "pitch": 55,
       "lyric": "ly"
-     },
-     {
-      "beat": 64.5,
-      "length": 0.5,
-      "pitch": 55
-     },
-     {
-      "beat": 65.0,
-      "length": 1,
-      "pitch": 55
      },
      {
       "beat": 66.0,
@@ -1012,8 +968,8 @@
    "key": "bass",
    "name": "Bass",
    "range": {
-    "low": 41,
-    "high": 48
+    "low": 43,
+    "high": 53
    },
    "guide": {
     "type": "notes",
@@ -1065,14 +1021,14 @@
      {
       "beat": 24,
       "length": 3,
-      "pitch": 41,
+      "pitch": 53,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 27,
       "length": 3,
-      "pitch": 41
+      "pitch": 53
      },
      {
       "beat": 30,
@@ -1082,19 +1038,19 @@
      {
       "beat": 33,
       "length": 2,
-      "pitch": 48
+      "pitch": 52
      },
      {
       "beat": 36,
       "length": 3,
-      "pitch": 41,
+      "pitch": 53,
       "lyric": "oo",
       "br": true
      },
      {
       "beat": 39,
       "length": 3,
-      "pitch": 41
+      "pitch": 53
      },
      {
       "beat": 42,
