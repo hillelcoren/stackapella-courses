@@ -394,7 +394,7 @@
                 },
                 {
                     "id": "song-home-on-the-range-alto-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 and 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -425,27 +425,14 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "home-on-the-range",
                                     "part": "alto",
-                                    "phrases": [2]
+                                    "phrases": [0, 1]
                                 },
-                                "turn": false
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        },
-                        {
-                            "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined, with the guide."},
-                            "exercise": {
-                                "song": {
-                                    "template": "home-on-the-range",
-                                    "part": "alto",
-                                    "phrases": [0, 1, 2]
-                                },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         }
@@ -453,9 +440,22 @@
                 },
                 {
                     "id": "song-home-on-the-range-alto-3",
-                    "title": {"en": "Lines 4 and 5"},
+                    "title": {"en": "Lines 3 and 4"},
                     "strictness": "relaxed",
                     "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "home-on-the-range",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 4, then sing it back."},
@@ -471,6 +471,26 @@
                         },
                         {
                             "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "home-on-the-range",
+                                    "part": "alto",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-home-on-the-range-alto-4",
+                    "title": {"en": "Lines 5 and 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
                             "text": {"en": "Hear line 5, then sing it back."},
                             "exercise": {
                                 "song": {
@@ -484,26 +504,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "home-on-the-range",
-                                    "part": "alto",
-                                    "phrases": [3, 4]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-home-on-the-range-alto-4",
-                    "title": {"en": "Lines 6 to 8"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
                             "text": {"en": "Hear line 6, then sing it back."},
                             "exercise": {
                                 "song": {
@@ -515,6 +515,26 @@
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "home-on-the-range",
+                                    "part": "alto",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-home-on-the-range-alto-5",
+                    "title": {"en": "Lines 7 and 8"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 7, then sing it back."},
@@ -543,21 +563,21 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 to 8 joined, with the guide."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "home-on-the-range",
                                     "part": "alto",
-                                    "phrases": [5, 6, 7]
+                                    "phrases": [6, 7]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         }
                     ]
                 },
                 {
-                    "id": "song-home-on-the-range-alto-5",
+                    "id": "song-home-on-the-range-alto-6",
                     "title": {"en": "The whole song"},
                     "steps": [
                         {
@@ -602,7 +622,7 @@
                     ]
                 },
                 {
-                    "id": "song-home-on-the-range-alto-6",
+                    "id": "song-home-on-the-range-alto-7",
                     "title": {"en": "With the others"},
                     "steps": [
                         {
@@ -622,7 +642,7 @@
                     ]
                 },
                 {
-                    "id": "song-home-on-the-range-alto-7",
+                    "id": "song-home-on-the-range-alto-8",
                     "title": {"en": "On your own"},
                     "steps": [
                         {
@@ -660,7 +680,7 @@
                     ]
                 },
                 {
-                    "id": "song-home-on-the-range-alto-8",
+                    "id": "song-home-on-the-range-alto-9",
                     "title": {"en": "Record it"},
                     "steps": [
                         {"kind": "record", "text": {"en": "Record the alto part of Home on the Range in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "home-on-the-range", "singers": 4, "part": "alto"}
@@ -1056,7 +1076,7 @@
                 },
                 {
                     "id": "song-home-on-the-range-tenor-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 and 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -1087,27 +1107,14 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "home-on-the-range",
                                     "part": "tenor",
-                                    "phrases": [2]
+                                    "phrases": [0, 1]
                                 },
-                                "turn": false
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        },
-                        {
-                            "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined, with the guide."},
-                            "exercise": {
-                                "song": {
-                                    "template": "home-on-the-range",
-                                    "part": "tenor",
-                                    "phrases": [0, 1, 2]
-                                },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         }
@@ -1115,9 +1122,22 @@
                 },
                 {
                     "id": "song-home-on-the-range-tenor-3",
-                    "title": {"en": "Lines 4 and 5"},
+                    "title": {"en": "Lines 3 and 4"},
                     "strictness": "relaxed",
                     "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "home-on-the-range",
+                                    "part": "tenor",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 4, then sing it back."},
@@ -1133,6 +1153,26 @@
                         },
                         {
                             "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "home-on-the-range",
+                                    "part": "tenor",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-home-on-the-range-tenor-4",
+                    "title": {"en": "Lines 5 and 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
                             "text": {"en": "Hear line 5, then sing it back."},
                             "exercise": {
                                 "song": {
@@ -1146,26 +1186,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "home-on-the-range",
-                                    "part": "tenor",
-                                    "phrases": [3, 4]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-home-on-the-range-tenor-4",
-                    "title": {"en": "Lines 6 to 8"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
                             "text": {"en": "Hear line 6, then sing it back."},
                             "exercise": {
                                 "song": {
@@ -1177,6 +1197,26 @@
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "home-on-the-range",
+                                    "part": "tenor",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-home-on-the-range-tenor-5",
+                    "title": {"en": "Lines 7 and 8"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 7, then sing it back."},
@@ -1205,21 +1245,21 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 to 8 joined, with the guide."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "home-on-the-range",
                                     "part": "tenor",
-                                    "phrases": [5, 6, 7]
+                                    "phrases": [6, 7]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         }
                     ]
                 },
                 {
-                    "id": "song-home-on-the-range-tenor-5",
+                    "id": "song-home-on-the-range-tenor-6",
                     "title": {"en": "The whole song"},
                     "steps": [
                         {
@@ -1264,7 +1304,7 @@
                     ]
                 },
                 {
-                    "id": "song-home-on-the-range-tenor-6",
+                    "id": "song-home-on-the-range-tenor-7",
                     "title": {"en": "With the others"},
                     "steps": [
                         {
@@ -1284,7 +1324,7 @@
                     ]
                 },
                 {
-                    "id": "song-home-on-the-range-tenor-7",
+                    "id": "song-home-on-the-range-tenor-8",
                     "title": {"en": "On your own"},
                     "steps": [
                         {
@@ -1322,7 +1362,7 @@
                     ]
                 },
                 {
-                    "id": "song-home-on-the-range-tenor-8",
+                    "id": "song-home-on-the-range-tenor-9",
                     "title": {"en": "Record it"},
                     "steps": [
                         {"kind": "record", "text": {"en": "Record the tenor part of Home on the Range in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "home-on-the-range", "singers": 4, "part": "tenor"}

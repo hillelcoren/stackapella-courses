@@ -107,7 +107,7 @@
                 },
                 {
                     "id": "song-the-water-is-wide-soprano-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 and 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -138,6 +138,26 @@
                         },
                         {
                             "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "the-water-is-wide",
+                                    "part": "soprano",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-the-water-is-wide-soprano-4",
+                    "title": {"en": "Lines 5 to 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
                             "text": {"en": "Hear line 5, then sing it back."},
                             "exercise": {
                                 "song": {
@@ -164,26 +184,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
-                            "exercise": {
-                                "song": {
-                                    "template": "the-water-is-wide",
-                                    "part": "soprano",
-                                    "phrases": [2, 3, 4, 5]
-                                },
-                                "turn": false
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-the-water-is-wide-soprano-4",
-                    "title": {"en": "Lines 7 and 8"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
                             "text": {"en": "Line 7 is the tune of line 3 again, with new words. Sing it with the guide."},
                             "exercise": {
                                 "song": {
@@ -197,27 +197,27 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Hear line 8, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "the-water-is-wide",
                                     "part": "soprano",
                                     "phrases": [7]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 to 8 joined, with the guide."},
                             "exercise": {
                                 "song": {
                                     "template": "the-water-is-wide",
                                     "part": "soprano",
-                                    "phrases": [6, 7]
+                                    "phrases": [4, 5, 6, 7]
                                 },
-                                "turn": true
+                                "turn": false
                             },
                             "measures": {"en": "Scored on the notes."}
                         }
@@ -530,14 +530,14 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Hear line 8, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "the-water-is-wide",
                                     "part": "bass",
                                     "phrases": [7]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
@@ -818,7 +818,7 @@
                 },
                 {
                     "id": "song-the-water-is-wide-alto-4",
-                    "title": {"en": "Lines 5 to 8"},
+                    "title": {"en": "Lines 5 and 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -849,6 +849,26 @@
                         },
                         {
                             "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "the-water-is-wide",
+                                    "part": "alto",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-the-water-is-wide-alto-5",
+                    "title": {"en": "Lines 7 and 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
                             "text": {"en": "Hear line 7, then sing it back."},
                             "exercise": {
                                 "song": {
@@ -862,34 +882,34 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Hear line 8, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "the-water-is-wide",
                                     "part": "alto",
                                     "phrases": [7]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 to 8 joined, with the guide."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "the-water-is-wide",
                                     "part": "alto",
-                                    "phrases": [4, 5, 6, 7]
+                                    "phrases": [6, 7]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         }
                     ]
                 },
                 {
-                    "id": "song-the-water-is-wide-alto-5",
+                    "id": "song-the-water-is-wide-alto-6",
                     "title": {"en": "The whole song"},
                     "steps": [
                         {
@@ -934,7 +954,7 @@
                     ]
                 },
                 {
-                    "id": "song-the-water-is-wide-alto-6",
+                    "id": "song-the-water-is-wide-alto-7",
                     "title": {"en": "With the others"},
                     "steps": [
                         {
@@ -954,7 +974,7 @@
                     ]
                 },
                 {
-                    "id": "song-the-water-is-wide-alto-7",
+                    "id": "song-the-water-is-wide-alto-8",
                     "title": {"en": "On your own"},
                     "steps": [
                         {
@@ -992,7 +1012,7 @@
                     ]
                 },
                 {
-                    "id": "song-the-water-is-wide-alto-8",
+                    "id": "song-the-water-is-wide-alto-9",
                     "title": {"en": "Record it"},
                     "steps": [
                         {"kind": "record", "text": {"en": "Record the alto part of The Water Is Wide in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "the-water-is-wide", "singers": 4, "part": "alto"}
@@ -1149,7 +1169,7 @@
                 },
                 {
                     "id": "song-the-water-is-wide-tenor-4",
-                    "title": {"en": "Lines 5 to 8"},
+                    "title": {"en": "Lines 5 and 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -1180,6 +1200,26 @@
                         },
                         {
                             "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "the-water-is-wide",
+                                    "part": "tenor",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-the-water-is-wide-tenor-5",
+                    "title": {"en": "Lines 7 and 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
                             "text": {"en": "Hear line 7, then sing it back."},
                             "exercise": {
                                 "song": {
@@ -1193,34 +1233,34 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Hear line 8, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "the-water-is-wide",
                                     "part": "tenor",
                                     "phrases": [7]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 to 8 joined, with the guide."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "the-water-is-wide",
                                     "part": "tenor",
-                                    "phrases": [4, 5, 6, 7]
+                                    "phrases": [6, 7]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         }
                     ]
                 },
                 {
-                    "id": "song-the-water-is-wide-tenor-5",
+                    "id": "song-the-water-is-wide-tenor-6",
                     "title": {"en": "The whole song"},
                     "steps": [
                         {
@@ -1265,7 +1305,7 @@
                     ]
                 },
                 {
-                    "id": "song-the-water-is-wide-tenor-6",
+                    "id": "song-the-water-is-wide-tenor-7",
                     "title": {"en": "With the others"},
                     "steps": [
                         {
@@ -1285,7 +1325,7 @@
                     ]
                 },
                 {
-                    "id": "song-the-water-is-wide-tenor-7",
+                    "id": "song-the-water-is-wide-tenor-8",
                     "title": {"en": "On your own"},
                     "steps": [
                         {
@@ -1323,7 +1363,7 @@
                     ]
                 },
                 {
-                    "id": "song-the-water-is-wide-tenor-8",
+                    "id": "song-the-water-is-wide-tenor-9",
                     "title": {"en": "Record it"},
                     "steps": [
                         {"kind": "record", "text": {"en": "Record the tenor part of The Water Is Wide in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "the-water-is-wide", "singers": 4, "part": "tenor"}
