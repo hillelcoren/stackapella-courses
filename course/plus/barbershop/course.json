@@ -8331,6 +8331,63 @@
                     ]
                 },
                 {
+                    "id": "bb-4-stack",
+                    "title": {
+                        "en": "Stack the tag"
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {
+                                "en": "Our tag, \"Sing just one more song\", as a song in Sing: four parts, recorded one over another, which is what the app was made for."
+                            },
+                            "steps": [
+                                {
+                                    "title": {
+                                        "en": "The lead first"
+                                    },
+                                    "detail": {
+                                        "en": "The tune, with the other three as guides"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Then the baritone"
+                                    },
+                                    "detail": {
+                                        "en": "Just under the lead, filling the chord"
+                                    }
+                                },
+                                {
+                                    "title": {
+                                        "en": "Tenor and bass too, if you like"
+                                    },
+                                    "detail": {
+                                        "en": "They stay guides unless you record them"
+                                    }
+                                }
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "record",
+                            "text": {
+                                "en": "Record the lead of the tag in Sing, over the guides, then the baritone just under your own lead. Headphones on."
+                            },
+                            "measures": {
+                                "en": "Scored on the notes of both parts. Listen back: does \"song\" ring?"
+                            },
+                            "courseSong": "songs/one-more-song.json",
+                            "singers": 4,
+                            "part": [
+                                "lead",
+                                "baritone"
+                            ]
+                        }
+                    ]
+                },
+                {
                     "id": "bb-4-challenge",
                     "title": {
                         "en": "Two of you"

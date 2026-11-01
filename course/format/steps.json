@@ -133,11 +133,12 @@
                 "kind",
                 "text",
                 "template",
+                "courseSong",
                 "part",
                 "singers",
                 "measures"
             ],
-            "about": "Records a part in Sing; scored on pitch"
+            "about": "Records a part in Sing; scored on pitch. The song is a template (a free or library song), or a Plus course's own (`courseSong`: songs/<id>.json in the course's folder, a template file whose id is <id>)"
         },
         "wave": {
             "web": "yes",

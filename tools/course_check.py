@@ -98,6 +98,45 @@ def song(where, s):
 BAR = {"4/4": 4, "3/4": 3, "2/4": 2, "6/8": 3}  # a bar in quarter-note beats
 
 
+def course_song(where, folder, step):
+    """A record step's own song (`courseSong`): a template in the course's own folder, songs/<id>.json."""
+    name = step.get("courseSong")
+    if "template" in step:
+        problem(where, "a record step has template or courseSong, never both")
+    if not isinstance(name, str) or not re.fullmatch(r"songs/[a-z0-9-]+\.json", name):
+        problem(where, "courseSong must be songs/<id>.json, in the course's own folder")
+        return
+    path = folder / name
+    if not path.exists():
+        problem(where, f"courseSong '{name}' isn't in the course's folder")
+        return
+    try:
+        t = json.loads(path.read_text())
+    except ValueError as error:
+        problem(where, f"courseSong '{name}' isn't JSON: {error}")
+        return
+    if t.get("id") != path.stem:
+        problem(where, f"courseSong '{name}': its id must be '{path.stem}'")
+    parts = {p.get("key"): p for p in t.get("parts") or []}
+    if not parts:
+        problem(where, f"courseSong '{name}' has no parts")
+    for key, part in parts.items():
+        span = part.get("range") or {}
+        for n in (part.get("guide") or {}).get("notes") or []:
+            if not isinstance(n.get("pitch"), int) or not span.get("low", 0) <= n["pitch"] <= span.get("high", 127):
+                problem(where, f"courseSong '{name}' part {key}: a note outside its range")
+                break
+    wanted = step.get("part") if isinstance(step.get("part"), list) else [step.get("part")]
+    if step.get("part") != "all" and (not wanted or any(k not in parts for k in wanted)):
+        problem(where, f"part '{step.get('part')}' isn't one of courseSong '{name}''s parts (a part, a list of parts, or all)")
+    voicing = (t.get("voicings") or {}).get(str(step.get("singers")))
+    if voicing and step.get("part") != "all" and any(k not in voicing for k in wanted):
+        problem(where, f"part '{step.get('part')}' isn't sung by {step.get('singers')} singers in courseSong '{name}'")
+    singers = step.get("singers")
+    if singers is not None and str(singers) not in (t.get("voicings") or {}):
+        problem(where, f"singers {singers}: courseSong '{name}' has no voicing for it")
+
+
 def stave(where, staff, notes):
     """A line read from the stave (Sight-singing): its names, look, count-in, time and rhythm."""
     ok = (isinstance(staff, dict) and set(staff) <= {"names", "look", "count", "time", "rhythm"}
@@ -272,6 +311,8 @@ def course(path, seen, clip_ids, unplayable, facts):
                     known(at, step, kind["fields"])
                     if "template" in step and template(step["template"]) is None:
                         problem(at, f"song '{step['template']}' isn't one of the songs")
+                    if "courseSong" in step:
+                        course_song(at, path.parent, step)
                     web_only = set()
                     if "exercise" in step:
                         exercise(at, step["exercise"], kind.get("exercise", "play"), web_only, clip_ids)
