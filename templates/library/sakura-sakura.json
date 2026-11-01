@@ -1,0 +1,729 @@
+{
+ "id": "sakura-sakura",
+ "version": 1,
+ "reviewed": false,
+ "title": "Sakura Sakura",
+ "description": "The Japanese cherry-blossom song as Tokyo's music school first printed it in 1888, for 2 to 4 singers: the tune in its own five-note scale over soft held notes on \"oo\", like a koto's open strings, with no Western chords. Slow and calm, sung in Japanese (the words are shown in romaji).",
+ "language": "ja",
+ "difficulty": "beginner",
+ "genre": [
+  "folk",
+  "japanese"
+ ],
+ "style": "straight",
+ "tempo": 66,
+ "key": "Cm",
+ "timeSignature": "4/4",
+ "pickupBeats": 0,
+ "credits": {
+  "words": "traditional Japanese",
+  "tune": "traditional Japanese (printed 1888)",
+  "arrangement": "Stackapella (draft), held notes in the koto's manner"
+ },
+ "licence": {
+  "words": "public domain: traditional, printed 1888",
+  "tune": "public domain: traditional, printed 1888",
+  "arrangement": "original, written for Stackapella",
+  "recordings": "synthesized guides",
+  "checked": null,
+  "source": "Sōkyokushū (Collection of Japanese Koto Music), compiled by the Ongaku Torishirabe Gakari, Tokyo, Ministry of Education, 1888, No. 2, Sakura: the voice line in staff notation with the words in katakana and romaji, in the in scale on E, written here a minor third higher; read from the National Diet Library's scan, dl.ndl.go.jp/pid/857651 (frames 22 and 23)"
+ },
+ "order": [
+  "soprano",
+  "alto",
+  "bass",
+  "tenor"
+ ],
+ "voicings": {
+  "2": [
+   "soprano",
+   "alto"
+  ],
+  "3": [
+   "soprano",
+   "alto",
+   "bass"
+  ],
+  "4": [
+   "soprano",
+   "alto",
+   "tenor",
+   "bass"
+  ]
+ },
+ "sections": [
+  {
+   "name": "Verse",
+   "startBeat": 0,
+   "endBeat": 56,
+   "phrases": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     16
+    ],
+    [
+     16,
+     24
+    ],
+    [
+     24,
+     32
+    ],
+    [
+     32,
+     40
+    ],
+    [
+     40,
+     48
+    ],
+    [
+     48,
+     56
+    ]
+   ]
+  }
+ ],
+ "chords": [
+  {
+   "beat": 0,
+   "root": 0,
+   "quality": "min",
+   "bass": null
+  }
+ ],
+ "parts": [
+  {
+   "key": "soprano",
+   "name": "Soprano",
+   "range": {
+    "low": 62,
+    "high": 75
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "sa",
+      "br": true
+     },
+     {
+      "beat": 1,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ku"
+     },
+     {
+      "beat": 2,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "ra"
+     },
+     {
+      "beat": 4,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "sa"
+     },
+     {
+      "beat": 5,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ku"
+     },
+     {
+      "beat": 6,
+      "length": 1.25,
+      "pitch": 74,
+      "lyric": "ra"
+     },
+     {
+      "beat": 8,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ya",
+      "br": true
+     },
+     {
+      "beat": 9,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "yo"
+     },
+     {
+      "beat": 10,
+      "length": 1,
+      "pitch": 75,
+      "lyric": "i"
+     },
+     {
+      "beat": 11,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "no"
+     },
+     {
+      "beat": 12,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "so"
+     },
+     {
+      "beat": 13,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "ra"
+     },
+     {
+      "beat": 13.5,
+      "length": 0.5,
+      "pitch": 72
+     },
+     {
+      "beat": 14,
+      "length": 1.25,
+      "pitch": 68,
+      "lyric": "wa"
+     },
+     {
+      "beat": 16,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "mi",
+      "br": true
+     },
+     {
+      "beat": 17,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "wa"
+     },
+     {
+      "beat": 18,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ta"
+     },
+     {
+      "beat": 19,
+      "length": 1,
+      "pitch": 68,
+      "lyric": "su"
+     },
+     {
+      "beat": 20,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ka"
+     },
+     {
+      "beat": 21,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "gi"
+     },
+     {
+      "beat": 21.5,
+      "length": 0.5,
+      "pitch": 63
+     },
+     {
+      "beat": 22,
+      "length": 1.25,
+      "pitch": 62,
+      "lyric": "ri"
+     },
+     {
+      "beat": 24,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ka",
+      "br": true
+     },
+     {
+      "beat": 25,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "su"
+     },
+     {
+      "beat": 26,
+      "length": 1,
+      "pitch": 75,
+      "lyric": "mi"
+     },
+     {
+      "beat": 27,
+      "length": 1,
+      "pitch": 74,
+      "lyric": "ka"
+     },
+     {
+      "beat": 28,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "ku"
+     },
+     {
+      "beat": 29,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "mo"
+     },
+     {
+      "beat": 29.5,
+      "length": 0.5,
+      "pitch": 72
+     },
+     {
+      "beat": 30,
+      "length": 1.25,
+      "pitch": 68,
+      "lyric": "ka"
+     },
+     {
+      "beat": 32,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "ni",
+      "br": true
+     },
+     {
+      "beat": 33,
+      "length": 1,
+      "pitch": 63,
+      "lyric": "o"
+     },
+     {
+      "beat": 34,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "i"
+     },
+     {
+      "beat": 35,
+      "length": 1,
+      "pitch": 68,
+      "lyric": "zo"
+     },
+     {
+      "beat": 36,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "i"
+     },
+     {
+      "beat": 37,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "zu"
+     },
+     {
+      "beat": 37.5,
+      "length": 0.5,
+      "pitch": 63
+     },
+     {
+      "beat": 38,
+      "length": 1.25,
+      "pitch": 62,
+      "lyric": "ru"
+     },
+     {
+      "beat": 40,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "i",
+      "br": true
+     },
+     {
+      "beat": 41,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "za"
+     },
+     {
+      "beat": 42,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "ya"
+     },
+     {
+      "beat": 44,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "i"
+     },
+     {
+      "beat": 45,
+      "length": 1,
+      "pitch": 72,
+      "lyric": "za"
+     },
+     {
+      "beat": 46,
+      "length": 2,
+      "pitch": 74,
+      "lyric": "ya"
+     },
+     {
+      "beat": 49,
+      "length": 1,
+      "pitch": 67,
+      "lyric": "mi",
+      "br": true
+     },
+     {
+      "beat": 50,
+      "length": 2,
+      "pitch": 68,
+      "lyric": "ni"
+     },
+     {
+      "beat": 52,
+      "length": 0.5,
+      "pitch": 74,
+      "lyric": "yu"
+     },
+     {
+      "beat": 52.5,
+      "length": 0.5,
+      "pitch": 72
+     },
+     {
+      "beat": 53,
+      "length": 1,
+      "pitch": 68,
+      "lyric": "ka"
+     },
+     {
+      "beat": 54,
+      "length": 2,
+      "pitch": 67,
+      "lyric": "n"
+     }
+    ]
+   },
+   "melody": true
+  },
+  {
+   "key": "alto",
+   "name": "Alto",
+   "range": {
+    "low": 60,
+    "high": 60
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 4,
+      "pitch": 60,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 4,
+      "length": 3.25,
+      "pitch": 60,
+      "lyric": "oo"
+     },
+     {
+      "beat": 8,
+      "length": 4,
+      "pitch": 60,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 12,
+      "length": 3.25,
+      "pitch": 60,
+      "lyric": "oo"
+     },
+     {
+      "beat": 16,
+      "length": 4,
+      "pitch": 60,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 20,
+      "length": 3.25,
+      "pitch": 60,
+      "lyric": "oo"
+     },
+     {
+      "beat": 24,
+      "length": 4,
+      "pitch": 60,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 28,
+      "length": 3.25,
+      "pitch": 60,
+      "lyric": "oo"
+     },
+     {
+      "beat": 32,
+      "length": 4,
+      "pitch": 60,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 36,
+      "length": 3.25,
+      "pitch": 60,
+      "lyric": "oo"
+     },
+     {
+      "beat": 40,
+      "length": 4,
+      "pitch": 60,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 44,
+      "length": 3.25,
+      "pitch": 60,
+      "lyric": "oo"
+     },
+     {
+      "beat": 48,
+      "length": 4,
+      "pitch": 60,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 52,
+      "length": 4,
+      "pitch": 60,
+      "lyric": "oo"
+     }
+    ]
+   }
+  },
+  {
+   "key": "tenor",
+   "name": "Tenor",
+   "range": {
+    "low": 55,
+    "high": 55
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 4,
+      "pitch": 55,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 4,
+      "length": 3.25,
+      "pitch": 55,
+      "lyric": "oo"
+     },
+     {
+      "beat": 8,
+      "length": 4,
+      "pitch": 55,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 12,
+      "length": 3.25,
+      "pitch": 55,
+      "lyric": "oo"
+     },
+     {
+      "beat": 16,
+      "length": 4,
+      "pitch": 55,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 20,
+      "length": 3.25,
+      "pitch": 55,
+      "lyric": "oo"
+     },
+     {
+      "beat": 24,
+      "length": 4,
+      "pitch": 55,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 28,
+      "length": 3.25,
+      "pitch": 55,
+      "lyric": "oo"
+     },
+     {
+      "beat": 32,
+      "length": 4,
+      "pitch": 55,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 36,
+      "length": 3.25,
+      "pitch": 55,
+      "lyric": "oo"
+     },
+     {
+      "beat": 40,
+      "length": 4,
+      "pitch": 55,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 44,
+      "length": 3.25,
+      "pitch": 55,
+      "lyric": "oo"
+     },
+     {
+      "beat": 48,
+      "length": 4,
+      "pitch": 55,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 52,
+      "length": 4,
+      "pitch": 55,
+      "lyric": "oo"
+     }
+    ]
+   }
+  },
+  {
+   "key": "bass",
+   "name": "Bass",
+   "range": {
+    "low": 48,
+    "high": 48
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0,
+      "length": 4,
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 4,
+      "length": 3.25,
+      "pitch": 48,
+      "lyric": "oo"
+     },
+     {
+      "beat": 8,
+      "length": 4,
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 12,
+      "length": 3.25,
+      "pitch": 48,
+      "lyric": "oo"
+     },
+     {
+      "beat": 16,
+      "length": 4,
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 20,
+      "length": 3.25,
+      "pitch": 48,
+      "lyric": "oo"
+     },
+     {
+      "beat": 24,
+      "length": 4,
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 28,
+      "length": 3.25,
+      "pitch": 48,
+      "lyric": "oo"
+     },
+     {
+      "beat": 32,
+      "length": 4,
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 36,
+      "length": 3.25,
+      "pitch": 48,
+      "lyric": "oo"
+     },
+     {
+      "beat": 40,
+      "length": 4,
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 44,
+      "length": 3.25,
+      "pitch": 48,
+      "lyric": "oo"
+     },
+     {
+      "beat": 48,
+      "length": 4,
+      "pitch": 48,
+      "lyric": "oo",
+      "br": true
+     },
+     {
+      "beat": 52,
+      "length": 4,
+      "pitch": 48,
+      "lyric": "oo"
+     }
+    ]
+   }
+  }
+ ]
+}
