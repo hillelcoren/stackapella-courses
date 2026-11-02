@@ -63,6 +63,8 @@ SONGS = {
     "ave-verum-corpus": "with the song",
     "la-paloma": "with the song",
     "sakura-sakura": "with the song",
+    # Part 3 (docs/library-next-songs.md).
+    "holy-holy-holy": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
