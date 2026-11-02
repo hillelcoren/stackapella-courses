@@ -336,11 +336,13 @@ def di_4_challenge():
     return {
         "id": "di-4-challenge", "title": EN("Every word, heard"), "challenge": True,
         "steps": [
-            learn("Lesson 1's line to hear how far you've come, then Shenandoah's first two lines, every word for the back of the room.",
-                  [("Then and now", "Lesson 1's line, today"), ("Two lines", "Stress, pure vowels, the n on the note"), ("Not louder", "Clearer")]),
+            learn("Lesson 1's line to hear how far you've come, then the end of Shenandoah's verse, every word for the back of the room.",
+                  [("Then and now", "Lesson 1's line, today"), ("The verse's end", "Stress, pure vowels, the n on the note"), ("Not louder", "Clearer")]),
             play("Lesson 1's line.", first_line(thenAndNow="di.first-line"), PITCH_BEAT),
             selfcheck("Shenandoah's first line, then hear it with the words hidden.", line, ["Could a stranger write the line down?", "Did your jaw stay loose?"]),
-            play("Shenandoah's first two lines.", song_ex(SHEN, [0, 1]), PITCH_BEAT),
+            # The verse's second half (phrases 2 to 4): a whole sentence ending home, -4 to +5 round
+            # your note. The first two lines span 17 semitones, an octave below to a fourth above (the arranger, 2026-11-02).
+            play("\"Oh Shenandoah, I long to hear you, away, I'm bound away, 'cross the wide Missouri.\"", song_ex(SHEN, [2, 3, 4]), PITCH_BEAT),
         ],
     }
 

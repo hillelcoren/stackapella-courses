@@ -910,10 +910,10 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's line to hear how far you've come, then Shenandoah's first two lines, every word for the back of the room."},
+                            "headline": {"en": "Lesson 1's line to hear how far you've come, then the end of Shenandoah's verse, every word for the back of the room."},
                             "steps": [
                                 {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
-                                {"title": {"en": "Two lines"}, "detail": {"en": "Stress, pure vowels, the n on the note"}},
+                                {"title": {"en": "The verse's end"}, "detail": {"en": "Stress, pure vowels, the n on the note"}},
                                 {"title": {"en": "Not louder"}, "detail": {"en": "Clearer"}}
                             ],
                             "visual": "phrase",
@@ -963,27 +963,31 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shenandoah's first two lines."},
+                            "text": {"en": "\"Oh Shenandoah, I long to hear you, away, I'm bound away, 'cross the wide Missouri.\""},
                             "exercise": {
                                 "tempo": 63,
                                 "notes": [
-                                    {"beat": 0, "length": 1, "step": -12, "lyric": "Oh"},
-                                    {"beat": 1, "length": 0.5, "step": -7, "lyric": "Shen-"},
-                                    {"beat": 1.5, "length": 0.5, "step": -7, "lyric": "an-"},
-                                    {"beat": 2, "length": 1.5, "step": -7, "lyric": "doah,"},
-                                    {"beat": 3.5, "length": 0.5, "step": -5, "lyric": "I"},
-                                    {"beat": 4, "length": 0.5, "step": -3, "lyric": "long"},
-                                    {"beat": 4.5, "length": 0.5, "step": -2, "lyric": "to"},
-                                    {"beat": 5, "length": 0.5, "step": 2, "lyric": "hear"},
-                                    {"beat": 5.5, "length": 1.75, "step": 0, "lyric": "you,"},
-                                    {"beat": 8, "length": 0.5, "step": 5, "lyric": "A-"},
-                                    {"beat": 8.5, "length": 0.5, "step": 4},
-                                    {"beat": 9, "length": 1.5, "step": 2, "lyric": "way,"},
-                                    {"beat": 10.5, "length": 0.5, "step": 0, "lyric": "you"},
-                                    {"beat": 11, "length": 1, "step": 2, "lyric": "roll-"},
-                                    {"beat": 12, "length": 1, "step": 0, "lyric": "ing"},
-                                    {"beat": 13, "length": 1, "step": -3, "lyric": "riv-"},
-                                    {"beat": 14, "length": 1.25, "step": 0, "lyric": "er."}
+                                    {"beat": 0, "length": 1, "step": 3, "lyric": "Oh"},
+                                    {"beat": 1, "length": 0.5, "step": 5, "lyric": "Shen-"},
+                                    {"beat": 1.5, "length": 0.5, "step": 5, "lyric": "an-"},
+                                    {"beat": 2, "length": 1.5, "step": 5, "lyric": "doah,"},
+                                    {"beat": 3.5, "length": 0.5, "step": 0, "lyric": "I"},
+                                    {"beat": 4, "length": 0.5, "step": 3, "lyric": "long"},
+                                    {"beat": 4.5, "length": 0.5, "step": 0, "lyric": "to"},
+                                    {"beat": 5, "length": 0.5, "step": -2, "lyric": "hear"},
+                                    {"beat": 5.5, "length": 1.75, "step": -4, "lyric": "you,"},
+                                    {"beat": 8, "length": 1, "step": -2, "lyric": "A-"},
+                                    {"beat": 9, "length": 1.5, "step": 0, "lyric": "way,"},
+                                    {"beat": 10.5, "length": 0.5, "step": -2, "lyric": "I'm"},
+                                    {"beat": 11, "length": 1, "step": 0, "lyric": "bound"},
+                                    {"beat": 12, "length": 1, "step": 5, "lyric": "a-"},
+                                    {"beat": 13, "length": 2.25, "step": 3, "lyric": "way,"},
+                                    {"beat": 16, "length": 0.5, "step": -4, "lyric": "'cross"},
+                                    {"beat": 16.5, "length": 0.5, "step": -2, "lyric": "the"},
+                                    {"beat": 17, "length": 2.25, "step": 0, "lyric": "wide"},
+                                    {"beat": 20, "length": 1, "step": -2, "lyric": "Mis-"},
+                                    {"beat": 21, "length": 2, "step": -2, "lyric": "sou-"},
+                                    {"beat": 23, "length": 2, "step": -4, "lyric": "ri."}
                                 ],
                                 "turn": false
                             },
