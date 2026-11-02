@@ -27,8 +27,12 @@
         "title",
         "colour",
         "plus",
-        "lessons"
+        "lessons",
+        "boss"
     ],
+    "unitBoss": {
+        "about": "A unit's boss round (docs/boss-round-plan.md in the app's repo): { id, title, steps }, beside the unit's lessons and never in them, so stars, unit opening and the next lesson don't change. id is the unit's number then -boss (3-boss); 2 to 4 sung `play` steps (song steps welcome; no record step, which would leave the round for Sing), checked as a lesson's are, with no keep or thenAndNow. Opens once the unit's challenge has stars, never in a singer's first week; 80% across its steps (notes-weighted) beats it. Web only: an app that doesn't play bosses skips the field."
+    },
     "lesson": [
         "id",
         "title",

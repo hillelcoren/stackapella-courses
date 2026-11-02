@@ -370,7 +370,141 @@
           ],
           "challenge": true
         }
-      ]
+      ],
+      "boss": {
+        "id": "1-boss",
+        "title": {
+          "en": "Three calls"
+        },
+        "steps": [
+          {
+            "kind": "play",
+            "text": {
+              "en": "Call one: listen, then sing it back."
+            },
+            "exercise": {
+              "tempo": 66,
+              "turn": true,
+              "notes": [
+                {
+                  "beat": 0,
+                  "length": 1,
+                  "step": -3,
+                  "lyric": "oo"
+                },
+                {
+                  "beat": 1,
+                  "length": 1,
+                  "step": -1,
+                  "lyric": "oo"
+                },
+                {
+                  "beat": 2,
+                  "length": 1,
+                  "step": 0,
+                  "lyric": "oo"
+                },
+                {
+                  "beat": 3,
+                  "length": 1,
+                  "step": -1,
+                  "lyric": "oo"
+                },
+                {
+                  "beat": 4,
+                  "length": 2,
+                  "step": -3,
+                  "lyric": "oo"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "play",
+            "text": {
+              "en": "Call two, a little higher."
+            },
+            "exercise": {
+              "tempo": 66,
+              "turn": true,
+              "notes": [
+                {
+                  "beat": 0,
+                  "length": 1,
+                  "step": 0,
+                  "lyric": "oo"
+                },
+                {
+                  "beat": 1,
+                  "length": 1,
+                  "step": 2,
+                  "lyric": "oo"
+                },
+                {
+                  "beat": 2,
+                  "length": 1,
+                  "step": 4,
+                  "lyric": "oo"
+                },
+                {
+                  "beat": 3,
+                  "length": 1,
+                  "step": 2,
+                  "lyric": "oo"
+                },
+                {
+                  "beat": 4,
+                  "length": 2,
+                  "step": 0,
+                  "lyric": "oo"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "play",
+            "text": {
+              "en": "Call three, higher still."
+            },
+            "exercise": {
+              "tempo": 66,
+              "turn": true,
+              "notes": [
+                {
+                  "beat": 0,
+                  "length": 1,
+                  "step": 0,
+                  "lyric": "oo"
+                },
+                {
+                  "beat": 1,
+                  "length": 1,
+                  "step": 4,
+                  "lyric": "oo"
+                },
+                {
+                  "beat": 2,
+                  "length": 1,
+                  "step": 5,
+                  "lyric": "oo"
+                },
+                {
+                  "beat": 3,
+                  "length": 1,
+                  "step": 4,
+                  "lyric": "oo"
+                },
+                {
+                  "beat": 4,
+                  "length": 2,
+                  "step": 0,
+                  "lyric": "oo"
+                }
+              ]
+            }
+          }
+        ]
+      }
     },
     {
       "id": "steady-notes",
@@ -662,7 +796,81 @@
           ],
           "challenge": true
         }
-      ]
+      ],
+      "boss": {
+        "id": "2-boss",
+        "title": {
+          "en": "Three vowels, steady"
+        },
+        "steps": [
+          {
+            "kind": "play",
+            "text": {
+              "en": "Hold \"oo\" on the drone."
+            },
+            "exercise": {
+              "tempo": 72,
+              "turn": false,
+              "drone": {
+                "step": 0
+              },
+              "score": "hold",
+              "notes": [
+                {
+                  "beat": 2,
+                  "length": 4,
+                  "step": 0,
+                  "lyric": "oo"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "play",
+            "text": {
+              "en": "Now \"oh\", just as steady."
+            },
+            "exercise": {
+              "tempo": 72,
+              "turn": false,
+              "drone": {
+                "step": 0
+              },
+              "score": "hold",
+              "notes": [
+                {
+                  "beat": 2,
+                  "length": 4,
+                  "step": 0,
+                  "lyric": "oh"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "play",
+            "text": {
+              "en": "And \"ah\"."
+            },
+            "exercise": {
+              "tempo": 72,
+              "turn": false,
+              "drone": {
+                "step": 0
+              },
+              "score": "hold",
+              "notes": [
+                {
+                  "beat": 2,
+                  "length": 4,
+                  "step": 0,
+                  "lyric": "ah"
+                }
+              ]
+            }
+          }
+        ]
+      }
     },
     {
       "id": "moving-notes",
@@ -984,7 +1192,129 @@
           ],
           "challenge": true
         }
-      ]
+      ],
+      "boss": {
+        "id": "3-boss",
+        "title": {
+          "en": "Ode to Joy's first half"
+        },
+        "steps": [
+          {
+            "kind": "play",
+            "text": {
+              "en": "The first line: listen, then sing."
+            },
+            "exercise": {
+              "tempo": 84,
+              "turn": true,
+              "notes": [
+                {
+                  "beat": 0.0,
+                  "length": 1,
+                  "step": 9,
+                  "lyric": "Joy-"
+                },
+                {
+                  "beat": 1.0,
+                  "length": 1,
+                  "step": 9,
+                  "lyric": "ful,"
+                },
+                {
+                  "beat": 2.0,
+                  "length": 1,
+                  "step": 10,
+                  "lyric": "joy-"
+                },
+                {
+                  "beat": 3.0,
+                  "length": 1,
+                  "step": 12,
+                  "lyric": "ful,"
+                },
+                {
+                  "beat": 4.0,
+                  "length": 1,
+                  "step": 12,
+                  "lyric": "we"
+                },
+                {
+                  "beat": 5.0,
+                  "length": 1,
+                  "step": 10,
+                  "lyric": "a-"
+                },
+                {
+                  "beat": 6,
+                  "length": 0.5,
+                  "step": 9,
+                  "lyric": "dore"
+                },
+                {
+                  "beat": 6.5,
+                  "length": 0.5,
+                  "step": 7,
+                  "lyric": "Thee,"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "play",
+            "text": {
+              "en": "The second line, then home."
+            },
+            "exercise": {
+              "tempo": 84,
+              "turn": true,
+              "notes": [
+                {
+                  "beat": 0.0,
+                  "length": 1,
+                  "step": 5,
+                  "lyric": "God"
+                },
+                {
+                  "beat": 1.0,
+                  "length": 1,
+                  "step": 5,
+                  "lyric": "of"
+                },
+                {
+                  "beat": 2.0,
+                  "length": 1,
+                  "step": 7,
+                  "lyric": "glo-"
+                },
+                {
+                  "beat": 3.0,
+                  "length": 1,
+                  "step": 9,
+                  "lyric": "ry,"
+                },
+                {
+                  "beat": 4.0,
+                  "length": 1.5,
+                  "step": 9,
+                  "lyric": "Lord"
+                },
+                {
+                  "beat": 5.5,
+                  "length": 0.5,
+                  "step": 7,
+                  "lyric": "of"
+                },
+                {
+                  "beat": 6.0,
+                  "length": 1,
+                  "step": 7,
+                  "lyric": "love;"
+                }
+              ]
+            }
+          }
+        ]
+      }
     },
     {
       "id": "singing-a-tune",
@@ -1124,7 +1454,51 @@
           ],
           "challenge": true
         }
-      ]
+      ],
+      "boss": {
+        "id": "4-boss",
+        "title": {
+          "en": "Amazing Grace, the whole verse"
+        },
+        "steps": [
+          {
+            "kind": "play",
+            "text": {
+              "en": "The first two lines, with the words."
+            },
+            "exercise": {
+              "song": {
+                "template": "amazing-grace",
+                "part": "soprano",
+                "phrases": [
+                  0,
+                  1
+                ],
+                "with": "others"
+              },
+              "turn": false
+            }
+          },
+          {
+            "kind": "play",
+            "text": {
+              "en": "The last two lines."
+            },
+            "exercise": {
+              "song": {
+                "template": "amazing-grace",
+                "part": "soprano",
+                "phrases": [
+                  2,
+                  3
+                ],
+                "with": "others"
+              },
+              "turn": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "first-harmony",
@@ -1757,7 +2131,51 @@
           ],
           "challenge": true
         }
-      ]
+      ],
+      "boss": {
+        "id": "5-boss",
+        "title": {
+          "en": "Hold your part in the round"
+        },
+        "steps": [
+          {
+            "kind": "play",
+            "text": {
+              "en": "The round's 2nd voice, the 1st and 3rd singing against you."
+            },
+            "exercise": {
+              "song": {
+                "template": "are-you-sleeping",
+                "part": "alto",
+                "phrases": [
+                  1,
+                  2
+                ],
+                "with": "others"
+              },
+              "turn": false
+            }
+          },
+          {
+            "kind": "play",
+            "text": {
+              "en": "Keep going: your part, all the way round."
+            },
+            "exercise": {
+              "song": {
+                "template": "are-you-sleeping",
+                "part": "alto",
+                "phrases": [
+                  3,
+                  4
+                ],
+                "with": "others"
+              },
+              "turn": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "low-and-inner",
@@ -2081,7 +2499,49 @@
           ],
           "challenge": true
         }
-      ]
+      ],
+      "boss": {
+        "id": "6-boss",
+        "title": {
+          "en": "Michael's bass"
+        },
+        "steps": [
+          {
+            "kind": "play",
+            "text": {
+              "en": "The bass of Michael, Row the Boat Ashore, the first line."
+            },
+            "exercise": {
+              "song": {
+                "template": "michael-row",
+                "part": "bass",
+                "phrases": [
+                  0
+                ],
+                "with": "others"
+              },
+              "turn": false
+            }
+          },
+          {
+            "kind": "play",
+            "text": {
+              "en": "The second line, the floor all the way."
+            },
+            "exercise": {
+              "song": {
+                "template": "michael-row",
+                "part": "bass",
+                "phrases": [
+                  1
+                ],
+                "with": "others"
+              },
+              "turn": false
+            }
+          }
+        ]
+      }
     },
     {
       "id": "whole-song",
@@ -2163,7 +2623,52 @@
           ],
           "challenge": true
         }
-      ]
+      ],
+      "boss": {
+        "id": "7-boss",
+        "title": {
+          "en": "Two parts, both you"
+        },
+        "steps": [
+          {
+            "kind": "play",
+            "text": {
+              "en": "Michael, Row the Boat Ashore: the tune."
+            },
+            "exercise": {
+              "song": {
+                "template": "michael-row",
+                "part": "soprano",
+                "phrases": [
+                  0,
+                  1
+                ]
+              },
+              "turn": false
+            }
+          },
+          {
+            "kind": "play",
+            "text": {
+              "en": "Now its alto, over your own tune."
+            },
+            "exercise": {
+              "song": {
+                "template": "michael-row",
+                "part": "alto",
+                "phrases": [
+                  0,
+                  1
+                ]
+              },
+              "turn": false,
+              "under": {
+                "step": 0
+              }
+            }
+          }
+        ]
+      }
     },
     {
       "id": "expression",
@@ -2583,7 +3088,55 @@
           ],
           "challenge": true
         }
-      ]
+      ],
+      "boss": {
+        "id": "8-boss",
+        "title": {
+          "en": "Danny Boy, shaped"
+        },
+        "steps": [
+          {
+            "kind": "play",
+            "text": {
+              "en": "Danny Boy's first two lines: a breath before each line."
+            },
+            "exercise": {
+              "song": {
+                "template": "danny-boy",
+                "part": "soprano",
+                "phrases": [
+                  0,
+                  1
+                ]
+              },
+              "turn": false,
+              "score": "entry"
+            }
+          },
+          {
+            "kind": "play",
+            "text": {
+              "en": "One long note, let it ring with your own vibrato."
+            },
+            "exercise": {
+              "tempo": 60,
+              "turn": false,
+              "drone": {
+                "step": 0
+              },
+              "show": "vibrato",
+              "notes": [
+                {
+                  "beat": 2,
+                  "length": 4,
+                  "step": 0,
+                  "lyric": "oh"
+                }
+              ]
+            }
+          }
+        ]
+      }
     }
   ]
 }

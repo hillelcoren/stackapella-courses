@@ -302,32 +302,74 @@ def course(path, seen, clip_ids, unplayable, facts):
                 if variant(where, key, value, lesson):
                     step_lists.append((f" {key}", value["steps"]))
             for label, steps in step_lists:
-                for i, step in enumerate(steps):
-                    at = f"{where}{label} step {i + 1}"
-                    kind = FORMAT["kinds"].get(step.get("kind"))
-                    if not kind:
-                        problem(at, f"unknown step kind '{step.get('kind')}'")
-                        continue
-                    known(at, step, kind["fields"])
-                    if "template" in step and template(step["template"]) is None:
-                        problem(at, f"song '{step['template']}' isn't one of the songs")
-                    if "courseSong" in step:
-                        course_song(at, path.parent, step)
-                    web_only = set()
-                    if "exercise" in step:
-                        exercise(at, step["exercise"], kind.get("exercise", "play"), web_only, clip_ids)
-                    if "listen" in step:
-                        exercise(at, step["listen"], "play", web_only, clip_ids)
-                    ex = step.get("exercise") if isinstance(step.get("exercise"), dict) else {}
-                    if ex.get("thenAndNow") and ex["thenAndNow"] not in kept:
-                        problem(at, f"thenAndNow '{ex['thenAndNow']}' isn't kept by an earlier lesson of this course")
-                    if kind["flutter"] != "yes":
-                        flutter.add(f"{step['kind']} ({kind['flutter']})")
-                    flutter.update(f"play.{k}" for k in web_only)
+                flutter |= check_steps(f"{where}{label}", steps, path, clip_ids, kept)
             kept.update(s["exercise"]["keep"] for s in lesson.get("steps", []) if isinstance(s.get("exercise"), dict) and s["exercise"].get("keep"))
             if flutter:
                 unplayable[lid] = sorted(flutter)
+        if "boss" in unit:
+            boss(f"{name} {unit.get('id')}", unit["boss"], seen, path, clip_ids)
     return lessons
+
+
+BOSS_KINDS = ("play",)  # a boss is one go: a record step would leave it for Sing
+
+
+def boss(where, b, seen, path, clip_ids):
+    """A unit's boss round (docs/boss-round-plan.md): { id, title, steps }, beside the unit's lessons
+    and never in them; 2 to 4 sung steps of the kinds that exist (play, record), checked as a lesson's
+    are, with no keep or Then and now (a boss starts nothing and compares nothing)."""
+    if not isinstance(b, dict):
+        problem(where, "boss must be { id, title, steps }")
+        return
+    known(where + " boss", b, ["id", "title", "steps"])
+    bid = b.get("id")
+    if not isinstance(bid, str) or not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*-boss", bid):
+        problem(where, "a boss's id is the unit's prefix and number then -boss, as 3-boss")
+    elif bid in seen:
+        problem(where, f"boss id '{bid}' used twice")
+    else:
+        seen.add(bid)
+    words(where + " boss", {"title": b.get("title")})
+    steps = b.get("steps")
+    if not isinstance(steps, list) or not 2 <= len(steps) <= 4:
+        problem(where, "a boss has 2 to 4 steps")
+        return
+    for i, step in enumerate(steps):
+        if step.get("kind") not in BOSS_KINDS:
+            problem(f"{where} boss step {i + 1}", f"a boss's steps are sung: {', '.join(BOSS_KINDS)}")
+        ex = step.get("exercise") if isinstance(step.get("exercise"), dict) else {}
+        if ex.get("keep") or ex.get("thenAndNow"):
+            problem(f"{where} boss step {i + 1}", "a boss keeps nothing and plays no Then and now")
+    words(where + " boss", {"steps": steps})
+    check_steps(f"{where} boss", steps, path, clip_ids, set())
+
+
+def check_steps(where, steps, path, clip_ids, kept):
+    """Each step's kind and fields, its song and exercise; returns what Flutter can't play yet."""
+    flutter = set()
+    for i, step in enumerate(steps):
+        at = f"{where} step {i + 1}"
+        kind = FORMAT["kinds"].get(step.get("kind"))
+        if not kind:
+            problem(at, f"unknown step kind '{step.get('kind')}'")
+            continue
+        known(at, step, kind["fields"])
+        if "template" in step and template(step["template"]) is None:
+            problem(at, f"song '{step['template']}' isn't one of the songs")
+        if "courseSong" in step:
+            course_song(at, path.parent, step)
+        web_only = set()
+        if "exercise" in step:
+            exercise(at, step["exercise"], kind.get("exercise", "play"), web_only, clip_ids)
+        if "listen" in step:
+            exercise(at, step["listen"], "play", web_only, clip_ids)
+        ex = step.get("exercise") if isinstance(step.get("exercise"), dict) else {}
+        if ex.get("thenAndNow") and ex["thenAndNow"] not in kept:
+            problem(at, f"thenAndNow '{ex['thenAndNow']}' isn't kept by an earlier lesson of this course")
+        if kind["flutter"] != "yes":
+            flutter.add(f"{step['kind']} ({kind['flutter']})")
+        flutter.update(f"play.{k}" for k in web_only)
+    return flutter
 
 
 def main():
