@@ -1,0 +1,1580 @@
+{
+    "id": "belting",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "First steps to belting"},
+    "units": [
+        {
+            "id": "belting-calls",
+            "title": {"en": "Calls from speech"},
+            "colour": 6,
+            "lessons": [
+                {
+                    "id": "belting-1-call",
+                    "title": {"en": "The call"},
+                    "strictness": "relaxed",
+                    "fact": {"id": "roll-yell-belt", "text": {"en": "Studying the teachers behind Broadway's belters, Christianne Roll found they built belt as a blend, always working the light voice beside it: \"a full chest voice 'yell belt' was never encouraged\"."}, "source": {"en": "Roll, The Evolution of the Female Broadway Belt Voice, Journal of Voice (2016)"}, "url": "https://www.nats.org/_Library/Science_Informed_Voice_Pedagogy_Resource/Article_Evolution_of_the_Female_Broadway_Belt_Voice-_Implications_for_Teachers_and_Singers.pdf"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Belt starts as a call: the way you'd call a friend across a room. Bright and easy, never a shout."},
+                            "steps": [
+                                {"title": {"en": "Speak it first"}, "detail": {"en": "\"Hey!\", across a room"}},
+                                {"title": {"en": "Then sing it"}, "detail": {"en": "Two notes, falling, short"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 1, "length": 1.5, "step": -2},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 5, "length": 1.5, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Say \"Hey!\" as if calling a friend across a room, then sing it on the two notes. Hear both."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
+                                },
+                                "questions": [
+                                    {"en": "Did the sung one sound like your spoken one?"},
+                                    {"en": "Louder than talking? Then call it softer next time."}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Hey!\" sung, three times, each followed by a light \"oo\" sighing down."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 1.0, "length": 1.0, "step": -1},
+                                    {"beat": 3.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 3.5, "length": 0.5, "step": 1},
+                                    {"beat": 4.0, "length": 1.5, "step": -1},
+                                    {"beat": 6.5, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 7.5, "length": 1.0, "step": -1},
+                                    {"beat": 9.5, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 10.0, "length": 0.5, "step": 1},
+                                    {"beat": 10.5, "length": 1.5, "step": -1},
+                                    {"beat": 13.0, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 14.0, "length": 1.0, "step": -1},
+                                    {"beat": 16.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 16.5, "length": 0.5, "step": 1},
+                                    {"beat": 17.0, "length": 1.5, "step": -1}
+                                ],
+                                "turn": true,
+                                "keep": "belting.first-call",
+                                "generous": true
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now in a round from 1609: \"Hey, ho, nobody home\", with another voice coming in on your \"Hey, ho\"."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 2, "lyric": "Hey"},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "ho"},
+                                    {"beat": 4, "length": 0.75, "step": 2, "lyric": "no-"},
+                                    {"beat": 4.75, "length": 0.25, "step": 2, "lyric": "bo-"},
+                                    {"beat": 5, "length": 0.5, "step": 2, "lyric": "dy"},
+                                    {"beat": 5.5, "length": 0.5, "step": 2, "lyric": "at"},
+                                    {"beat": 6, "length": 1, "step": -3, "lyric": "home"},
+                                    {"beat": 9, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 9.5, "length": 0.5, "step": 1},
+                                    {"beat": 10.0, "length": 1.5, "step": -1}
+                                ],
+                                "turn": true,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 2, "step": 2, "lyric": "Hey"},
+                                            {"beat": 6, "length": 2, "step": 0, "lyric": "ho"}
+                                        ],
+                                        "volume": 0.45
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                },
+                {
+                    "id": "belting-1-onset",
+                    "title": {"en": "Start on h, y, n"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Every call starts on a sound that eases the voice in: h, y, n, m or w. Never a vowel on its own, which can start with a click."},
+                            "steps": [
+                                {"title": {"en": "Easy starts"}, "detail": {"en": "hey, yeah, no, my, whoa"}},
+                                {"title": {"en": "No click"}, "detail": {"en": "The sound slides in"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 1, "length": 1.5, "step": -2},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 5, "length": 1.5, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Hey, yeah, no, my\": hear them back."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1, "step": 2, "lyric": "hey"},
+                                        {"beat": 2, "length": 1, "step": 0, "lyric": "yeah"},
+                                        {"beat": 4, "length": 1, "step": 2, "lyric": "no"},
+                                        {"beat": 6, "length": 1, "step": 0, "lyric": "my"}
+                                    ]
+                                },
+                                "questions": [{"en": "Did any call start with a click?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Calls in pairs, each pair followed by a light \"oo\"."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 1.0, "length": 1.0, "step": 0, "lyric": "yeah!"},
+                                    {"beat": 3.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 3.5, "length": 0.5, "step": 1},
+                                    {"beat": 4.0, "length": 1.5, "step": -1},
+                                    {"beat": 6.5, "length": 1.0, "step": 2, "lyric": "no!"},
+                                    {"beat": 7.5, "length": 1.0, "step": 0, "lyric": "my!"},
+                                    {"beat": 9.5, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 10.0, "length": 0.5, "step": 1},
+                                    {"beat": 10.5, "length": 1.5, "step": -1},
+                                    {"beat": 13.0, "length": 1.0, "step": 1, "lyric": "whoa!"},
+                                    {"beat": 14.0, "length": 1.0, "step": -1, "lyric": "nah!"},
+                                    {"beat": 16.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 16.5, "length": 0.5, "step": 1},
+                                    {"beat": 17.0, "length": 1.5, "step": -1}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                },
+                {
+                    "id": "belting-1-easy",
+                    "title": {"en": "As easy as talking"},
+                    "fact": {"id": "popeil-perceived-volume", "text": {"en": "Brightness, ring and a little nasality make a voice sound bigger to listeners without being any louder: one reason a bright call carries across a room."}, "source": {"en": "Popeil, NATS Chat handout (2017)"}, "url": "https://www.nats.org/_Library/NATS_Chat_2014_15/NATS_Chat_LisaPopeil_handout_April_9_2017.pdf"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A bright call carries without being loud: brightness does the work, so your voice doesn't have to."},
+                            "steps": [
+                                {"title": {"en": "Short"}, "detail": {"en": "A beat, then it falls"}},
+                                {"title": {"en": "Easy"}, "detail": {"en": "Could you do it all day?"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle \"oo\" sighing down, twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 0.5, "length": 0.5, "step": 1},
+                                    {"beat": 1.0, "length": 1.5, "step": -1},
+                                    {"beat": 4, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 4.5, "length": 0.5, "step": 1},
+                                    {"beat": 5.0, "length": 1.5, "step": -1}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 80,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which call is short and falls at the end, like speech?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 2, "lyric": "hey!"}]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The other holds its top note: that's where calls turn into pushing."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which call is short and falls at the end, like speech?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 2, "lyric": "hey!"}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The other holds its top note: that's where calls turn into pushing."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which call is short and falls at the end, like speech?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 2, "lyric": "hey!"}]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The other holds its top note: that's where calls turn into pushing."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Hey!\" once more, then hear it."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
+                                },
+                                "questions": [{"en": "Louder than talking? Then go lighter: a call, not a shout."}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Hey, yeah!\" calls, each pair with its light \"oo\"."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 1.0, "length": 1.0, "step": -1, "lyric": "yeah!"},
+                                    {"beat": 3.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 3.5, "length": 0.5, "step": 1},
+                                    {"beat": 4.0, "length": 1.5, "step": -1},
+                                    {"beat": 6.5, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 7.5, "length": 1.0, "step": -1, "lyric": "yeah!"},
+                                    {"beat": 9.5, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 10.0, "length": 0.5, "step": 1},
+                                    {"beat": 10.5, "length": 1.5, "step": -1},
+                                    {"beat": 13.0, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 14.0, "length": 1.0, "step": -1, "lyric": "yeah!"},
+                                    {"beat": 16.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 16.5, "length": 0.5, "step": 1},
+                                    {"beat": 17.0, "length": 1.5, "step": -1}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                },
+                {
+                    "id": "belting-1-challenge",
+                    "title": {"en": "Calls"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Lesson 1's call beside today's, then the unit's calls in a row."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Which sounds easier?"}},
+                                {"title": {"en": "Calls in a row"}, "detail": {"en": "Each pair with its light tail"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 1, "length": 1.5, "step": -2},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 5, "length": 1.5, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lesson 1's call."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 1.0, "length": 1.0, "step": -1},
+                                    {"beat": 3.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 3.5, "length": 0.5, "step": 1},
+                                    {"beat": 4.0, "length": 1.5, "step": -1},
+                                    {"beat": 6.5, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 7.5, "length": 1.0, "step": -1},
+                                    {"beat": 9.5, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 10.0, "length": 0.5, "step": 1},
+                                    {"beat": 10.5, "length": 1.5, "step": -1},
+                                    {"beat": 13.0, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 14.0, "length": 1.0, "step": -1},
+                                    {"beat": 16.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 16.5, "length": 0.5, "step": 1},
+                                    {"beat": 17.0, "length": 1.5, "step": -1}
+                                ],
+                                "turn": true,
+                                "thenAndNow": "belting.first-call"
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Hear both back."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
+                                },
+                                "questions": [{"en": "Which sounded easier, then or now?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Hey, yeah\" and \"no, my\", each pair with its light \"oo\"."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 1.0, "length": 1.0, "step": 0, "lyric": "yeah!"},
+                                    {"beat": 3.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 3.5, "length": 0.5, "step": 1},
+                                    {"beat": 4.0, "length": 1.5, "step": -1},
+                                    {"beat": 6.5, "length": 1.0, "step": 2, "lyric": "no!"},
+                                    {"beat": 7.5, "length": 1.0, "step": -1, "lyric": "my!"},
+                                    {"beat": 9.5, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 10.0, "length": 0.5, "step": 1},
+                                    {"beat": 10.5, "length": 1.5, "step": -1}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "belting-phrases",
+            "title": {"en": "Say it, then sing it"},
+            "colour": 6,
+            "lessons": [
+                {
+                    "id": "belting-2-phrase",
+                    "title": {"en": "No you don't"},
+                    "fact": {"id": "roll-no-you-dont", "text": {"en": "One of the master teachers in Roll's study had singers call a phrase like \"No you don't\" in bright, forward speech, and then sing it the same way."}, "source": {"en": "Roll, Journal of Voice (2016)"}, "url": "https://www.nats.org/_Library/Science_Informed_Voice_Pedagogy_Resource/Article_Evolution_of_the_Female_Broadway_Belt_Voice-_Implications_for_Teachers_and_Singers.pdf"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now a phrase: \"No you don't!\", teasing a friend across the room. Say it, then sing it the same way."},
+                            "steps": [
+                                {"title": {"en": "Speech shape"}, "detail": {"en": "Quick, then falling"}},
+                                {"title": {"en": "Same voice"}, "detail": {"en": "The sung one sounds like the spoken one"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 1, "length": 1.5, "step": -2},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 5, "length": 1.5, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 80,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one sounds like speech?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.5, "step": 2, "lyric": "No you don't!"},
+                                                    {"beat": 0.5, "length": 0.5, "step": 1},
+                                                    {"beat": 1.0, "length": 1.5, "step": -2}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 1, "lyric": "No you don't!"},
+                                                    {"beat": 1, "length": 1, "step": 1},
+                                                    {"beat": 2, "length": 1, "step": 1}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "Speech is quick, then falls on the last word; the other plods on one note."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one sounds like speech?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 1, "lyric": "No you don't!"},
+                                                    {"beat": 1, "length": 1, "step": 1},
+                                                    {"beat": 2, "length": 1, "step": 1}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.5, "step": 2, "lyric": "No you don't!"},
+                                                    {"beat": 0.5, "length": 0.5, "step": 1},
+                                                    {"beat": 1.0, "length": 1.5, "step": -2}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "Speech is quick, then falls on the last word; the other plods on one note."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one sounds like speech?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.5, "step": 2, "lyric": "No you don't!"},
+                                                    {"beat": 0.5, "length": 0.5, "step": 1},
+                                                    {"beat": 1.0, "length": 1.5, "step": -2}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 1, "lyric": "No you don't!"},
+                                                    {"beat": 1, "length": 1, "step": 1},
+                                                    {"beat": 2, "length": 1, "step": 1}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "Speech is quick, then falls on the last word; the other plods on one note."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Say \"No you don't!\", then sing it. Hear both."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 0.5, "step": 2, "lyric": "No"},
+                                        {"beat": 0.5, "length": 0.5, "step": 1, "lyric": "you"},
+                                        {"beat": 1, "length": 1.5, "step": -2, "lyric": "don't!"}
+                                    ]
+                                },
+                                "questions": [{"en": "Did the sung one keep your speaking voice?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"No you don't!\" sung, three times, each followed by a hum."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": 2, "lyric": "No"},
+                                    {"beat": 0.5, "length": 0.5, "step": 1, "lyric": "you"},
+                                    {"beat": 1.0, "length": 1.5, "step": -2, "lyric": "don't!"},
+                                    {"beat": 3.5, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 4.5, "length": 1.5, "step": -2},
+                                    {"beat": 7.0, "length": 0.5, "step": 2, "lyric": "No"},
+                                    {"beat": 7.5, "length": 0.5, "step": 1, "lyric": "you"},
+                                    {"beat": 8.0, "length": 1.5, "step": -2, "lyric": "don't!"},
+                                    {"beat": 10.5, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 11.5, "length": 1.5, "step": -2},
+                                    {"beat": 14.0, "length": 0.5, "step": 2, "lyric": "No"},
+                                    {"beat": 14.5, "length": 0.5, "step": 1, "lyric": "you"},
+                                    {"beat": 15.0, "length": 1.5, "step": -2, "lyric": "don't!"},
+                                    {"beat": 17.5, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 18.5, "length": 1.5, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                },
+                {
+                    "id": "belting-2-come",
+                    "title": {"en": "Hey, come here"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Two- and three-word calls, each falling at the end, the way speech does."},
+                            "steps": [
+                                {"title": {"en": "Hey, come here!"}, "detail": {"en": "Three notes, down"}},
+                                {"title": {"en": "Hello! Whoa there!"}, "detail": {"en": "Two notes, down"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 1, "length": 1.5, "step": -2},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 5, "length": 1.5, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Hey, come here!\": hear it back."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 0.5, "step": 2, "lyric": "Hey,"},
+                                        {"beat": 0.5, "length": 0.5, "step": 1, "lyric": "come"},
+                                        {"beat": 1, "length": 1, "step": -1, "lyric": "here!"}
+                                    ]
+                                },
+                                "questions": [{"en": "Did it fall at the end, like speech?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Three calls, each followed by a hum."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": 2, "lyric": "Hey,"},
+                                    {"beat": 0.5, "length": 0.5, "step": 1, "lyric": "come"},
+                                    {"beat": 1.0, "length": 1, "step": -1, "lyric": "here!"},
+                                    {"beat": 3.0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 4.0, "length": 1.5, "step": -2},
+                                    {"beat": 6.5, "length": 0.5, "step": 1, "lyric": "Hel-"},
+                                    {"beat": 7.0, "length": 1, "step": -1, "lyric": "lo!"},
+                                    {"beat": 9.0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 10.0, "length": 1.5, "step": -2},
+                                    {"beat": 12.5, "length": 0.5, "step": 2, "lyric": "Whoa"},
+                                    {"beat": 13.0, "length": 1, "step": -1, "lyric": "there!"},
+                                    {"beat": 15.0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 16.0, "length": 1.5, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                },
+                {
+                    "id": "belting-2-twang",
+                    "title": {"en": "Nyeah"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A small, silly \"nyeah\", like a kid teasing: it brightens the sound with no effort at all. If it pinches, drop it and go on."},
+                            "steps": [
+                                {"title": {"en": "Small and silly"}, "detail": {"en": "Low, short, spoken first"}},
+                                {"title": {"en": "Then \"yeah\""}, "detail": {"en": "The same brightness, without the nasal"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 1, "length": 1.5, "step": -2},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 5, "length": 1.5, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Say \"nyeah-nyeah\", then sing it. Hear it back."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1, "step": 0, "lyric": "nyeah"},
+                                        {"beat": 1, "length": 1, "step": -2, "lyric": "nyeah"}
+                                    ]
+                                },
+                                "questions": [{"en": "Any pinch or squeeze? Then leave it: this one is optional."}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Nyeah\", then \"yeah\" from it, each pair with a hum."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1.0, "step": 0, "lyric": "nyeah"},
+                                    {"beat": 1.0, "length": 1.0, "step": -2, "lyric": "yeah!"},
+                                    {"beat": 3.0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 4.0, "length": 1.5, "step": -2},
+                                    {"beat": 6.5, "length": 1.0, "step": 0, "lyric": "nyeah"},
+                                    {"beat": 7.5, "length": 1.0, "step": -2, "lyric": "yeah!"},
+                                    {"beat": 9.5, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 10.5, "length": 1.5, "step": -2},
+                                    {"beat": 13.0, "length": 1.0, "step": 0, "lyric": "nyeah"},
+                                    {"beat": 14.0, "length": 1.0, "step": -2, "lyric": "yeah!"},
+                                    {"beat": 16.0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 17.0, "length": 1.5, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                },
+                {
+                    "id": "belting-2-challenge",
+                    "title": {"en": "Say it, sing it"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The unit's phrases, said then sung."},
+                            "steps": [
+                                {"title": {"en": "No you don't!"}, "detail": {"en": "Teasing, across a room"}},
+                                {"title": {"en": "Hey, come here!"}, "detail": {"en": "Falling at the end"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                    {"beat": 1.0, "length": 0.5, "step": 0},
+                                    {"beat": 1.5, "length": 1, "step": -2},
+                                    {"beat": 4, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2},
+                                    {"beat": 5.0, "length": 0.5, "step": 0},
+                                    {"beat": 5.5, "length": 1, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Say each phrase once, then sing \"hey!\". Hear it."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
+                                },
+                                "questions": [{"en": "Did the sung voice match the spoken one?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"No you don't!\", \"Hey, come here!\", \"Whoa there!\", each with a hum."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": 2, "lyric": "No"},
+                                    {"beat": 0.5, "length": 0.5, "step": 1, "lyric": "you"},
+                                    {"beat": 1.0, "length": 1.5, "step": -2, "lyric": "don't!"},
+                                    {"beat": 3.5, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 4.5, "length": 1.5, "step": -2},
+                                    {"beat": 7.0, "length": 0.5, "step": 2, "lyric": "Hey,"},
+                                    {"beat": 7.5, "length": 0.5, "step": 1, "lyric": "come"},
+                                    {"beat": 8.0, "length": 1, "step": -1, "lyric": "here!"},
+                                    {"beat": 10.0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 11.0, "length": 1.5, "step": -2},
+                                    {"beat": 13.5, "length": 0.5, "step": 2, "lyric": "Whoa"},
+                                    {"beat": 14.0, "length": 1, "step": -1, "lyric": "there!"},
+                                    {"beat": 16.0, "length": 1, "step": 2, "lyric": "mm"},
+                                    {"beat": 17.0, "length": 1.5, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "belting-holds",
+            "title": {"en": "Short holds, and letting go"},
+            "colour": 6,
+            "lessons": [
+                {
+                    "id": "belting-3-hold",
+                    "title": {"en": "A short hold"},
+                    "fact": {"id": "voice-recovery-hours", "text": {"en": "After two hours of reading aloud, voices in a University of Utah study had made 90% of their recovery within 4 to 6 hours, and recovered fully in 12 to 18."}, "source": {"en": "Hunter and Titze, Annals of Otology, Rhinology and Laryngology (2009)"}, "url": "https://iro.uiowa.edu/esploro/outputs/journalArticle/Quantifying-Vocal-Fatigue-Recovery-Dynamic-Vocal/9984446403802771"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A call held two beats, steady and easy, then let go into a light \"hoo\" above."},
+                            "steps": [
+                                {"title": {"en": "Two beats"}, "detail": {"en": "Never longer"}},
+                                {"title": {"en": "Low first"}, "detail": {"en": "Then the middle, then a little higher"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle \"hoo\", twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1.5, "step": 4, "lyric": "hoo"},
+                                    {"beat": 4, "length": 1.5, "step": 4, "lyric": "hoo"}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 80,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which hold stayed short?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "hey"}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "hey"}]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "Short holds are easy; long ones are where pressing creeps in."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which hold stayed short?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "hey"}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "hey"}]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "Short holds are easy; long ones are where pressing creeps in."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which hold stayed short?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "hey"}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "hey"}]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "Short holds are easy; long ones are where pressing creeps in."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Hey\" held two beats: hear it."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "hey"}]
+                                },
+                                "questions": [{"en": "Could you do that ten more times, easily? If not, rest."}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Hey\" held at three heights, low first, each followed by a light \"hoo\"."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": -2, "lyric": "hey"},
+                                    {"beat": 3, "length": 1.5, "step": 4, "lyric": "hoo"},
+                                    {"beat": 5.5, "length": 2, "step": 0, "lyric": "hey"},
+                                    {"beat": 8.5, "length": 1.5, "step": 4, "lyric": "hoo"},
+                                    {"beat": 11.0, "length": 2, "step": 2, "lyric": "hey"},
+                                    {"beat": 14.0, "length": 1.5, "step": 4, "lyric": "hoo"}
+                                ],
+                                "turn": true,
+                                "score": "lock",
+                                "generous": true
+                            },
+                            "measures": {"en": "Scored on each short hold staying steady on its pitch. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                },
+                {
+                    "id": "belting-3-colours",
+                    "title": {"en": "Same note, two colours"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The same note two ways: \"hey\" bright, then \"hoo\" light. Singers who belt well always keep the light voice beside it."},
+                            "steps": [
+                                {"title": {"en": "Bright"}, "detail": {"en": "\"hey\", like a call"}},
+                                {"title": {"en": "Light"}, "detail": {"en": "\"hoo\", like an owl"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                    {"beat": 1.0, "length": 0.5, "step": 0},
+                                    {"beat": 1.5, "length": 1, "step": -2},
+                                    {"beat": 4, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2},
+                                    {"beat": 5.0, "length": 0.5, "step": 0},
+                                    {"beat": 5.5, "length": 1, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Hey\", then \"hoo\" on the same note: hear them."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1, "step": 0, "lyric": "hey"},
+                                        {"beat": 2, "length": 1, "step": 0, "lyric": "hoo"}
+                                    ]
+                                },
+                                "questions": [{"en": "Did the \"hoo\" stay light?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Bright, then light, on three notes."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -2, "lyric": "hey"},
+                                    {"beat": 2, "length": 1.5, "step": -2, "lyric": "hoo"},
+                                    {"beat": 5, "length": 1, "step": 0, "lyric": "hey"},
+                                    {"beat": 7, "length": 1.5, "step": 0, "lyric": "hoo"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "hey"},
+                                    {"beat": 12, "length": 1.5, "step": 2, "lyric": "hoo"}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                },
+                {
+                    "id": "belting-3-lighter",
+                    "title": {"en": "Lighter higher"},
+                    "fact": {"id": "titze-belt-top", "text": {"en": "The highest belt note for women is usually around C5, Ingo Titze explains: the point where the voice can no longer keep its bright resonance above the note, and it flips."}, "source": {"en": "Titze, Belting and a High Larynx Position, Journal of Singing (2007)"}, "url": "https://www.nats.org/_Library/Science_Informed_Voice_Pedagogy_Resource/Article_Titze_Belting_and_a_High_Larynx_JOS-063-5-2007-557_1_.pdf"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "When a note won't stay bright and easy, let it go lighter, or let it flip. That's your voice telling you where today's top is."},
+                            "steps": [
+                                {"title": {"en": "The call"}, "detail": {"en": "\"hey\", in the middle"}},
+                                {"title": {"en": "Higher, light"}, "detail": {"en": "\"hoo\", never the call word up there"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle \"hoo\", twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1.5, "step": 4, "lyric": "hoo"},
+                                    {"beat": 4, "length": 1.5, "step": 4, "lyric": "hoo"}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Hey\", then \"hoo\" higher: hear them."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1, "step": 0, "lyric": "hey"},
+                                        {"beat": 2, "length": 1.5, "step": 4, "lyric": "hoo"}
+                                    ]
+                                },
+                                "questions": [{"en": "Did the high one stay light, or did it get heavy?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "A call, then a light \"hoo\" higher, three times. A flip on the \"hoo\" is fine."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "hey"},
+                                    {"beat": 2, "length": 1.5, "step": 4, "lyric": "hoo"},
+                                    {"beat": 6, "length": 1, "step": 0, "lyric": "hey"},
+                                    {"beat": 8, "length": 1.5, "step": 4, "lyric": "hoo"},
+                                    {"beat": 12, "length": 1, "step": 0, "lyric": "hey"},
+                                    {"beat": 14, "length": 1.5, "step": 4, "lyric": "hoo"}
+                                ],
+                                "turn": true,
+                                "generous": true
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                },
+                {
+                    "id": "belting-3-challenge",
+                    "title": {"en": "Holds and letting go"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Two short holds, then the light voice above, which this time ends the lesson."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's call"}},
+                                {"title": {"en": "Holds, then light"}, "detail": {"en": "The last note is the light one"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle \"hoo\", twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1.5, "step": 4, "lyric": "hoo"},
+                                    {"beat": 4, "length": 1.5, "step": 4, "lyric": "hoo"}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lesson 1's call."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 1.0, "length": 1.0, "step": -1},
+                                    {"beat": 3.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 3.5, "length": 0.5, "step": 1},
+                                    {"beat": 4.0, "length": 1.5, "step": -1},
+                                    {"beat": 6.5, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 7.5, "length": 1.0, "step": -1},
+                                    {"beat": 9.5, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 10.0, "length": 0.5, "step": 1},
+                                    {"beat": 10.5, "length": 1.5, "step": -1},
+                                    {"beat": 13.0, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 14.0, "length": 1.0, "step": -1},
+                                    {"beat": 16.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 16.5, "length": 0.5, "step": 1},
+                                    {"beat": 17.0, "length": 1.5, "step": -1}
+                                ],
+                                "turn": true,
+                                "thenAndNow": "belting.first-call"
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "A held \"hey\": hear it."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "hey"}]
+                                },
+                                "questions": [{"en": "Which sounded easier, then or now?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Hey\" and \"yeah\" held, each with its light \"hoo\" above."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "hey"},
+                                    {"beat": 3, "length": 1.5, "step": 4, "lyric": "hoo"},
+                                    {"beat": 5.5, "length": 2, "step": 2, "lyric": "yeah"},
+                                    {"beat": 8.5, "length": 1.5, "step": 4, "lyric": "hoo"}
+                                ],
+                                "turn": true,
+                                "generous": true
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "belting-songs",
+            "title": {"en": "Calls in songs"},
+            "colour": 6,
+            "lessons": [
+                {
+                    "id": "belting-4-heyho",
+                    "title": {"en": "Hey, ho"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Hey, Ho, Nobody Home is a round printed in 1609: every voice sings the same tune, coming in one after another. Its \"Hey, ho\" is a call."},
+                            "steps": [
+                                {"title": {"en": "Hey, ho"}, "detail": {"en": "A call, falling"}},
+                                {"title": {"en": "Nobody home"}, "detail": {"en": "Easy, down to the end"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                    {"beat": 1.0, "length": 0.5, "step": 0},
+                                    {"beat": 1.5, "length": 1, "step": -2},
+                                    {"beat": 4, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2},
+                                    {"beat": 5.0, "length": 0.5, "step": 0},
+                                    {"beat": 5.5, "length": 1, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Hey, ho\": hear it back."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 2, "step": 2, "lyric": "Hey"},
+                                        {"beat": 2, "length": 2, "step": 0, "lyric": "ho"}
+                                    ]
+                                },
+                                "questions": [{"en": "Did your call sit with the other voice, or stick out above it?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Hey, ho, nobody home\", twice, with the round's next voice, then a light trill."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 2, "lyric": "Hey"},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "ho"},
+                                    {"beat": 4, "length": 0.75, "step": 2, "lyric": "no-"},
+                                    {"beat": 4.75, "length": 0.25, "step": 2, "lyric": "bo-"},
+                                    {"beat": 5, "length": 0.5, "step": 2, "lyric": "dy"},
+                                    {"beat": 5.5, "length": 0.5, "step": 2, "lyric": "at"},
+                                    {"beat": 6, "length": 1, "step": -3, "lyric": "home"},
+                                    {"beat": 9, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 9.5, "length": 0.5, "step": 2},
+                                    {"beat": 10.0, "length": 0.5, "step": 0},
+                                    {"beat": 10.5, "length": 1, "step": -2}
+                                ],
+                                "turn": true,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 2, "step": 2, "lyric": "Hey"},
+                                            {"beat": 6, "length": 2, "step": 0, "lyric": "ho"}
+                                        ],
+                                        "volume": 0.45
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                },
+                {
+                    "id": "belting-4-haul",
+                    "title": {"en": "Way, haul away"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Sailors hauled a rope to a shanty: the shantyman sang a line, and the crew answered together. Their answer is a call: \"Way, haul away\"."},
+                            "steps": [
+                                {"title": {"en": "The crew's answer"}, "detail": {"en": "Bright, together, short"}},
+                                {"title": {"en": "Not a shout"}, "detail": {"en": "A crew works all day"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                    {"beat": 1.0, "length": 0.5, "step": 0},
+                                    {"beat": 1.5, "length": 1, "step": -2},
+                                    {"beat": 4, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2},
+                                    {"beat": 5.0, "length": 0.5, "step": 0},
+                                    {"beat": 5.5, "length": 1, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Way, haul away\": hear it back."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1, "step": 2, "lyric": "Way,"},
+                                        {"beat": 1, "length": 1, "step": 2, "lyric": "haul"},
+                                        {"beat": 2, "length": 2, "step": -3, "lyric": "away"}
+                                    ]
+                                },
+                                "questions": [{"en": "Did your call sit with the crew, or stick out above it?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Way, haul away\", with the crew's other voices, then a light trill."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.0, "step": 2, "lyric": "Way,"},
+                                    {"beat": 1.0, "length": 0.75, "step": 2, "lyric": "haul"},
+                                    {"beat": 1.75, "length": 0.25, "step": 0, "lyric": "a-"},
+                                    {"beat": 2.0, "length": 2.0, "step": -3, "lyric": "way,"},
+                                    {"beat": 7.5, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 8.0, "length": 0.5, "step": 2},
+                                    {"beat": 8.5, "length": 0.5, "step": 0},
+                                    {"beat": 9.0, "length": 1, "step": -2}
+                                ],
+                                "turn": true,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0.0, "length": 1.0, "step": -7, "lyric": "Way,"},
+                                            {"beat": 1.0, "length": 0.75, "step": -8, "lyric": "haul"},
+                                            {"beat": 1.75, "length": 0.25, "step": -8, "lyric": "a-"},
+                                            {"beat": 2.0, "length": 2.0, "step": -7, "lyric": "way,"},
+                                            {"beat": 4.0, "length": 0.75, "step": -8, "lyric": "haul"},
+                                            {"beat": 4.75, "length": 0.25, "step": -8, "lyric": "a-"},
+                                            {"beat": 5.0, "length": 1.0, "step": -12, "lyric": "way,"},
+                                            {"beat": 6.0, "length": 0.5, "step": -7, "lyric": "Joe."}
+                                        ],
+                                        "volume": 0.45
+                                    },
+                                    {
+                                        "notes": [
+                                            {"beat": 0.0, "length": 1.0, "step": -15, "lyric": "Way,"},
+                                            {"beat": 1.0, "length": 0.75, "step": -12, "lyric": "haul"},
+                                            {"beat": 1.75, "length": 0.25, "step": -12, "lyric": "a-"},
+                                            {"beat": 2.0, "length": 2.0, "step": -12, "lyric": "way,"},
+                                            {"beat": 4.0, "length": 0.75, "step": -12, "lyric": "haul"},
+                                            {"beat": 4.75, "length": 0.25, "step": -12, "lyric": "a-"},
+                                            {"beat": 5.0, "length": 1.0, "step": -12, "lyric": "way,"},
+                                            {"beat": 6.0, "length": 0.5, "step": -15, "lyric": "Joe."}
+                                        ],
+                                        "volume": 0.45
+                                    },
+                                    {
+                                        "notes": [
+                                            {"beat": 0.0, "length": 1.0, "step": -22, "lyric": "Way,"},
+                                            {"beat": 1.0, "length": 0.75, "step": -24, "lyric": "haul"},
+                                            {"beat": 1.75, "length": 0.25, "step": -24, "lyric": "a-"},
+                                            {"beat": 2.0, "length": 2.0, "step": -19, "lyric": "way,"},
+                                            {"beat": 4.0, "length": 0.75, "step": -24, "lyric": "haul"},
+                                            {"beat": 4.75, "length": 0.25, "step": -24, "lyric": "a-"},
+                                            {"beat": 5.0, "length": 1.0, "step": -27, "lyric": "way,"},
+                                            {"beat": 6.0, "length": 0.5, "step": -22, "lyric": "Joe."}
+                                        ],
+                                        "volume": 0.45
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                },
+                {
+                    "id": "belting-4-wade",
+                    "title": {"en": "Wade in the water"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Wade in the Water is a spiritual: a sacred song made by enslaved Black Americans, printed by the Fisk Jubilee Singers. It's sung many ways, by congregations, concert choirs and gospel singers; here you borrow one line, at speaking volume, as a way in."},
+                            "steps": [
+                                {"title": {"en": "One line"}, "detail": {"en": "\"Wade in the water,\""}},
+                                {"title": {"en": "At speaking volume"}, "detail": {"en": "A call that invites, never a shout"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                    {"beat": 1.0, "length": 0.5, "step": 0},
+                                    {"beat": 1.5, "length": 1, "step": -2},
+                                    {"beat": 4, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2},
+                                    {"beat": 5.0, "length": 0.5, "step": 0},
+                                    {"beat": 5.5, "length": 1, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Wade in the water\": hear it back."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1.25, "step": -1, "lyric": "Wade"},
+                                        {"beat": 1.25, "length": 0.5, "step": 2, "lyric": "in"},
+                                        {"beat": 1.75, "length": 0.25, "step": 1, "lyric": "the"},
+                                        {"beat": 2, "length": 0.5, "step": 2, "lyric": "wa-"},
+                                        {"beat": 2.5, "length": 0.5, "step": -1, "lyric": "ter,"}
+                                    ]
+                                },
+                                "questions": [{"en": "Did it sound like an invitation, easy and bright?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Wade in the water,\" with the other voices, then a light trill. Once is enough."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.25, "step": -1, "lyric": "Wade"},
+                                    {"beat": 1.25, "length": 0.5, "step": 2, "lyric": "in"},
+                                    {"beat": 1.75, "length": 0.25, "step": 1, "lyric": "the"},
+                                    {"beat": 2.0, "length": 0.5, "step": 2, "lyric": "wa-"},
+                                    {"beat": 2.5, "length": 0.5, "step": -1, "lyric": "ter,"},
+                                    {"beat": 5.0, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 5.5, "length": 0.5, "step": 2},
+                                    {"beat": 6.0, "length": 0.5, "step": 0},
+                                    {"beat": 6.5, "length": 1, "step": -2}
+                                ],
+                                "turn": true,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0.0, "length": 1.25, "step": -10, "lyric": "Wade"},
+                                            {"beat": 1.25, "length": 0.5, "step": -6, "lyric": "in"},
+                                            {"beat": 1.75, "length": 0.25, "step": -1, "lyric": "the"},
+                                            {"beat": 2.0, "length": 0.5, "step": -1, "lyric": "wa-"},
+                                            {"beat": 2.5, "length": 0.5, "step": -1, "lyric": "ter,"}
+                                        ],
+                                        "volume": 0.45
+                                    },
+                                    {
+                                        "notes": [
+                                            {"beat": 0.0, "length": 1.25, "step": -13, "lyric": "Wade"},
+                                            {"beat": 1.25, "length": 0.5, "step": -13, "lyric": "in"},
+                                            {"beat": 1.75, "length": 0.25, "step": -13, "lyric": "the"},
+                                            {"beat": 2.0, "length": 0.5, "step": -13, "lyric": "wa-"},
+                                            {"beat": 2.5, "length": 0.5, "step": -10, "lyric": "ter,"}
+                                        ],
+                                        "volume": 0.45
+                                    },
+                                    {
+                                        "notes": [
+                                            {"beat": 0, "length": 0.75, "step": -25, "lyric": "doom"},
+                                            {"beat": 0.75, "length": 0.25, "step": -25, "lyric": "ba-"},
+                                            {"beat": 1, "length": 0.5, "step": -18, "lyric": "doom"},
+                                            {"beat": 1.5, "length": 0.5, "step": -22, "lyric": "ba"},
+                                            {"beat": 2, "length": 0.75, "step": -25, "lyric": "doom"},
+                                            {"beat": 2.75, "length": 0.25, "step": -25, "lyric": "ba-"},
+                                            {"beat": 3, "length": 0.5, "step": -22, "lyric": "doom"},
+                                            {"beat": 3.5, "length": 0.5, "step": -18, "lyric": "ba"}
+                                        ],
+                                        "volume": 0.45
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                },
+                {
+                    "id": "belting-4-challenge",
+                    "title": {"en": "Your calls"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Lesson 1's call beside today's, then the round and the crew's answer, with the other voices."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Which is easier?"}},
+                                {"title": {"en": "Two songs"}, "detail": {"en": "Hey, ho and Way, haul away"}},
+                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 0.5, "length": 0.5, "step": 2},
+                                    {"beat": 1.0, "length": 0.5, "step": 0},
+                                    {"beat": 1.5, "length": 1, "step": -2},
+                                    {"beat": 4, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2},
+                                    {"beat": 5.0, "length": 0.5, "step": 0},
+                                    {"beat": 5.5, "length": 1, "step": -2}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lesson 1's call."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 1.0, "length": 1.0, "step": -1},
+                                    {"beat": 3.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 3.5, "length": 0.5, "step": 1},
+                                    {"beat": 4.0, "length": 1.5, "step": -1},
+                                    {"beat": 6.5, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 7.5, "length": 1.0, "step": -1},
+                                    {"beat": 9.5, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 10.0, "length": 0.5, "step": 1},
+                                    {"beat": 10.5, "length": 1.5, "step": -1},
+                                    {"beat": 13.0, "length": 1.0, "step": 2, "lyric": "hey!"},
+                                    {"beat": 14.0, "length": 1.0, "step": -1},
+                                    {"beat": 16.0, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 16.5, "length": 0.5, "step": 1},
+                                    {"beat": 17.0, "length": 1.5, "step": -1}
+                                ],
+                                "turn": true,
+                                "thenAndNow": "belting.first-call"
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Hear both back."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
+                                },
+                                "questions": [{"en": "Which sounded easier, then or now?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Hey, ho, nobody home\", with the round's next voice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 2, "lyric": "Hey"},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "ho"},
+                                    {"beat": 4, "length": 0.75, "step": 2, "lyric": "no-"},
+                                    {"beat": 4.75, "length": 0.25, "step": 2, "lyric": "bo-"},
+                                    {"beat": 5, "length": 0.5, "step": 2, "lyric": "dy"},
+                                    {"beat": 5.5, "length": 0.5, "step": 2, "lyric": "at"},
+                                    {"beat": 6, "length": 1, "step": -3, "lyric": "home"},
+                                    {"beat": 9, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 9.5, "length": 0.5, "step": 2},
+                                    {"beat": 10.0, "length": 0.5, "step": 0},
+                                    {"beat": 10.5, "length": 1, "step": -2}
+                                ],
+                                "turn": true,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 4, "length": 2, "step": 2, "lyric": "Hey"},
+                                            {"beat": 6, "length": 2, "step": 0, "lyric": "ho"}
+                                        ],
+                                        "volume": 0.45
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Way, haul away\", with the crew."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0.0, "length": 1.0, "step": 2, "lyric": "Way,"},
+                                    {"beat": 1.0, "length": 0.75, "step": 2, "lyric": "haul"},
+                                    {"beat": 1.75, "length": 0.25, "step": 0, "lyric": "a-"},
+                                    {"beat": 2.0, "length": 2.0, "step": -3, "lyric": "way,"},
+                                    {"beat": 7.5, "length": 0.5, "step": 4, "lyric": "brr"},
+                                    {"beat": 8.0, "length": 0.5, "step": 2},
+                                    {"beat": 8.5, "length": 0.5, "step": 0},
+                                    {"beat": 9.0, "length": 1, "step": -2}
+                                ],
+                                "turn": true,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0.0, "length": 1.0, "step": -7, "lyric": "Way,"},
+                                            {"beat": 1.0, "length": 0.75, "step": -8, "lyric": "haul"},
+                                            {"beat": 1.75, "length": 0.25, "step": -8, "lyric": "a-"},
+                                            {"beat": 2.0, "length": 2.0, "step": -7, "lyric": "way,"},
+                                            {"beat": 4.0, "length": 0.75, "step": -8, "lyric": "haul"},
+                                            {"beat": 4.75, "length": 0.25, "step": -8, "lyric": "a-"},
+                                            {"beat": 5.0, "length": 1.0, "step": -12, "lyric": "way,"},
+                                            {"beat": 6.0, "length": 0.5, "step": -7, "lyric": "Joe."}
+                                        ],
+                                        "volume": 0.45
+                                    },
+                                    {
+                                        "notes": [
+                                            {"beat": 0.0, "length": 1.0, "step": -15, "lyric": "Way,"},
+                                            {"beat": 1.0, "length": 0.75, "step": -12, "lyric": "haul"},
+                                            {"beat": 1.75, "length": 0.25, "step": -12, "lyric": "a-"},
+                                            {"beat": 2.0, "length": 2.0, "step": -12, "lyric": "way,"},
+                                            {"beat": 4.0, "length": 0.75, "step": -12, "lyric": "haul"},
+                                            {"beat": 4.75, "length": 0.25, "step": -12, "lyric": "a-"},
+                                            {"beat": 5.0, "length": 1.0, "step": -12, "lyric": "way,"},
+                                            {"beat": 6.0, "length": 0.5, "step": -15, "lyric": "Joe."}
+                                        ],
+                                        "volume": 0.45
+                                    },
+                                    {
+                                        "notes": [
+                                            {"beat": 0.0, "length": 1.0, "step": -22, "lyric": "Way,"},
+                                            {"beat": 1.0, "length": 0.75, "step": -24, "lyric": "haul"},
+                                            {"beat": 1.75, "length": 0.25, "step": -24, "lyric": "a-"},
+                                            {"beat": 2.0, "length": 2.0, "step": -19, "lyric": "way,"},
+                                            {"beat": 4.0, "length": 0.75, "step": -24, "lyric": "haul"},
+                                            {"beat": 4.75, "length": 0.25, "step": -24, "lyric": "a-"},
+                                            {"beat": 5.0, "length": 1.0, "step": -27, "lyric": "way,"},
+                                            {"beat": 6.0, "length": 0.5, "step": -22, "lyric": "Joe."}
+                                        ],
+                                        "volume": 0.45
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
