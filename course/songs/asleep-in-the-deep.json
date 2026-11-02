@@ -1,0 +1,2090 @@
+{
+    "id": "song-asleep-in-the-deep",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Asleep in the Deep"},
+    "units": [
+        {
+            "id": "song-asleep-in-the-deep-bass",
+            "title": {"en": "The melody"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-asleep-in-the-deep-bass-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Asleep in the Deep: hear the whole song first, then the tune on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own."},
+                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "aitd-bass-voice", "text": {"en": "H. W. Petrie wrote this song in 1897 for a baritone or bass voice, which is why here the bass, not the soprano, sings the tune."}, "source": {"en": "\"Asleep in the Deep\" (New York: F. A. Mills), Lester S. Levy Sheet Music Collection, Johns Hopkins University, Box 145, Item 046, read from the scan"}, "url": "https://levysheetmusic.mse.jhu.edu/collection/145/046"}
+                },
+                {
+                    "id": "song-asleep-in-the-deep-bass-2",
+                    "title": {"en": "Lines 1 to 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-bass-3",
+                    "title": {"en": "Lines 4 and 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-bass-4",
+                    "title": {"en": "Lines 6 and 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [5, 6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-bass-5",
+                    "title": {"en": "Lines 8 to 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is the tune of line 8 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 10, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8 to 10 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [7, 8, 9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-bass-6",
+                    "title": {"en": "Lines 11 and 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 11, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 12, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-bass-7",
+                    "title": {"en": "Lines 13 and 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [12, 13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-bass-8",
+                    "title": {"en": "Lines 15 and 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 15, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15 and 16 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [14, 15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-bass-9",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-bass-10",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-bass-11",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-bass-12",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of Asleep in the Deep in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "asleep-in-the-deep", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "aitd-beware", "text": {"en": "The last line keeps its lowest notes for the end: \"Beware!\" is sung twice, the second falling a whole octave, before the bass sinks to \"asleep in the deep\"."}, "source": {"en": "\"Asleep in the Deep\" (New York: F. A. Mills), Lester S. Levy Sheet Music Collection, Johns Hopkins University, Box 145, Item 046, read from the scan"}, "url": "https://levysheetmusic.mse.jhu.edu/collection/145/046"}
+                }
+            ]
+        },
+        {
+            "id": "song-asleep-in-the-deep-alto",
+            "title": {"en": "Alto"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-asleep-in-the-deep-alto-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Asleep in the Deep: hear the whole song first, then the alto part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own."},
+                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-alto-2",
+                    "title": {"en": "Lines 1 to 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-alto-3",
+                    "title": {"en": "Lines 4 and 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-alto-4",
+                    "title": {"en": "Lines 6 and 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [5, 6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-alto-5",
+                    "title": {"en": "Lines 8 and 9"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8 and 9 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [7, 8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-alto-6",
+                    "title": {"en": "Lines 10 and 11"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 10, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 11, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 10 and 11 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [9, 10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-alto-7",
+                    "title": {"en": "Lines 12 and 13"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 12, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 12 and 13 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [11, 12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-alto-8",
+                    "title": {"en": "Lines 14 to 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 15, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 14 to 16 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [13, 14, 15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-alto-9",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-alto-10",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-alto-11",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-alto-12",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of Asleep in the Deep in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "asleep-in-the-deep", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-asleep-in-the-deep-soprano",
+            "title": {"en": "Soprano"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-asleep-in-the-deep-soprano-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Asleep in the Deep: hear the whole song first, then the soprano part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the soprano part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the soprano part on its own."},
+                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-soprano-2",
+                    "title": {"en": "Lines 1 to 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-soprano-3",
+                    "title": {"en": "Lines 4 and 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-soprano-4",
+                    "title": {"en": "Lines 6 and 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [5, 6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-soprano-5",
+                    "title": {"en": "Lines 8 to 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is line 8 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 10, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8 to 10 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [7, 8, 9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-soprano-6",
+                    "title": {"en": "Lines 11 and 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 11, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 12, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-soprano-7",
+                    "title": {"en": "Lines 13 and 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [12, 13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-soprano-8",
+                    "title": {"en": "Lines 15 and 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 15, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15 and 16 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [14, 15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-soprano-9",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-soprano-10",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-soprano-11",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-soprano-12",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the soprano part of Asleep in the Deep in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "asleep-in-the-deep", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-asleep-in-the-deep-tenor",
+            "title": {"en": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-asleep-in-the-deep-tenor-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Asleep in the Deep: hear the whole song first, then the tenor part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own."},
+                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-tenor-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-tenor-3",
+                    "title": {"en": "Lines 3 and 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-tenor-4",
+                    "title": {"en": "Lines 5 and 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-tenor-5",
+                    "title": {"en": "Lines 7 and 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [6, 7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-tenor-6",
+                    "title": {"en": "Lines 9 and 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 10, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 and 10 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [8, 9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-tenor-7",
+                    "title": {"en": "Lines 11 and 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 11, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 12, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-tenor-8",
+                    "title": {"en": "Lines 13 and 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [12, 13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-tenor-9",
+                    "title": {"en": "Lines 15 and 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 15, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15 and 16 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [14, 15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-tenor-10",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-tenor-11",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-tenor-12",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "asleep-in-the-deep",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-asleep-in-the-deep-tenor-13",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of Asleep in the Deep in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "asleep-in-the-deep", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
