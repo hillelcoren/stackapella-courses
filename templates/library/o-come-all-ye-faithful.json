@@ -1,6 +1,6 @@
 {
  "id": "o-come-all-ye-faithful",
- "version": 6,
+ "version": 7,
  "reviewed": true,
  "title": "O Come, All Ye Faithful",
  "description": "The great Christmas processional, for 2 to 4 singers: the soprano sings the melody, the alto and tenor fill the chords, and the bass climbs and falls beneath. Bright, festive and easy to love.",
@@ -133,7 +133,7 @@
   {
    "beat": 22,
    "root": 4,
-   "quality": "min",
+   "quality": "min7",
    "bass": null
   },
   {
@@ -186,9 +186,9 @@
   },
   {
    "beat": 37,
-   "root": 0,
-   "quality": "maj",
-   "bass": null
+   "root": 9,
+   "quality": "min",
+   "bass": 0
   },
   {
    "beat": 39,
@@ -309,6 +309,12 @@
    "root": 7,
    "quality": "maj",
    "bass": null
+  },
+  {
+   "beat": 64.5,
+   "root": 4,
+   "quality": "min",
+   "bass": 7
   },
   {
    "beat": 65,
@@ -912,7 +918,7 @@
      {
       "beat": 22,
       "length": 1,
-      "pitch": 59,
+      "pitch": 62,
       "lyric": "ye"
      },
      {
@@ -966,7 +972,7 @@
      {
       "beat": 37,
       "length": 2,
-      "pitch": 64,
+      "pitch": 69,
       "lyric": "hold"
      },
      {
@@ -1100,7 +1106,7 @@
      {
       "beat": 64.5,
       "length": 0.5,
-      "pitch": 62,
+      "pitch": 64,
       "lyric": "O",
       "br": true
      },
