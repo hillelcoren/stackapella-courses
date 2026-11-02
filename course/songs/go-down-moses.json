@@ -1,0 +1,1470 @@
+{
+    "id": "song-go-down-moses",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Go Down, Moses"},
+    "units": [
+        {
+            "id": "song-go-down-moses-soprano",
+            "title": {"en": "The melody"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-go-down-moses-soprano-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Go Down, Moses: hear the whole song first, then the tune on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own."},
+                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "gdm-24-verses", "text": {"en": "The 1872 book that first printed it gives Go Down, Moses twenty-four verses, from Israel in Egypt to the Red Sea and on to freedom."}, "source": {"en": "Theodore F. Seward, Jubilee Songs: As Sung by the Jubilee Singers of Fisk University (New York: Biglow & Main, 1872), pp. 22 to 23, read from the scan"}, "url": "https://archive.org/details/29208201.4853.emory.edu"}
+                },
+                {
+                    "id": "song-go-down-moses-soprano-2",
+                    "title": {"en": "Lines 1 to 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 3 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-soprano-3",
+                    "title": {"en": "Lines 4 and 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-soprano-4",
+                    "title": {"en": "Lines 6 and 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [5, 6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-soprano-5",
+                    "title": {"en": "Lines 8 to 11"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8 to 11 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [7, 8, 9, 10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-soprano-6",
+                    "title": {"en": "Lines 12 to 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 12 to 14 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [11, 12, 13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-soprano-7",
+                    "title": {"en": "Lines 15 and 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 15 is line 7 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15 and 16 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [14, 15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-soprano-8",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [8, 9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-soprano-9",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-soprano-10",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-soprano-11",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of Go Down, Moses in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "go-down-moses", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "gdm-only-answer-in-parts", "text": {"en": "In that first printing only the answer, \"Let my people go\", is written in four-part harmony; every call is printed as the tune alone."}, "source": {"en": "Theodore F. Seward, Jubilee Songs: As Sung by the Jubilee Singers of Fisk University (New York: Biglow & Main, 1872), pp. 22 to 23, read from the scan"}, "url": "https://archive.org/details/29208201.4853.emory.edu"}
+                }
+            ]
+        },
+        {
+            "id": "song-go-down-moses-alto",
+            "title": {"en": "Alto"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-go-down-moses-alto-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Go Down, Moses: hear the whole song first, then the alto part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own."},
+                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 2: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-alto-2",
+                    "title": {"en": "Lines 2, 4, 8 and 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 2, 4, 8 and 10 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-alto-3",
+                    "title": {"en": "Lines 12 and 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 12 and 16 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-alto-4",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [1, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [9, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [1, 3, 7, 9, 11, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-alto-5",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [1, 3, 7, 9, 11, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-alto-6",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [1, 3, 7, 9, 11, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "alto",
+                                    "phrases": [1, 3, 7, 9, 11, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-alto-7",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of Go Down, Moses in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "go-down-moses", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-go-down-moses-bass",
+            "title": {"en": "Bass"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-go-down-moses-bass-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Go Down, Moses: hear the whole song first, then the bass part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own."},
+                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 2: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-bass-2",
+                    "title": {"en": "Lines 2, 4, 8 and 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 2, 4, 8 and 10 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-bass-3",
+                    "title": {"en": "Lines 12 and 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 12 and 16 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-bass-4",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [1, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [9, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [1, 3, 7, 9, 11, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-bass-5",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [1, 3, 7, 9, 11, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-bass-6",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [1, 3, 7, 9, 11, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "bass",
+                                    "phrases": [1, 3, 7, 9, 11, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-bass-7",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of Go Down, Moses in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "go-down-moses", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-go-down-moses-tenor",
+            "title": {"en": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-go-down-moses-tenor-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Go Down, Moses: hear the whole song first, then the tenor part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own."},
+                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 2: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-tenor-2",
+                    "title": {"en": "Lines 2, 4, 8 and 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 2, 4, 8 and 10 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-tenor-3",
+                    "title": {"en": "Lines 12 and 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 12 and 16 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [11, 12, 13, 14, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-tenor-4",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [1, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [9, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [1, 3, 7, 9, 11, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-tenor-5",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [1, 3, 7, 9, 11, 15],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-tenor-6",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [1, 3, 7, 9, 11, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "go-down-moses",
+                                    "part": "tenor",
+                                    "phrases": [1, 3, 7, 9, 11, 15],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-go-down-moses-tenor-7",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of Go Down, Moses in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "go-down-moses", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
