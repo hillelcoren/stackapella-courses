@@ -1,0 +1,1517 @@
+{
+    "id": "other-languages",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Singing in another language"},
+    "units": [
+        {
+            "id": "ol-japanese",
+            "title": {"en": "One sound, one note"},
+            "colour": 5,
+            "lessons": [
+                {
+                    "id": "ol-1-sakura",
+                    "title": {"en": "Sakura"},
+                    "strictness": "relaxed",
+                    "fact": {"id": "sakura-1941-words", "text": {"en": "In 1941 Japan's Ministry of Education gave Sakura new words, \"Noyama mo, sato mo\", because the 1888 ones were hard for children. That's the version most Japanese people learned; this course sings the 1888 words."}, "source": {"en": "さくらさくら, Japanese Wikipedia"}, "url": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89%E3%81%95%E3%81%8F%E3%82%89"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Choirs learn a song in another language by ear: the tune's vowels first, then the words. Here's your first Japanese line: さくら さくら, \"sa-ku-ra, sa-ku-ra\", cherry blossoms."},
+                            "steps": [
+                                {"title": {"en": "The vowels"}, "detail": {"en": "a u a, a u a"}},
+                                {"title": {"en": "Then the words"}, "detail": {"en": "sa-ku-ra, every a an \"ah\""}},
+                                {"title": {"en": "Then the choir"}, "detail": {"en": "With the other parts"}}
+                            ],
+                            "visual": "vowels",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The first line on its vowels only: \"a u a, a u a\"."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -1, "lyric": "a"},
+                                    {"beat": 1, "length": 1, "step": -1, "lyric": "u"},
+                                    {"beat": 2, "length": 2, "step": 1, "lyric": "a"},
+                                    {"beat": 4, "length": 1, "step": -1, "lyric": "a"},
+                                    {"beat": 5, "length": 1, "step": -1, "lyric": "u"},
+                                    {"beat": 6, "length": 1.25, "step": 1, "lyric": "a"}
+                                ],
+                                "turn": true
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now the words: \"sa-ku-ra, sa-ku-ra\". The last \"ra\" stays \"rah\", never \"ruh\"."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -1, "lyric": "sa"},
+                                    {"beat": 1, "length": 1, "step": -1, "lyric": "ku"},
+                                    {"beat": 2, "length": 2, "step": 1, "lyric": "ra"},
+                                    {"beat": 4, "length": 1, "step": -1, "lyric": "sa"},
+                                    {"beat": 5, "length": 1, "step": -1, "lyric": "ku"},
+                                    {"beat": 6, "length": 1.25, "step": 1, "lyric": "ra"}
+                                ],
+                                "turn": true,
+                                "keep": "ol.first-line",
+                                "generous": true
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lines 1 and 2 with the other parts: \"sa-ku-ra, sa-ku-ra, ya-yo-i no so-ra wa\", the sky of spring."},
+                            "exercise": {
+                                "song": {
+                                    "template": "sakura-sakura",
+                                    "part": "soprano",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "tempo": 66,
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ol-1-vowels",
+                    "title": {"en": "Five whole vowels"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Japanese, Spanish and Latin keep every vowel whole, where English slides or shrinks them. This course's five: ah, eh, ee, o, oo. An easy jaw and a soft tongue: new sounds come from the tongue and lips, never from pushing. A medium volume, the middle of your voice. Stop if anything tightens."},
+                            "steps": [
+                                {"title": {"en": "No glide"}, "detail": {"en": "\"o\" stays o, never \"oh-oo\""}},
+                                {"title": {"en": "No \"uh\""}, "detail": {"en": "Every vowel whole, even the last"}},
+                                {"title": {"en": "Japanese u"}, "detail": {"en": "Lips relaxed and flat, not pushed forward"}}
+                            ],
+                            "visual": "vowels",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Tourist, then local: sing \"no\" the English way, \"noh-oo\", then the Japanese way. Hear them back to back."},
+                            "exercise": {
+                                "tempo": 72,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 2, "step": 0, "lyric": "noh-oo"},
+                                        {"beat": 3, "length": 2, "step": 0, "lyric": "no"}
+                                    ]
+                                },
+                                "questions": [{"en": "Which one sounds Japanese?"}, {"en": "Did the second \"no\" stay \"o\" to the end?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sakura's own syllables, each held on one note: no, so, ra, mo, zo."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "no"},
+                                    {"beat": 3, "length": 2, "step": 0, "lyric": "so"},
+                                    {"beat": 6, "length": 2, "step": 0, "lyric": "ra"},
+                                    {"beat": 9, "length": 2, "step": 0, "lyric": "mo"},
+                                    {"beat": 12, "length": 2, "step": 0, "lyric": "zo"}
+                                ],
+                                "turn": true,
+                                "drone": {"step": 0},
+                                "score": "lock"
+                            },
+                            "measures": {"en": "Scored on each held note staying steady on its pitch. Whether the vowel stayed pure is yours to hear: play it back."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ol-1-mora",
+                    "title": {"en": "Every small sound"},
+                    "fact": {"id": "bidakuon-textbook", "text": {"en": "A Japanese middle-school music book still tells pupils that a g inside a word may be sung through the nose, the soft \"ng\" of traditional singing."}, "source": {"en": "Kyōiku Shuppan, Chūgaku Ongaku 1"}, "url": "https://www.kyoiku-shuppan.co.jp/docs/r7chuu/ongaku/d-book/pageindices/index17.html"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "In Japanese, every small sound gets its own beat. \"Ya-yo-i\" is three notes, never \"ya-yoy\"."},
+                            "steps": [
+                                {"title": {"en": "Every sound"}, "detail": {"en": "ya-yo-i, ni-o-i: two vowels, two notes"}},
+                                {"title": {"en": "The quiet su"}, "detail": {"en": "Whispered in speech, sung here"}},
+                                {"title": {"en": "ka-gi-ri"}, "detail": {"en": "A soft \"ng\" is the old way; a plain g is fine"}}
+                            ],
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 72,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which \"kagiri\" gives every sound its own note?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "kagiri"},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 2, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "kagiri"}, {"beat": 2, "length": 2, "step": 0}]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The other runs two sounds together, the way English would."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which \"yayoi\" gives every sound its own note?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 1, "step": 0, "lyric": "yayoi"}, {"beat": 1, "length": 3, "step": -2}]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "yayoi"},
+                                                    {"beat": 1, "length": 1, "step": -2},
+                                                    {"beat": 2, "length": 2, "step": -3}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The other runs two sounds together, the way English would."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which \"miwatasu\" gives every sound its own note?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "miwatasu"},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 3},
+                                                    {"beat": 3, "length": 1, "step": 2}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "miwatasu"},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 2, "step": 3}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The other runs two sounds together, the way English would."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 3: \"mi-wa-ta-su ka-gi-ri\", as far as the eye can see. Sing the \"su\"."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "mi"},
+                                    {"beat": 1, "length": 1, "step": -2, "lyric": "wa"},
+                                    {"beat": 2, "length": 1, "step": 2, "lyric": "ta"},
+                                    {"beat": 3, "length": 1, "step": 3, "lyric": "su"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "ka"},
+                                    {"beat": 5, "length": 0.5, "step": 2, "lyric": "gi"},
+                                    {"beat": 5.5, "length": 0.5, "step": -2},
+                                    {"beat": 6, "length": 1.25, "step": -3, "lyric": "ri"}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ol-1-challenge",
+                    "title": {"en": "Sakura with the others"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Lesson 1's line to hear how far you've come, then the song's last line and its hummed n, then three lines with the other parts."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
+                                {"title": {"en": "The last n"}, "detail": {"en": "Hummed at the back, a note of its own"}},
+                                {"title": {"en": "The choir"}, "detail": {"en": "Lines 1 to 3"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lesson 1's line."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -1, "lyric": "sa"},
+                                    {"beat": 1, "length": 1, "step": -1, "lyric": "ku"},
+                                    {"beat": 2, "length": 2, "step": 1, "lyric": "ra"},
+                                    {"beat": 4, "length": 1, "step": -1, "lyric": "sa"},
+                                    {"beat": 5, "length": 1, "step": -1, "lyric": "ku"},
+                                    {"beat": 6, "length": 1.25, "step": 1, "lyric": "ra"}
+                                ],
+                                "turn": true,
+                                "thenAndNow": "ol.first-line"
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The last line: \"mi-ni-yu-ka-n\", let's go and see. The n is hummed, with the back of the tongue."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 1, "length": 1, "step": -3, "lyric": "mi"},
+                                    {"beat": 2, "length": 2, "step": -2, "lyric": "ni"},
+                                    {"beat": 4, "length": 0.5, "step": 4, "lyric": "yu"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2},
+                                    {"beat": 5, "length": 1, "step": -2, "lyric": "ka"},
+                                    {"beat": 6, "length": 2, "step": -3, "lyric": "n"}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lines 1 to 3 with the other parts."},
+                            "exercise": {
+                                "song": {
+                                    "template": "sakura-sakura",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2],
+                                    "with": "others"
+                                },
+                                "tempo": 66,
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ol-spanish",
+            "title": {"en": "Vowels that join"},
+            "colour": 5,
+            "lessons": [
+                {
+                    "id": "ol-2-habanera",
+                    "title": {"en": "The habanera"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "La Paloma's refrain: \"Si a tu ventana llega una paloma\", if a dove comes to your window. Spanish vowels stay whole, even unstressed."},
+                            "steps": [
+                                {"title": {"en": "The rhythm"}, "detail": {"en": "Long, short, then two even"}},
+                                {"title": {"en": "Whole vowels"}, "detail": {"en": "pa-LO-ma, every a an \"ah\""}},
+                                {"title": {"en": "Two vowels, one note"}, "detail": {"en": "\"Si‿a\" shares a note"}}
+                            ],
+                            "visual": "vowels",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 66,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one is the habanera?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.75, "step": 0, "lyric": "pa-lo-ma"},
+                                                    {"beat": 0.75, "length": 0.25, "step": 0},
+                                                    {"beat": 1.0, "length": 0.5, "step": 2},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 0.75, "step": 4},
+                                                    {"beat": 2.75, "length": 0.25, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -1}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.5, "step": 0, "lyric": "pa-lo-ma"},
+                                                    {"beat": 0.5, "length": 0.5, "step": 0},
+                                                    {"beat": 1.0, "length": 0.5, "step": 2},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 0.5, "step": 4},
+                                                    {"beat": 2.5, "length": 0.5, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -1}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The habanera's beat is long, short, then two even: the rhythm Iradier brought back from Cuba."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one is the habanera?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.5, "step": 0, "lyric": "pa-lo-ma"},
+                                                    {"beat": 0.5, "length": 0.5, "step": 0},
+                                                    {"beat": 1.0, "length": 0.5, "step": 2},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 0.5, "step": 4},
+                                                    {"beat": 2.5, "length": 0.5, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -1}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.75, "step": 0, "lyric": "pa-lo-ma"},
+                                                    {"beat": 0.75, "length": 0.25, "step": 0},
+                                                    {"beat": 1.0, "length": 0.5, "step": 2},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 0.75, "step": 4},
+                                                    {"beat": 2.75, "length": 0.25, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -1}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The habanera's beat is long, short, then two even: the rhythm Iradier brought back from Cuba."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one is the habanera?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.75, "step": 0, "lyric": "pa-lo-ma"},
+                                                    {"beat": 0.75, "length": 0.25, "step": 0},
+                                                    {"beat": 1.0, "length": 0.5, "step": 2},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 0.75, "step": 4},
+                                                    {"beat": 2.75, "length": 0.25, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -1}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.5, "step": 0, "lyric": "pa-lo-ma"},
+                                                    {"beat": 0.5, "length": 0.5, "step": 0},
+                                                    {"beat": 1.0, "length": 0.5, "step": 2},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 0.5, "step": 4},
+                                                    {"beat": 2.5, "length": 0.5, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -1}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The habanera's beat is long, short, then two even: the rhythm Iradier brought back from Cuba."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The refrain's first line on its vowels."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.3333, "step": 2, "lyric": "i‿a"},
+                                    {"beat": 0.3333, "length": 0.3333, "step": 2, "lyric": "u"},
+                                    {"beat": 0.6667, "length": 0.3333, "step": 2, "lyric": "e"},
+                                    {"beat": 1.0, "length": 0.5, "step": 2, "lyric": "a"},
+                                    {"beat": 1.5, "length": 0.5, "step": 1, "lyric": "a"},
+                                    {"beat": 2.0, "length": 0.3333, "step": 4, "lyric": "e"},
+                                    {"beat": 2.3333, "length": 0.3333, "step": 4, "lyric": "a"},
+                                    {"beat": 2.6667, "length": 0.3333, "step": 2, "lyric": "u"},
+                                    {"beat": 3.0, "length": 0.5, "step": 1, "lyric": "a"},
+                                    {"beat": 3.5, "length": 0.5, "step": -1, "lyric": "a"},
+                                    {"beat": 4.0, "length": 0.5, "step": -1, "lyric": "o"},
+                                    {"beat": 4.5, "length": 2.75, "step": -3, "lyric": "a"}
+                                ],
+                                "turn": true
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now the words, on the beat."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.3333, "step": 2, "lyric": "Si‿a"},
+                                    {"beat": 0.3333, "length": 0.3333, "step": 2, "lyric": "tu"},
+                                    {"beat": 0.6667, "length": 0.3333, "step": 2, "lyric": "ven-"},
+                                    {"beat": 1.0, "length": 0.5, "step": 2, "lyric": "ta-"},
+                                    {"beat": 1.5, "length": 0.5, "step": 1, "lyric": "na"},
+                                    {"beat": 2.0, "length": 0.3333, "step": 4, "lyric": "lle-"},
+                                    {"beat": 2.3333, "length": 0.3333, "step": 4, "lyric": "ga"},
+                                    {"beat": 2.6667, "length": 0.3333, "step": 2, "lyric": "u-"},
+                                    {"beat": 3.0, "length": 0.5, "step": 1, "lyric": "na"},
+                                    {"beat": 3.5, "length": 0.5, "step": -1, "lyric": "pa-"},
+                                    {"beat": 4.0, "length": 0.5, "step": -1, "lyric": "lo-"},
+                                    {"beat": 4.5, "length": 2.75, "step": -3, "lyric": "ma,"}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ol-2-join",
+                    "title": {"en": "Two vowels, one note"},
+                    "fact": {"id": "navarro-tomas-timbre", "text": {"en": "In 1918 the phonetician Tomás Navarro Tomás wrote that English speakers give Spanish vowels \"a less fixed and even timbre than the Castilian ear requires\"."}, "source": {"en": "Navarro Tomás, Manual de pronunciación española (1918), §43"}, "url": "https://archive.org/details/manualdepronunci00navauoft"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Japanese gave every vowel its own note. Spanish joins them: where the music gives one note, two words' vowels share it."},
+                            "steps": [
+                                {"title": {"en": "Si‿a, que‿es"}, "detail": {"en": "One note, both vowels, no stop"}},
+                                {"title": {"en": "The h is silent"}, "detail": {"en": "\"la‿Ha-ba-na\": la-AH-ba-na"}},
+                                {"title": {"en": "No catch"}, "detail": {"en": "Vowels on their own notes still flow"}}
+                            ],
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 66,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which \"si a tu\" joins the vowels on one note?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 1, "step": 0, "lyric": "si a tu"}, {"beat": 1, "length": 1, "step": 2}]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.5, "step": 0, "lyric": "si a tu"},
+                                                    {"beat": 0.5, "length": 0.5, "step": 0},
+                                                    {"beat": 1.0, "length": 1, "step": 2}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The other splits them over two notes, with a stop between."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which \"que es mi\" joins the vowels on one note?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.5, "step": 0, "lyric": "que es mi"},
+                                                    {"beat": 0.5, "length": 0.5, "step": 0},
+                                                    {"beat": 1.0, "length": 1, "step": -1}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 1, "step": 0, "lyric": "que es mi"}, {"beat": 1, "length": 1, "step": -1}]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The other splits them over two notes, with a stop between."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which \"la Habana\" joins the vowels on one note?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "la Habana"},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.5, "step": 0, "lyric": "la Habana"},
+                                                    {"beat": 0.5, "length": 0.5, "step": 0},
+                                                    {"beat": 1.0, "length": 1, "step": 2},
+                                                    {"beat": 2.0, "length": 1, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The other splits them over two notes, with a stop between."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Si a tu\", then hear it back."},
+                            "exercise": {
+                                "tempo": 60,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1, "step": 0, "lyric": "Si‿a"},
+                                        {"beat": 1, "length": 1, "step": 2, "lyric": "tu"}
+                                    ]
+                                },
+                                "questions": [{"en": "Did both vowels fit on the one note, with no stop between?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Cuando salí de la Habana, ¡válgame Dios!\": when I left Havana, God help me!"},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": -1, "lyric": "Cuan-"},
+                                    {"beat": 0.5, "length": 1.8333, "step": -1, "lyric": "do"},
+                                    {"beat": 2.8333, "length": 0.3333, "step": -4, "lyric": "sa-"},
+                                    {"beat": 3.1667, "length": 0.3333, "step": -3, "lyric": "lí"},
+                                    {"beat": 3.5, "length": 0.5, "step": -1, "lyric": "de"},
+                                    {"beat": 4, "length": 0.5, "step": 1, "lyric": "la‿Ha-"},
+                                    {"beat": 4.5, "length": 0.3333, "step": 3, "lyric": "ba-"},
+                                    {"beat": 4.8333, "length": 0.3333, "step": 4, "lyric": "na"},
+                                    {"beat": 5.1667, "length": 0.3333, "step": 1, "lyric": "¡Vál-"},
+                                    {"beat": 5.5, "length": 0.5, "step": 3, "lyric": "ga-"},
+                                    {"beat": 6, "length": 0.5, "step": -1, "lyric": "me"},
+                                    {"beat": 6.5, "length": 2, "step": -3, "lyric": "Dios!"}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ol-2-light",
+                    "title": {"en": "Light consonants"},
+                    "fact": {"id": "carmen-arreglito", "text": {"en": "Bizet took Iradier's other habanera, \"El Arreglito\", for Carmen's famous Habanera, thinking it was a folk song, and then named Iradier in the vocal score."}, "source": {"en": "Sebastián Iradier, English Wikipedia (citing Grove, 5th ed.)"}, "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Iradier"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Spanish consonants are light and quick, so the vowels can sing."},
+                            "steps": [
+                                {"title": {"en": "r is one tap"}, "detail": {"en": "ca-RI-ño, TRA-ta-la: the tap you met in Sakura"}},
+                                {"title": {"en": "v is a soft b"}, "detail": {"en": "ven-TA-na, never an English v"}},
+                                {"title": {"en": "ll is y"}, "detail": {"en": "\"LLE-ga\" is YEH-gah; in old Castilian, nearer \"ly\""}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Tourist, then local: \"ventana\" with an English v, then with a soft b, lips barely touching."},
+                            "exercise": {
+                                "tempo": 60,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1, "step": 0, "lyric": "ven-"},
+                                        {"beat": 1, "length": 1, "step": 2, "lyric": "ta-"},
+                                        {"beat": 2, "length": 1, "step": 0, "lyric": "na"},
+                                        {"beat": 4, "length": 1, "step": 0, "lyric": "ven-"},
+                                        {"beat": 5, "length": 1, "step": 2, "lyric": "ta-"},
+                                        {"beat": 6, "length": 1, "step": 0, "lyric": "na"}
+                                    ]
+                                },
+                                "questions": [{"en": "Which one sounds Spanish?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Trátala con cariño que es mi persona\": treat it kindly, for it is me."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.3333, "step": 4, "lyric": "Trá-"},
+                                    {"beat": 0.3333, "length": 0.3333, "step": 4, "lyric": "ta-"},
+                                    {"beat": 0.6667, "length": 0.3333, "step": 4, "lyric": "la"},
+                                    {"beat": 1.0, "length": 0.5, "step": 4, "lyric": "con"},
+                                    {"beat": 1.5, "length": 0.5, "step": 2, "lyric": "ca-"},
+                                    {"beat": 2.0, "length": 0.3333, "step": 2, "lyric": "ri-"},
+                                    {"beat": 2.3333, "length": 0.3333, "step": 0, "lyric": "ño"},
+                                    {"beat": 2.6667, "length": 0.3333, "step": 0, "lyric": "que‿es"},
+                                    {"beat": 3.0, "length": 0.5, "step": 0, "lyric": "mi"},
+                                    {"beat": 3.5, "length": 0.5, "step": 2, "lyric": "per-"},
+                                    {"beat": 4.0, "length": 0.25, "step": 0, "lyric": "so-"},
+                                    {"beat": 4.25, "length": 0.25, "step": -2},
+                                    {"beat": 4.5, "length": 2.75, "step": -3, "lyric": "na;"}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ol-2-challenge",
+                    "title": {"en": "La Paloma's refrain"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The rhythm, the joins and every vowel whole, with the other parts."},
+                            "steps": [
+                                {"title": {"en": "The habanera"}, "detail": {"en": "Quicker now"}},
+                                {"title": {"en": "The joins"}, "detail": {"en": "Si‿a, que‿es"}},
+                                {"title": {"en": "The last a"}, "detail": {"en": "pa-lo-ma, per-so-na: \"ah\" to the end"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 76,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one is the habanera?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.75, "step": 0, "lyric": "pa-lo-ma"},
+                                                    {"beat": 0.75, "length": 0.25, "step": 0},
+                                                    {"beat": 1.0, "length": 0.5, "step": 2},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 0.75, "step": 4},
+                                                    {"beat": 2.75, "length": 0.25, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -1}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.5, "step": 0, "lyric": "pa-lo-ma"},
+                                                    {"beat": 0.5, "length": 0.5, "step": 0},
+                                                    {"beat": 1.0, "length": 0.5, "step": 2},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 0.5, "step": 4},
+                                                    {"beat": 2.5, "length": 0.5, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -1}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "Long, short, then two even."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one is the habanera?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.5, "step": 0, "lyric": "pa-lo-ma"},
+                                                    {"beat": 0.5, "length": 0.5, "step": 0},
+                                                    {"beat": 1.0, "length": 0.5, "step": 2},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 0.5, "step": 4},
+                                                    {"beat": 2.5, "length": 0.5, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -1}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.75, "step": 0, "lyric": "pa-lo-ma"},
+                                                    {"beat": 0.75, "length": 0.25, "step": 0},
+                                                    {"beat": 1.0, "length": 0.5, "step": 2},
+                                                    {"beat": 1.5, "length": 0.5, "step": 4},
+                                                    {"beat": 2.0, "length": 0.75, "step": 4},
+                                                    {"beat": 2.75, "length": 0.25, "step": 2},
+                                                    {"beat": 3.0, "length": 0.5, "step": 0},
+                                                    {"beat": 3.5, "length": 0.5, "step": -1}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "Long, short, then two even."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The refrain's first two lines with the other parts."},
+                            "exercise": {
+                                "song": {
+                                    "template": "la-paloma",
+                                    "part": "soprano",
+                                    "phrases": [4, 5],
+                                    "with": "others"
+                                },
+                                "tempo": 60,
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ol-latin",
+            "title": {"en": "The long line"},
+            "colour": 5,
+            "lessons": [
+                {
+                    "id": "ol-3-latin",
+                    "title": {"en": "Ah-veh, not Ay-vee"},
+                    "fact": {"id": "liber-one-sound", "text": {"en": "The Liber Usualis, the Catholic Church's book of chant, says of Latin's vowels: \"Each vowel has one sound; a mixture or sequence of sounds would be fatal.\""}, "source": {"en": "The Liber Usualis (1961), Rules for Interpretation, p. xxxvi"}, "url": "https://archive.org/details/TheLiberUsualis1961"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A medieval hymn for the Eucharist, in Mozart's setting. \"Ave verum corpus, natum de Maria virgine\": hail, true body, born of the Virgin Mary."},
+                            "steps": [
+                                {"title": {"en": "e as in \"red\""}, "detail": {"en": "AH-veh, VEH-room, never \"ay\""}},
+                                {"title": {"en": "Every vowel whole"}, "detail": {"en": "KAWR-poos, not \"corpuss\""}},
+                                {"title": {"en": "A gentle start"}, "detail": {"en": "Vowel words begin softly, with no catch"}}
+                            ],
+                            "visual": "vowels",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"A-ve, ve-rum, cor-pus\", each syllable held."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "A-"},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "ve,"},
+                                    {"beat": 5, "length": 2, "step": 2, "lyric": "ve-"},
+                                    {"beat": 7, "length": 2, "step": 2, "lyric": "rum"},
+                                    {"beat": 10, "length": 2, "step": 4, "lyric": "cor-"},
+                                    {"beat": 12, "length": 2, "step": 4, "lyric": "pus"}
+                                ],
+                                "turn": true
+                            }
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Tourist, then local: \"Ay-vee\", then \"Ah-veh\"."},
+                            "exercise": {
+                                "tempo": 66,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 2, "step": 0, "lyric": "A-"},
+                                        {"beat": 2, "length": 2, "step": 0, "lyric": "ve"},
+                                        {"beat": 5, "length": 2, "step": 0, "lyric": "A-"},
+                                        {"beat": 7, "length": 2, "step": 0, "lyric": "ve"}
+                                    ]
+                                },
+                                "questions": [{"en": "Which one sounds like church Latin?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Ave, ave verum corpus\", slowly, one breath a phrase. The \"-um\" is \"oo\", closing to m at the very end."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": -1, "lyric": "A-"},
+                                    {"beat": 2, "length": 1, "step": 4, "lyric": "ve,"},
+                                    {"beat": 3, "length": 1, "step": -4},
+                                    {"beat": 4, "length": 1, "step": -1, "lyric": "a-"},
+                                    {"beat": 5, "length": 1, "step": -2},
+                                    {"beat": 6, "length": 1, "step": -3, "lyric": "ve,"},
+                                    {"beat": 8, "length": 1, "step": -3, "lyric": "ve-"},
+                                    {"beat": 9, "length": 1, "step": 1},
+                                    {"beat": 10, "length": 1, "step": -1, "lyric": "rum"},
+                                    {"beat": 11, "length": 1, "step": -3},
+                                    {"beat": 12, "length": 1, "step": -3, "lyric": "cor-"},
+                                    {"beat": 13, "length": 1, "step": -4},
+                                    {"beat": 14, "length": 1, "step": -4, "lyric": "pus,"}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the phrase: its notes on pitch, and its end steady."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ol-3-letters",
+                    "title": {"en": "Soft c, soft g, silent h"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Church Latin reads its letters the Roman way."},
+                            "steps": [
+                                {"title": {"en": "c and g before e or i"}, "detail": {"en": "CRU-ce is KROO-cheh; VIR-gi-ne is VEER-jee-neh"}},
+                                {"title": {"en": "h is silent"}, "detail": {"en": "HO-mi-ne is AW-mee-neh, as in Spanish"}},
+                                {"title": {"en": "Every syllable"}, "detail": {"en": "vir-gi-ne has three, never \"virg-neh\""}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 66,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which \"homine\" sings every syllable?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "homine"},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 2, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "homine"}, {"beat": 2, "length": 2, "step": 0}]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The other drops the middle one, as English would."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which \"virgine\" sings every syllable?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "virgine"}, {"beat": 2, "length": 2, "step": -3}]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "virgine"},
+                                                    {"beat": 1, "length": 1, "step": -1},
+                                                    {"beat": 2, "length": 2, "step": -3}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The other drops the middle one, as English would."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"In cruce pro homine\": on the cross, for mankind. One breath, after \"cruce\"."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0.5, "length": 0.5, "step": -2, "lyric": "in"},
+                                    {"beat": 1, "length": 5, "step": 3, "lyric": "cru-"},
+                                    {"beat": 6, "length": 1, "step": 2},
+                                    {"beat": 7, "length": 0.5, "step": 0, "lyric": "ce"},
+                                    {"beat": 8.25, "length": 1, "step": -2, "lyric": "pro"},
+                                    {"beat": 9.25, "length": 2, "step": -2, "lyric": "ho-"},
+                                    {"beat": 11.25, "length": 1, "step": -3},
+                                    {"beat": 12.25, "length": 1, "step": -3, "lyric": "mi-"},
+                                    {"beat": 13.25, "length": 3.5, "step": -2, "lyric": "ne."}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ol-3-line",
+                    "title": {"en": "One breath, one line"},
+                    "fact": {"id": "ave-verum-13th-century", "text": {"en": "The words are much older than Mozart: the hymn is first found in a 13th-century Franciscan manuscript, now in Chicago's Newberry Library."}, "source": {"en": "Ave verum corpus, English Wikipedia (citing Rubin, 1992)"}, "url": "https://en.wikipedia.org/wiki/Ave_verum_corpus"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Mozart's line is long and joined: the consonants quick between the vowels, and a breath only between words, never inside one."},
+                            "steps": [
+                                {"title": {"en": "Double letters"}, "detail": {"en": "PAS-sum, im-mo-LA-tum: held a moment"}},
+                                {"title": {"en": "The tap"}, "detail": {"en": "Ma-RI-a, VE-rum: one tap, as in Spanish"}},
+                                {"title": {"en": "Breathe between words"}, "detail": {"en": "Here, after \"Maria\""}}
+                            ],
+                            "visual": "breath",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 66,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one breathes in the middle of a word?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "natum de Maria"},
+                                                    {"beat": 1, "length": 0.5, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 2}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "natum de Maria"},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 2}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "Its sound stops inside \"Maria\": a breath belongs between words."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one breathes in the middle of a word?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "natum de Maria"},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 2}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "natum de Maria"},
+                                                    {"beat": 1, "length": 0.65, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 2}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "Its sound stops inside \"Maria\": a breath belongs between words."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Natum de Maria virgine\", one breath after \"Maria\"."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 3, "step": -1, "lyric": "na-"},
+                                    {"beat": 3, "length": 1, "step": -1, "lyric": "tum"},
+                                    {"beat": 4, "length": 1, "step": 1, "lyric": "de"},
+                                    {"beat": 5, "length": 1, "step": 1, "lyric": "Ma-"},
+                                    {"beat": 6, "length": 1, "step": 2, "lyric": "ri-"},
+                                    {"beat": 7, "length": 0.75, "step": 2, "lyric": "a"},
+                                    {"beat": 8.5, "length": 2, "step": 2, "lyric": "vir-"},
+                                    {"beat": 10.5, "length": 1, "step": 1},
+                                    {"beat": 11.5, "length": 1, "step": 1, "lyric": "gi-"},
+                                    {"beat": 12.5, "length": 3, "step": -1, "lyric": "ne,"}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the phrase: its notes on pitch, and its end steady."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ol-3-challenge",
+                    "title": {"en": "Ave verum"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The opening with the alto, tenor and bass: whole vowels, soft g, one breath a phrase. \"Ave verum corpus, natum de Maria virgine\": hail, true body, born of the Virgin Mary."},
+                            "steps": [
+                                {"title": {"en": "e as in \"red\""}, "detail": {"en": "AH-veh, VEH-room"}},
+                                {"title": {"en": "Soft g"}, "detail": {"en": "VEER-jee-neh"}},
+                                {"title": {"en": "One breath"}, "detail": {"en": "At Mozart's rests"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 66,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one breathes in the middle of a word?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "natum de Maria"},
+                                                    {"beat": 1, "length": 0.6, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 2}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "natum de Maria"},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 2}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "A breath belongs between words."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one breathes in the middle of a word?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "natum de Maria"},
+                                                    {"beat": 1, "length": 1, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 2}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "natum de Maria"},
+                                                    {"beat": 1, "length": 0.7, "step": 2},
+                                                    {"beat": 2, "length": 1, "step": 4},
+                                                    {"beat": 3, "length": 1, "step": 2}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "A breath belongs between words."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Ave, ave verum corpus, natum de Maria virgine\", with the other three parts."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ave-verum-corpus",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2],
+                                    "with": "others"
+                                },
+                                "tempo": 72,
+                                "turn": false,
+                                "score": "line"
+                            },
+                            "measures": {"en": "Scored on the phrase: its notes on pitch, and its end steady."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ol-ukrainian",
+            "title": {"en": "Quick words, light tongue"},
+            "colour": 5,
+            "lessons": [
+                {
+                    "id": "ol-4-letters",
+                    "title": {"en": "Eleven letters"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Shchedryk, a Ukrainian New Year song. Its first line in Cyrillic: Щедрик, щедрик, щедрівочка. In our letters: Shchedryk, shchedryk, shchedrivochka."},
+                            "steps": [
+                                {"title": {"en": "щ is \"shch\""}, "detail": {"en": "As in \"fresh cheese\", never a plain \"sh\""}},
+                                {"title": {"en": "и and і"}, "detail": {"en": "dryk as in \"sit\"; dri as in \"see\""}},
+                                {"title": {"en": "г is a soft h"}, "detail": {"en": "A voiced h, never a g"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Dryk\", then \"dri\", then hear them back."},
+                            "exercise": {
+                                "tempo": 60,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 2, "step": 0, "lyric": "dryk"},
+                                        {"beat": 3, "length": 2, "step": 0, "lyric": "dri"}
+                                    ]
+                                },
+                                "questions": [{"en": "Did \"dryk\" sound like \"sit\", and \"dri\" like \"see\"?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The figure slowly, each sound held: Shche-dryk, shche-dri-voch-ka."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 2, "lyric": "Shche-"},
+                                    {"beat": 3, "length": 2, "step": 1, "lyric": "dryk,"},
+                                    {"beat": 6, "length": 2, "step": 2, "lyric": "shche-"},
+                                    {"beat": 9, "length": 2, "step": -1, "lyric": "dryk,"},
+                                    {"beat": 12, "length": 2, "step": 2, "lyric": "shche-"},
+                                    {"beat": 15, "length": 2, "step": 1, "lyric": "dri-"},
+                                    {"beat": 18, "length": 2, "step": 2, "lyric": "voch-"},
+                                    {"beat": 21, "length": 2, "step": -1, "lyric": "ka,"}
+                                ],
+                                "turn": true,
+                                "score": "lock"
+                            },
+                            "measures": {"en": "Scored on each held note staying steady on its pitch. Whether the vowel stayed pure is yours to hear: play it back."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ol-4-figure",
+                    "title": {"en": "The figure, faster"},
+                    "fact": {"id": "leontovych-twenty-years", "text": {"en": "Mykola Leontovych worked on his Shchedryk for about twenty years, in five versions, before its premiere in Kyiv in December 1916."}, "source": {"en": "Щедрик (Леонтович), Ukrainian Wikipedia"}, "url": "https://uk.wikipedia.org/wiki/%D0%A9%D0%B5%D0%B4%D1%80%D0%B8%D0%BA_(%D0%9B%D0%B5%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D1%87)"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Four notes, round and round. Choirs go flat repeating it, so the key is the test, a step faster each time."},
+                            "steps": [
+                                {"title": {"en": "Every o whole"}, "detail": {"en": "VOCH-ka, never \"vuch-kuh\""}},
+                                {"title": {"en": "The shch early"}, "detail": {"en": "Before the beat, the vowel on it"}},
+                                {"title": {"en": "Light"}, "detail": {"en": "The figure invites pushing: keep it light, a medium volume, the jaw easy. Stop if anything tightens."}}
+                            ],
+                            "visual": "ladder",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 80,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one keeps every syllable on the beat?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 2, "lyric": "Shche-"},
+                                                    {"beat": 1, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                                    {"beat": 1.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                                    {"beat": 2, "length": 1, "step": -1, "lyric": "dryk,"},
+                                                    {"beat": 3, "length": 1, "step": 2, "lyric": "shche-"},
+                                                    {"beat": 4, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                                    {"beat": 4.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                                    {"beat": 5, "length": 1, "step": -1, "lyric": "ka,"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 2, "lyric": "Shche-"},
+                                                    {"beat": 1.2, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                                    {"beat": 1.7, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                                    {"beat": 2.2, "length": 1, "step": -1, "lyric": "dryk,"},
+                                                    {"beat": 3.2, "length": 1, "step": 2, "lyric": "shche-"},
+                                                    {"beat": 4.2, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                                    {"beat": 4.7, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                                    {"beat": 5.2, "length": 1, "step": -1, "lyric": "ka,"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "In the other, the syllables after the first drag late."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one keeps every syllable on the beat?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 2, "lyric": "Shche-"},
+                                                    {"beat": 1.2, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                                    {"beat": 1.7, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                                    {"beat": 2.2, "length": 1, "step": -1, "lyric": "dryk,"},
+                                                    {"beat": 3.2, "length": 1, "step": 2, "lyric": "shche-"},
+                                                    {"beat": 4.2, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                                    {"beat": 4.7, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                                    {"beat": 5.2, "length": 1, "step": -1, "lyric": "ka,"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 2, "lyric": "Shche-"},
+                                                    {"beat": 1, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                                    {"beat": 1.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                                    {"beat": 2, "length": 1, "step": -1, "lyric": "dryk,"},
+                                                    {"beat": 3, "length": 1, "step": 2, "lyric": "shche-"},
+                                                    {"beat": 4, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                                    {"beat": 4.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                                    {"beat": 5, "length": 1, "step": -1, "lyric": "ka,"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "In the other, the syllables after the first drag late."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The figure twice, at 60."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "Shche-"},
+                                    {"beat": 1, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                    {"beat": 1.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                    {"beat": 2, "length": 1, "step": -1, "lyric": "dryk,"},
+                                    {"beat": 3, "length": 1, "step": 2, "lyric": "shche-"},
+                                    {"beat": 4, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 5, "length": 1, "step": -1, "lyric": "ka,"},
+                                    {"beat": 7, "length": 1, "step": 2, "lyric": "Shche-"},
+                                    {"beat": 8, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                    {"beat": 8.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                    {"beat": 9, "length": 1, "step": -1, "lyric": "dryk,"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "shche-"},
+                                    {"beat": 11, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                    {"beat": 11.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 12, "length": 1, "step": -1, "lyric": "ka,"}
+                                ],
+                                "turn": true
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Four times round, at 80, in the same key."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "Shche-"},
+                                    {"beat": 1, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                    {"beat": 1.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                    {"beat": 2, "length": 1, "step": -1, "lyric": "dryk,"},
+                                    {"beat": 3, "length": 1, "step": 2, "lyric": "shche-"},
+                                    {"beat": 4, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 5, "length": 1, "step": -1, "lyric": "ka,"},
+                                    {"beat": 7, "length": 1, "step": 2, "lyric": "Shche-"},
+                                    {"beat": 8, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                    {"beat": 8.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                    {"beat": 9, "length": 1, "step": -1, "lyric": "dryk,"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "shche-"},
+                                    {"beat": 11, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                    {"beat": 11.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 12, "length": 1, "step": -1, "lyric": "ka,"},
+                                    {"beat": 14, "length": 1, "step": 2, "lyric": "Shche-"},
+                                    {"beat": 15, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                    {"beat": 15.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                    {"beat": 16, "length": 1, "step": -1, "lyric": "dryk,"},
+                                    {"beat": 17, "length": 1, "step": 2, "lyric": "shche-"},
+                                    {"beat": 18, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                    {"beat": 18.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 19, "length": 1, "step": -1, "lyric": "ka,"},
+                                    {"beat": 21, "length": 1, "step": 2, "lyric": "Shche-"},
+                                    {"beat": 22, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                    {"beat": 22.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                    {"beat": 23, "length": 1, "step": -1, "lyric": "dryk,"},
+                                    {"beat": 24, "length": 1, "step": 2, "lyric": "shche-"},
+                                    {"beat": 25, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                    {"beat": 25.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 26, "length": 1, "step": -1, "lyric": "ka,"}
+                                ],
+                                "turn": true,
+                                "score": "keyDrift"
+                            },
+                            "measures": {"en": "Scored on the figure keeping its key, round after round, with nothing under you."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Four times round, at 96. The figure invites pushing: keep it light, a medium volume, the jaw easy. Stop if anything tightens."},
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "Shche-"},
+                                    {"beat": 1, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                    {"beat": 1.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                    {"beat": 2, "length": 1, "step": -1, "lyric": "dryk,"},
+                                    {"beat": 3, "length": 1, "step": 2, "lyric": "shche-"},
+                                    {"beat": 4, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 5, "length": 1, "step": -1, "lyric": "ka,"},
+                                    {"beat": 7, "length": 1, "step": 2, "lyric": "Shche-"},
+                                    {"beat": 8, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                    {"beat": 8.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                    {"beat": 9, "length": 1, "step": -1, "lyric": "dryk,"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "shche-"},
+                                    {"beat": 11, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                    {"beat": 11.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 12, "length": 1, "step": -1, "lyric": "ka,"},
+                                    {"beat": 14, "length": 1, "step": 2, "lyric": "Shche-"},
+                                    {"beat": 15, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                    {"beat": 15.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                    {"beat": 16, "length": 1, "step": -1, "lyric": "dryk,"},
+                                    {"beat": 17, "length": 1, "step": 2, "lyric": "shche-"},
+                                    {"beat": 18, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                    {"beat": 18.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 19, "length": 1, "step": -1, "lyric": "ka,"},
+                                    {"beat": 21, "length": 1, "step": 2, "lyric": "Shche-"},
+                                    {"beat": 22, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                    {"beat": 22.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                    {"beat": 23, "length": 1, "step": -1, "lyric": "dryk,"},
+                                    {"beat": 24, "length": 1, "step": 2, "lyric": "shche-"},
+                                    {"beat": 25, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                    {"beat": 25.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 26, "length": 1, "step": -1, "lyric": "ka,"}
+                                ],
+                                "turn": true,
+                                "score": "keyDrift"
+                            },
+                            "measures": {"en": "Scored on the figure keeping its key, round after round, with nothing under you."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ol-4-swallow",
+                    "title": {"en": "The swallow's line"},
+                    "fact": {"id": "wilhousky-new-words", "text": {"en": "\"Carol of the Bells\" is Shchedryk's tune with new English words by Peter Wilhousky, published in 1936. They aren't a translation: the Ukrainian words are about a swallow, not bells."}, "source": {"en": "America Magazine (17 November 2022)"}, "url": "https://www.americamagazine.org/arts-culture/2022/11/17/carol-bells-ukraine-centennial-244117"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Line 2: Прилетіла ластівочка, \"Pryletila lastivochka\": a little swallow has flown in."},
+                            "steps": [
+                                {"title": {"en": "The stress"}, "detail": {"en": "prih-leh-TEE-lah, LAHS-tee-voch-kah"}},
+                                {"title": {"en": "ti is soft"}, "detail": {"en": "A t with the tongue high, never \"chee\""}},
+                                {"title": {"en": "A dark l"}, "detail": {"en": "As in \"full\""}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Tourist, then local: \"LAS-tuh-vuch-kuh\", then every vowel whole."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1, "step": 0, "lyric": "las-"},
+                                        {"beat": 1, "length": 1, "step": 0, "lyric": "ti-"},
+                                        {"beat": 2, "length": 1, "step": 0, "lyric": "voch-"},
+                                        {"beat": 3, "length": 1, "step": 0, "lyric": "ka"},
+                                        {"beat": 5, "length": 1, "step": 0, "lyric": "las-"},
+                                        {"beat": 6, "length": 1, "step": 0, "lyric": "ti-"},
+                                        {"beat": 7, "length": 1, "step": 0, "lyric": "voch-"},
+                                        {"beat": 8, "length": 1, "step": 0, "lyric": "ka"}
+                                    ]
+                                },
+                                "questions": [{"en": "Which one sounds Ukrainian?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 2 at 80."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "Pry-"},
+                                    {"beat": 1, "length": 0.5, "step": 1, "lyric": "le-"},
+                                    {"beat": 1.5, "length": 0.5, "step": 2, "lyric": "ti-"},
+                                    {"beat": 2, "length": 1, "step": -1, "lyric": "la"},
+                                    {"beat": 3, "length": 1, "step": 2, "lyric": "las-"},
+                                    {"beat": 4, "length": 0.5, "step": 1, "lyric": "ti-"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 5, "length": 1, "step": -1, "lyric": "ka."}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ol-4-challenge",
+                    "title": {"en": "Shchedryk"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Your first Japanese line, sixteen lessons ago, and now; then Shchedryk with the choir, in its own letters."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
+                                {"title": {"en": "The two lines"}, "detail": {"en": "In our letters, at 96"}},
+                                {"title": {"en": "The choir"}, "detail": {"en": "In Cyrillic, with the other parts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lesson 1's line."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -1, "lyric": "sa"},
+                                    {"beat": 1, "length": 1, "step": -1, "lyric": "ku"},
+                                    {"beat": 2, "length": 2, "step": 1, "lyric": "ra"},
+                                    {"beat": 4, "length": 1, "step": -1, "lyric": "sa"},
+                                    {"beat": 5, "length": 1, "step": -1, "lyric": "ku"},
+                                    {"beat": 6, "length": 1.25, "step": 1, "lyric": "ra"}
+                                ],
+                                "turn": true,
+                                "thenAndNow": "ol.first-line"
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lines 1 and 2 at 96. The figure invites pushing: keep it light, a medium volume, the jaw easy. Stop if anything tightens."},
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "Shche-"},
+                                    {"beat": 1, "length": 0.5, "step": 1, "lyric": "dryk,"},
+                                    {"beat": 1.5, "length": 0.5, "step": 2, "lyric": "shche-"},
+                                    {"beat": 2, "length": 1, "step": -1, "lyric": "dryk,"},
+                                    {"beat": 3, "length": 1, "step": 2, "lyric": "shche-"},
+                                    {"beat": 4, "length": 0.5, "step": 1, "lyric": "dri-"},
+                                    {"beat": 4.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 5, "length": 1, "step": -1, "lyric": "ka,"},
+                                    {"beat": 6, "length": 1, "step": 2, "lyric": "Pry-"},
+                                    {"beat": 7, "length": 0.5, "step": 1, "lyric": "le-"},
+                                    {"beat": 7.5, "length": 0.5, "step": 2, "lyric": "ti-"},
+                                    {"beat": 8, "length": 1, "step": -1, "lyric": "la"},
+                                    {"beat": 9, "length": 1, "step": 2, "lyric": "las-"},
+                                    {"beat": 10, "length": 0.5, "step": 1, "lyric": "ti-"},
+                                    {"beat": 10.5, "length": 0.5, "step": 2, "lyric": "voch-"},
+                                    {"beat": 11, "length": 1, "step": -1, "lyric": "ka."}
+                                ],
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The same two lines in Cyrillic: Щедрик, щедрик, щедрівочка, прилетіла ластівочка."},
+                            "steps": [
+                                {"title": {"en": "Щедрик"}, "detail": {"en": "Shche-dryk"}},
+                                {"title": {"en": "щедрівочка"}, "detail": {"en": "shche-dri-voch-ka"}},
+                                {"title": {"en": "прилетіла ластівочка"}, "detail": {"en": "pry-le-ti-la las-ti-voch-ka"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The song's last two lines with the alto, tenor and bass, at 96."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shchedryk",
+                                    "part": "soprano",
+                                    "phrases": [12, 13],
+                                    "with": "others"
+                                },
+                                "tempo": 96,
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
