@@ -1,0 +1,997 @@
+{
+    "id": "diction",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Diction for singers"},
+    "units": [
+        {
+            "id": "di-vowels",
+            "title": {"en": "Vowels that carry"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "di-1-heard",
+                    "title": {"en": "Be heard"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Diction is being understood. The note lives on the vowel. Sing Amazing Grace's first line as you normally would."},
+                            "steps": [
+                                {"title": {"en": "Just sing it"}, "detail": {"en": "As you normally would"}},
+                                {"title": {"en": "Then again"}, "detail": {"en": "With one change"}},
+                                {"title": {"en": "Hear both"}, "detail": {"en": "Side by side"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Amazing grace, how sweet the sound\", as you'd normally sing it."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -5, "lyric": "A-"},
+                                    {"beat": 1, "length": 2, "step": 0, "lyric": "maz-"},
+                                    {"beat": 3, "length": 0.5, "step": 4, "lyric": "ing"},
+                                    {"beat": 3.5, "length": 0.5, "step": 0},
+                                    {"beat": 4, "length": 1.25, "step": 4, "lyric": "grace,"},
+                                    {"beat": 6, "length": 1, "step": 2, "lyric": "how"},
+                                    {"beat": 7, "length": 2, "step": 0, "lyric": "sweet"},
+                                    {"beat": 9, "length": 1, "step": -3, "lyric": "the"},
+                                    {"beat": 10, "length": 1, "step": -5, "lyric": "sound"}
+                                ],
+                                "turn": false,
+                                "keep": "di.first-line",
+                                "generous": true
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the stressed vowels full and pure, a-MA-zing, the small words light: \"the\" is just \"thuh\". Start \"Amazing\" easily: no click, no breathy h."},
+                            "steps": [
+                                {"title": {"en": "Stressed vowels full"}, "detail": {"en": "a-MA-zing, SOUND"}},
+                                {"title": {"en": "Small words light"}, "detail": {"en": "\"the\" as \"thuh\""}},
+                                {"title": {"en": "An easy start"}, "detail": {"en": "No click, no h"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The same line again, stressed vowels full, small words light."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -5, "lyric": "A-"},
+                                    {"beat": 1, "length": 2, "step": 0, "lyric": "maz-"},
+                                    {"beat": 3, "length": 0.5, "step": 4, "lyric": "ing"},
+                                    {"beat": 3.5, "length": 0.5, "step": 0},
+                                    {"beat": 4, "length": 1.25, "step": 4, "lyric": "grace,"},
+                                    {"beat": 6, "length": 1, "step": 2, "lyric": "how"},
+                                    {"beat": 7, "length": 2, "step": 0, "lyric": "sweet"},
+                                    {"beat": 9, "length": 1, "step": -3, "lyric": "the"},
+                                    {"beat": 10, "length": 1, "step": -5, "lyric": "sound"}
+                                ],
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Once more, just \"Amazing\", then hear yours."},
+                            "exercise": {
+                                "tempo": 72,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1, "step": 0, "lyric": "A-"},
+                                        {"beat": 1, "length": 2, "step": 5, "lyric": "maz-"},
+                                        {"beat": 3, "length": 1, "step": 9, "lyric": "ing"}
+                                    ]
+                                },
+                                "questions": [{"en": "Did \"Amazing\" start cleanly, without a click?"}, {"en": "Was \"the\" light?"}]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "di-1-pure",
+                    "title": {"en": "Pure vowels"},
+                    "fact": {"id": "high-vowels-misheard", "text": {"en": "When 18 professional singers sang vowels very high, listeners often heard a different vowel: one whose first formant sits just above the sung note."}, "source": {"en": "Hollien, Mendes-Schwartz and Nielsen, Journal of Voice (2000)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/10875582/"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Hold each vowel pure, the same from start to end. Singers tend to drift sharp on \"ee\" and flat on \"oo\": the app hears that."},
+                            "steps": [
+                                {"title": {"en": "One vowel"}, "detail": {"en": "The same all through"}},
+                                {"title": {"en": "On the note"}, "detail": {"en": "Ee not sharp, oo not flat"}},
+                                {"title": {"en": "A loose jaw"}, "detail": {"en": "A loose jaw and an easy tongue: the tongue does t, d, n, l and s, and the jaw barely moves. Light consonants, never pushed. Stop if anything tightens."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Ah, eh, ee, oh, oo, each held on the drone's note."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "eh"},
+                                    {"beat": 8, "length": 2, "step": 0, "lyric": "ee"},
+                                    {"beat": 12, "length": 2, "step": 0, "lyric": "oh"},
+                                    {"beat": 16, "length": 2, "step": 0, "lyric": "oo"}
+                                ],
+                                "turn": false,
+                                "drone": {"step": 0},
+                                "score": "lock"
+                            },
+                            "measures": {"en": "Scored on each held note staying on its pitch."}
+                        }
+                    ]
+                },
+                {
+                    "id": "di-1-two",
+                    "title": {"en": "Two vowels, one note"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Night, day, how and boy each glide between two vowels. Hold the first and give the second only at the very end."},
+                            "steps": [
+                                {"title": {"en": "Night"}, "detail": {"en": "Ah, then a touch of ee"}},
+                                {"title": {"en": "Day"}, "detail": {"en": "Eh, then a touch of ee"}},
+                                {"title": {"en": "How"}, "detail": {"en": "Ah, then a touch of oo"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Each word held two beats, its first vowel all the way."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "night"},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "day"},
+                                    {"beat": 8, "length": 2, "step": 0, "lyric": "how"},
+                                    {"beat": 12, "length": 2, "step": 0, "lyric": "boy"}
+                                ],
+                                "turn": false,
+                                "drone": {"step": 0},
+                                "score": "lock"
+                            },
+                            "measures": {"en": "Scored on each held note staying on its pitch."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Night\" once more, then hear yours."},
+                            "exercise": {
+                                "tempo": 72,
+                                "model": {
+                                    "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}]
+                                },
+                                "questions": [{"en": "Did \"night\" stay on \"ah\" until the end?"}, {"en": "Did your jaw stay loose?"}]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "di-1-challenge",
+                    "title": {"en": "Amazing Grace, every vowel"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Lesson 1's line again, then two lines: stressed vowels full, small words light. \"Lost but\" with nothing between, \"now am\" joined. Drop an r before a consonant."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
+                                {"title": {"en": "Two lines"}, "detail": {"en": "Stress and pure vowels"}},
+                                {"title": {"en": "Joined"}, "detail": {"en": "\"lost but\", \"now am\""}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lesson 1's line."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -5, "lyric": "A-"},
+                                    {"beat": 1, "length": 2, "step": 0, "lyric": "maz-"},
+                                    {"beat": 3, "length": 0.5, "step": 4, "lyric": "ing"},
+                                    {"beat": 3.5, "length": 0.5, "step": 0},
+                                    {"beat": 4, "length": 1.25, "step": 4, "lyric": "grace,"},
+                                    {"beat": 6, "length": 1, "step": 2, "lyric": "how"},
+                                    {"beat": 7, "length": 2, "step": 0, "lyric": "sweet"},
+                                    {"beat": 9, "length": 1, "step": -3, "lyric": "the"},
+                                    {"beat": 10, "length": 1, "step": -5, "lyric": "sound"}
+                                ],
+                                "turn": false,
+                                "thenAndNow": "di.first-line"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The first two lines."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -5, "lyric": "A-"},
+                                    {"beat": 1, "length": 2, "step": 0, "lyric": "maz-"},
+                                    {"beat": 3, "length": 0.5, "step": 4, "lyric": "ing"},
+                                    {"beat": 3.5, "length": 0.5, "step": 0},
+                                    {"beat": 4, "length": 1.25, "step": 4, "lyric": "grace,"},
+                                    {"beat": 6, "length": 1, "step": 2, "lyric": "how"},
+                                    {"beat": 7, "length": 2, "step": 0, "lyric": "sweet"},
+                                    {"beat": 9, "length": 1, "step": -3, "lyric": "the"},
+                                    {"beat": 10, "length": 1, "step": -5, "lyric": "sound"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "that"},
+                                    {"beat": 13, "length": 2, "step": 0, "lyric": "saved"},
+                                    {"beat": 15, "length": 0.5, "step": 4, "lyric": "a"},
+                                    {"beat": 15.5, "length": 0.5, "step": 0},
+                                    {"beat": 16, "length": 2, "step": 4, "lyric": "wretch"},
+                                    {"beat": 18, "length": 0.25, "step": 2, "lyric": "like"},
+                                    {"beat": 19, "length": 4, "step": 7, "lyric": "me."}
+                                ],
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "di-consonants",
+            "title": {"en": "Consonants in time"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "di-2-onset",
+                    "title": {"en": "The vowel on the beat"},
+                    "fact": {"id": "vowel-onset-beat", "text": {"en": "On commercial recordings, pianists most often played their notes with the singer's vowel, not with the consonant before it: the consonant comes just before the beat, the vowel on it."}, "source": {"en": "Sundberg and Bauer-Huppmann, When does a sung tone start?, Journal of Voice (2007)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/16564674/"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Hand on your throat: \"zzz\" buzzes, \"sss\" doesn't. The app hears only what buzzes. So for t, k, p and s, put the consonant just before the beat, and the vowel on it."},
+                            "steps": [
+                                {"title": {"en": "Zzz, then sss"}, "detail": {"en": "One buzzes, one doesn't"}},
+                                {"title": {"en": "Consonant early"}, "detail": {"en": "Just before the beat"}},
+                                {"title": {"en": "Vowel on the beat"}, "detail": {"en": "That's what's heard"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Each word on its beat, a rest between: the vowel words on the beat, and \"two\", \"cold\" and \"past\" with their consonant just before."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "I"},
+                                    {"beat": 4, "length": 1, "step": 0, "lyric": "two"},
+                                    {"beat": 6, "length": 1, "step": 0, "lyric": "oh"},
+                                    {"beat": 8, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 10, "length": 1, "step": 0, "lyric": "cold"},
+                                    {"beat": 12, "length": 1, "step": 0, "lyric": "I"},
+                                    {"beat": 14, "length": 1, "step": 0, "lyric": "oh"},
+                                    {"beat": 16, "length": 1, "step": 0, "lyric": "past"}
+                                ],
+                                "turn": false,
+                                "drone": {"step": 0},
+                                "score": "entry"
+                            },
+                            "measures": {"en": "Scored on each vowel starting on the beat, measured against your own vowel-word starts."}
+                        }
+                    ]
+                },
+                {
+                    "id": "di-2-finals",
+                    "title": {"en": "The end on the beat"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A word's last consonant goes exactly where the note ends. A final t, k, p or s is quick and light; a final d is light too, never \"found-uh\"."},
+                            "steps": [
+                                {"title": {"en": "Hold the vowel"}, "detail": {"en": "To the end of the note"}},
+                                {"title": {"en": "Then the consonant"}, "detail": {"en": "Right on the beat"}},
+                                {"title": {"en": "Light"}, "detail": {"en": "A short s, a soft d"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Six held words, each consonant exactly on the note's end."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "night"},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "light"},
+                                    {"beat": 8, "length": 2, "step": 0, "lyric": "past"},
+                                    {"beat": 12, "length": 2, "step": 0, "lyric": "bright"},
+                                    {"beat": 16, "length": 2, "step": 0, "lyric": "cold"},
+                                    {"beat": 20, "length": 2, "step": 0, "lyric": "found"}
+                                ],
+                                "turn": false,
+                                "drone": {"step": 0},
+                                "score": "release"
+                            },
+                            "measures": {"en": "Scored on each held note ending on time, steady to its end: the final consonant on the beat."}
+                        }
+                    ]
+                },
+                {
+                    "id": "di-2-together",
+                    "title": {"en": "Together"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A choir's words end together, or a stray t or s sticks out. Listen for it, then end with the voice beside you."},
+                            "steps": [
+                                {"title": {"en": "Listen"}, "detail": {"en": "Did they stop together?"}},
+                                {"title": {"en": "Then you"}, "detail": {"en": "With a partner voice"}},
+                                {"title": {"en": "Together"}, "detail": {"en": "Your end with its end"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 60,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which choir stopped together on \"night\"?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}, {"beat": 0, "length": 2, "step": 4}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}, {"beat": 0, "length": 2.25, "step": 4}]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "In one, a voice hangs on after the other has stopped."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which choir stopped together on \"night\"?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}, {"beat": 0, "length": 2.15, "step": 4}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}, {"beat": 0, "length": 2, "step": 4}]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "In one, a voice hangs on after the other has stopped."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which choir stopped together on \"night\"?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}, {"beat": 0, "length": 2, "step": 4}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}, {"beat": 0, "length": 2.1, "step": 4}]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "In one, a voice hangs on after the other has stopped."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which choir stopped together on \"night\"?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}, {"beat": 0, "length": 2.06, "step": 4}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}, {"beat": 0, "length": 2, "step": 4}]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "In one, a voice hangs on after the other has stopped."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Three held words, your ends with the partner's."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "night"},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "light"},
+                                    {"beat": 8, "length": 2, "step": 0, "lyric": "past"}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0, "length": 2, "step": 4, "lyric": "night"},
+                                            {"beat": 4, "length": 2, "step": 4, "lyric": "light"},
+                                            {"beat": 8, "length": 2, "step": 4, "lyric": "past"}
+                                        ],
+                                        "volume": 0.5
+                                    }
+                                ],
+                                "score": "release"
+                            },
+                            "measures": {"en": "Scored on each held note ending on time, steady to its end: the final consonant on the beat."}
+                        }
+                    ]
+                },
+                {
+                    "id": "di-2-challenge",
+                    "title": {"en": "Danny Boy"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Lesson 1's line, then Danny Boy's first line: \"Danny\", \"boy\" and \"pipes\" start like t and p, the consonant just before the beat. Then three of its words held, their ends on the beat."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
+                                {"title": {"en": "The pipes"}, "detail": {"en": "Consonants early, vowels on the beat"}},
+                                {"title": {"en": "The ends"}, "detail": {"en": "On the beat"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lesson 1's line."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -5, "lyric": "A-"},
+                                    {"beat": 1, "length": 2, "step": 0, "lyric": "maz-"},
+                                    {"beat": 3, "length": 0.5, "step": 4, "lyric": "ing"},
+                                    {"beat": 3.5, "length": 0.5, "step": 0},
+                                    {"beat": 4, "length": 1.25, "step": 4, "lyric": "grace,"},
+                                    {"beat": 6, "length": 1, "step": 2, "lyric": "how"},
+                                    {"beat": 7, "length": 2, "step": 0, "lyric": "sweet"},
+                                    {"beat": 9, "length": 1, "step": -3, "lyric": "the"},
+                                    {"beat": 10, "length": 1, "step": -5, "lyric": "sound"}
+                                ],
+                                "turn": false,
+                                "thenAndNow": "di.first-line"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Oh Danny boy, the pipes, the pipes are calling\"."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0.0, "length": 0.5, "step": -3, "lyric": "Oh"},
+                                    {"beat": 0.5, "length": 0.5, "step": -2, "lyric": "Dan-"},
+                                    {"beat": 1.0, "length": 0.5, "step": 0, "lyric": "ny"},
+                                    {"beat": 1.5, "length": 1.5, "step": 2, "lyric": "boy"},
+                                    {"beat": 3.0, "length": 0.5, "step": 0},
+                                    {"beat": 3.5, "length": 0.5, "step": 2, "lyric": "the"},
+                                    {"beat": 4.0, "length": 0.5, "step": 7, "lyric": "pipes,"},
+                                    {"beat": 4.5, "length": 0.5, "step": 5, "lyric": "the"},
+                                    {"beat": 5.0, "length": 0.5, "step": 2, "lyric": "pipes"},
+                                    {"beat": 5.5, "length": 0.5, "step": 0, "lyric": "are"},
+                                    {"beat": 6.0, "length": 0.5, "step": -2, "lyric": "call-"},
+                                    {"beat": 6.5, "length": 0.75, "step": -5, "lyric": "ing"}
+                                ],
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Three held words, a rest after each, their ends on the beat."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "boy"},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "pipes"},
+                                    {"beat": 8, "length": 2, "step": 0, "lyric": "calling"}
+                                ],
+                                "turn": false,
+                                "drone": {"step": 0},
+                                "score": "release"
+                            },
+                            "measures": {"en": "Scored on each held note ending on time, steady to its end: the final consonant on the beat."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "di-on-the-consonant",
+            "title": {"en": "On the consonant"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "di-3-hum",
+                    "title": {"en": "On the m"},
+                    "fact": {"id": "english-voiced-consonants", "text": {"en": "In English, r, l, w, y, m, n and ng are always voiced: the vocal folds vibrate right through them, and none has a voiceless twin."}, "source": {"en": "Russell, Describing consonants, University of Manitoba"}, "url": "https://home.cc.umanitoba.ca/~krussll/phonetics/articulation/describing-consonants.html"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "An m has pitch: it's on the note, short, and the vowel gets the length. Only a final m hums through to the end. This one is kinder."},
+                            "steps": [
+                                {"title": {"en": "The hum"}, "detail": {"en": "On the note"}},
+                                {"title": {"en": "Short"}, "detail": {"en": "The vowel gets the length"}},
+                                {"title": {"en": "A final m"}, "detail": {"en": "Hums to the end"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "A hum on the drone's note."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "mm"}],
+                                "turn": false,
+                                "drone": {"step": 0},
+                                "score": "lock"
+                            },
+                            "measures": {"en": "Scored on each held note staying on its pitch."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"mama\", \"summer\", \"home\": each m on the note."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "ma-"},
+                                    {"beat": 1, "length": 1, "step": 2, "lyric": "ma"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "sum-"},
+                                    {"beat": 5, "length": 1, "step": 0, "lyric": "mer"},
+                                    {"beat": 8, "length": 2, "step": 0, "lyric": "home"}
+                                ],
+                                "turn": false,
+                                "drone": {"step": 0}
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        }
+                    ]
+                },
+                {
+                    "id": "di-3-n-l",
+                    "title": {"en": "The n on the note"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "n and l have pitch too. Put them on the note, not below it sliding up. \"Long\" has no g after the ng; \"all\" ends on a light l."},
+                            "steps": [
+                                {"title": {"en": "On the note"}, "detail": {"en": "Not under it"}},
+                                {"title": {"en": "No g"}, "detail": {"en": "\"long\", not \"long-g\""}},
+                                {"title": {"en": "A light l"}, "detail": {"en": "The tongue tip"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Four held words, each n or l on the note."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "nine"},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "only"},
+                                    {"beat": 8, "length": 2, "step": 0, "lyric": "long"},
+                                    {"beat": 12, "length": 2, "step": 0, "lyric": "all"}
+                                ],
+                                "turn": false,
+                                "drone": {"step": 0},
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on each note starting on its pitch, the n or m on the note, not sliding up into it."}
+                        }
+                    ]
+                },
+                {
+                    "id": "di-3-buzz",
+                    "title": {"en": "Buzz, not hiss"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "v and z can buzz on the note, or hiss without it. Buzz them."},
+                            "steps": [
+                                {"title": {"en": "Very"}, "detail": {"en": "A buzzing v"}},
+                                {"title": {"en": "Zoo"}, "detail": {"en": "A buzzing z"}},
+                                {"title": {"en": "Love"}, "detail": {"en": "A light v at the end"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Three held words, the v and z buzzing on the note."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "very"},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "zoo"},
+                                    {"beat": 8, "length": 2, "step": 0, "lyric": "love"}
+                                ],
+                                "turn": false,
+                                "drone": {"step": 0}
+                            },
+                            "measures": {"en": "Scored on the vowels' pitch."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "\"Zoo\" once more, then hear yours."},
+                            "exercise": {
+                                "tempo": 72,
+                                "model": {
+                                    "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "zoo"}]
+                                },
+                                "questions": [{"en": "Did the z buzz, or hiss?"}, {"en": "Did your jaw stay still?"}]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "di-3-challenge",
+                    "title": {"en": "Shenandoah"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Lesson 1's line, then Shenandoah's first line, full of n's: each one on the note, not sliding up."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
+                                {"title": {"en": "Shenandoah"}, "detail": {"en": "Every n on the note"}},
+                                {"title": {"en": "Long"}, "detail": {"en": "No g after the ng"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lesson 1's line."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -5, "lyric": "A-"},
+                                    {"beat": 1, "length": 2, "step": 0, "lyric": "maz-"},
+                                    {"beat": 3, "length": 0.5, "step": 4, "lyric": "ing"},
+                                    {"beat": 3.5, "length": 0.5, "step": 0},
+                                    {"beat": 4, "length": 1.25, "step": 4, "lyric": "grace,"},
+                                    {"beat": 6, "length": 1, "step": 2, "lyric": "how"},
+                                    {"beat": 7, "length": 2, "step": 0, "lyric": "sweet"},
+                                    {"beat": 9, "length": 1, "step": -3, "lyric": "the"},
+                                    {"beat": 10, "length": 1, "step": -5, "lyric": "sound"}
+                                ],
+                                "turn": false,
+                                "thenAndNow": "di.first-line"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Oh Shenandoah, I long to hear you\"."},
+                            "exercise": {
+                                "tempo": 63,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -7, "lyric": "Oh"},
+                                    {"beat": 1, "length": 0.5, "step": -2, "lyric": "Shen-"},
+                                    {"beat": 1.5, "length": 0.5, "step": -2, "lyric": "an-"},
+                                    {"beat": 2, "length": 1.5, "step": -2, "lyric": "doah,"},
+                                    {"beat": 3.5, "length": 0.5, "step": 0, "lyric": "I"},
+                                    {"beat": 4, "length": 0.5, "step": 2, "lyric": "long"},
+                                    {"beat": 4.5, "length": 0.5, "step": 3, "lyric": "to"},
+                                    {"beat": 5, "length": 0.5, "step": 7, "lyric": "hear"},
+                                    {"beat": 5.5, "length": 1.75, "step": 5, "lyric": "you,"}
+                                ],
+                                "turn": false,
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on each note starting on its pitch, the n or m on the note, not sliding up into it."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "di-for-an-audience",
+            "title": {"en": "Words for an audience"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "di-4-heard",
+                    "title": {"en": "Would they understand?"},
+                    "fact": {"id": "sung-words-errors", "text": {"en": "Listeners writing down words sung by advanced voice students made 7.3 times as many mistakes as with the same words spoken."}, "source": {"en": "Johnson, Huron and Collister, Empirical Musicology Review (2014)"}, "url": "https://doi.org/10.18061/emr.v9i1.3729"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "You always understand your own words. Would a stranger? Sing a line, then listen with the words hidden."},
+                            "steps": [
+                                {"title": {"en": "Sing it"}, "detail": {"en": "For someone at the back"}},
+                                {"title": {"en": "Hide the words"}, "detail": {"en": "And listen"}},
+                                {"title": {"en": "Not louder"}, "detail": {"en": "A loose jaw and an easy tongue: the tongue does t, d, n, l and s, and the jaw barely moves. Light consonants, never pushed. Stop if anything tightens."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"That saved a wretch like me\"."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -7, "lyric": "that"},
+                                    {"beat": 1, "length": 2, "step": -2, "lyric": "saved"},
+                                    {"beat": 3, "length": 0.5, "step": 2, "lyric": "a"},
+                                    {"beat": 3.5, "length": 0.5, "step": -2},
+                                    {"beat": 4, "length": 2, "step": 2, "lyric": "wretch"},
+                                    {"beat": 6, "length": 0.25, "step": 0, "lyric": "like"},
+                                    {"beat": 7, "length": 4, "step": 5, "lyric": "me."}
+                                ],
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Once more, then hear yours with the words hidden."},
+                            "exercise": {
+                                "tempo": 72,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1, "step": -7, "lyric": "that"},
+                                        {"beat": 1, "length": 2, "step": -2, "lyric": "saved"},
+                                        {"beat": 3, "length": 0.5, "step": 2, "lyric": "a"},
+                                        {"beat": 3.5, "length": 0.5, "step": -2},
+                                        {"beat": 4, "length": 2, "step": 2, "lyric": "wretch"},
+                                        {"beat": 6, "length": 1, "step": 0, "lyric": "like"},
+                                        {"beat": 7, "length": 4, "step": 5, "lyric": "me."}
+                                    ]
+                                },
+                                "questions": [
+                                    {"en": "Pick one word: did you hear its last consonant?"},
+                                    {"en": "Did your jaw stay still for the t and n?"}
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "di-4-choir",
+                    "title": {"en": "One choir, one vowel"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A choir is understood when it sings the same vowel at the same time. Match the voice beside you."},
+                            "steps": [
+                                {"title": {"en": "Match its oo"}, "detail": {"en": "The same shape"}},
+                                {"title": {"en": "Then the words"}, "detail": {"en": "In unison"}},
+                                {"title": {"en": "Together"}, "detail": {"en": "Vowels and ends"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Match the guide's \"oo\"."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [{"beat": 0, "length": 3, "step": 0, "lyric": "oo"}],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [{"beat": 0, "length": 3, "step": 0, "lyric": "oo"}],
+                                        "volume": 0.6
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The line in unison with a partner voice."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -7, "lyric": "that"},
+                                    {"beat": 1, "length": 2, "step": -2, "lyric": "saved"},
+                                    {"beat": 3, "length": 0.5, "step": 2, "lyric": "a"},
+                                    {"beat": 3.5, "length": 0.5, "step": -2},
+                                    {"beat": 4, "length": 2, "step": 2, "lyric": "wretch"},
+                                    {"beat": 6, "length": 0.25, "step": 0, "lyric": "like"},
+                                    {"beat": 7, "length": 4, "step": 5, "lyric": "me."}
+                                ],
+                                "turn": false,
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0, "length": 1, "step": -7, "lyric": "that"},
+                                            {"beat": 1, "length": 2, "step": -2, "lyric": "saved"},
+                                            {"beat": 3, "length": 0.5, "step": 2, "lyric": "a"},
+                                            {"beat": 3.5, "length": 0.5, "step": -2},
+                                            {"beat": 4, "length": 2, "step": 2, "lyric": "wretch"},
+                                            {"beat": 6, "length": 1, "step": 0, "lyric": "like"},
+                                            {"beat": 7, "length": 4, "step": 5, "lyric": "me."}
+                                        ],
+                                        "volume": 0.5
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Once more, then hear yours beside the partner."},
+                            "exercise": {
+                                "tempo": 72,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1, "step": -7, "lyric": "that"},
+                                        {"beat": 1, "length": 2, "step": -2, "lyric": "saved"},
+                                        {"beat": 3, "length": 0.5, "step": 2, "lyric": "a"},
+                                        {"beat": 3.5, "length": 0.5, "step": -2}
+                                    ]
+                                },
+                                "questions": [{"en": "Did your vowels match the partner's?"}, {"en": "Did your ends land with its ends?"}]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "di-4-lining",
+                    "title": {"en": "Lining out"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "In lining out, a leader sings a line and the group answers. The guide sings lines 1 and 3; you answer with 2 and 4, every word."},
+                            "steps": [
+                                {"title": {"en": "The leader"}, "detail": {"en": "Lines 1 and 3"}},
+                                {"title": {"en": "You"}, "detail": {"en": "Lines 2 and 4"}},
+                                {"title": {"en": "Every word"}, "detail": {"en": "Stress, vowels, ends"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Amazing Grace's first verse, taking turns with the guide."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -6, "lyric": "A-", "listenOnly": true},
+                                    {"beat": 1, "length": 2, "step": -1, "lyric": "maz-", "listenOnly": true},
+                                    {"beat": 3, "length": 0.5, "step": 3, "lyric": "ing", "listenOnly": true},
+                                    {"beat": 3.5, "length": 0.5, "step": -1, "listenOnly": true},
+                                    {"beat": 4, "length": 2, "step": 3, "lyric": "grace,", "listenOnly": true},
+                                    {"beat": 6, "length": 1, "step": 1, "lyric": "how", "listenOnly": true},
+                                    {"beat": 7, "length": 2, "step": -1, "lyric": "sweet", "listenOnly": true},
+                                    {"beat": 9, "length": 1, "step": -4, "lyric": "the", "listenOnly": true},
+                                    {"beat": 10, "length": 1, "step": -6, "lyric": "sound", "listenOnly": true},
+                                    {"beat": 12, "length": 1, "step": -6, "lyric": "that"},
+                                    {"beat": 13, "length": 2, "step": -1, "lyric": "saved"},
+                                    {"beat": 15, "length": 0.5, "step": 3, "lyric": "a"},
+                                    {"beat": 15.5, "length": 0.5, "step": -1},
+                                    {"beat": 16, "length": 2, "step": 3, "lyric": "wretch"},
+                                    {"beat": 18, "length": 0.25, "step": 1, "lyric": "like"},
+                                    {"beat": 19, "length": 4, "step": 6, "lyric": "me."},
+                                    {"beat": 24, "length": 1, "step": 3, "lyric": "I", "listenOnly": true},
+                                    {"beat": 25, "length": 2, "step": 6, "lyric": "once", "listenOnly": true},
+                                    {"beat": 27, "length": 0.5, "step": 3, "lyric": "was", "listenOnly": true},
+                                    {"beat": 27.5, "length": 0.5, "step": 6, "listenOnly": true},
+                                    {"beat": 28, "length": 2, "step": 3, "lyric": "lost,", "listenOnly": true},
+                                    {"beat": 30, "length": 1, "step": 1, "lyric": "but", "listenOnly": true},
+                                    {"beat": 31, "length": 2, "step": -1, "lyric": "now", "listenOnly": true},
+                                    {"beat": 33, "length": 1, "step": -4, "lyric": "am", "listenOnly": true},
+                                    {"beat": 34, "length": 1, "step": -6, "lyric": "found,", "listenOnly": true},
+                                    {"beat": 36, "length": 1, "step": -6, "lyric": "was"},
+                                    {"beat": 37, "length": 2, "step": -1, "lyric": "blind"},
+                                    {"beat": 39, "length": 0.5, "step": 3, "lyric": "but"},
+                                    {"beat": 39.5, "length": 0.5, "step": -1},
+                                    {"beat": 40, "length": 2, "step": 3, "lyric": "now"},
+                                    {"beat": 42, "length": 0.25, "step": 1, "lyric": "I"},
+                                    {"beat": 43, "length": 5, "step": -1, "lyric": "see."}
+                                ],
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        }
+                    ]
+                },
+                {
+                    "id": "di-4-challenge",
+                    "title": {"en": "Every word, heard"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Lesson 1's line to hear how far you've come, then Shenandoah's first two lines, every word for the back of the room."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
+                                {"title": {"en": "Two lines"}, "detail": {"en": "Stress, pure vowels, the n on the note"}},
+                                {"title": {"en": "Not louder"}, "detail": {"en": "Clearer"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lesson 1's line."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -5, "lyric": "A-"},
+                                    {"beat": 1, "length": 2, "step": 0, "lyric": "maz-"},
+                                    {"beat": 3, "length": 0.5, "step": 4, "lyric": "ing"},
+                                    {"beat": 3.5, "length": 0.5, "step": 0},
+                                    {"beat": 4, "length": 1.25, "step": 4, "lyric": "grace,"},
+                                    {"beat": 6, "length": 1, "step": 2, "lyric": "how"},
+                                    {"beat": 7, "length": 2, "step": 0, "lyric": "sweet"},
+                                    {"beat": 9, "length": 1, "step": -3, "lyric": "the"},
+                                    {"beat": 10, "length": 1, "step": -5, "lyric": "sound"}
+                                ],
+                                "turn": false,
+                                "thenAndNow": "di.first-line"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Shenandoah's first line, then hear it with the words hidden."},
+                            "exercise": {
+                                "tempo": 72,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 1, "step": -7, "lyric": "Oh"},
+                                        {"beat": 1, "length": 0.5, "step": -2, "lyric": "Shen-"},
+                                        {"beat": 1.5, "length": 0.5, "step": -2, "lyric": "an-"},
+                                        {"beat": 2, "length": 1.5, "step": -2, "lyric": "doah,"},
+                                        {"beat": 3.5, "length": 0.5, "step": 0, "lyric": "I"},
+                                        {"beat": 4, "length": 0.5, "step": 2, "lyric": "long"},
+                                        {"beat": 4.5, "length": 0.5, "step": 3, "lyric": "to"},
+                                        {"beat": 5, "length": 0.5, "step": 7, "lyric": "hear"},
+                                        {"beat": 5.5, "length": 1.75, "step": 5, "lyric": "you,"}
+                                    ]
+                                },
+                                "questions": [{"en": "Could a stranger write the line down?"}, {"en": "Did your jaw stay loose?"}]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shenandoah's first two lines."},
+                            "exercise": {
+                                "tempo": 63,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -12, "lyric": "Oh"},
+                                    {"beat": 1, "length": 0.5, "step": -7, "lyric": "Shen-"},
+                                    {"beat": 1.5, "length": 0.5, "step": -7, "lyric": "an-"},
+                                    {"beat": 2, "length": 1.5, "step": -7, "lyric": "doah,"},
+                                    {"beat": 3.5, "length": 0.5, "step": -5, "lyric": "I"},
+                                    {"beat": 4, "length": 0.5, "step": -3, "lyric": "long"},
+                                    {"beat": 4.5, "length": 0.5, "step": -2, "lyric": "to"},
+                                    {"beat": 5, "length": 0.5, "step": 2, "lyric": "hear"},
+                                    {"beat": 5.5, "length": 1.75, "step": 0, "lyric": "you,"},
+                                    {"beat": 8, "length": 0.5, "step": 5, "lyric": "A-"},
+                                    {"beat": 8.5, "length": 0.5, "step": 4},
+                                    {"beat": 9, "length": 1.5, "step": 2, "lyric": "way,"},
+                                    {"beat": 10.5, "length": 0.5, "step": 0, "lyric": "you"},
+                                    {"beat": 11, "length": 1, "step": 2, "lyric": "roll-"},
+                                    {"beat": 12, "length": 1, "step": 0, "lyric": "ing"},
+                                    {"beat": 13, "length": 1, "step": -3, "lyric": "riv-"},
+                                    {"beat": 14, "length": 1.25, "step": 0, "lyric": "er."}
+                                ],
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
