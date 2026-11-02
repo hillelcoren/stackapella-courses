@@ -465,13 +465,12 @@ def b_4_challenge():
     return {
         "id": "belting-4-challenge", "title": EN("Your calls"), "challenge": True,
         "steps": [
-            first("Lesson 1's call beside today's, then the round and the crew's answer, with the other voices.",
-                  [("Then and now", "Which is easier?"), ("Two songs", "Hey, ho and Way, haul away")]),
+            first("Lesson 1's call beside today's, then the round, with another voice coming in.",
+                  [("Then and now", "Which is easier?"), ("The round", "Hey, ho, nobody home")]),
             warmup("brr"),
             play("Lesson 1's call.", ex(calls([[("hey!", 2), ("", -1)]] * 3, "oo"), thenAndNow="belting.first-call"), CALLS),
             selfcheck("Hear both back.", model, ["Which sounded easier, then or now?"]),
             play("\"Hey, ho, nobody home\", with the round's next voice.", song_line("hey-ho-nobody-home", 0, partners=("alto",), light="brr"), CALLS),
-            play("\"Way, haul away\", with the crew.", song_line("haul-away-joe", 1, count=4, partners=("alto", "tenor", "bass"), light="brr"), CALLS),
         ],
     }
 

@@ -1482,10 +1482,10 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's call beside today's, then the round and the crew's answer, with the other voices."},
+                            "headline": {"en": "Lesson 1's call beside today's, then the round, with another voice coming in."},
                             "steps": [
                                 {"title": {"en": "Then and now"}, "detail": {"en": "Which is easier?"}},
-                                {"title": {"en": "Two songs"}, "detail": {"en": "Hey, ho and Way, haul away"}},
+                                {"title": {"en": "The round"}, "detail": {"en": "Hey, ho, nobody home"}},
                                 {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
                             ],
                             "visual": "phrase",
@@ -1578,68 +1578,6 @@
                                         "notes": [
                                             {"beat": 4, "length": 2, "step": 2, "lyric": "Hey"},
                                             {"beat": 6, "length": 2, "step": 0, "lyric": "ho"}
-                                        ],
-                                        "volume": 0.45
-                                    }
-                                ]
-                            },
-                            "measures": {"en": "Scored on each call and its light tail on pitch and on the beat. Pitch and timing only: the app can't hear brightness, loudness or strain."}
-                        },
-                        {
-                            "kind": "play",
-                            "text": {"en": "\"Way, haul away\", with the crew."},
-                            "exercise": {
-                                "tempo": 80,
-                                "notes": [
-                                    {"beat": 0.0, "length": 1.0, "step": 2, "lyric": "Way,"},
-                                    {"beat": 1.0, "length": 0.75, "step": 2, "lyric": "haul"},
-                                    {"beat": 1.75, "length": 0.25, "step": 0, "lyric": "a-"},
-                                    {"beat": 2.0, "length": 2.0, "step": -3, "lyric": "way,"},
-                                    {"beat": 7.5, "length": 0.5, "step": 4, "lyric": "brr"},
-                                    {"beat": 8.0, "length": 0.5, "step": 2},
-                                    {"beat": 8.5, "length": 0.5, "step": 0},
-                                    {"beat": 9.0, "length": 1, "step": -2}
-                                ],
-                                "turn": true,
-                                "keyRange": {"down": 4, "up": 0},
-                                "retries": 3,
-                                "with": [
-                                    {
-                                        "notes": [
-                                            {"beat": 0.0, "length": 1.0, "step": -7, "lyric": "Way,"},
-                                            {"beat": 1.0, "length": 0.75, "step": -8, "lyric": "haul"},
-                                            {"beat": 1.75, "length": 0.25, "step": -8, "lyric": "a-"},
-                                            {"beat": 2.0, "length": 2.0, "step": -7, "lyric": "way,"},
-                                            {"beat": 4.0, "length": 0.75, "step": -8, "lyric": "haul"},
-                                            {"beat": 4.75, "length": 0.25, "step": -8, "lyric": "a-"},
-                                            {"beat": 5.0, "length": 1.0, "step": -12, "lyric": "way,"},
-                                            {"beat": 6.0, "length": 0.5, "step": -7, "lyric": "Joe."}
-                                        ],
-                                        "volume": 0.45
-                                    },
-                                    {
-                                        "notes": [
-                                            {"beat": 0.0, "length": 1.0, "step": -15, "lyric": "Way,"},
-                                            {"beat": 1.0, "length": 0.75, "step": -12, "lyric": "haul"},
-                                            {"beat": 1.75, "length": 0.25, "step": -12, "lyric": "a-"},
-                                            {"beat": 2.0, "length": 2.0, "step": -12, "lyric": "way,"},
-                                            {"beat": 4.0, "length": 0.75, "step": -12, "lyric": "haul"},
-                                            {"beat": 4.75, "length": 0.25, "step": -12, "lyric": "a-"},
-                                            {"beat": 5.0, "length": 1.0, "step": -12, "lyric": "way,"},
-                                            {"beat": 6.0, "length": 0.5, "step": -15, "lyric": "Joe."}
-                                        ],
-                                        "volume": 0.45
-                                    },
-                                    {
-                                        "notes": [
-                                            {"beat": 0.0, "length": 1.0, "step": -22, "lyric": "Way,"},
-                                            {"beat": 1.0, "length": 0.75, "step": -24, "lyric": "haul"},
-                                            {"beat": 1.75, "length": 0.25, "step": -24, "lyric": "a-"},
-                                            {"beat": 2.0, "length": 2.0, "step": -19, "lyric": "way,"},
-                                            {"beat": 4.0, "length": 0.75, "step": -24, "lyric": "haul"},
-                                            {"beat": 4.75, "length": 0.25, "step": -24, "lyric": "a-"},
-                                            {"beat": 5.0, "length": 1.0, "step": -27, "lyric": "way,"},
-                                            {"beat": 6.0, "length": 0.5, "step": -22, "lyric": "Joe."}
                                         ],
                                         "volume": 0.45
                                     }

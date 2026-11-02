@@ -305,7 +305,7 @@ def mt_3_bright():
     return {
         "id": "mt-3-bright", "title": EN("Bright, like talking"),
         "steps": [
-            learn("Say the line as if calling to a friend across a room, at speaking volume, then sing it that way. Bright is not belt: belt is for later, with a teacher.",
+            learn("Say the line as if calling to a friend across a room, at speaking volume, then sing it that way. Bright is not belt. First steps to belting is the first step; full belt is for later, with a teacher.",
                   [("Call across the room", "Speaking volume, speech vowels"), ("Then sing it", "Near your comfortable note"), ("Stop if", "It scratches or tickles: sing it the legit way")]),
             play("The line, bright and easy, over the chords.", ex, "Scored on your notes on pitch and on the beat."),
             selfcheck("Once more, then hear yours beside the guide's.", line,
