@@ -152,9 +152,36 @@ def stave(where, staff, notes):
         problem(where, f"a {staff['time']} line fills whole bars: it ends at beat {end:g}")
 
 
+def whole(value, low, high):
+    return isinstance(value, int) and not isinstance(value, bool) and low <= value <= high
+
+
+def limits(where, ex):
+    """A play exercise's keyRange { down, up } (0 to 12) and retries (1 to 10): steps.json play.fields."""
+    if "keyRange" in ex:
+        key_range = ex["keyRange"]
+        if not isinstance(key_range, dict) or not key_range:
+            problem(where, "keyRange must be { down, up }")
+        else:
+            for key, value in key_range.items():
+                if key not in ("down", "up"):
+                    problem(where, f"unknown keyRange field '{key}'")
+                elif not whole(value, 0, 12):
+                    problem(where, f"keyRange {key} must be a whole number, 0 to 12")
+    if "retries" in ex and not whole(ex["retries"], 1, 10):
+        problem(where, "retries must be a whole number, 1 to 10")
+
+
+def daily_cap(where, cap):
+    """A course's dailyCap { minutes } (1 to 60): steps.json courseDailyCap."""
+    if not isinstance(cap, dict) or set(cap) != {"minutes"} or not whole(cap["minutes"], 1, 60):
+        problem(where, "dailyCap must be { minutes }, a whole number of minutes, 1 to 60")
+
+
 def exercise(where, ex, spec, web_only, clip_ids):
     if spec == "play":
         known(where + " exercise", ex, FORMAT["play"]["fields"])
+        limits(where, ex)
         staff = ex.get("staff")
         if staff is not None:
             stave(where, staff, ex.get("notes") or [])
@@ -268,10 +295,31 @@ def variant(where, key, value, lesson):
     return True
 
 
+GAME_RULES = {"replayXp": bool, "combo": bool, "streak": bool, "meter": str}
+
+
+def game_rules(where, game):
+    """A course's game-mode rules (steps.json courseGame): only these keys, booleans, meter "plain"."""
+    if not isinstance(game, dict):
+        problem(where, "game must be an object")
+        return
+    for key, value in game.items():
+        if key not in GAME_RULES:
+            problem(where, f"unknown game rule '{key}'")
+        elif not isinstance(value, GAME_RULES[key]):
+            problem(where, f"game {key} must be {GAME_RULES[key].__name__}")
+    if "meter" in game and game["meter"] != "plain":
+        problem(where, "game meter's only value is \"plain\"")
+
+
 def course(path, seen, clip_ids, unplayable, facts):
     data = json.loads(path.read_text())
     name = path.relative_to(ROOT / "course")
     known(str(name), data, FORMAT["course"])
+    if "game" in data:
+        game_rules(str(name), data["game"])
+    if "dailyCap" in data:
+        daily_cap(str(name), data["dailyCap"])
     lessons = 0
     kept = set()  # Then and now: the ids kept so far in this course, lesson by lesson
     for unit in data.get("units", []):
@@ -283,6 +331,8 @@ def course(path, seen, clip_ids, unplayable, facts):
             lid = lesson.get("id", "?")
             where = f"{name} {lid}"
             known(where, lesson, FORMAT["lesson"])
+            if "quiet" in lesson and not isinstance(lesson["quiet"], bool):
+                problem(where, "quiet must be true or false")
             if lid in seen:
                 problem(where, "lesson id used twice")
             seen.add(lid)

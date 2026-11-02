@@ -13,7 +13,7 @@ What's scored is only what pitch shows: the notes on pitch and on the beat, and 
 (`lock`). Brightness, loudness and strain are self-checks on the singer's playback.
 
 The app's three Belting features (a daily cap, a lower-only key, a retry cap) are written in once
-they're in the course format: set FEATURES = True then.
+they're in the course format: set FEATURES = True then. Game mode's rules (GAME) are in already.
 
     python3 -I tools/fb_course.py && python3 -I tools/coursefmt.py course/plus/belting/course.json
 """
@@ -27,7 +27,8 @@ OUT = REPO / "course/plus/belting/course.json"
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from breaths import add_breaths  # noqa: E402
 
-FEATURES = False  # dailyCap, keyRange and retries: on once the frontend's features are in the format
+FEATURES = True  # dailyCap, keyRange and retries (in the format since main 096ca8e4)
+GAME = True  # game mode's rules and the spiritual's quiet lesson (in the format since main dd133c6c)
 
 BANNED = re.compile(r"\b(stars?|starring|loud(er|ly)?|power(ful)?|strong(er)?|push(ing)? it)\b|—|–", re.I)
 ALLOWED_LOUD = ("Louder than talking?", "as loud as you'd call", "without being any louder", "without being loud", "not a shout")
@@ -486,6 +487,7 @@ course = {
 }
 if FEATURES:
     course["dailyCap"] = {"minutes": 10}
+if GAME:
     course["game"] = {"replayXp": False, "combo": False, "streak": False, "meter": "plain"}
     next(l for u in course["units"] for l in u["lessons"] if l["id"] == "belting-4-wade")["quiet"] = True
 

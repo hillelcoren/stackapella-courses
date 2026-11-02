@@ -20,7 +20,9 @@
         "version",
         "reviewed",
         "title",
-        "units"
+        "units",
+        "game",
+        "dailyCap"
     ],
     "unit": [
         "id",
@@ -45,7 +47,8 @@
         "unscored",
         "minutes",
         "endLine",
-        "variants"
+        "variants",
+        "quiet"
     ],
     "lessonExtras": {
         "about": "Lesson fields an app may leave out without breaking the lesson: a lesson that has one still plays, so neither makes it web-only. docs/ux-spec.md says how each is shown.",
@@ -288,7 +291,9 @@
             "song": "{ template, part, phrases, with? }: the notes come from that song's part in those phrases (from 0, every section's in order), loaded with the song so a Plus song's notes stay private; with: others plays the other parts as partner lines. With turn: false the guide sings your line with you, unless guide: false; without others, the song's chords play under you. An exercise has song or notes, never both (a song course, course/songs: docs/song-courses-plan.md)",
             "tuning": "true: the ring meter shows while a note of a beat or more is held in the step's chord (its chords, or its drone as the root): how close it is to pure, not just the piano's pitch (js/tuning.js ringReading, ux-spec 5.10c). A view only, never scored; hidden through a speaker.",
             "staff": "{ names: on | faint | off, look: seconds }: the line drawn on a stave instead of the lane, in the key whose do is the singer's note, the clef from its range; names under the notes in the singer's chosen style (solfege by default), faint, or none; look: seconds it shows still before it runs, counted on the audio clock (Sight-singing: docs/sight-singing-plan.md); count: count-in beats in the time's own beat (0 to 8; 6/8 counts dotted quarters); time: \"4/4\" | \"3/4\" | \"2/4\" | \"6/8\" (default 4/4; notes stay in quarter-note beats, and a line fills whole bars); rhythm: true also scores when each note starts (pitch 70, timing 30, pitch alone when timing can't be read)",
-            "hearFirst": "true: \"Hear it first\" is offered before the take; a take after hearing it is capped just under the top score, and the result says so"
+            "hearFirst": "true: \"Hear it first\" is offered before the take; a take after hearing it is capped just under the top score, and the result says so",
+            "keyRange": "{ down, up }: how far \"Not in your range?\" may move the key from the line as written, in semitones (whole numbers, 0 to 12); up 0 hides Higher. It applies to the whole lesson, the tightest across its steps; a remembered key is held inside it (First steps to belting: { \"down\": 4, \"up\": 0 })",
+            "retries": "a whole number, 1 to 10: after that many heard takes in a visit, Sing it again, the more-stars offer and the guide take go, and the way on says \"Good enough: move on\" (First steps to belting: 3)"
         },
         "webOnly": [
             "score",
@@ -310,7 +315,9 @@
             "song",
             "tuning",
             "staff",
-            "hearFirst"
+            "hearFirst",
+            "keyRange",
+            "retries"
         ]
     },
     "note": {
@@ -389,5 +396,8 @@
         ]
     },
     "lessonUnscored": "unscored: true makes a lesson practice only: no stars, no XP, no progress or practice record, and its end shows endLine (words) in place of a score; minutes says how long it takes. Every wave target in it is scored: false, and it has no play, record or use step (the cool-down, course/cooldown.json).",
-    "lessonVariants": "variants: { \"<experiment id>-<arm>\": { steps, minutes? } }: in an A/B test (docs/experiments.md), a device drawn into that arm gets these steps in place of the lesson's; everything else (id, title, findsHome) stays the lesson's, and arm a or a device not drawn gets the lesson as written. The id must be in course/format/experiments.json. Removing the losing arm is deleting the variant, or moving its steps into the lesson."
+    "lessonVariants": "variants: { \"<experiment id>-<arm>\": { steps, minutes? } }: in an A/B test (docs/experiments.md), a device drawn into that arm gets these steps in place of the lesson's; everything else (id, title, findsHome) stays the lesson's, and arm a or a device not drawn gets the lesson as written. The id must be in course/format/experiments.json. Removing the losing arm is deleting the variant, or moving its steps into the lesson.",
+    "courseGame": "game: optional, game mode's rules for this course (First steps to belting's voice-health review: no game pressure); every field optional, absent = as everywhere. replayXp: false = a lesson already starred pays no XP when sung again (the first finish pays as usual); combo: false = no combo counter, bonus pop-ups or combo bonus XP on its steps; streak: false = its lesson ends show no streak chip and no Streak! burst; meter: \"plain\" (its only value) = its takes keep the plain bars, never game mode's power-bar or level-meter look. The lesson view applies them as one of the course's lessons opens and drops them as it closes, so every other course keeps everything.",
+    "lessonQuiet": "quiet: true = game mode's moments off for this lesson (no pop-ups, fanfares, title card or celebration); the arcade look stays. Optional, absent = false (First steps to belting's spiritual line).",
+    "courseDailyCap": "dailyCap: { minutes }: the course's lessons stop for the day after that many minutes (a whole number, 1 to 60), checked only as a lesson opens and counted only while one of its lessons is open and on screen, kept per day with the account (progress.courses.<id>.capDay); then the rest card (en.json course.dailyCap.*, which names belting: a second capped course needs its own words). First steps to belting: { \"minutes\": 10 }."
 }
