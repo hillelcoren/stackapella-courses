@@ -1,0 +1,54 @@
+{
+    "about": "The warm-ups the public warm-up player offers at /warmups/<id> (docs/seo-growth-plan.md item 8), reviewed by the courses lead. Each points at a course step for its notes (from: course id, lesson id, step index; never a copy), with `pattern` (its notes in semitones from the first, repeats kept) so the course check fails if that step changes. `bounds` keep every note, as climbed, between `low` and `high` semitones from the singer's comfortable note (or inside a saved range, whichever is narrower). `tempo` and `climb` (semitones up from the start, then back down) give the player's choices and defaults. Words are { en }.",
+    "version": 1,
+    "warmups": [
+        {
+            "id": "lip-trills",
+            "name": {"en": "Lip trills"},
+            "from": {"course": "breath", "lesson": "br-2-hill", "step": 2},
+            "pattern": [0, 2, 4, 5, 7, 5, 4, 2, 0],
+            "sound": "trill",
+            "instruction": {"en": "Close your lips loosely and blow so they flutter, \"brr\", then let your voice ride the trill up five notes and back down. Can't trill? Hum instead."},
+            "bounds": {"low": -5, "high": 11},
+            "tempo": {"min": 60, "max": 96, "default": 72},
+            "climb": {"default": 4, "max": 4},
+            "stop": {"en": "Breathe normally between rounds. Stop if you feel light-headed or if anything tightens."}
+        },
+        {
+            "id": "humming-scale",
+            "name": {"en": "Humming scale"},
+            "from": {"course": "range-and-registers", "lesson": "range-2-find", "step": 1},
+            "pattern": [0, 2, 4, 2, 0],
+            "sound": "hum",
+            "instruction": {"en": "Hum on \"mm\" with your lips lightly closed and your teeth apart: three notes up and back, feeling a buzz on your lips."},
+            "bounds": {"low": -5, "high": 9},
+            "tempo": {"min": 60, "max": 96, "default": 80},
+            "climb": {"default": 5, "max": 5},
+            "stop": {"en": "Keep it soft and easy. Stop if anything tightens or scratches."}
+        },
+        {
+            "id": "oo-scale",
+            "name": {"en": "Three notes on oo"},
+            "from": {"course": "free", "lesson": "1-challenge", "step": 0},
+            "pattern": [0, 2, 4, 2, 0],
+            "sound": "oo",
+            "instruction": {"en": "Sing \"oo\" softly, three notes up and back down, landing each note before you move on."},
+            "bounds": {"low": -5, "high": 9},
+            "tempo": {"min": 56, "max": 88, "default": 66},
+            "climb": {"default": 5, "max": 5},
+            "stop": {"en": "A medium volume, the middle of your voice. Stop if anything tightens."}
+        },
+        {
+            "id": "do-mi-so",
+            "name": {"en": "Do, mi, so"},
+            "from": {"course": "free", "lesson": "3-jumps", "step": 1},
+            "pattern": [0, 4, 7, 4, 0],
+            "sound": "ah",
+            "instruction": {"en": "Sing do, mi, so and back down: the notes of a major chord, one at a time. Aim for each note cleanly, without sliding up into it."},
+            "bounds": {"low": -5, "high": 9},
+            "tempo": {"min": 60, "max": 96, "default": 72},
+            "climb": {"default": 2, "max": 2},
+            "stop": {"en": "Light on the top note. Stop if anything tightens or scratches."}
+        }
+    ]
+}

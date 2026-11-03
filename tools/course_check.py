@@ -422,6 +422,60 @@ def check_steps(where, steps, path, clip_ids, kept):
     return flutter
 
 
+WARMUP_SOUNDS = ("ah", "ee", "oo", "oh", "hum", "trill")  # js/warmup.js SOUNDS
+
+
+def warmups():
+    """The public warm-up player's list (course/warmups.json): each entry's course step exists and
+    still has its `pattern`, every note stays inside `bounds` at the full climb, and the tempo,
+    climb and sound are inside the warm-up engine's limits (js/warmup.js LIMITS)."""
+    path = ROOT / "course" / "warmups.json"
+    if not path.exists():
+        return
+    data = json.loads(path.read_text())
+    catalogue = json.loads((ROOT / "course" / "plus" / "courses.json").read_text())["courses"]
+    files = {c["id"]: ROOT / "course" / "plus" / c["file"] for c in catalogue if c.get("file")}
+    files["free"] = ROOT / "course" / "course.json"
+    ids = set()
+    for w in data.get("warmups", []):
+        where = f"warmups.json {w.get('id')}"
+        if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", str(w.get("id", ""))) or w["id"] in ids:
+            problem(where, "id must be a unique kebab-case slug")
+        ids.add(w.get("id"))
+        for key in ("name", "instruction", "stop"):
+            if not isinstance(w.get(key), dict) or not w[key].get("en"):
+                problem(where, f"{key} needs its English words")
+            else:
+                words(where + " " + key, w[key])
+        if w.get("sound") not in WARMUP_SOUNDS:
+            problem(where, f"sound must be one of {', '.join(WARMUP_SOUNDS)}")
+        src = w.get("from", {})
+        f = files.get(src.get("course"))
+        if f is None or not f.exists():
+            problem(where, f"course '{src.get('course')}' isn't a course file")
+            continue
+        lesson = next((l for u in json.loads(f.read_text())["units"] for l in u["lessons"] if l["id"] == src.get("lesson")), None)
+        steps = lesson.get("steps", []) if lesson else []
+        if not isinstance(src.get("step"), int) or not 0 <= src["step"] < len(steps):
+            problem(where, f"lesson '{src.get('lesson')}' has no step {src.get('step')}")
+            continue
+        notes = sorted((steps[src["step"]].get("exercise") or {}).get("notes") or [], key=lambda n: n["beat"])
+        if not 3 <= len(notes) <= 16:
+            problem(where, "its step needs 3 to 16 notes, as a warm-up does")
+            continue
+        pattern = [n["step"] - notes[0]["step"] for n in notes]
+        if pattern != w.get("pattern"):
+            problem(where, f"its step's notes are now {pattern}, not the pattern {w.get('pattern')}: the course changed, so check the warm-up again")
+        tempo, climb, bounds = w.get("tempo", {}), w.get("climb", {}), w.get("bounds", {})
+        if not (50 <= tempo.get("min", 0) <= tempo.get("default", 0) <= tempo.get("max", 0) <= 120):
+            problem(where, "tempo needs min <= default <= max, all from 50 to 120")
+        if not (0 <= climb.get("default", -1) <= climb.get("max", -1) <= 7):
+            problem(where, "climb needs 0 <= default <= max <= 7")
+        low, high = notes[0]["step"] + min(pattern), notes[0]["step"] + max(pattern) + climb.get("max", 0)
+        if not (isinstance(bounds.get("low"), int) and isinstance(bounds.get("high"), int)) or low < bounds["low"] or high > bounds["high"]:
+            problem(where, f"its notes run from {low:+d} to {high:+d} at the full climb, outside its bounds")
+
+
 def main():
     seen, unplayable, facts = set(), {}, {}
     clips_path = ROOT / "course" / "plus" / "clips.json"
@@ -445,6 +499,7 @@ def main():
             shared = fa["tokens"] & fb["tokens"]
             if fa.get("course") != fb.get("course") and len(shared) >= 2 and b not in fa["distinct"] and a not in fb["distinct"]:
                 problem(fb["where"], f"fact '{b}' looks like '{a}' ({fa['where']}), sharing {', '.join(sorted(shared))}: tell it in one course, or list it in distinct")
+    warmups()
     for f in files:
         if not f.exists():
             problem(str(f.relative_to(ROOT)), "the catalogue names a file that isn't there")
