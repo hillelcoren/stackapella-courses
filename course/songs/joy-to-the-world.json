@@ -1,0 +1,981 @@
+{
+    "id": "song-joy-to-the-world",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Joy to the World"},
+    "units": [
+        {
+            "id": "song-joy-to-the-world-soprano",
+            "title": {"en": "The melody"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-joy-to-the-world-soprano-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Joy to the World: hear the whole song first, then the tune on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own."},
+                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "jttw-modern-psalmist", "text": {"en": "Lowell Mason first printed this tune, which he called Antioch, in 1839; there the tenor and bass simply rest while the tune sings \"And heaven and nature sing\"."}, "source": {"en": "Lowell Mason, The Modern Psalmist (Boston: Wilkins and Carter, 1839), p. 144, read from the scan"}, "url": "https://archive.org/details/modernpsalmistco00maso"}
+                },
+                {
+                    "id": "song-joy-to-the-world-soprano-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-soprano-3",
+                    "title": {"en": "Lines 3 to 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 to 5 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [2, 3, 4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-soprano-4",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-soprano-5",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-soprano-6",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-soprano-7",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of Joy to the World in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "joy-to-the-world", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "jttw-echo", "text": {"en": "By 1848 Mason's printing has the tenor and bass come in a bar behind on \"And heav'n and nature sing\", the echo choirs still sing today."}, "source": {"en": "Lowell Mason and George James Webb, The National Psalmist (Boston, 1848), p. 132, read from the scan"}, "url": "https://archive.org/details/nationalpsalmist00maso"}
+                }
+            ]
+        },
+        {
+            "id": "song-joy-to-the-world-alto",
+            "title": {"en": "Alto"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-joy-to-the-world-alto-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Joy to the World: hear the whole song first, then the alto part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own."},
+                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-alto-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-alto-3",
+                    "title": {"en": "Lines 3 to 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 to 5 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [2, 3, 4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-alto-4",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-alto-5",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-alto-6",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-alto-7",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of Joy to the World in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "joy-to-the-world", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-joy-to-the-world-bass",
+            "title": {"en": "Bass"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-joy-to-the-world-bass-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Joy to the World: hear the whole song first, then the bass part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own."},
+                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-bass-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-bass-3",
+                    "title": {"en": "Lines 3 to 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 to 5 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [2, 3, 4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-bass-4",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-bass-5",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-bass-6",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-bass-7",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of Joy to the World in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "joy-to-the-world", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-joy-to-the-world-tenor",
+            "title": {"en": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-joy-to-the-world-tenor-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Joy to the World: hear the whole song first, then the tenor part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own."},
+                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-tenor-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-tenor-3",
+                    "title": {"en": "Lines 4 and 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-tenor-4",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 3, 4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-tenor-5",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-tenor-6",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "joy-to-the-world",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-joy-to-the-world-tenor-7",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of Joy to the World in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "joy-to-the-world", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
