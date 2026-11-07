@@ -1,0 +1,2280 @@
+{
+ "id": "hark-the-herald",
+ "version": 1,
+ "reviewed": false,
+ "title": "Hark! The Herald Angels Sing",
+ "description": "Charles Wesley's Christmas hymn to Mendelssohn's tune, in the four parts of Hymns Ancient and Modern, for 2 to 4 singers: the first verse with its refrain, bright and festive, every line one easy breath.",
+ "language": "en",
+ "difficulty": "beginner",
+ "genre": [
+  "hymn",
+  "christmas"
+ ],
+ "style": "straight",
+ "tempo": 92,
+ "key": "G",
+ "timeSignature": "4/4",
+ "pickupBeats": 0,
+ "credits": {
+  "words": "Charles Wesley (1739), altered by George Whitefield (1753) and others",
+  "tune": "Felix Mendelssohn (1840), adapted by William H. Cummings (1856)",
+  "arrangement": "Hymns Ancient and Modern (1875), adapted by Stackapella"
+ },
+ "licence": {
+  "words": "public domain: Wesley died 1788, Whitefield 1770",
+  "tune": "public domain: Mendelssohn died 1847, Cummings 1915",
+  "arrangement": "the four parts of Hymns Ancient and Modern (public domain: published 1875; its music editor W. H. Monk died 1889): its tune, alto, tenor and bass, with the bass an octave lower where it rises above a beginner bass, some notes of the alto, tenor and bass changed so each part moves easily and the chords keep their thirds, the last two lines sung to the hymnal's own parts for the same music two lines before (it prints them for organ there), and breaths written in for beginners",
+  "recordings": "synthesized guides",
+  "checked": null,
+  "source": "Hymns Ancient and Modern, for use in the services of the Church, with accompanying tunes, ed. W. H. Monk (London: William Clowes and Sons; the standard edition of 1875, this copy printed 1889), Hymn 60, \"Mendelssohn\", pp. 76 to 77, in G, printed in minims (4/2) and written here in crotchets (4/4); verse 1 as printed on p. 77; the Amen left out; read from Princeton Theological Seminary Library's copy at archive.org/details/hmode00chur (scan pages n113 and n114), and checked against the 1875 printing of the same plates at archive.org/details/hymnsanci00chur (n111 and n112)"
+ },
+ "order": [
+  "soprano",
+  "alto",
+  "bass",
+  "tenor"
+ ],
+ "voicings": {
+  "2": [
+   "soprano",
+   "alto"
+  ],
+  "3": [
+   "soprano",
+   "alto",
+   "bass"
+  ],
+  "4": [
+   "soprano",
+   "alto",
+   "tenor",
+   "bass"
+  ]
+ },
+ "sections": [
+  {
+   "name": "Verse 1",
+   "startBeat": 0,
+   "endBeat": 64,
+   "phrases": [
+    [
+     0,
+     8
+    ],
+    [
+     8,
+     16
+    ],
+    [
+     16,
+     24
+    ],
+    [
+     24,
+     32
+    ],
+    [
+     32,
+     40
+    ],
+    [
+     40,
+     48
+    ],
+    [
+     48,
+     56
+    ],
+    [
+     56,
+     64
+    ]
+   ]
+  },
+  {
+   "name": "Refrain",
+   "startBeat": 64,
+   "endBeat": 80,
+   "phrases": [
+    [
+     64,
+     72
+    ],
+    [
+     72,
+     80
+    ]
+   ]
+  }
+ ],
+ "chords": [
+  {
+   "beat": 0,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 3.5,
+   "root": 2,
+   "quality": "dom7",
+   "bass": 0
+  },
+  {
+   "beat": 4,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
+   "beat": 5,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 6,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 6.5,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 8,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
+   "beat": 9,
+   "root": 11,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 10,
+   "root": 0,
+   "quality": "add9",
+   "bass": null
+  },
+  {
+   "beat": 11.5,
+   "root": 9,
+   "quality": "min",
+   "bass": 0
+  },
+  {
+   "beat": 12,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 13,
+   "root": 2,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 14,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 16,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 19.5,
+   "root": 2,
+   "quality": "dom7",
+   "bass": 0
+  },
+  {
+   "beat": 20,
+   "root": 4,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 21,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 22,
+   "root": 9,
+   "quality": "dom7",
+   "bass": 1
+  },
+  {
+   "beat": 24,
+   "root": 11,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 25,
+   "root": 9,
+   "quality": "maj",
+   "bass": 1
+  },
+  {
+   "beat": 26,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 28,
+   "root": 7,
+   "quality": "maj7",
+   "bass": null
+  },
+  {
+   "beat": 29,
+   "root": 9,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 30,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 32,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 35,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
+   "beat": 36,
+   "root": 2,
+   "quality": "dom7",
+   "bass": 6
+  },
+  {
+   "beat": 37,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 38,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 38.5,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 40,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 43,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
+   "beat": 44,
+   "root": 2,
+   "quality": "dom7",
+   "bass": 6
+  },
+  {
+   "beat": 45,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 46,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 46.5,
+   "root": 2,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 48,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 51,
+   "root": 0,
+   "quality": "maj7",
+   "bass": null
+  },
+  {
+   "beat": 52,
+   "root": 9,
+   "quality": "min",
+   "bass": 0
+  },
+  {
+   "beat": 53,
+   "root": 4,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 54,
+   "root": 9,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 56,
+   "root": 2,
+   "quality": "dom7",
+   "bass": 0
+  },
+  {
+   "beat": 58,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
+   "beat": 59.5,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 60,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 61,
+   "root": 2,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 62,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 64,
+   "root": 0,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 67,
+   "root": 0,
+   "quality": "maj7",
+   "bass": null
+  },
+  {
+   "beat": 68,
+   "root": 9,
+   "quality": "min",
+   "bass": 0
+  },
+  {
+   "beat": 69,
+   "root": 4,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 70,
+   "root": 9,
+   "quality": "min",
+   "bass": null
+  },
+  {
+   "beat": 72,
+   "root": 2,
+   "quality": "dom7",
+   "bass": 0
+  },
+  {
+   "beat": 74,
+   "root": 7,
+   "quality": "maj",
+   "bass": 11
+  },
+  {
+   "beat": 75.5,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  },
+  {
+   "beat": 76,
+   "root": 7,
+   "quality": "maj",
+   "bass": 2
+  },
+  {
+   "beat": 77,
+   "root": 2,
+   "quality": "dom7",
+   "bass": null
+  },
+  {
+   "beat": 78,
+   "root": 7,
+   "quality": "maj",
+   "bass": null
+  }
+ ],
+ "parts": [
+  {
+   "key": "soprano",
+   "name": "Soprano",
+   "melody": true,
+   "range": {
+    "low": 62,
+    "high": 76
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Hark!",
+      "br": true
+     },
+     {
+      "beat": 1.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "the"
+     },
+     {
+      "beat": 2.0,
+      "length": 1.5,
+      "pitch": 67,
+      "lyric": "her-"
+     },
+     {
+      "beat": 3.5,
+      "length": 0.5,
+      "pitch": 66,
+      "lyric": "ald"
+     },
+     {
+      "beat": 4.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "an-"
+     },
+     {
+      "beat": 5.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "gels"
+     },
+     {
+      "beat": 6.0,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "sing"
+     },
+     {
+      "beat": 6.5,
+      "length": 0.5,
+      "pitch": 69
+     },
+     {
+      "beat": 8.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "Glo-",
+      "br": true
+     },
+     {
+      "beat": 9.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "ry"
+     },
+     {
+      "beat": 10.0,
+      "length": 1.5,
+      "pitch": 74,
+      "lyric": "to"
+     },
+     {
+      "beat": 11.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "the"
+     },
+     {
+      "beat": 12.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "new-"
+     },
+     {
+      "beat": 13.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "born"
+     },
+     {
+      "beat": 14.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "King,"
+     },
+     {
+      "beat": 16.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Peace",
+      "br": true
+     },
+     {
+      "beat": 17.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "on"
+     },
+     {
+      "beat": 18.0,
+      "length": 1.5,
+      "pitch": 67,
+      "lyric": "earth,"
+     },
+     {
+      "beat": 19.5,
+      "length": 0.5,
+      "pitch": 66,
+      "lyric": "and"
+     },
+     {
+      "beat": 20.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 21.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "cy"
+     },
+     {
+      "beat": 22.0,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "mild,"
+     },
+     {
+      "beat": 22.5,
+      "length": 0.5,
+      "pitch": 69
+     },
+     {
+      "beat": 24.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "God",
+      "br": true
+     },
+     {
+      "beat": 25.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "and"
+     },
+     {
+      "beat": 26.0,
+      "length": 1.5,
+      "pitch": 69,
+      "lyric": "sin-"
+     },
+     {
+      "beat": 27.5,
+      "length": 0.5,
+      "pitch": 66,
+      "lyric": "ners"
+     },
+     {
+      "beat": 28.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "re-"
+     },
+     {
+      "beat": 29.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "con-"
+     },
+     {
+      "beat": 30.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "ciled."
+     },
+     {
+      "beat": 32.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "Joy-",
+      "br": true
+     },
+     {
+      "beat": 33.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "ful,"
+     },
+     {
+      "beat": 34.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "all"
+     },
+     {
+      "beat": 35.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "ye"
+     },
+     {
+      "beat": 36.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "na-"
+     },
+     {
+      "beat": 37.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "tions,"
+     },
+     {
+      "beat": 38.0,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "rise,"
+     },
+     {
+      "beat": 38.5,
+      "length": 0.5,
+      "pitch": 69
+     },
+     {
+      "beat": 40.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "Join",
+      "br": true
+     },
+     {
+      "beat": 41.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "the"
+     },
+     {
+      "beat": 42.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "tri-"
+     },
+     {
+      "beat": 43.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "umph"
+     },
+     {
+      "beat": 44.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "of"
+     },
+     {
+      "beat": 45.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "the"
+     },
+     {
+      "beat": 46.0,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "skies;"
+     },
+     {
+      "beat": 46.5,
+      "length": 0.5,
+      "pitch": 69
+     },
+     {
+      "beat": 48.0,
+      "length": 1.0,
+      "pitch": 76,
+      "lyric": "With",
+      "br": true
+     },
+     {
+      "beat": 49.0,
+      "length": 1.0,
+      "pitch": 76,
+      "lyric": "th'an-"
+     },
+     {
+      "beat": 50.0,
+      "length": 1.0,
+      "pitch": 76,
+      "lyric": "gel-"
+     },
+     {
+      "beat": 51.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "ic"
+     },
+     {
+      "beat": 52.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "host"
+     },
+     {
+      "beat": 53.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "pro-"
+     },
+     {
+      "beat": 54.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "claim,"
+     },
+     {
+      "beat": 56.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "Christ",
+      "br": true
+     },
+     {
+      "beat": 57.0,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "is"
+     },
+     {
+      "beat": 57.5,
+      "length": 0.5,
+      "pitch": 72
+     },
+     {
+      "beat": 58.0,
+      "length": 1.5,
+      "pitch": 74,
+      "lyric": "born"
+     },
+     {
+      "beat": 59.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "in"
+     },
+     {
+      "beat": 60.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "Beth-"
+     },
+     {
+      "beat": 61.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "le-"
+     },
+     {
+      "beat": 62.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "hem."
+     },
+     {
+      "beat": 64.0,
+      "length": 1.5,
+      "pitch": 76,
+      "lyric": "Hark!",
+      "br": true
+     },
+     {
+      "beat": 65.5,
+      "length": 0.5,
+      "pitch": 76,
+      "lyric": "the"
+     },
+     {
+      "beat": 66.0,
+      "length": 1.0,
+      "pitch": 76,
+      "lyric": "her-"
+     },
+     {
+      "beat": 67.0,
+      "length": 1.0,
+      "pitch": 74,
+      "lyric": "ald"
+     },
+     {
+      "beat": 68.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "an-"
+     },
+     {
+      "beat": 69.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "gels"
+     },
+     {
+      "beat": 70.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "sing"
+     },
+     {
+      "beat": 72.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "Glo-",
+      "br": true
+     },
+     {
+      "beat": 73.0,
+      "length": 0.5,
+      "pitch": 71,
+      "lyric": "ry"
+     },
+     {
+      "beat": 73.5,
+      "length": 0.5,
+      "pitch": 72
+     },
+     {
+      "beat": 74.0,
+      "length": 1.5,
+      "pitch": 74,
+      "lyric": "to"
+     },
+     {
+      "beat": 75.5,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "the"
+     },
+     {
+      "beat": 76.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "new-"
+     },
+     {
+      "beat": 77.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "born"
+     },
+     {
+      "beat": 78.0,
+      "length": 2.0,
+      "pitch": 67,
+      "lyric": "King."
+     }
+    ]
+   }
+  },
+  {
+   "key": "alto",
+   "name": "Alto",
+   "range": {
+    "low": 59,
+    "high": 72
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Hark!",
+      "br": true
+     },
+     {
+      "beat": 1.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "the"
+     },
+     {
+      "beat": 2.0,
+      "length": 1.5,
+      "pitch": 62,
+      "lyric": "her-"
+     },
+     {
+      "beat": 3.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ald"
+     },
+     {
+      "beat": 4.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "an-"
+     },
+     {
+      "beat": 5.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "gels"
+     },
+     {
+      "beat": 6.0,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "sing"
+     },
+     {
+      "beat": 6.5,
+      "length": 0.5,
+      "pitch": 66
+     },
+     {
+      "beat": 8.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "Glo-",
+      "br": true
+     },
+     {
+      "beat": 9.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "ry"
+     },
+     {
+      "beat": 10.0,
+      "length": 1.5,
+      "pitch": 64,
+      "lyric": "to"
+     },
+     {
+      "beat": 11.5,
+      "length": 0.5,
+      "pitch": 69,
+      "lyric": "the"
+     },
+     {
+      "beat": 12.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "new-"
+     },
+     {
+      "beat": 13.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "born"
+     },
+     {
+      "beat": 14.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "King,"
+     },
+     {
+      "beat": 16.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Peace",
+      "br": true
+     },
+     {
+      "beat": 17.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "on"
+     },
+     {
+      "beat": 18.0,
+      "length": 1.5,
+      "pitch": 62,
+      "lyric": "earth,"
+     },
+     {
+      "beat": 19.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "and"
+     },
+     {
+      "beat": 20.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 21.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "cy"
+     },
+     {
+      "beat": 22.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "mild,"
+     },
+     {
+      "beat": 24.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "God",
+      "br": true
+     },
+     {
+      "beat": 25.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "and"
+     },
+     {
+      "beat": 26.0,
+      "length": 1.5,
+      "pitch": 66,
+      "lyric": "sin-"
+     },
+     {
+      "beat": 27.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "ners"
+     },
+     {
+      "beat": 28.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "re-"
+     },
+     {
+      "beat": 29.0,
+      "length": 1.0,
+      "pitch": 61,
+      "lyric": "con-"
+     },
+     {
+      "beat": 30.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "ciled."
+     },
+     {
+      "beat": 32.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "Joy-",
+      "br": true
+     },
+     {
+      "beat": 33.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "ful,"
+     },
+     {
+      "beat": 34.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "all"
+     },
+     {
+      "beat": 35.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "ye"
+     },
+     {
+      "beat": 36.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "na-"
+     },
+     {
+      "beat": 37.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "tions,"
+     },
+     {
+      "beat": 38.0,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "rise,"
+     },
+     {
+      "beat": 38.5,
+      "length": 0.5,
+      "pitch": 66
+     },
+     {
+      "beat": 40.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "Join",
+      "br": true
+     },
+     {
+      "beat": 41.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "the"
+     },
+     {
+      "beat": 42.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "tri-"
+     },
+     {
+      "beat": 43.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "umph"
+     },
+     {
+      "beat": 44.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "of"
+     },
+     {
+      "beat": 45.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "the"
+     },
+     {
+      "beat": 46.0,
+      "length": 0.5,
+      "pitch": 67,
+      "lyric": "skies;"
+     },
+     {
+      "beat": 46.5,
+      "length": 0.5,
+      "pitch": 66
+     },
+     {
+      "beat": 48.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "With",
+      "br": true
+     },
+     {
+      "beat": 49.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "th'an-"
+     },
+     {
+      "beat": 50.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "gel-"
+     },
+     {
+      "beat": 51.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "ic"
+     },
+     {
+      "beat": 52.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "host"
+     },
+     {
+      "beat": 53.0,
+      "length": 1.0,
+      "pitch": 68,
+      "lyric": "pro-"
+     },
+     {
+      "beat": 54.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "claim,"
+     },
+     {
+      "beat": 56.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "Christ",
+      "br": true
+     },
+     {
+      "beat": 57.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "is"
+     },
+     {
+      "beat": 58.0,
+      "length": 1.5,
+      "pitch": 67,
+      "lyric": "born"
+     },
+     {
+      "beat": 59.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "in"
+     },
+     {
+      "beat": 60.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Beth-"
+     },
+     {
+      "beat": 61.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "le-"
+     },
+     {
+      "beat": 62.0,
+      "length": 1.0,
+      "pitch": 67,
+      "lyric": "hem."
+     },
+     {
+      "beat": 64.0,
+      "length": 1.5,
+      "pitch": 72,
+      "lyric": "Hark!",
+      "br": true
+     },
+     {
+      "beat": 65.5,
+      "length": 0.5,
+      "pitch": 72,
+      "lyric": "the"
+     },
+     {
+      "beat": 66.0,
+      "length": 1.0,
+      "pitch": 72,
+      "lyric": "her-"
+     },
+     {
+      "beat": 67.0,
+      "length": 1.0,
+      "pitch": 71,
+      "lyric": "ald"
+     },
+     {
+      "beat": 68.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "an-"
+     },
+     {
+      "beat": 69.0,
+      "length": 1.0,
+      "pitch": 68,
+      "lyric": "gels"
+     },
+     {
+      "beat": 70.0,
+      "length": 1.0,
+      "pitch": 69,
+      "lyric": "sing"
+     },
+     {
+      "beat": 72.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "Glo-",
+      "br": true
+     },
+     {
+      "beat": 73.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "ry"
+     },
+     {
+      "beat": 74.0,
+      "length": 1.5,
+      "pitch": 67,
+      "lyric": "to"
+     },
+     {
+      "beat": 75.5,
+      "length": 0.5,
+      "pitch": 62,
+      "lyric": "the"
+     },
+     {
+      "beat": 76.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "new-"
+     },
+     {
+      "beat": 77.0,
+      "length": 1.0,
+      "pitch": 66,
+      "lyric": "born"
+     },
+     {
+      "beat": 78.0,
+      "length": 2.0,
+      "pitch": 59,
+      "lyric": "King."
+     }
+    ]
+   }
+  },
+  {
+   "key": "tenor",
+   "name": "Tenor",
+   "range": {
+    "low": 54,
+    "high": 64
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "Hark!",
+      "br": true
+     },
+     {
+      "beat": 1.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "the"
+     },
+     {
+      "beat": 2.0,
+      "length": 1.5,
+      "pitch": 59,
+      "lyric": "her-"
+     },
+     {
+      "beat": 3.5,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "ald"
+     },
+     {
+      "beat": 4.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "an-"
+     },
+     {
+      "beat": 5.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "gels"
+     },
+     {
+      "beat": 6.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "sing"
+     },
+     {
+      "beat": 8.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Glo-",
+      "br": true
+     },
+     {
+      "beat": 9.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "ry"
+     },
+     {
+      "beat": 10.0,
+      "length": 1.5,
+      "pitch": 64,
+      "lyric": "to"
+     },
+     {
+      "beat": 11.5,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "the"
+     },
+     {
+      "beat": 12.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "new-"
+     },
+     {
+      "beat": 13.0,
+      "length": 1.0,
+      "pitch": 60,
+      "lyric": "born"
+     },
+     {
+      "beat": 14.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "King,"
+     },
+     {
+      "beat": 16.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "Peace",
+      "br": true
+     },
+     {
+      "beat": 17.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "on"
+     },
+     {
+      "beat": 18.0,
+      "length": 1.5,
+      "pitch": 59,
+      "lyric": "earth,"
+     },
+     {
+      "beat": 19.5,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "and"
+     },
+     {
+      "beat": 20.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 21.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "cy"
+     },
+     {
+      "beat": 22.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "mild,"
+     },
+     {
+      "beat": 24.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "God",
+      "br": true
+     },
+     {
+      "beat": 25.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "and"
+     },
+     {
+      "beat": 26.0,
+      "length": 1.5,
+      "pitch": 62,
+      "lyric": "sin-"
+     },
+     {
+      "beat": 27.5,
+      "length": 0.5,
+      "pitch": 57,
+      "lyric": "ners"
+     },
+     {
+      "beat": 28.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "re-"
+     },
+     {
+      "beat": 29.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "con-"
+     },
+     {
+      "beat": 30.0,
+      "length": 1.0,
+      "pitch": 54,
+      "lyric": "ciled."
+     },
+     {
+      "beat": 32.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "Joy-",
+      "br": true
+     },
+     {
+      "beat": 33.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "ful,"
+     },
+     {
+      "beat": 34.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "all"
+     },
+     {
+      "beat": 35.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "ye"
+     },
+     {
+      "beat": 36.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "na-"
+     },
+     {
+      "beat": 37.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "tions,"
+     },
+     {
+      "beat": 38.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "rise,"
+     },
+     {
+      "beat": 40.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "Join",
+      "br": true
+     },
+     {
+      "beat": 41.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "the"
+     },
+     {
+      "beat": 42.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "tri-"
+     },
+     {
+      "beat": 43.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "umph"
+     },
+     {
+      "beat": 44.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "of"
+     },
+     {
+      "beat": 45.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "the"
+     },
+     {
+      "beat": 46.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "skies;"
+     },
+     {
+      "beat": 48.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "With",
+      "br": true
+     },
+     {
+      "beat": 49.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "th'an-"
+     },
+     {
+      "beat": 50.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "gel-"
+     },
+     {
+      "beat": 51.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "ic"
+     },
+     {
+      "beat": 52.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "host"
+     },
+     {
+      "beat": 53.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "pro-"
+     },
+     {
+      "beat": 54.0,
+      "length": 1.0,
+      "pitch": 60,
+      "lyric": "claim,"
+     },
+     {
+      "beat": 56.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Christ",
+      "br": true
+     },
+     {
+      "beat": 57.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "is"
+     },
+     {
+      "beat": 58.0,
+      "length": 1.5,
+      "pitch": 62,
+      "lyric": "born"
+     },
+     {
+      "beat": 59.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "in"
+     },
+     {
+      "beat": 60.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "Beth-"
+     },
+     {
+      "beat": 61.0,
+      "length": 1.0,
+      "pitch": 60,
+      "lyric": "le-"
+     },
+     {
+      "beat": 62.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "hem."
+     },
+     {
+      "beat": 64.0,
+      "length": 1.5,
+      "pitch": 64,
+      "lyric": "Hark!",
+      "br": true
+     },
+     {
+      "beat": 65.5,
+      "length": 0.5,
+      "pitch": 64,
+      "lyric": "the"
+     },
+     {
+      "beat": 66.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "her-"
+     },
+     {
+      "beat": 67.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "ald"
+     },
+     {
+      "beat": 68.0,
+      "length": 1.0,
+      "pitch": 64,
+      "lyric": "an-"
+     },
+     {
+      "beat": 69.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "gels"
+     },
+     {
+      "beat": 70.0,
+      "length": 1.0,
+      "pitch": 60,
+      "lyric": "sing"
+     },
+     {
+      "beat": 72.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "Glo-",
+      "br": true
+     },
+     {
+      "beat": 73.0,
+      "length": 1.0,
+      "pitch": 62,
+      "lyric": "ry"
+     },
+     {
+      "beat": 74.0,
+      "length": 1.5,
+      "pitch": 62,
+      "lyric": "to"
+     },
+     {
+      "beat": 75.5,
+      "length": 0.5,
+      "pitch": 59,
+      "lyric": "the"
+     },
+     {
+      "beat": 76.0,
+      "length": 1.0,
+      "pitch": 59,
+      "lyric": "new-"
+     },
+     {
+      "beat": 77.0,
+      "length": 1.0,
+      "pitch": 60,
+      "lyric": "born"
+     },
+     {
+      "beat": 78.0,
+      "length": 2.0,
+      "pitch": 59,
+      "lyric": "King."
+     }
+    ]
+   }
+  },
+  {
+   "key": "bass",
+   "name": "Bass",
+   "range": {
+    "low": 43,
+    "high": 57
+   },
+   "guide": {
+    "type": "notes",
+    "notes": [
+     {
+      "beat": 0.0,
+      "length": 1.0,
+      "pitch": 43,
+      "lyric": "Hark!",
+      "br": true
+     },
+     {
+      "beat": 1.0,
+      "length": 1.0,
+      "pitch": 43,
+      "lyric": "the"
+     },
+     {
+      "beat": 2.0,
+      "length": 1.5,
+      "pitch": 43,
+      "lyric": "her-"
+     },
+     {
+      "beat": 3.5,
+      "length": 0.5,
+      "pitch": 48,
+      "lyric": "ald"
+     },
+     {
+      "beat": 4.0,
+      "length": 1.0,
+      "pitch": 47,
+      "lyric": "an-"
+     },
+     {
+      "beat": 5.0,
+      "length": 1.0,
+      "pitch": 43,
+      "lyric": "gels"
+     },
+     {
+      "beat": 6.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "sing"
+     },
+     {
+      "beat": 8.0,
+      "length": 1.0,
+      "pitch": 47,
+      "lyric": "Glo-",
+      "br": true
+     },
+     {
+      "beat": 9.0,
+      "length": 1.0,
+      "pitch": 47,
+      "lyric": "ry"
+     },
+     {
+      "beat": 10.0,
+      "length": 1.5,
+      "pitch": 48,
+      "lyric": "to"
+     },
+     {
+      "beat": 11.5,
+      "length": 0.5,
+      "pitch": 48,
+      "lyric": "the"
+     },
+     {
+      "beat": 12.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "new-"
+     },
+     {
+      "beat": 13.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "born"
+     },
+     {
+      "beat": 14.0,
+      "length": 1.0,
+      "pitch": 43,
+      "lyric": "King,"
+     },
+     {
+      "beat": 16.0,
+      "length": 1.0,
+      "pitch": 43,
+      "lyric": "Peace",
+      "br": true
+     },
+     {
+      "beat": 17.0,
+      "length": 1.0,
+      "pitch": 43,
+      "lyric": "on"
+     },
+     {
+      "beat": 18.0,
+      "length": 1.5,
+      "pitch": 43,
+      "lyric": "earth,"
+     },
+     {
+      "beat": 19.5,
+      "length": 0.5,
+      "pitch": 48,
+      "lyric": "and"
+     },
+     {
+      "beat": 20.0,
+      "length": 1.0,
+      "pitch": 52,
+      "lyric": "mer-"
+     },
+     {
+      "beat": 21.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "cy"
+     },
+     {
+      "beat": 22.0,
+      "length": 1.0,
+      "pitch": 49,
+      "lyric": "mild,"
+     },
+     {
+      "beat": 24.0,
+      "length": 1.0,
+      "pitch": 47,
+      "lyric": "God",
+      "br": true
+     },
+     {
+      "beat": 25.0,
+      "length": 1.0,
+      "pitch": 49,
+      "lyric": "and"
+     },
+     {
+      "beat": 26.0,
+      "length": 1.5,
+      "pitch": 50,
+      "lyric": "sin-"
+     },
+     {
+      "beat": 27.5,
+      "length": 0.5,
+      "pitch": 50,
+      "lyric": "ners"
+     },
+     {
+      "beat": 28.0,
+      "length": 1.0,
+      "pitch": 43,
+      "lyric": "re-"
+     },
+     {
+      "beat": 29.0,
+      "length": 1.0,
+      "pitch": 45,
+      "lyric": "con-"
+     },
+     {
+      "beat": 30.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "ciled."
+     },
+     {
+      "beat": 32.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "Joy-",
+      "br": true
+     },
+     {
+      "beat": 33.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "ful,"
+     },
+     {
+      "beat": 34.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "all"
+     },
+     {
+      "beat": 35.0,
+      "length": 1.0,
+      "pitch": 47,
+      "lyric": "ye"
+     },
+     {
+      "beat": 36.0,
+      "length": 1.0,
+      "pitch": 54,
+      "lyric": "na-"
+     },
+     {
+      "beat": 37.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "tions,"
+     },
+     {
+      "beat": 38.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "rise,"
+     },
+     {
+      "beat": 40.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "Join",
+      "br": true
+     },
+     {
+      "beat": 41.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "the"
+     },
+     {
+      "beat": 42.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "tri-"
+     },
+     {
+      "beat": 43.0,
+      "length": 1.0,
+      "pitch": 47,
+      "lyric": "umph"
+     },
+     {
+      "beat": 44.0,
+      "length": 1.0,
+      "pitch": 54,
+      "lyric": "of"
+     },
+     {
+      "beat": 45.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "the"
+     },
+     {
+      "beat": 46.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "skies;"
+     },
+     {
+      "beat": 48.0,
+      "length": 1.0,
+      "pitch": 48,
+      "lyric": "With",
+      "br": true
+     },
+     {
+      "beat": 49.0,
+      "length": 1.0,
+      "pitch": 48,
+      "lyric": "th'an-"
+     },
+     {
+      "beat": 50.0,
+      "length": 1.0,
+      "pitch": 48,
+      "lyric": "gel-"
+     },
+     {
+      "beat": 51.0,
+      "length": 1.0,
+      "pitch": 48,
+      "lyric": "ic"
+     },
+     {
+      "beat": 52.0,
+      "length": 1.0,
+      "pitch": 48,
+      "lyric": "host"
+     },
+     {
+      "beat": 53.0,
+      "length": 1.0,
+      "pitch": 52,
+      "lyric": "pro-"
+     },
+     {
+      "beat": 54.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "claim,"
+     },
+     {
+      "beat": 56.0,
+      "length": 1.0,
+      "pitch": 48,
+      "lyric": "Christ",
+      "br": true
+     },
+     {
+      "beat": 57.0,
+      "length": 1.0,
+      "pitch": 48,
+      "lyric": "is"
+     },
+     {
+      "beat": 58.0,
+      "length": 1.5,
+      "pitch": 47,
+      "lyric": "born"
+     },
+     {
+      "beat": 59.5,
+      "length": 0.5,
+      "pitch": 43,
+      "lyric": "in"
+     },
+     {
+      "beat": 60.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "Beth-"
+     },
+     {
+      "beat": 61.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "le-"
+     },
+     {
+      "beat": 62.0,
+      "length": 1.0,
+      "pitch": 55,
+      "lyric": "hem."
+     },
+     {
+      "beat": 64.0,
+      "length": 1.5,
+      "pitch": 48,
+      "lyric": "Hark!",
+      "br": true
+     },
+     {
+      "beat": 65.5,
+      "length": 0.5,
+      "pitch": 48,
+      "lyric": "the"
+     },
+     {
+      "beat": 66.0,
+      "length": 1.0,
+      "pitch": 48,
+      "lyric": "her-"
+     },
+     {
+      "beat": 67.0,
+      "length": 1.0,
+      "pitch": 48,
+      "lyric": "ald"
+     },
+     {
+      "beat": 68.0,
+      "length": 1.0,
+      "pitch": 48,
+      "lyric": "an-"
+     },
+     {
+      "beat": 69.0,
+      "length": 1.0,
+      "pitch": 52,
+      "lyric": "gels"
+     },
+     {
+      "beat": 70.0,
+      "length": 1.0,
+      "pitch": 57,
+      "lyric": "sing"
+     },
+     {
+      "beat": 72.0,
+      "length": 1.0,
+      "pitch": 48,
+      "lyric": "Glo-",
+      "br": true
+     },
+     {
+      "beat": 73.0,
+      "length": 1.0,
+      "pitch": 48,
+      "lyric": "ry"
+     },
+     {
+      "beat": 74.0,
+      "length": 1.5,
+      "pitch": 47,
+      "lyric": "to"
+     },
+     {
+      "beat": 75.5,
+      "length": 0.5,
+      "pitch": 43,
+      "lyric": "the"
+     },
+     {
+      "beat": 76.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "new-"
+     },
+     {
+      "beat": 77.0,
+      "length": 1.0,
+      "pitch": 50,
+      "lyric": "born"
+     },
+     {
+      "beat": 78.0,
+      "length": 2.0,
+      "pitch": 55,
+      "lyric": "King."
+     }
+    ]
+   }
+  }
+ ]
+}
