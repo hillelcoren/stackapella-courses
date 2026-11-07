@@ -352,6 +352,27 @@
             "launch": false
         },
         {
+            "id": "choir-part",
+            "prefix": "chp",
+            "file": "choir-part/course.json",
+            "status": "live",
+            "colour": 3,
+            "visual": "harmony",
+            "minutes": 40,
+            "title": {
+                "en": "Learn your part for rehearsal"
+            },
+            "line": {
+                "en": "Hear your line in the whole sound, find your first note, put the guide down, fix the hard bars, and walk in ready."
+            },
+            "safety": {
+                "en": "An easy, medium-soft voice, not a whisper. A note too high or low is sung lightly, never louder. Stop if anything tightens."
+            },
+            "group": "harmony",
+            "order": 10,
+            "launch": false
+        },
+        {
             "id": "folk",
             "prefix": "folk",
             "file": "folk/course.json",

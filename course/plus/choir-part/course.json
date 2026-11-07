@@ -1,0 +1,732 @@
+{
+    "id": "choir-part",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Learn your part for rehearsal"},
+    "units": [
+        {
+            "id": "chp-1",
+            "title": {"en": "Your line in the sound"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "chp-1-hear",
+                    "title": {"en": "Hear your line"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Learn a choir part the way it sticks: hear it in the whole sound, then on its own, then sing it with the others."},
+                            "steps": [
+                                {"title": {"en": "Hear everyone first"}, "detail": {"en": "The start of the song, every part"}},
+                                {"title": {"en": "Any voice"}, "detail": {"en": "You'll practise on the alto line, set in your own range. The last lesson shows you how to learn your own part."}},
+                                {"title": {"en": "Sing easy"}, "detail": {"en": "Sing at an easy, medium-soft volume, not a whisper. If a note sits too high or low, sing it lightly, never louder. Stop if anything tightens or hurts."}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false,
+                            "listen": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto on its own. Follow the words."},
+                            "steps": [
+                                {"title": {"en": "Its shape"}, "detail": {"en": "It starts low and holds, then climbs"}},
+                                {"title": {"en": "Under the tune"}, "detail": {"en": "Most of the way you sit under the tune. Lost? Find the tune and stay under it."}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false,
+                            "listen": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                }
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing lines 1 and 2 with the guide and the other parts around you."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "generous": true,
+                                "keep": "choir-part.first"
+                            },
+                            "measures": {"en": "Scored on the notes. Listen back: could you hear your line inside the chords?"}
+                        }
+                    ]
+                },
+                {
+                    "id": "chp-1-first",
+                    "title": {"en": "Your first note"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "At rehearsal the pianist plays a chord, and you find your note in it."},
+                            "steps": [
+                                {"title": {"en": "The chord, then your note"}, "detail": {"en": "Hear the chord's bottom, middle and top notes, then sing the one asked for"}},
+                                {"title": {"en": "The alto here"}, "detail": {"en": "It starts on the chord's middle note, below the tune"}},
+                                {"title": {"en": "Think before you sing"}, "detail": {"en": "Hear the note in your head first, then start right on it"}}
+                            ],
+                            "visual": "echo",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {"en": "Hear the chord's three notes, then sing the one asked for: the middle note, the top note, then the bottom one."},
+                            "exercise": {
+                                "tempo": 72,
+                                "think": 1,
+                                "echoes": [
+                                    {
+                                        "call": [0, 4, 7],
+                                        "sing": [4],
+                                        "chord": {"root": 0}
+                                    },
+                                    {
+                                        "call": [-3, 1, 4],
+                                        "sing": [4],
+                                        "chord": {"root": -3}
+                                    },
+                                    {
+                                        "call": [2, 6, 9],
+                                        "sing": [2],
+                                        "chord": {"root": 2}
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now line 1 starting cold: no guide, the other parts on. Tap Give me my note if you need it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [0],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "chp-1-page",
+                    "title": {"en": "Your line on the page"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "In a choir score your line is one of four. Find it, follow it with the words, and see where it climbs and where it holds."},
+                            "steps": [
+                                {"title": {"en": "Where it holds"}, "detail": {"en": "Three notes the same, then up"}},
+                                {"title": {"en": "Above the tune"}, "detail": {"en": "At \"faithful\" your line ends above the tune. Hold your note."}},
+                                {"title": {"en": "Mark your breaths"}, "detail": {"en": "Pencil in your score where you'll breathe, so you never run out mid-line"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Read line 1 on the stave and sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                },
+                                "turn": false,
+                                "staff": {"names": "on", "look": 4}
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 2, the names fainter now: read it and sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                },
+                                "turn": false,
+                                "staff": {"names": "faint", "look": 4}
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "chp-1-two",
+                    "title": {"en": "The first two lines"},
+                    "strictness": "relaxed",
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lines 1 and 2 cold: find your first note, then no guide, just you and the other parts."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "chp-2",
+            "title": {"en": "Fix the hard bars"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "chp-2-lines",
+                    "title": {"en": "Two new lines"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Learn a new line a little slower, then join it to the next, so the joins get practised too. The joins are where singers get lost."},
+                            "steps": [
+                                {"title": {"en": "One line, slower"}, "detail": {"en": "Hear it, then sing it back"}},
+                                {"title": {"en": "The next line"}, "detail": {"en": "The same"}},
+                                {"title": {"en": "Then both together"}, "detail": {"en": "At speed, with the guide, straight through the join"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, a little slower, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": true,
+                                "tempo": 72
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, a little slower, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [3]
+                                },
+                                "turn": true,
+                                "tempo": 72
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Lines 3 and 4 joined, at speed, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "chp-2-find",
+                    "title": {"en": "Find the hard bars"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Most of a part comes easily. A few bars don't: give them the time."},
+                            "steps": [
+                                {"title": {"en": "What makes a bar hard"}, "detail": {"en": "A jump, a note from outside the key, or your line moving while the others hold"}},
+                                {"title": {"en": "This one"}, "detail": {"en": "On \"Bethlehem\" the alto slips down a half step to a note from outside the key, though earlier in the same line \"O\" and \"to\" use the plain note a half step lower. Then it leaps up a fourth to a long note above the tune."}},
+                                {"title": {"en": "Slow it right down"}, "detail": {"en": "Same notes, same pitch, much slower. Breathe quickly after \"O come ye,\" and keep it easy."}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false,
+                            "listen": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": false,
+                                "tempo": 60
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Line 3, slowly: each note waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "tempo": 60
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 3 slowly on the stave, with the guide: watch for the note from outside the key."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": false,
+                                "tempo": 60,
+                                "staff": {"names": "on", "look": 4}
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "chp-2-speed",
+                    "title": {"en": "Up to speed"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Slow and clean first, then a little faster each time. A bar you can sing slowly comes at speed; a bar you always rush never does."},
+                            "steps": [
+                                {"title": {"en": "A little faster"}, "detail": {"en": "With the guide"}},
+                                {"title": {"en": "Faster again"}, "detail": {"en": "Still with the guide"}},
+                                {"title": {"en": "Full speed"}, "detail": {"en": "No guide, the other parts on, as at rehearsal"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 3 a little faster, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": false,
+                                "tempo": 72
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Faster again, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": false,
+                                "tempo": 84
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Full speed, the guide off, the other parts on."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [2],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "chp-2-verse",
+                    "title": {"en": "The verse"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The verse at full speed, the guide off: the hard bar where it lives."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "chp-3",
+            "title": {"en": "Guide on, guide off"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "chp-3-refrain",
+                    "title": {"en": "The refrain"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The three \"O come, let us adore him\" lines share the words and the same three notes, in a different order each time. The first ends low, the second ends high, and the third goes on to \"Christ the Lord\"."},
+                            "steps": [
+                                {"title": {"en": "Not the tune"}, "detail": {"en": "Meanwhile the tune climbs, so you can't just follow it"}},
+                                {"title": {"en": "The rests"}, "detail": {"en": "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false,
+                            "listen": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [4, 5, 6]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, a little slower, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [4]
+                                },
+                                "turn": true,
+                                "tempo": 72
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 6 on the stave, a little slower, with the guide: spot what changed."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [5]
+                                },
+                                "turn": false,
+                                "tempo": 72,
+                                "staff": {"names": "faint", "look": 4}
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole refrain at speed, with the guide and the other parts."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [4, 5, 6],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "chp-3-last",
+                    "title": {"en": "The last line"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The last line jumps: up a fourth to \"Christ\", up a third to \"Lord\", then down a fifth inside \"Lord\" to a long low note."},
+                            "steps": [
+                                {"title": {"en": "Breathe first"}, "detail": {"en": "Breathe after \"adore him,\" then sing \"Christ the Lord\" in one breath"}},
+                                {"title": {"en": "Slowly, then faster"}, "detail": {"en": "With the guide, then without"}},
+                                {"title": {"en": "Ring the last chord"}, "detail": {"en": "Your long low note is the chord's middle note: listen for it to settle"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear the last line slowly, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [6]
+                                },
+                                "turn": true,
+                                "tempo": 60
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The last line a little faster, with the guide and the chords."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [6]
+                                },
+                                "turn": false,
+                                "tempo": 84,
+                                "tuning": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The last line at speed, the guide off, the other parts on."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [6],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "chp-3-away",
+                    "title": {"en": "The guide steps away"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The guide is there to learn from, then to put down. Put it down early: at rehearsal there's no guide in your ear."},
+                            "steps": [
+                                {"title": {"en": "The whole part"}, "detail": {"en": "Every line you've learned, joined"}},
+                                {"title": {"en": "The lights fade"}, "detail": {"en": "Halfway through your notes stop lighting: keep going by ear"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole part with the guide and the other parts. Halfway, the lights fade."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "lights": "fade"
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "chp-3-alone",
+                    "title": {"en": "Your part, on your own"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole part, start to end: no guide, the other parts on. Find your first note as you did before; Give me my note is there if you need it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "chp-4",
+            "title": {"en": "Ready for rehearsal"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "chp-4-ready",
+                    "title": {"en": "The morning of"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The night before: one run-through at full speed, then rest your voice. The morning of: a short, gentle hum, then your first note."},
+                            "steps": [
+                                {"title": {"en": "A gentle hum"}, "detail": {"en": "Soft and easy, against a quiet drone"}},
+                                {"title": {"en": "Then your first note"}, "detail": {"en": "Found cold, as at rehearsal"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Hum a soft, easy \"mm\" on the drone's note, three times."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "mm",
+                                "drone": {"step": 0},
+                                "target": [
+                                    {"seconds": 5, "kind": "straight"},
+                                    {"seconds": 5, "kind": "straight"},
+                                    {"seconds": 5, "kind": "straight"}
+                                ],
+                                "generous": true
+                            },
+                            "measures": {"en": "Scored on how steady the hum stayed."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The refrain cold: no guide, the other parts on."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [4, 5, 6],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "chp-4-keep",
+                    "title": {"en": "Don't stop"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "At rehearsal nobody stops for you. If you get lost, listen, and come back in at the start of the next line."},
+                            "steps": [
+                                {"title": {"en": "No lights while you sing"}, "detail": {"en": "Your notes are shown after the take, not during it"}},
+                                {"title": {"en": "Lost?"}, "detail": {"en": "Keep listening. The rests between lines, like the one after each \"him\", are your way back in."}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole part with the other parts, no guide, nothing lit while you sing. Sing it as you will at rehearsal."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "lights": "off"
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "chp-4-dress",
+                    "title": {"en": "Dress rehearsal"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "What you've just done works for every piece: hear it, find your note, a line at a time, fix the hard bars, put the guide down, and don't stop."},
+                            "steps": [
+                                {"title": {"en": "Your own section"}, "detail": {"en": "Every library song has Learn it step by step, part by part: pick yours"}},
+                                {"title": {"en": "Now record it"}, "detail": {"en": "The whole part in Sing, with the other three parts"}},
+                                {"title": {"en": "Choir groups"}, "detail": {"en": "If your director uses Stackapella, a choir group puts the choir's songs in one place, with your part already picked."}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "First, the two lines you began with, now on your own. Then hear how far you've come."},
+                            "exercise": {
+                                "song": {
+                                    "template": "o-come-all-ye-faithful",
+                                    "part": "alto",
+                                    "phrases": [0, 1],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true,
+                                "thenAndNow": "choir-part.first"
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {"kind": "record", "text": {"en": "The dress rehearsal: record the alto in Sing, with the other three parts around you."}, "template": "o-come-all-ye-faithful", "singers": 4, "part": "alto", "measures": {"en": "Scored on the notes of your recording."}}
+                    ]
+                }
+            ]
+        }
+    ]
+}
