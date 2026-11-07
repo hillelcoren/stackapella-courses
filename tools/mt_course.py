@@ -308,6 +308,7 @@ def mt_3_bright():
     ex = {"tempo": 88, "notes": line, "turn": False, "chords": buttercup_chords(line, L2), "keep": "mt.bright"}
     return {
         "id": "mt-3-bright", "title": EN("Bright, like talking"),
+        "fact": fact("higgins-spoken-melody", "When My Fair Lady opened on Broadway in 1956, Rex Harrison's music as Henry Higgins was \"written without sustained notes and with natural tonal patterns\": \"a spoken part that happens to have a melody\".", "Wikipedia, My Fair Lady", "https://en.wikipedia.org/wiki/My_Fair_Lady"),
         "steps": [
             learn("Say the line as if calling to a friend across a room, at speaking volume, then sing it that way. Bright is not belt. First steps to belting is the first step; full belt is for later, with a teacher.",
                   [("Call across the room", "Speaking volume, speech vowels"), ("Then sing it", "Near your comfortable note"), ("Stop if", "It scratches or tickles: sing it the legit way")]),
@@ -405,6 +406,7 @@ def mt_4_someone():
     ex = {"tempo": 88, "notes": line, "turn": False, "chords": buttercup_chords(line)}
     return {
         "id": "mt-4-someone", "title": EN("Sing it to someone"),
+        "fact": fact("clear-speech-17-points", "In a 1985 study, five listeners with hearing loss heard sentences said clearly or conversationally. The clear ones were understood on average 17 percentage points better, at every playback level tested.", "Picheny, Durlach and Braida, Journal of Speech and Hearing Research (1985)", "https://doi.org/10.1044/jshr.2801.96"),
         "steps": [
             learn("Henry Irving told the young Henry Lytton to picture a friend who couldn't afford the stalls, at the back of the gallery: \"Let him hear every line you have to say.\" Sing to them, not louder.",
                   [("Pick someone", "At the very back"), ("Tell them", "This line is for them"), ("Not louder", "Clearer and meant")]),

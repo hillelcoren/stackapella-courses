@@ -191,6 +191,7 @@ def sc_1_trade():
     try_names = ["I", "I"]
     return {
         "id": "sc-1-trade", "title": EN("Trade with the band"), "strictness": "relaxed",
+        "fact": fact("scat-syllables-as-instruments", "Scat syllables can copy instruments. A 1987 study likened Ella Fitzgerald's \"b\" and \"p\" to reed instruments and her \"d\" to tongued brass, and Sarah Vaughan's \"sh\" to brushes on a drum.", "Wikipedia, Scat singing (citing Stewart, Jazzforschung/Jazz Research 19 (1987))", "https://en.wikipedia.org/wiki/Scat_singing"),
         "steps": [
             learn("Scat is singing like a horn on syllables. The band plays a call; you answer it. No wrong notes here: where you choose, every lit note fits.",
                   [("The call", "Two bars from the band"), ("Your echo", "The same two bars back"), ("Your last note", "Any lit note: one that sounds at rest")]),
@@ -238,6 +239,7 @@ def sc_1_and():
         names += [chord] * 4
     return {
         "id": "sc-1-and", "title": EN("Start on the and"),
+        "fact": fact("bebop-from-scat-syllables", "The word \"bebop\" comes from scat syllables. In Dizzy Gillespie's account, fans heard him scat his new, untitled tunes to the band, and \"would ask for bebop.\"", "Wikipedia, Bebop", "https://en.wikipedia.org/wiki/Bebop"),
         "steps": [
             learn("Jazz lines love to start just after the beat, on the \"and\". End each one clean, the t of \"dat\" cutting it off.",
                   [("Wait", "Let the beat go by"), ("Then go", "On the and"), ("Dat", "A clean end")]),
@@ -312,6 +314,7 @@ def sc_2_finish():
     model = [n for n in notes if not n.get("listenOnly")]
     return {
         "id": "sc-2-finish", "title": EN("Finish the phrase"),
+        "fact": fact("stop-time-tap-dancers", "In \"stop-time\" the band hits a chord, then falls silent for the soloist to fill. Louis Armstrong's famous stop-time chorus in \"Potato Head Blues\" (1927) drew partly on the tap dancing at the Sunset Café.", "Wikipedia, Potato Head Blues (citing Brothers, Louis Armstrong: Master of Modernism (2014))", "https://en.wikipedia.org/wiki/Potato_Head_Blues"),
         "steps": [
             learn("The band plays a phrase and stops short: you sing its last note, any of the chord's 1, 3 or 5.",
                   [("Listen", "The phrase from the band"), ("Finish it", "Its last note is yours"), ("Any lit note", "1, 3 or 5 of the chord")]),
@@ -414,6 +417,7 @@ def sc_3_riff():
         names += [chord] * 2
     return {
         "id": "sc-3-riff", "title": EN("A riff"),
+        "fact": fact("in-the-mood-riff-1930", "The riff of Glenn Miller's \"In the Mood\" was going round the bands years earlier: Wingy Manone recorded it in \"Tar Paper Stomp\" in 1930, and Fletcher Henderson's band used it in 1931.", "Wikipedia, In the Mood", "https://en.wikipedia.org/wiki/In_the_Mood"),
         "steps": [
             learn("A riff is a short phrase the band repeats over the changes. This one is the minor pentatonic: flat seven, do, flat three, four and five, ending on five.",
                   [("Five notes", "Flat seven up to five"), ("Every chord", "The same riff"), ("Ends on five", "It fits even over V")]),
@@ -452,6 +456,7 @@ def sc_4_blue():
     model = notes[:2]
     return {
         "id": "sc-4-blue", "title": EN("The blue note"),
+        "fact": fact("handy-flat-third-folk-roots", "In his autobiography, W. C. Handy wrote that the flat third and seventh in his major-key blues came from the music of poor Black Southerners. Today we call them blue notes.", "Wikipedia, W. C. Handy", "https://en.wikipedia.org/wiki/W._C._Handy"),
         "steps": [
             learn("The blue note is the flat third sung against a major chord: it rubs on purpose, then lifts to the third. No pushing on the bend.",
                   [("Flat third", "Against the major chord"), ("It rubs", "On purpose"), ("Then lift", "To the third")]),

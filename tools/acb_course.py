@@ -106,6 +106,7 @@ def acb_1_low():
     ex = {"tempo": 72, "notes": notes, "turn": True, "drone": {"step": 0}}
     return {
         "id": "acb-1-low", "title": EN("Low and easy"), "strictness": "relaxed",
+        "fact": fact("low-notes-loudness-range", "Why are low notes quieter? A 1992 voice study points to breath pressure: pushing more air tends to raise their pitch, so the soft-to-loud range narrows at the bottom of the voice.", "Titze, Journal of Speech and Hearing Research (1992)", "https://iro.uiowa.edu/esploro/outputs/journalArticle/Acoustic-Interpretation-of-the-Voice-Range/9984719751002771"),
         "steps": [
             learn("A bass's low notes come from ease, not effort. They're quieter than your middle notes, and that's right: the mic does the work.",
                   [("Step down", "Do, ti, la, so, fa, one at a time"), ("Hold only do", "The low notes are short"), ("Easy throat", "Where it sits when you speak")]),
@@ -176,6 +177,7 @@ def acb_2_doom():
     ex = {"tempo": 80, "notes": notes, "turn": False, "with": group(FOUR, 0, 4), "score": "release"}
     return {
         "id": "acb-2-doom", "title": EN("Doom"),
+        "fact": fact("mills-brothers-tuba", "The Mills Brothers' bass, John Mills Jr., would imitate the tuba. Their early records said: \"No musical instruments or mechanical devices used on this recording other than one guitar.\"", "Wikipedia, The Mills Brothers", "https://en.wikipedia.org/wiki/The_Mills_Brothers"),
         "steps": [
             learn("\"Doom\" is \"doo\" closing to a hum. A bass's long note is only as good as its stop.",
                   [("Doo, then m", "Lips close, the hum goes on"), ("Then stop", "The hum ends on the beat"), ("A rest", "Two beats of quiet")]),
@@ -195,6 +197,7 @@ def acb_2_dm():
              "questions": [EN("Did your lips close before the note, with no scoop up to it?"), EN("Were your teeth apart inside the hum?")]}
     return {
         "id": "acb-2-dm", "title": EN("Dm dm"),
+        "fact": fact("konnakol-drum-syllables", "South Indian Carnatic music has konnakol, \"the art of performing percussion syllables vocally\": drumming with the voice. A beat split into four is spoken \"tha ka dhi mi\".", "Wikipedia, Konnakol", "https://en.wikipedia.org/wiki/Konnakol"),
         "steps": [
             learn("\"Dm\" is the bass's drum: a light tap of the tongue, then a short hum with lips closed and teeth apart.",
                   [("A tap", "The tongue, light, behind the teeth"), ("A hum", "Lips closed, teeth apart"), ("On the beat", "Exactly, every time")]),
@@ -265,6 +268,7 @@ def acb_3_fifth():
     every = {"tempo": 84, "notes": groove(FOUR), "turn": True, "with": group(FOUR, 0, 4)}
     return {
         "id": "acb-3-fifth", "title": EN("Root and fifth"),
+        "fact": fact("timpani-root-and-fifth", "In the 1600s and 1700s, timpani were almost always tuned with the key's fifth on the low drum and its home note on the high drum, a fourth apart: your so below, and do.", "Wikipedia, Timpani", "https://en.wikipedia.org/wiki/Timpani"),
         "steps": [
             learn("The most common bass move: the root, then the chord's fifth. On low chords the fifth goes up, so you never go below fa.",
                   [("Root", "The chord's own note"), ("Fifth", "Its fifth, up or down"), ("Back", "Home to the root")]),
@@ -334,6 +338,7 @@ def acb_4_walk():
     ex = {"tempo": 76, "notes": notes, "turn": True, "with": group(chords, 0, 1) + group(["V", "vi", "I", "I"], 5, 1)}
     return {
         "id": "acb-4-walk", "title": EN("Walk down"),
+        "fact": fact("rachmaninoff-asparagus-basses", "In Rachmaninoff's All-Night Vigil (1915), the basses walk down a scale to a low B-flat. Rachmaninoff recalled its first conductor asking where to find such basses: \"They are as rare as asparagus at Christmas!\"", "Wikipedia, All-Night Vigil (Rachmaninoff)", "https://en.wikipedia.org/wiki/All-Night_Vigil_(Rachmaninoff)"),
         "steps": [
             learn("A walking bass steps from one root to the next, landing on each chord as it changes.",
                   [("Step down", "Do, ti, la, so, fa"), ("Land", "On each new chord"), ("Walk back", "Up to do")]),
@@ -353,6 +358,7 @@ def acb_4_lead():
           "score": "landing"}
     return {
         "id": "acb-4-lead", "title": EN("Arrive home"),
+        "fact": fact("ti-was-si", "Ti, the note that leads home to do, was once called si. In English-speaking countries Sarah Glover changed it to ti in the 1800s, \"so that every syllable might begin with a different letter\".", "Wikipedia, Solfège", "https://en.wikipedia.org/wiki/Solf%C3%A8ge"),
         "steps": [
             learn("A bass brings the group home: the last note lands on do, right on the downbeat.",
                   [("From ti", "A half step below"), ("From re", "A step above"), ("From so", "The leap from V to I")]),

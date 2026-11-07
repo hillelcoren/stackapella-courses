@@ -149,6 +149,7 @@ def gr_1_stairs():
     hum[0]["lyric"] = "mm"
     return {
         "id": "gr-1-stairs", "title": EN("Five stairs"), "strictness": "relaxed",
+        "fact": fact("amen-cadence", "A move from chord IV to home, I, is called the plagal or Amen cadence, after the \"Amen\" so often sung to it in hymns. The most famous chorus of Handel's Messiah ends with it, repeated.", "Wikipedia, Cadence", "https://en.wikipedia.org/wiki/Cadence"),
         "steps": [
             learn("A run is a few notes on one syllable, each one clean, like stairs. The spirituals were made by enslaved Black Americans as sacred songs, and gospel grew from them in Black churches: here a run serves the word.",
                   [("One syllable", "Several clean notes"), ("One run a line", "On a held word; the tune comes first"), ("Light", SAFETY)]),
@@ -185,6 +186,7 @@ def gr_1_turn():
     notes = turn(0, MAJOR, 0) + turn(7, MAJOR, 4)
     return {
         "id": "gr-1-turn", "title": EN("A turn"),
+        "fact": fact("cpe-bach-turn-abused", "In 1753 C. P. E. Bach, J. S. Bach's son, called the turn \"appropriate for almost any place, and therefore often abused\": many believe, he wrote, that playing's charm lies in \"using turns on every occasion\".", "C. P. E. Bach, Essay on the True Manner of Playing the Clavier (1753), Packard Humanities Institute", "https://versuch.cpebach.org/v-html/part-I/chapter-2/section-4/I-2-4-p7.html"),
         "steps": [
             learn("The smallest run is a turn: the note above, the note, the note below, the note.",
                   [("Above", "One stair up"), ("The note", "Home"), ("Below, and back", "One stair down, then home")]),
@@ -226,6 +228,7 @@ def gr_2_groups():
     model = threes[:4]
     return {
         "id": "gr-2-groups", "title": EN("In groups"),
+        "fact": fact("bolton-clicks-group", "In 1894 the psychologist Thaddeus Bolton played people identical, evenly spaced clicks. They heard them fall into groups of two, three or four, most often with the first of each group sounding strongest.", "Bolton, Rhythm, The American Journal of Psychology (1894)", "https://archive.org/details/jstor-1410948"),
         "steps": [
             learn("Fast runs are groups of three or four, the first of each group leaned on a little: lighter, not louder.",
                   [("Threes", "Three to a beat"), ("A small lean", "On the first, not louder"), ("Echo", "Listen, then sing")]),
@@ -252,6 +255,7 @@ def gr_2_clean():
                "why": EN("Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath.")} for a, b in order]
     return {
         "id": "gr-2-clean", "title": EN("Clean, smeared or choppy?"),
+        "fact": {**fact("tosi-ha-ha-ha", "In 1723 the singing teacher Pier Francesco Tosi wanted a run's notes \"not too much join'd, nor too much mark'd\". Pushed too hard, he wrote, a run on \"A\" sounds like \"Ha, Ha, Ha\".", "Tosi, Observations on the Florid Song, tr. Galliard (1743), Project Gutenberg", "https://www.gutenberg.org/ebooks/26477"), "distinct": ["tosi-seldom-prodigy"]},
         "steps": [
             learn("A clean run keeps each note separate but joined. A smeared one slides; a choppy one breathes between notes, \"ha-ha-ha\".",
                   [("Clean", "Separate and joined"), ("Smeared", "Sliding together"), ("Choppy", "Breathy gaps")]),
@@ -336,6 +340,7 @@ def gr_3_up():
         notes[-4]["lyric"] = "oh"
     return {
         "id": "gr-3-up", "title": EN("Run up to it"),
+        "fact": fact("slide-elevation-1654", "Baroque musicians had a name for two or three steps climbing into a note: the slide, Schleifer in German. Writing in 1654, England's John Playford called this rising kind an \"elevation\".", "Wikipedia, Slide (musical ornament)", "https://en.wikipedia.org/wiki/Slide_(musical_ornament)"),
         "steps": [
             learn("A run can climb into a note too: three stairs up, then hold.",
                   [("Three up", "Light and clean"), ("Then hold", "The note you ran to"), ("Light", "No pushing at the top")]),
@@ -354,6 +359,7 @@ def gr_3_hear():
                "why": EN("One bends up and arrives; the other stalls just short.")} for l in (True, False, True, False)]
     return {
         "id": "gr-3-hear", "title": EN("Bend or stall?"),
+        "fact": fact("dorsey-kicked-out", "Thomas A. Dorsey's bluesy gospel met resistance from ministers, musicians and churchgoers alike. He was often quoted saying he had \"been kicked out of the best churches in the country\".", "Wikipedia, Thomas A. Dorsey", "https://en.wikipedia.org/wiki/Thomas_A._Dorsey"),
         "steps": [
             learn("A bend has to arrive. Listen for the one that lands.",
                   [("Listen", "Which one lands?"), ("Then you", "A bend that arrives"), ("Hold it", "On the third")], visual="vibrato"),

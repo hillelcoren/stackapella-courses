@@ -114,6 +114,7 @@ def cp_1_hear():
     ]
     return {
         "id": "cp-1-hear", "title": EN("Which voice moved?"),
+        "fact": {"id": "counting-voices", "text": {"en": "In a 1989 study using Bach's music, listeners judging how many voices were sounding erred about 10 percent of the time with three voices, and about half the time with four."}, "source": {"en": "Siedenburg, Goldmann and van de Par, Frontiers in Psychology (2021), on Huron, Music Perception (1989)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8079728/"},
         "steps": [
             learn("Your ear can follow two voices at once. Listen for which one moves.",
                   [("Two voices", "One high, one low, at the same time"),
@@ -135,6 +136,7 @@ def cp_1_pedal():
                 "with": [{"notes": notes(ODE_HOME, start=2, shift=0)}]}
     return {
         "id": "cp-1-pedal", "title": EN("Be the drone"),
+        "fact": {"id": "rheingold-pedal", "text": {"en": "Wagner's opera Das Rheingold opens with a 136-bar prelude over a pedal: the lowest instruments hold one note right through it while the orchestra builds above."}, "source": {"en": "Wikipedia, Das Rheingold"}, "url": "https://en.wikipedia.org/wiki/Das_Rheingold"},
         "steps": [
             learn("A note held under a moving tune is a pedal, after the organ's pedals, which hold a low note as long as it's pressed.",
                   [("Hold one note", "Do, on \"oo\", easy and steady"),
@@ -161,6 +163,7 @@ def cp_1_ostinato():
     above = notes([(6, 9), (6, 7), (6, 5), (6, 4), (6, 4)])  # an original line falling slowly over the pattern
     return {
         "id": "cp-1-ostinato", "title": EN("A pattern that repeats"),
+        "fact": {"id": "bolero-169", "text": {"en": "Ravel's Boléro is built on one snare drum rhythm played 169 times. Ravel warned it was \"orchestral tissue without music\", one very long crescendo."}, "source": {"en": "Wikipedia, Boléro"}, "url": "https://en.wikipedia.org/wiki/Bol%C3%A9ro"},
         "steps": [
             learn("A pattern sung over and over is an ostinato. Once you know it, it keeps itself going.",
                   [("Four notes", "Do ti do la: a darker colour you'll meet properly in unit 2"),
@@ -217,6 +220,7 @@ def cp_2_follow():
     tune = notes(AYS, 0, AYS_DO)
     return {
         "id": "cp-2-follow", "title": EN("The second voice"),
+        "fact": {"id": "bach-puzzle-canons", "text": {"en": "In 1747 Bach wrote canons for Frederick the Great as puzzles. One shows a single tune with the Latin hint \"Quaerendo invenietis\": seek, and ye shall find. Players must work out where the second voice comes in."}, "source": {"en": "Netherlands Bach Society, Musikalisches Opfer, BWV 1079"}, "url": "https://www.bachvereniging.nl/en/bwv/bwv-1079-12"},
         "steps": [
             learn("Now you come in second. The leader is already singing other notes when you start.",
                   [("Listen to the leader", "Are You Sleeping, from the top"),
@@ -235,6 +239,7 @@ def cp_2_follow():
 def cp_2_minor():
     return {
         "id": "cp-2-minor", "title": EN("A round in minor"),
+        "fact": {"id": "sad-speech-minor-third", "text": {"en": "In a 2010 study, nine actresses spoke two-syllable phrases in four emotions. In the sad ones, the two main pitches tended to sit a minor third apart: the step from do up to a minor tune's mi."}, "source": {"en": "Curtis and Bharucha, Emotion (2010)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/20515223/"},
         "steps": [
             learn("This tune in minor: its mi and la a half step lower (the smallest step on a piano), and it sounds darker.",
                   [("Listen to the minor tune", "The same shape, a darker colour"),
@@ -356,6 +361,7 @@ def cp_3_call():
         beat += 10
     return {
         "id": "cp-3-call", "title": EN("Call and response"),
+        "fact": {"id": "duckworth-chant", "text": {"en": "The US Army's call-and-response \"Duckworth Chant\" is credited to Private Willie Duckworth. In 1944, on a night march back to Fort Slocum, New York, he chanted to lift his tired comrades' spirits."}, "source": {"en": "Wikipedia, Military cadence"}, "url": "https://en.wikipedia.org/wiki/Military_cadence"},
         "steps": [
             learn("In call and response, a leader sings and others answer. Here the call ends away from do, and the answer brings it home.",
                   [("The guide calls", "A short phrase, ending away from do"),
@@ -376,6 +382,7 @@ def cp_3_counter():
     line = [{"beat": 4 + 4 * k, "length": 3.5, "step": step, "lyric": "oo"} for k, step in enumerate([0, -1, -3, -5])]
     return {
         "id": "cp-3-counter", "title": EN("A slow line under a tune"),
+        "fact": {"id": "lhomme-arme-masses", "text": {"en": "Renaissance composers wrote over 40 Masses on one song, L'homme armé, \"the armed man\", using its tune as a cantus firmus: a fixed line in long notes, with livelier lines built around it."}, "source": {"en": "Wikipedia, L'homme armé; Cantus firmus"}, "url": "https://en.wikipedia.org/wiki/L%27homme_arm%C3%A9"},
         "steps": [
             learn("Your line keeps falling while the tune turns, so the two never move the same way for long.",
                   [("Four long notes", "Do, ti, la, so"),
@@ -536,6 +543,7 @@ def cp_4_motion():
     ]
     return {
         "id": "cp-4-motion", "title": EN("Ways to move"),
+        "fact": {"id": "six-principles", "text": {"en": "In a 2001 paper, a music psychologist argued that most of the traditional rules for how voices move against each other follow from six core principles, mostly about how the ear sorts sounds into streams."}, "source": {"en": "Huron, Music Perception (2001)"}, "url": "https://doi.org/10.1525/mp.2001.19.1.1"},
         "steps": [
             learn("Two voices can move the same way, opposite ways, or one can hold while the other moves. Opposite ways keeps them most independent.",
                   [("Similar", "The same way (parallel, if the distance stays)"),
@@ -570,6 +578,7 @@ def cp_4_second():
     sung = [{"beat": 4 + k, "length": 1 if k < 16 else 2, "step": s, "lyric": "ah"} for k, s in enumerate(SECOND_1)]
     return {
         "id": "cp-4-second", "title": EN("Two against one"),
+        "fact": {"id": "mozart-attwood", "text": {"en": "Mozart taught counterpoint Fux's way: his English pupil Thomas Attwood began with two-part exercises, and Attwood's exercises from 1785 to 1787, with Mozart's own corrections, are in the British Library."}, "source": {"en": "British Library, Add MS 58437 (The Attwood Manuscript)"}, "url": "https://searcharchives.bl.uk/catalog/032-002044496"},
         "steps": [
             learn("Two notes to each cantus note. The first must sound smooth; the second may rub if it passes by step, in one direction, between smooth notes: a passing note.",
                   [("Strong beat", "A smooth interval"),
@@ -636,6 +645,7 @@ def chosen_line(cantus_steps, start, beats=4):
 def cp_5_yours():
     return {
         "id": "cp-5-yours", "title": EN("Your choice"),
+        "fact": {"id": "beethoven-permits-fifths", "text": {"en": "When his pupil Ferdinand Ries showed him parallel fifths in one of his early quartets, Beethoven asked who forbade them. Told \"all theorists\", he answered, \"Well, then, I permit them.\""}, "source": {"en": "Ries, in Wegeler and Ries's Notizen, printed in Schindler, The Life of Beethoven, ed. Moscheles (1841), Project Gutenberg"}, "url": "https://www.gutenberg.org/files/39093/39093.txt"},
         "steps": [
             learn("Now you choose. At each cantus note, every smooth note in your range lights up: sing any one of them.",
                   [("Every lit note works", "Thirds, fifths, sixths and octaves"),
