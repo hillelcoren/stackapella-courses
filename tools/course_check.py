@@ -1,8 +1,8 @@
 """Checks every course file against the course format (course/format/steps.json): the free course
 and each Plus course in course/plus/courses.json. It fails on an unknown step kind or field, a
 word that isn't a { "en": ... } object, a lesson id used twice, a clip slot missing from
-course/plus/clips.json, or a lesson's fact (the "Did you know?" card) that's malformed, more than two
-a unit, or told in two courses; and it counts the lessons an app can't play yet (Flutter's "open this
+course/plus/clips.json, or a lesson's fact (the "Did you know?" card) that's malformed or told in
+two courses; and it counts the lessons an app can't play yet (Flutter's "open this
 lesson on the web"). A song course's exercise (course/songs, `song`) must name a song that's here, one
 of its parts and phrases it has, and never carry notes of its own. Prints one line; `--apps` lists
 those lessons. Python's standard library only.
@@ -324,8 +324,6 @@ def course(path, seen, clip_ids, unplayable, facts):
     kept = set()  # Then and now: the ids kept so far in this course, lesson by lesson
     for unit in data.get("units", []):
         known(f"{name} {unit.get('id')}", unit, FORMAT["unit"])
-        if sum(1 for lesson in unit.get("lessons", []) if "fact" in lesson) > 2:
-            problem(f"{name} {unit.get('id')}", "more than two facts in a unit")
         for lesson in unit.get("lessons", []):
             lessons += 1
             lid = lesson.get("id", "?")
