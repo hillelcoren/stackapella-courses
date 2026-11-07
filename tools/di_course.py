@@ -109,6 +109,7 @@ def di_1_heard():
     model = [{"beat": 0, "length": 1, "step": 0, "lyric": "A-"}, {"beat": 1, "length": 2, "step": 5, "lyric": "maz-"}, {"beat": 3, "length": 1, "step": 9, "lyric": "ing"}]
     return {
         "id": "di-1-heard", "title": EN("Be heard"), "strictness": "relaxed",
+        "fact": fact("trent-words-understood", "In 1562 a draft canon at the Council of Trent asked that church singing be made \"not to give empty pleasure to the ear, but in such a way that the words be clearly understood by all\".", "University of Richmond, Palestrina: texts from Lockwood's Pope Marcellus Mass (1975)", "https://facultystaff.richmond.edu/~jriehl/local/Choral_Music_Creed/palestrina.html"),
         "steps": [
             learn("Diction is being understood. The note lives on the vowel. Sing Amazing Grace's first line as you normally would.",
                   [("Just sing it", "As you normally would"), ("Then again", "With one change"), ("Hear both", "Side by side")]),
@@ -140,6 +141,7 @@ def di_1_two():
     ex = {"tempo": TEMPO, "notes": held_words(words), "turn": False, "drone": {"step": 0}, "score": "lock"}
     return {
         "id": "di-1-two", "title": EN("Two vowels, one note"),
+        "fact": fact("great-vowel-shift-glides", "In Middle English, \"mite\" sounded like today's \"meet\" and \"bout\" like \"boot\". The Great Vowel Shift broke those long vowels into the two-vowel glides we say in \"mite\" and \"bout\" today.", "Wikipedia, Great Vowel Shift", "https://en.wikipedia.org/wiki/Great_Vowel_Shift"),
         "steps": [
             learn("Night, day, how and boy each glide between two vowels. Hold the first and give the second only at the very end.",
                   [("Night", "Ah, then a touch of ee"), ("Day", "Eh, then a touch of ee"), ("How", "Ah, then a touch of oo")]),
@@ -182,6 +184,7 @@ def di_2_finals():
     ex = {"tempo": TEMPO, "notes": held_words(["night", "light", "past", "bright", "cold", "found"]), "turn": False, "drone": {"step": 0}, "score": "release"}
     return {
         "id": "di-2-finals", "title": EN("The end on the beat"),
+        "fact": fact("garcia-consonants-beat-time", "The great singing teacher Manuel Garcia gave consonants a second job beyond making the words clear: \"To beat time and mark the rhythm by their percussions.\"", "Garcia, Hints on Singing (revised edition, ed. Klein)", "https://archive.org/details/hintsonsinging00garc"),
         "steps": [
             learn("A word's last consonant goes exactly where the note ends. A final t, k, p or s is quick and light; a final d is light too, never \"found-uh\".",
                   [("Hold the vowel", "To the end of the note"), ("Then the consonant", "Right on the beat"), ("Light", "A short s, a soft d")]),
@@ -206,6 +209,7 @@ def di_2_together():
     ex = {"tempo": TEMPO, "notes": words, "turn": False, "with": partner, "score": "release"}
     return {
         "id": "di-2-together", "title": EN("Together"),
+        "fact": fact("coward-last-eighth-of-beat", "In 1914 the choir trainer Henry Coward told singers to cut a final s, z or sh as short as possible, and \"never introduce them till the last eighth of the beat\".", "Coward, Choral Technique and Interpretation (1914)", "https://archive.org/details/choraltechniquei00cowa"),
         "steps": [
             learn("A choir's words end together, or a stray t or s sticks out. Listen for it, then end with the voice beside you.",
                   [("Listen", "Did they stop together?"), ("Then you", "With a partner voice"), ("Together", "Your end with its end")]),
@@ -250,6 +254,7 @@ def di_3_n_l():
     words = held_words(["nine", "only", "long", "all"])
     return {
         "id": "di-3-n-l", "title": EN("The n on the note"),
+        "fact": fact("lehmann-twelve-endings-on-n", "In her 1902 book How to Sing, the soprano Lilli Lehmann quoted the German words of Norma's entrance recitative and marked each final n: \"Twelve endings on n!\"", "Lehmann, How to Sing (1902)", "https://www.gutenberg.org/ebooks/19116"),
         "steps": [
             learn("n and l have pitch too. Put them on the note, not below it sliding up. \"Long\" has no g after the ng; \"all\" ends on a light l.",
                   [("On the note", "Not under it"), ("No g", "\"long\", not \"long-g\""), ("A light l", "The tongue tip")]),
@@ -262,6 +267,7 @@ def di_3_buzz():
     words = held_words(["very", "zoo", "love"])
     return {
         "id": "di-3-buzz", "title": EN("Buzz, not hiss"),
+        "fact": fact("old-english-f-v-one-letter", "Old English usually wrote v and f with the same letter, f, and z and s with s: an f or s buzzed between vowels, and hissed at the start or end of a word.", "Wikipedia, Old English phonology", "https://en.wikipedia.org/wiki/Old_English_phonology"),
         "steps": [
             learn("v and z can buzz on the note, or hiss without it. Buzz them.",
                   [("Very", "A buzzing v"), ("Zoo", "A buzzing z"), ("Love", "A light v at the end")]),
@@ -304,6 +310,7 @@ def di_4_choir():
     ex = {"tempo": min(tempo, 80), "notes": line, "turn": False, "with": [{"notes": [dict(n) for n in line], "volume": 0.5}]}
     return {
         "id": "di-4-choir", "title": EN("One choir, one vowel"),
+        "fact": fact("choir-mode-matched-loudness", "In a 1986 study, eight basses and baritones sang solo and in a choir. In the choir they usually matched their loudness to the voices they heard, and put less power into the high \"singer's formant\".", "Rossing, Sundberg and Ternström, JASA (1986)", "https://pubmed.ncbi.nlm.nih.gov/3722607/"),
         "steps": [
             learn("A choir is understood when it sings the same vowel at the same time. Match the voice beside you.",
                   [("Match its oo", "The same shape"), ("Then the words", "In unison"), ("Together", "Vowels and ends")]),
@@ -323,6 +330,7 @@ def di_4_lining():
             n["listenOnly"] = True
     return {
         "id": "di-4-lining", "title": EN("Lining out"),
+        "fact": fact("worcester-deacon-1779", "In 1779 Worcester, Massachusetts, voted to stop lining out its psalms. The next Sunday the old deacon lined out anyway; the singers sang straight over him, and he left in tears.", "Lincoln, History of Worcester, Massachusetts (1837), Internet Archive", "https://archive.org/details/historyofworcest00linc"),
         "steps": [
             learn("In lining out, a leader sings a line and the group answers. The guide sings lines 1 and 3; you answer with 2 and 4, every word.",
                   [("The leader", "Lines 1 and 3"), ("You", "Lines 2 and 4"), ("Every word", "Stress, vowels, ends")]),

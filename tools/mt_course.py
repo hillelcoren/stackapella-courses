@@ -172,6 +172,7 @@ def mt_1_stress():
     sing = {"tempo": 88, "notes": line, "turn": True, "chords": buttercup_chords(line, L1)}
     return {
         "id": "mt-1-stress", "title": EN("The word that matters"),
+        "fact": fact("gilbert-inflection", "Gilbert directed his own operas and insisted his words be delivered \"even to an inflection of the voice, as he dictates\", repeating them beside the actor \"over and over again\".", "Grossmith, A Society Clown (1888)", "https://www.gutenberg.org/ebooks/53225"),
         "steps": [
             learn("In every line one word matters most, and the music puts it on a strong beat. In a waltz that's the ONE of ONE-two-three.",
                   [("ONE-two-three", "The waltz's strong beat"), ("The word that matters", "\"dear\", \"little\", \"Buttercup\""), ("Then sing it", "Line two, leaning on the ONE")]),
@@ -203,6 +204,7 @@ def mt_1_thought():
     sing = {"tempo": 88, "notes": line, "turn": False, "chords": buttercup_chords(line), "score": "entry"}
     return {
         "id": "mt-1-thought", "title": EN("Breathe where the thought ends"),
+        "fact": fact("buttercup-bumboat-poem", "Little Buttercup grew out of Gilbert's own comic poem \"The Bumboat Woman's Story\", about a woman who sold the ships \"apples and cakes, and fowls, and beer\".", "Wikipedia, H.M.S. Pinafore", "https://en.wikipedia.org/wiki/H.M.S._Pinafore"),
         "steps": [
             learn("A breath belongs at the end of a thought, not at every comma. Breathing mid-thought cuts the sense in two.",
                   [("One thought", "Dear Little Buttercup, all of it"), ("Then breathe", "Where the thought ends"), ("Back in", "On time for the next one")]),
@@ -252,6 +254,7 @@ def mt_2_consonants():
     one = major_general(0, MG_LINE1)
     return {
         "id": "mt-2-consonants", "title": EN("Consonant first"),
+        "fact": fact("ruddigore-unintelligible-patter", "Gilbert joked about patter nobody can follow. A trio in Ruddigore (1887) sings: \"This particularly rapid, unintelligible patter isn't generally heard, and if it is, it doesn't matter!\"", "Wikipedia, Patter song", "https://en.wikipedia.org/wiki/Patter_song"),
         "steps": [
             learn("Put the consonant just before the beat, so the vowel lands on it. The app hears the vowel; so does the audience.",
                   [("Consonant early", "A hair before the beat"), ("Vowel on the beat", "That's the note"), ("Loose jaw", "Small, quick, easy")]),
@@ -273,6 +276,7 @@ def mt_2_quicker():
                "why": EN("A few of its words came early: clear patter stays even.")} for r in (True, False, True)]
     return {
         "id": "mt-2-quicker", "title": EN("A little quicker"),
+        "fact": fact("patter-pater-noster", "The word \"patter\" comes from the Pater Noster, the Lord's Prayer said in Latin: people's habit of rushing through its words as quickly as possible gave English the word.", "Wikipedia, Patter song", "https://en.wikipedia.org/wiki/Patter_song"),
         "steps": [
             learn("Clear first, then quicker. Here the top speed is three words a second; the real thing is about twice that.",
                   [("Slow", "Every word clear"), ("Listen", "Which one rushed?"), ("Quicker", "Three words a second, even")], visual="echo"),
@@ -328,6 +332,7 @@ def mt_3_legit():
     ex = {"tempo": 88, "notes": line, "turn": False, "chords": buttercup_chords(line, L2), "score": "release"}
     return {
         "id": "mt-3-legit", "title": EN("Tall and steady"),
+        "fact": fact("singers-formant", "Trained operatic voices carry a strong energy peak near 3,000 hertz, the singer's formant. An orchestra makes relatively little sound up there, so the voice can be heard above it.", "National Center for Voice and Speech, The Singer's Formant", "https://ncvs.org/tutorials/the-singers-formant/"),
         "steps": [
             learn("Legit is the classic sound: tall vowels and long notes held to their full value. On \"why\", stay on \"ah\" and turn to \"ee\" only at the end.",
                   [("Tall vowels", "Space inside, jaw easy"), ("Stay on ah", "Why: ah, then ee at the cutoff"), ("Held to its value", "Then let go on time")]),
@@ -385,6 +390,7 @@ def mt_4_button():
     ex = {"tempo": 88, "notes": line, "turn": False, "chords": buttercup_chords(line, L5), "score": "release"}
     return {
         "id": "mt-4-button", "title": EN("The button"),
+        "fact": fact("gilbert-hands-wrists", "Henry Lytton asked Gilbert what to do with his hands on stage. \"Cut them off at the wrists, Lytton,\" came the quick reply, \"and forget you've got any hands!\"", "Lytton, The Secrets of a Savoyard (1922)", "https://www.gutenberg.org/ebooks/39392"),
         "steps": [
             learn("The button is a song's last note, held to its value, stopped on the beat, then stillness while the thought lands.",
                   [("Hold it", "To its full value"), ("Stop", "Exactly on the beat"), ("Stay still", "A moment after")]),

@@ -207,6 +207,7 @@ def b_1_onset():
     model = [{"beat": k * 2, "length": 1, "step": s, "lyric": w} for k, (w, s) in enumerate([("hey", 2), ("yeah", 0), ("no", 2), ("my", 0)])]
     return {
         "id": "belting-1-onset", "title": EN("Start on h, y, n"),
+        "fact": fact("glottal-stop-okina", "That click before a bare vowel is a glottal stop, the catch in the middle of \"uh-oh\". In Hawaiian it's a letter, the ʻokina: it tells koʻu, \"my\", from kou, \"your\".", "Wikipedia, Glottal stop; Hawaiian alphabet", "https://en.wikipedia.org/wiki/Glottal_stop"),
         "steps": [
             first("Every call starts on a sound that eases the voice in: h, y, n, m or w. Never a vowel on its own, which can start with a click.",
                   [("Easy starts", "hey, yeah, no, my, whoa"), ("No click", "The sound slides in")]),
@@ -293,6 +294,7 @@ def b_2_come():
     model = [{"beat": 0, "length": 0.5, "step": 2, "lyric": "Hey,"}, {"beat": 0.5, "length": 0.5, "step": 1, "lyric": "come"}, {"beat": 1, "length": 1, "step": -1, "lyric": "here!"}]
     return {
         "id": "belting-2-come", "title": EN("Hey, come here"),
+        "fact": fact("calling-contour-sung-speech", "Linguists call a call's falling tune the calling contour: two level notes, stepping down. A 2013 lab study of such calls, billed as the first, found results suggesting they're a kind of \"sung speech\".", "Day-O'Connell, Music Perception (2013)", "https://doi.org/10.1525/mp.2013.30.5.441"),
         "steps": [
             first("Two- and three-word calls, each falling at the end, the way speech does.",
                   [("Hey, come here!", "Three notes, down"), ("Hello! Whoa there!", "Two notes, down")]),
@@ -308,6 +310,7 @@ def b_2_twang():
     model = [{"beat": 0, "length": 1, "step": 0, "lyric": "nyeah"}, {"beat": 1, "length": 1, "step": -2, "lyric": "nyeah"}]
     return {
         "id": "belting-2-twang", "title": EN("Nyeah"),
+        "fact": fact("twang-not-nasal", "Twang isn't the same as nasal. In a small MRI study, two singers made a bright twang with the passage from the throat to the nose closed off.", "Perta, Bae and Obert, Logoped. Phoniatr. Vocol. (2021)", "https://pubmed.ncbi.nlm.nih.gov/32396757/"),
         "steps": [
             first("A small, silly \"nyeah\", like a kid teasing: it brightens the sound with no effort at all. If it pinches, drop it and go on.",
                   [("Small and silly", "Low, short, spoken first"), ("Then \"yeah\"", "The same brightness, without the nasal")]),
@@ -365,6 +368,7 @@ def b_3_colours():
         notes += [call("hey", step, k * 5, 1), {"beat": k * 5 + 2, "length": 1.5, "step": step, "lyric": "hoo"}]
     return {
         "id": "belting-3-colours", "title": EN("Same note, two colours"),
+        "fact": fact("belt-legit-same-notes", "On the same notes, music theatre singers' \"chesty belt\" had more energy above 1,000 hertz than their \"legit\" voice, and their vocal folds stayed closed for more of each vibration.", "Bourne and Garnier, JASA (2012)", "https://pubmed.ncbi.nlm.nih.gov/22352528/"),
         "steps": [
             first("The same note two ways: \"hey\" bright, then \"hoo\" light. Singers who belt well always keep the light voice beside it.",
                   [("Bright", "\"hey\", like a call"), ("Light", "\"hoo\", like an owl")]),
@@ -419,6 +423,7 @@ def b_4_heyho():
     model = [{"beat": 0, "length": 2, "step": 2, "lyric": "Hey"}, {"beat": 2, "length": 2, "step": 0, "lyric": "ho"}]
     return {
         "id": "belting-4-heyho", "title": EN("Hey, ho"),
+        "fact": {**fact("ravenscroft-three-blind-mice", "Hey, Ho's editor, Thomas Ravenscroft, put out a second book of songs and rounds the same year, 1609. In it is the first known printing of Three Blind Mice.", "Wikipedia, Three Blind Mice", "https://en.wikipedia.org/wiki/Three_Blind_Mice"), "distinct": ["heyho-pammelia"]},
         "steps": [
             first("Hey, Ho, Nobody Home is a round printed in 1609: every voice sings the same tune, coming in one after another. Its \"Hey, ho\" is a call.",
                   [("Hey, ho", "A call, falling"), ("Nobody home", "Easy, down to the end")]),
@@ -434,6 +439,7 @@ def b_4_haul():
     model = [{"beat": 0, "length": 1, "step": 2, "lyric": "Way,"}, {"beat": 1, "length": 1, "step": 2, "lyric": "haul"}, {"beat": 2, "length": 2, "step": -3, "lyric": "away"}]
     return {
         "id": "belting-4-haul", "title": EN("Way, haul away"),
+        "fact": fact("short-drag-shanty", "Haul Away Joe was a short-drag shanty, for brief, hard hauls such as turning the sails: the crew gave one heave per chorus, typically on its last word.", "Wikipedia, Sea shanty", "https://en.wikipedia.org/wiki/Sea_shanty"),
         "steps": [
             first("Sailors hauled a rope to a shanty: the shantyman sang a line, and the crew answered together. Their answer is a call: \"Way, haul away\".",
                   [("The crew's answer", "Bright, together, short"), ("Not a shout", "A crew works all day")]),
@@ -450,6 +456,7 @@ def b_4_wade():
              {"beat": 2, "length": 0.5, "step": 2, "lyric": "wa-"}, {"beat": 2.5, "length": 0.5, "step": -1, "lyric": "ter,"}]
     return {
         "id": "belting-4-wade", "title": EN("Wade in the water"),
+        "fact": fact("troubled-water-bethesda", "The theologian Howard Thurman traced the song's line \"God's gonna trouble the water\" to a story in John's Gospel: a healing pool whose water was stirred, or \"troubled\".", "Wikipedia, Wade in the Water", "https://en.wikipedia.org/wiki/Wade_in_the_Water"),
         "steps": [
             first(SPIRITUAL, [("One line", "\"Wade in the water,\""), ("At speaking volume", "A call that invites, never a shout")], visual="harmony"),
             warmup("brr"),
