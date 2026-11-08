@@ -291,8 +291,26 @@ def check(lid, steps):
                 in_span(where, r)
 
 
+# Each lesson page's "Did you know?" (2026-11-08): read in its source, then checked again.
+FACTS = {
+    "1-pad": {"id": "bagpipe-amazing-grace", "text": EN("A bagpipe Amazing Grace, by the pipes, drums and military band of the Royal Scots Dragoon Guards, was Britain's best-selling single of 1972. Under the tune, the pipes' drones hold one constant note, usually the home note."), "source": EN("Wikipedia, 1972 in British music; Bagpipes"), "url": "https://en.wikipedia.org/wiki/1972_in_British_music"},
+    "1-moving": {"id": "rule-of-the-shortest-way", "text": EN("Keep the shared note, else take the nearest: in his 1841 harmony textbook the organist Johann August Dürrnberger called this the \"rule of the shortest way\". Anton Bruckner was one of his students."), "source": EN("Wikipedia, Voice leading"), "url": "https://en.wikipedia.org/wiki/Voice_leading"},
+    "1-together": {"id": "choir-hearts-in-step", "text": EN("In a 2013 study of fifteen 18-year-old choir singers, their heart rates rose and fell together when they sang a slow chant, breathing only between phrases. Humming one note, breathing at will, gave no shared pattern."), "source": EN("Vickhoff et al., Frontiers in Psychology (2013)"), "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00334/full"},
+    "2-doo-wah": {"id": "doo-wop-progression-buxtehude", "text": EN("Your four chords are known as the doo-wop progression, or the \"Heart and Soul\" chords. They're far older: Dieterich Buxtehude, who died in 1707, repeated them in the bass line of a psalm setting."), "source": EN("Wikipedia, '50s progression"), "url": "https://en.wikipedia.org/wiki/50s_progression"},
+    "2-shoo-bop": {"id": "syllables-for-drums", "text": EN("Doo-wop street singers generally sang with no instruments. They kept time with a swing-like off-beat, and syllables like \"doo-wop\" stood in for the drums."), "source": EN("Wikipedia, Doo-wop"), "url": "https://en.wikipedia.org/wiki/Doo-wop"},
+    "2-three": {"id": "doo-wop-name-1961", "text": EN("The earliest known print use of \"doo-wop\" for this music came in 1961, as the style faded: a Chicago Defender column called the Marcels' \"Blue Moon\" a doo-wop \"like those of many years ago\"."), "source": EN("Wikipedia, Doo-wop"), "url": "https://en.wikipedia.org/wiki/Doo-wop"},
+    "3-fill": {"id": "whatd-i-say-filled-time", "text": EN("One night on tour, Ray Charles and his band ran out of songs with time still to fill. He improvised \"What'd I Say\", and had his backing singers answer him."), "source": EN("Wikipedia, What'd I Say"), "url": "https://en.wikipedia.org/wiki/What%27d_I_Say"},
+    "3-response": {"id": "basing-the-leader", "text": EN("Slave Songs of the United States (1867), the book that printed Michael, Row, describes a leader starting each verse, often improvising, while the others, \"who 'base' him, as it is called\", strike in with the refrain."), "source": EN("Allen, Ware and Garrison, Slave Songs of the United States (1867), introduction, Internet Archive"), "url": "https://archive.org/details/slavesongsofunit00alle", "distinct": ["michael-row-1863"]},
+    "3-on-time": {"id": "gandy-dancers-third-beat", "text": EN("Gandy dancers, railroad gangs who straightened track, tapped their bars on the rails to a caller's song. Once they tapped in perfect time, he called for a pull on the third beat of a four-beat refrain."), "source": EN("Encyclopedia of Alabama, Gandy Dancer Work Song Tradition"), "url": "https://encyclopediaofalabama.org/article/gandy-dancer-work-song-tradition/"},
+    "4-red-river": {"id": "artificial-double-tracking", "text": EN("Pop singers often double a vocal by singing it twice. In 1966 an Abbey Road engineer invented a way to fake it, artificial double tracking, mainly at John Lennon's request: he despised the chore."), "source": EN("Wikipedia, Automatic double tracking"), "url": "https://en.wikipedia.org/wiki/Automatic_double_tracking"},
+    "4-two-more": {"id": "andrews-sisters-three-parts", "text": EN("The Andrews Sisters sang close harmony in three parts: LaVerne a contralto, Maxene a soprano, and Patty, a mezzo-soprano, the lead. They started out imitating an earlier sister trio, the Boswell Sisters."), "source": EN("Wikipedia, The Andrews Sisters"), "url": "https://en.wikipedia.org/wiki/The_Andrews_Sisters"},
+}
+
+
 def lesson(lid, title, steps, **extra):
     check(lid, steps)
+    if "fact" not in extra and lid in FACTS:
+        extra = {"fact": FACTS[lid], **extra}
     return {"id": f"bv-{lid}", "title": EN(title), **extra, "steps": steps}
 
 
