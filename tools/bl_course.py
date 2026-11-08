@@ -306,13 +306,57 @@ def check(lid, unit, steps, challenge):
 
 
 # ---- The facts ----
+# Each lesson page's "Did you know?" (2026-11-08): read in its source, then read again by a second, independent
+# check, which corrected seven (mostly wording that stretched a quote); every person named has died. Where the
+# old folklore articles use dated language, none of it is quoted. The four challenges carry none.
 
-FACTS = {}
+def FACT_EN(text):
+    """A fact's words: the never-use list, but people's initials (W. C. Handy) aren't note names."""
+    assert not BANNED.search(text), text
+    return {"en": text}
+
+
+def fact(fid, text, source, url, **extra):
+    return {"id": fid, "text": FACT_EN(text), "source": FACT_EN(source), "url": url, **extra}
+
+
+JAF11 = "https://archive.org/details/sim_journal-of-american-folklore_october-december-1911_24_94"
+JAF03 = "https://archive.org/details/sim_journal-of-american-folklore_july-september-1903_16_62"
+HANDY = "https://archive.org/details/fatherofbluesaut00wcha_0"
+FACTS = {
+    "1-say": fact("odum-joe-turner-three-times", "In 1911 the sociologist Howard Odum printed songs he had heard in Mississippi and Georgia. Of one, about Joe Turner, he wrote: \"Each line is sung three times to make a stanza.\"",
+                  "Odum, Journal of American Folk-Lore 24 (1911), p. 351, Internet Archive", JAF11),
+    "1-hum": fact("dark-was-the-night-hummed", "Blind Willie Johnson's 1927 recording of Dark Was the Night, Cold Was the Ground has no words, only hums and moans over his slide guitar. In 1977 NASA put it on the Voyager Golden Record.",
+                  "Library of Congress, National Recording Registry essay; NASA, Golden Record contents", "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/DarkWasTheNight.pdf"),
+    "1-answer": fact("handy-third-line-why", "W. C. Handy found the folk habit of singing one line three times too monotonous. So in St. Louis Blues he made a statement, repeated it, then used the last line to tell \"why the statement was made.\"",
+                     "Handy, Father of the Blues (New York: Macmillan, 1941), pp. 142-143, Internet Archive", HANDY),
+    "2-blue": fact("peabody-sharp-on-purpose", "In 1903 an archaeologist who had dug a mound in Coahoma County, Mississippi, wrote that his crew often sang a refrain's final home note a little sharp: \"So frequent was this that it seemed intentional or unavoidable, not merely a mistake in pitch.\"",
+                   "Peabody, Journal of American Folk-Lore 16 (1903), p. 151, Internet Archive", JAF03),
+    "2-ending": fact("waller-muscle-shoals-1922", "Muscle Shoals Blues was one of the first records Fats Waller made: a piano solo for OKeh, in October 1922.",
+                     "Discography of American Historical Recordings, OKeh matrix S-70948, UC Santa Barbara", "https://adp.library.ucsb.edu/index.php/matrix/detail/2000203086/S-70948-Muscle_Shoals_blues",
+                     distinct=["shch-carnegie-1922"]),
+    "2-two": fact("muscle-shoals-ford-boom", "Muscle Shoals Blues, printed in 1921, begs \"go with me to Muscle Shoals\". That year Henry Ford offered to lease the unfinished dam and plants there, setting off a short-lived land boom.",
+                  "Encyclopedia of Alabama, \"Muscle Shoals\"; The Henry Ford museum; Mississippi State University Libraries", "https://encyclopediaofalabama.org/?p=16787"),
+    "3-room": fact("handy-gaps-became-breaks", "In the folk blues, W. C. Handy wrote, the singer filled occasional gaps with words like \"Oh, baby\". In St. Louis Blues he filled those gaps in the piano and orchestra parts instead. Such a fill is called a break.",
+                   "Handy, Father of the Blues (New York: Macmillan, 1941), pp. 120-121, Internet Archive", HANDY),
+    "3-fall": fact("tutwiler-knife-guitar", "Waiting for a late train at Tutwiler, Mississippi, W. C. Handy woke to a guitarist pressing a knife on his strings as he played. Handy called the effect unforgettable.",
+                   "Handy, Father of the Blues (New York: Macmillan, 1941), p. 74, Internet Archive", HANDY),
+    "3-lay": fact("fives-train-rhythm", "The Fives, by George W. Thomas and his brother Hersal, was inspired by railroad travel. George said he based its piano left hand on the rhythm of the trains.",
+                  "Handbook of Texas Online, \"Thomas, George Washington, Jr.\"; Bill Edwards, RagPiano.com", "https://www.tshaonline.org/handbook/entries/thomas-george-washington-jr-clay-custer",
+                  distinct=["sgb-hociel", "sgb-own-press"]),
+    "4-first": fact("woke-up-this-mornin-1911", "Waking up this morning was sung about long before blues records. A camp workers' song Howard Odum printed in 1911 sings three times of waking up this morning and not being able to keep from crying, then answers it.",
+                    "Odum, Journal of American Folk-Lore 24 (1911), p. 381, Internet Archive", JAF11),
+    "4-answer": fact("hersal-died-a-teenager", "Hersal Thomas, who wrote The Fives with his much older brother George, was a piano prodigy whose playing of it inspired Chicago pianists such as Albert Ammons and Meade Lux Lewis. He died suddenly in Detroit in 1926, still in his teens.",
+                     "Handbook of Texas Online, \"Thomas, Hersal\"; Discography of American Historical Recordings", "https://www.tshaonline.org/handbook/entries/thomas-hersal"),
+    "4-verse": fact("mighty-long-half-day", "In Coahoma County, Mississippi, in 1901 and 1902, an archaeologist heard his crew make up lines on the spot about whatever was going on. One Saturday half-holiday, a sing-song came out of the trench: Mighty long half day, Captain.",
+                    "Peabody, Journal of American Folk-Lore 16 (1903), pp. 149-150, Internet Archive", JAF03),
+}
 
 
 def lesson(lid, unit, title, steps, **extra):
     check(lid, unit, steps, extra.get("challenge", False))
-    if not extra.get("challenge") and lid in FACTS:
+    if not extra.get("challenge"):
+        assert lid in FACTS, f"bl-{lid}: every lesson page has a fact"
         extra = {"fact": FACTS[lid], **extra}
     return {"id": f"bl-{lid}", "title": EN(title), **extra, "steps": steps}
 
