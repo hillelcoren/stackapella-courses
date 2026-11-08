@@ -85,6 +85,13 @@ class Song:
         self.tune = [(n["beat"], n["length"], n["pitch"] - do - down, n.get("lyric")) for n in data["parts"][0]["guide"]["notes"]]
         self.chords = [(c["beat"], (c["root"] - key - down) % 12, c["quality"]) for c in data["chords"]]
         self.bounds = {b for s in data["sections"] for p in s["phrases"] for b in p}
+        self.parts = {p["key"]: [(n["beat"], n["length"], n["pitch"] - do - down, n.get("lyric")) for n in p["guide"]["notes"]]
+                      for p in data["parts"]}
+
+    def crew(self, frm, to, parts=("alto", "tenor", "bass")):
+        """The guide's crew: the template's lower parts from `frm` to `to`, one partner line each, re-timed to 0."""
+        return [{"notes": [{"beat": num(b - frm), "length": num(length), "step": p, **({"lyric": w} if w else {})}
+                           for b, length, p, w in self.parts[k] if frm <= b < to]} for k in parts if k in self.parts]
 
     def notes(self, frm, to):
         """The tune from `frm` to `to`, re-timed to start at 0, words kept (a note with no word is held over)."""
@@ -111,6 +118,10 @@ JOE = Song("haul-away-joe", 5)
 # answers sit from 0 to +9 as written; the course takes it slower first (the voice-teacher review).
 BLOW = Song("blow-the-man-down", 0)
 BLOW_SLOW = 120
+# Leave Her, Johnny: Sharp 1914 No. 2, John Short's capstan shanty, E dorian at 90; the soprano sings the solos,
+# everyone the choruses. Down 1, the choruses sit from -3 to +6 and the solos from -3 to +9. No pull marks in
+# the print, as a capstan song should be: the crew walked the bars round.
+LEAVE = Song("leave-her-johnny", 1)
 
 
 def card(title, detail):
@@ -139,9 +150,9 @@ def call_answer(text, call, answer, tempo, measures=PITCH, *, chords=None, **ext
     return {"kind": "play", "text": EN(text), "exercise": ex, "measures": EN(measures)}
 
 
-def with_crew(text, notes, tempo, partner, measures=PITCH, *, chords=None, **extra):
-    """Sing your line while the guide sings the calls (`with`): the calls sound under you, so headphones."""
-    ex = {"tempo": tempo, "turn": False, "notes": notes, "with": [partner]}
+def with_crew(text, notes, tempo, partners, measures=PITCH, *, chords=None, **extra):
+    """Sing your line while the guide sings the other lines (`with`): they sound under you, so headphones."""
+    ex = {"tempo": tempo, "turn": False, "notes": notes, "with": partners if isinstance(partners, list) else [partners]}
     if chords:
         ex["chords"] = chords
     ex.update(extra)
@@ -233,6 +244,37 @@ B_CALL2, B_ANSWER2 = BLOW.notes(24, 37), [dict(n, beat=num(n["beat"] - 37)) for 
 assert B_ANSWER1[0]["lyric"] == "Way-" and B_ANSWER2[0]["lyric"] == "Give", (B_ANSWER1, B_ANSWER2)
 
 
+# The song as it goes, for the beat: your answers with the guide's calls as a partner line, chords on the
+# step's own timeline. A turn step (hear, then answer) puts a beat's gap between call and answer, which is no
+# song's own rhythm, so turn steps are pitch only and carry no chords (they'd sit on the wrong beats).
+
+def answers(song, ranges, frm):
+    """The soprano's notes in `ranges` (template beats), re-timed from `frm`: the crew's answers."""
+    return [dict(n, beat=num(n["beat"] + frm - frm)) for n in song.notes(frm, max(z for _, z in ranges))
+            if any(a <= n["beat"] + frm < z for a, z in ranges)]
+
+
+J_SONG = (0, 32)  # the chorus and verse 1
+J_ANSWERS = answers(JOE, [(9, 16), (25, 32)], 0)
+J_CALLS = JOE.calls(*J_SONG, [(0, 9), (16, 25)])
+B_SONG = (0, 48)  # the first call and its two answers
+B_ANSWERS = answers(BLOW, [(13, 24), (37, 48)], 0)
+B_CALLS = BLOW.calls(*B_SONG, [(0, 13), (24, 37)])
+B_VCALL = BLOW.notes(48, 61)  # verse 1's call, a fifth above the crew's last note
+assert B_VCALL[0]["step"] - B_ANSWER2[-1]["step"] == 7, (B_VCALL[0], B_ANSWER2[-1])
+
+L_VERSE = (0, 32)
+L_TWO = (0, 64)
+L_SOLOS = [(0, 9), (16, 24.5), (32, 41), (48, 56.5)]
+L_CHORUSES = [(9, 16), (24.5, 32), (41, 48), (56.5, 64)]
+L_CALL1, L_ANSWER1 = LEAVE.notes(0, 9), [dict(n, beat=num(n["beat"] - 9)) for n in LEAVE.notes(9, 16)]
+
+
+def verse(song, span, ranges):
+    frm, to = span
+    return [n for n in song.notes(frm, to) if any(a <= n["beat"] + frm < z for a, z in ranges)]
+
+
 UNIT1_LESSONS = [
     # sh-1-answer (Drunken Sailor's chorus, lesson 1) waits for the arranger's Sharp No. 7.
     lesson("1-joe", 1, "Sweating up", [
@@ -241,7 +283,7 @@ UNIT1_LESSONS = [
         ], "phrase"),
         find("Find the answer's notes. Each waits until you're on it.", J_ANSWER, JOE.tempo),
         call_answer("Hear the call, then answer: \"Way, haul away, haul away, Joe\". Breathe in the call.",
-                    J_CALL, J_ANSWER, JOE.tempo, chords=JOE.chords_at(*J_CHORUS)),
+                    J_CALL, J_ANSWER, JOE.tempo),
     ]),
     lesson("1-breathe", 1, "Breathe in the call", [
         learn("Blow the Man Down hoisted a sail: the long hoist. While the shantyman sang, the crew shifted their hands on the rope and took a breath, low and quiet.", [
@@ -251,9 +293,9 @@ UNIT1_LESSONS = [
         ], "phrase"),
         find("Find the first answer's notes: \"Way-ay, blow the man down\".", B_ANSWER1, BLOW_SLOW),
         call_answer("Hear the call, then answer. Take your breath in the call's last word.",
-                    B_CALL1, B_ANSWER1, BLOW_SLOW, chords=BLOW.chords_at(0, 24)),
+                    B_CALL1, B_ANSWER1, BLOW_SLOW),
         call_answer("The second answer now: \"Give me some time to blow the man down\".",
-                    B_CALL2, B_ANSWER2, BLOW_SLOW, chords=BLOW.chords_at(24, 48)),
+                    B_CALL2, B_ANSWER2, BLOW_SLOW),
     ]),
 ]
 
@@ -262,22 +304,67 @@ UNIT2_LESSONS = [
         learn("Now the beat: on a real rope, everyone pulled on the same word, or nothing moved. Aim the \"aw\" of \"haul\" at the beat, not the h.", [
             ("The vowel on the beat", "The \"aw\" of \"haul\", the \"oh\" of \"Joe\""),
             ("One strong pull", f"On \"Joe\", short and sung; {SAFE}"),
-            BIG,
+            HEADPHONES,
         ], "phrase"),
-        call_answer("Hear the call, then answer on the beat.",
-                    J_CALL, J_ANSWER, JOE.tempo, BEAT, chords=JOE.chords_at(*J_CHORUS), rhythm=True),
-    ]),
+        with_crew("The chorus and a verse: the shantyman calls, you answer on the beat.",
+                  J_ANSWERS, JOE.tempo, J_CALLS, BEAT, chords=JOE.chords_at(*J_SONG), rhythm=True),
+    ], headphones=True),
     lesson("2-hoist", 2, "The long hoist", [
         learn("A halyard shanty had two short answers, with a double pull in each. Same answers as before, now on the beat, slow first, then at the crew's pace.", [
             ("Two pulls an answer", "Together, on the beat"),
             ("Slow, then the crew's pace", f"Steady before fast; {SAFE}"),
+            HEADPHONES,
+        ], "phrase"),
+        with_crew("Slow first: the call, then your two answers on the beat.",
+                  B_ANSWERS, BLOW_SLOW, B_CALLS, BEAT, chords=BLOW.chords_at(*B_SONG), rhythm=True),
+        with_crew("Now at the crew's pace.",
+                  B_ANSWERS, BLOW.tempo, B_CALLS, BEAT, chords=BLOW.chords_at(*B_SONG), rhythm=True),
+    ], headphones=True),
+    lesson("2-capstan", 2, "Walk it round", [
+        learn("Leave Her, Johnny was a capstan shanty: no pull, the crew walked the capstan bars round and round, so the beat is your feet. It was sung coming into port.", [
+            ("A steady walk", "Every answer in on the beat"),
+            ("No pull here", f"Just walking, round and round; {SAFE}"),
+            HEADPHONES,
+        ], "phrase"),
+        find("Find the chorus's notes: \"Leave her, Johnny, leave her\".", L_ANSWER1, LEAVE.tempo),
+        with_crew("A verse: the shantyman sings, you answer each chorus on the beat.",
+                  verse(LEAVE, L_VERSE, L_CHORUSES), LEAVE.tempo, LEAVE.calls(*L_VERSE, L_SOLOS), BEAT,
+                  chords=LEAVE.chords_at(*L_VERSE), rhythm=True),
+    ], headphones=True),
+]
+
+UNIT3_LESSONS = [
+    # sh-3-lead (Drunken Sailor's call, the tune from lesson 1) waits for the arranger's Sharp No. 7.
+    lesson("3-find", 3, "Find the call", [
+        learn("Now you're the shantyman. Your first note comes from the crew's last: they end on home, and your call starts a fifth above it.", [
+            ("Listen to the crew's last note", "Then go up a fifth"),
+            ("You sing alone", f"A big warm voice, never a strain; {SAFE}"),
             BIG,
         ], "phrase"),
-        call_answer("Slow first: hear the call, then answer on the beat.",
-                    B_CALL1, B_ANSWER1, BLOW_SLOW, BEAT, chords=BLOW.chords_at(0, 24), rhythm=True),
-        call_answer("Now at the crew's pace.",
-                    B_CALL2, B_ANSWER2, BLOW.tempo, BEAT, chords=BLOW.chords_at(24, 48), rhythm=True),
+        call_answer("The crew answers, then you call: \"As I was a-walking down Paradise Street\".",
+                    B_ANSWER2, B_VCALL, BLOW_SLOW),
     ]),
+    lesson("3-line", 3, "Make up a line", [
+        learn("A shantyman made up new lines as he went, often about the ship. The chorus never changed. Your line fits if it has one syllable for each note.", [
+            ("The chorus stays", "Only the shantyman's line is new"),
+            ("One syllable a note", f"Say it in rhythm first; {SAFE}"),
+            BIG,
+        ], "phrase"),
+        call_answer("First Sharp's line: hear the call, then sing it back.",
+                    L_CALL1, L_CALL1, LEAVE.tempo),
+        selfcheck("Your own line to the call's tune: about your day, your street, your week. Then hear yours beside the guide's.",
+                  LEAVE.tempo, {"notes": L_CALL1}, ["Did your words fit one a note?", "Did the tune stay the same?"]),
+    ]),
+    lesson("3-challenge", 3, "Lead Leave Her, Johnny", [
+        learn("You lead a whole verse: you sing the shantyman's lines, and the guide's crew answers you in four parts.", [
+            ("Your lines alone", "The crew comes in after you"),
+            ("Breathe in their chorus", f"Then lead again; {SAFE}"),
+            HEADPHONES,
+        ], "phrase"),
+        with_crew("A verse as the shantyman, the crew answering.",
+                  verse(LEAVE, L_VERSE, L_SOLOS), LEAVE.tempo,
+                  [p for p in LEAVE.crew(*L_VERSE)], PITCH, chords=LEAVE.chords_at(*L_VERSE), giveNote=True),
+    ], challenge=True, headphones=True),
 ]
 
 course = {
@@ -285,6 +372,7 @@ course = {
     "units": [
         {"id": "sh-the-crew-answers", "title": EN("The crew answers"), "colour": COLOUR, "lessons": UNIT1_LESSONS},
         {"id": "sh-on-the-pull", "title": EN("On the pull"), "colour": COLOUR, "lessons": UNIT2_LESSONS},
+        {"id": "sh-the-shantyman", "title": EN("The shantyman"), "colour": COLOUR, "lessons": UNIT3_LESSONS},
     ],
 }
 
