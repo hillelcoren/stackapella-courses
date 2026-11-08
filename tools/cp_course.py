@@ -306,7 +306,7 @@ def cp_2_challenge():
         {"prompt": EN("How many voices are singing by the end?"), "clips": [clip(2)], "options": count, "answer": 0,
          "why": EN("Two: a leader and one follower.")},
         {"prompt": EN("How many voices are singing by the end?"), "clips": [clip(4)], "options": count, "answer": 2,
-         "why": EN("Four: with entries two bars apart, every seat is filled. The oldest known round, Sumer is icumen in (about 1250), has four voices over two more.")},
+         "why": EN("Four: with entries a bar apart, every seat is filled. The oldest known round, Sumer is icumen in (about 1250), has four voices over two more.")},
     ]
     ding = [(1, 0, "ding,"), (1, -5, "dang,"), (2, 0, "dong,")]
     floor = notes(ding * 4, 48, AYS_DO)
@@ -624,7 +624,7 @@ def cp_4_challenge():
         "steps": [
             learn("Now you sing the cantus, and the guide sings the counterpoint close above you. Hold your slow line while the quicker-moving one pulls at your ear.",
                   [("You: the cantus", "Do fa mi re so fa mi re do"),
-                   ("Above you", "Its counterpoint, a sixth or an octave up"),
+                   ("Above you", "Its counterpoint, mostly a sixth or an octave up"),
                    ("Listen down to yourself", "Can you hear both lines as you sing?")], "harmony",
                   {"tempo": 60, "notes": line(low, 0), "turn": False, "with": [{"notes": line(high, 0)}]}),
             {"kind": "play", "text": EN("After the guide's do, sing the cantus while the guide sings the counterpoint above you."),

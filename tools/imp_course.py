@@ -610,7 +610,7 @@ def imp_4_high():
                   {"tempo": 84, "notes": sung(mel, do, 0), "turn": False, "chords": lib_chords(chs, do)}),
             {"kind": "play", "text": EN("Simple Gifts: a part above the tune, lights off."),
              "exercise": {"tempo": 84, "notes": cue(picks[0]["step"]) + shifted(picks, 4), "turn": False, "lights": "off", "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4)},
-             "measures": EN("Scored on landing on the chord tones above the tune, by ear. Did you know? Bluegrass is named after Bill Monroe's Blue Grass Boys, and Monroe often sang the high tenor above the lead.")},
+             "measures": EN("Scored on landing on the chord tone just above the tune, by ear. Did you know? Bluegrass is named after Bill Monroe's Blue Grass Boys, and Monroe often sang the high tenor above the lead.")},
         ],
     }
 
