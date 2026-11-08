@@ -78,6 +78,7 @@ SONGS = {
     "away-in-a-manger": "with the song",
     "abide-with-me": "with the song",
     "shall-we-gather": "with the song",
+    "jerusalem": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
