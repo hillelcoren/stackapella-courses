@@ -274,7 +274,8 @@ def check(lid, steps):
         if step["kind"] in ("play", "try"):
             in_span(where, ex["notes"])
         if step["kind"] == "play":
-            assert "rhythm" not in ex, "no rhythm field yet"
+            if "rhythm" in ex:
+                assert ex["rhythm"] in (True, "swing") and "score" not in ex, f"{where}: rhythm is true or \"swing\", on a default-scored step"
             check_line(where, ex)
             if "under" in ex:
                 check_layers(where, steps, i)
@@ -532,6 +533,8 @@ UNIT2 = {"id": "bv-doo-wop", "title": EN("Doo-wop"), "colour": COLOUR, "lessons"
 ]}
 
 # ---- Unit 3: Answers (Swing Low and Michael Row, the call and response they were) ----
+# An answer is in time or it isn't one: the answers with no `score` of their own take `rhythm` (pitch 70,
+# timing 30; docs/play-timing-plan.md in the app's repo) and say so.
 
 COMING = "Com- ing for to car- ry me home"
 SWING_CALLS = [(0, 8), (16, 24)]
@@ -569,11 +572,11 @@ UNIT3 = {"id": "bv-answers", "title": EN("Answers"), "colour": COLOUR, "lessons"
              0, "The answer waits for the long note: the first fills the held \"home\", the second sings over \"carry me\"."),
         ]), L("13:1 2, 14:2 -1"), L("10:2 2, 12:2 -1")),
         play("The first two lines: an \"oo\" in the tune's rest, then two under its held \"home\".",
-             first_two(FILLS, 16), SWING.tempo, "Scored on your answers on pitch.",
-             chords=SWING.chords_at(*S_TWO), lead=SWING.lead(*S_TWO)),
+             first_two(FILLS, 16), SWING.tempo, "Scored on your answers on pitch and on the beat.",
+             chords=SWING.chords_at(*S_TWO), lead=SWING.lead(*S_TWO), rhythm=True),
         play("The whole chorus: each answer in a rest or under a held note.",
-             FILLS, SWING.tempo, "Scored on your answers on pitch.",
-             chords=SWING.chords_at(*S_CHORUS), lead=SWING.lead(*S_CHORUS)),
+             FILLS, SWING.tempo, "Scored on your answers on pitch and on the beat.",
+             chords=SWING.chords_at(*S_CHORUS), lead=SWING.lead(*S_CHORUS), rhythm=True),
     ]),
     lesson("3-response", "The response", [
         learn("Call and response, the oldest backing job: the leader calls \"Michael, row the boat ashore\", and you answer \"Hallelujah\".", [
@@ -582,11 +585,11 @@ UNIT3 = {"id": "bv-answers", "title": EN("Answers"), "colour": COLOUR, "lessons"
             HEADPHONES,
         ], "phrase"),
         play("The lead sings only the calls. You sing the response: the tune's own \"Hallelujah\".",
-             RESPONSE, MICHAEL.tempo, "Scored on your response on pitch.",
-             chords=MICHAEL.chords_at(*M_VERSE), lead=MICHAEL.lead(*M_VERSE, calls=[(0, 8), (16, 24)])),
+             RESPONSE, MICHAEL.tempo, "Scored on your response on pitch and on the beat.",
+             chords=MICHAEL.chords_at(*M_VERSE), lead=MICHAEL.lead(*M_VERSE, calls=[(0, 8), (16, 24)]), rhythm=True),
         play("Now the lead sings it all. You sing the \"Hallelujah\" in harmony under it, resting through the calls. Halfway, the lights fade.",
-             HALLELUJAH, MICHAEL.tempo, "Scored on your harmony on pitch, the second half with the lights faded.",
-             chords=MICHAEL.chords_at(*M_VERSE), lead=MICHAEL.lead(*M_VERSE), lights="fade"),
+             HALLELUJAH, MICHAEL.tempo, "Scored on your harmony on pitch and on the beat, the second half with the lights faded.",
+             chords=MICHAEL.chords_at(*M_VERSE), lead=MICHAEL.lead(*M_VERSE), lights="fade", rhythm=True),
     ]),
     lesson("3-on-time", "Back in on time", [
         learn("Echo the tune's \"low\", then answer the line. Count the gap; come in on the beat.", [
@@ -595,8 +598,8 @@ UNIT3 = {"id": "bv-answers", "title": EN("Answers"), "colour": COLOUR, "lessons"
             HEADPHONES,
         ], "phrase"),
         play("The first two lines: echo \"low\", then answer \"Coming for to carry me home\".",
-             ON_TIME_TWO, SWING.tempo, "Scored on your answers on pitch.",
-             chords=SWING.chords_at(*S_TWO), lead=SWING.lead(*S_TWO, calls=SWING_CALLS)),
+             ON_TIME_TWO, SWING.tempo, "Scored on your answers on pitch and on the beat.",
+             chords=SWING.chords_at(*S_TWO), lead=SWING.lead(*S_TWO, calls=SWING_CALLS), rhythm=True),
         play("The whole chorus: each echo and answer in on the beat.",
              ON_TIME, SWING.tempo, "Scored on coming back in on time after each rest, and the note you land on.",
              chords=SWING.chords_at(*S_CHORUS), lead=SWING.lead(*S_CHORUS, calls=SWING_CALLS), score="entry"),
@@ -608,11 +611,11 @@ UNIT3 = {"id": "bv-answers", "title": EN("Answers"), "colour": COLOUR, "lessons"
             HEADPHONES,
         ], "phrase"),
         play("The verse: answer both calls, \"Coming for to carry me home\".",
-             [n for n in ANSWERS if n["beat"] < 33], SWING.tempo, "Scored on your answers on pitch.",
-             chords=SWING.chords_at(*S_VERSE), lead=SWING.lead(*S_VERSE, calls=VERSE_CALLS)),
+             [n for n in ANSWERS if n["beat"] < 33], SWING.tempo, "Scored on your answers on pitch and on the beat.",
+             chords=SWING.chords_at(*S_VERSE), lead=SWING.lead(*S_VERSE, calls=VERSE_CALLS), rhythm=True),
         play("The verse and the chorus: answer every call, and echo the chorus's \"low\". Halfway, the lights fade.",
-             ANSWERS, SWING.tempo, "Scored on your answers on pitch, the second half with the lights faded.",
-             chords=SWING.chords_at(*S_ALL), lead=SWING.lead(*S_ALL, calls=VERSE_CALLS), lights="fade"),
+             ANSWERS, SWING.tempo, "Scored on your answers on pitch and on the beat, the second half with the lights faded.",
+             chords=SWING.chords_at(*S_ALL), lead=SWING.lead(*S_ALL, calls=VERSE_CALLS), lights="fade", rhythm=True),
     ], challenge=True),
 ]}
 assert [n for n in ANSWERS if n["beat"] < 33] == ANSWERS_VERSE

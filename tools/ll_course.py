@@ -33,10 +33,12 @@ BASS_SAFETY = "Easy volume, light, never pressed; stop if anything tightens or h
 # Said once, on the course's first layer: from then on Sing it again is simply there.
 RESING = "Not happy with it? Sing it again before you stack on it."
 HEADPHONES = ("Headphones on", "Through a speaker, your loops rest while you sing")
-# Play steps never score timing (exercise.js passes timing 'none'): the measures say pitch, and the bass
-# and gap layers, where the loop's beat is the point, ask the singer to listen back for it.
+# A play step scores pitch alone unless it opts into timing: the bass, gap and rhythm layers, where the
+# loop's beat is the point, take `rhythm` (pitch 70, timing 30; docs/play-timing-plan.md in the app's repo)
+# and say so. The pads and the tunes stay on pitch.
 PITCH = "Scored on your notes on pitch."
-STEADY = " Listen back: did it stay steady?"
+PITCH_BEAT = "Scored on your notes on pitch and on the beat."
+LIT_BEAT = "Scored on landing either lit note, on pitch and on the beat."
 ENTRY = "Scored on coming back in on time and on pitch after the rest."
 RELEASE = "Scored on stopping each note on time, steady to its end, before the loop comes round."
 CHOSE = "Scored on the rounds you got right first time."
@@ -121,9 +123,12 @@ def play(text, notes, tempo, measures, *, tune=False, **extra):
     return step
 
 
-def bass(text, notes, tempo, home=0, measures=PITCH + STEADY, **extra):
-    """A bass layer: from beat 0, the drone on home for a bar then gone, so you lock to yourself."""
+def bass(text, notes, tempo, home=0, measures=PITCH_BEAT, **extra):
+    """A bass layer: from beat 0, the drone on home for a bar then gone, so you lock to yourself. Scored on
+    the beat too, unless it has its own `score`."""
     assert BASS_SAFETY in text, text
+    if "score" not in extra:
+        extra["rhythm"] = True
     return play(text, notes, tempo, measures, drone={"step": home, "fadeAfter": 4}, **extra)
 
 
@@ -266,8 +271,8 @@ UNIT1 = {"id": "ll-a-loop", "title": EN("A loop that lines up"), "colour": COLOU
         bass(f"Sing the bass on \"doom\", twice round: do, do, then low so, low so, a rest after each. {BASS_SAFETY}",
              passes(TWO_BASS, TWO, 2), T12, generous=True),
         play(f"{RESING} Now your bass loops: listen once round, then fill its gaps with short \"doo\"s, on mi, then re.",
-             overdub(TWO_GAPS, TWO, 2), T12, "Scored on your notes in the gaps, on pitch. That's your loop under you." + STEADY,
-             under=under(1, loop=TWO), generous=True),
+             overdub(TWO_GAPS, TWO, 2), T12, "Scored on your notes in the gaps, on pitch and on the beat. That's your loop under you.",
+             under=under(1, loop=TWO), generous=True, rhythm=True),
     ]),
     lesson("1-lock", "Lock to yourself", [
         learn("A looper's first test: drop out, keep the loop in your head, and come back in on time.", [
@@ -345,7 +350,7 @@ UNIT2 = {"id": "ll-stacking", "title": EN("Stacking parts"), "colour": COLOUR, "
         ]),
         bass(f"The bass once round. {BASS_SAFETY}", passes(TWO_BASS, TWO, 1), T12),
         play(f"Listen once round, then \"doo-doo\" on so in the gaps, twice round.",
-             overdub(TWO_RHYTHM, TWO, 2), T12, PITCH + STEADY, under=under(2, loop=TWO)),
+             overdub(TWO_RHYTHM, TWO, 2), T12, PITCH_BEAT, under=under(2, loop=TWO), rhythm=True),
     ]),
     lesson("2-three", "Three layers", [
         learn("Now the four-bar loop, three layers deep: the bass, a pad over it, then a rhythm part over both.", [
@@ -357,7 +362,7 @@ UNIT2 = {"id": "ll-stacking", "title": EN("Stacking parts"), "colour": COLOUR, "
         play(f"The pad, from your loop's first beat, once round: mi, mi, fa, re, each held soft on \"oo\".",
              passes(FOUR_PAD, FOUR, 1), T12, PITCH, under=under(1, loop=FOUR)),
         play(f"Listen once round to your two layers, then \"doo-doo\" in the gaps: on so, so, la, so.",
-             overdub(FOUR_RHYTHM, FOUR, 1), T12, PITCH + STEADY, under=under(1, 2, loop=FOUR)),
+             overdub(FOUR_RHYTHM, FOUR, 1), T12, PITCH_BEAT, under=under(1, 2, loop=FOUR), rhythm=True),
         {"kind": "selfcheck", "text": EN("The top part once more on its own, then hear yours beside the guide's."),
          "exercise": {"tempo": T12, "model": {"notes": passes(FOUR_RHYTHM, FOUR, 1)},
                       "questions": [EN("In your last take, could you hear all three layers?"), EN("Did you push to hear yourself?")]}},
@@ -372,8 +377,8 @@ UNIT2 = {"id": "ll-stacking", "title": EN("Stacking parts"), "colour": COLOUR, "
         play(f"The pad from the first beat, once round, from memory.",
              passes(FOUR_PAD, FOUR, 1), T12, PITCH, under=under(1, loop=FOUR), lights="off"),
         play(f"Listen once round, then the rhythm part twice round, from memory.",
-             overdub(FOUR_RHYTHM, FOUR, 2), T12, "Scored on the top part on pitch, from memory, over your band." + STEADY,
-             under=under(1, 2, loop=FOUR), lights="off"),
+             overdub(FOUR_RHYTHM, FOUR, 2), T12, "Scored on the top part on pitch and on the beat, from memory, over your band.",
+             under=under(1, 2, loop=FOUR), lights="off", rhythm=True),
     ], challenge=True),
 ]}
 
@@ -491,7 +496,7 @@ UNIT4 = {"id": "ll-your-own", "title": EN("Your own loop"), "colour": COLOUR, "l
         {"kind": "try", "text": EN("Once with the guide singing the lower note of each pair, to learn the bars. Just try it."),
          "exercise": {"tempo": SAILOR_T, "turn": False, "notes": passes(OWN_BASS, SAILOR_LOOP, 1), "with": TUNE_WITH}},
         bass(f"Now your bass under the guide's tune: in each bar, sing either lit note. {BASS_SAFETY}",
-             passes(OWN_BASS, SAILOR_LOOP, 1), SAILOR_T, home=-3, measures="Scored on landing either lit note, on pitch." + STEADY,
+             passes(OWN_BASS, SAILOR_LOOP, 1), SAILOR_T, home=-3, measures=LIT_BEAT,
              **{"with": TUNE_WITH}),
     ]),
     lesson("4-layers", "Choose your layers", [
@@ -501,7 +506,7 @@ UNIT4 = {"id": "ll-your-own", "title": EN("Your own loop"), "colour": COLOUR, "l
             HEADPHONES,
         ], "harmony"),
         bass(f"Your bass, once round: either lit note in each bar. {BASS_SAFETY}", passes(OWN_BASS, SAILOR_LOOP, 1), SAILOR_T, home=-3,
-             measures="Scored on landing either lit note, on pitch." + STEADY),
+             measures=LIT_BEAT),
         play(f"Your pad, from your loop's first beat: a soft \"oo\", either lit note, held each bar.",
              passes(OWN_PAD, SAILOR_LOOP, 1), SAILOR_T, "Scored on landing either lit note, on pitch.",
              under=under(1, loop=SAILOR_LOOP)),
@@ -513,7 +518,7 @@ UNIT4 = {"id": "ll-your-own", "title": EN("Your own loop"), "colour": COLOUR, "l
             HEADPHONES,
         ], "harmony"),
         bass(f"Your bass, once round. {BASS_SAFETY}", passes(OWN_BASS, SAILOR_LOOP, 1), SAILOR_T, home=-3,
-             measures="Scored on landing either lit note, on pitch." + STEADY, thenAndNow=KEEP),
+             measures=LIT_BEAT, thenAndNow=KEEP),
         play(f"Your pad from the first beat, once round.",
              passes(OWN_PAD, SAILOR_LOOP, 1), SAILOR_T, "Scored on landing either lit note, on pitch.",
              under=under(1, loop=SAILOR_LOOP)),

@@ -150,10 +150,10 @@ MG_REF = 70
 MG_LINE1 = upto("majorgeneral", "ral;")        # I am the very model of a modern Major-General;
 # Tit-willow: as printed in A flat, 6/8; A flat 4 sits on your note.
 TW_REF, TW_KEY_PC = 68, 8
-# Play steps never score timing (exercise.js passes timing 'none'): the measures say pitch, and where the
-# beat is the point (patter), the singer listens back for it.
+# A play step scores pitch alone unless it opts into timing: the patter, where the beat is the point, takes
+# `rhythm` (pitch 70, timing 30; docs/play-timing-plan.md in the app's repo) and says so.
 PITCH = "Scored on your notes on pitch."
-PITCH_STEADY = PITCH + " Listen back: did it stay steady?"
+PITCH_BEAT = "Scored on your notes on pitch and on the beat."
 
 
 # ---- Unit 1: Speak it, then sing it ----
@@ -264,9 +264,9 @@ def mt_2_two():
                    [("Two notes", "A step apart"), ("One word a beat", "Slowly first"), ("Echo", "The guide sings a bar, you answer")], visual="echo")]
     bars = [(0, 9), (9, MG_LINE1)]
     for k, (a, b) in enumerate(bars):
-        ex = {"tempo": 60, "notes": major_general(a, b), "turn": True}
-        steps.append(play(f"Bar {k + 1}: listen, then answer, slowly.", ex, PITCH_STEADY))
-    steps.append(play("Now the whole line, slowly.", {"tempo": 60, "notes": one, "turn": True}, PITCH_STEADY))
+        ex = {"tempo": 60, "notes": major_general(a, b), "turn": True, "rhythm": True}
+        steps.append(play(f"Bar {k + 1}: listen, then answer, slowly.", ex, PITCH_BEAT))
+    steps.append(play("Now the whole line, slowly.", {"tempo": 60, "notes": one, "turn": True, "rhythm": True}, PITCH_BEAT))
     return {
         "id": "mt-2-two", "title": EN("Two notes, many words"),
         "fact": fact("grossmith-audition-1877", "At George Grossmith's audition in 1877, Sullivan told him \"Sing it out as loud as you can\". Gilbert said that a big voice \"is just what we don't want\".",
@@ -283,7 +283,7 @@ def mt_2_consonants():
         "steps": [
             learn("Put the consonant just before the beat, so the vowel lands on it. The app hears the vowel; so does the audience.",
                   [("Consonant early", "A hair before the beat"), ("Vowel on the beat", "That's the note"), ("Loose jaw", "Small, quick, easy")]),
-            play("The line on the beat, consonants just ahead.", {"tempo": 66, "notes": one, "turn": True}, PITCH_STEADY),
+            play("The line on the beat, consonants just ahead.", {"tempo": 66, "notes": one, "turn": True, "rhythm": True}, PITCH_BEAT),
             selfcheck("Once more, then play it back with the words shown.", one,
                       ["Which word got lost, if any?", "Did your jaw stay loose?"], 66),
         ],
@@ -307,7 +307,7 @@ def mt_2_quicker():
                   [("Slow", "Every word clear"), ("Listen", "Which one rushed?"), ("Quicker", "Three words a second, even")], visual="echo"),
             play("Slowly first.", {"tempo": 66, "notes": one, "turn": True}, None, kind="try"),
             choose("Listen to each, then choose.", rounds, 90),
-            play("Now at three words a second, even and clear.", {"tempo": 90, "notes": one, "turn": True}, PITCH_STEADY),
+            play("Now at three words a second, even and clear.", {"tempo": 90, "notes": one, "turn": True, "rhythm": True}, PITCH_BEAT),
         ],
     }
 

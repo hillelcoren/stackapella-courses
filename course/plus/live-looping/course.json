@@ -78,9 +78,10 @@
                                     {"beat": 14, "length": 1, "step": -5, "lyric": "doom"}
                                 ],
                                 "drone": {"step": 0, "fadeAfter": 4},
-                                "generous": true
+                                "generous": true,
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         },
                         {
                             "kind": "play",
@@ -102,9 +103,10 @@
                                     "steps": [1],
                                     "loop": 8
                                 },
-                                "generous": true
+                                "generous": true,
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes in the gaps, on pitch. That's your loop under you. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes in the gaps, on pitch and on the beat. That's your loop under you."}
                         }
                     ]
                 },
@@ -136,9 +138,10 @@
                                     {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
                                     {"beat": 6, "length": 1, "step": -5, "lyric": "doom"}
                                 ],
-                                "drone": {"step": 0, "fadeAfter": 4}
+                                "drone": {"step": 0, "fadeAfter": 4},
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         },
                         {
                             "kind": "play",
@@ -342,9 +345,10 @@
                                     {"beat": 14, "length": 0.75, "step": -5, "lyric": "doom"}
                                 ],
                                 "drone": {"step": 0, "fadeAfter": 4},
-                                "keep": "looping.first-loop"
+                                "keep": "looping.first-loop",
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         },
                         {
                             "kind": "play",
@@ -415,9 +419,10 @@
                                     {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
                                     {"beat": 6, "length": 1, "step": -5, "lyric": "doom"}
                                 ],
-                                "drone": {"step": 0, "fadeAfter": 4}
+                                "drone": {"step": 0, "fadeAfter": 4},
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         },
                         {
                             "kind": "play",
@@ -603,9 +608,10 @@
                                     {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
                                     {"beat": 6, "length": 1, "step": -5, "lyric": "doom"}
                                 ],
-                                "drone": {"step": 0, "fadeAfter": 4}
+                                "drone": {"step": 0, "fadeAfter": 4},
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         },
                         {
                             "kind": "play",
@@ -634,9 +640,10 @@
                                 "under": {
                                     "steps": [2],
                                     "loop": 8
-                                }
+                                },
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         }
                     ]
                 },
@@ -672,9 +679,10 @@
                                     {"beat": 12, "length": 1, "step": -5, "lyric": "doom"},
                                     {"beat": 14, "length": 0.75, "step": -5, "lyric": "doom"}
                                 ],
-                                "drone": {"step": 0, "fadeAfter": 4}
+                                "drone": {"step": 0, "fadeAfter": 4},
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         },
                         {
                             "kind": "play",
@@ -722,9 +730,10 @@
                                 "under": {
                                     "steps": [1, 2],
                                     "loop": 16
-                                }
+                                },
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         },
                         {
                             "kind": "selfcheck",
@@ -792,9 +801,10 @@
                                     {"beat": 14, "length": 0.75, "step": -5, "lyric": "doom"}
                                 ],
                                 "drone": {"step": 0, "fadeAfter": 4},
-                                "lights": "off"
+                                "lights": "off",
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         },
                         {
                             "kind": "play",
@@ -860,9 +870,10 @@
                                     "steps": [1, 2],
                                     "loop": 16
                                 },
-                                "lights": "off"
+                                "lights": "off",
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on the top part on pitch, from memory, over your band. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on the top part on pitch and on the beat, from memory, over your band."}
                         }
                     ]
                 }
@@ -903,9 +914,10 @@
                                     {"beat": 5, "length": 0.67, "step": -5, "lyric": "doom"},
                                     {"beat": 6, "length": 0.67, "step": -5, "lyric": "doom"}
                                 ],
-                                "drone": {"step": -5, "fadeAfter": 4}
+                                "drone": {"step": -5, "fadeAfter": 4},
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         },
                         {
                             "kind": "play",
@@ -987,9 +999,10 @@
                                     {"beat": 5, "length": 1, "step": -5, "lyric": "dang"},
                                     {"beat": 6, "length": 1.5, "step": 0, "lyric": "dong"}
                                 ],
-                                "drone": {"step": 0, "fadeAfter": 4}
+                                "drone": {"step": 0, "fadeAfter": 4},
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         },
                         {
                             "kind": "play",
@@ -1114,9 +1127,10 @@
                                     {"beat": 28, "length": 1, "step": -3, "lyric": "doom"},
                                     {"beat": 30, "length": 1, "step": -3, "lyric": "doom"}
                                 ],
-                                "drone": {"step": -3, "fadeAfter": 4}
+                                "drone": {"step": -3, "fadeAfter": 4},
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         },
                         {
                             "kind": "play",
@@ -1201,9 +1215,10 @@
                                     {"beat": 5, "length": 1, "step": -5, "lyric": "dang"},
                                     {"beat": 6, "length": 1.5, "step": 0, "lyric": "dong"}
                                 ],
-                                "drone": {"step": 0, "fadeAfter": 4}
+                                "drone": {"step": 0, "fadeAfter": 4},
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
                         },
                         {
                             "kind": "play",
@@ -1650,9 +1665,10 @@
                                             {"beat": 30, "length": 2, "step": -3, "lyric": "ing."}
                                         ]
                                     }
-                                ]
+                                ],
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on landing either lit note, on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat."}
                         }
                     ]
                 },
@@ -1792,9 +1808,10 @@
                                         "choices": [-3, 0]
                                     }
                                 ],
-                                "drone": {"step": -3, "fadeAfter": 4}
+                                "drone": {"step": -3, "fadeAfter": 4},
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on landing either lit note, on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat."}
                         },
                         {
                             "kind": "play",
@@ -2014,9 +2031,10 @@
                                     }
                                 ],
                                 "drone": {"step": -3, "fadeAfter": 4},
-                                "thenAndNow": "looping.first-loop"
+                                "thenAndNow": "looping.first-loop",
+                                "rhythm": true
                             },
-                            "measures": {"en": "Scored on landing either lit note, on pitch. Listen back: did it stay steady?"}
+                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat."}
                         },
                         {
                             "kind": "play",

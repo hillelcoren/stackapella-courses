@@ -242,6 +242,11 @@ def daily_cap(where, cap):
 def exercise(where, ex, spec, web_only, clip_ids):
     if spec == "play":
         known(where + " exercise", ex, FORMAT["play"]["fields"])
+        if "rhythm" in ex:
+            if ex["rhythm"] not in (True, "swing"):
+                problem(where, "rhythm is true or \"swing\"")
+            elif "score" in ex:
+                problem(where, "rhythm only on a default-scored step: a step with its own score keeps it")
         limits(where, ex)
         staff = ex.get("staff")
         if staff is not None:

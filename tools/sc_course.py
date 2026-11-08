@@ -45,7 +45,11 @@ def fact(fid, text, source, url):
     return {"id": fid, "text": EN(text), "source": EN(source), "url": url}
 
 
-def play(text, exercise, measures=None, kind="play"):
+def play(text, exercise, measures=None, kind="play", rhythm=None):
+    """`rhythm` "swing": scored on the swung beat too, and the words say so."""
+    assert ("swung beat" in (measures or "")) == (rhythm == "swing"), text
+    if rhythm:
+        exercise = dict(exercise, rhythm=rhythm)
     step = {"kind": kind, "text": EN(text), "exercise": exercise}
     if measures:
         step["measures"] = EN(measures)
@@ -171,10 +175,11 @@ def exercise(notes, names, **extra):
     return ex
 
 
-# Play steps never score timing (exercise.js passes timing 'none'): straight eighths score the same as
-# swung ones, so the swing is the singer's to listen back for.
-PITCH_SWING = "Scored on your notes on pitch. Listen back: did it swing?"
-LANDED = "Scored on your notes on pitch, each one you chose on a lit note. Listen back: did it swing?"
+# The swing steps take `rhythm: "swing"` (pitch 70, timing 30, off-beats judged at two thirds of the beat;
+# docs/play-timing-plan.md in the app's repo): every one is written swung, so straight eighths lose the
+# timing part.
+PITCH_SWING = "Scored on your notes on pitch and on the swung beat."
+LANDED = "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."
 
 # ---- Unit 1: The swing pocket ----
 
@@ -199,7 +204,7 @@ def sc_1_trade():
                   [("The call", "Two bars from the band"), ("Your echo", "The same two bars back"), ("Your last note", "Any lit note: one that sounds at rest")]),
             play("Echo one call, its syllables written out.", exercise(try_notes, try_names), None, kind="try"),
             play(f"Four trades. End each on any lit note, a different one each time if you like. {SAFETY}",
-                 first_trades(keep="sc.first-trade", generous=True), LANDED),
+                 first_trades(keep="sc.first-trade", generous=True), LANDED, rhythm="swing"),
         ],
     }
 
@@ -228,7 +233,7 @@ def sc_1_swing():
                   [("Doo", "Long, soft"), ("BAH", "Short, leaning"), ("Long, short", "Like a heartbeat")]),
             choose("Listen to each, then choose.", rounds),
             play("\"Doo-bah\" on one note, swung. Just try it.", exercise(one, ["I", "I"]), None, kind="try"),
-            play("Now on two notes, swung, landing on \"doo\".", exercise(two, ["I", "I", "I"]), PITCH_SWING),
+            play("Now on two notes, swung, landing on \"doo\".", exercise(two, ["I", "I", "I"]), PITCH_SWING, rhythm="swing"),
         ],
     }
 
@@ -245,7 +250,7 @@ def sc_1_and():
         "steps": [
             learn("Jazz lines love to start just after the beat, on the \"and\". End each one clean, the t of \"dat\" cutting it off.",
                   [("Wait", "Let the beat go by"), ("Then go", "On the and"), ("Dat", "A clean end")]),
-            play("Four calls that start on the and; echo each.", exercise(notes, names), PITCH_SWING),
+            play("Four calls that start on the and; echo each.", exercise(notes, names), PITCH_SWING, rhythm="swing"),
         ],
     }
 
@@ -257,8 +262,8 @@ def sc_1_challenge():
         "steps": [
             learn("Lesson 1's trades, to hear how far you've come, then four calls that start on the and, your echoes ending wherever you like on a lit note.",
                   [("Then and now", "Lesson 1's four trades"), ("On the and", "Calls that start off the beat"), ("Your landing", "Any lit note")]),
-            play("Lesson 1's four trades again.", first_trades(thenAndNow="sc.first-trade"), LANDED),
-            play("Now the four calls on the and.", exercise(notes, names), LANDED),
+            play("Lesson 1's four trades again.", first_trades(thenAndNow="sc.first-trade"), LANDED, rhythm="swing"),
+            play("Now the four calls on the and.", exercise(notes, names), LANDED, rhythm="swing"),
         ],
     }
 
@@ -290,7 +295,7 @@ def sc_2_form():
             learn("The blues is twelve bars long: four of I, two of IV, two of I, then V, IV, I and V to turn around. Each bar's root is the floor under it.",
                   [("I, I, I, I", "Home for four bars"), ("IV, IV, I, I", "Away and back"), ("V, IV, I, V", "And round again")]),
             choose("Listen to each, then choose.", rounds),
-            play("The root of every bar on \"doo\", with a swung \"doo-bah\" into each change.", exercise(notes, FORM), PITCH_SWING),
+            play("The root of every bar on \"doo\", with a swung \"doo-bah\" into each change.", exercise(notes, FORM), PITCH_SWING, rhythm="swing"),
         ],
     }
 
@@ -365,8 +370,8 @@ def sc_2_challenge():
         "steps": [
             learn("Lesson 1's trades, then the first eight bars of the blues: four phrases, each starting on the and (unit 1), each landing on 1, 3 or 5.",
                   [("Then and now", "Lesson 1's trades"), ("On the and", "Every phrase"), ("Land it", "1, 3 or 5 of its chord")]),
-            play("Lesson 1's four trades again.", first_trades(thenAndNow="sc.first-trade"), LANDED),
-            play("Eight bars, four phrases, each landing on a lit note.", exercise(notes, names), LANDED),
+            play("Lesson 1's four trades again.", first_trades(thenAndNow="sc.first-trade"), LANDED, rhythm="swing"),
+            play("Eight bars, four phrases, each landing on a lit note.", exercise(notes, names), LANDED, rhythm="swing"),
         ],
     }
 
@@ -380,7 +385,7 @@ def sc_3_ends():
         "steps": [
             learn("Echo the call's rhythm, and choose its last two notes yourself, any of the chord's tones, the flat seven too.",
                   [("The rhythm", "Exactly the call's"), ("The end", "Two notes of your own"), ("The flat seven", "Now lit too")]),
-            play("Four calls; the last two notes are yours.", exercise(notes, names), LANDED),
+            play("Four calls; the last two notes are yours.", exercise(notes, names), LANDED, rhythm="swing"),
         ],
     }
 
@@ -404,7 +409,7 @@ def sc_3_answer():
         "steps": [
             learn("Now a whole answer of your own: the call's rhythm, and any of the chord's tones on every note.",
                   [("The rhythm", "Keep the call's"), ("The notes", "All yours, all lit"), ("The syllables", "Copy the call's")]),
-            play("Four calls; answer each.", exercise(notes, names), LANDED),
+            play("Four calls; answer each.", exercise(notes, names), LANDED, rhythm="swing"),
             selfcheck("Once more, then hear yours beside the guide's.", model, ["Did you copy the call's syllables?", "Did your jaw stay loose?"]),
         ],
     }
@@ -425,7 +430,7 @@ def sc_3_riff():
         "steps": [
             learn("A riff is a short phrase the band repeats over the changes. This one is the minor pentatonic: flat seven, do, flat three, four and five, ending on five.",
                   [("Five notes", "Flat seven up to five"), ("Every chord", "The same riff"), ("Ends on five", "It fits even over V")]),
-            play("The riff over I, IV, I and V.", exercise(notes, names), PITCH_SWING),
+            play("The riff over I, IV, I and V.", exercise(notes, names), PITCH_SWING, rhythm="swing"),
         ],
     }
 
@@ -438,8 +443,8 @@ def sc_3_challenge():
         "steps": [
             learn("Lesson 1's trades, then four calls and your answers, each ending on the chord's third, unit 2's colour note.",
                   [("Then and now", "Lesson 1's trades"), ("Trading twos", "Two bars each"), ("The colour note", "Every answer ends on the third")]),
-            play("Lesson 1's four trades again.", first_trades(thenAndNow="sc.first-trade"), LANDED),
-            play("Four calls; your answers end on the third.", exercise(notes, names), LANDED),
+            play("Lesson 1's four trades again.", first_trades(thenAndNow="sc.first-trade"), LANDED, rhythm="swing"),
+            play("Four calls; your answers end on the third.", exercise(notes, names), LANDED, rhythm="swing"),
         ],
     }
 
@@ -481,7 +486,7 @@ def sc_4_scale():
         "steps": [
             learn("The blues scale is the riff's five notes plus the flat five, another blue note: flat seven, do, flat three, four, flat five, five.",
                   [("The riff's notes", "Five you know"), ("Plus flat five", "Another blue note"), ("Up and down", "Swung, \"bee-dah\"")]),
-            play("Up the blues scale and down, swung.", exercise(line, ["I", "I", "I", "I"]), PITCH_SWING),
+            play("Up the blues scale and down, swung.", exercise(line, ["I", "I", "I", "I"]), PITCH_SWING, rhythm="swing"),
         ],
     }
 
@@ -507,7 +512,7 @@ def sc_4_four():
         "steps": [
             learn("Four bars, every note your choice from the blues scale, the last on one of the chord's tones. No wrong notes: everything lit fits.",
                   [("A rhythm", "Written for you"), ("The notes", "Any of the blues scale"), ("The last", "A chord tone")]),
-            play("Your four bars over I7.", exercise(notes, names), LANDED),
+            play("Your four bars over I7.", exercise(notes, names), LANDED, rhythm="swing"),
         ],
     }
 
@@ -525,8 +530,8 @@ def sc_4_challenge():
         "steps": [
             learn("Lesson 1's trades, then a chorus: eight bars of trading (unit 3), then four bars all yours from the blues scale, with space between phrases, as a blues lyric breathes.",
                   [("Then and now", "Lesson 1's trades"), ("Trade", "Eight bars with the band"), ("Then solo", "Four bars of your own")]),
-            play("Lesson 1's four trades again.", first_trades(thenAndNow="sc.first-trade"), LANDED),
-            play("Your chorus.", ex, LANDED),
+            play("Lesson 1's four trades again.", first_trades(thenAndNow="sc.first-trade"), LANDED, rhythm="swing"),
+            play("Your chorus.", ex, LANDED, rhythm="swing"),
             selfcheck("Once more, your last four bars, then hear yours.", own[:7], ["Did it swing, or march?", "Did your jaw stay loose?"], 84),
         ],
     }
