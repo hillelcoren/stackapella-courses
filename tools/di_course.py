@@ -59,7 +59,7 @@ def choose(text, rounds, tempo=60):
             "measures": EN("Scored on the rounds you got right first time.")}
 
 
-PITCH_BEAT = "Scored on your notes on pitch and on the beat."
+PITCH = "Scored on your notes on pitch."  # play steps never score timing
 LOCKED = "Scored on each held note staying on its pitch."
 RELEASED = "Scored on each held note ending on time, steady to its end: the final consonant on the beat."
 ENTRY = "Scored on each vowel starting on the beat, measured against your own vowel-word starts."
@@ -113,10 +113,10 @@ def di_1_heard():
         "steps": [
             learn("Diction is being understood. The note lives on the vowel. Sing Amazing Grace's first line as you normally would.",
                   [("Just sing it", "As you normally would"), ("Then again", "With one change"), ("Hear both", "Side by side")]),
-            play("\"Amazing grace, how sweet the sound\", as you'd normally sing it.", first_line(keep="di.first-line", generous=True), PITCH_BEAT),
+            play("\"Amazing grace, how sweet the sound\", as you'd normally sing it.", first_line(keep="di.first-line", generous=True), PITCH),
             learn("Now the stressed vowels full and pure, a-MA-zing, the small words light: \"the\" is just \"thuh\". Start \"Amazing\" easily: no click, no breathy h.",
                   [("Stressed vowels full", "a-MA-zing, SOUND"), ("Small words light", "\"the\" as \"thuh\""), ("An easy start", "No click, no h")]),
-            play("The same line again, stressed vowels full, small words light.", first_line(), PITCH_BEAT),
+            play("The same line again, stressed vowels full, small words light.", first_line(), PITCH),
             selfcheck("Once more, just \"Amazing\", then hear yours.", model, ["Did \"Amazing\" start cleanly, without a click?", "Was \"the\" light?"]),
         ],
     }
@@ -157,8 +157,8 @@ def di_1_challenge():
         "steps": [
             learn("Lesson 1's line again, then two lines: stressed vowels full, small words light. \"Lost but\" with nothing between, \"now am\" joined. Drop an r before a consonant.",
                   [("Then and now", "Lesson 1's line, today"), ("Two lines", "Stress and pure vowels"), ("Joined", "\"lost but\", \"now am\"")]),
-            play("Lesson 1's line.", first_line(thenAndNow="di.first-line"), PITCH_BEAT),
-            play("The first two lines.", song_ex(GRACE, [0, 1]), PITCH_BEAT),
+            play("Lesson 1's line.", first_line(thenAndNow="di.first-line"), PITCH),
+            play("The first two lines.", song_ex(GRACE, [0, 1]), PITCH),
         ],
     }
 
@@ -225,8 +225,8 @@ def di_2_challenge():
         "steps": [
             learn("Lesson 1's line, then Danny Boy's first line: \"Danny\", \"boy\" and \"pipes\" start like t and p, the consonant just before the beat. Then three of its words held, their ends on the beat.",
                   [("Then and now", "Lesson 1's line, today"), ("The pipes", "Consonants early, vowels on the beat"), ("The ends", "On the beat")]),
-            play("Lesson 1's line.", first_line(thenAndNow="di.first-line"), PITCH_BEAT),
-            play("\"Oh Danny boy, the pipes, the pipes are calling\".", song_ex(DANNY, [0]), PITCH_BEAT),
+            play("Lesson 1's line.", first_line(thenAndNow="di.first-line"), PITCH),
+            play("\"Oh Danny boy, the pipes, the pipes are calling\".", song_ex(DANNY, [0]), PITCH),
             play("Three held words, a rest after each, their ends on the beat.", {"tempo": TEMPO, "notes": held_words(["boy", "pipes", "calling"]), "turn": False, "drone": {"step": 0}, "score": "release"}, RELEASED),
         ],
     }
@@ -245,7 +245,7 @@ def di_3_hum():
             learn("An m has pitch: it's on the note, short, and the vowel gets the length. Only a final m hums through to the end. This one is kinder.",
                   [("The hum", "On the note"), ("Short", "The vowel gets the length"), ("A final m", "Hums to the end")]),
             play("A hum on the drone's note.", hum, LOCKED),
-            play("\"mama\", \"summer\", \"home\": each m on the note.", {"tempo": TEMPO, "notes": words, "turn": False, "drone": {"step": 0}}, PITCH_BEAT),
+            play("\"mama\", \"summer\", \"home\": each m on the note.", {"tempo": TEMPO, "notes": words, "turn": False, "drone": {"step": 0}}, PITCH),
         ],
     }
 
@@ -283,7 +283,7 @@ def di_3_challenge():
         "steps": [
             learn("Lesson 1's line, then Shenandoah's first line, full of n's: each one on the note, not sliding up.",
                   [("Then and now", "Lesson 1's line, today"), ("Shenandoah", "Every n on the note"), ("Long", "No g after the ng")]),
-            play("Lesson 1's line.", first_line(thenAndNow="di.first-line"), PITCH_BEAT),
+            play("Lesson 1's line.", first_line(thenAndNow="di.first-line"), PITCH),
             play("\"Oh Shenandoah, I long to hear you\".", song_ex(SHEN, [0], score="landing"), LANDED),
         ],
     }
@@ -298,7 +298,7 @@ def di_4_heard():
         "steps": [
             learn("You always understand your own words. Would a stranger? Sing a line, then listen with the words hidden.",
                   [("Sing it", "For someone at the back"), ("Hide the words", "And listen"), ("Not louder", SAFETY)]),
-            play("\"That saved a wretch like me\".", song_ex(GRACE, [1]), PITCH_BEAT),
+            play("\"That saved a wretch like me\".", song_ex(GRACE, [1]), PITCH),
             selfcheck("Once more, then hear yours with the words hidden.", line, ["Pick one word: did you hear its last consonant?", "Did your jaw stay still for the t and n?"]),
         ],
     }
@@ -315,7 +315,7 @@ def di_4_choir():
             learn("A choir is understood when it sings the same vowel at the same time. Match the voice beside you.",
                   [("Match its oo", "The same shape"), ("Then the words", "In unison"), ("Together", "Vowels and ends")]),
             play("Match the guide's \"oo\".", oo, None, kind="try"),
-            play("The line in unison with a partner voice.", ex, PITCH_BEAT),
+            play("The line in unison with a partner voice.", ex, PITCH),
             selfcheck("Once more, then hear yours beside the partner.", line[:4], ["Did your vowels match the partner's?", "Did your ends land with its ends?"]),
         ],
     }
@@ -334,7 +334,7 @@ def di_4_lining():
         "steps": [
             learn("In lining out, a leader sings a line and the group answers. The guide sings lines 1 and 3; you answer with 2 and 4, every word.",
                   [("The leader", "Lines 1 and 3"), ("You", "Lines 2 and 4"), ("Every word", "Stress, vowels, ends")]),
-            play("Amazing Grace's first verse, taking turns with the guide.", {"tempo": min(tempo, 80), "notes": notes, "turn": False}, PITCH_BEAT),
+            play("Amazing Grace's first verse, taking turns with the guide.", {"tempo": min(tempo, 80), "notes": notes, "turn": False}, PITCH),
         ],
     }
 
@@ -346,11 +346,11 @@ def di_4_challenge():
         "steps": [
             learn("Lesson 1's line to hear how far you've come, then the end of Shenandoah's verse, every word for the back of the room.",
                   [("Then and now", "Lesson 1's line, today"), ("The verse's end", "Stress, pure vowels, the n on the note"), ("Not louder", "Clearer")]),
-            play("Lesson 1's line.", first_line(thenAndNow="di.first-line"), PITCH_BEAT),
+            play("Lesson 1's line.", first_line(thenAndNow="di.first-line"), PITCH),
             selfcheck("Shenandoah's first line, then hear it with the words hidden.", line, ["Could a stranger write the line down?", "Did your jaw stay loose?"]),
             # The verse's second half (phrases 2 to 4): a whole sentence ending home, -4 to +5 round
             # your note. The first two lines span 17 semitones, an octave below to a fourth above (the arranger, 2026-11-02).
-            play("\"Oh Shenandoah, I long to hear you, away, I'm bound away, 'cross the wide Missouri.\"", song_ex(SHEN, [2, 3, 4]), PITCH_BEAT),
+            play("\"Oh Shenandoah, I long to hear you, away, I'm bound away, 'cross the wide Missouri.\"", song_ex(SHEN, [2, 3, 4]), PITCH),
         ],
     }
 

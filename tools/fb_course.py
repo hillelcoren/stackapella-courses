@@ -9,7 +9,7 @@ The rules every line keeps:
 - Calls start on h, y, n, m or w; holds are 2 beats at most (1.5 s at 80).
 - No loudness anywhere: the app can't hear it, and no step asks for it.
 
-What's scored is only what pitch shows: the notes on pitch and on the beat, and a short hold steady
+What's scored is only what pitch shows: the notes on pitch (play steps never score timing), and a short hold steady
 (`lock`). Brightness, loudness and strain are self-checks on the singer's playback.
 
 The app's three Belting features (a daily cap, a lower-only key, a retry cap) are written in once
@@ -78,8 +78,8 @@ def choose(rounds, tempo=TEMPO):
             "measures": EN("Scored on the rounds you got right first time.")}
 
 
-ONLY_PITCH = " Pitch and timing only: the app can't hear brightness, loudness or strain."
-CALLS = "Scored on each call and its light tail on pitch and on the beat." + ONLY_PITCH
+ONLY_PITCH = " Pitch only: the app can't hear brightness, loudness or strain."
+CALLS = "Scored on each call and its light tail on pitch." + ONLY_PITCH
 HELD = "Scored on each short hold staying steady on its pitch." + ONLY_PITCH
 
 
@@ -95,8 +95,8 @@ def call(word, step, beat, length=1.0, start=True):
 
 
 TAILS = {
-    "oo": [("oo", 4, 0.5), ("", 1, 0.5), ("", -1, 1.5)],   # a sigh down
-    "mm": [("mm", 2, 1), ("", -2, 1.5)],                   # a hum gliding down
+    "oo": [("oo", 4, 0.5), ("", 1, 0.5), ("", -1, 1.5)],   # three steps down (scored note by note, so not a glide)
+    "mm": [("mm", 2, 1), ("", -2, 1.5)],                   # a hum stepping down
     "hoo": [("hoo", 4, 1.5)],                               # a light echo above
     "brr": [("brr", 4, 0.5), ("", 2, 0.5), ("", 0, 0.5), ("", -2, 1)],  # a lip trill (or hum) down
 }
@@ -144,7 +144,7 @@ def warmup(kind):
     """The light start every lesson opens with: a hum or trill sliding down, no calls."""
     light, _ = tail(kind, 0)
     second, _ = tail(kind, 4)
-    return play("Warm up light first: a gentle " + {"mm": "hum on \"mm\"", "brr": "lip trill (or a hum)", "oo": "\"oo\" sighing down", "hoo": "\"hoo\""}[kind] + ", twice.",
+    return play("Warm up light first: a gentle " + {"mm": "hum on \"mm\"", "brr": "lip trill (or a hum)", "oo": "\"oo\" stepping down", "hoo": "\"hoo\""}[kind] + ", twice.",
                 ex(light + second), "Scored on the notes on pitch: just a light start.")
 
 
@@ -195,7 +195,7 @@ def b_1_call():
             warmup("mm"),
             selfcheck("Say \"Hey!\" as if calling a friend across a room, then sing it on the two notes. Hear both.", model,
                       ["Did the sung one sound like your spoken one?", "Louder than talking? Then call it softer next time."]),
-            play("\"Hey!\" sung, three times, each followed by a light \"oo\" sighing down.",
+            play("\"Hey!\" sung, three times, each followed by a light \"oo\" stepping down.",
                  ex(calls([[("hey!", 2), ("", -1)]] * 3, "oo"), keep="belting.first-call", generous=True), CALLS),
             play("Now in a round from 1609: \"Hey, ho, nobody home\", with another voice coming in on your \"Hey, ho\".",
                  song_line("hey-ho-nobody-home", 0, partners=("alto",)), CALLS),

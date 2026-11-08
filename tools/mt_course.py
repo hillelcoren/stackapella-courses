@@ -115,6 +115,23 @@ def bar_start(name, first, notes, beats_per_bar, first_bar):
     return notes[0]["beat"] + ((first_bar - at) % beats_per_bar)
 
 
+WHOLE_THOUGHTS = []  # (notes, keep): lines whose commas are held over once breaths.py has run
+
+
+def whole_thoughts(notes, keep=()):
+    """A line sung a thought to a breath (unit 1's lesson): once breaths.py has written in its breaths,
+    each comma's note is held on into the next (hold_commas), so `entry` judges only the breaths where
+    thoughts end. A comma whose beat is in `keep` keeps its breath: one a long thought needs."""
+    WHOLE_THOUGHTS.append((notes, keep))
+    return notes
+
+
+def hold_commas(notes, keep):
+    for n, nxt in zip(notes, notes[1:]):
+        if (n.get("lyric") or "").endswith(",") and n["beat"] not in keep and nxt["beat"] > n["beat"] + n["length"]:
+            n["length"] = round(nxt["beat"] - n["beat"], 4)
+
+
 def buttercup_chords(notes, first=0):
     # 3/4 with the pickup "I'm" on beat 0: the score's bar lines fall on beats 1, 4, 7 ...
     return chords_for(notes, 3, bar_start("buttercup", first, notes, 3, 1), BC_HOME_PC, BC_KEY_PC)
@@ -133,6 +150,10 @@ MG_REF = 70
 MG_LINE1 = upto("majorgeneral", "ral;")        # I am the very model of a modern Major-General;
 # Tit-willow: as printed in A flat, 6/8; A flat 4 sits on your note.
 TW_REF, TW_KEY_PC = 68, 8
+# Play steps never score timing (exercise.js passes timing 'none'): the measures say pitch, and where the
+# beat is the point (patter), the singer listens back for it.
+PITCH = "Scored on your notes on pitch."
+PITCH_STEADY = PITCH + " Listen back: did it stay steady?"
 
 
 # ---- Unit 1: Speak it, then sing it ----
@@ -149,7 +170,7 @@ def mt_1_speak():
                   [("Say it", "In rhythm, as you'd tell it"), ("Sing it", "The same words, now on the notes"), ("Easy does it", SAFETY)]),
             play("Speak the line in rhythm, the words in front of you. No notes yet: just say it as Buttercup would.", {"tempo": 88, "notes": line, "turn": False}, None, kind="try"),
             play("Now sing it over the chords. Keep it sounding like you talking.", do,
-                 "Scored on your notes on pitch and on the beat. Listen back: did it still sound like you telling someone?"),
+                 "Scored on your notes on pitch. Listen back: did it still sound like you telling someone?"),
         ],
     }
 
@@ -177,7 +198,7 @@ def mt_1_stress():
             learn("In every line one word matters most, and the music puts it on a strong beat. In a waltz that's the ONE of ONE-two-three.",
                   [("ONE-two-three", "The waltz's strong beat"), ("The word that matters", "\"dear\", \"little\", \"Buttercup\""), ("Then sing it", "Line two, leaning on the ONE")]),
             choose("Listen to each, then choose.", rounds, 88),
-            play("Line two: listen, then sing it, leaning on the ONE.", sing, "Scored on your notes on pitch and on the beat."),
+            play("Line two: listen, then sing it, leaning on the ONE.", sing, PITCH),
         ],
     }
 
@@ -201,7 +222,7 @@ def mt_1_thought():
                        "clips": clips, "answer": 1 if comma_first else 0,
                        "why": EN("A breath at the comma cuts the thought in two. Breathe where it ends.")})
     line = buttercup(0, L3)
-    sing = {"tempo": 88, "notes": line, "turn": False, "chords": buttercup_chords(line), "score": "entry"}
+    sing = {"tempo": 88, "notes": whole_thoughts(line), "turn": False, "chords": buttercup_chords(line), "score": "entry"}
     return {
         "id": "mt-1-thought", "title": EN("Breathe where the thought ends"),
         "fact": fact("buttercup-bumboat-poem", "Little Buttercup grew out of Gilbert's own comic poem \"The Bumboat Woman's Story\", about a woman who sold the ships \"apples and cakes, and fowls, and beer\".", "Wikipedia, H.M.S. Pinafore", "https://en.wikipedia.org/wiki/H.M.S._Pinafore"),
@@ -216,7 +237,11 @@ def mt_1_thought():
 
 def mt_1_challenge():
     verse = buttercup(0, L6)
-    ex = {"tempo": 88, "notes": verse, "turn": False, "chords": buttercup_chords(verse), "score": "entry", "thenAndNow": "mt.first-line"}
+    # "But still I'm call'd Buttercup, Poor little Buttercup, Sweet little Buttercup I" is 22 beats, about
+    # 15 s at 88 on one breath: it keeps one breath, after "Poor little Buttercup," (beat 36), so no
+    # phrase runs over about 10 s.
+    breath = verse[L5 - 1]["beat"]  # "Poor little Buttercup,"
+    ex = {"tempo": 88, "notes": whole_thoughts(verse, keep=(breath,)), "turn": False, "chords": buttercup_chords(verse), "score": "entry", "thenAndNow": "mt.first-line"}
     return {
         "id": "mt-1-challenge", "title": EN("Little Buttercup"), "challenge": True,
         "steps": [
@@ -240,8 +265,8 @@ def mt_2_two():
     bars = [(0, 9), (9, MG_LINE1)]
     for k, (a, b) in enumerate(bars):
         ex = {"tempo": 60, "notes": major_general(a, b), "turn": True}
-        steps.append(play(f"Bar {k + 1}: listen, then answer, slowly.", ex, "Scored on your notes on pitch and on the beat."))
-    steps.append(play("Now the whole line, slowly.", {"tempo": 60, "notes": one, "turn": True}, "Scored on your notes on pitch and on the beat."))
+        steps.append(play(f"Bar {k + 1}: listen, then answer, slowly.", ex, PITCH_STEADY))
+    steps.append(play("Now the whole line, slowly.", {"tempo": 60, "notes": one, "turn": True}, PITCH_STEADY))
     return {
         "id": "mt-2-two", "title": EN("Two notes, many words"),
         "fact": fact("grossmith-audition-1877", "At George Grossmith's audition in 1877, Sullivan told him \"Sing it out as loud as you can\". Gilbert said that a big voice \"is just what we don't want\".",
@@ -258,7 +283,7 @@ def mt_2_consonants():
         "steps": [
             learn("Put the consonant just before the beat, so the vowel lands on it. The app hears the vowel; so does the audience.",
                   [("Consonant early", "A hair before the beat"), ("Vowel on the beat", "That's the note"), ("Loose jaw", "Small, quick, easy")]),
-            play("The line on the beat, consonants just ahead.", {"tempo": 66, "notes": one, "turn": True}, "Scored on your notes on pitch and on the beat."),
+            play("The line on the beat, consonants just ahead.", {"tempo": 66, "notes": one, "turn": True}, PITCH_STEADY),
             selfcheck("Once more, then play it back with the words shown.", one,
                       ["Which word got lost, if any?", "Did your jaw stay loose?"], 66),
         ],
@@ -282,14 +307,14 @@ def mt_2_quicker():
                   [("Slow", "Every word clear"), ("Listen", "Which one rushed?"), ("Quicker", "Three words a second, even")], visual="echo"),
             play("Slowly first.", {"tempo": 66, "notes": one, "turn": True}, None, kind="try"),
             choose("Listen to each, then choose.", rounds, 90),
-            play("Now at three words a second, even and clear.", {"tempo": 90, "notes": one, "turn": True}, "Scored on your notes on pitch and on the beat."),
+            play("Now at three words a second, even and clear.", {"tempo": 90, "notes": one, "turn": True}, PITCH_STEADY),
         ],
     }
 
 
 def mt_2_challenge():
-    first = major_general(0, MG_LINE1 - 1)          # up to "ral;", without "I've"
-    second = major_general(MG_LINE1 - 1, None, first[-1]["beat"] + 2.5)  # "I've" after a breath
+    first = major_general(0, MG_LINE1)              # up to "ral;", without "I've"
+    second = major_general(MG_LINE1, None, first[-1]["beat"] + 2.5)      # "I've" after a breath
     ex = {"tempo": 90, "notes": first + second, "turn": False, "score": "entry", "thenAndNow": "mt.first-line"}
     return {
         "id": "mt-2-challenge", "title": EN("I am the very model"), "challenge": True,
@@ -312,7 +337,7 @@ def mt_3_bright():
         "steps": [
             learn("Say the line as if calling to a friend across a room, at speaking volume, then sing it that way. Bright is not belt. First steps to belting is the first step; full belt is for later, with a teacher.",
                   [("Call across the room", "Speaking volume, speech vowels"), ("Then sing it", "Near your comfortable note"), ("Stop if", "It scratches or tickles: sing it the legit way")]),
-            play("The line, bright and easy, over the chords.", ex, "Scored on your notes on pitch and on the beat."),
+            play("The line, bright and easy, over the chords.", ex, PITCH),
             selfcheck("Once more, then hear yours beside the guide's.", line,
                       ["Did your throat feel as easy as when you talk?", "Did you get louder?"], 88),
         ],
@@ -357,7 +382,7 @@ def mt_3_diphthongs():
         "steps": [
             learn("Why, I, my, day: each is two vowels. Hold the first, and give the second only at the very end. On high notes vowels bend; down here, keep them true.",
                   [("Why", "Ah, then a touch of ee"), ("Day", "Eh, then a touch of ee"), ("At the end", "The second vowel, quickly")]),
-            play("Each word held two beats, the first vowel all the way.", ex, "Scored on your notes on pitch and on the beat."),
+            play("Each word held two beats, the first vowel all the way.", ex, PITCH),
         ],
     }
 
@@ -380,7 +405,7 @@ def mt_3_challenge():
             learn("Ko-Ko spins a sad tale of a little bird to win Katisha's heart. The time is 6/8: feel it in two big beats, not six small ones.",
                   [("In two", "ONE-and-a TWO-and-a"), ("Legit", "Tall vowels, held notes steady"), ("Then and now", "Lesson 1 beside today")]),
             play("Once with the guide, gently. On stage it moves a little quicker; clear first.", {k: v for k, v in ex.items() if k not in ("thenAndNow", "score")}, None, kind="try"),
-            play("\"Willow, tit-willow, tit-willow\", over the chords.", ex, "Scored on your notes on pitch and on the beat, and back in on time after each breath."),
+            play("\"Willow, tit-willow, tit-willow\", over the chords.", ex, "Scored on coming back in on time and on pitch after each breath."),
         ],
     }
 
@@ -410,7 +435,7 @@ def mt_4_someone():
         "steps": [
             learn("Henry Irving told the young Henry Lytton to picture a friend who couldn't afford the stalls, at the back of the gallery: \"Let him hear every line you have to say.\" Sing to them, not louder.",
                   [("Pick someone", "At the very back"), ("Tell them", "This line is for them"), ("Not louder", "Clearer and meant")]),
-            play("The first line, sung to your friend at the back.", ex, "Scored on your notes on pitch and on the beat."),
+            play("The first line, sung to your friend at the back.", ex, PITCH),
             selfcheck("Once more, then play it back.", line, ["Did it sound like you were telling them something?", "Was your voice as easy as in your first take?"], 88),
         ],
     }
@@ -441,7 +466,7 @@ def mt_4_hail():
         if k == 1:
             ex["score"] = "release"
         steps.append(play(f"Phrase {k + 1}, your tune with the company.", ex,
-                          "Scored on holding the last note to its end and letting go on time." if k == 1 else "Scored on your notes on pitch and on the beat."))
+                          "Scored on holding the last note to its end and letting go on time." if k == 1 else PITCH))
     return {
         "id": "mt-4-hail", "title": EN("Hail, Poetry, the first half"),
         "fact": fact("pirates-new-york-1879", "The Pirates of Penzance opened in New York in December 1879, so Gilbert, Sullivan and Carte would have their own production on stage before the pirates of the stage could copy it.",
@@ -476,5 +501,7 @@ course = {
 }
 for where in add_breaths(course):
     print("no room to breathe:", where)
+for notes, keep in WHOLE_THOUGHTS:
+    hold_commas(notes, keep)
 OUT.parent.mkdir(parents=True, exist_ok=True)
 json.dump(course, open(OUT, "w"))

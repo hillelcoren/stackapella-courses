@@ -104,7 +104,8 @@ def read_song(text, template, part, phrases, time, *, names="off", others=False)
     if others:
         song["with"] = "others"
     return {"kind": "play", "text": EN(text), "exercise": {
-        "song": song, "tempo": 72, "turn": False, "guide": False, "staff": staff(names, time), "hearFirst": True, "score": "read"},
+        "song": song, "tempo": 72, "turn": False, "guide": False, "staff": staff(names, time),
+        "droneAfter": 0, "drone": drone(), "hearFirst": True, "score": "read"},  # do sounds through the look and the count-in, as read() does
         "measures": EN(TIMED)}
 
 

@@ -77,7 +77,8 @@ def fact(fid, text, source, url, distinct=None):
     return f
 
 
-PITCH_BEAT = "Scored on your notes on pitch and on the beat."
+PITCH_BEAT = "Scored on your notes on pitch."  # play steps never score timing (exercise.js timing 'none')
+PITCH_STEADY = PITCH_BEAT + " Listen back: did it stay steady?"  # where the beat is the lesson's point
 
 # ---- Unit 1: The floor ----
 
@@ -94,7 +95,7 @@ def acb_1_root():
             play("Sing the four chords' roots on \"doo\", with the guide bass singing along. Just try it.", line, None, kind="try"),
             play(f"Now on your own: hear the line, then sing it under the group. {SHORT_SAFETY}",
                  dict(line, turn=True, keep="acb.first-line", generous=True),
-                 "Scored on your notes on pitch and on the beat. Listen back: does the chord sound solid now?"),
+                 "Scored on your notes on pitch. Listen back: does the chord sound solid now?"),
         ],
     }
 
@@ -158,7 +159,7 @@ def acb_1_challenge():
                   [("With the guide", "The line you know, twice"), ("On your own", "Do, fa, so, do, a little quicker"), ("Listen up", "The group's chord tells you the root")]),
             play("Twice through with the guide bass, a breath between.", first, PITCH_BEAT),
             play("Now no guide bass, and a new order: I, IV, V, I. Find each root under the group.", second,
-                 "Scored on your notes on pitch and on the beat, found by ear."),
+                 "Scored on your notes on pitch, found by ear."),
         ],
     }
 
@@ -201,8 +202,8 @@ def acb_2_dm():
         "steps": [
             learn("\"Dm\" is the bass's drum: a light tap of the tongue, then a short hum with lips closed and teeth apart.",
                   [("A tap", "The tongue, light, behind the teeth"), ("A hum", "Lips closed, teeth apart"), ("On the beat", "Exactly, every time")]),
-            play("\"Dm\" on every beat, on do.", one, PITCH_BEAT),
-            play("Now three \"dm\"s on each chord's root, a rest on beat 4, under the group.", four, PITCH_BEAT),
+            play("\"Dm\" on every beat, on do.", one, PITCH_STEADY),
+            play("Now three \"dm\"s on each chord's root, a rest on beat 4, under the group.", four, PITCH_STEADY),
             {"kind": "selfcheck", "text": EN("Four more, then hear yours beside the guide's."), "exercise": model},
         ],
     }
@@ -222,7 +223,7 @@ def acb_2_buh():
                    [("Listen", "One bar from the guide"), ("Answer", "The same bar, on the same root"), ("Buh", "Lips just touching, no puff")])]
     for k, (pattern, chord) in enumerate(calls[:3]):
         ex = {"tempo": 88, "notes": call(pattern, chord) + call(pattern, calls[k + 1][1], 4), "turn": True, "with": group([chord, calls[k + 1][1]], 0, 4)}
-        steps.append(play(f"Call {k + 1}: listen, then answer.", ex, PITCH_BEAT))
+        steps.append(play(f"Call {k + 1}: listen, then answer.", ex, PITCH_STEADY))
     return {
         "id": "acb-2-buh", "title": EN("Call and response"),
         "fact": fact("fisk-1872-basses", "The first Fisk Jubilee Singers had as many basses as tenors: their 1872 songbook names two basses, Isaac P. Dickerson and Greene Evans.",
@@ -244,7 +245,7 @@ def acb_2_challenge():
             learn("Unit 1's four roots, now in bass syllables: \"doom\" once through, then \"dm\" three to a chord.",
                   [("Doom", "Stop each one on time"), ("Then dm", "Exactly on the beat"), ("Then and now", "Hear lesson 1 beside today")]),
             play("Once with the guide, to learn it.", {k: v for k, v in ex.items() if k != "thenAndNow"}, None, kind="try"),
-            play("Now the whole groove under the group.", ex, PITCH_BEAT),
+            play("Now the whole groove under the group.", ex, PITCH_STEADY),
         ],
     }
 
@@ -257,7 +258,8 @@ def groove(chords, start=0, lyric="dm", rest_last=True):
     notes = []
     for k, name in enumerate(chords):
         b = start + k * 4
-        notes += [note(b, 1, ROOT[name], lyric), note(b + 1, 1, FIFTH[name], lyric), note(b + 2, 1, ROOT[name], lyric)]
+        length = 0.5 if lyric == "dm" else 1  # a dm is a short hum (unit 2): half a beat, then quiet
+        notes += [note(b, length, ROOT[name], lyric), note(b + 1, length, FIFTH[name], lyric), note(b + 2, length, ROOT[name], lyric)]
         if not rest_last:
             notes.append(note(b + 3, 1, FIFTH[name], lyric))
     return notes
@@ -273,7 +275,7 @@ def acb_3_fifth():
             learn("The most common bass move: the root, then the chord's fifth. On low chords the fifth goes up, so you never go below fa.",
                   [("Root", "The chord's own note"), ("Fifth", "Its fifth, up or down"), ("Back", "Home to the root")]),
             play("Do and so below, back and forth, over one chord.", held, None, kind="try"),
-            play("Each chord's root and fifth: do and so, la and mi, fa and do, so and re. Listen, then sing.", every, PITCH_BEAT),
+            play("Each chord's root and fifth: do and so, la and mi, fa and do, so and re. Listen, then sing.", every, PITCH_STEADY),
         ],
     }
 
@@ -287,7 +289,8 @@ def acb_3_time():
         "steps": [
             learn("The group listens to you for the beat. In bar 3 they stop, you carry on, and they come back in on your beat.",
                   [("Your groove", "Root and fifth, steady"), ("Bar 3", "Just you"), ("Bar 4", "They're back: be where they expect")]),
-            play("Root and fifth under the group; keep going when they stop.", ex, PITCH_BEAT),
+            play("Root and fifth under the group; keep going when they stop.", ex,
+                 PITCH_BEAT + " Listen back: did your groove stay steady as a clock?"),
         ],
     }
 
@@ -310,7 +313,7 @@ def acb_3_hear():
                   [("Two grooves", "One of them rushes"), ("Choose", "Which leaned forward?"), ("Then you", "The groove, steady")]),
             {"kind": "choose", "text": EN("Listen to each, as often as you like, then choose."), "exercise": {"tempo": 84, "rounds": rounds},
              "measures": EN("Scored on the rounds you got right first time.")},
-            play("Now your groove, steady as a clock.", ex, PITCH_BEAT),
+            play("Now your groove, steady as a clock.", ex, PITCH_BEAT + " Listen back: did your groove stay steady as a clock?"),
         ],
     }
 
@@ -378,7 +381,7 @@ def acb_4_swing():
                   [("Roots on oo", "Long notes, steady"), ("Under three voices", "The tune on top"), ("Balance", "The tune should float over you")], visual="harmony"),
             play("The chorus's first line, with the guide.", {"song": dict(song, phrases=[0]), "tempo": 76, "turn": False}, None, kind="try"),
             play("The chorus's first two lines, under the other parts.", {"song": song, "tempo": 76, "turn": False},
-                 "Scored on your notes on pitch and on the beat. Listen back: could you hear the top voice over you?"),
+                 "Scored on your notes on pitch. Listen back: could you hear the top voice over you?"),
         ],
     }
 

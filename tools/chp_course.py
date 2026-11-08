@@ -291,10 +291,10 @@ UNIT4 = {
                 ("A gentle hum", "Soft and easy, against a quiet drone"),
                 ("Then your first note", "Found cold, as at rehearsal"),
             ], visual="steady"),
-            {"kind": "wave", "text": EN("Hum a soft, easy \"mm\" on the drone's note, three times."),
+            {"kind": "wave", "text": EN("Hum a soft, easy, straight \"mm\" on the drone's note, three times: one plain tone, no wave."),
              "exercise": {"tempo": 60, "lead": 2, "step": 0, "lyric": "mm", "drone": {"step": 0},
                           "target": [{"seconds": 5, "kind": "straight"}, {"seconds": 5, "kind": "straight"}, {"seconds": 5, "kind": "straight"}], "generous": True},
-             "measures": EN("Scored on how steady the hum stayed.")},
+             "measures": EN("Scored on how straight the hum stayed: no wave in it.")},
             sing("The refrain cold: no guide, the other parts on.", [4, 5, 6], others=True, guide=False, giveNote=True),
         ]),
         lesson("4-keep", "Don't stop", [

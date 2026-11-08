@@ -59,7 +59,6 @@ def selfcheck(text, model, questions, tempo=TEMPO):
 
 CLEAN = "Scored on landing each note cleanly, not sliding into it."
 PITCH = "Scored on every note on pitch."
-PITCH_BEAT = "Scored on every note on pitch and on the beat."
 
 
 def scale(pcs, low=-RANGE, high=RANGE):
@@ -211,7 +210,7 @@ def gr_1_challenge():
             learn("Five stairs again, then a real line: Steal Away, sung plain first, then with a short run on its held \"way\".",
                   [("Then and now", "Five stairs, today"), ("The tune first", "Sung plain"), ("Then the run", "On the held word")]),
             play("Five stairs.", five_stairs(thenAndNow="gr.first-run"), CLEAN),
-            play("\"Steal away\", sung plain.", {"tempo": TEMPO, "notes": steal_first(), "turn": False}, PITCH_BEAT),
+            play("\"Steal away\", sung plain.", {"tempo": TEMPO, "notes": steal_first(), "turn": False}, PITCH),
             play("Now with a short run on the held \"way\".", {"tempo": TEMPO, "notes": steal_with_run(), "turn": False, "score": "landing"}, CLEAN),
         ],
     }
@@ -232,7 +231,7 @@ def gr_2_groups():
         "steps": [
             learn("Fast runs are groups of three or four, the first of each group leaned on a little: lighter, not louder.",
                   [("Threes", "Three to a beat"), ("A small lean", "On the first, not louder"), ("Echo", "Listen, then sing")]),
-            play("Three groups of three: listen, then echo.", {"tempo": TEMPO, "notes": threes, "turn": True, "drone": {"step": 0}}, PITCH_BEAT),
+            play("Three groups of three: listen, then echo.", {"tempo": TEMPO, "notes": threes, "turn": True, "drone": {"step": 0}}, PITCH),
             selfcheck("Once more, then hear yours beside the guide's.", model, ["Did the lean stay light, not louder?", "Did your jaw stay still?"]),
         ],
     }
@@ -308,8 +307,8 @@ def gr_2_challenge():
             learn("Five stairs again, then Wade in the Water: a minor song (darker, its third a half step lower), with a minor run in fours (In groups).",
                   [("Then and now", "Five stairs, today"), ("Minor", "The darker five notes"), ("In fours", "A small lean on the first")]),
             play("Five stairs.", five_stairs(thenAndNow="gr.first-run"), CLEAN),
-            play("\"Wade in the water\", plain.", {"tempo": TEMPO, "notes": line, "turn": False}, PITCH_BEAT),
-            play("Now ending in a minor run, in fours.", {"tempo": TEMPO, "notes": ran, "turn": False}, PITCH_BEAT),
+            play("\"Wade in the water\", plain.", {"tempo": TEMPO, "notes": line, "turn": False}, PITCH),
+            play("Now ending in a minor run, in fours.", {"tempo": TEMPO, "notes": ran, "turn": False}, PITCH),
         ],
     }
 
@@ -380,7 +379,7 @@ def gr_3_challenge():
                   [("Then and now", "Five stairs, today"), ("The bend", "Arrive on the third"), ("The run", "In threes, landing home")], visual="vibrato"),
             play("Five stairs.", five_stairs(thenAndNow="gr.first-run"), CLEAN),
             {"kind": "wave", "text": EN("The bend, arriving on the third."), "exercise": bend()},
-            play("The ending run, in threes, landing on do.", {"tempo": TEMPO, "notes": threes, "turn": True, "drone": {"step": 0}}, PITCH_BEAT),
+            play("The ending run, in threes, landing on do.", {"tempo": TEMPO, "notes": threes, "turn": True, "drone": {"step": 0}}, PITCH),
         ],
     }
 
@@ -417,7 +416,7 @@ def gr_4_swing():
         "steps": [
             learn("Swing Low's line, plain, then with a turn on \"home\". The run is ours, one singer's choice: on a spiritual it serves the word.",
                   [("Plain first", "The tune as it is"), ("On home", "A turn, serving the word"), ("Then breathe", "Before \"Coming for to carry me\"")]),
-            play("\"Coming for to carry me home\", plain.", {"tempo": TEMPO, "notes": swing_line(), "turn": False}, PITCH_BEAT),
+            play("\"Coming for to carry me home\", plain.", {"tempo": TEMPO, "notes": swing_line(), "turn": False}, PITCH),
             play("Now with a turn on \"home\".", {"tempo": TEMPO, "notes": ran, "turn": False, "score": "landing"}, CLEAN),
         ],
     }
@@ -433,7 +432,7 @@ def gr_4_steal():
         "steps": [
             learn("A quiet spiritual: one gentle run, nothing more.",
                   [("Quiet", "A medium volume or less"), ("One run", "Gentle, on a held word"), ("The word", "Comes first")]),
-            play("\"Steal away to Jesus\", plain.", {"tempo": TEMPO, "notes": line, "turn": False}, PITCH_BEAT),
+            play("\"Steal away to Jesus\", plain.", {"tempo": TEMPO, "notes": line, "turn": False}, PITCH),
             play("Now with one gentle run.", {"tempo": TEMPO, "notes": ran, "turn": False, "score": "landing"}, CLEAN),
         ],
     }

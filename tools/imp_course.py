@@ -48,6 +48,11 @@ ABOVE = {0: 4, 2: 5, 4: 7, 5: 9, 7: 12, 9: 12}
 HARMONY = [{**n, "step": ABOVE[n["step"]]} for n in TUNE]
 
 
+# The chords as chords() plays them under Michael Row: the chord of so with its seventh (fa), so fa is a
+# choice wherever the backing sounds it.
+PLAYED = [dict(c, quality="dom7") if c["rel"] == 7 else c for c in CHORDS]
+
+
 def placed(notes, do, start=0, lyrics=True):
     out = []
     for n in notes:
@@ -490,7 +495,7 @@ def imp_3_chord():
         beat += 4
     end = max(n["beat"] + n["length"] for n in first)
     long_ = [{"beat": BAR + c["beat"], "length": min(([x["beat"] for x in CHORDS if x["beat"] > c["beat"]] + [end])[0], end) - c["beat"]} for c in CHORDS if c["beat"] < 16]
-    picks = chord_choices([{"beat": x["beat"] - BAR, "length": x["length"], "step": next(n["step"] for n in first if n["beat"] <= x["beat"] - BAR + 0.01 and n["beat"] + n["length"] > x["beat"] - BAR)} for x in long_], CHORDS, DO, tune=first)
+    picks = chord_choices([{"beat": x["beat"] - BAR, "length": x["length"], "step": next(n["step"] for n in first if n["beat"] <= x["beat"] - BAR + 0.01 and n["beat"] + n["length"] > x["beat"] - BAR)} for x in long_], PLAYED, DO, tune=first)
     return {
         "id": "imp-3-chord", "title": EN("Sing the chord"),
         "steps": [
@@ -511,7 +516,7 @@ def imp_3_chord():
 
 
 def imp_3_two_ways():
-    picks = chord_choices(TUNE, CHORDS, DO)
+    picks = chord_choices(TUNE, PLAYED, DO)
     ex = lambda rules: {"tempo": 92, "notes": cue(DO) + [dict(p, beat=p["beat"] + BAR) for p in picks], "turn": False,
                         "with": [guide_line(TUNE, DO, BAR)], "chords": chords(DO, BAR), "score": "species", "rules": rules}
     return {
@@ -573,7 +578,7 @@ def imp_4_hints():
 
 
 def imp_4_free():
-    picks = chord_choices(TUNE, CHORDS, DO)
+    picks = chord_choices(TUNE, PLAYED, DO)
     return {
         "id": "imp-4-free", "title": EN("Lights off"),
         "fact": {"id": "singing-upon-the-book", "text": {"en": "In the 1400s, many musicians thought of counterpoint as something improvised, \"singing upon the book\": one singer sang a written melody while the others made up parts to fit it as they went."}, "source": {"en": "Broude, Textual Cultures (2020)"}, "url": "https://scholarworks.iu.edu/journals/index.php/textual/article/view/30071"},
@@ -614,7 +619,13 @@ def imp_4_challenge():
     mel, chs = tune("red-river-valley")
     do = place_do([[{"step": 0}], [{"step": 9}]])
     above = chord_choices(mel, chs, do)
-    below = chord_choices(mel, chs, do, lo=-9, hi=-2, only=[0, 7], bass=True)  # roots and fifths, low: a bass under your own harmony
+    # Roots and fifths, low: a bass under your own harmony. From -9 each chord reaches only one of them, so
+    # the choices from -13 are added too: the root and the fifth wherever neither rubs with the tune. The
+    # written note, and every choice from -9, stay as they were.
+    below = chord_choices(mel, chs, do, lo=-9, hi=-2, only=[0, 7], bass=True)
+    low = {n["beat"]: n["choices"] for n in chord_choices(mel, chs, do, lo=-13, hi=-2, only=[0, 7], bass=True)}
+    for n in below:
+        n["choices"] = sorted(set(n["choices"]) | set(low.get(n["beat"], [])))
     ex = lambda picks, extra=None: {"tempo": 90, "notes": cue(do) + shifted(picks, 4), "turn": False, "lights": "off",
                                     "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4), **(extra or {})}
     return {

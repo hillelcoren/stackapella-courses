@@ -171,8 +171,10 @@ def exercise(notes, names, **extra):
     return ex
 
 
-PITCH_SWING = "Scored on your notes on pitch and on the swung beat."
-LANDED = "Scored on your notes on the swung beat, and landing each one you chose on a lit note."
+# Play steps never score timing (exercise.js passes timing 'none'): straight eighths score the same as
+# swung ones, so the swing is the singer's to listen back for.
+PITCH_SWING = "Scored on your notes on pitch. Listen back: did it swing?"
+LANDED = "Scored on your notes on pitch, each one you chose on a lit note. Listen back: did it swing?"
 
 # ---- Unit 1: The swing pocket ----
 
@@ -226,7 +228,7 @@ def sc_1_swing():
                   [("Doo", "Long, soft"), ("BAH", "Short, leaning"), ("Long, short", "Like a heartbeat")]),
             choose("Listen to each, then choose.", rounds),
             play("\"Doo-bah\" on one note, swung. Just try it.", exercise(one, ["I", "I"]), None, kind="try"),
-            play("Now on two notes, swung, landing on \"doo\".", exercise(two, ["I", "I", "I"]), "Scored on your notes on pitch and on the swung beat."),
+            play("Now on two notes, swung, landing on \"doo\".", exercise(two, ["I", "I", "I"]), PITCH_SWING),
         ],
     }
 
@@ -243,7 +245,7 @@ def sc_1_and():
         "steps": [
             learn("Jazz lines love to start just after the beat, on the \"and\". End each one clean, the t of \"dat\" cutting it off.",
                   [("Wait", "Let the beat go by"), ("Then go", "On the and"), ("Dat", "A clean end")]),
-            play("Four calls that start on the and; echo each.", exercise(notes, names), "Scored on your notes on pitch and on the swung beat."),
+            play("Four calls that start on the and; echo each.", exercise(notes, names), PITCH_SWING),
         ],
     }
 
@@ -318,7 +320,7 @@ def sc_2_finish():
         "steps": [
             learn("The band plays a phrase and stops short: you sing its last note, any of the chord's 1, 3 or 5.",
                   [("Listen", "The phrase from the band"), ("Finish it", "Its last note is yours"), ("Any lit note", "1, 3 or 5 of the chord")]),
-            play("Four phrases to finish.", exercise(notes, names), "Scored on landing each last note on a lit note, on the beat."),
+            play("Four phrases to finish.", exercise(notes, names), "Scored on landing each last note on a lit note."),
             selfcheck("Once more, then hear yours beside the guide's.", model, ["Did your \"doo\" and your \"dat\" sound different?", "Did your jaw stay loose?"]),
         ],
     }
