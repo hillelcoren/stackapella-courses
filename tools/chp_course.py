@@ -119,8 +119,8 @@ UNIT1 = {
                 ("Under the tune", "Most of the way you sit under the tune. Lost? Find the tune and stay under it."),
             ], listen=hear([0, 1]), by_part={
                 "soprano": ("Now the soprano on its own: the tune. Follow the words.", [
-                    ("Its shape", "It starts on home, dips low on \"all\", then climbs to \"triumphant\""),
-                    ("On top", "You carry the tune, the line the others fit around. Lost? Come back in at the next line."),
+                    ("Its shape", "It starts on home, dips low on \"all\" and again on \"faithful\", then leaps up and climbs to \"triumphant\""),
+                    ("The tune", "You carry the tune, the line the others fit around. Lost? Come back in at the next line."),
                 ]),
                 "tenor": ("Now the tenor on its own. Follow the words.", [
                     ("Its shape", "It starts low and holds, climbs to \"faithful\", then stays on that note through most of \"joyful and triumphant\""),
@@ -128,7 +128,7 @@ UNIT1 = {
                 ]),
                 "bass": ("Now the bass on its own. Follow the words.", [
                     ("Its shape", "It climbs to \"faithful\", then jumps about on \"joyful and triumphant\""),
-                    ("At the bottom", "You're the lowest line, often on the chord's home note. Lost? Listen for the chord and find its bottom note."),
+                    ("At the bottom", "You're the lowest line, often on the chord's bottom note. Lost? Listen for the chord and find its bottom note."),
                 ]),
             }),
             wait_for_me("Find the notes of line 1: each one waits until you're on it.", [0]),
@@ -146,7 +146,7 @@ UNIT1 = {
                     (f"The {p} here", where),
                     ("Think before you sing", "Hear the note in your head first, then start right on it"),
                 ]) for p, where in [
-                    ("soprano", "It starts on the chord's bottom note, home, on top of the sound"),
+                    ("soprano", "It starts on home, the bass's note sung high, at the top of the sound"),
                     ("tenor", "It starts on the chord's bottom note, home, an octave under the tune"),
                     ("bass", "It starts on the chord's bottom note, home, the lowest note in the sound"),
                 ]}),
@@ -163,9 +163,9 @@ UNIT1 = {
                 p: ("In a choir score your line is one of four. Find it, follow it with the words, and see where it climbs and where it holds.", [
                     a, b, ("Mark your breaths", "Pencil in your score where you'll breathe, so you never run out mid-line"),
                 ]) for p, a, b in [
-                    ("soprano", ("Where it moves", "Two notes the same, then down to \"all\" and back up"), ("Low at the end", "At \"faithful\" the tune falls to its lowest note. Land it lightly.")),
-                    ("tenor", ("Where it holds", "Three notes the same, then up"), ("Meet the tune", "At \"faithful\" your line lands on the same note as the tune. Hold your note.")),
-                    ("bass", ("Where it holds", "Two notes the same, two more the same, then up a step at a time"), ("Up to \"faithful\"", "Your line climbs to \"faithful\". Hold your note.")),
+                    ("soprano", ("Where it moves", "Two notes the same, then down to \"all\" and back up"), ("Low at the end", "At \"faithful\" the tune falls a fifth to its lowest note, the one you sang on \"all\". Land it lightly.")),
+                    ("tenor", ("Where it holds", "Three notes the same, then up"), ("Meet the tune", "At \"faithful\" the tune comes down to your note, so you both sing the same note. Hold it steady.")),
+                    ("bass", ("Where it holds", "Two notes the same, up a third to two more the same, then up a step at a time"), ("Up to \"faithful\"", "Your line climbs to \"faithful\": hold \"faith-\" its full two beats, then step up.")),
                 ]}),
             sing("Read line 1 on the stave and sing it with the guide.", [0], staff={"names": "on", "look": 4}),
             sing("Line 2, the names fainter now: read it and sing it with the guide.", [1], staff={"names": "faint", "look": 4}),
@@ -192,23 +192,23 @@ UNIT2 = {
         lesson("2-find", "Find the hard bars", [
             learn("Most of a part comes easily. A few bars don't: give them the time.", [
                 ("What makes a bar hard", "A jump, a note from outside the key, or your line moving while the others hold"),
-                ("This one", "On \"Bethlehem\" the alto slips down a half step to a note from outside the key, though earlier in the same line \"O\" and \"to\" use the plain note a half step lower. Then it leaps up a fourth to a long note above the tune."),
-                ("Slow it right down", "Same notes, same pitch, much slower. Breathe quickly after \"O come ye,\" and keep it easy."),
+                ("This one", "On \"-hem\" you slip down a half step to a note from outside the key, just above the second \"O\" and \"to\", then leap up a fourth to a long note above the tune."),
+                ("Slow it right down", "Same notes, same pitch, much slower. Take a quick breath from the end of \"O come ye,\" and keep it easy."),
             ], visual="phrase", listen=hear([2], tempo=60), by_part={
                 p: ("Most of a part comes easily. A few bars don't: give them the time.", [
                     ("What makes a bar hard", "A jump, a note from outside the key, or your line moving while the others hold"),
                     ("This one", this),
-                    ("Slow it right down", "Same notes, same pitch, much slower. Breathe quickly after \"O come ye,\" and keep it easy."),
+                    ("Slow it right down", "Same notes, same pitch, much slower. Take a quick breath from the end of \"O come ye,\" and keep it easy."),
                 ]) for p, this in [
                     ("soprano", "The line climbs a step at a time to \"Beth-\", then the tune drops a fourth on \"-le-\" and steps down to a long low note on \"-hem\"."),
-                    ("tenor", "On \"to\" the tenor dips a third to a low note, climbs back on \"Bethlehem\", then holds \"-hem\" for almost five beats. Keep it steady to the end."),
-                    ("bass", "The line rocks a step up and down, then \"Bethlehem\" jumps: up a third, down a fourth, then up a fourth to a long note."),
+                    ("tenor", "On \"to\" you dip a third to a low note, climb back on \"Bethlehem\", then stay on one note from \"-le-\" to the end, almost seven beats. Keep it steady as the chords change."),
+                    ("bass", "The line steps up and rocks, drops a third on \"to\", then \"Bethlehem\" jumps: up a third, down a fourth, then up a fourth to a long note."),
                 ]}),
             wait_for_me("Line 3, slowly: each note waits until you're on it.", [2], tempo=60),
             sing("Line 3 slowly on the stave, with the guide: watch for the note from outside the key.", [2], tempo=60, staff={"names": "on", "look": 4},
                  text_by_part={"soprano": "Line 3 slowly on the stave, with the guide: watch for the drop on \"Bethlehem\".",
                                "tenor": "Line 3 slowly on the stave, with the guide: watch the dip on \"to\" and the long last note.",
-                               "bass": "Line 3 slowly on the stave, with the guide: watch the jumps on \"Bethlehem\"."}),
+                               "bass": "Line 3 slowly on the stave, with the guide: watch the drop on \"to\" and the jumps on \"Bethlehem\"."}),
         ]),
         lesson("2-speed", "Up to speed", [
             learn("Slow and clean first, then a little faster each time. A bar you can sing slowly comes at speed; a bar you always rush never does.", [
@@ -230,20 +230,20 @@ UNIT3 = {
     "id": "chp-3", "title": EN("Guide on, guide off"), "colour": 3,
     "lessons": [
         lesson("3-refrain", "The refrain", [
-            learn("The three \"O come, let us adore him\" lines share the words and the same three notes, in a different order each time. The first ends low, the second ends high, and the third goes on to \"Christ the Lord\".", [
+            learn("The three \"O come, let us adore him\" lines share the words and the same three neighbouring notes, in a different order each time. The first drops low on \"him\", the second ends high, and the third drops low again, then goes on to \"Christ the Lord\".", [
                 ("Not the tune", "Meanwhile the tune climbs, so you can't just follow it"),
                 ("The rests", "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"),
             ], listen=hear([4, 5, 6]), by_part={
-                "soprano": ("The three \"O come, let us adore him\" lines climb: the second is much the same shape a third higher, and the third starts higher still, then steps down to \"Christ the Lord\".", [
-                    ("Lead the climb", "The parts under you move less; the climb is yours"),
+                "soprano": ("The three \"O come, let us adore him\" lines build: the second is much the same shape a third higher, and the third starts there, steps down through \"adore him\", then leaps up a fourth to \"Christ the Lord\".", [
+                    ("Lead the climb", "The alto and tenor stay near their notes while you rise. The climb is yours: let it grow, never push."),
                     ("The rests", "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"),
                 ]),
-                "tenor": ("The three \"O come, let us adore him\" lines are each different for you: the first leaps up a fifth on \"us\", the second stays almost on one note, and the third stays near it, then falls to \"Lord\".", [
-                    ("Not the tune", "Meanwhile the tune climbs, so you can't just follow it"),
+                "tenor": ("The three \"O come, let us adore him\" lines are each different for you: the first leaps up a fifth on \"us\", to the alto's note, the second stays almost on one note, and the third stays near it, then falls to \"Lord\".", [
+                    ("Hold your ground", "In the second line the tune climbs while you stay near one note. Don't drift up with it."),
                     ("The rests", "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"),
                 ]),
-                "bass": ("The three \"O come, let us adore him\" lines jump for you: the second starts a whole octave above the note the first ended on, then zigzags down and up.", [
-                    ("Hear the jump first", "Before line 6, hear its first note in your head: an octave above your last \"him\""),
+                "bass": ("The three \"O come, let us adore him\" lines jump for you: the first drops a sixth to a low \"him\", the second starts an octave above it, and the third starts back on the low note.", [
+                    ("Hear the jump first", "Before line 6, hear its first note in your head: an octave above your last \"him\", on the tenor's note"),
                     ("The rests", "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"),
                 ]),
             }),
@@ -253,17 +253,17 @@ UNIT3 = {
         ]),
         lesson("3-last", "The last line", [
             learn("The last line jumps: up a fourth to \"Christ\", up a third to \"Lord\", then down a fifth inside \"Lord\" to a long low note.", [
-                ("Breathe first", "Breathe after \"adore him,\" then sing \"Christ the Lord\" in one breath"),
+                ("Breathe first", "Shorten \"him,\" a little to breathe, then sing \"Christ the Lord\" in one breath"),
                 ("Slowly, then faster", "With the guide, then without"),
                 ("Ring the last chord", "Your long low note is the chord's middle note: listen for it to settle"),
             ], visual="phrase", by_part={
                 p: (head, [
-                    ("Breathe first", "Breathe after \"adore him,\" then sing \"Christ the Lord\" in one breath"),
+                    ("Breathe first", "Shorten \"him,\" a little to breathe, then sing \"Christ the Lord\" in one breath"),
                     ("Slowly, then faster", "With the guide, then without"),
                     ("Ring the last chord", ring),
                 ]) for p, head, ring in [
                     ("soprano", "The last line climbs a fourth to \"Christ\", then steps down through \"the Lord\" to a long note on home.", "Your long last note is the chord's bottom note, home: listen for it to settle"),
-                    ("tenor", "The last line stays put: \"him, Christ the\" on one note, then down a fourth to \"Lord\", your lowest note, held long.", "Your long low note is the chord's top note, sung low: listen for it to settle"),
+                    ("tenor", "The last line stays put: \"him, Christ the\" on one note, then down a fourth to \"Lord\", on the bass's note: your lowest, held long.", "Hold your low note steady while the chord changes under it. It ends as the chord's top note, sung low."),
                     ("bass", "The last line moves down a third to \"Christ\", up a step to \"the\", then down a fifth inside \"Lord\" to a long low note.", "Your long low note is the chord's bottom note, home: listen for the others to settle on it"),
                 ]}),
             sing("Hear the last line slowly, then sing it back.", [6], turn=True, tempo=60),
