@@ -571,9 +571,11 @@ UNIT3 = {"id": "bv-answers", "title": EN("Answers"), "colour": COLOUR, "lessons"
               clip(SWING.lead(8, 16)["notes"], L("10:2 2, 12:2 -1", shift=8), chords=SWING.chords_at(8, 16))],
              0, "The answer waits for the long note: the first fills the held \"home\", the second sings over \"carry me\"."),
         ]), L("13:1 2, 14:2 -1"), L("10:2 2, 12:2 -1")),
+        # Three answers are three timed moments, the fewest timing can judge: one unheard and the beat drops out
+        # (the scoring guard, 2026-11-08), so the first two lines are pitch only and the whole chorus takes the beat.
         play("The first two lines: an \"oo\" in the tune's rest, then two under its held \"home\".",
-             first_two(FILLS, 16), SWING.tempo, "Scored on your answers on pitch and on the beat.",
-             chords=SWING.chords_at(*S_TWO), lead=SWING.lead(*S_TWO), rhythm=True),
+             first_two(FILLS, 16), SWING.tempo, "Scored on your answers on pitch.",
+             chords=SWING.chords_at(*S_TWO), lead=SWING.lead(*S_TWO)),
         play("The whole chorus: each answer in a rest or under a held note.",
              FILLS, SWING.tempo, "Scored on your answers on pitch and on the beat.",
              chords=SWING.chords_at(*S_CHORUS), lead=SWING.lead(*S_CHORUS), rhythm=True),
