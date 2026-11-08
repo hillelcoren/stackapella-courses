@@ -406,7 +406,9 @@ SAILOR_BASS = line([(4 * b + o, 1, r) for b, r in enumerate(SAILOR_ROOTS) for o 
 
 
 def sailor_line(start, notes, words):
-    """One line of the verse: Folk's rhythm (folk-1-crew), its steps moved up 4 to sit on low la."""
+    """One line of the verse: Folk's rhythm (folk-1-crew), its steps moved up 4 to sit on low la. The tune is Terry,
+    The Shanty Book Part I (1921) No. 14, checked against Whall (1913) p. 107; "lor?" stops early for a breath (the
+    print gives it a full beat)."""
     rhythm = [1, 0.5, 0.5, 1, 0.5, 0.5, 1, 1, 1, 0.25] if len(notes) == 10 else [1, 1, 1, 1, 2, 2]
     out, beat = [], start
     for length, name, word in zip(rhythm, notes, words):
