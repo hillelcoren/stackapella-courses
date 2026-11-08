@@ -1,8 +1,8 @@
 """Checks every song in templates/ (the app's bundled songs in templates/free, the library in
 templates/library) for what a pull request most often breaks, with Python's standard library only:
 it parses, has the fields every song needs, its parts are the four SATB voices or the four
-barbershop ones (never a mix), each part's notes are in order and inside its own range, and every
-voicing names real parts and includes the melody. The app's full checks (the JSON Schema in
+barbershop ones (never a mix), each part's notes are in order and inside its own range, every
+voicing names real parts and includes the melody, and no number has more than 6 decimal places. The app's full checks (the JSON Schema in
 templates/format/template.json, the arrangement review and the sync) run in the Stackapella
 repository when a new commit of this one is pinned. Prints one line; exits 1 on any problem.
 """
@@ -51,6 +51,22 @@ def check(path):
             if not low <= pitch <= high:
                 problems.append(f"{where} {part.get('key')}: pitch {pitch} at beat {beat} is outside its range {low} to {high}")
             end = beat + length
+    long_floats = []
+
+    def walk(value, path):
+        if isinstance(value, dict):
+            for k, v in value.items():
+                walk(v, f"{path}.{k}")
+        elif isinstance(value, list):
+            for i, v in enumerate(value):
+                walk(v, f"{path}[{i}]")
+        elif isinstance(value, float) and round(value, 6) != value:
+            long_floats.append((path, value))
+
+    walk(song, "")
+    if long_floats:
+        path, value = long_floats[0]
+        problems.append(f"{where}: {len(long_floats)} numbers with more than 6 decimal places, the first {value} at {path}: round them to 6 places (MySQL's JSON column reads longer ones back changed, 90.33333333333333 as 90.33333333333331, and the server's sync then refuses the song)")
     for count, voicing in (song.get("voicings") or {}).items():
         if any(k not in keys for k in voicing):
             problems.append(f"{where}: voicing {count} names a part that doesn't exist")
