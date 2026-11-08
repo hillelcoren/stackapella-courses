@@ -64,6 +64,8 @@ def notes(where, items, web_only):
         known(where + " note", n, FORMAT["note"]["fields"])
         if not isinstance(n.get("beat"), (int, float)) or not isinstance(n.get("length"), (int, float)) or n["length"] <= 0:
             problem(where, "a note needs a beat and a positive length")
+        if isinstance(n.get("choices"), list) and "step" in n and n["step"] not in n["choices"]:
+            problem(where, f"the note at beat {n.get('beat')} sings step {n['step']}, not one of its own choices")
         web_only.update(k for k in n if k in FORMAT["note"]["webOnly"])
 
 
