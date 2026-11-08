@@ -289,7 +289,7 @@
             "generous": "the first lesson's kinder stars",
             "base": "flip: steps laid from the singer's flip note (Yodeling); flipKey: the same, moved up to three semitones (or one down) so the tag's home note, two below, is in the line's key (lineKey), else its V, else its IV: a song's yodel tag",
             "lineKey": "with base flipKey: the song line's home note, in semitones from the singer's comfortable note (0 by default)",
-            "under": "{ step }: sing over that earlier step's take, this visit",
+            "under": "{ step }: sing over that earlier step's take, this visit. Or layers (Live looping, docs/courses/live-looping.md): { steps: [n | { step, loop }], loop? }: those earlier steps' takes mixed, each first layer loudest and each later one a little quieter; with loop (beats), a layer plays from its take's beat 0 for that many beats, again and again, to the exercise's end (a layer's own loop over the shared one; shorter loops divide the longest). Through a speaker the layers rest during a scored take. keepSong renders each loop out to the song's length.",
             "with": "partner lines that sound while you sing (Counterpoint: docs/courses/counterpoint.md 8b)",
             "answer": "the notes to sing back when they differ from the call (call and response)",
             "guide": "false: no guide notes (a cold start)",

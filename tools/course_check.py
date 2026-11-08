@@ -455,6 +455,31 @@ def boss(where, b, seen, path, clip_ids):
     check_steps(f"{where} boss", steps, path, clip_ids, set())
 
 
+def under(where, value, index):
+    """An earlier take to sing over (steps.json play.under): { step }, or layers { steps: [n | { step, loop }],
+    loop? }, each an earlier step of this lesson, each loop a length in beats (Live looping)."""
+    def earlier(n):
+        return isinstance(n, int) and not isinstance(n, bool) and 0 <= n < index
+    def length(x):
+        return isinstance(x, (int, float)) and not isinstance(x, bool) and x > 0
+    if not isinstance(value, dict):
+        problem(where, "under is { step } or { steps, loop? }")
+    elif "step" in value:
+        if set(value) != {"step"} or not earlier(value["step"]):
+            problem(where, "under { step } names an earlier step of this lesson")
+    elif not (set(value) <= {"steps", "loop"} and isinstance(value.get("steps"), list) and value["steps"]):
+        problem(where, "under is { step } or { steps: [...], loop? }")
+    else:
+        if "loop" in value and not length(value["loop"]):
+            problem(where, "under's loop is a length in beats")
+        for layer in value["steps"]:
+            if isinstance(layer, dict):
+                if not (set(layer) <= {"step", "loop"} and earlier(layer.get("step")) and ("loop" not in layer or length(layer["loop"]))):
+                    problem(where, "an under layer is { step, loop? }: an earlier step, a length in beats")
+            elif not earlier(layer):
+                problem(where, "an under layer names an earlier step of this lesson")
+
+
 def check_steps(where, steps, path, clip_ids, kept):
     """Each step's kind and fields, its song and exercise; returns what Flutter can't play yet."""
     flutter = set()
@@ -481,6 +506,8 @@ def check_steps(where, steps, path, clip_ids, kept):
         if "listen" in step:
             exercise(at, step["listen"], "play", web_only, clip_ids)
         ex = step.get("exercise") if isinstance(step.get("exercise"), dict) else {}
+        if "under" in ex:
+            under(at, ex["under"], i)
         if ex.get("thenAndNow") and ex["thenAndNow"] not in kept:
             problem(at, f"thenAndNow '{ex['thenAndNow']}' isn't kept by an earlier lesson of this course")
         if kind["flutter"] != "yes":
