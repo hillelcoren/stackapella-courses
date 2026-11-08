@@ -33,7 +33,7 @@ TRILL = {"trill": True}
 TRY_ANY = "Can't trill yet? Hum or slide on \"oo\" instead: the app follows whatever easy sound you make."
 UNBROKEN = "Scored on following the ribbon in one unbroken sound, never on how high or how long. The app can't tell a bubble from a hum, so either counts."
 RIBBON = "Scored on following the ribbon."
-STEADY = "Scored on holding the note steady."
+HELD = "Scored on the note, held to its end."
 NOTES = "Scored on the notes."
 
 
@@ -72,8 +72,11 @@ def trill_ride(text, points, band=150, **extra):
     return wave(f"{text} {TRY_ANY}" if "Can't trill" not in text else text, "brr", [path(points, band)], UNBROKEN, score="unbroken", trill=True, **extra)
 
 
-def held(text, lyric, seconds=4):
-    return wave(text, lyric, [{"seconds": seconds, "kind": "straight"}], STEADY)
+def held(text, lyric, beats=4):
+    """A held note, heard then sung, scored on its pitch (a warm-up hum may wobble: a straight tone is the Vibrato
+    course's skill, and the lane's straight target scored a beginner's slow wobble as nothing)."""
+    return {"kind": "play", "text": EN(text), "exercise": {"tempo": 60, "turn": True, "notes": [{"beat": 0, "length": beats, "step": 0, "lyric": lyric}]},
+            "measures": EN(HELD)}
 
 
 def siren(text, points, **extra):
