@@ -1,0 +1,2131 @@
+{
+    "id": "live-looping",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Live looping"},
+    "units": [
+        {
+            "id": "ll-a-loop",
+            "title": {"en": "A loop that lines up"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "ll-1-loop",
+                    "title": {"en": "The loop"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A looper sings a short part, lets it repeat, and sings over it: a band made of one voice. Hear one: a bass four times round, and a second part over it. This course is for the web app for now."},
+                            "steps": [
+                                {"title": {"en": "The app closes the loop"}, "detail": {"en": "Your job is to fit inside it"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}},
+                                {"title": {"en": "Low and easy"}, "detail": {"en": "Easy volume, your middle notes, the bass light; stop if anything tightens or hurts."}}
+                            ],
+                            "visual": "bass",
+                            "reviewed": false,
+                            "listen": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 6, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 8, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 10, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 14, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 16, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 18, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 20, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 22, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 24, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 26, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 28, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 30, "length": 1, "step": -5, "lyric": "doom"}
+                                ],
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 17, "length": 0.5, "step": 4, "lyric": "doo"},
+                                            {"beat": 19, "length": 0.5, "step": 4, "lyric": "doo"},
+                                            {"beat": 21, "length": 0.5, "step": 2, "lyric": "doo"},
+                                            {"beat": 23, "length": 0.5, "step": 2, "lyric": "doo"},
+                                            {"beat": 25, "length": 0.5, "step": 4, "lyric": "doo"},
+                                            {"beat": 27, "length": 0.5, "step": 4, "lyric": "doo"},
+                                            {"beat": 29, "length": 0.5, "step": 2, "lyric": "doo"},
+                                            {"beat": 31, "length": 0.5, "step": 2, "lyric": "doo"}
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing the bass on \"doom\", twice round: do, do, then low so, low so, a rest after each. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 6, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 8, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 10, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 14, "length": 1, "step": -5, "lyric": "doom"}
+                                ],
+                                "drone": {"step": 0, "fadeAfter": 4},
+                                "generous": true
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Not happy with it? Sing it again before you stack on it. Now your bass loops: listen once round, then fill its gaps with short \"doo\"s, on mi, then re."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 9, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 11, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 13, "length": 0.5, "step": 2, "lyric": "doo"},
+                                    {"beat": 15, "length": 0.5, "step": 2, "lyric": "doo"},
+                                    {"beat": 17, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 19, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 21, "length": 0.5, "step": 2, "lyric": "doo"},
+                                    {"beat": 23, "length": 0.5, "step": 2, "lyric": "doo"}
+                                ],
+                                "under": {
+                                    "steps": [1],
+                                    "loop": 8
+                                },
+                                "generous": true
+                            },
+                            "measures": {"en": "Scored on your notes in the gaps, on pitch and on the beat. That's your loop under you."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ll-1-lock",
+                    "title": {"en": "Lock to yourself"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A looper's first test: drop out, keep the loop in your head, and come back in on time."},
+                            "steps": [
+                                {"title": {"en": "Sing, rest, sing"}, "detail": {"en": "Fill the gaps once round, listen a round, then back in"}},
+                                {"title": {"en": "Back in on time"}, "detail": {"en": "Your loop is the band: be where it expects you"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "bass",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The bass once round: do, do, low so, low so. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 6, "length": 1, "step": -5, "lyric": "doom"}
+                                ],
+                                "drone": {"step": 0, "fadeAfter": 4}
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Listen once round, fill the gaps once round, rest a round, then come back in."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 9, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 11, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 13, "length": 0.5, "step": 2, "lyric": "doo"},
+                                    {"beat": 15, "length": 0.5, "step": 2, "lyric": "doo"},
+                                    {"beat": 25, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 27, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 29, "length": 0.5, "step": 2, "lyric": "doo"},
+                                    {"beat": 31, "length": 0.5, "step": 2, "lyric": "doo"}
+                                ],
+                                "under": {
+                                    "steps": [1],
+                                    "loop": 8
+                                },
+                                "score": "entry"
+                            },
+                            "measures": {"en": "Scored on coming back in on time and on pitch after the rest."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ll-1-longer",
+                    "title": {"en": "A longer loop"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Four bars now, four notes: do, low la, re, low so. A loop that moves through four chords."},
+                            "steps": [
+                                {"title": {"en": "The last note stops early"}, "detail": {"en": "That's your breath, and the loop's seam"}},
+                                {"title": {"en": "Each note twice"}, "detail": {"en": "Then a rest"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "bass",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find each note of the four-bar bass: each waits until you're on it."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 4, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 6, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 8, "length": 1, "step": 2, "lyric": "doom"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "doom"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 14, "length": 0.75, "step": -5, "lyric": "doom"}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Hear each loop come round, then choose."},
+                            "exercise": {
+                                "tempo": 80,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which loop closes cleanly?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -5},
+                                                    {"beat": 2, "length": 0.75, "step": -5},
+                                                    {"beat": 4, "length": 1, "step": 0},
+                                                    {"beat": 6, "length": 1, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -5},
+                                                    {"beat": 2, "length": 2, "step": -5},
+                                                    {"beat": 4, "length": 1, "step": 0},
+                                                    {"beat": 6, "length": 1, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The first stops early, so there's a breath before the loop comes round. The second runs right into it."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which loop closes cleanly?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -5},
+                                                    {"beat": 2, "length": 0.75, "step": -5},
+                                                    {"beat": 4.3, "length": 0.7, "step": 0},
+                                                    {"beat": 6, "length": 1, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -5},
+                                                    {"beat": 2, "length": 0.75, "step": -5},
+                                                    {"beat": 4, "length": 1, "step": 0},
+                                                    {"beat": 6, "length": 1, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "In the first, the note after the seam comes in late, and the loop stumbles."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which loop closes cleanly?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -5},
+                                                    {"beat": 2, "length": 2, "step": -5},
+                                                    {"beat": 4, "length": 1, "step": 0},
+                                                    {"beat": 6, "length": 1, "step": 0}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -5},
+                                                    {"beat": 2, "length": 0.75, "step": -5},
+                                                    {"beat": 4, "length": 1, "step": 0},
+                                                    {"beat": 6, "length": 1, "step": 0}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The second leaves a gap at the seam. The first holds on into the next round."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The four-bar bass, twice round. Stop the last note early, before the loop comes round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 4, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 6, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 8, "length": 1, "step": 2, "lyric": "doom"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "doom"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 14, "length": 0.75, "step": -5, "lyric": "doom"},
+                                    {"beat": 16, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 18, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 20, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 22, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 24, "length": 1, "step": 2, "lyric": "doom"},
+                                    {"beat": 26, "length": 1, "step": 2, "lyric": "doom"},
+                                    {"beat": 28, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 30, "length": 0.75, "step": -5, "lyric": "doom"}
+                                ],
+                                "drone": {"step": 0, "fadeAfter": 4},
+                                "score": "release"
+                            },
+                            "measures": {"en": "Scored on stopping each note on time, steady to its end, before the loop comes round."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ll-1-first",
+                    "title": {"en": "Your first loop"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Your first loop, kept for the end of the course: the four-bar bass once, then the gap part over it, with a rest in the middle."},
+                            "steps": [
+                                {"title": {"en": "Kept for later"}, "detail": {"en": "The course's last lesson plays it beside your new bass"}},
+                                {"title": {"en": "Sing, rest, back in"}, "detail": {"en": "After one round of listening"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "bass",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The four-bar bass, once round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 4, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 6, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 8, "length": 1, "step": 2, "lyric": "doom"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "doom"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 14, "length": 0.75, "step": -5, "lyric": "doom"}
+                                ],
+                                "drone": {"step": 0, "fadeAfter": 4},
+                                "keep": "looping.first-loop"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Listen once round, fill the gaps once round, rest a round, then come back in: mi, then fa, then re."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 17, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 19, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 21, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 23, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 25, "length": 0.5, "step": 5, "lyric": "doo"},
+                                    {"beat": 27, "length": 0.5, "step": 5, "lyric": "doo"},
+                                    {"beat": 29, "length": 0.5, "step": 2, "lyric": "doo"},
+                                    {"beat": 31, "length": 0.5, "step": 2, "lyric": "doo"},
+                                    {"beat": 49, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 51, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 53, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 55, "length": 0.5, "step": 4, "lyric": "doo"},
+                                    {"beat": 57, "length": 0.5, "step": 5, "lyric": "doo"},
+                                    {"beat": 59, "length": 0.5, "step": 5, "lyric": "doo"},
+                                    {"beat": 61, "length": 0.5, "step": 2, "lyric": "doo"},
+                                    {"beat": 63, "length": 0.5, "step": 2, "lyric": "doo"}
+                                ],
+                                "under": {
+                                    "steps": [1],
+                                    "loop": 16
+                                },
+                                "score": "entry"
+                            },
+                            "measures": {"en": "Scored on coming back in on time and on pitch after the rest."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ll-stacking",
+            "title": {"en": "Stacking parts"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "ll-2-pad",
+                    "title": {"en": "The pad"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A pad is a soft held note over the bass: the chord's middle. Over your loop, \"oo\" on mi, then re."},
+                            "steps": [
+                                {"title": {"en": "Softer than the bass"}, "detail": {"en": "A pad is felt more than heard"}},
+                                {"title": {"en": "Each layer its own sound"}, "detail": {"en": "Bass on \"doom\", pad on \"oo\", so you can hear them all"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The floor first, every time: the bass once round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 6, "length": 1, "step": -5, "lyric": "doom"}
+                                ],
+                                "drone": {"step": 0, "fadeAfter": 4}
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Listen once round, then a soft \"oo\" over your loop: mi for a bar, then re, each stopped half a beat early."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 8, "length": 3.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 12, "length": 3.5, "step": 2, "lyric": "oo"},
+                                    {"beat": 16, "length": 3.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 20, "length": 3.5, "step": 2, "lyric": "oo"}
+                                ],
+                                "under": {
+                                    "steps": [1],
+                                    "loop": 8
+                                }
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ll-2-rhythm",
+                    "title": {"en": "A rhythm part"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A rhythm part is short and bright: \"doo-doo\" on so, in the bass's gaps."},
+                            "steps": [
+                                {"title": {"en": "In the gaps"}, "detail": {"en": "Two quick doos after each bass note"}},
+                                {"title": {"en": "Bright and short"}, "detail": {"en": "Like a drum, not a tune"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to each, then choose."},
+                            "exercise": {
+                                "tempo": 80,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which mix lets the doo-doos through?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                                    {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
+                                                    {"beat": 6, "length": 1, "step": -5, "lyric": "doom"},
+                                                    {"beat": 0, "length": 3.5, "step": 4, "lyric": "oo"},
+                                                    {"beat": 4, "length": 3.5, "step": 2, "lyric": "oo"},
+                                                    {"beat": 1, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 1.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 3, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 3.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 5.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 7, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 7.5, "length": 0.5, "step": 7, "lyric": "doo"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                                    {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
+                                                    {"beat": 6, "length": 1, "step": -5, "lyric": "doom"},
+                                                    {"beat": 0, "length": 3.5, "step": 7},
+                                                    {"beat": 4, "length": 3.5, "step": 7},
+                                                    {"beat": 1, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 1.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 3, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 3.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 5.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 7, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 7.5, "length": 0.5, "step": 7, "lyric": "doo"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "In the second, the pad holds the doo-doos' own note, and they vanish into it."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which rhythm part leaves room for the bass?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                                    {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
+                                                    {"beat": 6, "length": 1, "step": -5, "lyric": "doom"},
+                                                    {"beat": 0, "length": 0.5, "step": 7},
+                                                    {"beat": 0.5, "length": 0.5, "step": 7},
+                                                    {"beat": 2, "length": 0.5, "step": 7},
+                                                    {"beat": 2.5, "length": 0.5, "step": 7},
+                                                    {"beat": 4, "length": 0.5, "step": 7},
+                                                    {"beat": 4.5, "length": 0.5, "step": 7},
+                                                    {"beat": 6, "length": 0.5, "step": 7},
+                                                    {"beat": 6.5, "length": 0.5, "step": 7}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                                    {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
+                                                    {"beat": 6, "length": 1, "step": -5, "lyric": "doom"},
+                                                    {"beat": 1, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 1.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 3, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 3.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 5.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 7, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 7.5, "length": 0.5, "step": 7, "lyric": "doo"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The second sits in the bass's gaps. The first lands on the bass's notes and covers them."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which mix lets the doo-doos through?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                                    {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
+                                                    {"beat": 6, "length": 1, "step": -5, "lyric": "doom"},
+                                                    {"beat": 0, "length": 3.5, "step": 7},
+                                                    {"beat": 4, "length": 3.5, "step": 7},
+                                                    {"beat": 1, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 1.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 3, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 3.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 5.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 7, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 7.5, "length": 0.5, "step": 7, "lyric": "doo"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                                    {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
+                                                    {"beat": 6, "length": 1, "step": -5, "lyric": "doom"},
+                                                    {"beat": 0, "length": 3.5, "step": 4, "lyric": "oo"},
+                                                    {"beat": 4, "length": 3.5, "step": 2, "lyric": "oo"},
+                                                    {"beat": 1, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 1.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 3, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 3.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 5.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 7, "length": 0.5, "step": 7, "lyric": "doo"},
+                                                    {"beat": 7.5, "length": 0.5, "step": 7, "lyric": "doo"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "In the second, the pad sits lower, on other notes, so the doo-doos stand out."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The bass once round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 6, "length": 1, "step": -5, "lyric": "doom"}
+                                ],
+                                "drone": {"step": 0, "fadeAfter": 4}
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Listen once round, then \"doo-doo\" on so in the gaps, twice round."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 9, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 9.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 11, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 11.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 13, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 13.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 15, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 15.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 17, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 17.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 19, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 19.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 21, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 21.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 23, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 23.5, "length": 0.5, "step": 7, "lyric": "doo"}
+                                ],
+                                "under": {
+                                    "steps": [2],
+                                    "loop": 8
+                                }
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ll-2-three",
+                    "title": {"en": "Three layers"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the four-bar loop, three layers deep: the bass, a pad over it, then a rhythm part over both."},
+                            "steps": [
+                                {"title": {"en": "Once round each"}, "detail": {"en": "The pad starts with your bass, on its first beat"}},
+                                {"title": {"en": "Never push"}, "detail": {"en": "Never sing louder to hear yourself: lower your headphones instead"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The four-bar bass, once round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 4, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 6, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 8, "length": 1, "step": 2, "lyric": "doom"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "doom"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 14, "length": 0.75, "step": -5, "lyric": "doom"}
+                                ],
+                                "drone": {"step": 0, "fadeAfter": 4}
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The pad, from your loop's first beat, once round: mi, mi, fa, re, each held soft on \"oo\"."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 3.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 4, "length": 3.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 8, "length": 3.5, "step": 5, "lyric": "oo"},
+                                    {"beat": 12, "length": 3.5, "step": 2, "lyric": "oo"}
+                                ],
+                                "under": {
+                                    "steps": [1],
+                                    "loop": 16
+                                }
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Listen once round to your two layers, then \"doo-doo\" in the gaps: on so, so, la, so."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 17, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 17.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 19, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 19.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 21, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 21.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 23, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 23.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 25, "length": 0.5, "step": 9, "lyric": "doo"},
+                                    {"beat": 25.5, "length": 0.5, "step": 9, "lyric": "doo"},
+                                    {"beat": 27, "length": 0.5, "step": 9, "lyric": "doo"},
+                                    {"beat": 27.5, "length": 0.5, "step": 9, "lyric": "doo"},
+                                    {"beat": 29, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 29.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 31, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 31.5, "length": 0.5, "step": 7, "lyric": "doo"}
+                                ],
+                                "under": {
+                                    "steps": [1, 2],
+                                    "loop": 16
+                                }
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "The top part once more on its own, then hear yours beside the guide's."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 1, "length": 0.5, "step": 7, "lyric": "doo"},
+                                        {"beat": 1.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                        {"beat": 3, "length": 0.5, "step": 7, "lyric": "doo"},
+                                        {"beat": 3.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                        {"beat": 5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                        {"beat": 5.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                        {"beat": 7, "length": 0.5, "step": 7, "lyric": "doo"},
+                                        {"beat": 7.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                        {"beat": 9, "length": 0.5, "step": 9, "lyric": "doo"},
+                                        {"beat": 9.5, "length": 0.5, "step": 9, "lyric": "doo"},
+                                        {"beat": 11, "length": 0.5, "step": 9, "lyric": "doo"},
+                                        {"beat": 11.5, "length": 0.5, "step": 9, "lyric": "doo"},
+                                        {"beat": 13, "length": 0.5, "step": 7, "lyric": "doo"},
+                                        {"beat": 13.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                        {"beat": 15, "length": 0.5, "step": 7, "lyric": "doo"},
+                                        {"beat": 15.5, "length": 0.5, "step": 7, "lyric": "doo"}
+                                    ]
+                                },
+                                "questions": [
+                                    {"en": "In your last take, could you hear all three layers?"},
+                                    {"en": "Did you push to hear yourself?"}
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "ll-2-band",
+                    "title": {"en": "The band"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The band: all three layers on the four-bar loop, nothing lit while you sing. From memory, as a looper on stage."},
+                            "steps": [
+                                {"title": {"en": "Nothing lit"}, "detail": {"en": "Your notes show after each take, not during it"}},
+                                {"title": {"en": "Once round each"}, "detail": {"en": "Then the top part twice"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The bass, once round, from memory. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "doom"},
+                                    {"beat": 4, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 6, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 8, "length": 1, "step": 2, "lyric": "doom"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "doom"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 14, "length": 0.75, "step": -5, "lyric": "doom"}
+                                ],
+                                "drone": {"step": 0, "fadeAfter": 4},
+                                "lights": "off"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The pad from the first beat, once round, from memory."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 3.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 4, "length": 3.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 8, "length": 3.5, "step": 5, "lyric": "oo"},
+                                    {"beat": 12, "length": 3.5, "step": 2, "lyric": "oo"}
+                                ],
+                                "under": {
+                                    "steps": [1],
+                                    "loop": 16
+                                },
+                                "lights": "off"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Listen once round, then the rhythm part twice round, from memory."},
+                            "exercise": {
+                                "tempo": 80,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 17, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 17.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 19, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 19.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 21, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 21.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 23, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 23.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 25, "length": 0.5, "step": 9, "lyric": "doo"},
+                                    {"beat": 25.5, "length": 0.5, "step": 9, "lyric": "doo"},
+                                    {"beat": 27, "length": 0.5, "step": 9, "lyric": "doo"},
+                                    {"beat": 27.5, "length": 0.5, "step": 9, "lyric": "doo"},
+                                    {"beat": 29, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 29.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 31, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 31.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 33, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 33.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 35, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 35.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 37, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 37.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 39, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 39.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 41, "length": 0.5, "step": 9, "lyric": "doo"},
+                                    {"beat": 41.5, "length": 0.5, "step": 9, "lyric": "doo"},
+                                    {"beat": 43, "length": 0.5, "step": 9, "lyric": "doo"},
+                                    {"beat": 43.5, "length": 0.5, "step": 9, "lyric": "doo"},
+                                    {"beat": 45, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 45.5, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 47, "length": 0.5, "step": 7, "lyric": "doo"},
+                                    {"beat": 47.5, "length": 0.5, "step": 7, "lyric": "doo"}
+                                ],
+                                "under": {
+                                    "steps": [1, 2],
+                                    "loop": 16
+                                },
+                                "lights": "off"
+                            },
+                            "measures": {"en": "Scored on the top part on pitch and on the beat, from memory, over your band."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ll-tune-on-top",
+            "title": {"en": "A tune on top"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "ll-3-row",
+                    "title": {"en": "Row, Row, Row Your Boat"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Row, Row, Row Your Boat sits on one chord all the way, so its loop is one note. The song sits low here: home is your low so."},
+                            "steps": [
+                                {"title": {"en": "One chord, one note"}, "detail": {"en": "The simplest loop there is"}},
+                                {"title": {"en": "Two beats a bar"}, "detail": {"en": "A rocking beat, like oars"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "round",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The bass on \"doom\": three short notes and a rest, twice round. It's at the bottom of your voice. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 60,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 0.67, "step": -5, "lyric": "doom"},
+                                    {"beat": 1, "length": 0.67, "step": -5, "lyric": "doom"},
+                                    {"beat": 2, "length": 0.67, "step": -5, "lyric": "doom"},
+                                    {"beat": 4, "length": 0.67, "step": -5, "lyric": "doom"},
+                                    {"beat": 5, "length": 0.67, "step": -5, "lyric": "doom"},
+                                    {"beat": 6, "length": 0.67, "step": -5, "lyric": "doom"}
+                                ],
+                                "drone": {"step": -5, "fadeAfter": 4}
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Listen once round, then sing the tune over your loop."},
+                            "exercise": {
+                                "tempo": 60,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 4, "length": 1, "step": -5, "lyric": "Row,"},
+                                    {"beat": 5, "length": 1, "step": -5, "lyric": "row,"},
+                                    {"beat": 6, "length": 0.666667, "step": -5, "lyric": "row"},
+                                    {"beat": 6.666667, "length": 0.333333, "step": -3, "lyric": "your"},
+                                    {"beat": 7, "length": 1, "step": -1, "lyric": "boat,"},
+                                    {"beat": 8, "length": 0.666667, "step": -1, "lyric": "gent-"},
+                                    {"beat": 8.666667, "length": 0.333333, "step": -3, "lyric": "ly"},
+                                    {"beat": 9, "length": 0.666667, "step": -1, "lyric": "down"},
+                                    {"beat": 9.666667, "length": 0.333333, "step": 0, "lyric": "the"},
+                                    {"beat": 10, "length": 1.25, "step": 2, "lyric": "stream."},
+                                    {"beat": 12, "length": 0.333333, "step": 7, "lyric": "Mer-"},
+                                    {"beat": 12.333333, "length": 0.333334, "step": 7, "lyric": "ri-"},
+                                    {"beat": 12.666667, "length": 0.333333, "step": 7, "lyric": "ly,"},
+                                    {"beat": 13, "length": 0.333333, "step": 2, "lyric": "mer-"},
+                                    {"beat": 13.333333, "length": 0.333334, "step": 2, "lyric": "ri-"},
+                                    {"beat": 13.666667, "length": 0.333333, "step": 2, "lyric": "ly,"},
+                                    {"beat": 14, "length": 0.333333, "step": -1, "lyric": "mer-"},
+                                    {"beat": 14.333333, "length": 0.333334, "step": -1, "lyric": "ri-"},
+                                    {"beat": 14.666667, "length": 0.333333, "step": -1, "lyric": "ly,"},
+                                    {"beat": 15, "length": 0.333333, "step": -5, "lyric": "mer-"},
+                                    {"beat": 15.333333, "length": 0.333334, "step": -5, "lyric": "ri-"},
+                                    {"beat": 15.666667, "length": 0.333333, "step": -5, "lyric": "ly,"},
+                                    {"beat": 16, "length": 0.666667, "step": 2, "lyric": "life"},
+                                    {"beat": 16.666667, "length": 0.333333, "step": 0, "lyric": "is"},
+                                    {"beat": 17, "length": 0.666667, "step": -1, "lyric": "but"},
+                                    {"beat": 17.666667, "length": 0.333333, "step": -3, "lyric": "a"},
+                                    {"beat": 18, "length": 1.25, "step": -5, "lyric": "dream."}
+                                ],
+                                "under": {
+                                    "steps": [1],
+                                    "loop": 4
+                                }
+                            },
+                            "measures": {"en": "Scored on the tune's notes on pitch and on the beat."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ll-3-frere",
+                    "title": {"en": "Are You Sleeping (Frère Jacques)"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The round's last line, \"ding, dang, dong\", is its own bass: looped, it fits under every bar of the tune."},
+                            "steps": [
+                                {"title": {"en": "The round's last line"}, "detail": {"en": "Is its own bass"}},
+                                {"title": {"en": "A pad on so"}, "detail": {"en": "Held soft over every bar"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "round",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Ding, dang, dong\": do, low so, do, twice round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 96,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "ding"},
+                                    {"beat": 1, "length": 1, "step": -5, "lyric": "dang"},
+                                    {"beat": 2, "length": 1.5, "step": 0, "lyric": "dong"},
+                                    {"beat": 4, "length": 1, "step": 0, "lyric": "ding"},
+                                    {"beat": 5, "length": 1, "step": -5, "lyric": "dang"},
+                                    {"beat": 6, "length": 1.5, "step": 0, "lyric": "dong"}
+                                ],
+                                "drone": {"step": 0, "fadeAfter": 4}
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The pad from your loop's first beat: a soft \"oo\" on so, held each bar, twice round."},
+                            "exercise": {
+                                "tempo": 96,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 3.5, "step": 7, "lyric": "oo"},
+                                    {"beat": 4, "length": 3.5, "step": 7, "lyric": "oo"}
+                                ],
+                                "under": {
+                                    "steps": [1],
+                                    "loop": 4
+                                }
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Listen once round, then the tune over your bass and pad."},
+                            "exercise": {
+                                "tempo": 96,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 4, "length": 1, "step": 0, "lyric": "Are"},
+                                    {"beat": 5, "length": 1, "step": 2, "lyric": "you"},
+                                    {"beat": 6, "length": 1, "step": 4, "lyric": "sleep-"},
+                                    {"beat": 7, "length": 1, "step": 0, "lyric": "ing,"},
+                                    {"beat": 8, "length": 1, "step": 0, "lyric": "are"},
+                                    {"beat": 9, "length": 1, "step": 2, "lyric": "you"},
+                                    {"beat": 10, "length": 1, "step": 4, "lyric": "sleep-"},
+                                    {"beat": 11, "length": 1, "step": 0, "lyric": "ing,"},
+                                    {"beat": 12, "length": 1, "step": 4, "lyric": "Bro-"},
+                                    {"beat": 13, "length": 1, "step": 5, "lyric": "ther"},
+                                    {"beat": 14, "length": 1, "step": 7, "lyric": "John?"},
+                                    {"beat": 16, "length": 1, "step": 4, "lyric": "Bro-"},
+                                    {"beat": 17, "length": 1, "step": 5, "lyric": "ther"},
+                                    {"beat": 18, "length": 1, "step": 7, "lyric": "John?"},
+                                    {"beat": 20, "length": 0.5, "step": 7, "lyric": "Morn-"},
+                                    {"beat": 20.5, "length": 0.5, "step": 9, "lyric": "ing"},
+                                    {"beat": 21, "length": 0.5, "step": 7, "lyric": "bells"},
+                                    {"beat": 21.5, "length": 0.5, "step": 5, "lyric": "are"},
+                                    {"beat": 22, "length": 1, "step": 4, "lyric": "ring-"},
+                                    {"beat": 23, "length": 1, "step": 0, "lyric": "ing,"},
+                                    {"beat": 24, "length": 0.5, "step": 7, "lyric": "morn-"},
+                                    {"beat": 24.5, "length": 0.5, "step": 9, "lyric": "ing"},
+                                    {"beat": 25, "length": 0.5, "step": 7, "lyric": "bells"},
+                                    {"beat": 25.5, "length": 0.5, "step": 5, "lyric": "are"},
+                                    {"beat": 26, "length": 1, "step": 4, "lyric": "ring-"},
+                                    {"beat": 27, "length": 1, "step": 0, "lyric": "ing,"},
+                                    {"beat": 28, "length": 1, "step": 0, "lyric": "ding,"},
+                                    {"beat": 29, "length": 1, "step": -5, "lyric": "dang,"},
+                                    {"beat": 30, "length": 1, "step": 0, "lyric": "dong,"},
+                                    {"beat": 32, "length": 1, "step": 0, "lyric": "ding,"},
+                                    {"beat": 33, "length": 1, "step": -5, "lyric": "dang,"},
+                                    {"beat": 34, "length": 1, "step": 0, "lyric": "dong."}
+                                ],
+                                "under": {
+                                    "steps": [1, 2],
+                                    "loop": 4
+                                }
+                            },
+                            "measures": {"en": "Scored on the tune's notes on pitch and on the beat."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ll-3-sailor",
+                    "title": {"en": "Drunken Sailor"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Drunken Sailor moves between two chords, one a bar, so its loop is eight bars: a whole verse."},
+                            "steps": [
+                                {"title": {"en": "Home is low la"}, "detail": {"en": "A minor song, so home is la, not do"}},
+                                {"title": {"en": "One note a bar"}, "detail": {"en": "Low la or low so, on beats 1 and 3"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "round",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "The bass's eight notes, one a bar: each waits until you're on it."},
+                            "exercise": {
+                                "tempo": 88,
+                                "notes": [
+                                    {"beat": 1, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 2, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 3, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 4, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 5, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 6, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 7, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 8, "length": 1, "step": -3, "lyric": "doom"}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The bass on \"doom\", eight bars once round: low la, low la, low so, low so, low la, low la, low so, low la. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 88,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 2, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 4, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 6, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 8, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 10, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 14, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 16, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 18, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 20, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 22, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 24, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 26, "length": 1, "step": -5, "lyric": "doom"},
+                                    {"beat": 28, "length": 1, "step": -3, "lyric": "doom"},
+                                    {"beat": 30, "length": 1, "step": -3, "lyric": "doom"}
+                                ],
+                                "drone": {"step": -3, "fadeAfter": 4}
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now the tune over your loop. It starts with your bass, on its first beat."},
+                            "exercise": {
+                                "tempo": 88,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 4, "lyric": "What"},
+                                    {"beat": 1, "length": 0.5, "step": 4, "lyric": "shall"},
+                                    {"beat": 1.5, "length": 0.5, "step": 4, "lyric": "we"},
+                                    {"beat": 2, "length": 1, "step": 4, "lyric": "do"},
+                                    {"beat": 3, "length": 0.5, "step": 4, "lyric": "with"},
+                                    {"beat": 3.5, "length": 0.5, "step": 4, "lyric": "a"},
+                                    {"beat": 4, "length": 1, "step": 4, "lyric": "drunk-"},
+                                    {"beat": 5, "length": 1, "step": -3, "lyric": "en"},
+                                    {"beat": 6, "length": 1, "step": 0, "lyric": "sai-"},
+                                    {"beat": 7, "length": 0.25, "step": 4, "lyric": "lor?"},
+                                    {"beat": 8, "length": 1, "step": 2, "lyric": "What"},
+                                    {"beat": 9, "length": 0.5, "step": 2, "lyric": "shall"},
+                                    {"beat": 9.5, "length": 0.5, "step": 2, "lyric": "we"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "do"},
+                                    {"beat": 11, "length": 0.5, "step": 2, "lyric": "with"},
+                                    {"beat": 11.5, "length": 0.5, "step": 2, "lyric": "a"},
+                                    {"beat": 12, "length": 1, "step": 2, "lyric": "drunk-"},
+                                    {"beat": 13, "length": 1, "step": -5, "lyric": "en"},
+                                    {"beat": 14, "length": 1, "step": -1, "lyric": "sai-"},
+                                    {"beat": 15, "length": 0.25, "step": 2, "lyric": "lor?"},
+                                    {"beat": 16, "length": 1, "step": 4, "lyric": "What"},
+                                    {"beat": 17, "length": 0.5, "step": 4, "lyric": "shall"},
+                                    {"beat": 17.5, "length": 0.5, "step": 4, "lyric": "we"},
+                                    {"beat": 18, "length": 1, "step": 4, "lyric": "do"},
+                                    {"beat": 19, "length": 0.5, "step": 4, "lyric": "with"},
+                                    {"beat": 19.5, "length": 0.5, "step": 4, "lyric": "a"},
+                                    {"beat": 20, "length": 1, "step": 4, "lyric": "drunk-"},
+                                    {"beat": 21, "length": 1, "step": 6, "lyric": "en"},
+                                    {"beat": 22, "length": 1, "step": 7, "lyric": "sai-"},
+                                    {"beat": 23, "length": 0.25, "step": 9, "lyric": "lor?"},
+                                    {"beat": 24, "length": 1, "step": 7, "lyric": "Ear-"},
+                                    {"beat": 25, "length": 1, "step": 4, "lyric": "ly"},
+                                    {"beat": 26, "length": 1, "step": 2, "lyric": "in"},
+                                    {"beat": 27, "length": 1, "step": -1, "lyric": "the"},
+                                    {"beat": 28, "length": 2, "step": -3, "lyric": "morn-"},
+                                    {"beat": 30, "length": 2, "step": -3, "lyric": "ing."}
+                                ],
+                                "under": {
+                                    "steps": [2],
+                                    "loop": 32
+                                }
+                            },
+                            "measures": {"en": "Scored on the tune's notes on pitch and on the beat."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ll-3-round",
+                    "title": {"en": "A round with yourself"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A round with yourself: \"ding, dang, dong\", the tune over it, then the tune again two bars late, over your first. The guide comes in as a third voice."},
+                            "steps": [
+                                {"title": {"en": "Your first entry"}, "detail": {"en": "The tune over your bass, from its first beat"}},
+                                {"title": {"en": "Your second entry"}, "detail": {"en": "Two bars late, over your bass and your first"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "round",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "\"Ding, dang, dong\", twice round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 96,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "ding"},
+                                    {"beat": 1, "length": 1, "step": -5, "lyric": "dang"},
+                                    {"beat": 2, "length": 1.5, "step": 0, "lyric": "dong"},
+                                    {"beat": 4, "length": 1, "step": 0, "lyric": "ding"},
+                                    {"beat": 5, "length": 1, "step": -5, "lyric": "dang"},
+                                    {"beat": 6, "length": 1.5, "step": 0, "lyric": "dong"}
+                                ],
+                                "drone": {"step": 0, "fadeAfter": 4}
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Your first entry: the tune over your bass, from its first beat."},
+                            "exercise": {
+                                "tempo": 96,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "Are"},
+                                    {"beat": 1, "length": 1, "step": 2, "lyric": "you"},
+                                    {"beat": 2, "length": 1, "step": 4, "lyric": "sleep-"},
+                                    {"beat": 3, "length": 1, "step": 0, "lyric": "ing,"},
+                                    {"beat": 4, "length": 1, "step": 0, "lyric": "are"},
+                                    {"beat": 5, "length": 1, "step": 2, "lyric": "you"},
+                                    {"beat": 6, "length": 1, "step": 4, "lyric": "sleep-"},
+                                    {"beat": 7, "length": 1, "step": 0, "lyric": "ing,"},
+                                    {"beat": 8, "length": 1, "step": 4, "lyric": "Bro-"},
+                                    {"beat": 9, "length": 1, "step": 5, "lyric": "ther"},
+                                    {"beat": 10, "length": 1, "step": 7, "lyric": "John?"},
+                                    {"beat": 12, "length": 1, "step": 4, "lyric": "Bro-"},
+                                    {"beat": 13, "length": 1, "step": 5, "lyric": "ther"},
+                                    {"beat": 14, "length": 1, "step": 7, "lyric": "John?"},
+                                    {"beat": 16, "length": 0.5, "step": 7, "lyric": "Morn-"},
+                                    {"beat": 16.5, "length": 0.5, "step": 9, "lyric": "ing"},
+                                    {"beat": 17, "length": 0.5, "step": 7, "lyric": "bells"},
+                                    {"beat": 17.5, "length": 0.5, "step": 5, "lyric": "are"},
+                                    {"beat": 18, "length": 1, "step": 4, "lyric": "ring-"},
+                                    {"beat": 19, "length": 1, "step": 0, "lyric": "ing,"},
+                                    {"beat": 20, "length": 0.5, "step": 7, "lyric": "morn-"},
+                                    {"beat": 20.5, "length": 0.5, "step": 9, "lyric": "ing"},
+                                    {"beat": 21, "length": 0.5, "step": 7, "lyric": "bells"},
+                                    {"beat": 21.5, "length": 0.5, "step": 5, "lyric": "are"},
+                                    {"beat": 22, "length": 1, "step": 4, "lyric": "ring-"},
+                                    {"beat": 23, "length": 1, "step": 0, "lyric": "ing,"},
+                                    {"beat": 24, "length": 1, "step": 0, "lyric": "ding,"},
+                                    {"beat": 25, "length": 1, "step": -5, "lyric": "dang,"},
+                                    {"beat": 26, "length": 1, "step": 0, "lyric": "dong,"},
+                                    {"beat": 28, "length": 1, "step": 0, "lyric": "ding,"},
+                                    {"beat": 29, "length": 1, "step": -5, "lyric": "dang,"},
+                                    {"beat": 30, "length": 1, "step": 0, "lyric": "dong."}
+                                ],
+                                "under": {
+                                    "steps": [1],
+                                    "loop": 4
+                                }
+                            },
+                            "measures": {"en": "Scored on the tune's notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Your second entry, two bars late, over your bass and your first entry. Then the guide comes in, two bars after you."},
+                            "exercise": {
+                                "tempo": 96,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 8, "length": 1, "step": 0, "lyric": "Are"},
+                                    {"beat": 9, "length": 1, "step": 2, "lyric": "you"},
+                                    {"beat": 10, "length": 1, "step": 4, "lyric": "sleep-"},
+                                    {"beat": 11, "length": 1, "step": 0, "lyric": "ing,"},
+                                    {"beat": 12, "length": 1, "step": 0, "lyric": "are"},
+                                    {"beat": 13, "length": 1, "step": 2, "lyric": "you"},
+                                    {"beat": 14, "length": 1, "step": 4, "lyric": "sleep-"},
+                                    {"beat": 15, "length": 1, "step": 0, "lyric": "ing,"},
+                                    {"beat": 16, "length": 1, "step": 4, "lyric": "Bro-"},
+                                    {"beat": 17, "length": 1, "step": 5, "lyric": "ther"},
+                                    {"beat": 18, "length": 1, "step": 7, "lyric": "John?"},
+                                    {"beat": 20, "length": 1, "step": 4, "lyric": "Bro-"},
+                                    {"beat": 21, "length": 1, "step": 5, "lyric": "ther"},
+                                    {"beat": 22, "length": 1, "step": 7, "lyric": "John?"},
+                                    {"beat": 24, "length": 0.5, "step": 7, "lyric": "Morn-"},
+                                    {"beat": 24.5, "length": 0.5, "step": 9, "lyric": "ing"},
+                                    {"beat": 25, "length": 0.5, "step": 7, "lyric": "bells"},
+                                    {"beat": 25.5, "length": 0.5, "step": 5, "lyric": "are"},
+                                    {"beat": 26, "length": 1, "step": 4, "lyric": "ring-"},
+                                    {"beat": 27, "length": 1, "step": 0, "lyric": "ing,"},
+                                    {"beat": 28, "length": 0.5, "step": 7, "lyric": "morn-"},
+                                    {"beat": 28.5, "length": 0.5, "step": 9, "lyric": "ing"},
+                                    {"beat": 29, "length": 0.5, "step": 7, "lyric": "bells"},
+                                    {"beat": 29.5, "length": 0.5, "step": 5, "lyric": "are"},
+                                    {"beat": 30, "length": 1, "step": 4, "lyric": "ring-"},
+                                    {"beat": 31, "length": 1, "step": 0, "lyric": "ing,"},
+                                    {"beat": 32, "length": 1, "step": 0, "lyric": "ding,"},
+                                    {"beat": 33, "length": 1, "step": -5, "lyric": "dang,"},
+                                    {"beat": 34, "length": 1, "step": 0, "lyric": "dong,"},
+                                    {"beat": 36, "length": 1, "step": 0, "lyric": "ding,"},
+                                    {"beat": 37, "length": 1, "step": -5, "lyric": "dang,"},
+                                    {"beat": 38, "length": 1, "step": 0, "lyric": "dong."}
+                                ],
+                                "under": {
+                                    "steps": [{"step": 1, "loop": 4}, {"step": 2, "loop": 32}]
+                                },
+                                "with": [{"delay": 8}]
+                            },
+                            "measures": {"en": "Scored on your second entry on pitch and on the beat, over your bass and your first."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ll-your-own",
+            "title": {"en": "Your own loop"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "ll-4-bass",
+                    "title": {"en": "Choose your bass"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Your own bass for Drunken Sailor: in every bar two notes light, and either one fits. Pick as you go."},
+                            "steps": [
+                                {"title": {"en": "Two notes a bar"}, "detail": {"en": "Low la or do in la's bars, low so or low ti in so's"}},
+                                {"title": {"en": "Every pick works"}, "detail": {"en": "Each is a note of that bar's chord"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Once with the guide singing the lower note of each pair, to learn the bars. Just try it."},
+                            "exercise": {
+                                "tempo": 88,
+                                "turn": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 14,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 16,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 18,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 20,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 22,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 24,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 26,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 28,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 30,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    }
+                                ],
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0, "length": 1, "step": 4, "lyric": "What"},
+                                            {"beat": 1, "length": 0.5, "step": 4, "lyric": "shall"},
+                                            {"beat": 1.5, "length": 0.5, "step": 4, "lyric": "we"},
+                                            {"beat": 2, "length": 1, "step": 4, "lyric": "do"},
+                                            {"beat": 3, "length": 0.5, "step": 4, "lyric": "with"},
+                                            {"beat": 3.5, "length": 0.5, "step": 4, "lyric": "a"},
+                                            {"beat": 4, "length": 1, "step": 4, "lyric": "drunk-"},
+                                            {"beat": 5, "length": 1, "step": -3, "lyric": "en"},
+                                            {"beat": 6, "length": 1, "step": 0, "lyric": "sai-"},
+                                            {"beat": 7, "length": 0.25, "step": 4, "lyric": "lor?"},
+                                            {"beat": 8, "length": 1, "step": 2, "lyric": "What"},
+                                            {"beat": 9, "length": 0.5, "step": 2, "lyric": "shall"},
+                                            {"beat": 9.5, "length": 0.5, "step": 2, "lyric": "we"},
+                                            {"beat": 10, "length": 1, "step": 2, "lyric": "do"},
+                                            {"beat": 11, "length": 0.5, "step": 2, "lyric": "with"},
+                                            {"beat": 11.5, "length": 0.5, "step": 2, "lyric": "a"},
+                                            {"beat": 12, "length": 1, "step": 2, "lyric": "drunk-"},
+                                            {"beat": 13, "length": 1, "step": -5, "lyric": "en"},
+                                            {"beat": 14, "length": 1, "step": -1, "lyric": "sai-"},
+                                            {"beat": 15, "length": 0.25, "step": 2, "lyric": "lor?"},
+                                            {"beat": 16, "length": 1, "step": 4, "lyric": "What"},
+                                            {"beat": 17, "length": 0.5, "step": 4, "lyric": "shall"},
+                                            {"beat": 17.5, "length": 0.5, "step": 4, "lyric": "we"},
+                                            {"beat": 18, "length": 1, "step": 4, "lyric": "do"},
+                                            {"beat": 19, "length": 0.5, "step": 4, "lyric": "with"},
+                                            {"beat": 19.5, "length": 0.5, "step": 4, "lyric": "a"},
+                                            {"beat": 20, "length": 1, "step": 4, "lyric": "drunk-"},
+                                            {"beat": 21, "length": 1, "step": 6, "lyric": "en"},
+                                            {"beat": 22, "length": 1, "step": 7, "lyric": "sai-"},
+                                            {"beat": 23, "length": 0.25, "step": 9, "lyric": "lor?"},
+                                            {"beat": 24, "length": 1, "step": 7, "lyric": "Ear-"},
+                                            {"beat": 25, "length": 1, "step": 4, "lyric": "ly"},
+                                            {"beat": 26, "length": 1, "step": 2, "lyric": "in"},
+                                            {"beat": 27, "length": 1, "step": -1, "lyric": "the"},
+                                            {"beat": 28, "length": 2, "step": -3, "lyric": "morn-"},
+                                            {"beat": 30, "length": 2, "step": -3, "lyric": "ing."}
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now your bass under the guide's tune: in each bar, sing either lit note. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 88,
+                                "turn": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 14,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 16,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 18,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 20,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 22,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 24,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 26,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 28,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 30,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    }
+                                ],
+                                "drone": {"step": -3, "fadeAfter": 4},
+                                "with": [
+                                    {
+                                        "notes": [
+                                            {"beat": 0, "length": 1, "step": 4, "lyric": "What"},
+                                            {"beat": 1, "length": 0.5, "step": 4, "lyric": "shall"},
+                                            {"beat": 1.5, "length": 0.5, "step": 4, "lyric": "we"},
+                                            {"beat": 2, "length": 1, "step": 4, "lyric": "do"},
+                                            {"beat": 3, "length": 0.5, "step": 4, "lyric": "with"},
+                                            {"beat": 3.5, "length": 0.5, "step": 4, "lyric": "a"},
+                                            {"beat": 4, "length": 1, "step": 4, "lyric": "drunk-"},
+                                            {"beat": 5, "length": 1, "step": -3, "lyric": "en"},
+                                            {"beat": 6, "length": 1, "step": 0, "lyric": "sai-"},
+                                            {"beat": 7, "length": 0.25, "step": 4, "lyric": "lor?"},
+                                            {"beat": 8, "length": 1, "step": 2, "lyric": "What"},
+                                            {"beat": 9, "length": 0.5, "step": 2, "lyric": "shall"},
+                                            {"beat": 9.5, "length": 0.5, "step": 2, "lyric": "we"},
+                                            {"beat": 10, "length": 1, "step": 2, "lyric": "do"},
+                                            {"beat": 11, "length": 0.5, "step": 2, "lyric": "with"},
+                                            {"beat": 11.5, "length": 0.5, "step": 2, "lyric": "a"},
+                                            {"beat": 12, "length": 1, "step": 2, "lyric": "drunk-"},
+                                            {"beat": 13, "length": 1, "step": -5, "lyric": "en"},
+                                            {"beat": 14, "length": 1, "step": -1, "lyric": "sai-"},
+                                            {"beat": 15, "length": 0.25, "step": 2, "lyric": "lor?"},
+                                            {"beat": 16, "length": 1, "step": 4, "lyric": "What"},
+                                            {"beat": 17, "length": 0.5, "step": 4, "lyric": "shall"},
+                                            {"beat": 17.5, "length": 0.5, "step": 4, "lyric": "we"},
+                                            {"beat": 18, "length": 1, "step": 4, "lyric": "do"},
+                                            {"beat": 19, "length": 0.5, "step": 4, "lyric": "with"},
+                                            {"beat": 19.5, "length": 0.5, "step": 4, "lyric": "a"},
+                                            {"beat": 20, "length": 1, "step": 4, "lyric": "drunk-"},
+                                            {"beat": 21, "length": 1, "step": 6, "lyric": "en"},
+                                            {"beat": 22, "length": 1, "step": 7, "lyric": "sai-"},
+                                            {"beat": 23, "length": 0.25, "step": 9, "lyric": "lor?"},
+                                            {"beat": 24, "length": 1, "step": 7, "lyric": "Ear-"},
+                                            {"beat": 25, "length": 1, "step": 4, "lyric": "ly"},
+                                            {"beat": 26, "length": 1, "step": 2, "lyric": "in"},
+                                            {"beat": 27, "length": 1, "step": -1, "lyric": "the"},
+                                            {"beat": 28, "length": 2, "step": -3, "lyric": "morn-"},
+                                            {"beat": 30, "length": 2, "step": -3, "lyric": "ing."}
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ll-4-layers",
+                    "title": {"en": "Choose your layers"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Your bass again, then your own pad over it: two notes light in every bar, and neither meets your bass."},
+                            "steps": [
+                                {"title": {"en": "Your bass"}, "detail": {"en": "Picked as before, once round"}},
+                                {"title": {"en": "Your pad"}, "detail": {"en": "Mi or la in la's bars, re or so in so's"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Your bass, once round: either lit note in each bar. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 88,
+                                "turn": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 14,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 16,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 18,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 20,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 22,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 24,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 26,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 28,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 30,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    }
+                                ],
+                                "drone": {"step": -3, "fadeAfter": 4}
+                            },
+                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Your pad, from your loop's first beat: a soft \"oo\", either lit note, held each bar."},
+                            "exercise": {
+                                "tempo": 88,
+                                "turn": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 3.5,
+                                        "step": 4,
+                                        "lyric": "oo",
+                                        "choices": [4, 9]
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 3.5,
+                                        "step": 4,
+                                        "lyric": "oo",
+                                        "choices": [4, 9]
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 3.5,
+                                        "step": 2,
+                                        "lyric": "oo",
+                                        "choices": [2, 7]
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 3.5,
+                                        "step": 2,
+                                        "lyric": "oo",
+                                        "choices": [2, 7]
+                                    },
+                                    {
+                                        "beat": 16,
+                                        "length": 3.5,
+                                        "step": 4,
+                                        "lyric": "oo",
+                                        "choices": [4, 9]
+                                    },
+                                    {
+                                        "beat": 20,
+                                        "length": 3.5,
+                                        "step": 4,
+                                        "lyric": "oo",
+                                        "choices": [4, 9]
+                                    },
+                                    {
+                                        "beat": 24,
+                                        "length": 3.5,
+                                        "step": 2,
+                                        "lyric": "oo",
+                                        "choices": [2, 7]
+                                    },
+                                    {
+                                        "beat": 28,
+                                        "length": 3.5,
+                                        "step": 4,
+                                        "lyric": "oo",
+                                        "choices": [4, 9]
+                                    }
+                                ],
+                                "under": {
+                                    "steps": [1],
+                                    "loop": 32
+                                }
+                            },
+                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat."}
+                        }
+                    ]
+                },
+                {
+                    "id": "ll-4-song",
+                    "title": {"en": "Your song"},
+                    "challenge": true,
+                    "keepSong": {
+                        "title": {"en": "My loop song"},
+                        "takes": [
+                            {"step": 1, "name": {"en": "Bass"}},
+                            {"step": 2, "name": {"en": "Pad"}},
+                            {"step": 3, "name": {"en": "Tune"}}
+                        ]
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Your song: your bass, your pad, then Drunken Sailor's tune over them, kept as a song in Sing."},
+                            "steps": [
+                                {"title": {"en": "Three layers, all yours"}, "detail": {"en": "Bass, then pad, then the tune"}},
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Your first loop beside your new bass"}},
+                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                            ],
+                            "visual": "harmony",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Your bass, once round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "exercise": {
+                                "tempo": 88,
+                                "turn": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 2,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 6,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 10,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 14,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 16,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 18,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 20,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 22,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 24,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 26,
+                                        "length": 1,
+                                        "step": -5,
+                                        "lyric": "doom",
+                                        "choices": [-5, -1]
+                                    },
+                                    {
+                                        "beat": 28,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    },
+                                    {
+                                        "beat": 30,
+                                        "length": 1,
+                                        "step": -3,
+                                        "lyric": "doom",
+                                        "choices": [-3, 0]
+                                    }
+                                ],
+                                "drone": {"step": -3, "fadeAfter": 4},
+                                "thenAndNow": "looping.first-loop"
+                            },
+                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Your pad from the first beat, once round."},
+                            "exercise": {
+                                "tempo": 88,
+                                "turn": false,
+                                "notes": [
+                                    {
+                                        "beat": 0,
+                                        "length": 3.5,
+                                        "step": 4,
+                                        "lyric": "oo",
+                                        "choices": [4, 9]
+                                    },
+                                    {
+                                        "beat": 4,
+                                        "length": 3.5,
+                                        "step": 4,
+                                        "lyric": "oo",
+                                        "choices": [4, 9]
+                                    },
+                                    {
+                                        "beat": 8,
+                                        "length": 3.5,
+                                        "step": 2,
+                                        "lyric": "oo",
+                                        "choices": [2, 7]
+                                    },
+                                    {
+                                        "beat": 12,
+                                        "length": 3.5,
+                                        "step": 2,
+                                        "lyric": "oo",
+                                        "choices": [2, 7]
+                                    },
+                                    {
+                                        "beat": 16,
+                                        "length": 3.5,
+                                        "step": 4,
+                                        "lyric": "oo",
+                                        "choices": [4, 9]
+                                    },
+                                    {
+                                        "beat": 20,
+                                        "length": 3.5,
+                                        "step": 4,
+                                        "lyric": "oo",
+                                        "choices": [4, 9]
+                                    },
+                                    {
+                                        "beat": 24,
+                                        "length": 3.5,
+                                        "step": 2,
+                                        "lyric": "oo",
+                                        "choices": [2, 7]
+                                    },
+                                    {
+                                        "beat": 28,
+                                        "length": 3.5,
+                                        "step": 4,
+                                        "lyric": "oo",
+                                        "choices": [4, 9]
+                                    }
+                                ],
+                                "under": {
+                                    "steps": [1],
+                                    "loop": 32
+                                }
+                            },
+                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The tune on top, from the first beat: your band of you."},
+                            "exercise": {
+                                "tempo": 88,
+                                "turn": false,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 4, "lyric": "What"},
+                                    {"beat": 1, "length": 0.5, "step": 4, "lyric": "shall"},
+                                    {"beat": 1.5, "length": 0.5, "step": 4, "lyric": "we"},
+                                    {"beat": 2, "length": 1, "step": 4, "lyric": "do"},
+                                    {"beat": 3, "length": 0.5, "step": 4, "lyric": "with"},
+                                    {"beat": 3.5, "length": 0.5, "step": 4, "lyric": "a"},
+                                    {"beat": 4, "length": 1, "step": 4, "lyric": "drunk-"},
+                                    {"beat": 5, "length": 1, "step": -3, "lyric": "en"},
+                                    {"beat": 6, "length": 1, "step": 0, "lyric": "sai-"},
+                                    {"beat": 7, "length": 0.25, "step": 4, "lyric": "lor?"},
+                                    {"beat": 8, "length": 1, "step": 2, "lyric": "What"},
+                                    {"beat": 9, "length": 0.5, "step": 2, "lyric": "shall"},
+                                    {"beat": 9.5, "length": 0.5, "step": 2, "lyric": "we"},
+                                    {"beat": 10, "length": 1, "step": 2, "lyric": "do"},
+                                    {"beat": 11, "length": 0.5, "step": 2, "lyric": "with"},
+                                    {"beat": 11.5, "length": 0.5, "step": 2, "lyric": "a"},
+                                    {"beat": 12, "length": 1, "step": 2, "lyric": "drunk-"},
+                                    {"beat": 13, "length": 1, "step": -5, "lyric": "en"},
+                                    {"beat": 14, "length": 1, "step": -1, "lyric": "sai-"},
+                                    {"beat": 15, "length": 0.25, "step": 2, "lyric": "lor?"},
+                                    {"beat": 16, "length": 1, "step": 4, "lyric": "What"},
+                                    {"beat": 17, "length": 0.5, "step": 4, "lyric": "shall"},
+                                    {"beat": 17.5, "length": 0.5, "step": 4, "lyric": "we"},
+                                    {"beat": 18, "length": 1, "step": 4, "lyric": "do"},
+                                    {"beat": 19, "length": 0.5, "step": 4, "lyric": "with"},
+                                    {"beat": 19.5, "length": 0.5, "step": 4, "lyric": "a"},
+                                    {"beat": 20, "length": 1, "step": 4, "lyric": "drunk-"},
+                                    {"beat": 21, "length": 1, "step": 6, "lyric": "en"},
+                                    {"beat": 22, "length": 1, "step": 7, "lyric": "sai-"},
+                                    {"beat": 23, "length": 0.25, "step": 9, "lyric": "lor?"},
+                                    {"beat": 24, "length": 1, "step": 7, "lyric": "Ear-"},
+                                    {"beat": 25, "length": 1, "step": 4, "lyric": "ly"},
+                                    {"beat": 26, "length": 1, "step": 2, "lyric": "in"},
+                                    {"beat": 27, "length": 1, "step": -1, "lyric": "the"},
+                                    {"beat": 28, "length": 2, "step": -3, "lyric": "morn-"},
+                                    {"beat": 30, "length": 2, "step": -3, "lyric": "ing."}
+                                ],
+                                "under": {
+                                    "steps": [1, 2],
+                                    "loop": 32
+                                }
+                            },
+                            "measures": {"en": "Scored on the tune's notes on pitch and on the beat, over your bass and pad."}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
