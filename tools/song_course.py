@@ -82,6 +82,9 @@ SONGS = {
     "o-holy-night": "with the song",
     "the-lord-bless-you": "with the song",
     "come-thou-fount": "with the song",
+    "lift-every-voice": "with the song",
+    "nearer-my-god": "with the song",
+    "greensleeves": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
