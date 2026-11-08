@@ -280,13 +280,49 @@ def check(lid, unit, steps):
 
 
 # ---- The facts ----
+# Each lesson page's "Did you know?" (2026-11-08): read in its source (the original printing wherever there is one),
+# then read again by a second, independent check, which corrected four; every person named has died. The four
+# challenges fold into the page before them and carry none.
 
-FACTS = {}
+def fact(fid, text, source, url, **extra):
+    return {"id": fid, "text": EN(text), "source": EN(source), "url": url, **extra}
+
+
+VACCAI = "https://archive.org/details/imslp-pratico-de-canto-vaccai-nicola"
+CONCONE_SCAN = "https://archive.org/details/50leconsdechantp00conc"
+FACTS = {
+    "1-joined": fact("vaccai-consonant-next-syllable", "In the first lesson of his Practical Method, Nicola Vaccai split the words oddly, joining each consonant to the next syllable so the vowel fills its notes. This, he wrote, would also help a singer learn the legato style.",
+                     "Vaccai, Practical Method of Italian Singing (Boston: Russell, 1878), Lesson I, Internet Archive", VACCAI),
+    "1-start": fact("caccini-third-below", "In his 1602 songbook Le nuove musiche, Giulio Caccini noted that some singers began their first note a third below. The habit had grown so common, he wrote, and some lingered there so long, that it tired the ear; beginners should seldom use it.",
+                    "Caccini, Le nuove musiche (Florence, 1602), preface, Internet Archive; in English in Playford, An Introduction to the Skill of Musick (1683)", "https://archive.org/details/lenvovemvsichedi00cacc"),
+    "1-vowel": fact("concone-middle-voice", "Concone titled his 50 lessons \"pour le médium de la voix\": for the middle of the voice. The first Grove's Dictionary said his solfeggi and vocalizzi, this book among them, had made him \"a world-wide reputation for usefulness\".",
+                    "Concone, 50 Leçons de chant, Op. 9 (Leipzig: Peters), title page, Internet Archive; Grove, A Dictionary of Music and Musicians, vol. 4 (1889), appendix, \"Concone\"", CONCONE_SCAN),
+    "2-comma": fact("brahms-hidden-love-song", "Brahms hid an Austrian love song in the Wiegenlied's piano part, one he had heard Bertha Faber sing ten years before. Sending it for her baby in July 1868, he wrote that while she sang Hans to sleep, her husband murmured a love song.",
+                    "Kalbeck, Johannes Brahms, vol. II part 1 (Berlin, 1908), pp. 326-327, quoting Brahms's letter, Internet Archive", "https://archive.org/details/bub_gb_qOwPAAAAYAAJ",
+                    distinct=["bl-bertha-faber"]),
+    "2-steady": fact("farinelli-trumpet-duel", "In 1771 Charles Burney told how the teenage Farinelli, singing in Rome, held a nightly contest with a famous trumpeter, each swelling out one note. When the trumpeter gave up, spent, Farinelli smiled and carried on in the same breath.",
+                     "Burney, The Present State of Music in France and Italy (London, 1771; 2nd ed. 1773), Internet Archive", "https://archive.org/details/presentstatemus00burngoog"),
+    "2-shape": fact("concone-commas-footnote", "On the first page of Concone's 50 lessons, the Peters edition prints a footnote in French: those who can't sing the whole phrase should breathe at the commas marked.",
+                    "Concone, 50 Leçons de chant, Op. 9 (Leipzig: Peters, Edition Peters No. 980), p. 2, Internet Archive", CONCONE_SCAN),
+    "3-thirds": fact("metastasio-street-verses", "Vaccai took his words from Metastasio, born Pietro Trapassi in Rome in 1698. As a boy he recited made-up verses to street crowds; the scholar Gravina adopted him and turned Trapassi into a Greek-style name, Metastasio.",
+                     "Encyclopaedia Britannica, 11th ed. (1911), \"Metastasio\", Wikisource; Vaccai, Practical Method (1878), preface", "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Metastasio"),
+    "3-lean": fact("vaccai-appoggiatura-value", "Vaccai called the appoggiatura \"the most pleasing ornament of song\". Its effect, he wrote, depends on giving it its true value: \"it may be increased but never diminished\".",
+                   "Vaccai, Practical Method of Italian Singing (Boston: Russell, 1878), Lesson VIII, Internet Archive", VACCAI),
+    "3-slide": fact("vaccai-portamento-not-dragging", "Vaccai warned that portamento \"by no means signifies that dragging of the voice\" heard so often. Most often, he wrote, it means touching the next note imperceptibly early, on the vowel before it.",
+                    "Vaccai, Practical Method of Italian Singing (Boston: Russell, 1878), Lesson XIII, Internet Archive", VACCAI),
+    "4-first": fact("caro-mio-ben-pacchierotti", "An early London print of Caro mio ben, from about 1785, calls it \"a celebrated song\", sung by the soprano Pacchierotti \"with universal applause\" at a concert for the Musical Fund. It names the composer only as \"Sigr. Giordani\".",
+                    "Caro mio ben, A Celebrated Song (London: John Preston, about 1785), title page, IMSLP", "https://imslp.org/wiki/Caro_mio_ben_(Giordani,_Tommaso)", distinct=["cmb-which-giordani"]),
+    "4-middle": fact("baker-thou-all-my-bliss", "The English words printed under Caro mio ben in 1894, \"Thou, all my bliss\", are by Theodore Baker, Schirmer's editor and translator, who in 1900 published his Biographical Dictionary of Musicians.",
+                     "Parisotti, Anthology of Italian Song (New York: Schirmer, 1894), p. 131, Internet Archive; Baker, A Biographical Dictionary of Musicians (Schirmer, 1900)", "https://archive.org/details/anthologyofitali00pari"),
+    "4-return": fact("malibran-vaccai-tomb-scene", "In Bologna in 1832, the great singer Maria Malibran, playing Romeo in Bellini's opera, swapped his tomb scene for Vaccai's. Librettos show nearly two thirds of productions from 1833 to 1857 used Vaccai's ending.",
+                     "Poriss, \"Bellini alla Malibran\", Musicology Now, American Musicological Society (2013); Baker, Biographical Dictionary of Musicians (1900), \"Vaccai\"", "https://musicologynow.org/bellini-alla-malibran/"),
+}
 
 
 def lesson(lid, unit, title, steps, **extra):
     check(lid, unit, steps)
-    if not extra.get("challenge") and lid in FACTS:
+    if not extra.get("challenge"):
+        assert lid in FACTS, f"cl-{lid}: every lesson page has a fact"
         extra = {"fact": FACTS[lid], **extra}
     return {"id": f"cl-{lid}", "title": EN(title), **extra, "steps": steps}
 
