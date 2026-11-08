@@ -183,13 +183,45 @@ def check(lid, unit, steps, challenge):
 
 # ---- The facts ----
 
-FACTS = {}
+def fact(fid, text, source, url):
+    """A fact's words: the never-use list (initials and names aren't note names here)."""
+    assert len(text.split()) <= 45 and not BANNED.search(text) and not BANNED.search(source), fid
+    return {"id": fid, "text": {"en": text}, "source": {"en": source}, "url": url}
+
+
+FACTS = {
+    '1-find': fact('mouth-one-chamber', 'X-ray films of two whistlers show the mouth working as a resonating chamber, bounded by the raised tongue at the back and pursed lips at the front. The bigger the chamber, the lower the note.',
+                      'Azola A. et al., "The physiology of oral whistling: a combined radiographic and MRI analysis", Journal of Applied Physiology 124 (2018), abstract (PMC6048461)', 'https://pmc.ncbi.nlm.nih.gov/articles/PMC6048461/'),
+    '1-steady': fact('orangutan-copies-whistle', "Whistling isn't only human. An orangutan picked up a human whistle with no training at all, a study reported, and could change how long and how many times it whistled to copy a person.",
+                        'Wich S.A. et al., "A case of spontaneous acquisition of a human sound by an orangutan", Primates 50 (2009) 56-64, abstract (PMID 19052691)', 'https://europepmc.org/article/MED/19052691'),
+    '1-start': fact('shaw-little-menlo-1888', "On 14 August 1888, at Little Menlo, Colonel Gouraud's house in London, the famed whistler Alice J. Shaw whistled for Edison's phonograph. A 1995 tape copy of the cylinder is in the New York Public Library's sound archive.",
+                       'New York Public Library Digital Collections, "Edison white wax \'Perfected\' era cylinders, Nos. 1 thru 22", Rodgers and Hammerstein Archives of Recorded Sound (shelf *LT-10 9655), table of contents and notes; originals lent by the Edison National Historic Site, transferred to tape 27 August 1995', 'https://digitalcollections.nypl.org/items/1203be70-b910-0133-4350-60f81dd2b63c'),
+    '2-step': fact('tongue-forward-higher', "Real-time MRI films of six people whistling showed the tongue's shape largely sets the note: the further forward it sat, the higher the whistle. The same tongue work shapes vowels in speech.",
+                      'Belyk M. et al., "Whistling shares a common tongue with speech: bioacoustics from real-time MRI of the human vocal tract", Proceedings of the Royal Society B 286 (2019) 20191116 (PMC6784732)', 'https://pmc.ncbi.nlm.nih.gov/articles/PMC6784732/'),
+    '2-five': fact('silbo-five-vowels', 'On La Gomera, in the Canary Islands, Silbo Gomero whistles Spanish, with two whistles standing in for its five vowels. It has been taught in schools since 1999, and UNESCO listed it in 2009.',
+                      'UNESCO Intangible Cultural Heritage, "Whistled language of the island of La Gomera (Canary Islands), the Silbo Gomero", Representative List, inscribed 2009 (4.COM)', 'https://ich.unesco.org/en/RL/whistled-language-of-the-island-of-la-gomera-canary-islands-the-silbo-gomero-00172'),
+    '2-slide': fact('consonants-become-slides', 'When a language without tones, like Spanish, is whistled, each vowel becomes a fairly steady pitch, and each consonant becomes a slide in pitch or a break between them.',
+                       'Tran Ngoc A., Meyer J., Meunier F., "Musical Experience and Speech Processing: The Case of Whistled Words", Cognitive Science 48 (2024) e70032, abstract (PMID 39699042)', 'https://doi.org/10.1111/cogs.70032'),
+    '3-small': fact('whistled-turkish-both-halves', 'In the mountains of northeast Turkey, whole conversations are whistled, and UNESCO put the practice on its urgent safeguarding list in 2017. Native whistlers understand whistled words with both halves of the brain, a study found, not mainly the left.',
+                       'UNESCO Intangible Cultural Heritage, "Whistled language" (Turkey), Urgent Safeguarding List, inscribed 2017 (12.COM); and "Whistled Turkish alters language asymmetries", Current Biology 25 (2015), abstract (PMID 26294179)', 'https://ich.unesco.org/en/USL/whistled-language-00658'),
+    '3-bigger': fact('lowery-whistling-in-the-dark', 'Fred Lowery became legally blind at two, after scarlet fever. At the Texas School for the Blind he learned bird calls, and by 1929 he whistled on a Dallas radio show. He called his autobiography Whistling in the Dark.',
+                        'Library of Congress, NLS Music Notes blog, "American Composers and Musicians from A to Z: L (Part 2: Lowery, Fred)", August 2019', 'https://blogs.loc.gov/nls-music-notes/2019/08/american-composers-and-musicians-from-a-to-z-l-part-2-lowery-fred/'),
+    '3-high': fact('cheek-pockets-high-notes', "For their highest notes, two experienced whistlers filmed by X-ray puffed their cheeks out from the teeth, adding side pockets to the mouth's chamber. Not every whistler may do this.",
+                      'Azola A. et al., "The physiology of oral whistling: a combined radiographic and MRI analysis", Journal of Applied Physiology 124 (2018) (PMC6048461)', 'https://pmc.ncbi.nlm.nih.gov/articles/PMC6048461/'),
+    '4-drone': fact('whistle-sharp-sing-flat', 'Copying short tunes, 22 of 28 people were less precise singing than whistling, and they tended to sing flat but whistle sharp.',
+                       'Belyk M., Johnson J.F., Kotz S.A., "Poor neuro-motor tuning of the human larynx: a comparison of sung and whistled pitch imitation", Royal Society Open Science 5 (2018) 171544 (PMC5936900)', 'https://pmc.ncbi.nlm.nih.gov/articles/PMC5936900/'),
+    '4-breath': fact('whistled-speech-carries', 'About 80 remote communities whistle their language, almost all in mountains or thick forest. Whistled speech typically carries from about 50 metres to 2 kilometres, most often 400 to 500 metres.',
+                        'Meyer J., Magnasco M.O., Reiss D., "The Relevance of Human Whistled Languages for the Analysis and Decoding of Dolphin Communication", Frontiers in Psychology 12 (2021) 689501 (PMC8490682)', 'https://pmc.ncbi.nlm.nih.gov/articles/PMC8490682/'),
+    '4-wave': fact('double-tone-tremolo', 'Some rare whistlers seem to whistle two notes at once. A 1975 sound analysis of two found they nearly always switch back and forth between the notes, which sounds like a tremolo; one could move the tongue in time with each switch.',
+                      'Wieser M., Schlorhaufer W., "Whistler for two voices (sound of whistle produced by man)", Archives of Oto-Rhino-Laryngology 211 (1975) 51-58, English abstract (PMID 1243641)', 'https://europepmc.org/article/MED/1243641'),
+}
 
 
 def lesson(lid, unit, title, steps, **extra):
     assert len(steps) <= 5, lid
     check(lid, unit, steps, extra.get("challenge", False))
-    if not extra.get("challenge") and lid in FACTS:
+    if not extra.get("challenge"):
+        assert lid in FACTS, f"wh-{lid}: every lesson page has a fact"
         extra = {"fact": FACTS[lid], **extra}
     return {"id": f"wh-{lid}", "title": EN(title), **extra, "steps": steps}
 
