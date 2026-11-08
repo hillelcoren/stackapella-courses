@@ -180,7 +180,8 @@
                 "cue",
                 "under",
                 "keep",
-                "thenAndNow"
+                "thenAndNow",
+                "trill"
             ],
             "about": "The trace lane: ride a ribbon (a steered wave, a straight line, a bloom, a free hold, a contour); `keep` saves the first take on the device under a key, and `thenAndNow` shows it beside today's"
         },
@@ -308,7 +309,8 @@
             "hearFirst": "true: \"Hear it first\" is offered before the take; a take after hearing it is capped just under the top score, and the result says so",
             "keyRange": "{ down, up }: how far \"Not in your range?\" may move the key from the line as written, in semitones (whole numbers, 0 to 12); up 0 hides Higher. It applies to the whole lesson, the tightest across its steps; a remembered key is held inside it (First steps to belting: { \"down\": 4, \"up\": 0 })",
             "retries": "a whole number, 1 to 10: after that many heard takes in a visit, Sing it again, the more-stars offer and the guide take go, and the way on says \"Good enough: move on\" (First steps to belting: 3)",
-            "rhythm": "true or \"swing\": a default-scored step (no `score`) is also scored on time: pitch 70, timing 30 (85 and 15 through a speaker or with only estimated latency); fewer than 3 timed moments, pitch alone; \"swing\" judges off-beats at two thirds of the beat, within an eighth; the usual offset comes from the downbeats. For the steps whose lesson is the beat (docs/play-timing-plan.md in the app's repo)."
+            "rhythm": "true or \"swing\": a default-scored step (no `score`) is also scored on time: pitch 70, timing 30 (85 and 15 through a speaker or with only estimated latency); fewer than 3 timed moments, pitch alone; \"swing\" judges off-beats at two thirds of the beat, within an eighth; the usual offset comes from the downbeats. For the steps whose lesson is the beat (docs/play-timing-plan.md in the app's repo).",
+            "trill": "true: a lip trill (Humming and lip trills): the take is tracked at clarity 0.7, not 0.85, since a trill's buzz sits just under the usual bar while the sound goes on (the courses lead's tracker study, 2026-11-08); with `score: \"unbroken\"` a break is a 12 dB dip held 250 ms. On play and wave steps."
         },
         "webOnly": [
             "score",
@@ -332,7 +334,8 @@
             "staff",
             "hearFirst",
             "keyRange",
-            "retries"
+            "retries",
+            "trill"
         ]
     },
     "note": {
