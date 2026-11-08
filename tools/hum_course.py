@@ -111,14 +111,44 @@ def selfcheck(text, model, questions):
 
 # ---- The facts: each lesson page's "Did you know?", read in its source and checked twice ----
 
-FACTS = {}
+def fact(fid, text, source, url):
+    assert len(text.split()) <= 45, fid
+    return {"id": fid, "text": EN(text), "source": EN(source), "url": url}
+
+
+FACTS = {
+    '1-coaster': fact('hum-one-buzz-or-two', 'A hum has one buzz, your vocal folds. A lip trill has two: the lips flutter too. A 2014 study of 23 people proposed sorting part-closed voice exercises into these two families.',
+                         'Andrade PA, Wood G, Ratcliffe P, Epstein R, Pijper A, Svec JG, "Electroglottographic study of seven semi-occluded exercises: LaxVox, straw, lip-trill, tongue-trill, humming, hand-over-mouth, and tongue-trill combined with hand-over-mouth", Journal of Voice 2014', 'https://pubmed.ncbi.nlm.nih.gov/24560003/'),
+    '1-bubble': fact('hum-brass-lip-buzz', 'Brass players learn to buzz with the lips alone: close the mouth, pull the lips back in a smile, and blow. Depending on lip tension and breath, it comes out anywhere from a low raspberry to a high note.',
+                        'UNSW Music Acoustics, "Brass instrument (lip reed) acoustics: an introduction"', 'https://newt.phys.unsw.edu.au/jw/brassacoustics.html'),
+    '1-tune': fact('hum-trill-widens-range', 'In a 2020 study, 25 women did 3 minutes of lip trills. Straight after, their singing pitch range was wider on average, and their loudest notes rose by about 3 decibels.',
+                      'Brockmann-Bauser M, Balandat B, Bohlender JE, "Immediate Lip Trill Effects on the Standard Diagnostic Measures Voice Range Profile, Jitter, Maximum Phonation Time, and Dysphonia Severity Index", Journal of Voice 2020', 'https://pubmed.ncbi.nlm.nih.gov/31196690/'),
+    '2-ng': fact('hum-soft-palate-gate', 'Your soft palate, the soft back part of the roof of your mouth, is the gate to your nose. For "m" and "ng" it lowers, so air flows out through your nose.',
+                    'University of Manitoba Linguistics (Kevin Russell), "Anatomy: Soft palate"', 'https://home.cc.umanitoba.ca/~krussll/phonetics/anatomy/soft-palate.html'),
+    '2-bigger': fact('hum-siren-named-1819', 'The siren got its name in 1819 from Charles Cagniard de la Tour, who built an improved one. It could sound even under water, he wrote, so he named it after the singing Sirens of Greek myth.',
+                        'Cagniard de la Tour, "Sur la Sirène, nouvelle machine d\'acoustique...", Annales de chimie et de physique 12 (1819), p. 171, quoted and translated in Wikipedia, "Siren (alarm)"', 'https://en.wikipedia.org/wiki/Siren_(alarm)'),
+    '2-open': fact('hum-maori-nga-breathe', 'In Māori, ng is one sound, and a word can begin with it: "ngā", ng opening into a long "ah", can mean "to breathe". English only lets ng end a syllable, as in sing, never start a word.',
+                      'Victoria University of Wellington, "Te reo Māori pronunciation guide"; Te Aka Māori Dictionary, "ngā"; World Atlas of Language Structures, chapter 9, "The Velar Nasal"', 'https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide'),
+    '3-buzz': fact('hum-face-buzz', "The buzz you feel in your face on an easy, ringing tone isn't sound echoing in your sinuses, an acoustic study argued. It's a sign your voice is turning breath into sound well.",
+                      'Titze IR, "Acoustic interpretation of resonant voice", Journal of Voice 2001', 'https://pubmed.ncbi.nlm.nih.gov/11792028/'),
+    '3-tune': fact('hum-nitric-oxide', 'Your sinuses make a gas called nitric oxide. In a 2002 study of 10 people, humming raised the amount in air breathed out through the nose fifteenfold over quiet breathing out.',
+                      'Weitzberg E, Lundberg JO, "Humming greatly increases nasal nitric oxide", American Journal of Respiratory and Critical Care Medicine 2002', 'https://pubmed.ncbi.nlm.nih.gov/12119224/'),
+    '3-open': fact('hum-jakobson-mama', 'Open a hum to "ah" and you get "ma". The linguist Roman Jakobson suggested that\'s where "mama" comes from: a nursing baby, mouth full, can only murmur through its nose, and once its mouth is free, opens the murmur into a vowel.',
+                      'Roman Jakobson, "Why \'mama\' and \'papa\'?", Selected Writings I: Phonological Studies (Mouton, 1962), pp. 542-543', 'https://archive.org/details/selectedwritings01jako'),
+    '4-trill-line': fact('hum-kele-trill-word', 'In Kele, spoken on Manus Island in Papua New Guinea, a lip trill can be part of a word: the word for face starts with m, then a lip trill, then "oo".',
+                            'UCLA Phonetics Lab, Ladefoged, Vowels and Consonants (companion site), "Kele and Titan trills"; Wikipedia, "Kele language (New Guinea)" for Manus Island', 'https://phonetics.ucla.edu/vowels/chapter13/kele.html'),
+    '4-words': fact('hum-puccini-humming-chorus', 'The Humming Chorus in Puccini\'s Madama Butterfly, first staged at La Scala in Milan in 1904, has no words. A chorus offstage hums it; Puccini\'s sketch marks it "bocca chiusa", closed mouth.',
+                       'Royal Society of Musicians of Great Britain, "From the Archives: Giacomo Puccini" (on its autograph sketch of the Humming Chorus)', 'https://www.rsmgb.org/news/from-the-archives-giacomo-puccini'),
+    '4-warmup': fact('hum-warmup-trial', 'In a 2018 study, 30 pop and other commercial singers warmed up for 15 minutes, either with part-closed-mouth exercises or singing on an open "ah". Both groups said their voices felt better, and the two measured about the same.',
+                        'Portillo MP, Rojas S, Guzman M, Quezada C, "Comparison of Effects Produced by Physiological Versus Traditional Vocal Warm-up in Contemporary Commercial Music Singers", Journal of Voice 32(2), 2018, 200-208', 'https://investigadores.uandes.cl/en/publications/comparison-of-effects-produced-by-physiological-versus-traditiona-2/'),
+}
 
 
 def lesson(lid, title, steps, **extra):
     assert len(steps) <= 5, lid
     if not extra.get("challenge"):
-        if lid in FACTS:
-            extra = {"fact": FACTS[lid], **extra}
+        assert lid in FACTS, f"hum-{lid}: every lesson page has a fact"
+        extra = {"fact": FACTS[lid], **extra}
     else:
         assert "fact" not in extra, f"hum-{lid}: a challenge carries no fact"
     return {"id": f"hum-{lid}", "title": EN(title), **extra, "steps": steps}
