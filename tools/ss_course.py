@@ -123,6 +123,9 @@ def wait_for_me(text, line, tempo):
 
 
 def lesson(lid, title, steps, **extra):
+    """A lesson; its "Did you know?" comes from FACTS by its id (the explicit fact(lid) calls give the same)."""
+    if "fact" not in extra and lid in FACTS:
+        extra = {"fact": FACTS[lid], **extra}
     return {"id": lid, "title": EN(title), **extra, "steps": steps}
 
 
@@ -131,6 +134,17 @@ def unit_number(uid):
 
 
 FACTS = {
+    # Each lesson page's "Did you know?" (2026-11-08): read in its source, then checked again.
+    "ss-1-do": {"id": "guido-lines-a-third-apart", "text": W("In the 1000s Guido of Arezzo set staff lines a third apart, so lines and spaces each hold a note, and coloured two lines red and yellow. Chant books still use his four lines."), "source": W("Encyclopedia.com, Guido of Arezzo (New Catholic Encyclopedia)"), "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/guido-arezzo"},
+    "ss-1-up": {"id": "neumes-showed-only-rise-and-fall", "text": W("Early Western chant notation, from the 800s, had no staff. Its marks showed a tune's general rise and fall, not its exact notes, probably as reminders of melodies singers had already learned by ear."), "source": W("Wikipedia, Neume"), "url": "https://en.wikipedia.org/wiki/Neume"},
+    "ss-2-chord": {"id": "taps-home-chord", "text": W("Taps, the US Army's lights-out call, was reworked from an older bugle call in July 1862. A bugle plays only its harmonic series, so Taps uses just one major chord: so, do and mi."), "source": W("Wikipedia, Taps (bugle call)"), "url": "https://en.wikipedia.org/wiki/Taps_(bugle_call)"},
+    "ss-2-below": {"id": "ledger-lines-printers-disliked", "text": W("Old music printers disliked ledger lines: hard to set in type, wasteful of space and messy-looking. Vocal music instead used many different clefs to keep each part on the stave as much as possible."), "source": W("Wikipedia, Ledger line"), "url": "https://en.wikipedia.org/wiki/Ledger_line"},
+    "ss-3-long": {"id": "minim-was-the-smallest", "text": W("The minim's Latin name, minima, means \"smallest\": it was once the shortest note value. And the breve, now worth two semibreves, was named from the Latin for \"short\", the root of \"brief\"."), "source": W("Wikipedia, Half note"), "url": "https://en.wikipedia.org/wiki/Half_note"},
+    "ss-3-quick": {"id": "beams-meant-one-syllable", "text": W("Vocal scores traditionally beamed quavers only when they shared one syllable, so each new syllable got its own flag. Today it's more common to beam by the beat and show shared syllables with slurs."), "source": W("Wikipedia, Beam (music)"), "url": "https://en.wikipedia.org/wiki/Beam_(music)"},
+    "ss-5-la": {"id": "four-syllables-king-lear", "text": W("Elizabethan English singers used just four syllables, mi, fa, sol and la, singing fa, sol, la twice to fill a scale. In King Lear's 1623 Folio, Edmund adds \"Fa, sol, la, me.\""), "source": W("Wikipedia, Solfège"), "url": "https://en.wikipedia.org/wiki/Solf%C3%A8ge"},
+    "ss-5-half": {"id": "kodaly-half-steps-later", "text": W("Kodály educators found children struggled to sing half steps in tune. So the method starts with mi and so, adds la, do and re, and brings in fa and ti only once those feel comfortable."), "source": W("Wikipedia, Kodály method"), "url": "https://en.wikipedia.org/wiki/Kod%C3%A1ly_method"},
+    "ss-5-minor": {"id": "shape-notes-minor-on-la", "text": W("In shape-note singing each syllable has its own note-head shape, and a minor key's first note is always la, as yours is now. Little and Smith printed the shapes in 1801."), "source": W("Wikipedia, Shape note"), "url": "https://en.wikipedia.org/wiki/Shape_note"},
+    "ss-4-alto": {"id": "choirbook-each-part-its-own-patch", "text": W("Medieval and Renaissance church choirs sang from choirbooks big enough for all to read, each part on its own patch of the open pages. The book sat on a stand: boys in front, men behind."), "source": W("Wikipedia, Choirbook"), "url": "https://en.wikipedia.org/wiki/Choirbook"},
     "ss-1-challenge": {"id": "treble-clef-g", "text": W("The treble clef is a fancy letter G. Its curl wraps around the line where G sits, which is why it's also called the G clef."), "source": W("Britannica, \"Clef\""), "url": "https://www.britannica.com/art/clef"},
     "ss-2-challenge": {"id": "bass-clef-f", "text": W("The bass clef is a fancy letter F. Its two dots sit either side of the line where F sits, which is why it's also called the F clef."), "source": W("Britannica, \"Clef\""), "url": "https://www.britannica.com/art/clef"},
     "ss-3-challenge": {"id": "maelzel-metronome-1815", "text": W("A tempo mark like \"M.M. = 72\" stands for Maelzel's Metronome: Johann Maelzel patented the metronome in 1815, and composers began writing their speeds in its beats."), "source": W("Britannica, \"Metronome\""), "url": "https://www.britannica.com/art/metronome"},
