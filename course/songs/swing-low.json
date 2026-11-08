@@ -655,14 +655,14 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Hear line 8, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "swing-low",
                                     "part": "bass",
                                     "phrases": [7]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
@@ -714,14 +714,14 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Hear line 11, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "swing-low",
                                     "part": "bass",
                                     "phrases": [10]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         },

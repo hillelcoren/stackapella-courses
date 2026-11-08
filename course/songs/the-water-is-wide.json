@@ -517,14 +517,14 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Hear line 7, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "the-water-is-wide",
                                     "part": "bass",
                                     "phrases": [6]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
