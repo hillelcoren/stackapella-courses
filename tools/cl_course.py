@@ -6,7 +6,7 @@ the leaning note and a slide on purpose; ending on Caro mio ben, kept as a song.
 Its lines, each read from a scan printed before 1927, bar by bar, then checked again (the arranger's review):
 - Concone, 50 Lecons de chant pour le medium de la voix, Op. 9, No. 1 (Edition Peters No. 980, plate 6437,
   archive.org/details/50leconsdechantp00conc, leaf n3), a wordless vocalise in C: bars 9 to 16, sung on "ah".
-- Vaccai, Practical Method of Italian Singing (Boston: Russel, 1878, plate 204, archive.org/details/
+- Vaccai, Practical Method of Italian Singing (Boston: Russell, 1878, plate 204, archive.org/details/
   imslp-pratico-de-canto-vaccai-nicola): Lesson I No. 1, the scale (leaf n8), No. 2, the thirds (leaf n9), and
   Lesson VIII No. 11, the appoggiatura (leaf n17), sung as the page's "Ex." staffs write it out.
 - Caro mio ben, as Parisotti printed it (Schirmer, 1894; the library's caro-mio-ben template, the arranger's).
