@@ -238,6 +238,8 @@ def check(lid, unit, steps, headphones):
         where = f"sh-{lid} step {i + 1}"
         ex = step.get("exercise", {})
         if step["kind"] in ("play", "try"):
+            for line in [ex.get("notes", []), ex.get("answer", [])] + [w["notes"] for w in ex.get("with", [])]:
+                assert all(n["beat"] >= 0 and n["length"] > 0 for n in line), f"{where}: a note before beat 0, or with no length"
             for n in sung(ex):
                 assert LOW <= n["step"] <= HIGH, f"{where}: step {n['step']} at beat {n['beat']} is outside {LOW} to {HIGH}"
         if step["kind"] == "play":
@@ -294,8 +296,8 @@ assert [n["lyric"] for n in J_ANSWER] == ["Way,", "haul", "a-", "way,", "haul", 
 
 # ---- Blow the Man Down: the long hoist ----
 
-B_CALL1, B_ANSWER1 = BLOW.notes(0, 13), [dict(n, beat=num(n["beat"] - 13)) for n in BLOW.notes(13, 24)]
-B_CALL2, B_ANSWER2 = BLOW.notes(24, 37), [dict(n, beat=num(n["beat"] - 37)) for n in BLOW.notes(37, 48)]
+B_CALL1, B_ANSWER1 = BLOW.notes(0, 13), BLOW.notes(13, 24)  # notes() re-times each passage from 0
+B_CALL2, B_ANSWER2 = BLOW.notes(24, 37), BLOW.notes(37, 48)
 assert B_ANSWER1[0]["lyric"] == "Way-" and B_ANSWER2[0]["lyric"] == "Give", (B_ANSWER1, B_ANSWER2)
 
 
@@ -309,9 +311,10 @@ def answers(song, ranges, frm):
             if any(a <= n["beat"] + frm < z for a, z in ranges)]
 
 
-J_SONG = (0, 32)  # the chorus and verse 1
-J_ANSWERS = answers(JOE, [(9, 16), (25, 32)], 0)
-J_CALLS = JOE.calls(*J_SONG, [(0, 9), (16, 25)])
+J_SONG = (0, 80)  # the chorus, three verses and the chorus: five answers, enough moments that one noisy onset
+# can't cost a singer on time the third mark (the scoring guard, 80 ms behind with onset noise, 2026-11-08)
+J_ANSWERS = answers(JOE, [(9, 16), (25, 32), (41, 48), (57, 64), (73, 80)], 0)
+J_CALLS = JOE.calls(*J_SONG, [(0, 9), (16, 25), (32, 41), (48, 57), (64, 73)])
 B_SONG = (0, 48)  # the first call and its two answers
 B_ANSWERS = answers(BLOW, [(13, 24), (37, 48)], 0)
 B_CALLS = BLOW.calls(*B_SONG, [(0, 13), (24, 37)])
@@ -322,7 +325,7 @@ L_VERSE = (0, 32)
 L_TWO = (0, 64)
 L_SOLOS = [(0, 9), (16, 24.5), (32, 41), (48, 56.5)]
 L_CHORUSES = [(9, 16), (24.5, 32), (41, 48), (56.5, 64)]
-L_CALL1, L_ANSWER1 = LEAVE.notes(0, 9), [dict(n, beat=num(n["beat"] - 9)) for n in LEAVE.notes(9, 16)]
+L_CALL1, L_ANSWER1 = LEAVE.notes(0, 9), LEAVE.notes(9, 16)
 
 
 def verse(song, span, ranges):
@@ -331,7 +334,7 @@ def verse(song, span, ranges):
 
 
 D_VERSE, D_CHORUS, D_SONG = (0, 32), (32, 64), (0, 64)
-D_ANSWER = [dict(n, beat=num(n["beat"] - 32)) for n in SAILOR.notes(*D_CHORUS)]  # the chorus alone, from 0
+D_ANSWER = SAILOR.notes(*D_CHORUS)  # the chorus alone, from 0
 D_LINE = D_ANSWER[:7]  # "Hooray and up she rises", the first line
 assert [n["lyric"] for n in D_LINE] == ["Hoo-", "ray", "and", "up", "she", "ri-", "ses,"], D_LINE
 D_CALL_LINE = SAILOR.notes(0, 8)
@@ -410,7 +413,7 @@ UNIT2_LESSONS = [
             ("One strong pull", f"On \"Joe\", short and sung; {SAFE}"),
             SPEAKER_OK,
         ], "phrase"),
-        with_crew("The chorus and a verse: the shantyman calls, you answer on the beat.",
+        with_crew("The whole song: the shantyman calls, you answer every time on the beat.",
                   J_ANSWERS, JOE.tempo, J_CALLS, BEAT, chords=JOE.chords_at(*J_SONG), rhythm=True),
     ]),
     lesson("2-stamp", 2, "Stamp and go", [
@@ -423,15 +426,15 @@ UNIT2_LESSONS = [
                   D_CHORUS_SUNG, SAILOR.tempo, D_CALLS, BEAT, chords=SAILOR.chords_at(*D_SONG), rhythm=True),
     ]),
     lesson("2-hoist", 2, "The long hoist", [
-        learn("A halyard shanty had two short answers, with a double pull in each. Same answers as before, now on the beat, slow first, then at the crew's pace.", [
+        learn("A halyard shanty had two short answers, with a double pull in each. Same answers as before, now on the beat, at a steady hoist.", [
             ("Two pulls an answer", "Together, on the beat"),
-            ("Slow, then the crew's pace", f"Steady before fast; {SAFE}"),
+            ("A steady hoist", f"Steady before fast; {SAFE}"),
             SPEAKER_OK,
         ], "phrase"),
-        with_crew("Slow first: the call, then your two answers on the beat.",
+        # At the template's 150 the beat window is at its 60 ms floor and a beginner's take fell to one mark (the
+        # unit-by-unit simulation, 2026-11-08), so the hoist stays at 120.
+        with_crew("The call, then your two answers on the beat.",
                   B_ANSWERS, BLOW_SLOW, B_CALLS, BEAT, chords=BLOW.chords_at(*B_SONG), rhythm=True),
-        with_crew("Now at the crew's pace.",
-                  B_ANSWERS, BLOW.tempo, B_CALLS, BEAT, chords=BLOW.chords_at(*B_SONG), rhythm=True),
     ]),
     lesson("2-capstan", 2, "Walk it round", [
         learn("Leave Her, Johnny was a capstan shanty: no pull, the crew walked the capstan bars round and round, so the beat is your feet. It was sung coming into port.", [
