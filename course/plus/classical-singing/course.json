@@ -1,0 +1,1647 @@
+{
+    "id": "classical-singing",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Classical singing basics"},
+    "units": [
+        {
+            "id": "cl-joined",
+            "title": {"en": "Joined"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "cl-1-joined",
+                    "title": {"en": "One joined line"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Classical singing starts with one thing: notes joined, with no gap between them. Singers call it legato."},
+                            "steps": [
+                                {"title": {"en": "No gap between the notes"}, "detail": {"en": "The sound keeps going as the note changes"}},
+                                {"title": {"en": "Your own voice"}, "detail": {"en": "An easy medium volume; stop if anything tightens or hurts"}},
+                                {"title": {"en": "Tall and easy"}, "detail": {"en": "Jaw loose, shoulders down"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "The same five notes, sung two ways. Listen to both, then choose."},
+                            "exercise": {
+                                "tempo": 72,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one is joined?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "ah"},
+                                                    {"beat": 1, "length": 1, "step": 2, "lyric": "ah"},
+                                                    {"beat": 2, "length": 1, "step": 4, "lyric": "ah"},
+                                                    {"beat": 3, "length": 1, "step": 5, "lyric": "ah"},
+                                                    {"beat": 4, "length": 1, "step": 7, "lyric": "ah"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.6, "step": 0, "lyric": "ah"},
+                                                    {"beat": 1, "length": 0.6, "step": 2, "lyric": "ah"},
+                                                    {"beat": 2, "length": 0.6, "step": 4, "lyric": "ah"},
+                                                    {"beat": 3, "length": 0.6, "step": 5, "lyric": "ah"},
+                                                    {"beat": 4, "length": 0.6, "step": 7, "lyric": "ah"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The first kept the sound going from note to note. The second stopped between them."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one is joined?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.6, "step": 7, "lyric": "ah"},
+                                                    {"beat": 1, "length": 0.6, "step": 5, "lyric": "ah"},
+                                                    {"beat": 2, "length": 0.6, "step": 4, "lyric": "ah"},
+                                                    {"beat": 3, "length": 0.6, "step": 2, "lyric": "ah"},
+                                                    {"beat": 4, "length": 0.6, "step": 0, "lyric": "ah"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 7, "lyric": "ah"},
+                                                    {"beat": 1, "length": 1, "step": 5, "lyric": "ah"},
+                                                    {"beat": 2, "length": 1, "step": 4, "lyric": "ah"},
+                                                    {"beat": 3, "length": 1, "step": 2, "lyric": "ah"},
+                                                    {"beat": 4, "length": 1, "step": 0, "lyric": "ah"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The second never stopped: one sound, five notes."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one is joined?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 0.8, "step": 0, "lyric": "ah"},
+                                                    {"beat": 1, "length": 0.8, "step": 2, "lyric": "ah"},
+                                                    {"beat": 2, "length": 0.8, "step": 4, "lyric": "ah"},
+                                                    {"beat": 3, "length": 0.8, "step": 5, "lyric": "ah"},
+                                                    {"beat": 4, "length": 0.8, "step": 7, "lyric": "ah"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": 0, "lyric": "ah"},
+                                                    {"beat": 1, "length": 1, "step": 2, "lyric": "ah"},
+                                                    {"beat": 2, "length": 1, "step": 4, "lyric": "ah"},
+                                                    {"beat": 3, "length": 1, "step": 5, "lyric": "ah"},
+                                                    {"beat": 4, "length": 1, "step": 7, "lyric": "ah"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The first left small gaps; the second kept going through each change."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of a famous first phrase, on \"ah\". Each waits until you're on it."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 7, "lyric": "ah"},
+                                    {"beat": 1, "length": 0.75, "step": 6, "lyric": "ah"},
+                                    {"beat": 1.75, "length": 0.25, "step": 4, "lyric": "ah"},
+                                    {"beat": 2, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 4, "length": 1, "step": 4, "lyric": "ah"},
+                                    {"beat": 5, "length": 0.75, "step": 2, "lyric": "ah"},
+                                    {"beat": 5.75, "length": 0.25, "step": 0, "lyric": "ah"},
+                                    {"beat": 6, "length": 1.5, "step": -1, "lyric": "ah"}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now the whole phrase on \"ah\", joined: hear it, then sing it back."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 7, "lyric": "ah"},
+                                    {"beat": 1, "length": 0.75, "step": 6, "lyric": "ah"},
+                                    {"beat": 1.75, "length": 0.25, "step": 4, "lyric": "ah"},
+                                    {"beat": 2, "length": 2, "step": 2, "lyric": "ah"},
+                                    {"beat": 4, "length": 1, "step": 4, "lyric": "ah"},
+                                    {"beat": 5, "length": 0.75, "step": 2, "lyric": "ah"},
+                                    {"beat": 5.75, "length": 0.25, "step": 0, "lyric": "ah"},
+                                    {"beat": 6, "length": 1.5, "step": -1, "lyric": "ah"}
+                                ],
+                                "turn": true,
+                                "score": "landing",
+                                "generous": true,
+                                "keep": "classical.first-phrase"
+                            },
+                            "measures": {"en": "Scored on where each note lands."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cl-1-start",
+                    "title": {"en": "A clean start"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A classical note starts on its pitch from the first sound: no slide up into it, no click."},
+                            "steps": [
+                                {"title": {"en": "On the note at once"}, "detail": {"en": "Hear it inside first, then sing it"}},
+                                {"title": {"en": "An easy start"}, "detail": {"en": "No click and no breathy h; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {"en": "Sing each note back on \"ah\", and watch where it lands."},
+                            "exercise": {
+                                "tempo": 72,
+                                "echoes": [0, 4, 2, 5, -1]
+                            },
+                            "measures": {"en": "Scored on where each note lands, from its first sound."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Five starts, a rest before each: every one on its note from the first sound."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 3, "length": 2, "step": 4},
+                                    {"beat": 6, "length": 2, "step": 2},
+                                    {"beat": 9, "length": 2, "step": 5},
+                                    {"beat": 12, "length": 3, "step": 0}
+                                ],
+                                "turn": true,
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on where each note lands."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cl-1-vowel",
+                    "title": {"en": "One vowel, many notes"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Keep one vowel through the moving notes: your mouth stays the same shape, and only the pitch changes."},
+                            "steps": [
+                                {"title": {"en": "One shape for \"ah\""}, "detail": {"en": "Never drifting to \"aw\" or \"uh\""}},
+                                {"title": {"en": "Joined in pairs"}, "detail": {"en": "A breath at each rest; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes: a lesson Concone wrote for the middle of the voice. Each waits until you're on it."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 2, "length": 2, "step": 4},
+                                    {"beat": 4, "length": 2, "step": 5},
+                                    {"beat": 6, "length": 1, "step": 0},
+                                    {"beat": 8, "length": 2, "step": 7},
+                                    {"beat": 10, "length": 2, "step": 0},
+                                    {"beat": 12, "length": 2, "step": 9},
+                                    {"beat": 14, "length": 1, "step": 5}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole line on \"ah\", each pair of bars joined."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 2, "length": 2, "step": 4},
+                                    {"beat": 4, "length": 2, "step": 5},
+                                    {"beat": 6, "length": 1, "step": 0},
+                                    {"beat": 8, "length": 2, "step": 7},
+                                    {"beat": 10, "length": 2, "step": 0},
+                                    {"beat": 12, "length": 2, "step": 9},
+                                    {"beat": 14, "length": 1, "step": 5},
+                                    {"beat": 16, "length": 2, "step": 0},
+                                    {"beat": 18, "length": 2, "step": 4},
+                                    {"beat": 20, "length": 2, "step": 5},
+                                    {"beat": 22, "length": 1, "step": 0},
+                                    {"beat": 24, "length": 1, "step": -2},
+                                    {"beat": 25, "length": 1, "step": 0},
+                                    {"beat": 26, "length": 1, "step": -3},
+                                    {"beat": 27, "length": 1, "step": 0},
+                                    {"beat": 28, "length": 3, "step": -5}
+                                ],
+                                "turn": true,
+                                "score": "legato"
+                            },
+                            "measures": {"en": "Scored on where each note lands, and on the notes joined."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Sing it once more, then hear yours beside the guide's."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                        {"beat": 2, "length": 2, "step": 4},
+                                        {"beat": 4, "length": 2, "step": 5},
+                                        {"beat": 6, "length": 1, "step": 0},
+                                        {"beat": 8, "length": 2, "step": 7},
+                                        {"beat": 10, "length": 2, "step": 0},
+                                        {"beat": 12, "length": 2, "step": 9},
+                                        {"beat": 14, "length": 1, "step": 5}
+                                    ]
+                                },
+                                "along": true,
+                                "questions": [
+                                    {"en": "Did the \"ah\" keep its shape, never drifting to \"aw\" or \"uh\"?"},
+                                    {"en": "Did the sound keep going through each change?"}
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "cl-1-challenge",
+                    "title": {"en": "Your first Italian song"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Vaccai wrote this for beginners nearly two hundred years ago. First its notes on \"ah\", then its Italian words."},
+                            "steps": [
+                                {"title": {"en": "Vowels first"}, "detail": {"en": "Then the words, each vowel filling its notes"}},
+                                {"title": {"en": "Manca sollecita"}, "detail": {"en": "A flame burns down faster than ever; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The first two lines on \"ah\", joined."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": -5, "lyric": "ah"},
+                                    {"beat": 2, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 3, "length": 1, "step": -1, "lyric": "ah"},
+                                    {"beat": 4, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 5, "length": 1, "step": 2, "lyric": "ah"},
+                                    {"beat": 6, "length": 1, "step": 4, "lyric": "ah"},
+                                    {"beat": 8, "length": 2, "step": -3, "lyric": "ah"},
+                                    {"beat": 10, "length": 1, "step": -1, "lyric": "ah"},
+                                    {"beat": 11, "length": 1, "step": 1, "lyric": "ah"},
+                                    {"beat": 12, "length": 1, "step": 2, "lyric": "ah"},
+                                    {"beat": 13, "length": 1, "step": 4},
+                                    {"beat": 14, "length": 1, "step": 5, "lyric": "ah"},
+                                    {"beat": 16, "length": 2, "step": 9, "lyric": "ah"},
+                                    {"beat": 18, "length": 1, "step": 7, "lyric": "ah"},
+                                    {"beat": 19, "length": 1, "step": 5, "lyric": "ah"},
+                                    {"beat": 20, "length": 1, "step": 4, "lyric": "ah"},
+                                    {"beat": 21, "length": 1, "step": 2, "lyric": "ah"},
+                                    {"beat": 22, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 24, "length": 2, "step": 4, "lyric": "ah"},
+                                    {"beat": 26, "length": 1, "step": 2, "lyric": "ah"},
+                                    {"beat": 27, "length": 1, "step": 0, "lyric": "ah"},
+                                    {"beat": 28, "length": 1, "step": -1, "lyric": "ah"},
+                                    {"beat": 29, "length": 1, "step": -3},
+                                    {"beat": 30, "length": 1, "step": -5, "lyric": "ah"}
+                                ],
+                                "turn": true,
+                                "score": "legato"
+                            },
+                            "measures": {"en": "Scored on where each note lands, and on the notes joined."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now with the words, the vowel lasting right up to each quick consonant."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": -5, "lyric": "Ma"},
+                                    {"beat": 2, "length": 1, "step": -3, "lyric": "nca"},
+                                    {"beat": 3, "length": 1, "step": -1, "lyric": "so"},
+                                    {"beat": 4, "length": 1, "step": 0, "lyric": "lle"},
+                                    {"beat": 5, "length": 1, "step": 2, "lyric": "ci"},
+                                    {"beat": 6, "length": 1, "step": 4, "lyric": "ta"},
+                                    {"beat": 8, "length": 2, "step": -3, "lyric": "Più"},
+                                    {"beat": 10, "length": 1, "step": -1, "lyric": "de"},
+                                    {"beat": 11, "length": 1, "step": 1, "lyric": "ll'u"},
+                                    {"beat": 12, "length": 1, "step": 2, "lyric": "sa"},
+                                    {"beat": 13, "length": 1, "step": 4},
+                                    {"beat": 14, "length": 1, "step": 5, "lyric": "to"},
+                                    {"beat": 16, "length": 2, "step": 9, "lyric": "A"},
+                                    {"beat": 18, "length": 1, "step": 7, "lyric": "nco"},
+                                    {"beat": 19, "length": 1, "step": 5, "lyric": "rchè"},
+                                    {"beat": 20, "length": 1, "step": 4, "lyric": "s'a"},
+                                    {"beat": 21, "length": 1, "step": 2, "lyric": "gi"},
+                                    {"beat": 22, "length": 1, "step": 0, "lyric": "ti"},
+                                    {"beat": 24, "length": 2, "step": 4, "lyric": "Co"},
+                                    {"beat": 26, "length": 1, "step": 2, "lyric": "nlie"},
+                                    {"beat": 27, "length": 1, "step": 0, "lyric": "ve"},
+                                    {"beat": 28, "length": 1, "step": -1, "lyric": "fia"},
+                                    {"beat": 29, "length": 1, "step": -3},
+                                    {"beat": 30, "length": 1, "step": -5, "lyric": "to"}
+                                ],
+                                "turn": true,
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on where each note lands."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cl-one-breath",
+            "title": {"en": "One breath"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "cl-2-comma",
+                    "title": {"en": "Breathe at the comma"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A phrase is one breath. Breathe where the words have a comma, low and easy, and the next phrase starts on time."},
+                            "steps": [
+                                {"title": {"en": "One breath a phrase"}, "detail": {"en": "Breathe at the comma, not before"}},
+                                {"title": {"en": "Low and easy"}, "detail": {"en": "A quiet breath, shoulders still; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Brahms's lullaby, its first four phrases: come in after each breath on time and on pitch."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": -1, "lyric": "Lul-"},
+                                    {"beat": 0.5, "length": 0.5, "step": -1, "lyric": "la-"},
+                                    {"beat": 1, "length": 1.5, "step": 2, "lyric": "by"},
+                                    {"beat": 2.5, "length": 0.5, "step": -1, "lyric": "and"},
+                                    {"beat": 3, "length": 1, "step": -1, "lyric": "good"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "night!"},
+                                    {"beat": 6, "length": 0.5, "step": -1, "lyric": "With"},
+                                    {"beat": 6.5, "length": 0.5, "step": 2},
+                                    {"beat": 7, "length": 1, "step": 7, "lyric": "ro-"},
+                                    {"beat": 8, "length": 1.5, "step": 6, "lyric": "ses"},
+                                    {"beat": 9.5, "length": 0.5, "step": 4, "lyric": "be-"},
+                                    {"beat": 10, "length": 1, "step": 4, "lyric": "dight,"},
+                                    {"beat": 11, "length": 0.5, "step": 2},
+                                    {"beat": 12, "length": 0.5, "step": -3, "lyric": "Creep"},
+                                    {"beat": 12.5, "length": 0.5, "step": -1},
+                                    {"beat": 13, "length": 1, "step": 0, "lyric": "in-"},
+                                    {"beat": 14, "length": 1, "step": -3, "lyric": "to"},
+                                    {"beat": 15, "length": 0.5, "step": -3, "lyric": "thy"},
+                                    {"beat": 15.5, "length": 0.5, "step": -1},
+                                    {"beat": 16, "length": 1, "step": 0, "lyric": "bed,"},
+                                    {"beat": 18, "length": 0.5, "step": -3, "lyric": "There"},
+                                    {"beat": 18.5, "length": 0.5, "step": 0},
+                                    {"beat": 19, "length": 0.5, "step": 6, "lyric": "pil-"},
+                                    {"beat": 19.5, "length": 0.5, "step": 4},
+                                    {"beat": 20, "length": 1, "step": 2, "lyric": "low"},
+                                    {"beat": 21, "length": 1, "step": 6, "lyric": "thy"},
+                                    {"beat": 22, "length": 1, "step": 7, "lyric": "head."}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": 7, "quality": "maj"},
+                                    {"beat": 10, "root": 2, "quality": "dom7"},
+                                    {"beat": 22, "root": 7, "quality": "maj"}
+                                ],
+                                "score": "entry"
+                            },
+                            "measures": {"en": "Scored on coming in after each breath, on time and on pitch."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Again, each phrase joined from its first note to its last."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": -1, "lyric": "Lul-"},
+                                    {"beat": 0.5, "length": 0.5, "step": -1, "lyric": "la-"},
+                                    {"beat": 1, "length": 1.5, "step": 2, "lyric": "by"},
+                                    {"beat": 2.5, "length": 0.5, "step": -1, "lyric": "and"},
+                                    {"beat": 3, "length": 1, "step": -1, "lyric": "good"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "night!"},
+                                    {"beat": 6, "length": 0.5, "step": -1, "lyric": "With"},
+                                    {"beat": 6.5, "length": 0.5, "step": 2},
+                                    {"beat": 7, "length": 1, "step": 7, "lyric": "ro-"},
+                                    {"beat": 8, "length": 1.5, "step": 6, "lyric": "ses"},
+                                    {"beat": 9.5, "length": 0.5, "step": 4, "lyric": "be-"},
+                                    {"beat": 10, "length": 1, "step": 4, "lyric": "dight,"},
+                                    {"beat": 11, "length": 0.5, "step": 2},
+                                    {"beat": 12, "length": 0.5, "step": -3, "lyric": "Creep"},
+                                    {"beat": 12.5, "length": 0.5, "step": -1},
+                                    {"beat": 13, "length": 1, "step": 0, "lyric": "in-"},
+                                    {"beat": 14, "length": 1, "step": -3, "lyric": "to"},
+                                    {"beat": 15, "length": 0.5, "step": -3, "lyric": "thy"},
+                                    {"beat": 15.5, "length": 0.5, "step": -1},
+                                    {"beat": 16, "length": 1, "step": 0, "lyric": "bed,"},
+                                    {"beat": 18, "length": 0.5, "step": -3, "lyric": "There"},
+                                    {"beat": 18.5, "length": 0.5, "step": 0},
+                                    {"beat": 19, "length": 0.5, "step": 6, "lyric": "pil-"},
+                                    {"beat": 19.5, "length": 0.5, "step": 4},
+                                    {"beat": 20, "length": 1, "step": 2, "lyric": "low"},
+                                    {"beat": 21, "length": 1, "step": 6, "lyric": "thy"},
+                                    {"beat": 22, "length": 1, "step": 7, "lyric": "head."}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": 7, "quality": "maj"},
+                                    {"beat": 10, "root": 2, "quality": "dom7"},
+                                    {"beat": 22, "root": 7, "quality": "maj"}
+                                ],
+                                "score": "line"
+                            },
+                            "measures": {"en": "Scored on where each note lands, and on the last note ending steady."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cl-2-steady",
+                    "title": {"en": "Steady in the middle"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A long note in the middle of your voice, steady to its end. If a gentle wave comes into it by itself, let it; if not, that's fine."},
+                            "steps": [
+                                {"title": {"en": "Steady to the end"}, "detail": {"en": "No sag at the end of the breath"}},
+                                {"title": {"en": "Easy, not breathy"}, "detail": {"en": "The middle of your voice; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes. Each waits until you're on it."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 1, "length": 1, "step": 0},
+                                    {"beat": 2, "length": 6, "step": 2},
+                                    {"beat": 8, "length": 2, "step": 0}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The phrase on \"ah\": its long note steady to the end."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -3, "lyric": "ah"},
+                                    {"beat": 1, "length": 1, "step": 0},
+                                    {"beat": 2, "length": 6, "step": 2},
+                                    {"beat": 8, "length": 2, "step": 0}
+                                ],
+                                "turn": true,
+                                "score": "drift"
+                            },
+                            "measures": {"en": "Scored on the long note staying on its pitch to the end."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cl-2-shape",
+                    "title": {"en": "The end of a phrase"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A phrase ends on purpose: its last note held to its end, steady, then stopped on time."},
+                            "steps": [
+                                {"title": {"en": "Plan the ending"}, "detail": {"en": "Keep the breath for the last note"}},
+                                {"title": {"en": "Stop on time"}, "detail": {"en": "Steady to the last moment; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Concone's last two bars on \"ah\": end the long note on time."},
+                            "exercise": {
+                                "tempo": 80,
+                                "notes": [
+                                    {"beat": 16, "length": 2, "step": 0, "lyric": "ah"},
+                                    {"beat": 18, "length": 2, "step": 4},
+                                    {"beat": 20, "length": 2, "step": 5},
+                                    {"beat": 22, "length": 1, "step": 0},
+                                    {"beat": 24, "length": 1, "step": -2},
+                                    {"beat": 25, "length": 1, "step": 0},
+                                    {"beat": 26, "length": 1, "step": -3},
+                                    {"beat": 27, "length": 1, "step": 0},
+                                    {"beat": 28, "length": 3, "step": -5}
+                                ],
+                                "turn": true,
+                                "score": "release"
+                            },
+                            "measures": {"en": "Scored on the last note ending on time, steady to its end."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Sing it once more, then hear yours beside the guide's."},
+                            "exercise": {
+                                "tempo": 80,
+                                "model": {
+                                    "notes": [
+                                        {"beat": 16, "length": 2, "step": 0, "lyric": "ah"},
+                                        {"beat": 18, "length": 2, "step": 4},
+                                        {"beat": 20, "length": 2, "step": 5},
+                                        {"beat": 22, "length": 1, "step": 0},
+                                        {"beat": 24, "length": 1, "step": -2},
+                                        {"beat": 25, "length": 1, "step": 0},
+                                        {"beat": 26, "length": 1, "step": -3},
+                                        {"beat": 27, "length": 1, "step": 0},
+                                        {"beat": 28, "length": 3, "step": -5}
+                                    ]
+                                },
+                                "along": true,
+                                "questions": [
+                                    {"en": "Did the line grow to its highest note, then ease away?"},
+                                    {"en": "Did the last note stay steady to its end?"}
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "cl-2-challenge",
+                    "title": {"en": "A phrase on one breath"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Brahms's lullaby, written in 1868 for a friend's new baby: the first verse, each phrase on one breath."},
+                            "steps": [
+                                {"title": {"en": "One breath a phrase"}, "detail": {"en": "Breathe at each comma"}},
+                                {"title": {"en": "Soft and joined"}, "detail": {"en": "Sung to someone asleep; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The first verse, over the chords."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 0.5, "step": -1, "lyric": "Lul-"},
+                                    {"beat": 0.5, "length": 0.5, "step": -1, "lyric": "la-"},
+                                    {"beat": 1, "length": 1.5, "step": 2, "lyric": "by"},
+                                    {"beat": 2.5, "length": 0.5, "step": -1, "lyric": "and"},
+                                    {"beat": 3, "length": 1, "step": -1, "lyric": "good"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "night!"},
+                                    {"beat": 6, "length": 0.5, "step": -1, "lyric": "With"},
+                                    {"beat": 6.5, "length": 0.5, "step": 2},
+                                    {"beat": 7, "length": 1, "step": 7, "lyric": "ro-"},
+                                    {"beat": 8, "length": 1.5, "step": 6, "lyric": "ses"},
+                                    {"beat": 9.5, "length": 0.5, "step": 4, "lyric": "be-"},
+                                    {"beat": 10, "length": 1, "step": 4, "lyric": "dight,"},
+                                    {"beat": 11, "length": 0.5, "step": 2},
+                                    {"beat": 12, "length": 0.5, "step": -3, "lyric": "Creep"},
+                                    {"beat": 12.5, "length": 0.5, "step": -1},
+                                    {"beat": 13, "length": 1, "step": 0, "lyric": "in-"},
+                                    {"beat": 14, "length": 1, "step": -3, "lyric": "to"},
+                                    {"beat": 15, "length": 0.5, "step": -3, "lyric": "thy"},
+                                    {"beat": 15.5, "length": 0.5, "step": -1},
+                                    {"beat": 16, "length": 1, "step": 0, "lyric": "bed,"},
+                                    {"beat": 18, "length": 0.5, "step": -3, "lyric": "There"},
+                                    {"beat": 18.5, "length": 0.5, "step": 0},
+                                    {"beat": 19, "length": 0.5, "step": 6, "lyric": "pil-"},
+                                    {"beat": 19.5, "length": 0.5, "step": 4},
+                                    {"beat": 20, "length": 1, "step": 2, "lyric": "low"},
+                                    {"beat": 21, "length": 1, "step": 6, "lyric": "thy"},
+                                    {"beat": 22, "length": 1, "step": 7, "lyric": "head."},
+                                    {"beat": 24, "length": 0.5, "step": -5, "lyric": "If"},
+                                    {"beat": 24.5, "length": 0.5, "step": -5, "lyric": "God"},
+                                    {"beat": 25, "length": 2, "step": 7, "lyric": "will,"},
+                                    {"beat": 27, "length": 0.5, "step": 4, "lyric": "thou"},
+                                    {"beat": 27.5, "length": 0.5, "step": 0, "lyric": "shalt"},
+                                    {"beat": 28, "length": 1.5, "step": 2, "lyric": "wake"},
+                                    {"beat": 30, "length": 0.5, "step": -1, "lyric": "when"},
+                                    {"beat": 30.5, "length": 0.5, "step": -5, "lyric": "the"},
+                                    {"beat": 31, "length": 1, "step": 0, "lyric": "morn-"},
+                                    {"beat": 32, "length": 1, "step": 2, "lyric": "ing"},
+                                    {"beat": 33, "length": 1, "step": 4, "lyric": "doth"},
+                                    {"beat": 34, "length": 1.5, "step": 2, "lyric": "break,"},
+                                    {"beat": 36, "length": 0.5, "step": -5, "lyric": "If"},
+                                    {"beat": 36.5, "length": 0.5, "step": -5, "lyric": "God"},
+                                    {"beat": 37, "length": 2, "step": 7, "lyric": "will,"},
+                                    {"beat": 39, "length": 0.5, "step": 4, "lyric": "thou"},
+                                    {"beat": 39.5, "length": 0.5, "step": 0, "lyric": "shalt"},
+                                    {"beat": 40, "length": 1.5, "step": 2, "lyric": "wake"},
+                                    {"beat": 42, "length": 0.5, "step": -1, "lyric": "when"},
+                                    {"beat": 42.5, "length": 0.5, "step": -5, "lyric": "the"},
+                                    {"beat": 43, "length": 1, "step": 0, "lyric": "morn-"},
+                                    {"beat": 44, "length": 1, "step": -1, "lyric": "ing"},
+                                    {"beat": 45, "length": 1, "step": -3, "lyric": "doth"},
+                                    {"beat": 46, "length": 1.5, "step": -5, "lyric": "break."}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": 7, "quality": "maj"},
+                                    {"beat": 10, "root": 2, "quality": "dom7"},
+                                    {"beat": 22, "root": 7, "quality": "maj"},
+                                    {"beat": 24, "root": 7, "quality": "dom7"},
+                                    {"beat": 25, "root": 0, "quality": "maj"},
+                                    {"beat": 28, "root": 7, "quality": "maj"},
+                                    {"beat": 31, "root": 2, "quality": "dom7"},
+                                    {"beat": 34, "root": 7, "quality": "maj"},
+                                    {"beat": 36, "root": 7, "quality": "dom7"},
+                                    {"beat": 37, "root": 0, "quality": "maj"},
+                                    {"beat": 40, "root": 7, "quality": "maj"},
+                                    {"beat": 43, "root": 2, "quality": "dom7"},
+                                    {"beat": 44, "root": 7, "quality": "maj"},
+                                    {"beat": 45, "root": 2, "quality": "dom7"},
+                                    {"beat": 46, "root": 7, "quality": "maj"}
+                                ],
+                                "score": "line"
+                            },
+                            "measures": {"en": "Scored on where each note lands, and on the last note ending steady."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cl-italian",
+            "title": {"en": "Italian"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "cl-3-thirds",
+                    "title": {"en": "Skips that stay joined"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Vaccai's next tune skips over a note at a time. Each skip lands cleanly, and the sound keeps going."},
+                            "steps": [
+                                {"title": {"en": "Skip, don't slide"}, "detail": {"en": "Land each note from the first sound"}},
+                                {"title": {"en": "Vowels first"}, "detail": {"en": "Then the words; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to both, then choose."},
+                            "exercise": {
+                                "tempo": 72,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one slid into the note?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                                    {"beat": 2, "length": 2, "step": 4, "lyric": "ah", "style": "scoop"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                                    {"beat": 2, "length": 2, "step": 4, "lyric": "ah"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The first slid up into its second note. The second landed right on it."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one slid into the note?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 2, "step": 4, "lyric": "ah"},
+                                                    {"beat": 2, "length": 2, "step": 0, "lyric": "ah"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 2, "step": 4, "lyric": "ah"},
+                                                    {"beat": 2, "length": 2, "step": 0, "lyric": "ah", "style": "scoop"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The second dipped and slid into its last note. The first landed it."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Semplicetta tortorella's first phrase on its own vowels, joined."},
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "e"},
+                                    {"beat": 1, "length": 0.5, "step": 4, "lyric": "i"},
+                                    {"beat": 1.5, "length": 1, "step": 2, "lyric": "e"},
+                                    {"beat": 2.5, "length": 0.5, "step": 5, "lyric": "a"},
+                                    {"beat": 3, "length": 1, "step": 2, "lyric": "o"},
+                                    {"beat": 4, "length": 0.5, "step": 5, "lyric": "o"},
+                                    {"beat": 4.5, "length": 1, "step": 4, "lyric": "e"},
+                                    {"beat": 5.5, "length": 0.25, "step": 7, "lyric": "a"},
+                                    {"beat": 6, "length": 1, "step": 7, "lyric": "e"},
+                                    {"beat": 7, "length": 0.5, "step": 4, "lyric": "o"},
+                                    {"beat": 7.5, "length": 1, "step": 5, "lyric": "e"},
+                                    {"beat": 8.5, "length": 0.5, "step": 2, "lyric": "e‿i"},
+                                    {"beat": 9, "length": 1, "step": 4, "lyric": "uo"},
+                                    {"beat": 10, "length": 0.5, "step": 0, "lyric": "e"},
+                                    {"beat": 10.5, "length": 0.5, "step": 4, "lyric": "i"},
+                                    {"beat": 11, "length": 0.5, "step": 2, "lyric": "io"}
+                                ],
+                                "turn": true,
+                                "score": "legato"
+                            },
+                            "measures": {"en": "Scored on where each note lands, and on the notes joined."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now with the words."},
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "Sem"},
+                                    {"beat": 1, "length": 0.5, "step": 4, "lyric": "pli"},
+                                    {"beat": 1.5, "length": 1, "step": 2, "lyric": "cet"},
+                                    {"beat": 2.5, "length": 0.5, "step": 5, "lyric": "ta"},
+                                    {"beat": 3, "length": 1, "step": 2, "lyric": "tor"},
+                                    {"beat": 4, "length": 0.5, "step": 5, "lyric": "to"},
+                                    {"beat": 4.5, "length": 1, "step": 4, "lyric": "rel"},
+                                    {"beat": 5.5, "length": 0.25, "step": 7, "lyric": "la"},
+                                    {"beat": 6, "length": 1, "step": 7, "lyric": "Che"},
+                                    {"beat": 7, "length": 0.5, "step": 4, "lyric": "non"},
+                                    {"beat": 7.5, "length": 1, "step": 5, "lyric": "ve"},
+                                    {"beat": 8.5, "length": 0.5, "step": 2, "lyric": "de‿il"},
+                                    {"beat": 9, "length": 1, "step": 4, "lyric": "suo"},
+                                    {"beat": 10, "length": 0.5, "step": 0, "lyric": "pe"},
+                                    {"beat": 10.5, "length": 0.5, "step": 4, "lyric": "ri"},
+                                    {"beat": 11, "length": 0.5, "step": 2, "lyric": "glio"}
+                                ],
+                                "turn": true,
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on where each note lands."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cl-3-lean",
+                    "title": {"en": "The leaning note"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A leaning note sits on the beat, a step above where the music is going, then steps down to it. Classical singers call it an appoggiatura."},
+                            "steps": [
+                                {"title": {"en": "On the beat"}, "detail": {"en": "The leaning note first, then the step down"}},
+                                {"title": {"en": "Lean, then ease"}, "detail": {"en": "A little more on the first note; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes. Each waits until you're on it."},
+                            "exercise": {
+                                "tempo": 84,
+                                "notes": [
+                                    {"beat": 0, "length": 1.5, "step": -2, "lyric": "Sen"},
+                                    {"beat": 1.5, "length": 1, "step": -2, "lyric": "za"},
+                                    {"beat": 2.5, "length": 0.5, "step": 0, "lyric": "l'a"},
+                                    {"beat": 3, "length": 1, "step": -2, "lyric": "ma"},
+                                    {"beat": 4, "length": 0.5, "step": -3, "lyric": "bi"},
+                                    {"beat": 4.5, "length": 1, "step": -3, "lyric": "le"}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Vaccai's line, both leaning notes on the beat."},
+                            "exercise": {
+                                "tempo": 84,
+                                "notes": [
+                                    {"beat": 0, "length": 1.5, "step": -2, "lyric": "Sen"},
+                                    {"beat": 1.5, "length": 1, "step": -2, "lyric": "za"},
+                                    {"beat": 2.5, "length": 0.5, "step": 0, "lyric": "l'a"},
+                                    {"beat": 3, "length": 1, "step": -2, "lyric": "ma"},
+                                    {"beat": 4, "length": 0.5, "step": -3, "lyric": "bi"},
+                                    {"beat": 4.5, "length": 1, "step": -3, "lyric": "le"},
+                                    {"beat": 6, "length": 1.5, "step": 3, "lyric": "Dio"},
+                                    {"beat": 7.5, "length": 1, "step": 3, "lyric": "di"},
+                                    {"beat": 8.5, "length": 0.5, "step": 5, "lyric": "Ci"},
+                                    {"beat": 9, "length": 1, "step": 3, "lyric": "te"},
+                                    {"beat": 10, "length": 0.5, "step": 2},
+                                    {"beat": 10.5, "length": 1, "step": 2, "lyric": "ra"}
+                                ],
+                                "turn": true,
+                                "rhythm": true
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cl-3-slide",
+                    "title": {"en": "A slide on purpose"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Classical singing has one slide, and only where the music asks: from one note to the next, on the first note's vowel."},
+                            "steps": [
+                                {"title": {"en": "Late in the first note"}, "detail": {"en": "The slide starts near its end"}},
+                                {"title": {"en": "Arrive on the beat"}, "detail": {"en": "The new note lands on time; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to both, then choose."},
+                            "exercise": {
+                                "tempo": 66,
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one slid on purpose?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah", "style": "slide"},
+                                                    {"beat": 2, "length": 2, "step": 5, "lyric": "ah"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                                    {"beat": 2, "length": 2, "step": 5, "lyric": "ah", "style": "scoop"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The first slid at the end of its first note and arrived on the beat. The second came in late and scooped up."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one slid on purpose?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah"},
+                                                    {"beat": 2, "length": 2, "step": 5, "lyric": "ah", "style": "scoop"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah", "style": "slide"},
+                                                    {"beat": 2, "length": 2, "step": 5, "lyric": "ah"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The second slid out of its first note, on the vowel. The first started its second note low and slid up into it."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "One slide on purpose, up a fourth, and clean steps down."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 0, "lyric": "ah", "style": "slide"},
+                                    {"beat": 2, "length": 2, "step": 5},
+                                    {"beat": 4, "length": 1, "step": 4},
+                                    {"beat": 5, "length": 1, "step": 2},
+                                    {"beat": 6, "length": 2, "step": 0}
+                                ],
+                                "turn": true,
+                                "score": "styled"
+                            },
+                            "measures": {"en": "Scored on the slide asked for, clean starts everywhere else, and pitch."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Two slides, each where it's asked for."},
+                            "exercise": {
+                                "tempo": 66,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 2, "lyric": "ah", "style": "slide"},
+                                    {"beat": 2, "length": 2, "step": 5},
+                                    {"beat": 4, "length": 2, "step": 0, "style": "slide"},
+                                    {"beat": 6, "length": 2, "step": 4},
+                                    {"beat": 8, "length": 1, "step": 2},
+                                    {"beat": 9, "length": 3, "step": 0}
+                                ],
+                                "turn": true,
+                                "score": "styled"
+                            },
+                            "measures": {"en": "Scored on the slides asked for, clean starts everywhere else, and pitch."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cl-3-challenge",
+                    "title": {"en": "Semplicetta tortorella"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "All of Vaccai's tune of skips, with its words: a simple little dove flies into the hunter's arms."},
+                            "steps": [
+                                {"title": {"en": "Skips that land"}, "detail": {"en": "Each one clean, the sound joined"}},
+                                {"title": {"en": "Italian vowels"}, "detail": {"en": "Each vowel filling its notes; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with its words."},
+                            "exercise": {
+                                "tempo": 96,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "Sem"},
+                                    {"beat": 1, "length": 0.5, "step": 4, "lyric": "pli"},
+                                    {"beat": 1.5, "length": 1, "step": 2, "lyric": "cet"},
+                                    {"beat": 2.5, "length": 0.5, "step": 5, "lyric": "ta"},
+                                    {"beat": 3, "length": 1, "step": 2, "lyric": "tor"},
+                                    {"beat": 4, "length": 0.5, "step": 5, "lyric": "to"},
+                                    {"beat": 4.5, "length": 1, "step": 4, "lyric": "rel"},
+                                    {"beat": 5.5, "length": 0.25, "step": 7, "lyric": "la"},
+                                    {"beat": 6, "length": 1, "step": 7, "lyric": "Che"},
+                                    {"beat": 7, "length": 0.5, "step": 4, "lyric": "non"},
+                                    {"beat": 7.5, "length": 1, "step": 5, "lyric": "ve"},
+                                    {"beat": 8.5, "length": 0.5, "step": 2, "lyric": "de‿il"},
+                                    {"beat": 9, "length": 1, "step": 4, "lyric": "suo"},
+                                    {"beat": 10, "length": 0.5, "step": 0, "lyric": "pe"},
+                                    {"beat": 10.5, "length": 0.5, "step": 4, "lyric": "ri"},
+                                    {"beat": 11, "length": 0.5, "step": 2, "lyric": "glio"},
+                                    {"beat": 12, "length": 1, "step": 0, "lyric": "Per"},
+                                    {"beat": 13, "length": 0.5, "step": 4, "lyric": "fug"},
+                                    {"beat": 13.5, "length": 1, "step": 2, "lyric": "gir"},
+                                    {"beat": 14.5, "length": 0.5, "step": 5, "lyric": "da"},
+                                    {"beat": 15, "length": 1, "step": 2, "lyric": "cru"},
+                                    {"beat": 16, "length": 0.5, "step": 5, "lyric": "do‿ar"},
+                                    {"beat": 16.5, "length": 1, "step": 4, "lyric": "ti"},
+                                    {"beat": 17.5, "length": 0.25, "step": 7, "lyric": "glio"},
+                                    {"beat": 18, "length": 1, "step": 4, "lyric": "Vo"},
+                                    {"beat": 19, "length": 0.5, "step": 0, "lyric": "la‿in"},
+                                    {"beat": 19.5, "length": 1, "step": 2, "lyric": "grem"},
+                                    {"beat": 20.5, "length": 0.5, "step": -1, "lyric": "bo‿al"},
+                                    {"beat": 21, "length": 1, "step": 0, "lyric": "cac"},
+                                    {"beat": 22, "length": 0.5, "step": -3, "lyric": "cia"},
+                                    {"beat": 22.5, "length": 1, "step": -5, "lyric": "tor"},
+                                    {"beat": 24, "length": 1, "step": -5, "lyric": "Per"},
+                                    {"beat": 25, "length": 0.5, "step": -1, "lyric": "fug"},
+                                    {"beat": 25.5, "length": 1, "step": -3, "lyric": "gir"},
+                                    {"beat": 26.5, "length": 0.5, "step": 0, "lyric": "da"},
+                                    {"beat": 27, "length": 1, "step": -1, "lyric": "cru"},
+                                    {"beat": 28, "length": 0.5, "step": 2, "lyric": "do‿ar"},
+                                    {"beat": 28.5, "length": 0.5, "step": 2, "lyric": "ti"},
+                                    {"beat": 29, "length": 0.5, "step": 0, "lyric": "glio"},
+                                    {"beat": 30, "length": 1, "step": 2, "lyric": "per"},
+                                    {"beat": 31, "length": 0.5, "step": 5, "lyric": "fug"},
+                                    {"beat": 31.5, "length": 1, "step": 4, "lyric": "gir"},
+                                    {"beat": 32.5, "length": 0.5, "step": 7, "lyric": "da"},
+                                    {"beat": 33, "length": 1, "step": 5, "lyric": "cru"},
+                                    {"beat": 34, "length": 0.5, "step": 9, "lyric": "do‿ar"},
+                                    {"beat": 34.5, "length": 0.5, "step": 9, "lyric": "ti"},
+                                    {"beat": 35, "length": 0.5, "step": 7, "lyric": "glio"},
+                                    {"beat": 36, "length": 1, "step": 9, "lyric": "Vo"},
+                                    {"beat": 37, "length": 0.5, "step": 5, "lyric": "la‿in"},
+                                    {"beat": 37.5, "length": 1, "step": 7, "lyric": "grem"},
+                                    {"beat": 38.5, "length": 0.5, "step": 4, "lyric": "bo‿al"},
+                                    {"beat": 39, "length": 1, "step": 5, "lyric": "cac"},
+                                    {"beat": 40, "length": 0.5, "step": 2, "lyric": "cia"},
+                                    {"beat": 40.5, "length": 1, "step": 4, "lyric": "tor"},
+                                    {"beat": 42, "length": 1, "step": 5, "lyric": "vo"},
+                                    {"beat": 43, "length": 0.5, "step": 2, "lyric": "la‿in"},
+                                    {"beat": 43.5, "length": 1, "step": 4, "lyric": "grem"},
+                                    {"beat": 44.5, "length": 0.5, "step": 0, "lyric": "bo‿al"},
+                                    {"beat": 45, "length": 1, "step": 2, "lyric": "cac"},
+                                    {"beat": 46, "length": 0.5, "step": -1, "lyric": "cia"},
+                                    {"beat": 46.5, "length": 1, "step": 0, "lyric": "tor"}
+                                ],
+                                "turn": true,
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on where each note lands."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cl-a-song",
+            "title": {"en": "A song for voice and piano"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "cl-4-first",
+                    "title": {"en": "Caro mio ben, the opening"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Caro mio ben: \"my dear beloved\". A song for voice and piano from about 1785, the first one most classical singers learn."},
+                            "steps": [
+                                {"title": {"en": "Vowels first"}, "detail": {"en": "Then the words, over the piano's chords"}},
+                                {"title": {"en": "Your own voice"}, "detail": {"en": "An easy medium volume; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The first two phrases on their own vowels, joined."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 7, "lyric": "a"},
+                                    {"beat": 1, "length": 0.75, "step": 6, "lyric": "o"},
+                                    {"beat": 1.75, "length": 0.25, "step": 4, "lyric": "io"},
+                                    {"beat": 2, "length": 2, "step": 2, "lyric": "e"},
+                                    {"beat": 4, "length": 1, "step": 4, "lyric": "e"},
+                                    {"beat": 5, "length": 0.75, "step": 2, "lyric": "i"},
+                                    {"beat": 5.75, "length": 0.25, "step": 0, "lyric": "ia"},
+                                    {"beat": 6, "length": 1.5, "step": -1, "lyric": "e"},
+                                    {"beat": 8, "length": 1, "step": 0, "lyric": "e"},
+                                    {"beat": 9, "length": 0.5, "step": -1, "lyric": "a"},
+                                    {"beat": 9.5, "length": 0.5, "step": -3, "lyric": "i"},
+                                    {"beat": 10, "length": 2, "step": 2, "lyric": "e"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "a"},
+                                    {"beat": 13, "length": 0.5, "step": -6, "lyric": "ui"},
+                                    {"beat": 13.5, "length": 0.5, "step": -5, "lyric": "ei"},
+                                    {"beat": 14, "length": 1, "step": -1, "lyric": "o"},
+                                    {"beat": 15, "length": 1, "step": -3}
+                                ],
+                                "turn": true,
+                                "score": "legato"
+                            },
+                            "measures": {"en": "Scored on where each note lands, and on the notes joined."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now with the words, over the chords."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 7, "lyric": "Ca-"},
+                                    {"beat": 1, "length": 0.75, "step": 6, "lyric": "ro"},
+                                    {"beat": 1.75, "length": 0.25, "step": 4, "lyric": "mio"},
+                                    {"beat": 2, "length": 2, "step": 2, "lyric": "ben,"},
+                                    {"beat": 4, "length": 1, "step": 4, "lyric": "cre-"},
+                                    {"beat": 5, "length": 0.75, "step": 2, "lyric": "di-"},
+                                    {"beat": 5.75, "length": 0.25, "step": 0, "lyric": "mi al-"},
+                                    {"beat": 6, "length": 1.5, "step": -1, "lyric": "men,"},
+                                    {"beat": 8, "length": 1, "step": 0, "lyric": "sen-"},
+                                    {"beat": 9, "length": 0.5, "step": -1, "lyric": "za"},
+                                    {"beat": 9.5, "length": 0.5, "step": -3, "lyric": "di"},
+                                    {"beat": 10, "length": 2, "step": 2, "lyric": "te"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "lan-"},
+                                    {"beat": 13, "length": 0.5, "step": -6, "lyric": "gui-"},
+                                    {"beat": 13.5, "length": 0.5, "step": -5, "lyric": "sce il"},
+                                    {"beat": 14, "length": 1, "step": -1, "lyric": "cor"},
+                                    {"beat": 15, "length": 1, "step": -3},
+                                    {"beat": 20, "length": 1, "step": 4, "lyric": "ca-"},
+                                    {"beat": 21, "length": 0.75, "step": 2, "lyric": "ro"},
+                                    {"beat": 21.75, "length": 0.25, "step": 0, "lyric": "mio"},
+                                    {"beat": 22, "length": 1.5, "step": -1, "lyric": "ben,"},
+                                    {"beat": 24, "length": 1, "step": 0, "lyric": "sen-"},
+                                    {"beat": 25, "length": 0.5, "step": -1, "lyric": "za"},
+                                    {"beat": 25.5, "length": 0.5, "step": -3, "lyric": "di"},
+                                    {"beat": 26, "length": 0.5, "step": 2, "lyric": "te"},
+                                    {"beat": 26.5, "length": 0.5, "step": 7},
+                                    {"beat": 27, "length": 0.5, "step": -5, "lyric": "lan-"},
+                                    {"beat": 27.5, "length": 0.5, "step": 0},
+                                    {"beat": 28, "length": 1, "step": -1, "lyric": "gui-"},
+                                    {"beat": 29, "length": 0.75, "step": -3},
+                                    {"beat": 29.75, "length": 0.25, "step": -5, "lyric": "sce il"},
+                                    {"beat": 30, "length": 2, "step": -5, "lyric": "cor."}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": 7, "quality": "maj"},
+                                    {"beat": 1, "root": 9, "quality": "min7"},
+                                    {"beat": 2, "root": 7, "quality": "maj"},
+                                    {"beat": 4, "root": 0, "quality": "maj"},
+                                    {"beat": 5, "root": 11, "quality": "min"},
+                                    {"beat": 5.75, "root": 2, "quality": "dom7"},
+                                    {"beat": 6, "root": 4, "quality": "min"},
+                                    {"beat": 8, "root": 9, "quality": "min7"},
+                                    {"beat": 9, "root": 2, "quality": "dom7"},
+                                    {"beat": 9.5, "root": 2, "quality": "dom7"},
+                                    {"beat": 10, "root": 7, "quality": "maj"},
+                                    {"beat": 12, "root": 9, "quality": "dom7"},
+                                    {"beat": 14, "root": 7, "quality": "maj"},
+                                    {"beat": 15, "root": 2, "quality": "maj"},
+                                    {"beat": 16, "root": 7, "quality": "maj"},
+                                    {"beat": 17, "root": 9, "quality": "min7"},
+                                    {"beat": 18, "root": 7, "quality": "maj"},
+                                    {"beat": 20, "root": 0, "quality": "maj"},
+                                    {"beat": 21, "root": 11, "quality": "min"},
+                                    {"beat": 21.75, "root": 2, "quality": "dom7"},
+                                    {"beat": 22, "root": 4, "quality": "min"},
+                                    {"beat": 24, "root": 9, "quality": "min7"},
+                                    {"beat": 25, "root": 2, "quality": "dom7"},
+                                    {"beat": 25.5, "root": 2, "quality": "dom7"},
+                                    {"beat": 26, "root": 7, "quality": "maj"},
+                                    {"beat": 27, "root": 0, "quality": "maj"},
+                                    {"beat": 28, "root": 7, "quality": "maj"},
+                                    {"beat": 29, "root": 2, "quality": "dom7"},
+                                    {"beat": 30, "root": 7, "quality": "maj"},
+                                    {"beat": 32, "root": 7, "quality": "maj"},
+                                    {"beat": 33, "root": 0, "quality": "maj"},
+                                    {"beat": 34, "root": 2, "quality": "maj"},
+                                    {"beat": 34.5, "root": 2, "quality": "dom7"},
+                                    {"beat": 35, "root": 7, "quality": "maj"},
+                                    {"beat": 35.5, "root": 0, "quality": "maj"},
+                                    {"beat": 36, "root": 7, "quality": "maj"},
+                                    {"beat": 37, "root": 2, "quality": "dom7"},
+                                    {"beat": 38, "root": 7, "quality": "maj"}
+                                ],
+                                "score": "line"
+                            },
+                            "measures": {"en": "Scored on where each note lands, and on the last note ending steady."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cl-4-middle",
+                    "title": {"en": "The middle"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The middle of the song pleads: your faithful one sighs, so end your cruelty."},
+                            "steps": [
+                                {"title": {"en": "Higher and fuller"}, "detail": {"en": "The highest note short, reached easily"}},
+                                {"title": {"en": "Joined"}, "detail": {"en": "Breathe at each comma; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The middle, over the chords."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "Il"},
+                                    {"beat": 1, "length": 0.5, "step": 4, "lyric": "tuo"},
+                                    {"beat": 1.5, "length": 0.5, "step": 6, "lyric": "fe-"},
+                                    {"beat": 2, "length": 2, "step": 4, "lyric": "del"},
+                                    {"beat": 4, "length": 1, "step": 4, "lyric": "so-"},
+                                    {"beat": 5, "length": 0.5, "step": 6, "lyric": "spi-"},
+                                    {"beat": 5.5, "length": 0.5, "step": 7, "lyric": "ra o-"},
+                                    {"beat": 6, "length": 1.5, "step": 6, "lyric": "gnor."},
+                                    {"beat": 8, "length": 1, "step": 9, "lyric": "Ces-"},
+                                    {"beat": 9, "length": 0.5, "step": 7, "lyric": "sa,"},
+                                    {"beat": 9.5, "length": 0.5, "step": 6, "lyric": "cru-"},
+                                    {"beat": 10, "length": 0.5, "step": 4, "lyric": "del,"},
+                                    {"beat": 10.5, "length": 0.5, "step": 1},
+                                    {"beat": 11, "length": 0.5, "step": 2, "lyric": "tan-"},
+                                    {"beat": 11.5, "length": 0.5, "step": 7},
+                                    {"beat": 12, "length": 1, "step": 6, "lyric": "to"},
+                                    {"beat": 13, "length": 0.75, "step": 4, "lyric": "ri-"},
+                                    {"beat": 13.75, "length": 0.25, "step": 2},
+                                    {"beat": 14, "length": 1.5, "step": 2, "lyric": "gor!"},
+                                    {"beat": 16, "length": 1, "step": 4, "lyric": "Ces-"},
+                                    {"beat": 17, "length": 0.75, "step": 2, "lyric": "sa,"},
+                                    {"beat": 17.75, "length": 0.25, "step": 0, "lyric": "cru-"},
+                                    {"beat": 18, "length": 1, "step": -1, "lyric": "del,"},
+                                    {"beat": 20, "length": 1, "step": 2, "lyric": "tan-"},
+                                    {"beat": 21, "length": 0.5, "step": 0, "lyric": "to"},
+                                    {"beat": 21.5, "length": 0.5, "step": -1, "lyric": "ri-"},
+                                    {"beat": 22, "length": 1, "step": -1, "lyric": "gor,"},
+                                    {"beat": 23, "length": 1, "step": -3},
+                                    {"beat": 24, "length": 1, "step": 7, "lyric": "tan-"},
+                                    {"beat": 25, "length": 0.5, "step": 1, "lyric": "to"},
+                                    {"beat": 25.5, "length": 0.5, "step": 1, "lyric": "ri-"},
+                                    {"beat": 26, "length": 1.5, "step": 2, "lyric": "gor!"}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": 2, "quality": "dom7"},
+                                    {"beat": 1, "root": 2, "quality": "dom7"},
+                                    {"beat": 2, "root": 9, "quality": "min"},
+                                    {"beat": 3.5, "root": 9, "quality": "maj"},
+                                    {"beat": 4, "root": 9, "quality": "dom7"},
+                                    {"beat": 5, "root": 9, "quality": "dom7"},
+                                    {"beat": 6, "root": 2, "quality": "maj"},
+                                    {"beat": 8, "root": 2, "quality": "maj"},
+                                    {"beat": 9, "root": 9, "quality": "maj"},
+                                    {"beat": 9.5, "root": 2, "quality": "maj"},
+                                    {"beat": 10, "root": 9, "quality": "dom7"},
+                                    {"beat": 11, "root": 2, "quality": "maj"},
+                                    {"beat": 11.5, "root": 7, "quality": "maj"},
+                                    {"beat": 12, "root": 2, "quality": "maj"},
+                                    {"beat": 13, "root": 9, "quality": "dom7"},
+                                    {"beat": 14, "root": 2, "quality": "maj"},
+                                    {"beat": 16, "root": 9, "quality": "min6"},
+                                    {"beat": 17, "root": 2, "quality": "maj"},
+                                    {"beat": 17.75, "root": 2, "quality": "dom7"},
+                                    {"beat": 18, "root": 7, "quality": "maj"},
+                                    {"beat": 20, "root": 7, "quality": "maj"},
+                                    {"beat": 21, "root": 9, "quality": "min"},
+                                    {"beat": 22, "root": 7, "quality": "maj"},
+                                    {"beat": 23, "root": 2, "quality": "maj"},
+                                    {"beat": 24, "root": 1, "quality": "dim"},
+                                    {"beat": 26, "root": 2, "quality": "maj"},
+                                    {"beat": 26.5, "root": 2, "quality": "dom7"}
+                                ],
+                                "score": "line"
+                            },
+                            "measures": {"en": "Scored on where each note lands, and on the last note ending steady."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cl-4-return",
+                    "title": {"en": "The return and the ending"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The opening comes back, and this time the song ends: the last notes held steady, on one breath."},
+                            "steps": [
+                                {"title": {"en": "The opening again"}, "detail": {"en": "With its slide, where the music asks"}},
+                                {"title": {"en": "A steady ending"}, "detail": {"en": "Keep the breath for the last note; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The return, over the chords."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 7, "lyric": "Ca-"},
+                                    {"beat": 1, "length": 0.75, "step": 6, "lyric": "ro"},
+                                    {"beat": 1.75, "length": 0.25, "step": 4, "lyric": "mio"},
+                                    {"beat": 2, "length": 2, "step": 2, "lyric": "ben,"},
+                                    {"beat": 4, "length": 1, "step": 4, "lyric": "cre-"},
+                                    {"beat": 5, "length": 0.75, "step": 2, "lyric": "di-"},
+                                    {"beat": 5.75, "length": 0.25, "step": 0, "lyric": "mi al-"},
+                                    {"beat": 6, "length": 1.5, "step": -1, "lyric": "men,"},
+                                    {"beat": 8, "length": 1, "step": 0, "lyric": "sen-"},
+                                    {"beat": 9, "length": 0.5, "step": -1, "lyric": "za"},
+                                    {"beat": 9.5, "length": 0.5, "step": -3, "lyric": "di"},
+                                    {"beat": 10, "length": 0.5, "step": 2, "lyric": "te"},
+                                    {"beat": 10.5, "length": 0.5, "step": 7},
+                                    {"beat": 11, "length": 0.5, "step": -5, "lyric": "lan-"},
+                                    {"beat": 11.5, "length": 0.5, "step": 0},
+                                    {"beat": 12, "length": 1, "step": -1, "lyric": "gui-"},
+                                    {"beat": 13, "length": 0.75, "step": -3},
+                                    {"beat": 13.75, "length": 0.25, "step": -5, "lyric": "sce il"},
+                                    {"beat": 14, "length": 1.5, "step": -5, "lyric": "cor,"},
+                                    {"beat": 16, "length": 1, "step": 4, "lyric": "ca-"},
+                                    {"beat": 17, "length": 0.75, "step": 2, "lyric": "ro"},
+                                    {"beat": 17.75, "length": 0.25, "step": 0, "lyric": "mio"},
+                                    {"beat": 18, "length": 2, "step": -1, "lyric": "ben,"},
+                                    {"beat": 20, "length": 1, "step": 4, "lyric": "cre-"},
+                                    {"beat": 21, "length": 0.75, "step": 2, "lyric": "di-"},
+                                    {"beat": 21.75, "length": 0.25, "step": 0, "lyric": "mi al-"},
+                                    {"beat": 22, "length": 1, "step": -1, "lyric": "men,"},
+                                    {"beat": 24, "length": 1, "step": 7, "lyric": "sen-"},
+                                    {"beat": 25, "length": 0.5, "step": 6, "lyric": "za"},
+                                    {"beat": 25.5, "length": 0.5, "step": 4, "lyric": "di"},
+                                    {"beat": 26, "length": 2, "step": 2, "lyric": "te"},
+                                    {"beat": 28, "length": 1, "step": 7},
+                                    {"beat": 30, "length": 2, "step": -1, "lyric": "lan-"},
+                                    {"beat": 32, "length": 1.5, "step": -3, "lyric": "gui-"},
+                                    {"beat": 33.5, "length": 0.5, "step": -5, "lyric": "sce il"},
+                                    {"beat": 34, "length": 2, "step": -5, "lyric": "cor."}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": 7, "quality": "maj"},
+                                    {"beat": 1, "root": 9, "quality": "min7"},
+                                    {"beat": 2, "root": 7, "quality": "maj"},
+                                    {"beat": 4, "root": 0, "quality": "maj"},
+                                    {"beat": 5, "root": 11, "quality": "min"},
+                                    {"beat": 5.75, "root": 2, "quality": "dom7"},
+                                    {"beat": 6, "root": 4, "quality": "min"},
+                                    {"beat": 8, "root": 9, "quality": "min"},
+                                    {"beat": 9, "root": 2, "quality": "dom7"},
+                                    {"beat": 9.5, "root": 2, "quality": "dom7"},
+                                    {"beat": 10, "root": 7, "quality": "maj"},
+                                    {"beat": 11, "root": 0, "quality": "maj"},
+                                    {"beat": 12, "root": 7, "quality": "maj"},
+                                    {"beat": 13, "root": 2, "quality": "dom7"},
+                                    {"beat": 14, "root": 4, "quality": "min7"},
+                                    {"beat": 16, "root": 9, "quality": "min6"},
+                                    {"beat": 17, "root": 2, "quality": "dom7"},
+                                    {"beat": 18, "root": 7, "quality": "maj"},
+                                    {"beat": 19, "root": 7, "quality": "maj"},
+                                    {"beat": 20, "root": 9, "quality": "min6"},
+                                    {"beat": 21, "root": 2, "quality": "dom7"},
+                                    {"beat": 22, "root": 7, "quality": "maj"},
+                                    {"beat": 23, "root": 7, "quality": "maj"},
+                                    {"beat": 24, "root": 0, "quality": "maj"},
+                                    {"beat": 25, "root": 2, "quality": "maj"},
+                                    {"beat": 25.5, "root": 0, "quality": "maj"},
+                                    {"beat": 26, "root": 7, "quality": "maj"},
+                                    {"beat": 29, "root": 0, "quality": "maj"},
+                                    {"beat": 30, "root": 7, "quality": "maj"},
+                                    {"beat": 32, "root": 2, "quality": "sus4"},
+                                    {"beat": 33, "root": 2, "quality": "maj"},
+                                    {"beat": 34, "root": 7, "quality": "maj"}
+                                ],
+                                "score": "line"
+                            },
+                            "measures": {"en": "Scored on where each note lands, and on the last note ending steady."}
+                        }
+                    ]
+                },
+                {
+                    "id": "cl-4-challenge",
+                    "title": {"en": "Caro mio ben"},
+                    "challenge": true,
+                    "keepSong": {
+                        "title": {"en": "Caro mio ben"},
+                        "takes": [{"step": 2, "name": {"en": "Voice"}}],
+                        "from": 2,
+                        "partners": [],
+                        "chords": {"en": "Piano"}
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "My dear beloved, believe me at least: without you, my heart languishes. First your phrase from lesson 1, then the whole song."},
+                            "steps": [
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Your first phrase on \"ah\", beside today's"}},
+                                {"title": {"en": "Kept as a song"}, "detail": {"en": "Play it back any time; stop if anything tightens or hurts"}}
+                            ],
+                            "visual": "phrase",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The first phrase, with its words."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 7, "lyric": "Ca-"},
+                                    {"beat": 1, "length": 0.75, "step": 6, "lyric": "ro"},
+                                    {"beat": 1.75, "length": 0.25, "step": 4, "lyric": "mio"},
+                                    {"beat": 2, "length": 2, "step": 2, "lyric": "ben,"},
+                                    {"beat": 4, "length": 1, "step": 4, "lyric": "cre-"},
+                                    {"beat": 5, "length": 0.75, "step": 2, "lyric": "di-"},
+                                    {"beat": 5.75, "length": 0.25, "step": 0, "lyric": "mi al-"},
+                                    {"beat": 6, "length": 1.5, "step": -1, "lyric": "men,"}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": 7, "quality": "maj"},
+                                    {"beat": 1, "root": 9, "quality": "min7"},
+                                    {"beat": 2, "root": 7, "quality": "maj"},
+                                    {"beat": 4, "root": 0, "quality": "maj"},
+                                    {"beat": 5, "root": 11, "quality": "min"},
+                                    {"beat": 5.75, "root": 2, "quality": "dom7"},
+                                    {"beat": 6, "root": 4, "quality": "min"}
+                                ],
+                                "score": "line",
+                                "thenAndNow": "classical.first-phrase"
+                            },
+                            "measures": {"en": "Scored on where each note lands, and on the last note ending steady."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, over the chords."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 7, "lyric": "Ca-"},
+                                    {"beat": 1, "length": 0.75, "step": 6, "lyric": "ro"},
+                                    {"beat": 1.75, "length": 0.25, "step": 4, "lyric": "mio"},
+                                    {"beat": 2, "length": 2, "step": 2, "lyric": "ben,"},
+                                    {"beat": 4, "length": 1, "step": 4, "lyric": "cre-"},
+                                    {"beat": 5, "length": 0.75, "step": 2, "lyric": "di-"},
+                                    {"beat": 5.75, "length": 0.25, "step": 0, "lyric": "mi al-"},
+                                    {"beat": 6, "length": 1.5, "step": -1, "lyric": "men,"},
+                                    {"beat": 8, "length": 1, "step": 0, "lyric": "sen-"},
+                                    {"beat": 9, "length": 0.5, "step": -1, "lyric": "za"},
+                                    {"beat": 9.5, "length": 0.5, "step": -3, "lyric": "di"},
+                                    {"beat": 10, "length": 2, "step": 2, "lyric": "te"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "lan-"},
+                                    {"beat": 13, "length": 0.5, "step": -6, "lyric": "gui-"},
+                                    {"beat": 13.5, "length": 0.5, "step": -5, "lyric": "sce il"},
+                                    {"beat": 14, "length": 1, "step": -1, "lyric": "cor"},
+                                    {"beat": 15, "length": 1, "step": -3},
+                                    {"beat": 20, "length": 1, "step": 4, "lyric": "ca-"},
+                                    {"beat": 21, "length": 0.75, "step": 2, "lyric": "ro"},
+                                    {"beat": 21.75, "length": 0.25, "step": 0, "lyric": "mio"},
+                                    {"beat": 22, "length": 1.5, "step": -1, "lyric": "ben,"},
+                                    {"beat": 24, "length": 1, "step": 0, "lyric": "sen-"},
+                                    {"beat": 25, "length": 0.5, "step": -1, "lyric": "za"},
+                                    {"beat": 25.5, "length": 0.5, "step": -3, "lyric": "di"},
+                                    {"beat": 26, "length": 0.5, "step": 2, "lyric": "te"},
+                                    {"beat": 26.5, "length": 0.5, "step": 7},
+                                    {"beat": 27, "length": 0.5, "step": -5, "lyric": "lan-"},
+                                    {"beat": 27.5, "length": 0.5, "step": 0},
+                                    {"beat": 28, "length": 1, "step": -1, "lyric": "gui-"},
+                                    {"beat": 29, "length": 0.75, "step": -3},
+                                    {"beat": 29.75, "length": 0.25, "step": -5, "lyric": "sce il"},
+                                    {"beat": 30, "length": 2, "step": -5, "lyric": "cor."},
+                                    {"beat": 40, "length": 1, "step": 2, "lyric": "Il"},
+                                    {"beat": 41, "length": 0.5, "step": 4, "lyric": "tuo"},
+                                    {"beat": 41.5, "length": 0.5, "step": 6, "lyric": "fe-"},
+                                    {"beat": 42, "length": 2, "step": 4, "lyric": "del"},
+                                    {"beat": 44, "length": 1, "step": 4, "lyric": "so-"},
+                                    {"beat": 45, "length": 0.5, "step": 6, "lyric": "spi-"},
+                                    {"beat": 45.5, "length": 0.5, "step": 7, "lyric": "ra o-"},
+                                    {"beat": 46, "length": 1.5, "step": 6, "lyric": "gnor."},
+                                    {"beat": 48, "length": 1, "step": 9, "lyric": "Ces-"},
+                                    {"beat": 49, "length": 0.5, "step": 7, "lyric": "sa,"},
+                                    {"beat": 49.5, "length": 0.5, "step": 6, "lyric": "cru-"},
+                                    {"beat": 50, "length": 0.5, "step": 4, "lyric": "del,"},
+                                    {"beat": 50.5, "length": 0.5, "step": 1},
+                                    {"beat": 51, "length": 0.5, "step": 2, "lyric": "tan-"},
+                                    {"beat": 51.5, "length": 0.5, "step": 7},
+                                    {"beat": 52, "length": 1, "step": 6, "lyric": "to"},
+                                    {"beat": 53, "length": 0.75, "step": 4, "lyric": "ri-"},
+                                    {"beat": 53.75, "length": 0.25, "step": 2},
+                                    {"beat": 54, "length": 1.5, "step": 2, "lyric": "gor!"},
+                                    {"beat": 56, "length": 1, "step": 4, "lyric": "Ces-"},
+                                    {"beat": 57, "length": 0.75, "step": 2, "lyric": "sa,"},
+                                    {"beat": 57.75, "length": 0.25, "step": 0, "lyric": "cru-"},
+                                    {"beat": 58, "length": 1, "step": -1, "lyric": "del,"},
+                                    {"beat": 60, "length": 1, "step": 2, "lyric": "tan-"},
+                                    {"beat": 61, "length": 0.5, "step": 0, "lyric": "to"},
+                                    {"beat": 61.5, "length": 0.5, "step": -1, "lyric": "ri-"},
+                                    {"beat": 62, "length": 1, "step": -1, "lyric": "gor,"},
+                                    {"beat": 63, "length": 1, "step": -3},
+                                    {"beat": 64, "length": 1, "step": 7, "lyric": "tan-"},
+                                    {"beat": 65, "length": 0.5, "step": 1, "lyric": "to"},
+                                    {"beat": 65.5, "length": 0.5, "step": 1, "lyric": "ri-"},
+                                    {"beat": 66, "length": 1.5, "step": 2, "lyric": "gor!"},
+                                    {"beat": 68, "length": 1, "step": 7, "lyric": "Ca-"},
+                                    {"beat": 69, "length": 0.75, "step": 6, "lyric": "ro"},
+                                    {"beat": 69.75, "length": 0.25, "step": 4, "lyric": "mio"},
+                                    {"beat": 70, "length": 2, "step": 2, "lyric": "ben,"},
+                                    {"beat": 72, "length": 1, "step": 4, "lyric": "cre-"},
+                                    {"beat": 73, "length": 0.75, "step": 2, "lyric": "di-"},
+                                    {"beat": 73.75, "length": 0.25, "step": 0, "lyric": "mi al-"},
+                                    {"beat": 74, "length": 1.5, "step": -1, "lyric": "men,"},
+                                    {"beat": 76, "length": 1, "step": 0, "lyric": "sen-"},
+                                    {"beat": 77, "length": 0.5, "step": -1, "lyric": "za"},
+                                    {"beat": 77.5, "length": 0.5, "step": -3, "lyric": "di"},
+                                    {"beat": 78, "length": 0.5, "step": 2, "lyric": "te"},
+                                    {"beat": 78.5, "length": 0.5, "step": 7},
+                                    {"beat": 79, "length": 0.5, "step": -5, "lyric": "lan-"},
+                                    {"beat": 79.5, "length": 0.5, "step": 0},
+                                    {"beat": 80, "length": 1, "step": -1, "lyric": "gui-"},
+                                    {"beat": 81, "length": 0.75, "step": -3},
+                                    {"beat": 81.75, "length": 0.25, "step": -5, "lyric": "sce il"},
+                                    {"beat": 82, "length": 1.5, "step": -5, "lyric": "cor,"},
+                                    {"beat": 84, "length": 1, "step": 4, "lyric": "ca-"},
+                                    {"beat": 85, "length": 0.75, "step": 2, "lyric": "ro"},
+                                    {"beat": 85.75, "length": 0.25, "step": 0, "lyric": "mio"},
+                                    {"beat": 86, "length": 2, "step": -1, "lyric": "ben,"},
+                                    {"beat": 88, "length": 1, "step": 4, "lyric": "cre-"},
+                                    {"beat": 89, "length": 0.75, "step": 2, "lyric": "di-"},
+                                    {"beat": 89.75, "length": 0.25, "step": 0, "lyric": "mi al-"},
+                                    {"beat": 90, "length": 1, "step": -1, "lyric": "men,"},
+                                    {"beat": 92, "length": 1, "step": 7, "lyric": "sen-"},
+                                    {"beat": 93, "length": 0.5, "step": 6, "lyric": "za"},
+                                    {"beat": 93.5, "length": 0.5, "step": 4, "lyric": "di"},
+                                    {"beat": 94, "length": 2, "step": 2, "lyric": "te"},
+                                    {"beat": 96, "length": 1, "step": 7},
+                                    {"beat": 98, "length": 2, "step": -1, "lyric": "lan-"},
+                                    {"beat": 100, "length": 1.5, "step": -3, "lyric": "gui-"},
+                                    {"beat": 101.5, "length": 0.5, "step": -5, "lyric": "sce il"},
+                                    {"beat": 102, "length": 2, "step": -5, "lyric": "cor."}
+                                ],
+                                "turn": false,
+                                "chords": [
+                                    {"beat": 0, "root": 7, "quality": "maj"},
+                                    {"beat": 1, "root": 9, "quality": "min7"},
+                                    {"beat": 2, "root": 7, "quality": "maj"},
+                                    {"beat": 4, "root": 0, "quality": "maj"},
+                                    {"beat": 5, "root": 11, "quality": "min"},
+                                    {"beat": 5.75, "root": 2, "quality": "dom7"},
+                                    {"beat": 6, "root": 4, "quality": "min"},
+                                    {"beat": 8, "root": 9, "quality": "min7"},
+                                    {"beat": 9, "root": 2, "quality": "dom7"},
+                                    {"beat": 9.5, "root": 2, "quality": "dom7"},
+                                    {"beat": 10, "root": 7, "quality": "maj"},
+                                    {"beat": 12, "root": 9, "quality": "dom7"},
+                                    {"beat": 14, "root": 7, "quality": "maj"},
+                                    {"beat": 15, "root": 2, "quality": "maj"},
+                                    {"beat": 16, "root": 7, "quality": "maj"},
+                                    {"beat": 17, "root": 9, "quality": "min7"},
+                                    {"beat": 18, "root": 7, "quality": "maj"},
+                                    {"beat": 20, "root": 0, "quality": "maj"},
+                                    {"beat": 21, "root": 11, "quality": "min"},
+                                    {"beat": 21.75, "root": 2, "quality": "dom7"},
+                                    {"beat": 22, "root": 4, "quality": "min"},
+                                    {"beat": 24, "root": 9, "quality": "min7"},
+                                    {"beat": 25, "root": 2, "quality": "dom7"},
+                                    {"beat": 25.5, "root": 2, "quality": "dom7"},
+                                    {"beat": 26, "root": 7, "quality": "maj"},
+                                    {"beat": 27, "root": 0, "quality": "maj"},
+                                    {"beat": 28, "root": 7, "quality": "maj"},
+                                    {"beat": 29, "root": 2, "quality": "dom7"},
+                                    {"beat": 30, "root": 7, "quality": "maj"},
+                                    {"beat": 32, "root": 7, "quality": "maj"},
+                                    {"beat": 33, "root": 0, "quality": "maj"},
+                                    {"beat": 34, "root": 2, "quality": "maj"},
+                                    {"beat": 34.5, "root": 2, "quality": "dom7"},
+                                    {"beat": 35, "root": 7, "quality": "maj"},
+                                    {"beat": 35.5, "root": 0, "quality": "maj"},
+                                    {"beat": 36, "root": 7, "quality": "maj"},
+                                    {"beat": 37, "root": 2, "quality": "dom7"},
+                                    {"beat": 38, "root": 7, "quality": "maj"},
+                                    {"beat": 40, "root": 2, "quality": "dom7"},
+                                    {"beat": 41, "root": 2, "quality": "dom7"},
+                                    {"beat": 42, "root": 9, "quality": "min"},
+                                    {"beat": 43.5, "root": 9, "quality": "maj"},
+                                    {"beat": 44, "root": 9, "quality": "dom7"},
+                                    {"beat": 45, "root": 9, "quality": "dom7"},
+                                    {"beat": 46, "root": 2, "quality": "maj"},
+                                    {"beat": 48, "root": 2, "quality": "maj"},
+                                    {"beat": 49, "root": 9, "quality": "maj"},
+                                    {"beat": 49.5, "root": 2, "quality": "maj"},
+                                    {"beat": 50, "root": 9, "quality": "dom7"},
+                                    {"beat": 51, "root": 2, "quality": "maj"},
+                                    {"beat": 51.5, "root": 7, "quality": "maj"},
+                                    {"beat": 52, "root": 2, "quality": "maj"},
+                                    {"beat": 53, "root": 9, "quality": "dom7"},
+                                    {"beat": 54, "root": 2, "quality": "maj"},
+                                    {"beat": 56, "root": 9, "quality": "min6"},
+                                    {"beat": 57, "root": 2, "quality": "maj"},
+                                    {"beat": 57.75, "root": 2, "quality": "dom7"},
+                                    {"beat": 58, "root": 7, "quality": "maj"},
+                                    {"beat": 60, "root": 7, "quality": "maj"},
+                                    {"beat": 61, "root": 9, "quality": "min"},
+                                    {"beat": 62, "root": 7, "quality": "maj"},
+                                    {"beat": 63, "root": 2, "quality": "maj"},
+                                    {"beat": 64, "root": 1, "quality": "dim"},
+                                    {"beat": 66, "root": 2, "quality": "maj"},
+                                    {"beat": 66.5, "root": 2, "quality": "dom7"},
+                                    {"beat": 68, "root": 7, "quality": "maj"},
+                                    {"beat": 69, "root": 9, "quality": "min7"},
+                                    {"beat": 70, "root": 7, "quality": "maj"},
+                                    {"beat": 72, "root": 0, "quality": "maj"},
+                                    {"beat": 73, "root": 11, "quality": "min"},
+                                    {"beat": 73.75, "root": 2, "quality": "dom7"},
+                                    {"beat": 74, "root": 4, "quality": "min"},
+                                    {"beat": 76, "root": 9, "quality": "min"},
+                                    {"beat": 77, "root": 2, "quality": "dom7"},
+                                    {"beat": 77.5, "root": 2, "quality": "dom7"},
+                                    {"beat": 78, "root": 7, "quality": "maj"},
+                                    {"beat": 79, "root": 0, "quality": "maj"},
+                                    {"beat": 80, "root": 7, "quality": "maj"},
+                                    {"beat": 81, "root": 2, "quality": "dom7"},
+                                    {"beat": 82, "root": 4, "quality": "min7"},
+                                    {"beat": 84, "root": 9, "quality": "min6"},
+                                    {"beat": 85, "root": 2, "quality": "dom7"},
+                                    {"beat": 86, "root": 7, "quality": "maj"},
+                                    {"beat": 87, "root": 7, "quality": "maj"},
+                                    {"beat": 88, "root": 9, "quality": "min6"},
+                                    {"beat": 89, "root": 2, "quality": "dom7"},
+                                    {"beat": 90, "root": 7, "quality": "maj"},
+                                    {"beat": 91, "root": 7, "quality": "maj"},
+                                    {"beat": 92, "root": 0, "quality": "maj"},
+                                    {"beat": 93, "root": 2, "quality": "maj"},
+                                    {"beat": 93.5, "root": 0, "quality": "maj"},
+                                    {"beat": 94, "root": 7, "quality": "maj"},
+                                    {"beat": 97, "root": 0, "quality": "maj"},
+                                    {"beat": 98, "root": 7, "quality": "maj"},
+                                    {"beat": 100, "root": 2, "quality": "sus4"},
+                                    {"beat": 101, "root": 2, "quality": "maj"},
+                                    {"beat": 102, "root": 7, "quality": "maj"}
+                                ],
+                                "score": "line"
+                            },
+                            "measures": {"en": "Scored on where each note lands, and on the last note ending steady."}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
