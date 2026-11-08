@@ -271,6 +271,43 @@ def check_layers(where, steps, i):
                 overlap = min(n["beat"] + n["length"], m["beat"] + m["length"]) - max(n["beat"], m["beat"])
                 assert n["beat"] >= last or not (overlap > 1 + EPS and n["step"] == m["step"]), f"{where}: a unison with step {k + 1} at beat {n['beat']}"
 
+# Each lesson page's "Did you know?" (2026-11-08): read in its pre-1927 source, then checked again; every person
+# named has died. The four challenges fold into the page before them and carry none.
+def fact(fid, text, source, url):
+    return {"id": fid, "text": EN(text), "source": EN(source), "url": url}
+
+
+FACTS = {
+    "1-answer": fact("complaynt-one-sings-out", "Singing a call and an answer at sea is very old. In The Complaynt of Scotland, printed in 1549, sailors heave up the anchor singing: one mariner sings out, and the rest follow in the same tune.",
+                     "Whall, Ships, Sea Songs and Shanties (1913), introduction, Internet Archive; Wikipedia, The Complaynt of Scotland", "https://archive.org/details/shipsseasongssha00whal"),
+    "1-joe": fact("haul-away-joe-fore-sheet", "Frank Bullen, who led shanties at sea, called Haul Away, Joe a \"fore sheet\" shanty. It was always sung, he wrote, when hauling at that great rope with one collective drag.",
+                  "Bullen and Arnold, Songs of Sea Labour (1914), notes to the chanties, Internet Archive", "https://archive.org/details/songsofsealabour1914bull"),
+    "1-breathe": fact("blow-the-man-down-chorus-remains", "Blow the Man Down came from the old Atlantic packet ships, wrote the sea captain Whall. By his day sailors had quite forgotten its first words, though the tune and chorus remained.",
+                      "Whall, Ships, Sea Songs and Shanties (1913), Internet Archive", "https://archive.org/details/shipsseasongssha00whal"),
+    "2-pull": fact("doyle-pull-on-main-note", "Arthur Conan Doyle had pulled to shanties himself, hauling up heavy whaling boats. Their rise and fall, he wrote, \"with the pull coming on the main note, lightened the labour.\"",
+                   "Arthur Conan Doyle's letter in Bullen and Arnold, Songs of Sea Labour (1914), Internet Archive", "https://archive.org/details/songsofsealabour1914bull"),
+    "2-stamp": fact("masefield-runaway-chorus", "John Masefield printed Drunken Sailor as the favourite runaway chorus, sung by all hands as they raced along the deck with the rope. Sailors, he wrote, would stamp with their feet as they sang it.",
+                    "Masefield, A Sailor's Garland (1906), \"Chanties\", Internet Archive", "https://archive.org/details/asailorsgarland01masegoog"),
+    "2-hoist": fact("long-hoist-slack-rope", "Richard Terry wrote that the long-hoist shanty was for the beginning of a hoist, while the rope was still slack and fairly easy to work. Once the sail was up and the rope taut, the crew changed to a sweating-up shanty.",
+                    "Terry, The Shanty Book Part I (1921), introduction, Internet Archive", "https://archive.org/details/shantybooksailor00terr"),
+    "2-capstan": fact("leave-her-johnny-mutiny", "Frank Bullen wrote that Leave Her, Johnny summed up all the crew's hatred of a ship. Singing it before the last day or so on board was almost the same as mutiny, and even then the captain and officers could fiercely resent it.",
+                      "Bullen and Arnold, Songs of Sea Labour (1914), notes to the chanties, Internet Archive", "https://archive.org/details/songsofsealabour1914bull"),
+    "3-lead": fact("shantyman-extra-hands", "Sailors in the merchant service used to say that a capable shantyman was worth a couple of extra hands, Cecil Sharp wrote. On some ships he was a privileged man, given light and easy jobs.",
+                   "Sharp, English Folk-Chanteys (1914), introduction, Internet Archive", "https://archive.org/details/englishfolkchant00shar"),
+    "3-find": fact("shantyman-sets-the-tune", "Before a haul, Richard Terry wrote, the shantyman stood near the workers and announced the shanty, sometimes by singing its first line. That set the tune the crew would sing their chorus to.",
+                   "Terry, The Shanty Book Part I (1921), introduction, Internet Archive", "https://archive.org/details/shantybooksailor00terr"),
+    "3-line": fact("chorus-saves-improviser", "Sailors made up new verses as they sang. In one old song, Captain Whall remembered, the improviser sometimes broke down, \"but the chorus promptly chipped in and saved the situation.\"",
+                   "Whall, Ships, Sea Songs and Shanties (1913), Internet Archive", "https://archive.org/details/shipsseasongssha00whal"),
+    "4-together": fact("choruses-heard-ashore", "A crew's chorus, Richard Terry wrote, could be heard all over the ship, and even ashore if she was in port. So not one shanty chorus, he said, has a coarse word in it.",
+                       "Terry, The Shanty Book Part I (1921), introduction, Internet Archive", "https://archive.org/details/shantybooksailor00terr"),
+    "4-part": fact("sharp-sing-without-accompaniment", "Cecil Sharp printed piano parts with his shanties, but told singers to sing most of them without accompaniment. The piano parts, he explained, were there only so the tunes could be played as instrumental airs.",
+                   "Sharp, English Folk-Chanteys (1914), introduction, Internet Archive", "https://archive.org/details/englishfolkchant00shar"),
+    "4-root": fact("ten-men-on-the-rope", "The poet John Masefield, who trained for the sea as a boy, wrote that without the shanties you would never get the work done, and quoted the line \"A song is ten men on the rope.\"",
+                   "Masefield, A Sailor's Garland (1906), \"Chanties\", Internet Archive; Wikipedia, John Masefield", "https://archive.org/details/asailorsgarland01masegoog"),
+    "4-stack": fact("antigua-hut-shanty", "Shanties worked on land too. In Antigua, Richard Terry heard them sung to move a wooden hut: a shantyman sat astride its roof and sang, while the crowd on two long ropes sang the chorus and pulled.",
+                    "Terry, The Shanty Book Part I (1921), apologia, Internet Archive", "https://archive.org/details/shantybooksailor00terr"),
+}
+
 
 def lesson(lid, unit, title, steps, **extra):
     headphones = extra.pop("headphones", False)
@@ -278,6 +315,9 @@ def lesson(lid, unit, title, steps, **extra):
     for i, st in enumerate(steps):
         if st["kind"] == "play" and st["exercise"].get("under"):
             check_layers(f"sh-{lid} step {i + 1}", steps, i)
+    if not extra.get("challenge"):
+        assert lid in FACTS, f"sh-{lid}: every lesson page has a fact"
+        extra = {"fact": FACTS[lid], **extra}
     out = {"id": f"sh-{lid}", "title": EN(title), **extra, "steps": steps}
     if headphones:
         out["headphones"] = "needed"
