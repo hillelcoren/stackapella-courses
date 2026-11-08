@@ -1,0 +1,1170 @@
+{
+    "id": "song-come-thou-fount",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Come, Thou Fount of Every Blessing"},
+    "units": [
+        {
+            "id": "song-come-thou-fount-soprano",
+            "title": {"en": "The melody"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-come-thou-fount-soprano-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Come, Thou Fount of Every Blessing: hear the whole song first, then the tune on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own."},
+                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "ctf-robinson-22", "text": {"en": "Robert Robinson wrote the words when he was 22, in 1757 or 1758 (sources differ)."}, "source": {"en": "Wikipedia, \"Come Thou Fount of Every Blessing\""}, "url": "https://en.wikipedia.org/wiki/Come_Thou_Fount_of_Every_Blessing"}
+                },
+                {
+                    "id": "song-come-thou-fount-soprano-2",
+                    "title": {"en": "Lines 1 to 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 4 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 4 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-soprano-3",
+                    "title": {"en": "Lines 5 to 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-soprano-4",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-soprano-5",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-soprano-6",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-soprano-7",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of Come, Thou Fount of Every Blessing in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "come-thou-fount", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "ctf-nettleton", "text": {"en": "The tune first appears in John Wyeth's Repository of Sacred Music, Part Second, in 1813. It is named after the preacher Asahel Nettleton, and some credit him with it, but who wrote it is not known for sure."}, "source": {"en": "Wikipedia, \"Come Thou Fount of Every Blessing\""}, "url": "https://en.wikipedia.org/wiki/Come_Thou_Fount_of_Every_Blessing"}
+                }
+            ]
+        },
+        {
+            "id": "song-come-thou-fount-alto",
+            "title": {"en": "Alto"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-come-thou-fount-alto-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Come, Thou Fount of Every Blessing: hear the whole song first, then the alto part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own."},
+                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-alto-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-alto-3",
+                    "title": {"en": "Lines 3 and 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-alto-4",
+                    "title": {"en": "Lines 5 to 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-alto-5",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-alto-6",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-alto-7",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-alto-8",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of Come, Thou Fount of Every Blessing in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "come-thou-fount", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-come-thou-fount-bass",
+            "title": {"en": "Bass"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-come-thou-fount-bass-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Come, Thou Fount of Every Blessing: hear the whole song first, then the bass part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own."},
+                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-bass-2",
+                    "title": {"en": "Lines 1 to 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 4 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 4 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-bass-3",
+                    "title": {"en": "Lines 5 to 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-bass-4",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-bass-5",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-bass-6",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-bass-7",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of Come, Thou Fount of Every Blessing in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "come-thou-fount", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-come-thou-fount-tenor",
+            "title": {"en": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-come-thou-fount-tenor-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Come, Thou Fount of Every Blessing: hear the whole song first, then the tenor part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own."},
+                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-tenor-2",
+                    "title": {"en": "Lines 1 to 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 4 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 4 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-tenor-3",
+                    "title": {"en": "Lines 5 to 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-tenor-4",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-tenor-5",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-tenor-6",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "come-thou-fount",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-come-thou-fount-tenor-7",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of Come, Thou Fount of Every Blessing in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "come-thou-fount", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
