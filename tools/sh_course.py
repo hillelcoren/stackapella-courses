@@ -39,7 +39,8 @@ EPS = 1e-9
 SAFE = "stop if anything tightens or hurts"
 BIG = ("As big as you could keep up", "Like calling a friend across a garden")
 BODY = ("Pull with your body", f"Never your throat; {SAFE}")
-HEADPHONES = ("Headphones on", "Through a speaker, the crew rests while you sing")
+HEADPHONES = ("Headphones on", "Through a speaker, the crew rests while you sing")  # a lesson singing over the crew
+SPEAKER_OK = ("Headphones or a speaker", "The calls sound in your rests either way")
 PITCH = "Scored on your answers on pitch."
 BEAT = "Scored on your answers on pitch and on the beat."
 CHOSE = "Scored on the rounds you got right first time."
@@ -193,6 +194,33 @@ def judged_entries(notes):
     return [b["beat"] for a, b in zip(ordered, ordered[1:]) if b["beat"] - (a["beat"] + a["length"]) >= 0.25 - EPS]
 
 
+# Through a speaker (the app's speakerPartnerNotes, d609a49d1): a run of joined partner notes keeps sounding
+# only when it's clear of every note you sing, ending 0.4 s before it or starting 0.15 s after it. The chords
+# rest either way, which a shanty can lose (they were sung unaccompanied); a dropped call or crew line can't.
+CALL_CLEAR_BEFORE, CALL_CLEAR_AFTER = 0.4, 0.15
+
+
+def speaker_drops(ex):
+    """How many partner notes a speaker drops in a `turn: false` step (a turn step has no partners)."""
+    if not ex.get("with"):
+        return 0
+    bs, target = 60 / ex["tempo"], ex["notes"]
+    until = min(n["beat"] for n in target)
+    lost = 0
+    for line in ex["with"]:
+        runs = []
+        for n in sorted((n for n in line["notes"] if n["beat"] >= until), key=lambda n: n["beat"]):
+            if runs and abs(end_of(runs[-1]) - n["beat"]) < 1e-6:
+                runs[-1].append(n)
+            else:
+                runs.append([n])
+        for run in runs:
+            a, z = run[0]["beat"] * bs, end_of(run) * bs
+            if not all(z <= t["beat"] * bs - CALL_CLEAR_BEFORE or a >= (t["beat"] + t["length"]) * bs + CALL_CLEAR_AFTER for t in target):
+                lost += len(run)
+    return lost
+
+
 def scored(step):
     return step["kind"] in ("play", "choose") and not step.get("exercise", {}).get("unscored")
 
@@ -207,7 +235,7 @@ def check(lid, unit, steps, headphones):
             for n in sung(ex):
                 assert LOW <= n["step"] <= HIGH, f"{where}: step {n['step']} at beat {n['beat']} is outside {LOW} to {HIGH}"
         if step["kind"] == "play":
-            under_you = under_you or bool(ex.get("with") or ex.get("under"))
+            under_you = under_you or bool(ex.get("under")) or speaker_drops(ex) > 0
             if "rhythm" in ex:
                 assert "score" not in ex, f"{where}: rhythm only on a default-scored step"
                 assert timed_moments(sung(ex), ex["tempo"]) >= 4, f"{where}: a rhythm step needs four timed moments"
@@ -215,7 +243,7 @@ def check(lid, unit, steps, headphones):
             if ex.get("score") == "entry":
                 assert len(judged_entries(sung(ex))) >= 3, f"{where}: an entry step needs three or more answers"
                 assert i != last, f"{where}: entry has no one-star floor, so it's never the lesson's last scored step"
-    assert under_you == headphones, f"sh-{lid}: headphones needed exactly where the crew or your takes sing under you"
+    assert under_you == headphones, f"sh-{lid}: headphones needed exactly where a speaker would drop the crew or your takes"
 
 
 def lesson(lid, unit, title, steps, **extra):
@@ -304,33 +332,33 @@ UNIT2_LESSONS = [
         learn("Now the beat: on a real rope, everyone pulled on the same word, or nothing moved. Aim the \"aw\" of \"haul\" at the beat, not the h.", [
             ("The vowel on the beat", "The \"aw\" of \"haul\", the \"oh\" of \"Joe\""),
             ("One strong pull", f"On \"Joe\", short and sung; {SAFE}"),
-            HEADPHONES,
+            SPEAKER_OK,
         ], "phrase"),
         with_crew("The chorus and a verse: the shantyman calls, you answer on the beat.",
                   J_ANSWERS, JOE.tempo, J_CALLS, BEAT, chords=JOE.chords_at(*J_SONG), rhythm=True),
-    ], headphones=True),
+    ]),
     lesson("2-hoist", 2, "The long hoist", [
         learn("A halyard shanty had two short answers, with a double pull in each. Same answers as before, now on the beat, slow first, then at the crew's pace.", [
             ("Two pulls an answer", "Together, on the beat"),
             ("Slow, then the crew's pace", f"Steady before fast; {SAFE}"),
-            HEADPHONES,
+            SPEAKER_OK,
         ], "phrase"),
         with_crew("Slow first: the call, then your two answers on the beat.",
                   B_ANSWERS, BLOW_SLOW, B_CALLS, BEAT, chords=BLOW.chords_at(*B_SONG), rhythm=True),
         with_crew("Now at the crew's pace.",
                   B_ANSWERS, BLOW.tempo, B_CALLS, BEAT, chords=BLOW.chords_at(*B_SONG), rhythm=True),
-    ], headphones=True),
+    ]),
     lesson("2-capstan", 2, "Walk it round", [
         learn("Leave Her, Johnny was a capstan shanty: no pull, the crew walked the capstan bars round and round, so the beat is your feet. It was sung coming into port.", [
             ("A steady walk", "Every answer in on the beat"),
             ("No pull here", f"Just walking, round and round; {SAFE}"),
-            HEADPHONES,
+            SPEAKER_OK,
         ], "phrase"),
         find("Find the chorus's notes: \"Leave her, Johnny, leave her\".", L_ANSWER1, LEAVE.tempo),
         with_crew("A verse: the shantyman sings, you answer each chorus on the beat.",
                   verse(LEAVE, L_VERSE, L_CHORUSES), LEAVE.tempo, LEAVE.calls(*L_VERSE, L_SOLOS), BEAT,
                   chords=LEAVE.chords_at(*L_VERSE), rhythm=True),
-    ], headphones=True),
+    ]),
 ]
 
 UNIT3_LESSONS = [
@@ -359,12 +387,12 @@ UNIT3_LESSONS = [
         learn("You lead a whole verse: you sing the shantyman's lines, and the guide's crew answers you in four parts.", [
             ("Your lines alone", "The crew comes in after you"),
             ("Breathe in their chorus", f"Then lead again; {SAFE}"),
-            HEADPHONES,
+            SPEAKER_OK,
         ], "phrase"),
         with_crew("A verse as the shantyman, the crew answering.",
                   verse(LEAVE, L_VERSE, L_SOLOS), LEAVE.tempo,
                   [p for p in LEAVE.crew(*L_VERSE)], PITCH, chords=LEAVE.chords_at(*L_VERSE), giveNote=True),
-    ], challenge=True, headphones=True),
+    ], challenge=True),
 ]
 
 course = {
