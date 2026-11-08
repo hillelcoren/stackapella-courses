@@ -29,10 +29,14 @@ def learn(headline, cards, visual, listen=None):
 
 
 def notes(seq, start=0, shift=0, lyrics=None):
-    """(length, step) pairs, or (length, step, lyric), from `start`, every step moved by `shift`."""
+    """(length, step) pairs, or (length, step, lyric), from `start`, every step moved by `shift`. A step of
+    None is a rest: the beat moves on and no note is written."""
     out, beat = [], start
     for item in seq:
         length, step = item[0], item[1]
+        if step is None:
+            beat += length
+            continue
         n = {"beat": beat, "length": length, "step": step + shift}
         if len(item) > 2 and item[2]:
             n["lyric"] = item[2]
@@ -330,9 +334,28 @@ def cp_2_challenge():
 # chords from the app's own template (server/database/templates/o-come-all-ye-faithful.json).
 _OC = json.load(open(OCOME_TEMPLATE))
 _OC_KEY = 7  # G
-OCOME = [(n["length"], n["pitch"] - 67, n.get("lyric")) for n in [p for p in _OC["parts"] if p["key"] == "soprano"][0]["guide"]["notes"] if n["beat"] < 33]
+# The template's own notes and rests, so the course breathes where the song does (its breaths are written
+# into the template): a gap between two notes is a rest, (length, None, None).
+OCOME, _at = [], 0
+for _n in [p for p in _OC["parts"] if p["key"] == "soprano"][0]["guide"]["notes"]:
+    if _n["beat"] >= 33:
+        continue
+    if _n["beat"] > _at:
+        OCOME.append((_n["beat"] - _at, None, None))
+    OCOME.append((_n["length"], _n["pitch"] - 67, _n.get("lyric")))
+    _at = _n["beat"] + _n["length"]
+assert 31 <= _at <= 32, _at  # the first two lines, ending by beat 32
+# The first line alone (to beat 16), for the descant's first half.
+OCOME_LINE1, _at = [], 0
+for _item in OCOME:
+    if _at >= 16:
+        break
+    OCOME_LINE1.append(_item)
+    _at += _item[0]
+while OCOME_LINE1 and OCOME_LINE1[-1][1] is None:
+    OCOME_LINE1.pop()
+assert sum(n[0] for n in OCOME_LINE1) <= 16
 OCOME_CHORDS = [(c["beat"], (c["root"] - _OC_KEY) % 12, c["quality"]) for c in _OC["chords"] if c["beat"] < 33]
-assert sum(n[0] for n in OCOME) == 32
 # An original descant (steps from the tune's do), written against those chords: every note a chord
 # tone, consonant with the tune, ending on do' over I after a breath. "Come ye" takes la over the tune's
 # do (a sixth, in contrary motion), never ti to do an octave above the tune's ti to do.
@@ -409,11 +432,11 @@ def cp_3_descant():
                   [("The tune below", "O Come, All Ye Faithful, with its chords"),
                    ("Your line above", "Long notes on \"ah\""),
                    ("Light, never loud", "Let the tune be heard through you")], "phrase",
-                  {"tempo": 80, "notes": notes(DESCANT_1, 0, OCOME_DO), "turn": False, "with": [{"notes": notes(OCOME[:12], 0, OCOME_DO)}], "chords": oc_chords(OCOME_DO, 0, 16)}),
+                  {"tempo": 80, "notes": notes(DESCANT_1, 0, OCOME_DO), "turn": False, "with": [{"notes": notes(OCOME_LINE1, 0, OCOME_DO)}], "chords": oc_chords(OCOME_DO, 0, 16)}),
             {"kind": "try", "text": EN("The descant, at your own pace."), "exercise": {"tempo": 80, "notes": notes(DESCANT_1, 0, OCOME_DO)}},
             {"kind": "play", "text": EN("After a bar, sing the descant over the tune and its chords."),
              "exercise": {"tempo": 80, "notes": [{"beat": 0, "length": 2, "step": 0, "listenOnly": True}] + notes(DESCANT_1, 4, OCOME_DO), "turn": False,
-                          "with": [{"notes": notes(OCOME[:12], 4, OCOME_DO)}], "chords": oc_chords(OCOME_DO, 4, 16)},
+                          "with": [{"notes": notes(OCOME_LINE1, 4, OCOME_DO)}], "chords": oc_chords(OCOME_DO, 4, 16)},
              "measures": EN("Scored on the descant's notes on pitch over the tune. Did you know? The best-known descant to this carol, by David Willcocks, appeared in 1961, over the \"Sing, choirs of angels\" verse.")},
         ],
     }
