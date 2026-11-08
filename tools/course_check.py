@@ -75,6 +75,64 @@ def template(song_id):
     return songs[song_id]
 
 
+# The course being checked's parts (steps.json courseParts), for its "yours" songs and byPart words.
+PARTS_NOW = None
+
+
+def course_parts(where, parts):
+    """A course's parts { template, choose, default }: the singer picks one, and "part": "yours" sings it."""
+    if not (isinstance(parts, dict) and set(parts) == {"template", "choose", "default"}):
+        problem(where, "parts is { template, choose, default }")
+        return None
+    t = template(parts["template"])
+    if t is None:
+        problem(where, f"parts' song '{parts['template']}' isn't one of the songs")
+        return None
+    keys = [p["key"] for p in t["parts"]]
+    choose = parts["choose"]
+    if not (isinstance(choose, list) and len(choose) >= 2 and len(set(choose)) == len(choose) and all(c in keys for c in choose)):
+        problem(where, f"parts' choose is two or more of {t['id']}'s parts")
+        return None
+    if parts["default"] not in choose:
+        problem(where, "parts' default is one of its choose")
+        return None
+    return {"template": t["id"], "choose": choose, "default": parts["default"]}
+
+
+def yours_fits(song_id):
+    """"part": "yours" is a song step of the course's own parts song."""
+    return PARTS_NOW is not None and PARTS_NOW["template"] == song_id
+
+
+def by_part_keys(where, value, what):
+    """byPart and textByPart are keyed by the course's parts other than its default (whose words are the step's own)."""
+    if PARTS_NOW is None:
+        problem(where, f"{what} needs the course's parts")
+        return []
+    if not (isinstance(value, dict) and value and set(value) <= set(PARTS_NOW["choose"]) - {PARTS_NOW["default"]}):
+        problem(where, f"{what} is keyed by the course's parts other than its default")
+        return []
+    text = json.dumps(value, ensure_ascii=False)
+    if "\u2014" in text or STARS.search(text):
+        problem(where, f"{what} has an em dash or a star")
+    return list(value.items())
+
+
+def by_part(where, value):
+    for part, words in by_part_keys(where, value, "byPart"):
+        cards = words.get("steps") if isinstance(words, dict) else None
+        if not (isinstance(words, dict) and set(words) == {"headline", "steps"} and is_words(words["headline"])
+                and isinstance(cards, list) and 1 <= len(cards) <= 3
+                and all(isinstance(c, dict) and set(c) == {"title", "detail"} and is_words(c["title"]) and is_words(c["detail"]) for c in cards)):
+            problem(where, f"byPart {part} is {{ headline, steps: [{{ title, detail }}] }}, one to three cards")
+
+
+def text_by_part(where, value):
+    for part, words in by_part_keys(where, value, "textByPart"):
+        if not is_words(words):
+            problem(where, f"textByPart {part} is words")
+
+
 def song(where, s):
     """An exercise's notes from a song: { template, part, phrases, with? }."""
     if not isinstance(s, dict):
@@ -85,7 +143,10 @@ def song(where, s):
     if t is None:
         problem(where, f"song '{s.get('template')}' isn't one of the songs")
         return
-    if s.get("part") not in {p["key"] for p in t["parts"]}:
+    if s.get("part") == "yours":
+        if not yours_fits(t["id"]):
+            problem(where, f"part 'yours' needs the course's parts, for '{t['id']}'")
+    elif s.get("part") not in {p["key"] for p in t["parts"]}:
         problem(where, f"song '{t['id']}' has no part '{s.get('part')}'")
     count = sum(len(section["phrases"]) for section in t["sections"])
     phrases = s.get("phrases")
@@ -316,6 +377,8 @@ def course(path, seen, clip_ids, unplayable, facts):
     data = json.loads(path.read_text())
     name = path.relative_to(ROOT / "course")
     known(str(name), data, FORMAT["course"])
+    global PARTS_NOW
+    PARTS_NOW = course_parts(str(name), data["parts"]) if "parts" in data else None
     if "game" in data:
         game_rules(str(name), data["game"])
     if "dailyCap" in data:
@@ -402,6 +465,12 @@ def check_steps(where, steps, path, clip_ids, kept):
             problem(at, f"unknown step kind '{step.get('kind')}'")
             continue
         known(at, step, kind["fields"])
+        if step.get("part") == "yours" and not yours_fits(step.get("template")):
+            problem(at, "a record step's part 'yours' needs the course's parts, for its song")
+        if "byPart" in step:
+            by_part(at, step["byPart"])
+        if "textByPart" in step:
+            text_by_part(at, step["textByPart"])
         if "template" in step and template(step["template"]) is None:
             problem(at, f"song '{step['template']}' isn't one of the songs")
         if "courseSong" in step:

@@ -15,7 +15,12 @@ OUT = REPO / "course/plus/choir-part/course.json"
 
 BANNED = re.compile(r"\b(stars?|starring|christmas|carols?|advent|festive|season)\b|—", re.I)
 SONG = "o-come-all-ye-faithful"
-PART = "alto"
+# The singer picks their part (docs/courses/choir-part-sections-plan.md): every song step sings "yours",
+# the app resolving it to the pick. A step's own words are the default part's (alto); BY_PART's soprano,
+# tenor and bass words replace them where a card speaks about the part's own notes.
+PART = "yours"
+PARTS = ["soprano", "alto", "tenor", "bass"]
+DEFAULT = "alto"
 TEMPO = 94
 NOTES = "Scored on the notes."
 SAFETY = "Sing at an easy, medium-soft volume, not a whisper. If a note sits too high or low, sing it lightly, never louder. Stop if anything tightens or hurts."
@@ -37,10 +42,14 @@ def song(phrases, others=False):
     return spec
 
 
-def learn(headline, cards, visual="harmony", listen=None):
+def learn(headline, cards, visual="harmony", listen=None, by_part=None):
+    """by_part: {part: (headline, cards)} for the parts whose words differ from the default's."""
     step = {"kind": "learn", "headline": EN(headline), "steps": [card(*c) for c in cards], "visual": visual, "reviewed": False}
     if listen:
         step["listen"] = listen
+    if by_part:
+        assert set(by_part) <= set(PARTS) - {DEFAULT}, by_part.keys()
+        step["byPart"] = {p: {"headline": EN(h), "steps": [card(*c) for c in cs]} for p, (h, cs) in by_part.items()}
     return step
 
 
@@ -52,7 +61,7 @@ def hear(phrases, others=False, tempo=None):
     return listen
 
 
-def sing(text, phrases, *, others=False, turn=False, guide=True, tempo=None, measures=NOTES, kind="play", **extra):
+def sing(text, phrases, *, others=False, turn=False, guide=True, tempo=None, measures=NOTES, kind="play", text_by_part=None, **extra):
     exercise = {"song": song(phrases, others), "turn": turn}
     if tempo:
         exercise["tempo"] = tempo
@@ -60,6 +69,9 @@ def sing(text, phrases, *, others=False, turn=False, guide=True, tempo=None, mea
         exercise["guide"] = False
     exercise.update(extra)
     step = {"kind": kind, "text": EN(text), "exercise": exercise}
+    if text_by_part:
+        assert set(text_by_part) <= set(PARTS) - {DEFAULT}, text_by_part.keys()
+        step["textByPart"] = {p: EN(t) for p, t in text_by_part.items()}
     if kind == "play":
         step["measures"] = EN(measures)
     return step
@@ -99,13 +111,26 @@ UNIT1 = {
         lesson("1-hear", "Hear your line", [
             learn("Learn a choir part the way it sticks: hear it in the whole sound, then on its own, then sing it with the others.", [
                 ("Hear everyone first", "The start of the song, every part"),
-                ("Any voice", "You'll practise on the alto line, set in your own range. The last lesson shows you how to learn your own part."),
+                ("Your part", "Pick soprano, alto, tenor or bass: it's set in your own range, and you can change it any time"),
                 ("Sing easy", SAFETY),
             ], listen=hear([0, 1], others=True)),
             learn("Now the alto on its own. Follow the words.", [
                 ("Its shape", "It starts low and holds, then climbs"),
                 ("Under the tune", "Most of the way you sit under the tune. Lost? Find the tune and stay under it."),
-            ], listen=hear([0, 1])),
+            ], listen=hear([0, 1]), by_part={
+                "soprano": ("Now the soprano on its own: the tune. Follow the words.", [
+                    ("Its shape", "It starts on home, dips low on \"all\", then climbs to \"triumphant\""),
+                    ("On top", "You carry the tune, the line the others fit around. Lost? Come back in at the next line."),
+                ]),
+                "tenor": ("Now the tenor on its own. Follow the words.", [
+                    ("Its shape", "It starts low and holds, climbs to \"faithful\", then stays on that note through most of \"joyful and triumphant\""),
+                    ("Between alto and bass", "Most of the way you sit under the alto and over the bass. Lost? Find the bass and stay above it."),
+                ]),
+                "bass": ("Now the bass on its own. Follow the words.", [
+                    ("Its shape", "It climbs to \"faithful\", then jumps about on \"joyful and triumphant\""),
+                    ("At the bottom", "You're the lowest line, often on the chord's home note. Lost? Listen for the chord and find its bottom note."),
+                ]),
+            }),
             wait_for_me("Find the notes of line 1: each one waits until you're on it.", [0]),
             sing("Sing lines 1 and 2 with the guide and the other parts around you.", [0, 1], others=True, generous=True, keep="choir-part.first",
                  measures="Scored on the notes. Listen back: could you hear your line inside the chords?"),
@@ -115,7 +140,16 @@ UNIT1 = {
                 ("The chord, then your note", "Hear the chord's bottom, middle and top notes, then sing the one asked for"),
                 ("The alto here", "It starts on the chord's middle note, below the tune"),
                 ("Think before you sing", "Hear the note in your head first, then start right on it"),
-            ], visual="echo"),
+            ], visual="echo", by_part={
+                p: ("At rehearsal the pianist plays a chord, and you find your note in it.", [
+                    ("The chord, then your note", "Hear the chord's bottom, middle and top notes, then sing the one asked for"),
+                    (f"The {p} here", where),
+                    ("Think before you sing", "Hear the note in your head first, then start right on it"),
+                ]) for p, where in [
+                    ("soprano", "It starts on the chord's bottom note, home, on top of the sound"),
+                    ("tenor", "It starts on the chord's bottom note, home, an octave under the tune"),
+                    ("bass", "It starts on the chord's bottom note, home, the lowest note in the sound"),
+                ]}),
             {"kind": "bullseye", "text": EN("Hear the chord's three notes, then sing the one asked for: the middle note, the top note, then the bottom one."),
              "exercise": {"tempo": 72, "think": 1, "echoes": [from_the_chord(0, 1), from_the_chord(-3, 2), from_the_chord(2, 0)]}},
             sing("Now line 1 starting cold: no guide, the other parts on. Give me my note is there if you need it.", [0], others=True, guide=False, giveNote=True),
@@ -125,7 +159,14 @@ UNIT1 = {
                 ("Where it holds", "Three notes the same, then up"),
                 ("Above the tune", "At \"faithful\" your line ends above the tune. Hold your note."),
                 ("Mark your breaths", "Pencil in your score where you'll breathe, so you never run out mid-line"),
-            ], visual="phrase"),
+            ], visual="phrase", by_part={
+                p: ("In a choir score your line is one of four. Find it, follow it with the words, and see where it climbs and where it holds.", [
+                    a, b, ("Mark your breaths", "Pencil in your score where you'll breathe, so you never run out mid-line"),
+                ]) for p, a, b in [
+                    ("soprano", ("Where it moves", "Two notes the same, then down to \"all\" and back up"), ("Low at the end", "At \"faithful\" the tune falls to its lowest note. Land it lightly.")),
+                    ("tenor", ("Where it holds", "Three notes the same, then up"), ("Meet the tune", "At \"faithful\" your line lands on the same note as the tune. Hold your note.")),
+                    ("bass", ("Where it holds", "Two notes the same, two more the same, then up a step at a time"), ("Up to \"faithful\"", "Your line climbs to \"faithful\". Hold your note.")),
+                ]}),
             sing("Read line 1 on the stave and sing it with the guide.", [0], staff={"names": "on", "look": 4}),
             sing("Line 2, the names fainter now: read it and sing it with the guide.", [1], staff={"names": "faint", "look": 4}),
         ], strictness="relaxed"),
@@ -153,9 +194,21 @@ UNIT2 = {
                 ("What makes a bar hard", "A jump, a note from outside the key, or your line moving while the others hold"),
                 ("This one", "On \"Bethlehem\" the alto slips down a half step to a note from outside the key, though earlier in the same line \"O\" and \"to\" use the plain note a half step lower. Then it leaps up a fourth to a long note above the tune."),
                 ("Slow it right down", "Same notes, same pitch, much slower. Breathe quickly after \"O come ye,\" and keep it easy."),
-            ], visual="phrase", listen=hear([2], tempo=60)),
+            ], visual="phrase", listen=hear([2], tempo=60), by_part={
+                p: ("Most of a part comes easily. A few bars don't: give them the time.", [
+                    ("What makes a bar hard", "A jump, a note from outside the key, or your line moving while the others hold"),
+                    ("This one", this),
+                    ("Slow it right down", "Same notes, same pitch, much slower. Breathe quickly after \"O come ye,\" and keep it easy."),
+                ]) for p, this in [
+                    ("soprano", "The line climbs a step at a time to \"Beth-\", then the tune drops a fourth on \"-le-\" and steps down to a long low note on \"-hem\"."),
+                    ("tenor", "On \"to\" the tenor dips a third to a low note, climbs back on \"Bethlehem\", then holds \"-hem\" for almost five beats. Keep it steady to the end."),
+                    ("bass", "The line rocks a step up and down, then \"Bethlehem\" jumps: up a third, down a fourth, then up a fourth to a long note."),
+                ]}),
             wait_for_me("Line 3, slowly: each note waits until you're on it.", [2], tempo=60),
-            sing("Line 3 slowly on the stave, with the guide: watch for the note from outside the key.", [2], tempo=60, staff={"names": "on", "look": 4}),
+            sing("Line 3 slowly on the stave, with the guide: watch for the note from outside the key.", [2], tempo=60, staff={"names": "on", "look": 4},
+                 text_by_part={"soprano": "Line 3 slowly on the stave, with the guide: watch for the drop on \"Bethlehem\".",
+                               "tenor": "Line 3 slowly on the stave, with the guide: watch the dip on \"to\" and the long last note.",
+                               "bass": "Line 3 slowly on the stave, with the guide: watch the jumps on \"Bethlehem\"."}),
         ]),
         lesson("2-speed", "Up to speed", [
             learn("Slow and clean first, then a little faster each time. A bar you can sing slowly comes at speed; a bar you always rush never does.", [
@@ -180,7 +233,20 @@ UNIT3 = {
             learn("The three \"O come, let us adore him\" lines share the words and the same three notes, in a different order each time. The first ends low, the second ends high, and the third goes on to \"Christ the Lord\".", [
                 ("Not the tune", "Meanwhile the tune climbs, so you can't just follow it"),
                 ("The rests", "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"),
-            ], listen=hear([4, 5, 6])),
+            ], listen=hear([4, 5, 6]), by_part={
+                "soprano": ("The three \"O come, let us adore him\" lines climb: the second is much the same shape a third higher, and the third starts higher still, then steps down to \"Christ the Lord\".", [
+                    ("Lead the climb", "The parts under you move less; the climb is yours"),
+                    ("The rests", "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"),
+                ]),
+                "tenor": ("The three \"O come, let us adore him\" lines are each different for you: the first leaps up a fifth on \"us\", the second stays almost on one note, and the third stays near it, then falls to \"Lord\".", [
+                    ("Not the tune", "Meanwhile the tune climbs, so you can't just follow it"),
+                    ("The rests", "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"),
+                ]),
+                "bass": ("The three \"O come, let us adore him\" lines jump for you: the second starts a whole octave above the note the first ended on, then zigzags down and up.", [
+                    ("Hear the jump first", "Before line 6, hear its first note in your head: an octave above your last \"him\""),
+                    ("The rests", "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"),
+                ]),
+            }),
             sing("Hear line 5, a little slower, then sing it back.", [4], turn=True, tempo=72),
             sing("Line 6 on the stave, a little slower, with the guide: spot what changed.", [5], tempo=72, staff={"names": "faint", "look": 4}),
             sing("The whole refrain at speed, with the guide and the other parts.", [4, 5, 6], others=True),
@@ -190,7 +256,16 @@ UNIT3 = {
                 ("Breathe first", "Breathe after \"adore him,\" then sing \"Christ the Lord\" in one breath"),
                 ("Slowly, then faster", "With the guide, then without"),
                 ("Ring the last chord", "Your long low note is the chord's middle note: listen for it to settle"),
-            ], visual="phrase"),
+            ], visual="phrase", by_part={
+                p: (head, [
+                    ("Breathe first", "Breathe after \"adore him,\" then sing \"Christ the Lord\" in one breath"),
+                    ("Slowly, then faster", "With the guide, then without"),
+                    ("Ring the last chord", ring),
+                ]) for p, head, ring in [
+                    ("soprano", "The last line climbs a fourth to \"Christ\", then steps down through \"the Lord\" to a long note on home.", "Your long last note is the chord's bottom note, home: listen for it to settle"),
+                    ("tenor", "The last line stays put: \"him, Christ the\" on one note, then down a fourth to \"Lord\", your lowest note, held long.", "Your long low note is the chord's top note, sung low: listen for it to settle"),
+                    ("bass", "The last line moves down a third to \"Christ\", up a step to \"the\", then down a fifth inside \"Lord\" to a long low note.", "Your long low note is the chord's bottom note, home: listen for the others to settle on it"),
+                ]}),
             sing("Hear the last line slowly, then sing it back.", [6], turn=True, tempo=60),
             sing("The last line a little faster, with the guide and the chords.", [6], tempo=84, tuning=True),
             sing("The last line at speed, the guide off, the other parts on.", [6], others=True, guide=False, giveNote=True),
@@ -236,7 +311,7 @@ UNIT4 = {
                 ("Choir groups", "If your director uses Stackapella, a choir group puts the choir's songs in one place, with your part already picked."),
             ]),
             sing("First, the two lines you began with, now on your own. Then hear how far you've come.", [0, 1], others=True, guide=False, giveNote=True, thenAndNow="choir-part.first"),
-            {"kind": "record", "text": EN("The dress rehearsal: record the alto in Sing, with the other three parts around you."),
+            {"kind": "record", "text": EN("The dress rehearsal: record your part in Sing, with the other three parts around you."),
              "template": SONG, "singers": 4, "part": PART, "measures": EN("Scored on the notes of your recording.")},
         ], challenge=True),
     ],
@@ -247,6 +322,7 @@ course = {
     "version": 1,
     "reviewed": False,
     "title": EN("Learn your part for rehearsal"),
+    "parts": {"template": SONG, "choose": PARTS, "default": DEFAULT},
     "units": [UNIT1, UNIT2, UNIT3, UNIT4],
 }
 

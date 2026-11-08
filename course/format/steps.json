@@ -22,7 +22,8 @@
         "title",
         "units",
         "game",
-        "dailyCap"
+        "dailyCap",
+        "parts"
     ],
     "unit": [
         "id",
@@ -84,7 +85,8 @@
                 "steps",
                 "visual",
                 "listen",
-                "reviewed"
+                "reviewed",
+                "byPart"
             ],
             "about": "A headline, up to three cards, a picture; may play an example (listen: an exercise)"
         },
@@ -94,7 +96,8 @@
             "fields": [
                 "kind",
                 "text",
-                "exercise"
+                "exercise",
+                "textByPart"
             ],
             "exercise": "play",
             "about": "Wait for me: each note plays and waits until it's found; unscored"
@@ -106,7 +109,8 @@
                 "kind",
                 "text",
                 "exercise",
-                "measures"
+                "measures",
+                "textByPart"
             ],
             "exercise": "play",
             "about": "Hear it, then sing it back (turn: true), or sing over a drone or chords (turn: false); scored"
@@ -116,7 +120,8 @@
             "flutter": "unknown",
             "fields": [
                 "kind",
-                "text"
+                "text",
+                "textByPart"
             ],
             "about": "Finds the learner's comfortable note"
         },
@@ -129,7 +134,8 @@
                 "template",
                 "part",
                 "singers",
-                "phrases"
+                "phrases",
+                "textByPart"
             ],
             "about": "Opens a song in Sing; done after 20 seconds sung"
         },
@@ -143,7 +149,8 @@
                 "courseSong",
                 "part",
                 "singers",
-                "measures"
+                "measures",
+                "textByPart"
             ],
             "about": "Records a part in Sing; scored on pitch. The song is a template (a free or library song), or a Plus course's own (`courseSong`: songs/<id>.json in the course's folder, a template file whose id is <id>)"
         },
@@ -154,7 +161,8 @@
                 "kind",
                 "text",
                 "exercise",
-                "measures"
+                "measures",
+                "textByPart"
             ],
             "exercise": [
                 "tempo",
@@ -181,7 +189,8 @@
                 "kind",
                 "text",
                 "exercise",
-                "measures"
+                "measures",
+                "textByPart"
             ],
             "exercise": [
                 "tempo",
@@ -198,7 +207,8 @@
                 "kind",
                 "text",
                 "exercise",
-                "measures"
+                "measures",
+                "textByPart"
             ],
             "exercise": [
                 "tempo",
@@ -218,7 +228,8 @@
                 "kind",
                 "text",
                 "exercise",
-                "measures"
+                "measures",
+                "textByPart"
             ],
             "exercise": [
                 "tempo",
@@ -245,7 +256,8 @@
                 "kind",
                 "text",
                 "exercise",
-                "measures"
+                "measures",
+                "textByPart"
             ],
             "exercise": [
                 "step",
@@ -399,5 +411,6 @@
     "lessonVariants": "variants: { \"<experiment id>-<arm>\": { steps, minutes? } }: in an A/B test (docs/experiments.md), a device drawn into that arm gets these steps in place of the lesson's; everything else (id, title, findsHome) stays the lesson's, and arm a or a device not drawn gets the lesson as written. The id must be in course/format/experiments.json. Removing the losing arm is deleting the variant, or moving its steps into the lesson.",
     "courseGame": "game: optional, game mode's rules for this course (First steps to belting's voice-health review: no game pressure); every field optional, absent = as everywhere. replayXp: false = a lesson already starred pays no XP when sung again (the first finish pays as usual); combo: false = no combo counter, bonus pop-ups or combo bonus XP on its steps; streak: false = its lesson ends show no streak chip and no Streak! burst; meter: \"plain\" (its only value) = its takes keep the plain bars, never game mode's power-bar or level-meter look. The lesson view applies them as one of the course's lessons opens and drops them as it closes, so every other course keeps everything.",
     "lessonQuiet": "quiet: true = game mode's moments off for this lesson (no pop-ups, fanfares, title card or celebration); the arcade look stays. Optional, absent = false (First steps to belting's spiritual line).",
-    "courseDailyCap": "dailyCap: { minutes }: the course's lessons stop for the day after that many minutes (a whole number, 1 to 60), checked only as a lesson opens and counted only while one of its lessons is open and on screen, kept per day with the account (progress.courses.<id>.capDay); then the rest card (en.json course.dailyCap.*, which names belting: a second capped course needs its own words). First steps to belting: { \"minutes\": 10 }."
+    "courseDailyCap": "dailyCap: { minutes }: the course's lessons stop for the day after that many minutes (a whole number, 1 to 60), checked only as a lesson opens and counted only while one of its lessons is open and on screen, kept per day with the account (progress.courses.<id>.capDay); then the rest card (en.json course.dailyCap.*, which names belting: a second capped course needs its own words). First steps to belting: { \"minutes\": 10 }.",
+    "courseParts": "parts: { template, choose, default }: the singer picks one of the template's parts (choose, in score order; default when nothing is known; the app suggests one from the singer's range) and the pick is kept per course (progress.courses.<id>.personal.part). Then \"part\": \"yours\" in a song spec (exercise.song, listen.song) or a record step sings the pick; a learn step's byPart { <part>: { headline, steps } } and a sung step's textByPart { <part>: words } replace that step's own words for the picked part (whole: every card written out), the step's own words being the default part's. Then and now keeps a first take per part. Learn your part for rehearsal (docs/courses/choir-part-sections-plan.md in the app's repo)."
 }
