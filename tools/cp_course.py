@@ -670,7 +670,7 @@ def cp_5_yours():
         "id": "cp-5-yours", "title": EN("Your choice"),
         "fact": {"id": "beethoven-permits-fifths", "text": {"en": "When his pupil Ferdinand Ries showed him parallel fifths in one of his early quartets, Beethoven asked who forbade them. Told \"all theorists\", he answered, \"Well, then, I permit them.\""}, "source": {"en": "Ries, in Wegeler and Ries's Notizen, printed in Schindler, The Life of Beethoven, ed. Moscheles (1841), Project Gutenberg"}, "url": "https://www.gutenberg.org/files/39093/39093.txt"},
         "steps": [
-            learn("Now you choose. At each cantus note, every smooth note in your range lights up: sing any one of them.",
+            learn("Now you choose. At each cantus note, every smooth note in your range is shown: sing any one of them.",
                   [("Every lit note works", "Thirds, fifths, sixths and octaves"),
                    ("Move against it", "Opposite ways, as often as you can"),
                    ("A dimmed note", "It would make parallel or direct fifths (both voices moving the same way into a fifth or octave), or an awkward leap")], "harmony",

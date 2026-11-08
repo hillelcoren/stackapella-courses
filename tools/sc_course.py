@@ -195,7 +195,7 @@ def sc_1_trade():
         "steps": [
             learn("Scat is singing like a horn on syllables. The band plays a call; you answer it. No wrong notes here: where you choose, every lit note fits.",
                   [("The call", "Two bars from the band"), ("Your echo", "The same two bars back"), ("Your last note", "Any lit note: one that sounds at rest")]),
-            play("Echo one call, the syllables on screen.", exercise(try_notes, try_names), None, kind="try"),
+            play("Echo one call, its syllables written out.", exercise(try_notes, try_names), None, kind="try"),
             play(f"Four trades. End each on any lit note, a different one each time if you like. {SAFETY}",
                  first_trades(keep="sc.first-trade", generous=True), LANDED),
         ],

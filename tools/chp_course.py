@@ -118,7 +118,7 @@ UNIT1 = {
             ], visual="echo"),
             {"kind": "bullseye", "text": EN("Hear the chord's three notes, then sing the one asked for: the middle note, the top note, then the bottom one."),
              "exercise": {"tempo": 72, "think": 1, "echoes": [from_the_chord(0, 1), from_the_chord(-3, 2), from_the_chord(2, 0)]}},
-            sing("Now line 1 starting cold: no guide, the other parts on. Tap Give me my note if you need it.", [0], others=True, guide=False, giveNote=True),
+            sing("Now line 1 starting cold: no guide, the other parts on. Give me my note is there if you need it.", [0], others=True, guide=False, giveNote=True),
         ], strictness="relaxed"),
         lesson("1-page", "Your line on the page", [
             learn("In a choir score your line is one of four. Find it, follow it with the words, and see where it climbs and where it holds.", [

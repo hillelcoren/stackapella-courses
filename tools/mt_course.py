@@ -147,7 +147,7 @@ def mt_1_speak():
         "steps": [
             learn("In a show, a song is the moment speaking isn't enough. Buttercup is selling her wares to a ship full of sailors: say her line, then sing it.",
                   [("Say it", "In rhythm, as you'd tell it"), ("Sing it", "The same words, now on the notes"), ("Easy does it", SAFETY)]),
-            play("Speak the line in rhythm, words on screen. No notes yet: just say it as Buttercup would.", {"tempo": 88, "notes": line, "turn": False}, None, kind="try"),
+            play("Speak the line in rhythm, the words in front of you. No notes yet: just say it as Buttercup would.", {"tempo": 88, "notes": line, "turn": False}, None, kind="try"),
             play("Now sing it over the chords. Keep it sounding like you talking.", do,
                  "Scored on your notes on pitch and on the beat. Listen back: did it still sound like you telling someone?"),
         ],
@@ -259,7 +259,7 @@ def mt_2_consonants():
             learn("Put the consonant just before the beat, so the vowel lands on it. The app hears the vowel; so does the audience.",
                   [("Consonant early", "A hair before the beat"), ("Vowel on the beat", "That's the note"), ("Loose jaw", "Small, quick, easy")]),
             play("The line on the beat, consonants just ahead.", {"tempo": 66, "notes": one, "turn": True}, "Scored on your notes on pitch and on the beat."),
-            selfcheck("Once more, then play it back with the words on screen.", one,
+            selfcheck("Once more, then play it back with the words shown.", one,
                       ["Which word got lost, if any?", "Did your jaw stay loose?"], 66),
         ],
     }
