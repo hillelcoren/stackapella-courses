@@ -35,6 +35,7 @@ SAFE_CARD = ("Soft lips, an easy jaw", f"A gentle stream of air; {SAFE}")
 PITCH = "Scored on your notes on pitch."
 LANDS = "Scored on where each note lands from its first sound."
 STEADY = "Scored on the note staying where it started."
+HELD = "Scored on the note, held to its end."
 RIBBON = "Scored on following the ribbon."
 BEAT = "Scored on your notes on pitch and on the beat."
 CHOSE = "Scored on the rounds you got right first time."
@@ -120,6 +121,12 @@ def play(text, notes, measures, *, tempo=72, chords=None, **extra):
 def lane(text, target, measures, **extra):
     return {"kind": "wave", "text": EN(text), "exercise": {"tempo": 60, "lead": 2, "step": 0, "lyric": "oo", "combo": False, **W, "target": target, **extra},
             "measures": EN(measures)}
+
+
+def held(text, beats=4, **extra):
+    """A held note, heard then whistled, scored on its pitch: the lane's straight-tone target scored a beginner's slow
+    wobble as nothing (the beginner simulation, as in Humming), and a steady whistle is the skill, not a pure one."""
+    return play(text, N(f"0:{beats}"), HELD, tempo=60, **extra)
 
 
 def choose(text, rounds, tempo=72):
@@ -256,7 +263,7 @@ UNIT1 = [
         ]),
         play("Your note, held for four beats.", N("0:4"), STEADY, tempo=60, score="drift"),
         selfcheck("Once more, then hear yourself.", N("0:4"), ["Clear or breathy?", "Did it wobble at the start?"]),
-        lane("Hold it on the lane: a straight line, start to end.", [{"seconds": 5, "kind": "straight"}], "Scored on how straight the note stayed."),
+        held("Hold it once more, start to end."),
     ]),
     lesson("1-start", 1, "A clean start", [
         learn("Start each note with a soft \"h\", the shape already set, so the note is there from its first sound.", [
@@ -266,7 +273,7 @@ UNIT1 = [
         {"kind": "bullseye", "text": EN("Whistle each note back, and watch where it lands."),
          "exercise": {"tempo": 72, **W, "echoes": [0, 1, -1]}, "measures": EN(LANDS)},
         play("Four short notes, a rest before each: on the note from the first sound.", STARTS, LANDS, score="landing"),
-        lane("Then one long one, held.", [{"seconds": 4, "kind": "straight"}], "Scored on how straight the note stayed."),
+        held("Then one long one, started clean and held."),
     ]),
     lesson("1-challenge", 1, "Hot Cross Buns", [
         learn("Three notes and a tune: your note and the two just above it, each started clean.", [
@@ -407,7 +414,7 @@ UNIT4 = [
             ("Tongue, not air", "The tongue makes the wave"),
         ]),
         lane("Follow the slow wave, with the ghost wave fading out.", [{"seconds": 6, "kind": "wave", "hz": 3, "cents": 60, "fade": 2}], "Scored on following the wave."),
-        lane("Now a straight note, held: as good as any wave.", [{"seconds": 5, "kind": "straight"}], "Scored on how straight the note stayed."),
+        held("Now a plain note, held: as good as any wave."),
     ]),
     lesson("4-challenge", 4, "The Water Is Wide", [
         learn("A whole tune, then a second whistle under it, kept as a song. Then your first whistle, beside today's.", [
@@ -417,7 +424,7 @@ UNIT4 = [
         ]),
         play("The first verse, over the chords.", WATER_V, PITCH, tempo=76, chords=WATER_V_CHORDS),
         play("Now a low line under your own tune: two notes, held.", N("-5:12 -3:12 -5:12 -5:12"), PITCH, tempo=76, chords=WATER_V_CHORDS, under={"step": 1}),
-        lane("One last note, held: your whistle today.", [{"seconds": 5, "kind": "straight"}], "Scored on how straight the note stayed.", thenAndNow=KEEP),
+        held("One last note, held: your whistle today.", thenAndNow=KEEP),
     ], challenge=True, headphones="needed",
        keepSong={"title": EN("My whistled tune"), "takes": [{"step": 1, "name": EN("Tune")}, {"step": 2, "name": EN("Under")}], "from": 1, "partners": [], "chords": EN("Piano")}),
 ]
