@@ -1,0 +1,1276 @@
+{
+    "id": "whistling",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Whistling"},
+    "units": [
+        {
+            "id": "wh-your-whistle",
+            "title": {"en": "Your whistle"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "wh-1-find",
+                    "title": {"en": "Find your whistle"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Wet your lips and make a small, soft \"oo\" shape. Rest your tongue tip behind your bottom teeth, and blow slowly, as if cooling soup. Change the opening and your tongue a little at a time until a note comes."},
+                            "steps": [
+                                {"title": {"en": "A hiss with a faint note is the start"}, "detail": {"en": "For many people it takes a few days, not a minute"}},
+                                {"title": {"en": "Breathing in can find it"}, "detail": {"en": "Some find their first note whistling in; then whistle out"}},
+                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Blow gently until the dot appears. Breathy is fine: the app hears the note, not how clear it is."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "target": [{"seconds": 10, "kind": "free", "scored": false}]
+                            },
+                            "measures": {"en": "Not scored: just find the note."}
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Two whistles. Listen to both, then choose."},
+                            "exercise": {
+                                "tempo": 72,
+                                "whistle": true,
+                                "base": "whistle",
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which whistle held steady?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 0, "lyric": "oo"}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 0, "lyric": "oo", "style": "fall"}]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The first stayed on its note. The second sagged at the end."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which whistle held steady?"},
+                                        "clips": [
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 0, "lyric": "oo", "style": "fall"}]
+                                            },
+                                            {
+                                                "notes": [{"beat": 0, "length": 3, "step": 0, "lyric": "oo"}]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The second held; the first drooped as its air ran out."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Whistle any comfortable note and hold it for a few seconds. The line is only a guide."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "target": [{"seconds": 5, "kind": "straight"}],
+                                "score": "whistleNote",
+                                "keep": "whistling.first-whistle"
+                            },
+                            "measures": {"en": "Scored on finding a steady whistle: any comfortable note counts."}
+                        }
+                    ]
+                },
+                {
+                    "id": "wh-1-steady",
+                    "title": {"en": "Hold it steady"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Your whistle note, held. Keep the air steady and the tongue still, and the note stays put."},
+                            "steps": [
+                                {"title": {"en": "Steady air"}, "detail": {"en": "A slow, even stream"}},
+                                {"title": {"en": "A still tongue"}, "detail": {"en": "The tongue moves the note: keep it where it is"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Your note, held for four beats."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "oo"}],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle",
+                                "score": "drift"
+                            },
+                            "measures": {"en": "Scored on the note staying where it started."}
+                        },
+                        {
+                            "kind": "selfcheck",
+                            "text": {"en": "Once more, then hear yourself."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "whistle": true,
+                                "base": "whistle",
+                                "model": {
+                                    "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "oo"}]
+                                },
+                                "questions": [{"en": "Clear or breathy?"}, {"en": "Did it wobble at the start?"}]
+                            }
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Hold it on the lane: a straight line, start to end."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "target": [{"seconds": 5, "kind": "straight"}]
+                            },
+                            "measures": {"en": "Scored on how straight the note stayed."}
+                        }
+                    ]
+                },
+                {
+                    "id": "wh-1-start",
+                    "title": {"en": "A clean start"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Start each note with a soft \"h\", the shape already set, so the note is there from its first sound."},
+                            "steps": [
+                                {"title": {"en": "A soft h"}, "detail": {"en": "The shape first, then the air"}},
+                                {"title": {"en": "On the note at once"}, "detail": {"en": "No slide up into it"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "bullseye",
+                            "text": {"en": "Whistle each note back, and watch where it lands."},
+                            "exercise": {
+                                "tempo": 72,
+                                "whistle": true,
+                                "base": "whistle",
+                                "echoes": [0, 1, -1]
+                            },
+                            "measures": {"en": "Scored on where each note lands from its first sound."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Four short notes, a rest before each: on the note from the first sound."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 4, "length": 1, "step": -1, "lyric": "oo"},
+                                    {"beat": 6, "length": 2, "step": 0, "lyric": "oo"}
+                                ],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle",
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on where each note lands from its first sound."}
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Then one long one, held."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "target": [{"seconds": 4, "kind": "straight"}]
+                            },
+                            "measures": {"en": "Scored on how straight the note stayed."}
+                        }
+                    ]
+                },
+                {
+                    "id": "wh-1-challenge",
+                    "title": {"en": "Hot Cross Buns"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Three notes and a tune: your note and the two just above it, each started clean."},
+                            "steps": [
+                                {"title": {"en": "Three notes"}, "detail": {"en": "Down, down, then the quick ones"}},
+                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole tune, heard then whistled."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 2, "length": 2, "step": 0, "lyric": "oo"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 5, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 6, "length": 2, "step": 0, "lyric": "oo"},
+                                    {"beat": 8, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 8.5, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 9, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 9.5, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 10, "length": 0.5, "step": 1, "lyric": "oo"},
+                                    {"beat": 10.5, "length": 0.5, "step": 1, "lyric": "oo"},
+                                    {"beat": 11, "length": 0.5, "step": 1, "lyric": "oo"},
+                                    {"beat": 11.5, "length": 0.5, "step": 1, "lyric": "oo"},
+                                    {"beat": 12, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 13, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 14, "length": 2, "step": 0, "lyric": "oo"}
+                                ],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "wh-the-tongue",
+            "title": {"en": "The tongue"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "wh-2-step",
+                    "title": {"en": "The next note up"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The tongue moves the note. Think a silent \"ee\" to go up and a silent \"oo\" to come down: the lips hardly move."},
+                            "steps": [
+                                {"title": {"en": "Up: a silent ee"}, "detail": {"en": "The tongue rises and moves forward"}},
+                                {"title": {"en": "Down: a silent oo"}, "detail": {"en": "The tongue settles back"}},
+                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes: each one waits until you're on it."},
+                            "exercise": {
+                                "tempo": 72,
+                                "whistle": true,
+                                "base": "whistle",
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 3, "length": 1, "step": -1, "lyric": "oo"},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "oo"}
+                                ]
+                            }
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Up one, back, down one, home."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 3, "length": 1, "step": -1, "lyric": "oo"},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "oo"}
+                                ],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        }
+                    ]
+                },
+                {
+                    "id": "wh-2-five",
+                    "title": {"en": "Five notes, one at a time"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Five notes up and back, your whistle note in the middle."},
+                            "steps": [
+                                {"title": {"en": "One at a time"}, "detail": {"en": "Each note its own small tongue move"}},
+                                {"title": {"en": "Your note in the middle"}, "detail": {"en": "Two below, two above"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Five notes up and back."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": -1, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 3, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 5, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 6, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 7, "length": 1, "step": -1, "lyric": "oo"},
+                                    {"beat": 8, "length": 2, "step": -2, "lyric": "oo"}
+                                ],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        }
+                    ]
+                },
+                {
+                    "id": "wh-2-slide",
+                    "title": {"en": "A slide"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Glide the tongue and the note slides with it, smoothly, from low to high and back."},
+                            "steps": [
+                                {"title": {"en": "A smooth glide"}, "detail": {"en": "No jumps on the way"}},
+                                {"title": {"en": "Find your edges"}, "detail": {"en": "The last slide goes as low and high as is easy"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Follow the ribbon up and back."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "target": [
+                                    {
+                                        "seconds": 5,
+                                        "kind": "path",
+                                        "band": 150,
+                                        "points": [
+                                            [0, -3],
+                                            [2.5, 3],
+                                            [5, -3]
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on following the ribbon."}
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Now as low and as high as is easy, then back. Not scored: notice where your whistle flips to a new shape."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "target": [{"seconds": 6, "kind": "free", "scored": false}]
+                            },
+                            "measures": {"en": "Not scored: just notice where it flips."}
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to both, then choose."},
+                            "exercise": {
+                                "tempo": 72,
+                                "whistle": true,
+                                "base": "whistle",
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one slid up into the note?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -2, "lyric": "oo"},
+                                                    {"beat": 1, "length": 2, "step": 1, "lyric": "oo", "style": "scoop"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -2, "lyric": "oo"},
+                                                    {"beat": 1, "length": 2, "step": 1, "lyric": "oo"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The first slid up into its second note. The second landed right on it."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one slid up into the note?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -2, "lyric": "oo"},
+                                                    {"beat": 1, "length": 2, "step": 1, "lyric": "oo"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -2, "lyric": "oo"},
+                                                    {"beat": 1, "length": 2, "step": 1, "lyric": "oo", "style": "scoop"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The second slid into it; the first was there at once."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Follow the ribbon once more."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "target": [
+                                    {
+                                        "seconds": 5,
+                                        "kind": "path",
+                                        "band": 150,
+                                        "points": [
+                                            [0, 3],
+                                            [2.5, -3],
+                                            [5, 3]
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on following the ribbon."}
+                        }
+                    ]
+                },
+                {
+                    "id": "wh-2-challenge",
+                    "title": {"en": "Ode to Joy"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Beethoven's tune, its first eight bars: nearly all of it one note at a time."},
+                            "steps": [
+                                {"title": {"en": "One note at a time"}, "detail": {"en": "And one small jump near the end"}},
+                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The first eight bars, over the chords."},
+                            "exercise": {
+                                "tempo": 88,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 3, "length": 1, "step": 3, "lyric": "oo"},
+                                    {"beat": 4, "length": 1, "step": 3, "lyric": "oo"},
+                                    {"beat": 5, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 6, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 6.5, "length": 0.5, "step": -2, "lyric": "oo"},
+                                    {"beat": 8, "length": 1, "step": -4, "lyric": "oo"},
+                                    {"beat": 9, "length": 1, "step": -4, "lyric": "oo"},
+                                    {"beat": 10, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 11, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 12, "length": 1.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 13.5, "length": 0.5, "step": -2, "lyric": "oo"},
+                                    {"beat": 14, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 16, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 17, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 18, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 19, "length": 1, "step": 3, "lyric": "oo"},
+                                    {"beat": 20, "length": 1, "step": 3, "lyric": "oo"},
+                                    {"beat": 21, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 22, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 22.5, "length": 0.5, "step": -2, "lyric": "oo"},
+                                    {"beat": 24, "length": 1, "step": -4, "lyric": "oo"},
+                                    {"beat": 25, "length": 1, "step": -4, "lyric": "oo"},
+                                    {"beat": 26, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 27, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 28, "length": 1.5, "step": -2, "lyric": "oo"},
+                                    {"beat": 29.5, "length": 0.5, "step": -4, "lyric": "oo"},
+                                    {"beat": 30, "length": 1, "step": -4, "lyric": "oo"}
+                                ],
+                                "turn": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "chords": [
+                                    {"beat": 0, "root": 8, "quality": "maj"},
+                                    {"beat": 2, "root": 10, "quality": "min7"},
+                                    {"beat": 3, "root": 8, "quality": "maj"},
+                                    {"beat": 4, "root": 3, "quality": "maj"},
+                                    {"beat": 5, "root": 3, "quality": "dom7"},
+                                    {"beat": 6, "root": 8, "quality": "maj"},
+                                    {"beat": 10, "root": 10, "quality": "min7"},
+                                    {"beat": 11, "root": 1, "quality": "maj7"},
+                                    {"beat": 12, "root": 3, "quality": "maj6"},
+                                    {"beat": 14, "root": 3, "quality": "maj"},
+                                    {"beat": 16, "root": 8, "quality": "maj"},
+                                    {"beat": 18, "root": 10, "quality": "min7"},
+                                    {"beat": 19, "root": 8, "quality": "maj"},
+                                    {"beat": 20, "root": 3, "quality": "maj"},
+                                    {"beat": 21, "root": 3, "quality": "dom7"},
+                                    {"beat": 22, "root": 8, "quality": "maj"},
+                                    {"beat": 26, "root": 10, "quality": "min7"},
+                                    {"beat": 27, "root": 1, "quality": "maj7"},
+                                    {"beat": 28, "root": 3, "quality": "maj"},
+                                    {"beat": 30, "root": 8, "quality": "maj"}
+                                ]
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "wh-leaps",
+            "title": {"en": "Leaps"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "wh-3-small",
+                    "title": {"en": "Small jumps"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A jump skips the notes between. Slide it slowly first, then jump: one quick tongue move, the air still flowing."},
+                            "steps": [
+                                {"title": {"en": "Slide, then jump"}, "detail": {"en": "The same tongue move, faster"}},
+                                {"title": {"en": "Skip one note"}, "detail": {"en": "That jump is a third"}},
+                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Slide it first, slowly."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "target": [
+                                    {
+                                        "seconds": 4,
+                                        "kind": "path",
+                                        "band": 150,
+                                        "points": [
+                                            [0, -2],
+                                            [2, 2],
+                                            [4, -2]
+                                        ]
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on following the ribbon."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now jump: skip one note each time."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 3, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 5, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 6, "length": 2, "step": -2, "lyric": "oo"}
+                                ],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle",
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on where each note lands from its first sound."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more, every note on pitch."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 3, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 5, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 6, "length": 2, "step": -2, "lyric": "oo"}
+                                ],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        }
+                    ]
+                },
+                {
+                    "id": "wh-3-bigger",
+                    "title": {"en": "Bigger jumps"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Bigger jumps: land the top note right on it, not past it."},
+                            "steps": [
+                                {"title": {"en": "Hear it first"}, "detail": {"en": "The top note in your head before you jump"}},
+                                {"title": {"en": "Land, don't overshoot"}, "detail": {"en": "Aim for the note, not above it"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to both, then choose."},
+                            "exercise": {
+                                "tempo": 72,
+                                "whistle": true,
+                                "base": "whistle",
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one landed on the top note?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -2, "lyric": "oo"},
+                                                    {"beat": 1, "length": 2, "step": 2, "lyric": "oo"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -2, "lyric": "oo"},
+                                                    {"beat": 1, "length": 0.25, "step": 3, "lyric": "oo"},
+                                                    {"beat": 1.25, "length": 1.75, "step": 2, "lyric": "oo"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The first landed right on it. The second went past it and came back."}
+                                    },
+                                    {
+                                        "prompt": {"en": "Which one landed on the top note?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -2, "lyric": "oo"},
+                                                    {"beat": 1, "length": 0.25, "step": 3, "lyric": "oo"},
+                                                    {"beat": 1.25, "length": 1.75, "step": 2, "lyric": "oo"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -2, "lyric": "oo"},
+                                                    {"beat": 1, "length": 2, "step": 2, "lyric": "oo"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 1,
+                                        "why": {"en": "The second landed clean; the first overshot first."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Ode to Joy's first two lines, on the beat."},
+                            "exercise": {
+                                "tempo": 88,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 3, "length": 1, "step": 3, "lyric": "oo"},
+                                    {"beat": 4, "length": 1, "step": 3, "lyric": "oo"},
+                                    {"beat": 5, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 6, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 6.5, "length": 0.5, "step": -2, "lyric": "oo"},
+                                    {"beat": 8, "length": 1, "step": -4, "lyric": "oo"},
+                                    {"beat": 9, "length": 1, "step": -4, "lyric": "oo"},
+                                    {"beat": 10, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 11, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 12, "length": 1.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 13.5, "length": 0.5, "step": -2, "lyric": "oo"},
+                                    {"beat": 14, "length": 1, "step": -2, "lyric": "oo"}
+                                ],
+                                "turn": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "chords": [
+                                    {"beat": 0, "root": 8, "quality": "maj"},
+                                    {"beat": 2, "root": 10, "quality": "min7"},
+                                    {"beat": 3, "root": 8, "quality": "maj"},
+                                    {"beat": 4, "root": 3, "quality": "maj"},
+                                    {"beat": 5, "root": 3, "quality": "dom7"},
+                                    {"beat": 6, "root": 8, "quality": "maj"},
+                                    {"beat": 10, "root": 10, "quality": "min7"},
+                                    {"beat": 11, "root": 1, "quality": "maj7"},
+                                    {"beat": 12, "root": 3, "quality": "maj6"},
+                                    {"beat": 14, "root": 3, "quality": "maj"}
+                                ],
+                                "rhythm": true
+                            },
+                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Bigger jumps, each top note landed."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 3, "length": 1, "step": 3, "lyric": "oo"},
+                                    {"beat": 4, "length": 2, "step": -2, "lyric": "oo"}
+                                ],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        }
+                    ]
+                },
+                {
+                    "id": "wh-3-high",
+                    "title": {"en": "The big jump"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "The biggest jump here is a sixth: the top note only as high as is easy. Slide it, then land it, then jump."},
+                            "steps": [
+                                {"title": {"en": "Only as high as is easy"}, "detail": {"en": "If it won't come, sing it smaller"}},
+                                {"title": {"en": "Air keeps moving"}, "detail": {"en": "One quick tongue move"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The big jump, slowly, landing each top note."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -4, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": -4, "lyric": "oo"},
+                                    {"beat": 3, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 5, "length": 2, "step": -2, "lyric": "oo"}
+                                ],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle",
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on where each note lands from its first sound."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now at speed."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -4, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 1, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": -4, "lyric": "oo"},
+                                    {"beat": 3, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 4, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 5, "length": 2, "step": -2, "lyric": "oo"}
+                                ],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        }
+                    ]
+                },
+                {
+                    "id": "wh-3-challenge",
+                    "title": {"en": "Simple Gifts"},
+                    "challenge": true,
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Simple Gifts, its turning: the tune's own jumps, each landed clean."},
+                            "steps": [
+                                {"title": {"en": "Jumps that land"}, "detail": {"en": "Hear each top note first"}},
+                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The turning, over the chords."},
+                            "exercise": {
+                                "tempo": 84,
+                                "notes": [
+                                    {"beat": 0, "length": 2, "step": 3, "lyric": "oo"},
+                                    {"beat": 2, "length": 1.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 3.5, "length": 0.5, "step": -2, "lyric": "oo"},
+                                    {"beat": 4, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 4.5, "length": 0.5, "step": 1, "lyric": "oo"},
+                                    {"beat": 5, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 5.5, "length": 0.5, "step": -2, "lyric": "oo"},
+                                    {"beat": 6, "length": 0.5, "step": -4, "lyric": "oo"},
+                                    {"beat": 7.5, "length": 0.5, "step": -2, "lyric": "oo"},
+                                    {"beat": 8, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 9, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 9.5, "length": 0.5, "step": 1, "lyric": "oo"},
+                                    {"beat": 10, "length": 1, "step": 3, "lyric": "oo"},
+                                    {"beat": 11, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 12, "length": 1, "step": -2, "lyric": "oo"},
+                                    {"beat": 13, "length": 0.5, "step": -2, "lyric": "oo"},
+                                    {"beat": 13.5, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 14, "length": 0.5, "step": -2, "lyric": "oo"}
+                                ],
+                                "turn": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "chords": [
+                                    {"beat": 0, "root": 8, "quality": "maj"},
+                                    {"beat": 2, "root": 8, "quality": "maj"},
+                                    {"beat": 4, "root": 5, "quality": "min"},
+                                    {"beat": 6, "root": 1, "quality": "maj"},
+                                    {"beat": 7.5, "root": 3, "quality": "dom7"},
+                                    {"beat": 8, "root": 8, "quality": "maj"},
+                                    {"beat": 12, "root": 3, "quality": "maj"}
+                                ]
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "wh-a-whistled-tune",
+            "title": {"en": "A whistled tune"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "wh-4-drone",
+                    "title": {"en": "In tune with a held note"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A held note sounds under you. Whistle your note on top of it, and listen for the two settling together."},
+                            "steps": [
+                                {"title": {"en": "Listen under you"}, "detail": {"en": "The held note doesn't move"}},
+                                {"title": {"en": "Settle into it"}, "detail": {"en": "Small tongue moves until it rings"}},
+                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Your note over the held one, four beats."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "oo"}],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle",
+                                "drone": {"step": 0},
+                                "tuning": true
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Two notes over it: your note, then the one above."},
+                            "exercise": {
+                                "tempo": 60,
+                                "notes": [
+                                    {"beat": 0, "length": 3, "step": 0, "lyric": "oo"},
+                                    {"beat": 3, "length": 3, "step": 2, "lyric": "oo"}
+                                ],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle",
+                                "drone": {"step": 0},
+                                "tuning": true
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        }
+                    ]
+                },
+                {
+                    "id": "wh-4-breath",
+                    "title": {"en": "A breath each phrase"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Whistling uses air fast. Take a breath at each phrase's end, and start repeated notes each with a soft \"h\"."},
+                            "steps": [
+                                {"title": {"en": "A breath each phrase"}, "detail": {"en": "In the rest, before the next"}},
+                                {"title": {"en": "Repeated notes"}, "detail": {"en": "A soft h on each"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "choose",
+                            "text": {"en": "Listen to both, then choose."},
+                            "exercise": {
+                                "tempo": 72,
+                                "whistle": true,
+                                "base": "whistle",
+                                "rounds": [
+                                    {
+                                        "prompt": {"en": "Which one took a breath between the phrases?"},
+                                        "clips": [
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -1, "lyric": "oo"},
+                                                    {"beat": 1, "length": 1, "step": 0, "lyric": "oo"},
+                                                    {"beat": 2, "length": 1, "step": 2, "lyric": "oo"},
+                                                    {"beat": 3, "length": 1, "step": 0, "lyric": "oo"},
+                                                    {"beat": 4, "length": 2, "step": -1, "lyric": "oo"},
+                                                    {"beat": 7, "length": 1, "step": 2, "lyric": "oo"},
+                                                    {"beat": 8, "length": 1, "step": 0, "lyric": "oo"},
+                                                    {"beat": 9, "length": 1, "step": -1, "lyric": "oo"},
+                                                    {"beat": 10, "length": 1, "step": 0, "lyric": "oo"},
+                                                    {"beat": 11, "length": 2, "step": -2, "lyric": "oo"}
+                                                ]
+                                            },
+                                            {
+                                                "notes": [
+                                                    {"beat": 0, "length": 1, "step": -1, "lyric": "oo"},
+                                                    {"beat": 1, "length": 1, "step": 0, "lyric": "oo"},
+                                                    {"beat": 2, "length": 1, "step": 2, "lyric": "oo"},
+                                                    {"beat": 3, "length": 1, "step": 0, "lyric": "oo"},
+                                                    {"beat": 4, "length": 3, "step": -1, "lyric": "oo"},
+                                                    {"beat": 7, "length": 1, "step": 2, "lyric": "oo"},
+                                                    {"beat": 8, "length": 1, "step": 0, "lyric": "oo"},
+                                                    {"beat": 9, "length": 1, "step": -1, "lyric": "oo"},
+                                                    {"beat": 10, "length": 1, "step": 0, "lyric": "oo"},
+                                                    {"beat": 11, "length": 2, "step": -2, "lyric": "oo"}
+                                                ]
+                                            }
+                                        ],
+                                        "answer": 0,
+                                        "why": {"en": "The first left a rest to breathe in. The second ran straight on."}
+                                    }
+                                ]
+                            },
+                            "measures": {"en": "Scored on the rounds you got right first time."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Repeated notes, each with a soft h."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 3, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 4, "length": 2, "step": 0, "lyric": "oo"}
+                                ],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle",
+                                "score": "landing"
+                            },
+                            "measures": {"en": "Scored on where each note lands from its first sound."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Two phrases, a breath between."},
+                            "exercise": {
+                                "tempo": 72,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -1, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 2, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 3, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 4, "length": 2, "step": -1, "lyric": "oo"},
+                                    {"beat": 7, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 8, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 9, "length": 1, "step": -1, "lyric": "oo"},
+                                    {"beat": 10, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 11, "length": 2, "step": -2, "lyric": "oo"}
+                                ],
+                                "turn": true,
+                                "whistle": true,
+                                "base": "whistle"
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        }
+                    ]
+                },
+                {
+                    "id": "wh-4-wave",
+                    "title": {"en": "An even wave"},
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A whistle can carry an even wave: a tiny silent \"ee-oo\" with the tongue, slowly at first. Singers call it vibrato. It takes time: a straight note is just as good."},
+                            "steps": [
+                                {"title": {"en": "Slow first"}, "detail": {"en": "Three or four waves a second"}},
+                                {"title": {"en": "Tongue, not air"}, "detail": {"en": "The tongue makes the wave"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Follow the slow wave, with the ghost wave fading out."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "target": [{"seconds": 6, "kind": "wave", "hz": 3, "cents": 60, "fade": 2}]
+                            },
+                            "measures": {"en": "Scored on following the wave."}
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "Now a straight note, held: as good as any wave."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "target": [{"seconds": 5, "kind": "straight"}]
+                            },
+                            "measures": {"en": "Scored on how straight the note stayed."}
+                        }
+                    ]
+                },
+                {
+                    "id": "wh-4-challenge",
+                    "title": {"en": "The Water Is Wide"},
+                    "challenge": true,
+                    "headphones": "needed",
+                    "keepSong": {
+                        "title": {"en": "My whistled tune"},
+                        "takes": [{"step": 1, "name": {"en": "Tune"}}, {"step": 2, "name": {"en": "Under"}}],
+                        "from": 1,
+                        "partners": [],
+                        "chords": {"en": "Piano"}
+                    },
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "A whole tune, then a second whistle under it, kept as a song. Then your first whistle, beside today's."},
+                            "steps": [
+                                {"title": {"en": "The whole first verse"}, "detail": {"en": "A breath at each phrase end"}},
+                                {"title": {"en": "Whistle with yourself"}, "detail": {"en": "A low line under your own tune"}},
+                                {"title": {"en": "Then and now"}, "detail": {"en": "Your first whistle from lesson 1"}}
+                            ],
+                            "visual": "steady",
+                            "reviewed": false
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The first verse, over the chords."},
+                            "exercise": {
+                                "tempo": 76,
+                                "notes": [
+                                    {"beat": 0, "length": 1, "step": -5, "lyric": "oo"},
+                                    {"beat": 1, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 2, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 2.5, "length": 0.5, "step": 2, "lyric": "oo"},
+                                    {"beat": 3, "length": 2, "step": 4, "lyric": "oo"},
+                                    {"beat": 5, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 6, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 7, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 8, "length": 1, "step": -3, "lyric": "oo"},
+                                    {"beat": 9, "length": 2, "step": -5, "lyric": "oo"},
+                                    {"beat": 12, "length": 1, "step": -5, "lyric": "oo"},
+                                    {"beat": 13, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 14, "length": 1, "step": -1, "lyric": "oo"},
+                                    {"beat": 15, "length": 3, "step": 0, "lyric": "oo"},
+                                    {"beat": 18, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 19, "length": 1, "step": 4, "lyric": "oo"},
+                                    {"beat": 20, "length": 0.5, "step": 5, "lyric": "oo"},
+                                    {"beat": 20.5, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 21, "length": 2, "step": 2, "lyric": "oo"},
+                                    {"beat": 24, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 25, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 26, "length": 0.5, "step": 4, "lyric": "oo"},
+                                    {"beat": 26.5, "length": 0.5, "step": 5, "lyric": "oo"},
+                                    {"beat": 27, "length": 2, "step": 7, "lyric": "oo"},
+                                    {"beat": 29, "length": 1, "step": 5, "lyric": "oo"},
+                                    {"beat": 30, "length": 1, "step": 5, "lyric": "oo"},
+                                    {"beat": 31, "length": 1, "step": 4, "lyric": "oo"},
+                                    {"beat": 32, "length": 0.5, "step": 2, "lyric": "oo"},
+                                    {"beat": 32.5, "length": 0.5, "step": 0, "lyric": "oo"},
+                                    {"beat": 33, "length": 2, "step": 4, "lyric": "oo"},
+                                    {"beat": 36, "length": 1, "step": 2, "lyric": "oo"},
+                                    {"beat": 37, "length": 1, "step": 0, "lyric": "oo"},
+                                    {"beat": 38, "length": 1, "step": -3, "lyric": "oo"},
+                                    {"beat": 39, "length": 2, "step": -5, "lyric": "oo"},
+                                    {"beat": 41, "length": 2, "step": -5, "lyric": "oo"},
+                                    {"beat": 43, "length": 1, "step": -5, "lyric": "oo"},
+                                    {"beat": 44, "length": 0.5, "step": -3, "lyric": "oo"},
+                                    {"beat": 44.5, "length": 0.5, "step": -1, "lyric": "oo"},
+                                    {"beat": 45, "length": 2, "step": 0, "lyric": "oo"}
+                                ],
+                                "turn": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "chords": [
+                                    {"beat": 0, "root": 0, "quality": "maj"},
+                                    {"beat": 6, "root": 5, "quality": "maj6"},
+                                    {"beat": 7, "root": 5, "quality": "maj"},
+                                    {"beat": 9, "root": 0, "quality": "maj"},
+                                    {"beat": 12, "root": 0, "quality": "maj"},
+                                    {"beat": 13, "root": 2, "quality": "min7"},
+                                    {"beat": 14, "root": 7, "quality": "dom7"},
+                                    {"beat": 15, "root": 0, "quality": "maj"},
+                                    {"beat": 18, "root": 2, "quality": "min"},
+                                    {"beat": 21, "root": 7, "quality": "dom7"},
+                                    {"beat": 24, "root": 0, "quality": "maj"},
+                                    {"beat": 25, "root": 2, "quality": "min7"},
+                                    {"beat": 26, "root": 0, "quality": "maj"},
+                                    {"beat": 27, "root": 0, "quality": "maj"},
+                                    {"beat": 30, "root": 5, "quality": "maj"},
+                                    {"beat": 32, "root": 2, "quality": "min"},
+                                    {"beat": 33, "root": 9, "quality": "min"},
+                                    {"beat": 36, "root": 5, "quality": "maj6"},
+                                    {"beat": 37, "root": 5, "quality": "maj"},
+                                    {"beat": 39, "root": 4, "quality": "min"},
+                                    {"beat": 41, "root": 0, "quality": "maj"},
+                                    {"beat": 44, "root": 2, "quality": "min7"},
+                                    {"beat": 45, "root": 0, "quality": "maj"}
+                                ]
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now a low line under your own tune: two notes, held."},
+                            "exercise": {
+                                "tempo": 76,
+                                "notes": [
+                                    {"beat": 0, "length": 12, "step": -5, "lyric": "oo"},
+                                    {"beat": 12, "length": 12, "step": -3, "lyric": "oo"},
+                                    {"beat": 24, "length": 12, "step": -5, "lyric": "oo"},
+                                    {"beat": 36, "length": 12, "step": -5, "lyric": "oo"}
+                                ],
+                                "turn": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "chords": [
+                                    {"beat": 0, "root": 0, "quality": "maj"},
+                                    {"beat": 6, "root": 5, "quality": "maj6"},
+                                    {"beat": 7, "root": 5, "quality": "maj"},
+                                    {"beat": 9, "root": 0, "quality": "maj"},
+                                    {"beat": 12, "root": 0, "quality": "maj"},
+                                    {"beat": 13, "root": 2, "quality": "min7"},
+                                    {"beat": 14, "root": 7, "quality": "dom7"},
+                                    {"beat": 15, "root": 0, "quality": "maj"},
+                                    {"beat": 18, "root": 2, "quality": "min"},
+                                    {"beat": 21, "root": 7, "quality": "dom7"},
+                                    {"beat": 24, "root": 0, "quality": "maj"},
+                                    {"beat": 25, "root": 2, "quality": "min7"},
+                                    {"beat": 26, "root": 0, "quality": "maj"},
+                                    {"beat": 27, "root": 0, "quality": "maj"},
+                                    {"beat": 30, "root": 5, "quality": "maj"},
+                                    {"beat": 32, "root": 2, "quality": "min"},
+                                    {"beat": 33, "root": 9, "quality": "min"},
+                                    {"beat": 36, "root": 5, "quality": "maj6"},
+                                    {"beat": 37, "root": 5, "quality": "maj"},
+                                    {"beat": 39, "root": 4, "quality": "min"},
+                                    {"beat": 41, "root": 0, "quality": "maj"},
+                                    {"beat": 44, "root": 2, "quality": "min7"},
+                                    {"beat": 45, "root": 0, "quality": "maj"}
+                                ],
+                                "under": {"step": 1}
+                            },
+                            "measures": {"en": "Scored on your notes on pitch."}
+                        },
+                        {
+                            "kind": "wave",
+                            "text": {"en": "One last note, held: your whistle today."},
+                            "exercise": {
+                                "tempo": 60,
+                                "lead": 2,
+                                "step": 0,
+                                "lyric": "oo",
+                                "combo": false,
+                                "whistle": true,
+                                "base": "whistle",
+                                "target": [{"seconds": 5, "kind": "straight"}],
+                                "thenAndNow": "whistling.first-whistle"
+                            },
+                            "measures": {"en": "Scored on how straight the note stayed."}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

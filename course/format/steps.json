@@ -181,7 +181,8 @@
                 "under",
                 "keep",
                 "thenAndNow",
-                "trill"
+                "trill",
+                "whistle"
             ],
             "about": "The trace lane: ride a ribbon (a steered wave, a straight line, a bloom, a free hold, a contour); `keep` saves the first take on the device under a key, and `thenAndNow` shows it beside today's"
         },
@@ -199,7 +200,8 @@
                 "tempo",
                 "rounds",
                 "base",
-                "lineKey"
+                "lineKey",
+                "whistle"
             ],
             "about": "Listen and choose, no mic: tap a clip or a word; `base: flip` lays its clips from the singer's flip note (Yodeling)"
         },
@@ -220,7 +222,8 @@
                 "along",
                 "questions",
                 "base",
-                "lineKey"
+                "lineKey",
+                "whistle"
             ],
             "about": "What we can't hear yet: hear a model, record, compare, answer self-check questions; never scored; its model may name a real singer's clip (`clip`), with `seconds` and a `description` until it's recorded; `base: flip` lays its model from the singer's flip note (Yodeling)"
         },
@@ -248,7 +251,9 @@
                 "stack",
                 "compare",
                 "keep",
-                "thenAndNow"
+                "thenAndNow",
+                "whistle",
+                "base"
             ],
             "about": "Echo a note and see where it landed (Perfect your pitch: docs/courses/perfect-pitch.md)"
         },
@@ -290,7 +295,7 @@
             "score": "how it's starred: hold, or a registered scorer (web/js/lesson-scores.js)",
             "show": "vibrato: describe a held note's vibrato after the take",
             "generous": "the first lesson's kinder stars",
-            "base": "flip: steps laid from the singer's flip note (Yodeling); flipKey: the same, moved up to three semitones (or one down) so the tag's home note, two below, is in the line's key (lineKey), else its V, else its IV: a song's yodel tag",
+            "base": "flip: steps laid from the singer's flip note (Yodeling); flipKey: the same, moved up to three semitones (or one down) so the tag's home note, two below, is in the line's key (lineKey), else its V, else its IV: a song's yodel tag; whistle: steps laid from the singer's kept whistle note (`personal.whistle`, Whistling)",
             "lineKey": "with base flipKey: the song line's home note, in semitones from the singer's comfortable note (0 by default)",
             "under": "{ step }: sing over that earlier step's take, this visit. Or layers (Live looping, docs/courses/live-looping.md): { steps: [n | { step, loop }], loop? }: those earlier steps' takes mixed, each first layer loudest and each later one a little quieter; with loop (beats), a layer plays from its take's beat 0 for that many beats, again and again, to the exercise's end (a layer's own loop over the shared one; shorter loops divide the longest). Through a speaker the layers rest during a scored take. keepSong renders each loop out to the song's length.",
             "with": "partner lines that sound while you sing (Counterpoint: docs/courses/counterpoint.md 8b)",
@@ -310,7 +315,8 @@
             "keyRange": "{ down, up }: how far \"Not in your range?\" may move the key from the line as written, in semitones (whole numbers, 0 to 12); up 0 hides Higher. It applies to the whole lesson, the tightest across its steps; a remembered key is held inside it (First steps to belting: { \"down\": 4, \"up\": 0 })",
             "retries": "a whole number, 1 to 10: after that many heard takes in a visit, Sing it again, the more-stars offer and the guide take go, and the way on says \"Good enough: move on\" (First steps to belting: 3)",
             "rhythm": "true or \"swing\": a default-scored step (no `score`) is also scored on time: pitch 70, timing 30 (85 and 15 through a speaker or with only estimated latency); fewer than 3 timed moments, pitch alone; \"swing\" judges off-beats at two thirds of the beat, within an eighth; the usual offset comes from the downbeats. For the steps whose lesson is the beat (docs/play-timing-plan.md in the app's repo).",
-            "trill": "true: a lip trill (Humming and lip trills): the take is tracked at clarity 0.7, not 0.85, since a trill's buzz sits just under the usual bar while the sound goes on (the courses lead's tracker study, 2026-11-08); with `score: \"unbroken\"` a break is a 12 dB dip held 250 ms. On play and wave steps."
+            "trill": "true: a lip trill (Humming and lip trills): the take is tracked at clarity 0.7, not 0.85, since a trill's buzz sits just under the usual bar while the sound goes on (the courses lead's tracker study, 2026-11-08); with `score: \"unbroken\"` a break is a 12 dB dip held 250 ms. On play and wave steps.",
+            "whistle": "true: a whistle (Whistling): the take is tracked from 400 to 4000 Hz and folded down by whole octaves of its median offset to the written line before any scorer, so a whistle two octaves up costs nothing and a mid-line octave slip still does; a clean start forgives a whistle's first 100 ms. On play, wave, bullseye, choose and selfcheck steps (choose clips and self-check models then play as a whistle). With `base: \"whistle\"` the step is laid from the note lesson 1's `score: \"whistleNote\"` step keeps (frontend's whistle mode, 2026-11-08)."
         },
         "webOnly": [
             "score",
@@ -335,7 +341,8 @@
             "hearFirst",
             "keyRange",
             "retries",
-            "trill"
+            "trill",
+            "whistle"
         ]
     },
     "note": {
