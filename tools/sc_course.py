@@ -499,6 +499,10 @@ def solo(tokens_steps_words, chords, scale=True):
         for n in ph[:-1]:
             n["choices"] = options
         ph[-1]["choices"] = lit(chord)
+        # The written line sings only notes the step accepts, as trade() does: each on its nearest lit
+        # note, a tie going up (mi to four, not the flat third every time).
+        for n in ph:
+            n["step"] = min(n["choices"], key=lambda s: (abs(s - n["step"]), -s))
         notes += ph
         names += [chord] * 2
     return notes, names
