@@ -223,7 +223,10 @@ def sc_1_swing():
     rounds = [{"prompt": EN("Which one swings?"), "clips": [pair_clip(s), pair_clip(not s)], "answer": 0 if s else 1,
                "why": EN("Swing makes each pair long-short, like a heartbeat; straight makes them even.")} for s in (True, False, True)]
     one, _ = swung(["e"] * 8, [0] * 8, ["doo", "bah"] * 4)
-    two, _ = swung(["e"] * 8 + ["h", "R", "R"], [0, 2] * 4 + [0], ["doo", "bah"] * 4 + ["doo"])
+    # Twice round before the landing: the lesson's stars come from this line, and 9 notes gave each timed
+    # moment a ninth of the beat's share, so one noisy onset could cost the third star (timing simulation,
+    # 2026-11-08); 17 notes average it out.
+    two, _ = swung(["e"] * 16 + ["h", "R", "R"], [0, 2] * 8 + [0], ["doo", "bah"] * 8 + ["doo"])
     return {
         "id": "sc-1-swing", "title": EN("Long, short"),
         "fact": fact("swing-ratio-tempo", "Swing isn't one fixed ratio. When researchers measured jazz drummers' ride cymbals, the long note grew longer at slow tempos, up to about 3.5 to 1, and the swing evened out at fast tempos.",
@@ -233,7 +236,7 @@ def sc_1_swing():
                   [("Doo", "Long, soft"), ("BAH", "Short, leaning"), ("Long, short", "Like a heartbeat")]),
             choose("Listen to each, then choose.", rounds),
             play("\"Doo-bah\" on one note, swung. Just try it.", exercise(one, ["I", "I"]), None, kind="try"),
-            play("Now on two notes, swung, landing on \"doo\".", exercise(two, ["I", "I", "I"]), PITCH_SWING, rhythm="swing"),
+            play("Now on two notes, swung, twice round, landing on \"doo\".", exercise(two, ["I", "I", "I", "I"]), PITCH_SWING, rhythm="swing"),
         ],
     }
 
