@@ -390,6 +390,8 @@ def course(path, seen, clip_ids, unplayable, facts):
         game_rules(str(name), data["game"])
     if "dailyCap" in data:
         daily_cap(str(name), data["dailyCap"])
+    if "headphones" in data and data["headphones"] != "needed":
+        problem(str(name), "headphones is \"needed\" (its only value), or absent")
     lessons = 0
     kept = set()  # Then and now: the ids kept so far in this course, lesson by lesson
     for unit in data.get("units", []):
@@ -401,6 +403,8 @@ def course(path, seen, clip_ids, unplayable, facts):
             known(where, lesson, FORMAT["lesson"])
             if "quiet" in lesson and not isinstance(lesson["quiet"], bool):
                 problem(where, "quiet must be true or false")
+            if "headphones" in lesson and lesson["headphones"] != "needed":
+                problem(where, "headphones is \"needed\" (its only value), or absent")
             if lid in seen:
                 problem(where, "lesson id used twice")
             seen.add(lid)

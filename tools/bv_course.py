@@ -692,6 +692,7 @@ assert {lid for lid, _ in PASSED_OVER} == {"bv-1-shenandoah"} and {b for _, b in
 course = {
     "id": "backing-vocals",
     "version": 1,
+    "headphones": "needed",  # what plays under you rests through a speaker (steps.json courseHeadphones)
     "reviewed": False,
     "title": EN("Backing vocals"),
     "units": [UNIT1, UNIT2, UNIT3, UNIT4],

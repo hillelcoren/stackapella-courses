@@ -532,6 +532,7 @@ UNIT4 = {"id": "ll-your-own", "title": EN("Your own loop"), "colour": COLOUR, "l
 course = {
     "id": "live-looping",
     "version": 1,
+    "headphones": "needed",  # what plays under you rests through a speaker (steps.json courseHeadphones)
     "reviewed": False,
     "title": EN("Live looping"),
     "units": [UNIT1, UNIT2, UNIT3, UNIT4],
