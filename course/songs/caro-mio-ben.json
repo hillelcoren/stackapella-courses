@@ -715,7 +715,7 @@
                 },
                 {
                     "id": "song-caro-mio-ben-bass-6",
-                    "title": {"en": "Lines 9 to 11"},
+                    "title": {"en": "Lines 9 and 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -733,17 +733,37 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Hear line 10, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
                                     "part": "bass",
                                     "phrases": [9]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 and 10 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "caro-mio-ben",
+                                    "part": "bass",
+                                    "phrases": [8, 9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-caro-mio-ben-bass-7",
+                    "title": {"en": "Lines 11 and 12"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 11, then sing it back."},
@@ -759,26 +779,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 to 11 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "caro-mio-ben",
-                                    "part": "bass",
-                                    "phrases": [8, 9, 10]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-caro-mio-ben-bass-7",
-                    "title": {"en": "Lines 12 to 14"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
                             "text": {"en": "Hear line 12, then sing it back."},
                             "exercise": {
                                 "song": {
@@ -790,6 +790,26 @@
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "caro-mio-ben",
+                                    "part": "bass",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-caro-mio-ben-bass-8",
+                    "title": {"en": "Lines 13 and 14"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 13, then sing it back."},
@@ -818,12 +838,12 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 12 to 14 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
                                     "part": "bass",
-                                    "phrases": [11, 12, 13]
+                                    "phrases": [12, 13]
                                 },
                                 "turn": true
                             },
@@ -832,7 +852,7 @@
                     ]
                 },
                 {
-                    "id": "song-caro-mio-ben-bass-8",
+                    "id": "song-caro-mio-ben-bass-9",
                     "title": {"en": "The whole song"},
                     "steps": [
                         {
@@ -890,7 +910,7 @@
                     ]
                 },
                 {
-                    "id": "song-caro-mio-ben-bass-9",
+                    "id": "song-caro-mio-ben-bass-10",
                     "title": {"en": "With the others"},
                     "steps": [
                         {
@@ -910,7 +930,7 @@
                     ]
                 },
                 {
-                    "id": "song-caro-mio-ben-bass-10",
+                    "id": "song-caro-mio-ben-bass-11",
                     "title": {"en": "On your own"},
                     "steps": [
                         {
@@ -948,7 +968,7 @@
                     ]
                 },
                 {
-                    "id": "song-caro-mio-ben-bass-11",
+                    "id": "song-caro-mio-ben-bass-12",
                     "title": {"en": "Record it"},
                     "steps": [
                         {"kind": "record", "text": {"en": "Record the bass part of Caro mio ben in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "caro-mio-ben", "singers": 4, "part": "bass"}
@@ -1197,7 +1217,7 @@
                 },
                 {
                     "id": "song-caro-mio-ben-alto-6",
-                    "title": {"en": "Lines 9 to 11"},
+                    "title": {"en": "Lines 9 and 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -1215,17 +1235,37 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Hear line 10, then sing it back."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
                                     "part": "alto",
                                     "phrases": [9]
                                 },
-                                "turn": false
+                                "turn": true
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 and 10 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "caro-mio-ben",
+                                    "part": "alto",
+                                    "phrases": [8, 9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-caro-mio-ben-alto-7",
+                    "title": {"en": "Lines 11 and 12"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 11, then sing it back."},
@@ -1241,26 +1281,6 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 to 11 joined: hear them, then sing them back."},
-                            "exercise": {
-                                "song": {
-                                    "template": "caro-mio-ben",
-                                    "part": "alto",
-                                    "phrases": [8, 9, 10]
-                                },
-                                "turn": true
-                            },
-                            "measures": {"en": "Scored on the notes."}
-                        }
-                    ]
-                },
-                {
-                    "id": "song-caro-mio-ben-alto-7",
-                    "title": {"en": "Lines 12 to 14"},
-                    "strictness": "relaxed",
-                    "steps": [
-                        {
-                            "kind": "play",
                             "text": {"en": "Hear line 12, then sing it back."},
                             "exercise": {
                                 "song": {
@@ -1272,6 +1292,26 @@
                             },
                             "measures": {"en": "Scored on the notes."}
                         },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "caro-mio-ben",
+                                    "part": "alto",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-caro-mio-ben-alto-8",
+                    "title": {"en": "Lines 13 and 14"},
+                    "strictness": "relaxed",
+                    "steps": [
                         {
                             "kind": "play",
                             "text": {"en": "Hear line 13, then sing it back."},
@@ -1300,12 +1340,12 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 12 to 14 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
                                     "part": "alto",
-                                    "phrases": [11, 12, 13]
+                                    "phrases": [12, 13]
                                 },
                                 "turn": true
                             },
@@ -1314,7 +1354,7 @@
                     ]
                 },
                 {
-                    "id": "song-caro-mio-ben-alto-8",
+                    "id": "song-caro-mio-ben-alto-9",
                     "title": {"en": "The whole song"},
                     "steps": [
                         {
@@ -1372,7 +1412,7 @@
                     ]
                 },
                 {
-                    "id": "song-caro-mio-ben-alto-9",
+                    "id": "song-caro-mio-ben-alto-10",
                     "title": {"en": "With the others"},
                     "steps": [
                         {
@@ -1392,7 +1432,7 @@
                     ]
                 },
                 {
-                    "id": "song-caro-mio-ben-alto-10",
+                    "id": "song-caro-mio-ben-alto-11",
                     "title": {"en": "On your own"},
                     "steps": [
                         {
@@ -1430,7 +1470,7 @@
                     ]
                 },
                 {
-                    "id": "song-caro-mio-ben-alto-11",
+                    "id": "song-caro-mio-ben-alto-12",
                     "title": {"en": "Record it"},
                     "steps": [
                         {"kind": "record", "text": {"en": "Record the alto part of Caro mio ben in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "caro-mio-ben", "singers": 4, "part": "alto"}
