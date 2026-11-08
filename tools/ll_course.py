@@ -134,8 +134,26 @@ def choose(text, tempo, rounds):
         "measures": EN(CHOSE)}
 
 
+# Each lesson page's "Did you know?" (2026-11-08): read in its source, then checked again.
+FACTS = {
+    "1-loop": {"id": "closed-groove", "text": EN("Tape loops grew out of records. In late-1940s Paris, the composer Pierre Schaeffer used records with a \"closed groove\" to repeat bits of sound; when magnetic tape became available, he switched to tape loops."), "source": EN("Wikipedia, Tape loop"), "url": "https://en.wikipedia.org/wiki/Tape_loop"},
+    "1-lock": {"id": "predict-not-react", "text": EN("Reacting to a sound takes about 160 milliseconds on average, a 2013 paper notes, yet trained ensemble musicians typically land 30 to 50 milliseconds apart: too close for reacting alone, which suggests they predict."), "source": EN("van der Steen and Keller, Frontiers in Human Neuroscience (2013)"), "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3677131"},
+    "1-longer": {"id": "rhythm-changes", "text": EN("Your four-bar loop moves through chords on do, la, re and so. The A sections of jazz's \"rhythm changes\", from Gershwin's I Got Rhythm (1930), repeat that same sequence: I, vi, ii, V."), "source": EN("Wikipedia, Rhythm changes"), "url": "https://en.wikipedia.org/wiki/Rhythm_changes"},
+    "2-pad": {"id": "mellotron-eight-seconds", "text": EN("The Mellotron, made in England from 1963, played a strip of recorded tape under each key, with a choir among its sounds. A held note usually lasted about eight seconds before the tape ran out."), "source": EN("120 Years of Electronic Music, The Mellotron (Leslie Bradley, UK, 1963)"), "url": "https://120years.net/the-mellotron-chamberlinleslie-bradleyuk1963/"},
+    "2-rhythm": {"id": "puirt-a-beul", "text": EN("Scotland's puirt à beul, \"tunes from a mouth\", set Gaelic words to dance tunes and were used for dancing when there were no instruments. Their rhythm and sound often matter more than the words' own rhythm."), "source": EN("Wikipedia, Puirt à beul"), "url": "https://en.wikipedia.org/wiki/Puirt_%C3%A0_beul"},
+    "2-three": {"id": "chipmunks-one-voice", "text": EN("The three Chipmunks, first heard on a 1958 record, were one man's voice: Ross Bagdasarian sang each part slowly onto tape at half speed, and played back at normal speed, it rose a full octave."), "source": EN("Wikipedia, Alvin and the Chipmunks"), "url": "https://en.wikipedia.org/wiki/Alvin_and_the_Chipmunks"},
+    "3-row": {"id": "barcarolle-stroke", "text": EN("A barcarolle, the boat song of Venice's gondoliers, is almost always in 6/8, with a rhythm meant to recall the gondolier's stroke. One of the most famous is in Offenbach's opera The Tales of Hoffmann."), "source": EN("Wikipedia, Barcarolle"), "url": "https://en.wikipedia.org/wiki/Barcarolle"},
+    "3-frere": {"id": "sumer-pes", "text": EN("Sumer Is Icumen In, an English round copied in the 1260s, has a part sung beneath it: two short lines marked \"pes\", Latin for \"foot\", repeated under the tune."), "source": EN("Wikipedia, Sumer Is Icumen In"), "url": "https://en.wikipedia.org/wiki/Sumer_Is_Icumen_In", "distinct": ["patter-pater-noster"]},
+    "3-sailor": {"id": "up-she-rises-1841", "text": EN("Drunken Sailor's earliest known printing is in an 1841 whaling book, as just \"Ho! Ho! and up she rises... Early in the morning\". One man usually struck up the song; the rest joined in."), "source": EN("Olmsted, Incidents of a Whaling Voyage (1841), Internet Archive"), "url": "https://archive.org/stream/incidentsofwhali00olmsrich/incidentsofwhali00olmsrich_djvu.txt"},
+    "4-bass": {"id": "la-folia", "text": EN("La Folia, a minor-key chord pattern, is one of Europe's oldest remembered musical themes. Over three centuries, more than 150 composers wrote their own music on its chords."), "source": EN("Wikipedia, Folia"), "url": "https://en.wikipedia.org/wiki/Folia"},
+    "4-layers": {"id": "dido-ground", "text": EN("In Dido's Lament, from Purcell's opera Dido and Aeneas, the same short falling bass line repeats eleven times through the aria, and Dido sings her own line over it."), "source": EN("Wikipedia, Dido's Lament"), "url": "https://en.wikipedia.org/wiki/Dido%27s_Lament"},
+}
+
+
 def lesson(lid, title, steps, **extra):
     check(lid, steps)
+    if "fact" not in extra and lid in FACTS:
+        extra = {"fact": FACTS[lid], **extra}
     return {"id": f"ll-{lid}", "title": EN(title), **extra, "steps": steps}
 
 
