@@ -238,6 +238,7 @@ def imp_1_switch():
     ]
     return {
         "id": "imp-1-switch", "title": EN("Major and minor thirds"),
+        "fact": {"id": "odington-thirds", "text": {"en": "Before 1316, the English monk Walter Odington wrote that thirds sit close to the ratios 5 to 4 and 6 to 5, and that human voices, \"by their own subtlety\", blend them pleasantly."}, "source": {"en": "Wikipedia, Walter Odington"}, "url": "https://en.wikipedia.org/wiki/Walter_Odington"},
         "steps": [
             learn("A third above switches between major and minor to stay in the key. You don't count it: you follow the scale, two notes up.",
                   [("Major thirds", "Do to mi, fa to la, so to ti"),
@@ -266,6 +267,7 @@ def imp_1_fourth():
     first = line(HARMONY, 0, 16)
     return {
         "id": "imp-1-fourth", "title": EN("Third or fourth?"),
+        "fact": {"id": "fourth-in-lower-voice", "text": {"en": "In the 1470s, the first dictionary of musical terms called the fourth a dissonance. Yet it still worked as a consonance with a third or fifth in a lower voice, as yours over so does."}, "source": {"en": "Wikipedia, Perfect fourth (citing Drabkin, \"Fourth\", New Grove (2001))"}, "url": "https://en.wikipedia.org/wiki/Perfect_fourth"},
         "steps": [
             learn("Hear why the part goes one note higher over so: with the chord of do under it, the third above so (ti) rubs, and do rings.",
                   [("Over so", "Not ti, but do"),
@@ -387,6 +389,7 @@ def imp_2_hold():
         return [{"beat": (c["beat"] - 16) + start, "root": (c["rel"] + do) % 12, "quality": c["quality"], "bass": None} for c in ([dict(first, beat=16)] if first["beat"] < 16 else []) + line2]
     return {
         "id": "imp-2-hold", "title": EN("Hold, then step off"),
+        "fact": {"id": "small-steps-go-down", "text": {"en": "A 1989 study of a wide range of Western music found that small steps between notes mostly go down, while big leaps mostly go up."}, "source": {"en": "Vos and Troost, Music Perception (1989)"}, "url": "https://doi.org/10.2307/40285439"},
         "steps": [
             learn("Lost? Hold your note until it rubs, then step. A rub usually steps, most often down: over the chord of so, do steps to ti.",
                   [("Hold do", "Under Michael's second line"),
@@ -553,6 +556,7 @@ def imp_4_hints():
     picks = chord_choices(mel, chs, do)
     return {
         "id": "imp-4-hints", "title": EN("Lights when you need them"),
+        "fact": {"id": "less-feedback-sticks", "text": {"en": "In a 1990 study, people learning a movement skill who got feedback on only half their practice tries kept the skill better than those told every time, though their practice went worse."}, "source": {"en": "Winstein and Schmidt, J. Exp. Psychol. Learn. Mem. Cogn. (1990), as reported in Reid and Swafford, Frontiers in Psychology (2020)"}, "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00846/full"},
         "steps": [
             learn("Fewer lights: a note shows only once you've been off it for a beat. Find it by ear first.",
                   [("Listen to the verse", "Steal Away's verse, with its chords"),
@@ -572,6 +576,7 @@ def imp_4_free():
     picks = chord_choices(TUNE, CHORDS, DO)
     return {
         "id": "imp-4-free", "title": EN("Lights off"),
+        "fact": {"id": "singing-upon-the-book", "text": {"en": "In the 1400s, many musicians thought of counterpoint as something improvised, \"singing upon the book\": one singer sang a written melody while the others made up parts to fit it as they went."}, "source": {"en": "Broude, Textual Cultures (2020)"}, "url": "https://scholarworks.iu.edu/journals/index.php/textual/article/view/30071"},
         "steps": [
             learn("No lights at all. The chords sound under you: any note in the chord, except the tune's own, is a harmony.",
                   [("Listen to the chords", "They tell you where you are"),

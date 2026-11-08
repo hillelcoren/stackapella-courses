@@ -323,6 +323,7 @@ def bend(start=3, end=4, seconds=3):
 def gr_3_bend():
     return {
         "id": "gr-3-bend", "title": EN("Bend up"),
+        "fact": fact("rhapsody-clarinet-slide", "The clarinet slide that opens Rhapsody in Blue began as a joke. Gershwin wrote a trill and a plain scale; in rehearsal Ross Gorman slid it instead, and Gershwin asked for as much \"wail\" as possible.", "Wikipedia, Rhapsody in Blue", "https://en.wikipedia.org/wiki/Rhapsody_in_Blue"),
         "steps": [
             learn("The blue note sits between the piano's keys, between the minor and major third, nearer the minor. Start there, loose, and bend up to the third: the arrival is what matters.",
                   [("Start low", "Between the keys"), ("Bend up", "Slowly, lightly"), ("Arrive", "And hold the third")], visual="vibrato"),
@@ -428,6 +429,7 @@ def gr_4_steal():
     ran = with_run(line, "steal", lambda t, b, l: run_down(t, pcs, 1, b, 0.5, max(0.5, l - 0.5)))
     return {
         "id": "gr-4-steal", "title": EN("Steal Away"),
+        "fact": fact("steal-away-oberlin-1871", "In November 1871 the Fisk Jubilee Singers sang Steal Away to a convention of ministers at Oberlin, Ohio. The ministers passed them from church to church toward New York, where they became a sensation.", "Oberlin Alumni Magazine (Oberlin College), Summer 2001", "https://www2.oberlin.edu/alummag/oamcurrent/oam_summer2001/profile1.html"),
         "steps": [
             learn("A quiet spiritual: one gentle run, nothing more.",
                   [("Quiet", "A medium volume or less"), ("One run", "Gentle, on a held word"), ("The word", "Comes first")]),

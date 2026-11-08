@@ -339,6 +339,7 @@ def sc_2_third():
         names += [chord] * 4
     return {
         "id": "sc-2-third", "title": EN("The colour note"),
+        "fact": fact("shell-voicings-third-seventh", "A jazz \"shell voicing\" leaves out a chord's fifth, sometimes its root too: the third and seventh alone imply what kind of chord it is. Bud Powell and Bill Evans used them extensively.", "University of North Carolina Wilmington, Using Shell Voicings", "https://people.uncw.edu/russellr/ShellVoicings.html"),
         "steps": [
             learn("The third is the chord's colour: it says major. Land your phrases on it.",
                   [("Listen", "Bright or dark?"), ("The third", "The colour note"), ("Land it", "Right on, no slide")]),
@@ -373,6 +374,7 @@ def sc_3_ends():
     notes, names = trades([(0, "I"), (2, "IV"), (3, "I"), (0, "V")], choose_last=2)
     return {
         "id": "sc-3-ends", "title": EN("Keep the rhythm, change the end"),
+        "fact": fact("blues-aab-verse", "Many blues verses follow an AAB pattern: a line sung over four bars, the same line repeated over the next four, then a longer, different line to close.", "Wikipedia, Blues", "https://en.wikipedia.org/wiki/Blues"),
         "steps": [
             learn("Echo the call's rhythm, and choose its last two notes yourself, any of the chord's tones, the flat seven too.",
                   [("The rhythm", "Exactly the call's"), ("The end", "Two notes of your own"), ("The flat seven", "Now lit too")]),
@@ -499,6 +501,7 @@ def sc_4_four():
     notes, names = solo([CALLS[0], CALLS[2]], ["I", "I"])
     return {
         "id": "sc-4-four", "title": EN("Four bars of your own"),
+        "fact": fact("gonsalves-27-choruses", "At the 1956 Newport Jazz Festival, Paul Gonsalves soloed for 27 choruses in Duke Ellington's Diminuendo and Crescendo in Blue. The seated crowd rose to dance, and the night revived Ellington's career.", "Wikipedia, Ellington at Newport", "https://en.wikipedia.org/wiki/Ellington_at_Newport"),
         "steps": [
             learn("Four bars, every note your choice from the blues scale, the last on one of the chord's tones. No wrong notes: everything lit fits.",
                   [("A rhythm", "Written for you"), ("The notes", "Any of the blues scale"), ("The last", "A chord tone")]),

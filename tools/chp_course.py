@@ -72,8 +72,18 @@ def wait_for_me(text, phrases, tempo=None):
     return {"kind": "try", "text": EN(text), "exercise": exercise}
 
 
+# Each unit page's "Did you know?" (docs/seo-lesson-pages-plan.md), read in its source and checked again.
+FACTS = {
+    "1-hear": {"id": "self-to-other-ratio", "text": EN("In a 1999 study with a synthesized choir, each singer liked their own voice at a narrow level, typically within 2 decibels either way, but levels ranged from about even to 15 decibels louder."), "source": EN("Ternström, JASA (1999)"), "url": "https://europepmc.org/article/MED/10380674"},
+    "2-lines": {"id": "not-how-much-but-how", "text": EN("In a 2009 study, advanced pianists practised a hard three-bar passage. How long they practised didn't predict how well they played it the next day. What share of their tries they played right did."), "source": EN("Duke, Simmons and Cash, Journal of Research in Music Education (2009)"), "url": "https://doi.org/10.1177/0022429408328851"},
+    "3-refrain": {"id": "james-recollect", "text": EN("In 1890 William James wrote that once you almost know a piece by heart, \"it pays better to wait and recollect by an effort from within\" than to look at the book again."), "source": EN("James, The Principles of Psychology (1890), chapter 16, York University Classics in the History of Psychology"), "url": "https://psychclassics.yorku.ca/James/Principles/prin16.htm"},
+    "4-ready": {"id": "sleep-on-the-melody", "text": EN("In a 2006 study, people who learned a short piano melody played it more accurately after a night's sleep, with no further practice. The same hours awake brought no significant gain."), "source": EN("Simmons and Duke, Journal of Research in Music Education (2006)"), "url": "https://doi.org/10.1177/002242940605400308"},
+}
+
+
 def lesson(lid, title, steps, **extra):
-    return {"id": f"chp-{lid}", "title": EN(title), **extra, "steps": steps}
+    fact = {"fact": FACTS[lid]} if lid in FACTS else {}
+    return {"id": f"chp-{lid}", "title": EN(title), **fact, **extra, "steps": steps}
 
 
 # The chord a pianist gives, and the note to find in it: each group's call is the chord sung up
