@@ -5,8 +5,16 @@ barbershop ones (never a mix), each part's notes are in order and inside its own
 voicing names real parts and includes the melody, and no number has more than 6 decimal places. The app's full checks (the JSON Schema in
 templates/format/template.json, the arrangement review and the sync) run in the Stackapella
 repository when a new commit of this one is pinned. Prints one line; exits 1 on any problem.
+
+It also compares each song with the same song at origin/main (or `--since <ref>`): a song whose music
+changed under the same version number is a problem, as production's sync refuses it and the deploy
+fails (Sakura Sakura, 2026-11-09). The music is what the sync hashes (SyncOfficialTemplates::musicHash):
+tempo, key, time signature, pickup, sections, and each part's key, range, melody and guide, breaths
+and words included. Skipped when git or the ref isn't there (a shallow CI checkout). The pin's own
+check (app:templates:versions, run by content-bump.sh) compares with the pinned commit.
 """
 import json
+import subprocess
 import sys
 from pathlib import Path
 
@@ -118,6 +126,54 @@ if index.exists():
     for name in listed:
         if not (ROOT / "templates" / "free" / f"{name}.json").exists():
             problems.append(f"templates/free/index.json lists {name}, which isn't there")
+
+
+def music(song):
+    """What the sync hashes, with JSON's own types (2 and 2.0 differ there, as in PHP)."""
+    parts = [{k: p.get(k) for k in ("key", "range", "melody", "guide")} if isinstance(p, dict) else {} for p in song.get("parts") or []]
+    keep = {k: song.get(k) for k in ("tempo", "key", "timeSignature", "pickupBeats", "sections")}
+    return json.dumps({**keep, "parts": parts}, sort_keys=True)
+
+
+def check_versions(ref):
+    """Each song against the same id at ref: changed music needs a higher version, and none goes down."""
+    def git(*args):
+        return subprocess.run(["git", "-C", str(ROOT), *args], capture_output=True, text=True)
+
+    try:
+        if git("rev-parse", "--verify", "--quiet", f"{ref}^{{commit}}").returncode != 0:
+            return
+    except OSError:
+        return
+    before = {}
+    for name in git("ls-tree", "-r", "--name-only", ref, "--", "templates/free", "templates/library").stdout.split("\n"):
+        if name.endswith(".json") and name.count("/") == 2 and not name.endswith("/index.json"):
+            try:
+                old = json.loads(git("show", f"{ref}:{name}").stdout)
+            except ValueError:
+                continue
+            if isinstance(old, dict) and isinstance(old.get("id"), str):
+                before[old["id"]] = old
+    for path in songs:
+        if path.parent.name not in ("free", "library"):
+            continue
+        try:
+            song = json.loads(path.read_text())
+        except ValueError:
+            continue
+        old = before.get(song.get("id")) if isinstance(song, dict) else None
+        if not old:
+            continue
+        was, now = old.get("version", 0), song.get("version", 0)
+        where = path.relative_to(ROOT)
+        if now < was:
+            problems.append(f"{where}: version {now} is below {was} at {ref}")
+        elif now == was and music(song) != music(old):
+            problems.append(f"{where}: its notes changed at version {now} since {ref}; give it version {now + 1} (production's sync refuses the same version with other notes)")
+
+
+since = sys.argv[sys.argv.index("--since") + 1] if "--since" in sys.argv[1:-1] else "origin/main"
+check_versions(since)
 
 for problem in problems:
     print(problem)
