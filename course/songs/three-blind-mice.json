@@ -1,0 +1,362 @@
+{
+    "id": "song-three-blind-mice",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Three Blind Mice (round)"},
+    "units": [
+        {
+            "id": "song-three-blind-mice-soprano",
+            "title": {"en": "The round"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-three-blind-mice-soprano-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Three Blind Mice: hear the whole song first, then the tune on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own."},
+                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "tbm-school-round", "text": {"en": "In 1886 a reader of the journal Notes and Queries called Three Blind Mice \"the school round\", and wrote that in all the copies of the round he had met the words ran \"They all ran after the farmer's wife\"."}, "source": {"en": "Notes and Queries, 7th series, vol. 2 (25 December 1886), p. 507, read from the scan"}, "url": "https://archive.org/details/sim_notes-and-queries_1886-12-25_2_52"}
+                },
+                {
+                    "id": "song-three-blind-mice-soprano-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-three-blind-mice-soprano-3",
+                    "title": {"en": "Lines 3 to 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-three-blind-mice-soprano-4",
+                    "title": {"en": "Lines 7 and 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [6, 7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-three-blind-mice-soprano-5",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole tune, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-three-blind-mice-soprano-6",
+                    "title": {"en": "Come in second"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The round: come in second, 8 beats after the first voice, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-three-blind-mice-soprano-7",
+                    "title": {"en": "Come in third"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The round: come in third, 16 beats after the first voice, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-three-blind-mice-soprano-8",
+                    "title": {"en": "Come in fourth"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The round: come in fourth, 4 bars after the first voice, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on."},
+                            "exercise": {
+                                "song": {
+                                    "template": "three-blind-mice",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-three-blind-mice-soprano-9",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the second voice of Three Blind Mice in Sing, coming in over the first."}, "measures": {"en": "Scored on the notes."}, "template": "three-blind-mice", "singers": 2, "part": "alto"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "tbm-home-songs", "text": {"en": "Our version is read from Home Songs, a Boston collection of 1906 of favourite songs, hymns and rounds \"for the fireside\", which prints it as a round in four parts."}, "source": {"en": "Home Songs (Oliver Ditson Company, Boston, 1906), p. 95, read from the scan"}, "url": "https://archive.org/details/homesongscollect00unse_0"}
+                }
+            ]
+        }
+    ]
+}

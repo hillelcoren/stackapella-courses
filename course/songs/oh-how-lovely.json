@@ -1,0 +1,689 @@
+{
+    "id": "song-oh-how-lovely",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Oh, How Lovely Is the Evening (round)"},
+    "units": [
+        {
+            "id": "song-oh-how-lovely-soprano",
+            "title": {"en": "The round"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-oh-how-lovely-soprano-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Oh, How Lovely Is the Evening: hear the whole song first, then the tune on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own."},
+                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "ohl-german", "text": {"en": "The tune is a German round, \"O wie wohl ist mir am Abend\", usually credited to the teacher Karl Friedrich Schulz: its oldest known printing is in his singing method of 1812, though whether he wrote it is not certain."}, "source": {"en": "Wikipedia (German), \"O wie wohl ist mir am Abend\", citing Karl Schulz, Leitfaden bei der Gesanglehre (Leipzig, 1812), p. 22"}, "url": "https://de.wikipedia.org/wiki/O_wie_wohl_ist_mir_am_Abend"}
+                },
+                {
+                    "id": "song-oh-how-lovely-soprano-2",
+                    "title": {"en": "Lines 1 to 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 3 is line 2 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-oh-how-lovely-soprano-3",
+                    "title": {"en": "Lines 4 to 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 6 is the tune of line 5 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 to 7 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [3, 4, 5, 6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-oh-how-lovely-soprano-4",
+                    "title": {"en": "Lines 8 to 11"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is line 1 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 2 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8 to 11 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [7, 8, 9, 10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-oh-how-lovely-soprano-5",
+                    "title": {"en": "Lines 12 to 15"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 2 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 4 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 15 is the tune of line 5 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 12 to 15 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [11, 12, 13, 14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-oh-how-lovely-soprano-6",
+                    "title": {"en": "Lines 16 to 19"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is line 7 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 18 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 19 is line 1 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 16 to 19 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [15, 16, 17, 18]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-oh-how-lovely-soprano-7",
+                    "title": {"en": "Lines 20 to 23"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 20 is line 2 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [19]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 21 is line 2 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 22 is line 4 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [21]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 23 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [22]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 20 to 23 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [19, 20, 21, 22]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-oh-how-lovely-soprano-8",
+                    "title": {"en": "Lines 24 to 27"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 24 is the tune of line 5 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [23]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 25 is line 7 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 26 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [25]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 27 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [26]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 24 to 27 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [23, 24, 25, 26]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-oh-how-lovely-soprano-9",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole tune, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-oh-how-lovely-soprano-10",
+                    "title": {"en": "Come in second"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The round: come in second, 6 bars after the first voice, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-oh-how-lovely-soprano-11",
+                    "title": {"en": "Come in third"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The round: come in third, 12 bars after the first voice, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-oh-how-lovely-soprano-12",
+                    "title": {"en": "Come in fourth"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The round: come in fourth, 18 bars after the first voice, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on."},
+                            "exercise": {
+                                "song": {
+                                    "template": "oh-how-lovely",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-oh-how-lovely-soprano-13",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the second voice of Oh, How Lovely Is the Evening in Sing, coming in over the first."}, "measures": {"en": "Scored on the notes."}, "template": "oh-how-lovely", "singers": 2, "part": "alto"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "ohl-sefton-1869", "text": {"en": "A Toronto school songbook of 1869 printed an earlier English version, \"Oh, How Lovely!\", a round for three voices, with \"When to rest the bells are ringing\", closer to the German, where later books have \"When the bells are sweetly ringing\"."}, "source": {"en": "H. F. Sefton, Three-Part Songs (Toronto, 1869), p. 41, read from the scan"}, "url": "https://archive.org/details/threeparts69west00seft"}
+                }
+            ]
+        }
+    ]
+}

@@ -90,6 +90,10 @@ SONGS = {
     "caro-mio-ben": "with the song",
     "shorty-george-blues": "with the song",
     "deep-river": "with the song",
+    "white-coral-bells": "with the song",
+    "londons-burning": "with the song",
+    "three-blind-mice": "with the song",
+    "oh-how-lovely": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
@@ -134,9 +138,12 @@ def round_entries(template):
         notes = part["guide"]["notes"]
         delay = notes[0]["beat"] - first[0]["beat"]
         octave = notes[0]["pitch"] - first[0]["pitch"]
-        same = len(notes) == len(first) and delay > 0 and octave % 12 == 0 and all(
-            abs(n["beat"] - m["beat"] - delay) < 1e-6 and n["length"] == m["length"] and n["pitch"] - m["pitch"] == octave
-            for n, m in zip(notes, first))
+        # A round whose voices all stop together (London's Burning) cuts the later voices short: each is
+        # the tune from its start, with its last note held to the shared ending.
+        same = 0 < len(notes) <= len(first) and delay > 0 and octave % 12 == 0 and all(
+            abs(n["beat"] - m["beat"] - delay) < 1e-6 and n["pitch"] - m["pitch"] == octave
+            and (n["length"] == m["length"] or (i == len(notes) - 1 and len(notes) < len(first)))
+            for i, (n, m) in enumerate(zip(notes, first)))
         if not same:
             return None
         entries.append((part, delay))
