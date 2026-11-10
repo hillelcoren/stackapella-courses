@@ -89,6 +89,7 @@ SONGS = {
     "drunken-sailor": "with the song",
     "caro-mio-ben": "with the song",
     "shorty-george-blues": "with the song",
+    "deep-river": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
