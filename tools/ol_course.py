@@ -457,7 +457,7 @@ def ol_4_challenge():
     return {
         "id": "ol-4-challenge", "title": EN("Shchedryk"), "challenge": True,
         "steps": [
-            learn("Your first Japanese line, sixteen lessons ago, and now; then Shchedryk with the choir, in its own letters.",
+            learn("Your first Japanese line, from lesson 1, and now; then Shchedryk with the choir, in its own letters.",
                   [("Then and now", "Lesson 1's line, today"), ("The two lines", "In our letters, at 96"), ("The choir", "In Cyrillic, with the other parts")]),
             play("Lesson 1's line.", first_line(thenAndNow="ol.first-line"), PITCH_BEAT),
             play("Lines 1 and 2 at 96. " + SHCH_SAFETY, {"tempo": 96, "notes": two, "turn": True}, PITCH_BEAT),
