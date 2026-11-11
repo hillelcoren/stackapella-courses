@@ -2,32 +2,32 @@
     "id": "whistling",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Whistling"},
+    "title": {"en": "Whistling", "es": "Silbar"},
     "units": [
         {
             "id": "wh-your-whistle",
-            "title": {"en": "Your whistle"},
+            "title": {"en": "Your whistle", "es": "Tu silbido"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "wh-1-find",
-                    "title": {"en": "Find your whistle"},
-                    "fact": {"id": "mouth-one-chamber", "text": {"en": "X-ray films of two whistlers show the mouth working as a resonating chamber, bounded by the raised tongue at the back and pursed lips at the front. The bigger the chamber, the lower the note."}, "source": {"en": "Azola A. et al., \"The physiology of oral whistling: a combined radiographic and MRI analysis\", Journal of Applied Physiology 124 (2018), abstract (PMC6048461)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6048461/"},
+                    "title": {"en": "Find your whistle", "es": "Encuentra tu silbido"},
+                    "fact": {"id": "mouth-one-chamber", "text": {"en": "X-ray films of two whistlers show the mouth working as a resonating chamber, bounded by the raised tongue at the back and pursed lips at the front. The bigger the chamber, the lower the note.", "es": "Filmaciones con rayos X de dos silbadores muestran que la boca funciona como una cámara de resonancia, cerrada por detrás por la lengua levantada y por delante por los labios fruncidos. Cuanto mayor es la cámara, más grave es la nota."}, "source": {"en": "Azola A. et al., \"The physiology of oral whistling: a combined radiographic and MRI analysis\", Journal of Applied Physiology 124 (2018), abstract (PMC6048461)", "es": "Azola A. et al., \"The physiology of oral whistling: a combined radiographic and MRI analysis\", Journal of Applied Physiology 124 (2018), abstract (PMC6048461)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6048461/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Wet your lips and make a small, soft \"oo\" shape. Rest your tongue tip behind your bottom teeth, and blow slowly, as if cooling soup. Change the opening and your tongue a little at a time until a note comes."},
+                            "headline": {"en": "Wet your lips and make a small, soft \"oo\" shape. Rest your tongue tip behind your bottom teeth, and blow slowly, as if cooling soup. Change the opening and your tongue a little at a time until a note comes.", "es": "Humedece los labios y ponlos como para decir \"oo\" (una u), con una abertura pequeña y sin apretar. Apoya la punta de la lengua detrás de los dientes de abajo y sopla despacio, como si enfriaras una sopa. Cambia la abertura y la lengua poco a poco hasta que salga una nota."},
                             "steps": [
-                                {"title": {"en": "A hiss with a faint note is the start"}, "detail": {"en": "For many people it takes a few days, not a minute"}},
-                                {"title": {"en": "Breathing in can find it"}, "detail": {"en": "Some find their first note whistling in; then whistle out"}},
-                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                                {"title": {"en": "A hiss with a faint note is the start", "es": "Un soplido con una nota débil ya es un comienzo"}, "detail": {"en": "For many people it takes a few days, not a minute", "es": "A mucha gente le lleva unos días, no un minuto"}},
+                                {"title": {"en": "Breathing in can find it", "es": "Aspirando puede salir"}, "detail": {"en": "Some find their first note whistling in; then whistle out", "es": "Hay quien saca su primera nota silbando hacia dentro; después, silba hacia fuera"}},
+                                {"title": {"en": "Soft lips, an easy jaw", "es": "Labios y mandíbula sueltos"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally", "es": "Un chorro de aire suave. Si se te cansan los labios o notas mareo, para y respira con normalidad"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "wave",
-                            "text": {"en": "Blow gently until the dot appears. Breathy is fine: the app hears the note, not how clear it is."},
+                            "text": {"en": "Blow gently until the dot appears. Breathy is fine: the app hears the note, not how clear it is.", "es": "Sopla suave hasta que aparezca el punto. Si suena con aire, no pasa nada: la app oye la nota, no si suena limpia."},
                             "exercise": {
                                 "tempo": 60,
                                 "lead": 2,
@@ -38,18 +38,18 @@
                                 "base": "whistle",
                                 "target": [{"seconds": 10, "kind": "free", "scored": false}]
                             },
-                            "measures": {"en": "Not scored: just find the note."}
+                            "measures": {"en": "Not scored: just find the note.", "es": "No se puntúa: solo encuentra la nota."}
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Two whistles. Listen to both, then choose."},
+                            "text": {"en": "Two whistles. Listen to both, then choose.", "es": "Dos silbidos. Escucha los dos y luego elige."},
                             "exercise": {
                                 "tempo": 72,
                                 "whistle": true,
                                 "base": "whistle",
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which whistle held steady?"},
+                                        "prompt": {"en": "Which whistle held steady?", "es": "¿Qué silbido se mantuvo estable?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": 0, "lyric": "oo"}]
@@ -59,10 +59,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The first stayed on its note. The second sagged at the end."}
+                                        "why": {"en": "The first stayed on its note. The second sagged at the end.", "es": "El primero se quedó en su nota. El segundo bajó de afinación al final."}
                                     },
                                     {
-                                        "prompt": {"en": "Which whistle held steady?"},
+                                        "prompt": {"en": "Which whistle held steady?", "es": "¿Qué silbido se mantuvo estable?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": 0, "lyric": "oo", "style": "fall"}]
@@ -72,15 +72,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The second held; the first drooped as its air ran out."}
+                                        "why": {"en": "The second held; the first drooped as its air ran out.", "es": "El segundo se mantuvo; el primero se fue cayendo al quedarse sin aire."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "wave",
-                            "text": {"en": "Whistle any comfortable note and hold it for a few seconds. The line is only a guide."},
+                            "text": {"en": "Whistle any comfortable note and hold it for a few seconds. The line is only a guide.", "es": "Silba cualquier nota cómoda y mantenla unos segundos. La línea solo es orientativa."},
                             "exercise": {
                                 "tempo": 60,
                                 "lead": 2,
@@ -93,28 +93,28 @@
                                 "score": "whistleNote",
                                 "keep": "whistling.first-whistle"
                             },
-                            "measures": {"en": "Scored on finding a steady whistle: any comfortable note counts."}
+                            "measures": {"en": "Scored on finding a steady whistle: any comfortable note counts.", "es": "Se puntúa que encuentres un silbido estable: vale cualquier nota cómoda."}
                         }
                     ]
                 },
                 {
                     "id": "wh-1-steady",
-                    "title": {"en": "Hold it steady"},
-                    "fact": {"id": "orangutan-copies-whistle", "text": {"en": "Whistling isn't only human. An orangutan picked up a human whistle with no training at all, a study reported, and could change how long and how many times it whistled to copy a person."}, "source": {"en": "Wich S.A. et al., \"A case of spontaneous acquisition of a human sound by an orangutan\", Primates 50 (2009) 56-64, abstract (PMID 19052691)"}, "url": "https://europepmc.org/article/MED/19052691"},
+                    "title": {"en": "Hold it steady", "es": "Mantenla estable"},
+                    "fact": {"id": "orangutan-copies-whistle", "text": {"en": "Whistling isn't only human. An orangutan picked up a human whistle with no training at all, a study reported, and could change how long and how many times it whistled to copy a person.", "es": "Silbar no es solo cosa de humanos. Según un estudio, un orangután aprendió a silbar como una persona sin ningún entrenamiento, y podía cambiar la duración y el número de sus silbidos para imitar a alguien."}, "source": {"en": "Wich S.A. et al., \"A case of spontaneous acquisition of a human sound by an orangutan\", Primates 50 (2009) 56-64, abstract (PMID 19052691)", "es": "Wich S.A. et al., \"A case of spontaneous acquisition of a human sound by an orangutan\", Primates 50 (2009) 56-64, abstract (PMID 19052691)"}, "url": "https://europepmc.org/article/MED/19052691"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Your whistle note, held. Keep the air steady and the tongue still, and the note stays put."},
+                            "headline": {"en": "Your whistle note, held. Keep the air steady and the tongue still, and the note stays put.", "es": "Tu nota de silbido, mantenida. Con el aire estable y la lengua quieta, la nota no se mueve."},
                             "steps": [
-                                {"title": {"en": "Steady air"}, "detail": {"en": "A slow, even stream"}},
-                                {"title": {"en": "A still tongue"}, "detail": {"en": "The tongue moves the note: keep it where it is"}}
+                                {"title": {"en": "Steady air", "es": "Aire estable"}, "detail": {"en": "A slow, even stream", "es": "Un chorro lento y uniforme"}},
+                                {"title": {"en": "A still tongue", "es": "Lengua quieta"}, "detail": {"en": "The tongue moves the note: keep it where it is", "es": "La lengua mueve la nota: mantén la lengua donde está"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Your note, held for four beats."},
+                            "text": {"en": "Your note, held for four beats.", "es": "Tu nota, mantenida cuatro tiempos."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "oo"}],
@@ -123,11 +123,11 @@
                                 "base": "whistle",
                                 "score": "drift"
                             },
-                            "measures": {"en": "Scored on the note staying where it started."}
+                            "measures": {"en": "Scored on the note staying where it started.", "es": "Se puntúa que la nota se quede donde empezó."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, then hear yourself."},
+                            "text": {"en": "Once more, then hear yourself.", "es": "Una vez más, y luego escúchate."},
                             "exercise": {
                                 "tempo": 60,
                                 "lead": 2,
@@ -136,12 +136,12 @@
                                 "model": {
                                     "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "oo"}]
                                 },
-                                "questions": [{"en": "Clear or breathy?"}, {"en": "Did it wobble at the start?"}]
+                                "questions": [{"en": "Clear or breathy?", "es": "¿Limpio o con aire?"}, {"en": "Did it wobble at the start?", "es": "¿Tembló al empezar?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hold it once more, start to end."},
+                            "text": {"en": "Hold it once more, start to end.", "es": "Mantenla una vez más, de principio a fin."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "oo"}],
@@ -149,39 +149,39 @@
                                 "whistle": true,
                                 "base": "whistle"
                             },
-                            "measures": {"en": "Scored on the note, held to its end."}
+                            "measures": {"en": "Scored on the note, held to its end.", "es": "Se puntúa la nota, mantenida hasta el final."}
                         }
                     ]
                 },
                 {
                     "id": "wh-1-start",
-                    "title": {"en": "A clean start"},
-                    "fact": {"id": "shaw-little-menlo-1888", "text": {"en": "On 14 August 1888, at Little Menlo, Colonel Gouraud's house in London, the famed whistler Alice J. Shaw whistled for Edison's phonograph. A 1995 tape copy of the cylinder is in the New York Public Library's sound archive."}, "source": {"en": "New York Public Library Digital Collections, \"Edison white wax 'Perfected' era cylinders, Nos. 1 thru 22\", Rodgers and Hammerstein Archives of Recorded Sound (shelf *LT-10 9655), table of contents and notes; originals lent by the Edison National Historic Site, transferred to tape 27 August 1995"}, "url": "https://digitalcollections.nypl.org/items/1203be70-b910-0133-4350-60f81dd2b63c"},
+                    "title": {"en": "A clean start", "es": "Un ataque limpio"},
+                    "fact": {"id": "shaw-little-menlo-1888", "text": {"en": "On 14 August 1888, at Little Menlo, Colonel Gouraud's house in London, the famed whistler Alice J. Shaw whistled for Edison's phonograph. A 1995 tape copy of the cylinder is in the New York Public Library's sound archive.", "es": "El 14 de agosto de 1888, en Little Menlo, la casa del coronel Gouraud en Londres, la célebre silbadora Alice J. Shaw silbó para el fonógrafo de Edison. Una copia en cinta del cilindro, de 1995, se conserva en el archivo sonoro de la Biblioteca Pública de Nueva York."}, "source": {"en": "New York Public Library Digital Collections, \"Edison white wax 'Perfected' era cylinders, Nos. 1 thru 22\", Rodgers and Hammerstein Archives of Recorded Sound (shelf *LT-10 9655), table of contents and notes; originals lent by the Edison National Historic Site, transferred to tape 27 August 1995", "es": "New York Public Library Digital Collections, \"Edison white wax 'Perfected' era cylinders, Nos. 1 thru 22\", Rodgers and Hammerstein Archives of Recorded Sound (shelf *LT-10 9655), table of contents and notes; originals lent by the Edison National Historic Site, transferred to tape 27 August 1995"}, "url": "https://digitalcollections.nypl.org/items/1203be70-b910-0133-4350-60f81dd2b63c"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Start each note with a soft \"h\", the shape already set, so the note is there from its first sound."},
+                            "headline": {"en": "Start each note with a soft \"h\", the shape already set, so the note is there from its first sound.", "es": "Empieza cada nota con una \"h\" suave (un soplo, como una j muy suave), con la boca ya colocada, para que la nota esté ahí desde el primer sonido."},
                             "steps": [
-                                {"title": {"en": "A soft h"}, "detail": {"en": "The shape first, then the air"}},
-                                {"title": {"en": "On the note at once"}, "detail": {"en": "No slide up into it"}}
+                                {"title": {"en": "A soft h", "es": "Una h suave"}, "detail": {"en": "The shape first, then the air", "es": "Primero la forma, luego el aire"}},
+                                {"title": {"en": "On the note at once", "es": "Directo a la nota"}, "detail": {"en": "No slide up into it", "es": "Sin entrar desde abajo"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "bullseye",
-                            "text": {"en": "Whistle each note back, and watch where it lands."},
+                            "text": {"en": "Whistle each note back, and watch where it lands.", "es": "Repite cada nota silbando y mira dónde cae."},
                             "exercise": {
                                 "tempo": 72,
                                 "whistle": true,
                                 "base": "whistle",
                                 "echoes": [0, 1, -1]
                             },
-                            "measures": {"en": "Scored on where each note lands from its first sound."}
+                            "measures": {"en": "Scored on where each note lands from its first sound.", "es": "Se puntúa dónde cae cada nota desde su primer sonido."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Four short notes, a rest before each: on the note from the first sound."},
+                            "text": {"en": "Four short notes, a rest before each: on the note from the first sound.", "es": "Cuatro notas cortas, con un silencio antes de cada una: en la nota desde el primer sonido."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -195,11 +195,11 @@
                                 "base": "whistle",
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on where each note lands from its first sound."}
+                            "measures": {"en": "Scored on where each note lands from its first sound.", "es": "Se puntúa dónde cae cada nota desde su primer sonido."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Then one long one, started clean and held."},
+                            "text": {"en": "Then one long one, started clean and held.", "es": "Luego una larga, con un ataque limpio y mantenida."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "oo"}],
@@ -207,28 +207,28 @@
                                 "whistle": true,
                                 "base": "whistle"
                             },
-                            "measures": {"en": "Scored on the note, held to its end."}
+                            "measures": {"en": "Scored on the note, held to its end.", "es": "Se puntúa la nota, mantenida hasta el final."}
                         }
                     ]
                 },
                 {
                     "id": "wh-1-challenge",
-                    "title": {"en": "Hot Cross Buns"},
+                    "title": {"en": "Hot Cross Buns", "es": "Hot Cross Buns"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Three notes and a tune: your note and the two just above it, each started clean."},
+                            "headline": {"en": "Three notes and a tune: your note and the two just above it, each started clean.", "es": "Tres notas y una melodía: tu nota y las dos que hay justo por encima, cada una con un ataque limpio."},
                             "steps": [
-                                {"title": {"en": "Three notes"}, "detail": {"en": "Down, down, then the quick ones"}},
-                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                                {"title": {"en": "Three notes", "es": "Tres notas"}, "detail": {"en": "Down, down, then the quick ones", "es": "Baja, baja y luego las rápidas"}},
+                                {"title": {"en": "Soft lips, an easy jaw", "es": "Labios y mandíbula sueltos"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally", "es": "Un chorro de aire suave. Si se te cansan los labios o notas mareo, para y respira con normalidad"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole tune, heard then whistled."},
+                            "text": {"en": "The whole tune, heard then whistled.", "es": "La melodía entera: escúchala y luego sílbala."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -254,7 +254,7 @@
                                 "whistle": true,
                                 "base": "whistle"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 }
@@ -262,28 +262,28 @@
         },
         {
             "id": "wh-the-tongue",
-            "title": {"en": "The tongue"},
+            "title": {"en": "The tongue", "es": "La lengua"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "wh-2-step",
-                    "title": {"en": "The next note up"},
-                    "fact": {"id": "tongue-forward-higher", "text": {"en": "Real-time MRI films of six people whistling showed the tongue's shape largely sets the note: the further forward it sat, the higher the whistle. The same tongue work shapes vowels in speech."}, "source": {"en": "Belyk M. et al., \"Whistling shares a common tongue with speech: bioacoustics from real-time MRI of the human vocal tract\", Proceedings of the Royal Society B 286 (2019) 20191116 (PMC6784732)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6784732/"},
+                    "title": {"en": "The next note up", "es": "Una nota más arriba"},
+                    "fact": {"id": "tongue-forward-higher", "text": {"en": "Real-time MRI films of six people whistling showed the tongue's shape largely sets the note: the further forward it sat, the higher the whistle. The same tongue work shapes vowels in speech.", "es": "Filmaciones por resonancia magnética en tiempo real de seis personas silbando mostraron que la forma de la lengua decide en gran parte la nota: cuanto más adelante estaba, más agudo era el silbido. Ese mismo trabajo de la lengua da forma a las vocales al hablar."}, "source": {"en": "Belyk M. et al., \"Whistling shares a common tongue with speech: bioacoustics from real-time MRI of the human vocal tract\", Proceedings of the Royal Society B 286 (2019) 20191116 (PMC6784732)", "es": "Belyk M. et al., \"Whistling shares a common tongue with speech: bioacoustics from real-time MRI of the human vocal tract\", Proceedings of the Royal Society B 286 (2019) 20191116 (PMC6784732)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6784732/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The tongue moves the note. Think a silent \"ee\" to go up and a silent \"oo\" to come down: the lips hardly move."},
+                            "headline": {"en": "The tongue moves the note. Think a silent \"ee\" to go up and a silent \"oo\" to come down: the lips hardly move.", "es": "La lengua mueve la nota. Piensa una \"i\" sin sonido para subir y una \"u\" sin sonido para bajar: los labios apenas se mueven."},
                             "steps": [
-                                {"title": {"en": "Up: a silent ee"}, "detail": {"en": "The tongue rises and moves forward"}},
-                                {"title": {"en": "Down: a silent oo"}, "detail": {"en": "The tongue settles back"}},
-                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                                {"title": {"en": "Up: a silent ee", "es": "Arriba: una \"i\" muda"}, "detail": {"en": "The tongue rises and moves forward", "es": "La lengua sube y va hacia delante"}},
+                                {"title": {"en": "Down: a silent oo", "es": "Abajo: una \"u\" muda"}, "detail": {"en": "The tongue settles back", "es": "La lengua se relaja hacia atrás"}},
+                                {"title": {"en": "Soft lips, an easy jaw", "es": "Labios y mandíbula sueltos"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally", "es": "Un chorro de aire suave. Si se te cansan los labios o notas mareo, para y respira con normalidad"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes: each one waits until you're on it."},
+                            "text": {"en": "Find the notes: each one waits until you're on it.", "es": "Encuentra las notas: cada una espera a que llegues a ella."},
                             "exercise": {
                                 "tempo": 72,
                                 "whistle": true,
@@ -299,7 +299,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Up one, back, down one, home."},
+                            "text": {"en": "Up one, back, down one, home.", "es": "Sube una, vuelve, baja una y a tu nota."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -313,28 +313,28 @@
                                 "whistle": true,
                                 "base": "whistle"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "wh-2-five",
-                    "title": {"en": "Five notes, one at a time"},
-                    "fact": {"id": "silbo-five-vowels", "text": {"en": "On La Gomera, in the Canary Islands, Silbo Gomero whistles Spanish, with two whistles standing in for its five vowels. It has been taught in schools since 1999, and UNESCO listed it in 2009."}, "source": {"en": "UNESCO Intangible Cultural Heritage, \"Whistled language of the island of La Gomera (Canary Islands), the Silbo Gomero\", Representative List, inscribed 2009 (4.COM)"}, "url": "https://ich.unesco.org/en/RL/whistled-language-of-the-island-of-la-gomera-canary-islands-the-silbo-gomero-00172"},
+                    "title": {"en": "Five notes, one at a time", "es": "Cinco notas, de una en una"},
+                    "fact": {"id": "silbo-five-vowels", "text": {"en": "On La Gomera, in the Canary Islands, Silbo Gomero whistles Spanish, with two whistles standing in for its five vowels. It has been taught in schools since 1999, and UNESCO listed it in 2009.", "es": "En La Gomera, en las islas Canarias, el silbo gomero silba el español, con dos silbidos que sustituyen a sus cinco vocales. Se enseña en las escuelas desde 1999 y la UNESCO lo declaró patrimonio inmaterial en 2009."}, "source": {"en": "UNESCO Intangible Cultural Heritage, \"Whistled language of the island of La Gomera (Canary Islands), the Silbo Gomero\", Representative List, inscribed 2009 (4.COM)", "es": "UNESCO Intangible Cultural Heritage, \"Whistled language of the island of La Gomera (Canary Islands), the Silbo Gomero\", Representative List, inscribed 2009 (4.COM)"}, "url": "https://ich.unesco.org/en/RL/whistled-language-of-the-island-of-la-gomera-canary-islands-the-silbo-gomero-00172"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Five notes up and back, your whistle note in the middle."},
+                            "headline": {"en": "Five notes up and back, your whistle note in the middle.", "es": "Cinco notas de ida y vuelta, con tu nota de silbido en el centro."},
                             "steps": [
-                                {"title": {"en": "One at a time"}, "detail": {"en": "Each note its own small tongue move"}},
-                                {"title": {"en": "Your note in the middle"}, "detail": {"en": "Two below, two above"}}
+                                {"title": {"en": "One at a time", "es": "De una en una"}, "detail": {"en": "Each note its own small tongue move", "es": "Cada nota, un pequeño movimiento de lengua"}},
+                                {"title": {"en": "Your note in the middle", "es": "Tu nota en el centro"}, "detail": {"en": "Two below, two above", "es": "Dos abajo, dos arriba"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Five notes up and back."},
+                            "text": {"en": "Five notes up and back.", "es": "Cinco notas, ida y vuelta."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -352,28 +352,28 @@
                                 "whistle": true,
                                 "base": "whistle"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "wh-2-slide",
-                    "title": {"en": "A slide"},
-                    "fact": {"id": "consonants-become-slides", "text": {"en": "When a language without tones, like Spanish, is whistled, each vowel becomes a fairly steady pitch, and each consonant becomes a slide in pitch or a break between them."}, "source": {"en": "Tran Ngoc A., Meyer J., Meunier F., \"Musical Experience and Speech Processing: The Case of Whistled Words\", Cognitive Science 48 (2024) e70032, abstract (PMID 39699042)"}, "url": "https://doi.org/10.1111/cogs.70032"},
+                    "title": {"en": "A slide", "es": "Deslizar"},
+                    "fact": {"id": "consonants-become-slides", "text": {"en": "When a language without tones, like Spanish, is whistled, each vowel becomes a fairly steady pitch, and each consonant becomes a slide in pitch or a break between them.", "es": "Cuando se silba una lengua sin tonos, como el español, cada vocal se convierte en una altura bastante estable, y cada consonante en un deslizamiento de altura o en un corte entre ellas."}, "source": {"en": "Tran Ngoc A., Meyer J., Meunier F., \"Musical Experience and Speech Processing: The Case of Whistled Words\", Cognitive Science 48 (2024) e70032, abstract (PMID 39699042)", "es": "Tran Ngoc A., Meyer J., Meunier F., \"Musical Experience and Speech Processing: The Case of Whistled Words\", Cognitive Science 48 (2024) e70032, abstract (PMID 39699042)"}, "url": "https://doi.org/10.1111/cogs.70032"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Glide the tongue and the note slides with it, smoothly, from low to high and back."},
+                            "headline": {"en": "Glide the tongue and the note slides with it, smoothly, from low to high and back.", "es": "Desliza la lengua y la nota se desliza con ella, suavemente, de grave a agudo y otra vez a grave."},
                             "steps": [
-                                {"title": {"en": "A smooth glide"}, "detail": {"en": "No jumps on the way"}},
-                                {"title": {"en": "Find your edges"}, "detail": {"en": "The last slide goes as low and high as is easy"}}
+                                {"title": {"en": "A smooth glide", "es": "Desliza suave"}, "detail": {"en": "No jumps on the way", "es": "Sin saltos por el camino"}},
+                                {"title": {"en": "Find your edges", "es": "Busca tus límites"}, "detail": {"en": "The last slide goes as low and high as is easy", "es": "El último llega tan abajo y tan arriba como te resulte fácil"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "wave",
-                            "text": {"en": "Follow the ribbon up and back."},
+                            "text": {"en": "Follow the ribbon up and back.", "es": "Sigue la línea: sube y vuelve."},
                             "exercise": {
                                 "tempo": 60,
                                 "lead": 2,
@@ -395,11 +395,11 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on following the ribbon."}
+                            "measures": {"en": "Scored on following the ribbon.", "es": "Se puntúa que sigas la línea."}
                         },
                         {
                             "kind": "wave",
-                            "text": {"en": "Now as low and as high as is easy, then back. Not scored: notice where your whistle flips to a new shape."},
+                            "text": {"en": "Now as low and as high as is easy, then back. Not scored: notice where your whistle flips to a new shape.", "es": "Ahora tan grave y tan agudo como te resulte fácil, y vuelve. No se puntúa: fíjate en dónde tu silbido salta de golpe a otra forma."},
                             "exercise": {
                                 "tempo": 60,
                                 "lead": 2,
@@ -410,18 +410,18 @@
                                 "base": "whistle",
                                 "target": [{"seconds": 6, "kind": "free", "scored": false}]
                             },
-                            "measures": {"en": "Not scored: just notice where it flips."}
+                            "measures": {"en": "Not scored: just notice where it flips.", "es": "No se puntúa: solo fíjate en dónde salta."}
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to both, then choose."},
+                            "text": {"en": "Listen to both, then choose.", "es": "Escucha los dos y luego elige."},
                             "exercise": {
                                 "tempo": 72,
                                 "whistle": true,
                                 "base": "whistle",
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one slid up into the note?"},
+                                        "prompt": {"en": "Which one slid up into the note?", "es": "¿Cuál subió deslizándose hasta la nota?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -437,10 +437,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The first slid up into its second note. The second landed right on it."}
+                                        "why": {"en": "The first slid up into its second note. The second landed right on it.", "es": "El primero subió deslizándose hasta su segunda nota. El segundo aterrizó justo en ella."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one slid up into the note?"},
+                                        "prompt": {"en": "Which one slid up into the note?", "es": "¿Cuál subió deslizándose hasta la nota?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -456,15 +456,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The second slid into it; the first was there at once."}
+                                        "why": {"en": "The second slid into it; the first was there at once.", "es": "El segundo se deslizó hasta ella; el primero llegó al instante."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "wave",
-                            "text": {"en": "Follow the ribbon once more."},
+                            "text": {"en": "Follow the ribbon once more.", "es": "Sigue la línea una vez más."},
                             "exercise": {
                                 "tempo": 60,
                                 "lead": 2,
@@ -486,28 +486,28 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on following the ribbon."}
+                            "measures": {"en": "Scored on following the ribbon.", "es": "Se puntúa que sigas la línea."}
                         }
                     ]
                 },
                 {
                     "id": "wh-2-challenge",
-                    "title": {"en": "Ode to Joy"},
+                    "title": {"en": "Ode to Joy", "es": "Ode to Joy"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Beethoven's tune, its first eight bars: nearly all of it one note at a time."},
+                            "headline": {"en": "Beethoven's tune, its first eight bars: nearly all of it one note at a time.", "es": "La melodía de Beethoven (el \"Himno de la alegría\"), sus ocho primeros compases: casi toda avanza de nota en nota."},
                             "steps": [
-                                {"title": {"en": "One note at a time"}, "detail": {"en": "And one small jump near the end"}},
-                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                                {"title": {"en": "One note at a time", "es": "De nota en nota"}, "detail": {"en": "And one small jump near the end", "es": "Y un saltito cerca del final"}},
+                                {"title": {"en": "Soft lips, an easy jaw", "es": "Labios y mandíbula sueltos"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally", "es": "Un chorro de aire suave. Si se te cansan los labios o notas mareo, para y respira con normalidad"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first eight bars, over the chords."},
+                            "text": {"en": "The first eight bars, over the chords.", "es": "Los ocho primeros compases, sobre los acordes."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -568,7 +568,7 @@
                                     {"beat": 30, "root": 8, "quality": "maj"}
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 }
@@ -576,28 +576,28 @@
         },
         {
             "id": "wh-leaps",
-            "title": {"en": "Leaps"},
+            "title": {"en": "Leaps", "es": "Saltos"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "wh-3-small",
-                    "title": {"en": "Small jumps"},
-                    "fact": {"id": "whistled-turkish-both-halves", "text": {"en": "In the mountains of northeast Turkey, whole conversations are whistled, and UNESCO put the practice on its urgent safeguarding list in 2017. Native whistlers understand whistled words with both halves of the brain, a study found, not mainly the left."}, "source": {"en": "UNESCO Intangible Cultural Heritage, \"Whistled language\" (Turkey), Urgent Safeguarding List, inscribed 2017 (12.COM); and \"Whistled Turkish alters language asymmetries\", Current Biology 25 (2015), abstract (PMID 26294179)"}, "url": "https://ich.unesco.org/en/USL/whistled-language-00658"},
+                    "title": {"en": "Small jumps", "es": "Saltos pequeños"},
+                    "fact": {"id": "whistled-turkish-both-halves", "text": {"en": "In the mountains of northeast Turkey, whole conversations are whistled, and UNESCO put the practice on its urgent safeguarding list in 2017. Native whistlers understand whistled words with both halves of the brain, a study found, not mainly the left.", "es": "En las montañas del noreste de Turquía se mantienen conversaciones enteras silbando, y la UNESCO incluyó esta práctica en su lista de salvaguardia urgente en 2017. Según un estudio, quienes la silban desde niños entienden las palabras silbadas con los dos hemisferios del cerebro, y no principalmente con el izquierdo."}, "source": {"en": "UNESCO Intangible Cultural Heritage, \"Whistled language\" (Turkey), Urgent Safeguarding List, inscribed 2017 (12.COM); and \"Whistled Turkish alters language asymmetries\", Current Biology 25 (2015), abstract (PMID 26294179)", "es": "UNESCO Intangible Cultural Heritage, \"Whistled language\" (Turkey), Urgent Safeguarding List, inscribed 2017 (12.COM); y \"Whistled Turkish alters language asymmetries\", Current Biology 25 (2015), abstract (PMID 26294179)"}, "url": "https://ich.unesco.org/en/USL/whistled-language-00658"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A jump skips the notes between. Slide it slowly first, then jump: one quick tongue move, the air still flowing."},
+                            "headline": {"en": "A jump skips the notes between. Slide it slowly first, then jump: one quick tongue move, the air still flowing.", "es": "Al saltar, te saltas las notas de en medio. Primero deslízalo despacio y luego salta: un solo movimiento rápido de lengua, sin cortar el aire."},
                             "steps": [
-                                {"title": {"en": "Slide, then jump"}, "detail": {"en": "The same tongue move, faster"}},
-                                {"title": {"en": "Skip one note"}, "detail": {"en": "That jump is a third"}},
-                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                                {"title": {"en": "Slide, then jump", "es": "Desliza y salta"}, "detail": {"en": "The same tongue move, faster", "es": "El mismo movimiento de lengua, más rápido"}},
+                                {"title": {"en": "Skip one note", "es": "Sáltate una nota"}, "detail": {"en": "That jump is a third", "es": "Ese salto es una tercera"}},
+                                {"title": {"en": "Soft lips, an easy jaw", "es": "Labios y mandíbula sueltos"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally", "es": "Un chorro de aire suave. Si se te cansan los labios o notas mareo, para y respira con normalidad"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "wave",
-                            "text": {"en": "Slide it first, slowly."},
+                            "text": {"en": "Slide it first, slowly.", "es": "Primero deslízalo, despacio."},
                             "exercise": {
                                 "tempo": 60,
                                 "lead": 2,
@@ -619,11 +619,11 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on following the ribbon."}
+                            "measures": {"en": "Scored on following the ribbon.", "es": "Se puntúa que sigas la línea."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now jump: skip one note each time."},
+                            "text": {"en": "Now jump: skip one note each time.", "es": "Ahora salta: sáltate una nota cada vez."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -640,11 +640,11 @@
                                 "base": "whistle",
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on where each note lands from its first sound."}
+                            "measures": {"en": "Scored on where each note lands from its first sound.", "es": "Se puntúa dónde cae cada nota desde su primer sonido."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more, every note on pitch."},
+                            "text": {"en": "Once more, every note on pitch.", "es": "Una vez más, con cada nota afinada."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -660,35 +660,35 @@
                                 "whistle": true,
                                 "base": "whistle"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "wh-3-bigger",
-                    "title": {"en": "Bigger jumps"},
-                    "fact": {"id": "lowery-whistling-in-the-dark", "text": {"en": "Fred Lowery became legally blind at two, after scarlet fever. At the Texas School for the Blind he learned bird calls, and by 1929 he whistled on a Dallas radio show. He called his autobiography Whistling in the Dark."}, "source": {"en": "Library of Congress, NLS Music Notes blog, \"American Composers and Musicians from A to Z: L (Part 2: Lowery, Fred)\", August 2019"}, "url": "https://blogs.loc.gov/nls-music-notes/2019/08/american-composers-and-musicians-from-a-to-z-l-part-2-lowery-fred/"},
+                    "title": {"en": "Bigger jumps", "es": "Saltos más grandes"},
+                    "fact": {"id": "lowery-whistling-in-the-dark", "text": {"en": "Fred Lowery became legally blind at two, after scarlet fever. At the Texas School for the Blind he learned bird calls, and by 1929 he whistled on a Dallas radio show. He called his autobiography Whistling in the Dark.", "es": "Fred Lowery quedó legalmente ciego a los dos años, tras una escarlatina. En la Escuela para Ciegos de Texas aprendió a imitar cantos de pájaros, y en 1929 ya silbaba en un programa de radio de Dallas. Tituló su autobiografía Whistling in the Dark."}, "source": {"en": "Library of Congress, NLS Music Notes blog, \"American Composers and Musicians from A to Z: L (Part 2: Lowery, Fred)\", August 2019", "es": "Library of Congress, NLS Music Notes blog, \"American Composers and Musicians from A to Z: L (Part 2: Lowery, Fred)\", August 2019"}, "url": "https://blogs.loc.gov/nls-music-notes/2019/08/american-composers-and-musicians-from-a-to-z-l-part-2-lowery-fred/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Bigger jumps: land the top note right on it, not past it."},
+                            "headline": {"en": "Bigger jumps: land the top note right on it, not past it.", "es": "Saltos más grandes: aterriza justo en la nota de arriba, sin pasarte."},
                             "steps": [
-                                {"title": {"en": "Hear it first"}, "detail": {"en": "The top note in your head before you jump"}},
-                                {"title": {"en": "Land, don't overshoot"}, "detail": {"en": "Aim for the note, not above it"}}
+                                {"title": {"en": "Hear it first", "es": "Óyela primero"}, "detail": {"en": "The top note in your head before you jump", "es": "La nota de arriba en tu cabeza antes de saltar"}},
+                                {"title": {"en": "Land, don't overshoot", "es": "Aterriza sin pasarte"}, "detail": {"en": "Aim for the note, not above it", "es": "Apunta a la nota, no por encima"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to both, then choose."},
+                            "text": {"en": "Listen to both, then choose.", "es": "Escucha los dos y luego elige."},
                             "exercise": {
                                 "tempo": 72,
                                 "whistle": true,
                                 "base": "whistle",
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one landed on the top note?"},
+                                        "prompt": {"en": "Which one landed on the top note?", "es": "¿Cuál aterrizó en la nota de arriba?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -705,10 +705,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The first landed right on it. The second went past it and came back."}
+                                        "why": {"en": "The first landed right on it. The second went past it and came back.", "es": "El primero aterrizó justo en ella. El segundo se pasó y volvió."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one landed on the top note?"},
+                                        "prompt": {"en": "Which one landed on the top note?", "es": "¿Cuál aterrizó en la nota de arriba?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -725,15 +725,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The second landed clean; the first overshot first."}
+                                        "why": {"en": "The second landed clean; the first overshot first.", "es": "El segundo aterrizó limpio; el primero se pasó antes de llegar."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Ode to Joy's first two lines, on the beat."},
+                            "text": {"en": "Ode to Joy's first two lines, on the beat.", "es": "Las dos primeras frases de Ode to Joy, a tiempo."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -770,11 +770,11 @@
                                 ],
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Bigger jumps, each top note landed."},
+                            "text": {"en": "Bigger jumps, each top note landed.", "es": "Saltos más grandes, aterrizando en cada nota de arriba."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -788,28 +788,28 @@
                                 "whistle": true,
                                 "base": "whistle"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "wh-3-high",
-                    "title": {"en": "The big jump"},
-                    "fact": {"id": "cheek-pockets-high-notes", "text": {"en": "For their highest notes, two experienced whistlers filmed by X-ray puffed their cheeks out from the teeth, adding side pockets to the mouth's chamber. Not every whistler may do this."}, "source": {"en": "Azola A. et al., \"The physiology of oral whistling: a combined radiographic and MRI analysis\", Journal of Applied Physiology 124 (2018) (PMC6048461)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6048461/"},
+                    "title": {"en": "The big jump", "es": "El gran salto"},
+                    "fact": {"id": "cheek-pockets-high-notes", "text": {"en": "For their highest notes, two experienced whistlers filmed by X-ray puffed their cheeks out from the teeth, adding side pockets to the mouth's chamber. Not every whistler may do this.", "es": "Para sus notas más agudas, dos silbadores expertos filmados con rayos X inflaban las mejillas separándolas de los dientes, lo que añadía bolsas laterales a la cámara de la boca. Quizá no todos los silbadores lo hagan."}, "source": {"en": "Azola A. et al., \"The physiology of oral whistling: a combined radiographic and MRI analysis\", Journal of Applied Physiology 124 (2018) (PMC6048461)", "es": "Azola A. et al., \"The physiology of oral whistling: a combined radiographic and MRI analysis\", Journal of Applied Physiology 124 (2018) (PMC6048461)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6048461/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The biggest jump here is a sixth: the top note only as high as is easy. Slide it, then land it, then jump."},
+                            "headline": {"en": "The biggest jump here is a sixth: the top note only as high as is easy. Slide it, then land it, then jump.", "es": "El salto más grande de aquí es una sexta: la nota de arriba, solo hasta donde te resulte fácil. Deslízalo, luego aterriza en la nota y después salta."},
                             "steps": [
-                                {"title": {"en": "Only as high as is easy"}, "detail": {"en": "If it won't come, sing it smaller"}},
-                                {"title": {"en": "Air keeps moving"}, "detail": {"en": "One quick tongue move"}}
+                                {"title": {"en": "Only as high as is easy", "es": "Solo hasta donde sea fácil"}, "detail": {"en": "If it won't come, sing it smaller", "es": "Si no sale, haz el salto más pequeño"}},
+                                {"title": {"en": "Air keeps moving", "es": "El aire no para"}, "detail": {"en": "One quick tongue move", "es": "Un movimiento rápido de lengua"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The big jump, slowly, landing each top note."},
+                            "text": {"en": "The big jump, slowly, landing each top note.", "es": "El gran salto, despacio, aterrizando en cada nota de arriba."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -825,11 +825,11 @@
                                 "base": "whistle",
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on where each note lands from its first sound."}
+                            "measures": {"en": "Scored on where each note lands from its first sound.", "es": "Se puntúa dónde cae cada nota desde su primer sonido."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now at speed."},
+                            "text": {"en": "Now at speed.", "es": "Ahora, a velocidad normal."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -844,28 +844,28 @@
                                 "whistle": true,
                                 "base": "whistle"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "wh-3-challenge",
-                    "title": {"en": "Simple Gifts"},
+                    "title": {"en": "Simple Gifts", "es": "Simple Gifts"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Simple Gifts, its turning: the tune's own jumps, each landed clean."},
+                            "headline": {"en": "Simple Gifts, its turning: the tune's own jumps, each landed clean.", "es": "Simple Gifts, su parte final (la de \"turning, turning\"): los saltos de la propia melodía, cada uno con un aterrizaje limpio."},
                             "steps": [
-                                {"title": {"en": "Jumps that land"}, "detail": {"en": "Hear each top note first"}},
-                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                                {"title": {"en": "Jumps that land", "es": "Saltos que aterrizan"}, "detail": {"en": "Hear each top note first", "es": "Oye antes cada nota de arriba"}},
+                                {"title": {"en": "Soft lips, an easy jaw", "es": "Labios y mandíbula sueltos"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally", "es": "Un chorro de aire suave. Si se te cansan los labios o notas mareo, para y respira con normalidad"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The turning, over the chords."},
+                            "text": {"en": "The turning, over the chords.", "es": "La parte final, sobre los acordes."},
                             "exercise": {
                                 "tempo": 84,
                                 "notes": [
@@ -901,7 +901,7 @@
                                     {"beat": 12, "root": 3, "quality": "maj"}
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 }
@@ -909,28 +909,28 @@
         },
         {
             "id": "wh-a-whistled-tune",
-            "title": {"en": "A whistled tune"},
+            "title": {"en": "A whistled tune", "es": "Una melodía silbada"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "wh-4-drone",
-                    "title": {"en": "In tune with a held note"},
-                    "fact": {"id": "whistle-sharp-sing-flat", "text": {"en": "Copying short tunes, 22 of 28 people were less precise singing than whistling, and they tended to sing flat but whistle sharp."}, "source": {"en": "Belyk M., Johnson J.F., Kotz S.A., \"Poor neuro-motor tuning of the human larynx: a comparison of sung and whistled pitch imitation\", Royal Society Open Science 5 (2018) 171544 (PMC5936900)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5936900/"},
+                    "title": {"en": "In tune with a held note", "es": "Afinar sobre una nota larga"},
+                    "fact": {"id": "whistle-sharp-sing-flat", "text": {"en": "Copying short tunes, 22 of 28 people were less precise singing than whistling, and they tended to sing flat but whistle sharp.", "es": "Al imitar melodías cortas, 22 de 28 personas fueron menos precisas cantando que silbando: tendían a quedarse por debajo al cantar y a pasarse por encima al silbar."}, "source": {"en": "Belyk M., Johnson J.F., Kotz S.A., \"Poor neuro-motor tuning of the human larynx: a comparison of sung and whistled pitch imitation\", Royal Society Open Science 5 (2018) 171544 (PMC5936900)", "es": "Belyk M., Johnson J.F., Kotz S.A., \"Poor neuro-motor tuning of the human larynx: a comparison of sung and whistled pitch imitation\", Royal Society Open Science 5 (2018) 171544 (PMC5936900)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5936900/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A held note sounds under you. Whistle your note on top of it, and listen for the two settling together."},
+                            "headline": {"en": "A held note sounds under you. Whistle your note on top of it, and listen for the two settling together.", "es": "Una nota larga suena por debajo de ti. Silba tu nota encima y escucha cómo las dos encajan."},
                             "steps": [
-                                {"title": {"en": "Listen under you"}, "detail": {"en": "The held note doesn't move"}},
-                                {"title": {"en": "Settle into it"}, "detail": {"en": "Small tongue moves until it rings"}},
-                                {"title": {"en": "Soft lips, an easy jaw"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally"}}
+                                {"title": {"en": "Listen under you", "es": "Escucha por debajo"}, "detail": {"en": "The held note doesn't move", "es": "La nota larga no se mueve"}},
+                                {"title": {"en": "Settle into it", "es": "Ajústate a ella"}, "detail": {"en": "Small tongue moves until it rings", "es": "Pequeños movimientos de lengua hasta que resuene"}},
+                                {"title": {"en": "Soft lips, an easy jaw", "es": "Labios y mandíbula sueltos"}, "detail": {"en": "A gentle stream of air; if your lips tire or you feel light-headed, stop and breathe normally", "es": "Un chorro de aire suave. Si se te cansan los labios o notas mareo, para y respira con normalidad"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Your note over the held one, four beats."},
+                            "text": {"en": "Your note over the held one, four beats.", "es": "Tu nota sobre la nota larga, cuatro tiempos."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "oo"}],
@@ -940,11 +940,11 @@
                                 "drone": {"step": 0},
                                 "tuning": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Two notes over it: your note, then the one above."},
+                            "text": {"en": "Two notes over it: your note, then the one above.", "es": "Dos notas sobre ella: tu nota y luego la de arriba."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -957,35 +957,35 @@
                                 "drone": {"step": 0},
                                 "tuning": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "wh-4-breath",
-                    "title": {"en": "A breath each phrase"},
-                    "fact": {"id": "whistled-speech-carries", "text": {"en": "About 80 remote communities whistle their language, almost all in mountains or thick forest. Whistled speech typically carries from about 50 metres to 2 kilometres, most often 400 to 500 metres."}, "source": {"en": "Meyer J., Magnasco M.O., Reiss D., \"The Relevance of Human Whistled Languages for the Analysis and Decoding of Dolphin Communication\", Frontiers in Psychology 12 (2021) 689501 (PMC8490682)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8490682/"},
+                    "title": {"en": "A breath each phrase", "es": "Respira entre frases"},
+                    "fact": {"id": "whistled-speech-carries", "text": {"en": "About 80 remote communities whistle their language, almost all in mountains or thick forest. Whistled speech typically carries from about 50 metres to 2 kilometres, most often 400 to 500 metres.", "es": "Unas 80 comunidades remotas silban su lengua, casi todas en montañas o en selva espesa. El habla silbada suele oírse a entre 50 metros y 2 kilómetros, y lo más habitual es a 400 o 500 metros."}, "source": {"en": "Meyer J., Magnasco M.O., Reiss D., \"The Relevance of Human Whistled Languages for the Analysis and Decoding of Dolphin Communication\", Frontiers in Psychology 12 (2021) 689501 (PMC8490682)", "es": "Meyer J., Magnasco M.O., Reiss D., \"The Relevance of Human Whistled Languages for the Analysis and Decoding of Dolphin Communication\", Frontiers in Psychology 12 (2021) 689501 (PMC8490682)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8490682/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Whistling uses air fast. Take a breath at each phrase's end, and start repeated notes each with a soft \"h\"."},
+                            "headline": {"en": "Whistling uses air fast. Take a breath at each phrase's end, and start repeated notes each with a soft \"h\".", "es": "Silbar gasta el aire deprisa. Toma aire al final de cada frase y empieza cada nota repetida con una \"h\" suave."},
                             "steps": [
-                                {"title": {"en": "A breath each phrase"}, "detail": {"en": "In the rest, before the next"}},
-                                {"title": {"en": "Repeated notes"}, "detail": {"en": "A soft h on each"}}
+                                {"title": {"en": "A breath each phrase", "es": "Respira entre frases"}, "detail": {"en": "In the rest, before the next", "es": "En el silencio, antes de la siguiente"}},
+                                {"title": {"en": "Repeated notes", "es": "Notas repetidas"}, "detail": {"en": "A soft h on each", "es": "Una h suave en cada una"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to both, then choose."},
+                            "text": {"en": "Listen to both, then choose.", "es": "Escucha los dos y luego elige."},
                             "exercise": {
                                 "tempo": 72,
                                 "whistle": true,
                                 "base": "whistle",
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one took a breath between the phrases?"},
+                                        "prompt": {"en": "Which one took a breath between the phrases?", "es": "¿Cuál tomó aire entre las frases?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1017,15 +1017,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The first left a rest to breathe in. The second ran straight on."}
+                                        "why": {"en": "The first left a rest to breathe in. The second ran straight on.", "es": "El primero dejó un silencio para tomar aire. El segundo siguió sin parar."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Repeated notes, each with a soft h."},
+                            "text": {"en": "Repeated notes, each with a soft h.", "es": "Notas repetidas, cada una con una h suave."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1040,11 +1040,11 @@
                                 "base": "whistle",
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on where each note lands from its first sound."}
+                            "measures": {"en": "Scored on where each note lands from its first sound.", "es": "Se puntúa dónde cae cada nota desde su primer sonido."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Two phrases, a breath between."},
+                            "text": {"en": "Two phrases, a breath between.", "es": "Dos frases, con una respiración en medio."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1063,28 +1063,28 @@
                                 "whistle": true,
                                 "base": "whistle"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "wh-4-wave",
-                    "title": {"en": "An even wave"},
-                    "fact": {"id": "double-tone-tremolo", "text": {"en": "Some rare whistlers seem to whistle two notes at once. A 1975 sound analysis of two found they nearly always switch back and forth between the notes, which sounds like a tremolo; one could move the tongue in time with each switch."}, "source": {"en": "Wieser M., Schlorhaufer W., \"Whistler for two voices (sound of whistle produced by man)\", Archives of Oto-Rhino-Laryngology 211 (1975) 51-58, English abstract (PMID 1243641)"}, "url": "https://europepmc.org/article/MED/1243641"},
+                    "title": {"en": "An even wave", "es": "Una onda regular"},
+                    "fact": {"id": "double-tone-tremolo", "text": {"en": "Some rare whistlers seem to whistle two notes at once. A 1975 sound analysis of two found they nearly always switch back and forth between the notes, which sounds like a tremolo; one could move the tongue in time with each switch.", "es": "Algunos silbadores, muy pocos, parecen silbar dos notas a la vez. Un análisis acústico de 1975 de dos de ellos halló que casi siempre alternan entre las dos notas, lo que suena como un trémolo; uno podía mover la lengua al ritmo de cada cambio."}, "source": {"en": "Wieser M., Schlorhaufer W., \"Whistler for two voices (sound of whistle produced by man)\", Archives of Oto-Rhino-Laryngology 211 (1975) 51-58, English abstract (PMID 1243641)", "es": "Wieser M., Schlorhaufer W., \"Whistler for two voices (sound of whistle produced by man)\", Archives of Oto-Rhino-Laryngology 211 (1975) 51-58, English abstract (PMID 1243641)"}, "url": "https://europepmc.org/article/MED/1243641"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A whistle can carry an even wave: a tiny silent \"ee-oo\" with the tongue, slowly at first. Singers call it vibrato. It takes time: a straight note is just as good."},
+                            "headline": {"en": "A whistle can carry an even wave: a tiny silent \"ee-oo\" with the tongue, slowly at first. Singers call it vibrato. It takes time: a straight note is just as good.", "es": "Un silbido puede llevar una onda regular: una \"i-u\" muda y diminuta con la lengua, despacio al principio. Los cantantes lo llaman vibrato. Lleva tiempo: una nota lisa vale lo mismo."},
                             "steps": [
-                                {"title": {"en": "Slow first"}, "detail": {"en": "Three or four waves a second"}},
-                                {"title": {"en": "Tongue, not air"}, "detail": {"en": "The tongue makes the wave"}}
+                                {"title": {"en": "Slow first", "es": "Primero, lento"}, "detail": {"en": "Three or four waves a second", "es": "Tres o cuatro ondas por segundo"}},
+                                {"title": {"en": "Tongue, not air", "es": "Lengua, no aire"}, "detail": {"en": "The tongue makes the wave", "es": "La lengua hace la onda"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "wave",
-                            "text": {"en": "Follow the slow wave, with the ghost wave fading out."},
+                            "text": {"en": "Follow the slow wave, with the ghost wave fading out.", "es": "Sigue la onda lenta, mientras la onda fantasma se desvanece."},
                             "exercise": {
                                 "tempo": 60,
                                 "lead": 2,
@@ -1095,11 +1095,11 @@
                                 "base": "whistle",
                                 "target": [{"seconds": 6, "kind": "wave", "hz": 3, "cents": 60, "fade": 2}]
                             },
-                            "measures": {"en": "Scored on following the wave."}
+                            "measures": {"en": "Scored on following the wave.", "es": "Se puntúa que sigas la onda."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now a plain note, held: as good as any wave."},
+                            "text": {"en": "Now a plain note, held: as good as any wave.", "es": "Ahora una nota lisa, mantenida: vale tanto como cualquier onda."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "oo"}],
@@ -1107,37 +1107,37 @@
                                 "whistle": true,
                                 "base": "whistle"
                             },
-                            "measures": {"en": "Scored on the note, held to its end."}
+                            "measures": {"en": "Scored on the note, held to its end.", "es": "Se puntúa la nota, mantenida hasta el final."}
                         }
                     ]
                 },
                 {
                     "id": "wh-4-challenge",
-                    "title": {"en": "The Water Is Wide"},
+                    "title": {"en": "The Water Is Wide", "es": "The Water Is Wide"},
                     "challenge": true,
                     "headphones": "needed",
                     "keepSong": {
-                        "title": {"en": "My whistled tune"},
-                        "takes": [{"step": 1, "name": {"en": "Tune"}}, {"step": 2, "name": {"en": "Under"}}],
+                        "title": {"en": "My whistled tune", "es": "Mi melodía silbada"},
+                        "takes": [{"step": 1, "name": {"en": "Tune", "es": "Melodía"}}, {"step": 2, "name": {"en": "Under", "es": "Debajo"}}],
                         "from": 1,
                         "partners": [],
-                        "chords": {"en": "Piano"}
+                        "chords": {"en": "Piano", "es": "Piano"}
                     },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A whole tune, then a second whistle under it, kept as a song. Then your first whistle, beside today's."},
+                            "headline": {"en": "A whole tune, then a second whistle under it, kept as a song. Then your first whistle, beside today's.", "es": "Una melodía entera y luego un segundo silbido por debajo, guardados como canción. Después, tu primer silbido junto al de hoy."},
                             "steps": [
-                                {"title": {"en": "The whole first verse"}, "detail": {"en": "A breath at each phrase end"}},
-                                {"title": {"en": "Whistle with yourself"}, "detail": {"en": "A low line under your own tune"}},
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Your first whistle from lesson 1"}}
+                                {"title": {"en": "The whole first verse", "es": "Toda la primera estrofa"}, "detail": {"en": "A breath at each phrase end", "es": "Respira al final de cada frase"}},
+                                {"title": {"en": "Whistle with yourself", "es": "Silba a dúo contigo"}, "detail": {"en": "A low line under your own tune", "es": "Una línea grave bajo tu propia melodía"}},
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Your first whistle from lesson 1", "es": "Tu primer silbido, de la lección 1"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first verse, over the chords."},
+                            "text": {"en": "The first verse, over the chords.", "es": "La primera estrofa, sobre los acordes."},
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1210,11 +1210,11 @@
                                     {"beat": 45, "root": 0, "quality": "maj"}
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now a low line under your own tune: two notes, held."},
+                            "text": {"en": "Now a low line under your own tune: two notes, held.", "es": "Ahora una línea grave bajo tu propia melodía: dos notas largas."},
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1253,11 +1253,11 @@
                                 ],
                                 "under": {"step": 1}
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "One last note, held: your whistle today."},
+                            "text": {"en": "One last note, held: your whistle today.", "es": "Una última nota, mantenida: tu silbido de hoy."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "oo"}],
@@ -1266,7 +1266,7 @@
                                 "base": "whistle",
                                 "thenAndNow": "whistling.first-whistle"
                             },
-                            "measures": {"en": "Scored on the note, held to its end."}
+                            "measures": {"en": "Scored on the note, held to its end.", "es": "Se puntúa la nota, mantenida hasta el final."}
                         }
                     ]
                 }

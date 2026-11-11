@@ -2,31 +2,31 @@
     "id": "blues-singing",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Blues singing"},
+    "title": {"en": "Blues singing", "es": "Canto de blues"},
     "units": [
         {
             "id": "bl-three-lines",
-            "title": {"en": "Three lines"},
+            "title": {"en": "Three lines", "es": "Tres versos"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "bl-1-say",
-                    "title": {"en": "Say it, say it again"},
-                    "fact": {"id": "odum-joe-turner-three-times", "text": {"en": "In 1911 the sociologist Howard Odum printed songs he had heard in Mississippi and Georgia. Of one, about Joe Turner, he wrote: \"Each line is sung three times to make a stanza.\""}, "source": {"en": "Odum, Journal of American Folk-Lore 24 (1911), p. 351, Internet Archive"}, "url": "https://archive.org/details/sim_journal-of-american-folklore_october-december-1911_24_94"},
+                    "title": {"en": "Say it, say it again", "es": "Dilo y repítelo"},
+                    "fact": {"id": "odum-joe-turner-three-times", "text": {"en": "In 1911 the sociologist Howard Odum printed songs he had heard in Mississippi and Georgia. Of one, about Joe Turner, he wrote: \"Each line is sung three times to make a stanza.\"", "es": "En 1911, el sociólogo Howard Odum publicó canciones que había oído en Misisipi y Georgia. De una, sobre Joe Turner, escribió: \"Cada verso se canta tres veces para formar una estrofa.\""}, "source": {"en": "Odum, Journal of American Folk-Lore 24 (1911), p. 351, Internet Archive", "es": "Odum, Journal of American Folk-Lore 24 (1911), p. 351, Internet Archive"}, "url": "https://archive.org/details/sim_journal-of-american-folklore_october-december-1911_24_94"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A blues says a line, says it again, then answers it. It's African American music, from the Deep South, sung for years before anyone printed it."},
+                            "headline": {"en": "A blues says a line, says it again, then answers it. It's African American music, from the Deep South, sung for years before anyone printed it.", "es": "Un blues dice un verso, lo repite y luego le responde. Es música afroamericana del Sur profundo, cantada durante años antes de que nadie la publicara."},
                             "steps": [
-                                {"title": {"en": "Three lines"}, "detail": {"en": "Say it, say it again, then answer it"}},
-                                {"title": {"en": "Tell it, in your own clear voice"}, "detail": {"en": "At a speaking volume; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Three lines", "es": "Tres versos"}, "detail": {"en": "Say it, say it again, then answer it", "es": "Dilo, repítelo y luego responde"}},
+                                {"title": {"en": "Tell it, in your own clear voice", "es": "Cuéntalo, con tu voz clara"}, "detail": {"en": "At a speaking volume; stop if anything tightens or hurts", "es": "A volumen de conversación. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "The first line of a blues printed in Chicago in 1924. Find its notes: each waits until you're on it."},
+                            "text": {"en": "The first line of a blues printed in Chicago in 1924. Find its notes: each waits until you're on it.", "es": "El primer verso de un blues publicado en Chicago en 1924. Encuentra sus notas: cada una espera a que llegues a ella."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -49,12 +49,12 @@
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to both, then choose."},
+                            "text": {"en": "Listen to both, then choose.", "es": "Escucha las dos y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one says it again?"},
+                                        "prompt": {"en": "Which one says it again?", "es": "¿Cuál lo repite?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -78,10 +78,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The first sang the same tune twice. The second changed it."}
+                                        "why": {"en": "The first sang the same tune twice. The second changed it.", "es": "La primera cantó la misma melodía dos veces. La segunda la cambió."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one says it again?"},
+                                        "prompt": {"en": "Which one says it again?", "es": "¿Cuál lo repite?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -105,15 +105,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The second said it again, note for note."}
+                                        "why": {"en": "The second said it again, note for note.", "es": "La segunda lo repitió, nota por nota."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now hear the line, then sing it back."},
+                            "text": {"en": "Now hear the line, then sing it back.", "es": "Ahora escucha el verso y luego repítelo."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -136,28 +136,28 @@
                                 "generous": true,
                                 "keep": "blues.first-line"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "bl-1-hum",
-                    "title": {"en": "Hum it first"},
-                    "fact": {"id": "dark-was-the-night-hummed", "text": {"en": "Blind Willie Johnson's 1927 recording of Dark Was the Night, Cold Was the Ground has no words, only hums and moans over his slide guitar. In 1977 NASA put it on the Voyager Golden Record."}, "source": {"en": "Library of Congress, National Recording Registry essay; NASA, Golden Record contents"}, "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/DarkWasTheNight.pdf"},
+                    "title": {"en": "Hum it first", "es": "Primero, tararea"},
+                    "fact": {"id": "dark-was-the-night-hummed", "text": {"en": "Blind Willie Johnson's 1927 recording of Dark Was the Night, Cold Was the Ground has no words, only hums and moans over his slide guitar. In 1977 NASA put it on the Voyager Golden Record.", "es": "La grabación de Dark Was the Night, Cold Was the Ground que hizo Blind Willie Johnson en 1927 no tiene letra: solo voz a boca cerrada y lamentos (moans) sobre su guitarra slide. En 1977, la NASA la incluyó en el disco de oro de las Voyager."}, "source": {"en": "Library of Congress, National Recording Registry essay; NASA, Golden Record contents", "es": "Library of Congress, National Recording Registry essay; NASA, Golden Record contents"}, "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/DarkWasTheNight.pdf"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Blues singers often hum a line before they sing it. Hum it, then open to \"oh\", then sing the words."},
+                            "headline": {"en": "Blues singers often hum a line before they sing it. Hum it, then open to \"oh\", then sing the words.", "es": "Los cantantes de blues a menudo tararean un verso antes de cantarlo. Tararéalo, luego abre la boca en \"oh\" y después canta la letra."},
                             "steps": [
-                                {"title": {"en": "Mm, then oh, then words"}, "detail": {"en": "The tune first, then what it says"}},
-                                {"title": {"en": "Easy and low"}, "detail": {"en": "Hum lightly, lips together; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Mm, then oh, then words", "es": "Mm, luego oh, luego letra"}, "detail": {"en": "The tune first, then what it says", "es": "Primero la melodía, luego lo que dice"}},
+                                {"title": {"en": "Easy and low", "es": "Suave y bajito"}, "detail": {"en": "Hum lightly, lips together; stop if anything tightens or hurts", "es": "Tararea suave, con los labios juntos. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The line again, said a second time: hum it on \"mm\"."},
+                            "text": {"en": "The line again, said a second time: hum it on \"mm\".", "es": "El segundo verso, el que lo repite: tararéalo en \"mm\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -176,11 +176,11 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now open to \"oh\"."},
+                            "text": {"en": "Now open to \"oh\".", "es": "Ahora abre la boca en \"oh\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -199,11 +199,11 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the words."},
+                            "text": {"en": "Now the words.", "es": "Ahora, con la letra."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -222,33 +222,33 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "bl-1-answer",
-                    "title": {"en": "The answer line"},
-                    "fact": {"id": "handy-third-line-why", "text": {"en": "W. C. Handy found the folk habit of singing one line three times too monotonous. So in St. Louis Blues he made a statement, repeated it, then used the last line to tell \"why the statement was made.\""}, "source": {"en": "Handy, Father of the Blues (New York: Macmillan, 1941), pp. 142-143, Internet Archive"}, "url": "https://archive.org/details/fatherofbluesaut00wcha_0"},
+                    "title": {"en": "The answer line", "es": "La respuesta"},
+                    "fact": {"id": "handy-third-line-why", "text": {"en": "W. C. Handy found the folk habit of singing one line three times too monotonous. So in St. Louis Blues he made a statement, repeated it, then used the last line to tell \"why the statement was made.\"", "es": "A W. C. Handy le parecía demasiado monótona la costumbre popular de cantar un verso tres veces. Así que en St. Louis Blues hizo una afirmación, la repitió y usó el último verso para contar \"por qué se había hecho la afirmación\"."}, "source": {"en": "Handy, Father of the Blues (New York: Macmillan, 1941), pp. 142-143, Internet Archive", "es": "Handy, Father of the Blues (New York: Macmillan, 1941), pp. 142-143, Internet Archive"}, "url": "https://archive.org/details/fatherofbluesaut00wcha_0"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The last line answers the first two: it rhymes with them and comes home to the note the song started from."},
+                            "headline": {"en": "The last line answers the first two: it rhymes with them and comes home to the note the song started from.", "es": "El último verso responde a los dos primeros: rima con ellos y vuelve a la nota con la que empezó la canción."},
                             "steps": [
-                                {"title": {"en": "It rhymes"}, "detail": {"en": "Air, then somewhere"}},
-                                {"title": {"en": "It comes home"}, "detail": {"en": "The last note settles; stop if anything tightens or hurts"}}
+                                {"title": {"en": "It rhymes", "es": "Rima"}, "detail": {"en": "Air, then somewhere", "es": "De \"air\" a \"somewhere\""}},
+                                {"title": {"en": "It comes home", "es": "Llega al reposo"}, "detail": {"en": "The last note settles; stop if anything tightens or hurts", "es": "La última nota reposa. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to both, then choose."},
+                            "text": {"en": "Listen to both, then choose.", "es": "Escucha las dos y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one comes home?"},
+                                        "prompt": {"en": "Which one comes home?", "es": "¿Cuál llega al reposo?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -268,10 +268,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The first settled on its last note. The second stopped up in the air."}
+                                        "why": {"en": "The first settled on its last note. The second stopped up in the air.", "es": "La primera reposó en su última nota. La segunda se quedó en el aire."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one comes home?"},
+                                        "prompt": {"en": "Which one comes home?", "es": "¿Cuál llega al reposo?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -291,15 +291,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The second came home; the first was left hanging."}
+                                        "why": {"en": "The second came home; the first was left hanging.", "es": "La segunda llegó al reposo; la primera se quedó colgando."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the answer line's notes. Each waits until you're on it."},
+                            "text": {"en": "Find the answer line's notes. Each waits until you're on it.", "es": "Encuentra las notas del verso de respuesta. Cada una espera a que llegues a ella."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -323,7 +323,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear the answer line, then sing it back."},
+                            "text": {"en": "Hear the answer line, then sing it back.", "es": "Escucha el verso de respuesta y luego repítelo."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -345,28 +345,28 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "bl-1-challenge",
-                    "title": {"en": "One whole verse"},
+                    "title": {"en": "One whole verse", "es": "Una estrofa entera"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "All three lines of the first verse, over the piano's chords: say it, say it again, answer it."},
+                            "headline": {"en": "All three lines of the first verse, over the piano's chords: say it, say it again, answer it.", "es": "Los tres versos de la primera estrofa, sobre los acordes del piano: dilo, repítelo, respóndelo."},
                             "steps": [
-                                {"title": {"en": "Three lines"}, "detail": {"en": "A breath after each"}},
-                                {"title": {"en": "Tell it, in your own clear voice"}, "detail": {"en": "At a speaking volume; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Three lines", "es": "Tres versos"}, "detail": {"en": "A breath after each", "es": "Respira después de cada uno"}},
+                                {"title": {"en": "Tell it, in your own clear voice", "es": "Cuéntalo, con tu voz clara"}, "detail": {"en": "At a speaking volume; stop if anything tightens or hurts", "es": "A volumen de conversación. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole verse, over the chords."},
+                            "text": {"en": "The whole verse, over the chords.", "es": "La estrofa entera, sobre los acordes."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -426,7 +426,7 @@
                                     {"beat": 46, "root": 7, "quality": "dom7"}
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 }
@@ -434,27 +434,27 @@
         },
         {
             "id": "bl-the-blue-note",
-            "title": {"en": "The blue note"},
+            "title": {"en": "The blue note", "es": "La nota blue"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "bl-2-blue",
-                    "title": {"en": "The blue note in the tune"},
-                    "fact": {"id": "peabody-sharp-on-purpose", "text": {"en": "In 1903 an archaeologist who had dug a mound in Coahoma County, Mississippi, wrote that his crew often sang a refrain's final home note a little sharp: \"So frequent was this that it seemed intentional or unavoidable, not merely a mistake in pitch.\""}, "source": {"en": "Peabody, Journal of American Folk-Lore 16 (1903), p. 151, Internet Archive"}, "url": "https://archive.org/details/sim_journal-of-american-folklore_july-september-1903_16_62"},
+                    "title": {"en": "The blue note in the tune", "es": "La nota blue en la melodía"},
+                    "fact": {"id": "peabody-sharp-on-purpose", "text": {"en": "In 1903 an archaeologist who had dug a mound in Coahoma County, Mississippi, wrote that his crew often sang a refrain's final home note a little sharp: \"So frequent was this that it seemed intentional or unavoidable, not merely a mistake in pitch.\"", "es": "En 1903, un arqueólogo que había excavado un túmulo en el condado de Coahoma (Misisipi) escribió que su cuadrilla solía cantar la nota base final de un estribillo un poco por encima: \"Era tan frecuente que parecía intencionado o inevitable, no un simple error de afinación.\""}, "source": {"en": "Peabody, Journal of American Folk-Lore 16 (1903), p. 151, Internet Archive", "es": "Peabody, Journal of American Folk-Lore 16 (1903), p. 151, Internet Archive"}, "url": "https://archive.org/details/sim_journal-of-american-folklore_july-september-1903_16_62"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "This tune leans on a blue note, sung between two piano keys, just under the bright one, then on it. Scat singing has more of it; here it's in the tune as printed."},
+                            "headline": {"en": "This tune leans on a blue note, sung between two piano keys, just under the bright one, then on it. Scat singing has more of it; here it's in the tune as printed.", "es": "Esta melodía se apoya en una nota blue, que cae entre dos teclas del piano: se canta justo por debajo de la nota brillante y luego en ella. El curso Canto scat tiene más; aquí viene en la melodía tal como se publicó."},
                             "steps": [
-                                {"title": {"en": "Lean, then land"}, "detail": {"en": "The lower note first, then the bright one"}},
-                                {"title": {"en": "Sung as written"}, "detail": {"en": "No sliding needed; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Lean, then land", "es": "Apóyate y aterriza"}, "detail": {"en": "The lower note first, then the bright one", "es": "Primero la nota más grave, luego la brillante"}},
+                                {"title": {"en": "Sung as written", "es": "Como está escrita"}, "detail": {"en": "No sliding needed; stop if anything tightens or hurts", "es": "No hace falta deslizar. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes: each waits until you're on it."},
+                            "text": {"en": "Find the notes: each waits until you're on it.", "es": "Encuentra las notas: cada una espera a que llegues a ella."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -471,7 +471,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "So many days: the line, said twice, its blue notes as written."},
+                            "text": {"en": "So many days: the line, said twice, its blue notes as written.", "es": "\"So many days\": el verso, dicho dos veces, con sus notas blue tal como están escritas."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -511,39 +511,39 @@
                                     {"beat": 25, "root": 0, "quality": "maj"}
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "bl-2-ending",
-                    "title": {"en": "A bluer ending"},
+                    "title": {"en": "A bluer ending", "es": "Un final más blues"},
                     "fact": {
                         "id": "waller-muscle-shoals-1922",
-                        "text": {"en": "Muscle Shoals Blues was one of the first records Fats Waller made: a piano solo for OKeh, in October 1922."},
-                        "source": {"en": "Discography of American Historical Recordings, OKeh matrix S-70948, UC Santa Barbara"},
+                        "text": {"en": "Muscle Shoals Blues was one of the first records Fats Waller made: a piano solo for OKeh, in October 1922.", "es": "Muscle Shoals Blues fue uno de los primeros discos de Fats Waller: un solo de piano para OKeh, en octubre de 1922."},
+                        "source": {"en": "Discography of American Historical Recordings, OKeh matrix S-70948, UC Santa Barbara", "es": "Discography of American Historical Recordings, OKeh matrix S-70948, UC Santa Barbara"},
                         "url": "https://adp.library.ucsb.edu/index.php/matrix/detail/2000203086/S-70948-Muscle_Shoals_blues",
                         "distinct": ["shch-carnegie-1922"]
                     },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A blues line can end below home, on a lower note that leaves it open. It sounds odd at first; listen first."},
+                            "headline": {"en": "A blues line can end below home, on a lower note that leaves it open. It sounds odd at first; listen first.", "es": "Un verso de blues puede acabar por debajo de la nota base, en una nota más grave que lo deja abierto. Al principio suena raro: escúchalo primero."},
                             "steps": [
-                                {"title": {"en": "Below home"}, "detail": {"en": "A step and a bit under it"}},
-                                {"title": {"en": "Let it sit"}, "detail": {"en": "Easy, not pressed down; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Below home", "es": "Bajo la nota base"}, "detail": {"en": "A step and a bit under it", "es": "Un tono entero por debajo"}},
+                                {"title": {"en": "Let it sit", "es": "Quédate en ella"}, "detail": {"en": "Easy, not pressed down; stop if anything tightens or hurts", "es": "Suave, sin apretar hacia abajo. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to both, then choose."},
+                            "text": {"en": "Listen to both, then choose.", "es": "Escucha las dos y luego elige."},
                             "exercise": {
                                 "tempo": 72,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which ending sounds bluer?"},
+                                        "prompt": {"en": "Which ending sounds bluer?", "es": "¿Qué final suena más blues?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -565,10 +565,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The second ended below home, open and blue. The first settled home."}
+                                        "why": {"en": "The second ended below home, open and blue. The first settled home.", "es": "El segundo acabó bajo la nota base, abierto, con sabor a blues. El primero reposó en ella."}
                                     },
                                     {
-                                        "prompt": {"en": "Which ending sounds bluer?"},
+                                        "prompt": {"en": "Which ending sounds bluer?", "es": "¿Qué final suena más blues?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -590,15 +590,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The first stopped below home; the second came all the way."}
+                                        "why": {"en": "The first stopped below home; the second came all the way.", "es": "El primero se quedó bajo la nota base; el segundo llegó hasta ella."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the bluer ending: each note waits until you're on it."},
+                            "text": {"en": "Find the bluer ending: each note waits until you're on it.", "es": "Encuentra el final más blues: cada nota espera a que llegues a ella."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -612,7 +612,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Sing the bluer ending on \"oh\"."},
+                            "text": {"en": "Sing the bluer ending on \"oh\".", "es": "Canta el final más blues en \"oh\"."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -624,11 +624,11 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the verse's answer line: Didn't have no blues."},
+                            "text": {"en": "Now the verse's answer line: Didn't have no blues.", "es": "Ahora el verso de respuesta de la estrofa: \"Didn't have no blues\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -658,28 +658,28 @@
                                     {"beat": 14, "root": 7, "quality": "dom7"}
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "bl-2-two",
-                    "title": {"en": "Not every blues has three lines"},
-                    "fact": {"id": "muscle-shoals-ford-boom", "text": {"en": "Muscle Shoals Blues, printed in 1921, begs \"go with me to Muscle Shoals\". That year Henry Ford offered to lease the unfinished dam and plants there, setting off a short-lived land boom."}, "source": {"en": "Encyclopedia of Alabama, \"Muscle Shoals\"; The Henry Ford museum; Mississippi State University Libraries"}, "url": "https://encyclopediaofalabama.org/?p=16787"},
+                    "title": {"en": "Not every blues has three lines", "es": "No todo blues tiene tres versos"},
+                    "fact": {"id": "muscle-shoals-ford-boom", "text": {"en": "Muscle Shoals Blues, printed in 1921, begs \"go with me to Muscle Shoals\". That year Henry Ford offered to lease the unfinished dam and plants there, setting off a short-lived land boom.", "es": "Muscle Shoals Blues, publicado en 1921, suplica \"go with me to Muscle Shoals\". Ese año, Henry Ford se ofreció a arrendar la presa sin terminar y las fábricas de la zona, y desató una fiebre por los terrenos que duró poco."}, "source": {"en": "Encyclopedia of Alabama, \"Muscle Shoals\"; The Henry Ford museum; Mississippi State University Libraries", "es": "Encyclopedia of Alabama, \"Muscle Shoals\"; The Henry Ford museum; Mississippi State University Libraries"}, "url": "https://encyclopediaofalabama.org/?p=16787"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Some blues say a line, rhyme it, then come home in a shorter last line: no saying it twice. This one was printed in Chicago in 1921."},
+                            "headline": {"en": "Some blues say a line, rhyme it, then come home in a shorter last line: no saying it twice. This one was printed in Chicago in 1921.", "es": "Algunos blues dicen un verso, le añaden otro que rima y llegan al reposo en un último verso más corto, sin repetir ninguno. Este se publicó en Chicago en 1921."},
                             "steps": [
-                                {"title": {"en": "A rhyming pair"}, "detail": {"en": "Grip, then trip"}},
-                                {"title": {"en": "Then home"}, "detail": {"en": "Come on, let's go; stop if anything tightens or hurts"}}
+                                {"title": {"en": "A rhyming pair", "es": "Un pareado"}, "detail": {"en": "Grip, then trip", "es": "De \"grip\" a \"trip\""}},
+                                {"title": {"en": "Then home", "es": "Y al reposo"}, "detail": {"en": "Come on, let's go; stop if anything tightens or hurts", "es": "\"Come on, let's go\". Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes: each waits until you're on it."},
+                            "text": {"en": "Find the notes: each waits until you're on it.", "es": "Encuentra las notas: cada una espera a que llegues a ella."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -697,7 +697,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Muscle Shoals Blues: the first lines, over the chords."},
+                            "text": {"en": "Muscle Shoals Blues: the first lines, over the chords.", "es": "Muscle Shoals Blues: los primeros versos, sobre los acordes."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -742,28 +742,28 @@
                                     {"beat": 24, "root": 7, "quality": "maj"}
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "bl-2-challenge",
-                    "title": {"en": "Muscle Shoals Blues"},
+                    "title": {"en": "Muscle Shoals Blues", "es": "Muscle Shoals Blues"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Both of its verses' first lines, a breath between: pack your grip, then woke up this morning feeling glad."},
+                            "headline": {"en": "Both of its verses' first lines, a breath between: pack your grip, then woke up this morning feeling glad.", "es": "Los primeros versos de sus dos estrofas, respirando entre una y otra: \"pack your grip\" y luego \"woke up this morning feeling glad\"."},
                             "steps": [
-                                {"title": {"en": "Two halves"}, "detail": {"en": "A full breath between"}},
-                                {"title": {"en": "Tell it, in your own clear voice"}, "detail": {"en": "At a speaking volume; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Two halves", "es": "Dos mitades"}, "detail": {"en": "A full breath between", "es": "Respira hondo entre las dos"}},
+                                {"title": {"en": "Tell it, in your own clear voice", "es": "Cuéntalo, con tu voz clara"}, "detail": {"en": "At a speaking volume; stop if anything tightens or hurts", "es": "A volumen de conversación. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Both halves, over the chords."},
+                            "text": {"en": "Both halves, over the chords.", "es": "Las dos mitades, sobre los acordes."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -845,7 +845,7 @@
                                     {"beat": 56, "root": 7, "quality": "maj"}
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 }
@@ -853,27 +853,27 @@
         },
         {
             "id": "bl-the-bands-turn",
-            "title": {"en": "The band's turn"},
+            "title": {"en": "The band's turn", "es": "Turno de la banda"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "bl-3-room",
-                    "title": {"en": "Leave room"},
-                    "fact": {"id": "handy-gaps-became-breaks", "text": {"en": "In the folk blues, W. C. Handy wrote, the singer filled occasional gaps with words like \"Oh, baby\". In St. Louis Blues he filled those gaps in the piano and orchestra parts instead. Such a fill is called a break."}, "source": {"en": "Handy, Father of the Blues (New York: Macmillan, 1941), pp. 120-121, Internet Archive"}, "url": "https://archive.org/details/fatherofbluesaut00wcha_0"},
+                    "title": {"en": "Leave room", "es": "Deja espacio"},
+                    "fact": {"id": "handy-gaps-became-breaks", "text": {"en": "In the folk blues, W. C. Handy wrote, the singer filled occasional gaps with words like \"Oh, baby\". In St. Louis Blues he filled those gaps in the piano and orchestra parts instead. Such a fill is called a break.", "es": "En el blues tradicional, escribió W. C. Handy, el cantante rellenaba algún hueco con palabras como \"Oh, baby\". En St. Louis Blues, él rellenó esos huecos con el piano y la orquesta. A ese relleno se le llama break."}, "source": {"en": "Handy, Father of the Blues (New York: Macmillan, 1941), pp. 120-121, Internet Archive", "es": "Handy, Father of the Blues (New York: Macmillan, 1941), pp. 120-121, Internet Archive"}, "url": "https://archive.org/details/fatherofbluesaut00wcha_0"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "In a blues the band answers you. Sing your line, hold its last word, and leave the gap for the band's turn."},
+                            "headline": {"en": "In a blues the band answers you. Sing your line, hold its last word, and leave the gap for the band's turn.", "es": "En un blues, la banda te responde. Canta tu verso, sostén su última palabra y deja el hueco para el turno de la banda."},
                             "steps": [
-                                {"title": {"en": "Your line, then theirs"}, "detail": {"en": "The band answers in your rest"}},
-                                {"title": {"en": "Come in on time"}, "detail": {"en": "Right after the band's turn; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Your line, then theirs", "es": "Tu verso y luego el suyo"}, "detail": {"en": "The band answers in your rest", "es": "La banda responde en tu silencio"}},
+                                {"title": {"en": "Come in on time", "es": "Entra a tiempo"}, "detail": {"en": "Right after the band's turn; stop if anything tightens or hurts", "es": "Justo después del turno de la banda. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "The Fives, a train song printed in Chicago in 1922. Find the first line's notes."},
+                            "text": {"en": "The Fives, a train song printed in Chicago in 1922. Find the first line's notes.", "es": "The Fives, una canción de trenes publicada en Chicago en 1922. Encuentra las notas del primer verso."},
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -891,7 +891,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The verse with the band's turns: come in after each one, on time."},
+                            "text": {"en": "The verse with the band's turns: come in after each one, on time.", "es": "La estrofa con los turnos de la banda: entra después de cada uno, a tiempo."},
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -988,11 +988,11 @@
                                 ],
                                 "score": "entry"
                             },
-                            "measures": {"en": "Scored on coming in after each rest, on time and on pitch."}
+                            "measures": {"en": "Scored on coming in after each rest, on time and on pitch.", "es": "Se puntúa que vuelvas a entrar después de cada silencio, a tiempo y en la nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Again, every note on pitch."},
+                            "text": {"en": "Again, every note on pitch.", "es": "Otra vez, con cada nota afinada."},
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1088,33 +1088,33 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "bl-3-fall",
-                    "title": {"en": "The fall"},
-                    "fact": {"id": "tutwiler-knife-guitar", "text": {"en": "Waiting for a late train at Tutwiler, Mississippi, W. C. Handy woke to a guitarist pressing a knife on his strings as he played. Handy called the effect unforgettable."}, "source": {"en": "Handy, Father of the Blues (New York: Macmillan, 1941), p. 74, Internet Archive"}, "url": "https://archive.org/details/fatherofbluesaut00wcha_0"},
+                    "title": {"en": "The fall", "es": "La caída"},
+                    "fact": {"id": "tutwiler-knife-guitar", "text": {"en": "Waiting for a late train at Tutwiler, Mississippi, W. C. Handy woke to a guitarist pressing a knife on his strings as he played. Handy called the effect unforgettable.", "es": "Mientras esperaba un tren con retraso en Tutwiler (Misisipi), W. C. Handy se despertó al oír a un guitarrista que tocaba apoyando un cuchillo en las cuerdas. Handy dijo que aquel efecto era inolvidable."}, "source": {"en": "Handy, Father of the Blues (New York: Macmillan, 1941), p. 74, Internet Archive", "es": "Handy, Father of the Blues (New York: Macmillan, 1941), p. 74, Internet Archive"}, "url": "https://archive.org/details/fatherofbluesaut00wcha_0"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "At a line's end, a blues singer can let the last note fall away, like a sigh. The note lands first, then lets go."},
+                            "headline": {"en": "At a line's end, a blues singer can let the last note fall away, like a sigh. The note lands first, then lets go.", "es": "Al final de un verso, un cantante de blues puede dejar caer la última nota, como un suspiro. Primero la nota aterriza y luego se suelta."},
                             "steps": [
-                                {"title": {"en": "Land, then let go"}, "detail": {"en": "The fall comes at the very end"}},
-                                {"title": {"en": "Let the note go"}, "detail": {"en": "Don't drive air at it; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Land, then let go", "es": "Aterriza y suelta"}, "detail": {"en": "The fall comes at the very end", "es": "La caída va justo al final"}},
+                                {"title": {"en": "Let the note go", "es": "Suelta la nota"}, "detail": {"en": "Don't drive air at it; stop if anything tightens or hurts", "es": "Sin empujar el aire. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to both, then choose."},
+                            "text": {"en": "Listen to both, then choose.", "es": "Escucha las dos y luego elige."},
                             "exercise": {
                                 "tempo": 76,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one let the last note fall?"},
+                                        "prompt": {"en": "Which one let the last note fall?", "es": "¿Cuál dejó caer la última nota?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1130,10 +1130,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The first held its note, then let it fall away. The second just stopped."}
+                                        "why": {"en": "The first held its note, then let it fall away. The second just stopped.", "es": "La primera sostuvo su nota y luego la dejó caer. La segunda simplemente se cortó."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one let the last note fall?"},
+                                        "prompt": {"en": "Which one let the last note fall?", "es": "¿Cuál dejó caer la última nota?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1149,15 +1149,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The second sighed down at the end; the first held still."}
+                                        "why": {"en": "The second sighed down at the end; the first held still.", "es": "La segunda cayó al final, como un suspiro; la primera se mantuvo fija."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first line on \"oh\", its last note falling away at the end."},
+                            "text": {"en": "The first line on \"oh\", its last note falling away at the end.", "es": "El primer verso en \"oh\", dejando caer su última nota al final."},
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1174,11 +1174,11 @@
                                 "turn": true,
                                 "score": "styled"
                             },
-                            "measures": {"en": "Scored on the fall asked for, and every note on pitch."}
+                            "measures": {"en": "Scored on the fall asked for, and every note on pitch.", "es": "Se puntúan la caída que se pide y la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now with the words: fall or not, as you like."},
+                            "text": {"en": "Now with the words: fall or not, as you like.", "es": "Ahora con la letra: con caída o sin ella, como quieras."},
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1195,34 +1195,34 @@
                                 "turn": false,
                                 "chords": [{"beat": 0, "root": 7, "quality": "dom7"}, {"beat": 16, "root": 0, "quality": "maj"}]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "bl-3-lay",
-                    "title": {"en": "Lay back"},
+                    "title": {"en": "Lay back", "es": "Sin prisa"},
                     "fact": {
                         "id": "fives-train-rhythm",
-                        "text": {"en": "The Fives, by George W. Thomas and his brother Hersal, was inspired by railroad travel. George said he based its piano left hand on the rhythm of the trains."},
-                        "source": {"en": "Handbook of Texas Online, \"Thomas, George Washington, Jr.\"; Bill Edwards, RagPiano.com"},
+                        "text": {"en": "The Fives, by George W. Thomas and his brother Hersal, was inspired by railroad travel. George said he based its piano left hand on the rhythm of the trains.", "es": "The Fives, de George W. Thomas y su hermano Hersal, se inspiró en los viajes en tren. George contó que basó la mano izquierda del piano en el ritmo de los trenes."},
+                        "source": {"en": "Handbook of Texas Online, \"Thomas, George Washington, Jr.\"; Bill Edwards, RagPiano.com", "es": "Handbook of Texas Online, \"Thomas, George Washington, Jr.\"; Bill Edwards, RagPiano.com"},
                         "url": "https://www.tshaonline.org/handbook/entries/thomas-george-washington-jr-clay-custer",
                         "distinct": ["sgb-hociel", "sgb-own-press"]
                     },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Blues singers often start a line a little after the beat, then settle onto it. Lay back, never rush."},
+                            "headline": {"en": "Blues singers often start a line a little after the beat, then settle onto it. Lay back, never rush.", "es": "Los cantantes de blues a menudo empiezan un verso un poco después del pulso y luego se asientan en él. Canta por detrás del pulso, nunca corras."},
                             "steps": [
-                                {"title": {"en": "A little late"}, "detail": {"en": "Each line's first word, then on the beat"}},
-                                {"title": {"en": "Never rush"}, "detail": {"en": "Let the band keep time; stop if anything tightens or hurts"}}
+                                {"title": {"en": "A little late", "es": "Un poco tarde"}, "detail": {"en": "Each line's first word, then on the beat", "es": "La primera palabra de cada verso; luego, en el pulso"}},
+                                {"title": {"en": "Never rush", "es": "Nunca corras"}, "detail": {"en": "Let the band keep time; stop if anything tightens or hurts", "es": "Deja que la banda lleve el pulso. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The verse, each line's first word laid back."},
+                            "text": {"en": "The verse, each line's first word laid back.", "es": "La estrofa, entrando un poco tarde en cada verso."},
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1279,11 +1279,11 @@
                                 ],
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Sing it once more, then hear yours beside the guide's."},
+                            "text": {"en": "Sing it once more, then hear yours beside the guide's.", "es": "Cántalo una vez más y luego escúchate junto a la guía."},
                             "exercise": {
                                 "tempo": 76,
                                 "model": {
@@ -1300,29 +1300,29 @@
                                     ]
                                 },
                                 "along": true,
-                                "questions": [{"en": "Did you rush to catch up?"}, {"en": "Did each line settle onto the beat?"}]
+                                "questions": [{"en": "Did you rush to catch up?", "es": "¿Corriste para recuperar el pulso?"}, {"en": "Did each line settle onto the beat?", "es": "¿Se asentó cada verso en el pulso?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "bl-3-challenge",
-                    "title": {"en": "The Fives"},
+                    "title": {"en": "The Fives", "es": "The Fives"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The whole verse with the band's turns: leave room, come in on time, and let a line end fall if you like."},
+                            "headline": {"en": "The whole verse with the band's turns: leave room, come in on time, and let a line end fall if you like.", "es": "La estrofa entera con los turnos de la banda: deja espacio, entra a tiempo y, si quieres, deja caer el final de algún verso."},
                             "steps": [
-                                {"title": {"en": "Your line, then theirs"}, "detail": {"en": "Three times"}},
-                                {"title": {"en": "Tell it, in your own clear voice"}, "detail": {"en": "At a speaking volume; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Your line, then theirs", "es": "Tu verso y luego el suyo"}, "detail": {"en": "Three times", "es": "Tres veces"}},
+                                {"title": {"en": "Tell it, in your own clear voice", "es": "Cuéntalo, con tu voz clara"}, "detail": {"en": "At a speaking volume; stop if anything tightens or hurts", "es": "A volumen de conversación. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The verse, over the chords, with the band answering."},
+                            "text": {"en": "The verse, over the chords, with the band answering.", "es": "La estrofa, sobre los acordes, con la banda respondiendo."},
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1418,7 +1418,7 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 }
@@ -1426,32 +1426,32 @@
         },
         {
             "id": "bl-your-blues",
-            "title": {"en": "Your blues"},
+            "title": {"en": "Your blues", "es": "Tu blues"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "bl-4-first",
-                    "title": {"en": "Your first line"},
-                    "fact": {"id": "woke-up-this-mornin-1911", "text": {"en": "Waking up this morning was sung about long before blues records. A camp workers' song Howard Odum printed in 1911 sings three times of waking up this morning and not being able to keep from crying, then answers it."}, "source": {"en": "Odum, Journal of American Folk-Lore 24 (1911), p. 381, Internet Archive"}, "url": "https://archive.org/details/sim_journal-of-american-folklore_october-december-1911_24_94"},
+                    "title": {"en": "Your first line", "es": "Tu primer verso"},
+                    "fact": {"id": "woke-up-this-mornin-1911", "text": {"en": "Waking up this morning was sung about long before blues records. A camp workers' song Howard Odum printed in 1911 sings three times of waking up this morning and not being able to keep from crying, then answers it.", "es": "Mucho antes de los discos de blues ya se cantaba eso de \"me desperté esta mañana\". Una canción de trabajadores de un campamento que Howard Odum publicó en 1911 repite tres veces que al despertar esa mañana no podía dejar de llorar, y luego le responde."}, "source": {"en": "Odum, Journal of American Folk-Lore 24 (1911), p. 381, Internet Archive", "es": "Odum, Journal of American Folk-Lore 24 (1911), p. 381, Internet Archive"}, "url": "https://archive.org/details/sim_journal-of-american-folklore_october-december-1911_24_94"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Your own blues, to this tune. Start with one line about your day: Woke up this morning, my coffee was gone."},
+                            "headline": {"en": "Your own blues, to this tune. Start with one line about your day: Woke up this morning, my coffee was gone.", "es": "Tu propio blues, con esta melodía. Empieza con un verso sobre tu día: Me desperté esta mañana, no quedaba café."},
                             "steps": [
-                                {"title": {"en": "Woke up this morning"}, "detail": {"en": "My keys, my coffee, my bus was gone"}},
-                                {"title": {"en": "Say it out loud first"}, "detail": {"en": "Then sing it to the tune; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Woke up this morning", "es": "Me desperté esta mañana"}, "detail": {"en": "My keys, my coffee, my bus was gone", "es": "Sin llaves, sin café, sin tren"}},
+                                {"title": {"en": "Say it out loud first", "es": "Primero, dilo en voz alta"}, "detail": {"en": "Then sing it to the tune; stop if anything tightens or hurts", "es": "Luego cántalo con la melodía. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Three lines sung to the tune. Listen, then choose."},
+                            "text": {"en": "Three lines sung to the tune. Listen, then choose.", "es": "Tres versos cantados con la melodía. Escucha y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one fits the tune?"},
+                                        "prompt": {"en": "Which one fits the tune?", "es": "¿Cuál encaja con la melodía?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1501,10 +1501,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The first fits one sound a note. The second crams too many in; the last runs out early."}
+                                        "why": {"en": "The first fits one sound a note. The second crams too many in; the last runs out early.", "es": "El primero encaja: una sílaba por nota. El segundo mete demasiadas; el último se acaba antes de tiempo."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one fits the tune?"},
+                                        "prompt": {"en": "Which one fits the tune?", "es": "¿Cuál encaja con la melodía?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1554,15 +1554,15 @@
                                             }
                                         ],
                                         "answer": 2,
-                                        "why": {"en": "The last one fits. The first runs short, the second crams."}
+                                        "why": {"en": "The last one fits. The first runs short, the second crams.", "es": "Encaja el último. El primero se queda corto; el segundo se atropella."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your line to the tune, then say it again."},
+                            "text": {"en": "Sing your line to the tune, then say it again.", "es": "Canta tu verso con la melodía y luego repítelo."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1601,28 +1601,28 @@
                                     {"beat": 25, "root": 0, "quality": "maj"}
                                 ]
                             },
-                            "measures": {"en": "Scored on the tune. The words are yours; the app hears the notes."}
+                            "measures": {"en": "Scored on the tune. The words are yours; the app hears the notes.", "es": "Se puntúa la melodía. La letra es tuya; la app escucha las notas."}
                         }
                     ]
                 },
                 {
                     "id": "bl-4-answer",
-                    "title": {"en": "Your answer line"},
-                    "fact": {"id": "hersal-died-a-teenager", "text": {"en": "Hersal Thomas, who wrote The Fives with his much older brother George, was a piano prodigy whose playing of it inspired Chicago pianists such as Albert Ammons and Meade Lux Lewis. He died suddenly in Detroit in 1926, still in his teens."}, "source": {"en": "Handbook of Texas Online, \"Thomas, Hersal\"; Discography of American Historical Recordings"}, "url": "https://www.tshaonline.org/handbook/entries/thomas-hersal"},
+                    "title": {"en": "Your answer line", "es": "Tu respuesta"},
+                    "fact": {"id": "hersal-died-a-teenager", "text": {"en": "Hersal Thomas, who wrote The Fives with his much older brother George, was a piano prodigy whose playing of it inspired Chicago pianists such as Albert Ammons and Meade Lux Lewis. He died suddenly in Detroit in 1926, still in his teens.", "es": "Hersal Thomas, que escribió The Fives con su hermano George, mucho mayor que él, fue un niño prodigio del piano: su forma de tocarla inspiró a pianistas de Chicago como Albert Ammons y Meade Lux Lewis. Murió de repente en Detroit en 1926, sin haber cumplido los veinte."}, "source": {"en": "Handbook of Texas Online, \"Thomas, Hersal\"; Discography of American Historical Recordings", "es": "Handbook of Texas Online, \"Thomas, Hersal\"; Discography of American Historical Recordings"}, "url": "https://www.tshaonline.org/handbook/entries/thomas-hersal"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now answer your line: a last line that rhymes with it and comes home. Gone, then on; day, then away."},
+                            "headline": {"en": "Now answer your line: a last line that rhymes with it and comes home. Gone, then on; day, then away.", "es": "Ahora responde a tu verso: un último verso que rime con él y llegue al reposo. Café y se fue; día y todavía."},
                             "steps": [
-                                {"title": {"en": "Make it rhyme"}, "detail": {"en": "Gone, then on; day, then away"}},
-                                {"title": {"en": "Bring it home"}, "detail": {"en": "The last note settles; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Make it rhyme", "es": "Que rime"}, "detail": {"en": "Gone, then on; day, then away", "es": "Café y se fue; día y todavía"}},
+                                {"title": {"en": "Bring it home", "es": "Que repose"}, "detail": {"en": "The last note settles; stop if anything tightens or hurts", "es": "La última nota reposa. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "The answer line's tune, no words: find its notes."},
+                            "text": {"en": "The answer line's tune, no words: find its notes.", "es": "La melodía del verso de respuesta, sin letra: encuentra sus notas."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1646,7 +1646,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your answer line to the tune."},
+                            "text": {"en": "Sing your answer line to the tune.", "es": "Canta tu verso de respuesta con la melodía."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1676,11 +1676,11 @@
                                     {"beat": 14, "root": 7, "quality": "dom7"}
                                 ]
                             },
-                            "measures": {"en": "Scored on the tune. The words are yours; the app hears the notes."}
+                            "measures": {"en": "Scored on the tune. The words are yours; the app hears the notes.", "es": "Se puntúa la melodía. La letra es tuya; la app escucha las notas."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Sing it once more, then hear yours beside the guide's."},
+                            "text": {"en": "Sing it once more, then hear yours beside the guide's.", "es": "Cántalo una vez más y luego escúchate junto a la guía."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -1704,8 +1704,8 @@
                                 },
                                 "along": true,
                                 "questions": [
-                                    {"en": "Did your answer rhyme with your first line?"},
-                                    {"en": "Did it turn the story, or close it?"}
+                                    {"en": "Did your answer rhyme with your first line?", "es": "¿Rimó tu respuesta con tu primer verso?"},
+                                    {"en": "Did it turn the story, or close it?", "es": "¿Dio un giro a la historia o la cerró?"}
                                 ]
                             }
                         }
@@ -1713,22 +1713,22 @@
                 },
                 {
                     "id": "bl-4-verse",
-                    "title": {"en": "Your verse"},
-                    "fact": {"id": "mighty-long-half-day", "text": {"en": "In Coahoma County, Mississippi, in 1901 and 1902, an archaeologist heard his crew make up lines on the spot about whatever was going on. One Saturday half-holiday, a sing-song came out of the trench: Mighty long half day, Captain."}, "source": {"en": "Peabody, Journal of American Folk-Lore 16 (1903), pp. 149-150, Internet Archive"}, "url": "https://archive.org/details/sim_journal-of-american-folklore_july-september-1903_16_62"},
+                    "title": {"en": "Your verse", "es": "Tu estrofa"},
+                    "fact": {"id": "mighty-long-half-day", "text": {"en": "In Coahoma County, Mississippi, in 1901 and 1902, an archaeologist heard his crew make up lines on the spot about whatever was going on. One Saturday half-holiday, a sing-song came out of the trench: Mighty long half day, Captain.", "es": "En el condado de Coahoma (Misisipi), en 1901 y 1902, un arqueólogo oyó a su cuadrilla inventar versos sobre la marcha acerca de lo que estuviera pasando. Un sábado en que solo se trabajaba media jornada, salió de la zanja una cantinela: \"Mighty long half day, Captain\"."}, "source": {"en": "Peabody, Journal of American Folk-Lore 16 (1903), pp. 149-150, Internet Archive", "es": "Peabody, Journal of American Folk-Lore 16 (1903), pp. 149-150, Internet Archive"}, "url": "https://archive.org/details/sim_journal-of-american-folklore_july-september-1903_16_62"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "All three lines of your own verse, over the piano's chords: say it, say it again, answer it."},
+                            "headline": {"en": "All three lines of your own verse, over the piano's chords: say it, say it again, answer it.", "es": "Los tres versos de tu propia estrofa, sobre los acordes del piano: dilo, repítelo, respóndelo."},
                             "steps": [
-                                {"title": {"en": "Your three lines"}, "detail": {"en": "A breath after each"}},
-                                {"title": {"en": "Tell it, in your own clear voice"}, "detail": {"en": "At a speaking volume; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Your three lines", "es": "Tus tres versos"}, "detail": {"en": "A breath after each", "es": "Respira después de cada uno"}},
+                                {"title": {"en": "Tell it, in your own clear voice", "es": "Cuéntalo, con tu voz clara"}, "detail": {"en": "At a speaking volume; stop if anything tightens or hurts", "es": "A volumen de conversación. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Your verse, over the chords."},
+                            "text": {"en": "Your verse, over the chords.", "es": "Tu estrofa, sobre los acordes."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1788,11 +1788,11 @@
                                     {"beat": 46, "root": 7, "quality": "dom7"}
                                 ]
                             },
-                            "measures": {"en": "Scored on the tune. The words are yours; the app hears the notes."}
+                            "measures": {"en": "Scored on the tune. The words are yours; the app hears the notes.", "es": "Se puntúa la melodía. La letra es tuya; la app escucha las notas."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Sing it once more, then hear yours beside the guide's."},
+                            "text": {"en": "Sing it once more, then hear yours beside the guide's.", "es": "Cántalo una vez más y luego escúchate junto a la guía."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -1841,36 +1841,36 @@
                                     ]
                                 },
                                 "along": true,
-                                "questions": [{"en": "Did your last line answer the first two?"}, {"en": "Could someone hear every word?"}]
+                                "questions": [{"en": "Did your last line answer the first two?", "es": "¿Respondió tu último verso a los dos primeros?"}, {"en": "Could someone hear every word?", "es": "¿Se entendía cada palabra?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "bl-4-challenge",
-                    "title": {"en": "Your blues"},
+                    "title": {"en": "Your blues", "es": "Tu blues"},
                     "challenge": true,
                     "keepSong": {
-                        "title": {"en": "My blues"},
-                        "takes": [{"step": 2, "name": {"en": "Voice"}}],
+                        "title": {"en": "My blues", "es": "Mi blues"},
+                        "takes": [{"step": 2, "name": {"en": "Voice", "es": "Voz"}}],
                         "from": 2,
                         "partners": [],
-                        "chords": {"en": "Piano"}
+                        "chords": {"en": "Piano", "es": "Piano"}
                     },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "George W. Thomas and his daughter Hociel wrote these words in Chicago. First your first line from lesson 1, then their verse and yours, kept as a song."},
+                            "headline": {"en": "George W. Thomas and his daughter Hociel wrote these words in Chicago. First your first line from lesson 1, then their verse and yours, kept as a song.", "es": "George W. Thomas y su hija Hociel escribieron esta letra en Chicago. Primero, tu primer verso de la lección 1; luego, su estrofa y la tuya, guardadas como canción."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Your first line, beside today's"}},
-                                {"title": {"en": "Kept as a song"}, "detail": {"en": "Their verse, then yours; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Your first line, beside today's", "es": "Tu primer verso, junto al de hoy"}},
+                                {"title": {"en": "Kept as a song", "es": "Se guarda como canción"}, "detail": {"en": "Their verse, then yours; stop if anything tightens or hurts", "es": "Su estrofa y luego la tuya. Si algo se tensa o duele, para"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first line, over the chords."},
+                            "text": {"en": "The first line, over the chords.", "es": "El primer verso, sobre los acordes."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1893,11 +1893,11 @@
                                 "chords": [{"beat": 0, "root": 0, "quality": "maj"}],
                                 "thenAndNow": "blues.first-line"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Their verse, then yours to the same tune."},
+                            "text": {"en": "Their verse, then yours to the same tune.", "es": "Su estrofa y luego la tuya, con la misma melodía."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -2008,7 +2008,7 @@
                                     {"beat": 94, "root": 7, "quality": "dom7"}
                                 ]
                             },
-                            "measures": {"en": "Scored on the tune. The words are yours; the app hears the notes."}
+                            "measures": {"en": "Scored on the tune. The words are yours; the app hears the notes.", "es": "Se puntúa la melodía. La letra es tuya; la app escucha las notas."}
                         }
                     ]
                 }
