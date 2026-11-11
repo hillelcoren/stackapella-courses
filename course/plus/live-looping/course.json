@@ -3,25 +3,25 @@
     "version": 1,
     "headphones": "needed",
     "reviewed": false,
-    "title": {"en": "Live looping"},
+    "title": {"en": "Live looping", "es": "Bucles en vivo"},
     "units": [
         {
             "id": "ll-a-loop",
-            "title": {"en": "A loop that lines up"},
+            "title": {"en": "A loop that lines up", "es": "Un bucle que encaja"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "ll-1-loop",
-                    "title": {"en": "The loop"},
-                    "fact": {"id": "closed-groove", "text": {"en": "Tape loops grew out of records. In late-1940s Paris, the composer Pierre Schaeffer used records with a \"closed groove\" to repeat bits of sound; when magnetic tape became available, he switched to tape loops."}, "source": {"en": "Wikipedia, Tape loop"}, "url": "https://en.wikipedia.org/wiki/Tape_loop"},
+                    "title": {"en": "The loop", "es": "El bucle"},
+                    "fact": {"id": "closed-groove", "text": {"en": "Tape loops grew out of records. In late-1940s Paris, the composer Pierre Schaeffer used records with a \"closed groove\" to repeat bits of sound; when magnetic tape became available, he switched to tape loops.", "es": "Los bucles de cinta nacieron de los discos. En el París de finales de los años 40, el compositor Pierre Schaeffer usaba discos con un \"surco cerrado\" para repetir fragmentos de sonido; cuando llegó la cinta magnética, pasó a los bucles de cinta."}, "source": {"en": "Wikipedia, Tape loop", "es": "Wikipedia, Tape loop"}, "url": "https://en.wikipedia.org/wiki/Tape_loop"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A looper sings a short part, lets it repeat, and sings over it: a band made of one voice. Hear one: a bass four times round, and a second part over it. This course is for the web app for now."},
+                            "headline": {"en": "A looper sings a short part, lets it repeat, and sings over it: a band made of one voice. Hear one: a bass four times round, and a second part over it. This course is for the web app for now.", "es": "Quien hace bucles canta una parte corta, deja que se repita y canta encima: una banda hecha con una sola voz. Escucha un ejemplo: un bajo que da cuatro vueltas y una segunda voz encima. De momento, este curso es solo para la app web."},
                             "steps": [
-                                {"title": {"en": "The app closes the loop"}, "detail": {"en": "Your job is to fit inside it"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}},
-                                {"title": {"en": "Low and easy"}, "detail": {"en": "Easy volume, your middle notes, the bass light; stop if anything tightens or hurts."}}
+                                {"title": {"en": "The app closes the loop", "es": "La app cierra el bucle"}, "detail": {"en": "Your job is to fit inside it", "es": "Tu trabajo es encajar dentro"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}},
+                                {"title": {"en": "Low and easy", "es": "Grave y cómodo"}, "detail": {"en": "Easy volume, your middle notes, the bass light; stop if anything tightens or hurts.", "es": "Volumen cómodo, tus notas medias, el bajo ligero. Si algo se tensa o duele, para."}}
                             ],
                             "visual": "bass",
                             "reviewed": false,
@@ -64,7 +64,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Sing the bass on \"doom\", twice round: do, do, then low so, low so, a rest after each. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "Sing the bass on \"doom\", twice round: do, do, then low so, low so, a rest after each. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "Aquí, \"do\" no es una nota fija: es tu nota base, esté donde esté (do móvil). Canta el bajo en \"doom\" (dum), dos vueltas: \"do\", \"do\", luego \"so\" (sol) grave, \"so\" grave, con un silencio después de cada una. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -82,11 +82,11 @@
                                 "generous": true,
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Not happy with it? Sing it again before you stack on it. Now your bass loops: listen once round, then fill its gaps with short \"doo\"s, on mi, then re."},
+                            "text": {"en": "Not happy with it? Sing it again before you stack on it. Now your bass loops: listen once round, then fill its gaps with short \"doo\"s, on mi, then re.", "es": "¿No te convence? Vuelve a cantarlo antes de grabar encima. Ahora tu bajo suena en bucle: escucha una vuelta y luego llena sus huecos con \"doo\" (du) cortos, en \"mi\" y luego en \"re\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -107,29 +107,29 @@
                                 "generous": true,
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes in the gaps, on pitch and on the beat. That's your loop under you."}
+                            "measures": {"en": "Scored on your notes in the gaps, on pitch and on the beat. That's your loop under you.", "es": "Se puntúan tus notas en los huecos: afinadas y a tiempo. Ese es tu bucle, debajo de ti."}
                         }
                     ]
                 },
                 {
                     "id": "ll-1-lock",
-                    "title": {"en": "Lock to yourself"},
-                    "fact": {"id": "predict-not-react", "text": {"en": "Reacting to a sound takes about 160 milliseconds on average, a 2013 paper notes, yet trained ensemble musicians typically land 30 to 50 milliseconds apart: too close for reacting alone, which suggests they predict."}, "source": {"en": "van der Steen and Keller, Frontiers in Human Neuroscience (2013)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3677131"},
+                    "title": {"en": "Lock to yourself", "es": "Encaja contigo"},
+                    "fact": {"id": "predict-not-react", "text": {"en": "Reacting to a sound takes about 160 milliseconds on average, a 2013 paper notes, yet trained ensemble musicians typically land 30 to 50 milliseconds apart: too close for reacting alone, which suggests they predict.", "es": "Reaccionar a un sonido lleva unos 160 milisegundos de media, señala un artículo de 2013; sin embargo, los músicos de conjunto con formación suelen sonar con 30 a 50 milisegundos de diferencia: demasiado poco para ser solo reacción, lo que sugiere que se anticipan."}, "source": {"en": "van der Steen and Keller, Frontiers in Human Neuroscience (2013)", "es": "van der Steen y Keller, Frontiers in Human Neuroscience (2013)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3677131"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A looper's first test: drop out, keep the loop in your head, and come back in on time."},
+                            "headline": {"en": "A looper's first test: drop out, keep the loop in your head, and come back in on time.", "es": "La primera prueba al hacer bucles: deja de cantar, mantén el bucle en la cabeza y vuelve a entrar a tiempo."},
                             "steps": [
-                                {"title": {"en": "Sing, rest, sing"}, "detail": {"en": "Fill the gaps once round, listen a round, then back in"}},
-                                {"title": {"en": "Back in on time"}, "detail": {"en": "Your loop is the band: be where it expects you"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "Sing, rest, sing", "es": "Canta, descansa, canta"}, "detail": {"en": "Fill the gaps once round, listen a round, then back in", "es": "Llena los huecos una vuelta, escucha otra y vuelve a entrar"}},
+                                {"title": {"en": "Back in on time", "es": "Entra a tiempo"}, "detail": {"en": "Your loop is the band: be where it expects you", "es": "Tu bucle es la banda: entra donde te espera"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "bass",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The bass once round: do, do, low so, low so. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "The bass once round: do, do, low so, low so. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "El bajo, una vuelta: \"do\", \"do\", \"so\" grave, \"so\" grave. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -142,11 +142,11 @@
                                 "drone": {"step": 0, "fadeAfter": 4},
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Listen once round, fill the gaps once round, rest a round, then come back in."},
+                            "text": {"en": "Listen once round, fill the gaps once round, rest a round, then come back in.", "es": "Escucha una vuelta, llena los huecos una vuelta, descansa otra y vuelve a entrar."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -166,29 +166,29 @@
                                 },
                                 "score": "entry"
                             },
-                            "measures": {"en": "Scored on coming back in on time and on pitch after the rest."}
+                            "measures": {"en": "Scored on coming back in on time and on pitch after the rest.", "es": "Se puntúa que vuelvas a entrar a tiempo y en la nota después del silencio."}
                         }
                     ]
                 },
                 {
                     "id": "ll-1-longer",
-                    "title": {"en": "A longer loop"},
-                    "fact": {"id": "rhythm-changes", "text": {"en": "Your four-bar loop moves through chords on do, la, re and so. The A sections of jazz's \"rhythm changes\", from Gershwin's I Got Rhythm (1930), repeat that same sequence: I, vi, ii, V."}, "source": {"en": "Wikipedia, Rhythm changes"}, "url": "https://en.wikipedia.org/wiki/Rhythm_changes"},
+                    "title": {"en": "A longer loop", "es": "Un bucle más largo"},
+                    "fact": {"id": "rhythm-changes", "text": {"en": "Your four-bar loop moves through chords on do, la, re and so. The A sections of jazz's \"rhythm changes\", from Gershwin's I Got Rhythm (1930), repeat that same sequence: I, vi, ii, V.", "es": "Tu bucle de cuatro compases pasa por los acordes de \"do\", \"la\", \"re\" y \"so\". Las secciones A de los \"rhythm changes\" del jazz, que vienen de I Got Rhythm (1930) de Gershwin, repiten esa misma secuencia: I, vi, ii, V."}, "source": {"en": "Wikipedia, Rhythm changes", "es": "Wikipedia, Rhythm changes"}, "url": "https://en.wikipedia.org/wiki/Rhythm_changes"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Four bars now, four notes: do, low la, re, low so. A loop that moves through four chords."},
+                            "headline": {"en": "Four bars now, four notes: do, low la, re, low so. A loop that moves through four chords.", "es": "Ahora cuatro compases y cuatro notas: \"do\", \"la\" grave, \"re\", \"so\" grave. Un bucle que pasa por cuatro acordes."},
                             "steps": [
-                                {"title": {"en": "The last note stops early"}, "detail": {"en": "That's your breath, and the loop's seam"}},
-                                {"title": {"en": "Each note twice"}, "detail": {"en": "Then a rest"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "The last note stops early", "es": "La última nota acaba antes"}, "detail": {"en": "That's your breath, and the loop's seam", "es": "Ahí respiras, y ahí está el empalme del bucle"}},
+                                {"title": {"en": "Each note twice", "es": "Cada nota, dos veces"}, "detail": {"en": "Then a rest", "es": "Luego, un silencio"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "bass",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find each note of the four-bar bass: each waits until you're on it."},
+                            "text": {"en": "Find each note of the four-bar bass: each waits until you're on it.", "es": "Encuentra cada nota del bajo de cuatro compases: cada una espera a que llegues a ella."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -205,12 +205,12 @@
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Hear each loop come round, then choose."},
+                            "text": {"en": "Hear each loop come round, then choose.", "es": "Escucha cada bucle volver a empezar y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which loop closes cleanly?"},
+                                        "prompt": {"en": "Which loop closes cleanly?", "es": "¿Qué bucle cierra limpio?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -230,10 +230,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The first stops early, so there's a breath before the loop comes round. The second runs right into it."}
+                                        "why": {"en": "The first stops early, so there's a breath before the loop comes round. The second runs right into it.", "es": "El primero corta antes, así que hay una respiración antes de que el bucle vuelva a empezar. El segundo sigue sonando hasta chocar con él."}
                                     },
                                     {
-                                        "prompt": {"en": "Which loop closes cleanly?"},
+                                        "prompt": {"en": "Which loop closes cleanly?", "es": "¿Qué bucle cierra limpio?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -253,10 +253,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "In the first, the note after the seam comes in late, and the loop stumbles."}
+                                        "why": {"en": "In the first, the note after the seam comes in late, and the loop stumbles.", "es": "En el primero, la nota que sigue al empalme entra tarde, y el bucle tropieza."}
                                     },
                                     {
-                                        "prompt": {"en": "Which loop closes cleanly?"},
+                                        "prompt": {"en": "Which loop closes cleanly?", "es": "¿Qué bucle cierra limpio?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -276,15 +276,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The second leaves a gap at the seam. The first holds on into the next round."}
+                                        "why": {"en": "The second leaves a gap at the seam. The first holds on into the next round.", "es": "El segundo deja un hueco en el empalme. El primero se alarga hasta la vuelta siguiente."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The four-bar bass, twice round. Stop the last note early, before the loop comes round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "The four-bar bass, twice round. Stop the last note early, before the loop comes round. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "El bajo de cuatro compases, dos vueltas. Corta la última nota antes de tiempo, antes de que el bucle vuelva a empezar. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -309,29 +309,29 @@
                                 "drone": {"step": 0, "fadeAfter": 4},
                                 "score": "release"
                             },
-                            "measures": {"en": "Scored on stopping each note on time, steady to its end, before the loop comes round."}
+                            "measures": {"en": "Scored on stopping each note on time, steady to its end, before the loop comes round.", "es": "Se puntúa que cortes cada nota a tiempo, estable hasta el final, antes de que el bucle vuelva a empezar."}
                         }
                     ]
                 },
                 {
                     "id": "ll-1-first",
-                    "title": {"en": "Your first loop"},
+                    "title": {"en": "Your first loop", "es": "Tu primer bucle"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Your first loop, kept for the end of the course: the four-bar bass once, then the gap part over it, with a rest in the middle."},
+                            "headline": {"en": "Your first loop, kept for the end of the course: the four-bar bass once, then the gap part over it, with a rest in the middle.", "es": "Tu primer bucle, que se guarda para el final del curso: el bajo de cuatro compases una vez y luego la voz de los huecos encima, con un silencio en medio."},
                             "steps": [
-                                {"title": {"en": "Kept for later"}, "detail": {"en": "The course's last lesson plays it beside your new bass"}},
-                                {"title": {"en": "Sing, rest, back in"}, "detail": {"en": "After one round of listening"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "Kept for later", "es": "Guardado para luego"}, "detail": {"en": "The course's last lesson plays it beside your new bass", "es": "La última lección del curso lo pone junto a tu nuevo bajo"}},
+                                {"title": {"en": "Sing, rest, back in", "es": "Canta, descansa, entra"}, "detail": {"en": "After one round of listening", "es": "Tras una vuelta escuchando"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "bass",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The four-bar bass, once round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "The four-bar bass, once round. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "El bajo de cuatro compases, una vuelta. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -349,11 +349,11 @@
                                 "keep": "looping.first-loop",
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Listen once round, fill the gaps once round, rest a round, then come back in: mi, then fa, then re."},
+                            "text": {"en": "Listen once round, fill the gaps once round, rest a round, then come back in: mi, then fa, then re.", "es": "Escucha una vuelta, llena los huecos una vuelta, descansa otra y vuelve a entrar: \"mi\", luego \"fa\" y luego \"re\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -381,7 +381,7 @@
                                 },
                                 "score": "entry"
                             },
-                            "measures": {"en": "Scored on coming back in on time and on pitch after the rest."}
+                            "measures": {"en": "Scored on coming back in on time and on pitch after the rest.", "es": "Se puntúa que vuelvas a entrar a tiempo y en la nota después del silencio."}
                         }
                     ]
                 }
@@ -389,28 +389,28 @@
         },
         {
             "id": "ll-stacking",
-            "title": {"en": "Stacking parts"},
+            "title": {"en": "Stacking parts", "es": "Apilar voces"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "ll-2-pad",
-                    "title": {"en": "The pad"},
-                    "fact": {"id": "mellotron-eight-seconds", "text": {"en": "The Mellotron, made in England from 1963, played a strip of recorded tape under each key, with a choir among its sounds. A held note usually lasted about eight seconds before the tape ran out."}, "source": {"en": "120 Years of Electronic Music, The Mellotron (Leslie Bradley, UK, 1963)"}, "url": "https://120years.net/the-mellotron-chamberlinleslie-bradleyuk1963/"},
+                    "title": {"en": "The pad", "es": "El colchón"},
+                    "fact": {"id": "mellotron-eight-seconds", "text": {"en": "The Mellotron, made in England from 1963, played a strip of recorded tape under each key, with a choir among its sounds. A held note usually lasted about eight seconds before the tape ran out.", "es": "El Mellotron, fabricado en Inglaterra desde 1963, hacía sonar una tira de cinta grabada bajo cada tecla, y entre sus sonidos había un coro. Una nota sostenida solía durar unos ocho segundos antes de que se acabara la cinta."}, "source": {"en": "120 Years of Electronic Music, The Mellotron (Leslie Bradley, UK, 1963)", "es": "120 Years of Electronic Music, The Mellotron (Leslie Bradley, UK, 1963)"}, "url": "https://120years.net/the-mellotron-chamberlinleslie-bradleyuk1963/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A pad is a soft held note over the bass: the chord's middle. Over your loop, \"oo\" on mi, then re."},
+                            "headline": {"en": "A pad is a soft held note over the bass: the chord's middle. Over your loop, \"oo\" on mi, then re.", "es": "Un colchón es una nota suave y sostenida sobre el bajo: el centro del acorde. Sobre tu bucle, \"oo\" (una u) en \"mi\" y luego en \"re\"."},
                             "steps": [
-                                {"title": {"en": "Softer than the bass"}, "detail": {"en": "A pad is felt more than heard"}},
-                                {"title": {"en": "Each layer its own sound"}, "detail": {"en": "Bass on \"doom\", pad on \"oo\", so you can hear them all"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "Softer than the bass", "es": "Más suave que el bajo"}, "detail": {"en": "A pad is felt more than heard", "es": "Un colchón se siente más que se oye"}},
+                                {"title": {"en": "Each layer its own sound", "es": "Cada capa, su sonido"}, "detail": {"en": "Bass on \"doom\", pad on \"oo\", so you can hear them all", "es": "El bajo en \"doom\" (dum), el colchón en \"oo\" (una u), para oírlas todas"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The floor first, every time: the bass once round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "The floor first, every time: the bass once round. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "Primero la base, siempre: el bajo, una vuelta. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -423,11 +423,11 @@
                                 "drone": {"step": 0, "fadeAfter": 4},
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Listen once round, then a soft \"oo\" over your loop: mi for a bar, then re, each stopped half a beat early."},
+                            "text": {"en": "Listen once round, then a soft \"oo\" over your loop: mi for a bar, then re, each stopped half a beat early.", "es": "Escucha una vuelta y luego un \"oo\" suave sobre tu bucle: \"mi\" durante un compás y luego \"re\", cortando cada uno medio tiempo antes."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -442,34 +442,34 @@
                                     "loop": 8
                                 }
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "ll-2-rhythm",
-                    "title": {"en": "A rhythm part"},
-                    "fact": {"id": "puirt-a-beul", "text": {"en": "Scotland's puirt à beul, \"tunes from a mouth\", set Gaelic words to dance tunes and were used for dancing when there were no instruments. Their rhythm and sound often matter more than the words' own rhythm."}, "source": {"en": "Wikipedia, Puirt à beul"}, "url": "https://en.wikipedia.org/wiki/Puirt_%C3%A0_beul"},
+                    "title": {"en": "A rhythm part", "es": "Una voz rítmica"},
+                    "fact": {"id": "puirt-a-beul", "text": {"en": "Scotland's puirt à beul, \"tunes from a mouth\", set Gaelic words to dance tunes and were used for dancing when there were no instruments. Their rhythm and sound often matter more than the words' own rhythm.", "es": "Los puirt à beul de Escocia, \"melodías de boca\", ponían letra en gaélico a melodías de baile y se usaban para bailar cuando no había instrumentos. Su ritmo y su sonido a menudo importan más que el ritmo propio de las palabras."}, "source": {"en": "Wikipedia, Puirt à beul", "es": "Wikipedia, Puirt à beul"}, "url": "https://en.wikipedia.org/wiki/Puirt_%C3%A0_beul"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A rhythm part is short and bright: \"doo-doo\" on so, in the bass's gaps."},
+                            "headline": {"en": "A rhythm part is short and bright: \"doo-doo\" on so, in the bass's gaps.", "es": "Una voz rítmica es corta y brillante: \"doo-doo\" (du-du) en \"so\", en los huecos del bajo."},
                             "steps": [
-                                {"title": {"en": "In the gaps"}, "detail": {"en": "Two quick doos after each bass note"}},
-                                {"title": {"en": "Bright and short"}, "detail": {"en": "Like a drum, not a tune"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "In the gaps", "es": "En los huecos"}, "detail": {"en": "Two quick doos after each bass note", "es": "Dos \"doo\" rápidos tras cada nota del bajo"}},
+                                {"title": {"en": "Bright and short", "es": "Brillante y corta"}, "detail": {"en": "Like a drum, not a tune", "es": "Como un tambor, no como una melodía"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada una y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which mix lets the doo-doos through?"},
+                                        "prompt": {"en": "Which mix lets the doo-doos through?", "es": "¿Qué mezcla deja oír los \"doo-doo\"?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -509,10 +509,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "In the second, the pad holds the doo-doos' own note, and they vanish into it."}
+                                        "why": {"en": "In the second, the pad holds the doo-doos' own note, and they vanish into it.", "es": "En la segunda, el colchón mantiene la misma nota que los \"doo-doo\", y estos desaparecen en él."}
                                     },
                                     {
-                                        "prompt": {"en": "Which rhythm part leaves room for the bass?"},
+                                        "prompt": {"en": "Which rhythm part leaves room for the bass?", "es": "¿Qué voz rítmica deja espacio al bajo?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -548,10 +548,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The second sits in the bass's gaps. The first lands on the bass's notes and covers them."}
+                                        "why": {"en": "The second sits in the bass's gaps. The first lands on the bass's notes and covers them.", "es": "La segunda va en los huecos del bajo. La primera cae sobre las notas del bajo y las tapa."}
                                     },
                                     {
-                                        "prompt": {"en": "Which mix lets the doo-doos through?"},
+                                        "prompt": {"en": "Which mix lets the doo-doos through?", "es": "¿Qué mezcla deja oír los \"doo-doo\"?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -591,15 +591,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "In the second, the pad sits lower, on other notes, so the doo-doos stand out."}
+                                        "why": {"en": "In the second, the pad sits lower, on other notes, so the doo-doos stand out.", "es": "En la segunda, el colchón va más grave, en otras notas, así que los \"doo-doo\" destacan."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The bass once round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "The bass once round. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "El bajo, una vuelta. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -612,11 +612,11 @@
                                 "drone": {"step": 0, "fadeAfter": 4},
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Listen once round, then \"doo-doo\" on so in the gaps, twice round."},
+                            "text": {"en": "Listen once round, then \"doo-doo\" on so in the gaps, twice round.", "es": "Escucha una vuelta y luego \"doo-doo\" en \"so\", en los huecos, dos vueltas."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -644,29 +644,29 @@
                                 },
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         }
                     ]
                 },
                 {
                     "id": "ll-2-three",
-                    "title": {"en": "Three layers"},
-                    "fact": {"id": "chipmunks-one-voice", "text": {"en": "The three Chipmunks, first heard on a 1958 record, were one man's voice: Ross Bagdasarian sang each part slowly onto tape at half speed, and played back at normal speed, it rose a full octave."}, "source": {"en": "Wikipedia, Alvin and the Chipmunks"}, "url": "https://en.wikipedia.org/wiki/Alvin_and_the_Chipmunks"},
+                    "title": {"en": "Three layers", "es": "Tres capas"},
+                    "fact": {"id": "chipmunks-one-voice", "text": {"en": "The three Chipmunks, first heard on a 1958 record, were one man's voice: Ross Bagdasarian sang each part slowly onto tape at half speed, and played back at normal speed, it rose a full octave.", "es": "Los tres Chipmunks, que se oyeron por primera vez en un disco de 1958, eran la voz de un solo hombre: Ross Bagdasarian grababa cada parte despacio, con la cinta a media velocidad, y al reproducirla a velocidad normal subía una octava entera."}, "source": {"en": "Wikipedia, Alvin and the Chipmunks", "es": "Wikipedia, Alvin and the Chipmunks"}, "url": "https://en.wikipedia.org/wiki/Alvin_and_the_Chipmunks"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the four-bar loop, three layers deep: the bass, a pad over it, then a rhythm part over both."},
+                            "headline": {"en": "Now the four-bar loop, three layers deep: the bass, a pad over it, then a rhythm part over both.", "es": "Ahora el bucle de cuatro compases, con tres capas: el bajo, un colchón encima y luego una voz rítmica sobre los dos."},
                             "steps": [
-                                {"title": {"en": "Once round each"}, "detail": {"en": "The pad starts with your bass, on its first beat"}},
-                                {"title": {"en": "Never push"}, "detail": {"en": "Never sing louder to hear yourself: lower your headphones instead"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "Once round each", "es": "Una vuelta por capa"}, "detail": {"en": "The pad starts with your bass, on its first beat", "es": "El colchón empieza con tu bajo, en su primer tiempo"}},
+                                {"title": {"en": "Never push", "es": "Nunca fuerces"}, "detail": {"en": "Never sing louder to hear yourself: lower your headphones instead", "es": "Nunca cantes más fuerte para oírte: mejor baja el volumen de los auriculares"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The four-bar bass, once round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "The four-bar bass, once round. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "El bajo de cuatro compases, una vuelta. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -683,11 +683,11 @@
                                 "drone": {"step": 0, "fadeAfter": 4},
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The pad, from your loop's first beat, once round: mi, mi, fa, re, each held soft on \"oo\"."},
+                            "text": {"en": "The pad, from your loop's first beat, once round: mi, mi, fa, re, each held soft on \"oo\".", "es": "El colchón, desde el primer tiempo de tu bucle, una vuelta: \"mi\", \"mi\", \"fa\", \"re\", cada una sostenida suave en \"oo\" (una u)."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -702,11 +702,11 @@
                                     "loop": 16
                                 }
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Listen once round to your two layers, then \"doo-doo\" in the gaps: on so, so, la, so."},
+                            "text": {"en": "Listen once round to your two layers, then \"doo-doo\" in the gaps: on so, so, la, so.", "es": "Escucha una vuelta tus dos capas y luego \"doo-doo\" (du-du) en los huecos: en \"so\", \"so\", \"la\", \"so\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -734,11 +734,11 @@
                                 },
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "The top part once more on its own, then hear yours beside the guide's."},
+                            "text": {"en": "The top part once more on its own, then hear yours beside the guide's.", "es": "La voz aguda una vez más, sola, y luego escúchate junto a la guía."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -762,8 +762,8 @@
                                     ]
                                 },
                                 "questions": [
-                                    {"en": "In your last take, could you hear all three layers?"},
-                                    {"en": "Did you push to hear yourself?"}
+                                    {"en": "In your last take, could you hear all three layers?", "es": "En tu última toma, ¿oías las tres capas?"},
+                                    {"en": "Did you push to hear yourself?", "es": "¿Forzaste la voz para oírte?"}
                                 ]
                             }
                         }
@@ -771,23 +771,23 @@
                 },
                 {
                     "id": "ll-2-band",
-                    "title": {"en": "The band"},
+                    "title": {"en": "The band", "es": "La banda"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The band: all three layers on the four-bar loop, nothing lit while you sing. From memory, as a looper on stage."},
+                            "headline": {"en": "The band: all three layers on the four-bar loop, nothing lit while you sing. From memory, as a looper on stage.", "es": "La banda: las tres capas sobre el bucle de cuatro compases. Nada se ilumina mientras cantas. De memoria, como quien hace bucles en un escenario."},
                             "steps": [
-                                {"title": {"en": "Nothing lit"}, "detail": {"en": "Your notes show after each take, not during it"}},
-                                {"title": {"en": "Once round each"}, "detail": {"en": "Then the top part twice"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "Nothing lit", "es": "Sin luces"}, "detail": {"en": "Your notes show after each take, not during it", "es": "Tus notas aparecen después de cada toma, no mientras cantas"}},
+                                {"title": {"en": "Once round each", "es": "Una vuelta por capa"}, "detail": {"en": "Then the top part twice", "es": "Luego, la voz aguda dos vueltas"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The bass, once round, from memory. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "The bass, once round, from memory. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "El bajo, una vuelta, de memoria. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -805,11 +805,11 @@
                                 "lights": "off",
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The pad from the first beat, once round, from memory."},
+                            "text": {"en": "The pad from the first beat, once round, from memory.", "es": "El colchón desde el primer tiempo, una vuelta, de memoria."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -825,11 +825,11 @@
                                 },
                                 "lights": "off"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Listen once round, then the rhythm part twice round, from memory."},
+                            "text": {"en": "Listen once round, then the rhythm part twice round, from memory.", "es": "Escucha una vuelta y luego la voz rítmica, dos vueltas, de memoria."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -874,7 +874,7 @@
                                 "lights": "off",
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on the top part on pitch and on the beat, from memory, over your band."}
+                            "measures": {"en": "Scored on the top part on pitch and on the beat, from memory, over your band.", "es": "Se puntúa la voz aguda, afinada y a tiempo, de memoria, sobre tu banda."}
                         }
                     ]
                 }
@@ -882,28 +882,28 @@
         },
         {
             "id": "ll-tune-on-top",
-            "title": {"en": "A tune on top"},
+            "title": {"en": "A tune on top", "es": "Melodía encima"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "ll-3-row",
-                    "title": {"en": "Row, Row, Row Your Boat"},
-                    "fact": {"id": "barcarolle-stroke", "text": {"en": "A barcarolle, the boat song of Venice's gondoliers, is almost always in 6/8, with a rhythm meant to recall the gondolier's stroke. One of the most famous is in Offenbach's opera The Tales of Hoffmann."}, "source": {"en": "Wikipedia, Barcarolle"}, "url": "https://en.wikipedia.org/wiki/Barcarolle"},
+                    "title": {"en": "Row, Row, Row Your Boat", "es": "Row, Row, Row Your Boat"},
+                    "fact": {"id": "barcarolle-stroke", "text": {"en": "A barcarolle, the boat song of Venice's gondoliers, is almost always in 6/8, with a rhythm meant to recall the gondolier's stroke. One of the most famous is in Offenbach's opera The Tales of Hoffmann.", "es": "La barcarola, la canción de barca de los gondoleros de Venecia, casi siempre va en 6/8, con un ritmo que evoca el golpe de remo del gondolero. Una de las más famosas está en la ópera de Offenbach Los cuentos de Hoffmann."}, "source": {"en": "Wikipedia, Barcarolle", "es": "Wikipedia, Barcarolle"}, "url": "https://en.wikipedia.org/wiki/Barcarolle"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Row, Row, Row Your Boat sits on one chord all the way, so its loop is one note. The song sits low here: home is your low so."},
+                            "headline": {"en": "Row, Row, Row Your Boat sits on one chord all the way, so its loop is one note. The song sits low here: home is your low so.", "es": "Row, Row, Row Your Boat se queda en un solo acorde de principio a fin, así que su bucle es una sola nota. Aquí la canción va grave: la nota base es tu \"so\" grave."},
                             "steps": [
-                                {"title": {"en": "One chord, one note"}, "detail": {"en": "The simplest loop there is"}},
-                                {"title": {"en": "Two beats a bar"}, "detail": {"en": "A rocking beat, like oars"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "One chord, one note", "es": "Un acorde, una nota"}, "detail": {"en": "The simplest loop there is", "es": "El bucle más sencillo que existe"}},
+                                {"title": {"en": "Two beats a bar", "es": "Dos pulsos por compás"}, "detail": {"en": "A rocking beat, like oars", "es": "Un pulso que se mece, como los remos"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "round",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The bass on \"doom\": three short notes and a rest, twice round. It's at the bottom of your voice. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "The bass on \"doom\": three short notes and a rest, twice round. It's at the bottom of your voice. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "El bajo en \"doom\" (dum): tres notas cortas y un silencio, dos vueltas. Está en lo más grave de tu voz. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 60,
                                 "turn": false,
@@ -918,11 +918,11 @@
                                 "drone": {"step": -5, "fadeAfter": 4},
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Listen once round, then sing the tune over your loop."},
+                            "text": {"en": "Listen once round, then sing the tune over your loop.", "es": "Escucha una vuelta y luego canta la melodía sobre tu bucle."},
                             "exercise": {
                                 "tempo": 60,
                                 "turn": false,
@@ -960,35 +960,35 @@
                                     "loop": 4
                                 }
                             },
-                            "measures": {"en": "Scored on the tune's notes on pitch."}
+                            "measures": {"en": "Scored on the tune's notes on pitch.", "es": "Se puntúa la afinación de las notas de la melodía."}
                         }
                     ]
                 },
                 {
                     "id": "ll-3-frere",
-                    "title": {"en": "Are You Sleeping (Frère Jacques)"},
+                    "title": {"en": "Are You Sleeping (Frère Jacques)", "es": "Are You Sleeping (Frère Jacques)"},
                     "fact": {
                         "id": "sumer-pes",
-                        "text": {"en": "Sumer Is Icumen In, an English round copied in the 1260s, has a part sung beneath it: two short lines marked \"pes\", Latin for \"foot\", repeated under the tune."},
-                        "source": {"en": "Wikipedia, Sumer Is Icumen In"},
+                        "text": {"en": "Sumer Is Icumen In, an English round copied in the 1260s, has a part sung beneath it: two short lines marked \"pes\", Latin for \"foot\", repeated under the tune.", "es": "Sumer Is Icumen In, un canon inglés copiado en la década de 1260, tiene una parte que se canta por debajo: dos frases cortas marcadas \"pes\", \"pie\" en latín, que se repiten bajo la melodía."},
+                        "source": {"en": "Wikipedia, Sumer Is Icumen In", "es": "Wikipedia, Sumer Is Icumen In"},
                         "url": "https://en.wikipedia.org/wiki/Sumer_Is_Icumen_In",
                         "distinct": ["patter-pater-noster"]
                     },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The round's last line, \"ding, dang, dong\", is its own bass: looped, it fits under every bar of the tune."},
+                            "headline": {"en": "The round's last line, \"ding, dang, dong\", is its own bass: looped, it fits under every bar of the tune.", "es": "La última frase del canon, \"ding, dang, dong\", es su propio bajo: en bucle, encaja bajo cada compás de la melodía."},
                             "steps": [
-                                {"title": {"en": "The round's last line"}, "detail": {"en": "Is its own bass"}},
-                                {"title": {"en": "A pad on so"}, "detail": {"en": "Held soft over every bar"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "The round's last line", "es": "La última frase del canon"}, "detail": {"en": "Is its own bass", "es": "Es su propio bajo"}},
+                                {"title": {"en": "A pad on so", "es": "Colchón en \"so\""}, "detail": {"en": "Held soft over every bar", "es": "Suave y sostenido en cada compás"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "round",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Ding, dang, dong\": do, low so, do, twice round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "\"Ding, dang, dong\": do, low so, do, twice round. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "\"Ding, dang, dong\": \"do\", \"so\" grave, \"do\", dos vueltas. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 96,
                                 "turn": false,
@@ -1003,11 +1003,11 @@
                                 "drone": {"step": 0, "fadeAfter": 4},
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The pad from your loop's first beat: a soft \"oo\" on so, held each bar, twice round."},
+                            "text": {"en": "The pad from your loop's first beat: a soft \"oo\" on so, held each bar, twice round.", "es": "El colchón desde el primer tiempo de tu bucle: un \"oo\" (una u) suave en \"so\", sostenido en cada compás, dos vueltas."},
                             "exercise": {
                                 "tempo": 96,
                                 "turn": false,
@@ -1020,11 +1020,11 @@
                                     "loop": 4
                                 }
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Listen once round, then the tune over your bass and pad."},
+                            "text": {"en": "Listen once round, then the tune over your bass and pad.", "es": "Escucha una vuelta y luego la melodía sobre tu bajo y tu colchón."},
                             "exercise": {
                                 "tempo": 96,
                                 "turn": false,
@@ -1067,29 +1067,29 @@
                                     "loop": 4
                                 }
                             },
-                            "measures": {"en": "Scored on the tune's notes on pitch."}
+                            "measures": {"en": "Scored on the tune's notes on pitch.", "es": "Se puntúa la afinación de las notas de la melodía."}
                         }
                     ]
                 },
                 {
                     "id": "ll-3-sailor",
-                    "title": {"en": "Drunken Sailor"},
-                    "fact": {"id": "up-she-rises-1841", "text": {"en": "Drunken Sailor's earliest known printing is in an 1841 whaling book, as just \"Ho! Ho! and up she rises... Early in the morning\". One man usually struck up the song; the rest joined in."}, "source": {"en": "Olmsted, Incidents of a Whaling Voyage (1841), Internet Archive"}, "url": "https://archive.org/stream/incidentsofwhali00olmsrich/incidentsofwhali00olmsrich_djvu.txt"},
+                    "title": {"en": "Drunken Sailor", "es": "Drunken Sailor"},
+                    "fact": {"id": "up-she-rises-1841", "text": {"en": "Drunken Sailor's earliest known printing is in an 1841 whaling book, as just \"Ho! Ho! and up she rises... Early in the morning\". One man usually struck up the song; the rest joined in.", "es": "La primera versión impresa conocida de Drunken Sailor está en un libro de 1841 sobre la caza de ballenas, solo como \"Ho! Ho! and up she rises... Early in the morning\". Normalmente un hombre empezaba la canción y el resto se unía."}, "source": {"en": "Olmsted, Incidents of a Whaling Voyage (1841), Internet Archive", "es": "Olmsted, Incidents of a Whaling Voyage (1841), Internet Archive"}, "url": "https://archive.org/stream/incidentsofwhali00olmsrich/incidentsofwhali00olmsrich_djvu.txt"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Drunken Sailor moves between two chords, one a bar, so its loop is eight bars: a whole verse."},
+                            "headline": {"en": "Drunken Sailor moves between two chords, one a bar, so its loop is eight bars: a whole verse.", "es": "Drunken Sailor va y viene entre dos acordes, uno por compás, así que su bucle dura ocho compases: una estrofa entera."},
                             "steps": [
-                                {"title": {"en": "Home is low la"}, "detail": {"en": "A minor song, so home is la, not do"}},
-                                {"title": {"en": "One note a bar"}, "detail": {"en": "Low la or low so, on beats 1 and 3"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "Home is low la", "es": "Base en \"la\" grave"}, "detail": {"en": "A minor song, so home is la, not do", "es": "Es una canción en menor: la base es \"la\", no \"do\""}},
+                                {"title": {"en": "One note a bar", "es": "Una nota por compás"}, "detail": {"en": "Low la or low so, on beats 1 and 3", "es": "\"la\" grave o \"so\" grave, en los tiempos 1 y 3"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "round",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "The bass's eight notes, one a bar: each waits until you're on it."},
+                            "text": {"en": "The bass's eight notes, one a bar: each waits until you're on it.", "es": "Las ocho notas del bajo, una por compás: cada una espera a que llegues a ella."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -1106,7 +1106,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The bass on \"doom\", eight bars once round: low la, low la, low so, low so, low la, low la, low so, low la. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "The bass on \"doom\", eight bars once round: low la, low la, low so, low so, low la, low la, low so, low la. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "El bajo en \"doom\", ocho compases, una vuelta: \"la\" grave, \"la\" grave, \"so\" grave, \"so\" grave, \"la\" grave, \"la\" grave, \"so\" grave, \"la\" grave. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 88,
                                 "turn": false,
@@ -1131,11 +1131,11 @@
                                 "drone": {"step": -3, "fadeAfter": 4},
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the tune over your loop. It starts with your bass, on its first beat."},
+                            "text": {"en": "Now the tune over your loop. It starts with your bass, on its first beat.", "es": "Ahora la melodía sobre tu bucle. Empieza con tu bajo, en su primer tiempo."},
                             "exercise": {
                                 "tempo": 88,
                                 "turn": false,
@@ -1182,29 +1182,29 @@
                                     "loop": 32
                                 }
                             },
-                            "measures": {"en": "Scored on the tune's notes on pitch."}
+                            "measures": {"en": "Scored on the tune's notes on pitch.", "es": "Se puntúa la afinación de las notas de la melodía."}
                         }
                     ]
                 },
                 {
                     "id": "ll-3-round",
-                    "title": {"en": "A round with yourself"},
+                    "title": {"en": "A round with yourself", "es": "Un canon contigo"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A round with yourself: \"ding, dang, dong\", the tune over it, then the tune again two bars late, over your first. The guide comes in as a third voice."},
+                            "headline": {"en": "A round with yourself: \"ding, dang, dong\", the tune over it, then the tune again two bars late, over your first. The guide comes in as a third voice.", "es": "Un canon contigo: \"ding, dang, dong\", la melodía encima y luego otra vez la melodía, dos compases después, sobre tu primera entrada. La guía entra como tercera voz."},
                             "steps": [
-                                {"title": {"en": "Your first entry"}, "detail": {"en": "The tune over your bass, from its first beat"}},
-                                {"title": {"en": "Your second entry"}, "detail": {"en": "Two bars late, over your bass and your first"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "Your first entry", "es": "Tu primera entrada"}, "detail": {"en": "The tune over your bass, from its first beat", "es": "La melodía sobre tu bajo, desde su primer tiempo"}},
+                                {"title": {"en": "Your second entry", "es": "Tu segunda entrada"}, "detail": {"en": "Two bars late, over your bass and your first", "es": "Dos compases después, sobre tu bajo y tu primera entrada"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "round",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Ding, dang, dong\", twice round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "\"Ding, dang, dong\", twice round. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "\"Ding, dang, dong\", dos vueltas. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 96,
                                 "turn": false,
@@ -1219,11 +1219,11 @@
                                 "drone": {"step": 0, "fadeAfter": 4},
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Your first entry: the tune over your bass, from its first beat."},
+                            "text": {"en": "Your first entry: the tune over your bass, from its first beat.", "es": "Tu primera entrada: la melodía sobre tu bajo, desde su primer tiempo."},
                             "exercise": {
                                 "tempo": 96,
                                 "turn": false,
@@ -1266,11 +1266,11 @@
                                     "loop": 4
                                 }
                             },
-                            "measures": {"en": "Scored on the tune's notes on pitch."}
+                            "measures": {"en": "Scored on the tune's notes on pitch.", "es": "Se puntúa la afinación de las notas de la melodía."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Your second entry, two bars late, over your bass and your first entry. Then the guide comes in, two bars after you."},
+                            "text": {"en": "Your second entry, two bars late, over your bass and your first entry. Then the guide comes in, two bars after you.", "es": "Tu segunda entrada, dos compases después, sobre tu bajo y tu primera entrada. Luego entra la guía, dos compases después de ti."},
                             "exercise": {
                                 "tempo": 96,
                                 "turn": false,
@@ -1313,7 +1313,7 @@
                                 },
                                 "with": [{"delay": 8}]
                             },
-                            "measures": {"en": "Scored on your second entry on pitch, over your bass and your first."}
+                            "measures": {"en": "Scored on your second entry on pitch, over your bass and your first.", "es": "Se puntúa la afinación de tu segunda entrada, sobre tu bajo y tu primera entrada."}
                         }
                     ]
                 }
@@ -1321,28 +1321,28 @@
         },
         {
             "id": "ll-your-own",
-            "title": {"en": "Your own loop"},
+            "title": {"en": "Your own loop", "es": "Tu propio bucle"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "ll-4-bass",
-                    "title": {"en": "Choose your bass"},
-                    "fact": {"id": "la-folia", "text": {"en": "La Folia, a minor-key chord pattern, is one of Europe's oldest remembered musical themes. Over three centuries, more than 150 composers wrote their own music on its chords."}, "source": {"en": "Wikipedia, Folia"}, "url": "https://en.wikipedia.org/wiki/Folia"},
+                    "title": {"en": "Choose your bass", "es": "Elige tu bajo"},
+                    "fact": {"id": "la-folia", "text": {"en": "La Folia, a minor-key chord pattern, is one of Europe's oldest remembered musical themes. Over three centuries, more than 150 composers wrote their own music on its chords.", "es": "La folía, una secuencia de acordes en tonalidad menor, es uno de los temas musicales más antiguos que Europa recuerda. En tres siglos, más de 150 compositores escribieron su propia música sobre sus acordes."}, "source": {"en": "Wikipedia, Folia", "es": "Wikipedia, Folia"}, "url": "https://en.wikipedia.org/wiki/Folia"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Your own bass for Drunken Sailor: in every bar two notes light, and either one fits. Pick as you go."},
+                            "headline": {"en": "Your own bass for Drunken Sailor: in every bar two notes light, and either one fits. Pick as you go.", "es": "Tu propio bajo para Drunken Sailor: en cada compás se iluminan dos notas, y cualquiera de las dos encaja. Elige sobre la marcha."},
                             "steps": [
-                                {"title": {"en": "Two notes a bar"}, "detail": {"en": "Low la or do in la's bars, low so or low ti in so's"}},
-                                {"title": {"en": "Every pick works"}, "detail": {"en": "Each is a note of that bar's chord"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "Two notes a bar", "es": "Dos notas por compás"}, "detail": {"en": "Low la or do in la's bars, low so or low ti in so's", "es": "\"la\" grave o \"do\" en los compases de \"la\"; \"so\" grave o \"ti\" (si) grave en los de \"so\""}},
+                                {"title": {"en": "Every pick works", "es": "Cualquiera vale"}, "detail": {"en": "Each is a note of that bar's chord", "es": "Cada una es una nota del acorde de ese compás"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Once with the guide singing the lower note of each pair, to learn the bars. Just try it."},
+                            "text": {"en": "Once with the guide singing the lower note of each pair, to learn the bars. Just try it.", "es": "Una vez, con la guía cantando la nota más grave de cada par, para aprender los compases. Solo pruébalo."},
                             "exercise": {
                                 "tempo": 88,
                                 "turn": false,
@@ -1506,7 +1506,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now your bass under the guide's tune: in each bar, sing either lit note. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "Now your bass under the guide's tune: in each bar, sing either lit note. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "Ahora tu bajo, por debajo de la melodía de la guía: en cada compás, canta cualquiera de las dos notas iluminadas. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 88,
                                 "turn": false,
@@ -1669,29 +1669,29 @@
                                 ],
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat."}
+                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat.", "es": "Se puntúa que caigas en una de las notas iluminadas, afinada y a tiempo."}
                         }
                     ]
                 },
                 {
                     "id": "ll-4-layers",
-                    "title": {"en": "Choose your layers"},
-                    "fact": {"id": "dido-ground", "text": {"en": "In Dido's Lament, from Purcell's opera Dido and Aeneas, the same short falling bass line repeats eleven times through the aria, and Dido sings her own line over it."}, "source": {"en": "Wikipedia, Dido's Lament"}, "url": "https://en.wikipedia.org/wiki/Dido%27s_Lament"},
+                    "title": {"en": "Choose your layers", "es": "Elige tus capas"},
+                    "fact": {"id": "dido-ground", "text": {"en": "In Dido's Lament, from Purcell's opera Dido and Aeneas, the same short falling bass line repeats eleven times through the aria, and Dido sings her own line over it.", "es": "En el lamento de Dido, de la ópera Dido and Aeneas de Purcell, la misma línea de bajo, corta y descendente, se repite once veces a lo largo del aria, y Dido canta su propia línea encima."}, "source": {"en": "Wikipedia, Dido's Lament", "es": "Wikipedia, Dido's Lament"}, "url": "https://en.wikipedia.org/wiki/Dido%27s_Lament"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Your bass again, then your own pad over it: two notes light in every bar, and neither meets your bass."},
+                            "headline": {"en": "Your bass again, then your own pad over it: two notes light in every bar, and neither meets your bass.", "es": "Otra vez tu bajo y luego tu propio colchón encima: en cada compás se iluminan dos notas, y ninguna coincide con tu bajo."},
                             "steps": [
-                                {"title": {"en": "Your bass"}, "detail": {"en": "Picked as before, once round"}},
-                                {"title": {"en": "Your pad"}, "detail": {"en": "Mi or la in la's bars, re or so in so's"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "Your bass", "es": "Tu bajo"}, "detail": {"en": "Picked as before, once round", "es": "Elegido como antes, una vuelta"}},
+                                {"title": {"en": "Your pad", "es": "Tu colchón"}, "detail": {"en": "Mi or la in la's bars, re or so in so's", "es": "\"mi\" o \"la\" en los compases de \"la\"; \"re\" o \"so\" en los de \"so\""}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Your bass, once round: either lit note in each bar. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "Your bass, once round: either lit note in each bar. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "Tu bajo, una vuelta: cualquiera de las dos notas iluminadas en cada compás. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 88,
                                 "turn": false,
@@ -1812,11 +1812,11 @@
                                 "drone": {"step": -3, "fadeAfter": 4},
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat."}
+                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat.", "es": "Se puntúa que caigas en una de las notas iluminadas, afinada y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Your pad, from your loop's first beat: a soft \"oo\", either lit note, held each bar."},
+                            "text": {"en": "Your pad, from your loop's first beat: a soft \"oo\", either lit note, held each bar.", "es": "Tu colchón, desde el primer tiempo de tu bucle: un \"oo\" (una u) suave, en cualquiera de las dos notas iluminadas, sostenido en cada compás."},
                             "exercise": {
                                 "tempo": 88,
                                 "turn": false,
@@ -1883,37 +1883,37 @@
                                     "loop": 32
                                 }
                             },
-                            "measures": {"en": "Scored on landing either lit note, on pitch."}
+                            "measures": {"en": "Scored on landing either lit note, on pitch.", "es": "Se puntúa que caigas en una de las notas iluminadas, afinada."}
                         }
                     ]
                 },
                 {
                     "id": "ll-4-song",
-                    "title": {"en": "Your song"},
+                    "title": {"en": "Your song", "es": "Tu canción"},
                     "challenge": true,
                     "keepSong": {
-                        "title": {"en": "My loop song"},
+                        "title": {"en": "My loop song", "es": "Mi bucle"},
                         "takes": [
-                            {"step": 1, "name": {"en": "Bass"}},
-                            {"step": 2, "name": {"en": "Pad"}},
-                            {"step": 3, "name": {"en": "Tune"}}
+                            {"step": 1, "name": {"en": "Bass", "es": "Bajo"}},
+                            {"step": 2, "name": {"en": "Pad", "es": "Colchón"}},
+                            {"step": 3, "name": {"en": "Tune", "es": "Melodía"}}
                         ]
                     },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Your song: your bass, your pad, then Drunken Sailor's tune over them, kept as a song in Sing."},
+                            "headline": {"en": "Your song: your bass, your pad, then Drunken Sailor's tune over them, kept as a song in Sing.", "es": "Tu canción: tu bajo, tu colchón y luego la melodía de Drunken Sailor encima, guardada como canción en Cantar."},
                             "steps": [
-                                {"title": {"en": "Three layers, all yours"}, "detail": {"en": "Bass, then pad, then the tune"}},
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Your first loop beside your new bass"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, your loops rest while you sing"}}
+                                {"title": {"en": "Three layers, all yours", "es": "Tres capas, todas tuyas"}, "detail": {"en": "Bass, then pad, then the tune", "es": "Bajo, luego colchón y luego la melodía"}},
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Your first loop beside your new bass", "es": "Tu primer bucle junto a tu nuevo bajo"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, your loops rest while you sing", "es": "Por el altavoz, tus bucles dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Your bass, once round. Easy volume, light, never pressed; stop if anything tightens or hurts."},
+                            "text": {"en": "Your bass, once round. Easy volume, light, never pressed; stop if anything tightens or hurts.", "es": "Tu bajo, una vuelta. Volumen cómodo, ligero, sin apretar nunca. Si algo se tensa o duele, para."},
                             "exercise": {
                                 "tempo": 88,
                                 "turn": false,
@@ -2035,11 +2035,11 @@
                                 "thenAndNow": "looping.first-loop",
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat."}
+                            "measures": {"en": "Scored on landing either lit note, on pitch and on the beat.", "es": "Se puntúa que caigas en una de las notas iluminadas, afinada y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Your pad from the first beat, once round."},
+                            "text": {"en": "Your pad from the first beat, once round.", "es": "Tu colchón desde el primer tiempo, una vuelta."},
                             "exercise": {
                                 "tempo": 88,
                                 "turn": false,
@@ -2106,11 +2106,11 @@
                                     "loop": 32
                                 }
                             },
-                            "measures": {"en": "Scored on landing either lit note, on pitch."}
+                            "measures": {"en": "Scored on landing either lit note, on pitch.", "es": "Se puntúa que caigas en una de las notas iluminadas, afinada."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The tune on top, from the first beat: your band of you."},
+                            "text": {"en": "The tune on top, from the first beat: your band of you.", "es": "La melodía encima, desde el primer tiempo: una banda hecha solo de ti."},
                             "exercise": {
                                 "tempo": 88,
                                 "turn": false,
@@ -2157,7 +2157,7 @@
                                     "loop": 32
                                 }
                             },
-                            "measures": {"en": "Scored on the tune's notes on pitch, over your bass and pad."}
+                            "measures": {"en": "Scored on the tune's notes on pitch, over your bass and pad.", "es": "Se puntúa la afinación de las notas de la melodía, sobre tu bajo y tu colchón."}
                         }
                     ]
                 }

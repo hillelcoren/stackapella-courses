@@ -2,33 +2,33 @@
     "id": "musical-theatre",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Musical theatre"},
+    "title": {"en": "Musical theatre", "es": "Teatro musical"},
     "units": [
         {
             "id": "mt-speak-then-sing",
-            "title": {"en": "Speak it, then sing it"},
+            "title": {"en": "Speak it, then sing it", "es": "Del habla al canto"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "mt-1-speak",
-                    "title": {"en": "Say it, then sing it"},
+                    "title": {"en": "Say it, then sing it", "es": "Dilo y luego cántalo"},
                     "strictness": "relaxed",
-                    "fact": {"id": "beggars-opera-borrowed-tunes", "text": {"en": "The Beggar's Opera (London, 1728) set new words to tunes everyone already knew, such as \"Over the Hills and far away\" and \"Green Sleeves\"."}, "source": {"en": "Gay, The Beggar's Opera (the 1765 edition's airs)"}, "url": "https://www.gutenberg.org/ebooks/25063"},
+                    "fact": {"id": "beggars-opera-borrowed-tunes", "text": {"en": "The Beggar's Opera (London, 1728) set new words to tunes everyone already knew, such as \"Over the Hills and far away\" and \"Green Sleeves\".", "es": "The Beggar's Opera (Londres, 1728) puso letra nueva a melodías que todo el mundo ya conocía, como \"Over the Hills and far away\" y \"Green Sleeves\"."}, "source": {"en": "Gay, The Beggar's Opera (the 1765 edition's airs)", "es": "Gay, The Beggar's Opera (las canciones de la edición de 1765)"}, "url": "https://www.gutenberg.org/ebooks/25063"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "In a show, a song is the moment speaking isn't enough. Buttercup is selling her wares to a ship full of sailors: say her line, then sing it."},
+                            "headline": {"en": "In a show, a song is the moment speaking isn't enough. Buttercup is selling her wares to a ship full of sailors: say her line, then sing it.", "es": "En un musical, la canción llega cuando hablar ya no basta. Buttercup vende su mercancía a un barco lleno de marineros: di su frase y luego cántala."},
                             "steps": [
-                                {"title": {"en": "Say it"}, "detail": {"en": "In rhythm, as you'd tell it"}},
-                                {"title": {"en": "Sing it"}, "detail": {"en": "The same words, now on the notes"}},
-                                {"title": {"en": "Easy does it"}, "detail": {"en": "Medium volume, the middle of your voice; never push to be heard. Stop if anything tightens, scratches or hurts."}}
+                                {"title": {"en": "Say it", "es": "Dilo"}, "detail": {"en": "In rhythm, as you'd tell it", "es": "Con ritmo, como si lo contaras"}},
+                                {"title": {"en": "Sing it", "es": "Cántalo"}, "detail": {"en": "The same words, now on the notes", "es": "Las mismas palabras, ahora con notas"}},
+                                {"title": {"en": "Easy does it", "es": "Sin forzar"}, "detail": {"en": "Medium volume, the middle of your voice; never push to be heard. Stop if anything tightens, scratches or hurts.", "es": "Volumen medio, en la zona media de tu voz; nunca fuerces para que te oigan. Si notas tensión, carraspera o dolor, para."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Speak the line in rhythm, the words in front of you. No notes yet: just say it as Buttercup would."},
+                            "text": {"en": "Speak the line in rhythm, the words in front of you. No notes yet: just say it as Buttercup would.", "es": "Di la frase con ritmo, con la letra delante. Aún sin notas: solo dila como lo haría Buttercup."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -51,7 +51,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now sing it over the chords. Keep it sounding like you talking."},
+                            "text": {"en": "Now sing it over the chords. Keep it sounding like you talking.", "es": "Ahora cántala sobre los acordes. Que siga sonando como cuando hablas."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -79,34 +79,34 @@
                                 "keep": "mt.first-line",
                                 "generous": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it still sound like you telling someone?"}
+                            "measures": {"en": "Scored on your notes on pitch. Listen back: did it still sound like you telling someone?", "es": "Se puntúa la afinación de tus notas. Escúchate: ¿seguía sonando como si se lo contaras a alguien?"}
                         }
                     ]
                 },
                 {
                     "id": "mt-1-stress",
-                    "title": {"en": "The word that matters"},
-                    "fact": {"id": "gilbert-inflection", "text": {"en": "Gilbert directed his own operas and insisted his words be delivered \"even to an inflection of the voice, as he dictates\", repeating them beside the actor \"over and over again\"."}, "source": {"en": "Grossmith, A Society Clown (1888)"}, "url": "https://www.gutenberg.org/ebooks/53225"},
+                    "title": {"en": "The word that matters", "es": "La palabra clave"},
+                    "fact": {"id": "gilbert-inflection", "text": {"en": "Gilbert directed his own operas and insisted his words be delivered \"even to an inflection of the voice, as he dictates\", repeating them beside the actor \"over and over again\".", "es": "Gilbert dirigía sus propias óperas y exigía que su texto se dijera \"hasta en la inflexión de la voz, tal como él la dicta\", y lo repetía junto al actor \"una y otra vez\"."}, "source": {"en": "Grossmith, A Society Clown (1888)", "es": "Grossmith, A Society Clown (1888)"}, "url": "https://www.gutenberg.org/ebooks/53225"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "In every line one word matters most, and the music puts it on a strong beat. In a waltz that's the ONE of ONE-two-three."},
+                            "headline": {"en": "In every line one word matters most, and the music puts it on a strong beat. In a waltz that's the ONE of ONE-two-three.", "es": "En cada frase hay una palabra que importa más, y la música la pone en un tiempo fuerte. En un vals, es el UNO del UNO-dos-tres."},
                             "steps": [
-                                {"title": {"en": "ONE-two-three"}, "detail": {"en": "The waltz's strong beat"}},
-                                {"title": {"en": "The word that matters"}, "detail": {"en": "\"dear\", \"little\", \"Buttercup\""}},
-                                {"title": {"en": "Then sing it"}, "detail": {"en": "Line two, leaning on the ONE"}}
+                                {"title": {"en": "ONE-two-three", "es": "UNO-dos-tres"}, "detail": {"en": "The waltz's strong beat", "es": "El tiempo fuerte del vals"}},
+                                {"title": {"en": "The word that matters", "es": "La palabra clave"}, "detail": {"en": "\"dear\", \"little\", \"Buttercup\"", "es": "\"dear\", \"little\", \"Buttercup\""}},
+                                {"title": {"en": "Then sing it", "es": "Luego, cántala"}, "detail": {"en": "Line two, leaning on the ONE", "es": "La segunda frase, apoyada en el UNO"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada una y luego elige."},
                             "exercise": {
                                 "tempo": 88,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which tune puts its long note on the ONE?"},
+                                        "prompt": {"en": "Which tune puts its long note on the ONE?", "es": "¿Qué melodía pone su nota larga en el UNO?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -126,10 +126,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "In 3/4 the first beat is the strong one: the word that matters goes there."}
+                                        "why": {"en": "In 3/4 the first beat is the strong one: the word that matters goes there.", "es": "En 3/4, el primer tiempo es el fuerte: ahí va la palabra clave."}
                                     },
                                     {
-                                        "prompt": {"en": "Which tune puts its long note on the ONE?"},
+                                        "prompt": {"en": "Which tune puts its long note on the ONE?", "es": "¿Qué melodía pone su nota larga en el UNO?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -149,10 +149,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "In 3/4 the first beat is the strong one: the word that matters goes there."}
+                                        "why": {"en": "In 3/4 the first beat is the strong one: the word that matters goes there.", "es": "En 3/4, el primer tiempo es el fuerte: ahí va la palabra clave."}
                                     },
                                     {
-                                        "prompt": {"en": "Which tune puts its long note on the ONE?"},
+                                        "prompt": {"en": "Which tune puts its long note on the ONE?", "es": "¿Qué melodía pone su nota larga en el UNO?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -172,15 +172,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "In 3/4 the first beat is the strong one: the word that matters goes there."}
+                                        "why": {"en": "In 3/4 the first beat is the strong one: the word that matters goes there.", "es": "En 3/4, el primer tiempo es el fuerte: ahí va la palabra clave."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line two: listen, then sing it, leaning on the ONE."},
+                            "text": {"en": "Line two: listen, then sing it, leaning on the ONE.", "es": "La segunda frase: escúchala y luego cántala, apoyándote en el UNO."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -197,34 +197,34 @@
                                     {"beat": 3, "root": -12, "quality": "dom7", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "mt-1-thought",
-                    "title": {"en": "Breathe where the thought ends"},
-                    "fact": {"id": "buttercup-bumboat-poem", "text": {"en": "Little Buttercup grew out of Gilbert's own comic poem \"The Bumboat Woman's Story\", about a woman who sold the ships \"apples and cakes, and fowls, and beer\"."}, "source": {"en": "Wikipedia, H.M.S. Pinafore"}, "url": "https://en.wikipedia.org/wiki/H.M.S._Pinafore"},
+                    "title": {"en": "Breathe where the thought ends", "es": "Respira donde acaba la idea"},
+                    "fact": {"id": "buttercup-bumboat-poem", "text": {"en": "Little Buttercup grew out of Gilbert's own comic poem \"The Bumboat Woman's Story\", about a woman who sold the ships \"apples and cakes, and fowls, and beer\".", "es": "Little Buttercup nació de un poema cómico del propio Gilbert, \"The Bumboat Woman's Story\", sobre una mujer que vendía a los barcos \"apples and cakes, and fowls, and beer\" (manzanas, pasteles, aves y cerveza)."}, "source": {"en": "Wikipedia, H.M.S. Pinafore", "es": "Wikipedia, H.M.S. Pinafore"}, "url": "https://en.wikipedia.org/wiki/H.M.S._Pinafore"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A breath belongs at the end of a thought, not at every comma. Breathing mid-thought cuts the sense in two."},
+                            "headline": {"en": "A breath belongs at the end of a thought, not at every comma. Breathing mid-thought cuts the sense in two.", "es": "La respiración va al final de una idea, no en cada coma. Respirar a mitad de idea parte el sentido en dos."},
                             "steps": [
-                                {"title": {"en": "One thought"}, "detail": {"en": "Dear Little Buttercup, all of it"}},
-                                {"title": {"en": "Then breathe"}, "detail": {"en": "Where the thought ends"}},
-                                {"title": {"en": "Back in"}, "detail": {"en": "On time for the next one"}}
+                                {"title": {"en": "One thought", "es": "Una sola idea"}, "detail": {"en": "Dear Little Buttercup, all of it", "es": "Dear Little Buttercup, entera"}},
+                                {"title": {"en": "Then breathe", "es": "Luego, respira"}, "detail": {"en": "Where the thought ends", "es": "Donde acaba la idea"}},
+                                {"title": {"en": "Back in", "es": "Vuelve"}, "detail": {"en": "On time for the next one", "es": "A tiempo para la siguiente"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada una y luego elige."},
                             "exercise": {
                                 "tempo": 88,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "\"I'm called Little Buttercup, dear Little Buttercup\" is one thought. Which keeps it whole?"},
+                                        "prompt": {"en": "\"I'm called Little Buttercup, dear Little Buttercup\" is one thought. Which keeps it whole?", "es": "\"I'm called Little Buttercup, dear Little Buttercup\" es una sola idea. ¿Cuál la mantiene entera?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -242,7 +242,7 @@
                                                     {"beat": 12, "length": 1, "step": 2, "lyric": "ter-"},
                                                     {"beat": 13, "length": 1, "step": 0, "lyric": "cup."}
                                                 ],
-                                                "label": {"en": "A breath at \"Buttercup,\""}
+                                                "label": {"en": "A breath at \"Buttercup,\"", "es": "Una respiración en \"Buttercup,\""}
                                             },
                                             {
                                                 "notes": [
@@ -260,14 +260,14 @@
                                                     {"beat": 11, "length": 1, "step": 2, "lyric": "ter-"},
                                                     {"beat": 12, "length": 1, "step": 0, "lyric": "cup."}
                                                 ],
-                                                "label": {"en": "One breath, after \"Buttercup.\""}
+                                                "label": {"en": "One breath, after \"Buttercup.\"", "es": "Una sola respiración, tras \"Buttercup.\""}
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "A breath at the comma cuts the thought in two. Breathe where it ends."}
+                                        "why": {"en": "A breath at the comma cuts the thought in two. Breathe where it ends.", "es": "Respirar en la coma parte la idea en dos. Respira donde acaba."}
                                     },
                                     {
-                                        "prompt": {"en": "\"I'm called Little Buttercup, dear Little Buttercup\" is one thought. Which keeps it whole?"},
+                                        "prompt": {"en": "\"I'm called Little Buttercup, dear Little Buttercup\" is one thought. Which keeps it whole?", "es": "\"I'm called Little Buttercup, dear Little Buttercup\" es una sola idea. ¿Cuál la mantiene entera?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -285,7 +285,7 @@
                                                     {"beat": 11, "length": 1, "step": 2, "lyric": "ter-"},
                                                     {"beat": 12, "length": 1, "step": 0, "lyric": "cup."}
                                                 ],
-                                                "label": {"en": "One breath, after \"Buttercup.\""}
+                                                "label": {"en": "One breath, after \"Buttercup.\"", "es": "Una sola respiración, tras \"Buttercup.\""}
                                             },
                                             {
                                                 "notes": [
@@ -303,14 +303,14 @@
                                                     {"beat": 12, "length": 1, "step": 2, "lyric": "ter-"},
                                                     {"beat": 13, "length": 1, "step": 0, "lyric": "cup."}
                                                 ],
-                                                "label": {"en": "A breath at \"Buttercup,\""}
+                                                "label": {"en": "A breath at \"Buttercup,\"", "es": "Una respiración en \"Buttercup,\""}
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "A breath at the comma cuts the thought in two. Breathe where it ends."}
+                                        "why": {"en": "A breath at the comma cuts the thought in two. Breathe where it ends.", "es": "Respirar en la coma parte la idea en dos. Respira donde acaba."}
                                     },
                                     {
-                                        "prompt": {"en": "\"I'm called Little Buttercup, dear Little Buttercup\" is one thought. Which keeps it whole?"},
+                                        "prompt": {"en": "\"I'm called Little Buttercup, dear Little Buttercup\" is one thought. Which keeps it whole?", "es": "\"I'm called Little Buttercup, dear Little Buttercup\" es una sola idea. ¿Cuál la mantiene entera?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -328,7 +328,7 @@
                                                     {"beat": 12, "length": 1, "step": 2, "lyric": "ter-"},
                                                     {"beat": 13, "length": 1, "step": 0, "lyric": "cup."}
                                                 ],
-                                                "label": {"en": "A breath at \"Buttercup,\""}
+                                                "label": {"en": "A breath at \"Buttercup,\"", "es": "Una respiración en \"Buttercup,\""}
                                             },
                                             {
                                                 "notes": [
@@ -346,19 +346,19 @@
                                                     {"beat": 11, "length": 1, "step": 2, "lyric": "ter-"},
                                                     {"beat": 12, "length": 1, "step": 0, "lyric": "cup."}
                                                 ],
-                                                "label": {"en": "One breath, after \"Buttercup.\""}
+                                                "label": {"en": "One breath, after \"Buttercup.\"", "es": "Una sola respiración, tras \"Buttercup.\""}
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "A breath at the comma cuts the thought in two. Breathe where it ends."}
+                                        "why": {"en": "A breath at the comma cuts the thought in two. Breathe where it ends.", "es": "Respirar en la coma parte la idea en dos. Respira donde acaba."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lines one to three, a breath only where each thought ends."},
+                            "text": {"en": "Lines one to three, a breath only where each thought ends.", "es": "Las frases 1 a 3, respirando solo donde acaba cada idea."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -395,29 +395,29 @@
                                 ],
                                 "score": "entry"
                             },
-                            "measures": {"en": "Scored on coming back in on time and on pitch after each breath."}
+                            "measures": {"en": "Scored on coming back in on time and on pitch after each breath.", "es": "Se puntúa que vuelvas a entrar a tiempo y en la nota después de cada respiración."}
                         }
                     ]
                 },
                 {
                     "id": "mt-1-challenge",
-                    "title": {"en": "Little Buttercup"},
+                    "title": {"en": "Little Buttercup", "es": "Little Buttercup"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Buttercup's first verse, sold to the sailors: who she is, why they should buy."},
+                            "headline": {"en": "Buttercup's first verse, sold to the sailors: who she is, why they should buy.", "es": "La primera estrofa de Buttercup, ofreciendo su mercancía a los marineros: quién es y por qué deberían comprarle."},
                             "steps": [
-                                {"title": {"en": "To the sailors"}, "detail": {"en": "You're selling, so tell them"}},
-                                {"title": {"en": "Breathe with the sense"}, "detail": {"en": "Where each thought ends"}},
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1 beside today"}}
+                                {"title": {"en": "To the sailors", "es": "A los marineros"}, "detail": {"en": "You're selling, so tell them", "es": "Estás vendiendo: cuéntaselo"}},
+                                {"title": {"en": "Breathe with the sense", "es": "Respira según el sentido"}, "detail": {"en": "Where each thought ends", "es": "Donde acaba cada idea"}},
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1 beside today", "es": "Tu toma de la lección 1 junto a la de hoy"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Once with the guide, to learn it."},
+                            "text": {"en": "Once with the guide, to learn it.", "es": "Una vez con la guía, para aprenderla."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -484,7 +484,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the verse over the chords."},
+                            "text": {"en": "Now the verse over the chords.", "es": "Ahora, la estrofa sobre los acordes."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -550,7 +550,7 @@
                                 "score": "entry",
                                 "thenAndNow": "mt.first-line"
                             },
-                            "measures": {"en": "Scored on coming back in on time and on pitch after each breath."}
+                            "measures": {"en": "Scored on coming back in on time and on pitch after each breath.", "es": "Se puntúa que vuelvas a entrar a tiempo y en la nota después de cada respiración."}
                         }
                     ]
                 }
@@ -558,28 +558,28 @@
         },
         {
             "id": "mt-patter",
-            "title": {"en": "Words first: patter"},
+            "title": {"en": "Words first: patter", "es": "Patter: el texto manda"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "mt-2-two",
-                    "title": {"en": "Two notes, many words"},
-                    "fact": {"id": "grossmith-audition-1877", "text": {"en": "At George Grossmith's audition in 1877, Sullivan told him \"Sing it out as loud as you can\". Gilbert said that a big voice \"is just what we don't want\"."}, "source": {"en": "Grossmith, A Society Clown (1888)"}, "url": "https://www.gutenberg.org/ebooks/53225"},
+                    "title": {"en": "Two notes, many words", "es": "Dos notas, muchas palabras"},
+                    "fact": {"id": "grossmith-audition-1877", "text": {"en": "At George Grossmith's audition in 1877, Sullivan told him \"Sing it out as loud as you can\". Gilbert said that a big voice \"is just what we don't want\".", "es": "En la audición de George Grossmith, en 1877, Sullivan le dijo: \"Cántalo tan fuerte como puedas\". Gilbert dijo que una voz potente \"es justo lo que no queremos\"."}, "source": {"en": "Grossmith, A Society Clown (1888)", "es": "Grossmith, A Society Clown (1888)"}, "url": "https://www.gutenberg.org/ebooks/53225"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The Major-General knows everything but soldiering, and he can't stop showing it off. Patter: lots of words on two neighbouring notes."},
+                            "headline": {"en": "The Major-General knows everything but soldiering, and he can't stop showing it off. Patter: lots of words on two neighbouring notes.", "es": "El Mayor General sabe de todo menos de lo militar, y no puede dejar de presumir. El patter (canción trabalenguas): muchas palabras sobre dos notas vecinas."},
                             "steps": [
-                                {"title": {"en": "Two notes"}, "detail": {"en": "A step apart"}},
-                                {"title": {"en": "One word a beat"}, "detail": {"en": "Slowly first"}},
-                                {"title": {"en": "Echo"}, "detail": {"en": "The guide sings a bar, you answer"}}
+                                {"title": {"en": "Two notes", "es": "Dos notas"}, "detail": {"en": "A step apart", "es": "A un grado de distancia"}},
+                                {"title": {"en": "One word a beat", "es": "Una palabra, un pulso"}, "detail": {"en": "Slowly first", "es": "Primero, despacio"}},
+                                {"title": {"en": "Echo", "es": "Eco"}, "detail": {"en": "The guide sings a bar, you answer", "es": "La guía canta un compás y tú respondes"}}
                             ],
                             "visual": "echo",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Bar 1: listen, then answer, slowly."},
+                            "text": {"en": "Bar 1: listen, then answer, slowly.", "es": "Compás 1: escucha y luego responde, despacio."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -596,11 +596,11 @@
                                 "turn": true,
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Bar 2: listen, then answer, slowly."},
+                            "text": {"en": "Bar 2: listen, then answer, slowly.", "es": "Compás 2: escucha y luego responde, despacio."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -615,11 +615,11 @@
                                 "turn": true,
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the whole line, slowly."},
+                            "text": {"en": "Now the whole line, slowly.", "es": "Ahora la frase entera, despacio."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -643,29 +643,29 @@
                                 "turn": true,
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         }
                     ]
                 },
                 {
                     "id": "mt-2-consonants",
-                    "title": {"en": "Consonant first"},
-                    "fact": {"id": "ruddigore-unintelligible-patter", "text": {"en": "Gilbert joked about patter nobody can follow. A trio in Ruddigore (1887) sings: \"This particularly rapid, unintelligible patter isn't generally heard, and if it is, it doesn't matter!\""}, "source": {"en": "Wikipedia, Patter song"}, "url": "https://en.wikipedia.org/wiki/Patter_song"},
+                    "title": {"en": "Consonant first", "es": "La consonante, antes"},
+                    "fact": {"id": "ruddigore-unintelligible-patter", "text": {"en": "Gilbert joked about patter nobody can follow. A trio in Ruddigore (1887) sings: \"This particularly rapid, unintelligible patter isn't generally heard, and if it is, it doesn't matter!\"", "es": "Gilbert bromeaba sobre el patter que nadie puede seguir. Un trío de Ruddigore (1887) canta: \"This particularly rapid, unintelligible patter isn't generally heard, and if it is, it doesn't matter!\" (viene a decir: este patter tan rápido e incomprensible casi nunca se oye, y si se oye, ¡da igual!)."}, "source": {"en": "Wikipedia, Patter song", "es": "Wikipedia, Patter song"}, "url": "https://en.wikipedia.org/wiki/Patter_song"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Put the consonant just before the beat, so the vowel lands on it. The app hears the vowel; so does the audience."},
+                            "headline": {"en": "Put the consonant just before the beat, so the vowel lands on it. The app hears the vowel; so does the audience.", "es": "Pon la consonante justo antes del pulso, para que la vocal caiga en él. La app oye la vocal, y el público también."},
                             "steps": [
-                                {"title": {"en": "Consonant early"}, "detail": {"en": "A hair before the beat"}},
-                                {"title": {"en": "Vowel on the beat"}, "detail": {"en": "That's the note"}},
-                                {"title": {"en": "Loose jaw"}, "detail": {"en": "Small, quick, easy"}}
+                                {"title": {"en": "Consonant early", "es": "Consonante antes"}, "detail": {"en": "A hair before the beat", "es": "Un poquito antes del pulso"}},
+                                {"title": {"en": "Vowel on the beat", "es": "Vocal en el pulso"}, "detail": {"en": "That's the note", "es": "Esa es la nota"}},
+                                {"title": {"en": "Loose jaw", "es": "Mandíbula suelta"}, "detail": {"en": "Small, quick, easy", "es": "Movimientos pequeños, rápidos, sin esfuerzo"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The line on the beat, consonants just ahead."},
+                            "text": {"en": "The line on the beat, consonants just ahead.", "es": "La frase en el pulso, con las consonantes justo antes."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -689,11 +689,11 @@
                                 "turn": true,
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, then play it back with the words shown."},
+                            "text": {"en": "Once more, then play it back with the words shown.", "es": "Una vez más, y luego escúchate con la letra a la vista."},
                             "exercise": {
                                 "tempo": 66,
                                 "model": {
@@ -716,30 +716,30 @@
                                         {"beat": 7.5, "length": 0.5, "step": -7, "lyric": "ral;"}
                                     ]
                                 },
-                                "questions": [{"en": "Which word got lost, if any?"}, {"en": "Did your jaw stay loose?"}]
+                                "questions": [{"en": "Which word got lost, if any?", "es": "¿Se perdió alguna palabra? ¿Cuál?"}, {"en": "Did your jaw stay loose?", "es": "¿Tu mandíbula se mantuvo suelta?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "mt-2-quicker",
-                    "title": {"en": "A little quicker"},
-                    "fact": {"id": "patter-pater-noster", "text": {"en": "The word \"patter\" comes from the Pater Noster, the Lord's Prayer said in Latin: people's habit of rushing through its words as quickly as possible gave English the word."}, "source": {"en": "Wikipedia, Patter song"}, "url": "https://en.wikipedia.org/wiki/Patter_song"},
+                    "title": {"en": "A little quicker", "es": "Un poco más rápido"},
+                    "fact": {"id": "patter-pater-noster", "text": {"en": "The word \"patter\" comes from the Pater Noster, the Lord's Prayer said in Latin: people's habit of rushing through its words as quickly as possible gave English the word.", "es": "La palabra inglesa \"patter\" viene del Pater Noster, el padrenuestro rezado en latín: la costumbre de recitarlo lo más deprisa posible le dio al inglés esa palabra."}, "source": {"en": "Wikipedia, Patter song", "es": "Wikipedia, Patter song"}, "url": "https://en.wikipedia.org/wiki/Patter_song"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Clear first, then quicker. Here the top speed is three words a second; the real thing is about twice that."},
+                            "headline": {"en": "Clear first, then quicker. Here the top speed is three words a second; the real thing is about twice that.", "es": "Primero claro, luego más rápido. Aquí la velocidad máxima es de tres palabras por segundo; en escena, más o menos el doble."},
                             "steps": [
-                                {"title": {"en": "Slow"}, "detail": {"en": "Every word clear"}},
-                                {"title": {"en": "Listen"}, "detail": {"en": "Which one rushed?"}},
-                                {"title": {"en": "Quicker"}, "detail": {"en": "Three words a second, even"}}
+                                {"title": {"en": "Slow", "es": "Lento"}, "detail": {"en": "Every word clear", "es": "Cada palabra clara"}},
+                                {"title": {"en": "Listen", "es": "Escucha"}, "detail": {"en": "Which one rushed?", "es": "¿Cuál se aceleró?"}},
+                                {"title": {"en": "Quicker", "es": "Acelera"}, "detail": {"en": "Three words a second, even", "es": "Tres palabras por segundo, regulares"}}
                             ],
                             "visual": "echo",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Slowly first."},
+                            "text": {"en": "Slowly first.", "es": "Primero, despacio."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -765,12 +765,12 @@
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada una y luego elige."},
                             "exercise": {
                                 "tempo": 90,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which patter rushed?"},
+                                        "prompt": {"en": "Which patter rushed?", "es": "¿Qué patter se aceleró?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -814,10 +814,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "A few of its words came early: clear patter stays even."}
+                                        "why": {"en": "A few of its words came early: clear patter stays even.", "es": "Algunas palabras llegaron antes de tiempo: un patter claro se mantiene regular."}
                                     },
                                     {
-                                        "prompt": {"en": "Which patter rushed?"},
+                                        "prompt": {"en": "Which patter rushed?", "es": "¿Qué patter se aceleró?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -861,10 +861,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "A few of its words came early: clear patter stays even."}
+                                        "why": {"en": "A few of its words came early: clear patter stays even.", "es": "Algunas palabras llegaron antes de tiempo: un patter claro se mantiene regular."}
                                     },
                                     {
-                                        "prompt": {"en": "Which patter rushed?"},
+                                        "prompt": {"en": "Which patter rushed?", "es": "¿Qué patter se aceleró?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -908,15 +908,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "A few of its words came early: clear patter stays even."}
+                                        "why": {"en": "A few of its words came early: clear patter stays even.", "es": "Algunas palabras llegaron antes de tiempo: un patter claro se mantiene regular."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now at three words a second, even and clear."},
+                            "text": {"en": "Now at three words a second, even and clear.", "es": "Ahora a tres palabras por segundo, regulares y claras."},
                             "exercise": {
                                 "tempo": 90,
                                 "notes": [
@@ -940,29 +940,29 @@
                                 "turn": true,
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the beat.", "es": "Se puntúan tus notas: afinadas y a tiempo."}
                         }
                     ]
                 },
                 {
                     "id": "mt-2-challenge",
-                    "title": {"en": "I am the very model"},
+                    "title": {"en": "I am the very model", "es": "I am the very model"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Both lines, showing off, with a breath after \"General\" where the first thought ends (unit 1)."},
+                            "headline": {"en": "Both lines, showing off, with a breath after \"General\" where the first thought ends (unit 1).", "es": "Las dos frases, presumiendo, con una respiración después de \"General\", donde acaba la primera idea (unidad 1)."},
                             "steps": [
-                                {"title": {"en": "Line one"}, "detail": {"en": "I am the very model"}},
-                                {"title": {"en": "Breathe"}, "detail": {"en": "After \"General\""}},
-                                {"title": {"en": "Line two"}, "detail": {"en": "Information vegetable"}}
+                                {"title": {"en": "Line one", "es": "Frase 1"}, "detail": {"en": "I am the very model", "es": "I am the very model"}},
+                                {"title": {"en": "Breathe", "es": "Respira"}, "detail": {"en": "After \"General\"", "es": "Después de \"General\""}},
+                                {"title": {"en": "Line two", "es": "Frase 2"}, "detail": {"en": "Information vegetable", "es": "Information vegetable"}}
                             ],
                             "visual": "echo",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Once with the guide."},
+                            "text": {"en": "Once with the guide.", "es": "Una vez con la guía."},
                             "exercise": {
                                 "tempo": 90,
                                 "notes": [
@@ -1005,7 +1005,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Both lines, clear and even."},
+                            "text": {"en": "Both lines, clear and even.", "es": "Las dos frases, claras y regulares."},
                             "exercise": {
                                 "tempo": 90,
                                 "notes": [
@@ -1047,7 +1047,7 @@
                                 "score": "entry",
                                 "thenAndNow": "mt.first-line"
                             },
-                            "measures": {"en": "Scored on coming back in on time and on pitch after your breath."}
+                            "measures": {"en": "Scored on coming back in on time and on pitch after your breath.", "es": "Se puntúa que vuelvas a entrar a tiempo y en la nota después de respirar."}
                         }
                     ]
                 }
@@ -1055,28 +1055,28 @@
         },
         {
             "id": "mt-bright-and-legit",
-            "title": {"en": "Bright and legit"},
+            "title": {"en": "Bright and legit", "es": "Brillante y legit"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "mt-3-bright",
-                    "title": {"en": "Bright, like talking"},
-                    "fact": {"id": "higgins-spoken-melody", "text": {"en": "When My Fair Lady opened on Broadway in 1956, Rex Harrison's music as Henry Higgins was \"written without sustained notes and with natural tonal patterns\": \"a spoken part that happens to have a melody\"."}, "source": {"en": "Wikipedia, My Fair Lady"}, "url": "https://en.wikipedia.org/wiki/My_Fair_Lady"},
+                    "title": {"en": "Bright, like talking", "es": "Brillante, como al hablar"},
+                    "fact": {"id": "higgins-spoken-melody", "text": {"en": "When My Fair Lady opened on Broadway in 1956, Rex Harrison's music as Henry Higgins was \"written without sustained notes and with natural tonal patterns\": \"a spoken part that happens to have a melody\".", "es": "Cuando My Fair Lady se estrenó en Broadway en 1956, la música de Rex Harrison como Henry Higgins estaba \"escrita sin notas sostenidas y con giros tonales naturales\": \"un papel hablado que resulta tener melodía\"."}, "source": {"en": "Wikipedia, My Fair Lady", "es": "Wikipedia, My Fair Lady"}, "url": "https://en.wikipedia.org/wiki/My_Fair_Lady"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Say the line as if calling to a friend across a room, at speaking volume, then sing it that way. Bright is not belt. First steps to belting is the first step; full belt is for later, with a teacher."},
+                            "headline": {"en": "Say the line as if calling to a friend across a room, at speaking volume, then sing it that way. Bright is not belt. First steps to belting is the first step; full belt is for later, with a teacher.", "es": "Di la frase como si llamaras a alguien al otro lado de una sala, a volumen de conversación, y luego cántala así. Brillante no es belting (la voz de pecho potente): para eso, el primer paso es el curso Primeros pasos en el belting, y el belting completo llega más adelante, con clases de canto."},
                             "steps": [
-                                {"title": {"en": "Call across the room"}, "detail": {"en": "Speaking volume, speech vowels"}},
-                                {"title": {"en": "Then sing it"}, "detail": {"en": "Near your comfortable note"}},
-                                {"title": {"en": "Stop if"}, "detail": {"en": "It scratches or tickles: sing it the legit way"}}
+                                {"title": {"en": "Call across the room", "es": "Llama de lejos"}, "detail": {"en": "Speaking volume, speech vowels", "es": "Volumen de conversación, vocales del habla"}},
+                                {"title": {"en": "Then sing it", "es": "Luego, cántala"}, "detail": {"en": "Near your comfortable note", "es": "Cerca de tu nota cómoda"}},
+                                {"title": {"en": "Stop if", "es": "Cuándo parar"}, "detail": {"en": "It scratches or tickles: sing it the legit way", "es": "Si notas carraspera o picor, para y cántala en legit (estilo clásico)"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The line, bright and easy, over the chords."},
+                            "text": {"en": "The line, bright and easy, over the chords.", "es": "La frase, brillante y fácil, sobre los acordes."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -1096,11 +1096,11 @@
                                 ],
                                 "keep": "mt.bright"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, then hear yours beside the guide's."},
+                            "text": {"en": "Once more, then hear yours beside the guide's.", "es": "Una vez más, y luego escúchate junto a la guía."},
                             "exercise": {
                                 "tempo": 88,
                                 "model": {
@@ -1114,35 +1114,35 @@
                                         {"beat": 6, "length": 3, "step": 0, "lyric": "why;"}
                                     ]
                                 },
-                                "questions": [{"en": "Did your throat feel as easy as when you talk?"}, {"en": "Did you get louder?"}]
+                                "questions": [{"en": "Did your throat feel as easy as when you talk?", "es": "¿Sentiste la garganta tan cómoda como al hablar?"}, {"en": "Did you get louder?", "es": "¿Subiste el volumen?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "mt-3-legit",
-                    "title": {"en": "Tall and steady"},
-                    "fact": {"id": "singers-formant", "text": {"en": "Trained operatic voices carry a strong energy peak near 3,000 hertz, the singer's formant. An orchestra makes relatively little sound up there, so the voice can be heard above it."}, "source": {"en": "National Center for Voice and Speech, The Singer's Formant"}, "url": "https://ncvs.org/tutorials/the-singers-formant/"},
+                    "title": {"en": "Tall and steady", "es": "Vertical y estable"},
+                    "fact": {"id": "singers-formant", "text": {"en": "Trained operatic voices carry a strong energy peak near 3,000 hertz, the singer's formant. An orchestra makes relatively little sound up there, so the voice can be heard above it.", "es": "Las voces de ópera entrenadas tienen un fuerte pico de energía cerca de los 3000 hercios: el formante del cantante. Una orquesta suena relativamente poco en esa zona, así que la voz se oye por encima."}, "source": {"en": "National Center for Voice and Speech, The Singer's Formant", "es": "National Center for Voice and Speech, The Singer's Formant"}, "url": "https://ncvs.org/tutorials/the-singers-formant/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Legit is the classic sound: tall vowels and long notes held to their full value. On \"why\", stay on \"ah\" and turn to \"ee\" only at the end."},
+                            "headline": {"en": "Legit is the classic sound: tall vowels and long notes held to their full value. On \"why\", stay on \"ah\" and turn to \"ee\" only at the end.", "es": "El legit es el sonido clásico del musical: vocales verticales y notas largas sostenidas todo su valor. En \"why\", quédate en \"ah\" y pasa a \"ee\" (una i) solo al final."},
                             "steps": [
-                                {"title": {"en": "Tall vowels"}, "detail": {"en": "Space inside, jaw easy"}},
-                                {"title": {"en": "Stay on ah"}, "detail": {"en": "Why: ah, then ee at the cutoff"}},
-                                {"title": {"en": "Held to its value"}, "detail": {"en": "Then let go on time"}}
+                                {"title": {"en": "Tall vowels", "es": "Vocal vertical"}, "detail": {"en": "Space inside, jaw easy", "es": "Espacio por dentro, mandíbula relajada"}},
+                                {"title": {"en": "Stay on ah", "es": "Quédate en ah"}, "detail": {"en": "Why: ah, then ee at the cutoff", "es": "Why: ah, y ee al cortar"}},
+                                {"title": {"en": "Held to its value", "es": "Todo su valor"}, "detail": {"en": "Then let go on time", "es": "Y suéltala a tiempo"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada una y luego elige."},
                             "exercise": {
                                 "tempo": 88,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which held \"why\" stayed steady?"},
+                                        "prompt": {"en": "Which held \"why\" stayed steady?", "es": "¿Qué \"why\" sostenido se mantuvo estable?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": 0}]
@@ -1163,10 +1163,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "One sags at its end. Legit holds the note to its value, steady."}
+                                        "why": {"en": "One sags at its end. Legit holds the note to its value, steady.", "es": "Uno se cae al final. El legit sostiene la nota todo su valor, estable."}
                                     },
                                     {
-                                        "prompt": {"en": "Which held \"why\" stayed steady?"},
+                                        "prompt": {"en": "Which held \"why\" stayed steady?", "es": "¿Qué \"why\" sostenido se mantuvo estable?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1187,10 +1187,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "One sags at its end. Legit holds the note to its value, steady."}
+                                        "why": {"en": "One sags at its end. Legit holds the note to its value, steady.", "es": "Uno se cae al final. El legit sostiene la nota todo su valor, estable."}
                                     },
                                     {
-                                        "prompt": {"en": "Which held \"why\" stayed steady?"},
+                                        "prompt": {"en": "Which held \"why\" stayed steady?", "es": "¿Qué \"why\" sostenido se mantuvo estable?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": 0}]
@@ -1211,15 +1211,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "One sags at its end. Legit holds the note to its value, steady."}
+                                        "why": {"en": "One sags at its end. Legit holds the note to its value, steady.", "es": "Uno se cae al final. El legit sostiene la nota todo su valor, estable."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Though I could never tell why\", the \"why\" held tall to its end."},
+                            "text": {"en": "\"Though I could never tell why\", the \"why\" held tall to its end.", "es": "\"Though I could never tell why\", con el \"why\" vertical hasta el final."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -1239,11 +1239,11 @@
                                 ],
                                 "score": "release"
                             },
-                            "measures": {"en": "Scored on holding the long note to its end, steady, and letting go on time."}
+                            "measures": {"en": "Scored on holding the long note to its end, steady, and letting go on time.", "es": "Se puntúa que sostengas la nota larga hasta el final, estable, y la sueltes a tiempo."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, then hear yours beside the guide's."},
+                            "text": {"en": "Once more, then hear yours beside the guide's.", "es": "Una vez más, y luego escúchate junto a la guía."},
                             "exercise": {
                                 "tempo": 88,
                                 "model": {
@@ -1257,30 +1257,30 @@
                                         {"beat": 6, "length": 3, "step": 0, "lyric": "why;"}
                                     ]
                                 },
-                                "questions": [{"en": "Did \"why\" stay on \"ah\" until the end?"}, {"en": "Did your jaw stay easy?"}]
+                                "questions": [{"en": "Did \"why\" stay on \"ah\" until the end?", "es": "¿El \"why\" se quedó en \"ah\" hasta el final?"}, {"en": "Did your jaw stay easy?", "es": "¿Tu mandíbula siguió relajada?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "mt-3-diphthongs",
-                    "title": {"en": "Hold the first vowel"},
-                    "fact": {"id": "sullivan-rhythm-first", "text": {"en": "Sullivan said the first thing he decided in a song was its rhythm: \"I arrange the rhythm before I come to the question of melody.\""}, "source": {"en": "Lawrence, Sir Arthur Sullivan (1899)"}, "url": "https://archive.org/details/sirarthursulliva00lawruoft"},
+                    "title": {"en": "Hold the first vowel", "es": "Sostén la primera vocal"},
+                    "fact": {"id": "sullivan-rhythm-first", "text": {"en": "Sullivan said the first thing he decided in a song was its rhythm: \"I arrange the rhythm before I come to the question of melody.\"", "es": "Sullivan decía que lo primero que decidía en una canción era el ritmo: \"Organizo el ritmo antes de pasar a la cuestión de la melodía.\""}, "source": {"en": "Lawrence, Sir Arthur Sullivan (1899)", "es": "Lawrence, Sir Arthur Sullivan (1899)"}, "url": "https://archive.org/details/sirarthursulliva00lawruoft"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Why, I, my, day: each is two vowels. Hold the first, and give the second only at the very end. On high notes vowels bend; down here, keep them true."},
+                            "headline": {"en": "Why, I, my, day: each is two vowels. Hold the first, and give the second only at the very end. On high notes vowels bend; down here, keep them true.", "es": "Why, I, my, day: cada una tiene dos vocales. Sostén la primera y da la segunda solo al final del todo. En las notas agudas las vocales se modifican; aquí abajo, mantenlas puras."},
                             "steps": [
-                                {"title": {"en": "Why"}, "detail": {"en": "Ah, then a touch of ee"}},
-                                {"title": {"en": "Day"}, "detail": {"en": "Eh, then a touch of ee"}},
-                                {"title": {"en": "At the end"}, "detail": {"en": "The second vowel, quickly"}}
+                                {"title": {"en": "Why", "es": "Why"}, "detail": {"en": "Ah, then a touch of ee", "es": "\"Ah\" y luego un toque de \"ee\" (una i)"}},
+                                {"title": {"en": "Day", "es": "Day"}, "detail": {"en": "Eh, then a touch of ee", "es": "\"Eh\" y luego un toque de \"ee\""}},
+                                {"title": {"en": "At the end", "es": "Al final"}, "detail": {"en": "The second vowel, quickly", "es": "La segunda vocal, rápida"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Each word held two beats, the first vowel all the way."},
+                            "text": {"en": "Each word held two beats, the first vowel all the way.", "es": "Cada palabra sostenida dos tiempos, con la primera vocal de principio a fin."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1292,29 +1292,29 @@
                                 "turn": true,
                                 "drone": {"step": 0}
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         }
                     ]
                 },
                 {
                     "id": "mt-3-challenge",
-                    "title": {"en": "Tit-willow"},
+                    "title": {"en": "Tit-willow", "es": "Tit-willow"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Ko-Ko spins a sad tale of a little bird to win Katisha's heart. The time is 6/8: feel it in two big beats, not six small ones."},
+                            "headline": {"en": "Ko-Ko spins a sad tale of a little bird to win Katisha's heart. The time is 6/8: feel it in two big beats, not six small ones.", "es": "Ko-Ko cuenta la triste historia de un pajarito para conquistar a Katisha. Está en 6/8: siéntelo en dos tiempos grandes, no en seis pequeños."},
                             "steps": [
-                                {"title": {"en": "In two"}, "detail": {"en": "ONE-and-a TWO-and-a"}},
-                                {"title": {"en": "Legit"}, "detail": {"en": "Tall vowels, held notes steady"}},
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1 beside today"}}
+                                {"title": {"en": "In two", "es": "En dos"}, "detail": {"en": "ONE-and-a TWO-and-a", "es": "UNO-dos-tres DOS-dos-tres"}},
+                                {"title": {"en": "Legit", "es": "Legit"}, "detail": {"en": "Tall vowels, held notes steady", "es": "Vocales verticales, notas largas estables"}},
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1 beside today", "es": "Tu toma de la lección 1 junto a la de hoy"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Once with the guide, gently. On stage it moves a little quicker; clear first."},
+                            "text": {"en": "Once with the guide, gently. On stage it moves a little quicker; clear first.", "es": "Una vez con la guía, con suavidad. En escena va un poco más rápido; primero, que se entienda."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1336,7 +1336,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Willow, tit-willow, tit-willow\", over the chords."},
+                            "text": {"en": "\"Willow, tit-willow, tit-willow\", over the chords.", "es": "\"Willow, tit-willow, tit-willow\", sobre los acordes."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1357,7 +1357,7 @@
                                 "score": "entry",
                                 "thenAndNow": "mt.first-line"
                             },
-                            "measures": {"en": "Scored on coming back in on time and on pitch after each breath."}
+                            "measures": {"en": "Scored on coming back in on time and on pitch after each breath.", "es": "Se puntúa que vuelvas a entrar a tiempo y en la nota después de cada respiración."}
                         }
                     ]
                 }
@@ -1365,28 +1365,28 @@
         },
         {
             "id": "mt-sell-the-song",
-            "title": {"en": "Sell the song"},
+            "title": {"en": "Sell the song", "es": "Vende la canción"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "mt-4-button",
-                    "title": {"en": "The button"},
-                    "fact": {"id": "gilbert-hands-wrists", "text": {"en": "Henry Lytton asked Gilbert what to do with his hands on stage. \"Cut them off at the wrists, Lytton,\" came the quick reply, \"and forget you've got any hands!\""}, "source": {"en": "Lytton, The Secrets of a Savoyard (1922)"}, "url": "https://www.gutenberg.org/ebooks/39392"},
+                    "title": {"en": "The button", "es": "El remate"},
+                    "fact": {"id": "gilbert-hands-wrists", "text": {"en": "Henry Lytton asked Gilbert what to do with his hands on stage. \"Cut them off at the wrists, Lytton,\" came the quick reply, \"and forget you've got any hands!\"", "es": "Henry Lytton le preguntó a Gilbert qué hacer con las manos en escena. \"Córtatelas por las muñecas, Lytton\", fue la rápida respuesta, \"¡y olvida que tienes manos!\""}, "source": {"en": "Lytton, The Secrets of a Savoyard (1922)", "es": "Lytton, The Secrets of a Savoyard (1922)"}, "url": "https://www.gutenberg.org/ebooks/39392"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The button is a song's last note, held to its value, stopped on the beat, then stillness while the thought lands."},
+                            "headline": {"en": "The button is a song's last note, held to its value, stopped on the beat, then stillness while the thought lands.", "es": "El remate (el \"button\" del musical) es la última nota de una canción: sostenida todo su valor, cortada en el pulso, y luego quietud mientras la idea llega al público."},
                             "steps": [
-                                {"title": {"en": "Hold it"}, "detail": {"en": "To its full value"}},
-                                {"title": {"en": "Stop"}, "detail": {"en": "Exactly on the beat"}},
-                                {"title": {"en": "Stay still"}, "detail": {"en": "A moment after"}}
+                                {"title": {"en": "Hold it", "es": "Sostenla"}, "detail": {"en": "To its full value", "es": "Todo su valor"}},
+                                {"title": {"en": "Stop", "es": "Corta"}, "detail": {"en": "Exactly on the beat", "es": "Justo en el pulso"}},
+                                {"title": {"en": "Stay still", "es": "Sin moverte"}, "detail": {"en": "A moment after", "es": "Un momento después"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Sweet Little Buttercup I\", the \"I\" held and stopped on the beat."},
+                            "text": {"en": "\"Sweet Little Buttercup I\", the \"I\" held and stopped on the beat.", "es": "\"Sweet Little Buttercup I\", con el \"I\" sostenido y cortado en el pulso."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -1406,11 +1406,11 @@
                                 ],
                                 "score": "release"
                             },
-                            "measures": {"en": "Scored on holding the last note to its end, steady, and stopping on time."}
+                            "measures": {"en": "Scored on holding the last note to its end, steady, and stopping on time.", "es": "Se puntúa que sostengas la última nota hasta el final, estable, y cortes a tiempo."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, then play it back."},
+                            "text": {"en": "Once more, then play it back.", "es": "Una vez más, y luego escúchate."},
                             "exercise": {
                                 "tempo": 88,
                                 "model": {
@@ -1425,8 +1425,8 @@
                                     ]
                                 },
                                 "questions": [
-                                    {"en": "Did you stay still and keep the thought for a moment after the note?"},
-                                    {"en": "Did the last note stay steady to its end?"}
+                                    {"en": "Did you stay still and keep the thought for a moment after the note?", "es": "¿Mantuviste la quietud y la idea un momento después de la nota?"},
+                                    {"en": "Did the last note stay steady to its end?", "es": "¿La última nota se mantuvo estable hasta el final?"}
                                 ]
                             }
                         }
@@ -1434,23 +1434,23 @@
                 },
                 {
                     "id": "mt-4-someone",
-                    "title": {"en": "Sing it to someone"},
-                    "fact": {"id": "clear-speech-17-points", "text": {"en": "In a 1985 study, five listeners with hearing loss heard sentences said clearly or conversationally. The clear ones were understood on average 17 percentage points better, at every playback level tested."}, "source": {"en": "Picheny, Durlach and Braida, Journal of Speech and Hearing Research (1985)"}, "url": "https://doi.org/10.1044/jshr.2801.96"},
+                    "title": {"en": "Sing it to someone", "es": "Cántasela a alguien"},
+                    "fact": {"id": "clear-speech-17-points", "text": {"en": "In a 1985 study, five listeners with hearing loss heard sentences said clearly or conversationally. The clear ones were understood on average 17 percentage points better, at every playback level tested.", "es": "En un estudio de 1985, cinco oyentes con pérdida auditiva escucharon frases dichas con claridad o en tono de conversación. Las claras se entendieron, de media, 17 puntos porcentuales mejor, a todos los volúmenes probados."}, "source": {"en": "Picheny, Durlach and Braida, Journal of Speech and Hearing Research (1985)", "es": "Picheny, Durlach y Braida, Journal of Speech and Hearing Research (1985)"}, "url": "https://doi.org/10.1044/jshr.2801.96"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Henry Irving told the young Henry Lytton to picture a friend who couldn't afford the stalls, at the back of the gallery: \"Let him hear every line you have to say.\" Sing to them, not louder."},
+                            "headline": {"en": "Henry Irving told the young Henry Lytton to picture a friend who couldn't afford the stalls, at the back of the gallery: \"Let him hear every line you have to say.\" Sing to them, not louder.", "es": "Henry Irving le dijo al joven Henry Lytton que imaginara a un amigo sin dinero para la platea, al fondo de la galería: \"Que oiga cada frase que tengas que decir\". Cántale a él, sin subir el volumen."},
                             "steps": [
-                                {"title": {"en": "Pick someone"}, "detail": {"en": "At the very back"}},
-                                {"title": {"en": "Tell them"}, "detail": {"en": "This line is for them"}},
-                                {"title": {"en": "Not louder"}, "detail": {"en": "Clearer and meant"}}
+                                {"title": {"en": "Pick someone", "es": "Elige a alguien"}, "detail": {"en": "At the very back", "es": "Al fondo del todo"}},
+                                {"title": {"en": "Tell them", "es": "Cuéntaselo"}, "detail": {"en": "This line is for them", "es": "Esta frase es para esa persona"}},
+                                {"title": {"en": "Not louder", "es": "No más fuerte"}, "detail": {"en": "Clearer and meant", "es": "Más clara y con intención"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first line, sung to your friend at the back."},
+                            "text": {"en": "The first line, sung to your friend at the back.", "es": "La primera frase, cantada para quien está al fondo."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -1476,11 +1476,11 @@
                                     {"beat": 10, "root": -12, "quality": "dom7", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, then play it back."},
+                            "text": {"en": "Once more, then play it back.", "es": "Una vez más, y luego escúchate."},
                             "exercise": {
                                 "tempo": 88,
                                 "model": {
@@ -1501,8 +1501,8 @@
                                     ]
                                 },
                                 "questions": [
-                                    {"en": "Did it sound like you were telling them something?"},
-                                    {"en": "Was your voice as easy as in your first take?"}
+                                    {"en": "Did it sound like you were telling them something?", "es": "¿Sonó como si le contaras algo?"},
+                                    {"en": "Was your voice as easy as in your first take?", "es": "¿Tu voz estaba tan cómoda como en tu primera toma?"}
                                 ]
                             }
                         }
@@ -1510,23 +1510,23 @@
                 },
                 {
                     "id": "mt-4-hail",
-                    "title": {"en": "Hail, Poetry, the first half"},
-                    "fact": {"id": "pirates-new-york-1879", "text": {"en": "The Pirates of Penzance opened in New York in December 1879, so Gilbert, Sullivan and Carte would have their own production on stage before the pirates of the stage could copy it."}, "source": {"en": "Victoria and Albert Museum, The Pirates of Penzance silk programme"}, "url": "https://collections.vam.ac.uk/item/O1370508/the-pirates-of-penzance-silk-programme-seer-a-s/"},
+                    "title": {"en": "Hail, Poetry, the first half", "es": "Hail, Poetry, la primera mitad"},
+                    "fact": {"id": "pirates-new-york-1879", "text": {"en": "The Pirates of Penzance opened in New York in December 1879, so Gilbert, Sullivan and Carte would have their own production on stage before the pirates of the stage could copy it.", "es": "The Pirates of Penzance se estrenó en Nueva York en diciembre de 1879, para que Gilbert, Sullivan y Carte tuvieran su propia producción en escena antes de que los piratas del teatro pudieran copiarla."}, "source": {"en": "Victoria and Albert Museum, The Pirates of Penzance silk programme", "es": "Victoria and Albert Museum, The Pirates of Penzance silk programme"}, "url": "https://collections.vam.ac.uk/item/O1370508/the-pirates-of-penzance-silk-programme-seer-a-s/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "\"Hail, Poetry\" is the chorus the pirates sing, moved to tears by a line of verse, and Sullivan marks it \"Voices only\": no orchestra. Your line is the tune, with the others around you."},
+                            "headline": {"en": "\"Hail, Poetry\" is the chorus the pirates sing, moved to tears by a line of verse, and Sullivan marks it \"Voices only\": no orchestra. Your line is the tune, with the others around you.", "es": "\"Hail, Poetry\" es el coro que cantan los piratas, conmovidos hasta las lágrimas por un verso, y Sullivan lo marca \"solo voces\": sin orquesta. Tu parte es la melodía, con los demás a tu alrededor."},
                             "steps": [
-                                {"title": {"en": "Voices only"}, "detail": {"en": "Just the company"}},
-                                {"title": {"en": "Phrase by phrase"}, "detail": {"en": "The first half today"}},
-                                {"title": {"en": "The last Hail"}, "detail": {"en": "Held, then let go on time"}}
+                                {"title": {"en": "Voices only", "es": "Solo voces"}, "detail": {"en": "Just the company", "es": "Solo la compañía"}},
+                                {"title": {"en": "Phrase by phrase", "es": "Frase a frase"}, "detail": {"en": "The first half today", "es": "Hoy, la primera mitad"}},
+                                {"title": {"en": "The last Hail", "es": "El último Hail"}, "detail": {"en": "Held, then let go on time", "es": "Sostenlo y suéltalo a tiempo"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Phrase 1, your tune with the company."},
+                            "text": {"en": "Phrase 1, your tune with the company.", "es": "Frase 1: tu melodía con la compañía."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1582,11 +1582,11 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Phrase 2, your tune with the company."},
+                            "text": {"en": "Phrase 2, your tune with the company.", "es": "Frase 2: tu melodía con la compañía."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1643,29 +1643,29 @@
                                 ],
                                 "score": "release"
                             },
-                            "measures": {"en": "Scored on holding the last note to its end and letting go on time."}
+                            "measures": {"en": "Scored on holding the last note to its end and letting go on time.", "es": "Se puntúa que sostengas la última nota hasta el final y la sueltes a tiempo."}
                         }
                     ]
                 },
                 {
                     "id": "mt-4-challenge",
-                    "title": {"en": "The company"},
+                    "title": {"en": "The company", "es": "La compañía"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Your button, then your part in the company: the tune of \"Hail, Poetry\", recorded in Sing over the guides."},
+                            "headline": {"en": "Your button, then your part in the company: the tune of \"Hail, Poetry\", recorded in Sing over the guides.", "es": "Tu remate y luego tu parte en la compañía: la melodía de \"Hail, Poetry\", grabada en Cantar sobre las guías."},
                             "steps": [
-                                {"title": {"en": "The button"}, "detail": {"en": "Buttercup's last line, then stillness"}},
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1 beside today"}},
-                                {"title": {"en": "Then Sing"}, "detail": {"en": "The tune in your own octave"}}
+                                {"title": {"en": "The button", "es": "El remate"}, "detail": {"en": "Buttercup's last line, then stillness", "es": "La última frase de Buttercup y luego, quietud"}},
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1 beside today", "es": "Tu toma de la lección 1 junto a la de hoy"}},
+                                {"title": {"en": "Then Sing", "es": "Y en Cantar"}, "detail": {"en": "The tune in your own octave", "es": "La melodía en tu propia octava"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Buttercup's last line with its button."},
+                            "text": {"en": "Buttercup's last line with its button.", "es": "La última frase de Buttercup, con su remate."},
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -1686,9 +1686,9 @@
                                 "score": "release",
                                 "thenAndNow": "mt.first-line"
                             },
-                            "measures": {"en": "Scored on holding the last note to its end and stopping on time."}
+                            "measures": {"en": "Scored on holding the last note to its end and stopping on time.", "es": "Se puntúa que sostengas la última nota hasta el final y cortes a tiempo."}
                         },
-                        {"kind": "record", "text": {"en": "The finale: record the tune of \"Hail, Poetry\" in Sing, over the guides. Add the other parts too if you like."}, "courseSong": "songs/hail-poetry.json", "singers": 4, "part": "soprano", "measures": {"en": "Scored on the notes of your part."}}
+                        {"kind": "record", "text": {"en": "The finale: record the tune of \"Hail, Poetry\" in Sing, over the guides. Add the other parts too if you like.", "es": "El gran final: graba la melodía de \"Hail, Poetry\" en Cantar, sobre las guías. Si quieres, añade también las otras voces."}, "courseSong": "songs/hail-poetry.json", "singers": 4, "part": "soprano", "measures": {"en": "Scored on the notes of your part.", "es": "Se puntúan las notas de tu parte."}}
                     ]
                 }
             ]
