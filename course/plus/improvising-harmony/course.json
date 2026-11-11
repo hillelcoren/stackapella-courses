@@ -2,25 +2,25 @@
     "id": "improvising-harmony",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Improvising a harmony"},
+    "title": {"en": "Improvising a harmony", "es": "Improvisar una armonía"},
     "units": [
         {
             "id": "imp-a-part-above",
-            "title": {"en": "A part above"},
+            "title": {"en": "A part above", "es": "Una voz arriba"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "imp-1-third",
-                    "title": {"en": "A part above"},
+                    "title": {"en": "A part above", "es": "Una voz arriba"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The simplest harmony: sing two scale notes above the tune, a third. Where that clashes with the chord, go one note higher."},
+                            "headline": {"en": "The simplest harmony: sing two scale notes above the tune, a third. Where that clashes with the chord, go one note higher.", "es": "La armonía más sencilla: canta dos grados de la escala por encima de la melodía, una tercera. Donde eso choque con el acorde, sube una nota más."},
                             "steps": [
-                                {"title": {"en": "Hear it first"}, "detail": {"en": "One line, the tune and the part above together"}},
-                                {"title": {"en": "Above a loud tune, go lighter"}, "detail": {"en": "Never louder; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Best with headphones"}, "detail": {"en": "You'll hear the tune as you sing"}}
+                                {"title": {"en": "Hear it first", "es": "Primero, escucha"}, "detail": {"en": "One line, the tune and the part above together", "es": "Una frase: la melodía y la voz de arriba juntas"}},
+                                {"title": {"en": "Above a loud tune, go lighter", "es": "Sobre una melodía fuerte, más ligero"}, "detail": {"en": "Never louder; stop if anything tightens or hurts", "es": "Nunca más fuerte; si algo se tensa o duele, para"}},
+                                {"title": {"en": "Best with headphones", "es": "Mejor con auriculares"}, "detail": {"en": "You'll hear the tune as you sing", "es": "Oirás la melodía mientras cantas"}}
                             ],
                             "listen": {
                                 "tempo": 92,
@@ -68,7 +68,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "First sing the tune itself, once through, so it's yours."},
+                            "text": {"en": "First sing the tune itself, once through, so it's yours.", "es": "Primero canta la melodía entera una vez, para hacerla tuya."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -115,7 +115,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now hold the harmony on the long notes while the tune moves. Hear the chord ring."},
+                            "text": {"en": "Now hold the harmony on the long notes while the tune moves. Hear the chord ring.", "es": "Ahora mantén la armonía en las notas largas mientras la melodía se mueve. Escucha cómo resuena el acorde."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -152,7 +152,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the part above, the whole verse, every note lit, while the guide sings the tune."},
+                            "text": {"en": "Now the part above, the whole verse, every note lit, while the guide sings the tune.", "es": "Ahora la voz de arriba, la estrofa entera, con todas las notas iluminadas, mientras la voz guía canta la melodía."},
                             "exercise": {
                                 "keep": "improvising.first-harmony",
                                 "tempo": 92,
@@ -227,23 +227,23 @@
                                     {"beat": 34.0, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your harmony's notes on pitch."}
+                            "measures": {"en": "Scored on your harmony's notes on pitch.", "es": "Se puntúa la afinación de tu armonía."}
                         }
                     ],
-                    "fact": {"id": "gymel-twin", "text": {"en": "Medieval English singers called two voices moving mostly in thirds \"gymel\", from the Latin for twin."}, "source": {"en": "Britannica, Gymel"}, "url": "https://www.britannica.com/art/gymel"}
+                    "fact": {"id": "gymel-twin", "text": {"en": "Medieval English singers called two voices moving mostly in thirds \"gymel\", from the Latin for twin.", "es": "Los cantores ingleses medievales llamaban \"gymel\" a dos voces que se movían sobre todo en terceras, por la palabra latina que significa \"gemelo\"."}, "source": {"en": "Britannica, Gymel", "es": "Britannica, Gymel"}, "url": "https://www.britannica.com/art/gymel"}
                 },
                 {
                     "id": "imp-1-switch",
-                    "title": {"en": "Major and minor thirds"},
-                    "fact": {"id": "odington-thirds", "text": {"en": "Before 1316, the English monk Walter Odington wrote that thirds sit close to the ratios 5 to 4 and 6 to 5, and that human voices, \"by their own subtlety\", blend them pleasantly."}, "source": {"en": "Wikipedia, Walter Odington"}, "url": "https://en.wikipedia.org/wiki/Walter_Odington"},
+                    "title": {"en": "Major and minor thirds", "es": "Terceras mayores y menores"},
+                    "fact": {"id": "odington-thirds", "text": {"en": "Before 1316, the English monk Walter Odington wrote that thirds sit close to the ratios 5 to 4 and 6 to 5, and that human voices, \"by their own subtlety\", blend them pleasantly.", "es": "Antes de 1316, el monje inglés Walter Odington escribió que las terceras se acercan a las proporciones 5 a 4 y 6 a 5, y que las voces humanas, \"por su propia sutileza\", las funden de forma agradable."}, "source": {"en": "Wikipedia, Walter Odington", "es": "Wikipedia, Walter Odington"}, "url": "https://en.wikipedia.org/wiki/Walter_Odington"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A third above switches between major and minor to stay in the key. You don't count it: you follow the scale, two notes up."},
+                            "headline": {"en": "A third above switches between major and minor to stay in the key. You don't count it: you follow the scale, two notes up.", "es": "Una tercera por encima cambia entre mayor y menor para no salirse de la tonalidad. No hace falta contar: sigues la escala, dos grados más arriba. Aquí usamos do móvil: \"do\" no es una nota fija, es tu nota base, esté donde esté."},
                             "steps": [
-                                {"title": {"en": "Major thirds"}, "detail": {"en": "Do to mi, fa to la, so to ti"}},
-                                {"title": {"en": "Minor thirds"}, "detail": {"en": "Re to fa, mi to so"}},
-                                {"title": {"en": "The chords decide"}, "detail": {"en": "Listen to them under you"}}
+                                {"title": {"en": "Major thirds", "es": "Terceras mayores"}, "detail": {"en": "Do to mi, fa to la, so to ti", "es": "De \"do\" a \"mi\", de \"fa\" a \"la\", de \"so\" (sol) a \"ti\" (si)"}},
+                                {"title": {"en": "Minor thirds", "es": "Terceras menores"}, "detail": {"en": "Re to fa, mi to so", "es": "De \"re\" a \"fa\", de \"mi\" a \"so\""}},
+                                {"title": {"en": "The chords decide", "es": "Mandan los acordes"}, "detail": {"en": "Listen to them under you", "es": "Escúchalos por debajo"}}
                             ],
                             "listen": {
                                 "tempo": 72,
@@ -279,12 +279,12 @@
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, as often as you like, then choose the third that fits."},
+                            "text": {"en": "Listen to each, as often as you like, then choose the third that fits.", "es": "Escucha cada uno las veces que quieras y elige la tercera que encaja."},
                             "exercise": {
                                 "tempo": 72,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Over do, which third fits the key?"},
+                                        "prompt": {"en": "Over do, which third fits the key?", "es": "Sobre \"do\", ¿qué tercera encaja en la tonalidad?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": -7}, {"beat": 0, "length": 3, "step": -3}],
@@ -296,10 +296,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "A, do to mi, is a major third, in the key. B's note is a half step (the smallest step on a piano) low: it clashes with the chord."}
+                                        "why": {"en": "A, do to mi, is a major third, in the key. B's note is a half step (the smallest step on a piano) low: it clashes with the chord.", "es": "A, de \"do\" a \"mi\", es una tercera mayor, dentro de la tonalidad. La nota de B está un semitono (la distancia más pequeña del piano) más baja: choca con el acorde."}
                                     },
                                     {
-                                        "prompt": {"en": "Over re, which third fits the key?"},
+                                        "prompt": {"en": "Over re, which third fits the key?", "es": "Sobre \"re\", ¿qué tercera encaja en la tonalidad?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": -5}, {"beat": 0, "length": 3, "step": -1}],
@@ -311,10 +311,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "B, re to fa, is a minor third: smaller, but in the key. A's note is outside it."}
+                                        "why": {"en": "B, re to fa, is a minor third: smaller, but in the key. A's note is outside it.", "es": "B, de \"re\" a \"fa\", es una tercera menor: más pequeña, pero dentro de la tonalidad. La nota de A se sale de ella."}
                                     },
                                     {
-                                        "prompt": {"en": "Over mi, which third fits the key?"},
+                                        "prompt": {"en": "Over mi, which third fits the key?", "es": "Sobre \"mi\", ¿qué tercera encaja en la tonalidad?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": -3}, {"beat": 0, "length": 3, "step": 0}],
@@ -326,10 +326,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "A, mi to so, a minor third, stays in the key. A third above isn't always the same size."}
+                                        "why": {"en": "A, mi to so, a minor third, stays in the key. A third above isn't always the same size.", "es": "A, de \"mi\" a \"so\", una tercera menor, se queda en la tonalidad. Una tercera por encima no siempre tiene el mismo tamaño."}
                                     },
                                     {
-                                        "prompt": {"en": "Over fa, which third fits the key?"},
+                                        "prompt": {"en": "Over fa, which third fits the key?", "es": "Sobre \"fa\", ¿qué tercera encaja en la tonalidad?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": -2}, {"beat": 0, "length": 3, "step": 1}],
@@ -341,15 +341,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "B, fa to la, a major third. The key decides: you just follow the scale."}
+                                        "why": {"en": "B, fa to la, a major third. The key decides: you just follow the scale.", "es": "B, de \"fa\" a \"la\", una tercera mayor. Manda la tonalidad: tú solo sigues la escala."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The guide climbs do re mi fa so; you sing a third above each, over the chords."},
+                            "text": {"en": "The guide climbs do re mi fa so; you sing a third above each, over the chords.", "es": "La guía sube \"do re mi fa so\"; tú cantas una tercera por encima de cada nota, sobre los acordes."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -379,34 +379,34 @@
                                     {"beat": 12, "root": 0, "quality": "dom7", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your thirds on pitch, major and minor."}
+                            "measures": {"en": "Scored on your thirds on pitch, major and minor.", "es": "Se puntúa la afinación de tus terceras, mayores y menores."}
                         }
                     ]
                 },
                 {
                     "id": "imp-1-fourth",
-                    "title": {"en": "Third or fourth?"},
-                    "fact": {"id": "fourth-in-lower-voice", "text": {"en": "In the 1470s, the first dictionary of musical terms called the fourth a dissonance. Yet it still worked as a consonance with a third or fifth in a lower voice, as yours over so does."}, "source": {"en": "Wikipedia, Perfect fourth (citing Drabkin, \"Fourth\", New Grove (2001))"}, "url": "https://en.wikipedia.org/wiki/Perfect_fourth"},
+                    "title": {"en": "Third or fourth?", "es": "¿Tercera o cuarta?"},
+                    "fact": {"id": "fourth-in-lower-voice", "text": {"en": "In the 1470s, the first dictionary of musical terms called the fourth a dissonance. Yet it still worked as a consonance with a third or fifth in a lower voice, as yours over so does.", "es": "En la década de 1470, el primer diccionario de términos musicales llamó disonancia a la cuarta. Aun así, funcionaba como consonancia si una voz más grave formaba debajo una tercera o una quinta, como pasa con la tuya sobre \"so\"."}, "source": {"en": "Wikipedia, Perfect fourth (citing Drabkin, \"Fourth\", New Grove (2001))", "es": "Wikipedia, Perfect fourth (citando a Drabkin, \"Fourth\", New Grove (2001))"}, "url": "https://en.wikipedia.org/wiki/Perfect_fourth"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Hear why the part goes one note higher over so: with the chord of do under it, the third above so (ti) rubs, and do rings."},
+                            "headline": {"en": "Hear why the part goes one note higher over so: with the chord of do under it, the third above so (ti) rubs, and do rings.", "es": "Escucha por qué la voz sube una nota más sobre \"so\": con el acorde de \"do\" debajo, la tercera sobre \"so\" (\"ti\") roza, y \"do\" resuena."},
                             "steps": [
-                                {"title": {"en": "Over so"}, "detail": {"en": "Not ti, but do"}},
-                                {"title": {"en": "A fourth, not a third"}, "detail": {"en": "The next note in the chord"}},
-                                {"title": {"en": "Every so in the tune"}, "detail": {"en": "Row, boat, shore, jah"}}
+                                {"title": {"en": "Over so", "es": "Sobre \"so\""}, "detail": {"en": "Not ti, but do", "es": "No \"ti\", sino \"do\""}},
+                                {"title": {"en": "A fourth, not a third", "es": "Una cuarta, no una tercera"}, "detail": {"en": "The next note in the chord", "es": "La siguiente nota del acorde"}},
+                                {"title": {"en": "Every so in the tune", "es": "Cada \"so\" de la melodía"}, "detail": {"en": "Row, boat, shore, jah", "es": "Row, boat, shore, jah"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose the one that rubs."},
+                            "text": {"en": "Listen to each, then choose the one that rubs.", "es": "Escucha cada uno y elige el que roza."},
                             "exercise": {
                                 "tempo": 72,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Over so, which harmony rubs?"},
+                                        "prompt": {"en": "Over so, which harmony rubs?", "es": "Sobre \"so\", ¿qué armonía roza?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": 0}, {"beat": 0, "length": 3, "step": 4}],
@@ -418,10 +418,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "A puts ti over the chord of do: a seventh against do, and it rubs. B's do rings."}
+                                        "why": {"en": "A puts ti over the chord of do: a seventh against do, and it rubs. B's do rings.", "es": "A pone \"ti\" sobre el acorde de \"do\": una séptima contra \"do\", y roza. El \"do\" de B resuena."}
                                     },
                                     {
-                                        "prompt": {"en": "Over so, which harmony rubs?"},
+                                        "prompt": {"en": "Over so, which harmony rubs?", "es": "Sobre \"so\", ¿qué armonía roza?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": 0}, {"beat": 0, "length": 3, "step": 5}],
@@ -433,15 +433,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "B's ti rubs again. Over so, take do: a fourth up, in the chord."}
+                                        "why": {"en": "B's ti rubs again. Over so, take do: a fourth up, in the chord.", "es": "El \"ti\" de B vuelve a rozar. Sobre \"so\", canta \"do\": una cuarta arriba, dentro del acorde."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first line again, the part above: do over every so."},
+                            "text": {"en": "The first line again, the part above: do over every so.", "es": "Otra vez la primera frase, con la voz de arriba: \"do\" sobre cada \"so\"."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -483,33 +483,33 @@
                                     {"beat": 18.0, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your harmony's notes on pitch, every so answered with do."}
+                            "measures": {"en": "Scored on your harmony's notes on pitch, every so answered with do.", "es": "Se puntúa la afinación de tu armonía, con \"do\" sobre cada \"so\"."}
                         }
                     ]
                 },
                 {
                     "id": "imp-1-ear",
-                    "title": {"en": "Harmony or the tune?"},
+                    "title": {"en": "Harmony or the tune?", "es": "¿Armonía o melodía?"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A harmony makes chords with the tune; a copy just doubles it. Learn to hear the difference, then keep your part as the lights fade."},
+                            "headline": {"en": "A harmony makes chords with the tune; a copy just doubles it. Learn to hear the difference, then keep your part as the lights fade.", "es": "Una armonía forma acordes con la melodía; una copia solo la dobla. Aprende a oír la diferencia y luego mantén tu voz mientras las luces se van apagando."},
                             "steps": [
-                                {"title": {"en": "Listen first"}, "detail": {"en": "Harmony, or the same tune?"}},
-                                {"title": {"en": "Then sing the part above"}, "detail": {"en": "The whole verse"}},
-                                {"title": {"en": "The lights fade"}, "detail": {"en": "The second half is yours, by ear"}}
+                                {"title": {"en": "Listen first", "es": "Primero, escucha"}, "detail": {"en": "Harmony, or the same tune?", "es": "¿Armonía o la misma melodía?"}},
+                                {"title": {"en": "Then sing the part above", "es": "Luego canta la voz de arriba"}, "detail": {"en": "The whole verse", "es": "La estrofa entera"}},
+                                {"title": {"en": "The lights fade", "es": "Se apagan las luces"}, "detail": {"en": "The second half is yours, by ear", "es": "La segunda mitad es tuya, de oído"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, as often as you like, then choose."},
+                            "text": {"en": "Listen to each, as often as you like, then choose.", "es": "Escucha cada uno las veces que quieras y elige."},
                             "exercise": {
                                 "tempo": 92,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Is the second voice singing a harmony, or the same tune?"},
+                                        "prompt": {"en": "Is the second voice singing a harmony, or the same tune?", "es": "¿La segunda voz canta una armonía o la misma melodía?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -538,12 +538,12 @@
                                                 ]
                                             }
                                         ],
-                                        "options": [{"en": "A harmony"}, {"en": "The same tune"}],
+                                        "options": [{"en": "A harmony", "es": "Una armonía"}, {"en": "The same tune", "es": "La misma melodía"}],
                                         "answer": 0,
-                                        "why": {"en": "A harmony: the second voice moved with the tune but on its own notes, a chord tone above."}
+                                        "why": {"en": "A harmony: the second voice moved with the tune but on its own notes, a chord tone above.", "es": "Una armonía: la segunda voz se movió con la melodía, pero en sus propias notas, una nota del acorde por encima."}
                                     },
                                     {
-                                        "prompt": {"en": "Is the second voice singing a harmony, or the same tune?"},
+                                        "prompt": {"en": "Is the second voice singing a harmony, or the same tune?", "es": "¿La segunda voz canta una armonía o la misma melodía?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -572,12 +572,12 @@
                                                 ]
                                             }
                                         ],
-                                        "options": [{"en": "A harmony"}, {"en": "The same tune"}],
+                                        "options": [{"en": "A harmony", "es": "Una armonía"}, {"en": "The same tune", "es": "La misma melodía"}],
                                         "answer": 1,
-                                        "why": {"en": "The same tune, an octave up. It's fuller, but it isn't a harmony: every note is the tune's own."}
+                                        "why": {"en": "The same tune, an octave up. It's fuller, but it isn't a harmony: every note is the tune's own.", "es": "La misma melodía, una octava más arriba. Suena más llena, pero no es una armonía: todas las notas son las de la melodía."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one copied the tune?"},
+                                        "prompt": {"en": "Which one copied the tune?", "es": "¿Cuál copió la melodía?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -633,10 +633,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "B copied: the second voice sang the tune's own notes. A made chords."}
+                                        "why": {"en": "B copied: the second voice sang the tune's own notes. A made chords.", "es": "B copió: la segunda voz cantó las mismas notas de la melodía. A formó acordes."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one copied the tune?"},
+                                        "prompt": {"en": "Which one copied the tune?", "es": "¿Cuál copió la melodía?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -692,15 +692,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "A copied, an octave down: the same notes, so it adds no chords. B sang its own part below."}
+                                        "why": {"en": "A copied, an octave down: the same notes, so it adds no chords. B sang its own part below.", "es": "A copió, una octava más abajo: las mismas notas, así que no añade acordes. B cantó su propia voz por debajo."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The part above, the whole verse. Halfway through, the lights fade: keep going by ear."},
+                            "text": {"en": "The part above, the whole verse. Halfway through, the lights fade: keep going by ear.", "es": "La voz de arriba, la estrofa entera. A mitad, las luces se apagan: sigue de oído."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -774,22 +774,22 @@
                                     {"beat": 34.0, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your harmony's notes on pitch, the second half sung with only faint outlines to follow."}
+                            "measures": {"en": "Scored on your harmony's notes on pitch, the second half sung with only faint outlines to follow.", "es": "Se puntúa la afinación de tu armonía; la segunda mitad, con solo unos contornos tenues que seguir."}
                         }
                     ]
                 },
                 {
                     "id": "imp-1-challenge",
-                    "title": {"en": "A new tune"},
+                    "title": {"en": "A new tune", "es": "Otra melodía"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A tune you know less: Home on the Range's refrain. The same rule: the next chord tone up, a third over passing notes."},
+                            "headline": {"en": "A tune you know less: Home on the Range's refrain. The same rule: the next chord tone up, a third over passing notes.", "es": "Una melodía que conoces menos: el estribillo de Home on the Range. La misma regla: la siguiente nota del acorde hacia arriba, y una tercera sobre las notas de paso."},
                             "steps": [
-                                {"title": {"en": "Listen to the refrain"}, "detail": {"en": "Home, home on the range"}},
-                                {"title": {"en": "Lights where the chord changes"}, "detail": {"en": "Between them, by ear"}},
-                                {"title": {"en": "Light and easy"}, "detail": {"en": "Above a loud tune, go lighter, never louder"}}
+                                {"title": {"en": "Listen to the refrain", "es": "Escucha el estribillo"}, "detail": {"en": "Home, home on the range", "es": "Home, home on the range"}},
+                                {"title": {"en": "Lights where the chord changes", "es": "Luces donde cambia el acorde"}, "detail": {"en": "Between them, by ear", "es": "Entre ellas, de oído"}},
+                                {"title": {"en": "Light and easy", "es": "Ligero y cómodo"}, "detail": {"en": "Above a loud tune, go lighter, never louder", "es": "Sobre una melodía fuerte, más ligero, nunca más fuerte"}}
                             ],
                             "listen": {
                                 "tempo": 100,
@@ -892,7 +892,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The part above the refrain. The lights show only where the chord changes."},
+                            "text": {"en": "The part above the refrain. The lights show only where the chord changes.", "es": "La voz de arriba en el estribillo. Las luces solo aparecen donde cambia el acorde."},
                             "exercise": {
                                 "tempo": 100,
                                 "notes": [
@@ -991,29 +991,29 @@
                                     {"beat": 46.0, "root": 4, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your part's notes on pitch, most of them sung with no light to follow."}
+                            "measures": {"en": "Scored on your part's notes on pitch, most of them sung with no light to follow.", "es": "Se puntúa la afinación de tu voz, casi toda cantada sin luz que seguir."}
                         }
                     ],
-                    "fact": {"id": "home-on-the-range-kansas", "text": {"en": "Home on the Range began as a Kansas doctor's poem, printed in 1873, and became Kansas's state song in 1947."}, "source": {"en": "Kansapedia, Home on the Range"}, "url": "https://www.kansashistory.gov/kansapedia/home-on-the-range/17165"}
+                    "fact": {"id": "home-on-the-range-kansas", "text": {"en": "Home on the Range began as a Kansas doctor's poem, printed in 1873, and became Kansas's state song in 1947.", "es": "Home on the Range nació como el poema de un médico de Kansas, publicado en 1873, y en 1947 se convirtió en la canción oficial del estado de Kansas."}, "source": {"en": "Kansapedia, Home on the Range", "es": "Kansapedia, Home on the Range"}, "url": "https://www.kansashistory.gov/kansapedia/home-on-the-range/17165"}
                 }
             ]
         },
         {
             "id": "imp-below-and-holding",
-            "title": {"en": "Below, and holding on"},
+            "title": {"en": "Below, and holding on", "es": "Debajo, y sin soltar"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "imp-2-below",
-                    "title": {"en": "A part below"},
+                    "title": {"en": "A part below", "es": "Una voz abajo"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A third above, an octave down, is a sixth below. Under so, sing do, not ti: the same fix, upside down."},
+                            "headline": {"en": "A third above, an octave down, is a sixth below. Under so, sing do, not ti: the same fix, upside down.", "es": "Una tercera por encima, bajada una octava, es una sexta por debajo. Bajo \"so\", canta \"do\", no \"ti\": el mismo truco, del revés."},
                             "steps": [
-                                {"title": {"en": "The tune above you"}, "detail": {"en": "Michael, Row again"}},
-                                {"title": {"en": "Your part below"}, "detail": {"en": "The same notes as the part above, an octave down"}},
-                                {"title": {"en": "Every note lit"}, "detail": {"en": "Listen up to the tune"}}
+                                {"title": {"en": "The tune above you", "es": "La melodía, arriba"}, "detail": {"en": "Michael, Row again", "es": "Otra vez Michael, Row"}},
+                                {"title": {"en": "Your part below", "es": "Tu voz, abajo"}, "detail": {"en": "The same notes as the part above, an octave down", "es": "Las mismas notas que la voz de arriba, una octava más abajo"}},
+                                {"title": {"en": "Every note lit", "es": "Todas iluminadas"}, "detail": {"en": "Listen up to the tune", "es": "Escucha la melodía, arriba"}}
                             ],
                             "listen": {
                                 "tempo": 92,
@@ -1061,7 +1061,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The part below, the whole verse, while the guide sings the tune above you."},
+                            "text": {"en": "The part below, the whole verse, while the guide sings the tune above you.", "es": "La voz de abajo, la estrofa entera, mientras la guía canta la melodía por encima."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -1135,23 +1135,23 @@
                                     {"beat": 34.0, "root": 3, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your part's notes on pitch, under the tune."}
+                            "measures": {"en": "Scored on your part's notes on pitch, under the tune.", "es": "Se puntúa la afinación de tu voz bajo la melodía."}
                         }
                     ],
-                    "fact": {"id": "michael-row-1863", "text": {"en": "Michael, Row the Boat Ashore was written down in 1863 from freed people on St. Helena Island, South Carolina, and printed in 1867."}, "source": {"en": "Wikipedia, Michael, Row the Boat Ashore"}, "url": "https://en.wikipedia.org/wiki/Michael,_Row_the_Boat_Ashore"}
+                    "fact": {"id": "michael-row-1863", "text": {"en": "Michael, Row the Boat Ashore was written down in 1863 from freed people on St. Helena Island, South Carolina, and printed in 1867.", "es": "Michael, Row the Boat Ashore se transcribió en 1863 del canto de personas liberadas de la esclavitud en la isla de St. Helena, en Carolina del Sur, y se publicó en 1867."}, "source": {"en": "Wikipedia, Michael, Row the Boat Ashore", "es": "Wikipedia, Michael, Row the Boat Ashore"}, "url": "https://en.wikipedia.org/wiki/Michael,_Row_the_Boat_Ashore"}
                 },
                 {
                     "id": "imp-2-hold",
-                    "title": {"en": "Hold, then step off"},
-                    "fact": {"id": "small-steps-go-down", "text": {"en": "A 1989 study of a wide range of Western music found that small steps between notes mostly go down, while big leaps mostly go up."}, "source": {"en": "Vos and Troost, Music Perception (1989)"}, "url": "https://doi.org/10.2307/40285439"},
+                    "title": {"en": "Hold, then step off", "es": "Sostén y luego baja"},
+                    "fact": {"id": "small-steps-go-down", "text": {"en": "A 1989 study of a wide range of Western music found that small steps between notes mostly go down, while big leaps mostly go up.", "es": "Un estudio de 1989 sobre una gran variedad de música occidental encontró que los intervalos pequeños suelen ir hacia abajo, y los saltos grandes, hacia arriba."}, "source": {"en": "Vos and Troost, Music Perception (1989)", "es": "Vos y Troost, Music Perception (1989)"}, "url": "https://doi.org/10.2307/40285439"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lost? Hold your note until it rubs, then step. A rub usually steps, most often down: over the chord of so, do steps to ti."},
+                            "headline": {"en": "Lost? Hold your note until it rubs, then step. A rub usually steps, most often down: over the chord of so, do steps to ti.", "es": "¿Te pierdes? Sostén tu nota hasta que roce y luego muévete un grado. Un roce suele resolver por grado, casi siempre hacia abajo: sobre el acorde de \"so\", \"do\" baja a \"ti\"."},
                             "steps": [
-                                {"title": {"en": "Hold do"}, "detail": {"en": "Under Michael's second line"}},
-                                {"title": {"en": "When it rubs"}, "detail": {"en": "The chord changes to so: step down to ti"}},
-                                {"title": {"en": "Then home"}, "detail": {"en": "Back to do when the chord comes home"}}
+                                {"title": {"en": "Hold do", "es": "Sostén \"do\""}, "detail": {"en": "Under Michael's second line", "es": "Bajo la segunda frase de Michael"}},
+                                {"title": {"en": "When it rubs", "es": "Cuando roce"}, "detail": {"en": "The chord changes to so: step down to ti", "es": "El acorde cambia a \"so\": baja a \"ti\""}},
+                                {"title": {"en": "Then home", "es": "Y vuelve"}, "detail": {"en": "Back to do when the chord comes home", "es": "A \"do\" cuando el acorde vuelve a la tónica"}}
                             ],
                             "listen": {
                                 "tempo": 92,
@@ -1197,7 +1197,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hold do under the tune; where the chord changes and it rubs, step to ti, then back home."},
+                            "text": {"en": "Hold do under the tune; where the chord changes and it rubs, step to ti, then back home.", "es": "Sostén \"do\" bajo la melodía; donde cambia el acorde y roza, baja a \"ti\" y luego vuelve a \"do\"."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -1238,28 +1238,28 @@
                                     {"beat": 18.0, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your held notes on pitch, and the step to ti where the chord changed."}
+                            "measures": {"en": "Scored on your held notes on pitch, and the step to ti where the chord changed.", "es": "Se puntúa la afinación de tus notas largas y el paso a \"ti\" donde cambió el acorde."}
                         }
                     ]
                 },
                 {
                     "id": "imp-2-echo",
-                    "title": {"en": "Answer in harmony"},
+                    "title": {"en": "Answer in harmony", "es": "Responde en armonía"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Hear a line once, then harmonise it as it comes round again: the first step to harmonising a tune you've never heard."},
+                            "headline": {"en": "Hear a line once, then harmonise it as it comes round again: the first step to harmonising a tune you've never heard.", "es": "Escucha una frase una vez y armonízala cuando vuelva a sonar: el primer paso para armonizar una melodía que nunca has oído."},
                             "steps": [
-                                {"title": {"en": "Listen"}, "detail": {"en": "The guide sings a line"}},
-                                {"title": {"en": "Then harmonise"}, "detail": {"en": "The line again, you above it"}},
-                                {"title": {"en": "The next chord tone up"}, "detail": {"en": "Lit for you, as before"}}
+                                {"title": {"en": "Listen", "es": "Escucha"}, "detail": {"en": "The guide sings a line", "es": "La guía canta una frase"}},
+                                {"title": {"en": "Then harmonise", "es": "Luego, armoniza"}, "detail": {"en": "The line again, you above it", "es": "La frase otra vez, tú por encima"}},
+                                {"title": {"en": "The next chord tone up", "es": "La nota del acorde justo encima"}, "detail": {"en": "Lit for you, as before", "es": "Iluminada, como antes"}}
                             ],
                             "visual": "echo",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear the line; then the guide sings it again and you sing the part above."},
+                            "text": {"en": "Hear the line; then the guide sings it again and you sing the part above.", "es": "Escucha la frase; luego la guía la vuelve a cantar y tú cantas la voz de arriba."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -1317,7 +1317,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The second line: hear it, then harmonise it as it comes round again."},
+                            "text": {"en": "The second line: hear it, then harmonise it as it comes round again.", "es": "La segunda frase: escúchala y armonízala cuando vuelva a sonar."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -1378,22 +1378,22 @@
                                     {"beat": 31.0, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your part's notes on pitch as the line came round again."}
+                            "measures": {"en": "Scored on your part's notes on pitch as the line came round again.", "es": "Se puntúa la afinación de tu voz cuando la frase volvió a sonar."}
                         }
                     ]
                 },
                 {
                     "id": "imp-2-challenge",
-                    "title": {"en": "Under and over"},
+                    "title": {"en": "Under and over", "es": "Debajo y encima"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Steal Away, the spiritual's refrain: once with your part below the tune, then once above it."},
+                            "headline": {"en": "Steal Away, the spiritual's refrain: once with your part below the tune, then once above it.", "es": "Steal Away, el estribillo del espiritual: una vez con tu voz por debajo de la melodía y otra por encima."},
                             "steps": [
-                                {"title": {"en": "First, below"}, "detail": {"en": "Your part under the tune"}},
-                                {"title": {"en": "Then, above"}, "detail": {"en": "The same notes; now the tune is under you"}},
-                                {"title": {"en": "Lost?"}, "detail": {"en": "Hold your note until it rubs, then step"}}
+                                {"title": {"en": "First, below", "es": "Primero, debajo"}, "detail": {"en": "Your part under the tune", "es": "Tu voz bajo la melodía"}},
+                                {"title": {"en": "Then, above", "es": "Luego, encima"}, "detail": {"en": "The same notes; now the tune is under you", "es": "Las mismas notas; ahora la melodía va debajo"}},
+                                {"title": {"en": "Lost?", "es": "¿Te pierdes?"}, "detail": {"en": "Hold your note until it rubs, then step", "es": "Sostén tu nota hasta que roce y luego muévete un grado"}}
                             ],
                             "listen": {
                                 "tempo": 66,
@@ -1449,7 +1449,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The refrain, your part below the tune."},
+                            "text": {"en": "The refrain, your part below the tune.", "es": "El estribillo, con tu voz por debajo de la melodía."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -1535,7 +1535,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Again, your part above the tune."},
+                            "text": {"en": "Again, your part above the tune.", "es": "Otra vez, con tu voz por encima de la melodía."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -1618,94 +1618,94 @@
                                     {"beat": 33.0, "root": 2, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your part above on pitch. Could you hear the tune under you?"}
+                            "measures": {"en": "Scored on your part above on pitch. Could you hear the tune under you?", "es": "Se puntúa la afinación de tu voz de arriba. ¿Oías la melodía por debajo?"}
                         }
                     ],
-                    "fact": {"id": "steal-away-choctaw", "text": {"en": "Steal Away was sung at a Choctaw Nation school in Indian Territory, in today's Oklahoma."}, "source": {"en": "Wikipedia, Steal Away"}, "url": "https://en.wikipedia.org/wiki/Steal_Away"}
+                    "fact": {"id": "steal-away-choctaw", "text": {"en": "Steal Away was sung at a Choctaw Nation school in Indian Territory, in today's Oklahoma.", "es": "Steal Away se cantaba en una escuela de la Nación Choctaw en el Territorio Indio, en la actual Oklahoma."}, "source": {"en": "Wikipedia, Steal Away", "es": "Wikipedia, Steal Away"}, "url": "https://en.wikipedia.org/wiki/Steal_Away"}
                 }
             ]
         },
         {
             "id": "imp-any-chord-tone",
-            "title": {"en": "Any chord tone"},
+            "title": {"en": "Any chord tone", "es": "Notas del acorde"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "imp-3-chord",
-                    "title": {"en": "Sing the chord"},
+                    "title": {"en": "Sing the chord", "es": "Canta el acorde"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A basic chord, a triad, has three notes, and any of them is a harmony, except the tune's own."},
+                            "headline": {"en": "A basic chord, a triad, has three notes, and any of them is a harmony, except the tune's own.", "es": "Un acorde básico, una tríada, tiene tres notas, y cualquiera de ellas es una armonía, menos la de la melodía."},
                             "steps": [
-                                {"title": {"en": "Sing each chord"}, "detail": {"en": "Its three notes, up and back"}},
-                                {"title": {"en": "Then choose"}, "detail": {"en": "One long note to each chord"}},
-                                {"title": {"en": "Every lit note works"}, "detail": {"en": "The tune's own note never lights"}}
+                                {"title": {"en": "Sing each chord", "es": "Canta cada acorde"}, "detail": {"en": "Its three notes, up and back", "es": "Sus tres notas, subiendo y bajando"}},
+                                {"title": {"en": "Then choose", "es": "Luego elige"}, "detail": {"en": "One long note to each chord", "es": "Una nota larga por acorde"}},
+                                {"title": {"en": "Every lit note works", "es": "Cualquier nota iluminada vale"}, "detail": {"en": "The tune's own note never lights", "es": "La nota de la melodía nunca se ilumina"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "First, ears only: in the chord, or not?"},
+                            "text": {"en": "First, ears only: in the chord, or not?", "es": "Primero, solo escuchar: ¿está en el acorde o no?"},
                             "exercise": {
                                 "tempo": 72,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "prompt": {"en": "Over this chord, is the held note in it?", "es": "¿La nota larga forma parte de este acorde?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": -3}],
                                                 "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
                                             }
                                         ],
-                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "options": [{"en": "In the chord", "es": "En el acorde"}, {"en": "It clashes", "es": "Choca"}],
                                         "answer": 0,
-                                        "why": {"en": "Mi over the chord of do: in it, so it rings."}
+                                        "why": {"en": "Mi over the chord of do: in it, so it rings.", "es": "\"mi\" sobre el acorde de \"do\": está en él, así que resuena."}
                                     },
                                     {
-                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "prompt": {"en": "Over this chord, is the held note in it?", "es": "¿La nota larga forma parte de este acorde?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": -2}],
                                                 "chords": [{"beat": 0, "root": 5, "quality": "maj", "bass": null}]
                                             }
                                         ],
-                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "options": [{"en": "In the chord", "es": "En el acorde"}, {"en": "It clashes", "es": "Choca"}],
                                         "answer": 1,
-                                        "why": {"en": "Fa over the chord of do: a half step from mi, and it rubs."}
+                                        "why": {"en": "Fa over the chord of do: a half step from mi, and it rubs.", "es": "\"fa\" sobre el acorde de \"do\": a un semitono de \"mi\", y roza."}
                                     },
                                     {
-                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "prompt": {"en": "Over this chord, is the held note in it?", "es": "¿La nota larga forma parte de este acorde?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": 2}],
                                                 "chords": [{"beat": 0, "root": 10, "quality": "maj", "bass": null}]
                                             }
                                         ],
-                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "options": [{"en": "In the chord", "es": "En el acorde"}, {"en": "It clashes", "es": "Choca"}],
                                         "answer": 0,
-                                        "why": {"en": "La over the chord of fa: its third, in it."}
+                                        "why": {"en": "La over the chord of fa: its third, in it.", "es": "\"la\" sobre el acorde de \"fa\": es su tercera, está en él."}
                                     },
                                     {
-                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "prompt": {"en": "Over this chord, is the held note in it?", "es": "¿La nota larga forma parte de este acorde?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": -7}],
                                                 "chords": [{"beat": 0, "root": 0, "quality": "dom7", "bass": null}]
                                             }
                                         ],
-                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "options": [{"en": "In the chord", "es": "En el acorde"}, {"en": "It clashes", "es": "Choca"}],
                                         "answer": 1,
-                                        "why": {"en": "Do over the chord of so: not in it, and it wants to step down to ti."}
+                                        "why": {"en": "Do over the chord of so: not in it, and it wants to step down to ti.", "es": "\"do\" sobre el acorde de \"so\": no está en él, y quiere bajar a \"ti\"."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Sing each chord's notes, up and back, over its chord."},
+                            "text": {"en": "Sing each chord's notes, up and back, over its chord.", "es": "Canta las notas de cada acorde, subiendo y bajando, sobre su acorde."},
                             "exercise": {
                                 "tempo": 84,
                                 "notes": [
@@ -1743,7 +1743,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "One long note to each chord: any lit note, under or over the tune."},
+                            "text": {"en": "One long note to each chord: any lit note, under or over the tune.", "es": "Una nota larga por acorde: cualquier nota iluminada, por debajo o por encima de la melodía."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -1810,29 +1810,29 @@
                                     {"beat": 18.0, "root": 5, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on landing on a lit note at each chord, held while the tune moves."}
+                            "measures": {"en": "Scored on landing on a lit note at each chord, held while the tune moves.", "es": "Se puntúa que caigas en una nota iluminada en cada acorde y la sostengas mientras la melodía se mueve."}
                         }
                     ],
-                    "fact": {"id": "barbershop-four-parts", "text": {"en": "In barbershop the lead sings the tune, the tenor above it, the bass below, and the baritone fills in the chord."}, "source": {"en": "Barbershop Harmony Society, About our music"}, "url": "https://barbershop.org/music/about-our-music"}
+                    "fact": {"id": "barbershop-four-parts", "text": {"en": "In barbershop the lead sings the tune, the tenor above it, the bass below, and the baritone fills in the chord.", "es": "En el barbershop, el lead canta la melodía, el tenor va por encima, el bajo por debajo, y el barítono completa el acorde."}, "source": {"en": "Barbershop Harmony Society, About our music", "es": "Barbershop Harmony Society, About our music"}, "url": "https://barbershop.org/music/about-our-music"}
                 },
                 {
                     "id": "imp-3-two-ways",
-                    "title": {"en": "Close, then against"},
+                    "title": {"en": "Close, then against", "es": "Cerca, luego en contra"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Two ways to make a part your own: barely move, or move against the tune."},
+                            "headline": {"en": "Two ways to make a part your own: barely move, or move against the tune.", "es": "Dos formas de hacer tuya una voz: moverte apenas, o moverte en contra de la melodía."},
                             "steps": [
-                                {"title": {"en": "Take 1: stay close"}, "detail": {"en": "Hold, or move to the nearest lit note"}},
-                                {"title": {"en": "Take 2: move against it"}, "detail": {"en": "When the tune climbs, fall"}},
-                                {"title": {"en": "Compare them"}, "detail": {"en": "Hear both together"}}
+                                {"title": {"en": "Take 1: stay close", "es": "Toma 1: quédate cerca"}, "detail": {"en": "Hold, or move to the nearest lit note", "es": "Sostén, o pasa a la nota iluminada más cercana"}},
+                                {"title": {"en": "Take 2: move against it", "es": "Toma 2: muévete en contra"}, "detail": {"en": "When the tune climbs, fall", "es": "Si la melodía sube, tú bajas"}},
+                                {"title": {"en": "Compare them", "es": "Compáralas"}, "detail": {"en": "Hear both together", "es": "Escucha las dos juntas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Take 1: any lit note, moving as little as you can: hold, or take the nearest."},
+                            "text": {"en": "Take 1: any lit note, moving as little as you can: hold, or take the nearest.", "es": "Toma 1: cualquier nota iluminada, moviéndote lo menos posible: sostén, o ve a la más cercana."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -2046,11 +2046,11 @@
                                 "score": "species",
                                 "rules": "close"
                             },
-                            "measures": {"en": "Scored on landing on lit notes; the top score needs four moves in five to be a step or a third, and some real moving: not one held note."}
+                            "measures": {"en": "Scored on landing on lit notes; the top score needs four moves in five to be a step or a third, and some real moving: not one held note.", "es": "Se puntúa que caigas en notas iluminadas; la puntuación máxima pide que cuatro de cada cinco movimientos sean de un grado o una tercera, y que te muevas de verdad: no una sola nota sostenida."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Take 2: any lit note, moving against the tune."},
+                            "text": {"en": "Take 2: any lit note, moving against the tune.", "es": "Toma 2: cualquier nota iluminada, moviéndote en contra de la melodía."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -2264,22 +2264,22 @@
                                 "score": "species",
                                 "rules": "against"
                             },
-                            "measures": {"en": "Scored on landing on lit notes; the top score needs half your moves, of the ones that move, against the tune."}
+                            "measures": {"en": "Scored on landing on lit notes; the top score needs half your moves, of the ones that move, against the tune.", "es": "Se puntúa que caigas en notas iluminadas; la puntuación máxima pide que la mitad de los movimientos en que cambias de nota vayan en contra de la melodía."}
                         }
                     ]
                 },
                 {
                     "id": "imp-3-challenge",
-                    "title": {"en": "Your harmony"},
+                    "title": {"en": "Your harmony", "es": "Tu armonía"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Swing Low, Sweet Chariot's chorus, your own harmony: any lit note, the tune's own never."},
+                            "headline": {"en": "Swing Low, Sweet Chariot's chorus, your own harmony: any lit note, the tune's own never.", "es": "El estribillo de Swing Low, Sweet Chariot, con tu propia armonía: cualquier nota iluminada, nunca la de la melodía."},
                             "steps": [
-                                {"title": {"en": "Every chord tone lights"}, "detail": {"en": "Choose as you go"}},
-                                {"title": {"en": "Stay close"}, "detail": {"en": "Small moves make a part easy to sing"}},
-                                {"title": {"en": "Listen"}, "detail": {"en": "Hear it together afterwards"}}
+                                {"title": {"en": "Every chord tone lights", "es": "Se ilumina todo el acorde"}, "detail": {"en": "Choose as you go", "es": "Elige sobre la marcha"}},
+                                {"title": {"en": "Stay close", "es": "Quédate cerca"}, "detail": {"en": "Small moves make a part easy to sing", "es": "Con movimientos pequeños, la voz se canta fácil"}},
+                                {"title": {"en": "Listen", "es": "Escucha"}, "detail": {"en": "Hear it together afterwards", "es": "Después, escúchalo todo junto"}}
                             ],
                             "listen": {
                                 "tempo": 76,
@@ -2338,7 +2338,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The chorus: at each note, any lit note. Make your own harmony."},
+                            "text": {"en": "The chorus: at each note, any lit note. Make your own harmony.", "es": "El estribillo: en cada nota, cualquier nota iluminada. Crea tu propia armonía."},
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -2617,30 +2617,30 @@
                                 "score": "species",
                                 "rules": "close"
                             },
-                            "measures": {"en": "Scored on landing on lit notes, and the top score needs four moves in five to be a step or a third."}
+                            "measures": {"en": "Scored on landing on lit notes, and the top score needs four moves in five to be a step or a third.", "es": "Se puntúa que caigas en notas iluminadas, y la puntuación máxima pide que cuatro de cada cinco movimientos sean de un grado o una tercera."}
                         }
                     ],
-                    "fact": {"id": "sacred-harp-tenor-tune", "text": {"en": "In shape-note singing from The Sacred Harp (1844), the tune is in the tenor, with parts sung above and below it."}, "source": {"en": "New Georgia Encyclopedia, Sacred Harp"}, "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/sacred-harp/"}
+                    "fact": {"id": "sacred-harp-tenor-tune", "text": {"en": "In shape-note singing from The Sacred Harp (1844), the tune is in the tenor, with parts sung above and below it.", "es": "En el canto con notas de formas (shape-note) de The Sacred Harp (1844), la melodía va en el tenor, con voces por encima y por debajo."}, "source": {"en": "New Georgia Encyclopedia, Sacred Harp", "es": "New Georgia Encyclopedia, Sacred Harp"}, "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/sacred-harp/"}
                 }
             ]
         },
         {
             "id": "imp-no-lights",
-            "title": {"en": "No lights"},
+            "title": {"en": "No lights", "es": "Sin luces"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "imp-4-hints",
-                    "title": {"en": "Lights when you need them"},
-                    "fact": {"id": "less-feedback-sticks", "text": {"en": "In a 1990 study, people learning a movement skill who got feedback on only half their practice tries kept the skill better than those told every time, though their practice went worse."}, "source": {"en": "Winstein and Schmidt, J. Exp. Psychol. Learn. Mem. Cogn. (1990), as reported in Reid and Swafford, Frontiers in Psychology (2020)"}, "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00846/full"},
+                    "title": {"en": "Lights when you need them", "es": "Luces cuando las necesites"},
+                    "fact": {"id": "less-feedback-sticks", "text": {"en": "In a 1990 study, people learning a movement skill who got feedback on only half their practice tries kept the skill better than those told every time, though their practice went worse.", "es": "En un estudio de 1990, quienes aprendían una habilidad motora y recibían correcciones solo en la mitad de sus intentos la retuvieron mejor que quienes las recibían siempre, aunque al practicar les fue peor."}, "source": {"en": "Winstein and Schmidt, J. Exp. Psychol. Learn. Mem. Cogn. (1990), as reported in Reid and Swafford, Frontiers in Psychology (2020)", "es": "Winstein y Schmidt, J. Exp. Psychol. Learn. Mem. Cogn. (1990), según Reid y Swafford, Frontiers in Psychology (2020)"}, "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00846/full"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Fewer lights: a note shows only once you've been off it for a beat. Find it by ear first."},
+                            "headline": {"en": "Fewer lights: a note shows only once you've been off it for a beat. Find it by ear first.", "es": "Menos luces: una nota solo se ilumina cuando llevas un pulso entero fuera de ella. Búscala primero de oído."},
                             "steps": [
-                                {"title": {"en": "Listen to the verse"}, "detail": {"en": "Steal Away's verse, with its chords"}},
-                                {"title": {"en": "Lost?"}, "detail": {"en": "Hold your note until it rubs, then step"}},
-                                {"title": {"en": "A light comes late"}, "detail": {"en": "Only if you need it"}}
+                                {"title": {"en": "Listen to the verse", "es": "Escucha la estrofa"}, "detail": {"en": "Steal Away's verse, with its chords", "es": "La estrofa de Steal Away, con sus acordes"}},
+                                {"title": {"en": "Lost?", "es": "¿Te pierdes?"}, "detail": {"en": "Hold your note until it rubs, then step", "es": "Sostén tu nota hasta que roce y luego muévete un grado"}},
+                                {"title": {"en": "A light comes late", "es": "La luz llega tarde"}, "detail": {"en": "Only if you need it", "es": "Solo si la necesitas"}}
                             ],
                             "listen": {
                                 "tempo": 66,
@@ -2700,65 +2700,65 @@
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Ears only: in the chord, or not?"},
+                            "text": {"en": "Ears only: in the chord, or not?", "es": "Solo escuchar: ¿está en el acorde o no?"},
                             "exercise": {
                                 "tempo": 72,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "prompt": {"en": "Over this chord, is the held note in it?", "es": "¿La nota larga forma parte de este acorde?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": -1}],
                                                 "chords": [{"beat": 0, "root": 1, "quality": "dom7", "bass": null}]
                                             }
                                         ],
-                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "options": [{"en": "In the chord", "es": "En el acorde"}, {"en": "It clashes", "es": "Choca"}],
                                         "answer": 0,
-                                        "why": {"en": "Fa over the chord of so with its seventh: fa is that seventh, so it belongs, leaning toward mi."}
+                                        "why": {"en": "Fa over the chord of so with its seventh: fa is that seventh, so it belongs, leaning toward mi.", "es": "\"fa\" sobre el acorde de \"so\" con séptima: \"fa\" es esa séptima, así que forma parte de él, y tira hacia \"mi\"."}
                                     },
                                     {
-                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "prompt": {"en": "Over this chord, is the held note in it?", "es": "¿La nota larga forma parte de este acorde?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": 3}],
                                                 "chords": [{"beat": 0, "root": 1, "quality": "dom7", "bass": null}]
                                             }
                                         ],
-                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "options": [{"en": "In the chord", "es": "En el acorde"}, {"en": "It clashes", "es": "Choca"}],
                                         "answer": 1,
-                                        "why": {"en": "La over the chord of so: a step above so, and it rubs."}
+                                        "why": {"en": "La over the chord of so: a step above so, and it rubs.", "es": "\"la\" sobre el acorde de \"so\": un grado por encima de \"so\", y roza."}
                                     },
                                     {
-                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "prompt": {"en": "Over this chord, is the held note in it?", "es": "¿La nota larga forma parte de este acorde?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": 1}],
                                                 "chords": [{"beat": 0, "root": 6, "quality": "maj", "bass": null}]
                                             }
                                         ],
-                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "options": [{"en": "In the chord", "es": "En el acorde"}, {"en": "It clashes", "es": "Choca"}],
                                         "answer": 0,
-                                        "why": {"en": "So over the chord of do: its fifth, open and in."}
+                                        "why": {"en": "So over the chord of do: its fifth, open and in.", "es": "\"so\" sobre el acorde de \"do\": es su quinta, abierta y dentro."}
                                     },
                                     {
-                                        "prompt": {"en": "Over this chord, is the held note in it?"},
+                                        "prompt": {"en": "Over this chord, is the held note in it?", "es": "¿La nota larga forma parte de este acorde?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": -4}],
                                                 "chords": [{"beat": 0, "root": 11, "quality": "maj", "bass": null}]
                                             }
                                         ],
-                                        "options": [{"en": "In the chord"}, {"en": "It clashes"}],
+                                        "options": [{"en": "In the chord", "es": "En el acorde"}, {"en": "It clashes", "es": "Choca"}],
                                         "answer": 1,
-                                        "why": {"en": "Re over the chord of fa: a step from do, and it rubs."}
+                                        "why": {"en": "Re over the chord of fa: a step from do, and it rubs.", "es": "\"re\" sobre el acorde de \"fa\": a un grado de \"do\", y roza."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Steal Away's verse, any chord tone; a light shows only once you've been off for a beat."},
+                            "text": {"en": "Steal Away's verse, any chord tone; a light shows only once you've been off for a beat.", "es": "La estrofa de Steal Away, cualquier nota del acorde; una luz solo aparece cuando llevas un pulso fuera de la nota."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -3011,22 +3011,22 @@
                                 "score": "species",
                                 "rules": "close"
                             },
-                            "measures": {"en": "Scored on your notes landing in the chord, most of them before any light showed, and the top score needs small moves, a step or a third, and some real moving."}
+                            "measures": {"en": "Scored on your notes landing in the chord, most of them before any light showed, and the top score needs small moves, a step or a third, and some real moving.", "es": "Se puntúa que tus notas caigan en el acorde, la mayoría antes de que aparezca ninguna luz; la puntuación máxima pide movimientos pequeños, de un grado o una tercera, y moverte de verdad."}
                         }
                     ]
                 },
                 {
                     "id": "imp-4-free",
-                    "title": {"en": "Lights off"},
-                    "fact": {"id": "singing-upon-the-book", "text": {"en": "In the 1400s, many musicians thought of counterpoint as something improvised, \"singing upon the book\": one singer sang a written melody while the others made up parts to fit it as they went."}, "source": {"en": "Broude, Textual Cultures (2020)"}, "url": "https://scholarworks.iu.edu/journals/index.php/textual/article/view/30071"},
+                    "title": {"en": "Lights off", "es": "A oscuras"},
+                    "fact": {"id": "singing-upon-the-book", "text": {"en": "In the 1400s, many musicians thought of counterpoint as something improvised, \"singing upon the book\": one singer sang a written melody while the others made up parts to fit it as they went.", "es": "En el siglo XV, muchos músicos entendían el contrapunto como algo improvisado, \"cantar sobre el libro\": un cantante cantaba una melodía escrita mientras los demás inventaban voces que encajaran, sobre la marcha."}, "source": {"en": "Broude, Textual Cultures (2020)", "es": "Broude, Textual Cultures (2020)"}, "url": "https://scholarworks.iu.edu/journals/index.php/textual/article/view/30071"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "No lights at all. The chords sound under you: any note in the chord, except the tune's own, is a harmony."},
+                            "headline": {"en": "No lights at all. The chords sound under you: any note in the chord, except the tune's own, is a harmony.", "es": "Ninguna luz. Los acordes suenan por debajo: cualquier nota del acorde, menos la de la melodía, es una armonía."},
                             "steps": [
-                                {"title": {"en": "Listen to the chords"}, "detail": {"en": "They tell you where you are"}},
-                                {"title": {"en": "Lost?"}, "detail": {"en": "Hold a note until it rubs, then step"}},
-                                {"title": {"en": "Afterwards"}, "detail": {"en": "Hear what you made"}}
+                                {"title": {"en": "Listen to the chords", "es": "Escucha los acordes"}, "detail": {"en": "They tell you where you are", "es": "Te dicen dónde estás"}},
+                                {"title": {"en": "Lost?", "es": "¿Te pierdes?"}, "detail": {"en": "Hold a note until it rubs, then step", "es": "Sostén una nota hasta que roce y luego muévete un grado"}},
+                                {"title": {"en": "Afterwards", "es": "Después"}, "detail": {"en": "Hear what you made", "es": "Escucha lo que has creado"}}
                             ],
                             "listen": {
                                 "tempo": 92,
@@ -3076,7 +3076,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Michael, Row, lights off. Sing a harmony by ear."},
+                            "text": {"en": "Michael, Row, lights off. Sing a harmony by ear.", "es": "Michael, Row, a oscuras. Canta una armonía de oído."},
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -3291,21 +3291,21 @@
                                 "score": "species",
                                 "rules": "close"
                             },
-                            "measures": {"en": "Scored on your notes landing in the chord, by ear, and the top score needs small moves, a step or a third, and some real moving."}
+                            "measures": {"en": "Scored on your notes landing in the chord, by ear, and the top score needs small moves, a step or a third, and some real moving.", "es": "Se puntúa que tus notas caigan en el acorde, de oído; la puntuación máxima pide movimientos pequeños, de un grado o una tercera, y moverte de verdad."}
                         }
                     ]
                 },
                 {
                     "id": "imp-4-high",
-                    "title": {"en": "The tenor above"},
+                    "title": {"en": "The tenor above", "es": "El tenor, arriba"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The tenor, a part above the lead, is part of bluegrass's high lonesome sound. Light and easy, never the pressed edge."},
+                            "headline": {"en": "The tenor, a part above the lead, is part of bluegrass's high lonesome sound. Light and easy, never the pressed edge.", "es": "El tenor, una voz por encima de la principal, es parte del \"high lonesome sound\" del bluegrass, ese sonido agudo y solitario. Ligero y cómodo, nunca con la voz apretada."},
                             "steps": [
-                                {"title": {"en": "Above the tune"}, "detail": {"en": "Every lit note is higher than the tune's"}},
-                                {"title": {"en": "Hear it first"}, "detail": {"en": "Simple Gifts, then lights off"}},
-                                {"title": {"en": "Light and easy"}, "detail": {"en": "Never pushed; stop if anything tightens"}}
+                                {"title": {"en": "Above the tune", "es": "Sobre la melodía"}, "detail": {"en": "Every lit note is higher than the tune's", "es": "Cada nota iluminada está por encima de la melodía"}},
+                                {"title": {"en": "Hear it first", "es": "Primero, escucha"}, "detail": {"en": "Simple Gifts, then lights off", "es": "Simple Gifts, luego a oscuras"}},
+                                {"title": {"en": "Light and easy", "es": "Ligero y cómodo"}, "detail": {"en": "Never pushed; stop if anything tightens", "es": "Sin forzar nunca; si algo se tensa, para"}}
                             ],
                             "listen": {
                                 "tempo": 84,
@@ -3376,7 +3376,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Simple Gifts: a part above the tune, lights off."},
+                            "text": {"en": "Simple Gifts: a part above the tune, lights off.", "es": "Simple Gifts: una voz por encima de la melodía, a oscuras."},
                             "exercise": {
                                 "tempo": 84,
                                 "notes": [
@@ -3736,30 +3736,30 @@
                                     {"beat": 36, "root": 6, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on landing on the chord tone just above the tune, by ear."}
+                            "measures": {"en": "Scored on landing on the chord tone just above the tune, by ear.", "es": "Se puntúa que caigas, de oído, en la nota del acorde justo por encima de la melodía."}
                         }
                     ],
-                    "fact": {"id": "monroe-high-tenor", "text": {"en": "Bluegrass is named after Bill Monroe's Blue Grass Boys, and Monroe often sang the high tenor above the lead."}, "source": {"en": "Wikipedia, Bill Monroe"}, "url": "https://en.wikipedia.org/wiki/Bill_Monroe"}
+                    "fact": {"id": "monroe-high-tenor", "text": {"en": "Bluegrass is named after Bill Monroe's Blue Grass Boys, and Monroe often sang the high tenor above the lead.", "es": "El bluegrass debe su nombre a los Blue Grass Boys de Bill Monroe, y Monroe solía cantar el tenor agudo por encima de la voz principal."}, "source": {"en": "Wikipedia, Bill Monroe", "es": "Wikipedia, Bill Monroe"}, "url": "https://en.wikipedia.org/wiki/Bill_Monroe"}
                 },
                 {
                     "id": "imp-4-challenge",
-                    "title": {"en": "A trio of you"},
+                    "title": {"en": "A trio of you", "es": "Tu propio trío"},
                     "challenge": true,
                     "keepSong": {
-                        "title": {"en": "Red River Valley, a trio of me"},
-                        "takes": [{"step": 2, "name": {"en": "My harmony"}}, {"step": 3, "name": {"en": "My bass"}}],
+                        "title": {"en": "Red River Valley, a trio of me", "es": "Red River Valley, mi propio trío"},
+                        "takes": [{"step": 2, "name": {"en": "My harmony", "es": "Mi armonía"}}, {"step": 3, "name": {"en": "My bass", "es": "Mi bajo"}}],
                         "from": 3,
-                        "partners": [{"en": "The tune"}],
-                        "chords": {"en": "Chords"}
+                        "partners": [{"en": "The tune", "es": "La melodía"}],
+                        "chords": {"en": "Chords", "es": "Acordes"}
                     },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Red River Valley, a tune new to this course. Hear it once; then harmonise it by ear, again, and then a part under your own."},
+                            "headline": {"en": "Red River Valley, a tune new to this course. Hear it once; then harmonise it by ear, again, and then a part under your own.", "es": "Red River Valley, una melodía nueva en este curso. Escúchala una vez; luego armonízala de oído dos veces, y después canta una voz bajo la tuya."},
                             "steps": [
-                                {"title": {"en": "Hear it once"}, "detail": {"en": "Just the tune"}},
-                                {"title": {"en": "Harmonise it twice"}, "detail": {"en": "Lights off; the second time you know it"}},
-                                {"title": {"en": "Then a bass under yourself"}, "detail": {"en": "Roots and fifths: three of you"}}
+                                {"title": {"en": "Hear it once", "es": "Óyela una vez"}, "detail": {"en": "Just the tune", "es": "Solo la melodía"}},
+                                {"title": {"en": "Harmonise it twice", "es": "Armonízala dos veces"}, "detail": {"en": "Lights off; the second time you know it", "es": "A oscuras; la segunda vez ya te la sabes"}},
+                                {"title": {"en": "Then a bass under yourself", "es": "Luego, tu propio bajo"}, "detail": {"en": "Roots and fifths: three of you", "es": "Fundamentales y quintas: tu propio trío"}}
                             ],
                             "listen": {
                                 "tempo": 90,
@@ -3825,7 +3825,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "First listen: a harmony by ear, lights off."},
+                            "text": {"en": "First listen: a harmony by ear, lights off.", "es": "Tras oírla una vez: una armonía de oído, a oscuras."},
                             "exercise": {
                                 "tempo": 90,
                                 "notes": [
@@ -4162,7 +4162,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Again: now you know the tune."},
+                            "text": {"en": "Again: now you know the tune.", "es": "Otra vez: ahora ya conoces la melodía."},
                             "exercise": {
                                 "thenAndNow": "improvising.first-harmony",
                                 "tempo": 90,
@@ -4500,7 +4500,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Last: a bass under it all, roots and fifths, with your second take singing too. A trio of you."},
+                            "text": {"en": "Last: a bass under it all, roots and fifths, with your second take singing too. A trio of you.", "es": "Por último: el bajo, sosteniéndolo todo, con fundamentales y quintas, mientras suena también tu segunda toma. Tu propio trío."},
                             "exercise": {
                                 "tempo": 90,
                                 "notes": [
@@ -4835,7 +4835,7 @@
                                 ],
                                 "under": {"step": 2}
                             },
-                            "measures": {"en": "Scored on the bass you sang under your own harmony: roots and fifths, landing in the chord. Hear it together plays the tune, your second take and this one."}
+                            "measures": {"en": "Scored on the bass you sang under your own harmony: roots and fifths, landing in the chord. Hear it together plays the tune, your second take and this one.", "es": "Se puntúa el bajo que cantaste por debajo de tu propia armonía: fundamentales y quintas, dentro del acorde. \"Escuchar todo junto\" reproduce la melodía, tu segunda toma y esta."}
                         }
                     ]
                 }
