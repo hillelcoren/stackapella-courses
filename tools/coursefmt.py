@@ -1,10 +1,10 @@
 """Format a course file as the Vibrato one is: 4-space indents, with small leaf objects (a note,
-a chord, a { "en": ... } word, a card) on one line."""
+a chord, a { "en": ..., "es": ... } word, a card) on one line."""
 import json, sys
 
 def leaf(v):
     if isinstance(v, dict):
-        return all(not isinstance(x, (dict, list)) or (isinstance(x, dict) and set(x) == {"en"}) for x in v.values())
+        return all(not isinstance(x, (dict, list)) or (isinstance(x, dict) and "en" in x and all(len(k) == 2 for k in x)) for x in v.values())
     return False
 
 def fmt(v, depth=0):

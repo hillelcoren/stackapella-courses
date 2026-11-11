@@ -11,6 +11,7 @@ the free course, every Plus course, and the songs, as plain JSON anyone can read
 | `templates/free/` | The songs the app bundles, and `index.json` |
 | `templates/library/` | The library's songs |
 | `templates/format/` | The song format (`template.json`, kept in step with the app's) |
+| `i18n/<lang>/` | The courses in other languages: one map per course from the English to the translation (see below) |
 | `tools/` | The checks CI runs on every change, and the scripts that generate two courses |
 
 ## Checking a change
@@ -31,11 +32,21 @@ Counterpoint and Improvising a harmony are built by scripts, not edited by hand:
 `templates/`). To change one of their lessons, change the script, then regenerate:
 
 ```
-python3 -I tools/cp_course.py && python3 -I tools/coursefmt.py course/plus/counterpoint/course.json
-python3 -I tools/imp_course.py && python3 -I tools/coursefmt.py course/plus/improvising-harmony/course.json
+python3 -I tools/cp_course.py && python3 -I tools/coursefmt.py course/plus/counterpoint/course.json && python3 -I tools/i18n.py apply
+python3 -I tools/imp_course.py && python3 -I tools/coursefmt.py course/plus/improvising-harmony/course.json && python3 -I tools/i18n.py apply
 ```
 
 A change made only to their `course.json` is lost the next time the script runs.
+
+## Other languages
+
+Every word people read is `{ "en": "..." }`, and a translation adds its own key: `{ "en": "Find your voice",
+"es": "Encuentra tu voz" }`. The translations live in `i18n/<lang>/<course>.json` (one map from the English to the
+translation; `free`, `cooldown`, `songs` or a Plus course's id), and `tools/i18n.py apply` writes them into the course
+files. Edit the map, never a course file's translation: `course_check.py` fails when the two differ. After any course
+script runs, run `python3 -I tools/i18n.py apply` again. When an English word changes, its translation stops showing
+(the English shows instead) until the map has the new English; `python3 -I tools/i18n.py status` lists what's missing
+and what's stale. The Spanish words follow the glossary in the Stackapella repository, `docs/languages/es-glossary.md`.
 
 ## Trying a change in the app
 

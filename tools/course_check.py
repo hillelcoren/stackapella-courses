@@ -18,7 +18,7 @@ FORMAT = json.loads((ROOT / "course" / "format" / "steps.json").read_text())
 SONG_DIRS = [ROOT / "templates" / "free", ROOT / "templates" / "library"]
 _experiments = ROOT / "course" / "format" / "experiments.json"
 EXPERIMENTS = set(json.loads(_experiments.read_text())["experiments"]) if _experiments.exists() else set()
-STARS = re.compile(r"\bstars?\b", re.IGNORECASE)  # only game mode shows stars (docs/decisions.md)
+STARS = re.compile(r"\b(stars?|estrellas?)\b", re.IGNORECASE)  # only game mode shows stars (docs/decisions.md), in any language
 KEBAB = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 # A fact told twice: two facts in different courses sharing two names or years ("Beethoven", "1824").
 NAME = re.compile(r"\b[A-Z][\w'’-]*(?:\s+(?:of\s+|de\s+|the\s+)?[A-Z][\w'’-]*)*")
@@ -50,7 +50,7 @@ def words(where, obj):
                 problem(where, f"'{key}' has an em dash")
             elif STARS.search(json.dumps(value, ensure_ascii=False)) and key in FORMAT["words"]:
                 problem(where, f"'{key}' says stars, which serious mode hides: say what it's scored on")
-            elif "Did you know" in json.dumps(value, ensure_ascii=False) and key in FORMAT["words"]:
+            elif re.search(r"Did you know|¿Sabías", json.dumps(value, ensure_ascii=False)) and key in FORMAT["words"]:
                 problem(where, f"'{key}' has a fact: it belongs in the lesson's fact, the lesson end's card")
             if key not in FORMAT["words"]:
                 words(where, value)
@@ -605,6 +605,14 @@ def main():
             if fa.get("course") != fb.get("course") and len(shared) >= 2 and b not in fa["distinct"] and a not in fb["distinct"]:
                 problem(fb["where"], f"fact '{b}' looks like '{a}' ({fa['where']}), sharing {', '.join(sorted(shared))}: tell it in one course, or list it in distinct")
     warmups()
+    # The courses in other languages (tools/i18n.py): every translation in a course file is the one in i18n/<lang>/,
+    # so a regenerated course that lost its translations, or a translation edited in place, fails here.
+    sys.path.insert(0, str(ROOT / "tools"))
+    import i18n
+    off = i18n.disagreements()
+    if off:
+        _, f, where, lang = off[0]
+        problem("i18n", f"{len(off)} words differ from i18n/, first {f.relative_to(ROOT)} {where} ({lang}): run python3 -I tools/i18n.py apply")
     for f in files:
         if not f.exists():
             problem(str(f.relative_to(ROOT)), "the catalogue names a file that isn't there")
