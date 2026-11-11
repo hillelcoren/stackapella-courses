@@ -2,25 +2,25 @@
     "id": "song-asleep-in-the-deep",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Asleep in the Deep"},
+    "title": {"en": "Asleep in the Deep", "es": "Asleep in the Deep"},
     "units": [
         {
             "id": "song-asleep-in-the-deep-bass",
-            "title": {"en": "The melody"},
+            "title": {"en": "The melody", "es": "La melodía"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-asleep-in-the-deep-bass-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Asleep in the Deep: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Asleep in the Deep: hear the whole song first, then the tune on its own.", "es": "Asleep in the Deep: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "aitd-bass-voice", "text": {"en": "H. W. Petrie wrote this song in 1897 for a baritone or bass voice, which is why here the bass, not the soprano, sings the tune."}, "source": {"en": "\"Asleep in the Deep\" (New York: F. A. Mills), Lester S. Levy Sheet Music Collection, Johns Hopkins University, Box 145, Item 046, read from the scan"}, "url": "https://levysheetmusic.mse.jhu.edu/collection/145/046"}
+                    "fact": {"id": "aitd-bass-voice", "text": {"en": "H. W. Petrie wrote this song in 1897 for a baritone or bass voice, which is why here the bass, not the soprano, sings the tune.", "es": "H. W. Petrie escribió esta canción en 1897 para barítono o bajo; por eso aquí la melodía la canta el bajo, no la soprano."}, "source": {"en": "\"Asleep in the Deep\" (New York: F. A. Mills), Lester S. Levy Sheet Music Collection, Johns Hopkins University, Box 145, Item 046, read from the scan", "es": "\"Asleep in the Deep\" (New York: F. A. Mills), Lester S. Levy Sheet Music Collection, Johns Hopkins University, Box 145, Item 046, leído en el escaneo"}, "url": "https://levysheetmusic.mse.jhu.edu/collection/145/046"}
                 },
                 {
                     "id": "song-asleep-in-the-deep-bass-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 3 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -101,11 +101,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back.", "es": "Ahora las frases 1 a 3 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -114,18 +114,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-bass-3",
-                    "title": {"en": "Lines 4 and 5"},
+                    "title": {"en": "Lines 4 and 5", "es": "Frases 4 y 5"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -147,11 +147,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back.", "es": "Ahora las frases 4 y 5 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -160,18 +160,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-bass-4",
-                    "title": {"en": "Lines 6 and 7"},
+                    "title": {"en": "Lines 6 and 7", "es": "Frases 6 y 7"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -180,11 +180,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -193,11 +193,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back.", "es": "Ahora las frases 6 y 7 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -206,18 +206,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-bass-5",
-                    "title": {"en": "Lines 8 to 10"},
+                    "title": {"en": "Lines 8 to 10", "es": "Frases 8 a 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -226,11 +226,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is the tune of line 8 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 9 is the tune of line 8 again, with new words. Sing it with the guide.", "es": "La frase 9 repite la melodía de la frase 8, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -239,11 +239,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 10, then sing it back."},
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -252,11 +252,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 8 to 10 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 8 to 10 joined: hear them, then sing them back.", "es": "Ahora las frases 8 a 10 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -265,18 +265,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-bass-6",
-                    "title": {"en": "Lines 11 and 12"},
+                    "title": {"en": "Lines 11 and 12", "es": "Frases 11 y 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 11, then sing it back."},
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -285,11 +285,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -298,11 +298,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back.", "es": "Ahora las frases 11 y 12 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -311,18 +311,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-bass-7",
-                    "title": {"en": "Lines 13 and 14"},
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 13, then sing it back."},
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -331,11 +331,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 14, then sing it back."},
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -344,11 +344,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back.", "es": "Ahora las frases 13 y 14 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -357,18 +357,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-bass-8",
-                    "title": {"en": "Lines 15 and 16"},
+                    "title": {"en": "Lines 15 and 16", "es": "Frases 15 y 16"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 15, then sing it back."},
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -377,11 +377,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 16, then sing it back."},
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -390,11 +390,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 15 and 16 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 15 and 16 joined: hear them, then sing them back.", "es": "Ahora las frases 15 y 16 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -403,17 +403,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-bass-9",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Verse start to end, with the guide."},
+                            "text": {"en": "Verse start to end, with the guide.", "es": "La estrofa de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -422,11 +422,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -435,11 +435,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -448,17 +448,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-bass-10",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -468,17 +468,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-bass-11",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -490,11 +490,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -506,38 +506,38 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-bass-12",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Asleep in the Deep in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "asleep-in-the-deep", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the tune of Asleep in the Deep in Sing, with the other parts playing.", "es": "Graba la melodía de Asleep in the Deep en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "asleep-in-the-deep", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "aitd-beware", "text": {"en": "The last line keeps its lowest notes for the end: it is sung twice, the second time sinking through \"asleep in the deep\" to a last \"beware!\" a whole octave below the first."}, "source": {"en": "\"Asleep in the Deep\" (New York: F. A. Mills), Lester S. Levy Sheet Music Collection, Johns Hopkins University, Box 145, Item 046, read from the scan"}, "url": "https://levysheetmusic.mse.jhu.edu/collection/145/046"}
+                    "fact": {"id": "aitd-beware", "text": {"en": "The last line keeps its lowest notes for the end: it is sung twice, the second time sinking through \"asleep in the deep\" to a last \"beware!\" a whole octave below the first.", "es": "La última frase guarda sus notas más graves para el final: se canta dos veces, y la segunda baja por \"asleep in the deep\" hasta un último \"beware!\" una octava entera por debajo del primero."}, "source": {"en": "\"Asleep in the Deep\" (New York: F. A. Mills), Lester S. Levy Sheet Music Collection, Johns Hopkins University, Box 145, Item 046, read from the scan", "es": "\"Asleep in the Deep\" (New York: F. A. Mills), Lester S. Levy Sheet Music Collection, Johns Hopkins University, Box 145, Item 046, leído en el escaneo"}, "url": "https://levysheetmusic.mse.jhu.edu/collection/145/046"}
                 }
             ]
         },
         {
             "id": "song-asleep-in-the-deep-alto",
-            "title": {"en": "Alto"},
+            "title": {"en": "Alto", "es": "Contralto"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "song-asleep-in-the-deep-alto-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Asleep in the Deep: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Asleep in the Deep: hear the whole song first, then the alto part on its own.", "es": "Asleep in the Deep: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -551,8 +551,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the alto part on its own."},
-                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -564,7 +564,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -577,12 +577,12 @@
                 },
                 {
                     "id": "song-asleep-in-the-deep-alto-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -591,11 +591,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -604,11 +604,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide.", "es": "La frase 3 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -617,11 +617,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back.", "es": "Ahora las frases 1 a 3 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -630,18 +630,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-alto-3",
-                    "title": {"en": "Lines 4 and 5"},
+                    "title": {"en": "Lines 4 and 5", "es": "Frases 4 y 5"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -650,11 +650,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -663,11 +663,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back.", "es": "Ahora las frases 4 y 5 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -676,18 +676,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-alto-4",
-                    "title": {"en": "Lines 6 and 7"},
+                    "title": {"en": "Lines 6 and 7", "es": "Frases 6 y 7"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -696,11 +696,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -709,11 +709,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back.", "es": "Ahora las frases 6 y 7 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -722,18 +722,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-alto-5",
-                    "title": {"en": "Lines 8 and 9"},
+                    "title": {"en": "Lines 8 and 9", "es": "Frases 8 y 9"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -742,11 +742,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 9, then sing it back."},
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -755,11 +755,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 8 and 9 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 8 and 9 joined: hear them, then sing them back.", "es": "Ahora las frases 8 y 9 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -768,18 +768,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-alto-6",
-                    "title": {"en": "Lines 10 and 11"},
+                    "title": {"en": "Lines 10 and 11", "es": "Frases 10 y 11"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 10, then sing it back."},
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -788,11 +788,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 11, then sing it back."},
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -801,11 +801,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 10 and 11 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 10 and 11 joined: hear them, then sing them back.", "es": "Ahora las frases 10 y 11 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -814,18 +814,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-alto-7",
-                    "title": {"en": "Lines 12 and 13"},
+                    "title": {"en": "Lines 12 and 13", "es": "Frases 12 y 13"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -834,11 +834,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 13, then sing it back."},
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -847,11 +847,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 12 and 13 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 12 and 13 joined: hear them, then sing them back.", "es": "Ahora las frases 12 y 13 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -860,18 +860,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-alto-8",
-                    "title": {"en": "Lines 14 to 16"},
+                    "title": {"en": "Lines 14 to 16", "es": "Frases 14 a 16"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 14, then sing it back."},
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -880,11 +880,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 15, then sing it back."},
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -893,11 +893,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 16, then sing it back."},
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -906,11 +906,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 14 to 16 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 14 to 16 joined: hear them, then sing them back.", "es": "Ahora las frases 14 a 16 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -919,17 +919,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-alto-9",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Verse start to end, with the guide."},
+                            "text": {"en": "Verse start to end, with the guide.", "es": "La estrofa de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -938,11 +938,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -951,11 +951,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -964,17 +964,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-alto-10",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -984,17 +984,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-alto-11",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1006,11 +1006,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1022,15 +1022,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-alto-12",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Asleep in the Deep in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "asleep-in-the-deep", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Asleep in the Deep in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Asleep in the Deep en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "asleep-in-the-deep", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -1038,21 +1038,21 @@
         },
         {
             "id": "song-asleep-in-the-deep-soprano",
-            "title": {"en": "Soprano"},
+            "title": {"en": "Soprano", "es": "Soprano"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "song-asleep-in-the-deep-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Asleep in the Deep: hear the whole song first, then the soprano part on its own."},
+                            "headline": {"en": "Asleep in the Deep: hear the whole song first, then the soprano part on its own.", "es": "Asleep in the Deep: escucha primero la canción entera y luego la voz de soprano sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the soprano part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the soprano part", "es": "Luego, la soprano"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1066,8 +1066,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the soprano part on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the soprano part on its own.", "es": "Ahora la voz de soprano sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1079,7 +1079,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1092,12 +1092,12 @@
                 },
                 {
                     "id": "song-asleep-in-the-deep-soprano-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1106,11 +1106,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1119,11 +1119,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide.", "es": "La frase 3 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1132,11 +1132,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back.", "es": "Ahora las frases 1 a 3 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1145,18 +1145,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-soprano-3",
-                    "title": {"en": "Lines 4 and 5"},
+                    "title": {"en": "Lines 4 and 5", "es": "Frases 4 y 5"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1165,11 +1165,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1178,11 +1178,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back.", "es": "Ahora las frases 4 y 5 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1191,18 +1191,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-soprano-4",
-                    "title": {"en": "Lines 6 and 7"},
+                    "title": {"en": "Lines 6 and 7", "es": "Frases 6 y 7"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1211,11 +1211,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1224,11 +1224,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back.", "es": "Ahora las frases 6 y 7 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1237,18 +1237,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-soprano-5",
-                    "title": {"en": "Lines 8 to 10"},
+                    "title": {"en": "Lines 8 to 10", "es": "Frases 8 a 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1257,11 +1257,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 8 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 8 again. Sing it with the guide.", "es": "La frase 9 repite la frase 8. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1270,11 +1270,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 10, then sing it back."},
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1283,11 +1283,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 8 to 10 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 8 to 10 joined: hear them, then sing them back.", "es": "Ahora las frases 8 a 10 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1296,18 +1296,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-soprano-6",
-                    "title": {"en": "Lines 11 and 12"},
+                    "title": {"en": "Lines 11 and 12", "es": "Frases 11 y 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 11, then sing it back."},
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1316,11 +1316,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1329,11 +1329,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back.", "es": "Ahora las frases 11 y 12 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1342,18 +1342,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-soprano-7",
-                    "title": {"en": "Lines 13 and 14"},
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 13, then sing it back."},
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1362,11 +1362,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 14, then sing it back."},
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1375,11 +1375,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back.", "es": "Ahora las frases 13 y 14 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1388,18 +1388,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-soprano-8",
-                    "title": {"en": "Lines 15 and 16"},
+                    "title": {"en": "Lines 15 and 16", "es": "Frases 15 y 16"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 15, then sing it back."},
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1408,11 +1408,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 16, then sing it back."},
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1421,11 +1421,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 15 and 16 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 15 and 16 joined: hear them, then sing them back.", "es": "Ahora las frases 15 y 16 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1434,17 +1434,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-soprano-9",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Verse start to end, with the guide."},
+                            "text": {"en": "Verse start to end, with the guide.", "es": "La estrofa de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1453,11 +1453,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1466,11 +1466,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1479,17 +1479,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-soprano-10",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1499,17 +1499,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-soprano-11",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1521,11 +1521,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1537,15 +1537,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-soprano-12",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the soprano part of Asleep in the Deep in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "asleep-in-the-deep", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the soprano part of Asleep in the Deep in Sing, with the other parts playing.", "es": "Graba la voz de soprano de Asleep in the Deep en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "asleep-in-the-deep", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true
                 }
@@ -1553,21 +1553,21 @@
         },
         {
             "id": "song-asleep-in-the-deep-tenor",
-            "title": {"en": "Tenor"},
+            "title": {"en": "Tenor", "es": "Tenor"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "song-asleep-in-the-deep-tenor-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Asleep in the Deep: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Asleep in the Deep: hear the whole song first, then the tenor part on its own.", "es": "Asleep in the Deep: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1581,8 +1581,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tenor part on its own."},
-                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1594,7 +1594,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1607,12 +1607,12 @@
                 },
                 {
                     "id": "song-asleep-in-the-deep-tenor-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1621,11 +1621,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1634,11 +1634,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1647,18 +1647,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-tenor-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1667,11 +1667,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1680,11 +1680,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1693,18 +1693,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-tenor-4",
-                    "title": {"en": "Lines 5 and 6"},
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1713,11 +1713,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1726,11 +1726,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1739,18 +1739,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-tenor-5",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1759,11 +1759,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1772,11 +1772,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1785,18 +1785,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-tenor-6",
-                    "title": {"en": "Lines 9 and 10"},
+                    "title": {"en": "Lines 9 and 10", "es": "Frases 9 y 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 9, then sing it back."},
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1805,11 +1805,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 10, then sing it back."},
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1818,11 +1818,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 and 10 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 9 and 10 joined: hear them, then sing them back.", "es": "Ahora las frases 9 y 10 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1831,18 +1831,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-tenor-7",
-                    "title": {"en": "Lines 11 and 12"},
+                    "title": {"en": "Lines 11 and 12", "es": "Frases 11 y 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 11, then sing it back."},
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1851,11 +1851,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1864,11 +1864,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back.", "es": "Ahora las frases 11 y 12 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1877,18 +1877,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-tenor-8",
-                    "title": {"en": "Lines 13 and 14"},
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 13, then sing it back."},
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1897,11 +1897,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 14, then sing it back."},
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1910,11 +1910,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back.", "es": "Ahora las frases 13 y 14 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1923,18 +1923,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-tenor-9",
-                    "title": {"en": "Lines 15 and 16"},
+                    "title": {"en": "Lines 15 and 16", "es": "Frases 15 y 16"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 15, then sing it back."},
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1943,11 +1943,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 16, then sing it back."},
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1956,11 +1956,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 15 and 16 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 15 and 16 joined: hear them, then sing them back.", "es": "Ahora las frases 15 y 16 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1969,17 +1969,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-tenor-10",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Verse start to end, with the guide."},
+                            "text": {"en": "Verse start to end, with the guide.", "es": "La estrofa de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -1988,11 +1988,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -2001,11 +2001,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -2014,17 +2014,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-tenor-11",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -2034,17 +2034,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-tenor-12",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -2056,11 +2056,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "asleep-in-the-deep",
@@ -2072,15 +2072,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-asleep-in-the-deep-tenor-13",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Asleep in the Deep in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "asleep-in-the-deep", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Asleep in the Deep in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Asleep in the Deep en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "asleep-in-the-deep", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

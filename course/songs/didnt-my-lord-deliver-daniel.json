@@ -2,25 +2,25 @@
     "id": "song-didnt-my-lord-deliver-daniel",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Didn't My Lord Deliver Daniel"},
+    "title": {"en": "Didn't My Lord Deliver Daniel", "es": "Didn't My Lord Deliver Daniel"},
     "units": [
         {
             "id": "song-didnt-my-lord-deliver-daniel-soprano",
-            "title": {"en": "The melody"},
+            "title": {"en": "The melody", "es": "La melodía"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Didn't My Lord Deliver Daniel: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Didn't My Lord Deliver Daniel: hear the whole song first, then the tune on its own.", "es": "Didn't My Lord Deliver Daniel: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "dl-white-seward", "text": {"en": "For the Fisk Jubilee Singers' book of 1872, George L. White took the words down from the singers, and Theodore F. Seward wrote the music down; every melody was tested on the piano, and no line or phrase went in without the singers' full endorsement."}, "source": {"en": "Theodore F. Seward, Jubilee Songs (Biglow & Main, New York, 1872), introduction, read from the scan"}, "url": "https://archive.org/details/jubileesongscomp00sewa"}
+                    "fact": {"id": "dl-white-seward", "text": {"en": "For the Fisk Jubilee Singers' book of 1872, George L. White took the words down from the singers, and Theodore F. Seward wrote the music down; every melody was tested on the piano, and no line or phrase went in without the singers' full endorsement.", "es": "Para el libro de los Fisk Jubilee Singers de 1872, George L. White anotó la letra de boca de los cantantes, y Theodore F. Seward escribió la música; cada melodía se probó al piano, y no entró ningún verso ni frase sin la plena aprobación de los cantantes."}, "source": {"en": "Theodore F. Seward, Jubilee Songs (Biglow & Main, New York, 1872), introduction, read from the scan", "es": "Theodore F. Seward, Jubilee Songs (Biglow & Main, New York, 1872), introducción, leído en el escaneo"}, "url": "https://archive.org/details/jubileesongscomp00sewa"}
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -101,18 +101,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -121,11 +121,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -147,18 +147,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-4",
-                    "title": {"en": "Lines 5 and 6"},
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -167,11 +167,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -180,11 +180,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -193,18 +193,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-5",
-                    "title": {"en": "Lines 7 to 10"},
+                    "title": {"en": "Lines 7 to 10", "es": "Frases 7 a 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -213,11 +213,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -226,11 +226,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -239,11 +239,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -252,11 +252,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 to 10 joined, with the guide."},
+                            "text": {"en": "Now lines 7 to 10 joined, with the guide.", "es": "Ahora las frases 7 a 10 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -265,18 +265,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-6",
-                    "title": {"en": "Lines 11 to 14"},
+                    "title": {"en": "Lines 11 to 14", "es": "Frases 11 a 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide.", "es": "La frase 11 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -285,11 +285,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide.", "es": "La frase 12 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -298,11 +298,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 13, then sing it back."},
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -311,11 +311,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 14, then sing it back."},
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -324,11 +324,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 to 14 joined, with the guide."},
+                            "text": {"en": "Now lines 11 to 14 joined, with the guide.", "es": "Ahora las frases 11 a 14 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -337,18 +337,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-7",
-                    "title": {"en": "Lines 15 to 18"},
+                    "title": {"en": "Lines 15 to 18", "es": "Frases 15 a 18"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 15, then sing it back."},
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -357,11 +357,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is the tune of line 8 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 16 is the tune of line 8 again, with new words. Sing it with the guide.", "es": "La frase 16 repite la melodía de la frase 8, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -370,11 +370,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -383,11 +383,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide.", "es": "La frase 18 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -396,11 +396,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 15 to 18 joined, with the guide."},
+                            "text": {"en": "Now lines 15 to 18 joined, with the guide.", "es": "Ahora las frases 15 a 18 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -409,18 +409,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-8",
-                    "title": {"en": "Lines 19 to 22"},
+                    "title": {"en": "Lines 19 to 22", "es": "Frases 19 a 22"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide.", "es": "La frase 19 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -429,11 +429,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 20 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 20 is line 4 again. Sing it with the guide.", "es": "La frase 20 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -442,11 +442,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 21, then sing it back."},
+                            "text": {"en": "Hear line 21, then sing it back.", "es": "Escucha la frase 21 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -455,11 +455,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 22, then sing it back."},
+                            "text": {"en": "Hear line 22, then sing it back.", "es": "Escucha la frase 22 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -468,11 +468,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 19 to 22 joined, with the guide."},
+                            "text": {"en": "Now lines 19 to 22 joined, with the guide.", "es": "Ahora las frases 19 a 22 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -481,18 +481,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-9",
-                    "title": {"en": "Lines 23 to 26"},
+                    "title": {"en": "Lines 23 to 26", "es": "Frases 23 a 26"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 23, then sing it back."},
+                            "text": {"en": "Hear line 23, then sing it back.", "es": "Escucha la frase 23 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -501,11 +501,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 24, then sing it back."},
+                            "text": {"en": "Hear line 24, then sing it back.", "es": "Escucha la frase 24 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -514,11 +514,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide.", "es": "La frase 25 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -527,11 +527,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide.", "es": "La frase 26 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -540,11 +540,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 23 to 26 joined, with the guide."},
+                            "text": {"en": "Now lines 23 to 26 joined, with the guide.", "es": "Ahora las frases 23 a 26 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -553,18 +553,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-10",
-                    "title": {"en": "Lines 27 and 28"},
+                    "title": {"en": "Lines 27 and 28", "es": "Frases 27 y 28"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 27 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 27 is line 3 again. Sing it with the guide.", "es": "La frase 27 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -573,11 +573,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 28, then sing it back."},
+                            "text": {"en": "Hear line 28, then sing it back.", "es": "Escucha la frase 28 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -586,11 +586,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 27 and 28 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 27 and 28 joined: hear them, then sing them back.", "es": "Ahora las frases 27 y 28 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -599,17 +599,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-11",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -618,11 +618,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -631,11 +631,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -644,11 +644,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -657,11 +657,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -670,17 +670,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-12",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -690,17 +690,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-13",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -712,11 +712,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -728,38 +728,38 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-soprano-14",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Didn't My Lord Deliver Daniel in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "didnt-my-lord-deliver-daniel", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Didn't My Lord Deliver Daniel in Sing, with the other parts playing.", "es": "Graba la melodía de Didn't My Lord Deliver Daniel en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "didnt-my-lord-deliver-daniel", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "dl-five-notes", "text": {"en": "Seward noted that more than half the Fisk melodies use the scale of Scottish music, without its fourth and seventh notes. Didn't My Lord Deliver Daniel is one of them: its tune uses only five notes."}, "source": {"en": "Theodore F. Seward, Jubilee Songs (1872), preface, p. 3, read from the scan; the song's notes, pp. 16 and 17"}, "url": "https://archive.org/details/jubileesongscomp00sewa"}
+                    "fact": {"id": "dl-five-notes", "text": {"en": "Seward noted that more than half the Fisk melodies use the scale of Scottish music, without its fourth and seventh notes. Didn't My Lord Deliver Daniel is one of them: its tune uses only five notes.", "es": "Seward observó que más de la mitad de las melodías de Fisk usan la escala de la música escocesa, sin su cuarto ni su séptimo grado. Didn't My Lord Deliver Daniel es una de ellas: su melodía usa solo cinco notas."}, "source": {"en": "Theodore F. Seward, Jubilee Songs (1872), preface, p. 3, read from the scan; the song's notes, pp. 16 and 17", "es": "Theodore F. Seward, Jubilee Songs (1872), prefacio, p. 3, leído en el escaneo; las notas de la canción, pp. 16 y 17"}, "url": "https://archive.org/details/jubileesongscomp00sewa"}
                 }
             ]
         },
         {
             "id": "song-didnt-my-lord-deliver-daniel-alto",
-            "title": {"en": "Alto"},
+            "title": {"en": "Alto", "es": "Contralto"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-alto-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Didn't My Lord Deliver Daniel: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Didn't My Lord Deliver Daniel: hear the whole song first, then the alto part on its own.", "es": "Didn't My Lord Deliver Daniel: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -773,8 +773,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the alto part on its own."},
-                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -786,7 +786,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -799,12 +799,12 @@
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-alto-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -813,11 +813,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -826,11 +826,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 3 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -839,11 +839,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back.", "es": "Ahora las frases 1 a 3 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -852,18 +852,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-alto-3",
-                    "title": {"en": "Lines 4, 8, 9 and 10"},
+                    "title": {"en": "Lines 4, 8, 9 and 10", "es": "Frases 4, 8, 9 y 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -872,11 +872,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -885,11 +885,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -898,11 +898,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -911,11 +911,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4, 8, 9 and 10 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 4, 8, 9 and 10 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 4, 8, 9 y 10 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -925,18 +925,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-alto-4",
-                    "title": {"en": "Lines 11, 12, 16 and 17"},
+                    "title": {"en": "Lines 11, 12, 16 and 17", "es": "Frases 11, 12, 16 y 17"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 11 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 11 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -945,11 +945,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide.", "es": "La frase 12 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -958,11 +958,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 16, then sing it back."},
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -971,11 +971,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -984,11 +984,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11, 12, 16 and 17 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 11, 12, 16 and 17 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 11, 12, 16 y 17 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -998,18 +998,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-alto-5",
-                    "title": {"en": "Lines 18, 19, 20 and 24"},
+                    "title": {"en": "Lines 18, 19, 20 and 24", "es": "Frases 18, 19, 20 y 24"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide.", "es": "La frase 18 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1018,11 +1018,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 19 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 19 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1031,11 +1031,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 20 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 20 is line 4 again. Sing it with the guide.", "es": "La frase 20 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1044,11 +1044,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 24, then sing it back."},
+                            "text": {"en": "Hear line 24, then sing it back.", "es": "Escucha la frase 24 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1057,11 +1057,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 18, 19, 20 and 24 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 18, 19, 20 and 24 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 18, 19, 20 y 24 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1071,18 +1071,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-alto-6",
-                    "title": {"en": "Lines 25 to 28"},
+                    "title": {"en": "Lines 25 to 28", "es": "Frases 25 a 28"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide.", "es": "La frase 25 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1091,11 +1091,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide.", "es": "La frase 26 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1104,11 +1104,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 27 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 27 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 27 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1117,11 +1117,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 28, then sing it back."},
+                            "text": {"en": "Hear line 28, then sing it back.", "es": "Escucha la frase 28 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1130,11 +1130,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 25 to 28 joined, with the guide."},
+                            "text": {"en": "Now lines 25 to 28 joined, with the guide.", "es": "Ahora las frases 25 a 28 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1143,17 +1143,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-alto-7",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1162,11 +1162,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1175,11 +1175,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1188,11 +1188,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1201,11 +1201,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1214,17 +1214,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-alto-8",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1234,17 +1234,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-alto-9",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1256,11 +1256,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1272,15 +1272,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-alto-10",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Didn't My Lord Deliver Daniel in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "didnt-my-lord-deliver-daniel", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Didn't My Lord Deliver Daniel in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Didn't My Lord Deliver Daniel en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "didnt-my-lord-deliver-daniel", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -1288,21 +1288,21 @@
         },
         {
             "id": "song-didnt-my-lord-deliver-daniel-bass",
-            "title": {"en": "Bass"},
+            "title": {"en": "Bass", "es": "Bajo"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-bass-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Didn't My Lord Deliver Daniel: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Didn't My Lord Deliver Daniel: hear the whole song first, then the bass part on its own.", "es": "Didn't My Lord Deliver Daniel: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1316,8 +1316,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the bass part on its own."},
-                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1329,7 +1329,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1342,12 +1342,12 @@
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-bass-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1356,11 +1356,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1369,11 +1369,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 3 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1382,11 +1382,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back.", "es": "Ahora las frases 1 a 3 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1395,18 +1395,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-bass-3",
-                    "title": {"en": "Lines 4, 8, 9 and 10"},
+                    "title": {"en": "Lines 4, 8, 9 and 10", "es": "Frases 4, 8, 9 y 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1415,11 +1415,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1428,11 +1428,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1441,11 +1441,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1454,11 +1454,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4, 8, 9 and 10 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 4, 8, 9 and 10 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 4, 8, 9 y 10 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1468,18 +1468,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-bass-4",
-                    "title": {"en": "Lines 11, 12, 16 and 17"},
+                    "title": {"en": "Lines 11, 12, 16 and 17", "es": "Frases 11, 12, 16 y 17"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 11 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 11 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1488,11 +1488,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide.", "es": "La frase 12 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1501,11 +1501,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 16, then sing it back."},
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1514,11 +1514,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1527,11 +1527,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11, 12, 16 and 17 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 11, 12, 16 and 17 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 11, 12, 16 y 17 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1541,18 +1541,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-bass-5",
-                    "title": {"en": "Lines 18, 19, 20 and 24"},
+                    "title": {"en": "Lines 18, 19, 20 and 24", "es": "Frases 18, 19, 20 y 24"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide.", "es": "La frase 18 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1561,11 +1561,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 19 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 19 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1574,11 +1574,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 20 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 20 is line 4 again. Sing it with the guide.", "es": "La frase 20 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1587,11 +1587,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 24, then sing it back."},
+                            "text": {"en": "Hear line 24, then sing it back.", "es": "Escucha la frase 24 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1600,11 +1600,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 18, 19, 20 and 24 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 18, 19, 20 and 24 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 18, 19, 20 y 24 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1614,18 +1614,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-bass-6",
-                    "title": {"en": "Lines 25 to 28"},
+                    "title": {"en": "Lines 25 to 28", "es": "Frases 25 a 28"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide.", "es": "La frase 25 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1634,11 +1634,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide.", "es": "La frase 26 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1647,11 +1647,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 27 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 27 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 27 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1660,11 +1660,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 28, then sing it back."},
+                            "text": {"en": "Hear line 28, then sing it back.", "es": "Escucha la frase 28 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1673,11 +1673,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 25 to 28 joined, with the guide."},
+                            "text": {"en": "Now lines 25 to 28 joined, with the guide.", "es": "Ahora las frases 25 a 28 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1686,17 +1686,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-bass-7",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1705,11 +1705,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1718,11 +1718,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1731,11 +1731,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1744,11 +1744,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1757,17 +1757,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-bass-8",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1777,17 +1777,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-bass-9",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1799,11 +1799,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1815,15 +1815,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-bass-10",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Didn't My Lord Deliver Daniel in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "didnt-my-lord-deliver-daniel", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Didn't My Lord Deliver Daniel in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Didn't My Lord Deliver Daniel en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "didnt-my-lord-deliver-daniel", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1831,21 +1831,21 @@
         },
         {
             "id": "song-didnt-my-lord-deliver-daniel-tenor",
-            "title": {"en": "Tenor"},
+            "title": {"en": "Tenor", "es": "Tenor"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-tenor-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Didn't My Lord Deliver Daniel: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Didn't My Lord Deliver Daniel: hear the whole song first, then the tenor part on its own.", "es": "Didn't My Lord Deliver Daniel: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1859,8 +1859,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tenor part on its own."},
-                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1872,7 +1872,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1885,12 +1885,12 @@
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-tenor-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1899,11 +1899,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1912,11 +1912,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 3 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1925,11 +1925,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back.", "es": "Ahora las frases 1 a 3 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1938,18 +1938,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-tenor-3",
-                    "title": {"en": "Lines 4, 8, 9 and 10"},
+                    "title": {"en": "Lines 4, 8, 9 and 10", "es": "Frases 4, 8, 9 y 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1958,11 +1958,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1971,11 +1971,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1984,11 +1984,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -1997,11 +1997,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4, 8, 9 and 10 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 4, 8, 9 and 10 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 4, 8, 9 y 10 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2011,18 +2011,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-tenor-4",
-                    "title": {"en": "Lines 11, 12, 16 and 17"},
+                    "title": {"en": "Lines 11, 12, 16 and 17", "es": "Frases 11, 12, 16 y 17"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 11 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 11 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2031,11 +2031,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide.", "es": "La frase 12 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2044,11 +2044,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 16, then sing it back."},
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2057,11 +2057,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2070,11 +2070,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11, 12, 16 and 17 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 11, 12, 16 and 17 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 11, 12, 16 y 17 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2084,18 +2084,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-tenor-5",
-                    "title": {"en": "Lines 18, 19, 20 and 24"},
+                    "title": {"en": "Lines 18, 19, 20 and 24", "es": "Frases 18, 19, 20 y 24"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide.", "es": "La frase 18 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2104,11 +2104,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 19 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 19 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2117,11 +2117,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 20 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 20 is line 4 again. Sing it with the guide.", "es": "La frase 20 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2130,11 +2130,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 24, then sing it back."},
+                            "text": {"en": "Hear line 24, then sing it back.", "es": "Escucha la frase 24 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2143,11 +2143,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 18, 19, 20 and 24 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 18, 19, 20 and 24 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 18, 19, 20 y 24 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2157,18 +2157,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-tenor-6",
-                    "title": {"en": "Lines 25 to 28"},
+                    "title": {"en": "Lines 25 to 28", "es": "Frases 25 a 28"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide.", "es": "La frase 25 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2177,11 +2177,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide.", "es": "La frase 26 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2190,11 +2190,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 27 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 27 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 27 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2203,11 +2203,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 28, then sing it back."},
+                            "text": {"en": "Hear line 28, then sing it back.", "es": "Escucha la frase 28 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2216,11 +2216,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 25 to 28 joined, with the guide."},
+                            "text": {"en": "Now lines 25 to 28 joined, with the guide.", "es": "Ahora las frases 25 a 28 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2229,17 +2229,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-tenor-7",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2248,11 +2248,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2261,11 +2261,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2274,11 +2274,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2287,11 +2287,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2300,17 +2300,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-tenor-8",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2320,17 +2320,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-tenor-9",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2342,11 +2342,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "didnt-my-lord-deliver-daniel",
@@ -2358,15 +2358,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-didnt-my-lord-deliver-daniel-tenor-10",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Didn't My Lord Deliver Daniel in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "didnt-my-lord-deliver-daniel", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Didn't My Lord Deliver Daniel in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Didn't My Lord Deliver Daniel en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "didnt-my-lord-deliver-daniel", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

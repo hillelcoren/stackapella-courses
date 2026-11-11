@@ -2,25 +2,25 @@
     "id": "song-danny-boy",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Danny Boy"},
+    "title": {"en": "Danny Boy", "es": "Danny Boy"},
     "units": [
         {
             "id": "song-danny-boy-soprano",
-            "title": {"en": "The melody"},
+            "title": {"en": "The melody", "es": "La melodía"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-danny-boy-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Danny Boy: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Danny Boy: hear the whole song first, then the tune on its own.", "es": "Danny Boy: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "danny-boy",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "db-name-unknown", "text": {"en": "Jane Ross of Limavady, who collected the tune, could say only that it was very old."}, "source": {"en": "Minerva Classics, \"A Source Guide to the Music of Percy Grainger\" (Irish Tune from County Derry), quoting Petrie"}, "url": "https://minervaclassics.com/grainger/prognot5.htm"}
+                    "fact": {"id": "db-name-unknown", "text": {"en": "Jane Ross of Limavady, who collected the tune, could say only that it was very old.", "es": "Jane Ross, de Limavady, que recopiló la melodía, solo supo decir que era muy antigua."}, "source": {"en": "Minerva Classics, \"A Source Guide to the Music of Percy Grainger\" (Irish Tune from County Derry), quoting Petrie", "es": "Minerva Classics, \"A Source Guide to the Music of Percy Grainger\" (Irish Tune from County Derry), citando a Petrie"}, "url": "https://minervaclassics.com/grainger/prognot5.htm"}
                 },
                 {
                     "id": "song-danny-boy-soprano-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -101,18 +101,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-soprano-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -121,11 +121,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -147,18 +147,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-soprano-4",
-                    "title": {"en": "Lines 5 and 6"},
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -167,11 +167,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -180,11 +180,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -193,18 +193,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-soprano-5",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -213,11 +213,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -226,11 +226,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -239,17 +239,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-soprano-6",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -258,17 +258,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-soprano-7",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -278,17 +278,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-soprano-8",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -300,11 +300,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -316,38 +316,38 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-soprano-9",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Danny Boy in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "danny-boy", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Danny Boy in Sing, with the other parts playing.", "es": "Graba la melodía de Danny Boy en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "danny-boy", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "db-climbs-in-second-half", "text": {"en": "The melody saves its peak for the second half: from the halfway mark it climbs to its highest notes."}, "source": {"en": "The Methodist Church in Britain, \"I cannot tell why he, whom angels worship (StF 350)\", notes on the tune"}, "url": "https://www.methodist.org.uk/for-churches/resources/hymns/i-cannot-tell-why-he-whom-angels-worship-stf-350/"}
+                    "fact": {"id": "db-climbs-in-second-half", "text": {"en": "The melody saves its peak for the second half: from the halfway mark it climbs to its highest notes.", "es": "La melodía guarda su punto más alto para la segunda mitad: desde ahí sube hasta sus notas más agudas."}, "source": {"en": "The Methodist Church in Britain, \"I cannot tell why he, whom angels worship (StF 350)\", notes on the tune", "es": "The Methodist Church in Britain, \"I cannot tell why he, whom angels worship (StF 350)\", notas sobre la melodía"}, "url": "https://www.methodist.org.uk/for-churches/resources/hymns/i-cannot-tell-why-he-whom-angels-worship-stf-350/"}
                 }
             ]
         },
         {
             "id": "song-danny-boy-bass",
-            "title": {"en": "Bass"},
+            "title": {"en": "Bass", "es": "Bajo"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "song-danny-boy-bass-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Danny Boy: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Danny Boy: hear the whole song first, then the bass part on its own.", "es": "Danny Boy: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -361,8 +361,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the bass part on its own."},
-                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "danny-boy",
@@ -374,7 +374,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -384,16 +384,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "db-age-debated", "text": {"en": "How old is the tune? Some 20th-century writers suspected its collector shaped it herself, but a 2000 study argued it really is old, and was shaped by tradition."}, "source": {"en": "Brian Audley, \"The Provenance of the Londonderry Air\", Journal of the Royal Musical Association 125:2 (2000), abstract, Cambridge Core"}, "url": "https://cambridge.org/core/journals/journal-of-the-royal-musical-association/article/provenance-of-the-londonderry-air/6B4CEB5912AC51D9CA23B0D38A757440"}
+                    "fact": {"id": "db-age-debated", "text": {"en": "How old is the tune? Some 20th-century writers suspected its collector shaped it herself, but a 2000 study argued it really is old, and was shaped by tradition.", "es": "¿Qué edad tiene la melodía? Algunos autores del siglo XX sospecharon que la retocó su propia recopiladora, pero un estudio de 2000 defendió que es antigua de verdad, y que la moldeó la tradición."}, "source": {"en": "Brian Audley, \"The Provenance of the Londonderry Air\", Journal of the Royal Musical Association 125:2 (2000), abstract, Cambridge Core", "es": "Brian Audley, \"The Provenance of the Londonderry Air\", Journal of the Royal Musical Association 125:2 (2000), resumen, Cambridge Core"}, "url": "https://cambridge.org/core/journals/journal-of-the-royal-musical-association/article/provenance-of-the-londonderry-air/6B4CEB5912AC51D9CA23B0D38A757440"}
                 },
                 {
                     "id": "song-danny-boy-bass-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -402,11 +402,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -415,11 +415,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -428,18 +428,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-bass-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -448,11 +448,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -461,11 +461,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -474,18 +474,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-bass-4",
-                    "title": {"en": "Lines 5 and 6"},
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -494,11 +494,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -507,11 +507,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -520,18 +520,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-bass-5",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -540,11 +540,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -553,11 +553,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -566,17 +566,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-bass-6",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -585,17 +585,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-bass-7",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -605,17 +605,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-bass-8",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -627,11 +627,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -643,15 +643,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-bass-9",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Danny Boy in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "danny-boy", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Danny Boy in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Danny Boy en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "danny-boy", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -659,21 +659,21 @@
         },
         {
             "id": "song-danny-boy-alto",
-            "title": {"en": "Alto"},
+            "title": {"en": "Alto", "es": "Contralto"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "song-danny-boy-alto-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Danny Boy: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Danny Boy: hear the whole song first, then the alto part on its own.", "es": "Danny Boy: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -687,8 +687,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the alto part on its own."},
-                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "danny-boy",
@@ -700,7 +700,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -710,16 +710,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "db-grainger-county-derry", "text": {"en": "Percy Grainger set the tune for unaccompanied voices in October 1902, as Irish Tune from County Derry, and later made versions for instruments and band."}, "source": {"en": "Minerva Classics, \"A Source Guide to the Music of Percy Grainger\", Irish Tune from County Derry"}, "url": "https://minervaclassics.com/grainger/prognot5.htm"}
+                    "fact": {"id": "db-grainger-county-derry", "text": {"en": "Percy Grainger set the tune for unaccompanied voices in October 1902, as Irish Tune from County Derry, and later made versions for instruments and band.", "es": "Percy Grainger arregló la melodía para voces sin acompañamiento en octubre de 1902, como Irish Tune from County Derry, y más tarde hizo versiones para instrumentos y para banda."}, "source": {"en": "Minerva Classics, \"A Source Guide to the Music of Percy Grainger\", Irish Tune from County Derry", "es": "Minerva Classics, \"A Source Guide to the Music of Percy Grainger\", Irish Tune from County Derry"}, "url": "https://minervaclassics.com/grainger/prognot5.htm"}
                 },
                 {
                     "id": "song-danny-boy-alto-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -728,11 +728,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -741,11 +741,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -754,18 +754,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-alto-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -774,11 +774,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -787,11 +787,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -800,18 +800,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-alto-4",
-                    "title": {"en": "Lines 5 and 6"},
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -820,11 +820,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -833,11 +833,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -846,18 +846,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-alto-5",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -866,11 +866,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -879,11 +879,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -892,17 +892,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-alto-6",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -911,17 +911,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-alto-7",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -931,17 +931,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-alto-8",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -953,11 +953,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -969,15 +969,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-alto-9",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Danny Boy in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "danny-boy", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Danny Boy in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Danny Boy en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "danny-boy", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -985,21 +985,21 @@
         },
         {
             "id": "song-danny-boy-tenor",
-            "title": {"en": "Tenor"},
+            "title": {"en": "Tenor", "es": "Tenor"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "song-danny-boy-tenor-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Danny Boy: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Danny Boy: hear the whole song first, then the tenor part on its own.", "es": "Danny Boy: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1013,8 +1013,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tenor part on its own."},
-                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1026,7 +1026,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1036,16 +1036,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "db-fullerton-hymn", "text": {"en": "Churches sing the same tune to a hymn, I Cannot Tell, by William Young Fullerton, who grew up in Ireland and became a Baptist minister."}, "source": {"en": "The Methodist Church in Britain, \"I cannot tell why he, whom angels worship (StF 350)\""}, "url": "https://www.methodist.org.uk/for-churches/resources/hymns/i-cannot-tell-why-he-whom-angels-worship-stf-350/"}
+                    "fact": {"id": "db-fullerton-hymn", "text": {"en": "Churches sing the same tune to a hymn, I Cannot Tell, by William Young Fullerton, who grew up in Ireland and became a Baptist minister.", "es": "En las iglesias se canta la misma melodía con un himno, I Cannot Tell, de William Young Fullerton, que creció en Irlanda y llegó a ser pastor bautista."}, "source": {"en": "The Methodist Church in Britain, \"I cannot tell why he, whom angels worship (StF 350)\"", "es": "The Methodist Church in Britain, \"I cannot tell why he, whom angels worship (StF 350)\""}, "url": "https://www.methodist.org.uk/for-churches/resources/hymns/i-cannot-tell-why-he-whom-angels-worship-stf-350/"}
                 },
                 {
                     "id": "song-danny-boy-tenor-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1054,11 +1054,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1067,11 +1067,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1080,18 +1080,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-tenor-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1100,11 +1100,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1113,11 +1113,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1126,18 +1126,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-tenor-4",
-                    "title": {"en": "Lines 5 and 6"},
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1146,11 +1146,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1159,11 +1159,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1172,18 +1172,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-tenor-5",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1192,11 +1192,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1205,11 +1205,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1218,17 +1218,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-tenor-6",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1237,17 +1237,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-tenor-7",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1257,17 +1257,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-tenor-8",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1279,11 +1279,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "danny-boy",
@@ -1295,15 +1295,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-danny-boy-tenor-9",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Danny Boy in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "danny-boy", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Danny Boy in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Danny Boy en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "danny-boy", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

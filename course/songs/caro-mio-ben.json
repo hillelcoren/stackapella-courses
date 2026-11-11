@@ -2,25 +2,25 @@
     "id": "song-caro-mio-ben",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Caro mio ben"},
+    "title": {"en": "Caro mio ben", "es": "Caro mio ben"},
     "units": [
         {
             "id": "song-caro-mio-ben-soprano",
-            "title": {"en": "The melody"},
+            "title": {"en": "The melody", "es": "La melodía"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-caro-mio-ben-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Caro mio ben: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Caro mio ben: hear the whole song first, then the tune on its own.", "es": "Caro mio ben: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "cmb-which-giordani", "text": {"en": "For centuries it was credited to Giuseppe Giordani. Recent research, mainly John Glenn Paton's, suggests Tommaso Giordani probably wrote it, for a concert in London around 1785."}, "source": {"en": "Wikipedia, \"Caro mio ben\""}, "url": "https://en.wikipedia.org/wiki/Caro_mio_ben"}
+                    "fact": {"id": "cmb-which-giordani", "text": {"en": "For centuries it was credited to Giuseppe Giordani. Recent research, mainly John Glenn Paton's, suggests Tommaso Giordani probably wrote it, for a concert in London around 1785.", "es": "Durante siglos se atribuyó a Giuseppe Giordani. Investigaciones recientes, sobre todo las de John Glenn Paton, indican que probablemente la escribió Tommaso Giordani, para un concierto en Londres hacia 1785."}, "source": {"en": "Wikipedia, \"Caro mio ben\"", "es": "Wikipedia, \"Caro mio ben\""}, "url": "https://en.wikipedia.org/wiki/Caro_mio_ben"}
                 },
                 {
                     "id": "song-caro-mio-ben-soprano-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -101,18 +101,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-soprano-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -121,11 +121,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -147,18 +147,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-soprano-4",
-                    "title": {"en": "Lines 6 and 7"},
+                    "title": {"en": "Lines 6 and 7", "es": "Frases 6 y 7"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -167,11 +167,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -180,11 +180,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back.", "es": "Ahora las frases 6 y 7 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -193,18 +193,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-soprano-5",
-                    "title": {"en": "Lines 8 to 10"},
+                    "title": {"en": "Lines 8 to 10", "es": "Frases 8 a 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -213,11 +213,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 9, then sing it back."},
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -226,11 +226,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 1 again. Sing it with the guide.", "es": "La frase 10 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -239,11 +239,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 8 to 10 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 8 to 10 joined: hear them, then sing them back.", "es": "Ahora las frases 8 a 10 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -252,18 +252,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-soprano-6",
-                    "title": {"en": "Lines 11 and 12"},
+                    "title": {"en": "Lines 11 and 12", "es": "Frases 11 y 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 11, then sing it back."},
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -272,11 +272,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -285,11 +285,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back.", "es": "Ahora las frases 11 y 12 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -298,18 +298,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-soprano-7",
-                    "title": {"en": "Lines 13 and 14"},
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 13, then sing it back."},
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -318,11 +318,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 14, then sing it back."},
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -331,11 +331,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back.", "es": "Ahora las frases 13 y 14 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -344,17 +344,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-soprano-8",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "A start to end, with the guide."},
+                            "text": {"en": "A start to end, with the guide.", "es": "La sección A de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -363,11 +363,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "B start to end, with the guide."},
+                            "text": {"en": "B start to end, with the guide.", "es": "La sección B de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -376,11 +376,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "A2 start to end, with the guide."},
+                            "text": {"en": "A2 start to end, with the guide.", "es": "La sección A2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -389,11 +389,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -402,17 +402,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-soprano-9",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -422,17 +422,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-soprano-10",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -444,11 +444,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -460,38 +460,38 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-soprano-11",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Caro mio ben in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "caro-mio-ben", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Caro mio ben in Sing, with the other parts playing.", "es": "Graba la melodía de Caro mio ben en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "caro-mio-ben", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "cmb-students", "text": {"en": "It is a favourite with voice students, who sing it to stretch their range and practise their technique."}, "source": {"en": "Wikipedia, \"Caro mio ben\""}, "url": "https://en.wikipedia.org/wiki/Caro_mio_ben"}
+                    "fact": {"id": "cmb-students", "text": {"en": "It is a favourite with voice students, who sing it to stretch their range and practise their technique.", "es": "Es una de las favoritas de quienes estudian canto: la cantan para ampliar su extensión y practicar la técnica."}, "source": {"en": "Wikipedia, \"Caro mio ben\"", "es": "Wikipedia, \"Caro mio ben\""}, "url": "https://en.wikipedia.org/wiki/Caro_mio_ben"}
                 }
             ]
         },
         {
             "id": "song-caro-mio-ben-bass",
-            "title": {"en": "Bass"},
+            "title": {"en": "Bass", "es": "Bajo"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "song-caro-mio-ben-bass-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Caro mio ben: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Caro mio ben: hear the whole song first, then the bass part on its own.", "es": "Caro mio ben: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -505,8 +505,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the bass part on its own."},
-                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -518,7 +518,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -531,12 +531,12 @@
                 },
                 {
                     "id": "song-caro-mio-ben-bass-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -545,11 +545,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -558,11 +558,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -571,18 +571,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-bass-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -591,11 +591,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -604,11 +604,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -617,18 +617,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-bass-4",
-                    "title": {"en": "Lines 5 and 6"},
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -637,11 +637,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -650,11 +650,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -663,18 +663,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-bass-5",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -683,11 +683,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -696,11 +696,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -709,18 +709,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-bass-6",
-                    "title": {"en": "Lines 9 and 10"},
+                    "title": {"en": "Lines 9 and 10", "es": "Frases 9 y 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 9, then sing it back."},
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -729,11 +729,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 10, then sing it back."},
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -742,11 +742,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 and 10 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 9 and 10 joined: hear them, then sing them back.", "es": "Ahora las frases 9 y 10 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -755,18 +755,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-bass-7",
-                    "title": {"en": "Lines 11 and 12"},
+                    "title": {"en": "Lines 11 and 12", "es": "Frases 11 y 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 11, then sing it back."},
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -775,11 +775,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -788,11 +788,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back.", "es": "Ahora las frases 11 y 12 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -801,18 +801,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-bass-8",
-                    "title": {"en": "Lines 13 and 14"},
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 13, then sing it back."},
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -821,11 +821,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 14, then sing it back."},
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -834,11 +834,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back.", "es": "Ahora las frases 13 y 14 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -847,17 +847,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-bass-9",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "A start to end, with the guide."},
+                            "text": {"en": "A start to end, with the guide.", "es": "La sección A de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -866,11 +866,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "B start to end, with the guide."},
+                            "text": {"en": "B start to end, with the guide.", "es": "La sección B de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -879,11 +879,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "A2 start to end, with the guide."},
+                            "text": {"en": "A2 start to end, with the guide.", "es": "La sección A2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -892,11 +892,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -905,17 +905,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-bass-10",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -925,17 +925,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-bass-11",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -947,11 +947,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -963,15 +963,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-bass-12",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Caro mio ben in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "caro-mio-ben", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Caro mio ben in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Caro mio ben en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "caro-mio-ben", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -979,21 +979,21 @@
         },
         {
             "id": "song-caro-mio-ben-alto",
-            "title": {"en": "Alto"},
+            "title": {"en": "Alto", "es": "Contralto"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "song-caro-mio-ben-alto-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Caro mio ben: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Caro mio ben: hear the whole song first, then the alto part on its own.", "es": "Caro mio ben: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1007,8 +1007,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the alto part on its own."},
-                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1020,7 +1020,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1033,12 +1033,12 @@
                 },
                 {
                     "id": "song-caro-mio-ben-alto-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1047,11 +1047,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1060,11 +1060,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1073,18 +1073,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-alto-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1093,11 +1093,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1106,11 +1106,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1119,18 +1119,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-alto-4",
-                    "title": {"en": "Lines 5 and 6"},
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1139,11 +1139,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1152,11 +1152,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1165,18 +1165,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-alto-5",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1185,11 +1185,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1198,11 +1198,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1211,18 +1211,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-alto-6",
-                    "title": {"en": "Lines 9 and 10"},
+                    "title": {"en": "Lines 9 and 10", "es": "Frases 9 y 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 9, then sing it back."},
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1231,11 +1231,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 10, then sing it back."},
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1244,11 +1244,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 and 10 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 9 and 10 joined: hear them, then sing them back.", "es": "Ahora las frases 9 y 10 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1257,18 +1257,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-alto-7",
-                    "title": {"en": "Lines 11 and 12"},
+                    "title": {"en": "Lines 11 and 12", "es": "Frases 11 y 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 11, then sing it back."},
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1277,11 +1277,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1290,11 +1290,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 11 and 12 joined: hear them, then sing them back.", "es": "Ahora las frases 11 y 12 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1303,18 +1303,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-alto-8",
-                    "title": {"en": "Lines 13 and 14"},
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 13, then sing it back."},
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1323,11 +1323,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 14, then sing it back."},
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1336,11 +1336,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back.", "es": "Ahora las frases 13 y 14 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1349,17 +1349,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-alto-9",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "A start to end, with the guide."},
+                            "text": {"en": "A start to end, with the guide.", "es": "La sección A de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1368,11 +1368,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "B start to end, with the guide."},
+                            "text": {"en": "B start to end, with the guide.", "es": "La sección B de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1381,11 +1381,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "A2 start to end, with the guide."},
+                            "text": {"en": "A2 start to end, with the guide.", "es": "La sección A2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1394,11 +1394,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1407,17 +1407,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-alto-10",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1427,17 +1427,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-alto-11",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1449,11 +1449,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1465,15 +1465,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-alto-12",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Caro mio ben in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "caro-mio-ben", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Caro mio ben in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Caro mio ben en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "caro-mio-ben", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -1481,21 +1481,21 @@
         },
         {
             "id": "song-caro-mio-ben-tenor",
-            "title": {"en": "Tenor"},
+            "title": {"en": "Tenor", "es": "Tenor"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "song-caro-mio-ben-tenor-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Caro mio ben: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Caro mio ben: hear the whole song first, then the tenor part on its own.", "es": "Caro mio ben: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1509,8 +1509,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tenor part on its own."},
-                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1522,7 +1522,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1535,12 +1535,12 @@
                 },
                 {
                     "id": "song-caro-mio-ben-tenor-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1549,11 +1549,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1562,11 +1562,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1575,18 +1575,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-tenor-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1595,11 +1595,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1608,11 +1608,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1621,18 +1621,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-tenor-4",
-                    "title": {"en": "Lines 5 and 6"},
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1641,11 +1641,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1654,11 +1654,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1667,18 +1667,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-tenor-5",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1687,11 +1687,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1700,11 +1700,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1713,18 +1713,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-tenor-6",
-                    "title": {"en": "Lines 9 to 11"},
+                    "title": {"en": "Lines 9 to 11", "es": "Frases 9 a 11"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 9, then sing it back."},
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1733,11 +1733,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 1 again. Sing it with the guide.", "es": "La frase 10 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1746,11 +1746,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 11, then sing it back."},
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1759,11 +1759,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 to 11 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 9 to 11 joined: hear them, then sing them back.", "es": "Ahora las frases 9 a 11 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1772,18 +1772,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-tenor-7",
-                    "title": {"en": "Lines 12 to 14"},
+                    "title": {"en": "Lines 12 to 14", "es": "Frases 12 a 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1792,11 +1792,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 13, then sing it back."},
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1805,11 +1805,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 14, then sing it back."},
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1818,11 +1818,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 12 to 14 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 12 to 14 joined: hear them, then sing them back.", "es": "Ahora las frases 12 a 14 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1831,17 +1831,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-tenor-8",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "A start to end, with the guide."},
+                            "text": {"en": "A start to end, with the guide.", "es": "La sección A de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1850,11 +1850,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "B start to end, with the guide."},
+                            "text": {"en": "B start to end, with the guide.", "es": "La sección B de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1863,11 +1863,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "A2 start to end, with the guide."},
+                            "text": {"en": "A2 start to end, with the guide.", "es": "La sección A2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1876,11 +1876,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1889,17 +1889,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-tenor-9",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1909,17 +1909,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-tenor-10",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1931,11 +1931,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "caro-mio-ben",
@@ -1947,15 +1947,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-caro-mio-ben-tenor-11",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Caro mio ben in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "caro-mio-ben", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Caro mio ben in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Caro mio ben en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "caro-mio-ben", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

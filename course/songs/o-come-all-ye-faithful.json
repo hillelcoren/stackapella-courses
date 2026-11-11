@@ -2,25 +2,25 @@
     "id": "song-o-come-all-ye-faithful",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "O Come, All Ye Faithful"},
+    "title": {"en": "O Come, All Ye Faithful", "es": "O Come, All Ye Faithful"},
     "units": [
         {
             "id": "song-o-come-all-ye-faithful-soprano",
-            "title": {"en": "The melody"},
+            "title": {"en": "The melody", "es": "La melodía"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-o-come-all-ye-faithful-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "O Come, All Ye Faithful: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "O Come, All Ye Faithful: hear the whole song first, then the tune on its own.", "es": "O Come, All Ye Faithful: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "ocf-wade-copyist", "text": {"en": "John Francis Wade earned his living copying and selling plainchant and other music by hand. The hymn survives in several manuscripts he signed."}, "source": {"en": "Hymnology Archive, \"Adeste Fideles\""}, "url": "https://www.hymnologyarchive.com/adeste-fideles"}
+                    "fact": {"id": "ocf-wade-copyist", "text": {"en": "John Francis Wade earned his living copying and selling plainchant and other music by hand. The hymn survives in several manuscripts he signed.", "es": "John Francis Wade se ganaba la vida copiando a mano y vendiendo canto llano y otra música. El himno (el \"Adeste fideles\") se conserva en varios manuscritos firmados por él."}, "source": {"en": "Hymnology Archive, \"Adeste Fideles\"", "es": "Hymnology Archive, \"Adeste Fideles\""}, "url": "https://www.hymnologyarchive.com/adeste-fideles"}
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-soprano-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -101,18 +101,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-soprano-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -121,11 +121,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined, with the guide."},
+                            "text": {"en": "Now lines 3 and 4 joined, with the guide.", "es": "Ahora las frases 3 y 4 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -147,18 +147,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-soprano-4",
-                    "title": {"en": "Lines 5 to 7"},
+                    "title": {"en": "Lines 5 to 7", "es": "Frases 5 a 7"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -167,11 +167,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -180,11 +180,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -193,11 +193,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 to 7 joined, with the guide."},
+                            "text": {"en": "Now lines 5 to 7 joined, with the guide.", "es": "Ahora las frases 5 a 7 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -206,17 +206,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-soprano-5",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -225,11 +225,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -238,11 +238,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -251,17 +251,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-soprano-6",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -271,17 +271,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-soprano-7",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -293,11 +293,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -309,38 +309,38 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-soprano-8",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of O Come, All Ye Faithful in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "o-come-all-ye-faithful", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of O Come, All Ye Faithful in Sing, with the other parts playing.", "es": "Graba la melodía de O Come, All Ye Faithful en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "o-come-all-ye-faithful", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "ocf-portuguese-hymn", "text": {"en": "In London it caught on at the Portuguese embassy chapel, where Samuel Webbe was organist. Sheet music of about 1799 sold it as the favourite Portuguese hymn."}, "source": {"en": "Hymnology Archive, \"Adeste Fideles\""}, "url": "https://www.hymnologyarchive.com/adeste-fideles"}
+                    "fact": {"id": "ocf-portuguese-hymn", "text": {"en": "In London it caught on at the Portuguese embassy chapel, where Samuel Webbe was organist. Sheet music of about 1799 sold it as the favourite Portuguese hymn.", "es": "En Londres se hizo popular en la capilla de la embajada de Portugal, donde Samuel Webbe era organista. Una partitura de hacia 1799 lo vendía como el himno portugués favorito."}, "source": {"en": "Hymnology Archive, \"Adeste Fideles\"", "es": "Hymnology Archive, \"Adeste Fideles\""}, "url": "https://www.hymnologyarchive.com/adeste-fideles"}
                 }
             ]
         },
         {
             "id": "song-o-come-all-ye-faithful-bass",
-            "title": {"en": "Bass"},
+            "title": {"en": "Bass", "es": "Bajo"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "song-o-come-all-ye-faithful-bass-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "O Come, All Ye Faithful: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "O Come, All Ye Faithful: hear the whole song first, then the bass part on its own.", "es": "O Come, All Ye Faithful: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -354,8 +354,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the bass part on its own."},
-                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -367,7 +367,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -377,16 +377,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "ocf-first-line", "text": {"en": "Frederick Oakeley's English version of about 1841 began with a different line. The opening everyone sings now came from a reworking in an 1852 hymnal."}, "source": {"en": "Hymnology Archive, \"Adeste Fideles\""}, "url": "https://www.hymnologyarchive.com/adeste-fideles"}
+                    "fact": {"id": "ocf-first-line", "text": {"en": "Frederick Oakeley's English version of about 1841 began with a different line. The opening everyone sings now came from a reworking in an 1852 hymnal.", "es": "La versión inglesa de Frederick Oakeley, de hacia 1841, empezaba con otro verso. El comienzo que hoy canta todo el mundo salió de una revisión en un himnario de 1852."}, "source": {"en": "Hymnology Archive, \"Adeste Fideles\"", "es": "Hymnology Archive, \"Adeste Fideles\""}, "url": "https://www.hymnologyarchive.com/adeste-fideles"}
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-bass-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -395,11 +395,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -408,11 +408,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -421,18 +421,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-bass-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -441,11 +441,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -454,11 +454,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined, with the guide."},
+                            "text": {"en": "Now lines 3 and 4 joined, with the guide.", "es": "Ahora las frases 3 y 4 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -467,18 +467,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-bass-4",
-                    "title": {"en": "Lines 5 to 7"},
+                    "title": {"en": "Lines 5 to 7", "es": "Frases 5 a 7"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -487,11 +487,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -500,11 +500,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -513,11 +513,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 to 7 joined, with the guide."},
+                            "text": {"en": "Now lines 5 to 7 joined, with the guide.", "es": "Ahora las frases 5 a 7 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -526,17 +526,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-bass-5",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -545,11 +545,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -558,11 +558,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -571,17 +571,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-bass-6",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -591,17 +591,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-bass-7",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -613,11 +613,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -629,15 +629,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-bass-8",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of O Come, All Ye Faithful in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "o-come-all-ye-faithful", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of O Come, All Ye Faithful in Sing, with the other parts playing.", "es": "Graba la voz de bajo de O Come, All Ye Faithful en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "o-come-all-ye-faithful", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -645,21 +645,21 @@
         },
         {
             "id": "song-o-come-all-ye-faithful-alto",
-            "title": {"en": "Alto"},
+            "title": {"en": "Alto", "es": "Contralto"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "song-o-come-all-ye-faithful-alto-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "O Come, All Ye Faithful: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "O Come, All Ye Faithful: hear the whole song first, then the alto part on its own.", "es": "O Come, All Ye Faithful: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -673,8 +673,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the alto part on its own."},
-                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -686,7 +686,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -696,16 +696,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "ocf-eight-verses", "text": {"en": "The Latin hymn grew to eight verses: Wade's four, three by Borderies printed in 1822, and an anonymous one from 1857. An 1884 hymnal made the first real try at all eight in English."}, "source": {"en": "Hymnology Archive, \"Adeste Fideles\""}, "url": "https://www.hymnologyarchive.com/adeste-fideles"}
+                    "fact": {"id": "ocf-eight-verses", "text": {"en": "The Latin hymn grew to eight verses: Wade's four, three by Borderies printed in 1822, and an anonymous one from 1857. An 1884 hymnal made the first real try at all eight in English.", "es": "El himno latino llegó a tener ocho estrofas: las cuatro de Wade, tres de Borderies impresas en 1822 y una anónima de 1857. Un himnario de 1884 hizo el primer intento serio de ofrecer las ocho en inglés."}, "source": {"en": "Hymnology Archive, \"Adeste Fideles\"", "es": "Hymnology Archive, \"Adeste Fideles\""}, "url": "https://www.hymnologyarchive.com/adeste-fideles"}
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-alto-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -714,11 +714,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -727,11 +727,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -740,18 +740,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-alto-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -760,11 +760,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -773,11 +773,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined, with the guide."},
+                            "text": {"en": "Now lines 3 and 4 joined, with the guide.", "es": "Ahora las frases 3 y 4 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -786,18 +786,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-alto-4",
-                    "title": {"en": "Lines 5 to 7"},
+                    "title": {"en": "Lines 5 to 7", "es": "Frases 5 a 7"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -806,11 +806,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -819,11 +819,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -832,11 +832,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 to 7 joined, with the guide."},
+                            "text": {"en": "Now lines 5 to 7 joined, with the guide.", "es": "Ahora las frases 5 a 7 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -845,17 +845,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-alto-5",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -864,11 +864,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -877,11 +877,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -890,17 +890,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-alto-6",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -910,17 +910,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-alto-7",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -932,11 +932,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -948,15 +948,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-alto-8",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of O Come, All Ye Faithful in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "o-come-all-ye-faithful", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of O Come, All Ye Faithful in Sing, with the other parts playing.", "es": "Graba la voz de contralto de O Come, All Ye Faithful en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "o-come-all-ye-faithful", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -964,21 +964,21 @@
         },
         {
             "id": "song-o-come-all-ye-faithful-tenor",
-            "title": {"en": "Tenor"},
+            "title": {"en": "Tenor", "es": "Tenor"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "song-o-come-all-ye-faithful-tenor-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "O Come, All Ye Faithful: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "O Come, All Ye Faithful: hear the whole song first, then the tenor part on its own.", "es": "O Come, All Ye Faithful: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -992,8 +992,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tenor part on its own."},
-                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1005,7 +1005,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1018,12 +1018,12 @@
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-tenor-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1032,11 +1032,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1045,11 +1045,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1058,18 +1058,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-tenor-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1078,11 +1078,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1091,11 +1091,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined, with the guide."},
+                            "text": {"en": "Now lines 3 and 4 joined, with the guide.", "es": "Ahora las frases 3 y 4 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1104,18 +1104,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-tenor-4",
-                    "title": {"en": "Lines 5 to 7"},
+                    "title": {"en": "Lines 5 to 7", "es": "Frases 5 a 7"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1124,11 +1124,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1137,11 +1137,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1150,11 +1150,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 to 7 joined, with the guide."},
+                            "text": {"en": "Now lines 5 to 7 joined, with the guide.", "es": "Ahora las frases 5 a 7 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1163,17 +1163,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-tenor-5",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1182,11 +1182,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1195,11 +1195,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1208,17 +1208,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-tenor-6",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1228,17 +1228,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-tenor-7",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1250,11 +1250,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -1266,15 +1266,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-o-come-all-ye-faithful-tenor-8",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of O Come, All Ye Faithful in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "o-come-all-ye-faithful", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of O Come, All Ye Faithful in Sing, with the other parts playing.", "es": "Graba la voz de tenor de O Come, All Ye Faithful en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "o-come-all-ye-faithful", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

@@ -2,25 +2,25 @@
     "id": "song-wade-in-the-water",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Wade in the Water"},
+    "title": {"en": "Wade in the Water", "es": "Wade in the Water"},
     "units": [
         {
             "id": "song-wade-in-the-water-soprano",
-            "title": {"en": "The melody"},
+            "title": {"en": "The melody", "es": "La melodía"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-wade-in-the-water-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Wade in the Water: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Wade in the Water: hear the whole song first, then the tune on its own.", "es": "Wade in the Water: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "witw-new-jubilee-songs-1901", "text": {"en": "Its words were printed in 1901 in New Jubilee Songs as Sung by the Fisk Jubilee Singers. Its arrangement there set the melody and harmony many later versions built on."}, "source": {"en": "Song of America (Hampsong Foundation), Jordan Key, \"The Shift to the Concert Stage: 'Wade in the Water' and the American Spiritual\""}, "url": "https://songofamerica.net/essays/the-shift-to-the-concert-stage-wade-in-the-water-and-the-american-spiritual/"}
+                    "fact": {"id": "witw-new-jubilee-songs-1901", "text": {"en": "Its words were printed in 1901 in New Jubilee Songs as Sung by the Fisk Jubilee Singers. Its arrangement there set the melody and harmony many later versions built on.", "es": "Su letra se imprimió en 1901 en New Jubilee Songs as Sung by the Fisk Jubilee Singers. El arreglo de ese libro fijó la melodía y la armonía en que se basaron muchas versiones posteriores."}, "source": {"en": "Song of America (Hampsong Foundation), Jordan Key, \"The Shift to the Concert Stage: 'Wade in the Water' and the American Spiritual\"", "es": "Song of America (Hampsong Foundation), Jordan Key, \"The Shift to the Concert Stage: 'Wade in the Water' and the American Spiritual\""}, "url": "https://songofamerica.net/essays/the-shift-to-the-concert-stage-wade-in-the-water-and-the-american-spiritual/"}
                 },
                 {
                     "id": "song-wade-in-the-water-soprano-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide.", "es": "La frase 3 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -101,11 +101,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back.", "es": "Ahora las frases 1 a 3 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -114,18 +114,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-soprano-3",
-                    "title": {"en": "Lines 4 to 6"},
+                    "title": {"en": "Lines 4 to 6", "es": "Frases 4 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -147,11 +147,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 6 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 6 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -160,11 +160,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 to 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 4 to 6 joined: hear them, then sing them back.", "es": "Ahora las frases 4 a 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -173,18 +173,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-soprano-4",
-                    "title": {"en": "Lines 7 to 10"},
+                    "title": {"en": "Lines 7 to 10", "es": "Frases 7 a 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -193,11 +193,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide.", "es": "La frase 8 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -206,11 +206,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -219,11 +219,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -232,11 +232,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 to 10 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 to 10 joined: hear them, then sing them back.", "es": "Ahora las frases 7 a 10 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -245,18 +245,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-soprano-5",
-                    "title": {"en": "Lines 11 to 14"},
+                    "title": {"en": "Lines 11 to 14", "es": "Frases 11 a 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 1 again. Sing it with the guide.", "es": "La frase 11 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -265,11 +265,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide.", "es": "La frase 12 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -278,11 +278,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is the tune of line 5 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 13 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 13 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -291,11 +291,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 14 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 14 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 14 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -304,11 +304,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 to 14 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 11 to 14 joined: hear them, then sing them back.", "es": "Ahora las frases 11 a 14 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -317,18 +317,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-soprano-6",
-                    "title": {"en": "Lines 15 to 18"},
+                    "title": {"en": "Lines 15 to 18", "es": "Frases 15 a 18"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 15, then sing it back."},
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -337,11 +337,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide.", "es": "La frase 16 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -350,11 +350,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -363,11 +363,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide.", "es": "La frase 18 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -376,11 +376,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 15 to 18 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 15 to 18 joined: hear them, then sing them back.", "es": "Ahora las frases 15 a 18 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -389,18 +389,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-soprano-7",
-                    "title": {"en": "Lines 19 and 20"},
+                    "title": {"en": "Lines 19 and 20", "es": "Frases 19 y 20"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 19 is line 1 again. Sing it with the guide.", "es": "La frase 19 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -409,11 +409,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 20, then sing it back."},
+                            "text": {"en": "Hear line 20, then sing it back.", "es": "Escucha la frase 20 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -422,11 +422,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 19 and 20 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 19 and 20 joined: hear them, then sing them back.", "es": "Ahora las frases 19 y 20 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -435,17 +435,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-soprano-8",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Chorus start to end, with the guide."},
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -454,11 +454,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -467,11 +467,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Chorus start to end, with the guide."},
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -480,11 +480,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -493,11 +493,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -506,17 +506,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-soprano-9",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -526,17 +526,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-soprano-10",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -548,11 +548,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -564,21 +564,21 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-soprano-11",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Wade in the Water in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "wade-in-the-water", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Wade in the Water in Sing, with the other parts playing.", "es": "Graba la melodía de Wade in the Water en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "wade-in-the-water", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
                     "fact": {
                         "id": "witw-burleigh-octave",
-                        "text": {"en": "The composer Harry T. Burleigh made it an art song for voice and piano. He reshaped the melody in the verses and lifted the tune an octave at the end for a stronger climax."},
-                        "source": {"en": "Song of America (Hampsong Foundation), Jordan Key, \"The Shift to the Concert Stage: 'Wade in the Water' and the American Spiritual\""},
+                        "text": {"en": "The composer Harry T. Burleigh made it an art song for voice and piano. He reshaped the melody in the verses and lifted the tune an octave at the end for a stronger climax.", "es": "El compositor Harry T. Burleigh la convirtió en canción artística para voz y piano. Rehízo la melodía de las estrofas y la subió una octava al final para un clímax más fuerte."},
+                        "source": {"en": "Song of America (Hampsong Foundation), Jordan Key, \"The Shift to the Concert Stage: 'Wade in the Water' and the American Spiritual\"", "es": "Song of America (Hampsong Foundation), Jordan Key, \"The Shift to the Concert Stage: 'Wade in the Water' and the American Spiritual\""},
                         "url": "https://songofamerica.net/essays/the-shift-to-the-concert-stage-wade-in-the-water-and-the-american-spiritual/",
                         "distinct": ["swl-burleigh-1917"]
                     }
@@ -587,21 +587,21 @@
         },
         {
             "id": "song-wade-in-the-water-bass",
-            "title": {"en": "Bass"},
+            "title": {"en": "Bass", "es": "Bajo"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "song-wade-in-the-water-bass-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Wade in the Water: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Wade in the Water: hear the whole song first, then the bass part on its own.", "es": "Wade in the Water: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -615,8 +615,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the bass part on its own."},
-                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -628,7 +628,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -638,16 +638,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "witw-ailey-revelations", "text": {"en": "Alvin Ailey's dance Revelations, first performed in 1960, uses it in the section Take Me to the Water. His company calls Revelations the most widely seen modern dance work in the world."}, "source": {"en": "Alvin Ailey American Dance Theater, \"Revelations by Alvin Ailey\", AILEY Dance Repertory"}, "url": "https://ailey.org/node/362"}
+                    "fact": {"id": "witw-ailey-revelations", "text": {"en": "Alvin Ailey's dance Revelations, first performed in 1960, uses it in the section Take Me to the Water. His company calls Revelations the most widely seen modern dance work in the world.", "es": "La obra de danza Revelations de Alvin Ailey, estrenada en 1960, la usa en la sección Take Me to the Water. Su compañía dice que Revelations es la obra de danza moderna más vista del mundo."}, "source": {"en": "Alvin Ailey American Dance Theater, \"Revelations by Alvin Ailey\", AILEY Dance Repertory", "es": "Alvin Ailey American Dance Theater, \"Revelations by Alvin Ailey\", AILEY Dance Repertory"}, "url": "https://ailey.org/node/362"}
                 },
                 {
                     "id": "song-wade-in-the-water-bass-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -656,11 +656,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -669,11 +669,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -682,18 +682,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-bass-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -702,11 +702,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -715,11 +715,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -728,18 +728,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-bass-4",
-                    "title": {"en": "Lines 5 and 6"},
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -748,11 +748,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 6, then sing it back."},
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -761,11 +761,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -774,18 +774,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-bass-5",
-                    "title": {"en": "Lines 7 to 10"},
+                    "title": {"en": "Lines 7 to 10", "es": "Frases 7 a 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -794,11 +794,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -807,11 +807,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -820,11 +820,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -833,11 +833,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 to 10 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 to 10 joined: hear them, then sing them back.", "es": "Ahora las frases 7 a 10 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -846,18 +846,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-bass-6",
-                    "title": {"en": "Lines 11 to 14"},
+                    "title": {"en": "Lines 11 to 14", "es": "Frases 11 a 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide.", "es": "La frase 11 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -866,11 +866,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide.", "es": "La frase 12 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -879,11 +879,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is line 5 again. Sing it with the guide."},
+                            "text": {"en": "Line 13 is line 5 again. Sing it with the guide.", "es": "La frase 13 repite la frase 5. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -892,11 +892,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 14 is line 6 again. Sing it with the guide."},
+                            "text": {"en": "Line 14 is line 6 again. Sing it with the guide.", "es": "La frase 14 repite la frase 6. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -905,11 +905,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 to 14 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 11 to 14 joined: hear them, then sing them back.", "es": "Ahora las frases 11 a 14 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -918,18 +918,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-bass-7",
-                    "title": {"en": "Lines 15 to 18"},
+                    "title": {"en": "Lines 15 to 18", "es": "Frases 15 a 18"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 15 is line 7 again. Sing it with the guide."},
+                            "text": {"en": "Line 15 is line 7 again. Sing it with the guide.", "es": "La frase 15 repite la frase 7. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -938,11 +938,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is line 8 again. Sing it with the guide."},
+                            "text": {"en": "Line 16 is line 8 again. Sing it with the guide.", "es": "La frase 16 repite la frase 8. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -951,11 +951,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -964,11 +964,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide.", "es": "La frase 18 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -977,11 +977,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 15 to 18 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 15 to 18 joined: hear them, then sing them back.", "es": "Ahora las frases 15 a 18 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -990,18 +990,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-bass-8",
-                    "title": {"en": "Lines 19 and 20"},
+                    "title": {"en": "Lines 19 and 20", "es": "Frases 19 y 20"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide.", "es": "La frase 19 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1010,11 +1010,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 20, then sing it back."},
+                            "text": {"en": "Hear line 20, then sing it back.", "es": "Escucha la frase 20 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1023,11 +1023,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 19 and 20 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 19 and 20 joined: hear them, then sing them back.", "es": "Ahora las frases 19 y 20 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1036,17 +1036,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-bass-9",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Chorus start to end, with the guide."},
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1055,11 +1055,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1068,11 +1068,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Chorus start to end, with the guide."},
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1081,11 +1081,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1094,11 +1094,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1107,17 +1107,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-bass-10",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1127,17 +1127,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-bass-11",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1149,11 +1149,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1165,15 +1165,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-bass-12",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Wade in the Water in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "wade-in-the-water", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Wade in the Water in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Wade in the Water en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "wade-in-the-water", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1181,21 +1181,21 @@
         },
         {
             "id": "song-wade-in-the-water-alto",
-            "title": {"en": "Alto"},
+            "title": {"en": "Alto", "es": "Contralto"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "song-wade-in-the-water-alto-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Wade in the Water: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Wade in the Water: hear the whole song first, then the alto part on its own.", "es": "Wade in the Water: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1209,8 +1209,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the alto part on its own."},
-                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1222,7 +1222,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1232,16 +1232,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "witw-npr-series-1994", "text": {"en": "In 1994 NPR released a 26-part radio series on African American sacred music and titled it Wade in the Water."}, "source": {"en": "NPR, \"Wade In The Water Ep. 6: Lined Hymn & Shaped-Note Tradition\""}, "url": "https://text.npr.org/711806914"}
+                    "fact": {"id": "witw-npr-series-1994", "text": {"en": "In 1994 NPR released a 26-part radio series on African American sacred music and titled it Wade in the Water.", "es": "En 1994, NPR emitió una serie de radio de 26 capítulos sobre la música sacra afroamericana y la tituló Wade in the Water."}, "source": {"en": "NPR, \"Wade In The Water Ep. 6: Lined Hymn & Shaped-Note Tradition\"", "es": "NPR, \"Wade In The Water Ep. 6: Lined Hymn & Shaped-Note Tradition\""}, "url": "https://text.npr.org/711806914"}
                 },
                 {
                     "id": "song-wade-in-the-water-alto-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1250,11 +1250,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1263,11 +1263,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1276,18 +1276,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-alto-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1296,11 +1296,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1309,11 +1309,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1322,18 +1322,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-alto-4",
-                    "title": {"en": "Lines 5 to 8"},
+                    "title": {"en": "Lines 5 to 8", "es": "Frases 5 a 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1342,11 +1342,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 6 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 6 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1355,11 +1355,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1368,11 +1368,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide.", "es": "La frase 8 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1381,11 +1381,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 to 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 to 8 joined: hear them, then sing them back.", "es": "Ahora las frases 5 a 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1394,18 +1394,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-alto-5",
-                    "title": {"en": "Lines 9 to 12"},
+                    "title": {"en": "Lines 9 to 12", "es": "Frases 9 a 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1414,11 +1414,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1427,11 +1427,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide.", "es": "La frase 11 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1440,11 +1440,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide.", "es": "La frase 12 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1453,11 +1453,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 to 12 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 9 to 12 joined: hear them, then sing them back.", "es": "Ahora las frases 9 a 12 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1466,18 +1466,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-alto-6",
-                    "title": {"en": "Lines 13 to 16"},
+                    "title": {"en": "Lines 13 to 16", "es": "Frases 13 a 16"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is line 5 again. Sing it with the guide."},
+                            "text": {"en": "Line 13 is line 5 again. Sing it with the guide.", "es": "La frase 13 repite la frase 5. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1486,11 +1486,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 14 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 14 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 14 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1499,11 +1499,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 15 is line 7 again. Sing it with the guide."},
+                            "text": {"en": "Line 15 is line 7 again. Sing it with the guide.", "es": "La frase 15 repite la frase 7. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1512,11 +1512,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide.", "es": "La frase 16 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1525,11 +1525,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 13 to 16 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 13 to 16 joined: hear them, then sing them back.", "es": "Ahora las frases 13 a 16 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1538,18 +1538,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-alto-7",
-                    "title": {"en": "Lines 17 to 20"},
+                    "title": {"en": "Lines 17 to 20", "es": "Frases 17 a 20"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1558,11 +1558,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide.", "es": "La frase 18 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1571,11 +1571,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide.", "es": "La frase 19 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1584,11 +1584,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 20, then sing it back."},
+                            "text": {"en": "Hear line 20, then sing it back.", "es": "Escucha la frase 20 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1597,11 +1597,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 17 to 20 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 17 to 20 joined: hear them, then sing them back.", "es": "Ahora las frases 17 a 20 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1610,17 +1610,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-alto-8",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Chorus start to end, with the guide."},
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1629,11 +1629,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1642,11 +1642,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Chorus start to end, with the guide."},
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1655,11 +1655,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1668,11 +1668,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1681,17 +1681,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-alto-9",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1701,17 +1701,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-alto-10",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1723,11 +1723,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1739,15 +1739,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-alto-11",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Wade in the Water in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "wade-in-the-water", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Wade in the Water in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Wade in the Water en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "wade-in-the-water", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -1755,21 +1755,21 @@
         },
         {
             "id": "song-wade-in-the-water-tenor",
-            "title": {"en": "Tenor"},
+            "title": {"en": "Tenor", "es": "Tenor"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "song-wade-in-the-water-tenor-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Wade in the Water: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Wade in the Water: hear the whole song first, then the tenor part on its own.", "es": "Wade in the Water: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1783,8 +1783,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tenor part on its own."},
-                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1796,7 +1796,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1809,12 +1809,12 @@
                 },
                 {
                     "id": "song-wade-in-the-water-tenor-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1823,11 +1823,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1836,11 +1836,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1849,18 +1849,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-tenor-3",
-                    "title": {"en": "Lines 3 and 4"},
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1869,11 +1869,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1882,11 +1882,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1895,18 +1895,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-tenor-4",
-                    "title": {"en": "Lines 5 to 8"},
+                    "title": {"en": "Lines 5 to 8", "es": "Frases 5 a 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1915,11 +1915,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 6 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 6 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1928,11 +1928,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1941,11 +1941,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide.", "es": "La frase 8 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1954,11 +1954,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 5 to 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 5 to 8 joined: hear them, then sing them back.", "es": "Ahora las frases 5 a 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1967,18 +1967,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-tenor-5",
-                    "title": {"en": "Lines 9 to 12"},
+                    "title": {"en": "Lines 9 to 12", "es": "Frases 9 a 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -1987,11 +1987,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2000,11 +2000,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide.", "es": "La frase 11 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2013,11 +2013,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide.", "es": "La frase 12 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2026,11 +2026,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 to 12 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 9 to 12 joined: hear them, then sing them back.", "es": "Ahora las frases 9 a 12 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2039,18 +2039,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-tenor-6",
-                    "title": {"en": "Lines 13 to 16"},
+                    "title": {"en": "Lines 13 to 16", "es": "Frases 13 a 16"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is line 5 again. Sing it with the guide."},
+                            "text": {"en": "Line 13 is line 5 again. Sing it with the guide.", "es": "La frase 13 repite la frase 5. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2059,11 +2059,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 14 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 14 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 14 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2072,11 +2072,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 15 is line 7 again. Sing it with the guide."},
+                            "text": {"en": "Line 15 is line 7 again. Sing it with the guide.", "es": "La frase 15 repite la frase 7. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2085,11 +2085,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide.", "es": "La frase 16 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2098,11 +2098,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 13 to 16 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 13 to 16 joined: hear them, then sing them back.", "es": "Ahora las frases 13 a 16 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2111,18 +2111,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-tenor-7",
-                    "title": {"en": "Lines 17 to 20"},
+                    "title": {"en": "Lines 17 to 20", "es": "Frases 17 a 20"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2131,11 +2131,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide.", "es": "La frase 18 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2144,11 +2144,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide.", "es": "La frase 19 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2157,11 +2157,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 20, then sing it back."},
+                            "text": {"en": "Hear line 20, then sing it back.", "es": "Escucha la frase 20 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2170,11 +2170,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 17 to 20 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 17 to 20 joined: hear them, then sing them back.", "es": "Ahora las frases 17 a 20 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2183,17 +2183,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-tenor-8",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Chorus start to end, with the guide."},
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2202,11 +2202,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2215,11 +2215,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Chorus start to end, with the guide."},
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2228,11 +2228,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2241,11 +2241,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2254,17 +2254,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-tenor-9",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2274,17 +2274,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-tenor-10",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2296,11 +2296,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "wade-in-the-water",
@@ -2312,15 +2312,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-wade-in-the-water-tenor-11",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Wade in the Water in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "wade-in-the-water", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Wade in the Water in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Wade in the Water en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "wade-in-the-water", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

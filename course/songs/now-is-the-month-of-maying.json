@@ -2,25 +2,25 @@
     "id": "song-now-is-the-month-of-maying",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Now Is the Month of Maying"},
+    "title": {"en": "Now Is the Month of Maying", "es": "Now Is the Month of Maying"},
     "units": [
         {
             "id": "song-now-is-the-month-of-maying-soprano",
-            "title": {"en": "The melody"},
+            "title": {"en": "The melody", "es": "La melodía"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-now-is-the-month-of-maying-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now Is the Month of Maying: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Now Is the Month of Maying: hear the whole song first, then the tune on its own.", "es": "Now Is the Month of Maying: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "nimm-fa-las-gastoldi", "text": {"en": "In his 1597 music textbook, Morley said balletts, also called fa las, were songs for dancing as well as singing, and that the first set he had seen was by the Italian Gastoldi."}, "source": {"en": "Thomas Morley, A Plaine and Easie Introduction to Practicall Musicke (1597), excerpt \"Thomas Morley on Kinds of Vocal Music\", University of Mississippi course page"}, "url": "https://home.olemiss.edu/~mudws/courses/morley.html"}
+                    "fact": {"id": "nimm-fa-las-gastoldi", "text": {"en": "In his 1597 music textbook, Morley said balletts, also called fa las, were songs for dancing as well as singing, and that the first set he had seen was by the Italian Gastoldi.", "es": "En su manual de música de 1597, Morley decía que los balletts, también llamados fa las, eran canciones para bailar además de cantar, y que la primera colección que había visto era del italiano Gastoldi."}, "source": {"en": "Thomas Morley, A Plaine and Easie Introduction to Practicall Musicke (1597), excerpt \"Thomas Morley on Kinds of Vocal Music\", University of Mississippi course page", "es": "Thomas Morley, A Plaine and Easie Introduction to Practicall Musicke (1597), fragmento \"Thomas Morley on Kinds of Vocal Music\", página de un curso de la University of Mississippi"}, "url": "https://home.olemiss.edu/~mudws/courses/morley.html"}
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-soprano-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -101,18 +101,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-soprano-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -121,11 +121,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 4 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 4 is line 1 again. Sing it with the guide.", "es": "La frase 4 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide.", "es": "La frase 5 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -147,11 +147,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide.", "es": "La frase 6 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -160,11 +160,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -173,18 +173,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-soprano-4",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -193,11 +193,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -206,11 +206,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -219,18 +219,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-soprano-5",
-                    "title": {"en": "Lines 9 to 12"},
+                    "title": {"en": "Lines 9 to 12", "es": "Frases 9 a 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 9, then sing it back."},
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -239,11 +239,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 7 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 7 again. Sing it with the guide.", "es": "La frase 10 repite la frase 7. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -252,11 +252,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 8 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 8 again. Sing it with the guide.", "es": "La frase 11 repite la frase 8. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -265,11 +265,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -278,11 +278,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 to 12 joined, with the guide."},
+                            "text": {"en": "Now lines 9 to 12 joined, with the guide.", "es": "Ahora las frases 9 a 12 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -291,17 +291,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-soprano-6",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "First half start to end, with the guide."},
+                            "text": {"en": "First half start to end, with the guide.", "es": "La primera mitad de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -310,11 +310,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "First half again start to end, with the guide."},
+                            "text": {"en": "First half again start to end, with the guide.", "es": "La primera mitad, otra vez de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -323,11 +323,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Second half start to end, with the guide."},
+                            "text": {"en": "Second half start to end, with the guide.", "es": "La segunda mitad de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -336,11 +336,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Second half again start to end, with the guide."},
+                            "text": {"en": "Second half again start to end, with the guide.", "es": "La segunda mitad, otra vez de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -349,11 +349,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -362,17 +362,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-soprano-7",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -382,17 +382,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-soprano-8",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -404,11 +404,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -420,38 +420,38 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-soprano-9",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Now Is the Month of Maying in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "now-is-the-month-of-maying", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Now Is the Month of Maying in Sing, with the other parts playing.", "es": "Graba la melodía de Now Is the Month of Maying en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "now-is-the-month-of-maying", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "nimm-new-music-italian-models", "text": {"en": "Earlier English editors put English words to unchanged Italian pieces. For his 1595 balletts, Morley instead wrote new music loosely modeled on Italian ones."}, "source": {"en": "Megan Kaes Long, \"Characteristic Tonality in the Balletti of Gastoldi, Morley, and Hassler\", Journal of Music Theory (abstract), Oberlin College Digital Commons"}, "url": "https://digitalcommons.oberlin.edu/faculty_schol/3089"}
+                    "fact": {"id": "nimm-new-music-italian-models", "text": {"en": "Earlier English editors put English words to unchanged Italian pieces. For his 1595 balletts, Morley instead wrote new music loosely modeled on Italian ones.", "es": "Los editores ingleses anteriores ponían letra inglesa a piezas italianas sin cambiarlas. Para sus balletts de 1595, Morley escribió en cambio música nueva, inspirada libremente en modelos italianos."}, "source": {"en": "Megan Kaes Long, \"Characteristic Tonality in the Balletti of Gastoldi, Morley, and Hassler\", Journal of Music Theory (abstract), Oberlin College Digital Commons", "es": "Megan Kaes Long, \"Characteristic Tonality in the Balletti of Gastoldi, Morley, and Hassler\", Journal of Music Theory (resumen), Oberlin College Digital Commons"}, "url": "https://digitalcommons.oberlin.edu/faculty_schol/3089"}
                 }
             ]
         },
         {
             "id": "song-now-is-the-month-of-maying-alto",
-            "title": {"en": "Alto"},
+            "title": {"en": "Alto", "es": "Contralto"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "song-now-is-the-month-of-maying-alto-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now Is the Month of Maying: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Now Is the Month of Maying: hear the whole song first, then the alto part on its own.", "es": "Now Is the Month of Maying: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -465,8 +465,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the alto part on its own."},
-                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -478,7 +478,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -488,16 +488,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "nimm-italian-edition", "text": {"en": "Morley's book of balletts came out in 1595 in two editions from the same London printer, Thomas Este: one in English and one with Italian words."}, "source": {"en": "IMSLP, \"Balletts to Five Voyces, Book 1 (Morley, Thomas)\""}, "url": "https://imslp.org/wiki/Balletts_to_Five_Voyces,_Book_1_(Morley,_Thomas)"}
+                    "fact": {"id": "nimm-italian-edition", "text": {"en": "Morley's book of balletts came out in 1595 in two editions from the same London printer, Thomas Este: one in English and one with Italian words.", "es": "El libro de balletts de Morley salió en 1595 en dos ediciones del mismo impresor londinense, Thomas Este: una en inglés y otra con letra italiana."}, "source": {"en": "IMSLP, \"Balletts to Five Voyces, Book 1 (Morley, Thomas)\"", "es": "IMSLP, \"Balletts to Five Voyces, Book 1 (Morley, Thomas)\""}, "url": "https://imslp.org/wiki/Balletts_to_Five_Voyces,_Book_1_(Morley,_Thomas)"}
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-alto-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -506,11 +506,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -519,11 +519,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -532,18 +532,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-alto-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -552,11 +552,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 4 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 4 is line 1 again. Sing it with the guide.", "es": "La frase 4 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -565,11 +565,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide.", "es": "La frase 5 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -578,11 +578,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide.", "es": "La frase 6 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -591,11 +591,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -604,18 +604,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-alto-4",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -624,11 +624,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -637,11 +637,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -650,18 +650,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-alto-5",
-                    "title": {"en": "Lines 9 to 12"},
+                    "title": {"en": "Lines 9 to 12", "es": "Frases 9 a 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 9, then sing it back."},
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -670,11 +670,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 7 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 7 again. Sing it with the guide.", "es": "La frase 10 repite la frase 7. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -683,11 +683,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 8 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 8 again. Sing it with the guide.", "es": "La frase 11 repite la frase 8. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -696,11 +696,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -709,11 +709,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 to 12 joined, with the guide."},
+                            "text": {"en": "Now lines 9 to 12 joined, with the guide.", "es": "Ahora las frases 9 a 12 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -722,17 +722,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-alto-6",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "First half start to end, with the guide."},
+                            "text": {"en": "First half start to end, with the guide.", "es": "La primera mitad de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -741,11 +741,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "First half again start to end, with the guide."},
+                            "text": {"en": "First half again start to end, with the guide.", "es": "La primera mitad, otra vez de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -754,11 +754,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Second half start to end, with the guide."},
+                            "text": {"en": "Second half start to end, with the guide.", "es": "La segunda mitad de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -767,11 +767,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Second half again start to end, with the guide."},
+                            "text": {"en": "Second half again start to end, with the guide.", "es": "La segunda mitad, otra vez de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -780,11 +780,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -793,17 +793,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-alto-7",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -813,17 +813,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-alto-8",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -835,11 +835,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -851,15 +851,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-alto-9",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Now Is the Month of Maying in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "now-is-the-month-of-maying", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Now Is the Month of Maying in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Now Is the Month of Maying en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "now-is-the-month-of-maying", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -867,21 +867,21 @@
         },
         {
             "id": "song-now-is-the-month-of-maying-bass",
-            "title": {"en": "Bass"},
+            "title": {"en": "Bass", "es": "Bajo"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "song-now-is-the-month-of-maying-bass-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now Is the Month of Maying: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Now Is the Month of Maying: hear the whole song first, then the bass part on its own.", "es": "Now Is the Month of Maying: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -895,8 +895,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the bass part on its own."},
-                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -908,7 +908,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -921,12 +921,12 @@
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-bass-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -935,11 +935,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -948,11 +948,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -961,18 +961,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-bass-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -981,11 +981,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 4 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 4 is line 1 again. Sing it with the guide.", "es": "La frase 4 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -994,11 +994,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide.", "es": "La frase 5 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1007,11 +1007,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide.", "es": "La frase 6 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1020,11 +1020,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1033,18 +1033,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-bass-4",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1053,11 +1053,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1066,11 +1066,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1079,18 +1079,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-bass-5",
-                    "title": {"en": "Lines 9 to 12"},
+                    "title": {"en": "Lines 9 to 12", "es": "Frases 9 a 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 9, then sing it back."},
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1099,11 +1099,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 7 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 7 again. Sing it with the guide.", "es": "La frase 10 repite la frase 7. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1112,11 +1112,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 8 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 8 again. Sing it with the guide.", "es": "La frase 11 repite la frase 8. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1125,11 +1125,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1138,11 +1138,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 to 12 joined, with the guide."},
+                            "text": {"en": "Now lines 9 to 12 joined, with the guide.", "es": "Ahora las frases 9 a 12 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1151,17 +1151,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-bass-6",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "First half start to end, with the guide."},
+                            "text": {"en": "First half start to end, with the guide.", "es": "La primera mitad de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1170,11 +1170,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "First half again start to end, with the guide."},
+                            "text": {"en": "First half again start to end, with the guide.", "es": "La primera mitad, otra vez de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1183,11 +1183,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Second half start to end, with the guide."},
+                            "text": {"en": "Second half start to end, with the guide.", "es": "La segunda mitad de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1196,11 +1196,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Second half again start to end, with the guide."},
+                            "text": {"en": "Second half again start to end, with the guide.", "es": "La segunda mitad, otra vez de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1209,11 +1209,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1222,17 +1222,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-bass-7",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1242,17 +1242,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-bass-8",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1264,11 +1264,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1280,15 +1280,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-bass-9",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Now Is the Month of Maying in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "now-is-the-month-of-maying", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Now Is the Month of Maying in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Now Is the Month of Maying en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "now-is-the-month-of-maying", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1296,21 +1296,21 @@
         },
         {
             "id": "song-now-is-the-month-of-maying-tenor",
-            "title": {"en": "Tenor"},
+            "title": {"en": "Tenor", "es": "Tenor"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "song-now-is-the-month-of-maying-tenor-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now Is the Month of Maying: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Now Is the Month of Maying: hear the whole song first, then the tenor part on its own.", "es": "Now Is the Month of Maying: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1324,8 +1324,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tenor part on its own."},
-                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1337,7 +1337,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1350,12 +1350,12 @@
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-tenor-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1364,11 +1364,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1377,11 +1377,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1390,18 +1390,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-tenor-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1410,11 +1410,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 4 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 4 is line 1 again. Sing it with the guide.", "es": "La frase 4 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1423,11 +1423,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide.", "es": "La frase 5 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1436,11 +1436,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide.", "es": "La frase 6 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1449,11 +1449,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1462,18 +1462,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-tenor-4",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1482,11 +1482,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1495,11 +1495,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1508,18 +1508,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-tenor-5",
-                    "title": {"en": "Lines 9 to 12"},
+                    "title": {"en": "Lines 9 to 12", "es": "Frases 9 a 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 9, then sing it back."},
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1528,11 +1528,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 7 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 7 again. Sing it with the guide.", "es": "La frase 10 repite la frase 7. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1541,11 +1541,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 8 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 8 again. Sing it with the guide.", "es": "La frase 11 repite la frase 8. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1554,11 +1554,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1567,11 +1567,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 9 to 12 joined, with the guide."},
+                            "text": {"en": "Now lines 9 to 12 joined, with the guide.", "es": "Ahora las frases 9 a 12 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1580,17 +1580,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-tenor-6",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "First half start to end, with the guide."},
+                            "text": {"en": "First half start to end, with the guide.", "es": "La primera mitad de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1599,11 +1599,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "First half again start to end, with the guide."},
+                            "text": {"en": "First half again start to end, with the guide.", "es": "La primera mitad, otra vez de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1612,11 +1612,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Second half start to end, with the guide."},
+                            "text": {"en": "Second half start to end, with the guide.", "es": "La segunda mitad de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1625,11 +1625,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Second half again start to end, with the guide."},
+                            "text": {"en": "Second half again start to end, with the guide.", "es": "La segunda mitad, otra vez de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1638,11 +1638,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1651,17 +1651,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-tenor-7",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1671,17 +1671,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-tenor-8",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1693,11 +1693,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "now-is-the-month-of-maying",
@@ -1709,15 +1709,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-now-is-the-month-of-maying-tenor-9",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Now Is the Month of Maying in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "now-is-the-month-of-maying", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Now Is the Month of Maying in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Now Is the Month of Maying en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "now-is-the-month-of-maying", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

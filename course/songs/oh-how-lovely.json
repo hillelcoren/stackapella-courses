@@ -2,25 +2,25 @@
     "id": "song-oh-how-lovely",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Oh, How Lovely Is the Evening (round)"},
+    "title": {"en": "Oh, How Lovely Is the Evening (round)", "es": "Oh, How Lovely Is the Evening (round)"},
     "units": [
         {
             "id": "song-oh-how-lovely-soprano",
-            "title": {"en": "The round"},
+            "title": {"en": "The round", "es": "El canon"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-oh-how-lovely-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Oh, How Lovely Is the Evening: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Oh, How Lovely Is the Evening: hear the whole song first, then the tune on its own.", "es": "Oh, How Lovely Is the Evening: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "ohl-german", "text": {"en": "The tune is a German round, \"O wie wohl ist mir am Abend\", usually credited to the teacher Karl Friedrich Schulz: its oldest known printing is in his singing method of 1812, though whether he wrote it is not certain."}, "source": {"en": "Wikipedia (German), \"O wie wohl ist mir am Abend\", citing Karl Schulz, Leitfaden bei der Gesanglehre (Leipzig, 1812), p. 22"}, "url": "https://de.wikipedia.org/wiki/O_wie_wohl_ist_mir_am_Abend"}
+                    "fact": {"id": "ohl-german", "text": {"en": "The tune is a German round, \"O wie wohl ist mir am Abend\", usually credited to the teacher Karl Friedrich Schulz: its oldest known printing is in his singing method of 1812, though whether he wrote it is not certain.", "es": "La melodía es un canon alemán, \"O wie wohl ist mir am Abend\", que suele atribuirse al maestro Karl Friedrich Schulz: su impresión más antigua conocida está en su método de canto de 1812, aunque no es seguro que él lo escribiera."}, "source": {"en": "Wikipedia (German), \"O wie wohl ist mir am Abend\", citing Karl Schulz, Leitfaden bei der Gesanglehre (Leipzig, 1812), p. 22", "es": "Wikipedia (alemán), \"O wie wohl ist mir am Abend\", citando a Karl Schulz, Leitfaden bei der Gesanglehre (Leipzig, 1812), p. 22"}, "url": "https://de.wikipedia.org/wiki/O_wie_wohl_ist_mir_am_Abend"}
                 },
                 {
                     "id": "song-oh-how-lovely-soprano-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 3 is line 2 again. Sing it with the guide.", "es": "La frase 3 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -101,11 +101,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back.", "es": "Ahora las frases 1 a 3 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -114,18 +114,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-oh-how-lovely-soprano-3",
-                    "title": {"en": "Lines 4 to 7"},
+                    "title": {"en": "Lines 4 to 7", "es": "Frases 4 a 7"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, then sing it back."},
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -147,11 +147,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is the tune of line 5 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 6 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 6 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -160,11 +160,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -173,11 +173,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 to 7 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 4 to 7 joined: hear them, then sing them back.", "es": "Ahora las frases 4 a 7 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -186,18 +186,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-oh-how-lovely-soprano-4",
-                    "title": {"en": "Lines 8 to 11"},
+                    "title": {"en": "Lines 8 to 11", "es": "Frases 8 a 11"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 8 is the tune of line 7 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 7, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -206,11 +206,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 9 is the tune of line 7 again, with new words. Sing it with the guide.", "es": "La frase 9 repite la melodía de la frase 7, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -219,11 +219,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 1 again. Sing it with the guide.", "es": "La frase 10 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -232,11 +232,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 2 again. Sing it with the guide.", "es": "La frase 11 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -245,11 +245,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 8 to 11 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 8 to 11 joined: hear them, then sing them back.", "es": "Ahora las frases 8 a 11 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -258,18 +258,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-oh-how-lovely-soprano-5",
-                    "title": {"en": "Lines 12 to 15"},
+                    "title": {"en": "Lines 12 to 15", "es": "Frases 12 a 15"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 2 again. Sing it with the guide.", "es": "La frase 12 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -278,11 +278,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 13 is line 4 again. Sing it with the guide.", "es": "La frase 13 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -291,11 +291,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 14 is line 5 again. Sing it with the guide."},
+                            "text": {"en": "Line 14 is line 5 again. Sing it with the guide.", "es": "La frase 14 repite la frase 5. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -304,11 +304,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 15 is the tune of line 5 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 15 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 15 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -317,11 +317,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 12 to 15 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 12 to 15 joined: hear them, then sing them back.", "es": "Ahora las frases 12 a 15 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -330,18 +330,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-oh-how-lovely-soprano-6",
-                    "title": {"en": "Lines 16 to 19"},
+                    "title": {"en": "Lines 16 to 19", "es": "Frases 16 a 19"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is line 7 again. Sing it with the guide."},
+                            "text": {"en": "Line 16 is line 7 again. Sing it with the guide.", "es": "La frase 16 repite la frase 7. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -350,11 +350,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 17 is the tune of line 7 again, with new words. Sing it with the guide.", "es": "La frase 17 repite la melodía de la frase 7, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -363,11 +363,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 18 is the tune of line 7 again, with new words. Sing it with the guide.", "es": "La frase 18 repite la melodía de la frase 7, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -376,11 +376,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 19 is line 1 again. Sing it with the guide.", "es": "La frase 19 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -389,11 +389,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 16 to 19 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 16 to 19 joined: hear them, then sing them back.", "es": "Ahora las frases 16 a 19 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -402,18 +402,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-oh-how-lovely-soprano-7",
-                    "title": {"en": "Lines 20 to 23"},
+                    "title": {"en": "Lines 20 to 23", "es": "Frases 20 a 23"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 20 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 20 is line 2 again. Sing it with the guide.", "es": "La frase 20 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -422,11 +422,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 21 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 21 is line 2 again. Sing it with the guide.", "es": "La frase 21 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -435,11 +435,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 22 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 22 is line 4 again. Sing it with the guide.", "es": "La frase 22 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -448,11 +448,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 23 is line 5 again. Sing it with the guide."},
+                            "text": {"en": "Line 23 is line 5 again. Sing it with the guide.", "es": "La frase 23 repite la frase 5. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -461,11 +461,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 20 to 23 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 20 to 23 joined: hear them, then sing them back.", "es": "Ahora las frases 20 a 23 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -474,18 +474,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-oh-how-lovely-soprano-8",
-                    "title": {"en": "Lines 24 to 27"},
+                    "title": {"en": "Lines 24 to 27", "es": "Frases 24 a 27"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 24 is the tune of line 5 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 24 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 24 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -494,11 +494,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 25 is line 7 again. Sing it with the guide."},
+                            "text": {"en": "Line 25 is line 7 again. Sing it with the guide.", "es": "La frase 25 repite la frase 7. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -507,11 +507,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 26 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 26 is the tune of line 7 again, with new words. Sing it with the guide.", "es": "La frase 26 repite la melodía de la frase 7, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -520,11 +520,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 27 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 27 is the tune of line 7 again, with new words. Sing it with the guide.", "es": "La frase 27 repite la melodía de la frase 7, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -533,11 +533,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 24 to 27 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 24 to 27 joined: hear them, then sing them back.", "es": "Ahora las frases 24 a 27 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -546,17 +546,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-oh-how-lovely-soprano-9",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The whole tune, with the guide."},
+                            "text": {"en": "The whole tune, with the guide.", "es": "La melodía entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -565,17 +565,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-oh-how-lovely-soprano-10",
-                    "title": {"en": "Come in second"},
+                    "title": {"en": "Come in second", "es": "Segunda entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in second, 6 bars after the first voice, with the guide."},
+                            "text": {"en": "The round: come in second, 6 bars after the first voice, with the guide.", "es": "El canon: entra en segundo lugar, 6 compases después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -585,11 +585,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en segundo lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -600,17 +600,17 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-oh-how-lovely-soprano-11",
-                    "title": {"en": "Come in third"},
+                    "title": {"en": "Come in third", "es": "Tercera entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in third, 12 bars after the first voice, with the guide."},
+                            "text": {"en": "The round: come in third, 12 bars after the first voice, with the guide.", "es": "El canon: entra en tercer lugar, 12 compases después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -620,11 +620,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en tercer lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -635,17 +635,17 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-oh-how-lovely-soprano-12",
-                    "title": {"en": "Come in fourth"},
+                    "title": {"en": "Come in fourth", "es": "Cuarta entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in fourth, 18 bars after the first voice, with the guide."},
+                            "text": {"en": "The round: come in fourth, 18 bars after the first voice, with the guide.", "es": "El canon: entra en cuarto lugar, 18 compases después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -655,11 +655,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en cuarto lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "oh-how-lovely",
@@ -670,18 +670,18 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-oh-how-lovely-soprano-13",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the second voice of Oh, How Lovely Is the Evening in Sing, coming in over the first."}, "measures": {"en": "Scored on the notes."}, "template": "oh-how-lovely", "singers": 2, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the second voice of Oh, How Lovely Is the Evening in Sing, coming in over the first.", "es": "Graba la segunda voz de Oh, How Lovely Is the Evening en Cantar, entrando sobre la primera."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "oh-how-lovely", "singers": 2, "part": "alto"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "ohl-sefton-1869", "text": {"en": "A Toronto school songbook of 1869 printed an earlier English version, \"Oh, How Lovely!\", a round for three voices, with \"When to rest the bells are ringing\", closer to the German, where later books have \"When the bells are sweetly ringing\"."}, "source": {"en": "H. F. Sefton, Three-Part Songs (Toronto, 1869), p. 41, read from the scan"}, "url": "https://archive.org/details/threeparts69west00seft"}
+                    "fact": {"id": "ohl-sefton-1869", "text": {"en": "A Toronto school songbook of 1869 printed an earlier English version, \"Oh, How Lovely!\", a round for three voices, with \"When to rest the bells are ringing\", closer to the German, where later books have \"When the bells are sweetly ringing\".", "es": "Un cancionero escolar de Toronto de 1869 imprimió una versión inglesa anterior, \"Oh, How Lovely!\", un canon a tres voces, con \"When to rest the bells are ringing\", más cerca del alemán, donde libros posteriores dicen \"When the bells are sweetly ringing\"."}, "source": {"en": "H. F. Sefton, Three-Part Songs (Toronto, 1869), p. 41, read from the scan", "es": "H. F. Sefton, Three-Part Songs (Toronto, 1869), p. 41, leído en el escaneo"}, "url": "https://archive.org/details/threeparts69west00seft"}
                 }
             ]
         }

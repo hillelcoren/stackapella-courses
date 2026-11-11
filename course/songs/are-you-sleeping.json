@@ -2,25 +2,25 @@
     "id": "song-are-you-sleeping",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Are You Sleeping (Frère Jacques)"},
+    "title": {"en": "Are You Sleeping (Frère Jacques)", "es": "Are You Sleeping (Frère Jacques)"},
     "units": [
         {
             "id": "song-are-you-sleeping-soprano",
-            "title": {"en": "The round"},
+            "title": {"en": "The round", "es": "El canon"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-are-you-sleeping-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Are You Sleeping: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Are You Sleeping: hear the whole song first, then the tune on its own.", "es": "Are You Sleeping: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "ays-matins", "text": {"en": "In the original words, the sleeping brother is late to ring the bells for matins, the early morning prayers, and the ding, dang, dong is those bells."}, "source": {"en": "Wikipedia, \"Frère Jacques\", its words"}, "url": "https://en.wikipedia.org/wiki/Fr%C3%A8re_Jacques"}
+                    "fact": {"id": "ays-matins", "text": {"en": "In the original words, the sleeping brother is late to ring the bells for matins, the early morning prayers, and the ding, dang, dong is those bells.", "es": "En la letra original francesa, que en español se canta como \"Martinillo\" o \"Fray Santiago\", el hermano dormido llega tarde a tocar las campanas de maitines, las oraciones de la madrugada, y el ding, dang, dong son esas campanas."}, "source": {"en": "Wikipedia, \"Frère Jacques\", its words", "es": "Wikipedia, \"Frère Jacques\", la letra"}, "url": "https://en.wikipedia.org/wiki/Fr%C3%A8re_Jacques"}
                 },
                 {
                     "id": "song-are-you-sleeping-soprano-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -101,18 +101,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-are-you-sleeping-soprano-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -121,11 +121,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide.", "es": "La frase 5 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -147,11 +147,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide.", "es": "La frase 6 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -160,11 +160,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -173,18 +173,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-are-you-sleeping-soprano-4",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 3 again. Sing it with the guide.", "es": "La frase 7 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -193,11 +193,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -206,11 +206,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -219,17 +219,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-are-you-sleeping-soprano-5",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The whole tune, with the guide."},
+                            "text": {"en": "The whole tune, with the guide.", "es": "La melodía entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -238,17 +238,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-are-you-sleeping-soprano-6",
-                    "title": {"en": "Come in second"},
+                    "title": {"en": "Come in second", "es": "Segunda entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in second, 2 bars after the first voice, with the guide."},
+                            "text": {"en": "The round: come in second, 2 bars after the first voice, with the guide.", "es": "El canon: entra en segundo lugar, 2 compases después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -258,11 +258,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en segundo lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -273,17 +273,17 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-are-you-sleeping-soprano-7",
-                    "title": {"en": "Come in third"},
+                    "title": {"en": "Come in third", "es": "Tercera entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in third, 4 bars after the first voice, with the guide."},
+                            "text": {"en": "The round: come in third, 4 bars after the first voice, with the guide.", "es": "El canon: entra en tercer lugar, 4 compases después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -293,11 +293,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en tercer lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -308,17 +308,17 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-are-you-sleeping-soprano-8",
-                    "title": {"en": "Come in fourth"},
+                    "title": {"en": "Come in fourth", "es": "Cuarta entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in fourth, 6 bars after the first voice, with the guide."},
+                            "text": {"en": "The round: come in fourth, 6 bars after the first voice, with the guide.", "es": "El canon: entra en cuarto lugar, 6 compases después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -328,11 +328,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en cuarto lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "are-you-sleeping",
@@ -343,15 +343,15 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-are-you-sleeping-soprano-9",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the second voice of Are You Sleeping in Sing, coming in over the first."}, "measures": {"en": "Scored on the notes."}, "template": "are-you-sleeping", "singers": 2, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the second voice of Are You Sleeping in Sing, coming in over the first.", "es": "Graba la segunda voz de Are You Sleeping en Cantar, entrando sobre la primera."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "are-you-sleeping", "singers": 2, "part": "alto"}
                     ],
                     "challenge": true
                 }

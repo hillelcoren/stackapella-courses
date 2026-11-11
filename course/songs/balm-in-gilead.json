@@ -2,25 +2,25 @@
     "id": "song-balm-in-gilead",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "There Is a Balm in Gilead"},
+    "title": {"en": "There Is a Balm in Gilead", "es": "There Is a Balm in Gilead"},
     "units": [
         {
             "id": "song-balm-in-gilead-soprano",
-            "title": {"en": "The melody"},
+            "title": {"en": "The melody", "es": "La melodía"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-balm-in-gilead-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "There Is a Balm in Gilead: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "There Is a Balm in Gilead: hear the whole song first, then the tune on its own.", "es": "There Is a Balm in Gilead: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "bg-transcribed", "text": {"en": "This one is headed \"Transcribed from the singing of the Hampton Institute students\": the four parts were written down as the students sang them, and filed among the \"Hymns of Consolation\"."}, "source": {"en": "R. Nathaniel Dett, ed., Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), p. 88, read from the scan"}, "url": "https://archive.org/details/religiousfolkson00dett"}
+                    "fact": {"id": "bg-transcribed", "text": {"en": "This one is headed \"Transcribed from the singing of the Hampton Institute students\": the four parts were written down as the students sang them, and filed among the \"Hymns of Consolation\".", "es": "Su encabezado dice \"Transcrito del canto de los estudiantes del Instituto Hampton\": las cuatro voces se anotaron tal como ellos las cantaban, y la pieza quedó entre los \"Hymns of Consolation\" (himnos de consuelo)."}, "source": {"en": "R. Nathaniel Dett, ed., Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), p. 88, read from the scan", "es": "R. Nathaniel Dett, ed., Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), p. 88, leído en el escaneo"}, "url": "https://archive.org/details/religiousfolkson00dett"}
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide.", "es": "La frase 3 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -101,11 +101,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back.", "es": "Ahora las frases 1 a 3 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -114,18 +114,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-3",
-                    "title": {"en": "Lines 4 to 7"},
+                    "title": {"en": "Lines 4 to 7", "es": "Frases 4 a 7"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide.", "es": "La frase 5 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -147,11 +147,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide.", "es": "La frase 6 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -160,11 +160,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 1 again. Sing it with the guide.", "es": "La frase 7 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -173,11 +173,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 to 7 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 4 to 7 joined: hear them, then sing them back.", "es": "Ahora las frases 4 a 7 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -186,18 +186,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-4",
-                    "title": {"en": "Lines 8 and 9"},
+                    "title": {"en": "Lines 8 and 9", "es": "Frases 8 y 9"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -206,11 +206,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 9, then sing it back."},
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -219,11 +219,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 8 and 9 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 8 and 9 joined: hear them, then sing them back.", "es": "Ahora las frases 8 y 9 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -232,18 +232,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-5",
-                    "title": {"en": "Lines 10 and 11"},
+                    "title": {"en": "Lines 10 and 11", "es": "Frases 10 y 11"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 10, then sing it back."},
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -252,11 +252,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 11, then sing it back."},
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -265,11 +265,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 10 and 11 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 10 and 11 joined: hear them, then sing them back.", "es": "Ahora las frases 10 y 11 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -278,18 +278,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-6",
-                    "title": {"en": "Lines 12 to 15"},
+                    "title": {"en": "Lines 12 to 15", "es": "Frases 12 a 15"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -298,11 +298,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 13 is line 1 again. Sing it with the guide.", "es": "La frase 13 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -311,11 +311,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 14 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 14 is line 2 again. Sing it with the guide.", "es": "La frase 14 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -324,11 +324,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 15 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 15 is line 1 again. Sing it with the guide.", "es": "La frase 15 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -337,11 +337,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 12 to 15 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 12 to 15 joined: hear them, then sing them back.", "es": "Ahora las frases 12 a 15 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -350,18 +350,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-7",
-                    "title": {"en": "Lines 16 to 19"},
+                    "title": {"en": "Lines 16 to 19", "es": "Frases 16 a 19"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide.", "es": "La frase 16 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -370,11 +370,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -383,11 +383,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide.", "es": "La frase 18 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -396,11 +396,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 19 is line 1 again. Sing it with the guide.", "es": "La frase 19 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -409,11 +409,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 16 to 19 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 16 to 19 joined: hear them, then sing them back.", "es": "Ahora las frases 16 a 19 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -422,18 +422,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-8",
-                    "title": {"en": "Lines 20 to 22"},
+                    "title": {"en": "Lines 20 to 22", "es": "Frases 20 a 22"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 20 is line 8 again. Sing it with the guide."},
+                            "text": {"en": "Line 20 is line 8 again. Sing it with the guide.", "es": "La frase 20 repite la frase 8. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -442,11 +442,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 21, then sing it back."},
+                            "text": {"en": "Hear line 21, then sing it back.", "es": "Escucha la frase 21 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -455,11 +455,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 22, then sing it back."},
+                            "text": {"en": "Hear line 22, then sing it back.", "es": "Escucha la frase 22 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -468,11 +468,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 20 to 22 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 20 to 22 joined: hear them, then sing them back.", "es": "Ahora las frases 20 a 22 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -481,18 +481,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-9",
-                    "title": {"en": "Lines 23 to 26"},
+                    "title": {"en": "Lines 23 to 26", "es": "Frases 23 a 26"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 23, then sing it back."},
+                            "text": {"en": "Hear line 23, then sing it back.", "es": "Escucha la frase 23 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -501,11 +501,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 24, then sing it back."},
+                            "text": {"en": "Hear line 24, then sing it back.", "es": "Escucha la frase 24 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -514,11 +514,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide.", "es": "La frase 25 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -527,11 +527,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide.", "es": "La frase 26 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -540,11 +540,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 23 to 26 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 23 to 26 joined: hear them, then sing them back.", "es": "Ahora las frases 23 a 26 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -553,18 +553,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-10",
-                    "title": {"en": "Lines 27 to 30"},
+                    "title": {"en": "Lines 27 to 30", "es": "Frases 27 a 30"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 27 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 27 is line 1 again. Sing it with the guide.", "es": "La frase 27 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -573,11 +573,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 28 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 28 is line 4 again. Sing it with the guide.", "es": "La frase 28 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -586,11 +586,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 29 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 29 is line 1 again. Sing it with the guide.", "es": "La frase 29 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -599,11 +599,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 30 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 30 is line 2 again. Sing it with the guide.", "es": "La frase 30 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -612,11 +612,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 27 to 30 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 27 to 30 joined: hear them, then sing them back.", "es": "Ahora las frases 27 a 30 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -625,18 +625,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-11",
-                    "title": {"en": "Lines 31 and 32"},
+                    "title": {"en": "Lines 31 and 32", "es": "Frases 31 y 32"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 31 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 31 is line 1 again. Sing it with the guide.", "es": "La frase 31 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -645,11 +645,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 32, then sing it back."},
+                            "text": {"en": "Hear line 32, then sing it back.", "es": "Escucha la frase 32 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -658,11 +658,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 31 and 32 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 31 and 32 joined: hear them, then sing them back.", "es": "Ahora las frases 31 y 32 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -671,17 +671,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-12",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -690,11 +690,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -703,11 +703,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -716,11 +716,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -729,11 +729,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -742,17 +742,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-13",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -762,17 +762,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-14",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -784,11 +784,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -800,38 +800,38 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-soprano-15",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of There Is a Balm in Gilead in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "balm-in-gilead", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of There Is a Balm in Gilead in Sing, with the other parts playing.", "es": "Graba la melodía de There Is a Balm in Gilead en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "balm-in-gilead", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "bg-virginia-hall", "text": {"en": "Hampton's songbook was first published in 1874, when its student singers were giving concerts in the North to raise the walls of Virginia Hall."}, "source": {"en": "R. Nathaniel Dett, ed., Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), reprinting the preface to the edition of 1891, p. vii"}, "url": "https://archive.org/details/religiousfolkson00dett"}
+                    "fact": {"id": "bg-virginia-hall", "text": {"en": "Hampton's songbook was first published in 1874, when its student singers were giving concerts in the North to raise the walls of Virginia Hall.", "es": "El cancionero de Hampton se publicó por primera vez en 1874, cuando su coro de estudiantes daba conciertos en el norte del país para levantar los muros de Virginia Hall."}, "source": {"en": "R. Nathaniel Dett, ed., Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), reprinting the preface to the edition of 1891, p. vii", "es": "R. Nathaniel Dett, ed., Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), que reimprime el prefacio de la edición de 1891, p. vii"}, "url": "https://archive.org/details/religiousfolkson00dett"}
                 }
             ]
         },
         {
             "id": "song-balm-in-gilead-alto",
-            "title": {"en": "Alto"},
+            "title": {"en": "Alto", "es": "Contralto"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "song-balm-in-gilead-alto-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "There Is a Balm in Gilead: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "There Is a Balm in Gilead: hear the whole song first, then the alto part on its own.", "es": "There Is a Balm in Gilead: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -845,8 +845,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the alto part on its own."},
-                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -858,7 +858,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -871,12 +871,12 @@
                 },
                 {
                     "id": "song-balm-in-gilead-alto-2",
-                    "title": {"en": "Lines 1 to 3"},
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -885,11 +885,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -898,11 +898,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 3 is line 1 again. Sing it with the guide.", "es": "La frase 3 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -911,11 +911,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 to 3 joined: hear them, then sing them back.", "es": "Ahora las frases 1 a 3 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -924,18 +924,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-alto-3",
-                    "title": {"en": "Lines 4 to 7"},
+                    "title": {"en": "Lines 4 to 7", "es": "Frases 4 a 7"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -944,11 +944,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide.", "es": "La frase 5 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -957,11 +957,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide.", "es": "La frase 6 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -970,11 +970,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 1 again. Sing it with the guide.", "es": "La frase 7 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -983,11 +983,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 to 7 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 4 to 7 joined: hear them, then sing them back.", "es": "Ahora las frases 4 a 7 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -996,18 +996,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-alto-4",
-                    "title": {"en": "Lines 8, 13, 14 and 15"},
+                    "title": {"en": "Lines 8, 13, 14 and 15", "es": "Frases 8, 13, 14 y 15"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1016,11 +1016,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 13 is line 1 again. Sing it with the guide.", "es": "La frase 13 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1029,11 +1029,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 14 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 14 is line 2 again. Sing it with the guide.", "es": "La frase 14 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1042,11 +1042,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 15 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 15 is line 1 again. Sing it with the guide.", "es": "La frase 15 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1055,11 +1055,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 8, 13, 14 and 15 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 8, 13, 14 and 15 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 8, 13, 14 y 15 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1069,18 +1069,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-alto-5",
-                    "title": {"en": "Lines 16 to 19"},
+                    "title": {"en": "Lines 16 to 19", "es": "Frases 16 a 19"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide.", "es": "La frase 16 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1089,11 +1089,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1102,11 +1102,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide.", "es": "La frase 18 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1115,11 +1115,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 19 is line 1 again. Sing it with the guide.", "es": "La frase 19 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1128,11 +1128,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 16 to 19 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 16 to 19 joined: hear them, then sing them back.", "es": "Ahora las frases 16 a 19 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1141,18 +1141,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-alto-6",
-                    "title": {"en": "Lines 20, 25, 26 and 27"},
+                    "title": {"en": "Lines 20, 25, 26 and 27", "es": "Frases 20, 25, 26 y 27"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 20 is line 8 again. Sing it with the guide."},
+                            "text": {"en": "Line 20 is line 8 again. Sing it with the guide.", "es": "La frase 20 repite la frase 8. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1161,11 +1161,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide.", "es": "La frase 25 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1174,11 +1174,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide.", "es": "La frase 26 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1187,11 +1187,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 27 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 27 is line 1 again. Sing it with the guide.", "es": "La frase 27 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1200,11 +1200,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 20, 25, 26 and 27 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 20, 25, 26 and 27 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 20, 25, 26 y 27 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1214,18 +1214,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-alto-7",
-                    "title": {"en": "Lines 28 to 30"},
+                    "title": {"en": "Lines 28 to 30", "es": "Frases 28 a 30"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 28 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 28 is line 4 again. Sing it with the guide.", "es": "La frase 28 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1234,11 +1234,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 29 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 29 is line 1 again. Sing it with the guide.", "es": "La frase 29 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1247,11 +1247,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 30 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 30 is line 2 again. Sing it with the guide.", "es": "La frase 30 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1260,11 +1260,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 28 to 30 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 28 to 30 joined: hear them, then sing them back.", "es": "Ahora las frases 28 a 30 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1273,18 +1273,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-alto-8",
-                    "title": {"en": "Lines 31 and 32"},
+                    "title": {"en": "Lines 31 and 32", "es": "Frases 31 y 32"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 31 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 31 is line 1 again. Sing it with the guide.", "es": "La frase 31 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1293,11 +1293,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 32, then sing it back."},
+                            "text": {"en": "Hear line 32, then sing it back.", "es": "Escucha la frase 32 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1306,11 +1306,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 31 and 32 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 31 and 32 joined: hear them, then sing them back.", "es": "Ahora las frases 31 y 32 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1319,17 +1319,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-alto-9",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1338,11 +1338,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1351,11 +1351,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1364,11 +1364,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1377,17 +1377,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-alto-10",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1397,17 +1397,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-alto-11",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1419,11 +1419,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1435,15 +1435,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-alto-12",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of There Is a Balm in Gilead in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "balm-in-gilead", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of There Is a Balm in Gilead in Sing, with the other parts playing.", "es": "Graba la voz de contralto de There Is a Balm in Gilead en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "balm-in-gilead", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -1451,21 +1451,21 @@
         },
         {
             "id": "song-balm-in-gilead-bass",
-            "title": {"en": "Bass"},
+            "title": {"en": "Bass", "es": "Bajo"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "song-balm-in-gilead-bass-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "There Is a Balm in Gilead: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "There Is a Balm in Gilead: hear the whole song first, then the bass part on its own.", "es": "There Is a Balm in Gilead: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1479,8 +1479,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the bass part on its own."},
-                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1492,7 +1492,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1505,12 +1505,12 @@
                 },
                 {
                     "id": "song-balm-in-gilead-bass-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1519,11 +1519,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1532,11 +1532,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1545,18 +1545,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-bass-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1565,11 +1565,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1578,11 +1578,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide.", "es": "La frase 5 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1591,11 +1591,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide.", "es": "La frase 6 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1604,11 +1604,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 to 6 joined: hear them, then sing them back.", "es": "Ahora las frases 3 a 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1617,18 +1617,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-bass-4",
-                    "title": {"en": "Lines 7, 8, 13 and 14"},
+                    "title": {"en": "Lines 7, 8, 13 and 14", "es": "Frases 7, 8, 13 y 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 3 again. Sing it with the guide.", "es": "La frase 7 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1637,11 +1637,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1650,11 +1650,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 13 is line 1 again. Sing it with the guide.", "es": "La frase 13 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1663,11 +1663,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 14 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 14 is line 2 again. Sing it with the guide.", "es": "La frase 14 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1676,11 +1676,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7, 8, 13 and 14 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 7, 8, 13 and 14 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 7, 8, 13 y 14 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1690,18 +1690,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-bass-5",
-                    "title": {"en": "Lines 15 to 18"},
+                    "title": {"en": "Lines 15 to 18", "es": "Frases 15 a 18"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 15 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 15 is line 3 again. Sing it with the guide.", "es": "La frase 15 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1710,11 +1710,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide.", "es": "La frase 16 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1723,11 +1723,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1736,11 +1736,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide.", "es": "La frase 18 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1749,11 +1749,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 15 to 18 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 15 to 18 joined: hear them, then sing them back.", "es": "Ahora las frases 15 a 18 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1762,18 +1762,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-bass-6",
-                    "title": {"en": "Lines 19, 20, 25 and 26"},
+                    "title": {"en": "Lines 19, 20, 25 and 26", "es": "Frases 19, 20, 25 y 26"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide.", "es": "La frase 19 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1782,11 +1782,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 20 is line 8 again. Sing it with the guide."},
+                            "text": {"en": "Line 20 is line 8 again. Sing it with the guide.", "es": "La frase 20 repite la frase 8. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1795,11 +1795,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide.", "es": "La frase 25 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1808,11 +1808,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide.", "es": "La frase 26 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1821,11 +1821,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 19, 20, 25 and 26 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 19, 20, 25 and 26 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 19, 20, 25 y 26 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1835,18 +1835,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-bass-7",
-                    "title": {"en": "Lines 27 to 30"},
+                    "title": {"en": "Lines 27 to 30", "es": "Frases 27 a 30"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 27 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 27 is line 3 again. Sing it with the guide.", "es": "La frase 27 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1855,11 +1855,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 28 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 28 is line 4 again. Sing it with the guide.", "es": "La frase 28 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1868,11 +1868,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 29 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 29 is line 1 again. Sing it with the guide.", "es": "La frase 29 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1881,11 +1881,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 30 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 30 is line 2 again. Sing it with the guide.", "es": "La frase 30 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1894,11 +1894,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 27 to 30 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 27 to 30 joined: hear them, then sing them back.", "es": "Ahora las frases 27 a 30 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1907,18 +1907,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-bass-8",
-                    "title": {"en": "Lines 31 and 32"},
+                    "title": {"en": "Lines 31 and 32", "es": "Frases 31 y 32"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 31 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 31 is line 3 again. Sing it with the guide.", "es": "La frase 31 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1927,11 +1927,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 32, then sing it back."},
+                            "text": {"en": "Hear line 32, then sing it back.", "es": "Escucha la frase 32 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1940,11 +1940,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 31 and 32 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 31 and 32 joined: hear them, then sing them back.", "es": "Ahora las frases 31 y 32 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1953,17 +1953,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-bass-9",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1972,11 +1972,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1985,11 +1985,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -1998,11 +1998,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2011,17 +2011,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-bass-10",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2031,17 +2031,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-bass-11",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2053,11 +2053,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2069,15 +2069,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-bass-12",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of There Is a Balm in Gilead in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "balm-in-gilead", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of There Is a Balm in Gilead in Sing, with the other parts playing.", "es": "Graba la voz de bajo de There Is a Balm in Gilead en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "balm-in-gilead", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -2085,21 +2085,21 @@
         },
         {
             "id": "song-balm-in-gilead-tenor",
-            "title": {"en": "Tenor"},
+            "title": {"en": "Tenor", "es": "Tenor"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "song-balm-in-gilead-tenor-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "There Is a Balm in Gilead: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "There Is a Balm in Gilead: hear the whole song first, then the tenor part on its own.", "es": "There Is a Balm in Gilead: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -2113,8 +2113,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tenor part on its own."},
-                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2126,7 +2126,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2139,12 +2139,12 @@
                 },
                 {
                     "id": "song-balm-in-gilead-tenor-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2153,11 +2153,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2166,11 +2166,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2179,18 +2179,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-tenor-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2199,11 +2199,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2212,11 +2212,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide.", "es": "La frase 5 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2225,11 +2225,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide.", "es": "La frase 6 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2238,11 +2238,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 3 to 6 joined: hear them, then sing them back.", "es": "Ahora las frases 3 a 6 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2251,18 +2251,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-tenor-4",
-                    "title": {"en": "Lines 7, 8, 13 and 14"},
+                    "title": {"en": "Lines 7, 8, 13 and 14", "es": "Frases 7, 8, 13 y 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 3 again. Sing it with the guide.", "es": "La frase 7 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2271,11 +2271,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2284,11 +2284,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 13 is line 1 again. Sing it with the guide.", "es": "La frase 13 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2297,11 +2297,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 14 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 14 is line 2 again. Sing it with the guide.", "es": "La frase 14 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2310,11 +2310,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7, 8, 13 and 14 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 7, 8, 13 and 14 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 7, 8, 13 y 14 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2324,18 +2324,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-tenor-5",
-                    "title": {"en": "Lines 15 to 18"},
+                    "title": {"en": "Lines 15 to 18", "es": "Frases 15 a 18"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 15 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 15 is line 3 again. Sing it with the guide.", "es": "La frase 15 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2344,11 +2344,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 16 is line 4 again. Sing it with the guide.", "es": "La frase 16 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2357,11 +2357,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2370,11 +2370,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 18 is line 2 again. Sing it with the guide.", "es": "La frase 18 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2383,11 +2383,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 15 to 18 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 15 to 18 joined: hear them, then sing them back.", "es": "Ahora las frases 15 a 18 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2396,18 +2396,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-tenor-6",
-                    "title": {"en": "Lines 19, 20, 25 and 26"},
+                    "title": {"en": "Lines 19, 20, 25 and 26", "es": "Frases 19, 20, 25 y 26"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 19 is line 3 again. Sing it with the guide.", "es": "La frase 19 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2416,11 +2416,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 20 is line 8 again. Sing it with the guide."},
+                            "text": {"en": "Line 20 is line 8 again. Sing it with the guide.", "es": "La frase 20 repite la frase 8. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2429,11 +2429,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 25 is line 1 again. Sing it with the guide.", "es": "La frase 25 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2442,11 +2442,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 26 is line 2 again. Sing it with the guide.", "es": "La frase 26 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2455,11 +2455,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 19, 20, 25 and 26 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 19, 20, 25 and 26 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 19, 20, 25 y 26 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2469,18 +2469,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-tenor-7",
-                    "title": {"en": "Lines 27 to 30"},
+                    "title": {"en": "Lines 27 to 30", "es": "Frases 27 a 30"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 27 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 27 is line 3 again. Sing it with the guide.", "es": "La frase 27 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2489,11 +2489,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 28 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 28 is line 4 again. Sing it with the guide.", "es": "La frase 28 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2502,11 +2502,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 29 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 29 is line 1 again. Sing it with the guide.", "es": "La frase 29 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2515,11 +2515,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 30 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 30 is line 2 again. Sing it with the guide.", "es": "La frase 30 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2528,11 +2528,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 27 to 30 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 27 to 30 joined: hear them, then sing them back.", "es": "Ahora las frases 27 a 30 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2541,18 +2541,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-tenor-8",
-                    "title": {"en": "Lines 31 and 32"},
+                    "title": {"en": "Lines 31 and 32", "es": "Frases 31 y 32"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 31 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 31 is line 3 again. Sing it with the guide.", "es": "La frase 31 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2561,11 +2561,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 32, then sing it back."},
+                            "text": {"en": "Hear line 32, then sing it back.", "es": "Escucha la frase 32 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2574,11 +2574,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 31 and 32 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 31 and 32 joined: hear them, then sing them back.", "es": "Ahora las frases 31 y 32 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2587,17 +2587,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-tenor-9",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2606,11 +2606,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2619,11 +2619,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Refrain start to end, with the guide."},
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2632,11 +2632,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2645,17 +2645,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-tenor-10",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2665,17 +2665,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-tenor-11",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2687,11 +2687,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "balm-in-gilead",
@@ -2703,15 +2703,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-balm-in-gilead-tenor-12",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of There Is a Balm in Gilead in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "balm-in-gilead", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of There Is a Balm in Gilead in Sing, with the other parts playing.", "es": "Graba la voz de tenor de There Is a Balm in Gilead en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "balm-in-gilead", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

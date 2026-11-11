@@ -2,25 +2,25 @@
     "id": "song-hey-ho-nobody-home",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Hey, Ho, Nobody Home (round)"},
+    "title": {"en": "Hey, Ho, Nobody Home (round)", "es": "Hey, Ho, Nobody Home (round)"},
     "units": [
         {
             "id": "song-hey-ho-nobody-home-soprano",
-            "title": {"en": "The round"},
+            "title": {"en": "The round", "es": "El canon"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-hey-ho-nobody-home-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Hey, Ho, Nobody Home: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Hey, Ho, Nobody Home: hear the whole song first, then the tune on its own.", "es": "Hey, Ho, Nobody Home: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "heyho-pammelia", "text": {"en": "This round was printed in 1609 in Pammelia, the first English book of rounds and catches, compiled by Thomas Ravenscroft. There it is a round for five voices."}, "source": {"en": "Thomas Ravenscroft, Pammelia (1609), No. 85, read from the facsimile (also on IMSLP)"}, "url": "https://imslp.org/wiki/Pammelia_(Ravenscroft,_Thomas)"}
+                    "fact": {"id": "heyho-pammelia", "text": {"en": "This round was printed in 1609 in Pammelia, the first English book of rounds and catches, compiled by Thomas Ravenscroft. There it is a round for five voices.", "es": "Este canon se imprimió en 1609 en Pammelia, el primer libro inglés de cánones y catches, recopilado por Thomas Ravenscroft. Allí es un canon a cinco voces."}, "source": {"en": "Thomas Ravenscroft, Pammelia (1609), No. 85, read from the facsimile (also on IMSLP)", "es": "Thomas Ravenscroft, Pammelia (1609), n.º 85, leído en el facsímil (también en IMSLP)"}, "url": "https://imslp.org/wiki/Pammelia_(Ravenscroft,_Thomas)"}
                 },
                 {
                     "id": "song-hey-ho-nobody-home-soprano-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -101,18 +101,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-hey-ho-nobody-home-soprano-3",
-                    "title": {"en": "Lines 3 to 5"},
+                    "title": {"en": "Lines 3 to 5", "es": "Frases 3 a 5"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -121,11 +121,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 4 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 4 is line 2 again. Sing it with the guide.", "es": "La frase 4 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 3 again. Sing it with the guide.", "es": "La frase 5 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -147,11 +147,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 5 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 5 joined, with the guide.", "es": "Ahora las frases 3 a 5 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -160,18 +160,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-hey-ho-nobody-home-soprano-4",
-                    "title": {"en": "Lines 6 and 7"},
+                    "title": {"en": "Lines 6 and 7", "es": "Frases 6 y 7"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide.", "es": "La frase 6 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -180,11 +180,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -193,11 +193,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 and 7 joined, with the guide."},
+                            "text": {"en": "Now lines 6 and 7 joined, with the guide.", "es": "Ahora las frases 6 y 7 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -206,17 +206,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-hey-ho-nobody-home-soprano-5",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The whole tune, with the guide."},
+                            "text": {"en": "The whole tune, with the guide.", "es": "La melodía entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -225,17 +225,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-hey-ho-nobody-home-soprano-6",
-                    "title": {"en": "Come in second"},
+                    "title": {"en": "Come in second", "es": "Segunda entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in second, 1 bar after the first voice, with the guide."},
+                            "text": {"en": "The round: come in second, 1 bar after the first voice, with the guide.", "es": "El canon: entra en segundo lugar, 1 compás después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -245,11 +245,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en segundo lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -260,17 +260,17 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-hey-ho-nobody-home-soprano-7",
-                    "title": {"en": "Come in third"},
+                    "title": {"en": "Come in third", "es": "Tercera entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in third, 2 bars after the first voice, with the guide."},
+                            "text": {"en": "The round: come in third, 2 bars after the first voice, with the guide.", "es": "El canon: entra en tercer lugar, 2 compases después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -280,11 +280,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en tercer lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -295,17 +295,17 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-hey-ho-nobody-home-soprano-8",
-                    "title": {"en": "Come in fourth"},
+                    "title": {"en": "Come in fourth", "es": "Cuarta entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in fourth, 3 bars after the first voice, with the guide."},
+                            "text": {"en": "The round: come in fourth, 3 bars after the first voice, with the guide.", "es": "El canon: entra en cuarto lugar, 3 compases después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -315,11 +315,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en cuarto lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "hey-ho-nobody-home",
@@ -330,18 +330,18 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-hey-ho-nobody-home-soprano-9",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the second voice of Hey, Ho, Nobody Home in Sing, coming in over the first."}, "measures": {"en": "Scored on the notes."}, "template": "hey-ho-nobody-home", "singers": 2, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the second voice of Hey, Ho, Nobody Home in Sing, coming in over the first.", "es": "Graba la segunda voz de Hey, Ho, Nobody Home en Cantar, entrando sobre la primera."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "hey-ho-nobody-home", "singers": 2, "part": "alto"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "heyho-eadie", "text": {"en": "The 1609 words end \"fill the pot, Eadie\": a call to fill the drinking pot. The ending many people know today, \"yet will I be merry\", came much later."}, "source": {"en": "Thomas Ravenscroft, Pammelia (1609), No. 85, read from the facsimile (also on IMSLP)"}, "url": "https://imslp.org/wiki/Pammelia_(Ravenscroft,_Thomas)"}
+                    "fact": {"id": "heyho-eadie", "text": {"en": "The 1609 words end \"fill the pot, Eadie\": a call to fill the drinking pot. The ending many people know today, \"yet will I be merry\", came much later.", "es": "La letra de 1609 termina con \"fill the pot, Eadie\": una llamada a llenar la jarra de bebida. El final que mucha gente conoce hoy, \"yet will I be merry\", llegó mucho más tarde."}, "source": {"en": "Thomas Ravenscroft, Pammelia (1609), No. 85, read from the facsimile (also on IMSLP)", "es": "Thomas Ravenscroft, Pammelia (1609), n.º 85, leído en el facsímil (también en IMSLP)"}, "url": "https://imslp.org/wiki/Pammelia_(Ravenscroft,_Thomas)"}
                 }
             ]
         }

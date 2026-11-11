@@ -2,25 +2,25 @@
     "id": "song-shorty-george-blues",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Shorty George Blues"},
+    "title": {"en": "Shorty George Blues", "es": "Shorty George Blues"},
     "units": [
         {
             "id": "song-shorty-george-blues-soprano",
-            "title": {"en": "The melody"},
+            "title": {"en": "The melody", "es": "La melodía"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-shorty-george-blues-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Shorty George Blues: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Shorty George Blues: hear the whole song first, then the tune on its own.", "es": "Shorty George Blues: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "sgb-hociel", "text": {"en": "Hociel Thomas, who wrote the words with her father George W. Thomas, became a blues singer and pianist herself, and made records in the mid-1920s."}, "source": {"en": "Wikipedia, \"Hociel Thomas\""}, "url": "https://en.wikipedia.org/wiki/Hociel_Thomas"}
+                    "fact": {"id": "sgb-hociel", "text": {"en": "Hociel Thomas, who wrote the words with her father George W. Thomas, became a blues singer and pianist herself, and made records in the mid-1920s.", "es": "Hociel Thomas, que escribió la letra con su padre, George W. Thomas, llegó a ser ella misma cantante y pianista de blues, y grabó discos a mediados de la década de 1920."}, "source": {"en": "Wikipedia, \"Hociel Thomas\"", "es": "Wikipedia, \"Hociel Thomas\""}, "url": "https://en.wikipedia.org/wiki/Hociel_Thomas"}
                 },
                 {
                     "id": "song-shorty-george-blues-soprano-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined, with the guide."},
+                            "text": {"en": "Now lines 1 and 2 joined, with the guide.", "es": "Ahora las frases 1 y 2 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -101,18 +101,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-soprano-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -121,11 +121,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 4 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 4 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 4 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 5 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 5 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -147,11 +147,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 6 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 6 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -160,11 +160,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -173,18 +173,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-soprano-4",
-                    "title": {"en": "Lines 7 to 10"},
+                    "title": {"en": "Lines 7 to 10", "es": "Frases 7 a 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 7, then sing it back."},
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -193,11 +193,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -206,11 +206,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 9 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 9 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -219,11 +219,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 10 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -232,11 +232,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 to 10 joined, with the guide."},
+                            "text": {"en": "Now lines 7 to 10 joined, with the guide.", "es": "Ahora las frases 7 a 10 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -245,18 +245,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-soprano-5",
-                    "title": {"en": "Lines 11 to 13"},
+                    "title": {"en": "Lines 11 to 13", "es": "Frases 11 a 13"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 11 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 11 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -265,11 +265,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 12 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 12 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -278,11 +278,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 13 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 13 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -291,11 +291,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 to 13 joined, with the guide."},
+                            "text": {"en": "Now lines 11 to 13 joined, with the guide.", "es": "Ahora las frases 11 a 13 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -304,18 +304,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-soprano-6",
-                    "title": {"en": "Lines 14 and 15"},
+                    "title": {"en": "Lines 14 and 15", "es": "Frases 14 y 15"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 14 is the tune of line 8 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 14 is the tune of line 8 again, with new words. Sing it with the guide.", "es": "La frase 14 repite la melodía de la frase 8, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -324,11 +324,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 15 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 15 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 15 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -337,11 +337,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 14 and 15 joined, with the guide."},
+                            "text": {"en": "Now lines 14 and 15 joined, with the guide.", "es": "Ahora las frases 14 y 15 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -350,17 +350,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-soprano-7",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -369,11 +369,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -382,11 +382,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 3 start to end, with the guide."},
+                            "text": {"en": "Verse 3 start to end, with the guide.", "es": "La estrofa 3 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -395,11 +395,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 4 start to end, with the guide."},
+                            "text": {"en": "Verse 4 start to end, with the guide.", "es": "La estrofa 4 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -408,11 +408,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -421,17 +421,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-soprano-8",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -441,17 +441,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-soprano-9",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -463,11 +463,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -479,38 +479,38 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-soprano-10",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Shorty George Blues in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "shorty-george-blues", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Shorty George Blues in Sing, with the other parts playing.", "es": "Graba la melodía de Shorty George Blues en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shorty-george-blues", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "sgb-own-press", "text": {"en": "George W. Thomas ran his own music publishing company in Chicago, and printed this song himself in 1924."}, "source": {"en": "Wikipedia, \"George W. Thomas\", and the 1924 printing"}, "url": "https://en.wikipedia.org/wiki/George_W._Thomas"}
+                    "fact": {"id": "sgb-own-press", "text": {"en": "George W. Thomas ran his own music publishing company in Chicago, and printed this song himself in 1924.", "es": "George W. Thomas tenía su propia editorial musical en Chicago, y publicó él mismo esta canción en 1924."}, "source": {"en": "Wikipedia, \"George W. Thomas\", and the 1924 printing", "es": "Wikipedia, \"George W. Thomas\", y la edición de 1924"}, "url": "https://en.wikipedia.org/wiki/George_W._Thomas"}
                 }
             ]
         },
         {
             "id": "song-shorty-george-blues-bass",
-            "title": {"en": "Bass"},
+            "title": {"en": "Bass", "es": "Bajo"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "song-shorty-george-blues-bass-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Shorty George Blues: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Shorty George Blues: hear the whole song first, then the bass part on its own.", "es": "Shorty George Blues: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -524,8 +524,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the bass part on its own."},
-                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -537,7 +537,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -550,12 +550,12 @@
                 },
                 {
                     "id": "song-shorty-george-blues-bass-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -564,11 +564,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -577,11 +577,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined, with the guide."},
+                            "text": {"en": "Now lines 1 and 2 joined, with the guide.", "es": "Ahora las frases 1 y 2 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -590,18 +590,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-bass-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -610,11 +610,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -623,11 +623,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide.", "es": "La frase 5 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -636,11 +636,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide.", "es": "La frase 6 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -649,11 +649,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -662,18 +662,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-bass-4",
-                    "title": {"en": "Lines 7 to 10"},
+                    "title": {"en": "Lines 7 to 10", "es": "Frases 7 a 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 4 again. Sing it with the guide.", "es": "La frase 7 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -682,11 +682,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 8 is line 2 again. Sing it with the guide.", "es": "La frase 8 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -695,11 +695,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 3 again. Sing it with the guide.", "es": "La frase 9 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -708,11 +708,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 4 again. Sing it with the guide.", "es": "La frase 10 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -721,11 +721,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 to 10 joined, with the guide."},
+                            "text": {"en": "Now lines 7 to 10 joined, with the guide.", "es": "Ahora las frases 7 a 10 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -734,18 +734,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-bass-5",
-                    "title": {"en": "Lines 11 to 13"},
+                    "title": {"en": "Lines 11 to 13", "es": "Frases 11 a 13"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 2 again. Sing it with the guide.", "es": "La frase 11 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -754,11 +754,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 3 again. Sing it with the guide.", "es": "La frase 12 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -767,11 +767,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 13 is line 4 again. Sing it with the guide.", "es": "La frase 13 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -780,11 +780,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 to 13 joined, with the guide."},
+                            "text": {"en": "Now lines 11 to 13 joined, with the guide.", "es": "Ahora las frases 11 a 13 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -793,18 +793,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-bass-6",
-                    "title": {"en": "Lines 14 and 15"},
+                    "title": {"en": "Lines 14 and 15", "es": "Frases 14 y 15"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 14, then sing it back."},
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -813,11 +813,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 15, then sing it back."},
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -826,11 +826,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 14 and 15 joined, with the guide."},
+                            "text": {"en": "Now lines 14 and 15 joined, with the guide.", "es": "Ahora las frases 14 y 15 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -839,17 +839,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-bass-7",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -858,11 +858,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -871,11 +871,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 3 start to end, with the guide."},
+                            "text": {"en": "Verse 3 start to end, with the guide.", "es": "La estrofa 3 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -884,11 +884,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 4 start to end, with the guide."},
+                            "text": {"en": "Verse 4 start to end, with the guide.", "es": "La estrofa 4 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -897,11 +897,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -910,17 +910,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-bass-8",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -930,17 +930,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-bass-9",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -952,11 +952,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -968,15 +968,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-bass-10",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Shorty George Blues in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "shorty-george-blues", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Shorty George Blues in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Shorty George Blues en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shorty-george-blues", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -984,21 +984,21 @@
         },
         {
             "id": "song-shorty-george-blues-alto",
-            "title": {"en": "Alto"},
+            "title": {"en": "Alto", "es": "Contralto"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "song-shorty-george-blues-alto-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Shorty George Blues: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Shorty George Blues: hear the whole song first, then the alto part on its own.", "es": "Shorty George Blues: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1012,8 +1012,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the alto part on its own."},
-                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1025,7 +1025,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1038,12 +1038,12 @@
                 },
                 {
                     "id": "song-shorty-george-blues-alto-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1052,11 +1052,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1065,11 +1065,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined, with the guide."},
+                            "text": {"en": "Now lines 1 and 2 joined, with the guide.", "es": "Ahora las frases 1 y 2 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1078,18 +1078,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-alto-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1098,11 +1098,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1111,11 +1111,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide.", "es": "La frase 5 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1124,11 +1124,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide.", "es": "La frase 6 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1137,11 +1137,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1150,18 +1150,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-alto-4",
-                    "title": {"en": "Lines 7 to 10"},
+                    "title": {"en": "Lines 7 to 10", "es": "Frases 7 a 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 4 again. Sing it with the guide.", "es": "La frase 7 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1170,11 +1170,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 8 is line 2 again. Sing it with the guide.", "es": "La frase 8 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1183,11 +1183,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 3 again. Sing it with the guide.", "es": "La frase 9 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1196,11 +1196,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 4 again. Sing it with the guide.", "es": "La frase 10 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1209,11 +1209,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 to 10 joined, with the guide."},
+                            "text": {"en": "Now lines 7 to 10 joined, with the guide.", "es": "Ahora las frases 7 a 10 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1222,18 +1222,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-alto-5",
-                    "title": {"en": "Lines 11 to 13"},
+                    "title": {"en": "Lines 11 to 13", "es": "Frases 11 a 13"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 2 again. Sing it with the guide.", "es": "La frase 11 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1242,11 +1242,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 3 again. Sing it with the guide.", "es": "La frase 12 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1255,11 +1255,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 13 is line 4 again. Sing it with the guide.", "es": "La frase 13 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1268,11 +1268,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 to 13 joined, with the guide."},
+                            "text": {"en": "Now lines 11 to 13 joined, with the guide.", "es": "Ahora las frases 11 a 13 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1281,18 +1281,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-alto-6",
-                    "title": {"en": "Lines 14 and 15"},
+                    "title": {"en": "Lines 14 and 15", "es": "Frases 14 y 15"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 14, then sing it back."},
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1301,11 +1301,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 15, then sing it back."},
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1314,11 +1314,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 14 and 15 joined, with the guide."},
+                            "text": {"en": "Now lines 14 and 15 joined, with the guide.", "es": "Ahora las frases 14 y 15 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1327,17 +1327,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-alto-7",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1346,11 +1346,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1359,11 +1359,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 3 start to end, with the guide."},
+                            "text": {"en": "Verse 3 start to end, with the guide.", "es": "La estrofa 3 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1372,11 +1372,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 4 start to end, with the guide."},
+                            "text": {"en": "Verse 4 start to end, with the guide.", "es": "La estrofa 4 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1385,11 +1385,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1398,17 +1398,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-alto-8",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1418,17 +1418,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-alto-9",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1440,11 +1440,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1456,15 +1456,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-alto-10",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Shorty George Blues in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "shorty-george-blues", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Shorty George Blues in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Shorty George Blues en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shorty-george-blues", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -1472,21 +1472,21 @@
         },
         {
             "id": "song-shorty-george-blues-tenor",
-            "title": {"en": "Tenor"},
+            "title": {"en": "Tenor", "es": "Tenor"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "song-shorty-george-blues-tenor-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Shorty George Blues: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Shorty George Blues: hear the whole song first, then the tenor part on its own.", "es": "Shorty George Blues: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1500,8 +1500,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tenor part on its own."},
-                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1513,7 +1513,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1526,12 +1526,12 @@
                 },
                 {
                     "id": "song-shorty-george-blues-tenor-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1540,11 +1540,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1553,11 +1553,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined, with the guide."},
+                            "text": {"en": "Now lines 1 and 2 joined, with the guide.", "es": "Ahora las frases 1 y 2 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1566,18 +1566,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-tenor-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1586,11 +1586,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1599,11 +1599,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 2 again. Sing it with the guide.", "es": "La frase 5 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1612,11 +1612,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 3 again. Sing it with the guide.", "es": "La frase 6 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1625,11 +1625,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1638,18 +1638,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-tenor-4",
-                    "title": {"en": "Lines 7 to 10"},
+                    "title": {"en": "Lines 7 to 10", "es": "Frases 7 a 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 4 again. Sing it with the guide.", "es": "La frase 7 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1658,11 +1658,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 8 is line 2 again. Sing it with the guide.", "es": "La frase 8 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1671,11 +1671,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 3 again. Sing it with the guide.", "es": "La frase 9 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1684,11 +1684,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 4 again. Sing it with the guide.", "es": "La frase 10 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1697,11 +1697,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 to 10 joined, with the guide."},
+                            "text": {"en": "Now lines 7 to 10 joined, with the guide.", "es": "Ahora las frases 7 a 10 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1710,18 +1710,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-tenor-5",
-                    "title": {"en": "Lines 11 to 13"},
+                    "title": {"en": "Lines 11 to 13", "es": "Frases 11 a 13"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 2 again. Sing it with the guide.", "es": "La frase 11 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1730,11 +1730,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 3 again. Sing it with the guide.", "es": "La frase 12 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1743,11 +1743,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 13 is line 4 again. Sing it with the guide.", "es": "La frase 13 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1756,11 +1756,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 to 13 joined, with the guide."},
+                            "text": {"en": "Now lines 11 to 13 joined, with the guide.", "es": "Ahora las frases 11 a 13 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1769,18 +1769,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-tenor-6",
-                    "title": {"en": "Lines 14 and 15"},
+                    "title": {"en": "Lines 14 and 15", "es": "Frases 14 y 15"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 14, then sing it back."},
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1789,11 +1789,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 15, then sing it back."},
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1802,11 +1802,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 14 and 15 joined, with the guide."},
+                            "text": {"en": "Now lines 14 and 15 joined, with the guide.", "es": "Ahora las frases 14 y 15 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1815,17 +1815,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-tenor-7",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1834,11 +1834,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1847,11 +1847,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 3 start to end, with the guide."},
+                            "text": {"en": "Verse 3 start to end, with the guide.", "es": "La estrofa 3 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1860,11 +1860,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 4 start to end, with the guide."},
+                            "text": {"en": "Verse 4 start to end, with the guide.", "es": "La estrofa 4 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1873,11 +1873,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1886,17 +1886,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-tenor-8",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1906,17 +1906,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-tenor-9",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1928,11 +1928,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "shorty-george-blues",
@@ -1944,15 +1944,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-shorty-george-blues-tenor-10",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Shorty George Blues in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "shorty-george-blues", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Shorty George Blues in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Shorty George Blues en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shorty-george-blues", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

@@ -2,25 +2,25 @@
     "id": "song-blow-the-man-down",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Blow the Man Down"},
+    "title": {"en": "Blow the Man Down", "es": "Blow the Man Down"},
     "units": [
         {
             "id": "song-blow-the-man-down-soprano",
-            "title": {"en": "The melody"},
+            "title": {"en": "The melody", "es": "La melodía"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-blow-the-man-down-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Blow the Man Down: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Blow the Man Down: hear the whole song first, then the tune on its own.", "es": "Blow the Man Down: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "btmd-rest-then-pull", "text": {"en": "It's a halyard shanty, for hoisting heavy yards. The crew rested on the rope while the shantyman sang his line, then took a big pull together as they roared the refrain."}, "source": {"en": "Mainly Norfolk, \"Blow the Man Down\" (A.L. Lloyd songs; Topic Records sleeve notes)"}, "url": "https://mainlynorfolk.info/lloyd/songs/blowthemandown.html"}
+                    "fact": {"id": "btmd-rest-then-pull", "text": {"en": "It's a halyard shanty, for hoisting heavy yards. The crew rested on the rope while the shantyman sang his line, then took a big pull together as they roared the refrain.", "es": "Es una canción de driza, para izar vergas pesadas. La tripulación descansaba sobre el cabo mientras el solista cantaba su verso, y luego daba un gran tirón todos a una al rugir el estribillo."}, "source": {"en": "Mainly Norfolk, \"Blow the Man Down\" (A.L. Lloyd songs; Topic Records sleeve notes)", "es": "Mainly Norfolk, \"Blow the Man Down\" (canciones de A.L. Lloyd; notas del disco de Topic Records)"}, "url": "https://mainlynorfolk.info/lloyd/songs/blowthemandown.html"}
                 },
                 {
                     "id": "song-blow-the-man-down-soprano-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -101,18 +101,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-soprano-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -121,11 +121,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 5 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 5 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -147,11 +147,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide.", "es": "La frase 6 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -160,11 +160,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -173,18 +173,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-soprano-4",
-                    "title": {"en": "Lines 7 to 10"},
+                    "title": {"en": "Lines 7 to 10", "es": "Frases 7 a 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 7 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 7 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -193,11 +193,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide.", "es": "La frase 8 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -206,11 +206,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 9 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 9 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -219,11 +219,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -232,11 +232,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 to 10 joined, with the guide."},
+                            "text": {"en": "Now lines 7 to 10 joined, with the guide.", "es": "Ahora las frases 7 a 10 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -245,18 +245,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-soprano-5",
-                    "title": {"en": "Lines 11 and 12"},
+                    "title": {"en": "Lines 11 and 12", "es": "Frases 11 y 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 11, then sing it back."},
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -265,11 +265,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -278,11 +278,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 and 12 joined, with the guide."},
+                            "text": {"en": "Now lines 11 and 12 joined, with the guide.", "es": "Ahora las frases 11 y 12 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -291,17 +291,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-soprano-6",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The call start to end, with the guide."},
+                            "text": {"en": "The call start to end, with the guide.", "es": "La llamada de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -310,11 +310,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -323,11 +323,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -336,11 +336,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -349,17 +349,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-soprano-7",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -369,17 +369,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-soprano-8",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -391,11 +391,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -407,38 +407,38 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-soprano-9",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Blow the Man Down in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "blow-the-man-down", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Blow the Man Down in Sing, with the other parts playing.", "es": "Graba la melodía de Blow the Man Down en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "blow-the-man-down", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "btmd-syracuse-1867", "text": {"en": "The earliest known trace of it is from July 1867, in a Syracuse newspaper, the Daily Courier."}, "source": {"en": "The Traditional Ballad Index (California State University, Fresno), \"Blow the Man Down\""}, "url": "https://balladindex.org/Ballads/Doe017.html"}
+                    "fact": {"id": "btmd-syracuse-1867", "text": {"en": "The earliest known trace of it is from July 1867, in a Syracuse newspaper, the Daily Courier.", "es": "El rastro más antiguo que se conoce es de julio de 1867, en un periódico de Syracuse, el Daily Courier."}, "source": {"en": "The Traditional Ballad Index (California State University, Fresno), \"Blow the Man Down\"", "es": "The Traditional Ballad Index (California State University, Fresno), \"Blow the Man Down\""}, "url": "https://balladindex.org/Ballads/Doe017.html"}
                 }
             ]
         },
         {
             "id": "song-blow-the-man-down-alto",
-            "title": {"en": "Alto"},
+            "title": {"en": "Alto", "es": "Contralto"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "song-blow-the-man-down-alto-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Blow the Man Down: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Blow the Man Down: hear the whole song first, then the alto part on its own.", "es": "Blow the Man Down: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -452,8 +452,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the alto part on its own."},
-                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -465,7 +465,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 2: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 2: each one waits until you're on it.", "es": "Busca las notas de la frase 2: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -475,16 +475,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "btmd-hugill-six-versions", "text": {"en": "The shanty collector Stan Hugill sorted the song into six separate versions, among them the Flash Packet, the Blackballer and the Milkmaid."}, "source": {"en": "The Traditional Ballad Index, \"Blow the Man Down\", notes"}, "url": "https://balladindex.org/Ballads/Doe017.html"}
+                    "fact": {"id": "btmd-hugill-six-versions", "text": {"en": "The shanty collector Stan Hugill sorted the song into six separate versions, among them the Flash Packet, the Blackballer and the Milkmaid.", "es": "El recopilador de canciones marineras Stan Hugill clasificó la canción en seis versiones distintas, entre ellas la \"Flash Packet\", la \"Blackballer\" y la \"Milkmaid\"."}, "source": {"en": "The Traditional Ballad Index, \"Blow the Man Down\", notes", "es": "The Traditional Ballad Index, \"Blow the Man Down\", notas"}, "url": "https://balladindex.org/Ballads/Doe017.html"}
                 },
                 {
                     "id": "song-blow-the-man-down-alto-2",
-                    "title": {"en": "Lines 2, 4, 6 and 8"},
+                    "title": {"en": "Lines 2, 4, 6 and 8", "es": "Frases 2, 4, 6 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -493,11 +493,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -506,11 +506,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide.", "es": "La frase 6 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -519,11 +519,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide.", "es": "La frase 8 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -532,11 +532,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 2, 4, 6 and 8 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 2, 4, 6 and 8 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 2, 4, 6 y 8 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -546,18 +546,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-alto-3",
-                    "title": {"en": "Lines 10 and 12"},
+                    "title": {"en": "Lines 10 and 12", "es": "Frases 10 y 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -566,11 +566,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -579,11 +579,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 10 and 12 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 10 and 12 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 10 y 12 en su lugar, con la guía; las demás voces cantan la frase intermedia."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -593,17 +593,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-alto-4",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The call start to end, with the guide."},
+                            "text": {"en": "The call start to end, with the guide.", "es": "La llamada de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -612,11 +612,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -625,11 +625,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -638,11 +638,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -651,17 +651,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-alto-5",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -671,17 +671,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-alto-6",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -693,11 +693,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -709,15 +709,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-alto-7",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Blow the Man Down in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "blow-the-man-down", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Blow the Man Down in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Blow the Man Down en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "blow-the-man-down", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -725,21 +725,21 @@
         },
         {
             "id": "song-blow-the-man-down-bass",
-            "title": {"en": "Bass"},
+            "title": {"en": "Bass", "es": "Bajo"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "song-blow-the-man-down-bass-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Blow the Man Down: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Blow the Man Down: hear the whole song first, then the bass part on its own.", "es": "Blow the Man Down: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -753,8 +753,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the bass part on its own."},
-                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -766,7 +766,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 2: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 2: each one waits until you're on it.", "es": "Busca las notas de la frase 2: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -776,16 +776,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "btmd-roll-im-on-down", "text": {"en": "The same tune, with other words, turned up as Roll 'Im On Down, a song for launching boats, recorded in 1935."}, "source": {"en": "The Traditional Ballad Index, \"Blow the Man Down\", Same Tune and notes"}, "url": "https://balladindex.org/Ballads/Doe017.html"}
+                    "fact": {"id": "btmd-roll-im-on-down", "text": {"en": "The same tune, with other words, turned up as Roll 'Im On Down, a song for launching boats, recorded in 1935.", "es": "La misma melodía, con otra letra, apareció como Roll 'Im On Down, una canción para botar barcos, grabada en 1935."}, "source": {"en": "The Traditional Ballad Index, \"Blow the Man Down\", Same Tune and notes", "es": "The Traditional Ballad Index, \"Blow the Man Down\", Same Tune y notas"}, "url": "https://balladindex.org/Ballads/Doe017.html"}
                 },
                 {
                     "id": "song-blow-the-man-down-bass-2",
-                    "title": {"en": "Lines 2, 4, 6 and 8"},
+                    "title": {"en": "Lines 2, 4, 6 and 8", "es": "Frases 2, 4, 6 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -794,11 +794,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -807,11 +807,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide.", "es": "La frase 6 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -820,11 +820,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide.", "es": "La frase 8 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -833,11 +833,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 2, 4, 6 and 8 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 2, 4, 6 and 8 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 2, 4, 6 y 8 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -847,18 +847,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-bass-3",
-                    "title": {"en": "Lines 10 and 12"},
+                    "title": {"en": "Lines 10 and 12", "es": "Frases 10 y 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -867,11 +867,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -880,11 +880,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 10 and 12 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 10 and 12 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 10 y 12 en su lugar, con la guía; las demás voces cantan la frase intermedia."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -894,17 +894,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-bass-4",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The call start to end, with the guide."},
+                            "text": {"en": "The call start to end, with the guide.", "es": "La llamada de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -913,11 +913,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -926,11 +926,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -939,11 +939,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -952,17 +952,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-bass-5",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -972,17 +972,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-bass-6",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -994,11 +994,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1010,15 +1010,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-bass-7",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Blow the Man Down in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "blow-the-man-down", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Blow the Man Down in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Blow the Man Down en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "blow-the-man-down", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1026,21 +1026,21 @@
         },
         {
             "id": "song-blow-the-man-down-tenor",
-            "title": {"en": "Tenor"},
+            "title": {"en": "Tenor", "es": "Tenor"},
             "colour": 4,
             "lessons": [
                 {
                     "id": "song-blow-the-man-down-tenor-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Blow the Man Down: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Blow the Man Down: hear the whole song first, then the tenor part on its own.", "es": "Blow the Man Down: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -1054,8 +1054,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tenor part on its own."},
-                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1067,7 +1067,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 2: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 2: each one waits until you're on it.", "es": "Busca las notas de la frase 2: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1080,12 +1080,12 @@
                 },
                 {
                     "id": "song-blow-the-man-down-tenor-2",
-                    "title": {"en": "Lines 2, 4, 6 and 8"},
+                    "title": {"en": "Lines 2, 4, 6 and 8", "es": "Frases 2, 4, 6 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1094,11 +1094,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1107,11 +1107,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide.", "es": "La frase 6 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1120,11 +1120,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 8 is line 4 again. Sing it with the guide.", "es": "La frase 8 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1133,11 +1133,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 2, 4, 6 and 8 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 2, 4, 6 and 8 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 2, 4, 6 y 8 en su lugar, con la guía; las demás voces cantan las frases intermedias."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1147,18 +1147,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-tenor-3",
-                    "title": {"en": "Lines 10 and 12"},
+                    "title": {"en": "Lines 10 and 12", "es": "Frases 10 y 12"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1167,11 +1167,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 12, then sing it back."},
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1180,11 +1180,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 10 and 12 in their places, the other parts singing the lines between, with the guide."},
+                            "text": {"en": "Now lines 10 and 12 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 10 y 12 en su lugar, con la guía; las demás voces cantan la frase intermedia."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1194,17 +1194,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-tenor-4",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The call start to end, with the guide."},
+                            "text": {"en": "The call start to end, with the guide.", "es": "La llamada de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1213,11 +1213,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1226,11 +1226,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1239,11 +1239,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole song, with the guide."},
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1252,17 +1252,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-tenor-5",
-                    "title": {"en": "With the others"},
+                    "title": {"en": "With the others", "es": "Con los demás"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1272,17 +1272,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-tenor-6",
-                    "title": {"en": "On your own"},
+                    "title": {"en": "On your own", "es": "Sin guía"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1294,11 +1294,11 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once more on your own, from the top."},
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
                             "exercise": {
                                 "song": {
                                     "template": "blow-the-man-down",
@@ -1310,15 +1310,15 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-blow-the-man-down-tenor-7",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Blow the Man Down in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "blow-the-man-down", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Blow the Man Down in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Blow the Man Down en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "blow-the-man-down", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

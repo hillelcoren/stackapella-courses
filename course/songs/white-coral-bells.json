@@ -2,25 +2,25 @@
     "id": "song-white-coral-bells",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "White Coral Bells (round)"},
+    "title": {"en": "White Coral Bells (round)", "es": "White Coral Bells (round)"},
     "units": [
         {
             "id": "song-white-coral-bells-soprano",
-            "title": {"en": "The round"},
+            "title": {"en": "The round", "es": "El canon"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-white-coral-bells-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "White Coral Bells: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "White Coral Bells: hear the whole song first, then the tune on its own.", "es": "White Coral Bells: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "wcb-may-bells", "text": {"en": "The earliest known printing of this round is \"May Bells\", in Hollis Dann's Fourth Year Music, a school music reader of 1916. It is printed for two voices, the second coming in at the fifth bar."}, "source": {"en": "Hollis Dann Music Course, Fourth Year Music (American Book Company, 1916), p. 115, read from the scan"}, "url": "https://archive.org/details/hollisdannmusic01danngoog"}
+                    "fact": {"id": "wcb-may-bells", "text": {"en": "The earliest known printing of this round is \"May Bells\", in Hollis Dann's Fourth Year Music, a school music reader of 1916. It is printed for two voices, the second coming in at the fifth bar.", "es": "La impresión más antigua que se conoce de este canon es \"May Bells\", en Fourth Year Music de Hollis Dann, un libro escolar de música de 1916. Está escrito para dos voces, y la segunda entra en el quinto compás."}, "source": {"en": "Hollis Dann Music Course, Fourth Year Music (American Book Company, 1916), p. 115, read from the scan", "es": "Hollis Dann Music Course, Fourth Year Music (American Book Company, 1916), p. 115, leído en el escaneo"}, "url": "https://archive.org/details/hollisdannmusic01danngoog"}
                 },
                 {
                     "id": "song-white-coral-bells-soprano-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -101,18 +101,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-white-coral-bells-soprano-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -121,11 +121,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 5 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 5 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -147,11 +147,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 6 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 6 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -160,11 +160,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -173,18 +173,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-white-coral-bells-soprano-4",
-                    "title": {"en": "Lines 7 to 10"},
+                    "title": {"en": "Lines 7 to 10", "es": "Frases 7 a 10"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 7 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 7 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -193,11 +193,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 8 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -206,11 +206,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -219,11 +219,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 10 is line 2 again. Sing it with the guide.", "es": "La frase 10 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -232,11 +232,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 to 10 joined, with the guide."},
+                            "text": {"en": "Now lines 7 to 10 joined, with the guide.", "es": "Ahora las frases 7 a 10 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -245,18 +245,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-white-coral-bells-soprano-5",
-                    "title": {"en": "Lines 11 to 14"},
+                    "title": {"en": "Lines 11 to 14", "es": "Frases 11 a 14"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 3 again. Sing it with the guide.", "es": "La frase 11 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -265,11 +265,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide."},
+                            "text": {"en": "Line 12 is line 4 again. Sing it with the guide.", "es": "La frase 12 repite la frase 4. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -278,11 +278,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 13 is the tune of line 1 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 13 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 13 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -291,11 +291,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 14 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 14 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 14 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -304,11 +304,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 to 14 joined, with the guide."},
+                            "text": {"en": "Now lines 11 to 14 joined, with the guide.", "es": "Ahora las frases 11 a 14 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -317,18 +317,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-white-coral-bells-soprano-6",
-                    "title": {"en": "Lines 15 and 16"},
+                    "title": {"en": "Lines 15 and 16", "es": "Frases 15 y 16"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 15 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 15 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 15 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -337,11 +337,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 16, then sing it back."},
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -350,11 +350,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 15 and 16 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 15 and 16 joined: hear them, then sing them back.", "es": "Ahora las frases 15 y 16 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -363,17 +363,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-white-coral-bells-soprano-7",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The whole tune, with the guide."},
+                            "text": {"en": "The whole tune, with the guide.", "es": "La melodía entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -382,17 +382,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-white-coral-bells-soprano-8",
-                    "title": {"en": "Come in second"},
+                    "title": {"en": "Come in second", "es": "Segunda entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in second, 4 bars after the first voice, with the guide."},
+                            "text": {"en": "The round: come in second, 4 bars after the first voice, with the guide.", "es": "El canon: entra en segundo lugar, 4 compases después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -402,11 +402,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en segundo lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -417,17 +417,17 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-white-coral-bells-soprano-9",
-                    "title": {"en": "Come in third"},
+                    "title": {"en": "Come in third", "es": "Tercera entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in third, 8 bars after the first voice, with the guide."},
+                            "text": {"en": "The round: come in third, 8 bars after the first voice, with the guide.", "es": "El canon: entra en tercer lugar, 8 compases después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -437,11 +437,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en tercer lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -452,17 +452,17 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-white-coral-bells-soprano-10",
-                    "title": {"en": "Come in fourth"},
+                    "title": {"en": "Come in fourth", "es": "Cuarta entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in fourth, 12 bars after the first voice, with the guide."},
+                            "text": {"en": "The round: come in fourth, 12 bars after the first voice, with the guide.", "es": "El canon: entra en cuarto lugar, 12 compases después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -472,11 +472,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en cuarto lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "white-coral-bells",
@@ -487,18 +487,18 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-white-coral-bells-soprano-11",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the second voice of White Coral Bells in Sing, coming in over the first."}, "measures": {"en": "Scored on the notes."}, "template": "white-coral-bells", "singers": 2, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the second voice of White Coral Bells in Sing, coming in over the first.", "es": "Graba la segunda voz de White Coral Bells en Cantar, entrando sobre la primera."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "white-coral-bells", "singers": 2, "part": "alto"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "wcb-no-author", "text": {"en": "Dann's book names no author for it, though it credits most of its other pieces. The Traditional Ballad Index files it as a camp song found in the US, and notes that it may be sung as a round."}, "source": {"en": "The Traditional Ballad Index, \"White Coral Bells\""}, "url": "https://balladindex.org/Ballads/PHCFS268.html"}
+                    "fact": {"id": "wcb-no-author", "text": {"en": "Dann's book names no author for it, though it credits most of its other pieces. The Traditional Ballad Index files it as a camp song found in the US, and notes that it may be sung as a round.", "es": "El libro de Dann no indica su autor, aunque sí el de la mayoría de sus otras piezas. The Traditional Ballad Index la clasifica como canción de campamento recogida en Estados Unidos, y señala que puede cantarse en canon."}, "source": {"en": "The Traditional Ballad Index, \"White Coral Bells\"", "es": "The Traditional Ballad Index, \"White Coral Bells\""}, "url": "https://balladindex.org/Ballads/PHCFS268.html"}
                 }
             ]
         }

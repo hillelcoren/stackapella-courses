@@ -2,25 +2,25 @@
     "id": "song-three-blind-mice",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Three Blind Mice (round)"},
+    "title": {"en": "Three Blind Mice (round)", "es": "Three Blind Mice (round)"},
     "units": [
         {
             "id": "song-three-blind-mice-soprano",
-            "title": {"en": "The round"},
+            "title": {"en": "The round", "es": "El canon"},
             "colour": 1,
             "lessons": [
                 {
                     "id": "song-three-blind-mice-soprano-1",
-                    "title": {"en": "Hear it"},
+                    "title": {"en": "Hear it", "es": "Escuchar"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Three Blind Mice: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Three Blind Mice: hear the whole song first, then the tune on its own.", "es": "Three Blind Mice: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
-                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
-                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
-                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
                             ],
                             "listen": {
                                 "song": {
@@ -34,8 +34,8 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the tune on its own."},
-                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
                             "listen": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -57,16 +57,16 @@
                             }
                         }
                     ],
-                    "fact": {"id": "tbm-school-round", "text": {"en": "In 1886 a reader of the journal Notes and Queries called Three Blind Mice \"the school round\", and wrote that in all the copies of the round he had met the words ran \"They all ran after the farmer's wife\"."}, "source": {"en": "Notes and Queries, 7th series, vol. 2 (25 December 1886), p. 507, read from the scan"}, "url": "https://archive.org/details/sim_notes-and-queries_1886-12-25_2_52"}
+                    "fact": {"id": "tbm-school-round", "text": {"en": "In 1886 a reader of the journal Notes and Queries called Three Blind Mice \"the school round\", and wrote that in all the copies of the round he had met the words ran \"They all ran after the farmer's wife\".", "es": "En 1886, un lector de la revista Notes and Queries llamó a Three Blind Mice \"el canon de la escuela\", y escribió que en todas las copias que había visto la letra decía \"They all ran after the farmer's wife\"."}, "source": {"en": "Notes and Queries, 7th series, vol. 2 (25 December 1886), p. 507, read from the scan", "es": "Notes and Queries, 7.ª serie, vol. 2 (25 de diciembre de 1886), p. 507, leído en el escaneo"}, "url": "https://archive.org/details/sim_notes-and-queries_1886-12-25_2_52"}
                 },
                 {
                     "id": "song-three-blind-mice-soprano-2",
-                    "title": {"en": "Lines 1 and 2"},
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 1, then sing it back."},
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -75,11 +75,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 2, then sing it back."},
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -88,11 +88,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -101,18 +101,18 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-three-blind-mice-soprano-3",
-                    "title": {"en": "Lines 3 to 6"},
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, then sing it back."},
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -121,11 +121,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, then sing it back."},
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -134,11 +134,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide."},
+                            "text": {"en": "Line 5 is line 1 again. Sing it with the guide.", "es": "La frase 5 repite la frase 1. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -147,11 +147,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 6 is line 2 again. Sing it with the guide.", "es": "La frase 6 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -160,11 +160,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 3 to 6 joined, with the guide."},
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -173,18 +173,18 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-three-blind-mice-soprano-4",
-                    "title": {"en": "Lines 7 and 8"},
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 3 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 3 again. Sing it with the guide.", "es": "La frase 7 repite la frase 3. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -193,11 +193,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 8, then sing it back."},
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -206,11 +206,11 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 7 and 8 joined: hear them, then sing them back.", "es": "Ahora las frases 7 y 8 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -219,17 +219,17 @@
                                 },
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-three-blind-mice-soprano-5",
-                    "title": {"en": "The whole song"},
+                    "title": {"en": "The whole song", "es": "La canción entera"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The whole tune, with the guide."},
+                            "text": {"en": "The whole tune, with the guide.", "es": "La melodía entera, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -238,17 +238,17 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-three-blind-mice-soprano-6",
-                    "title": {"en": "Come in second"},
+                    "title": {"en": "Come in second", "es": "Segunda entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in second, 8 beats after the first voice, with the guide."},
+                            "text": {"en": "The round: come in second, 8 beats after the first voice, with the guide.", "es": "El canon: entra en segundo lugar, 8 tiempos después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -258,11 +258,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in second again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en segundo lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -273,17 +273,17 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-three-blind-mice-soprano-7",
-                    "title": {"en": "Come in third"},
+                    "title": {"en": "Come in third", "es": "Tercera entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in third, 16 beats after the first voice, with the guide."},
+                            "text": {"en": "The round: come in third, 16 beats after the first voice, with the guide.", "es": "El canon: entra en tercer lugar, 16 tiempos después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -293,11 +293,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in third again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en tercer lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -308,17 +308,17 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-three-blind-mice-soprano-8",
-                    "title": {"en": "Come in fourth"},
+                    "title": {"en": "Come in fourth", "es": "Cuarta entrada"},
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The round: come in fourth, 4 bars after the first voice, with the guide."},
+                            "text": {"en": "The round: come in fourth, 4 bars after the first voice, with the guide.", "es": "El canon: entra en cuarto lugar, 4 compases después de la primera voz, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -328,11 +328,11 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on."},
+                            "text": {"en": "Come in fourth again, on your own this time: keep your place while the others go on.", "es": "Entra otra vez en cuarto lugar, ahora sin guía: no te pierdas mientras las demás voces siguen."},
                             "exercise": {
                                 "song": {
                                     "template": "three-blind-mice",
@@ -343,18 +343,18 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "song-three-blind-mice-soprano-9",
-                    "title": {"en": "Record it"},
+                    "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the second voice of Three Blind Mice in Sing, coming in over the first."}, "measures": {"en": "Scored on the notes."}, "template": "three-blind-mice", "singers": 2, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the second voice of Three Blind Mice in Sing, coming in over the first.", "es": "Graba la segunda voz de Three Blind Mice en Cantar, entrando sobre la primera."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "three-blind-mice", "singers": 2, "part": "alto"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "tbm-home-songs", "text": {"en": "Our version is read from Home Songs, a Boston collection of 1906 of favourite songs, hymns and rounds \"for the fireside\", which prints it as a round in four parts."}, "source": {"en": "Home Songs (Oliver Ditson Company, Boston, 1906), p. 95, read from the scan"}, "url": "https://archive.org/details/homesongscollect00unse_0"}
+                    "fact": {"id": "tbm-home-songs", "text": {"en": "Our version is read from Home Songs, a Boston collection of 1906 of favourite songs, hymns and rounds \"for the fireside\", which prints it as a round in four parts.", "es": "Nuestra versión está tomada de Home Songs, una colección de Boston de 1906 con canciones, himnos y cánones favoritos \"para cantar junto al fuego\", que la imprime como canon a cuatro voces."}, "source": {"en": "Home Songs (Oliver Ditson Company, Boston, 1906), p. 95, read from the scan", "es": "Home Songs (Oliver Ditson Company, Boston, 1906), p. 95, leído en el escaneo"}, "url": "https://archive.org/details/homesongscollect00unse_0"}
                 }
             ]
         }
