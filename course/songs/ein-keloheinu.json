@@ -2,7 +2,7 @@
     "id": "song-ein-keloheinu",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Ein Keloheinu"},
+    "title": {"en": "Ein Keloheinu", "es": "Ein Keloheinu"},
     "units": [
         {
             "id": "song-ein-keloheinu-soprano",
@@ -16,7 +16,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Ein Keloheinu: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Ein Keloheinu: hear the whole song first, then the tune on its own.", "es": "Ein Keloheinu: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -57,7 +57,7 @@
                             }
                         }
                     ],
-                    "fact": {"id": "ek-union-1897", "text": {"en": "The Union Hymnal of 1897, the hymnal of the Central Conference of American Rabbis, prints it in four parts among its \"Hebrew Hymns and Responses\", with all five verses."}, "source": {"en": "The Union Hymnal (Central Conference of American Rabbis, 1897), No. 17, pp. 140 and 141, read from the scan"}, "url": "https://archive.org/details/unionhymnal0000unse_l7i5"}
+                    "fact": {"id": "ek-union-1897", "text": {"en": "The Union Hymnal of 1897, the hymnal of the Central Conference of American Rabbis, prints it in four parts among its \"Hebrew Hymns and Responses\", with all five verses.", "es": "The Union Hymnal de 1897, el himnario de la Central Conference of American Rabbis, lo imprime a cuatro voces entre sus \"Hebrew Hymns and Responses\", con las cinco estrofas."}, "source": {"en": "The Union Hymnal (Central Conference of American Rabbis, 1897), No. 17, pp. 140 and 141, read from the scan", "es": "The Union Hymnal (Central Conference of American Rabbis, 1897), n.º 17, pp. 140 y 141, leído en el escaneo"}, "url": "https://archive.org/details/unionhymnal0000unse_l7i5"}
                 },
                 {
                     "id": "song-ein-keloheinu-soprano-2",
@@ -429,12 +429,12 @@
                 },
                 {
                     "id": "song-ein-keloheinu-soprano-10",
-                    "title": {"en": "Lines 17 and 18"},
+                    "title": {"en": "Lines 17 and 18", "es": "Frases 17 y 18"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 17, then sing it back."},
+                            "text": {"en": "Hear line 17, then sing it back.", "es": "Escucha la frase 17 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -447,7 +447,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 18, then sing it back."},
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -460,7 +460,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 17 and 18 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 17 and 18 joined: hear them, then sing them back.", "es": "Ahora las frases 17 y 18 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -525,7 +525,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Ein kelokeinu start to end, with the guide."},
+                            "text": {"en": "Ein kelokeinu start to end, with the guide.", "es": "\"Ein kelokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -538,7 +538,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Mi chelokeinu start to end, with the guide."},
+                            "text": {"en": "Mi chelokeinu start to end, with the guide.", "es": "\"Mi chelokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -551,7 +551,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Node lelokeinu start to end, with the guide."},
+                            "text": {"en": "Node lelokeinu start to end, with the guide.", "es": "\"Node lelokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -564,7 +564,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Baruch elokeinu start to end, with the guide."},
+                            "text": {"en": "Baruch elokeinu start to end, with the guide.", "es": "\"Baruch elokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -652,10 +652,10 @@
                     "id": "song-ein-keloheinu-soprano-15",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Ein Keloheinu in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "ein-keloheinu", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Ein Keloheinu in Sing, with the other parts playing.", "es": "Graba la melodía de Ein Keloheinu en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "ein-keloheinu", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "ek-freudenthal", "text": {"en": "The hymnal's 1932 edition credits it to Julius Freudenthal. The 1897 edition's index gives the music's source only as \"German\"."}, "source": {"en": "The Union Hymnal (1932), No. 292, and (1897), index p. 218, read from the scans"}, "url": "https://archive.org/details/unionhymnal0000unse_l7i5"}
+                    "fact": {"id": "ek-freudenthal", "text": {"en": "The hymnal's 1932 edition credits it to Julius Freudenthal. The 1897 edition's index gives the music's source only as \"German\".", "es": "La edición de 1932 del himnario lo atribuye a Julius Freudenthal. El índice de la edición de 1897 solo da como origen de la música \"German\" (alemán)."}, "source": {"en": "The Union Hymnal (1932), No. 292, and (1897), index p. 218, read from the scans", "es": "The Union Hymnal (1932), n.º 292, y (1897), índice, p. 218, leído en los escaneos"}, "url": "https://archive.org/details/unionhymnal0000unse_l7i5"}
                 }
             ]
         },
@@ -671,7 +671,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Ein Keloheinu: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Ein Keloheinu: hear the whole song first, then the alto part on its own.", "es": "Ein Keloheinu: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1083,12 +1083,12 @@
                 },
                 {
                     "id": "song-ein-keloheinu-alto-10",
-                    "title": {"en": "Lines 17 and 18"},
+                    "title": {"en": "Lines 17 and 18", "es": "Frases 17 y 18"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 17, then sing it back."},
+                            "text": {"en": "Hear line 17, then sing it back.", "es": "Escucha la frase 17 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1101,7 +1101,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 18, then sing it back."},
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1114,7 +1114,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 17 and 18 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 17 and 18 joined: hear them, then sing them back.", "es": "Ahora las frases 17 y 18 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1179,7 +1179,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Ein kelokeinu start to end, with the guide."},
+                            "text": {"en": "Ein kelokeinu start to end, with the guide.", "es": "\"Ein kelokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1192,7 +1192,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Mi chelokeinu start to end, with the guide."},
+                            "text": {"en": "Mi chelokeinu start to end, with the guide.", "es": "\"Mi chelokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1205,7 +1205,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Node lelokeinu start to end, with the guide."},
+                            "text": {"en": "Node lelokeinu start to end, with the guide.", "es": "\"Node lelokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1218,7 +1218,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Baruch elokeinu start to end, with the guide."},
+                            "text": {"en": "Baruch elokeinu start to end, with the guide.", "es": "\"Baruch elokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1306,7 +1306,7 @@
                     "id": "song-ein-keloheinu-alto-15",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Ein Keloheinu in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "ein-keloheinu", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Ein Keloheinu in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Ein Keloheinu en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "ein-keloheinu", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -1324,7 +1324,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Ein Keloheinu: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Ein Keloheinu: hear the whole song first, then the bass part on its own.", "es": "Ein Keloheinu: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1736,12 +1736,12 @@
                 },
                 {
                     "id": "song-ein-keloheinu-bass-10",
-                    "title": {"en": "Lines 17 and 18"},
+                    "title": {"en": "Lines 17 and 18", "es": "Frases 17 y 18"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 17, then sing it back."},
+                            "text": {"en": "Hear line 17, then sing it back.", "es": "Escucha la frase 17 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1754,7 +1754,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 18, then sing it back."},
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1767,7 +1767,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 17 and 18 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 17 and 18 joined: hear them, then sing them back.", "es": "Ahora las frases 17 y 18 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1832,7 +1832,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Ein kelokeinu start to end, with the guide."},
+                            "text": {"en": "Ein kelokeinu start to end, with the guide.", "es": "\"Ein kelokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1845,7 +1845,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Mi chelokeinu start to end, with the guide."},
+                            "text": {"en": "Mi chelokeinu start to end, with the guide.", "es": "\"Mi chelokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1858,7 +1858,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Node lelokeinu start to end, with the guide."},
+                            "text": {"en": "Node lelokeinu start to end, with the guide.", "es": "\"Node lelokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1871,7 +1871,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Baruch elokeinu start to end, with the guide."},
+                            "text": {"en": "Baruch elokeinu start to end, with the guide.", "es": "\"Baruch elokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -1959,7 +1959,7 @@
                     "id": "song-ein-keloheinu-bass-15",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Ein Keloheinu in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "ein-keloheinu", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Ein Keloheinu in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Ein Keloheinu en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "ein-keloheinu", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1977,7 +1977,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Ein Keloheinu: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Ein Keloheinu: hear the whole song first, then the tenor part on its own.", "es": "Ein Keloheinu: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -2389,12 +2389,12 @@
                 },
                 {
                     "id": "song-ein-keloheinu-tenor-10",
-                    "title": {"en": "Lines 17 and 18"},
+                    "title": {"en": "Lines 17 and 18", "es": "Frases 17 y 18"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 17, then sing it back."},
+                            "text": {"en": "Hear line 17, then sing it back.", "es": "Escucha la frase 17 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -2407,7 +2407,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 18, then sing it back."},
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -2420,7 +2420,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 17 and 18 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 17 and 18 joined: hear them, then sing them back.", "es": "Ahora las frases 17 y 18 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -2485,7 +2485,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Ein kelokeinu start to end, with the guide."},
+                            "text": {"en": "Ein kelokeinu start to end, with the guide.", "es": "\"Ein kelokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -2498,7 +2498,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Mi chelokeinu start to end, with the guide."},
+                            "text": {"en": "Mi chelokeinu start to end, with the guide.", "es": "\"Mi chelokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -2511,7 +2511,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Node lelokeinu start to end, with the guide."},
+                            "text": {"en": "Node lelokeinu start to end, with the guide.", "es": "\"Node lelokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -2524,7 +2524,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Baruch elokeinu start to end, with the guide."},
+                            "text": {"en": "Baruch elokeinu start to end, with the guide.", "es": "\"Baruch elokeinu\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "ein-keloheinu",
@@ -2612,7 +2612,7 @@
                     "id": "song-ein-keloheinu-tenor-15",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Ein Keloheinu in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "ein-keloheinu", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Ein Keloheinu in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Ein Keloheinu en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "ein-keloheinu", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }
