@@ -94,6 +94,15 @@ SONGS = {
     "londons-burning": "with the song",
     "three-blind-mice": "with the song",
     "oh-how-lovely": "with the song",
+    "ezekiel-saw-the-wheel": "with the song",
+    "every-time-i-feel-the-spirit": "with the song",
+    "were-you-there": "with the song",
+    "didnt-my-lord-deliver-daniel": "with the song",
+    "balm-in-gilead": "with the song",
+    "bully-in-the-alley": "with the song",
+    "haul-on-the-bowline": "with the song",
+    "spanish-ladies": "with the song",
+    "blow-boys-blow": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")

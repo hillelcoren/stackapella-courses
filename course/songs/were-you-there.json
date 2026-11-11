@@ -1,0 +1,2688 @@
+{
+    "id": "song-were-you-there",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Were You There"},
+    "units": [
+        {
+            "id": "song-were-you-there-soprano",
+            "title": {"en": "The melody"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-were-you-there-soprano-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Were You There: hear the whole song first, then the tune on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tune"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own."},
+                            "steps": [{"title": {"en": "Soprano"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "wyt-more-popular", "text": {"en": "The same songbook also prints a related spiritual, \"Did You Hear How Dey Crucified My Lord?\", and notes that \"Were You There When They Crucified My Lord\" seemed \"to be universally more popular\"."}, "source": {"en": "R. Nathaniel Dett, ed., Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), p. 104, read from the scan"}, "url": "https://archive.org/details/religiousfolkson00dett"}
+                },
+                {
+                    "id": "song-were-you-there-soprano-2",
+                    "title": {"en": "Lines 1 and 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-soprano-3",
+                    "title": {"en": "Lines 3 and 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-soprano-4",
+                    "title": {"en": "Lines 5 and 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-soprano-5",
+                    "title": {"en": "Lines 7 to 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is line 1 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 to 10 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [6, 7, 8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-soprano-6",
+                    "title": {"en": "Lines 11 to 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 to 14 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-soprano-7",
+                    "title": {"en": "Lines 15 to 18"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 15 is line 1 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 18 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15 to 18 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [14, 15, 16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-soprano-8",
+                    "title": {"en": "Lines 19 to 22"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 19 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 20 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [19]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 21 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 22 is line 1 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [21]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 19 to 22 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [18, 19, 20, 21]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-soprano-9",
+                    "title": {"en": "Lines 23 to 26"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 23 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [22]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 24 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [23]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 25 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 26 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [25]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 23 to 26 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [22, 23, 24, 25]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-soprano-10",
+                    "title": {"en": "Lines 27 and 28"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 27 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [26]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 28, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [27]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 27 and 28 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [26, 27]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-soprano-11",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [7, 8, 9, 10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 3 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [14, 15, 16, 17, 18, 19, 20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 4 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [21, 22, 23, 24, 25, 26, 27]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-soprano-12",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-soprano-13",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-soprano-14",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of Were You There in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "were-you-there", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "wyt-thousand-voices", "text": {"en": "Dett also wrote out his own version of it, trying, he said, \"to transcribe the effect of the thousand voices of the school\", in parts \"so very simple and natural that no group of singers should be daunted by them\"."}, "source": {"en": "R. Nathaniel Dett, ed., Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), p. 106, footnote, read from the scan"}, "url": "https://archive.org/details/religiousfolkson00dett"}
+                }
+            ]
+        },
+        {
+            "id": "song-were-you-there-alto",
+            "title": {"en": "Alto"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-were-you-there-alto-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Were You There: hear the whole song first, then the alto part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the alto part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own."},
+                            "steps": [{"title": {"en": "Alto"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 2: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-alto-2",
+                    "title": {"en": "Lines 2 and 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 2 and 3 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [1, 2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-alto-3",
+                    "title": {"en": "Lines 4 and 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-alto-4",
+                    "title": {"en": "Lines 6, 7, 9 and 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6, 7, 9 and 10 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [5, 6, 7, 8, 9],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-alto-5",
+                    "title": {"en": "Lines 11 to 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 to 14 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-alto-6",
+                    "title": {"en": "Lines 16 to 19"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 18 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 19 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 16 to 19 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [15, 16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-alto-7",
+                    "title": {"en": "Lines 20, 21, 23 and 24"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 20 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [19]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 21 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 23 is line 2 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [22]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 24 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [23]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 20, 21, 23 and 24 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [19, 20, 21, 22, 23],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-alto-8",
+                    "title": {"en": "Lines 25 to 28"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 25 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 26 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [25]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 27 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [26]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 28, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [27]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 25 to 28 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [24, 25, 26, 27]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-alto-9",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [1, 2, 3, 4, 5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [8, 9, 10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 3 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [15, 16, 17, 18, 19, 20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 4 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [22, 23, 24, 25, 26, 27]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-alto-10",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-alto-11",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "alto",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-alto-12",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of Were You There in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "were-you-there", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-were-you-there-bass",
+            "title": {"en": "Bass"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-were-you-there-bass-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Were You There: hear the whole song first, then the bass part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the bass part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own."},
+                            "steps": [{"title": {"en": "Bass"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 2: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-bass-2",
+                    "title": {"en": "Lines 2 and 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 2 and 3 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [1, 2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-bass-3",
+                    "title": {"en": "Lines 4 and 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-bass-4",
+                    "title": {"en": "Lines 6, 7, 9 and 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6, 7, 9 and 10 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [5, 6, 7, 8, 9],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-bass-5",
+                    "title": {"en": "Lines 11 to 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 to 14 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-bass-6",
+                    "title": {"en": "Lines 16 to 19"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 18 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 19 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 16 to 19 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [15, 16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-bass-7",
+                    "title": {"en": "Lines 20, 21, 23 and 24"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 20 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [19]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 21 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 23 is line 2 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [22]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 24 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [23]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 20, 21, 23 and 24 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [19, 20, 21, 22, 23],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-bass-8",
+                    "title": {"en": "Lines 25 to 28"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 25 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 26 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [25]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 27 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [26]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 28, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [27]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 25 to 28 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [24, 25, 26, 27]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-bass-9",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [1, 2, 3, 4, 5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [8, 9, 10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 3 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [15, 16, 17, 18, 19, 20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 4 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [22, 23, 24, 25, 26, 27]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-bass-10",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-bass-11",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "bass",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-bass-12",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of Were You There in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "were-you-there", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-were-you-there-tenor",
+            "title": {"en": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-were-you-there-tenor-1",
+                    "title": {"en": "Hear it"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Were You There: hear the whole song first, then the tenor part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing"}, "detail": {"en": "The whole song, every part together"}},
+                                {"title": {"en": "Then the tenor part"}, "detail": {"en": "The guide sings it, line by line"}},
+                                {"title": {"en": "Sing gently"}, "detail": {"en": "Stop if anything tightens or hurts"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own."},
+                            "steps": [{"title": {"en": "Tenor"}, "detail": {"en": "Follow the words as it plays"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 2: each one waits until you're on it."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-tenor-2",
+                    "title": {"en": "Lines 2 and 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 2 and 3 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [1, 2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-tenor-3",
+                    "title": {"en": "Lines 4 and 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-tenor-4",
+                    "title": {"en": "Lines 6, 7, 9 and 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6, 7, 9 and 10 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [5, 6, 7, 8, 9],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-tenor-5",
+                    "title": {"en": "Lines 11 to 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 to 14 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-tenor-6",
+                    "title": {"en": "Lines 16 to 19"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 18 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 19 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 16 to 19 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [15, 16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-tenor-7",
+                    "title": {"en": "Lines 20, 21, 23 and 24"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 20 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [19]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 21 is the tune of line 7 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 23 is line 2 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [22]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 24 is line 3 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [23]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 20, 21, 23 and 24 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [19, 20, 21, 22, 23],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-tenor-8",
+                    "title": {"en": "Lines 25 to 28"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 25 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 26 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [25]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 27 is line 6 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [26]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 28, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [27]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 25 to 28 joined, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [24, 25, 26, 27]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-tenor-9",
+                    "title": {"en": "The whole song"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [1, 2, 3, 4, 5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 2 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [8, 9, 10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 3 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [15, 16, 17, 18, 19, 20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 4 start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [22, 23, 24, 25, 26, 27]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-tenor-10",
+                    "title": {"en": "With the others"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-tenor-11",
+                    "title": {"en": "On your own"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top."},
+                            "exercise": {
+                                "song": {
+                                    "template": "were-you-there",
+                                    "part": "tenor",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-were-you-there-tenor-12",
+                    "title": {"en": "Record it"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of Were You There in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes."}, "template": "were-you-there", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
