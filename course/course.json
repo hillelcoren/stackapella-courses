@@ -1824,18 +1824,22 @@
               "reviewed": false
             },
             {
-              "kind": "use",
+              "kind": "play",
               "text": {
                 "en": "Sing the first line of Amazing Grace with the guide.",
                 "es": "Canta la primera frase de Amazing Grace con la voz guía.",
                 "de": "Sing die erste Zeile von Amazing Grace mit der Übestimme."
               },
-              "template": "amazing-grace",
-              "singers": 4,
-              "part": "soprano",
-              "phrases": [
-                0
-              ]
+              "exercise": {
+                "song": {
+                  "template": "amazing-grace",
+                  "part": "soprano",
+                  "phrases": [
+                    0
+                  ]
+                },
+                "turn": false
+              }
             }
           ]
         },
