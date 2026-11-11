@@ -155,8 +155,8 @@ def di_1_challenge():
     return {
         "id": "di-1-challenge", "title": EN("Amazing Grace, every vowel"), "challenge": True,
         "steps": [
-            learn("Lesson 1's line again, then two lines: stressed vowels full, small words light. \"Lost but\" with nothing between, \"now am\" joined. Drop an r before a consonant.",
-                  [("Then and now", "Lesson 1's line, today"), ("Two lines", "Stress and pure vowels"), ("Joined", "\"lost but\", \"now am\"")]),
+            learn("Lesson 1's line again, then two lines: stressed vowels full, small words light. \"Sweet the\" with nothing between, \"saved a\" joined.",
+                  [("Then and now", "Lesson 1's line, today"), ("Two lines", "Stress and pure vowels"), ("Joined", "\"sweet the\", \"saved a\"")]),
             play("Lesson 1's line.", first_line(thenAndNow="di.first-line"), PITCH),
             play("The first two lines.", song_ex(GRACE, [0, 1]), PITCH),
         ],
