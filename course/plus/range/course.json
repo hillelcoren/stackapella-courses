@@ -3,28 +3,33 @@
     "version": 1,
     "reviewed": false,
     "title": {
-        "en": "Range and registers"
+        "en": "Range and registers",
+        "es": "Extensión y registros"
     },
     "units": [
         {
             "id": "range-easy",
             "title": {
-                "en": "Easy range and chest voice"
+                "en": "Easy range and chest voice",
+                "es": "Extensión cómoda y voz de pecho"
             },
             "colour": 2,
             "lessons": [
                 {
                     "id": "range-1-span",
                     "title": {
-                        "en": "Your easy range"
+                        "en": "Your easy range",
+                        "es": "Tu extensión cómoda"
                     },
                     "fact": {
                         "id": "range-folds-grow",
                         "text": {
-                            "en": "At birth, the vibrating part of your vocal folds is only about 2 mm long. It grows for about 20 years, to around 16 mm in men and 10 mm in women."
+                            "en": "At birth, the vibrating part of your vocal folds is only about 2 mm long. It grows for about 20 years, to around 16 mm in men and 10 mm in women.",
+                            "es": "Al nacer, la parte de los pliegues vocales que vibra mide solo unos 2 mm. Crece durante unos 20 años, hasta unos 16 mm en los hombres y unos 10 mm en las mujeres."
                         },
                         "source": {
-                            "en": "National Center for Voice and Speech (NCVS), \"Voice Changes Throughout Life\", tutorials, chapter 7"
+                            "en": "National Center for Voice and Speech (NCVS), \"Voice Changes Throughout Life\", tutorials, chapter 7",
+                            "es": "National Center for Voice and Speech (NCVS), \"Voice Changes Throughout Life\", tutoriales, capítulo 7"
                         },
                         "url": "https://ncvs.org/tutorials/voice-changes-throughout-life/"
                     },
@@ -32,31 +37,38 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Your range is every note you can sing easily, low to high. Slide down and up, rest where it's easy, and see yours."
+                                "en": "Your range is every note you can sing easily, low to high. Slide down and up, rest where it's easy, and see yours.",
+                                "es": "Tu extensión son todas las notas que cantas con facilidad, de la más grave a la más aguda. Desliza la voz hacia abajo y hacia arriba, quédate un momento donde aún te resulte fácil y descubre la tuya."
                             },
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Easy, not extreme"
+                                        "en": "Easy, not extreme",
+                                        "es": "Cómoda, sin extremos"
                                     },
                                     "detail": {
-                                        "en": "Only as low and as high as feels easy"
+                                        "en": "Only as low and as high as feels easy",
+                                        "es": "Baja y sube solo hasta donde te resulte fácil"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Light at the top"
+                                        "en": "Light at the top",
+                                        "es": "Ligera en lo agudo"
                                     },
                                     "detail": {
-                                        "en": "Quieter as you go up, never louder"
+                                        "en": "Quieter as you go up, never louder",
+                                        "es": "Más suave al subir, nunca más fuerte"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Stop if it strains"
+                                        "en": "Stop if it strains",
+                                        "es": "Si fuerzas la voz, para"
                                     },
                                     "detail": {
-                                        "en": "Tightens, tickles or hurts: rest. Don't sing when hoarse or ill"
+                                        "en": "Tightens, tickles or hurts: rest. Don't sing when hoarse or ill",
+                                        "es": "Si notas tensión, carraspera o dolor, descansa la voz. No cantes si tienes la voz ronca o no te encuentras bien"
                                     }
                                 }
                             ],
@@ -65,7 +77,8 @@
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Slide down on a soft \"oo\", rest on your lowest easy note, then come back up. Only as low as is easy."
+                                "en": "Slide down on a soft \"oo\", rest on your lowest easy note, then come back up. Only as low as is easy.",
+                                "es": "Desliza la voz hacia abajo en un \"oo\" (una u) suave, quédate en la nota más grave que te resulte fácil y vuelve a subir. Baja solo hasta donde te resulte fácil."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -101,13 +114,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on singing the whole slide, never on how high or low it went."
+                                "en": "Scored on singing the whole slide, never on how high or low it went.",
+                                "es": "Se puntúa que cantes el recorrido entero, nunca hasta dónde llegas, ni arriba ni abajo."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Now slide up, rest on your highest light note, quiet and easy, then come back down."
+                                "en": "Now slide up, rest on your highest light note, quiet and easy, then come back down.",
+                                "es": "Ahora desliza la voz hacia arriba, quédate en la nota más aguda que te salga ligera, suave y fácil, y vuelve a bajar."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -144,46 +159,55 @@
                                 "keep": "range.first-slide"
                             },
                             "measures": {
-                                "en": "Scored on singing the whole slide, never on how high or low it went."
+                                "en": "Scored on singing the whole slide, never on how high or low it went.",
+                                "es": "Se puntúa que cantes el recorrido entero, nunca hasta dónde llegas, ni arriba ni abajo."
                             }
                         }
                     ]
                 },
                 {
                     "id": "range-1-chest",
-                    "fact": {"id": "garcia-chest-whole-breadth", "text": {"en": "In 1894 the teacher Manuel Garcia explained chest voice: on a deep chest note the folds vibrate across their \"whole length and breadth\", resisting the air with \"large surfaces\". In falsetto they meet \"merely at their edges\"."}, "source": {"en": "Garcia, Hints on Singing (1894)"}, "url": "https://archive.org/details/hintsonsinging00garc"},
+                    "fact": {"id": "garcia-chest-whole-breadth", "text": {"en": "In 1894 the teacher Manuel Garcia explained chest voice: on a deep chest note the folds vibrate across their \"whole length and breadth\", resisting the air with \"large surfaces\". In falsetto they meet \"merely at their edges\".", "es": "En 1894, el profesor Manuel García explicó la voz de pecho: en una nota grave de pecho, los pliegues vibran \"en todo su largo y ancho\" y resisten el aire con \"grandes superficies\". En falsete se tocan \"solo por los bordes\"."}, "source": {"en": "Garcia, Hints on Singing (1894)", "es": "Garcia, Hints on Singing (1894)"}, "url": "https://archive.org/details/hintsonsinging00garc"},
                     "title": {
-                        "en": "Your speaking voice, sung"
+                        "en": "Your speaking voice, sung",
+                        "es": "Tu voz hablada, cantada"
                     },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Chest voice is the voice you speak in: the low and middle notes that buzz a little in your chest. Sing it the way you'd say it."
+                                "en": "Chest voice is the voice you speak in: the low and middle notes that buzz a little in your chest. Sing it the way you'd say it.",
+                                "es": "La voz de pecho es la voz con la que hablas: las notas graves y medias que hacen un leve cosquilleo en el pecho. Cántalo como lo dirías."
                             },
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Say it first"
+                                        "en": "Say it first",
+                                        "es": "Primero, dilo"
                                     },
                                     "detail": {
-                                        "en": "Then sing it on the same notes"
+                                        "en": "Then sing it on the same notes",
+                                        "es": "Luego cántalo en las mismas notas"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Talking volume"
+                                        "en": "Talking volume",
+                                        "es": "Volumen normal"
                                     },
                                     "detail": {
-                                        "en": "Like chatting to a friend"
+                                        "en": "Like chatting to a friend",
+                                        "es": "Como cuando charlas con alguien"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Nothing to push"
+                                        "en": "Nothing to push",
+                                        "es": "Sin empujar"
                                     },
                                     "detail": {
-                                        "en": "Low notes don't need to be loud"
+                                        "en": "Low notes don't need to be loud",
+                                        "es": "Las notas graves no tienen que ser fuertes"
                                     }
                                 }
                             ],
@@ -192,7 +216,8 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Hear it, then sing it back, the way you'd say it."
+                                "en": "Hear it, then sing it back, the way you'd say it.",
+                                "es": "Escucha y repítelo, tal como lo dirías."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -231,13 +256,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Hold a low, easy note on \"ah\", at talking volume."
+                                "en": "Hold a low, easy note on \"ah\", at talking volume.",
+                                "es": "Mantén una nota grave y cómoda en \"ah\", a volumen de conversación."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -253,7 +280,8 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on holding the note steady."
+                                "en": "Scored on holding the note steady.",
+                                "es": "Se puntúa que mantengas la nota estable."
                             }
                         }
                     ]
@@ -261,24 +289,28 @@
                 {
                     "id": "range-1-low",
                     "title": {
-                        "en": "Low and easy"
+                        "en": "Low and easy",
+                        "es": "Grave y cómodo"
                     },
                     "fact": {
                         "id": "range-vocal-fry",
                         "text": {
-                            "en": "The voice's lowest register is vocal fry. Below about 70 puffs of air a second, your ear no longer hears one smooth note: it hears the separate puffs."
+                            "en": "The voice's lowest register is vocal fry. Below about 70 puffs of air a second, your ear no longer hears one smooth note: it hears the separate puffs.",
+                            "es": "El registro más grave de la voz es el fry vocal, un sonido grave que crepita. Por debajo de unos 70 pulsos de aire por segundo, el oído ya no oye una nota continua: oye cada pulso por separado."
                         },
                         "source": {
-                            "en": "National Center for Voice and Speech (NCVS), \"Voluntary Register Changes\", tutorials, chapter 10"
+                            "en": "National Center for Voice and Speech (NCVS), \"Voluntary Register Changes\", tutorials, chapter 10",
+                            "es": "National Center for Voice and Speech (NCVS), \"Voluntary Register Changes\", tutoriales, capítulo 10"
                         },
                         "url": "https://ncvs.org/tutorials/voluntary-register-changes/"
                     },
                     "steps": [
-                        {"kind": "learn", "headline": {"en": "Low notes come from a relaxed voice, not a pushed one. Let each note sink lower on its own, at speaking volume."}, "steps": [{"title": {"en": "Talking volume"}, "detail": {"en": "Low notes are naturally quieter: never press down"}}, {"title": {"en": "Chin level"}, "detail": {"en": "Never tuck it to reach a note"}}, {"title": {"en": "Crackly or tight?"}, "detail": {"en": "Don't push down for it: stop and rest"}}], "reviewed": false},
+                        {"kind": "learn", "headline": {"en": "Low notes come from a relaxed voice, not a pushed one. Let each note sink lower on its own, at speaking volume.", "es": "Las notas graves salen de una voz relajada, no empujada. Deja que cada nota baje sola, a volumen de conversación."}, "steps": [{"title": {"en": "Talking volume", "es": "Volumen normal"}, "detail": {"en": "Low notes are naturally quieter: never press down", "es": "Las notas graves suenan más suaves por naturaleza: nunca aprietes para bajar"}}, {"title": {"en": "Chin level", "es": "Mentón recto"}, "detail": {"en": "Never tuck it to reach a note", "es": "Nunca lo bajes para llegar a una nota"}}, {"title": {"en": "Crackly or tight?", "es": "¿Rasposa o tensa?"}, "detail": {"en": "Don't push down for it: stop and rest", "es": "No empujes para bajar: para y descansa"}}], "reviewed": false},
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Five notes down on \"ah\", heard then sung. Let them get lower, not pressed."
+                                "en": "Five notes down on \"ah\", heard then sung. Let them get lower, not pressed.",
+                                "es": "Cinco notas hacia abajo en \"ah\": escucha y luego canta. Deja que bajen sin apretarlas."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -317,13 +349,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Hold the lowest one, easy, without pushing it down."
+                                "en": "Hold the lowest one, easy, without pushing it down.",
+                                "es": "Mantén la más grave, cómoda, sin empujarla hacia abajo."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -339,13 +373,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on holding the note steady."
+                                "en": "Scored on holding the note steady.",
+                                "es": "Se puntúa que mantengas la nota estable."
                             }
                         },
                         {
                             "kind": "selfcheck",
                             "text": {
-                                "en": "Record the low note once more and listen back."
+                                "en": "Record the low note once more and listen back.",
+                                "es": "Graba otra vez la nota grave y escúchate."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -362,10 +398,12 @@
                                 },
                                 "questions": [
                                     {
-                                        "en": "Did the low notes feel easy, not squashed?"
+                                        "en": "Did the low notes feel easy, not squashed?",
+                                        "es": "¿Las notas graves salieron fáciles, sin sonar aplastadas?"
                                     },
                                     {
-                                        "en": "Did your voice stay at its talking loudness?"
+                                        "en": "Did your voice stay at its talking loudness?",
+                                        "es": "¿Tu voz se mantuvo a volumen de conversación?"
                                     }
                                 ]
                             }
@@ -375,30 +413,36 @@
                 {
                     "id": "range-1-challenge",
                     "title": {
-                        "en": "A low line"
+                        "en": "A low line",
+                        "es": "Frase grave"
                     },
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A short line in the low part of your range. Easy, at talking volume."
+                                "en": "A short line in the low part of your range. Easy, at talking volume.",
+                                "es": "Una frase corta en la zona grave de tu extensión. Sin esfuerzo, a volumen de conversación."
                             },
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Breathe first"
+                                        "en": "Breathe first",
+                                        "es": "Primero, respira"
                                     },
                                     "detail": {
-                                        "en": "Then the whole line"
+                                        "en": "Then the whole line",
+                                        "es": "Luego, la frase entera"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Low, not loud"
+                                        "en": "Low, not loud",
+                                        "es": "Grave, no fuerte"
                                     },
                                     "detail": {
-                                        "en": "Let it sit"
+                                        "en": "Let it sit",
+                                        "es": "Que se asiente"
                                     }
                                 }
                             ],
@@ -407,7 +451,8 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Hear it, then sing it back."
+                                "en": "Hear it, then sing it back.",
+                                "es": "Escucha y repítela."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -464,7 +509,8 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         }
                     ]
@@ -474,22 +520,26 @@
         {
             "id": "range-break",
             "title": {
-                "en": "Mapping your break"
+                "en": "Mapping your break",
+                "es": "Localiza tu pasaje"
             },
             "colour": 4,
             "lessons": [
                 {
                     "id": "range-2-find",
                     "title": {
-                        "en": "Find your break"
+                        "en": "Find your break",
+                        "es": "Encuentra tu pasaje"
                     },
                     "fact": {
                         "id": "range-break-higher-going-up",
                         "text": {
-                            "en": "Your break tends to sit higher on the way up than on the way down. In a lab study, the jump into falsetto came at a higher pitch than the jump back into chest voice."
+                            "en": "Your break tends to sit higher on the way up than on the way down. In a lab study, the jump into falsetto came at a higher pitch than the jump back into chest voice.",
+                            "es": "Tu pasaje suele quedar más arriba al subir que al bajar. En un estudio de laboratorio, el salto al falsete se produjo en una nota más aguda que el salto de vuelta a la voz de pecho."
                         },
                         "source": {
-                            "en": "Svec, Schutte and Miller, \"On pitch jumps between chest and falsetto registers in voice: data from living and excised human larynges\", Journal of the Acoustical Society of America, 1999"
+                            "en": "Svec, Schutte and Miller, \"On pitch jumps between chest and falsetto registers in voice: data from living and excised human larynges\", Journal of the Acoustical Society of America, 1999",
+                            "es": "Svec, Schutte y Miller, \"On pitch jumps between chest and falsetto registers in voice: data from living and excised human larynges\", Journal of the Acoustical Society of America, 1999"
                         },
                         "url": "https://pubmed.ncbi.nlm.nih.gov/10489708/"
                     },
@@ -497,31 +547,38 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Everyone has a place where the voice changes, from the heavier sound to a lighter one. It isn't a fault. The app hears the jump in pitch, not which voice made it."
+                                "en": "Everyone has a place where the voice changes, from the heavier sound to a lighter one. It isn't a fault. The app hears the jump in pitch, not which voice made it.",
+                                "es": "Toda voz tiene un punto en el que cambia, de un sonido con más peso a uno más ligero: el pasaje (o quiebre). No es un defecto. La app oye el salto de altura, no qué voz lo produce."
                             },
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Warm up first"
+                                        "en": "Warm up first",
+                                        "es": "Primero, calienta"
                                     },
                                     "detail": {
-                                        "en": "A quiet hum or an easy slide"
+                                        "en": "A quiet hum or an easy slide",
+                                        "es": "Tarareando suave o deslizando la voz sin esfuerzo"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Light at the top"
+                                        "en": "Light at the top",
+                                        "es": "Ligera en lo agudo"
                                     },
                                     "detail": {
-                                        "en": "Never louder"
+                                        "en": "Never louder",
+                                        "es": "Nunca más fuerte"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Stop if it strains"
+                                        "en": "Stop if it strains",
+                                        "es": "Si fuerzas la voz, para"
                                     },
                                     "detail": {
-                                        "en": "Tightens, tickles or hurts: rest"
+                                        "en": "Tightens, tickles or hurts: rest",
+                                        "es": "Si notas tensión, carraspera o dolor, descansa la voz"
                                     }
                                 }
                             ],
@@ -530,7 +587,8 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back.",
+                                "es": "Primero, un tarareo suave, grave y cómodo: escúchalo y repítelo."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -569,13 +627,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Slide up and down once on a quiet \"oo\", following the ribbon. Somewhere your voice may jump: that's your break. Only as high as is easy."
+                                "en": "Slide up and down once on a quiet \"oo\", following the ribbon. Somewhere your voice may jump: that's your break. Only as high as is easy.",
+                                "es": "Desliza la voz hacia arriba y hacia abajo una vez en un \"oo\" (una u) suave, siguiendo la línea. En algún punto la voz puede saltar: ese es tu pasaje. Sube solo hasta donde te resulte fácil."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -607,13 +667,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on singing the siren. Where it jumps, if it does, is kept as your break."
+                                "en": "Scored on singing the siren. Where it jumps, if it does, is kept as your break.",
+                                "es": "Se puntúa que cantes la sirena. Si la voz salta, ese punto se guarda como tu pasaje."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Breathe, then the same again. Two jumps in the same place make sure it's yours."
+                                "en": "Breathe, then the same again. Two jumps in the same place make sure it's yours.",
+                                "es": "Respira y repite. Dos saltos en el mismo punto confirman que es tu pasaje."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -645,23 +707,26 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on singing the siren. Where it jumps, if it does, is kept as your break."
+                                "en": "Scored on singing the siren. Where it jumps, if it does, is kept as your break.",
+                                "es": "Se puntúa que cantes la sirena. Si la voz salta, ese punto se guarda como tu pasaje."
                             }
                         }
                     ]
                 },
                 {
                     "id": "range-2-higher",
-                    "fact": {"id": "primo-secondo-passaggio", "text": {"en": "Singing teachers' Italian terms name two register changes, the primo and secondo passaggio, \"first\" and \"second\". Most writers give women's voices both, but men's only one, the higher; whether men have a first is debated."}, "source": {"en": "Wikipedia, Passaggio"}, "url": "https://en.wikipedia.org/wiki/Passaggio"},
+                    "fact": {"id": "primo-secondo-passaggio", "text": {"en": "Singing teachers' Italian terms name two register changes, the primo and secondo passaggio, \"first\" and \"second\". Most writers give women's voices both, but men's only one, the higher; whether men have a first is debated.", "es": "Los profesores de canto usan términos italianos para dos cambios de registro: el primo y el secondo passaggio, \"primero\" y \"segundo\". La mayoría de los autores atribuyen los dos a las voces de mujer, pero a las de hombre solo uno, el más agudo; se discute si los hombres tienen un primero."}, "source": {"en": "Wikipedia, Passaggio", "es": "Wikipedia, Passaggio"}, "url": "https://en.wikipedia.org/wiki/Passaggio"},
                     "title": {
-                        "en": "Higher sirens"
+                        "en": "Higher sirens",
+                        "es": "Sirenas más agudas"
                     },
                     "steps": [
-                        {"kind": "learn", "headline": {"en": "Some voices change higher than the first siren went. A lighter, higher siren can find a break that hasn't shown yet. Only as high as is easy."}, "steps": [{"title": {"en": "Lighter, not louder"}, "detail": {"en": "Like an owl's hoo"}}, {"title": {"en": "Stop if it strains"}, "detail": {"en": "Tightens, tickles or hurts: rest"}}, {"title": {"en": "No jump at all?"}, "detail": {"en": "Some voices cross smoothly already: that's fine"}}], "reviewed": false},
+                        {"kind": "learn", "headline": {"en": "Some voices change higher than the first siren went. A lighter, higher siren can find a break that hasn't shown yet. Only as high as is easy.", "es": "Algunas voces cambian más arriba de donde llegó la primera sirena. Una sirena más ligera y más aguda puede encontrar un pasaje que aún no ha aparecido. Sube solo hasta donde te resulte fácil."}, "steps": [{"title": {"en": "Lighter, not louder", "es": "Más ligera, no más fuerte"}, "detail": {"en": "Like an owl's hoo", "es": "Como el ulular de un búho"}}, {"title": {"en": "Stop if it strains", "es": "Si fuerzas la voz, para"}, "detail": {"en": "Tightens, tickles or hurts: rest", "es": "Si notas tensión, carraspera o dolor, descansa la voz"}}, {"title": {"en": "No jump at all?", "es": "¿Ningún salto?"}, "detail": {"en": "Some voices cross smoothly already: that's fine", "es": "Algunas voces ya cruzan el pasaje sin saltar: no pasa nada"}}], "reviewed": false},
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back.",
+                                "es": "Primero, un tarareo suave, grave y cómodo: escúchalo y repítelo."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -700,13 +765,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "A higher siren, twice up and down, lighter still, like an owl's hoo: many voices, often men's, change higher. If yours jumped twice in the same place already, sing it gently."
+                                "en": "A higher siren, twice up and down, lighter still, like an owl's hoo: many voices, often men's, change higher. If yours jumped twice in the same place already, sing it gently.",
+                                "es": "Una sirena más aguda, dos veces arriba y abajo, aún más ligera, como el ulular de un búho: muchas voces, a menudo las de hombre, cambian más arriba. Si la tuya ya saltó dos veces en el mismo punto, cántala con suavidad."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -746,13 +813,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on singing the siren. Where it jumps, if it does, is kept as your break."
+                                "en": "Scored on singing the siren. Where it jumps, if it does, is kept as your break.",
+                                "es": "Se puntúa que cantes la sirena. Si la voz salta, ese punto se guarda como tu pasaje."
                             }
                         },
                         {
                             "kind": "selfcheck",
                             "text": {
-                                "en": "Hum from low to high and back, slowly, and listen back."
+                                "en": "Hum from low to high and back, slowly, and listen back.",
+                                "es": "Tararea de grave a agudo y de vuelta, despacio, y escúchate."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -781,10 +850,12 @@
                                 },
                                 "questions": [
                                     {
-                                        "en": "Did you feel a place where it changed?"
+                                        "en": "Did you feel a place where it changed?",
+                                        "es": "¿Notaste un punto donde cambiaba?"
                                     },
                                     {
-                                        "en": "Did the top stay quiet and easy?"
+                                        "en": "Did the top stay quiet and easy?",
+                                        "es": "¿Lo agudo siguió suave y fácil?"
                                     }
                                 ]
                             }
@@ -794,14 +865,16 @@
                 {
                     "id": "range-2-around",
                     "title": {
-                        "en": "Around the break"
+                        "en": "Around the break",
+                        "es": "Alrededor del pasaje"
                     },
                     "steps": [
-                        {"kind": "learn", "headline": {"en": "Now sing notes that step right up to your break and just past it. Knowing where it sits lets you get ready before you reach it."}, "steps": [{"title": {"en": "Stop if it strains"}, "detail": {"en": "Tightens, tickles or hurts: rest"}}, {"title": {"en": "Lighter as you climb"}, "detail": {"en": "Go lighter just before it"}}, {"title": {"en": "A jump is fine"}, "detail": {"en": "You're finding it, not hiding it"}}], "reviewed": false},
+                        {"kind": "learn", "headline": {"en": "Now sing notes that step right up to your break and just past it. Knowing where it sits lets you get ready before you reach it.", "es": "Ahora canta notas que suben por grados hasta tu pasaje y un poco más allá. Saber dónde está te permite prepararte antes de llegar."}, "steps": [{"title": {"en": "Stop if it strains", "es": "Si fuerzas la voz, para"}, "detail": {"en": "Tightens, tickles or hurts: rest", "es": "Si notas tensión, carraspera o dolor, descansa la voz"}}, {"title": {"en": "Lighter as you climb", "es": "Más ligera al subir"}, "detail": {"en": "Go lighter just before it", "es": "Aligera justo antes"}}, {"title": {"en": "A jump is fine", "es": "Si salta, no pasa nada"}, "detail": {"en": "You're finding it, not hiding it", "es": "Lo buscas, no lo escondes"}}], "reviewed": false},
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back.",
+                                "es": "Primero, un tarareo suave, grave y cómodo: escúchalo y repítelo."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -840,13 +913,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Notes stepping up to just past your break and back, heard then sung."
+                                "en": "Notes stepping up to just past your break and back, heard then sung.",
+                                "es": "Notas por grados hasta un poco más allá de tu pasaje, y de vuelta: escucha y luego canta."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -898,13 +973,15 @@
                                 "base": "flip"
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "selfcheck",
                             "text": {
-                                "en": "Sing them once more, slowly, and listen back."
+                                "en": "Sing them once more, slowly, and listen back.",
+                                "es": "Cántalas otra vez, despacio, y escúchate."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -933,10 +1010,12 @@
                                 },
                                 "questions": [
                                     {
-                                        "en": "Where did it change: a jump, or a gentle shift?"
+                                        "en": "Where did it change: a jump, or a gentle shift?",
+                                        "es": "¿Dónde cambió: de golpe o con suavidad?"
                                     },
                                     {
-                                        "en": "Did it stay easy at the top?"
+                                        "en": "Did it stay easy at the top?",
+                                        "es": "¿Siguió fácil en lo agudo?"
                                     }
                                 ],
                                 "base": "flip"
@@ -947,16 +1026,19 @@
                 {
                     "id": "range-2-challenge",
                     "title": {
-                        "en": "Know your break"
+                        "en": "Know your break",
+                        "es": "Conoce tu pasaje"
                     },
                     "challenge": true,
                     "fact": {
                         "id": "range-boys-voice-change",
                         "text": {
-                            "en": "A boy's voice usually begins to change at 12 or 13 and settles between 15 and 18. Most of the change comes within a year, and low notes stay steadier than high ones."
+                            "en": "A boy's voice usually begins to change at 12 or 13 and settles between 15 and 18. Most of the change comes within a year, and low notes stay steadier than high ones.",
+                            "es": "La voz de un chico suele empezar a cambiar a los 12 o 13 años y se asienta entre los 15 y los 18. Casi todo el cambio ocurre en un año, y las notas graves se mantienen más estables que las agudas."
                         },
                         "source": {
-                            "en": "National Center for Voice and Speech (NCVS), \"Voice Changes Throughout Life\", tutorials, chapter 7"
+                            "en": "National Center for Voice and Speech (NCVS), \"Voice Changes Throughout Life\", tutorials, chapter 7",
+                            "es": "National Center for Voice and Speech (NCVS), \"Voice Changes Throughout Life\", tutoriales, capítulo 7"
                         },
                         "url": "https://ncvs.org/tutorials/voice-changes-throughout-life/"
                     },
@@ -964,23 +1046,28 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Today is about finding your break, not getting rid of it. Crossing it smoothly comes later."
+                                "en": "Today is about finding your break, not getting rid of it. Crossing it smoothly comes later.",
+                                "es": "Hoy se trata de encontrar tu pasaje, no de eliminarlo. Cruzarlo sin saltos llegará más adelante."
                             },
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Two sirens"
+                                        "en": "Two sirens",
+                                        "es": "Dos sirenas"
                                     },
                                     "detail": {
-                                        "en": "Agreeing on one place"
+                                        "en": "Agreeing on one place",
+                                        "es": "Que coincidan en un punto"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Then steps"
+                                        "en": "Then steps",
+                                        "es": "Luego, por grados"
                                     },
                                     "detail": {
-                                        "en": "Up to just past it and back"
+                                        "en": "Up to just past it and back",
+                                        "es": "Hasta un poco más allá, y de vuelta"
                                     }
                                 }
                             ],
@@ -989,7 +1076,8 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back.",
+                                "es": "Primero, un tarareo suave, grave y cómodo: escúchalo y repítelo."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -1028,13 +1116,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "One more siren, light at the top."
+                                "en": "One more siren, light at the top.",
+                                "es": "Una sirena más, ligera en lo agudo."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1066,13 +1156,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on singing the siren. Where it jumps, if it does, is kept as your break."
+                                "en": "Scored on singing the siren. Where it jumps, if it does, is kept as your break.",
+                                "es": "Se puntúa que cantes la sirena. Si la voz salta, ese punto se guarda como tu pasaje."
                             }
                         },
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Up to just past your break and back, heard then sung."
+                                "en": "Up to just past your break and back, heard then sung.",
+                                "es": "Hasta un poco más allá de tu pasaje, y de vuelta: escucha y luego canta."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -1124,7 +1216,8 @@
                                 "base": "flip"
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         }
                     ]
@@ -1134,45 +1227,54 @@
         {
             "id": "range-head",
             "title": {
-                "en": "Head voice and falsetto"
+                "en": "Head voice and falsetto",
+                "es": "Voz de cabeza y falsete"
             },
             "colour": 6,
             "lessons": [
                 {
                     "id": "range-3-hoot",
-                    "fact": {"id": "countertenors-falsetto-deller", "text": {"en": "Most countertenors sing in falsetto for at least the top half of their range. Alfred Deller, the best-known voice of their 20th-century revival, kept singing high after his voice broke."}, "source": {"en": "Wikipedia, Countertenor"}, "url": "https://en.wikipedia.org/wiki/Countertenor"},
+                    "fact": {"id": "countertenors-falsetto-deller", "text": {"en": "Most countertenors sing in falsetto for at least the top half of their range. Alfred Deller, the best-known voice of their 20th-century revival, kept singing high after his voice broke.", "es": "La mayoría de los contratenores cantan en falsete al menos la mitad aguda de su extensión. Alfred Deller, la voz más conocida de su resurgimiento en el siglo XX, siguió cantando agudo después del cambio de voz."}, "source": {"en": "Wikipedia, Countertenor", "es": "Wikipedia, Countertenor"}, "url": "https://en.wikipedia.org/wiki/Countertenor"},
                     "title": {
-                        "en": "A light hoot"
+                        "en": "A light hoot",
+                        "es": "Un ulular ligero"
                     },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Above your break is a lighter, higher voice: head voice, or for many men falsetto. It sounds like an owl's hoo: quieter, never louder."
+                                "en": "Above your break is a lighter, higher voice: head voice, or for many men falsetto. It sounds like an owl's hoo: quieter, never louder.",
+                                "es": "Por encima de tu pasaje hay una voz más ligera y aguda: la voz de cabeza o, en muchos hombres, el falsete. Suena como el \"hoo\" de un búho (una u con aire, una j muy suave): más suave, nunca más fuerte."
                             },
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Just above your break"
+                                        "en": "Just above your break",
+                                        "es": "Justo encima del pasaje"
                                     },
                                     "detail": {
-                                        "en": "Every note here is set from yours"
+                                        "en": "Every note here is set from yours",
+                                        "es": "Aquí cada nota se calcula a partir de tu pasaje"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Quiet and easy"
+                                        "en": "Quiet and easy",
+                                        "es": "Suave y fácil"
                                     },
                                     "detail": {
-                                        "en": "Lighter than you speak"
+                                        "en": "Lighter than you speak",
+                                        "es": "Más ligera que al hablar"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Stop if it strains"
+                                        "en": "Stop if it strains",
+                                        "es": "Si fuerzas la voz, para"
                                     },
                                     "detail": {
-                                        "en": "Tightens, tickles or hurts: rest"
+                                        "en": "Tightens, tickles or hurts: rest",
+                                        "es": "Si notas tensión, carraspera o dolor, descansa la voz"
                                     }
                                 }
                             ],
@@ -1181,7 +1283,8 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back.",
+                                "es": "Primero, un tarareo suave, grave y cómodo: escúchalo y repítelo."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -1220,13 +1323,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Hold a light \"hoo\" just above your break."
+                                "en": "Hold a light \"hoo\" just above your break.",
+                                "es": "Mantén un \"hoo\" ligero justo por encima de tu pasaje."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1244,13 +1349,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on holding the note steady."
+                                "en": "Scored on holding the note steady.",
+                                "es": "Se puntúa que mantengas la nota estable."
                             }
                         },
                         {
                             "kind": "selfcheck",
                             "text": {
-                                "en": "Hear the guide's light hoo, then record yours and compare."
+                                "en": "Hear the guide's light hoo, then record yours and compare.",
+                                "es": "Escucha el \"hoo\" ligero de la guía; luego graba el tuyo y compáralos."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1268,10 +1375,12 @@
                                 },
                                 "questions": [
                                     {
-                                        "en": "Did it sound lighter, like a different voice?"
+                                        "en": "Did it sound lighter, like a different voice?",
+                                        "es": "¿Sonó más ligera, como otra voz?"
                                     },
                                     {
-                                        "en": "Was it quieter than your speaking voice?"
+                                        "en": "Was it quieter than your speaking voice?",
+                                        "es": "¿Fue más suave que tu voz hablada?"
                                     }
                                 ],
                                 "base": "flip"
@@ -1282,24 +1391,28 @@
                 {
                     "id": "range-3-high",
                     "title": {
-                        "en": "High and light"
+                        "en": "High and light",
+                        "es": "Aguda y ligera"
                     },
                     "fact": {
                         "id": "range-girls-voice-change",
                         "text": {
-                            "en": "Girls' voices change in puberty too, just less obviously: they can turn breathy or husky, crack now and then, and sing a little less in tune for a while."
+                            "en": "Girls' voices change in puberty too, just less obviously: they can turn breathy or husky, crack now and then, and sing a little less in tune for a while.",
+                            "es": "La voz de las chicas también cambia en la pubertad, aunque se nota menos: puede volverse soplada o algo ronca, soltar algún gallo de vez en cuando y desafinar un poco durante un tiempo."
                         },
                         "source": {
-                            "en": "National Center for Voice and Speech (NCVS), \"Voice Changes Throughout Life\", tutorials, chapter 7"
+                            "en": "National Center for Voice and Speech (NCVS), \"Voice Changes Throughout Life\", tutorials, chapter 7",
+                            "es": "National Center for Voice and Speech (NCVS), \"Voice Changes Throughout Life\", tutoriales, capítulo 7"
                         },
                         "url": "https://ncvs.org/tutorials/voice-changes-throughout-life/"
                     },
                     "steps": [
-                        {"kind": "learn", "headline": {"en": "A light voice climbs more easily than a heavy one. Go only as high as feels easy: these notes start from your own break, so they suit your voice."}, "steps": [{"title": {"en": "Light and quiet"}, "detail": {"en": "Never louder to go higher"}}, {"title": {"en": "An easy \"hoo\""}, "detail": {"en": "Lips round, jaw loose"}}, {"title": {"en": "Stop if it strains"}, "detail": {"en": "Tightens, tickles or hurts: rest"}}], "reviewed": false},
+                        {"kind": "learn", "headline": {"en": "A light voice climbs more easily than a heavy one. Go only as high as feels easy: these notes start from your own break, so they suit your voice.", "es": "Una voz ligera sube con más facilidad que una con peso. Sube solo hasta donde te resulte fácil: estas notas parten de tu propio pasaje, así que se ajustan a tu voz."}, "steps": [{"title": {"en": "Light and quiet", "es": "Ligera y suave"}, "detail": {"en": "Never louder to go higher", "es": "Nunca más fuerte para subir"}}, {"title": {"en": "An easy \"hoo\"", "es": "Un \"hoo\" fácil"}, "detail": {"en": "Lips round, jaw loose", "es": "Una u con aire; labios redondos, mandíbula suelta"}}, {"title": {"en": "Stop if it strains", "es": "Si fuerzas la voz, para"}, "detail": {"en": "Tightens, tickles or hurts: rest", "es": "Si notas tensión, carraspera o dolor, descansa la voz"}}], "reviewed": false},
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back.",
+                                "es": "Primero, un tarareo suave, grave y cómodo: escúchalo y repítelo."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -1338,13 +1451,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Light notes up and back, from just above your break, heard then sung."
+                                "en": "Light notes up and back, from just above your break, heard then sung.",
+                                "es": "Notas ligeras arriba y de vuelta, desde justo encima de tu pasaje: escucha y luego canta."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -1389,13 +1504,15 @@
                                 "base": "flip"
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Hold the top one lightly."
+                                "en": "Hold the top one lightly.",
+                                "es": "Mantén la más aguda, con ligereza."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1413,7 +1530,8 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on holding the note steady."
+                                "en": "Scored on holding the note steady.",
+                                "es": "Se puntúa que mantengas la nota estable."
                             }
                         }
                     ]
@@ -1421,14 +1539,16 @@
                 {
                     "id": "range-3-down",
                     "title": {
-                        "en": "Light, coming down"
+                        "en": "Light, coming down",
+                        "es": "Ligera, al bajar"
                     },
                     "steps": [
-                        {"kind": "learn", "headline": {"en": "Carry the light voice down toward your break instead of letting it flip back early. The longer it stays light, the easier the blend comes later."}, "steps": [{"title": {"en": "Start high and light"}, "detail": {"en": "Then slide down slowly, never heavier"}}, {"title": {"en": "It may flip"}, "detail": {"en": "That's fine: notice where"}}, {"title": {"en": "Stop if it strains"}, "detail": {"en": "Tightens, tickles or hurts: rest"}}], "reviewed": false},
+                        {"kind": "learn", "headline": {"en": "Carry the light voice down toward your break instead of letting it flip back early. The longer it stays light, the easier the blend comes later.", "es": "Lleva la voz ligera hacia abajo, hacia tu pasaje, sin dejar que salte antes de tiempo. Cuanto más tiempo siga ligera, más fácil te resultará después la voz mixta."}, "steps": [{"title": {"en": "Start high and light", "es": "Empieza en lo agudo, ligera"}, "detail": {"en": "Then slide down slowly, never heavier", "es": "Luego desliza la voz hacia abajo, despacio, nunca con más peso"}}, {"title": {"en": "It may flip", "es": "Puede saltar"}, "detail": {"en": "That's fine: notice where", "es": "No pasa nada: fíjate dónde"}}, {"title": {"en": "Stop if it strains", "es": "Si fuerzas la voz, para"}, "detail": {"en": "Tightens, tickles or hurts: rest", "es": "Si notas tensión, carraspera o dolor, descansa la voz"}}], "reviewed": false},
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back.",
+                                "es": "Primero, un tarareo suave, grave y cómodo: escúchalo y repítelo."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -1467,13 +1587,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Slide down from high, staying light, toward your break. Not scored: just listen to how it feels."
+                                "en": "Slide down from high, staying light, toward your break. Not scored: just listen to how it feels.",
+                                "es": "Desliza la voz desde lo agudo hacia tu pasaje, sin perder ligereza. No se puntúa: solo fíjate en cómo lo notas."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1506,7 +1628,8 @@
                         {
                             "kind": "selfcheck",
                             "text": {
-                                "en": "Record the slide once more and listen back."
+                                "en": "Record the slide once more and listen back.",
+                                "es": "Graba otra vez la bajada y escúchate."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1531,10 +1654,12 @@
                                 },
                                 "questions": [
                                     {
-                                        "en": "Did it stay light as it came down?"
+                                        "en": "Did it stay light as it came down?",
+                                        "es": "¿Siguió ligera al bajar?"
                                     },
                                     {
-                                        "en": "Did anything tighten?"
+                                        "en": "Did anything tighten?",
+                                        "es": "¿Se tensó algo?"
                                     }
                                 ],
                                 "base": "flip"
@@ -1543,7 +1668,8 @@
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Hold a light note just above your break."
+                                "en": "Hold a light note just above your break.",
+                                "es": "Mantén una nota ligera justo por encima de tu pasaje."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1561,7 +1687,8 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on holding the note steady."
+                                "en": "Scored on holding the note steady.",
+                                "es": "Se puntúa que mantengas la nota estable."
                             }
                         }
                     ]
@@ -1569,16 +1696,19 @@
                 {
                     "id": "range-3-challenge",
                     "title": {
-                        "en": "A light line"
+                        "en": "A light line",
+                        "es": "Frase ligera"
                     },
                     "challenge": true,
                     "fact": {
                         "id": "range-whistle-register",
                         "text": {
-                            "en": "The whistle register sings above 1,000 vibrations a second. Filmed at over 10,000 frames a second, singers' folds moved in six patterns; in one, only part of the folds vibrated."
+                            "en": "The whistle register sings above 1,000 vibrations a second. Filmed at over 10,000 frames a second, singers' folds moved in six patterns; in one, only part of the folds vibrated.",
+                            "es": "El registro de silbido suena por encima de las mil vibraciones por segundo. Filmados a más de diez mil fotogramas por segundo, los pliegues de quienes cantaban se movieron de seis maneras; en una, solo vibraba una parte de los pliegues."
                         },
                         "source": {
-                            "en": "Kato, Lee, Wakamiya, Nakagawa and Kaburagi, \"Vocal Fold Vibration of the Whistle Register Observed by High-Speed Digital Imaging\", Journal of Voice (online 2023)"
+                            "en": "Kato, Lee, Wakamiya, Nakagawa and Kaburagi, \"Vocal Fold Vibration of the Whistle Register Observed by High-Speed Digital Imaging\", Journal of Voice (online 2023)",
+                            "es": "Kato, Lee, Wakamiya, Nakagawa y Kaburagi, \"Vocal Fold Vibration of the Whistle Register Observed by High-Speed Digital Imaging\", Journal of Voice (en línea, 2023)"
                         },
                         "url": "https://pubmed.ncbi.nlm.nih.gov/37806902/"
                     },
@@ -1586,23 +1716,28 @@
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A short line just above your break, light all the way."
+                                "en": "A short line just above your break, light all the way.",
+                                "es": "Una frase corta justo por encima de tu pasaje, ligera de principio a fin."
                             },
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Quiet"
+                                        "en": "Quiet",
+                                        "es": "Suave"
                                     },
                                     "detail": {
-                                        "en": "Lighter than you speak"
+                                        "en": "Lighter than you speak",
+                                        "es": "Más ligera que al hablar"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Easy"
+                                        "en": "Easy",
+                                        "es": "Fácil"
                                     },
                                     "detail": {
-                                        "en": "Never reached for"
+                                        "en": "Never reached for",
+                                        "es": "Sin forzar para llegar"
                                     }
                                 }
                             ],
@@ -1611,7 +1746,8 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back.",
+                                "es": "Primero, un tarareo suave, grave y cómodo: escúchalo y repítelo."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -1650,13 +1786,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Hear it, then sing it back."
+                                "en": "Hear it, then sing it back.",
+                                "es": "Escucha y repítela."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -1715,7 +1853,8 @@
                                 "base": "flip"
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         }
                     ]
@@ -1725,45 +1864,54 @@
         {
             "id": "range-blend",
             "title": {
-                "en": "A blend from low to high"
+                "en": "A blend from low to high",
+                "es": "Una voz mixta, de grave a agudo"
             },
             "colour": 3,
             "lessons": [
                 {
                     "id": "range-4-blend",
-                    "fact": {"id": "muller-registers-side-by-side", "text": {"en": "A man's middle notes can be sung in chest voice or falsetto, wrote the physiologist Johannes Müller in the 1800s: one register doesn't end where the other begins, they \"run in part side by side\"."}, "source": {"en": "Müller, Elements of Physiology, vol. 2 (tr. Baly, 1842)"}, "url": "https://archive.org/details/b21307039_0002"},
+                    "fact": {"id": "muller-registers-side-by-side", "text": {"en": "A man's middle notes can be sung in chest voice or falsetto, wrote the physiologist Johannes Müller in the 1800s: one register doesn't end where the other begins, they \"run in part side by side\".", "es": "Las notas medias de un hombre pueden cantarse en voz de pecho o en falsete, escribió el fisiólogo Johannes Müller en el siglo XIX: un registro no termina donde empieza el otro, sino que \"en parte discurren uno junto al otro\"."}, "source": {"en": "Müller, Elements of Physiology, vol. 2 (tr. Baly, 1842)", "es": "Müller, Elements of Physiology, vol. 2 (trad. de Baly, 1842)"}, "url": "https://archive.org/details/b21307039_0002"},
                     "title": {
-                        "en": "A blend"
+                        "en": "A blend",
+                        "es": "Voz mixta"
                     },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Now cross your break without a jump. Let the sound get lighter before the break, not after: a blend that keeps some weight without pushing. The app hears a jump, not the blend: you'll hear that yourself."
+                                "en": "Now cross your break without a jump. Let the sound get lighter before the break, not after: a blend that keeps some weight without pushing. The app hears a jump, not the blend: you'll hear that yourself.",
+                                "es": "Ahora cruza tu pasaje sin saltar. Aligera el sonido antes del pasaje, no después: una voz mixta que conserva algo de peso sin empujar. La app oye si hay un salto, no la voz mixta: eso lo juzgas tú de oído."
                             },
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Lighter before it"
+                                        "en": "Lighter before it",
+                                        "es": "Más ligera antes"
                                     },
                                     "detail": {
-                                        "en": "Not after"
+                                        "en": "Not after",
+                                        "es": "No después"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "On \"ng\""
+                                        "en": "On \"ng\"",
+                                        "es": "En \"ng\""
                                     },
                                     "detail": {
-                                        "en": "Like the end of \"sing\""
+                                        "en": "Like the end of \"sing\"",
+                                        "es": "La n de \"tengo\", sin llegar a la g"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Stop if it strains"
+                                        "en": "Stop if it strains",
+                                        "es": "Si fuerzas la voz, para"
                                     },
                                     "detail": {
-                                        "en": "Tightens, tickles or hurts: rest"
+                                        "en": "Tightens, tickles or hurts: rest",
+                                        "es": "Si notas tensión, carraspera o dolor, descansa la voz"
                                     }
                                 }
                             ],
@@ -1772,7 +1920,8 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back.",
+                                "es": "Primero, un tarareo suave, grave y cómodo: escúchalo y repítelo."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -1811,13 +1960,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Slide through your break on \"ng\", up and back, lighter just before it."
+                                "en": "Slide through your break on \"ng\", up and back, lighter just before it.",
+                                "es": "Desliza la voz por tu pasaje en \"ng\", arriba y de vuelta, más ligera justo antes."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1851,23 +2002,26 @@
                                 "generous": true
                             },
                             "measures": {
-                                "en": "Scored on crossing your break without a jump."
+                                "en": "Scored on crossing your break without a jump.",
+                                "es": "Se puntúa que cruces tu pasaje sin saltar."
                             }
                         }
                     ]
                 },
                 {
                     "id": "range-4-slow",
-                    "fact": {"id": "garcia-six-franc-mirror", "text": {"en": "In September 1854 the singing teacher Manuel Garcia bought a dentist's mirror for six francs. With sunlight and a hand mirror he watched his own vocal folds change as he sang different notes."}, "source": {"en": "Mackinlay, Garcia the Centenarian and His Times (1908)"}, "url": "https://www.gutenberg.org/ebooks/37298"},
+                    "fact": {"id": "garcia-six-franc-mirror", "text": {"en": "In September 1854 the singing teacher Manuel Garcia bought a dentist's mirror for six francs. With sunlight and a hand mirror he watched his own vocal folds change as he sang different notes.", "es": "En septiembre de 1854, el profesor de canto Manuel García compró un espejo de dentista por seis francos. Con la luz del sol y un espejo de mano, vio cómo cambiaban sus propios pliegues vocales al cantar distintas notas."}, "source": {"en": "Mackinlay, Garcia the Centenarian and His Times (1908)", "es": "Mackinlay, Garcia the Centenarian and His Times (1908)"}, "url": "https://www.gutenberg.org/ebooks/37298"},
                     "title": {
-                        "en": "Slower through it"
+                        "en": "Slower through it",
+                        "es": "Cruzarlo más despacio"
                     },
                     "steps": [
-                        {"kind": "learn", "headline": {"en": "The slower you slide, the more time your voice has to change bit by bit. Speed can hide a jump: slow shows you where it happens."}, "steps": [{"title": {"en": "Slower than before"}, "detail": {"en": "The same easy volume"}}, {"title": {"en": "Lighter before the break"}, "detail": {"en": "Start easing off early"}}, {"title": {"en": "Stop if it strains"}, "detail": {"en": "Tightens, tickles or hurts: rest"}}], "reviewed": false},
+                        {"kind": "learn", "headline": {"en": "The slower you slide, the more time your voice has to change bit by bit. Speed can hide a jump: slow shows you where it happens.", "es": "Cuanto más despacio deslices la voz, más tiempo tiene para cambiar poco a poco. La velocidad puede esconder un salto: despacio, ves dónde ocurre."}, "steps": [{"title": {"en": "Slower than before", "es": "Más despacio que antes"}, "detail": {"en": "The same easy volume", "es": "El mismo volumen cómodo"}}, {"title": {"en": "Lighter before the break", "es": "Más ligera antes del pasaje"}, "detail": {"en": "Start easing off early", "es": "Empieza a aligerar pronto"}}, {"title": {"en": "Stop if it strains", "es": "Si fuerzas la voz, para"}, "detail": {"en": "Tightens, tickles or hurts: rest", "es": "Si notas tensión, carraspera o dolor, descansa la voz"}}], "reviewed": false},
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back.",
+                                "es": "Primero, un tarareo suave, grave y cómodo: escúchalo y repítelo."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -1906,13 +2060,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "The same, slower. Give the change more time."
+                                "en": "The same, slower. Give the change more time.",
+                                "es": "Lo mismo, más despacio. Dale más tiempo al cambio."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1945,13 +2101,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on crossing your break without a jump."
+                                "en": "Scored on crossing your break without a jump.",
+                                "es": "Se puntúa que cruces tu pasaje sin saltar."
                             }
                         },
                         {
                             "kind": "selfcheck",
                             "text": {
-                                "en": "Slide once more on \"oo\" and listen back."
+                                "en": "Slide once more on \"oo\" and listen back.",
+                                "es": "Desliza la voz otra vez en \"oo\" (una u) y escúchate."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -1980,10 +2138,12 @@
                                 },
                                 "questions": [
                                     {
-                                        "en": "One voice all the way, or a flip?"
+                                        "en": "One voice all the way, or a flip?",
+                                        "es": "¿Una sola voz de principio a fin, o un salto?"
                                     },
                                     {
-                                        "en": "Did it feel pushed anywhere?"
+                                        "en": "Did it feel pushed anywhere?",
+                                        "es": "¿Notaste que empujabas en algún punto?"
                                     }
                                 ],
                                 "base": "flip"
@@ -1994,24 +2154,28 @@
                 {
                     "id": "range-4-scale",
                     "title": {
-                        "en": "A scale across"
+                        "en": "A scale across",
+                        "es": "Cruzar en escala"
                     },
                     "fact": {
                         "id": "range-phonetogram-soft",
                         "text": {
-                            "en": "A voice clinic's phonetogram charts how softly and how loudly you can sing across your range. In 224 people, trained singers' charts were bigger, mostly from singing more softly."
+                            "en": "A voice clinic's phonetogram charts how softly and how loudly you can sing across your range. In 224 people, trained singers' charts were bigger, mostly from singing more softly.",
+                            "es": "El fonetograma de una clínica de la voz registra lo suave y lo fuerte que puedes cantar en toda tu extensión. En un grupo de 224 personas, los fonetogramas de quienes tenían formación vocal eran más amplios, sobre todo porque llegaban a cantar más suave."
                         },
                         "source": {
-                            "en": "Sulter, Schutte and Miller, \"Differences in phonetogram features between male and female subjects with and without vocal training\", Journal of Voice, 1995"
+                            "en": "Sulter, Schutte and Miller, \"Differences in phonetogram features between male and female subjects with and without vocal training\", Journal of Voice, 1995",
+                            "es": "Sulter, Schutte y Miller, \"Differences in phonetogram features between male and female subjects with and without vocal training\", Journal of Voice, 1995"
                         },
                         "url": "https://research.hanze.nl/nl/publications/differences-in-phonetogram-features-between-male-and-female-subje/"
                     },
                     "steps": [
-                        {"kind": "learn", "headline": {"en": "Now step across your break on separate notes. Take a little weight off each step up, so the scale stays one voice all the way across."}, "steps": [{"title": {"en": "One note at a time"}, "detail": {"en": "Five notes up, then back down"}}, {"title": {"en": "Lighter as you go up"}, "detail": {"en": "A little weight off every step"}}, {"title": {"en": "Stop if it strains"}, "detail": {"en": "Tightens, tickles or hurts: rest"}}], "reviewed": false},
+                        {"kind": "learn", "headline": {"en": "Now step across your break on separate notes. Take a little weight off each step up, so the scale stays one voice all the way across.", "es": "Ahora cruza tu pasaje por grados, nota a nota. Quita un poco de peso en cada grado que subes, para que la escala sea una sola voz de principio a fin."}, "steps": [{"title": {"en": "One note at a time", "es": "Nota a nota"}, "detail": {"en": "Five notes up, then back down", "es": "Cinco notas arriba y luego de vuelta abajo"}}, {"title": {"en": "Lighter as you go up", "es": "Más ligera al subir"}, "detail": {"en": "A little weight off every step", "es": "Un poco menos de peso en cada grado"}}, {"title": {"en": "Stop if it strains", "es": "Si fuerzas la voz, para"}, "detail": {"en": "Tightens, tickles or hurts: rest", "es": "Si notas tensión, carraspera o dolor, descansa la voz"}}], "reviewed": false},
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back.",
+                                "es": "Primero, un tarareo suave, grave y cómodo: escúchalo y repítelo."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -2050,13 +2214,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Five notes stepping across your break and back, heard then sung. Lighter as you go up."
+                                "en": "Five notes stepping across your break and back, heard then sung. Lighter as you go up.",
+                                "es": "Cinco notas por grados que cruzan tu pasaje, y de vuelta: escucha y luego canta. Más ligera al subir."
                             },
                             "exercise": {
                                 "tempo": 72,
@@ -2120,7 +2286,8 @@
                                 "base": "flip"
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         }
                     ]
@@ -2128,30 +2295,36 @@
                 {
                     "id": "range-4-challenge",
                     "title": {
-                        "en": "Low to high, one voice"
+                        "en": "Low to high, one voice",
+                        "es": "De grave a agudo, una sola voz"
                     },
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A siren from low to high in one voice, then your first slide beside today's."
+                                "en": "A siren from low to high in one voice, then your first slide beside today's.",
+                                "es": "Una sirena de grave a agudo con una sola voz y, después, tu primer deslizamiento junto al de hoy."
                             },
                             "steps": [
                                 {
                                     "title": {
-                                        "en": "Light before the break"
+                                        "en": "Light before the break",
+                                        "es": "Ligera antes del pasaje"
                                     },
                                     "detail": {
-                                        "en": "Not after"
+                                        "en": "Not after",
+                                        "es": "No después"
                                     }
                                 },
                                 {
                                     "title": {
-                                        "en": "Easy"
+                                        "en": "Easy",
+                                        "es": "Fácil"
                                     },
                                     "detail": {
-                                        "en": "Only as high as is easy"
+                                        "en": "Only as high as is easy",
+                                        "es": "Sube solo hasta donde te resulte fácil"
                                     }
                                 }
                             ],
@@ -2160,7 +2333,8 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "A quiet hum first, low and easy: hear it, then hum it back."
+                                "en": "A quiet hum first, low and easy: hear it, then hum it back.",
+                                "es": "Primero, un tarareo suave, grave y cómodo: escúchalo y repítelo."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -2199,13 +2373,15 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes."
+                                "en": "Scored on the notes.",
+                                "es": "Se puntúan las notas."
                             }
                         },
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Slide from low to high and back, through your break without a jump."
+                                "en": "Slide from low to high and back, through your break without a jump.",
+                                "es": "Desliza la voz de grave a agudo y de vuelta, cruzando tu pasaje sin saltar."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -2239,7 +2415,8 @@
                                 "thenAndNow": "range.first-slide"
                             },
                             "measures": {
-                                "en": "Scored on crossing your break without a jump."
+                                "en": "Scored on crossing your break without a jump.",
+                                "es": "Se puntúa que cruces tu pasaje sin saltar."
                             }
                         }
                     ]

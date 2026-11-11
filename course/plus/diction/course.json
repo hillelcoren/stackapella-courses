@@ -2,33 +2,33 @@
     "id": "diction",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Diction for singers"},
+    "title": {"en": "Diction for singers", "es": "Dicción para cantantes"},
     "units": [
         {
             "id": "di-vowels",
-            "title": {"en": "Vowels that carry"},
+            "title": {"en": "Vowels that carry", "es": "Vocales que llegan"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "di-1-heard",
-                    "title": {"en": "Be heard"},
+                    "title": {"en": "Be heard", "es": "Hacerse oír"},
                     "strictness": "relaxed",
-                    "fact": {"id": "trent-words-understood", "text": {"en": "In 1562 a draft canon at the Council of Trent asked that church singing be made \"not to give empty pleasure to the ear, but in such a way that the words be clearly understood by all\"."}, "source": {"en": "University of Richmond, Palestrina: texts from Lockwood's Pope Marcellus Mass (1975)"}, "url": "https://facultystaff.richmond.edu/~jriehl/local/Choral_Music_Creed/palestrina.html"},
+                    "fact": {"id": "trent-words-understood", "text": {"en": "In 1562 a draft canon at the Council of Trent asked that church singing be made \"not to give empty pleasure to the ear, but in such a way that the words be clearly understood by all\".", "es": "En 1562, un borrador de canon del Concilio de Trento pidió que el canto en la iglesia se hiciera \"no para dar un placer vacío al oído, sino de modo que todos entiendan claramente las palabras\"."}, "source": {"en": "University of Richmond, Palestrina: texts from Lockwood's Pope Marcellus Mass (1975)", "es": "University of Richmond, Palestrina: texts from Lockwood's Pope Marcellus Mass (1975)"}, "url": "https://facultystaff.richmond.edu/~jriehl/local/Choral_Music_Creed/palestrina.html"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Diction is being understood. The note lives on the vowel. Sing Amazing Grace's first line as you normally would."},
+                            "headline": {"en": "Diction is being understood. The note lives on the vowel. Sing Amazing Grace's first line as you normally would.", "es": "La dicción es que se te entienda; aquí, en inglés. La nota vive en la vocal. Canta la primera frase de Amazing Grace como la cantas siempre."},
                             "steps": [
-                                {"title": {"en": "Just sing it"}, "detail": {"en": "As you normally would"}},
-                                {"title": {"en": "Then again"}, "detail": {"en": "With one change"}},
-                                {"title": {"en": "Hear both"}, "detail": {"en": "Side by side"}}
+                                {"title": {"en": "Just sing it", "es": "Solo cántala"}, "detail": {"en": "As you normally would", "es": "Como la cantas siempre"}},
+                                {"title": {"en": "Then again", "es": "Y otra vez"}, "detail": {"en": "With one change", "es": "Con un cambio"}},
+                                {"title": {"en": "Hear both", "es": "Escúchalas"}, "detail": {"en": "Side by side", "es": "Una junto a la otra"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Amazing grace, how sweet the sound\", as you'd normally sing it."},
+                            "text": {"en": "\"Amazing grace, how sweet the sound\", as you'd normally sing it.", "es": "\"Amazing grace, how sweet the sound\", como la cantarías normalmente."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -46,22 +46,22 @@
                                 "keep": "di.first-line",
                                 "generous": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the stressed vowels full and pure, a-MA-zing, the small words light: \"the\" is just \"thuh\". Start \"Amazing\" easily: no click, no breathy h."},
+                            "headline": {"en": "Now the stressed vowels full and pure, a-MA-zing, the small words light: \"the\" is just \"thuh\". Start \"Amazing\" easily: no click, no breathy h.", "es": "Ahora, las vocales acentuadas plenas y puras, a-MA-zing, y las palabras pequeñas ligeras: \"the\" es solo \"thuh\", con la th parecida a la d suave de \"nada\" y una vocal breve y relajada, casi una a, que el español no tiene. Empieza \"Amazing\" con suavidad: sin golpe y sin soplar aire antes."},
                             "steps": [
-                                {"title": {"en": "Stressed vowels full"}, "detail": {"en": "a-MA-zing, SOUND"}},
-                                {"title": {"en": "Small words light"}, "detail": {"en": "\"the\" as \"thuh\""}},
-                                {"title": {"en": "An easy start"}, "detail": {"en": "No click, no h"}}
+                                {"title": {"en": "Stressed vowels full", "es": "Acentuadas, plenas"}, "detail": {"en": "a-MA-zing, SOUND", "es": "a-MA-zing, SOUND"}},
+                                {"title": {"en": "Small words light", "es": "Palabritas ligeras"}, "detail": {"en": "\"the\" as \"thuh\"", "es": "\"the\" como \"thuh\""}},
+                                {"title": {"en": "An easy start", "es": "Un ataque suave"}, "detail": {"en": "No click, no h", "es": "Sin golpe, sin aire"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The same line again, stressed vowels full, small words light."},
+                            "text": {"en": "The same line again, stressed vowels full, small words light.", "es": "La misma frase otra vez: vocales acentuadas plenas, palabras pequeñas ligeras."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -77,11 +77,11 @@
                                 ],
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, just \"Amazing\", then hear yours."},
+                            "text": {"en": "Once more, just \"Amazing\", then hear yours.", "es": "Una vez más, solo \"Amazing\", y luego escúchate."},
                             "exercise": {
                                 "tempo": 72,
                                 "model": {
@@ -91,30 +91,30 @@
                                         {"beat": 3, "length": 1, "step": 9, "lyric": "ing"}
                                     ]
                                 },
-                                "questions": [{"en": "Did \"Amazing\" start cleanly, without a click?"}, {"en": "Was \"the\" light?"}]
+                                "questions": [{"en": "Did \"Amazing\" start cleanly, without a click?", "es": "¿\"Amazing\" empezó limpio, sin golpe?"}, {"en": "Was \"the\" light?", "es": "¿El \"the\" sonó ligero?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "di-1-pure",
-                    "title": {"en": "Pure vowels"},
-                    "fact": {"id": "high-vowels-misheard", "text": {"en": "When 18 professional singers sang vowels very high, listeners often heard a different vowel: one whose first formant sits just above the sung note."}, "source": {"en": "Hollien, Mendes-Schwartz and Nielsen, Journal of Voice (2000)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/10875582/"},
+                    "title": {"en": "Pure vowels", "es": "Vocales puras"},
+                    "fact": {"id": "high-vowels-misheard", "text": {"en": "When 18 professional singers sang vowels very high, listeners often heard a different vowel: one whose first formant sits just above the sung note.", "es": "Cuando 18 cantantes profesionales cantaron vocales muy agudas, quienes escuchaban oían a menudo otra vocal: una cuyo primer formante queda justo por encima de la nota cantada."}, "source": {"en": "Hollien, Mendes-Schwartz and Nielsen, Journal of Voice (2000)", "es": "Hollien, Mendes-Schwartz y Nielsen, Journal of Voice (2000)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/10875582/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Hold each vowel pure, the same from start to end. Singers tend to drift sharp on \"ee\" and flat on \"oo\": the app hears that."},
+                            "headline": {"en": "Hold each vowel pure, the same from start to end. Singers tend to drift sharp on \"ee\" and flat on \"oo\": the app hears that.", "es": "Mantén cada vocal pura, igual de principio a fin, como las vocales del español. Al cantar, \"ee\" (una i) tiende a subir de afinación y \"oo\" (una u) a bajar: la app lo oye."},
                             "steps": [
-                                {"title": {"en": "One vowel"}, "detail": {"en": "The same all through"}},
-                                {"title": {"en": "On the note"}, "detail": {"en": "Ee not sharp, oo not flat"}},
-                                {"title": {"en": "A loose jaw"}, "detail": {"en": "A loose jaw and an easy tongue: the tongue does t, d, n, l and s, and the jaw barely moves. Light consonants, never pushed. Stop if anything tightens."}}
+                                {"title": {"en": "One vowel", "es": "Una vocal"}, "detail": {"en": "The same all through", "es": "Igual de principio a fin"}},
+                                {"title": {"en": "On the note", "es": "En la nota"}, "detail": {"en": "Ee not sharp, oo not flat", "es": "La \"ee\" sin subir, la \"oo\" sin bajar"}},
+                                {"title": {"en": "A loose jaw", "es": "Mandíbula suelta"}, "detail": {"en": "A loose jaw and an easy tongue: the tongue does t, d, n, l and s, and the jaw barely moves. Light consonants, never pushed. Stop if anything tightens.", "es": "Mandíbula suelta y lengua relajada: la lengua hace la t, la d, la n, la l y la s, y la mandíbula apenas se mueve. Consonantes ligeras, nunca forzadas. Si algo se tensa, para."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Ah, eh, ee, oh, oo, each held on the drone's note."},
+                            "text": {"en": "Ah, eh, ee, oh, oo, each held on the drone's note.", "es": "\"Ah\", \"eh\", \"ee\", \"oh\", \"oo\": cada una sostenida en la nota del bordón."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -128,29 +128,29 @@
                                 "drone": {"step": 0},
                                 "score": "lock"
                             },
-                            "measures": {"en": "Scored on each held note staying on its pitch."}
+                            "measures": {"en": "Scored on each held note staying on its pitch.", "es": "Se puntúa que cada nota sostenida se mantenga en su altura."}
                         }
                     ]
                 },
                 {
                     "id": "di-1-two",
-                    "title": {"en": "Two vowels, one note"},
-                    "fact": {"id": "great-vowel-shift-glides", "text": {"en": "In Middle English, \"mite\" sounded like today's \"meet\" and \"bout\" like \"boot\". The Great Vowel Shift broke those long vowels into the two-vowel glides we say in \"mite\" and \"bout\" today."}, "source": {"en": "Wikipedia, Great Vowel Shift"}, "url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift"},
+                    "title": {"en": "Two vowels, one note", "es": "Dos vocales, una nota"},
+                    "fact": {"id": "great-vowel-shift-glides", "text": {"en": "In Middle English, \"mite\" sounded like today's \"meet\" and \"bout\" like \"boot\". The Great Vowel Shift broke those long vowels into the two-vowel glides we say in \"mite\" and \"bout\" today.", "es": "En el inglés medio, \"mite\" sonaba como el \"meet\" de hoy y \"bout\" como \"boot\". El Gran Cambio Vocálico rompió esas vocales largas en los diptongos con que hoy se pronuncian \"mite\" y \"bout\"."}, "source": {"en": "Wikipedia, Great Vowel Shift", "es": "Wikipedia, Great Vowel Shift"}, "url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Night, day, how and boy each glide between two vowels. Hold the first and give the second only at the very end."},
+                            "headline": {"en": "Night, day, how and boy each glide between two vowels. Hold the first and give the second only at the very end.", "es": "Night, day, how y boy pasan de una vocal a otra, como \"ai\", \"ei\", \"au\" y \"oi\" en \"baile\", \"seis\", \"causa\" y \"hoy\". Sostén la primera vocal y da la segunda solo al final del todo."},
                             "steps": [
-                                {"title": {"en": "Night"}, "detail": {"en": "Ah, then a touch of ee"}},
-                                {"title": {"en": "Day"}, "detail": {"en": "Eh, then a touch of ee"}},
-                                {"title": {"en": "How"}, "detail": {"en": "Ah, then a touch of oo"}}
+                                {"title": {"en": "Night", "es": "Night"}, "detail": {"en": "Ah, then a touch of ee", "es": "\"Ah\" y luego un toque de \"ee\" (una i)"}},
+                                {"title": {"en": "Day", "es": "Day"}, "detail": {"en": "Eh, then a touch of ee", "es": "\"Eh\" y luego un toque de \"ee\""}},
+                                {"title": {"en": "How", "es": "How"}, "detail": {"en": "Ah, then a touch of oo", "es": "\"Ah\" y luego un toque de \"oo\" (una u)"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Each word held two beats, its first vowel all the way."},
+                            "text": {"en": "Each word held two beats, its first vowel all the way.", "es": "Cada palabra sostenida dos tiempos, manteniendo su primera vocal hasta el final."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -163,40 +163,40 @@
                                 "drone": {"step": 0},
                                 "score": "lock"
                             },
-                            "measures": {"en": "Scored on each held note staying on its pitch."}
+                            "measures": {"en": "Scored on each held note staying on its pitch.", "es": "Se puntúa que cada nota sostenida se mantenga en su altura."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Night\" once more, then hear yours."},
+                            "text": {"en": "\"Night\" once more, then hear yours.", "es": "\"Night\" una vez más, y luego escúchate."},
                             "exercise": {
                                 "tempo": 72,
                                 "model": {
                                     "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}]
                                 },
-                                "questions": [{"en": "Did \"night\" stay on \"ah\" until the end?"}, {"en": "Did your jaw stay loose?"}]
+                                "questions": [{"en": "Did \"night\" stay on \"ah\" until the end?", "es": "¿\"Night\" se quedó en \"ah\" hasta el final?"}, {"en": "Did your jaw stay loose?", "es": "¿Tu mandíbula se mantuvo suelta?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "di-1-challenge",
-                    "title": {"en": "Amazing Grace, every vowel"},
+                    "title": {"en": "Amazing Grace, every vowel", "es": "Amazing Grace, cada vocal"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's line again, then two lines: stressed vowels full, small words light. \"Lost but\" with nothing between, \"now am\" joined. Drop an r before a consonant."},
+                            "headline": {"en": "Lesson 1's line again, then two lines: stressed vowels full, small words light. \"Lost but\" with nothing between, \"now am\" joined. Drop an r before a consonant.", "es": "La frase de la lección 1 otra vez y luego dos frases: vocales acentuadas plenas, palabras pequeñas ligeras. \"Lost but\" sin meter nada en medio, \"now am\" unidas. Antes de una consonante, la r no se pronuncia, aunque en español sí sonaría."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
-                                {"title": {"en": "Two lines"}, "detail": {"en": "Stress and pure vowels"}},
-                                {"title": {"en": "Joined"}, "detail": {"en": "\"lost but\", \"now am\""}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1's line, today", "es": "La frase de la lección 1, hoy"}},
+                                {"title": {"en": "Two lines", "es": "Dos frases"}, "detail": {"en": "Stress and pure vowels", "es": "Acento y vocales puras"}},
+                                {"title": {"en": "Joined", "es": "Unidas"}, "detail": {"en": "\"lost but\", \"now am\"", "es": "\"lost but\", \"now am\""}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's line."},
+                            "text": {"en": "Lesson 1's line.", "es": "La frase de la lección 1."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -213,11 +213,11 @@
                                 "turn": false,
                                 "thenAndNow": "di.first-line"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first two lines."},
+                            "text": {"en": "The first two lines.", "es": "Las dos primeras frases."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -240,7 +240,7 @@
                                 ],
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         }
                     ]
                 }
@@ -248,28 +248,28 @@
         },
         {
             "id": "di-consonants",
-            "title": {"en": "Consonants in time"},
+            "title": {"en": "Consonants in time", "es": "Consonantes a tiempo"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "di-2-onset",
-                    "title": {"en": "The vowel on the beat"},
-                    "fact": {"id": "vowel-onset-beat", "text": {"en": "On commercial recordings, pianists most often played their notes with the singer's vowel, not with the consonant before it: the consonant comes just before the beat, the vowel on it."}, "source": {"en": "Sundberg and Bauer-Huppmann, When does a sung tone start?, Journal of Voice (2007)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/16564674/"},
+                    "title": {"en": "The vowel on the beat", "es": "La vocal en el pulso"},
+                    "fact": {"id": "vowel-onset-beat", "text": {"en": "On commercial recordings, pianists most often played their notes with the singer's vowel, not with the consonant before it: the consonant comes just before the beat, the vowel on it.", "es": "En grabaciones comerciales, los pianistas tocaban sus notas casi siempre con la vocal de quien cantaba, no con la consonante anterior: la consonante va justo antes del pulso y la vocal, en él."}, "source": {"en": "Sundberg and Bauer-Huppmann, When does a sung tone start?, Journal of Voice (2007)", "es": "Sundberg y Bauer-Huppmann, When does a sung tone start?, Journal of Voice (2007)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/16564674/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Hand on your throat: \"zzz\" buzzes, \"sss\" doesn't. The app hears only what buzzes. So for t, k, p and s, put the consonant just before the beat, and the vowel on it."},
+                            "headline": {"en": "Hand on your throat: \"zzz\" buzzes, \"sss\" doesn't. The app hears only what buzzes. So for t, k, p and s, put the consonant just before the beat, and the vowel on it.", "es": "Mano en la garganta: \"zzz\" (una s que zumba, como una abeja) vibra; \"sss\", no. La app solo oye lo que vibra. Así que con t, k, p y s, pon la consonante justo antes del pulso y la vocal en él."},
                             "steps": [
-                                {"title": {"en": "Zzz, then sss"}, "detail": {"en": "One buzzes, one doesn't"}},
-                                {"title": {"en": "Consonant early"}, "detail": {"en": "Just before the beat"}},
-                                {"title": {"en": "Vowel on the beat"}, "detail": {"en": "That's what's heard"}}
+                                {"title": {"en": "Zzz, then sss", "es": "Zzz, luego sss"}, "detail": {"en": "One buzzes, one doesn't", "es": "Una vibra, la otra no"}},
+                                {"title": {"en": "Consonant early", "es": "Consonante antes"}, "detail": {"en": "Just before the beat", "es": "Justo antes del pulso"}},
+                                {"title": {"en": "Vowel on the beat", "es": "Vocal en el pulso"}, "detail": {"en": "That's what's heard", "es": "Es lo que se oye"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Each word on its beat, a rest between: the vowel words on the beat, and \"two\", \"cold\" and \"past\" with their consonant just before."},
+                            "text": {"en": "Each word on its beat, a rest between: the vowel words on the beat, and \"two\", \"cold\" and \"past\" with their consonant just before.", "es": "Cada palabra en su pulso, con un silencio entre ellas: las palabras que empiezan por vocal, en el pulso, y \"two\", \"cold\" y \"past\", con su consonante justo antes."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -287,29 +287,29 @@
                                 "drone": {"step": 0},
                                 "score": "entry"
                             },
-                            "measures": {"en": "Scored on each vowel starting on the beat, measured against your own vowel-word starts."}
+                            "measures": {"en": "Scored on each vowel starting on the beat, measured against your own vowel-word starts.", "es": "Se puntúa que cada vocal empiece en el pulso, tomando como referencia tus propias palabras que empiezan por vocal."}
                         }
                     ]
                 },
                 {
                     "id": "di-2-finals",
-                    "title": {"en": "The end on the beat"},
-                    "fact": {"id": "garcia-consonants-beat-time", "text": {"en": "The great singing teacher Manuel Garcia gave consonants a second job beyond making the words clear: \"To beat time and mark the rhythm by their percussions.\""}, "source": {"en": "Garcia, Hints on Singing (revised edition, ed. Klein)"}, "url": "https://archive.org/details/hintsonsinging00garc"},
+                    "title": {"en": "The end on the beat", "es": "El final en el pulso"},
+                    "fact": {"id": "garcia-consonants-beat-time", "text": {"en": "The great singing teacher Manuel Garcia gave consonants a second job beyond making the words clear: \"To beat time and mark the rhythm by their percussions.\"", "es": "El gran maestro de canto Manuel García dio a las consonantes una segunda tarea, además de que se entiendan las palabras: \"Marcar el compás y el ritmo con su percusión\"."}, "source": {"en": "Garcia, Hints on Singing (revised edition, ed. Klein)", "es": "Garcia, Hints on Singing (edición revisada, ed. Klein)"}, "url": "https://archive.org/details/hintsonsinging00garc"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A word's last consonant goes exactly where the note ends. A final t, k, p or s is quick and light; a final d is light too, never \"found-uh\"."},
+                            "headline": {"en": "A word's last consonant goes exactly where the note ends. A final t, k, p or s is quick and light; a final d is light too, never \"found-uh\".", "es": "La última consonante de una palabra va justo donde acaba la nota. Una t, k, p o s final es rápida y ligera; una d final también es ligera, nunca \"found-uh\". El español casi nunca acaba en t, k o p: aquí hay que decirlas, sin añadir vocal."},
                             "steps": [
-                                {"title": {"en": "Hold the vowel"}, "detail": {"en": "To the end of the note"}},
-                                {"title": {"en": "Then the consonant"}, "detail": {"en": "Right on the beat"}},
-                                {"title": {"en": "Light"}, "detail": {"en": "A short s, a soft d"}}
+                                {"title": {"en": "Hold the vowel", "es": "Sostén la vocal"}, "detail": {"en": "To the end of the note", "es": "Hasta el final de la nota"}},
+                                {"title": {"en": "Then the consonant", "es": "Luego, la consonante"}, "detail": {"en": "Right on the beat", "es": "Justo en el pulso"}},
+                                {"title": {"en": "Light", "es": "Ligera"}, "detail": {"en": "A short s, a soft d", "es": "Una s corta, una d ligera"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Six held words, each consonant exactly on the note's end."},
+                            "text": {"en": "Six held words, each consonant exactly on the note's end.", "es": "Seis palabras sostenidas, cada una con su consonante justo al final de la nota."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -324,34 +324,34 @@
                                 "drone": {"step": 0},
                                 "score": "release"
                             },
-                            "measures": {"en": "Scored on each held note ending on time, steady to its end: the final consonant on the beat."}
+                            "measures": {"en": "Scored on each held note ending on time, steady to its end: the final consonant on the beat.", "es": "Se puntúa que cada nota sostenida termine a tiempo, estable hasta el final: la consonante final, en el pulso."}
                         }
                     ]
                 },
                 {
                     "id": "di-2-together",
-                    "title": {"en": "Together"},
-                    "fact": {"id": "coward-last-eighth-of-beat", "text": {"en": "In 1914 the choir trainer Henry Coward told singers to cut a final s, z or sh as short as possible, and \"never introduce them till the last eighth of the beat\"."}, "source": {"en": "Coward, Choral Technique and Interpretation (1914)"}, "url": "https://archive.org/details/choraltechniquei00cowa"},
+                    "title": {"en": "Together", "es": "A la vez"},
+                    "fact": {"id": "coward-last-eighth-of-beat", "text": {"en": "In 1914 the choir trainer Henry Coward told singers to cut a final s, z or sh as short as possible, and \"never introduce them till the last eighth of the beat\".", "es": "En 1914, el director de coro Henry Coward pedía a los cantantes que hicieran lo más breve posible una s, z o sh final, y que \"no las introdujeran nunca hasta el último octavo del tiempo\"."}, "source": {"en": "Coward, Choral Technique and Interpretation (1914)", "es": "Coward, Choral Technique and Interpretation (1914)"}, "url": "https://archive.org/details/choraltechniquei00cowa"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A choir's words end together, or a stray t or s sticks out. Listen for it, then end with the voice beside you."},
+                            "headline": {"en": "A choir's words end together, or a stray t or s sticks out. Listen for it, then end with the voice beside you.", "es": "Las palabras de un coro tienen que terminar a la vez; si no, una t o una s suelta sobresale. Escucha si pasa y luego termina a la vez que la voz que tienes al lado."},
                             "steps": [
-                                {"title": {"en": "Listen"}, "detail": {"en": "Did they stop together?"}},
-                                {"title": {"en": "Then you"}, "detail": {"en": "With a partner voice"}},
-                                {"title": {"en": "Together"}, "detail": {"en": "Your end with its end"}}
+                                {"title": {"en": "Listen", "es": "Escucha"}, "detail": {"en": "Did they stop together?", "es": "¿Pararon a la vez?"}},
+                                {"title": {"en": "Then you", "es": "Luego tú"}, "detail": {"en": "With a partner voice", "es": "Con una voz compañera"}},
+                                {"title": {"en": "Together", "es": "A la vez"}, "detail": {"en": "Your end with its end", "es": "Tu final con el suyo"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 60,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which choir stopped together on \"night\"?"},
+                                        "prompt": {"en": "Which choir stopped together on \"night\"?", "es": "¿Qué coro cortó \"night\" a la vez?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}, {"beat": 0, "length": 2, "step": 4}]
@@ -361,10 +361,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "In one, a voice hangs on after the other has stopped."}
+                                        "why": {"en": "In one, a voice hangs on after the other has stopped.", "es": "En uno, una voz se queda colgada cuando la otra ya ha parado."}
                                     },
                                     {
-                                        "prompt": {"en": "Which choir stopped together on \"night\"?"},
+                                        "prompt": {"en": "Which choir stopped together on \"night\"?", "es": "¿Qué coro cortó \"night\" a la vez?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}, {"beat": 0, "length": 2.15, "step": 4}]
@@ -374,10 +374,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "In one, a voice hangs on after the other has stopped."}
+                                        "why": {"en": "In one, a voice hangs on after the other has stopped.", "es": "En uno, una voz se queda colgada cuando la otra ya ha parado."}
                                     },
                                     {
-                                        "prompt": {"en": "Which choir stopped together on \"night\"?"},
+                                        "prompt": {"en": "Which choir stopped together on \"night\"?", "es": "¿Qué coro cortó \"night\" a la vez?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}, {"beat": 0, "length": 2, "step": 4}]
@@ -387,10 +387,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "In one, a voice hangs on after the other has stopped."}
+                                        "why": {"en": "In one, a voice hangs on after the other has stopped.", "es": "En uno, una voz se queda colgada cuando la otra ya ha parado."}
                                     },
                                     {
-                                        "prompt": {"en": "Which choir stopped together on \"night\"?"},
+                                        "prompt": {"en": "Which choir stopped together on \"night\"?", "es": "¿Qué coro cortó \"night\" a la vez?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "night"}, {"beat": 0, "length": 2.06, "step": 4}]
@@ -400,15 +400,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "In one, a voice hangs on after the other has stopped."}
+                                        "why": {"en": "In one, a voice hangs on after the other has stopped.", "es": "En uno, una voz se queda colgada cuando la otra ya ha parado."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Three held words, your ends with the partner's."},
+                            "text": {"en": "Three held words, your ends with the partner's.", "es": "Tres palabras sostenidas, tus finales con los de la voz compañera."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -429,29 +429,29 @@
                                 ],
                                 "score": "release"
                             },
-                            "measures": {"en": "Scored on each held note ending on time, steady to its end: the final consonant on the beat."}
+                            "measures": {"en": "Scored on each held note ending on time, steady to its end: the final consonant on the beat.", "es": "Se puntúa que cada nota sostenida termine a tiempo, estable hasta el final: la consonante final, en el pulso."}
                         }
                     ]
                 },
                 {
                     "id": "di-2-challenge",
-                    "title": {"en": "Danny Boy"},
+                    "title": {"en": "Danny Boy", "es": "Danny Boy"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's line, then Danny Boy's first line: \"Danny\", \"boy\" and \"pipes\" start like t and p, the consonant just before the beat. Then three of its words held, their ends on the beat."},
+                            "headline": {"en": "Lesson 1's line, then Danny Boy's first line: \"Danny\", \"boy\" and \"pipes\" start like t and p, the consonant just before the beat. Then three of its words held, their ends on the beat.", "es": "La frase de la lección 1 y luego la primera de Danny Boy: \"Danny\", \"boy\" y \"pipes\" empiezan como la t y la p, con la consonante justo antes del pulso. Luego, tres de sus palabras sostenidas, con el final en el pulso."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
-                                {"title": {"en": "The pipes"}, "detail": {"en": "Consonants early, vowels on the beat"}},
-                                {"title": {"en": "The ends"}, "detail": {"en": "On the beat"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1's line, today", "es": "La frase de la lección 1, hoy"}},
+                                {"title": {"en": "The pipes", "es": "\"The pipes\""}, "detail": {"en": "Consonants early, vowels on the beat", "es": "Consonantes antes, vocales en el pulso"}},
+                                {"title": {"en": "The ends", "es": "Los finales"}, "detail": {"en": "On the beat", "es": "En el pulso"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's line."},
+                            "text": {"en": "Lesson 1's line.", "es": "La frase de la lección 1."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -468,11 +468,11 @@
                                 "turn": false,
                                 "thenAndNow": "di.first-line"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Oh Danny boy, the pipes, the pipes are calling\"."},
+                            "text": {"en": "\"Oh Danny boy, the pipes, the pipes are calling\".", "es": "\"Oh Danny boy, the pipes, the pipes are calling\"."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -491,11 +491,11 @@
                                 ],
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Three held words, a rest after each, their ends on the beat."},
+                            "text": {"en": "Three held words, a rest after each, their ends on the beat.", "es": "Tres palabras sostenidas, con un silencio después de cada una y el final en el pulso."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -507,7 +507,7 @@
                                 "drone": {"step": 0},
                                 "score": "release"
                             },
-                            "measures": {"en": "Scored on each held note ending on time, steady to its end: the final consonant on the beat."}
+                            "measures": {"en": "Scored on each held note ending on time, steady to its end: the final consonant on the beat.", "es": "Se puntúa que cada nota sostenida termine a tiempo, estable hasta el final: la consonante final, en el pulso."}
                         }
                     ]
                 }
@@ -515,28 +515,28 @@
         },
         {
             "id": "di-on-the-consonant",
-            "title": {"en": "On the consonant"},
+            "title": {"en": "On the consonant", "es": "En la consonante"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "di-3-hum",
-                    "title": {"en": "On the m"},
-                    "fact": {"id": "english-voiced-consonants", "text": {"en": "In English, r, l, w, y, m, n and ng are always voiced: the vocal folds vibrate right through them, and none has a voiceless twin."}, "source": {"en": "Russell, Describing consonants, University of Manitoba"}, "url": "https://home.cc.umanitoba.ca/~krussll/phonetics/articulation/describing-consonants.html"},
+                    "title": {"en": "On the m", "es": "En la m"},
+                    "fact": {"id": "english-voiced-consonants", "text": {"en": "In English, r, l, w, y, m, n and ng are always voiced: the vocal folds vibrate right through them, and none has a voiceless twin.", "es": "En inglés, la r, la l, la w, la y, la m, la n y la ng son siempre sonoras: los pliegues vocales vibran de principio a fin, y ninguna tiene una pareja sorda."}, "source": {"en": "Russell, Describing consonants, University of Manitoba", "es": "Russell, Describing consonants, University of Manitoba"}, "url": "https://home.cc.umanitoba.ca/~krussll/phonetics/articulation/describing-consonants.html"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "An m has pitch: it's on the note, short, and the vowel gets the length. Only a final m hums through to the end. This one is kinder."},
+                            "headline": {"en": "An m has pitch: it's on the note, short, and the vowel gets the length. Only a final m hums through to the end. This one is kinder.", "es": "La m tiene altura: va en la nota, breve, y la vocal se lleva la duración. Solo una m final suena a boca cerrada hasta el final. Esta lección es más tranquila."},
                             "steps": [
-                                {"title": {"en": "The hum"}, "detail": {"en": "On the note"}},
-                                {"title": {"en": "Short"}, "detail": {"en": "The vowel gets the length"}},
-                                {"title": {"en": "A final m"}, "detail": {"en": "Hums to the end"}}
+                                {"title": {"en": "The hum", "es": "El \"mm\""}, "detail": {"en": "On the note", "es": "En la nota"}},
+                                {"title": {"en": "Short", "es": "Breve"}, "detail": {"en": "The vowel gets the length", "es": "La vocal es la larga"}},
+                                {"title": {"en": "A final m", "es": "Una m final"}, "detail": {"en": "Hums to the end", "es": "Suena hasta el final"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "A hum on the drone's note."},
+                            "text": {"en": "A hum on the drone's note.", "es": "Un \"mm\" a boca cerrada en la nota del bordón."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "mm"}],
@@ -544,11 +544,11 @@
                                 "drone": {"step": 0},
                                 "score": "lock"
                             },
-                            "measures": {"en": "Scored on each held note staying on its pitch."}
+                            "measures": {"en": "Scored on each held note staying on its pitch.", "es": "Se puntúa que cada nota sostenida se mantenga en su altura."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"mama\", \"summer\", \"home\": each m on the note."},
+                            "text": {"en": "\"mama\", \"summer\", \"home\": each m on the note.", "es": "\"mama\", \"summer\", \"home\": cada m en la nota."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -561,29 +561,29 @@
                                 "turn": false,
                                 "drone": {"step": 0}
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         }
                     ]
                 },
                 {
                     "id": "di-3-n-l",
-                    "title": {"en": "The n on the note"},
-                    "fact": {"id": "lehmann-twelve-endings-on-n", "text": {"en": "In her 1902 book How to Sing, the soprano Lilli Lehmann quoted the German words of Norma's entrance recitative and marked each final n: \"Twelve endings on n!\""}, "source": {"en": "Lehmann, How to Sing (1902)"}, "url": "https://www.gutenberg.org/ebooks/19116"},
+                    "title": {"en": "The n on the note", "es": "La n en la nota"},
+                    "fact": {"id": "lehmann-twelve-endings-on-n", "text": {"en": "In her 1902 book How to Sing, the soprano Lilli Lehmann quoted the German words of Norma's entrance recitative and marked each final n: \"Twelve endings on n!\"", "es": "En su libro de 1902 How to Sing, la soprano Lilli Lehmann citó la letra alemana del recitativo de entrada de Norma y marcó cada n final: \"¡Doce finales en n!\"."}, "source": {"en": "Lehmann, How to Sing (1902)", "es": "Lehmann, How to Sing (1902)"}, "url": "https://www.gutenberg.org/ebooks/19116"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "n and l have pitch too. Put them on the note, not below it sliding up. \"Long\" has no g after the ng; \"all\" ends on a light l."},
+                            "headline": {"en": "n and l have pitch too. Put them on the note, not below it sliding up. \"Long\" has no g after the ng; \"all\" ends on a light l.", "es": "La n y la l también tienen altura. Ponlas en la nota, no por debajo para luego subir. \"Long\" no lleva g después de la \"ng\" (la n de \"tengo\", sostenida, sin llegar a la g); \"all\" acaba en una l ligera."},
                             "steps": [
-                                {"title": {"en": "On the note"}, "detail": {"en": "Not under it"}},
-                                {"title": {"en": "No g"}, "detail": {"en": "\"long\", not \"long-g\""}},
-                                {"title": {"en": "A light l"}, "detail": {"en": "The tongue tip"}}
+                                {"title": {"en": "On the note", "es": "En la nota"}, "detail": {"en": "Not under it", "es": "No por debajo"}},
+                                {"title": {"en": "No g", "es": "Sin g"}, "detail": {"en": "\"long\", not \"long-g\"", "es": "\"long\", no \"long-g\""}},
+                                {"title": {"en": "A light l", "es": "Una l ligera"}, "detail": {"en": "The tongue tip", "es": "Con la punta de la lengua"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Four held words, each n or l on the note."},
+                            "text": {"en": "Four held words, each n or l on the note.", "es": "Cuatro palabras sostenidas, cada n o l en la nota."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -596,29 +596,29 @@
                                 "drone": {"step": 0},
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on each note starting on its pitch, the n or m on the note, not sliding up into it."}
+                            "measures": {"en": "Scored on each note starting on its pitch, the n or m on the note, not sliding up into it.", "es": "Se puntúa que cada nota empiece en su altura, con la n o la m en la nota, sin deslizarse hacia arriba hasta ella."}
                         }
                     ]
                 },
                 {
                     "id": "di-3-buzz",
-                    "title": {"en": "Buzz, not hiss"},
-                    "fact": {"id": "old-english-f-v-one-letter", "text": {"en": "Old English usually wrote v and f with the same letter, f, and z and s with s: an f or s buzzed between vowels, and hissed at the start or end of a word."}, "source": {"en": "Wikipedia, Old English phonology"}, "url": "https://en.wikipedia.org/wiki/Old_English_phonology"},
+                    "title": {"en": "Buzz, not hiss", "es": "Zumbar, no silbar"},
+                    "fact": {"id": "old-english-f-v-one-letter", "text": {"en": "Old English usually wrote v and f with the same letter, f, and z and s with s: an f or s buzzed between vowels, and hissed at the start or end of a word.", "es": "El inglés antiguo solía escribir la v y la f con la misma letra, f, y la z y la s con s: una f o una s zumbaba entre vocales y silbaba al principio o al final de una palabra."}, "source": {"en": "Wikipedia, Old English phonology", "es": "Wikipedia, Old English phonology"}, "url": "https://en.wikipedia.org/wiki/Old_English_phonology"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "v and z can buzz on the note, or hiss without it. Buzz them."},
+                            "headline": {"en": "v and z can buzz on the note, or hiss without it. Buzz them.", "es": "La v y la z pueden zumbar en la nota o silbar sin ella. Hazlas zumbar. En español la v suena como b y la z no zumba: la v inglesa es una f con voz, y la z, una s con voz."},
                             "steps": [
-                                {"title": {"en": "Very"}, "detail": {"en": "A buzzing v"}},
-                                {"title": {"en": "Zoo"}, "detail": {"en": "A buzzing z"}},
-                                {"title": {"en": "Love"}, "detail": {"en": "A light v at the end"}}
+                                {"title": {"en": "Very", "es": "Very"}, "detail": {"en": "A buzzing v", "es": "Una v que zumba, no una b"}},
+                                {"title": {"en": "Zoo", "es": "Zoo"}, "detail": {"en": "A buzzing z", "es": "Una z que zumba"}},
+                                {"title": {"en": "Love", "es": "Love"}, "detail": {"en": "A light v at the end", "es": "Una v ligera al final"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Three held words, the v and z buzzing on the note."},
+                            "text": {"en": "Three held words, the v and z buzzing on the note.", "es": "Tres palabras sostenidas, con la v y la z zumbando en la nota."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -629,40 +629,40 @@
                                 "turn": false,
                                 "drone": {"step": 0}
                             },
-                            "measures": {"en": "Scored on the vowels' pitch."}
+                            "measures": {"en": "Scored on the vowels' pitch.", "es": "Se puntúa la afinación de las vocales."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Zoo\" once more, then hear yours."},
+                            "text": {"en": "\"Zoo\" once more, then hear yours.", "es": "\"Zoo\" una vez más, y luego escúchate."},
                             "exercise": {
                                 "tempo": 72,
                                 "model": {
                                     "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "zoo"}]
                                 },
-                                "questions": [{"en": "Did the z buzz, or hiss?"}, {"en": "Did your jaw stay still?"}]
+                                "questions": [{"en": "Did the z buzz, or hiss?", "es": "¿La z zumbó o silbó?"}, {"en": "Did your jaw stay still?", "es": "¿Tu mandíbula se quedó quieta?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "di-3-challenge",
-                    "title": {"en": "Shenandoah"},
+                    "title": {"en": "Shenandoah", "es": "Shenandoah"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's line, then Shenandoah's first line, full of n's: each one on the note, not sliding up."},
+                            "headline": {"en": "Lesson 1's line, then Shenandoah's first line, full of n's: each one on the note, not sliding up.", "es": "La frase de la lección 1 y luego la primera de Shenandoah, llena de enes: cada una en la nota, sin deslizarse hacia arriba."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
-                                {"title": {"en": "Shenandoah"}, "detail": {"en": "Every n on the note"}},
-                                {"title": {"en": "Long"}, "detail": {"en": "No g after the ng"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1's line, today", "es": "La frase de la lección 1, hoy"}},
+                                {"title": {"en": "Shenandoah", "es": "Shenandoah"}, "detail": {"en": "Every n on the note", "es": "Cada n en la nota"}},
+                                {"title": {"en": "Long", "es": "Long"}, "detail": {"en": "No g after the ng", "es": "Sin g después de la ng"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's line."},
+                            "text": {"en": "Lesson 1's line.", "es": "La frase de la lección 1."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -679,11 +679,11 @@
                                 "turn": false,
                                 "thenAndNow": "di.first-line"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Oh Shenandoah, I long to hear you\"."},
+                            "text": {"en": "\"Oh Shenandoah, I long to hear you\".", "es": "\"Oh Shenandoah, I long to hear you\"."},
                             "exercise": {
                                 "tempo": 63,
                                 "notes": [
@@ -700,7 +700,7 @@
                                 "turn": false,
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on each note starting on its pitch, the n or m on the note, not sliding up into it."}
+                            "measures": {"en": "Scored on each note starting on its pitch, the n or m on the note, not sliding up into it.", "es": "Se puntúa que cada nota empiece en su altura, con la n o la m en la nota, sin deslizarse hacia arriba hasta ella."}
                         }
                     ]
                 }
@@ -708,28 +708,28 @@
         },
         {
             "id": "di-for-an-audience",
-            "title": {"en": "Words for an audience"},
+            "title": {"en": "Words for an audience", "es": "Palabras para el público"},
             "colour": 2,
             "lessons": [
                 {
                     "id": "di-4-heard",
-                    "title": {"en": "Would they understand?"},
-                    "fact": {"id": "sung-words-errors", "text": {"en": "Listeners writing down words sung by advanced voice students made 7.3 times as many mistakes as with the same words spoken."}, "source": {"en": "Johnson, Huron and Collister, Empirical Musicology Review (2014)"}, "url": "https://doi.org/10.18061/emr.v9i1.3729"},
+                    "title": {"en": "Would they understand?", "es": "¿Te entenderían?"},
+                    "fact": {"id": "sung-words-errors", "text": {"en": "Listeners writing down words sung by advanced voice students made 7.3 times as many mistakes as with the same words spoken.", "es": "Al anotar palabras cantadas por estudiantes avanzados de canto, quienes escuchaban cometieron más de siete veces más errores que con las mismas palabras habladas."}, "source": {"en": "Johnson, Huron and Collister, Empirical Musicology Review (2014)", "es": "Johnson, Huron y Collister, Empirical Musicology Review (2014)"}, "url": "https://doi.org/10.18061/emr.v9i1.3729"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "You always understand your own words. Would a stranger? Sing a line, then listen with the words hidden."},
+                            "headline": {"en": "You always understand your own words. Would a stranger? Sing a line, then listen with the words hidden.", "es": "Tú siempre entiendes tus propias palabras. ¿Las entendería alguien que no las conoce? Canta una frase y luego escúchala con la letra oculta."},
                             "steps": [
-                                {"title": {"en": "Sing it"}, "detail": {"en": "For someone at the back"}},
-                                {"title": {"en": "Hide the words"}, "detail": {"en": "And listen"}},
-                                {"title": {"en": "Not louder"}, "detail": {"en": "A loose jaw and an easy tongue: the tongue does t, d, n, l and s, and the jaw barely moves. Light consonants, never pushed. Stop if anything tightens."}}
+                                {"title": {"en": "Sing it", "es": "Cántala"}, "detail": {"en": "For someone at the back", "es": "Para alguien al fondo de la sala"}},
+                                {"title": {"en": "Hide the words", "es": "Oculta la letra"}, "detail": {"en": "And listen", "es": "Y escucha"}},
+                                {"title": {"en": "Not louder", "es": "Sin más volumen"}, "detail": {"en": "A loose jaw and an easy tongue: the tongue does t, d, n, l and s, and the jaw barely moves. Light consonants, never pushed. Stop if anything tightens.", "es": "Mandíbula suelta y lengua relajada: la lengua hace la t, la d, la n, la l y la s, y la mandíbula apenas se mueve. Consonantes ligeras, nunca forzadas. Si algo se tensa, para."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"That saved a wretch like me\"."},
+                            "text": {"en": "\"That saved a wretch like me\".", "es": "\"That saved a wretch like me\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -743,11 +743,11 @@
                                 ],
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, then hear yours with the words hidden."},
+                            "text": {"en": "Once more, then hear yours with the words hidden.", "es": "Una vez más, y luego escúchate con la letra oculta."},
                             "exercise": {
                                 "tempo": 72,
                                 "model": {
@@ -762,8 +762,8 @@
                                     ]
                                 },
                                 "questions": [
-                                    {"en": "Pick one word: did you hear its last consonant?"},
-                                    {"en": "Did your jaw stay still for the t and n?"}
+                                    {"en": "Pick one word: did you hear its last consonant?", "es": "Elige una palabra: ¿oíste su última consonante?"},
+                                    {"en": "Did your jaw stay still for the t and n?", "es": "¿Tu mandíbula se quedó quieta en la t y la n?"}
                                 ]
                             }
                         }
@@ -771,23 +771,23 @@
                 },
                 {
                     "id": "di-4-choir",
-                    "title": {"en": "One choir, one vowel"},
-                    "fact": {"id": "choir-mode-matched-loudness", "text": {"en": "In a 1986 study, eight basses and baritones sang solo and in a choir. In the choir they usually matched their loudness to the voices they heard, and put less power into the high \"singer's formant\"."}, "source": {"en": "Rossing, Sundberg and Ternström, JASA (1986)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/3722607/"},
+                    "title": {"en": "One choir, one vowel", "es": "Un coro, una vocal"},
+                    "fact": {"id": "choir-mode-matched-loudness", "text": {"en": "In a 1986 study, eight basses and baritones sang solo and in a choir. In the choir they usually matched their loudness to the voices they heard, and put less power into the high \"singer's formant\".", "es": "En un estudio de 1986, ocho bajos y barítonos cantaron como solistas y en coro. En el coro solían igualar su volumen al de las voces que oían, y ponían menos energía en el \"formante del cantante\", en la zona aguda."}, "source": {"en": "Rossing, Sundberg and Ternström, JASA (1986)", "es": "Rossing, Sundberg y Ternström, JASA (1986)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/3722607/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A choir is understood when it sings the same vowel at the same time. Match the voice beside you."},
+                            "headline": {"en": "A choir is understood when it sings the same vowel at the same time. Match the voice beside you.", "es": "Un coro se entiende cuando canta la misma vocal a la vez. Iguálate a la voz que tienes al lado."},
                             "steps": [
-                                {"title": {"en": "Match its oo"}, "detail": {"en": "The same shape"}},
-                                {"title": {"en": "Then the words"}, "detail": {"en": "In unison"}},
-                                {"title": {"en": "Together"}, "detail": {"en": "Vowels and ends"}}
+                                {"title": {"en": "Match its oo", "es": "Iguala su \"oo\""}, "detail": {"en": "The same shape", "es": "Con la misma forma"}},
+                                {"title": {"en": "Then the words", "es": "Luego, la letra"}, "detail": {"en": "In unison", "es": "Al unísono"}},
+                                {"title": {"en": "Together", "es": "A la vez"}, "detail": {"en": "Vowels and ends", "es": "Vocales y finales"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Match the guide's \"oo\"."},
+                            "text": {"en": "Match the guide's \"oo\".", "es": "Iguala el \"oo\" (una u) de la guía."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [{"beat": 0, "length": 3, "step": 0, "lyric": "oo"}],
@@ -802,7 +802,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The line in unison with a partner voice."},
+                            "text": {"en": "The line in unison with a partner voice.", "es": "La frase al unísono con una voz compañera."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -830,11 +830,11 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, then hear yours beside the partner."},
+                            "text": {"en": "Once more, then hear yours beside the partner.", "es": "Una vez más, y luego escúchate junto a la voz compañera."},
                             "exercise": {
                                 "tempo": 72,
                                 "model": {
@@ -845,30 +845,30 @@
                                         {"beat": 3.5, "length": 0.5, "step": -2}
                                     ]
                                 },
-                                "questions": [{"en": "Did your vowels match the partner's?"}, {"en": "Did your ends land with its ends?"}]
+                                "questions": [{"en": "Did your vowels match the partner's?", "es": "¿Tus vocales coincidieron con las de la voz compañera?"}, {"en": "Did your ends land with its ends?", "es": "¿Tus finales coincidieron con los suyos?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "di-4-lining",
-                    "title": {"en": "Lining out"},
-                    "fact": {"id": "worcester-deacon-1779", "text": {"en": "In 1779 Worcester, Massachusetts, voted to stop lining out its psalms. The next Sunday the old deacon lined out anyway; the singers sang straight over him, and he left in tears."}, "source": {"en": "Lincoln, History of Worcester, Massachusetts (1837), Internet Archive"}, "url": "https://archive.org/details/historyofworcest00linc"},
+                    "title": {"en": "Lining out", "es": "Verso a verso"},
+                    "fact": {"id": "worcester-deacon-1779", "text": {"en": "In 1779 Worcester, Massachusetts, voted to stop lining out its psalms. The next Sunday the old deacon lined out anyway; the singers sang straight over him, and he left in tears.", "es": "En 1779, Worcester (Massachusetts) votó dejar de cantar sus salmos verso a verso. El domingo siguiente, el viejo diácono los entonó verso a verso de todos modos; los fieles siguieron cantando por encima de él, y se marchó llorando."}, "source": {"en": "Lincoln, History of Worcester, Massachusetts (1837), Internet Archive", "es": "Lincoln, History of Worcester, Massachusetts (1837), Internet Archive"}, "url": "https://archive.org/details/historyofworcest00linc"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "In lining out, a leader sings a line and the group answers. The guide sings lines 1 and 3; you answer with 2 and 4, every word."},
+                            "headline": {"en": "In lining out, a leader sings a line and the group answers. The guide sings lines 1 and 3; you answer with 2 and 4, every word.", "es": "En el canto verso a verso (lining out), quien dirige canta un verso y el grupo responde. La guía canta los versos 1 y 3; tú respondes con el 2 y el 4, sin comerte ni una palabra."},
                             "steps": [
-                                {"title": {"en": "The leader"}, "detail": {"en": "Lines 1 and 3"}},
-                                {"title": {"en": "You"}, "detail": {"en": "Lines 2 and 4"}},
-                                {"title": {"en": "Every word"}, "detail": {"en": "Stress, vowels, ends"}}
+                                {"title": {"en": "The leader", "es": "Quien dirige"}, "detail": {"en": "Lines 1 and 3", "es": "Versos 1 y 3"}},
+                                {"title": {"en": "You", "es": "Tú"}, "detail": {"en": "Lines 2 and 4", "es": "Versos 2 y 4"}},
+                                {"title": {"en": "Every word", "es": "Cada palabra"}, "detail": {"en": "Stress, vowels, ends", "es": "Acento, vocales, finales"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Amazing Grace's first verse, taking turns with the guide."},
+                            "text": {"en": "Amazing Grace's first verse, taking turns with the guide.", "es": "La primera estrofa de Amazing Grace, por turnos con la guía."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -907,29 +907,29 @@
                                 ],
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         }
                     ]
                 },
                 {
                     "id": "di-4-challenge",
-                    "title": {"en": "Every word, heard"},
+                    "title": {"en": "Every word, heard", "es": "Cada palabra, clara"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's line to hear how far you've come, then the end of Shenandoah's verse, every word for the back of the room."},
+                            "headline": {"en": "Lesson 1's line to hear how far you've come, then the end of Shenandoah's verse, every word for the back of the room.", "es": "La frase de la lección 1, para oír cuánto has avanzado, y luego el final de la estrofa de Shenandoah, cada palabra para el fondo de la sala."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
-                                {"title": {"en": "The verse's end"}, "detail": {"en": "Stress, pure vowels, the n on the note"}},
-                                {"title": {"en": "Not louder"}, "detail": {"en": "Clearer"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1's line, today", "es": "La frase de la lección 1, hoy"}},
+                                {"title": {"en": "The verse's end", "es": "Fin de estrofa"}, "detail": {"en": "Stress, pure vowels, the n on the note", "es": "Acento, vocales puras, la n en la nota"}},
+                                {"title": {"en": "Not louder", "es": "Sin más volumen"}, "detail": {"en": "Clearer", "es": "Más clara"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's line."},
+                            "text": {"en": "Lesson 1's line.", "es": "La frase de la lección 1."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -946,11 +946,11 @@
                                 "turn": false,
                                 "thenAndNow": "di.first-line"
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Shenandoah's first line, then hear it with the words hidden."},
+                            "text": {"en": "Shenandoah's first line, then hear it with the words hidden.", "es": "La primera frase de Shenandoah, y luego escúchala con la letra oculta."},
                             "exercise": {
                                 "tempo": 72,
                                 "model": {
@@ -966,12 +966,12 @@
                                         {"beat": 5.5, "length": 1.75, "step": 5, "lyric": "you,"}
                                     ]
                                 },
-                                "questions": [{"en": "Could a stranger write the line down?"}, {"en": "Did your jaw stay loose?"}]
+                                "questions": [{"en": "Could a stranger write the line down?", "es": "¿Alguien que no la conoce podría escribirla?"}, {"en": "Did your jaw stay loose?", "es": "¿Tu mandíbula se mantuvo suelta?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Oh Shenandoah, I long to hear you, away, I'm bound away, 'cross the wide Missouri.\""},
+                            "text": {"en": "\"Oh Shenandoah, I long to hear you, away, I'm bound away, 'cross the wide Missouri.\"", "es": "\"Oh Shenandoah, I long to hear you, away, I'm bound away, 'cross the wide Missouri.\""},
                             "exercise": {
                                 "tempo": 63,
                                 "notes": [
@@ -999,7 +999,7 @@
                                 ],
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúan tus notas afinadas."}
                         }
                     ]
                 }

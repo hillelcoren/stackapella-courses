@@ -2,33 +2,33 @@
     "id": "belting",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "First steps to belting"},
+    "title": {"en": "First steps to belting", "es": "Primeros pasos en el belting"},
     "units": [
         {
             "id": "belting-calls",
-            "title": {"en": "Calls from speech"},
+            "title": {"en": "Calls from speech", "es": "Del habla a la llamada"},
             "colour": 6,
             "lessons": [
                 {
                     "id": "belting-1-call",
-                    "title": {"en": "The call"},
+                    "title": {"en": "The call", "es": "La llamada"},
                     "strictness": "relaxed",
-                    "fact": {"id": "roll-yell-belt", "text": {"en": "Studying the teachers behind Broadway's belters, Christianne Roll found they built belt as a blend, always working the light voice beside it: \"a full chest voice 'yell belt' was never encouraged\"."}, "source": {"en": "Roll, The Evolution of the Female Broadway Belt Voice, Journal of Voice (2016)"}, "url": "https://www.nats.org/_Library/Science_Informed_Voice_Pedagogy_Resource/Article_Evolution_of_the_Female_Broadway_Belt_Voice-_Implications_for_Teachers_and_Singers.pdf"},
+                    "fact": {"id": "roll-yell-belt", "text": {"en": "Studying the teachers behind Broadway's belters, Christianne Roll found they built belt as a blend, always working the light voice beside it: \"a full chest voice 'yell belt' was never encouraged\".", "es": "Al estudiar a los profesores que hay detrás de las grandes voces de belting de Broadway, Christianne Roll vio que construían el belting como una mezcla, trabajando siempre la voz ligera a su lado: \"nunca se fomentaba un 'belting a gritos' con toda la voz de pecho\"."}, "source": {"en": "Roll, The Evolution of the Female Broadway Belt Voice, Journal of Voice (2016)", "es": "Roll, The Evolution of the Female Broadway Belt Voice, Journal of Voice (2016)"}, "url": "https://www.nats.org/_Library/Science_Informed_Voice_Pedagogy_Resource/Article_Evolution_of_the_Female_Broadway_Belt_Voice-_Implications_for_Teachers_and_Singers.pdf"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Belt starts as a call: the way you'd call a friend across a room. Bright and easy, never a shout."},
+                            "headline": {"en": "Belt starts as a call: the way you'd call a friend across a room. Bright and easy, never a shout.", "es": "El belting (una voz de pecho potente y brillante) empieza como una llamada: como llamarías a alguien al otro lado de una sala. Brillante y fácil, nunca un grito."},
                             "steps": [
-                                {"title": {"en": "Speak it first"}, "detail": {"en": "\"Hey!\", across a room"}},
-                                {"title": {"en": "Then sing it"}, "detail": {"en": "Two notes, falling, short"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "Speak it first", "es": "Primero, dilo"}, "detail": {"en": "\"Hey!\", across a room", "es": "\"Hey!\", a alguien al otro lado de la sala"}},
+                                {"title": {"en": "Then sing it", "es": "Luego, cántalo"}, "detail": {"en": "Two notes, falling, short", "es": "Dos notas cortas que bajan"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "echo",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice."},
+                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice.", "es": "Primero, calienta suave: \"mm\" a boca cerrada, dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -41,25 +41,25 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Say \"Hey!\" as if calling a friend across a room, then sing it on the two notes. Hear both."},
+                            "text": {"en": "Say \"Hey!\" as if calling a friend across a room, then sing it on the two notes. Hear both.", "es": "Di \"Hey!\" como si llamaras a alguien al otro lado de una sala y luego cántalo en las dos notas. Escucha las dos versiones."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
                                     "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
                                 },
                                 "questions": [
-                                    {"en": "Did the sung one sound like your spoken one?"},
-                                    {"en": "Louder than talking? Then call it softer next time."}
+                                    {"en": "Did the sung one sound like your spoken one?", "es": "¿La cantada sonó como la hablada?"},
+                                    {"en": "Louder than talking? Then call it softer next time.", "es": "¿Más fuerte que al hablar? La próxima vez, llama más suave."}
                                 ]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Hey!\" sung, three times, each followed by a light \"oo\" stepping down."},
+                            "text": {"en": "\"Hey!\" sung, three times, each followed by a light \"oo\" stepping down.", "es": "\"Hey!\" cantado, tres veces, cada uno seguido de un \"oo\" (una u) ligero que baja por grados."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -85,11 +85,11 @@
                                 "keep": "belting.first-call",
                                 "generous": true
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now in a round from 1609: \"Hey, ho, nobody home\", with another voice coming in on your \"Hey, ho\"."},
+                            "text": {"en": "Now in a round from 1609: \"Hey, ho, nobody home\", with another voice coming in on your \"Hey, ho\".", "es": "Ahora en un canon de 1609: \"Hey, ho, nobody home\", con otra voz que entra mientras cantas \"Hey, ho\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -117,29 +117,29 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 },
                 {
                     "id": "belting-1-onset",
-                    "title": {"en": "Start on h, y, n"},
-                    "fact": {"id": "glottal-stop-okina", "text": {"en": "That click before a bare vowel is a glottal stop, the catch in the middle of \"uh-oh\". In Hawaiian it's a letter, the ʻokina: it tells koʻu, \"my\", from kou, \"your\"."}, "source": {"en": "Wikipedia, Glottal stop; Hawaiian alphabet"}, "url": "https://en.wikipedia.org/wiki/Glottal_stop"},
+                    "title": {"en": "Start on h, y, n", "es": "Empieza con h, y, n"},
+                    "fact": {"id": "glottal-stop-okina", "text": {"en": "That click before a bare vowel is a glottal stop, the catch in the middle of \"uh-oh\". In Hawaiian it's a letter, the ʻokina: it tells koʻu, \"my\", from kou, \"your\".", "es": "Ese golpe antes de una vocal sola es una oclusiva glotal, el corte en mitad de \"uh-oh\". En hawaiano es una letra, el ʻokina: distingue koʻu, \"mi\", de kou, \"tu\"."}, "source": {"en": "Wikipedia, Glottal stop; Hawaiian alphabet", "es": "Wikipedia, Glottal stop; Hawaiian alphabet"}, "url": "https://en.wikipedia.org/wiki/Glottal_stop"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Every call starts on a sound that eases the voice in: h, y, n, m or w. Never a vowel on its own, which can start with a click."},
+                            "headline": {"en": "Every call starts on a sound that eases the voice in: h, y, n, m or w. Never a vowel on its own, which can start with a click.", "es": "Cada llamada empieza con un sonido que deja entrar la voz con suavidad: h (aspirada, como una j muy suave), y, n, m o w. Nunca con una vocal sola, que puede empezar con un golpe."},
                             "steps": [
-                                {"title": {"en": "Easy starts"}, "detail": {"en": "hey, yeah, no, my, whoa"}},
-                                {"title": {"en": "No click"}, "detail": {"en": "The sound slides in"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "Easy starts", "es": "Ataques suaves"}, "detail": {"en": "hey, yeah, no, my, whoa", "es": "hey, yeah, no, my, whoa"}},
+                                {"title": {"en": "No click", "es": "Sin golpe"}, "detail": {"en": "The sound slides in", "es": "La voz entra suave"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice."},
+                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice.", "es": "Primero, calienta suave: \"mm\" a boca cerrada, dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -152,11 +152,11 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Hey, yeah, no, my\": hear them back."},
+                            "text": {"en": "\"Hey, yeah, no, my\": hear them back.", "es": "\"Hey, yeah, no, my\": luego escúchate."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -167,12 +167,12 @@
                                         {"beat": 6, "length": 1, "step": 0, "lyric": "my"}
                                     ]
                                 },
-                                "questions": [{"en": "Did any call start with a click?"}]
+                                "questions": [{"en": "Did any call start with a click?", "es": "¿Alguna llamada empezó con un golpe?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Calls in pairs, each pair followed by a light \"oo\"."},
+                            "text": {"en": "Calls in pairs, each pair followed by a light \"oo\".", "es": "Llamadas por pares, cada par seguido de un \"oo\" (una u) ligero."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -196,29 +196,29 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 },
                 {
                     "id": "belting-1-easy",
-                    "title": {"en": "As easy as talking"},
-                    "fact": {"id": "popeil-perceived-volume", "text": {"en": "Brightness, ring and a little nasality make a voice sound bigger to listeners without being any louder: one reason a bright call carries across a room."}, "source": {"en": "Popeil, NATS Chat handout (2017)"}, "url": "https://www.nats.org/_Library/NATS_Chat_2014_15/NATS_Chat_LisaPopeil_handout_April_9_2017.pdf"},
+                    "title": {"en": "As easy as talking", "es": "Tan fácil como hablar"},
+                    "fact": {"id": "popeil-perceived-volume", "text": {"en": "Brightness, ring and a little nasality make a voice sound bigger to listeners without being any louder: one reason a bright call carries across a room.", "es": "El brillo, la resonancia y un poco de nasalidad hacen que una voz le parezca más grande a quien escucha, sin sonar más fuerte: una de las razones por las que una llamada brillante cruza toda una sala."}, "source": {"en": "Popeil, NATS Chat handout (2017)", "es": "Popeil, NATS Chat handout (2017)"}, "url": "https://www.nats.org/_Library/NATS_Chat_2014_15/NATS_Chat_LisaPopeil_handout_April_9_2017.pdf"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A bright call carries without being loud: brightness does the work, so your voice doesn't have to."},
+                            "headline": {"en": "A bright call carries without being loud: brightness does the work, so your voice doesn't have to.", "es": "Una llamada brillante llega lejos sin ser fuerte: el brillo hace el trabajo y tu voz no tiene que esforzarse."},
                             "steps": [
-                                {"title": {"en": "Short"}, "detail": {"en": "A beat, then it falls"}},
-                                {"title": {"en": "Easy"}, "detail": {"en": "Could you do it all day?"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "Short", "es": "Corta"}, "detail": {"en": "A beat, then it falls", "es": "Un tiempo y luego cae"}},
+                                {"title": {"en": "Easy", "es": "Fácil"}, "detail": {"en": "Could you do it all day?", "es": "¿Podrías hacerlo todo el día?"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle \"oo\" stepping down, twice."},
+                            "text": {"en": "Warm up light first: a gentle \"oo\" stepping down, twice.", "es": "Primero, calienta suave: un \"oo\" (una u) tranquilo que baja por grados, dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -233,16 +233,16 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada una y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which call is short and falls at the end, like speech?"},
+                                        "prompt": {"en": "Which call is short and falls at the end, like speech?", "es": "¿Qué llamada es corta y cae al final, como al hablar?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
@@ -252,10 +252,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The other holds its top note: that's where calls turn into pushing."}
+                                        "why": {"en": "The other holds its top note: that's where calls turn into pushing.", "es": "La otra sostiene su nota más aguda: ahí es donde una llamada empieza a forzar la voz."}
                                     },
                                     {
-                                        "prompt": {"en": "Which call is short and falls at the end, like speech?"},
+                                        "prompt": {"en": "Which call is short and falls at the end, like speech?", "es": "¿Qué llamada es corta y cae al final, como al hablar?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 3, "step": 2, "lyric": "hey!"}]
@@ -265,10 +265,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The other holds its top note: that's where calls turn into pushing."}
+                                        "why": {"en": "The other holds its top note: that's where calls turn into pushing.", "es": "La otra sostiene su nota más aguda: ahí es donde una llamada empieza a forzar la voz."}
                                     },
                                     {
-                                        "prompt": {"en": "Which call is short and falls at the end, like speech?"},
+                                        "prompt": {"en": "Which call is short and falls at the end, like speech?", "es": "¿Qué llamada es corta y cae al final, como al hablar?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
@@ -278,26 +278,26 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The other holds its top note: that's where calls turn into pushing."}
+                                        "why": {"en": "The other holds its top note: that's where calls turn into pushing.", "es": "La otra sostiene su nota más aguda: ahí es donde una llamada empieza a forzar la voz."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Hey!\" once more, then hear it."},
+                            "text": {"en": "\"Hey!\" once more, then hear it.", "es": "\"Hey!\" una vez más, y luego escúchalo."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
                                     "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
                                 },
-                                "questions": [{"en": "Louder than talking? Then go lighter: a call, not a shout."}]
+                                "questions": [{"en": "Louder than talking? Then go lighter: a call, not a shout.", "es": "¿Más fuerte que al hablar? Entonces, más ligero: una llamada, no un grito."}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Hey, yeah!\" calls, each pair with its light \"oo\"."},
+                            "text": {"en": "\"Hey, yeah!\" calls, each pair with its light \"oo\".", "es": "Llamadas \"Hey, yeah!\", cada par con su \"oo\" ligero."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -321,29 +321,29 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 },
                 {
                     "id": "belting-1-challenge",
-                    "title": {"en": "Calls"},
+                    "title": {"en": "Calls", "es": "Llamadas"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's call beside today's, then the unit's calls in a row."},
+                            "headline": {"en": "Lesson 1's call beside today's, then the unit's calls in a row.", "es": "La llamada de la lección 1 junto a la de hoy, y luego las llamadas de la unidad, seguidas."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Which sounds easier?"}},
-                                {"title": {"en": "Calls in a row"}, "detail": {"en": "Each pair with its light tail"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Which sounds easier?", "es": "¿Cuál suena más fácil?"}},
+                                {"title": {"en": "Calls in a row", "es": "Llamadas seguidas"}, "detail": {"en": "Each pair with its light tail", "es": "Cada par con su final ligero"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice."},
+                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice.", "es": "Primero, calienta suave: \"mm\" a boca cerrada, dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -356,11 +356,11 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's call."},
+                            "text": {"en": "Lesson 1's call.", "es": "La llamada de la lección 1."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -385,22 +385,22 @@
                                 "retries": 3,
                                 "thenAndNow": "belting.first-call"
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Hear both back."},
+                            "text": {"en": "Hear both back.", "es": "Escucha las dos tomas."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
                                     "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
                                 },
-                                "questions": [{"en": "Which sounded easier, then or now?"}]
+                                "questions": [{"en": "Which sounded easier, then or now?", "es": "¿Cuál sonó más fácil, antes o ahora?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Hey, yeah\" and \"no, my\", each pair with its light \"oo\"."},
+                            "text": {"en": "\"Hey, yeah\" and \"no, my\", each pair with its light \"oo\".", "es": "\"Hey, yeah\" y \"no, my\", cada par con su \"oo\" (una u) ligero."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -419,7 +419,7 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 }
@@ -427,28 +427,28 @@
         },
         {
             "id": "belting-phrases",
-            "title": {"en": "Say it, then sing it"},
+            "title": {"en": "Say it, then sing it", "es": "Dilo y luego cántalo"},
             "colour": 6,
             "lessons": [
                 {
                     "id": "belting-2-phrase",
-                    "title": {"en": "No you don't"},
-                    "fact": {"id": "roll-no-you-dont", "text": {"en": "One of the master teachers in Roll's study had singers call a phrase like \"No you don't\" in bright, forward speech, and then sing it the same way."}, "source": {"en": "Roll, Journal of Voice (2016)"}, "url": "https://www.nats.org/_Library/Science_Informed_Voice_Pedagogy_Resource/Article_Evolution_of_the_Female_Broadway_Belt_Voice-_Implications_for_Teachers_and_Singers.pdf"},
+                    "title": {"en": "No you don't", "es": "No you don't"},
+                    "fact": {"id": "roll-no-you-dont", "text": {"en": "One of the master teachers in Roll's study had singers call a phrase like \"No you don't\" in bright, forward speech, and then sing it the same way.", "es": "Uno de los grandes maestros del estudio de Roll pedía a sus cantantes que lanzaran una frase como \"No you don't\" con un habla brillante y colocada adelante, y que luego la cantaran igual."}, "source": {"en": "Roll, Journal of Voice (2016)", "es": "Roll, Journal of Voice (2016)"}, "url": "https://www.nats.org/_Library/Science_Informed_Voice_Pedagogy_Resource/Article_Evolution_of_the_Female_Broadway_Belt_Voice-_Implications_for_Teachers_and_Singers.pdf"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now a phrase: \"No you don't!\", teasing a friend across the room. Say it, then sing it the same way."},
+                            "headline": {"en": "Now a phrase: \"No you don't!\", teasing a friend across the room. Say it, then sing it the same way.", "es": "Ahora una frase: \"No you don't!\" (algo así como \"¡ni lo sueñes!\"), en broma, a alguien al otro lado de la sala. Dila y luego cántala igual."},
                             "steps": [
-                                {"title": {"en": "Speech shape"}, "detail": {"en": "Quick, then falling"}},
-                                {"title": {"en": "Same voice"}, "detail": {"en": "The sung one sounds like the spoken one"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "Speech shape", "es": "Como al hablar"}, "detail": {"en": "Quick, then falling", "es": "Rápida y luego cae"}},
+                                {"title": {"en": "Same voice", "es": "La misma voz"}, "detail": {"en": "The sung one sounds like the spoken one", "es": "La cantada suena como la hablada"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice."},
+                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice.", "es": "Primero, calienta suave: \"mm\" a boca cerrada, dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -461,16 +461,16 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada una y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one sounds like speech?"},
+                                        "prompt": {"en": "Which one sounds like speech?", "es": "¿Cuál suena como al hablar?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -488,10 +488,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Speech is quick, then falls on the last word; the other plods on one note."}
+                                        "why": {"en": "Speech is quick, then falls on the last word; the other plods on one note.", "es": "Al hablar, la frase va rápida y cae en la última palabra; la otra se arrastra en una sola nota."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one sounds like speech?"},
+                                        "prompt": {"en": "Which one sounds like speech?", "es": "¿Cuál suena como al hablar?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -509,10 +509,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "Speech is quick, then falls on the last word; the other plods on one note."}
+                                        "why": {"en": "Speech is quick, then falls on the last word; the other plods on one note.", "es": "Al hablar, la frase va rápida y cae en la última palabra; la otra se arrastra en una sola nota."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one sounds like speech?"},
+                                        "prompt": {"en": "Which one sounds like speech?", "es": "¿Cuál suena como al hablar?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -530,15 +530,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Speech is quick, then falls on the last word; the other plods on one note."}
+                                        "why": {"en": "Speech is quick, then falls on the last word; the other plods on one note.", "es": "Al hablar, la frase va rápida y cae en la última palabra; la otra se arrastra en una sola nota."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Say \"No you don't!\", then sing it. Hear both."},
+                            "text": {"en": "Say \"No you don't!\", then sing it. Hear both.", "es": "Di \"No you don't!\" y luego cántala. Escucha las dos versiones."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -548,12 +548,12 @@
                                         {"beat": 1, "length": 1.5, "step": -2, "lyric": "don't!"}
                                     ]
                                 },
-                                "questions": [{"en": "Did the sung one keep your speaking voice?"}]
+                                "questions": [{"en": "Did the sung one keep your speaking voice?", "es": "¿La cantada mantuvo tu voz hablada?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"No you don't!\" sung, three times, each followed by a hum."},
+                            "text": {"en": "\"No you don't!\" sung, three times, each followed by a hum.", "es": "\"No you don't!\", cantada tres veces, cada una seguida de una nota a boca cerrada."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -577,29 +577,29 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 },
                 {
                     "id": "belting-2-come",
-                    "title": {"en": "Hey, come here"},
-                    "fact": {"id": "calling-contour-sung-speech", "text": {"en": "Linguists call a call's falling tune the calling contour: two level notes, stepping down. A 2013 lab study of such calls, billed as the first, found results suggesting they're a kind of \"sung speech\"."}, "source": {"en": "Day-O'Connell, Music Perception (2013)"}, "url": "https://doi.org/10.1525/mp.2013.30.5.441"},
+                    "title": {"en": "Hey, come here", "es": "Hey, come here"},
+                    "fact": {"id": "calling-contour-sung-speech", "text": {"en": "Linguists call a call's falling tune the calling contour: two level notes, stepping down. A 2013 lab study of such calls, billed as the first, found results suggesting they're a kind of \"sung speech\".", "es": "Los lingüistas llaman a la melodía que cae en una llamada \"contorno de llamada\": dos notas fijas, la segunda más baja. Un estudio de laboratorio de 2013 sobre estas llamadas, presentado como el primero, halló indicios de que son una especie de \"habla cantada\"."}, "source": {"en": "Day-O'Connell, Music Perception (2013)", "es": "Day-O'Connell, Music Perception (2013)"}, "url": "https://doi.org/10.1525/mp.2013.30.5.441"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Two- and three-word calls, each falling at the end, the way speech does."},
+                            "headline": {"en": "Two- and three-word calls, each falling at the end, the way speech does.", "es": "Llamadas de dos y tres palabras, que caen al final, como al hablar."},
                             "steps": [
-                                {"title": {"en": "Hey, come here!"}, "detail": {"en": "Three notes, down"}},
-                                {"title": {"en": "Hello! Whoa there!"}, "detail": {"en": "Two notes, down"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "Hey, come here!", "es": "Hey, come here!"}, "detail": {"en": "Three notes, down", "es": "Tres notas, hacia abajo"}},
+                                {"title": {"en": "Hello! Whoa there!", "es": "Hello! Whoa there!"}, "detail": {"en": "Two notes, down", "es": "Dos notas, hacia abajo"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice."},
+                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice.", "es": "Primero, calienta suave: \"mm\" a boca cerrada, dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -612,11 +612,11 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Hey, come here!\": hear it back."},
+                            "text": {"en": "\"Hey, come here!\": hear it back.", "es": "\"Hey, come here!\": luego escúchate."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -626,12 +626,12 @@
                                         {"beat": 1, "length": 1, "step": -1, "lyric": "here!"}
                                     ]
                                 },
-                                "questions": [{"en": "Did it fall at the end, like speech?"}]
+                                "questions": [{"en": "Did it fall at the end, like speech?", "es": "¿Cayó al final, como al hablar?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Three calls, each followed by a hum."},
+                            "text": {"en": "Three calls, each followed by a hum.", "es": "Tres llamadas, cada una seguida de una nota a boca cerrada."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -653,29 +653,29 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 },
                 {
                     "id": "belting-2-twang",
-                    "title": {"en": "Nyeah"},
-                    "fact": {"id": "twang-not-nasal", "text": {"en": "Twang isn't the same as nasal. In a small MRI study, two singers made a bright twang with the passage from the throat to the nose closed off."}, "source": {"en": "Perta, Bae and Obert, Logoped. Phoniatr. Vocol. (2021)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/32396757/"},
+                    "title": {"en": "Nyeah", "es": "Nyeah"},
+                    "fact": {"id": "twang-not-nasal", "text": {"en": "Twang isn't the same as nasal. In a small MRI study, two singers made a bright twang with the passage from the throat to the nose closed off.", "es": "El twang (ese brillo metálico de la voz) no es lo mismo que la voz nasal. En un pequeño estudio con resonancia magnética, dos cantantes lograron un twang brillante con el paso de la garganta a la nariz cerrado."}, "source": {"en": "Perta, Bae and Obert, Logoped. Phoniatr. Vocol. (2021)", "es": "Perta, Bae y Obert, Logoped. Phoniatr. Vocol. (2021)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/32396757/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A small, silly \"nyeah\", like a kid teasing: it brightens the sound with no effort at all. If it pinches, drop it and go on."},
+                            "headline": {"en": "A small, silly \"nyeah\", like a kid teasing: it brightens the sound with no effort at all. If it pinches, drop it and go on.", "es": "Un \"nyeah\" (casi \"ñea\") pequeño y en broma, como un niño que se burla: da brillo al sonido sin ningún esfuerzo. Si aprieta, déjalo y sigue."},
                             "steps": [
-                                {"title": {"en": "Small and silly"}, "detail": {"en": "Low, short, spoken first"}},
-                                {"title": {"en": "Then \"yeah\""}, "detail": {"en": "The same brightness, without the nasal"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "Small and silly", "es": "Pequeño y en broma"}, "detail": {"en": "Low, short, spoken first", "es": "Grave, corto, primero hablado"}},
+                                {"title": {"en": "Then \"yeah\"", "es": "Luego \"yeah\""}, "detail": {"en": "The same brightness, without the nasal", "es": "El mismo brillo, sin lo nasal"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice."},
+                            "text": {"en": "Warm up light first: a gentle hum on \"mm\", twice.", "es": "Primero, calienta suave: \"mm\" a boca cerrada, dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -688,11 +688,11 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Say \"nyeah-nyeah\", then sing it. Hear it back."},
+                            "text": {"en": "Say \"nyeah-nyeah\", then sing it. Hear it back.", "es": "Di \"nyeah-nyeah\" y luego cántalo. Escúchate."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -701,12 +701,12 @@
                                         {"beat": 1, "length": 1, "step": -2, "lyric": "nyeah"}
                                     ]
                                 },
-                                "questions": [{"en": "Any pinch or squeeze? Then leave it: this one is optional."}]
+                                "questions": [{"en": "Any pinch or squeeze? Then leave it: this one is optional.", "es": "¿Algo aprieta o se cierra? Entonces déjalo: este ejercicio es opcional."}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Nyeah\", then \"yeah\" from it, each pair with a hum."},
+                            "text": {"en": "\"Nyeah\", then \"yeah\" from it, each pair with a hum.", "es": "\"Nyeah\" y luego \"yeah\" a partir de él, cada par con una nota a boca cerrada."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -727,29 +727,29 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 },
                 {
                     "id": "belting-2-challenge",
-                    "title": {"en": "Say it, sing it"},
+                    "title": {"en": "Say it, sing it", "es": "Dilo, cántalo"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The unit's phrases, said then sung."},
+                            "headline": {"en": "The unit's phrases, said then sung.", "es": "Las frases de la unidad, dichas y luego cantadas."},
                             "steps": [
-                                {"title": {"en": "No you don't!"}, "detail": {"en": "Teasing, across a room"}},
-                                {"title": {"en": "Hey, come here!"}, "detail": {"en": "Falling at the end"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "No you don't!", "es": "No you don't!"}, "detail": {"en": "Teasing, across a room", "es": "En broma, al otro lado de la sala"}},
+                                {"title": {"en": "Hey, come here!", "es": "Hey, come here!"}, "detail": {"en": "Falling at the end", "es": "Cae al final"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice."},
+                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice.", "es": "Primero, calienta suave: una vibración de labios tranquila (o \"mm\" a boca cerrada), dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -766,22 +766,22 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Say each phrase once, then sing \"hey!\". Hear it."},
+                            "text": {"en": "Say each phrase once, then sing \"hey!\". Hear it.", "es": "Di cada frase una vez y luego canta \"hey!\". Escúchalo."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
                                     "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
                                 },
-                                "questions": [{"en": "Did the sung voice match the spoken one?"}]
+                                "questions": [{"en": "Did the sung voice match the spoken one?", "es": "¿La voz cantada coincidió con la hablada?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"No you don't!\", \"Hey, come here!\", \"Whoa there!\", each with a hum."},
+                            "text": {"en": "\"No you don't!\", \"Hey, come here!\", \"Whoa there!\", each with a hum.", "es": "\"No you don't!\", \"Hey, come here!\", \"Whoa there!\", cada una con una nota a boca cerrada."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -804,7 +804,7 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 }
@@ -812,28 +812,28 @@
         },
         {
             "id": "belting-holds",
-            "title": {"en": "Short holds, and letting go"},
+            "title": {"en": "Short holds, and letting go", "es": "Sostener poco y soltar"},
             "colour": 6,
             "lessons": [
                 {
                     "id": "belting-3-hold",
-                    "title": {"en": "A short hold"},
-                    "fact": {"id": "voice-recovery-hours", "text": {"en": "After two hours of reading aloud, voices in a University of Utah study had made 90% of their recovery within 4 to 6 hours, and recovered fully in 12 to 18."}, "source": {"en": "Hunter and Titze, Annals of Otology, Rhinology and Laryngology (2009)"}, "url": "https://iro.uiowa.edu/esploro/outputs/journalArticle/Quantifying-Vocal-Fatigue-Recovery-Dynamic-Vocal/9984446403802771"},
+                    "title": {"en": "A short hold", "es": "Una nota breve"},
+                    "fact": {"id": "voice-recovery-hours", "text": {"en": "After two hours of reading aloud, voices in a University of Utah study had made 90% of their recovery within 4 to 6 hours, and recovered fully in 12 to 18.", "es": "Tras dos horas leyendo en voz alta, las voces de un estudio de la Universidad de Utah habían hecho el 90 por ciento de su recuperación entre 4 y 6 horas después, y se recuperaron del todo entre 12 y 18 horas después."}, "source": {"en": "Hunter and Titze, Annals of Otology, Rhinology and Laryngology (2009)", "es": "Hunter y Titze, Annals of Otology, Rhinology and Laryngology (2009)"}, "url": "https://iro.uiowa.edu/esploro/outputs/journalArticle/Quantifying-Vocal-Fatigue-Recovery-Dynamic-Vocal/9984446403802771"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A call held two beats, steady and easy, then let go into a light \"hoo\" above."},
+                            "headline": {"en": "A call held two beats, steady and easy, then let go into a light \"hoo\" above.", "es": "Una llamada sostenida dos tiempos, estable y fácil, que luego se suelta en un \"hoo\" (una u con aire, una j muy suave) ligero, más agudo."},
                             "steps": [
-                                {"title": {"en": "Two beats"}, "detail": {"en": "Never longer"}},
-                                {"title": {"en": "Low first"}, "detail": {"en": "Then the middle, then a little higher"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "Two beats", "es": "Dos tiempos"}, "detail": {"en": "Never longer", "es": "Ni uno más"}},
+                                {"title": {"en": "Low first", "es": "Primero, grave"}, "detail": {"en": "Then the middle, then a little higher", "es": "Luego en la zona media y luego un poco más agudo"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle \"hoo\", twice."},
+                            "text": {"en": "Warm up light first: a gentle \"hoo\", twice.", "es": "Primero, calienta suave: un \"hoo\" (una u con aire, una j muy suave) tranquilo, dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -844,16 +844,16 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada una y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which hold stayed short?"},
+                                        "prompt": {"en": "Which hold stayed short?", "es": "¿Cuál duró poco?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "hey"}]
@@ -863,10 +863,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Short holds are easy; long ones are where pressing creeps in."}
+                                        "why": {"en": "Short holds are easy; long ones are where pressing creeps in.", "es": "Sostener poco es fácil; en las notas largas es donde se cuela la presión."}
                                     },
                                     {
-                                        "prompt": {"en": "Which hold stayed short?"},
+                                        "prompt": {"en": "Which hold stayed short?", "es": "¿Cuál duró poco?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 4, "step": 0, "lyric": "hey"}]
@@ -876,10 +876,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "Short holds are easy; long ones are where pressing creeps in."}
+                                        "why": {"en": "Short holds are easy; long ones are where pressing creeps in.", "es": "Sostener poco es fácil; en las notas largas es donde se cuela la presión."}
                                     },
                                     {
-                                        "prompt": {"en": "Which hold stayed short?"},
+                                        "prompt": {"en": "Which hold stayed short?", "es": "¿Cuál duró poco?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "hey"}]
@@ -889,26 +889,26 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Short holds are easy; long ones are where pressing creeps in."}
+                                        "why": {"en": "Short holds are easy; long ones are where pressing creeps in.", "es": "Sostener poco es fácil; en las notas largas es donde se cuela la presión."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Hey\" held two beats: hear it."},
+                            "text": {"en": "\"Hey\" held two beats: hear it.", "es": "\"Hey\" sostenido dos tiempos: escúchalo."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
                                     "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "hey"}]
                                 },
-                                "questions": [{"en": "Could you do that ten more times, easily? If not, rest."}]
+                                "questions": [{"en": "Could you do that ten more times, easily? If not, rest.", "es": "¿Podrías hacerlo diez veces más, sin esfuerzo? Si no, descansa."}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Hey\" held at three heights, low first, each followed by a light \"hoo\"."},
+                            "text": {"en": "\"Hey\" held at three heights, low first, each followed by a light \"hoo\".", "es": "\"Hey\" sostenido a tres alturas, empezando por la más grave, cada una seguida de un \"hoo\" ligero."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -925,29 +925,29 @@
                                 "retries": 3,
                                 "generous": true
                             },
-                            "measures": {"en": "Scored on each short hold staying steady on its pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each short hold staying steady on its pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa que cada nota corta se mantenga estable en su altura. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 },
                 {
                     "id": "belting-3-colours",
-                    "title": {"en": "Same note, two colours"},
-                    "fact": {"id": "belt-legit-same-notes", "text": {"en": "On the same notes, music theatre singers' \"chesty belt\" had more energy above 1,000 hertz than their \"legit\" voice, and their vocal folds stayed closed for more of each vibration."}, "source": {"en": "Bourne and Garnier, JASA (2012)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/22352528/"},
+                    "title": {"en": "Same note, two colours", "es": "Una nota, dos colores"},
+                    "fact": {"id": "belt-legit-same-notes", "text": {"en": "On the same notes, music theatre singers' \"chesty belt\" had more energy above 1,000 hertz than their \"legit\" voice, and their vocal folds stayed closed for more of each vibration.", "es": "Con las mismas notas, el \"chesty belt\" (belting de pecho) de cantantes de teatro musical tenía más energía por encima de 1000 hercios que su voz \"legit\" (de corte clásico), y sus pliegues vocales se mantenían cerrados durante una parte mayor de cada vibración."}, "source": {"en": "Bourne and Garnier, JASA (2012)", "es": "Bourne y Garnier, JASA (2012)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/22352528/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The same note two ways: \"hey\" bright, then \"hoo\" light. Singers who belt well always keep the light voice beside it."},
+                            "headline": {"en": "The same note two ways: \"hey\" bright, then \"hoo\" light. Singers who belt well always keep the light voice beside it.", "es": "La misma nota de dos maneras: \"hey\" brillante y luego \"hoo\" (una u con aire, una j muy suave) ligero. Quien canta bien en belting conserva siempre la voz ligera a su lado."},
                             "steps": [
-                                {"title": {"en": "Bright"}, "detail": {"en": "\"hey\", like a call"}},
-                                {"title": {"en": "Light"}, "detail": {"en": "\"hoo\", like an owl"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "Bright", "es": "Brillante"}, "detail": {"en": "\"hey\", like a call", "es": "\"hey\", como una llamada"}},
+                                {"title": {"en": "Light", "es": "Ligera"}, "detail": {"en": "\"hoo\", like an owl", "es": "\"hoo\", como un búho"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice."},
+                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice.", "es": "Primero, calienta suave: una vibración de labios tranquila (o \"mm\" a boca cerrada), dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -964,11 +964,11 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Hey\", then \"hoo\" on the same note: hear them."},
+                            "text": {"en": "\"Hey\", then \"hoo\" on the same note: hear them.", "es": "\"Hey\" y luego \"hoo\" en la misma nota: escúchalos."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -977,12 +977,12 @@
                                         {"beat": 2, "length": 1, "step": 0, "lyric": "hoo"}
                                     ]
                                 },
-                                "questions": [{"en": "Did the \"hoo\" stay light?"}]
+                                "questions": [{"en": "Did the \"hoo\" stay light?", "es": "¿El \"hoo\" se mantuvo ligero?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Bright, then light, on three notes."},
+                            "text": {"en": "Bright, then light, on three notes.", "es": "Brillante y luego ligero, en tres notas."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -997,29 +997,29 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 },
                 {
                     "id": "belting-3-lighter",
-                    "title": {"en": "Lighter higher"},
-                    "fact": {"id": "titze-belt-top", "text": {"en": "The highest belt note for women is usually around C5, Ingo Titze explains: the point where the voice can no longer keep its bright resonance above the note, and it flips."}, "source": {"en": "Titze, Belting and a High Larynx Position, Journal of Singing (2007)"}, "url": "https://www.nats.org/_Library/Science_Informed_Voice_Pedagogy_Resource/Article_Titze_Belting_and_a_High_Larynx_JOS-063-5-2007-557_1_.pdf"},
+                    "title": {"en": "Lighter higher", "es": "Arriba, más ligero"},
+                    "fact": {"id": "titze-belt-top", "text": {"en": "The highest belt note for women is usually around C5, Ingo Titze explains: the point where the voice can no longer keep its bright resonance above the note, and it flips.", "es": "La nota más aguda del belting en las mujeres suele rondar el Do5, explica Ingo Titze: el punto en que la voz ya no puede mantener su resonancia brillante por encima de la nota, y salta de registro."}, "source": {"en": "Titze, Belting and a High Larynx Position, Journal of Singing (2007)", "es": "Titze, Belting and a High Larynx Position, Journal of Singing (2007)"}, "url": "https://www.nats.org/_Library/Science_Informed_Voice_Pedagogy_Resource/Article_Titze_Belting_and_a_High_Larynx_JOS-063-5-2007-557_1_.pdf"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "When a note won't stay bright and easy, let it go lighter, or let it flip. That's your voice telling you where today's top is."},
+                            "headline": {"en": "When a note won't stay bright and easy, let it go lighter, or let it flip. That's your voice telling you where today's top is.", "es": "Cuando una nota no se mantiene brillante y fácil, déjala más ligera, o deja que salte de registro. Es tu voz diciéndote dónde está hoy tu techo."},
                             "steps": [
-                                {"title": {"en": "The call"}, "detail": {"en": "\"hey\", in the middle"}},
-                                {"title": {"en": "Higher, light"}, "detail": {"en": "\"hoo\", never the call word up there"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "The call", "es": "La llamada"}, "detail": {"en": "\"hey\", in the middle", "es": "\"hey\", en la zona media"}},
+                                {"title": {"en": "Higher, light", "es": "Más agudo, ligero"}, "detail": {"en": "\"hoo\", never the call word up there", "es": "\"hoo\", nunca la palabra de la llamada ahí arriba"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle \"hoo\", twice."},
+                            "text": {"en": "Warm up light first: a gentle \"hoo\", twice.", "es": "Primero, calienta suave: un \"hoo\" (una u con aire, una j muy suave) tranquilo, dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1030,11 +1030,11 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Hey\", then \"hoo\" higher: hear them."},
+                            "text": {"en": "\"Hey\", then \"hoo\" higher: hear them.", "es": "\"Hey\" y luego \"hoo\" más agudo: escúchalos."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -1043,12 +1043,12 @@
                                         {"beat": 2, "length": 1.5, "step": 4, "lyric": "hoo"}
                                     ]
                                 },
-                                "questions": [{"en": "Did the high one stay light, or did it get heavy?"}]
+                                "questions": [{"en": "Did the high one stay light, or did it get heavy?", "es": "¿La nota aguda se mantuvo ligera, o se volvió pesada?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "A call, then a light \"hoo\" higher, three times. A flip on the \"hoo\" is fine."},
+                            "text": {"en": "A call, then a light \"hoo\" higher, three times. A flip on the \"hoo\" is fine.", "es": "Una llamada y luego un \"hoo\" ligero más agudo, tres veces. Si el \"hoo\" salta de registro, no pasa nada."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1064,29 +1064,29 @@
                                 "retries": 3,
                                 "generous": true
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 },
                 {
                     "id": "belting-3-challenge",
-                    "title": {"en": "Holds and letting go"},
+                    "title": {"en": "Holds and letting go", "es": "Sostener y soltar"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Two short holds, then the light voice above, which this time ends the lesson."},
+                            "headline": {"en": "Two short holds, then the light voice above, which this time ends the lesson.", "es": "Dos notas cortas sostenidas y luego la voz ligera por encima, que esta vez cierra la lección."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's call"}},
-                                {"title": {"en": "Holds, then light"}, "detail": {"en": "The last note is the light one"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1's call", "es": "La llamada de la lección 1"}},
+                                {"title": {"en": "Holds, then light", "es": "Sostener, luego ligero"}, "detail": {"en": "The last note is the light one", "es": "La última nota es la ligera"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle \"hoo\", twice."},
+                            "text": {"en": "Warm up light first: a gentle \"hoo\", twice.", "es": "Primero, calienta suave: un \"hoo\" (una u con aire, una j muy suave) tranquilo, dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1097,11 +1097,11 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's call."},
+                            "text": {"en": "Lesson 1's call.", "es": "La llamada de la lección 1."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1126,22 +1126,22 @@
                                 "retries": 3,
                                 "thenAndNow": "belting.first-call"
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "A held \"hey\": hear it."},
+                            "text": {"en": "A held \"hey\": hear it.", "es": "Un \"hey\" sostenido: escúchalo."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
                                     "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "hey"}]
                                 },
-                                "questions": [{"en": "Which sounded easier, then or now?"}]
+                                "questions": [{"en": "Which sounded easier, then or now?", "es": "¿Cuál sonó más fácil, antes o ahora?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Hey\" and \"yeah\" held, each with its light \"hoo\" above."},
+                            "text": {"en": "\"Hey\" and \"yeah\" held, each with its light \"hoo\" above.", "es": "\"Hey\" y \"yeah\" sostenidos, cada uno con su \"hoo\" ligero por encima."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1155,7 +1155,7 @@
                                 "retries": 3,
                                 "generous": true
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 }
@@ -1163,34 +1163,34 @@
         },
         {
             "id": "belting-songs",
-            "title": {"en": "Calls in songs"},
+            "title": {"en": "Calls in songs", "es": "Llamadas en canciones"},
             "colour": 6,
             "lessons": [
                 {
                     "id": "belting-4-heyho",
-                    "title": {"en": "Hey, ho"},
+                    "title": {"en": "Hey, ho", "es": "Hey, ho"},
                     "fact": {
                         "id": "ravenscroft-three-blind-mice",
-                        "text": {"en": "Hey, Ho's editor, Thomas Ravenscroft, put out a second book of songs and rounds the same year, 1609. In it is the first known printing of Three Blind Mice."},
-                        "source": {"en": "Wikipedia, Three Blind Mice"},
+                        "text": {"en": "Hey, Ho's editor, Thomas Ravenscroft, put out a second book of songs and rounds the same year, 1609. In it is the first known printing of Three Blind Mice.", "es": "El editor de Hey, Ho, Thomas Ravenscroft, publicó ese mismo año, 1609, un segundo libro de canciones y cánones. En él aparece la primera versión impresa conocida de Three Blind Mice."},
+                        "source": {"en": "Wikipedia, Three Blind Mice", "es": "Wikipedia, Three Blind Mice"},
                         "url": "https://en.wikipedia.org/wiki/Three_Blind_Mice",
                         "distinct": ["heyho-pammelia"]
                     },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Hey, Ho, Nobody Home is a round printed in 1609: every voice sings the same tune, coming in one after another. Its \"Hey, ho\" is a call."},
+                            "headline": {"en": "Hey, Ho, Nobody Home is a round printed in 1609: every voice sings the same tune, coming in one after another. Its \"Hey, ho\" is a call.", "es": "Hey, Ho, Nobody Home es un canon publicado en 1609: todas las voces cantan la misma melodía, entrando una tras otra. Su \"Hey, ho\" es una llamada."},
                             "steps": [
-                                {"title": {"en": "Hey, ho"}, "detail": {"en": "A call, falling"}},
-                                {"title": {"en": "Nobody home"}, "detail": {"en": "Easy, down to the end"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "Hey, ho", "es": "Hey, ho"}, "detail": {"en": "A call, falling", "es": "Una llamada que cae"}},
+                                {"title": {"en": "Nobody home", "es": "Nobody home"}, "detail": {"en": "Easy, down to the end", "es": "Fácil, bajando hasta el final"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice."},
+                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice.", "es": "Primero, calienta suave: una vibración de labios tranquila (o \"mm\" a boca cerrada), dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1207,11 +1207,11 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Hey, ho\": hear it back."},
+                            "text": {"en": "\"Hey, ho\": hear it back.", "es": "\"Hey, ho\": luego escúchate."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -1220,12 +1220,12 @@
                                         {"beat": 2, "length": 2, "step": 0, "lyric": "ho"}
                                     ]
                                 },
-                                "questions": [{"en": "Did your call sit with the other voice, or stick out above it?"}]
+                                "questions": [{"en": "Did your call sit with the other voice, or stick out above it?", "es": "¿Tu llamada empastó con la otra voz, o sobresalió por encima?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Hey, ho, nobody home\", twice, with the round's next voice, then a light trill."},
+                            "text": {"en": "\"Hey, ho, nobody home\", twice, with the round's next voice, then a light trill.", "es": "\"Hey, ho, nobody home\", dos veces, con la siguiente voz del canon, y luego una vibración de labios ligera."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1254,29 +1254,29 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 },
                 {
                     "id": "belting-4-haul",
-                    "title": {"en": "Way, haul away"},
-                    "fact": {"id": "short-drag-shanty", "text": {"en": "Haul Away Joe was a short-drag shanty, for brief, hard hauls such as turning the sails: the crew gave one heave per chorus, typically on its last word."}, "source": {"en": "Wikipedia, Sea shanty"}, "url": "https://en.wikipedia.org/wiki/Sea_shanty"},
+                    "title": {"en": "Way, haul away", "es": "Way, haul away"},
+                    "fact": {"id": "short-drag-shanty", "text": {"en": "Haul Away Joe was a short-drag shanty, for brief, hard hauls such as turning the sails: the crew gave one heave per chorus, typically on its last word.", "es": "Haul Away Joe era una canción marinera (shanty) de tirón corto, para faenas breves y duras como orientar las velas: la tripulación daba un tirón por estribillo, normalmente en su última palabra."}, "source": {"en": "Wikipedia, Sea shanty", "es": "Wikipedia, Sea shanty"}, "url": "https://en.wikipedia.org/wiki/Sea_shanty"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Sailors hauled a rope to a shanty: the shantyman sang a line, and the crew answered together. Their answer is a call: \"Way, haul away\"."},
+                            "headline": {"en": "Sailors hauled a rope to a shanty: the shantyman sang a line, and the crew answered together. Their answer is a call: \"Way, haul away\".", "es": "Los marineros tiraban de un cabo al ritmo de una canción marinera (shanty): el solista cantaba un verso y la tripulación respondía a coro. Su respuesta es una llamada: \"Way, haul away\"."},
                             "steps": [
-                                {"title": {"en": "The crew's answer"}, "detail": {"en": "Bright, together, short"}},
-                                {"title": {"en": "Not a shout"}, "detail": {"en": "A crew works all day"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "The crew's answer", "es": "La respuesta"}, "detail": {"en": "Bright, together, short", "es": "Brillante, a coro, corta"}},
+                                {"title": {"en": "Not a shout", "es": "Sin gritar"}, "detail": {"en": "A crew works all day", "es": "Una tripulación trabaja todo el día"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice."},
+                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice.", "es": "Primero, calienta suave: una vibración de labios tranquila (o \"mm\" a boca cerrada), dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1293,11 +1293,11 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Way, haul away\": hear it back."},
+                            "text": {"en": "\"Way, haul away\": hear it back.", "es": "\"Way, haul away\": luego escúchate."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -1307,12 +1307,12 @@
                                         {"beat": 2, "length": 2, "step": -3, "lyric": "away"}
                                     ]
                                 },
-                                "questions": [{"en": "Did your call sit with the crew, or stick out above it?"}]
+                                "questions": [{"en": "Did your call sit with the crew, or stick out above it?", "es": "¿Tu llamada empastó con la tripulación, o sobresalió por encima?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Way, haul away\", with the crew's other voices, then a light trill."},
+                            "text": {"en": "\"Way, haul away\", with the crew's other voices, then a light trill.", "es": "\"Way, haul away\", con las otras voces de la tripulación, y luego una vibración de labios ligera."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1370,29 +1370,29 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 },
                 {
                     "id": "belting-4-wade",
-                    "title": {"en": "Wade in the water"},
-                    "fact": {"id": "troubled-water-bethesda", "text": {"en": "The theologian Howard Thurman traced the song's line \"God's gonna trouble the water\" to a story in John's Gospel: a healing pool whose water was stirred, or \"troubled\"."}, "source": {"en": "Wikipedia, Wade in the Water"}, "url": "https://en.wikipedia.org/wiki/Wade_in_the_Water"},
+                    "title": {"en": "Wade in the water", "es": "Wade in the water"},
+                    "fact": {"id": "troubled-water-bethesda", "text": {"en": "The theologian Howard Thurman traced the song's line \"God's gonna trouble the water\" to a story in John's Gospel: a healing pool whose water was stirred, or \"troubled\".", "es": "El teólogo Howard Thurman relacionó el verso \"God's gonna trouble the water\" con un relato del Evangelio de Juan: un estanque sanador cuya agua se agitaba (\"troubled\")."}, "source": {"en": "Wikipedia, Wade in the Water", "es": "Wikipedia, Wade in the Water"}, "url": "https://en.wikipedia.org/wiki/Wade_in_the_Water"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Wade in the Water is a spiritual: a sacred song made by enslaved Black Americans, printed by the Fisk Jubilee Singers. It's sung many ways, by congregations, concert choirs and gospel singers; here you borrow one line, at speaking volume, as a way in."},
+                            "headline": {"en": "Wade in the Water is a spiritual: a sacred song made by enslaved Black Americans, printed by the Fisk Jubilee Singers. It's sung many ways, by congregations, concert choirs and gospel singers; here you borrow one line, at speaking volume, as a way in.", "es": "Wade in the Water es un espiritual (spiritual): un canto sagrado creado por afroamericanos esclavizados y publicado por los Fisk Jubilee Singers. Lo cantan de muchas maneras congregaciones, coros de concierto y cantantes de gospel; aquí tomas prestado un solo verso, al volumen del habla, como puerta de entrada."},
                             "steps": [
-                                {"title": {"en": "One line"}, "detail": {"en": "\"Wade in the water,\""}},
-                                {"title": {"en": "At speaking volume"}, "detail": {"en": "A call that invites, never a shout"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "One line", "es": "Un verso"}, "detail": {"en": "\"Wade in the water,\"", "es": "\"Wade in the water,\""}},
+                                {"title": {"en": "At speaking volume", "es": "Al volumen del habla"}, "detail": {"en": "A call that invites, never a shout", "es": "Una llamada que invita, nunca un grito"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice."},
+                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice.", "es": "Primero, calienta suave: una vibración de labios tranquila (o \"mm\" a boca cerrada), dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1409,11 +1409,11 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Wade in the water\": hear it back."},
+                            "text": {"en": "\"Wade in the water\": hear it back.", "es": "\"Wade in the water\": luego escúchate."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -1425,12 +1425,12 @@
                                         {"beat": 2.5, "length": 0.5, "step": -1, "lyric": "ter,"}
                                     ]
                                 },
-                                "questions": [{"en": "Did it sound like an invitation, easy and bright?"}]
+                                "questions": [{"en": "Did it sound like an invitation, easy and bright?", "es": "¿Sonó como una invitación, fácil y brillante?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Wade in the water,\" with the other voices, then a light trill. Once is enough."},
+                            "text": {"en": "\"Wade in the water,\" with the other voices, then a light trill. Once is enough.", "es": "\"Wade in the water,\" con las otras voces, y luego una vibración de labios ligera. Una vez basta."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1483,30 +1483,30 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ],
                     "quiet": true
                 },
                 {
                     "id": "belting-4-challenge",
-                    "title": {"en": "Your calls"},
+                    "title": {"en": "Your calls", "es": "Tus llamadas"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's call beside today's, then the round, with another voice coming in."},
+                            "headline": {"en": "Lesson 1's call beside today's, then the round, with another voice coming in.", "es": "La llamada de la lección 1 junto a la de hoy, y luego el canon, con otra voz que entra."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Which is easier?"}},
-                                {"title": {"en": "The round"}, "detail": {"en": "Hey, ho, nobody home"}},
-                                {"title": {"en": "Stop if it hurts"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired."}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Which is easier?", "es": "¿Cuál es más fácil?"}},
+                                {"title": {"en": "The round", "es": "El canon"}, "detail": {"en": "Hey, ho, nobody home", "es": "Hey, ho, nobody home"}},
+                                {"title": {"en": "Stop if it hurts", "es": "Si duele, para"}, "detail": {"en": "Rest if anything tightens, scratches, tickles or hurts. Skip today if you're hoarse or tired.", "es": "Si notas tensión, carraspera, picor o dolor, para y descansa la voz. Si tienes la voz ronca o te sientes sin energía, hoy no practiques."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice."},
+                            "text": {"en": "Warm up light first: a gentle lip trill (or a hum), twice.", "es": "Primero, calienta suave: una vibración de labios tranquila (o \"mm\" a boca cerrada), dos veces."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1523,11 +1523,11 @@
                                 "keyRange": {"down": 4, "up": 0},
                                 "retries": 3
                             },
-                            "measures": {"en": "Scored on the notes on pitch: just a light start."}
+                            "measures": {"en": "Scored on the notes on pitch: just a light start.", "es": "Se puntúan las notas afinadas: es solo un comienzo suave."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's call."},
+                            "text": {"en": "Lesson 1's call.", "es": "La llamada de la lección 1."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1552,22 +1552,22 @@
                                 "retries": 3,
                                 "thenAndNow": "belting.first-call"
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Hear both back."},
+                            "text": {"en": "Hear both back.", "es": "Escucha las dos tomas."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
                                     "notes": [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
                                 },
-                                "questions": [{"en": "Which sounded easier, then or now?"}]
+                                "questions": [{"en": "Which sounded easier, then or now?", "es": "¿Cuál sonó más fácil, antes o ahora?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Hey, ho, nobody home\", with the round's next voice."},
+                            "text": {"en": "\"Hey, ho, nobody home\", with the round's next voice.", "es": "\"Hey, ho, nobody home\", con la siguiente voz del canon."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1596,7 +1596,7 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain."}
+                            "measures": {"en": "Scored on each call and its light tail on pitch. Pitch only: the app can't hear brightness, loudness or strain.", "es": "Se puntúa la afinación de cada llamada y de su final ligero. Solo la afinación: la app no oye el brillo, el volumen ni la tensión."}
                         }
                     ]
                 }
