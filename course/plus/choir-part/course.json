@@ -2,7 +2,7 @@
     "id": "choir-part",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Learn your part for rehearsal"},
+    "title": {"en": "Learn your part for rehearsal", "es": "Aprende tu voz para el ensayo"},
     "parts": {
         "template": "o-come-all-ye-faithful",
         "choose": ["soprano", "alto", "tenor", "bass"],
@@ -11,22 +11,22 @@
     "units": [
         {
             "id": "chp-1",
-            "title": {"en": "Your line in the sound"},
+            "title": {"en": "Your line in the sound", "es": "Tu voz en el conjunto"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "chp-1-hear",
-                    "title": {"en": "Hear your line"},
-                    "fact": {"id": "self-to-other-ratio", "text": {"en": "In a 1999 study with a synthesized choir, each singer liked their own voice at a narrow level, typically within 2 decibels either way, but levels ranged from about even to 15 decibels louder."}, "source": {"en": "Ternström, JASA (1999)"}, "url": "https://europepmc.org/article/MED/10380674"},
+                    "title": {"en": "Hear your line", "es": "Escucha tu parte"},
+                    "fact": {"id": "self-to-other-ratio", "text": {"en": "In a 1999 study with a synthesized choir, each singer liked their own voice at a narrow level, typically within 2 decibels either way, but levels ranged from about even to 15 decibels louder.", "es": "En un estudio de 1999 con un coro sintetizado, cada cantante quería oír su propia voz a un nivel muy concreto, casi siempre con un margen de 2 decibelios arriba o abajo, pero ese nivel variaba mucho de unos a otros: desde igual que el resto hasta 15 decibelios más fuerte."}, "source": {"en": "Ternström, JASA (1999)", "es": "Ternström, JASA (1999)"}, "url": "https://europepmc.org/article/MED/10380674"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Learn a choir part the way it sticks: hear it in the whole sound, then on its own, then sing it with the others."},
+                            "headline": {"en": "Learn a choir part the way it sticks: hear it in the whole sound, then on its own, then sing it with the others.", "es": "Aprende una voz de coro para que se quede: escúchala en el conjunto, luego sola, y después cántala con las demás."},
                             "steps": [
-                                {"title": {"en": "Hear everyone first"}, "detail": {"en": "The start of the song, every part"}},
-                                {"title": {"en": "Your part"}, "detail": {"en": "Pick soprano, alto, tenor or bass: it's set in your own range, and you can change it any time"}},
-                                {"title": {"en": "Sing easy"}, "detail": {"en": "Sing at an easy, medium-soft volume, not a whisper. If a note sits too high or low, sing it lightly, never louder. Stop if anything tightens or hurts."}}
+                                {"title": {"en": "Hear everyone first", "es": "Primero, todo el coro"}, "detail": {"en": "The start of the song, every part", "es": "El comienzo de la canción, con todas las voces"}},
+                                {"title": {"en": "Your part", "es": "Tu parte"}, "detail": {"en": "Pick soprano, alto, tenor or bass: it's set in your own range, and you can change it any time", "es": "Elige soprano, contralto, tenor o bajo: está ajustada a tu extensión, y puedes cambiarla cuando quieras"}},
+                                {"title": {"en": "Sing easy", "es": "Sin esfuerzo"}, "detail": {"en": "Sing at an easy, medium-soft volume, not a whisper. If a note sits too high or low, sing it lightly, never louder. Stop if anything tightens or hurts.", "es": "Canta a media voz y sin esfuerzo, sin susurrar. Si una nota te queda muy aguda o muy grave, cántala ligera, nunca más fuerte. Si algo se tensa o duele, para."}}
                             ],
                             "visual": "harmony",
                             "reviewed": false,
@@ -42,10 +42,10 @@
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the alto on its own. Follow the words."},
+                            "headline": {"en": "Now the alto on its own. Follow the words.", "es": "Ahora la voz de contralto sola. Sigue la letra."},
                             "steps": [
-                                {"title": {"en": "Its shape"}, "detail": {"en": "It starts low and holds, then climbs"}},
-                                {"title": {"en": "Under the tune"}, "detail": {"en": "Most of the way you sit under the tune. Lost? Find the tune and stay under it."}}
+                                {"title": {"en": "Its shape", "es": "Su dibujo"}, "detail": {"en": "It starts low and holds, then climbs", "es": "Empieza grave y se mantiene, luego sube"}},
+                                {"title": {"en": "Under the tune", "es": "Bajo la melodía"}, "detail": {"en": "Most of the way you sit under the tune. Lost? Find the tune and stay under it.", "es": "Casi todo el rato estás por debajo de la melodía. ¿Te pierdes? Busca la melodía y quédate debajo."}}
                             ],
                             "visual": "harmony",
                             "reviewed": false,
@@ -59,31 +59,31 @@
                             },
                             "byPart": {
                                 "soprano": {
-                                    "headline": {"en": "Now the soprano on its own: the tune. Follow the words."},
+                                    "headline": {"en": "Now the soprano on its own: the tune. Follow the words.", "es": "Ahora la voz de soprano sola: la melodía. Sigue la letra."},
                                     "steps": [
-                                        {"title": {"en": "Its shape"}, "detail": {"en": "It starts on home, dips low on \"all\" and again on \"faithful\", then leaps up and climbs to \"triumphant\""}},
-                                        {"title": {"en": "The tune"}, "detail": {"en": "You carry the tune, the line the others fit around. Lost? Come back in at the next line."}}
+                                        {"title": {"en": "Its shape", "es": "Su dibujo"}, "detail": {"en": "It starts on home, dips low on \"all\" and again on \"faithful\", then leaps up and climbs to \"triumphant\"", "es": "Empieza en la nota base, baja al grave en \"all\" y otra vez en \"faithful\", y luego salta y sube hasta \"triumphant\""}},
+                                        {"title": {"en": "The tune", "es": "La melodía"}, "detail": {"en": "You carry the tune, the line the others fit around. Lost? Come back in at the next line.", "es": "Llevas la melodía, la voz a la que se ajustan las demás. ¿Te pierdes? Vuelve a entrar en la frase siguiente."}}
                                     ]
                                 },
                                 "tenor": {
-                                    "headline": {"en": "Now the tenor on its own. Follow the words."},
+                                    "headline": {"en": "Now the tenor on its own. Follow the words.", "es": "Ahora la voz de tenor sola. Sigue la letra."},
                                     "steps": [
-                                        {"title": {"en": "Its shape"}, "detail": {"en": "It starts low and holds, climbs to \"faithful\", then stays on that note through most of \"joyful and triumphant\""}},
-                                        {"title": {"en": "Between alto and bass"}, "detail": {"en": "Most of the way you sit under the alto and over the bass. Lost? Find the bass and stay above it."}}
+                                        {"title": {"en": "Its shape", "es": "Su dibujo"}, "detail": {"en": "It starts low and holds, climbs to \"faithful\", then stays on that note through most of \"joyful and triumphant\"", "es": "Empieza grave y se mantiene, sube hasta \"faithful\" y luego se queda en esa nota casi todo \"joyful and triumphant\""}},
+                                        {"title": {"en": "Between alto and bass", "es": "Entre contralto y bajo"}, "detail": {"en": "Most of the way you sit under the alto and over the bass. Lost? Find the bass and stay above it.", "es": "Casi todo el rato estás por debajo de la voz de contralto y por encima del bajo. ¿Te pierdes? Busca el bajo y quédate encima."}}
                                     ]
                                 },
                                 "bass": {
-                                    "headline": {"en": "Now the bass on its own. Follow the words."},
+                                    "headline": {"en": "Now the bass on its own. Follow the words.", "es": "Ahora la voz de bajo sola. Sigue la letra."},
                                     "steps": [
-                                        {"title": {"en": "Its shape"}, "detail": {"en": "It climbs to \"faithful\", then jumps about on \"joyful and triumphant\""}},
-                                        {"title": {"en": "At the bottom"}, "detail": {"en": "You're the lowest line, often on the chord's bottom note. Lost? Listen for the chord and find its bottom note."}}
+                                        {"title": {"en": "Its shape", "es": "Su dibujo"}, "detail": {"en": "It climbs to \"faithful\", then jumps about on \"joyful and triumphant\"", "es": "Sube hasta \"faithful\" y luego salta de aquí para allá en \"joyful and triumphant\""}},
+                                        {"title": {"en": "At the bottom", "es": "Abajo del todo"}, "detail": {"en": "You're the lowest line, often on the chord's bottom note. Lost? Listen for the chord and find its bottom note.", "es": "Eres la voz más grave, a menudo en la nota más grave del acorde. ¿Te pierdes? Escucha el acorde y busca su nota más grave."}}
                                     ]
                                 }
                             }
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes of line 1: each one waits until you're on it."},
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -94,7 +94,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Sing lines 1 and 2 with the guide and the other parts around you."},
+                            "text": {"en": "Sing lines 1 and 2 with the guide and the other parts around you.", "es": "Canta las frases 1 y 2 con la guía y las demás voces a tu alrededor."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -106,55 +106,55 @@
                                 "generous": true,
                                 "keep": "choir-part.first"
                             },
-                            "measures": {"en": "Scored on the notes. Listen back: could you hear your line inside the chords?"}
+                            "measures": {"en": "Scored on the notes. Listen back: could you hear your line inside the chords?", "es": "Se puntúan las notas. Escúchate después: ¿oías tu parte dentro de los acordes?"}
                         }
                     ]
                 },
                 {
                     "id": "chp-1-first",
-                    "title": {"en": "Your first note"},
+                    "title": {"en": "Your first note", "es": "Tu primera nota"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "At rehearsal the pianist plays a chord, and you find your note in it."},
+                            "headline": {"en": "At rehearsal the pianist plays a chord, and you find your note in it.", "es": "En el ensayo, el piano da un acorde y tú buscas en él tu nota."},
                             "steps": [
-                                {"title": {"en": "The chord, then your note"}, "detail": {"en": "Hear the chord's bottom, middle and top notes, then sing the one asked for"}},
-                                {"title": {"en": "The alto here"}, "detail": {"en": "It starts on the chord's middle note, below the tune"}},
-                                {"title": {"en": "Think before you sing"}, "detail": {"en": "Hear the note in your head first, then start right on it"}}
+                                {"title": {"en": "The chord, then your note", "es": "El acorde, luego tu nota"}, "detail": {"en": "Hear the chord's bottom, middle and top notes, then sing the one asked for", "es": "Escucha la nota grave, la central y la aguda del acorde, y canta la que se pida"}},
+                                {"title": {"en": "The alto here", "es": "Aquí, la contralto"}, "detail": {"en": "It starts on the chord's middle note, below the tune", "es": "Empieza en la nota central del acorde, por debajo de la melodía"}},
+                                {"title": {"en": "Think before you sing", "es": "Piensa antes de cantar"}, "detail": {"en": "Hear the note in your head first, then start right on it", "es": "Oye primero la nota mentalmente y luego empieza justo en ella"}}
                             ],
                             "visual": "echo",
                             "reviewed": false,
                             "byPart": {
                                 "soprano": {
-                                    "headline": {"en": "At rehearsal the pianist plays a chord, and you find your note in it."},
+                                    "headline": {"en": "At rehearsal the pianist plays a chord, and you find your note in it.", "es": "En el ensayo, el piano da un acorde y tú buscas en él tu nota."},
                                     "steps": [
-                                        {"title": {"en": "The chord, then your note"}, "detail": {"en": "Hear the chord's bottom, middle and top notes, then sing the one asked for"}},
-                                        {"title": {"en": "The soprano here"}, "detail": {"en": "It starts on home, the bass's note sung high, at the top of the sound"}},
-                                        {"title": {"en": "Think before you sing"}, "detail": {"en": "Hear the note in your head first, then start right on it"}}
+                                        {"title": {"en": "The chord, then your note", "es": "El acorde, luego tu nota"}, "detail": {"en": "Hear the chord's bottom, middle and top notes, then sing the one asked for", "es": "Escucha la nota grave, la central y la aguda del acorde, y canta la que se pida"}},
+                                        {"title": {"en": "The soprano here", "es": "Aquí, la soprano"}, "detail": {"en": "It starts on home, the bass's note sung high, at the top of the sound", "es": "Empieza en la nota base, la misma del bajo pero en agudo, arriba del todo"}},
+                                        {"title": {"en": "Think before you sing", "es": "Piensa antes de cantar"}, "detail": {"en": "Hear the note in your head first, then start right on it", "es": "Oye primero la nota mentalmente y luego empieza justo en ella"}}
                                     ]
                                 },
                                 "tenor": {
-                                    "headline": {"en": "At rehearsal the pianist plays a chord, and you find your note in it."},
+                                    "headline": {"en": "At rehearsal the pianist plays a chord, and you find your note in it.", "es": "En el ensayo, el piano da un acorde y tú buscas en él tu nota."},
                                     "steps": [
-                                        {"title": {"en": "The chord, then your note"}, "detail": {"en": "Hear the chord's bottom, middle and top notes, then sing the one asked for"}},
-                                        {"title": {"en": "The tenor here"}, "detail": {"en": "It starts on the chord's bottom note, home, an octave under the tune"}},
-                                        {"title": {"en": "Think before you sing"}, "detail": {"en": "Hear the note in your head first, then start right on it"}}
+                                        {"title": {"en": "The chord, then your note", "es": "El acorde, luego tu nota"}, "detail": {"en": "Hear the chord's bottom, middle and top notes, then sing the one asked for", "es": "Escucha la nota grave, la central y la aguda del acorde, y canta la que se pida"}},
+                                        {"title": {"en": "The tenor here", "es": "Aquí, el tenor"}, "detail": {"en": "It starts on the chord's bottom note, home, an octave under the tune", "es": "Empieza en la nota grave del acorde, la nota base, una octava por debajo de la melodía"}},
+                                        {"title": {"en": "Think before you sing", "es": "Piensa antes de cantar"}, "detail": {"en": "Hear the note in your head first, then start right on it", "es": "Oye primero la nota mentalmente y luego empieza justo en ella"}}
                                     ]
                                 },
                                 "bass": {
-                                    "headline": {"en": "At rehearsal the pianist plays a chord, and you find your note in it."},
+                                    "headline": {"en": "At rehearsal the pianist plays a chord, and you find your note in it.", "es": "En el ensayo, el piano da un acorde y tú buscas en él tu nota."},
                                     "steps": [
-                                        {"title": {"en": "The chord, then your note"}, "detail": {"en": "Hear the chord's bottom, middle and top notes, then sing the one asked for"}},
-                                        {"title": {"en": "The bass here"}, "detail": {"en": "It starts on the chord's bottom note, home, the lowest note in the sound"}},
-                                        {"title": {"en": "Think before you sing"}, "detail": {"en": "Hear the note in your head first, then start right on it"}}
+                                        {"title": {"en": "The chord, then your note", "es": "El acorde, luego tu nota"}, "detail": {"en": "Hear the chord's bottom, middle and top notes, then sing the one asked for", "es": "Escucha la nota grave, la central y la aguda del acorde, y canta la que se pida"}},
+                                        {"title": {"en": "The bass here", "es": "Aquí, el bajo"}, "detail": {"en": "It starts on the chord's bottom note, home, the lowest note in the sound", "es": "Empieza en la nota grave del acorde, la nota base, la más grave de todo el conjunto"}},
+                                        {"title": {"en": "Think before you sing", "es": "Piensa antes de cantar"}, "detail": {"en": "Hear the note in your head first, then start right on it", "es": "Oye primero la nota mentalmente y luego empieza justo en ella"}}
                                     ]
                                 }
                             }
                         },
                         {
                             "kind": "bullseye",
-                            "text": {"en": "Hear the chord's three notes, then sing the one asked for: the middle note, the top note, then the bottom one."},
+                            "text": {"en": "Hear the chord's three notes, then sing the one asked for: the middle note, the top note, then the bottom one.", "es": "Escucha las tres notas del acorde y canta la que se pida: la central, la aguda y luego la grave."},
                             "exercise": {
                                 "tempo": 72,
                                 "think": 1,
@@ -179,7 +179,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now line 1 starting cold: no guide, the other parts on. Give me my note is there if you need it."},
+                            "text": {"en": "Now line 1 starting cold: no guide, the other parts on. Give me my note is there if you need it.", "es": "Ahora la frase 1 en frío: sin guía, con las demás voces. Si lo necesitas, toca \"Escuchar mi nota\"."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -191,55 +191,55 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "chp-1-page",
-                    "title": {"en": "Your line on the page"},
+                    "title": {"en": "Your line on the page", "es": "Tu voz en la partitura"},
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "In a choir score your line is one of four. Find it, follow it with the words, and see where it climbs and where it holds."},
+                            "headline": {"en": "In a choir score your line is one of four. Find it, follow it with the words, and see where it climbs and where it holds.", "es": "En una partitura de coro, tu voz es una de cuatro. Encuéntrala, síguela con la letra y fíjate en dónde sube y dónde se mantiene."},
                             "steps": [
-                                {"title": {"en": "Where it holds"}, "detail": {"en": "Three notes the same, then up"}},
-                                {"title": {"en": "Above the tune"}, "detail": {"en": "At \"faithful\" your line ends above the tune. Hold your note."}},
-                                {"title": {"en": "Mark your breaths"}, "detail": {"en": "Pencil in your score where you'll breathe, so you never run out mid-line"}}
+                                {"title": {"en": "Where it holds", "es": "Donde se mantiene"}, "detail": {"en": "Three notes the same, then up", "es": "Tres notas iguales y luego sube"}},
+                                {"title": {"en": "Above the tune", "es": "Sobre la melodía"}, "detail": {"en": "At \"faithful\" your line ends above the tune. Hold your note.", "es": "En \"faithful\" tu voz termina por encima de la melodía. Sostén tu nota."}},
+                                {"title": {"en": "Mark your breaths", "es": "Marca dónde respirar"}, "detail": {"en": "Pencil in your score where you'll breathe, so you never run out mid-line", "es": "Apunta a lápiz en tu partitura dónde vas a respirar, para no quedarte nunca sin aire a mitad de frase"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false,
                             "byPart": {
                                 "soprano": {
-                                    "headline": {"en": "In a choir score your line is one of four. Find it, follow it with the words, and see where it climbs and where it holds."},
+                                    "headline": {"en": "In a choir score your line is one of four. Find it, follow it with the words, and see where it climbs and where it holds.", "es": "En una partitura de coro, tu voz es una de cuatro. Encuéntrala, síguela con la letra y fíjate en dónde sube y dónde se mantiene."},
                                     "steps": [
-                                        {"title": {"en": "Where it moves"}, "detail": {"en": "Two notes the same, then down to \"all\" and back up"}},
-                                        {"title": {"en": "Low at the end"}, "detail": {"en": "At \"faithful\" the tune falls a fifth to its lowest note, the one you sang on \"all\". Land it lightly."}},
-                                        {"title": {"en": "Mark your breaths"}, "detail": {"en": "Pencil in your score where you'll breathe, so you never run out mid-line"}}
+                                        {"title": {"en": "Where it moves", "es": "Donde se mueve"}, "detail": {"en": "Two notes the same, then down to \"all\" and back up", "es": "Dos notas iguales, baja hasta \"all\" y vuelve a subir"}},
+                                        {"title": {"en": "Low at the end", "es": "Grave al final"}, "detail": {"en": "At \"faithful\" the tune falls a fifth to its lowest note, the one you sang on \"all\". Land it lightly.", "es": "En \"faithful\" la melodía baja una quinta hasta su nota más grave, la que cantaste en \"all\". Llega a ella con suavidad."}},
+                                        {"title": {"en": "Mark your breaths", "es": "Marca dónde respirar"}, "detail": {"en": "Pencil in your score where you'll breathe, so you never run out mid-line", "es": "Apunta a lápiz en tu partitura dónde vas a respirar, para no quedarte nunca sin aire a mitad de frase"}}
                                     ]
                                 },
                                 "tenor": {
-                                    "headline": {"en": "In a choir score your line is one of four. Find it, follow it with the words, and see where it climbs and where it holds."},
+                                    "headline": {"en": "In a choir score your line is one of four. Find it, follow it with the words, and see where it climbs and where it holds.", "es": "En una partitura de coro, tu voz es una de cuatro. Encuéntrala, síguela con la letra y fíjate en dónde sube y dónde se mantiene."},
                                     "steps": [
-                                        {"title": {"en": "Where it holds"}, "detail": {"en": "Three notes the same, then up"}},
-                                        {"title": {"en": "Meet the tune"}, "detail": {"en": "At \"faithful\" the tune comes down to your note, so you both sing the same note. Hold it steady."}},
-                                        {"title": {"en": "Mark your breaths"}, "detail": {"en": "Pencil in your score where you'll breathe, so you never run out mid-line"}}
+                                        {"title": {"en": "Where it holds", "es": "Donde se mantiene"}, "detail": {"en": "Three notes the same, then up", "es": "Tres notas iguales y luego sube"}},
+                                        {"title": {"en": "Meet the tune", "es": "Al unísono"}, "detail": {"en": "At \"faithful\" the tune comes down to your note, so you both sing the same note. Hold it steady.", "es": "En \"faithful\" la melodía baja hasta tu nota, así que las dos voces cantan la misma. Mantenla estable."}},
+                                        {"title": {"en": "Mark your breaths", "es": "Marca dónde respirar"}, "detail": {"en": "Pencil in your score where you'll breathe, so you never run out mid-line", "es": "Apunta a lápiz en tu partitura dónde vas a respirar, para no quedarte nunca sin aire a mitad de frase"}}
                                     ]
                                 },
                                 "bass": {
-                                    "headline": {"en": "In a choir score your line is one of four. Find it, follow it with the words, and see where it climbs and where it holds."},
+                                    "headline": {"en": "In a choir score your line is one of four. Find it, follow it with the words, and see where it climbs and where it holds.", "es": "En una partitura de coro, tu voz es una de cuatro. Encuéntrala, síguela con la letra y fíjate en dónde sube y dónde se mantiene."},
                                     "steps": [
-                                        {"title": {"en": "Where it holds"}, "detail": {"en": "Two notes the same, up a third to two more the same, then up a step at a time"}},
-                                        {"title": {"en": "Up to \"faithful\""}, "detail": {"en": "Your line climbs to \"faithful\": hold \"faith-\" its full two beats, then step up."}},
-                                        {"title": {"en": "Mark your breaths"}, "detail": {"en": "Pencil in your score where you'll breathe, so you never run out mid-line"}}
+                                        {"title": {"en": "Where it holds", "es": "Donde se mantiene"}, "detail": {"en": "Two notes the same, up a third to two more the same, then up a step at a time", "es": "Dos notas iguales, sube una tercera a otras dos iguales y luego sube por grados"}},
+                                        {"title": {"en": "Up to \"faithful\"", "es": "Hasta \"faithful\""}, "detail": {"en": "Your line climbs to \"faithful\": hold \"faith-\" its full two beats, then step up.", "es": "Tu voz sube hasta \"faithful\": sostén \"faith-\" sus dos tiempos enteros y luego sube un grado."}},
+                                        {"title": {"en": "Mark your breaths", "es": "Marca dónde respirar"}, "detail": {"en": "Pencil in your score where you'll breathe, so you never run out mid-line", "es": "Apunta a lápiz en tu partitura dónde vas a respirar, para no quedarte nunca sin aire a mitad de frase"}}
                                     ]
                                 }
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Read line 1 on the stave and sing it with the guide."},
+                            "text": {"en": "Read line 1 on the stave and sing it with the guide.", "es": "Lee la frase 1 en el pentagrama y cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -249,11 +249,11 @@
                                 "turn": false,
                                 "staff": {"names": "on", "look": 4}
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 2, the names fainter now: read it and sing it with the guide."},
+                            "text": {"en": "Line 2, the names fainter now: read it and sing it with the guide.", "es": "Frase 2, ahora con los nombres de las notas más tenues: léela y cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -263,19 +263,19 @@
                                 "turn": false,
                                 "staff": {"names": "faint", "look": 4}
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "chp-1-two",
-                    "title": {"en": "The first two lines"},
+                    "title": {"en": "The first two lines", "es": "Las dos primeras frases"},
                     "strictness": "relaxed",
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Lines 1 and 2 cold: find your first note, then no guide, just you and the other parts."},
+                            "text": {"en": "Lines 1 and 2 cold: find your first note, then no guide, just you and the other parts.", "es": "Frases 1 y 2 en frío: busca tu primera nota y luego sin guía, solo tú y las demás voces."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -287,7 +287,7 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 }
@@ -295,28 +295,28 @@
         },
         {
             "id": "chp-2",
-            "title": {"en": "Fix the hard bars"},
+            "title": {"en": "Fix the hard bars", "es": "Compases difíciles"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "chp-2-lines",
-                    "title": {"en": "Two new lines"},
-                    "fact": {"id": "not-how-much-but-how", "text": {"en": "In a 2009 study, advanced pianists practised a hard three-bar passage. How long they practised didn't predict how well they played it the next day. What share of their tries they played right did."}, "source": {"en": "Duke, Simmons and Cash, Journal of Research in Music Education (2009)"}, "url": "https://doi.org/10.1177/0022429408328851"},
+                    "title": {"en": "Two new lines", "es": "Dos frases nuevas"},
+                    "fact": {"id": "not-how-much-but-how", "text": {"en": "In a 2009 study, advanced pianists practised a hard three-bar passage. How long they practised didn't predict how well they played it the next day. What share of their tries they played right did.", "es": "En un estudio de 2009, pianistas avanzados practicaron un fragmento difícil de tres compases. El tiempo que practicaron no predijo lo bien que lo tocaron al día siguiente. Lo que sí lo predijo fue la proporción de intentos que les salieron bien."}, "source": {"en": "Duke, Simmons and Cash, Journal of Research in Music Education (2009)", "es": "Duke, Simmons y Cash, Journal of Research in Music Education (2009)"}, "url": "https://doi.org/10.1177/0022429408328851"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Learn a new line a little slower, then join it to the next, so the joins get practised too. The joins are where singers get lost."},
+                            "headline": {"en": "Learn a new line a little slower, then join it to the next, so the joins get practised too. The joins are where singers get lost.", "es": "Aprende cada frase nueva un poco más despacio y luego únela a la siguiente, para practicar también las uniones. En las uniones es donde más se pierden los cantantes."},
                             "steps": [
-                                {"title": {"en": "One line, slower"}, "detail": {"en": "Hear it, then sing it back"}},
-                                {"title": {"en": "The next line"}, "detail": {"en": "The same"}},
-                                {"title": {"en": "Then both together"}, "detail": {"en": "At speed, with the guide, straight through the join"}}
+                                {"title": {"en": "One line, slower", "es": "Una frase, despacio"}, "detail": {"en": "Hear it, then sing it back", "es": "Escúchala y repítela"}},
+                                {"title": {"en": "The next line", "es": "La frase siguiente"}, "detail": {"en": "The same", "es": "Igual"}},
+                                {"title": {"en": "Then both together", "es": "Luego las dos juntas"}, "detail": {"en": "At speed, with the guide, straight through the join", "es": "A velocidad normal, con la guía, de corrido por la unión"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 3, a little slower, then sing it back."},
+                            "text": {"en": "Hear line 3, a little slower, then sing it back.", "es": "Escucha la frase 3, un poco más despacio, y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -326,11 +326,11 @@
                                 "turn": true,
                                 "tempo": 72
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 4, a little slower, then sing it back."},
+                            "text": {"en": "Hear line 4, a little slower, then sing it back.", "es": "Escucha la frase 4, un poco más despacio, y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -340,11 +340,11 @@
                                 "turn": true,
                                 "tempo": 72
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lines 3 and 4 joined, at speed, with the guide."},
+                            "text": {"en": "Lines 3 and 4 joined, at speed, with the guide.", "es": "Frases 3 y 4 unidas, a velocidad normal, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -353,21 +353,21 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "chp-2-find",
-                    "title": {"en": "Find the hard bars"},
+                    "title": {"en": "Find the hard bars", "es": "Busca lo difícil"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Most of a part comes easily. A few bars don't: give them the time."},
+                            "headline": {"en": "Most of a part comes easily. A few bars don't: give them the time.", "es": "Casi toda la voz sale sin problema. Unos pocos compases, no: dedícales tiempo."},
                             "steps": [
-                                {"title": {"en": "What makes a bar hard"}, "detail": {"en": "A jump, a note from outside the key, or your line moving while the others hold"}},
-                                {"title": {"en": "This one"}, "detail": {"en": "On \"-hem\" you slip down a half step to a note from outside the key, just above the second \"O\" and \"to\", then leap up a fourth to a long note above the tune."}},
-                                {"title": {"en": "Slow it right down"}, "detail": {"en": "Same notes, same pitch, much slower. Take a quick breath from the end of \"O come ye,\" and keep it easy."}}
+                                {"title": {"en": "What makes a bar hard", "es": "Qué hace difícil un compás"}, "detail": {"en": "A jump, a note from outside the key, or your line moving while the others hold", "es": "Un salto, una nota de fuera de la tonalidad, o tu voz moviéndose mientras las demás se mantienen"}},
+                                {"title": {"en": "This one", "es": "Este compás"}, "detail": {"en": "On \"-hem\" you slip down a half step to a note from outside the key, just above the second \"O\" and \"to\", then leap up a fourth to a long note above the tune.", "es": "En \"-hem\" bajas un semitono a una nota de fuera de la tonalidad, medio tono por encima de la que cantaste en el segundo \"O\" y en \"to\", y luego saltas una cuarta hasta una nota larga por encima de la melodía."}},
+                                {"title": {"en": "Slow it right down", "es": "Muy despacio"}, "detail": {"en": "Same notes, same pitch, much slower. Take a quick breath from the end of \"O come ye,\" and keep it easy.", "es": "Mismas notas, misma altura, mucho más despacio. Toma aire rápido robando el final de \"O come ye,\" y todo sin esfuerzo."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -382,34 +382,34 @@
                             },
                             "byPart": {
                                 "soprano": {
-                                    "headline": {"en": "Most of a part comes easily. A few bars don't: give them the time."},
+                                    "headline": {"en": "Most of a part comes easily. A few bars don't: give them the time.", "es": "Casi toda la voz sale sin problema. Unos pocos compases, no: dedícales tiempo."},
                                     "steps": [
-                                        {"title": {"en": "What makes a bar hard"}, "detail": {"en": "A jump, a note from outside the key, or your line moving while the others hold"}},
-                                        {"title": {"en": "This one"}, "detail": {"en": "The line climbs a step at a time to \"Beth-\", then the tune drops a fourth on \"-le-\" and steps down to a long low note on \"-hem\"."}},
-                                        {"title": {"en": "Slow it right down"}, "detail": {"en": "Same notes, same pitch, much slower. Take a quick breath from the end of \"O come ye,\" and keep it easy."}}
+                                        {"title": {"en": "What makes a bar hard", "es": "Qué hace difícil un compás"}, "detail": {"en": "A jump, a note from outside the key, or your line moving while the others hold", "es": "Un salto, una nota de fuera de la tonalidad, o tu voz moviéndose mientras las demás se mantienen"}},
+                                        {"title": {"en": "This one", "es": "Este compás"}, "detail": {"en": "The line climbs a step at a time to \"Beth-\", then the tune drops a fourth on \"-le-\" and steps down to a long low note on \"-hem\".", "es": "La frase sube por grados hasta \"Beth-\", luego la melodía baja una cuarta en \"-le-\" y desciende por grados hasta una nota larga y grave en \"-hem\"."}},
+                                        {"title": {"en": "Slow it right down", "es": "Muy despacio"}, "detail": {"en": "Same notes, same pitch, much slower. Take a quick breath from the end of \"O come ye,\" and keep it easy.", "es": "Mismas notas, misma altura, mucho más despacio. Toma aire rápido robando el final de \"O come ye,\" y todo sin esfuerzo."}}
                                     ]
                                 },
                                 "tenor": {
-                                    "headline": {"en": "Most of a part comes easily. A few bars don't: give them the time."},
+                                    "headline": {"en": "Most of a part comes easily. A few bars don't: give them the time.", "es": "Casi toda la voz sale sin problema. Unos pocos compases, no: dedícales tiempo."},
                                     "steps": [
-                                        {"title": {"en": "What makes a bar hard"}, "detail": {"en": "A jump, a note from outside the key, or your line moving while the others hold"}},
-                                        {"title": {"en": "This one"}, "detail": {"en": "On \"to\" you dip a third to a low note, climb back on \"Bethlehem\", then stay on one note from \"-le-\" to the end, almost seven beats. Keep it steady as the chords change."}},
-                                        {"title": {"en": "Slow it right down"}, "detail": {"en": "Same notes, same pitch, much slower. Take a quick breath from the end of \"O come ye,\" and keep it easy."}}
+                                        {"title": {"en": "What makes a bar hard", "es": "Qué hace difícil un compás"}, "detail": {"en": "A jump, a note from outside the key, or your line moving while the others hold", "es": "Un salto, una nota de fuera de la tonalidad, o tu voz moviéndose mientras las demás se mantienen"}},
+                                        {"title": {"en": "This one", "es": "Este compás"}, "detail": {"en": "On \"to\" you dip a third to a low note, climb back on \"Bethlehem\", then stay on one note from \"-le-\" to the end, almost seven beats. Keep it steady as the chords change.", "es": "En \"to\" bajas una tercera a una nota grave, vuelves a subir en \"Bethlehem\" y luego te quedas en una sola nota desde \"-le-\" hasta el final, casi siete tiempos. Mantenla estable mientras cambian los acordes."}},
+                                        {"title": {"en": "Slow it right down", "es": "Muy despacio"}, "detail": {"en": "Same notes, same pitch, much slower. Take a quick breath from the end of \"O come ye,\" and keep it easy.", "es": "Mismas notas, misma altura, mucho más despacio. Toma aire rápido robando el final de \"O come ye,\" y todo sin esfuerzo."}}
                                     ]
                                 },
                                 "bass": {
-                                    "headline": {"en": "Most of a part comes easily. A few bars don't: give them the time."},
+                                    "headline": {"en": "Most of a part comes easily. A few bars don't: give them the time.", "es": "Casi toda la voz sale sin problema. Unos pocos compases, no: dedícales tiempo."},
                                     "steps": [
-                                        {"title": {"en": "What makes a bar hard"}, "detail": {"en": "A jump, a note from outside the key, or your line moving while the others hold"}},
-                                        {"title": {"en": "This one"}, "detail": {"en": "The line steps up and rocks, drops a third on \"to\", then \"Bethlehem\" jumps: up a third, down a fourth, then up a fourth to a long note."}},
-                                        {"title": {"en": "Slow it right down"}, "detail": {"en": "Same notes, same pitch, much slower. Take a quick breath from the end of \"O come ye,\" and keep it easy."}}
+                                        {"title": {"en": "What makes a bar hard", "es": "Qué hace difícil un compás"}, "detail": {"en": "A jump, a note from outside the key, or your line moving while the others hold", "es": "Un salto, una nota de fuera de la tonalidad, o tu voz moviéndose mientras las demás se mantienen"}},
+                                        {"title": {"en": "This one", "es": "Este compás"}, "detail": {"en": "The line steps up and rocks, drops a third on \"to\", then \"Bethlehem\" jumps: up a third, down a fourth, then up a fourth to a long note.", "es": "La frase sube por grados y se balancea, baja una tercera en \"to\" y luego \"Bethlehem\" salta: sube una tercera, baja una cuarta y sube una cuarta hasta una nota larga."}},
+                                        {"title": {"en": "Slow it right down", "es": "Muy despacio"}, "detail": {"en": "Same notes, same pitch, much slower. Take a quick breath from the end of \"O come ye,\" and keep it easy.", "es": "Mismas notas, misma altura, mucho más despacio. Toma aire rápido robando el final de \"O come ye,\" y todo sin esfuerzo."}}
                                     ]
                                 }
                             }
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Line 3, slowly: each note waits until you're on it."},
+                            "text": {"en": "Line 3, slowly: each note waits until you're on it.", "es": "Frase 3, despacio: cada nota te espera hasta que estés en ella."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -421,7 +421,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 slowly on the stave, with the guide: watch for the note from outside the key."},
+                            "text": {"en": "Line 3 slowly on the stave, with the guide: watch for the note from outside the key.", "es": "Frase 3 despacio en el pentagrama, con la guía: atención a la nota de fuera de la tonalidad."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -432,29 +432,29 @@
                                 "tempo": 60,
                                 "staff": {"names": "on", "look": 4}
                             },
-                            "textByPart": {"soprano": {"en": "Line 3 slowly on the stave, with the guide: watch for the drop on \"Bethlehem\"."}, "tenor": {"en": "Line 3 slowly on the stave, with the guide: watch the dip on \"to\" and the long last note."}, "bass": {"en": "Line 3 slowly on the stave, with the guide: watch the drop on \"to\" and the jumps on \"Bethlehem\"."}},
-                            "measures": {"en": "Scored on the notes."}
+                            "textByPart": {"soprano": {"en": "Line 3 slowly on the stave, with the guide: watch for the drop on \"Bethlehem\".", "es": "Frase 3 despacio en el pentagrama, con la guía: atención a la bajada en \"Bethlehem\"."}, "tenor": {"en": "Line 3 slowly on the stave, with the guide: watch the dip on \"to\" and the long last note.", "es": "Frase 3 despacio en el pentagrama, con la guía: atención a la bajada en \"to\" y a la última nota larga."}, "bass": {"en": "Line 3 slowly on the stave, with the guide: watch the drop on \"to\" and the jumps on \"Bethlehem\".", "es": "Frase 3 despacio en el pentagrama, con la guía: atención a la bajada en \"to\" y a los saltos de \"Bethlehem\"."}},
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "chp-2-speed",
-                    "title": {"en": "Up to speed"},
+                    "title": {"en": "Up to speed", "es": "Subir el tempo"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Slow and clean first, then a little faster each time. A bar you can sing slowly comes at speed; a bar you always rush never does."},
+                            "headline": {"en": "Slow and clean first, then a little faster each time. A bar you can sing slowly comes at speed; a bar you always rush never does.", "es": "Primero despacio y limpio, luego un poco más rápido cada vez. Un compás que sabes cantar despacio acaba saliendo al tempo; uno que siempre atropellas, nunca."},
                             "steps": [
-                                {"title": {"en": "A little faster"}, "detail": {"en": "With the guide"}},
-                                {"title": {"en": "Faster again"}, "detail": {"en": "Still with the guide"}},
-                                {"title": {"en": "Full speed"}, "detail": {"en": "No guide, the other parts on, as at rehearsal"}}
+                                {"title": {"en": "A little faster", "es": "Un poco más rápido"}, "detail": {"en": "With the guide", "es": "Con la guía"}},
+                                {"title": {"en": "Faster again", "es": "Más rápido aún"}, "detail": {"en": "Still with the guide", "es": "Todavía con la guía"}},
+                                {"title": {"en": "Full speed", "es": "Tempo normal"}, "detail": {"en": "No guide, the other parts on, as at rehearsal", "es": "Sin guía, con las demás voces, como en el ensayo"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3 a little faster, with the guide."},
+                            "text": {"en": "Line 3 a little faster, with the guide.", "es": "La frase 3 un poco más rápido, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -464,11 +464,11 @@
                                 "turn": false,
                                 "tempo": 72
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Faster again, with the guide."},
+                            "text": {"en": "Faster again, with the guide.", "es": "Más rápido aún, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -478,11 +478,11 @@
                                 "turn": false,
                                 "tempo": 84
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Full speed, the guide off, the other parts on."},
+                            "text": {"en": "Full speed, the guide off, the other parts on.", "es": "A velocidad normal, sin guía, con las demás voces."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -493,18 +493,18 @@
                                 "turn": false,
                                 "guide": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "chp-2-verse",
-                    "title": {"en": "The verse"},
+                    "title": {"en": "The verse", "es": "La estrofa"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The verse at full speed, the guide off: the hard bar where it lives."},
+                            "text": {"en": "The verse at full speed, the guide off: the hard bar where it lives.", "es": "La estrofa a velocidad normal, sin guía: el compás difícil en su sitio."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -516,7 +516,7 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 }
@@ -524,20 +524,20 @@
         },
         {
             "id": "chp-3",
-            "title": {"en": "Guide on, guide off"},
+            "title": {"en": "Guide on, guide off", "es": "Con guía y sin guía"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "chp-3-refrain",
-                    "title": {"en": "The refrain"},
-                    "fact": {"id": "james-recollect", "text": {"en": "In 1890 William James wrote that once you almost know a piece by heart, \"it pays better to wait and recollect by an effort from within\" than to look at the book again."}, "source": {"en": "James, The Principles of Psychology (1890), chapter 16, York University Classics in the History of Psychology"}, "url": "https://psychclassics.yorku.ca/James/Principles/prin16.htm"},
+                    "title": {"en": "The refrain", "es": "El estribillo"},
+                    "fact": {"id": "james-recollect", "text": {"en": "In 1890 William James wrote that once you almost know a piece by heart, \"it pays better to wait and recollect by an effort from within\" than to look at the book again.", "es": "En 1890, William James escribió que, cuando ya casi te sabes una pieza de memoria, \"compensa más esperar y recordarla con un esfuerzo desde dentro\" que volver a mirar el libro."}, "source": {"en": "James, The Principles of Psychology (1890), chapter 16, York University Classics in the History of Psychology", "es": "James, The Principles of Psychology (1890), capítulo 16, York University Classics in the History of Psychology"}, "url": "https://psychclassics.yorku.ca/James/Principles/prin16.htm"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The three \"O come, let us adore him\" lines share the words and the same three neighbouring notes, in a different order each time. The first drops low on \"him\", the second ends high, and the third drops low again, then goes on to \"Christ the Lord\"."},
+                            "headline": {"en": "The three \"O come, let us adore him\" lines share the words and the same three neighbouring notes, in a different order each time. The first drops low on \"him\", the second ends high, and the third drops low again, then goes on to \"Christ the Lord\".", "es": "Las tres frases de \"O come, let us adore him\" tienen la misma letra y las mismas tres notas vecinas, en otro orden cada vez. La primera baja al grave en \"him\", la segunda termina arriba y la tercera vuelve a bajar y sigue hasta \"Christ the Lord\"."},
                             "steps": [
-                                {"title": {"en": "Not the tune"}, "detail": {"en": "Meanwhile the tune climbs, so you can't just follow it"}},
-                                {"title": {"en": "The rests"}, "detail": {"en": "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"}}
+                                {"title": {"en": "Not the tune", "es": "No es la melodía"}, "detail": {"en": "Meanwhile the tune climbs, so you can't just follow it", "es": "Mientras tanto la melodía sube, así que no puedes limitarte a seguirla"}},
+                                {"title": {"en": "The rests", "es": "Silencios"}, "detail": {"en": "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat", "es": "Corta \"him\" en seco, respira en el silencio y entra en \"O\" justo antes del tiempo"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false,
@@ -551,31 +551,31 @@
                             },
                             "byPart": {
                                 "soprano": {
-                                    "headline": {"en": "The three \"O come, let us adore him\" lines build: the second is much the same shape a third higher, and the third starts there, steps down through \"adore him\", then leaps up a fourth to \"Christ the Lord\"."},
+                                    "headline": {"en": "The three \"O come, let us adore him\" lines build: the second is much the same shape a third higher, and the third starts there, steps down through \"adore him\", then leaps up a fourth to \"Christ the Lord\".", "es": "Las tres frases de \"O come, let us adore him\" van creciendo: la segunda tiene casi el mismo dibujo una tercera más arriba, y la tercera empieza ahí, baja por grados en \"adore him\" y luego salta una cuarta hasta \"Christ the Lord\"."},
                                     "steps": [
-                                        {"title": {"en": "Lead the climb"}, "detail": {"en": "The alto and tenor stay near their notes while you rise. The climb is yours: let it grow, never push."}},
-                                        {"title": {"en": "The rests"}, "detail": {"en": "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"}}
+                                        {"title": {"en": "Lead the climb", "es": "La subida es tuya"}, "detail": {"en": "The alto and tenor stay near their notes while you rise. The climb is yours: let it grow, never push.", "es": "La voz de contralto y la de tenor se quedan cerca de sus notas mientras tú subes. La subida te toca a ti: deja que crezca, sin empujar nunca."}},
+                                        {"title": {"en": "The rests", "es": "Silencios"}, "detail": {"en": "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat", "es": "Corta \"him\" en seco, respira en el silencio y entra en \"O\" justo antes del tiempo"}}
                                     ]
                                 },
                                 "tenor": {
-                                    "headline": {"en": "The three \"O come, let us adore him\" lines are each different for you: the first leaps up a fifth on \"us\", to the alto's note, the second stays almost on one note, and the third stays near it, then falls to \"Lord\"."},
+                                    "headline": {"en": "The three \"O come, let us adore him\" lines are each different for you: the first leaps up a fifth on \"us\", to the alto's note, the second stays almost on one note, and the third stays near it, then falls to \"Lord\".", "es": "Las tres frases de \"O come, let us adore him\" son distintas para ti: la primera salta una quinta en \"us\", hasta la nota de la voz de contralto; la segunda se queda casi en una sola nota, y la tercera se queda cerca de ella y luego baja hasta \"Lord\"."},
                                     "steps": [
-                                        {"title": {"en": "Hold your ground"}, "detail": {"en": "In the second line the tune climbs while you stay near one note. Don't drift up with it."}},
-                                        {"title": {"en": "The rests"}, "detail": {"en": "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"}}
+                                        {"title": {"en": "Hold your ground", "es": "Mantente firme"}, "detail": {"en": "In the second line the tune climbs while you stay near one note. Don't drift up with it.", "es": "En la segunda frase la melodía sube mientras tú te quedas cerca de una nota. No te dejes arrastrar hacia arriba."}},
+                                        {"title": {"en": "The rests", "es": "Silencios"}, "detail": {"en": "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat", "es": "Corta \"him\" en seco, respira en el silencio y entra en \"O\" justo antes del tiempo"}}
                                     ]
                                 },
                                 "bass": {
-                                    "headline": {"en": "The three \"O come, let us adore him\" lines jump for you: the first drops a sixth to a low \"him\", the second starts an octave above it, and the third starts back on the low note."},
+                                    "headline": {"en": "The three \"O come, let us adore him\" lines jump for you: the first drops a sixth to a low \"him\", the second starts an octave above it, and the third starts back on the low note.", "es": "Las tres frases de \"O come, let us adore him\" te hacen saltar: la primera baja una sexta hasta un \"him\" grave, la segunda empieza una octava por encima de esa nota y la tercera vuelve a empezar en la nota grave."},
                                     "steps": [
-                                        {"title": {"en": "Hear the jump first"}, "detail": {"en": "Before line 6, hear its first note in your head: an octave above your last \"him\", on the tenor's note"}},
-                                        {"title": {"en": "The rests"}, "detail": {"en": "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat"}}
+                                        {"title": {"en": "Hear the jump first", "es": "Oye el salto antes"}, "detail": {"en": "Before line 6, hear its first note in your head: an octave above your last \"him\", on the tenor's note", "es": "Antes de la frase 6, oye mentalmente su primera nota: una octava por encima de tu último \"him\", en la nota del tenor"}},
+                                        {"title": {"en": "The rests", "es": "Silencios"}, "detail": {"en": "Cut \"him\" off short, breathe in the rest, and come in on \"O\" just before the beat", "es": "Corta \"him\" en seco, respira en el silencio y entra en \"O\" justo antes del tiempo"}}
                                     ]
                                 }
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear line 5, a little slower, then sing it back."},
+                            "text": {"en": "Hear line 5, a little slower, then sing it back.", "es": "Escucha la frase 5, un poco más despacio, y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -585,11 +585,11 @@
                                 "turn": true,
                                 "tempo": 72
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 6 on the stave, a little slower, with the guide: spot what changed."},
+                            "text": {"en": "Line 6 on the stave, a little slower, with the guide: spot what changed.", "es": "La frase 6 en el pentagrama, un poco más despacio, con la guía: descubre qué ha cambiado."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -600,11 +600,11 @@
                                 "tempo": 72,
                                 "staff": {"names": "faint", "look": 4}
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole refrain at speed, with the guide and the other parts."},
+                            "text": {"en": "The whole refrain at speed, with the guide and the other parts.", "es": "El estribillo entero a velocidad normal, con la guía y las demás voces."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -614,54 +614,54 @@
                                 },
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "chp-3-last",
-                    "title": {"en": "The last line"},
+                    "title": {"en": "The last line", "es": "La última frase"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The last line jumps: up a fourth to \"Christ\", up a third to \"Lord\", then down a fifth inside \"Lord\" to a long low note."},
+                            "headline": {"en": "The last line jumps: up a fourth to \"Christ\", up a third to \"Lord\", then down a fifth inside \"Lord\" to a long low note.", "es": "La última frase salta: sube una cuarta hasta \"Christ\", una tercera hasta \"Lord\" y luego baja una quinta dentro de \"Lord\" hasta una nota larga y grave."},
                             "steps": [
-                                {"title": {"en": "Breathe first"}, "detail": {"en": "Shorten \"him,\" a little to breathe, then sing \"Christ the Lord\" in one breath"}},
-                                {"title": {"en": "Slowly, then faster"}, "detail": {"en": "With the guide, then without"}},
-                                {"title": {"en": "Ring the last chord"}, "detail": {"en": "Your long low note is the chord's middle note: listen for it to settle"}}
+                                {"title": {"en": "Breathe first", "es": "Respira antes"}, "detail": {"en": "Shorten \"him,\" a little to breathe, then sing \"Christ the Lord\" in one breath", "es": "Acorta un poco \"him,\" para respirar y luego canta \"Christ the Lord\" en una sola respiración"}},
+                                {"title": {"en": "Slowly, then faster", "es": "Despacio, luego más rápido"}, "detail": {"en": "With the guide, then without", "es": "Con la guía y luego sin ella"}},
+                                {"title": {"en": "Ring the last chord", "es": "Que el final resuene"}, "detail": {"en": "Your long low note is the chord's middle note: listen for it to settle", "es": "Tu nota larga y grave es la nota central del acorde: escucha cómo se asienta"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false,
                             "byPart": {
                                 "soprano": {
-                                    "headline": {"en": "The last line climbs a fourth to \"Christ\", then steps down through \"the Lord\" to a long note on home."},
+                                    "headline": {"en": "The last line climbs a fourth to \"Christ\", then steps down through \"the Lord\" to a long note on home.", "es": "La última frase sube una cuarta hasta \"Christ\" y luego baja por grados por \"the Lord\" hasta una nota larga en la nota base."},
                                     "steps": [
-                                        {"title": {"en": "Breathe first"}, "detail": {"en": "Shorten \"him,\" a little to breathe, then sing \"Christ the Lord\" in one breath"}},
-                                        {"title": {"en": "Slowly, then faster"}, "detail": {"en": "With the guide, then without"}},
-                                        {"title": {"en": "Ring the last chord"}, "detail": {"en": "Your long last note is the chord's bottom note, home: listen for it to settle"}}
+                                        {"title": {"en": "Breathe first", "es": "Respira antes"}, "detail": {"en": "Shorten \"him,\" a little to breathe, then sing \"Christ the Lord\" in one breath", "es": "Acorta un poco \"him,\" para respirar y luego canta \"Christ the Lord\" en una sola respiración"}},
+                                        {"title": {"en": "Slowly, then faster", "es": "Despacio, luego más rápido"}, "detail": {"en": "With the guide, then without", "es": "Con la guía y luego sin ella"}},
+                                        {"title": {"en": "Ring the last chord", "es": "Que el final resuene"}, "detail": {"en": "Your long last note is the chord's bottom note, home: listen for it to settle", "es": "Tu última nota larga es la nota grave del acorde, la nota base: escucha cómo se asienta"}}
                                     ]
                                 },
                                 "tenor": {
-                                    "headline": {"en": "The last line stays put: \"him, Christ the\" on one note, then down a fourth to \"Lord\", on the bass's note: your lowest, held long."},
+                                    "headline": {"en": "The last line stays put: \"him, Christ the\" on one note, then down a fourth to \"Lord\", on the bass's note: your lowest, held long.", "es": "La última frase no se mueve: \"him, Christ the\" en una sola nota y luego baja una cuarta hasta \"Lord\", en la nota del bajo: tu nota más grave, larga."},
                                     "steps": [
-                                        {"title": {"en": "Breathe first"}, "detail": {"en": "Shorten \"him,\" a little to breathe, then sing \"Christ the Lord\" in one breath"}},
-                                        {"title": {"en": "Slowly, then faster"}, "detail": {"en": "With the guide, then without"}},
-                                        {"title": {"en": "Ring the last chord"}, "detail": {"en": "Hold your low note steady while the chord changes under it. It ends as the chord's top note, sung low."}}
+                                        {"title": {"en": "Breathe first", "es": "Respira antes"}, "detail": {"en": "Shorten \"him,\" a little to breathe, then sing \"Christ the Lord\" in one breath", "es": "Acorta un poco \"him,\" para respirar y luego canta \"Christ the Lord\" en una sola respiración"}},
+                                        {"title": {"en": "Slowly, then faster", "es": "Despacio, luego más rápido"}, "detail": {"en": "With the guide, then without", "es": "Con la guía y luego sin ella"}},
+                                        {"title": {"en": "Ring the last chord", "es": "Que el final resuene"}, "detail": {"en": "Hold your low note steady while the chord changes under it. It ends as the chord's top note, sung low.", "es": "Mantén estable tu nota grave mientras el acorde cambia debajo. Acaba siendo la nota aguda del acorde, cantada en grave."}}
                                     ]
                                 },
                                 "bass": {
-                                    "headline": {"en": "The last line moves down a third to \"Christ\", up a step to \"the\", then down a fifth inside \"Lord\" to a long low note."},
+                                    "headline": {"en": "The last line moves down a third to \"Christ\", up a step to \"the\", then down a fifth inside \"Lord\" to a long low note.", "es": "La última frase baja una tercera hasta \"Christ\", sube un grado en \"the\" y luego baja una quinta dentro de \"Lord\" hasta una nota larga y grave."},
                                     "steps": [
-                                        {"title": {"en": "Breathe first"}, "detail": {"en": "Shorten \"him,\" a little to breathe, then sing \"Christ the Lord\" in one breath"}},
-                                        {"title": {"en": "Slowly, then faster"}, "detail": {"en": "With the guide, then without"}},
-                                        {"title": {"en": "Ring the last chord"}, "detail": {"en": "Your long low note is the chord's bottom note, home: listen for the others to settle on it"}}
+                                        {"title": {"en": "Breathe first", "es": "Respira antes"}, "detail": {"en": "Shorten \"him,\" a little to breathe, then sing \"Christ the Lord\" in one breath", "es": "Acorta un poco \"him,\" para respirar y luego canta \"Christ the Lord\" en una sola respiración"}},
+                                        {"title": {"en": "Slowly, then faster", "es": "Despacio, luego más rápido"}, "detail": {"en": "With the guide, then without", "es": "Con la guía y luego sin ella"}},
+                                        {"title": {"en": "Ring the last chord", "es": "Que el final resuene"}, "detail": {"en": "Your long low note is the chord's bottom note, home: listen for the others to settle on it", "es": "Tu nota larga es la más grave del acorde, la nota base: escucha cómo las demás voces se asientan sobre ella"}}
                                     ]
                                 }
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Hear the last line slowly, then sing it back."},
+                            "text": {"en": "Hear the last line slowly, then sing it back.", "es": "Escucha la última frase despacio y repítela."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -671,11 +671,11 @@
                                 "turn": true,
                                 "tempo": 60
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The last line a little faster, with the guide and the chords."},
+                            "text": {"en": "The last line a little faster, with the guide and the chords.", "es": "La última frase un poco más rápido, con la guía y los acordes."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -686,11 +686,11 @@
                                 "tempo": 84,
                                 "tuning": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The last line at speed, the guide off, the other parts on."},
+                            "text": {"en": "The last line at speed, the guide off, the other parts on.", "es": "La última frase a velocidad normal, sin guía, con las demás voces."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -702,27 +702,27 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "chp-3-away",
-                    "title": {"en": "The guide steps away"},
+                    "title": {"en": "The guide steps away", "es": "La guía se retira"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The guide is there to learn from, then to put down. Put it down early: at rehearsal there's no guide in your ear."},
+                            "headline": {"en": "The guide is there to learn from, then to put down. Put it down early: at rehearsal there's no guide in your ear.", "es": "La guía está para aprender con ella y luego dejarla. Déjala pronto: en el ensayo no hay guía en tu oído."},
                             "steps": [
-                                {"title": {"en": "The whole part"}, "detail": {"en": "Every line you've learned, joined"}},
-                                {"title": {"en": "The lights fade"}, "detail": {"en": "Halfway through your notes stop lighting: keep going by ear"}}
+                                {"title": {"en": "The whole part", "es": "Toda tu parte"}, "detail": {"en": "Every line you've learned, joined", "es": "Todas las frases que has aprendido, unidas"}},
+                                {"title": {"en": "The lights fade", "es": "Se apagan las luces"}, "detail": {"en": "Halfway through your notes stop lighting: keep going by ear", "es": "A mitad, tus notas dejan de iluminarse: sigue de oído"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole part with the guide and the other parts. Halfway, the lights fade."},
+                            "text": {"en": "The whole part with the guide and the other parts. Halfway, the lights fade.", "es": "Toda tu parte con la guía y las demás voces. A mitad, las luces se apagan."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -733,18 +733,18 @@
                                 "turn": false,
                                 "lights": "fade"
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "chp-3-alone",
-                    "title": {"en": "Your part, on your own"},
+                    "title": {"en": "Your part, on your own", "es": "Tu parte, sin guía"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "The whole part, start to end: no guide, the other parts on. Find your first note as you did before; Give me my note is there if you need it."},
+                            "text": {"en": "The whole part, start to end: no guide, the other parts on. Find your first note as you did before; Give me my note is there if you need it.", "es": "Toda tu parte, de principio a fin: sin guía, con las demás voces. Busca tu primera nota como antes; si lo necesitas, toca \"Escuchar mi nota\"."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -756,7 +756,7 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 }
@@ -764,27 +764,27 @@
         },
         {
             "id": "chp-4",
-            "title": {"en": "Ready for rehearsal"},
+            "title": {"en": "Ready for rehearsal", "es": "Todo listo para el ensayo"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "chp-4-ready",
-                    "title": {"en": "The morning of"},
-                    "fact": {"id": "sleep-on-the-melody", "text": {"en": "In a 2006 study, people who learned a short piano melody played it more accurately after a night's sleep, with no further practice. The same hours awake brought no significant gain."}, "source": {"en": "Simmons and Duke, Journal of Research in Music Education (2006)"}, "url": "https://doi.org/10.1177/002242940605400308"},
+                    "title": {"en": "The morning of", "es": "Esa misma mañana"},
+                    "fact": {"id": "sleep-on-the-melody", "text": {"en": "In a 2006 study, people who learned a short piano melody played it more accurately after a night's sleep, with no further practice. The same hours awake brought no significant gain.", "es": "En un estudio de 2006, quienes aprendieron una melodía corta al piano la tocaron con más precisión tras una noche de sueño, sin practicar más. Las mismas horas en vigilia no trajeron ninguna mejora significativa."}, "source": {"en": "Simmons and Duke, Journal of Research in Music Education (2006)", "es": "Simmons y Duke, Journal of Research in Music Education (2006)"}, "url": "https://doi.org/10.1177/002242940605400308"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The night before: one run-through at full speed, then rest your voice. The morning of: a short, gentle hum, then your first note."},
+                            "headline": {"en": "The night before: one run-through at full speed, then rest your voice. The morning of: a short, gentle hum, then your first note.", "es": "La noche antes: un pase completo a velocidad normal, y luego descansa la voz. Esa mañana: tararea un poco, suave, y luego tu primera nota."},
                             "steps": [
-                                {"title": {"en": "A gentle hum"}, "detail": {"en": "Soft and easy, against a quiet drone"}},
-                                {"title": {"en": "Then your first note"}, "detail": {"en": "Found cold, as at rehearsal"}}
+                                {"title": {"en": "A gentle hum", "es": "Tararea suave"}, "detail": {"en": "Soft and easy, against a quiet drone", "es": "Suave y sin esfuerzo, sobre un bordón tranquilo"}},
+                                {"title": {"en": "Then your first note", "es": "Luego tu primera nota"}, "detail": {"en": "Found cold, as at rehearsal", "es": "En frío, como en el ensayo"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "wave",
-                            "text": {"en": "Hum a soft, easy, straight \"mm\" on the drone's note, three times: one plain tone, no wave."},
+                            "text": {"en": "Hum a soft, easy, straight \"mm\" on the drone's note, three times: one plain tone, no wave.", "es": "Canta a boca cerrada un \"mm\" suave, cómodo y liso en la nota del bordón, tres veces: un solo sonido, sin ondular."},
                             "exercise": {
                                 "tempo": 60,
                                 "lead": 2,
@@ -798,11 +798,11 @@
                                 ],
                                 "generous": true
                             },
-                            "measures": {"en": "Scored on how straight the hum stayed: no wave in it."}
+                            "measures": {"en": "Scored on how straight the hum stayed: no wave in it.", "es": "Se puntúa lo liso que se mantuvo el sonido, sin ondular."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The refrain cold: no guide, the other parts on."},
+                            "text": {"en": "The refrain cold: no guide, the other parts on.", "es": "El estribillo en frío: sin guía, con las demás voces."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -814,27 +814,27 @@
                                 "guide": false,
                                 "giveNote": true
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "chp-4-keep",
-                    "title": {"en": "Don't stop"},
+                    "title": {"en": "Don't stop", "es": "No pares"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "At rehearsal nobody stops for you. If you get lost, listen, and come back in at the start of the next line."},
+                            "headline": {"en": "At rehearsal nobody stops for you. If you get lost, listen, and come back in at the start of the next line.", "es": "En el ensayo nadie se para por ti. Si te pierdes, escucha y vuelve a entrar al principio de la frase siguiente."},
                             "steps": [
-                                {"title": {"en": "No lights while you sing"}, "detail": {"en": "Your notes are shown after the take, not during it"}},
-                                {"title": {"en": "Lost?"}, "detail": {"en": "Keep listening. The rests between lines, like the one after each \"him\", are your way back in."}}
+                                {"title": {"en": "No lights while you sing", "es": "Sin luces mientras cantas"}, "detail": {"en": "Your notes are shown after the take, not during it", "es": "Tus notas se muestran después de la toma, no durante"}},
+                                {"title": {"en": "Lost?", "es": "¿Te pierdes?"}, "detail": {"en": "Keep listening. The rests between lines, like the one after each \"him\", are your way back in.", "es": "Sigue escuchando. Los silencios entre frases, como el que hay tras cada \"him\", son tu forma de volver a entrar."}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole part with the other parts, no guide, nothing lit while you sing. Sing it as you will at rehearsal."},
+                            "text": {"en": "The whole part with the other parts, no guide, nothing lit while you sing. Sing it as you will at rehearsal.", "es": "Toda tu parte con las demás voces, sin guía y sin nada iluminado mientras cantas. Cántala como lo harás en el ensayo."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -846,29 +846,29 @@
                                 "guide": false,
                                 "lights": "off"
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         }
                     ]
                 },
                 {
                     "id": "chp-4-dress",
-                    "title": {"en": "Dress rehearsal"},
+                    "title": {"en": "Dress rehearsal", "es": "Ensayo general"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "What you've just done works for every piece: hear it, find your note, a line at a time, fix the hard bars, put the guide down, and don't stop."},
+                            "headline": {"en": "What you've just done works for every piece: hear it, find your note, a line at a time, fix the hard bars, put the guide down, and don't stop.", "es": "Lo que acabas de hacer sirve para cualquier obra: escúchala, busca tu nota, frase a frase, arregla los compases difíciles, deja la guía y no pares."},
                             "steps": [
-                                {"title": {"en": "Your own section"}, "detail": {"en": "Every library song has Learn it step by step, part by part: pick yours"}},
-                                {"title": {"en": "Now record it"}, "detail": {"en": "The whole part in Sing, with the other three parts"}},
-                                {"title": {"en": "Choir groups"}, "detail": {"en": "If your director uses Stackapella, a choir group puts the choir's songs in one place, with your part already picked."}}
+                                {"title": {"en": "Your own section", "es": "Tu propia cuerda"}, "detail": {"en": "Every library song has Learn it step by step, part by part: pick yours", "es": "Cada canción de la Biblioteca tiene \"Aprender paso a paso\", voz por voz: elige la tuya"}},
+                                {"title": {"en": "Now record it", "es": "Ahora grábala"}, "detail": {"en": "The whole part in Sing, with the other three parts", "es": "Toda tu parte en Cantar, con las otras tres voces"}},
+                                {"title": {"en": "Choir groups", "es": "Grupos de coro"}, "detail": {"en": "If your director uses Stackapella, a choir group puts the choir's songs in one place, with your part already picked.", "es": "Si tu director o directora usa Stackapella, un grupo de coro reúne las canciones del coro en un solo sitio, con tu voz ya elegida."}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "First, the two lines you began with, now on your own. Then hear how far you've come."},
+                            "text": {"en": "First, the two lines you began with, now on your own. Then hear how far you've come.", "es": "Primero, las dos frases con las que empezaste, ahora sin guía. Luego escucha cuánto has avanzado."},
                             "exercise": {
                                 "song": {
                                     "template": "o-come-all-ye-faithful",
@@ -881,9 +881,9 @@
                                 "giveNote": true,
                                 "thenAndNow": "choir-part.first"
                             },
-                            "measures": {"en": "Scored on the notes."}
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
                         },
-                        {"kind": "record", "text": {"en": "The dress rehearsal: record your part in Sing, with the other three parts around you."}, "template": "o-come-all-ye-faithful", "singers": 4, "part": "yours", "measures": {"en": "Scored on the notes of your recording."}}
+                        {"kind": "record", "text": {"en": "The dress rehearsal: record your part in Sing, with the other three parts around you.", "es": "El ensayo general: graba tu parte en Cantar, con las otras tres voces a tu alrededor."}, "template": "o-come-all-ye-faithful", "singers": 4, "part": "yours", "measures": {"en": "Scored on the notes of your recording.", "es": "Se puntúan las notas de tu grabación."}}
                     ]
                 }
             ]

@@ -2,34 +2,36 @@
     "id": "folk",
     "version": 1,
     "reviewed": false,
-    "title": { "en": "Folk and early music" },
+    "title": { "en": "Folk and early music", "es": "Folk y música antigua" },
     "units": [
         {
             "id": "folk-plain-voice",
-            "title": { "en": "The plain voice" },
+            "title": { "en": "The plain voice", "es": "La voz llana" },
             "colour": 2,
             "lessons": [
                 {
                     "id": "folk-1-crew",
-                    "fact": {"id": "drunken-sailor-navy-softly", "text": {"en": "Shanty singing was generally thought never allowed in Britain's Royal Navy. But the old sea captain W. B. Whall wrote that Drunken Sailor was sometimes allowed there, sung softly in larger ships."}, "source": {"en": "W. B. Whall, Ships, Sea Songs and Shanties (3rd ed., 1913), Internet Archive"}, "url": "https://archive.org/details/shipsseasongssha00whal"},
-                    "title": { "en": "Join the crew" },
+                    "fact": {"id": "drunken-sailor-navy-softly", "text": {"en": "Shanty singing was generally thought never allowed in Britain's Royal Navy. But the old sea captain W. B. Whall wrote that Drunken Sailor was sometimes allowed there, sung softly in larger ships.", "es": "Por lo general se creía que en la Marina Real británica nunca se permitía cantar canciones marineras (shanties). Pero el veterano capitán W. B. Whall escribió que Drunken Sailor a veces sí se permitía allí, cantada en voz baja, en los barcos más grandes."}, "source": {"en": "W. B. Whall, Ships, Sea Songs and Shanties (3rd ed., 1913), Internet Archive", "es": "W. B. Whall, Ships, Sea Songs and Shanties (3.ª ed., 1913), Internet Archive"}, "url": "https://archive.org/details/shipsseasongssha00whal"},
+                    "title": { "en": "Join the crew", "es": "Súbete a bordo" },
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Sailors sang shanties to pull together: a shantyman sang the line, and the crew answered as they hauled. Sing it strong, not loud, over a drone: one note held underneath, like a bagpipe's."
+                                "en": "Sailors sang shanties to pull together: a shantyman sang the line, and the crew answered as they hauled. Sing it strong, not loud, over a drone: one note held underneath, like a bagpipe's.",
+                                "es": "Los marineros cantaban canciones marineras (shanties) para tirar todos a la vez: un solista cantaba el verso y la tripulación respondía mientras tiraba de los cabos. Cántala con cuerpo, sin gritar, sobre un bordón: una nota sostenida debajo, como el bordón de una gaita."
                             },
                             "steps": [
                                 {
-                                    "title": { "en": "Listen, then answer" },
-                                    "detail": { "en": "You're the crew: echo each line of Drunken Sailor" }
+                                    "title": { "en": "Listen, then answer", "es": "Escucha y responde" },
+                                    "detail": { "en": "You're the crew: echo each line of Drunken Sailor", "es": "Eres la tripulación: repite cada frase de Drunken Sailor" }
                                 },
-                                { "title": { "en": "Keep the top notes light" }, "detail": { "en": "In the middle of your voice, never pushed" } },
+                                { "title": { "en": "Keep the top notes light", "es": "Las notas agudas, ligeras" }, "detail": { "en": "In the middle of your voice, never pushed", "es": "En el centro de tu voz, sin forzar nunca" } },
                                 {
-                                    "title": { "en": "Look after your voice" },
+                                    "title": { "en": "Look after your voice", "es": "Cuida tu voz" },
                                     "detail": {
-                                        "en": "Stop if anything tightens, tickles or hurts. Don't sing when you're ill, and see someone if hoarseness lasts more than two weeks"
+                                        "en": "Stop if anything tightens, tickles or hurts. Don't sing when you're ill, and see someone if hoarseness lasts more than two weeks",
+                                        "es": "Si notas tensión, carraspera o dolor, para. No cantes si te encuentras mal, y si la ronquera dura más de dos semanas, consulta a un médico"
                                     }
                                 }
                             ],
@@ -81,7 +83,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The first line, at your own pace. Each note waits until you find it." },
+                            "text": { "en": "The first line, at your own pace. Each note waits until you find it.", "es": "La primera frase, a tu ritmo. Cada nota te espera hasta que la encuentres." },
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -102,7 +104,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen to two lines, then sing them back." },
+                            "text": { "en": "Listen to two lines, then sing them back.", "es": "Escucha dos frases y repítelas." },
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -133,7 +135,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now the last two lines. Listen for the bright note in \"drunk-en\", higher than you'd expect." },
+                            "text": { "en": "Now the last two lines. Listen for the bright note in \"drunk-en\", higher than you'd expect.", "es": "Ahora las dos últimas frases. Fíjate en la nota brillante de \"drunk-en\", más aguda de lo que esperarías." },
                             "exercise": {
                                 "keep": "folk.first",
                                 "tempo": 88,
@@ -159,26 +161,28 @@
                                 "drone": { "step": -7 }
                             },
                             "measures": {
-                                "en": "Scored on the notes of the last two lines. You just sang a shanty: that bright note in \"drunk-en\" is why it sounds old."
+                                "en": "Scored on the notes of the last two lines. You just sang a shanty: that bright note in \"drunk-en\" is why it sounds old.",
+                                "es": "Se puntúan las notas de las dos últimas frases. Acabas de cantar una canción marinera: esa nota brillante de \"drunk-en\" es lo que le da su sonido antiguo."
                             }
                         }
                     ]
                 },
                 {
                     "id": "folk-1-ring",
-                    "fact": {"id": "byzantine-ison", "text": {"en": "In Byzantine chant, some singers hold one low note under the melody, a sung drone called the ison."}, "source": {"en": "Wikipedia, Ison (music)"}, "url": "https://en.wikipedia.org/wiki/Ison_(music)"},
-                    "title": { "en": "Ring with the drone" },
+                    "fact": {"id": "byzantine-ison", "text": {"en": "In Byzantine chant, some singers hold one low note under the melody, a sung drone called the ison.", "es": "En el canto bizantino, algunos cantores sostienen una nota grave bajo la melodía, un bordón cantado llamado ison."}, "source": {"en": "Wikipedia, Ison (music)", "es": "Wikipedia, Ison (music)"}, "url": "https://en.wikipedia.org/wiki/Ison_(music)"},
+                    "title": { "en": "Ring with the drone", "es": "Resuena con el bordón" },
                     "strictness": "precise",
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A note a little out of tune beats against the drone, a wobble in the sound. In tune, the wobble goes and the two ring as one."
+                                "en": "A note a little out of tune beats against the drone, a wobble in the sound. In tune, the wobble goes and the two ring as one.",
+                                "es": "Una nota un poco desafinada produce batimientos con el bordón: una ondulación en el sonido. Afinada, la ondulación desaparece y las dos resuenan como una sola."
                             },
                             "steps": [
-                                { "title": { "en": "Hear it ring" }, "detail": { "en": "Your note and the drone, as one sound" } },
-                                { "title": { "en": "A plain, easy tone" }, "detail": { "en": "Like a relaxed sigh, never squeezed" } },
-                                { "title": { "en": "A light wave is fine" }, "detail": { "en": "Softer, never squeezed" } }
+                                { "title": { "en": "Hear it ring", "es": "Que resuene" }, "detail": { "en": "Your note and the drone, as one sound", "es": "Tu nota y el bordón, un solo sonido" } },
+                                { "title": { "en": "A plain, easy tone", "es": "Un sonido liso y cómodo" }, "detail": { "en": "Like a relaxed sigh, never squeezed", "es": "Como un suspiro relajado, nunca apretado" } },
+                                { "title": { "en": "A light wave is fine", "es": "Un leve vibrato está bien" }, "detail": { "en": "Softer, never squeezed", "es": "Más suave, nunca apretado" } }
                             ],
                             "listen": {
                                 "tempo": 60,
@@ -193,52 +197,52 @@
                         },
                         {
                             "kind": "choose",
-                            "text": { "en": "Listen to each with the drone, as often as you like, then choose." },
+                            "text": { "en": "Listen to each with the drone, as often as you like, then choose.", "es": "Escucha cada una con el bordón las veces que quieras y luego elige." },
                             "exercise": {
                                 "tempo": 60,
                                 "rounds": [
                                     {
-                                        "prompt": { "en": "Which one rings with the drone?" },
+                                        "prompt": { "en": "Which one rings with the drone?", "es": "¿Cuál resuena con el bordón?" },
                                         "clips": [
                                             { "notes": [{ "beat": 0, "length": 3, "step": 0, "lyric": "ah" }], "drone": { "step": 0 } },
                                             { "notes": [{ "beat": 0, "length": 3, "step": 0.45, "lyric": "ah" }], "drone": { "step": 0 } }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "B was a little high: hear the quick wobble in the sound? A rings as one with the drone." }
+                                        "why": { "en": "B was a little high: hear the quick wobble in the sound? A rings as one with the drone.", "es": "B se pasaba un poco por encima: ¿oyes la ondulación rápida en el sonido? A suena como una sola nota con el bordón." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one rings with the drone?" },
+                                        "prompt": { "en": "Which one rings with the drone?", "es": "¿Cuál resuena con el bordón?" },
                                         "clips": [
                                             { "notes": [{ "beat": 0, "length": 3, "step": -0.3, "lyric": "ah" }], "drone": { "step": 0 } },
                                             { "notes": [{ "beat": 0, "length": 3, "step": 0, "lyric": "ah" }], "drone": { "step": 0 } }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "A was a little low. Its wobble was slower, because it was closer." }
+                                        "why": { "en": "A was a little low. Its wobble was slower, because it was closer.", "es": "A se quedaba un poco por debajo. Su ondulación era más lenta porque estaba más cerca." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one rings with the drone?" },
+                                        "prompt": { "en": "Which one rings with the drone?", "es": "¿Cuál resuena con el bordón?" },
                                         "clips": [
                                             { "notes": [{ "beat": 0, "length": 3, "step": 0, "lyric": "ah" }], "drone": { "step": 0 } },
                                             { "notes": [{ "beat": 0, "length": 3, "step": 0.22, "lyric": "ah" }], "drone": { "step": 0 } }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "Closer still, so the beats were slower. B wasn't quite one sound with the drone yet." }
+                                        "why": { "en": "Closer still, so the beats were slower. B wasn't quite one sound with the drone yet.", "es": "Más cerca aún, así que los batimientos eran más lentos. B todavía no sonaba del todo como una sola nota con el bordón." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one rings with the drone?" },
+                                        "prompt": { "en": "Which one rings with the drone?", "es": "¿Cuál resuena con el bordón?" },
                                         "clips": [
                                             { "notes": [{ "beat": 0, "length": 3, "step": -0.16, "lyric": "ah" }], "drone": { "step": 0 } },
                                             { "notes": [{ "beat": 0, "length": 3, "step": 0, "lyric": "ah" }], "drone": { "step": 0 } }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "The hardest one: a slow pulse, almost gone. In tune, it's gone." }
+                                        "why": { "en": "The hardest one: a slow pulse, almost gone. In tune, it's gone.", "es": "La más difícil: un latido lento, casi imperceptible. Afinada, desaparece." }
                                     }
                                 ]
                             }
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "Start a touch low and slide up onto the drone's note until the wobble goes." },
+                            "text": { "en": "Start a touch low and slide up onto the drone's note until the wobble goes.", "es": "Empieza un poco por debajo y sube deslizándote hasta la nota del bordón, hasta que la ondulación desaparezca." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -250,7 +254,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Find the note, then hold it, plain and easy." },
+                            "text": { "en": "Find the note, then hold it, plain and easy.", "es": "Encuentra la nota y mantenla, lisa y cómoda." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -261,23 +265,24 @@
                                 "tuning": true, "score": "lock"
                             },
                             "measures": {
-                                "en": "Scored on how close your note's centre stayed to the drone's, close enough to ring. A light wave is fine."
+                                "en": "Scored on how close your note's centre stayed to the drone's, close enough to ring. A light wave is fine.",
+                                "es": "Se puntúa que el centro de tu nota se mantenga lo bastante cerca del bordón para resonar con él. Un leve vibrato está bien."
                             }
                         }
                     ]
                 },
                 {
                     "id": "folk-1-tell",
-                    "fact": {"id": "pepys-barbara-allen-1666", "text": {"en": "On 2 January 1666, Samuel Pepys wrote in his diary of hearing the actress Elizabeth Knipp sing Barbara Allen."}, "source": {"en": "Pepys's diary, 2 January 1665/66"}, "url": "https://www.pepysdiary.com/diary/1666/01/02/"},
-                    "title": { "en": "Tell it" },
+                    "fact": {"id": "pepys-barbara-allen-1666", "text": {"en": "On 2 January 1666, Samuel Pepys wrote in his diary of hearing the actress Elizabeth Knipp sing Barbara Allen.", "es": "El 2 de enero de 1666, Samuel Pepys escribió en su diario que había oído a la actriz Elizabeth Knipp cantar Barbara Allen."}, "source": {"en": "Pepys's diary, 2 January 1665/66", "es": "Diario de Pepys, 2 de enero de 1665/66"}, "url": "https://www.pepysdiary.com/diary/1666/01/02/"},
+                    "title": { "en": "Tell it", "es": "Cuéntala" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A ballad is a story. Each word gets its own time, the way you'd tell it." },
+                            "headline": { "en": "A ballad is a story. Each word gets its own time, the way you'd tell it.", "es": "Una balada cuenta una historia, como los romances tradicionales. Cada palabra lleva su tiempo, como si la contaras." },
                             "steps": [
-                                { "title": { "en": "Listen to the line" }, "detail": { "en": "Barbara Allen, a ballad hundreds of years old" } },
-                                { "title": { "en": "Let the long words last" }, "detail": { "en": "\"Town\", \"born\", \"fair\"" } },
-                                { "title": { "en": "Plain and clear" }, "detail": { "en": "So every word reaches the listener" } }
+                                { "title": { "en": "Listen to the line", "es": "Escucha la frase" }, "detail": { "en": "Barbara Allen, a ballad hundreds of years old", "es": "Barbara Allen, una balada de hace siglos" } },
+                                { "title": { "en": "Let the long words last", "es": "Sostén las palabras largas" }, "detail": { "en": "\"Town\", \"born\", \"fair\"", "es": "\"Town\", \"born\", \"fair\"" } },
+                                { "title": { "en": "Plain and clear", "es": "Sencillo y claro" }, "detail": { "en": "So every word reaches the listener", "es": "Para que cada palabra llegue a quien escucha" } }
                             ],
                             "listen": {
                                 "tempo": 80,
@@ -306,7 +311,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The first line at your own pace. Each note waits until you find it." },
+                            "text": { "en": "The first line at your own pace. Each note waits until you find it.", "es": "La primera frase a tu ritmo. Cada nota te espera hasta que la encuentres." },
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -325,7 +330,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then tell the whole line back over the drone." },
+                            "text": { "en": "Listen, then tell the whole line back over the drone.", "es": "Escucha y luego cuenta tú la frase entera sobre el bordón." },
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -351,7 +356,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "And the second line, the rest of the story." },
+                            "text": { "en": "And the second line, the rest of the story.", "es": "Y la segunda frase, el resto de la historia." },
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -376,13 +381,15 @@
                                 "drone": { "step": -4 }
                             },
                             "measures": {
-                                "en": "Scored on the notes of the second line."
+                                "en": "Scored on the notes of the second line.",
+                                "es": "Se puntúan las notas de la segunda frase."
                             }
                         },
                         {
                             "kind": "selfcheck",
                             "text": {
-                                "en": "Sing the first line once more, then hear yours beside the guide's. We don't score how a story is told."
+                                "en": "Sing the first line once more, then hear yours beside the guide's. We don't score how a story is told.",
+                                "es": "Canta otra vez la primera frase y luego escucha la tuya junto a la de la guía. No puntuamos cómo se cuenta una historia."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -408,8 +415,8 @@
                                     "drone": { "step": -4 }
                                 },
                                 "questions": [
-                                    { "en": "Could a listener hear every word?" },
-                                    { "en": "Did the long words, \"Town\", \"born\" and \"fair\", get their time?" }
+                                    { "en": "Could a listener hear every word?", "es": "¿Se entendería cada palabra?" },
+                                    { "en": "Did the long words, \"Town\", \"born\" and \"fair\", get their time?", "es": "¿Tuvieron su tiempo las palabras largas, \"Town\", \"born\" y \"fair\"?" }
                                 ]
                             }
                         }
@@ -417,16 +424,16 @@
                 },
                 {
                     "id": "folk-1-challenge",
-                    "title": { "en": "Barbara Allen" },
+                    "title": { "en": "Barbara Allen", "es": "Barbara Allen" },
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "The whole first verse, on your own over the drone, every long note plain." },
+                            "headline": { "en": "The whole first verse, on your own over the drone, every long note plain.", "es": "La primera estrofa entera, sin guía, sobre el bordón, con cada nota larga lisa." },
                             "steps": [
-                                { "title": { "en": "Listen to the verse" }, "detail": { "en": "Two lines, one story" } },
-                                { "title": { "en": "Breathe after \"dwellin'\"" }, "detail": { "en": "Halfway, where the line turns" } },
-                                { "title": { "en": "Plain and steady" }, "detail": { "en": "A light wave is fine, never squeezed" } }
+                                { "title": { "en": "Listen to the verse", "es": "Escucha la estrofa" }, "detail": { "en": "Two lines, one story", "es": "Dos frases, una historia" } },
+                                { "title": { "en": "Breathe after \"dwellin'\"", "es": "Respira tras \"dwellin'\"" }, "detail": { "en": "Halfway, where the line turns", "es": "A mitad, donde la frase cambia de rumbo" } },
+                                { "title": { "en": "Plain and steady", "es": "Liso y estable" }, "detail": { "en": "A light wave is fine, never squeezed", "es": "Un leve vibrato está bien, nunca apretado" } }
                             ],
                             "listen": {
                                 "tempo": 80,
@@ -471,7 +478,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The verse at your own pace first. Each note waits until you find it." },
+                            "text": { "en": "The verse at your own pace first. Each note waits until you find it.", "es": "Primero la estrofa a tu ritmo. Cada nota te espera hasta que la encuentres." },
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -513,7 +520,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "After a bar of the drone, sing the verse." },
+                            "text": { "en": "After a bar of the drone, sing the verse.", "es": "Tras un compás de bordón, canta la estrofa." },
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -553,7 +560,8 @@
                                 "drone": { "step": -4 }
                             },
                             "measures": {
-                                "en": "Scored on the notes. Listen back: were the long notes plain and steady?"
+                                "en": "Scored on the notes. Listen back: were the long notes plain and steady?",
+                                "es": "Se puntúan las notas. Escúchate después: ¿eran lisas y estables las notas largas?"
                             }
                         }
                     ]
@@ -562,23 +570,24 @@
         },
         {
             "id": "folk-old-scales",
-            "title": { "en": "Old scales" },
+            "title": { "en": "Old scales", "es": "Modos antiguos" },
             "colour": 2,
             "lessons": [
                 {
                     "id": "folk-2-dorian",
-                    "fact": {"id": "medieval-dorian-name", "text": {"en": "Medieval musicians borrowed the name Dorian from ancient Greek music, but used it for a different scale from the Greeks' own."}, "source": {"en": "Wikipedia, Dorian mode"}, "url": "https://en.wikipedia.org/wiki/Dorian_mode"},
-                    "title": { "en": "The bright note" },
+                    "fact": {"id": "medieval-dorian-name", "text": {"en": "Medieval musicians borrowed the name Dorian from ancient Greek music, but used it for a different scale from the Greeks' own.", "es": "Los músicos medievales tomaron de la música griega antigua el nombre de dórico, pero lo usaron para una escala distinta de la de los griegos."}, "source": {"en": "Wikipedia, Dorian mode", "es": "Wikipedia, Dorian mode"}, "url": "https://en.wikipedia.org/wiki/Dorian_mode"},
+                    "title": { "en": "The bright note", "es": "La nota brillante" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "You've sung this already. The bright note in \"drunk-en\" is what makes it sound old: a minor tune (the darker scale) with one note higher. That's the Dorian mode."
+                                "en": "You've sung this already. The bright note in \"drunk-en\" is what makes it sound old: a minor tune (the darker scale) with one note higher. That's the Dorian mode.",
+                                "es": "Esto ya lo has cantado. La nota brillante de \"drunk-en\" es lo que le da su sonido antiguo: una melodía en menor (la escala más oscura) con una nota más alta. Es el modo dórico."
                             },
                             "steps": [
-                                { "title": { "en": "Listen for it" }, "detail": { "en": "The second note of \"drunk-en\"" } },
-                                { "title": { "en": "Minor, but brighter" }, "detail": { "en": "Plain minor with one note raised" } },
-                                { "title": { "en": "The home note" }, "detail": { "en": "The drone's note, where the tune comes to rest" } }
+                                { "title": { "en": "Listen for it", "es": "Escúchala" }, "detail": { "en": "The second note of \"drunk-en\"", "es": "La segunda nota de \"drunk-en\"" } },
+                                { "title": { "en": "Minor, but brighter", "es": "Menor, pero más brillante" }, "detail": { "en": "Plain minor with one note raised", "es": "Menor natural con una nota más alta" } },
+                                { "title": { "en": "The home note", "es": "La nota base" }, "detail": { "en": "The drone's note, where the tune comes to rest", "es": "La nota del bordón, donde la melodía reposa" } }
                             ],
                             "listen": {
                                 "tempo": 88,
@@ -602,7 +611,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The Dorian scale from the home note up to the sixth note and back. The sixth is the bright one." },
+                            "text": { "en": "The Dorian scale from the home note up to the sixth note and back. The sixth is the bright one.", "es": "La escala dórica desde la nota base hasta la sexta nota, y de vuelta. La sexta es la brillante." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -625,7 +634,8 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "First the third line as plain minor would sing it, with the dark note on \"-en\": listen, then sing it back."
+                                "en": "First the third line as plain minor would sing it, with the dark note on \"-en\": listen, then sing it back.",
+                                "es": "Primero, la tercera frase como sonaría en menor natural, con la nota oscura en \"-en\": escucha y repítela."
                             },
                             "exercise": {
                                 "tempo": 88,
@@ -648,7 +658,8 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Now as it really goes, with the bright note. Hear the difference one note makes, then sing it back, the top notes light."
+                                "en": "Now as it really goes, with the bright note. Hear the difference one note makes, then sing it back, the top notes light.",
+                                "es": "Ahora como es de verdad, con la nota brillante. Escucha la diferencia que marca una sola nota y repítela, con las notas agudas ligeras."
                             },
                             "exercise": {
                                 "tempo": 88,
@@ -668,28 +679,30 @@
                                 "drone": { "step": -7 }
                             },
                             "measures": {
-                                "en": "Scored on the line with its bright note. One note changed, and the tune went from plain minor to Dorian."
+                                "en": "Scored on the line with its bright note. One note changed, and the tune went from plain minor to Dorian.",
+                                "es": "Se puntúa la frase con su nota brillante. Ha cambiado una nota y la melodía ha pasado de menor natural a dórico."
                             }
                         }
                     ]
                 },
                 {
                     "id": "folk-2-mixo",
-                    "fact": {"id": "highland-pipes-soft-seventh", "text": {"en": "A Highland bagpipe's chanter plays this soft seventh too: its scale is close to the Mixolydian."}, "source": {"en": "Wikipedia, Great Highland bagpipe"}, "url": "https://en.wikipedia.org/wiki/Great_Highland_bagpipe"},
-                    "title": { "en": "The soft note" },
+                    "fact": {"id": "highland-pipes-soft-seventh", "text": {"en": "A Highland bagpipe's chanter plays this soft seventh too: its scale is close to the Mixolydian.", "es": "El puntero de la gaita escocesa (el tubo con agujeros que da las notas) también toca esta séptima suave: su escala se parece a la mixolidia."}, "source": {"en": "Wikipedia, Great Highland bagpipe", "es": "Wikipedia, Great Highland bagpipe"}, "url": "https://en.wikipedia.org/wiki/Great_Highland_bagpipe"},
+                    "title": { "en": "The soft note", "es": "La nota suave" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Old Joe Clark is a major tune with one note lower: a soft seventh. That's the Mixolydian mode, the sound of many old-time fiddle tunes."
+                                "en": "Old Joe Clark is a major tune with one note lower: a soft seventh. That's the Mixolydian mode, the sound of many old-time fiddle tunes.",
+                                "es": "Old Joe Clark es una melodía en mayor con una nota más baja: una séptima suave. Es el modo mixolidio, el sonido de muchas melodías tradicionales de violín (old-time)."
                             },
                             "steps": [
                                 {
-                                    "title": { "en": "Listen to the chorus" },
-                                    "detail": { "en": "Old Joe Clark, a dance tune from the Appalachians" }
+                                    "title": { "en": "Listen to the chorus", "es": "Escucha el estribillo" },
+                                    "detail": { "en": "Old Joe Clark, a dance tune from the Appalachians", "es": "Old Joe Clark, una melodía de baile de los Apalaches" }
                                 },
-                                { "title": { "en": "Find the soft note" }, "detail": { "en": "On \"a-\" of \"away\", just below the home note" } },
-                                { "title": { "en": "Major, but softer" }, "detail": { "en": "One note lower than a major tune would sing" } }
+                                { "title": { "en": "Find the soft note", "es": "Busca la nota suave" }, "detail": { "en": "On \"a-\" of \"away\", just below the home note", "es": "En \"a-\" de \"away\", justo debajo de la nota base" } },
+                                { "title": { "en": "Major, but softer", "es": "Mayor, pero más suave" }, "detail": { "en": "One note lower than a major tune would sing", "es": "Una nota más baja de lo que cantaría una melodía en mayor" } }
                             ],
                             "listen": {
                                 "tempo": 92,
@@ -725,7 +738,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The scale from the soft note below the home note up to the fifth, and back." },
+                            "text": { "en": "The scale from the soft note below the home note up to the fifth, and back.", "es": "La escala desde la nota suave, bajo la nota base, hasta la quinta, y de vuelta." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -748,7 +761,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen to the first half, then sing it back." },
+                            "text": { "en": "Listen to the first half, then sing it back.", "es": "Escucha la primera mitad y repítela." },
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -770,7 +783,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "After a bar of the drone, sing the chorus. Light and bouncy, strong, not loud." },
+                            "text": { "en": "After a bar of the drone, sing the chorus. Light and bouncy, strong, not loud.", "es": "Tras un compás de bordón, canta el estribillo. Ligero y saltarín, con cuerpo, sin gritar." },
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -800,22 +813,22 @@
                                 "turn": false,
                                 "drone": { "step": -4 }
                             },
-                            "measures": { "en": "Scored on the notes, the soft one among them." }
+                            "measures": { "en": "Scored on the notes, the soft one among them.", "es": "Se puntúan las notas, la suave incluida." }
                         }
                     ]
                 },
                 {
                     "id": "folk-2-name",
-                    "fact": {"id": "glarean-twelve-modes", "text": {"en": "Church music had long counted eight modes. In 1547 the Swiss scholar Heinrich Glarean argued for twelve, adding the Aeolian and Ionian: the modes we now know as minor and major."}, "source": {"en": "Wikipedia, Heinrich Glarean"}, "url": "https://en.wikipedia.org/wiki/Heinrich_Glarean"},
-                    "title": { "en": "Name that mode" },
+                    "fact": {"id": "glarean-twelve-modes", "text": {"en": "Church music had long counted eight modes. In 1547 the Swiss scholar Heinrich Glarean argued for twelve, adding the Aeolian and Ionian: the modes we now know as minor and major.", "es": "La música de iglesia contaba desde hacía mucho ocho modos. En 1547, el erudito suizo Heinrich Glarean defendió que eran doce, y añadió el eólico y el jónico: los modos que hoy conocemos como menor y mayor."}, "source": {"en": "Wikipedia, Heinrich Glarean", "es": "Wikipedia, Heinrich Glarean"}, "url": "https://en.wikipedia.org/wiki/Heinrich_Glarean"},
+                    "title": { "en": "Name that mode", "es": "¿Qué modo es?" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Two short tunes over the same drone. Which mode is it?" },
+                            "headline": { "en": "Two short tunes over the same drone. Which mode is it?", "es": "Dos melodías cortas sobre el mismo bordón. ¿Qué modo es?" },
                             "steps": [
-                                { "title": { "en": "The bright note" }, "detail": { "en": "Minor with a raised sixth: Dorian" } },
-                                { "title": { "en": "The soft note" }, "detail": { "en": "Major with a lowered seventh: Mixolydian" } },
-                                { "title": { "en": "Listen as often as you like" }, "detail": { "en": "Only your first answer counts" } }
+                                { "title": { "en": "The bright note", "es": "La nota brillante" }, "detail": { "en": "Minor with a raised sixth: Dorian", "es": "Menor con la sexta elevada: dórico" } },
+                                { "title": { "en": "The soft note", "es": "La nota suave" }, "detail": { "en": "Major with a lowered seventh: Mixolydian", "es": "Mayor con la séptima rebajada: mixolidio" } },
+                                { "title": { "en": "Listen as often as you like", "es": "Escucha las veces que quieras" }, "detail": { "en": "Only your first answer counts", "es": "Solo cuenta tu primera respuesta" } }
                             ],
                             "listen": {
                                 "tempo": 100,
@@ -836,7 +849,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "First sing each: the Dorian scale, the bright sixth near the top. Listen, then sing it back." },
+                            "text": { "en": "First sing each: the Dorian scale, the bright sixth near the top. Listen, then sing it back.", "es": "Primero canta cada una: la escala dórica, con la sexta brillante arriba. Escucha y repítela." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -855,7 +868,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "And the Mixolydian, the soft seventh near the top." },
+                            "text": { "en": "And the Mixolydian, the soft seventh near the top.", "es": "Y la mixolidia, con la séptima suave justo debajo de la nota más alta." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -874,12 +887,12 @@
                         },
                         {
                             "kind": "choose",
-                            "text": { "en": "Listen to both, then choose." },
+                            "text": { "en": "Listen to both, then choose.", "es": "Escucha las dos y luego elige." },
                             "exercise": {
                                 "tempo": 100,
                                 "rounds": [
                                     {
-                                        "prompt": { "en": "Which one has the bright note?" },
+                                        "prompt": { "en": "Which one has the bright note?", "es": "¿Cuál tiene la nota brillante?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -907,10 +920,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "B's sixth was bright: that's Dorian. A's was dark: plain minor." }
+                                        "why": { "en": "B's sixth was bright: that's Dorian. A's was dark: plain minor.", "es": "La sexta de B era brillante: es dórico. La de A era oscura: menor natural." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one is Dorian?" },
+                                        "prompt": { "en": "Which one is Dorian?", "es": "¿Cuál está en dórico?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -938,10 +951,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A had the bright sixth near the top. B's was a step darker." }
+                                        "why": { "en": "A had the bright sixth near the top. B's was a step darker.", "es": "A tenía la sexta brillante arriba. La de B era medio tono más baja: más oscura." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one has the soft note?" },
+                                        "prompt": { "en": "Which one has the soft note?", "es": "¿Cuál tiene la nota suave?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -967,10 +980,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A's seventh was soft, one note lower than major's: that's Mixolydian." }
+                                        "why": { "en": "A's seventh was soft, one note lower than major's: that's Mixolydian.", "es": "La séptima de A era suave, medio tono más baja que en mayor: es mixolidio." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one is Mixolydian?" },
+                                        "prompt": { "en": "Which one is Mixolydian?", "es": "¿Cuál está en mixolidio?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -996,10 +1009,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "B's seventh was soft. A's leaned right up into the top note: plain major." }
+                                        "why": { "en": "B's seventh was soft. A's leaned right up into the top note: plain major.", "es": "La séptima de B era suave. La de A subía pegada a la nota de arriba: mayor de siempre." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one is Dorian?" },
+                                        "prompt": { "en": "Which one is Dorian?", "es": "¿Cuál está en dórico?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1027,10 +1040,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "Coming down, B touched the bright sixth first. A's sixth was dark." }
+                                        "why": { "en": "Coming down, B touched the bright sixth first. A's sixth was dark.", "es": "Bajando, B tocó primero la sexta brillante. La sexta de A era oscura." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one is Mixolydian?" },
+                                        "prompt": { "en": "Which one is Mixolydian?", "es": "¿Cuál está en mixolidio?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1056,10 +1069,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A stepped down to a soft seventh. B's seventh was the bright one of major." }
+                                        "why": { "en": "A stepped down to a soft seventh. B's seventh was the bright one of major.", "es": "A bajó a una séptima suave. La séptima de B era la brillante, la del mayor." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one is Dorian?" },
+                                        "prompt": { "en": "Which one is Dorian?", "es": "¿Cuál está en dórico?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1090,11 +1103,12 @@
                                         ],
                                         "answer": 0,
                                         "why": {
-                                            "en": "Same shape, one note apart: A's third was low, so it sounded minor, with the bright sixth: Dorian. B's third was high, major with the soft seventh: Mixolydian."
+                                            "en": "Same shape, one note apart: A's third was low, so it sounded minor, with the bright sixth: Dorian. B's third was high, major with the soft seventh: Mixolydian.",
+                                            "es": "Mismo dibujo, una nota de diferencia: la tercera de A era baja, así que sonaba menor, con la sexta brillante: dórico. La tercera de B era alta, mayor con la séptima suave: mixolidio."
                                         }
                                     },
                                     {
-                                        "prompt": { "en": "Which one is Mixolydian?" },
+                                        "prompt": { "en": "Which one is Mixolydian?", "es": "¿Cuál está en mixolidio?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1125,29 +1139,31 @@
                                         ],
                                         "answer": 1,
                                         "why": {
-                                            "en": "Coming down the same steps: B's third was high, so it was the major one with the soft seventh, Mixolydian. A's was low: Dorian."
+                                            "en": "Coming down the same steps: B's third was high, so it was the major one with the soft seventh, Mixolydian. A's was low: Dorian.",
+                                            "es": "Bajando por los mismos grados: la tercera de B era alta, así que era la mayor con la séptima suave, mixolidio. La de A era baja: dórico."
                                         }
                                     }
                                 ]
                             },
-                            "measures": { "en": "Scored on the rounds you got right first time." }
+                            "measures": { "en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera." }
                         }
                     ]
                 },
                 {
                     "id": "folk-2-challenge",
-                    "title": { "en": "All hands" },
+                    "title": { "en": "All hands", "es": "¡A cubierta!" },
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Drunken Sailor again, the whole verse, with no one to echo now. Make the bright note bright and keep the long notes plain."
+                                "en": "Drunken Sailor again, the whole verse, with no one to echo now. Make the bright note bright and keep the long notes plain.",
+                                "es": "Otra vez Drunken Sailor, la estrofa entera, ya sin repetir detrás de nadie. Que la nota brillante brille y que las notas largas sean lisas."
                             },
                             "steps": [
-                                { "title": { "en": "Listen once more" }, "detail": { "en": "Then it's yours" } },
-                                { "title": { "en": "Plain long notes" }, "detail": { "en": "\"morn-ing\" steady and easy" } },
-                                { "title": { "en": "Strong, not loud" }, "detail": { "en": "A crew sings together, not over each other" } }
+                                { "title": { "en": "Listen once more", "es": "Escucha una vez más" }, "detail": { "en": "Then it's yours", "es": "Y luego es tuya" } },
+                                { "title": { "en": "Plain long notes", "es": "Notas largas lisas" }, "detail": { "en": "\"morn-ing\" steady and easy", "es": "\"morn-ing\" estable y sin esfuerzo" } },
+                                { "title": { "en": "Strong, not loud", "es": "Con cuerpo, sin gritar" }, "detail": { "en": "A crew sings together, not over each other", "es": "Una tripulación canta unida, sin taparse" } }
                             ],
                             "listen": {
                                 "tempo": 88,
@@ -1197,7 +1213,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The verse at your own pace first." },
+                            "text": { "en": "The verse at your own pace first.", "es": "Primero la estrofa a tu ritmo." },
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -1244,7 +1260,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "After a bar of the drone, sing the verse." },
+                            "text": { "en": "After a bar of the drone, sing the verse.", "es": "Tras un compás de bordón, canta la estrofa." },
                             "exercise": {
                                 "tempo": 88,
                                 "notes": [
@@ -1289,7 +1305,8 @@
                                 "drone": { "step": -7 }
                             },
                             "measures": {
-                                "en": "Scored on the notes. Listen back, and sing Join the crew again sometime to hear how far you've come."
+                                "en": "Scored on the notes. Listen back, and sing Join the crew again sometime to hear how far you've come.",
+                                "es": "Se puntúan las notas. Escúchate después, y vuelve algún día a \"Súbete a bordo\" para oír cuánto has avanzado."
                             }
                         }
                     ]
@@ -1298,27 +1315,27 @@
         },
         {
             "id": "folk-ornaments",
-            "title": { "en": "Ornaments" },
+            "title": { "en": "Ornaments", "es": "Adornos" },
             "colour": 2,
             "lessons": [
                 {
                     "id": "folk-3-flick",
-                    "fact": {"id": "bagpipe-grace-notes", "text": {"en": "A bagpipe's chanter gets a nonstop flow of air from the bag, so it can't pause between notes. To play one note twice, pipers slip a grace note between them, played as short as possible."}, "source": {"en": "Wikipedia, Grace note"}, "url": "https://en.wikipedia.org/wiki/Grace_note"},
-                    "title": { "en": "A flick from above" },
+                    "fact": {"id": "bagpipe-grace-notes", "text": {"en": "A bagpipe's chanter gets a nonstop flow of air from the bag, so it can't pause between notes. To play one note twice, pipers slip a grace note between them, played as short as possible.", "es": "El puntero de una gaita recibe un flujo continuo de aire de la bolsa, así que no puede hacer pausas entre notas. Para tocar dos veces la misma nota, los gaiteros intercalan una nota de adorno, lo más breve posible."}, "source": {"en": "Wikipedia, Grace note", "es": "Wikipedia, Grace note"}, "url": "https://en.wikipedia.org/wiki/Grace_note"},
+                    "title": { "en": "A flick from above", "es": "Un floreo desde arriba" },
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Folk singers decorate a note with a flick: a quick touch of the next note up, then the note itself." },
+                            "headline": { "en": "Folk singers decorate a note with a flick: a quick touch of the next note up, then the note itself.", "es": "Los cantantes de folk adornan una nota con un floreo: un toque rápido de la nota de arriba y luego la nota en sí." },
                             "steps": [
                                 {
-                                    "title": { "en": "Light, from the breath" },
-                                    "detail": { "en": "Never from the jaw: rest a fingertip on your chin" }
+                                    "title": { "en": "Light, from the breath", "es": "Ligero, con el aire" },
+                                    "detail": { "en": "Never from the jaw: rest a fingertip on your chin", "es": "Nunca con la mandíbula: apoya la yema de un dedo en la barbilla" }
                                 },
-                                { "title": { "en": "The next note up" }, "detail": { "en": "Just a touch, then home" } },
+                                { "title": { "en": "The next note up", "es": "La nota de arriba" }, "detail": { "en": "Just a touch, then home", "es": "Solo un toque, y a tu nota" } },
                                 {
-                                    "title": { "en": "Slow first" },
-                                    "detail": { "en": "Real flicks are much quicker: we start with a slow one" }
+                                    "title": { "en": "Slow first", "es": "Primero, lento" },
+                                    "detail": { "en": "Real flicks are much quicker: we start with a slow one", "es": "Los floreos de verdad son mucho más rápidos: empezamos con uno lento" }
                                 }
                             ],
                             "listen": {
@@ -1343,7 +1360,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The line with its two flicks, on \"Town\" and \"born\", at your own pace." },
+                            "text": { "en": "The line with its two flicks, on \"Town\" and \"born\", at your own pace.", "es": "La frase con sus dos floreos, en \"Town\" y \"born\", a tu ritmo." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1364,7 +1381,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then sing it back, flicks and all." },
+                            "text": { "en": "Listen, then sing it back, flicks and all.", "es": "Escucha y repítela, con floreos y todo." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1385,7 +1402,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Again, a touch quicker." },
+                            "text": { "en": "Again, a touch quicker.", "es": "Otra vez, un poco más rápido." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -1406,7 +1423,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Once more, a little quicker." },
+                            "text": { "en": "Once more, a little quicker.", "es": "Una vez más, algo más rápido." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1425,24 +1442,25 @@
                                 "drone": { "step": -4 }
                             },
                             "measures": {
-                                "en": "Scored on every note, the flicks too, with a little extra room for the quick ones. Once it's easy, speed it up yourself."
+                                "en": "Scored on every note, the flicks too, with a little extra room for the quick ones. Once it's easy, speed it up yourself.",
+                                "es": "Se puntúa cada nota, floreos incluidos, con un poco más de margen para los rápidos. Cuando te salga fácil, acelera por tu cuenta."
                             }
                         }
                     ]
                 },
                 {
                     "id": "folk-3-turn",
-                    "fact": {"id": "joseph-taylor-turns-and-twiddles", "text": {"en": "In 1908 Percy Grainger praised Joseph Taylor, a 75-year-old Lincolnshire folk singer, for his \"finished execution of ornamental turns and twiddles (in which so many folk-singers abound)\"."}, "source": {"en": "Wikipedia, Joseph Taylor (folk singer)"}, "url": "https://en.wikipedia.org/wiki/Joseph_Taylor_(folk_singer)"},
-                    "title": { "en": "The turn" },
+                    "fact": {"id": "joseph-taylor-turns-and-twiddles", "text": {"en": "In 1908 Percy Grainger praised Joseph Taylor, a 75-year-old Lincolnshire folk singer, for his \"finished execution of ornamental turns and twiddles (in which so many folk-singers abound)\".", "es": "En 1908, Percy Grainger elogió a Joseph Taylor, un cantante tradicional de Lincolnshire de 75 años, por su \"esmerada ejecución de grupetos y florituras (en los que tanto abundan los cantantes tradicionales)\"."}, "source": {"en": "Wikipedia, Joseph Taylor (folk singer)", "es": "Wikipedia, Joseph Taylor (folk singer)"}, "url": "https://en.wikipedia.org/wiki/Joseph_Taylor_(folk_singer)"},
+                    "title": { "en": "The turn", "es": "El grupeto" },
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A turn wraps around a note: the note above, the note, the note below, and back to the note." },
+                            "headline": { "en": "A turn wraps around a note: the note above, the note, the note below, and back to the note.", "es": "Un grupeto envuelve una nota: la de arriba, la nota, la de abajo y otra vez la nota." },
                             "steps": [
-                                { "title": { "en": "Above, on, below, on" }, "detail": { "en": "Three quick notes, then land" } },
-                                { "title": { "en": "On \"youth\"" }, "detail": { "en": "The long note of the line" } },
-                                { "title": { "en": "Small and light" }, "detail": { "en": "Tiny steps, jaw and belly still" } }
+                                { "title": { "en": "Above, on, below, on", "es": "Arriba, nota, abajo, nota" }, "detail": { "en": "Three quick notes, then land", "es": "Tres notas rápidas y te posas" } },
+                                { "title": { "en": "On \"youth\"", "es": "En \"youth\"" }, "detail": { "en": "The long note of the line", "es": "La nota larga de la frase" } },
+                                { "title": { "en": "Small and light", "es": "Pequeño y ligero" }, "detail": { "en": "Tiny steps, jaw and belly still", "es": "Pasos mínimos, mandíbula y barriga quietas" } }
                             ],
                             "listen": {
                                 "tempo": 60,
@@ -1467,7 +1485,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The line with its turn on \"youth\", at your own pace." },
+                            "text": { "en": "The line with its turn on \"youth\", at your own pace.", "es": "La frase con su grupeto en \"youth\", a tu ritmo." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1489,7 +1507,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then sing it back with the turn." },
+                            "text": { "en": "Listen, then sing it back with the turn.", "es": "Escucha y repítela con el grupeto." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1511,7 +1529,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Again, a touch quicker." },
+                            "text": { "en": "Again, a touch quicker.", "es": "Otra vez, un poco más rápido." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -1533,7 +1551,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Once more, a little quicker." },
+                            "text": { "en": "Once more, a little quicker.", "es": "Una vez más, algo más rápido." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1552,22 +1570,22 @@
                                 "turn": true,
                                 "drone": { "step": -4 }
                             },
-                            "measures": { "en": "Scored on every note of the line, the turn's four too." }
+                            "measures": { "en": "Scored on every note of the line, the turn's four too.", "es": "Se puntúa cada nota de la frase, también las cuatro del grupeto." }
                         }
                     ]
                 },
                 {
                     "id": "folk-3-spot",
-                    "fact": {"id": "sean-nos-ornaments", "text": {"en": "Irish sean-nós (\"old style\") singers ornament a song differently from verse to verse, so no two verses are quite the same."}, "source": {"en": "Wikipedia, Sean-nós singing"}, "url": "https://en.wikipedia.org/wiki/Sean-n%C3%B3s_singing"},
-                    "title": { "en": "Spot the ornament" },
+                    "fact": {"id": "sean-nos-ornaments", "text": {"en": "Irish sean-nós (\"old style\") singers ornament a song differently from verse to verse, so no two verses are quite the same.", "es": "Los cantantes irlandeses de sean-nós (\"estilo antiguo\") adornan la canción de forma distinta en cada estrofa, así que no hay dos estrofas del todo iguales."}, "source": {"en": "Wikipedia, Sean-nós singing", "es": "Wikipedia, Sean-nós singing"}, "url": "https://en.wikipedia.org/wiki/Sean-n%C3%B3s_singing"},
+                    "title": { "en": "Spot the ornament", "es": "Encuentra el adorno" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A good ornament is small. Can you hear where it is?" },
+                            "headline": { "en": "A good ornament is small. Can you hear where it is?", "es": "Un buen adorno es pequeño. ¿Oyes dónde está?" },
                             "steps": [
-                                { "title": { "en": "Listen to the line" }, "detail": { "en": "One word has a flick or a turn" } },
-                                { "title": { "en": "Play it again" }, "detail": { "en": "As often as you like" } },
-                                { "title": { "en": "Pick the word" }, "detail": { "en": "Only your first answer counts" } }
+                                { "title": { "en": "Listen to the line", "es": "Escucha la frase" }, "detail": { "en": "One word has a flick or a turn", "es": "Una palabra lleva un floreo o un grupeto" } },
+                                { "title": { "en": "Play it again", "es": "Escúchala otra vez" }, "detail": { "en": "As often as you like", "es": "Las veces que quieras" } },
+                                { "title": { "en": "Pick the word", "es": "Elige la palabra" }, "detail": { "en": "Only your first answer counts", "es": "Solo cuenta tu primera respuesta" } }
                             ],
                             "listen": {
                                 "tempo": 60,
@@ -1589,7 +1607,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "First sing a line with a flick on \"Town\", at your own pace." },
+                            "text": { "en": "First sing a line with a flick on \"Town\", at your own pace.", "es": "Primero canta una frase con un floreo en \"Town\", a tu ritmo." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1609,15 +1627,15 @@
                         },
                         {
                             "kind": "choose",
-                            "text": { "en": "Listen, then pick the word with the ornament." },
+                            "text": { "en": "Listen, then pick the word with the ornament.", "es": "Escucha y elige la palabra con el adorno." },
                             "exercise": {
                                 "tempo": 60,
                                 "rounds": [
                                     {
-                                        "prompt": { "en": "Which word had the ornament?" },
+                                        "prompt": { "en": "Which word had the ornament?", "es": "¿Qué palabra llevaba el adorno?" },
                                         "clips": [
                                             {
-                                                "label": { "en": "The line" },
+                                                "label": { "en": "The line", "es": "La frase" },
                                                 "notes": [
                                                     { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
                                                     { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
@@ -1633,18 +1651,18 @@
                                             }
                                         ],
                                         "options": [
-                                            { "en": "Scarlet" },
-                                            { "en": "Town" },
-                                            { "en": "born" }
+                                            { "en": "Scarlet", "es": "Scarlet" },
+                                            { "en": "Town", "es": "Town" },
+                                            { "en": "born", "es": "born" }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "A flick on \"Town\": a quick touch of the note above." }
+                                        "why": { "en": "A flick on \"Town\": a quick touch of the note above.", "es": "Un floreo en \"Town\": un toque rápido de la nota de arriba." }
                                     },
                                     {
-                                        "prompt": { "en": "Which word had the ornament?" },
+                                        "prompt": { "en": "Which word had the ornament?", "es": "¿Qué palabra llevaba el adorno?" },
                                         "clips": [
                                             {
-                                                "label": { "en": "The line" },
+                                                "label": { "en": "The line", "es": "La frase" },
                                                 "notes": [
                                                     { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
                                                     { "beat": 0.5, "length": 0.5, "step": -4, "lyric": "Scar-" },
@@ -1660,18 +1678,18 @@
                                             }
                                         ],
                                         "options": [
-                                            { "en": "Scarlet" },
-                                            { "en": "Town" },
-                                            { "en": "born" }
+                                            { "en": "Scarlet", "es": "Scarlet" },
+                                            { "en": "Town", "es": "Town" },
+                                            { "en": "born", "es": "born" }
                                         ],
                                         "answer": 2,
-                                        "why": { "en": "A flick on \"born\", the line's low note." }
+                                        "why": { "en": "A flick on \"born\", the line's low note.", "es": "Un floreo en \"born\", la nota grave de la frase." }
                                     },
                                     {
-                                        "prompt": { "en": "Which word had the ornament?" },
+                                        "prompt": { "en": "Which word had the ornament?", "es": "¿Qué palabra llevaba el adorno?" },
                                         "clips": [
                                             {
-                                                "label": { "en": "The line" },
+                                                "label": { "en": "The line", "es": "La frase" },
                                                 "notes": [
                                                     { "beat": 0, "length": 0.5, "step": 3, "lyric": "Made" },
                                                     { "beat": 0.5, "length": 0.5, "step": 5, "lyric": "ev-" },
@@ -1689,18 +1707,18 @@
                                             }
                                         ],
                                         "options": [
-                                            { "en": "every" },
-                                            { "en": "youth" },
-                                            { "en": "day" }
+                                            { "en": "every", "es": "every" },
+                                            { "en": "youth", "es": "youth" },
+                                            { "en": "day", "es": "day" }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "A turn on \"youth\": above, on, below, on." }
+                                        "why": { "en": "A turn on \"youth\": above, on, below, on.", "es": "Un grupeto en \"youth\": arriba, nota, abajo, nota." }
                                     },
                                     {
-                                        "prompt": { "en": "Which word had the ornament?" },
+                                        "prompt": { "en": "Which word had the ornament?", "es": "¿Qué palabra llevaba el adorno?" },
                                         "clips": [
                                             {
-                                                "label": { "en": "The line" },
+                                                "label": { "en": "The line", "es": "La frase" },
                                                 "notes": [
                                                     { "beat": 0, "length": 0.5, "step": -9, "lyric": "In" },
                                                     { "beat": 0.5, "length": 0.25, "step": -2, "lyric": "Scar-" },
@@ -1716,18 +1734,18 @@
                                             }
                                         ],
                                         "options": [
-                                            { "en": "Scarlet" },
-                                            { "en": "Town" },
-                                            { "en": "born" }
+                                            { "en": "Scarlet", "es": "Scarlet" },
+                                            { "en": "Town", "es": "Town" },
+                                            { "en": "born", "es": "born" }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A flick on \"Scar-\": quick ornaments can sit on short notes too." }
+                                        "why": { "en": "A flick on \"Scar-\": quick ornaments can sit on short notes too.", "es": "Un floreo en \"Scar-\": los adornos rápidos también caben en notas cortas." }
                                     },
                                     {
-                                        "prompt": { "en": "Which word had the ornament?" },
+                                        "prompt": { "en": "Which word had the ornament?", "es": "¿Qué palabra llevaba el adorno?" },
                                         "clips": [
                                             {
-                                                "label": { "en": "The line" },
+                                                "label": { "en": "The line", "es": "La frase" },
                                                 "notes": [
                                                     { "beat": 0, "length": 0.5, "step": 3, "lyric": "Made" },
                                                     { "beat": 0.5, "length": 0.5, "step": 5, "lyric": "ev-" },
@@ -1743,32 +1761,32 @@
                                             }
                                         ],
                                         "options": [
-                                            { "en": "every" },
-                                            { "en": "youth" },
-                                            { "en": "day" }
+                                            { "en": "every", "es": "every" },
+                                            { "en": "youth", "es": "youth" },
+                                            { "en": "day", "es": "day" }
                                         ],
                                         "answer": 2,
-                                        "why": { "en": "A flick on \"day\", at the end of the line." }
+                                        "why": { "en": "A flick on \"day\", at the end of the line.", "es": "Un floreo en \"day\", al final de la frase." }
                                     }
                                 ]
                             },
-                            "measures": { "en": "Scored on the rounds you got right first time." }
+                            "measures": { "en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera." }
                         }
                     ]
                 },
                 {
                     "id": "folk-3-challenge",
-                    "title": { "en": "Decorate a ballad" },
+                    "title": { "en": "Decorate a ballad", "es": "Adorna una balada" },
                     "challenge": true,
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "The whole verse, a flick on \"Town\" and a turn on \"youth\", plain everywhere else." },
+                            "headline": { "en": "The whole verse, a flick on \"Town\" and a turn on \"youth\", plain everywhere else.", "es": "La estrofa entera, con un floreo en \"Town\" y un grupeto en \"youth\", y lisa en todo lo demás." },
                             "steps": [
-                                { "title": { "en": "Listen to the verse" }, "detail": { "en": "Two ornaments, no more" } },
-                                { "title": { "en": "Light, from the breath" }, "detail": { "en": "Jaw still for the ornaments" } },
-                                { "title": { "en": "Plain between" }, "detail": { "en": "The long notes steady and easy" } }
+                                { "title": { "en": "Listen to the verse", "es": "Escucha la estrofa" }, "detail": { "en": "Two ornaments, no more", "es": "Dos adornos, no más" } },
+                                { "title": { "en": "Light, from the breath", "es": "Ligero, con el aire" }, "detail": { "en": "Jaw still for the ornaments", "es": "Mandíbula quieta en los adornos" } },
+                                { "title": { "en": "Plain between", "es": "Liso entre adornos" }, "detail": { "en": "The long notes steady and easy", "es": "Las notas largas, estables y sin esfuerzo" } }
                             ],
                             "listen": {
                                 "tempo": 60,
@@ -1817,7 +1835,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The decorated verse at your own pace first." },
+                            "text": { "en": "The decorated verse at your own pace first.", "es": "Primero la estrofa adornada a tu ritmo." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1863,7 +1881,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "After a bar of the drone, sing the decorated verse." },
+                            "text": { "en": "After a bar of the drone, sing the decorated verse.", "es": "Tras un compás de bordón, canta la estrofa adornada." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1907,7 +1925,8 @@
                                 "drone": { "step": -4 }
                             },
                             "measures": {
-                                "en": "Scored on every note, the ornaments too. Listen back: were the long notes plain and steady?"
+                                "en": "Scored on every note, the ornaments too. Listen back: were the long notes plain and steady?",
+                                "es": "Se puntúa cada nota, adornos incluidos. Escúchate después: ¿eran lisas y estables las notas largas?"
                             }
                         }
                     ]
@@ -1916,26 +1935,27 @@
         },
         {
             "id": "folk-on-your-own",
-            "title": { "en": "On your own" },
+            "title": { "en": "On your own", "es": "A solas" },
             "colour": 2,
             "lessons": [
                 {
                     "id": "folk-4-chant",
-                    "fact": {"id": "guido-ten-years", "text": {"en": "Before Guido, learning the church's chants could take a singer ten years. His teaching cut that sharply: to a year or two by one account, to five months by his own."}, "source": {"en": "Wikipedia, Guido of Arezzo"}, "url": "https://en.wikipedia.org/wiki/Guido_of_Arezzo"},
-                    "title": { "en": "Where do re mi come from?" },
+                    "fact": {"id": "guido-ten-years", "text": {"en": "Before Guido, learning the church's chants could take a singer ten years. His teaching cut that sharply: to a year or two by one account, to five months by his own.", "es": "Antes de Guido, aprender los cantos de la iglesia podía llevarle a un cantor diez años. Su método lo redujo mucho: a un año o dos, según un testimonio, y a cinco meses, según el suyo."}, "source": {"en": "Wikipedia, Guido of Arezzo", "es": "Wikipedia, Guido of Arezzo"}, "url": "https://en.wikipedia.org/wiki/Guido_of_Arezzo"},
+                    "title": { "en": "Where do re mi come from?", "es": "¿De dónde vienen do, re, mi?" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "About a thousand years ago, Guido of Arezzo taught singers the notes with a hymn, Ut queant laxis, whose half-lines each start one note higher. He named the notes after their first syllables."
+                                "en": "About a thousand years ago, Guido of Arezzo taught singers the notes with a hymn, Ut queant laxis, whose half-lines each start one note higher. He named the notes after their first syllables.",
+                                "es": "Hace unos mil años, Guido de Arezzo enseñaba las notas con un himno, Ut queant laxis, en el que cada medio verso empieza una nota más arriba. Dio a las notas el nombre de esas primeras sílabas."
                             },
                             "steps": [
-                                { "title": { "en": "Ut, re, mi, fa, sol, la" }, "detail": { "en": "\"Ut\" became \"do\" in 17th-century Italy" } },
+                                { "title": { "en": "Ut, re, mi, fa, sol, la", "es": "Ut, re, mi, fa, sol, la" }, "detail": { "en": "\"Ut\" became \"do\" in 17th-century Italy", "es": "\"Ut\" pasó a ser \"do\" en la Italia del siglo XVII" } },
                                 {
-                                    "title": { "en": "Mi to fa is the half step" },
-                                    "detail": { "en": "The smallest step, the one to tune with care" }
+                                    "title": { "en": "Mi to fa is the half step", "es": "De \"mi\" a \"fa\", el semitono" },
+                                    "detail": { "en": "The smallest step, the one to tune with care", "es": "El intervalo más pequeño, el que hay que afinar con cuidado" }
                                 },
-                                { "title": { "en": "Low notes easy" }, "detail": { "en": "Never pressed down" } }
+                                { "title": { "en": "Low notes easy", "es": "Graves sin esfuerzo" }, "detail": { "en": "Never pressed down", "es": "Sin empujar hacia abajo" } }
                             ],
                             "listen": {
                                 "tempo": 60,
@@ -1955,7 +1975,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "Up the six notes on their syllables, at your own pace." },
+                            "text": { "en": "Up the six notes on their syllables, at your own pace.", "es": "Sube las seis notas con sus sílabas, a tu ritmo. Aquí, \"ut\" (el \"do\") no es una nota fija: es tu nota base, esté donde esté (do móvil)." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1972,7 +1992,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then sing them back, up." },
+                            "text": { "en": "Listen, then sing them back, up.", "es": "Escucha y repítelas, subiendo." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1989,7 +2009,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now up and back down." },
+                            "text": { "en": "Now up and back down.", "es": "Ahora sube y vuelve a bajar." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -2009,30 +2029,32 @@
                                 "drone": { "step": -4 }
                             },
                             "measures": {
-                                "en": "Scored on every note, the half step between mi and fa among them."
+                                "en": "Scored on every note, the half step between mi and fa among them.",
+                                "es": "Se puntúa cada nota, entre ellas el semitono de \"mi\" a \"fa\"."
                             }
                         }
                     ]
                 },
                 {
                     "id": "folk-4-lining",
-                    "fact": {"id": "gaelic-psalm-lining-out", "text": {"en": "Lining out still lives in the Gaelic psalm singing of the Scottish Hebrides, where a precentor sings each line first."}, "source": {"en": "Wikipedia, Lining out"}, "url": "https://en.wikipedia.org/wiki/Lining_out"},
-                    "title": { "en": "Lining out" },
+                    "fact": {"id": "gaelic-psalm-lining-out", "text": {"en": "Lining out still lives in the Gaelic psalm singing of the Scottish Hebrides, where a precentor sings each line first.", "es": "El canto verso a verso (lining out) sigue vivo en los salmos en gaélico de las Hébridas escocesas, donde un precentor, el cantor que guía a los demás, entona primero cada verso."}, "source": {"en": "Wikipedia, Lining out", "es": "Wikipedia, Lining out"}, "url": "https://en.wikipedia.org/wiki/Lining_out"},
+                    "title": { "en": "Lining out", "es": "Verso a verso" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Lining out began in 17th-century Britain, when few in church had books: a leader sang each line and everyone sang it back. No drone here: the leader's line gives you the key."
+                                "en": "Lining out began in 17th-century Britain, when few in church had books: a leader sang each line and everyone sang it back. No drone here: the leader's line gives you the key.",
+                                "es": "El canto verso a verso nació en la Gran Bretaña del siglo XVII, cuando en la iglesia pocos tenían libro: quien dirigía cantaba cada verso y todos lo repetían. Aquí no hay bordón: la frase de quien guía te da la tonalidad."
                             },
                             "steps": [
                                 {
-                                    "title": { "en": "Wondrous Love" },
-                                    "detail": { "en": "This hymn comes from a later shape-note book, of about 1840" }
+                                    "title": { "en": "Wondrous Love", "es": "Wondrous Love" },
+                                    "detail": { "en": "This hymn comes from a later shape-note book, of about 1840", "es": "Este himno viene de un cancionero posterior en notación por formas (shape-note), de hacia 1840" }
                                 },
-                                { "title": { "en": "Line by line" }, "detail": { "en": "Listen, then sing it back" } },
+                                { "title": { "en": "Line by line", "es": "Frase a frase" }, "detail": { "en": "Listen, then sing it back", "es": "Escucha y repítela" } },
                                 {
-                                    "title": { "en": "Medium, not loud" },
-                                    "detail": { "en": "Shape-note singing is famous for singing loud; keep it easy" }
+                                    "title": { "en": "Medium, not loud", "es": "Volumen medio" },
+                                    "detail": { "en": "Shape-note singing is famous for singing loud; keep it easy", "es": "El canto shape-note es famoso por lo fuerte que se canta; tú, sin esfuerzo" }
                                 }
                             ],
                             "listen": {
@@ -2067,7 +2089,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen to the first line, then sing it back. No drone now." },
+                            "text": { "en": "Listen to the first line, then sing it back. No drone now.", "es": "Escucha la primera frase y repítela. Ahora sin bordón." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -2089,7 +2111,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "And the second line." },
+                            "text": { "en": "And the second line.", "es": "Y la segunda frase." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -2108,7 +2130,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now both lines together, heard once and sung back." },
+                            "text": { "en": "Now both lines together, heard once and sung back.", "es": "Ahora las dos frases juntas: las oyes una vez y las repites." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -2137,27 +2159,29 @@
                                 "turn": true
                             },
                             "measures": {
-                                "en": "Scored on the notes of both lines, sung with nothing underneath."
+                                "en": "Scored on the notes of both lines, sung with nothing underneath.",
+                                "es": "Se puntúan las notas de las dos frases, cantadas sin nada debajo."
                             }
                         }
                     ]
                 },
                 {
                     "id": "folk-4-alone",
-                    "fact": {"id": "barbara-allen-most-collected", "text": {"en": "Barbara Allen has been called \"far and away the most widely collected song in the English language\", with hundreds of versions collected in North America alone."}, "source": {"en": "Wikipedia, Barbara Allen (song)"}, "url": "https://en.wikipedia.org/wiki/Barbara_Allen_(song)"},
-                    "title": { "en": "On your own" },
+                    "fact": {"id": "barbara-allen-most-collected", "text": {"en": "Barbara Allen has been called \"far and away the most widely collected song in the English language\", with hundreds of versions collected in North America alone.", "es": "De Barbara Allen se ha dicho que es \"con diferencia, la canción más recopilada en lengua inglesa\", con cientos de versiones recopiladas solo en Norteamérica."}, "source": {"en": "Wikipedia, Barbara Allen (song)", "es": "Wikipedia, Barbara Allen (song)"}, "url": "https://en.wikipedia.org/wiki/Barbara_Allen_(song)"},
+                    "title": { "en": "On your own", "es": "A solas" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Many ballads were sung by one voice with nothing underneath. Your key is only in your ear, so we take the drone away a step at a time."
+                                "en": "Many ballads were sung by one voice with nothing underneath. Your key is only in your ear, so we take the drone away a step at a time.",
+                                "es": "Muchas baladas las cantaba una sola voz, sin nada debajo. Tu tonalidad solo está en tu oído, así que quitamos el bordón poco a poco."
                             },
                             "steps": [
-                                { "title": { "en": "First with the drone" }, "detail": { "en": "Barbara Allen's first line" } },
-                                { "title": { "en": "Then it fades" }, "detail": { "en": "The same line, the drone slipping away" } },
+                                { "title": { "en": "First with the drone", "es": "Primero con el bordón" }, "detail": { "en": "Barbara Allen's first line", "es": "La primera frase de Barbara Allen" } },
+                                { "title": { "en": "Then it fades", "es": "Luego se desvanece" }, "detail": { "en": "The same line, the drone slipping away", "es": "La misma frase, mientras el bordón se va" } },
                                 {
-                                    "title": { "en": "Then the verse" },
-                                    "detail": { "en": "From your first note to the home note: did you stay in key?" }
+                                    "title": { "en": "Then the verse", "es": "Luego la estrofa" },
+                                    "detail": { "en": "From your first note to the home note: did you stay in key?", "es": "De tu primera nota a la nota base: ¿mantuviste la tonalidad?" }
                                 }
                             ],
                             "listen": {
@@ -2187,7 +2211,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then sing the first line back over the drone." },
+                            "text": { "en": "Listen, then sing the first line back over the drone.", "es": "Escucha y repite la primera frase sobre el bordón." },
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -2213,7 +2237,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The same line, and this time the drone fades away while you sing it." },
+                            "text": { "en": "The same line, and this time the drone fades away while you sing it.", "es": "La misma frase, y esta vez el bordón se desvanece mientras cantas." },
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -2240,7 +2264,8 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Now the verse, all on your own. The guide gives you your first note; after your last, it sings the home note, so you hear where you landed."
+                                "en": "Now the verse, all on your own. The guide gives you your first note; after your last, it sings the home note, so you hear where you landed.",
+                                "es": "Ahora la estrofa, completamente a solas. La guía te da la primera nota; después de la última, canta la nota base, para que oigas adónde has llegado."
                             },
                             "exercise": {
                                 "tempo": 80,
@@ -2284,25 +2309,27 @@
                                 "giveNote": true
                             },
                             "measures": {
-                                "en": "Scored on your intervals, judged in the key you set yourself, and for how well you held that key to the end. Singers on their own often drift: think up on the falling notes."
+                                "en": "Scored on your intervals, judged in the key you set yourself, and for how well you held that key to the end. Singers on their own often drift: think up on the falling notes.",
+                                "es": "Se puntúan tus intervalos, medidos en la tonalidad que marcas tú, y lo bien que la mantienes hasta el final. Cantando a solas es fácil que se caiga la afinación: en las notas que bajan, piensa hacia arriba."
                             }
                         }
                     ]
                 },
                 {
                     "id": "folk-4-challenge",
-                    "title": { "en": "Encore" },
+                    "title": { "en": "Encore", "es": "Bis" },
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Back to the first song you sang here, Drunken Sailor. Then: with a guide and a drone. Now: on your own, with a flick on \"morn-\"."
+                                "en": "Back to the first song you sang here, Drunken Sailor. Then: with a guide and a drone. Now: on your own, with a flick on \"morn-\".",
+                                "es": "Volvemos a la primera canción que cantaste aquí, Drunken Sailor. Antes: con guía y bordón. Ahora: a solas, con un floreo en \"morn-\"."
                             },
                             "steps": [
-                                { "title": { "en": "Listen once" }, "detail": { "en": "The guide sings the verse with no drone" } },
-                                { "title": { "en": "Then it's yours" }, "detail": { "en": "From your first note, the bright note bright" } },
-                                { "title": { "en": "Strong, not loud" }, "detail": { "en": "And keep the key until the home note" } }
+                                { "title": { "en": "Listen once", "es": "Escucha una vez" }, "detail": { "en": "The guide sings the verse with no drone", "es": "La guía canta la estrofa sin bordón" } },
+                                { "title": { "en": "Then it's yours", "es": "Y luego es tuya" }, "detail": { "en": "From your first note, the bright note bright", "es": "Desde tu primera nota, con la nota brillante bien brillante" } },
+                                { "title": { "en": "Strong, not loud", "es": "Con cuerpo, sin gritar" }, "detail": { "en": "And keep the key until the home note", "es": "Y mantén la tonalidad hasta la nota base" } }
                             ],
                             "listen": {
                                 "tempo": 80,
@@ -2352,7 +2379,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The verse at your own pace first, with no drone." },
+                            "text": { "en": "The verse at your own pace first, with no drone.", "es": "Primero la estrofa a tu ritmo, sin bordón." },
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -2399,7 +2426,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The verse on your own. The guide gives you your first note, and the home note after your last." },
+                            "text": { "en": "The verse on your own. The guide gives you your first note, and the home note after your last.", "es": "La estrofa a solas. La guía te da la primera nota, y la nota base después de la última." },
                             "exercise": {
                                 "thenAndNow": "folk.first",
                                 "tempo": 80,
@@ -2449,7 +2476,8 @@
                                 "giveNote": true
                             },
                             "measures": {
-                                "en": "Scored on your intervals in your own key, and for holding it to the end."
+                                "en": "Scored on your intervals in your own key, and for holding it to the end.",
+                                "es": "Se puntúan tus intervalos en tu propia tonalidad y que la mantengas hasta el final."
                             }
                         }
                     ]
