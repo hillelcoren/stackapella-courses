@@ -2,33 +2,33 @@
     "id": "other-languages",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Singing in another language"},
+    "title": {"en": "Singing in another language", "es": "Cantar en otro idioma"},
     "units": [
         {
             "id": "ol-japanese",
-            "title": {"en": "One sound, one note"},
+            "title": {"en": "One sound, one note", "es": "Un sonido, una nota"},
             "colour": 5,
             "lessons": [
                 {
                     "id": "ol-1-sakura",
-                    "title": {"en": "Sakura"},
+                    "title": {"en": "Sakura", "es": "Sakura"},
                     "strictness": "relaxed",
-                    "fact": {"id": "sakura-1941-words", "text": {"en": "In 1941 Japan's Ministry of Education gave Sakura new words, \"Noyama mo, sato mo\", because the 1888 ones were hard for children. That's the version most Japanese people learned; this course sings the 1888 words."}, "source": {"en": "さくらさくら, Japanese Wikipedia"}, "url": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89%E3%81%95%E3%81%8F%E3%82%89"},
+                    "fact": {"id": "sakura-1941-words", "text": {"en": "In 1941 Japan's Ministry of Education gave Sakura new words, \"Noyama mo, sato mo\", because the 1888 ones were hard for children. That's the version most Japanese people learned; this course sings the 1888 words.", "es": "En 1941, el Ministerio de Educación de Japón dio a Sakura una letra nueva, \"Noyama mo, sato mo\", porque la de 1888 era difícil para los niños. Es la versión que aprendió la mayoría de los japoneses; este curso canta la letra de 1888."}, "source": {"en": "さくらさくら, Japanese Wikipedia", "es": "さくらさくら, Wikipedia en japonés"}, "url": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89%E3%81%95%E3%81%8F%E3%82%89"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Choirs learn a song in another language by ear: the tune's vowels first, then the words. Here's your first Japanese line: さくら さくら, \"sa-ku-ra, sa-ku-ra\", cherry blossoms."},
+                            "headline": {"en": "Choirs learn a song in another language by ear: the tune's vowels first, then the words. Here's your first Japanese line: さくら さくら, \"sa-ku-ra, sa-ku-ra\", cherry blossoms.", "es": "Los coros aprenden una canción en otro idioma de oído: primero las vocales de la melodía, luego la letra. Esta es tu primera frase en japonés: さくら さくら, \"sa-ku-ra, sa-ku-ra\", flores de cerezo."},
                             "steps": [
-                                {"title": {"en": "The vowels"}, "detail": {"en": "a u a, a u a"}},
-                                {"title": {"en": "Then the words"}, "detail": {"en": "sa-ku-ra, every a an \"ah\""}},
-                                {"title": {"en": "Then the choir"}, "detail": {"en": "With the other parts"}}
+                                {"title": {"en": "The vowels", "es": "Las vocales"}, "detail": {"en": "a u a, a u a", "es": "a u a, a u a"}},
+                                {"title": {"en": "Then the words", "es": "Luego la letra"}, "detail": {"en": "sa-ku-ra, every a an \"ah\"", "es": "sa-ku-ra, cada a bien abierta"}},
+                                {"title": {"en": "Then the choir", "es": "Luego el coro"}, "detail": {"en": "With the other parts", "es": "Con las demás voces"}}
                             ],
                             "visual": "vowels",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first line on its vowels only: \"a u a, a u a\"."},
+                            "text": {"en": "The first line on its vowels only: \"a u a, a u a\".", "es": "La primera frase solo con sus vocales: \"a u a, a u a\"."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -44,7 +44,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the words: \"sa-ku-ra, sa-ku-ra\". The last \"ra\" stays \"rah\", never \"ruh\"."},
+                            "text": {"en": "Now the words: \"sa-ku-ra, sa-ku-ra\". The last \"ra\" stays \"rah\", never \"ruh\".", "es": "Ahora la letra: \"sa-ku-ra, sa-ku-ra\". La r, simple como en \"cara\", y la última \"ra\" con su a hasta el final."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -59,11 +59,11 @@
                                 "keep": "ol.first-line",
                                 "generous": true
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lines 1 and 2 with the other parts: \"sa-ku-ra, sa-ku-ra, ya-yo-i no so-ra wa\", the sky of spring."},
+                            "text": {"en": "Lines 1 and 2 with the other parts: \"sa-ku-ra, sa-ku-ra, ya-yo-i no so-ra wa\", the sky of spring.", "es": "Frases 1 y 2 con las demás voces: \"sa-ku-ra, sa-ku-ra, ya-yo-i no so-ra wa\", el cielo de primavera."},
                             "exercise": {
                                 "song": {
                                     "template": "sakura-sakura",
@@ -74,28 +74,28 @@
                                 "tempo": 66,
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         }
                     ]
                 },
                 {
                     "id": "ol-1-vowels",
-                    "title": {"en": "Five whole vowels"},
+                    "title": {"en": "Five whole vowels", "es": "Cinco vocales enteras"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Japanese, Spanish and Latin keep every vowel whole, where English slides or shrinks them. This course's five: ah, eh, ee, o, oo. An easy jaw and a soft tongue: new sounds come from the tongue and lips, never from pushing. A medium volume, the middle of your voice. Stop if anything tightens."},
+                            "headline": {"en": "Japanese, Spanish and Latin keep every vowel whole, where English slides or shrinks them. This course's five: ah, eh, ee, o, oo. An easy jaw and a soft tongue: new sounds come from the tongue and lips, never from pushing. A medium volume, the middle of your voice. Stop if anything tightens.", "es": "El japonés y el latín, como el español, mantienen cada vocal entera, sin deslizarla ni apagarla como el inglés. Las cinco del curso son casi las tuyas: a, e, i, o, u (la u japonesa, con un matiz). Mandíbula suelta y lengua relajada: los sonidos nuevos salen de la lengua y los labios, nunca de empujar. Volumen medio, en la zona media de tu voz. Si algo se tensa, para."},
                             "steps": [
-                                {"title": {"en": "No glide"}, "detail": {"en": "\"o\" stays o, never \"oh-oo\""}},
-                                {"title": {"en": "No \"uh\""}, "detail": {"en": "Every vowel whole, even the last"}},
-                                {"title": {"en": "Japanese u"}, "detail": {"en": "Lips relaxed and flat, not pushed forward"}}
+                                {"title": {"en": "No glide", "es": "Sin \"ou\""}, "detail": {"en": "\"o\" stays o, never \"oh-oo\"", "es": "La \"o\" es solo o, nunca \"ou\""}},
+                                {"title": {"en": "No \"uh\"", "es": "Sin apagar"}, "detail": {"en": "Every vowel whole, even the last", "es": "Cada vocal entera, también la última"}},
+                                {"title": {"en": "Japanese u", "es": "La u japonesa"}, "detail": {"en": "Lips relaxed and flat, not pushed forward", "es": "Más plana que la tuya: labios relajados, sin adelantar"}}
                             ],
                             "visual": "vowels",
                             "reviewed": false
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Tourist, then local: sing \"no\" the English way, \"noh-oo\", then the Japanese way. Hear them back to back."},
+                            "text": {"en": "Tourist, then local: sing \"no\" the English way, \"noh-oo\", then the Japanese way. Hear them back to back.", "es": "Primero como turista, luego como en Japón: \"no\" a la inglesa, \"noh-oo\" (nou), y luego a la japonesa, una o pura como la tuya. Escúchalas seguidas."},
                             "exercise": {
                                 "tempo": 72,
                                 "model": {
@@ -104,12 +104,12 @@
                                         {"beat": 3, "length": 2, "step": 0, "lyric": "no"}
                                     ]
                                 },
-                                "questions": [{"en": "Which one sounds Japanese?"}, {"en": "Did the second \"no\" stay \"o\" to the end?"}]
+                                "questions": [{"en": "Which one sounds Japanese?", "es": "¿Cuál suena a japonés?"}, {"en": "Did the second \"no\" stay \"o\" to the end?", "es": "¿El segundo \"no\" se quedó en \"o\" hasta el final?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Sakura's own syllables, each held on one note: no, so, ra, mo, zo."},
+                            "text": {"en": "Sakura's own syllables, each held on one note: no, so, ra, mo, zo.", "es": "Las sílabas de Sakura, cada una sostenida en una nota: no, so, ra, mo, zo."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -123,34 +123,34 @@
                                 "drone": {"step": 0},
                                 "score": "lock"
                             },
-                            "measures": {"en": "Scored on each held note staying steady on its pitch. Whether the vowel stayed pure is yours to hear: play it back."}
+                            "measures": {"en": "Scored on each held note staying steady on its pitch. Whether the vowel stayed pure is yours to hear: play it back.", "es": "Se puntúa que cada nota sostenida se mantenga estable en su altura. Si la vocal sonó pura, lo juzgas tú: escúchate."}
                         }
                     ]
                 },
                 {
                     "id": "ol-1-mora",
-                    "title": {"en": "Every small sound"},
-                    "fact": {"id": "bidakuon-textbook", "text": {"en": "A Japanese middle-school music book still tells pupils that a g inside a word may be sung through the nose, the soft \"ng\" of traditional singing."}, "source": {"en": "Kyōiku Shuppan, Chūgaku Ongaku 1"}, "url": "https://www.kyoiku-shuppan.co.jp/docs/r7chuu/ongaku/d-book/pageindices/index17.html"},
+                    "title": {"en": "Every small sound", "es": "Cada sonido cuenta"},
+                    "fact": {"id": "bidakuon-textbook", "text": {"en": "A Japanese middle-school music book still tells pupils that a g inside a word may be sung through the nose, the soft \"ng\" of traditional singing.", "es": "Un libro de música de secundaria japonés aún enseña que una g dentro de una palabra puede cantarse por la nariz: la \"ng\" suave del canto tradicional."}, "source": {"en": "Kyōiku Shuppan, Chūgaku Ongaku 1", "es": "Kyōiku Shuppan, Chūgaku Ongaku 1"}, "url": "https://www.kyoiku-shuppan.co.jp/docs/r7chuu/ongaku/d-book/pageindices/index17.html"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "In Japanese, every small sound gets its own beat. \"Ya-yo-i\" is three notes, never \"ya-yoy\"."},
+                            "headline": {"en": "In Japanese, every small sound gets its own beat. \"Ya-yo-i\" is three notes, never \"ya-yoy\".", "es": "En japonés, cada sonido, por pequeño que sea, tiene su propio pulso. \"Ya-yo-i\" son tres notas, nunca \"ya-yoi\" como en \"hoy\"."},
                             "steps": [
-                                {"title": {"en": "Every sound"}, "detail": {"en": "ya-yo-i, ni-o-i: two vowels, two notes"}},
-                                {"title": {"en": "The quiet su"}, "detail": {"en": "Whispered in speech, sung here"}},
-                                {"title": {"en": "ka-gi-ri"}, "detail": {"en": "A soft \"ng\" is the old way; a plain g is fine"}}
+                                {"title": {"en": "Every sound", "es": "Cada sonido"}, "detail": {"en": "ya-yo-i, ni-o-i: two vowels, two notes", "es": "ya-yo-i, ni-o-i: dos vocales, dos notas"}},
+                                {"title": {"en": "The quiet su", "es": "La su callada"}, "detail": {"en": "Whispered in speech, sung here", "es": "Susurrada al hablar, aquí cantada"}},
+                                {"title": {"en": "ka-gi-ri", "es": "ka-gi-ri"}, "detail": {"en": "A soft \"ng\" is the old way; a plain g is fine", "es": "La \"ng\" suave (la n de \"tengo\") es lo antiguo; una g normal está bien"}}
                             ],
                             "visual": "echo",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 72,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which \"kagiri\" gives every sound its own note?"},
+                                        "prompt": {"en": "Which \"kagiri\" gives every sound its own note?", "es": "¿En qué \"kagiri\" tiene cada sonido su nota?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -164,10 +164,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The other runs two sounds together, the way English would."}
+                                        "why": {"en": "The other runs two sounds together, the way English would.", "es": "El otro junta dos sonidos en una sola nota."}
                                     },
                                     {
-                                        "prompt": {"en": "Which \"yayoi\" gives every sound its own note?"},
+                                        "prompt": {"en": "Which \"yayoi\" gives every sound its own note?", "es": "¿En qué \"yayoi\" tiene cada sonido su nota?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 1, "step": 0, "lyric": "yayoi"}, {"beat": 1, "length": 3, "step": -2}]
@@ -181,10 +181,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The other runs two sounds together, the way English would."}
+                                        "why": {"en": "The other runs two sounds together, the way English would.", "es": "El otro junta dos sonidos en una sola nota."}
                                     },
                                     {
-                                        "prompt": {"en": "Which \"miwatasu\" gives every sound its own note?"},
+                                        "prompt": {"en": "Which \"miwatasu\" gives every sound its own note?", "es": "¿En qué \"miwatasu\" tiene cada sonido su nota?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -203,15 +203,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The other runs two sounds together, the way English would."}
+                                        "why": {"en": "The other runs two sounds together, the way English would.", "es": "El otro junta dos sonidos en una sola nota."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 3: \"mi-wa-ta-su ka-gi-ri\", as far as the eye can see. Sing the \"su\"."},
+                            "text": {"en": "Line 3: \"mi-wa-ta-su ka-gi-ri\", as far as the eye can see. Sing the \"su\".", "es": "Frase 3: \"mi-wa-ta-su ka-gi-ri\", hasta donde alcanza la vista. Canta la \"su\"."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -226,29 +226,29 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         }
                     ]
                 },
                 {
                     "id": "ol-1-challenge",
-                    "title": {"en": "Sakura with the others"},
+                    "title": {"en": "Sakura with the others", "es": "Sakura con los demás"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's line to hear how far you've come, then the song's last line and its hummed n, then three lines with the other parts."},
+                            "headline": {"en": "Lesson 1's line to hear how far you've come, then the song's last line and its hummed n, then three lines with the other parts.", "es": "La frase de la lección 1, para oír cuánto has avanzado; luego la última frase de la canción, con su n final por la nariz, y tres frases con las demás voces."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
-                                {"title": {"en": "The last n"}, "detail": {"en": "Hummed at the back, a note of its own"}},
-                                {"title": {"en": "The choir"}, "detail": {"en": "Lines 1 to 3"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1's line, today", "es": "La frase de la lección 1, hoy"}},
+                                {"title": {"en": "The last n", "es": "La última n"}, "detail": {"en": "Hummed at the back, a note of its own", "es": "Por la nariz, lengua atrás, con su propia nota"}},
+                                {"title": {"en": "The choir", "es": "El coro"}, "detail": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's line."},
+                            "text": {"en": "Lesson 1's line.", "es": "La frase de la lección 1."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -262,11 +262,11 @@
                                 "turn": true,
                                 "thenAndNow": "ol.first-line"
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The last line: \"mi-ni-yu-ka-n\", let's go and see. The n is hummed, with the back of the tongue."},
+                            "text": {"en": "The last line: \"mi-ni-yu-ka-n\", let's go and see. The n is hummed, with the back of the tongue.", "es": "La última frase: \"mi-ni-yu-ka-n\", vamos a verlas. La n, por la nariz y con la lengua atrás, como en \"tengo\"."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -279,11 +279,11 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lines 1 to 3 with the other parts."},
+                            "text": {"en": "Lines 1 to 3 with the other parts.", "es": "Frases 1 a 3 con las demás voces."},
                             "exercise": {
                                 "song": {
                                     "template": "sakura-sakura",
@@ -294,7 +294,7 @@
                                 "tempo": 66,
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         }
                     ]
                 }
@@ -302,32 +302,32 @@
         },
         {
             "id": "ol-spanish",
-            "title": {"en": "Vowels that join"},
+            "title": {"en": "Vowels that join", "es": "Vocales que se unen"},
             "colour": 5,
             "lessons": [
                 {
                     "id": "ol-2-habanera",
-                    "title": {"en": "The habanera"},
+                    "title": {"en": "The habanera", "es": "La habanera"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "La Paloma's refrain: \"Si a tu ventana llega una paloma\", if a dove comes to your window. Spanish vowels stay whole, even unstressed."},
+                            "headline": {"en": "La Paloma's refrain: \"Si a tu ventana llega una paloma\", if a dove comes to your window. Spanish vowels stay whole, even unstressed.", "es": "El estribillo de La Paloma: \"Si a tu ventana llega una paloma\". Tus vocales ya son puras: cántalas igual de limpias en cada nota, también las átonas."},
                             "steps": [
-                                {"title": {"en": "The rhythm"}, "detail": {"en": "Long, short, then two even"}},
-                                {"title": {"en": "Whole vowels"}, "detail": {"en": "pa-LO-ma, every a an \"ah\""}},
-                                {"title": {"en": "Two vowels, one note"}, "detail": {"en": "\"Si‿a\" shares a note"}}
+                                {"title": {"en": "The rhythm", "es": "El ritmo"}, "detail": {"en": "Long, short, then two even", "es": "Larga, corta y dos iguales"}},
+                                {"title": {"en": "Whole vowels", "es": "Vocales enteras"}, "detail": {"en": "pa-LO-ma, every a an \"ah\"", "es": "pa-LO-ma, las dos a iguales"}},
+                                {"title": {"en": "Two vowels, one note", "es": "Dos vocales, una nota"}, "detail": {"en": "\"Si‿a\" shares a note", "es": "\"Si‿a\": las dos vocales en una nota"}}
                             ],
                             "visual": "vowels",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 66,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one is the habanera?"},
+                                        "prompt": {"en": "Which one is the habanera?", "es": "¿Cuál es la habanera?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -355,10 +355,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The habanera's beat is long, short, then two even: the rhythm Iradier brought back from Cuba."}
+                                        "why": {"en": "The habanera's beat is long, short, then two even: the rhythm Iradier brought back from Cuba.", "es": "La habanera va larga, corta y dos iguales: el ritmo que Iradier se trajo de Cuba."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one is the habanera?"},
+                                        "prompt": {"en": "Which one is the habanera?", "es": "¿Cuál es la habanera?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -386,10 +386,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The habanera's beat is long, short, then two even: the rhythm Iradier brought back from Cuba."}
+                                        "why": {"en": "The habanera's beat is long, short, then two even: the rhythm Iradier brought back from Cuba.", "es": "La habanera va larga, corta y dos iguales: el ritmo que Iradier se trajo de Cuba."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one is the habanera?"},
+                                        "prompt": {"en": "Which one is the habanera?", "es": "¿Cuál es la habanera?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -417,15 +417,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The habanera's beat is long, short, then two even: the rhythm Iradier brought back from Cuba."}
+                                        "why": {"en": "The habanera's beat is long, short, then two even: the rhythm Iradier brought back from Cuba.", "es": "La habanera va larga, corta y dos iguales: el ritmo que Iradier se trajo de Cuba."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The refrain's first line on its vowels."},
+                            "text": {"en": "The refrain's first line on its vowels.", "es": "La primera frase del estribillo, solo con sus vocales."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -447,7 +447,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the words, on the beat."},
+                            "text": {"en": "Now the words, on the beat.", "es": "Ahora la letra, a tiempo."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -466,34 +466,34 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         }
                     ]
                 },
                 {
                     "id": "ol-2-join",
-                    "title": {"en": "Two vowels, one note"},
-                    "fact": {"id": "navarro-tomas-timbre", "text": {"en": "In 1918 the phonetician Tomás Navarro Tomás wrote that English speakers give Spanish vowels \"a less fixed and even timbre than the Castilian ear requires\"."}, "source": {"en": "Navarro Tomás, Manual de pronunciación española (1918), §43"}, "url": "https://archive.org/details/manualdepronunci00navauoft"},
+                    "title": {"en": "Two vowels, one note", "es": "Dos vocales, una nota"},
+                    "fact": {"id": "navarro-tomas-timbre", "text": {"en": "In 1918 the phonetician Tomás Navarro Tomás wrote that English speakers give Spanish vowels \"a less fixed and even timbre than the Castilian ear requires\".", "es": "En 1918, el fonetista Tomás Navarro Tomás escribió que los hablantes de inglés dan a las vocales españolas un timbre menos fijo y uniforme del que pide el oído castellano."}, "source": {"en": "Navarro Tomás, Manual de pronunciación española (1918), §43", "es": "Navarro Tomás, Manual de pronunciación española (1918), §43"}, "url": "https://archive.org/details/manualdepronunci00navauoft"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Japanese gave every vowel its own note. Spanish joins them: where the music gives one note, two words' vowels share it."},
+                            "headline": {"en": "Japanese gave every vowel its own note. Spanish joins them: where the music gives one note, two words' vowels share it.", "es": "En japonés, cada vocal tenía su nota. En español las unes, como al hablar (sinalefa): si la música da una sola nota, las vocales de dos palabras la comparten."},
                             "steps": [
-                                {"title": {"en": "Si‿a, que‿es"}, "detail": {"en": "One note, both vowels, no stop"}},
-                                {"title": {"en": "The h is silent"}, "detail": {"en": "\"la‿Ha-ba-na\": la-AH-ba-na"}},
-                                {"title": {"en": "No catch"}, "detail": {"en": "Vowels on their own notes still flow"}}
+                                {"title": {"en": "Si‿a, que‿es", "es": "Si‿a, que‿es"}, "detail": {"en": "One note, both vowels, no stop", "es": "Una nota, las dos vocales, sin corte"}},
+                                {"title": {"en": "The h is silent", "es": "La h, muda"}, "detail": {"en": "\"la‿Ha-ba-na\": la-AH-ba-na", "es": "\"la‿Ha-ba-na\": la h no corta la unión"}},
+                                {"title": {"en": "No catch", "es": "Sin golpe"}, "detail": {"en": "Vowels on their own notes still flow", "es": "Vocales en notas distintas, pero sin cortar"}}
                             ],
                             "visual": "echo",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 66,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which \"si a tu\" joins the vowels on one note?"},
+                                        "prompt": {"en": "Which \"si a tu\" joins the vowels on one note?", "es": "¿En cuál se unen las vocales de \"si a tu\" en una nota?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 1, "step": 0, "lyric": "si a tu"}, {"beat": 1, "length": 1, "step": 2}]
@@ -507,10 +507,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The other splits them over two notes, with a stop between."}
+                                        "why": {"en": "The other splits them over two notes, with a stop between.", "es": "El otro las reparte en dos notas, con un corte en medio."}
                                     },
                                     {
-                                        "prompt": {"en": "Which \"que es mi\" joins the vowels on one note?"},
+                                        "prompt": {"en": "Which \"que es mi\" joins the vowels on one note?", "es": "¿En cuál se unen las vocales de \"que es mi\" en una nota?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -524,10 +524,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The other splits them over two notes, with a stop between."}
+                                        "why": {"en": "The other splits them over two notes, with a stop between.", "es": "El otro las reparte en dos notas, con un corte en medio."}
                                     },
                                     {
-                                        "prompt": {"en": "Which \"la Habana\" joins the vowels on one note?"},
+                                        "prompt": {"en": "Which \"la Habana\" joins the vowels on one note?", "es": "¿En cuál se unen las vocales de \"la Habana\" en una nota?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -546,15 +546,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The other splits them over two notes, with a stop between."}
+                                        "why": {"en": "The other splits them over two notes, with a stop between.", "es": "El otro las reparte en dos notas, con un corte en medio."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Si a tu\", then hear it back."},
+                            "text": {"en": "\"Si a tu\", then hear it back.", "es": "\"Si a tu\", y luego escúchate."},
                             "exercise": {
                                 "tempo": 60,
                                 "model": {
@@ -563,12 +563,12 @@
                                         {"beat": 1, "length": 1, "step": 2, "lyric": "tu"}
                                     ]
                                 },
-                                "questions": [{"en": "Did both vowels fit on the one note, with no stop between?"}]
+                                "questions": [{"en": "Did both vowels fit on the one note, with no stop between?", "es": "¿Cupieron las dos vocales en una nota, sin corte entre ellas?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Cuando salí de la Habana, ¡válgame Dios!\": when I left Havana, God help me!"},
+                            "text": {"en": "\"Cuando salí de la Habana, ¡válgame Dios!\": when I left Havana, God help me!", "es": "\"Cuando salí de la Habana, ¡válgame Dios!\": une \"la‿Habana\" como al hablar."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -587,29 +587,29 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         }
                     ]
                 },
                 {
                     "id": "ol-2-light",
-                    "title": {"en": "Light consonants"},
-                    "fact": {"id": "carmen-arreglito", "text": {"en": "Bizet took Iradier's other habanera, \"El Arreglito\", for Carmen's famous Habanera, thinking it was a folk song, and then named Iradier in the vocal score."}, "source": {"en": "Sebastián Iradier, English Wikipedia (citing Grove, 5th ed.)"}, "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Iradier"},
+                    "title": {"en": "Light consonants", "es": "Consonantes ligeras"},
+                    "fact": {"id": "carmen-arreglito", "text": {"en": "Bizet took Iradier's other habanera, \"El Arreglito\", for Carmen's famous Habanera, thinking it was a folk song, and then named Iradier in the vocal score.", "es": "Bizet tomó la otra habanera de Iradier, \"El Arreglito\", para la famosa Habanera de Carmen, creyendo que era una canción popular, y después citó a Iradier en la partitura para canto y piano."}, "source": {"en": "Sebastián Iradier, English Wikipedia (citing Grove, 5th ed.)", "es": "Sebastián Iradier, Wikipedia en inglés (citando el Grove, 5.ª ed.)"}, "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Iradier"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Spanish consonants are light and quick, so the vowels can sing."},
+                            "headline": {"en": "Spanish consonants are light and quick, so the vowels can sing.", "es": "Tus consonantes ya son ligeras y rápidas: mantenlas así al cantar, y que canten las vocales."},
                             "steps": [
-                                {"title": {"en": "r is one tap"}, "detail": {"en": "ca-RI-ño, TRA-ta-la: the tap you met in Sakura"}},
-                                {"title": {"en": "v is a soft b"}, "detail": {"en": "ven-TA-na, never an English v"}},
-                                {"title": {"en": "ll is y"}, "detail": {"en": "\"LLE-ga\" is YEH-gah; in old Castilian, nearer \"ly\""}}
+                                {"title": {"en": "r is one tap", "es": "La r simple"}, "detail": {"en": "ca-RI-ño, TRA-ta-la: the tap you met in Sakura", "es": "ca-RI-ño, TRA-ta-la: un toque, como en Sakura"}},
+                                {"title": {"en": "v is a soft b", "es": "La v, como b"}, "detail": {"en": "ven-TA-na, never an English v", "es": "ven-TA-na, nunca v de labio y diente"}},
+                                {"title": {"en": "ll is y", "es": "La ll y la y"}, "detail": {"en": "\"LLE-ga\" is YEH-gah; in old Castilian, nearer \"ly\"", "es": "\"LLE-ga\" como \"YE-ga\", o con tu ll si la distingues"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Tourist, then local: \"ventana\" with an English v, then with a soft b, lips barely touching."},
+                            "text": {"en": "Tourist, then local: \"ventana\" with an English v, then with a soft b, lips barely touching.", "es": "Primero como turista, luego como en casa: \"ventana\" con v inglesa, de labio y dientes, y luego con tu b de siempre (en \"tu ventana\", los labios apenas se rozan)."},
                             "exercise": {
                                 "tempo": 60,
                                 "model": {
@@ -622,12 +622,12 @@
                                         {"beat": 6, "length": 1, "step": 0, "lyric": "na"}
                                     ]
                                 },
-                                "questions": [{"en": "Which one sounds Spanish?"}]
+                                "questions": [{"en": "Which one sounds Spanish?", "es": "¿Cuál suena a español?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Trátala con cariño que es mi persona\": treat it kindly, for it is me."},
+                            "text": {"en": "\"Trátala con cariño que es mi persona\": treat it kindly, for it is me.", "es": "\"Trátala con cariño que es mi persona\": la r de \"cariño\", un solo toque."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -647,34 +647,34 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         }
                     ]
                 },
                 {
                     "id": "ol-2-challenge",
-                    "title": {"en": "La Paloma's refrain"},
+                    "title": {"en": "La Paloma's refrain", "es": "El estribillo de La Paloma"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The rhythm, the joins and every vowel whole, with the other parts."},
+                            "headline": {"en": "The rhythm, the joins and every vowel whole, with the other parts.", "es": "El ritmo, las uniones y cada vocal entera, con las demás voces."},
                             "steps": [
-                                {"title": {"en": "The habanera"}, "detail": {"en": "Quicker now"}},
-                                {"title": {"en": "The joins"}, "detail": {"en": "Si‿a, que‿es"}},
-                                {"title": {"en": "The last a"}, "detail": {"en": "pa-lo-ma, per-so-na: \"ah\" to the end"}}
+                                {"title": {"en": "The habanera", "es": "La habanera"}, "detail": {"en": "Quicker now", "es": "Más rápido"}},
+                                {"title": {"en": "The joins", "es": "Las uniones"}, "detail": {"en": "Si‿a, que‿es", "es": "Si‿a, que‿es"}},
+                                {"title": {"en": "The last a", "es": "La última a"}, "detail": {"en": "pa-lo-ma, per-so-na: \"ah\" to the end", "es": "pa-lo-ma, per-so-na: la a hasta el final"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 76,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one is the habanera?"},
+                                        "prompt": {"en": "Which one is the habanera?", "es": "¿Cuál es la habanera?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -702,10 +702,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Long, short, then two even."}
+                                        "why": {"en": "Long, short, then two even.", "es": "Larga, corta y dos iguales."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one is the habanera?"},
+                                        "prompt": {"en": "Which one is the habanera?", "es": "¿Cuál es la habanera?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -733,15 +733,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "Long, short, then two even."}
+                                        "why": {"en": "Long, short, then two even.", "es": "Larga, corta y dos iguales."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The refrain's first two lines with the other parts."},
+                            "text": {"en": "The refrain's first two lines with the other parts.", "es": "Las dos primeras frases del estribillo con las demás voces."},
                             "exercise": {
                                 "song": {
                                     "template": "la-paloma",
@@ -752,7 +752,7 @@
                                 "tempo": 60,
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         }
                     ]
                 }
@@ -760,28 +760,28 @@
         },
         {
             "id": "ol-latin",
-            "title": {"en": "The long line"},
+            "title": {"en": "The long line", "es": "La frase larga"},
             "colour": 5,
             "lessons": [
                 {
                     "id": "ol-3-latin",
-                    "title": {"en": "Ah-veh, not Ay-vee"},
-                    "fact": {"id": "liber-one-sound", "text": {"en": "The Liber Usualis, the Catholic Church's book of chant, says of Latin's vowels: \"Each vowel has one sound; a mixture or sequence of sounds would be fatal.\""}, "source": {"en": "The Liber Usualis (1961), Rules for Interpretation, p. xxxvi"}, "url": "https://archive.org/details/TheLiberUsualis1961"},
+                    "title": {"en": "Ah-veh, not Ay-vee", "es": "\"A-ve\", no \"éi-vi\""},
+                    "fact": {"id": "liber-one-sound", "text": {"en": "The Liber Usualis, the Catholic Church's book of chant, says of Latin's vowels: \"Each vowel has one sound; a mixture or sequence of sounds would be fatal.\"", "es": "El Liber Usualis, el libro de canto de la Iglesia católica, dice de las vocales del latín: \"Cada vocal tiene un solo sonido; una mezcla o sucesión de sonidos sería fatal\"."}, "source": {"en": "The Liber Usualis (1961), Rules for Interpretation, p. xxxvi", "es": "The Liber Usualis (1961), Rules for Interpretation, p. xxxvi"}, "url": "https://archive.org/details/TheLiberUsualis1961"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A medieval hymn for the Eucharist, in Mozart's setting. \"Ave verum corpus, natum de Maria virgine\": hail, true body, born of the Virgin Mary."},
+                            "headline": {"en": "A medieval hymn for the Eucharist, in Mozart's setting. \"Ave verum corpus, natum de Maria virgine\": hail, true body, born of the Virgin Mary.", "es": "Un himno medieval para la Eucaristía, con música de Mozart. \"Ave verum corpus, natum de Maria virgine\": salve, verdadero cuerpo, nacido de la Virgen María."},
                             "steps": [
-                                {"title": {"en": "e as in \"red\""}, "detail": {"en": "AH-veh, VEH-room, never \"ay\""}},
-                                {"title": {"en": "Every vowel whole"}, "detail": {"en": "KAWR-poos, not \"corpuss\""}},
-                                {"title": {"en": "A gentle start"}, "detail": {"en": "Vowel words begin softly, with no catch"}}
+                                {"title": {"en": "e as in \"red\"", "es": "e como en \"mesa\""}, "detail": {"en": "AH-veh, VEH-room, never \"ay\"", "es": "A-ve, VE-rum, como en español"}},
+                                {"title": {"en": "Every vowel whole", "es": "Cada vocal entera"}, "detail": {"en": "KAWR-poos, not \"corpuss\"", "es": "COR-pus, la u tan llena como la o"}},
+                                {"title": {"en": "A gentle start", "es": "Un ataque suave"}, "detail": {"en": "Vowel words begin softly, with no catch", "es": "Si empieza por vocal, arranca suave, sin golpe"}}
                             ],
                             "visual": "vowels",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"A-ve, ve-rum, cor-pus\", each syllable held."},
+                            "text": {"en": "\"A-ve, ve-rum, cor-pus\", each syllable held.", "es": "\"A-ve, ve-rum, cor-pus\", cada sílaba sostenida."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -797,7 +797,7 @@
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Tourist, then local: \"Ay-vee\", then \"Ah-veh\"."},
+                            "text": {"en": "Tourist, then local: \"Ay-vee\", then \"Ah-veh\".", "es": "Primero como turista, luego como en Roma: \"éi-vi\", a la inglesa, y luego \"a-ve\"."},
                             "exercise": {
                                 "tempo": 66,
                                 "model": {
@@ -808,12 +808,12 @@
                                         {"beat": 7, "length": 2, "step": 0, "lyric": "ve"}
                                     ]
                                 },
-                                "questions": [{"en": "Which one sounds like church Latin?"}]
+                                "questions": [{"en": "Which one sounds like church Latin?", "es": "¿Cuál suena a latín de iglesia?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Ave, ave verum corpus\", slowly, one breath a phrase. The \"-um\" is \"oo\", closing to m at the very end."},
+                            "text": {"en": "\"Ave, ave verum corpus\", slowly, one breath a phrase. The \"-um\" is \"oo\", closing to m at the very end.", "es": "\"Ave, ave verum corpus\", despacio, una respiración por frase. La \"-um\" es una u que se cierra en m solo al final."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -833,33 +833,33 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the phrase: its notes on pitch, and its end steady."}
+                            "measures": {"en": "Scored on the phrase: its notes on pitch, and its end steady.", "es": "Se puntúa la frase: sus notas afinadas y su final estable."}
                         }
                     ]
                 },
                 {
                     "id": "ol-3-letters",
-                    "title": {"en": "Soft c, soft g, silent h"},
+                    "title": {"en": "Soft c, soft g, silent h", "es": "C y g italianas, h muda"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Church Latin reads its letters the Roman way."},
+                            "headline": {"en": "Church Latin reads its letters the Roman way.", "es": "El latín de iglesia lee sus letras a la romana, como el italiano."},
                             "steps": [
-                                {"title": {"en": "c and g before e or i"}, "detail": {"en": "CRU-ce is KROO-cheh; VIR-gi-ne is VEER-jee-neh"}},
-                                {"title": {"en": "h is silent"}, "detail": {"en": "HO-mi-ne is AW-mee-neh, as in Spanish"}},
-                                {"title": {"en": "Every syllable"}, "detail": {"en": "vir-gi-ne has three, never \"virg-neh\""}}
+                                {"title": {"en": "c and g before e or i", "es": "c y g ante e o i"}, "detail": {"en": "CRU-ce is KROO-cheh; VIR-gi-ne is VEER-jee-neh", "es": "CRU-ce es \"CRU-che\", con una ch bien marcada; en VIR-gi-ne, la g es esa ch con voz"}},
+                                {"title": {"en": "h is silent", "es": "h es muda"}, "detail": {"en": "HO-mi-ne is AW-mee-neh, as in Spanish", "es": "\"HO-mi-ne\" se canta \"O-mi-ne\", como en español"}},
+                                {"title": {"en": "Every syllable", "es": "Cada sílaba"}, "detail": {"en": "vir-gi-ne has three, never \"virg-neh\"", "es": "vir-gi-ne tiene tres, nunca \"virg-ne\""}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 66,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which \"homine\" sings every syllable?"},
+                                        "prompt": {"en": "Which \"homine\" sings every syllable?", "es": "¿En qué \"homine\" suenan todas las sílabas?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -873,10 +873,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The other drops the middle one, as English would."}
+                                        "why": {"en": "The other drops the middle one, as English would.", "es": "El otro se come la sílaba del medio."}
                                     },
                                     {
-                                        "prompt": {"en": "Which \"virgine\" sings every syllable?"},
+                                        "prompt": {"en": "Which \"virgine\" sings every syllable?", "es": "¿En qué \"virgine\" suenan todas las sílabas?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 2, "step": 0, "lyric": "virgine"}, {"beat": 2, "length": 2, "step": -3}]
@@ -890,15 +890,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The other drops the middle one, as English would."}
+                                        "why": {"en": "The other drops the middle one, as English would.", "es": "El otro se come la sílaba del medio."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"In cruce pro homine\": on the cross, for mankind. One breath, after \"cruce\"."},
+                            "text": {"en": "\"In cruce pro homine\": on the cross, for mankind. One breath, after \"cruce\".", "es": "\"In cruce pro homine\": en la cruz, por el hombre. Respira una vez, después de \"cruce\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -914,34 +914,34 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         }
                     ]
                 },
                 {
                     "id": "ol-3-line",
-                    "title": {"en": "One breath, one line"},
-                    "fact": {"id": "ave-verum-13th-century", "text": {"en": "The words are much older than Mozart: the hymn is first found in a 13th-century Franciscan manuscript, now in Chicago's Newberry Library."}, "source": {"en": "Ave verum corpus, English Wikipedia (citing Rubin, 1992)"}, "url": "https://en.wikipedia.org/wiki/Ave_verum_corpus"},
+                    "title": {"en": "One breath, one line", "es": "De un solo aliento"},
+                    "fact": {"id": "ave-verum-13th-century", "text": {"en": "The words are much older than Mozart: the hymn is first found in a 13th-century Franciscan manuscript, now in Chicago's Newberry Library.", "es": "La letra es mucho más antigua que Mozart: el himno aparece por primera vez en un manuscrito franciscano del siglo XIII, hoy en la Newberry Library de Chicago."}, "source": {"en": "Ave verum corpus, English Wikipedia (citing Rubin, 1992)", "es": "Ave verum corpus, Wikipedia en inglés (citando a Rubin, 1992)"}, "url": "https://en.wikipedia.org/wiki/Ave_verum_corpus"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Mozart's line is long and joined: the consonants quick between the vowels, and a breath only between words, never inside one."},
+                            "headline": {"en": "Mozart's line is long and joined: the consonants quick between the vowels, and a breath only between words, never inside one.", "es": "La frase de Mozart es larga y ligada: consonantes rápidas entre las vocales, y respiraciones solo entre palabras, nunca dentro de una."},
                             "steps": [
-                                {"title": {"en": "Double letters"}, "detail": {"en": "PAS-sum, im-mo-LA-tum: held a moment"}},
-                                {"title": {"en": "The tap"}, "detail": {"en": "Ma-RI-a, VE-rum: one tap, as in Spanish"}},
-                                {"title": {"en": "Breathe between words"}, "detail": {"en": "Here, after \"Maria\""}}
+                                {"title": {"en": "Double letters", "es": "Letras dobles"}, "detail": {"en": "PAS-sum, im-mo-LA-tum: held a moment", "es": "PAS-sum, im-mo-LA-tum: se alargan un instante"}},
+                                {"title": {"en": "The tap", "es": "La r"}, "detail": {"en": "Ma-RI-a, VE-rum: one tap, as in Spanish", "es": "Ma-RI-a, VE-rum: un solo toque, como en español"}},
+                                {"title": {"en": "Breathe between words", "es": "Respira entre palabras"}, "detail": {"en": "Here, after \"Maria\"", "es": "Aquí, después de \"Maria\""}}
                             ],
                             "visual": "breath",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 66,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one breathes in the middle of a word?"},
+                                        "prompt": {"en": "Which one breathes in the middle of a word?", "es": "¿Cuál respira en mitad de una palabra?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -961,10 +961,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Its sound stops inside \"Maria\": a breath belongs between words."}
+                                        "why": {"en": "Its sound stops inside \"Maria\": a breath belongs between words.", "es": "Su sonido se corta dentro de \"Maria\": la respiración va entre palabras."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one breathes in the middle of a word?"},
+                                        "prompt": {"en": "Which one breathes in the middle of a word?", "es": "¿Cuál respira en mitad de una palabra?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -984,15 +984,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "Its sound stops inside \"Maria\": a breath belongs between words."}
+                                        "why": {"en": "Its sound stops inside \"Maria\": a breath belongs between words.", "es": "Su sonido se corta dentro de \"Maria\": la respiración va entre palabras."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Natum de Maria virgine\", one breath after \"Maria\"."},
+                            "text": {"en": "\"Natum de Maria virgine\", one breath after \"Maria\".", "es": "\"Natum de Maria virgine\", respirando después de \"Maria\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1009,34 +1009,34 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on the phrase: its notes on pitch, and its end steady."}
+                            "measures": {"en": "Scored on the phrase: its notes on pitch, and its end steady.", "es": "Se puntúa la frase: sus notas afinadas y su final estable."}
                         }
                     ]
                 },
                 {
                     "id": "ol-3-challenge",
-                    "title": {"en": "Ave verum"},
+                    "title": {"en": "Ave verum", "es": "Ave verum"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The opening with the alto, tenor and bass: whole vowels, soft g, one breath a phrase. \"Ave verum corpus, natum de Maria virgine\": hail, true body, born of the Virgin Mary."},
+                            "headline": {"en": "The opening with the alto, tenor and bass: whole vowels, soft g, one breath a phrase. \"Ave verum corpus, natum de Maria virgine\": hail, true body, born of the Virgin Mary.", "es": "El comienzo con contralto, tenor y bajo: vocales enteras, g italiana, una respiración por frase. \"Ave verum corpus, natum de Maria virgine\": salve, verdadero cuerpo, nacido de la Virgen María."},
                             "steps": [
-                                {"title": {"en": "e as in \"red\""}, "detail": {"en": "AH-veh, VEH-room"}},
-                                {"title": {"en": "Soft g"}, "detail": {"en": "VEER-jee-neh"}},
-                                {"title": {"en": "One breath"}, "detail": {"en": "At Mozart's rests"}}
+                                {"title": {"en": "e as in \"red\"", "es": "e como en \"mesa\""}, "detail": {"en": "AH-veh, VEH-room", "es": "A-ve, VE-rum"}},
+                                {"title": {"en": "Soft g", "es": "La g"}, "detail": {"en": "VEER-jee-neh", "es": "VIR-gi-ne, a la italiana"}},
+                                {"title": {"en": "One breath", "es": "Respira"}, "detail": {"en": "At Mozart's rests", "es": "En los silencios de Mozart"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 66,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one breathes in the middle of a word?"},
+                                        "prompt": {"en": "Which one breathes in the middle of a word?", "es": "¿Cuál respira en mitad de una palabra?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1056,10 +1056,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "A breath belongs between words."}
+                                        "why": {"en": "A breath belongs between words.", "es": "La respiración va entre palabras."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one breathes in the middle of a word?"},
+                                        "prompt": {"en": "Which one breathes in the middle of a word?", "es": "¿Cuál respira en mitad de una palabra?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1079,15 +1079,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "A breath belongs between words."}
+                                        "why": {"en": "A breath belongs between words.", "es": "La respiración va entre palabras."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Ave, ave verum corpus, natum de Maria virgine\", with the other three parts."},
+                            "text": {"en": "\"Ave, ave verum corpus, natum de Maria virgine\", with the other three parts.", "es": "\"Ave, ave verum corpus, natum de Maria virgine\", con las otras tres voces."},
                             "exercise": {
                                 "song": {
                                     "template": "ave-verum-corpus",
@@ -1099,7 +1099,7 @@
                                 "turn": false,
                                 "score": "line"
                             },
-                            "measures": {"en": "Scored on the phrase: its notes on pitch, and its end steady."}
+                            "measures": {"en": "Scored on the phrase: its notes on pitch, and its end steady.", "es": "Se puntúa la frase: sus notas afinadas y su final estable."}
                         }
                     ]
                 }
@@ -1107,27 +1107,27 @@
         },
         {
             "id": "ol-ukrainian",
-            "title": {"en": "Quick words, light tongue"},
+            "title": {"en": "Quick words, light tongue", "es": "Palabras rápidas, lengua ligera"},
             "colour": 5,
             "lessons": [
                 {
                     "id": "ol-4-letters",
-                    "title": {"en": "Eleven letters"},
+                    "title": {"en": "Eleven letters", "es": "Once letras"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Shchedryk, a Ukrainian New Year song. Its first line in Cyrillic: Щедрик, щедрик, щедрівочка. In our letters: Shchedryk, shchedryk, shchedrivochka."},
+                            "headline": {"en": "Shchedryk, a Ukrainian New Year song. Its first line in Cyrillic: Щедрик, щедрик, щедрівочка. In our letters: Shchedryk, shchedryk, shchedrivochka.", "es": "Shchedryk, una canción ucraniana de Año Nuevo. Su primera frase en cirílico: Щедрик, щедрик, щедрівочка. En nuestro alfabeto: Shchedryk, shchedryk, shchedrivochka."},
                             "steps": [
-                                {"title": {"en": "щ is \"shch\""}, "detail": {"en": "As in \"fresh cheese\", never a plain \"sh\""}},
-                                {"title": {"en": "и and і"}, "detail": {"en": "dryk as in \"sit\"; dri as in \"see\""}},
-                                {"title": {"en": "г is a soft h"}, "detail": {"en": "A voiced h, never a g"}}
+                                {"title": {"en": "щ is \"shch\"", "es": "щ es \"shch\""}, "detail": {"en": "As in \"fresh cheese\", never a plain \"sh\"", "es": "El \"shh\" de pedir silencio y una ch con la t bien marcada; nunca solo \"sh\""}},
+                                {"title": {"en": "и and і", "es": "и e і"}, "detail": {"en": "dryk as in \"sit\"; dri as in \"see\"", "es": "dryk, entre i y e; dri, una i como la tuya"}},
+                                {"title": {"en": "г is a soft h", "es": "г, h aspirada con voz"}, "detail": {"en": "A voiced h, never a g", "es": "Como un suspiro sonoro, desde la garganta; nunca g"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "\"Dryk\", then \"dri\", then hear them back."},
+                            "text": {"en": "\"Dryk\", then \"dri\", then hear them back.", "es": "\"Dryk\", luego \"dri\", y escúchalos."},
                             "exercise": {
                                 "tempo": 60,
                                 "model": {
@@ -1136,12 +1136,12 @@
                                         {"beat": 3, "length": 2, "step": 0, "lyric": "dri"}
                                     ]
                                 },
-                                "questions": [{"en": "Did \"dryk\" sound like \"sit\", and \"dri\" like \"see\"?"}]
+                                "questions": [{"en": "Did \"dryk\" sound like \"sit\", and \"dri\" like \"see\"?", "es": "¿\"Dryk\" sonó entre i y e, y \"dri\" como una i?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The figure slowly, each sound held: Shche-dryk, shche-dri-voch-ka."},
+                            "text": {"en": "The figure slowly, each sound held: Shche-dryk, shche-dri-voch-ka.", "es": "El motivo despacio, cada sonido sostenido: Shche-dryk, shche-dri-voch-ka."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1157,34 +1157,34 @@
                                 "turn": true,
                                 "score": "lock"
                             },
-                            "measures": {"en": "Scored on each held note staying steady on its pitch. Whether the vowel stayed pure is yours to hear: play it back."}
+                            "measures": {"en": "Scored on each held note staying steady on its pitch. Whether the vowel stayed pure is yours to hear: play it back.", "es": "Se puntúa que cada nota sostenida se mantenga estable en su altura. Si la vocal sonó pura, lo juzgas tú: escúchate."}
                         }
                     ]
                 },
                 {
                     "id": "ol-4-figure",
-                    "title": {"en": "The figure, faster"},
-                    "fact": {"id": "leontovych-twenty-years", "text": {"en": "Mykola Leontovych worked on his Shchedryk for about twenty years, in five versions, before its premiere in Kyiv in December 1916."}, "source": {"en": "Щедрик (Леонтович), Ukrainian Wikipedia"}, "url": "https://uk.wikipedia.org/wiki/%D0%A9%D0%B5%D0%B4%D1%80%D0%B8%D0%BA_(%D0%9B%D0%B5%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D1%87)"},
+                    "title": {"en": "The figure, faster", "es": "El motivo, más rápido"},
+                    "fact": {"id": "leontovych-twenty-years", "text": {"en": "Mykola Leontovych worked on his Shchedryk for about twenty years, in five versions, before its premiere in Kyiv in December 1916.", "es": "Mykola Leontovych trabajó en su Shchedryk unos veinte años, en cinco versiones, antes de su estreno en Kiev en diciembre de 1916."}, "source": {"en": "Щедрик (Леонтович), Ukrainian Wikipedia", "es": "Щедрик (Леонтович), Wikipedia en ucraniano"}, "url": "https://uk.wikipedia.org/wiki/%D0%A9%D0%B5%D0%B4%D1%80%D0%B8%D0%BA_(%D0%9B%D0%B5%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D1%87)"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Four notes, round and round. Choirs go flat repeating it, so the key is the test, a step faster each time."},
+                            "headline": {"en": "Four notes, round and round. Choirs go flat repeating it, so the key is the test, a step faster each time.", "es": "Cuatro notas, una y otra vez. Al repetirlas, los coros suelen bajar de afinación: la prueba es mantener la tonalidad, cada vez un poco más rápido."},
                             "steps": [
-                                {"title": {"en": "Every o whole"}, "detail": {"en": "VOCH-ka, never \"vuch-kuh\""}},
-                                {"title": {"en": "The shch early"}, "detail": {"en": "Before the beat, the vowel on it"}},
-                                {"title": {"en": "Light"}, "detail": {"en": "The figure invites pushing: keep it light, a medium volume, the jaw easy. Stop if anything tightens."}}
+                                {"title": {"en": "Every o whole", "es": "Cada o entera"}, "detail": {"en": "VOCH-ka, never \"vuch-kuh\"", "es": "VOCH-ka, o y a enteras"}},
+                                {"title": {"en": "The shch early", "es": "La shch, antes"}, "detail": {"en": "Before the beat, the vowel on it", "es": "Antes del pulso; la vocal, en él"}},
+                                {"title": {"en": "Light", "es": "Ligero"}, "detail": {"en": "The figure invites pushing: keep it light, a medium volume, the jaw easy. Stop if anything tightens.", "es": "El motivo invita a empujar: mantenlo ligero, a volumen medio, con la mandíbula suelta. Si algo se tensa, para."}}
                             ],
                             "visual": "ladder",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one keeps every syllable on the beat?"},
+                                        "prompt": {"en": "Which one keeps every syllable on the beat?", "es": "¿Cuál mantiene cada sílaba en el pulso?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1212,10 +1212,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "In the other, the syllables after the first drag late."}
+                                        "why": {"en": "In the other, the syllables after the first drag late.", "es": "En el otro, las sílabas después de la primera se retrasan."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one keeps every syllable on the beat?"},
+                                        "prompt": {"en": "Which one keeps every syllable on the beat?", "es": "¿Cuál mantiene cada sílaba en el pulso?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1243,15 +1243,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "In the other, the syllables after the first drag late."}
+                                        "why": {"en": "In the other, the syllables after the first drag late.", "es": "En el otro, las sílabas después de la primera se retrasan."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The figure twice, at 60."},
+                            "text": {"en": "The figure twice, at 60.", "es": "El motivo dos veces, a 60."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1277,7 +1277,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Four times round, at 80, in the same key."},
+                            "text": {"en": "Four times round, at 80, in the same key.", "es": "Cuatro vueltas, a 80, en la misma tonalidad."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1317,11 +1317,11 @@
                                 "turn": true,
                                 "score": "keyDrift"
                             },
-                            "measures": {"en": "Scored on the figure keeping its key, round after round, with nothing under you."}
+                            "measures": {"en": "Scored on the figure keeping its key, round after round, with nothing under you.", "es": "Se puntúa que el motivo mantenga su tonalidad, vuelta tras vuelta, sin acompañamiento."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Four times round, at 96. The figure invites pushing: keep it light, a medium volume, the jaw easy. Stop if anything tightens."},
+                            "text": {"en": "Four times round, at 96. The figure invites pushing: keep it light, a medium volume, the jaw easy. Stop if anything tightens.", "es": "Cuatro vueltas, a 96. El motivo invita a empujar: mantenlo ligero, a volumen medio, con la mandíbula suelta. Si algo se tensa, para."},
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -1361,29 +1361,29 @@
                                 "turn": true,
                                 "score": "keyDrift"
                             },
-                            "measures": {"en": "Scored on the figure keeping its key, round after round, with nothing under you."}
+                            "measures": {"en": "Scored on the figure keeping its key, round after round, with nothing under you.", "es": "Se puntúa que el motivo mantenga su tonalidad, vuelta tras vuelta, sin acompañamiento."}
                         }
                     ]
                 },
                 {
                     "id": "ol-4-swallow",
-                    "title": {"en": "The swallow's line"},
-                    "fact": {"id": "wilhousky-new-words", "text": {"en": "\"Carol of the Bells\" is Shchedryk's tune with new English words by Peter Wilhousky, published in 1936. They aren't a translation: the Ukrainian words are about a swallow, not bells."}, "source": {"en": "America Magazine (17 November 2022)"}, "url": "https://www.americamagazine.org/arts-culture/2022/11/17/carol-bells-ukraine-centennial-244117"},
+                    "title": {"en": "The swallow's line", "es": "La frase de la golondrina"},
+                    "fact": {"id": "wilhousky-new-words", "text": {"en": "\"Carol of the Bells\" is Shchedryk's tune with new English words by Peter Wilhousky, published in 1936. They aren't a translation: the Ukrainian words are about a swallow, not bells.", "es": "\"Carol of the Bells\" es la melodía de Shchedryk con letra nueva en inglés de Peter Wilhousky, publicada en 1936. No es una traducción: la letra ucraniana habla de una golondrina, no de campanas."}, "source": {"en": "America Magazine (17 November 2022)", "es": "America Magazine (17 de noviembre de 2022)"}, "url": "https://www.americamagazine.org/arts-culture/2022/11/17/carol-bells-ukraine-centennial-244117"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Line 2: Прилетіла ластівочка, \"Pryletila lastivochka\": a little swallow has flown in."},
+                            "headline": {"en": "Line 2: Прилетіла ластівочка, \"Pryletila lastivochka\": a little swallow has flown in.", "es": "Frase 2: Прилетіла ластівочка, \"Pryletila lastivochka\": ha llegado volando una golondrinita."},
                             "steps": [
-                                {"title": {"en": "The stress"}, "detail": {"en": "prih-leh-TEE-lah, LAHS-tee-voch-kah"}},
-                                {"title": {"en": "ti is soft"}, "detail": {"en": "A t with the tongue high, never \"chee\""}},
-                                {"title": {"en": "A dark l"}, "detail": {"en": "As in \"full\""}}
+                                {"title": {"en": "The stress", "es": "El acento"}, "detail": {"en": "prih-leh-TEE-lah, LAHS-tee-voch-kah", "es": "pry-le-TI-la, LAS-ti-voch-ka"}},
+                                {"title": {"en": "ti is soft", "es": "ti, suave"}, "detail": {"en": "A t with the tongue high, never \"chee\"", "es": "Una t con la lengua alta, nunca \"chi\""}},
+                                {"title": {"en": "A dark l", "es": "Una l oscura"}, "detail": {"en": "As in \"full\"", "es": "El fondo de la lengua alzado, como hacia una u"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Tourist, then local: \"LAS-tuh-vuch-kuh\", then every vowel whole."},
+                            "text": {"en": "Tourist, then local: \"LAS-tuh-vuch-kuh\", then every vowel whole.", "es": "Primero como turista: \"LAS-tuh-vuch-kuh\", con las vocales apagadas del inglés; luego, como en Ucrania, cada vocal entera."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -1398,12 +1398,12 @@
                                         {"beat": 8, "length": 1, "step": 0, "lyric": "ka"}
                                     ]
                                 },
-                                "questions": [{"en": "Which one sounds Ukrainian?"}]
+                                "questions": [{"en": "Which one sounds Ukrainian?", "es": "¿Cuál suena a ucraniano?"}]
                             }
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 2 at 80."},
+                            "text": {"en": "Line 2 at 80.", "es": "Frase 2 a 80."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1418,29 +1418,29 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         }
                     ]
                 },
                 {
                     "id": "ol-4-challenge",
-                    "title": {"en": "Shchedryk"},
+                    "title": {"en": "Shchedryk", "es": "Shchedryk"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Your first Japanese line, from lesson 1, and now; then Shchedryk with the choir, in its own letters."},
+                            "headline": {"en": "Your first Japanese line, from lesson 1, and now; then Shchedryk with the choir, in its own letters.", "es": "Tu primera frase en japonés, la de la lección 1, cantada hoy; luego Shchedryk con el coro, en su propio alfabeto."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's line, today"}},
-                                {"title": {"en": "The two lines"}, "detail": {"en": "In our letters, at 96"}},
-                                {"title": {"en": "The choir"}, "detail": {"en": "In Cyrillic, with the other parts"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1's line, today", "es": "La frase de la lección 1, hoy"}},
+                                {"title": {"en": "The two lines", "es": "Las dos frases"}, "detail": {"en": "In our letters, at 96", "es": "En nuestro alfabeto, a 96"}},
+                                {"title": {"en": "The choir", "es": "El coro"}, "detail": {"en": "In Cyrillic, with the other parts", "es": "En cirílico, con las demás voces"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's line."},
+                            "text": {"en": "Lesson 1's line.", "es": "La frase de la lección 1."},
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -1454,11 +1454,11 @@
                                 "turn": true,
                                 "thenAndNow": "ol.first-line"
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lines 1 and 2 at 96. The figure invites pushing: keep it light, a medium volume, the jaw easy. Stop if anything tightens."},
+                            "text": {"en": "Lines 1 and 2 at 96. The figure invites pushing: keep it light, a medium volume, the jaw easy. Stop if anything tightens.", "es": "Frases 1 y 2 a 96. El motivo invita a empujar: mantenlo ligero, a volumen medio, con la mandíbula suelta. Si algo se tensa, para."},
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -1481,22 +1481,22 @@
                                 ],
                                 "turn": true
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "The same two lines in Cyrillic: Щедрик, щедрик, щедрівочка, прилетіла ластівочка."},
+                            "headline": {"en": "The same two lines in Cyrillic: Щедрик, щедрик, щедрівочка, прилетіла ластівочка.", "es": "Las mismas dos frases en cirílico: Щедрик, щедрик, щедрівочка, прилетіла ластівочка."},
                             "steps": [
-                                {"title": {"en": "Щедрик"}, "detail": {"en": "Shche-dryk"}},
-                                {"title": {"en": "щедрівочка"}, "detail": {"en": "shche-dri-voch-ka"}},
-                                {"title": {"en": "прилетіла ластівочка"}, "detail": {"en": "pry-le-ti-la las-ti-voch-ka"}}
+                                {"title": {"en": "Щедрик", "es": "Щедрик"}, "detail": {"en": "Shche-dryk", "es": "Shche-dryk"}},
+                                {"title": {"en": "щедрівочка", "es": "щедрівочка"}, "detail": {"en": "shche-dri-voch-ka", "es": "shche-dri-voch-ka"}},
+                                {"title": {"en": "прилетіла ластівочка", "es": "прилетіла ластівочка"}, "detail": {"en": "pry-le-ti-la las-ti-voch-ka", "es": "pry-le-ti-la las-ti-voch-ka"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The song's last two lines with the alto, tenor and bass, at 96."},
+                            "text": {"en": "The song's last two lines with the alto, tenor and bass, at 96.", "es": "Las dos últimas frases de la canción con contralto, tenor y bajo, a 96."},
                             "exercise": {
                                 "song": {
                                     "template": "shchedryk",
@@ -1507,7 +1507,7 @@
                                 "tempo": 96,
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent."}
+                            "measures": {"en": "Scored on every syllable on its pitch and on the beat. A swallowed or whispered syllable leaves its note silent.", "es": "Se puntúa cada sílaba en su altura y en el pulso. Si te tragas o susurras una sílaba, su nota queda en silencio."}
                         }
                     ]
                 }
