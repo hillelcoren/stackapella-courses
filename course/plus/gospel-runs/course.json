@@ -2,33 +2,33 @@
     "id": "gospel-runs",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Gospel and soul runs"},
+    "title": {"en": "Gospel and soul runs", "es": "Melismas de gospel y soul"},
     "units": [
         {
             "id": "gr-five-stairs",
-            "title": {"en": "Five stairs"},
+            "title": {"en": "Five stairs", "es": "Cinco escalones"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "gr-1-stairs",
-                    "title": {"en": "Five stairs"},
+                    "title": {"en": "Five stairs", "es": "Cinco escalones"},
                     "strictness": "relaxed",
-                    "fact": {"id": "amen-cadence", "text": {"en": "A move from chord IV to home, I, is called the plagal or Amen cadence, after the \"Amen\" so often sung to it in hymns. The most famous chorus of Handel's Messiah ends with it, repeated."}, "source": {"en": "Wikipedia, Cadence"}, "url": "https://en.wikipedia.org/wiki/Cadence"},
+                    "fact": {"id": "amen-cadence", "text": {"en": "A move from chord IV to home, I, is called the plagal or Amen cadence, after the \"Amen\" so often sung to it in hymns. The most famous chorus of Handel's Messiah ends with it, repeated.", "es": "El paso del acorde IV al de tónica, el I, se llama cadencia plagal o cadencia del amén, por el \"amén\" que tantas veces se canta con ella en los himnos. El coro más famoso del Mesías de Händel termina con ella, repetida."}, "source": {"en": "Wikipedia, Cadence", "es": "Wikipedia, Cadence"}, "url": "https://en.wikipedia.org/wiki/Cadence"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A run is a few notes on one syllable, each one clean, like stairs. The spirituals were made by enslaved Black Americans as sacred songs, and gospel grew from them in Black churches: here a run serves the word."},
+                            "headline": {"en": "A run is a few notes on one syllable, each one clean, like stairs. The spirituals were made by enslaved Black Americans as sacred songs, and gospel grew from them in Black churches: here a run serves the word.", "es": "Un melisma es una serie corta de notas sobre una sola sílaba, cada una limpia, como escalones. Los espirituales (spirituals) fueron cantos sagrados creados por afroamericanos esclavizados, y de ellos nació el gospel, en las iglesias afroamericanas: aquí, el melisma está al servicio de la palabra."},
                             "steps": [
-                                {"title": {"en": "One syllable"}, "detail": {"en": "Several clean notes"}},
-                                {"title": {"en": "One run a line"}, "detail": {"en": "On a held word; the tune comes first"}},
-                                {"title": {"en": "Light"}, "detail": {"en": "Runs need a light voice: a medium volume, the middle of your voice, no pushing. The run happens in the voice, not the jaw. Stop if anything tightens."}}
+                                {"title": {"en": "One syllable", "es": "Una sílaba"}, "detail": {"en": "Several clean notes", "es": "Varias notas limpias"}},
+                                {"title": {"en": "One run a line", "es": "Uno por frase"}, "detail": {"en": "On a held word; the tune comes first", "es": "En una palabra larga; primero, la melodía"}},
+                                {"title": {"en": "Light", "es": "Ligera"}, "detail": {"en": "Runs need a light voice: a medium volume, the middle of your voice, no pushing. The run happens in the voice, not the jaw. Stop if anything tightens.", "es": "Los melismas piden una voz ligera: volumen medio, en tu zona central, sin empujar. El melisma se hace con la voz, no con la mandíbula. Si algo se tensa, para."}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Hum the run slowly, la, so, mi, re, do."},
+                            "text": {"en": "Hum the run slowly, la, so, mi, re, do.", "es": "Aquí, \"do\" no es una nota fija: es tu nota base, esté donde esté (do móvil). Canta el melisma despacio a boca cerrada: \"la\", \"so\" (sol), \"mi\", \"re\", \"do\"."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -47,7 +47,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now \"A-men\": the run on \"A-\", landing on do as the chord comes home."},
+                            "text": {"en": "Now \"A-men\": the run on \"A-\", landing on do as the chord comes home.", "es": "Ahora \"A-men\": el melisma en \"A-\", y llegas a \"do\" cuando el acorde vuelve a la tónica."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -66,34 +66,34 @@
                                 "keep": "gr.first-run",
                                 "generous": true
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         }
                     ]
                 },
                 {
                     "id": "gr-1-scale",
-                    "title": {"en": "Five notes only"},
-                    "fact": {"id": "pentatonic-worldwide", "text": {"en": "The pentatonic, a five-note scale, is one of the most widely used scales: it runs through Western folk and popular music and is the basic scale of much East Asian music."}, "source": {"en": "Gill and Purves, PLoS ONE (2009)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2779864/"},
+                    "title": {"en": "Five notes only", "es": "Solo cinco notas"},
+                    "fact": {"id": "pentatonic-worldwide", "text": {"en": "The pentatonic, a five-note scale, is one of the most widely used scales: it runs through Western folk and popular music and is the basic scale of much East Asian music.", "es": "La pentatónica, una escala de cinco notas, es una de las escalas más usadas: recorre el folk y la música popular de Occidente y es la escala básica de gran parte de la música de Asia oriental."}, "source": {"en": "Gill and Purves, PLoS ONE (2009)", "es": "Gill y Purves, PLoS ONE (2009)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2779864/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Runs are built from five notes, the major pentatonic: do, re, mi, so, la. No fa, no ti."},
+                            "headline": {"en": "Runs are built from five notes, the major pentatonic: do, re, mi, so, la. No fa, no ti.", "es": "Los melismas se construyen con cinco notas, la pentatónica mayor: \"do\", \"re\", \"mi\", \"so\", \"la\". Ni \"fa\" ni \"ti\" (si)."},
                             "steps": [
-                                {"title": {"en": "Five notes"}, "detail": {"en": "Do, re, mi, so, la"}},
-                                {"title": {"en": "Listen"}, "detail": {"en": "Which run kept to them?"}},
-                                {"title": {"en": "Sing them"}, "detail": {"en": "Up and down, two a second"}}
+                                {"title": {"en": "Five notes", "es": "Cinco notas"}, "detail": {"en": "Do, re, mi, so, la", "es": "\"do\", \"re\", \"mi\", \"so\", \"la\""}},
+                                {"title": {"en": "Listen", "es": "Escucha"}, "detail": {"en": "Which run kept to them?", "es": "¿Qué melisma usó solo esas?"}},
+                                {"title": {"en": "Sing them", "es": "Cántalas"}, "detail": {"en": "Up and down, two a second", "es": "Sube y baja, dos por segundo"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 60,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which run used only the five notes?"},
+                                        "prompt": {"en": "Which run used only the five notes?", "es": "¿Qué melisma usó solo las cinco notas?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -115,10 +115,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The five are do, re, mi, so and la. The other run used fa."}
+                                        "why": {"en": "The five are do, re, mi, so and la. The other run used fa.", "es": "Las cinco son \"do\", \"re\", \"mi\", \"so\" y \"la\". El otro melisma usó \"fa\"."}
                                     },
                                     {
-                                        "prompt": {"en": "Which run used only the five notes?"},
+                                        "prompt": {"en": "Which run used only the five notes?", "es": "¿Qué melisma usó solo las cinco notas?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -140,10 +140,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The five are do, re, mi, so and la. The other run used fa."}
+                                        "why": {"en": "The five are do, re, mi, so and la. The other run used fa.", "es": "Las cinco son \"do\", \"re\", \"mi\", \"so\" y \"la\". El otro melisma usó \"fa\"."}
                                     },
                                     {
-                                        "prompt": {"en": "Which run used only the five notes?"},
+                                        "prompt": {"en": "Which run used only the five notes?", "es": "¿Qué melisma usó solo las cinco notas?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -165,15 +165,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The five are do, re, mi, so and la. The other run used fa."}
+                                        "why": {"en": "The five are do, re, mi, so and la. The other run used fa.", "es": "Las cinco son \"do\", \"re\", \"mi\", \"so\" y \"la\". El otro melisma usó \"fa\"."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Up the five notes and down, two a second."},
+                            "text": {"en": "Up the five notes and down, two a second.", "es": "Sube y baja por las cinco notas, dos por segundo."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -191,29 +191,29 @@
                                 "drone": {"step": 0},
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         }
                     ]
                 },
                 {
                     "id": "gr-1-turn",
-                    "title": {"en": "A turn"},
-                    "fact": {"id": "cpe-bach-turn-abused", "text": {"en": "In 1753 C. P. E. Bach, J. S. Bach's son, called the turn \"appropriate for almost any place, and therefore often abused\": many believe, he wrote, that playing's charm lies in \"using turns on every occasion\"."}, "source": {"en": "C. P. E. Bach, Essay on the True Manner of Playing the Clavier (1753), Packard Humanities Institute"}, "url": "https://versuch.cpebach.org/v-html/part-I/chapter-2/section-4/I-2-4-p7.html"},
+                    "title": {"en": "A turn", "es": "Grupeto"},
+                    "fact": {"id": "cpe-bach-turn-abused", "text": {"en": "In 1753 C. P. E. Bach, J. S. Bach's son, called the turn \"appropriate for almost any place, and therefore often abused\": many believe, he wrote, that playing's charm lies in \"using turns on every occasion\".", "es": "En 1753, C. P. E. Bach, hijo de J. S. Bach, dijo que el grupeto era \"apropiado para casi cualquier lugar y, por eso, a menudo se abusa de él\": muchos creen, escribió, que el encanto de tocar está en \"usar grupetos en toda ocasión\"."}, "source": {"en": "C. P. E. Bach, Essay on the True Manner of Playing the Clavier (1753), Packard Humanities Institute", "es": "C. P. E. Bach, Essay on the True Manner of Playing the Clavier (1753), Packard Humanities Institute"}, "url": "https://versuch.cpebach.org/v-html/part-I/chapter-2/section-4/I-2-4-p7.html"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The smallest run is a turn: the note above, the note, the note below, the note."},
+                            "headline": {"en": "The smallest run is a turn: the note above, the note, the note below, the note.", "es": "El melisma más pequeño es un grupeto: la nota de arriba, la nota, la de abajo, la nota."},
                             "steps": [
-                                {"title": {"en": "Above"}, "detail": {"en": "One stair up"}},
-                                {"title": {"en": "The note"}, "detail": {"en": "Home"}},
-                                {"title": {"en": "Below, and back"}, "detail": {"en": "One stair down, then home"}}
+                                {"title": {"en": "Above", "es": "Arriba"}, "detail": {"en": "One stair up", "es": "Un escalón arriba"}},
+                                {"title": {"en": "The note", "es": "La nota"}, "detail": {"en": "Home", "es": "Tu nota"}},
+                                {"title": {"en": "Below, and back", "es": "Abajo y de vuelta"}, "detail": {"en": "One stair down, then home", "es": "Un escalón abajo y de vuelta a tu nota"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Two turns, around do and around so: listen, then echo."},
+                            "text": {"en": "Two turns, around do and around so: listen, then echo.", "es": "Dos grupetos, alrededor de \"do\" y de \"so\": escucha y repite."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -229,29 +229,29 @@
                                 "turn": true,
                                 "drone": {"step": 0}
                             },
-                            "measures": {"en": "Scored on every note on pitch."}
+                            "measures": {"en": "Scored on every note on pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "gr-1-challenge",
-                    "title": {"en": "A run at the end"},
+                    "title": {"en": "A run at the end", "es": "Un melisma al final"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Five stairs again, then a real line: Steal Away, sung plain first, then with a short run on its held \"way\"."},
+                            "headline": {"en": "Five stairs again, then a real line: Steal Away, sung plain first, then with a short run on its held \"way\".", "es": "Otra vez los cinco escalones y luego una frase de verdad: Steal Away, primero sin adornos y luego con un melisma corto en su \"way\" largo."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Five stairs, today"}},
-                                {"title": {"en": "The tune first"}, "detail": {"en": "Sung plain"}},
-                                {"title": {"en": "Then the run"}, "detail": {"en": "On the held word"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Five stairs, today", "es": "Cinco escalones, hoy"}},
+                                {"title": {"en": "The tune first", "es": "Primero la melodía"}, "detail": {"en": "Sung plain", "es": "Sin adornos"}},
+                                {"title": {"en": "Then the run", "es": "Y el melisma"}, "detail": {"en": "On the held word", "es": "En la palabra larga"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Five stairs."},
+                            "text": {"en": "Five stairs.", "es": "Cinco escalones."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -269,11 +269,11 @@
                                 ],
                                 "thenAndNow": "gr.first-run"
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Steal away\", sung plain."},
+                            "text": {"en": "\"Steal away\", sung plain.", "es": "\"Steal away\", sin adornos."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -286,11 +286,11 @@
                                 ],
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on every note on pitch."}
+                            "measures": {"en": "Scored on every note on pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now with a short run on the held \"way\"."},
+                            "text": {"en": "Now with a short run on the held \"way\".", "es": "Ahora con un melisma corto en el \"way\" largo."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -306,7 +306,7 @@
                                 "turn": false,
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         }
                     ]
                 }
@@ -314,28 +314,28 @@
         },
         {
             "id": "gr-groups-and-placing",
-            "title": {"en": "Groups, placing, and the minor"},
+            "title": {"en": "Groups, placing, and the minor", "es": "Grupos, colocación y modo menor"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "gr-2-groups",
-                    "title": {"en": "In groups"},
-                    "fact": {"id": "bolton-clicks-group", "text": {"en": "In 1894 the psychologist Thaddeus Bolton played people identical, evenly spaced clicks. They heard them fall into groups of two, three or four, most often with the first of each group sounding strongest."}, "source": {"en": "Bolton, Rhythm, The American Journal of Psychology (1894)"}, "url": "https://archive.org/details/jstor-1410948"},
+                    "title": {"en": "In groups", "es": "En grupos"},
+                    "fact": {"id": "bolton-clicks-group", "text": {"en": "In 1894 the psychologist Thaddeus Bolton played people identical, evenly spaced clicks. They heard them fall into groups of two, three or four, most often with the first of each group sounding strongest.", "es": "En 1894, el psicólogo Thaddeus Bolton hizo escuchar a varias personas clics idénticos y espaciados por igual. Los oyeron en grupos de dos, de tres o de cuatro, y casi siempre el primero de cada grupo les sonaba más fuerte."}, "source": {"en": "Bolton, Rhythm, The American Journal of Psychology (1894)", "es": "Bolton, Rhythm, The American Journal of Psychology (1894)"}, "url": "https://archive.org/details/jstor-1410948"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Fast runs are groups of three or four, the first of each group leaned on a little: lighter, not louder."},
+                            "headline": {"en": "Fast runs are groups of three or four, the first of each group leaned on a little: lighter, not louder.", "es": "Los melismas rápidos van en grupos de tres o de cuatro, con un leve acento en la primera nota de cada grupo: con ligereza, no con más volumen."},
                             "steps": [
-                                {"title": {"en": "Threes"}, "detail": {"en": "Three to a beat"}},
-                                {"title": {"en": "A small lean"}, "detail": {"en": "On the first, not louder"}},
-                                {"title": {"en": "Echo"}, "detail": {"en": "Listen, then sing"}}
+                                {"title": {"en": "Threes", "es": "De 3 en 3"}, "detail": {"en": "Three to a beat", "es": "Tres por tiempo"}},
+                                {"title": {"en": "A small lean", "es": "Un leve acento"}, "detail": {"en": "On the first, not louder", "es": "En la primera, sin más volumen"}},
+                                {"title": {"en": "Echo", "es": "Eco"}, "detail": {"en": "Listen, then sing", "es": "Escucha y canta"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Three groups of three: listen, then echo."},
+                            "text": {"en": "Three groups of three: listen, then echo.", "es": "Tres grupos de tres: escucha y repite."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -355,11 +355,11 @@
                                 "turn": true,
                                 "drone": {"step": 0}
                             },
-                            "measures": {"en": "Scored on every note on pitch."}
+                            "measures": {"en": "Scored on every note on pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, then hear yours beside the guide's."},
+                            "text": {"en": "Once more, then hear yours beside the guide's.", "es": "Una vez más, y luego escúchate junto a la guía."},
                             "exercise": {
                                 "tempo": 60,
                                 "model": {
@@ -370,41 +370,41 @@
                                         {"beat": 1, "length": 0.5, "step": 2}
                                     ]
                                 },
-                                "questions": [{"en": "Did the lean stay light, not louder?"}, {"en": "Did your jaw stay still?"}]
+                                "questions": [{"en": "Did the lean stay light, not louder?", "es": "¿El acento fue ligero, sin subir el volumen?"}, {"en": "Did your jaw stay still?", "es": "¿Tu mandíbula se quedó quieta?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "gr-2-clean",
-                    "title": {"en": "Clean, smeared or choppy?"},
+                    "title": {"en": "Clean, smeared or choppy?", "es": "¿Limpio, borroso o cortado?"},
                     "fact": {
                         "id": "tosi-ha-ha-ha",
-                        "text": {"en": "In 1723 the singing teacher Pier Francesco Tosi wanted a run's notes \"not too much join'd, nor too much mark'd\". Pushed too hard, he wrote, a run on \"A\" sounds like \"Ha, Ha, Ha\"."},
-                        "source": {"en": "Tosi, Observations on the Florid Song, tr. Galliard (1743), Project Gutenberg"},
+                        "text": {"en": "In 1723 the singing teacher Pier Francesco Tosi wanted a run's notes \"not too much join'd, nor too much mark'd\". Pushed too hard, he wrote, a run on \"A\" sounds like \"Ha, Ha, Ha\".", "es": "En 1723, el maestro de canto Pier Francesco Tosi quería las notas de un melisma \"ni demasiado ligadas ni demasiado marcadas\". Si se fuerza demasiado, escribió, un melisma en \"A\" suena a \"Ha, Ha, Ha\", con la h aspirada."},
+                        "source": {"en": "Tosi, Observations on the Florid Song, tr. Galliard (1743), Project Gutenberg", "es": "Tosi, Observations on the Florid Song, trad. de Galliard (1743), Project Gutenberg"},
                         "url": "https://www.gutenberg.org/ebooks/26477",
                         "distinct": ["tosi-seldom-prodigy"]
                     },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A clean run keeps each note separate but joined. A smeared one slides; a choppy one breathes between notes, \"ha-ha-ha\"."},
+                            "headline": {"en": "A clean run keeps each note separate but joined. A smeared one slides; a choppy one breathes between notes, \"ha-ha-ha\".", "es": "Un melisma limpio mantiene cada nota separada pero unida. Uno borroso se desliza; uno cortado respira entre nota y nota: \"ha-ha-ha\", con la h aspirada."},
                             "steps": [
-                                {"title": {"en": "Clean"}, "detail": {"en": "Separate and joined"}},
-                                {"title": {"en": "Smeared"}, "detail": {"en": "Sliding together"}},
-                                {"title": {"en": "Choppy"}, "detail": {"en": "Breathy gaps"}}
+                                {"title": {"en": "Clean", "es": "Limpio"}, "detail": {"en": "Separate and joined", "es": "Separadas y unidas"}},
+                                {"title": {"en": "Smeared", "es": "Borroso"}, "detail": {"en": "Sliding together", "es": "Notas que se deslizan"}},
+                                {"title": {"en": "Choppy", "es": "Cortado"}, "detail": {"en": "Breathy gaps", "es": "Huecos con aire"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 60,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which run kept its notes clean and joined?"},
+                                        "prompt": {"en": "Which run kept its notes clean and joined?", "es": "¿Qué melisma mantuvo sus notas limpias y unidas?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -462,10 +462,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath."}
+                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath.", "es": "Limpio: cada nota separada pero unida. Borroso: se desliza entre ellas. Cortado: las separa con aire."}
                                     },
                                     {
-                                        "prompt": {"en": "Which run kept its notes clean and joined?"},
+                                        "prompt": {"en": "Which run kept its notes clean and joined?", "es": "¿Qué melisma mantuvo sus notas limpias y unidas?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -487,10 +487,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath."}
+                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath.", "es": "Limpio: cada nota separada pero unida. Borroso: se desliza entre ellas. Cortado: las separa con aire."}
                                     },
                                     {
-                                        "prompt": {"en": "Which run kept its notes clean and joined?"},
+                                        "prompt": {"en": "Which run kept its notes clean and joined?", "es": "¿Qué melisma mantuvo sus notas limpias y unidas?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -512,10 +512,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath."}
+                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath.", "es": "Limpio: cada nota separada pero unida. Borroso: se desliza entre ellas. Cortado: las separa con aire."}
                                     },
                                     {
-                                        "prompt": {"en": "Which run kept its notes clean and joined?"},
+                                        "prompt": {"en": "Which run kept its notes clean and joined?", "es": "¿Qué melisma mantuvo sus notas limpias y unidas?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -573,10 +573,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath."}
+                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath.", "es": "Limpio: cada nota separada pero unida. Borroso: se desliza entre ellas. Cortado: las separa con aire."}
                                     },
                                     {
-                                        "prompt": {"en": "Which run kept its notes clean and joined?"},
+                                        "prompt": {"en": "Which run kept its notes clean and joined?", "es": "¿Qué melisma mantuvo sus notas limpias y unidas?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -634,10 +634,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath."}
+                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath.", "es": "Limpio: cada nota separada pero unida. Borroso: se desliza entre ellas. Cortado: las separa con aire."}
                                     },
                                     {
-                                        "prompt": {"en": "Which run kept its notes clean and joined?"},
+                                        "prompt": {"en": "Which run kept its notes clean and joined?", "es": "¿Qué melisma mantuvo sus notas limpias y unidas?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -659,15 +659,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath."}
+                                        "why": {"en": "Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath.", "es": "Limpio: cada nota separada pero unida. Borroso: se desliza entre ellas. Cortado: las separa con aire."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now yours, clean."},
+                            "text": {"en": "Now yours, clean.", "es": "Ahora el tuyo, limpio."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -684,33 +684,33 @@
                                     {"beat": 2, "root": -12, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         }
                     ]
                 },
                 {
                     "id": "gr-2-place",
-                    "title": {"en": "Where a run goes"},
+                    "title": {"en": "Where a run goes", "es": "Dónde va el melisma"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "One run a line, on a held word, usually at its end. The tune comes first."},
+                            "headline": {"en": "One run a line, on a held word, usually at its end. The tune comes first.", "es": "Un melisma por frase, en una palabra larga, casi siempre al final. Primero va la melodía."},
                             "steps": [
-                                {"title": {"en": "The tune"}, "detail": {"en": "Sung plain"}},
-                                {"title": {"en": "One run"}, "detail": {"en": "Not on every word"}},
-                                {"title": {"en": "On a held word"}, "detail": {"en": "Where there's time"}}
+                                {"title": {"en": "The tune", "es": "La melodía"}, "detail": {"en": "Sung plain", "es": "Sin adornos"}},
+                                {"title": {"en": "One run", "es": "Un melisma"}, "detail": {"en": "Not on every word", "es": "No en cada palabra"}},
+                                {"title": {"en": "On a held word", "es": "En una nota larga"}, "detail": {"en": "Where there's time", "es": "Donde hay tiempo"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 60,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which line places its run well?"},
+                                        "prompt": {"en": "Which line places its run well?", "es": "¿Qué frase coloca bien su melisma?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -735,10 +735,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "One run, at the end, on the held note. Runs on every note hide the tune."}
+                                        "why": {"en": "One run, at the end, on the held note. Runs on every note hide the tune.", "es": "Un solo melisma, al final, en la nota larga. Con melismas en cada nota, la melodía se pierde."}
                                     },
                                     {
-                                        "prompt": {"en": "Which line places its run well?"},
+                                        "prompt": {"en": "Which line places its run well?", "es": "¿Qué frase coloca bien su melisma?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -763,10 +763,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "One run, at the end, on the held note. Runs on every note hide the tune."}
+                                        "why": {"en": "One run, at the end, on the held note. Runs on every note hide the tune.", "es": "Un solo melisma, al final, en la nota larga. Con melismas en cada nota, la melodía se pierde."}
                                     },
                                     {
-                                        "prompt": {"en": "Which line places its run well?"},
+                                        "prompt": {"en": "Which line places its run well?", "es": "¿Qué frase coloca bien su melisma?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -791,15 +791,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "One run, at the end, on the held note. Runs on every note hide the tune."}
+                                        "why": {"en": "One run, at the end, on the held note. Runs on every note hide the tune.", "es": "Un solo melisma, al final, en la nota larga. Con melismas en cada nota, la melodía se pierde."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Steal away\" with one run, on its held word."},
+                            "text": {"en": "\"Steal away\" with one run, on its held word.", "es": "\"Steal away\" con un solo melisma, en su palabra larga."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -815,30 +815,30 @@
                                 "turn": false,
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         }
                     ]
                 },
                 {
                     "id": "gr-2-challenge",
-                    "title": {"en": "Wade in the Water"},
+                    "title": {"en": "Wade in the Water", "es": "Wade in the Water"},
                     "challenge": true,
-                    "fact": {"id": "lining-out", "text": {"en": "In lining out, a leader chants a line and the congregation answers with a slower, more decorated version. African American congregations made it their own, and it became one of the roots of gospel singing."}, "source": {"en": "Titon, Smithsonian Folklife Festival program (1997)"}, "url": "https://folklife-media.si.edu/docs/festival/program-book-articles/FESTBK1997_25.pdf"},
+                    "fact": {"id": "lining-out", "text": {"en": "In lining out, a leader chants a line and the congregation answers with a slower, more decorated version. African American congregations made it their own, and it became one of the roots of gospel singing.", "es": "En el \"lining out\", quien dirige entona un verso y la congregación responde con una versión más lenta y más adornada. Las congregaciones afroamericanas lo hicieron suyo, y se convirtió en una de las raíces del canto gospel."}, "source": {"en": "Titon, Smithsonian Folklife Festival program (1997)", "es": "Titon, programa del Smithsonian Folklife Festival (1997)"}, "url": "https://folklife-media.si.edu/docs/festival/program-book-articles/FESTBK1997_25.pdf"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Five stairs again, then Wade in the Water: a minor song (darker, its third a half step lower), with a minor run in fours (In groups)."},
+                            "headline": {"en": "Five stairs again, then Wade in the Water: a minor song (darker, its third a half step lower), with a minor run in fours (In groups).", "es": "Otra vez los cinco escalones y luego Wade in the Water: una canción en menor (más oscura, con la tercera un semitono más baja), con un melisma en menor de cuatro en cuatro (En grupos)."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Five stairs, today"}},
-                                {"title": {"en": "Minor"}, "detail": {"en": "The darker five notes"}},
-                                {"title": {"en": "In fours"}, "detail": {"en": "A small lean on the first"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Five stairs, today", "es": "Cinco escalones, hoy"}},
+                                {"title": {"en": "Minor", "es": "Menor"}, "detail": {"en": "The darker five notes", "es": "Las cinco notas más oscuras"}},
+                                {"title": {"en": "In fours", "es": "De 4 en 4"}, "detail": {"en": "A small lean on the first", "es": "Un leve acento en la primera"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Five stairs."},
+                            "text": {"en": "Five stairs.", "es": "Cinco escalones."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -856,11 +856,11 @@
                                 ],
                                 "thenAndNow": "gr.first-run"
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Wade in the water\", plain."},
+                            "text": {"en": "\"Wade in the water\", plain.", "es": "\"Wade in the water\", sin adornos."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -872,11 +872,11 @@
                                 ],
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on every note on pitch."}
+                            "measures": {"en": "Scored on every note on pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now ending in a minor run, in fours."},
+                            "text": {"en": "Now ending in a minor run, in fours.", "es": "Ahora, con un melisma en menor al final, de cuatro en cuatro."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -891,7 +891,7 @@
                                 ],
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on every note on pitch."}
+                            "measures": {"en": "Scored on every note on pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 }
@@ -899,28 +899,28 @@
         },
         {
             "id": "gr-the-blue-note",
-            "title": {"en": "The blue note"},
+            "title": {"en": "The blue note", "es": "La nota blue"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "gr-3-bend",
-                    "title": {"en": "Bend up"},
-                    "fact": {"id": "rhapsody-clarinet-slide", "text": {"en": "The clarinet slide that opens Rhapsody in Blue began as a joke. Gershwin wrote a trill and a plain scale; in rehearsal Ross Gorman slid it instead, and Gershwin asked for as much \"wail\" as possible."}, "source": {"en": "Wikipedia, Rhapsody in Blue"}, "url": "https://en.wikipedia.org/wiki/Rhapsody_in_Blue"},
+                    "title": {"en": "Bend up", "es": "Inflexión"},
+                    "fact": {"id": "rhapsody-clarinet-slide", "text": {"en": "The clarinet slide that opens Rhapsody in Blue began as a joke. Gershwin wrote a trill and a plain scale; in rehearsal Ross Gorman slid it instead, and Gershwin asked for as much \"wail\" as possible.", "es": "El glissando de clarinete que abre Rhapsody in Blue empezó como una broma. Gershwin escribió un trino y una escala sencilla; en un ensayo, Ross Gorman la tocó en glissando, y Gershwin pidió todo el \"lamento\" posible."}, "source": {"en": "Wikipedia, Rhapsody in Blue", "es": "Wikipedia, Rhapsody in Blue"}, "url": "https://en.wikipedia.org/wiki/Rhapsody_in_Blue"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The blue note sits between the piano's keys, between the minor and major third, nearer the minor. Start there, loose, and bend up to the third: the arrival is what matters."},
+                            "headline": {"en": "The blue note sits between the piano's keys, between the minor and major third, nearer the minor. Start there, loose, and bend up to the third: the arrival is what matters.", "es": "La nota blue está entre las teclas del piano, entre la tercera menor y la mayor, más cerca de la menor. Empieza ahí, sin tensión, y haz una inflexión hacia arriba (un \"bend\": deslizar la nota) hasta la tercera: lo que importa es llegar."},
                             "steps": [
-                                {"title": {"en": "Start low"}, "detail": {"en": "Between the keys"}},
-                                {"title": {"en": "Bend up"}, "detail": {"en": "Slowly, lightly"}},
-                                {"title": {"en": "Arrive"}, "detail": {"en": "And hold the third"}}
+                                {"title": {"en": "Start low", "es": "Desde abajo"}, "detail": {"en": "Between the keys", "es": "Entre las teclas"}},
+                                {"title": {"en": "Bend up", "es": "Inflexión"}, "detail": {"en": "Slowly, lightly", "es": "Despacio y con ligereza"}},
+                                {"title": {"en": "Arrive", "es": "Llega"}, "detail": {"en": "And hold the third", "es": "Y mantén la tercera"}}
                             ],
                             "visual": "vibrato",
                             "reviewed": false
                         },
                         {
                             "kind": "wave",
-                            "text": {"en": "Ride the line: from the blue note up to the third, then hold."},
+                            "text": {"en": "Ride the line: from the blue note up to the third, then hold.", "es": "Sigue la línea: desde la nota blue sube hasta la tercera y mantenla."},
                             "exercise": {
                                 "tempo": 60,
                                 "step": 0,
@@ -942,7 +942,7 @@
                         },
                         {
                             "kind": "wave",
-                            "text": {"en": "Once more, a little quicker into the third."},
+                            "text": {"en": "Once more, a little quicker into the third.", "es": "Otra vez, llegando un poco más rápido a la tercera."},
                             "exercise": {
                                 "tempo": 60,
                                 "step": 0,
@@ -966,23 +966,23 @@
                 },
                 {
                     "id": "gr-3-up",
-                    "title": {"en": "Run up to it"},
-                    "fact": {"id": "slide-elevation-1654", "text": {"en": "Baroque musicians had a name for two or three steps climbing into a note: the slide, Schleifer in German. Writing in 1654, England's John Playford called this rising kind an \"elevation\"."}, "source": {"en": "Wikipedia, Slide (musical ornament)"}, "url": "https://en.wikipedia.org/wiki/Slide_(musical_ornament)"},
+                    "title": {"en": "Run up to it", "es": "Sube hasta ella"},
+                    "fact": {"id": "slide-elevation-1654", "text": {"en": "Baroque musicians had a name for two or three steps climbing into a note: the slide, Schleifer in German. Writing in 1654, England's John Playford called this rising kind an \"elevation\".", "es": "Los músicos barrocos tenían un nombre para dos o tres notas que suben por grados hasta una nota: \"slide\" en inglés, Schleifer en alemán. En 1654, el inglés John Playford llamó a esta variante ascendente \"elevation\" (elevación)."}, "source": {"en": "Wikipedia, Slide (musical ornament)", "es": "Wikipedia, Slide (musical ornament)"}, "url": "https://en.wikipedia.org/wiki/Slide_(musical_ornament)"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A run can climb into a note too: three stairs up, then hold."},
+                            "headline": {"en": "A run can climb into a note too: three stairs up, then hold.", "es": "Un melisma también puede subir hasta una nota: sube tres escalones y luego mantenla."},
                             "steps": [
-                                {"title": {"en": "Three up"}, "detail": {"en": "Light and clean"}},
-                                {"title": {"en": "Then hold"}, "detail": {"en": "The note you ran to"}},
-                                {"title": {"en": "Light"}, "detail": {"en": "No pushing at the top"}}
+                                {"title": {"en": "Three up", "es": "Tres arriba"}, "detail": {"en": "Light and clean", "es": "Ligero y limpio"}},
+                                {"title": {"en": "Then hold", "es": "Y mantén"}, "detail": {"en": "The note you ran to", "es": "La nota a la que llegaste"}},
+                                {"title": {"en": "Light", "es": "Ligera"}, "detail": {"en": "No pushing at the top", "es": "Sin empujar arriba"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Three rising runs, each into a held note."},
+                            "text": {"en": "Three rising runs, each into a held note.", "es": "Tres melismas que suben, cada uno hasta una nota larga."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1003,34 +1003,34 @@
                                 "drone": {"step": 0},
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         }
                     ]
                 },
                 {
                     "id": "gr-3-hear",
-                    "title": {"en": "Bend or stall?"},
-                    "fact": {"id": "dorsey-kicked-out", "text": {"en": "Thomas A. Dorsey's bluesy gospel met resistance from ministers, musicians and churchgoers alike. He was often quoted saying he had \"been kicked out of the best churches in the country\"."}, "source": {"en": "Wikipedia, Thomas A. Dorsey"}, "url": "https://en.wikipedia.org/wiki/Thomas_A._Dorsey"},
+                    "title": {"en": "Bend or stall?", "es": "¿Llega o se queda?"},
+                    "fact": {"id": "dorsey-kicked-out", "text": {"en": "Thomas A. Dorsey's bluesy gospel met resistance from ministers, musicians and churchgoers alike. He was often quoted saying he had \"been kicked out of the best churches in the country\".", "es": "El gospel con aire de blues de Thomas A. Dorsey encontró resistencia entre pastores, músicos y fieles por igual. Se le citaba a menudo diciendo que lo habían \"echado de las mejores iglesias del país\"."}, "source": {"en": "Wikipedia, Thomas A. Dorsey", "es": "Wikipedia, Thomas A. Dorsey"}, "url": "https://en.wikipedia.org/wiki/Thomas_A._Dorsey"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A bend has to arrive. Listen for the one that lands."},
+                            "headline": {"en": "A bend has to arrive. Listen for the one that lands.", "es": "Una inflexión tiene que llegar. Escucha cuál llega a la nota."},
                             "steps": [
-                                {"title": {"en": "Listen"}, "detail": {"en": "Which one lands?"}},
-                                {"title": {"en": "Then you"}, "detail": {"en": "A bend that arrives"}},
-                                {"title": {"en": "Hold it"}, "detail": {"en": "On the third"}}
+                                {"title": {"en": "Listen", "es": "Escucha"}, "detail": {"en": "Which one lands?", "es": "¿Cuál llega?"}},
+                                {"title": {"en": "Then you", "es": "Luego tú"}, "detail": {"en": "A bend that arrives", "es": "Una inflexión que llega"}},
+                                {"title": {"en": "Hold it", "es": "Mantenla"}, "detail": {"en": "On the third", "es": "En la tercera"}}
                             ],
                             "visual": "vibrato",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada uno y luego elige."},
                             "exercise": {
                                 "tempo": 60,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which bend lands on the third?"},
+                                        "prompt": {"en": "Which bend lands on the third?", "es": "¿Qué inflexión llega a la tercera?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1062,10 +1062,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "One bends up and arrives; the other stalls just short."}
+                                        "why": {"en": "One bends up and arrives; the other stalls just short.", "es": "Una sube y llega; la otra se queda un poco corta."}
                                     },
                                     {
-                                        "prompt": {"en": "Which bend lands on the third?"},
+                                        "prompt": {"en": "Which bend lands on the third?", "es": "¿Qué inflexión llega a la tercera?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1097,10 +1097,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "One bends up and arrives; the other stalls just short."}
+                                        "why": {"en": "One bends up and arrives; the other stalls just short.", "es": "Una sube y llega; la otra se queda un poco corta."}
                                     },
                                     {
-                                        "prompt": {"en": "Which bend lands on the third?"},
+                                        "prompt": {"en": "Which bend lands on the third?", "es": "¿Qué inflexión llega a la tercera?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1132,10 +1132,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "One bends up and arrives; the other stalls just short."}
+                                        "why": {"en": "One bends up and arrives; the other stalls just short.", "es": "Una sube y llega; la otra se queda un poco corta."}
                                     },
                                     {
-                                        "prompt": {"en": "Which bend lands on the third?"},
+                                        "prompt": {"en": "Which bend lands on the third?", "es": "¿Qué inflexión llega a la tercera?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1167,15 +1167,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "One bends up and arrives; the other stalls just short."}
+                                        "why": {"en": "One bends up and arrives; the other stalls just short.", "es": "Una sube y llega; la otra se queda un poco corta."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "wave",
-                            "text": {"en": "Now your bend, arriving on the third."},
+                            "text": {"en": "Now your bend, arriving on the third.", "es": "Ahora tu inflexión, llegando a la tercera."},
                             "exercise": {
                                 "tempo": 60,
                                 "step": 0,
@@ -1199,23 +1199,23 @@
                 },
                 {
                     "id": "gr-3-challenge",
-                    "title": {"en": "A bluesy ending"},
+                    "title": {"en": "A bluesy ending", "es": "Un final con blues"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Five stairs again, a bend on the line, then an ending run in threes (unit 2's groups)."},
+                            "headline": {"en": "Five stairs again, a bend on the line, then an ending run in threes (unit 2's groups).", "es": "Otra vez los cinco escalones, una inflexión en la frase y luego un melisma final de tres en tres (los grupos de la unidad 2)."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Five stairs, today"}},
-                                {"title": {"en": "The bend"}, "detail": {"en": "Arrive on the third"}},
-                                {"title": {"en": "The run"}, "detail": {"en": "In threes, landing home"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Five stairs, today", "es": "Cinco escalones, hoy"}},
+                                {"title": {"en": "The bend", "es": "La inflexión"}, "detail": {"en": "Arrive on the third", "es": "Llega a la tercera"}},
+                                {"title": {"en": "The run", "es": "El melisma"}, "detail": {"en": "In threes, landing home", "es": "De tres en tres, hasta \"do\""}}
                             ],
                             "visual": "vibrato",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Five stairs."},
+                            "text": {"en": "Five stairs.", "es": "Cinco escalones."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1233,11 +1233,11 @@
                                 ],
                                 "thenAndNow": "gr.first-run"
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         },
                         {
                             "kind": "wave",
-                            "text": {"en": "The bend, arriving on the third."},
+                            "text": {"en": "The bend, arriving on the third.", "es": "La inflexión, llegando a la tercera."},
                             "exercise": {
                                 "tempo": 60,
                                 "step": 0,
@@ -1259,7 +1259,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The ending run, in threes, landing on do."},
+                            "text": {"en": "The ending run, in threes, landing on do.", "es": "El melisma final, de tres en tres, hasta llegar a \"do\"."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1271,7 +1271,7 @@
                                 "turn": true,
                                 "drone": {"step": 0}
                             },
-                            "measures": {"en": "Scored on every note on pitch."}
+                            "measures": {"en": "Scored on every note on pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 }
@@ -1279,28 +1279,28 @@
         },
         {
             "id": "gr-the-ladder",
-            "title": {"en": "The ladder, and the songs"},
+            "title": {"en": "The ladder, and the songs", "es": "La escalera y las canciones"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "gr-4-ladder",
-                    "title": {"en": "The ladder"},
-                    "fact": {"id": "slow-practice", "text": {"en": "Almost every classical musician practises slowly: in a 2022 survey of 256 musicians, 99.45 percent of the classical players did. Science hasn't yet shown exactly how it helps."}, "source": {"en": "Allingham and Wöllner, Psychology of Music (2022)"}, "url": "https://doi.org/10.1177/03057356211073481"},
+                    "title": {"en": "The ladder", "es": "La escalera"},
+                    "fact": {"id": "slow-practice", "text": {"en": "Almost every classical musician practises slowly: in a 2022 survey of 256 musicians, 99.45 percent of the classical players did. Science hasn't yet shown exactly how it helps.", "es": "Casi todos los músicos clásicos practican despacio: en una encuesta de 2022 a 256 músicos, lo hacía más del 99 por ciento de los intérpretes clásicos. La ciencia aún no ha demostrado exactamente cómo ayuda."}, "source": {"en": "Allingham and Wöllner, Psychology of Music (2022)", "es": "Allingham y Wöllner, Psychology of Music (2022)"}, "url": "https://doi.org/10.1177/03057356211073481"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The same run, a rung at a time: two, three, then four notes a second, each note still clean. Real runs go faster; clean first is how they're learned."},
+                            "headline": {"en": "The same run, a rung at a time: two, three, then four notes a second, each note still clean. Real runs go faster; clean first is how they're learned.", "es": "El mismo melisma, peldaño a peldaño: dos, tres y luego cuatro notas por segundo, con cada nota aún limpia. Los melismas reales van más rápido, pero se aprenden así: primero, limpios."},
                             "steps": [
-                                {"title": {"en": "Two a second"}, "detail": {"en": "Every note clean"}},
-                                {"title": {"en": "Three, then four"}, "detail": {"en": "As quick as each note still counts"}},
-                                {"title": {"en": "Beyond"}, "detail": {"en": "Real speed, just to hear"}}
+                                {"title": {"en": "Two a second", "es": "Dos por segundo"}, "detail": {"en": "Every note clean", "es": "Cada nota limpia"}},
+                                {"title": {"en": "Three, then four", "es": "Tres y luego cuatro"}, "detail": {"en": "As quick as each note still counts", "es": "Tan rápido como puedas sin perder ninguna nota"}},
+                                {"title": {"en": "Beyond", "es": "Más allá"}, "detail": {"en": "Real speed, just to hear", "es": "Velocidad real, solo para escuchar"}}
                             ],
                             "visual": "echo",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The run at two notes a second."},
+                            "text": {"en": "The run at two notes a second.", "es": "El melisma a dos notas por segundo."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1317,11 +1317,11 @@
                                     {"beat": 2, "root": -12, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The run at three notes a second."},
+                            "text": {"en": "The run at three notes a second.", "es": "El melisma a tres notas por segundo."},
                             "exercise": {
                                 "tempo": 90,
                                 "notes": [
@@ -1338,11 +1338,11 @@
                                     {"beat": 2, "root": -12, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The run at four notes a second."},
+                            "text": {"en": "The run at four notes a second.", "es": "El melisma a cuatro notas por segundo."},
                             "exercise": {
                                 "tempo": 120,
                                 "notes": [
@@ -1360,11 +1360,11 @@
                                 ],
                                 "generous": true
                             },
-                            "measures": {"en": "Scored on every note on pitch, generously at the top rung."}
+                            "measures": {"en": "Scored on every note on pitch, generously at the top rung.", "es": "Se puntúa la afinación de cada nota, con más margen en el peldaño más alto."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "One step further: the guide's run at real speed. Try it, then hear yours beside it. We don't score this speed yet."},
+                            "text": {"en": "One step further: the guide's run at real speed. Try it, then hear yours beside it. We don't score this speed yet.", "es": "Un paso más: el melisma de la guía a velocidad real. Pruébalo y luego escúchate junto a ella. Esta velocidad todavía no se puntúa."},
                             "exercise": {
                                 "tempo": 240,
                                 "model": {
@@ -1376,30 +1376,30 @@
                                         {"beat": 2, "length": 2, "step": 0, "lyric": "men."}
                                     ]
                                 },
-                                "questions": [{"en": "Did every note stay clean?"}, {"en": "Did your jaw stay still?"}]
+                                "questions": [{"en": "Did every note stay clean?", "es": "¿Cada nota se mantuvo limpia?"}, {"en": "Did your jaw stay still?", "es": "¿Tu mandíbula se quedó quieta?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "gr-4-swing",
-                    "title": {"en": "Swing Low, with a run"},
-                    "fact": {"id": "blue-note", "text": {"en": "A blue note falls between the piano's keys, flatter than the major third and sharper than the minor. Measured in early blues recordings, the blue third usually sits just above the minor third."}, "source": {"en": "Cutting, Empirical Musicology Review (2019)"}, "url": "https://doi.org/10.18061/emr.v13i1-2.6316"},
+                    "title": {"en": "Swing Low, with a run", "es": "Swing Low, con melisma"},
+                    "fact": {"id": "blue-note", "text": {"en": "A blue note falls between the piano's keys, flatter than the major third and sharper than the minor. Measured in early blues recordings, the blue third usually sits just above the minor third.", "es": "Una nota blue cae entre las teclas del piano: más baja que la tercera mayor y más alta que la menor. Medida en las primeras grabaciones de blues, la tercera blue suele quedar justo por encima de la tercera menor."}, "source": {"en": "Cutting, Empirical Musicology Review (2019)", "es": "Cutting, Empirical Musicology Review (2019)"}, "url": "https://doi.org/10.18061/emr.v13i1-2.6316"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Swing Low's line, plain, then with a turn on \"home\". The run is ours, one singer's choice: on a spiritual it serves the word."},
+                            "headline": {"en": "Swing Low's line, plain, then with a turn on \"home\". The run is ours, one singer's choice: on a spiritual it serves the word.", "es": "La frase de Swing Low, sin adornos, y luego con un grupeto en \"home\". El adorno lo ponemos nosotros, una opción personal entre muchas: en un espiritual, está al servicio de la palabra."},
                             "steps": [
-                                {"title": {"en": "Plain first"}, "detail": {"en": "The tune as it is"}},
-                                {"title": {"en": "On home"}, "detail": {"en": "A turn, serving the word"}},
-                                {"title": {"en": "Then breathe"}, "detail": {"en": "Before \"Coming for to carry me\""}}
+                                {"title": {"en": "Plain first", "es": "Sin adornos"}, "detail": {"en": "The tune as it is", "es": "La melodía tal cual"}},
+                                {"title": {"en": "On home", "es": "En \"home\""}, "detail": {"en": "A turn, serving the word", "es": "Un grupeto, al servicio de la palabra"}},
+                                {"title": {"en": "Then breathe", "es": "Y respira"}, "detail": {"en": "Before \"Coming for to carry me\"", "es": "Antes de \"Coming for to carry me\""}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Coming for to carry me home\", plain."},
+                            "text": {"en": "\"Coming for to carry me home\", plain.", "es": "\"Coming for to carry me home\", sin adornos."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1414,11 +1414,11 @@
                                 ],
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on every note on pitch."}
+                            "measures": {"en": "Scored on every note on pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now with a turn on \"home\"."},
+                            "text": {"en": "Now with a turn on \"home\".", "es": "Ahora con un grupeto en \"home\"."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1437,29 +1437,29 @@
                                 "turn": false,
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         }
                     ]
                 },
                 {
                     "id": "gr-4-steal",
-                    "title": {"en": "Steal Away"},
-                    "fact": {"id": "steal-away-oberlin-1871", "text": {"en": "In November 1871 the Fisk Jubilee Singers sang Steal Away to a convention of ministers at Oberlin, Ohio. The ministers passed them from church to church toward New York, where they became a sensation."}, "source": {"en": "Oberlin Alumni Magazine (Oberlin College), Summer 2001"}, "url": "https://www2.oberlin.edu/alummag/oamcurrent/oam_summer2001/profile1.html"},
+                    "title": {"en": "Steal Away", "es": "Steal Away"},
+                    "fact": {"id": "steal-away-oberlin-1871", "text": {"en": "In November 1871 the Fisk Jubilee Singers sang Steal Away to a convention of ministers at Oberlin, Ohio. The ministers passed them from church to church toward New York, where they became a sensation.", "es": "En noviembre de 1871, los Fisk Jubilee Singers cantaron Steal Away ante una convención de pastores en Oberlin (Ohio). Los pastores los fueron recomendando de iglesia en iglesia hacia Nueva York, donde causaron sensación."}, "source": {"en": "Oberlin Alumni Magazine (Oberlin College), Summer 2001", "es": "Oberlin Alumni Magazine (Oberlin College), verano de 2001"}, "url": "https://www2.oberlin.edu/alummag/oamcurrent/oam_summer2001/profile1.html"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A quiet spiritual: one gentle run, nothing more."},
+                            "headline": {"en": "A quiet spiritual: one gentle run, nothing more.", "es": "Un espiritual tranquilo: un melisma suave, nada más."},
                             "steps": [
-                                {"title": {"en": "Quiet"}, "detail": {"en": "A medium volume or less"}},
-                                {"title": {"en": "One run"}, "detail": {"en": "Gentle, on a held word"}},
-                                {"title": {"en": "The word"}, "detail": {"en": "Comes first"}}
+                                {"title": {"en": "Quiet", "es": "Suave"}, "detail": {"en": "A medium volume or less", "es": "Volumen medio o menos"}},
+                                {"title": {"en": "One run", "es": "Un melisma"}, "detail": {"en": "Gentle, on a held word", "es": "Delicado, en una palabra larga"}},
+                                {"title": {"en": "The word", "es": "La palabra"}, "detail": {"en": "Comes first", "es": "Va primero"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Steal away to Jesus\", plain."},
+                            "text": {"en": "\"Steal away to Jesus\", plain.", "es": "\"Steal away to Jesus\", sin adornos."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1472,11 +1472,11 @@
                                 ],
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on every note on pitch."}
+                            "measures": {"en": "Scored on every note on pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now with one gentle run."},
+                            "text": {"en": "Now with one gentle run.", "es": "Ahora con un melisma suave."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1491,29 +1491,29 @@
                                 "turn": false,
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         }
                     ]
                 },
                 {
                     "id": "gr-4-challenge",
-                    "title": {"en": "Your run"},
+                    "title": {"en": "Your run", "es": "Tu melisma"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Five stairs again, then Swing Low's line with a run of your own on \"home\": each note its own stair or the next one down, landing on the song's note."},
+                            "headline": {"en": "Five stairs again, then Swing Low's line with a run of your own on \"home\": each note its own stair or the next one down, landing on the song's note.", "es": "Otra vez los cinco escalones y luego la frase de Swing Low con un melisma tuyo en \"home\": cada nota en su escalón o en el siguiente hacia abajo, hasta llegar a la nota de la canción."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Five stairs, today"}},
-                                {"title": {"en": "Your run"}, "detail": {"en": "Each stair, or the next down"}},
-                                {"title": {"en": "Land it"}, "detail": {"en": "On the song's note"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Five stairs, today", "es": "Cinco escalones, hoy"}},
+                                {"title": {"en": "Your run", "es": "Tu melisma"}, "detail": {"en": "Each stair, or the next down", "es": "Cada escalón, o el de abajo"}},
+                                {"title": {"en": "Land it", "es": "Aterriza"}, "detail": {"en": "On the song's note", "es": "En la nota de la canción"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Five stairs."},
+                            "text": {"en": "Five stairs.", "es": "Cinco escalones."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1531,11 +1531,11 @@
                                 ],
                                 "thenAndNow": "gr.first-run"
                             },
-                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it."}
+                            "measures": {"en": "Scored on landing each note cleanly, not sliding into it.", "es": "Se puntúa que cada nota caiga limpia, sin deslizarte hasta ella."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "\"Coming for to carry me home\", your run on \"home\"."},
+                            "text": {"en": "\"Coming for to carry me home\", your run on \"home\".", "es": "\"Coming for to carry me home\", tu melisma en \"home\"."},
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1563,7 +1563,7 @@
                                 ],
                                 "turn": false
                             },
-                            "measures": {"en": "Scored on every note on pitch and landing on the song's note."}
+                            "measures": {"en": "Scored on every note on pitch and landing on the song's note.", "es": "Se puntúan la afinación de cada nota y la llegada a la nota de la canción."}
                         }
                     ]
                 }
