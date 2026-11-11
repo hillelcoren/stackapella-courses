@@ -433,7 +433,7 @@ UNIT2 = [
     ]),
     lesson("2-ending", 2, "A bluer ending", [
         learn("A blues line can end below home, on a lower note that leaves it open. It sounds odd at first; listen first.", [
-            ("Below home", "A step and a bit under it"),
+            ("Below home", "A whole step under it"),
             ("Let it sit", f"Easy, not pressed down; {SAFE}"),
         ]),
         choose("Listen to both, then choose.", 72, [

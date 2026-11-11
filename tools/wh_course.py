@@ -365,7 +365,7 @@ UNIT3 = [
     ]),
     lesson("3-high", 3, "The big jump", [
         learn("The biggest jump here is a sixth: the top note only as high as is easy. Slide it, then land it, then jump.", [
-            ("Only as high as is easy", "If it won't come, sing it smaller"),
+            ("Only as high as is easy", "If it won't come, whistle it smaller"),
             ("Air keeps moving", "One quick tongue move"),
         ]),
         play("The big jump, slowly, landing each top note.", SIXTH, LANDS, tempo=60, score="landing"),
