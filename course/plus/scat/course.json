@@ -2,33 +2,33 @@
     "id": "scat",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Scat singing"},
+    "title": {"en": "Scat singing", "es": "Canto scat"},
     "units": [
         {
             "id": "sc-the-swing-pocket",
-            "title": {"en": "The swing pocket"},
+            "title": {"en": "The swing pocket", "es": "El groove del swing"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "sc-1-trade",
-                    "title": {"en": "Trade with the band"},
+                    "title": {"en": "Trade with the band", "es": "Intercambia con la banda"},
                     "strictness": "relaxed",
-                    "fact": {"id": "scat-syllables-as-instruments", "text": {"en": "Scat syllables can copy instruments. A 1987 study likened Ella Fitzgerald's \"b\" and \"p\" to reed instruments and her \"d\" to tongued brass, and Sarah Vaughan's \"sh\" to brushes on a drum."}, "source": {"en": "Wikipedia, Scat singing (citing Stewart, Jazzforschung/Jazz Research 19 (1987))"}, "url": "https://en.wikipedia.org/wiki/Scat_singing"},
+                    "fact": {"id": "scat-syllables-as-instruments", "text": {"en": "Scat syllables can copy instruments. A 1987 study likened Ella Fitzgerald's \"b\" and \"p\" to reed instruments and her \"d\" to tongued brass, and Sarah Vaughan's \"sh\" to brushes on a drum.", "es": "Las sílabas del scat pueden imitar instrumentos. Un estudio de 1987 comparó la \"b\" y la \"p\" de Ella Fitzgerald con los instrumentos de lengüeta, su \"d\" con los metales con golpe de lengua, y la \"sh\" de Sarah Vaughan con las escobillas sobre un tambor."}, "source": {"en": "Wikipedia, Scat singing (citing Stewart, Jazzforschung/Jazz Research 19 (1987))", "es": "Wikipedia, Scat singing (citando a Stewart, Jazzforschung/Jazz Research 19 (1987))"}, "url": "https://en.wikipedia.org/wiki/Scat_singing"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Scat is singing like a horn on syllables. The band plays a call; you answer it. No wrong notes here: where you choose, every lit note fits."},
+                            "headline": {"en": "Scat is singing like a horn on syllables. The band plays a call; you answer it. No wrong notes here: where you choose, every lit note fits.", "es": "El scat es cantar con sílabas como si fueras un saxo o una trompeta. La banda lanza una llamada y tú le respondes. Aquí no hay notas equivocadas: cuando eliges tú, cualquier nota iluminada encaja."},
                             "steps": [
-                                {"title": {"en": "The call"}, "detail": {"en": "Two bars from the band"}},
-                                {"title": {"en": "Your echo"}, "detail": {"en": "The same two bars back"}},
-                                {"title": {"en": "Your last note"}, "detail": {"en": "Any lit note: one that sounds at rest"}}
+                                {"title": {"en": "The call", "es": "La llamada"}, "detail": {"en": "Two bars from the band", "es": "Dos compases de la banda"}},
+                                {"title": {"en": "Your echo", "es": "Tu eco"}, "detail": {"en": "The same two bars back", "es": "Repites esos dos compases"}},
+                                {"title": {"en": "Your last note", "es": "Tu última nota"}, "detail": {"en": "Any lit note: one that sounds at rest", "es": "Cualquier nota iluminada: todas suenan a reposo"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Echo one call, its syllables written out."},
+                            "text": {"en": "Echo one call, its syllables written out.", "es": "Repite una llamada, con sus sílabas escritas."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -64,7 +64,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Four trades. End each on any lit note, a different one each time if you like. Light and easy: a loose jaw, a medium volume, the middle of your voice. Accent with breath, never the throat. Stop if anything tightens."},
+                            "text": {"en": "Four trades. End each on any lit note, a different one each time if you like. Light and easy: a loose jaw, a medium volume, the middle of your voice. Accent with breath, never the throat. Stop if anything tightens.", "es": "Cuatro intercambios. Acaba cada uno en cualquier nota iluminada, una distinta cada vez si quieres. Ligero y cómodo: mandíbula suelta, volumen medio, la zona media de tu voz. Acentúa con el aire, nunca con la garganta. Si algo se tensa, para."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -245,34 +245,34 @@
                                 "generous": true,
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note.", "es": "Se puntúan tus notas: afinadas, a tiempo con el swing y, las que eliges tú, en una nota iluminada."}
                         }
                     ]
                 },
                 {
                     "id": "sc-1-swing",
-                    "title": {"en": "Long, short"},
-                    "fact": {"id": "swing-ratio-tempo", "text": {"en": "Swing isn't one fixed ratio. When researchers measured jazz drummers' ride cymbals, the long note grew longer at slow tempos, up to about 3.5 to 1, and the swing evened out at fast tempos."}, "source": {"en": "Friberg and Sundström, Jazz drummers' swing ratio in relation to tempo, Acoustical Society of America (1999)"}, "url": "https://acoustics.org/pressroom/httpdocs/137th/friberg.html"},
+                    "title": {"en": "Long, short", "es": "Larga, corta"},
+                    "fact": {"id": "swing-ratio-tempo", "text": {"en": "Swing isn't one fixed ratio. When researchers measured jazz drummers' ride cymbals, the long note grew longer at slow tempos, up to about 3.5 to 1, and the swing evened out at fast tempos.", "es": "El swing no tiene una proporción fija. Cuando unos investigadores midieron el platillo ride de bateristas de jazz, la nota larga se alargaba en los tempos lentos, hasta durar unas tres veces y media la corta, y en los tempos rápidos el swing se igualaba."}, "source": {"en": "Friberg and Sundström, Jazz drummers' swing ratio in relation to tempo, Acoustical Society of America (1999)", "es": "Friberg y Sundström, Jazz drummers' swing ratio in relation to tempo, Acoustical Society of America (1999)"}, "url": "https://acoustics.org/pressroom/httpdocs/137th/friberg.html"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Swing is long, short: \"doo-BAH\". A soft d on the long note, a b and a little accent on the short one, with breath, never the throat."},
+                            "headline": {"en": "Swing is long, short: \"doo-BAH\". A soft d on the long note, a b and a little accent on the short one, with breath, never the throat.", "es": "El swing es nota larga, nota corta: \"doo-BAH\" (du-BA). Una d suave en la nota larga; en la corta, una b y un pequeño acento, con el aire, nunca con la garganta."},
                             "steps": [
-                                {"title": {"en": "Doo"}, "detail": {"en": "Long, soft"}},
-                                {"title": {"en": "BAH"}, "detail": {"en": "Short, leaning"}},
-                                {"title": {"en": "Long, short"}, "detail": {"en": "Like a heartbeat"}}
+                                {"title": {"en": "Doo", "es": "Doo"}, "detail": {"en": "Long, soft", "es": "Larga, suave"}},
+                                {"title": {"en": "BAH", "es": "BAH"}, "detail": {"en": "Short, leaning", "es": "Corta, acentuada"}},
+                                {"title": {"en": "Long, short", "es": "Larga, corta"}, "detail": {"en": "Like a heartbeat", "es": "Como un latido"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada una y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one swings?"},
+                                        "prompt": {"en": "Which one swings?", "es": "¿Cuál tiene swing?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -300,10 +300,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Swing makes each pair long-short, like a heartbeat; straight makes them even."}
+                                        "why": {"en": "Swing makes each pair long-short, like a heartbeat; straight makes them even.", "es": "Con swing, cada pareja de notas es larga-corta, como un latido; sin swing, las dos duran lo mismo."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one swings?"},
+                                        "prompt": {"en": "Which one swings?", "es": "¿Cuál tiene swing?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -331,10 +331,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "Swing makes each pair long-short, like a heartbeat; straight makes them even."}
+                                        "why": {"en": "Swing makes each pair long-short, like a heartbeat; straight makes them even.", "es": "Con swing, cada pareja de notas es larga-corta, como un latido; sin swing, las dos duran lo mismo."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one swings?"},
+                                        "prompt": {"en": "Which one swings?", "es": "¿Cuál tiene swing?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -362,15 +362,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Swing makes each pair long-short, like a heartbeat; straight makes them even."}
+                                        "why": {"en": "Swing makes each pair long-short, like a heartbeat; straight makes them even.", "es": "Con swing, cada pareja de notas es larga-corta, como un latido; sin swing, las dos duran lo mismo."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "\"Doo-bah\" on one note, swung. Just try it."},
+                            "text": {"en": "\"Doo-bah\" on one note, swung. Just try it.", "es": "\"Doo-bah\" en una sola nota, con swing. Pruébalo sin más."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -407,7 +407,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now on two notes, swung, twice round, landing on \"doo\"."},
+                            "text": {"en": "Now on two notes, swung, twice round, landing on \"doo\".", "es": "Ahora en dos notas, con swing, dos vueltas, terminando en \"doo\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -461,29 +461,29 @@
                                 ],
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat.", "es": "Se puntúan tus notas: afinadas y a tiempo con el swing."}
                         }
                     ]
                 },
                 {
                     "id": "sc-1-and",
-                    "title": {"en": "Start on the and"},
-                    "fact": {"id": "bebop-from-scat-syllables", "text": {"en": "The word \"bebop\" comes from scat syllables. In Dizzy Gillespie's account, fans heard him scat his new, untitled tunes to the band, and \"would ask for bebop.\""}, "source": {"en": "Wikipedia, Bebop"}, "url": "https://en.wikipedia.org/wiki/Bebop"},
+                    "title": {"en": "Start on the and", "es": "Empieza en el \"y\""},
+                    "fact": {"id": "bebop-from-scat-syllables", "text": {"en": "The word \"bebop\" comes from scat syllables. In Dizzy Gillespie's account, fans heard him scat his new, untitled tunes to the band, and \"would ask for bebop.\"", "es": "La palabra \"bebop\" viene de las sílabas del scat. Según contaba Dizzy Gillespie, el público le oía cantar en scat a la banda sus temas nuevos, aún sin título, y luego \"pedía bebop\"."}, "source": {"en": "Wikipedia, Bebop", "es": "Wikipedia, Bebop"}, "url": "https://en.wikipedia.org/wiki/Bebop"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Jazz lines love to start just after the beat, on the \"and\". End each one clean, the t of \"dat\" cutting it off."},
+                            "headline": {"en": "Jazz lines love to start just after the beat, on the \"and\". End each one clean, the t of \"dat\" cutting it off.", "es": "A las frases de jazz les encanta empezar justo después del pulso, en el \"y\" (uno y dos y...). Termina cada una con un corte limpio: la t de \"dat\"."},
                             "steps": [
-                                {"title": {"en": "Wait"}, "detail": {"en": "Let the beat go by"}},
-                                {"title": {"en": "Then go"}, "detail": {"en": "On the and"}},
-                                {"title": {"en": "Dat"}, "detail": {"en": "A clean end"}}
+                                {"title": {"en": "Wait", "es": "Espera"}, "detail": {"en": "Let the beat go by", "es": "Deja pasar el pulso"}},
+                                {"title": {"en": "Then go", "es": "Y entra"}, "detail": {"en": "On the and", "es": "En el \"y\""}},
+                                {"title": {"en": "Dat", "es": "Dat"}, "detail": {"en": "A clean end", "es": "Un final limpio"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Four calls that start on the and; echo each."},
+                            "text": {"en": "Four calls that start on the and; echo each.", "es": "Cuatro llamadas que empiezan en el \"y\"; repite cada una."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -664,29 +664,29 @@
                                 ],
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat.", "es": "Se puntúan tus notas: afinadas y a tiempo con el swing."}
                         }
                     ]
                 },
                 {
                     "id": "sc-1-challenge",
-                    "title": {"en": "Four trades on the and"},
+                    "title": {"en": "Four trades on the and", "es": "Cuatro intercambios en el \"y\""},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's trades, to hear how far you've come, then four calls that start on the and, your echoes ending wherever you like on a lit note."},
+                            "headline": {"en": "Lesson 1's trades, to hear how far you've come, then four calls that start on the and, your echoes ending wherever you like on a lit note.", "es": "Los intercambios de la lección 1, para oír cuánto has avanzado, y luego cuatro llamadas que empiezan en el \"y\": tus ecos acaban donde quieras, en una nota iluminada."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's four trades"}},
-                                {"title": {"en": "On the and"}, "detail": {"en": "Calls that start off the beat"}},
-                                {"title": {"en": "Your landing"}, "detail": {"en": "Any lit note"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1's four trades", "es": "Intercambios de la lección 1"}},
+                                {"title": {"en": "On the and", "es": "En el \"y\""}, "detail": {"en": "Calls that start off the beat", "es": "Llamadas que empiezan a contratiempo"}},
+                                {"title": {"en": "Your landing", "es": "Tu nota final"}, "detail": {"en": "Any lit note", "es": "Nota iluminada"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's four trades again."},
+                            "text": {"en": "Lesson 1's four trades again.", "es": "Los cuatro intercambios de la lección 1, otra vez."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -866,11 +866,11 @@
                                 "thenAndNow": "sc.first-trade",
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note.", "es": "Se puntúan tus notas: afinadas, a tiempo con el swing y, las que eliges tú, en una nota iluminada."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the four calls on the and."},
+                            "text": {"en": "Now the four calls on the and.", "es": "Ahora las cuatro llamadas en el \"y\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1051,7 +1051,7 @@
                                 ],
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note.", "es": "Se puntúan tus notas: afinadas, a tiempo con el swing y, las que eliges tú, en una nota iluminada."}
                         }
                     ]
                 }
@@ -1059,33 +1059,33 @@
         },
         {
             "id": "sc-the-form",
-            "title": {"en": "The form and the landing"},
+            "title": {"en": "The form and the landing", "es": "La forma y la nota final"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "sc-2-form",
-                    "title": {"en": "The twelve bars"},
-                    "fact": {"id": "heebie-jeebies-1926", "text": {"en": "Louis Armstrong and His Hot Five recorded \"Heebie Jeebies\" in 1926, and it put scat singing on the map, though others had scatted on records before. Armstrong said he dropped his lyric sheet and scatted instead; historians still debate the story."}, "source": {"en": "Riccardi, I Got the Heebies!, Louis Armstrong House Museum"}, "url": "https://virtualexhibits.louisarmstronghouse.org/2026/02/26/i-got-the-heebies-100-years-of-heebie-jeebies/"},
+                    "title": {"en": "The twelve bars", "es": "Los doce compases"},
+                    "fact": {"id": "heebie-jeebies-1926", "text": {"en": "Louis Armstrong and His Hot Five recorded \"Heebie Jeebies\" in 1926, and it put scat singing on the map, though others had scatted on records before. Armstrong said he dropped his lyric sheet and scatted instead; historians still debate the story.", "es": "Louis Armstrong and His Hot Five grabaron \"Heebie Jeebies\" en 1926, y el disco dio a conocer el scat, aunque otros ya lo habían grabado antes. Armstrong contaba que se le cayó la hoja con la letra y siguió en scat; los historiadores aún discuten si es verdad."}, "source": {"en": "Riccardi, I Got the Heebies!, Louis Armstrong House Museum", "es": "Riccardi, I Got the Heebies!, Louis Armstrong House Museum"}, "url": "https://virtualexhibits.louisarmstronghouse.org/2026/02/26/i-got-the-heebies-100-years-of-heebie-jeebies/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The blues is twelve bars long: four of I, two of IV, two of I, then V, IV, I and V to turn around. Each bar's root is the floor under it."},
+                            "headline": {"en": "The blues is twelve bars long: four of I, two of IV, two of I, then V, IV, I and V to turn around. Each bar's root is the floor under it.", "es": "El blues dura doce compases: cuatro de I, dos de IV, dos de I, y luego V, IV, I y V para volver a empezar. La fundamental de cada compás es el suelo que lo sostiene."},
                             "steps": [
-                                {"title": {"en": "I, I, I, I"}, "detail": {"en": "Home for four bars"}},
-                                {"title": {"en": "IV, IV, I, I"}, "detail": {"en": "Away and back"}},
-                                {"title": {"en": "V, IV, I, V"}, "detail": {"en": "And round again"}}
+                                {"title": {"en": "I, I, I, I", "es": "I, I, I, I"}, "detail": {"en": "Home for four bars", "es": "Tónica, cuatro compases"}},
+                                {"title": {"en": "IV, IV, I, I", "es": "IV, IV, I, I"}, "detail": {"en": "Away and back", "es": "Se aleja y vuelve"}},
+                                {"title": {"en": "V, IV, I, V", "es": "V, IV, I, V"}, "detail": {"en": "And round again", "es": "Y vuelta a empezar"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada una y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one changes chord?"},
+                                        "prompt": {"en": "Which one changes chord?", "es": "¿Cuál cambia de acorde?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 2, "step": 0}, {"beat": 2, "length": 2, "step": 0}],
@@ -1103,10 +1103,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The note on top stays; the chord under it moves from I to IV."}
+                                        "why": {"en": "The note on top stays; the chord under it moves from I to IV.", "es": "La nota de arriba se queda; el acorde de debajo pasa de I a IV."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one changes chord?"},
+                                        "prompt": {"en": "Which one changes chord?", "es": "¿Cuál cambia de acorde?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 2, "step": 0}, {"beat": 2, "length": 2, "step": 0}],
@@ -1124,10 +1124,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The note on top stays; the chord under it moves from I to IV."}
+                                        "why": {"en": "The note on top stays; the chord under it moves from I to IV.", "es": "La nota de arriba se queda; el acorde de debajo pasa de I a IV."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one changes chord?"},
+                                        "prompt": {"en": "Which one changes chord?", "es": "¿Cuál cambia de acorde?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 2, "step": 0}, {"beat": 2, "length": 2, "step": 0}],
@@ -1145,10 +1145,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The note on top stays; the chord under it moves from I to IV."}
+                                        "why": {"en": "The note on top stays; the chord under it moves from I to IV.", "es": "La nota de arriba se queda; el acorde de debajo pasa de I a IV."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one changes chord?"},
+                                        "prompt": {"en": "Which one changes chord?", "es": "¿Cuál cambia de acorde?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 2, "step": 0}, {"beat": 2, "length": 2, "step": 0}],
@@ -1166,15 +1166,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The note on top stays; the chord under it moves from I to IV."}
+                                        "why": {"en": "The note on top stays; the chord under it moves from I to IV.", "es": "La nota de arriba se queda; el acorde de debajo pasa de I a IV."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The root of every bar on \"doo\", with a swung \"doo-bah\" into each change."},
+                            "text": {"en": "The root of every bar on \"doo\", with a swung \"doo-bah\" into each change.", "es": "La fundamental de cada compás en \"doo\" (du), y un \"doo-bah\" con swing para entrar en cada cambio."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1285,29 +1285,29 @@
                                 ],
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat.", "es": "Se puntúan tus notas: afinadas y a tiempo con el swing."}
                         }
                     ]
                 },
                 {
                     "id": "sc-2-finish",
-                    "title": {"en": "Finish the phrase"},
-                    "fact": {"id": "stop-time-tap-dancers", "text": {"en": "In \"stop-time\" the band hits a chord, then falls silent for the soloist to fill. Louis Armstrong's famous stop-time chorus in \"Potato Head Blues\" (1927) drew partly on the tap dancing at the Sunset Café."}, "source": {"en": "Wikipedia, Potato Head Blues (citing Brothers, Louis Armstrong: Master of Modernism (2014))"}, "url": "https://en.wikipedia.org/wiki/Potato_Head_Blues"},
+                    "title": {"en": "Finish the phrase", "es": "Termina la frase"},
+                    "fact": {"id": "stop-time-tap-dancers", "text": {"en": "In \"stop-time\" the band hits a chord, then falls silent for the soloist to fill. Louis Armstrong's famous stop-time chorus in \"Potato Head Blues\" (1927) drew partly on the tap dancing at the Sunset Café.", "es": "En el \"stop-time\", la banda da un golpe de acorde y se calla para que quien hace el solo llene el hueco. El famoso chorus (una vuelta entera a la forma) en stop-time de Louis Armstrong en \"Potato Head Blues\" (1927) se inspiró en parte en el claqué (tap) del Sunset Café."}, "source": {"en": "Wikipedia, Potato Head Blues (citing Brothers, Louis Armstrong: Master of Modernism (2014))", "es": "Wikipedia, Potato Head Blues (citando a Brothers, Louis Armstrong: Master of Modernism (2014))"}, "url": "https://en.wikipedia.org/wiki/Potato_Head_Blues"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The band plays a phrase and stops short: you sing its last note, any of the chord's 1, 3 or 5."},
+                            "headline": {"en": "The band plays a phrase and stops short: you sing its last note, any of the chord's 1, 3 or 5.", "es": "La banda toca una frase y se corta en seco: tú cantas su última nota, cualquiera de las notas 1, 3 o 5 del acorde."},
                             "steps": [
-                                {"title": {"en": "Listen"}, "detail": {"en": "The phrase from the band"}},
-                                {"title": {"en": "Finish it"}, "detail": {"en": "Its last note is yours"}},
-                                {"title": {"en": "Any lit note"}, "detail": {"en": "1, 3 or 5 of the chord"}}
+                                {"title": {"en": "Listen", "es": "Escucha"}, "detail": {"en": "The phrase from the band", "es": "La frase de la banda"}},
+                                {"title": {"en": "Finish it", "es": "Termínala"}, "detail": {"en": "Its last note is yours", "es": "La última nota es tuya"}},
+                                {"title": {"en": "Any lit note", "es": "Nota iluminada"}, "detail": {"en": "1, 3 or 5 of the chord", "es": "1, 3 o 5 del acorde"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Four phrases to finish."},
+                            "text": {"en": "Four phrases to finish.", "es": "Termina cuatro frases."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1415,11 +1415,11 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on landing each last note on a lit note."}
+                            "measures": {"en": "Scored on landing each last note on a lit note.", "es": "Se puntúa que cada última nota caiga en una nota iluminada."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, then hear yours beside the guide's."},
+                            "text": {"en": "Once more, then hear yours beside the guide's.", "es": "Una vez más, y luego escúchate junto a la guía."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -1454,35 +1454,35 @@
                                         }
                                     ]
                                 },
-                                "questions": [{"en": "Did your \"doo\" and your \"dat\" sound different?"}, {"en": "Did your jaw stay loose?"}]
+                                "questions": [{"en": "Did your \"doo\" and your \"dat\" sound different?", "es": "¿Sonaron distintos tu \"doo\" (du) y tu \"dat\"?"}, {"en": "Did your jaw stay loose?", "es": "¿Siguió suelta la mandíbula?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "sc-2-third",
-                    "title": {"en": "The colour note"},
-                    "fact": {"id": "shell-voicings-third-seventh", "text": {"en": "A jazz \"shell voicing\" leaves out a chord's fifth, sometimes its root too: the third and seventh alone imply what kind of chord it is. Bud Powell and Bill Evans used them extensively."}, "source": {"en": "University of North Carolina Wilmington, Using Shell Voicings"}, "url": "https://people.uncw.edu/russellr/ShellVoicings.html"},
+                    "title": {"en": "The colour note", "es": "La nota de color"},
+                    "fact": {"id": "shell-voicings-third-seventh", "text": {"en": "A jazz \"shell voicing\" leaves out a chord's fifth, sometimes its root too: the third and seventh alone imply what kind of chord it is. Bud Powell and Bill Evans used them extensively.", "es": "Un \"shell voicing\" de jazz (una disposición mínima del acorde) omite la quinta, y a veces también la fundamental: la tercera y la séptima bastan para decir qué tipo de acorde es. Bud Powell y Bill Evans los usaron mucho."}, "source": {"en": "University of North Carolina Wilmington, Using Shell Voicings", "es": "University of North Carolina Wilmington, Using Shell Voicings"}, "url": "https://people.uncw.edu/russellr/ShellVoicings.html"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The third is the chord's colour: it says major. Land your phrases on it."},
+                            "headline": {"en": "The third is the chord's colour: it says major. Land your phrases on it.", "es": "La tercera da el color del acorde: aquí dice \"mayor\". Termina tus frases en ella."},
                             "steps": [
-                                {"title": {"en": "Listen"}, "detail": {"en": "Bright or dark?"}},
-                                {"title": {"en": "The third"}, "detail": {"en": "The colour note"}},
-                                {"title": {"en": "Land it"}, "detail": {"en": "Right on, no slide"}}
+                                {"title": {"en": "Listen", "es": "Escucha"}, "detail": {"en": "Bright or dark?", "es": "¿Luminoso u oscuro?"}},
+                                {"title": {"en": "The third", "es": "La tercera"}, "detail": {"en": "The colour note", "es": "La nota de color"}},
+                                {"title": {"en": "Land it", "es": "Clávala"}, "detail": {"en": "Right on, no slide", "es": "Directa, sin deslizarte"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada una y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which ending is bright (major)?"},
+                                        "prompt": {"en": "Which ending is bright (major)?", "es": "¿Qué final es luminoso (mayor)?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1502,10 +1502,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The bright one ends on the chord's third; the other ends a half step lower, darker."}
+                                        "why": {"en": "The bright one ends on the chord's third; the other ends a half step lower, darker.", "es": "El luminoso termina en la tercera del acorde; el otro, un semitono más abajo, más oscuro."}
                                     },
                                     {
-                                        "prompt": {"en": "Which ending is bright (major)?"},
+                                        "prompt": {"en": "Which ending is bright (major)?", "es": "¿Qué final es luminoso (mayor)?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1525,10 +1525,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The bright one ends on the chord's third; the other ends a half step lower, darker."}
+                                        "why": {"en": "The bright one ends on the chord's third; the other ends a half step lower, darker.", "es": "El luminoso termina en la tercera del acorde; el otro, un semitono más abajo, más oscuro."}
                                     },
                                     {
-                                        "prompt": {"en": "Which ending is bright (major)?"},
+                                        "prompt": {"en": "Which ending is bright (major)?", "es": "¿Qué final es luminoso (mayor)?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1548,15 +1548,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The bright one ends on the chord's third; the other ends a half step lower, darker."}
+                                        "why": {"en": "The bright one ends on the chord's third; the other ends a half step lower, darker.", "es": "El luminoso termina en la tercera del acorde; el otro, un semitono más abajo, más oscuro."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Echo four calls, each ending on the chord's third."},
+                            "text": {"en": "Echo four calls, each ending on the chord's third.", "es": "Repite cuatro llamadas; todas terminan en la tercera del acorde."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1733,29 +1733,29 @@
                                 ],
                                 "score": "landing"
                             },
-                            "measures": {"en": "Scored on where each note landed, and whether it slid in."}
+                            "measures": {"en": "Scored on where each note landed, and whether it slid in.", "es": "Se puntúa dónde cayó cada nota y si llegaste a ella deslizándote."}
                         }
                     ]
                 },
                 {
                     "id": "sc-2-challenge",
-                    "title": {"en": "Land them all"},
+                    "title": {"en": "Land them all", "es": "Clávalas todas"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's trades, then the first eight bars of the blues: four phrases, each starting on the and (unit 1), each landing on 1, 3 or 5."},
+                            "headline": {"en": "Lesson 1's trades, then the first eight bars of the blues: four phrases, each starting on the and (unit 1), each landing on 1, 3 or 5.", "es": "Los intercambios de la lección 1 y luego los ocho primeros compases del blues: cuatro frases; cada una empieza en el \"y\" (unidad 1) y termina en el 1, el 3 o el 5 del acorde."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's trades"}},
-                                {"title": {"en": "On the and"}, "detail": {"en": "Every phrase"}},
-                                {"title": {"en": "Land it"}, "detail": {"en": "1, 3 or 5 of its chord"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1's trades", "es": "Intercambios de la lección 1"}},
+                                {"title": {"en": "On the and", "es": "En el \"y\""}, "detail": {"en": "Every phrase", "es": "Cada frase"}},
+                                {"title": {"en": "Land it", "es": "Clávala"}, "detail": {"en": "1, 3 or 5 of its chord", "es": "1, 3 o 5 de su acorde"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's four trades again."},
+                            "text": {"en": "Lesson 1's four trades again.", "es": "Los cuatro intercambios de la lección 1, otra vez."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -1935,11 +1935,11 @@
                                 "thenAndNow": "sc.first-trade",
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note.", "es": "Se puntúan tus notas: afinadas, a tiempo con el swing y, las que eliges tú, en una nota iluminada."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Eight bars, four phrases, each landing on a lit note."},
+                            "text": {"en": "Eight bars, four phrases, each landing on a lit note.", "es": "Ocho compases, cuatro frases, y cada una termina en una nota iluminada."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -2050,7 +2050,7 @@
                                 ],
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note.", "es": "Se puntúan tus notas: afinadas, a tiempo con el swing y, las que eliges tú, en una nota iluminada."}
                         }
                     ]
                 }
@@ -2058,28 +2058,28 @@
         },
         {
             "id": "sc-call-and-response",
-            "title": {"en": "Call and response"},
+            "title": {"en": "Call and response", "es": "Llamada y respuesta"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "sc-3-ends",
-                    "title": {"en": "Keep the rhythm, change the end"},
-                    "fact": {"id": "blues-aab-verse", "text": {"en": "Many blues verses follow an AAB pattern: a line sung over four bars, the same line repeated over the next four, then a longer, different line to close."}, "source": {"en": "Wikipedia, Blues"}, "url": "https://en.wikipedia.org/wiki/Blues"},
+                    "title": {"en": "Keep the rhythm, change the end", "es": "Mismo ritmo, otro final"},
+                    "fact": {"id": "blues-aab-verse", "text": {"en": "Many blues verses follow an AAB pattern: a line sung over four bars, the same line repeated over the next four, then a longer, different line to close.", "es": "Muchas estrofas de blues siguen un patrón AAB: un verso cantado durante cuatro compases, el mismo verso repetido en los cuatro siguientes y, para cerrar, otro distinto y más largo."}, "source": {"en": "Wikipedia, Blues", "es": "Wikipedia, Blues"}, "url": "https://en.wikipedia.org/wiki/Blues"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Echo the call's rhythm, and choose its last two notes yourself, any of the chord's tones, the flat seven too."},
+                            "headline": {"en": "Echo the call's rhythm, and choose its last two notes yourself, any of the chord's tones, the flat seven too.", "es": "Repite el ritmo de la llamada y elige tú sus dos últimas notas: cualquier nota del acorde, también la séptima menor."},
                             "steps": [
-                                {"title": {"en": "The rhythm"}, "detail": {"en": "Exactly the call's"}},
-                                {"title": {"en": "The end"}, "detail": {"en": "Two notes of your own"}},
-                                {"title": {"en": "The flat seven"}, "detail": {"en": "Now lit too"}}
+                                {"title": {"en": "The rhythm", "es": "El ritmo"}, "detail": {"en": "Exactly the call's", "es": "El mismo de la llamada"}},
+                                {"title": {"en": "The end", "es": "El final"}, "detail": {"en": "Two notes of your own", "es": "Dos notas tuyas"}},
+                                {"title": {"en": "The flat seven", "es": "La séptima menor"}, "detail": {"en": "Now lit too", "es": "Ahora también se ilumina"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Four calls; the last two notes are yours."},
+                            "text": {"en": "Four calls; the last two notes are yours.", "es": "Cuatro llamadas; las dos últimas notas son tuyas."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -2280,29 +2280,29 @@
                                 ],
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note.", "es": "Se puntúan tus notas: afinadas, a tiempo con el swing y, las que eliges tú, en una nota iluminada."}
                         }
                     ]
                 },
                 {
                     "id": "sc-3-answer",
-                    "title": {"en": "Answer the call"},
-                    "fact": {"id": "calloway-hepsters-dictionary", "text": {"en": "In 1938 the bandleader Cab Calloway published a dictionary of jazz slang, the Hepster's Dictionary."}, "source": {"en": "Mellby, A Hepster's Dictionary, Princeton University Library (2021)"}, "url": "https://graphicarts.princeton.edu/2021/03/04/a-hepsters-dictionary"},
+                    "title": {"en": "Answer the call", "es": "Responde a la llamada"},
+                    "fact": {"id": "calloway-hepsters-dictionary", "text": {"en": "In 1938 the bandleader Cab Calloway published a dictionary of jazz slang, the Hepster's Dictionary.", "es": "En 1938, el director de orquesta Cab Calloway publicó un diccionario de la jerga del jazz, el Hepster's Dictionary."}, "source": {"en": "Mellby, A Hepster's Dictionary, Princeton University Library (2021)", "es": "Mellby, A Hepster's Dictionary, Princeton University Library (2021)"}, "url": "https://graphicarts.princeton.edu/2021/03/04/a-hepsters-dictionary"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now a whole answer of your own: the call's rhythm, and any of the chord's tones on every note."},
+                            "headline": {"en": "Now a whole answer of your own: the call's rhythm, and any of the chord's tones on every note.", "es": "Ahora toda la respuesta es tuya: el ritmo de la llamada y, en cada nota, la nota del acorde que quieras."},
                             "steps": [
-                                {"title": {"en": "The rhythm"}, "detail": {"en": "Keep the call's"}},
-                                {"title": {"en": "The notes"}, "detail": {"en": "All yours, all lit"}},
-                                {"title": {"en": "The syllables"}, "detail": {"en": "Copy the call's"}}
+                                {"title": {"en": "The rhythm", "es": "El ritmo"}, "detail": {"en": "Keep the call's", "es": "El de la llamada"}},
+                                {"title": {"en": "The notes", "es": "Las notas"}, "detail": {"en": "All yours, all lit", "es": "Tuyas e iluminadas"}},
+                                {"title": {"en": "The syllables", "es": "Las sílabas"}, "detail": {"en": "Copy the call's", "es": "Las de la llamada"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Four calls; answer each."},
+                            "text": {"en": "Four calls; answer each.", "es": "Cuatro llamadas; responde a cada una."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -2623,11 +2623,11 @@
                                 ],
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note.", "es": "Se puntúan tus notas: afinadas, a tiempo con el swing y, las que eliges tú, en una nota iluminada."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, then hear yours beside the guide's."},
+                            "text": {"en": "Once more, then hear yours beside the guide's.", "es": "Una vez más, y luego escúchate junto a la guía."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -2683,30 +2683,30 @@
                                         }
                                     ]
                                 },
-                                "questions": [{"en": "Did you copy the call's syllables?"}, {"en": "Did your jaw stay loose?"}]
+                                "questions": [{"en": "Did you copy the call's syllables?", "es": "¿Copiaste las sílabas de la llamada?"}, {"en": "Did your jaw stay loose?", "es": "¿Siguió suelta la mandíbula?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "sc-3-riff",
-                    "title": {"en": "A riff"},
-                    "fact": {"id": "in-the-mood-riff-1930", "text": {"en": "The riff of Glenn Miller's \"In the Mood\" was going round the bands years earlier: Wingy Manone recorded it in \"Tar Paper Stomp\" in 1930, and Fletcher Henderson's band used it in 1931."}, "source": {"en": "Wikipedia, In the Mood"}, "url": "https://en.wikipedia.org/wiki/In_the_Mood"},
+                    "title": {"en": "A riff", "es": "Un riff"},
+                    "fact": {"id": "in-the-mood-riff-1930", "text": {"en": "The riff of Glenn Miller's \"In the Mood\" was going round the bands years earlier: Wingy Manone recorded it in \"Tar Paper Stomp\" in 1930, and Fletcher Henderson's band used it in 1931.", "es": "El riff de \"In the Mood\", de Glenn Miller, ya circulaba entre las bandas años antes: Wingy Manone lo grabó en \"Tar Paper Stomp\" en 1930, y la banda de Fletcher Henderson lo usó en 1931."}, "source": {"en": "Wikipedia, In the Mood", "es": "Wikipedia, In the Mood"}, "url": "https://en.wikipedia.org/wiki/In_the_Mood"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A riff is a short phrase the band repeats over the changes. This one is the minor pentatonic: flat seven, do, flat three, four and five, ending on five."},
+                            "headline": {"en": "A riff is a short phrase the band repeats over the changes. This one is the minor pentatonic: flat seven, do, flat three, four and five, ending on five.", "es": "Un riff es una frase corta que la banda repite sobre los cambios de acorde. Este usa la pentatónica menor: séptima menor, \"do\", tercera menor, cuarta y quinta, y acaba en la quinta. Aquí usamos do móvil: \"do\" no es una nota fija, es tu nota base, esté donde esté."},
                             "steps": [
-                                {"title": {"en": "Five notes"}, "detail": {"en": "Flat seven up to five"}},
-                                {"title": {"en": "Every chord"}, "detail": {"en": "The same riff"}},
-                                {"title": {"en": "Ends on five"}, "detail": {"en": "It fits even over V"}}
+                                {"title": {"en": "Five notes", "es": "Cinco notas"}, "detail": {"en": "Flat seven up to five", "es": "De séptima menor a quinta"}},
+                                {"title": {"en": "Every chord", "es": "En cada acorde"}, "detail": {"en": "The same riff", "es": "El mismo riff"}},
+                                {"title": {"en": "Ends on five", "es": "Acaba en quinta"}, "detail": {"en": "It fits even over V", "es": "Encaja incluso sobre el V"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The riff over I, IV, I and V."},
+                            "text": {"en": "The riff over I, IV, I and V.", "es": "El riff sobre I, IV, I y V."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -2783,29 +2783,29 @@
                                 ],
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat.", "es": "Se puntúan tus notas: afinadas y a tiempo con el swing."}
                         }
                     ]
                 },
                 {
                     "id": "sc-3-challenge",
-                    "title": {"en": "Trading twos"},
+                    "title": {"en": "Trading twos", "es": "Intercambios de dos"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's trades, then four calls and your answers, each ending on the chord's third, unit 2's colour note."},
+                            "headline": {"en": "Lesson 1's trades, then four calls and your answers, each ending on the chord's third, unit 2's colour note.", "es": "Los intercambios de la lección 1 y luego cuatro llamadas con tus respuestas; cada respuesta termina en la tercera del acorde, la nota de color de la unidad 2."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's trades"}},
-                                {"title": {"en": "Trading twos"}, "detail": {"en": "Two bars each"}},
-                                {"title": {"en": "The colour note"}, "detail": {"en": "Every answer ends on the third"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1's trades", "es": "Intercambios de la lección 1"}},
+                                {"title": {"en": "Trading twos", "es": "Intercambios de dos"}, "detail": {"en": "Two bars each", "es": "Dos compases por turno"}},
+                                {"title": {"en": "The colour note", "es": "La nota de color"}, "detail": {"en": "Every answer ends on the third", "es": "Cada respuesta acaba en la tercera"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's four trades again."},
+                            "text": {"en": "Lesson 1's four trades again.", "es": "Los cuatro intercambios de la lección 1, otra vez."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -2985,11 +2985,11 @@
                                 "thenAndNow": "sc.first-trade",
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note.", "es": "Se puntúan tus notas: afinadas, a tiempo con el swing y, las que eliges tú, en una nota iluminada."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Four calls; your answers end on the third."},
+                            "text": {"en": "Four calls; your answers end on the third.", "es": "Cuatro llamadas; tus respuestas acaban en la tercera."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -3166,7 +3166,7 @@
                                 ],
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note.", "es": "Se puntúan tus notas: afinadas, a tiempo con el swing y, las que eliges tú, en una nota iluminada."}
                         }
                     ]
                 }
@@ -3174,33 +3174,33 @@
         },
         {
             "id": "sc-the-blues",
-            "title": {"en": "The blues"},
+            "title": {"en": "The blues", "es": "El blues"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "sc-4-blue",
-                    "title": {"en": "The blue note"},
-                    "fact": {"id": "handy-flat-third-folk-roots", "text": {"en": "In his autobiography, W. C. Handy wrote that the flat third and seventh in his major-key blues came from the music of poor Black Southerners. Today we call them blue notes."}, "source": {"en": "Wikipedia, W. C. Handy"}, "url": "https://en.wikipedia.org/wiki/W._C._Handy"},
+                    "title": {"en": "The blue note", "es": "La nota blue"},
+                    "fact": {"id": "handy-flat-third-folk-roots", "text": {"en": "In his autobiography, W. C. Handy wrote that the flat third and seventh in his major-key blues came from the music of poor Black Southerners. Today we call them blue notes.", "es": "En su autobiografía, W. C. Handy escribió que la tercera y la séptima menores de sus blues en tonalidad mayor venían de la música de la población negra pobre del Sur de Estados Unidos. Hoy las llamamos notas blue."}, "source": {"en": "Wikipedia, W. C. Handy", "es": "Wikipedia, W. C. Handy"}, "url": "https://en.wikipedia.org/wiki/W._C._Handy"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The blue note is the flat third sung against a major chord: it rubs on purpose, then lifts to the third. No pushing on the bend."},
+                            "headline": {"en": "The blue note is the flat third sung against a major chord: it rubs on purpose, then lifts to the third. No pushing on the bend.", "es": "La nota blue es la tercera menor cantada sobre un acorde mayor: roza a propósito y luego sube a la tercera mayor. En la subida, sin empujar."},
                             "steps": [
-                                {"title": {"en": "Flat third"}, "detail": {"en": "Against the major chord"}},
-                                {"title": {"en": "It rubs"}, "detail": {"en": "On purpose"}},
-                                {"title": {"en": "Then lift"}, "detail": {"en": "To the third"}}
+                                {"title": {"en": "Flat third", "es": "Tercera menor"}, "detail": {"en": "Against the major chord", "es": "Sobre el acorde mayor"}},
+                                {"title": {"en": "It rubs", "es": "Roza"}, "detail": {"en": "On purpose", "es": "A propósito"}},
+                                {"title": {"en": "Then lift", "es": "Y sube"}, "detail": {"en": "To the third", "es": "A la tercera"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Listen to each, then choose."},
+                            "text": {"en": "Listen to each, then choose.", "es": "Escucha cada una y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which one leans?"},
+                                        "prompt": {"en": "Which one leans?", "es": "¿Cuál tiene nota blue?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 0.75, "step": 3}, {"beat": 0.75, "length": 1.25, "step": 4}],
@@ -3212,10 +3212,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "It starts on the flat third, rubbing against the chord, then lifts to the third."}
+                                        "why": {"en": "It starts on the flat third, rubbing against the chord, then lifts to the third.", "es": "Empieza en la tercera menor, que roza con el acorde, y luego sube a la tercera mayor."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one leans?"},
+                                        "prompt": {"en": "Which one leans?", "es": "¿Cuál tiene nota blue?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 2, "step": 4}],
@@ -3227,10 +3227,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "It starts on the flat third, rubbing against the chord, then lifts to the third."}
+                                        "why": {"en": "It starts on the flat third, rubbing against the chord, then lifts to the third.", "es": "Empieza en la tercera menor, que roza con el acorde, y luego sube a la tercera mayor."}
                                     },
                                     {
-                                        "prompt": {"en": "Which one leans?"},
+                                        "prompt": {"en": "Which one leans?", "es": "¿Cuál tiene nota blue?"},
                                         "clips": [
                                             {
                                                 "notes": [{"beat": 0, "length": 0.75, "step": 3}, {"beat": 0.75, "length": 1.25, "step": 4}],
@@ -3242,15 +3242,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "It starts on the flat third, rubbing against the chord, then lifts to the third."}
+                                        "why": {"en": "It starts on the flat third, rubbing against the chord, then lifts to the third.", "es": "Empieza en la tercera menor, que roza con el acorde, y luego sube a la tercera mayor."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Flat third, then third, four times over I7."},
+                            "text": {"en": "Flat third, then third, four times over I7.", "es": "Tercera menor y luego tercera mayor, cuatro veces sobre el I7."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -3294,11 +3294,11 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, then hear yours beside the guide's."},
+                            "text": {"en": "Once more, then hear yours beside the guide's.", "es": "Una vez más, y luego escúchate junto a la guía."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -3307,30 +3307,30 @@
                                         {"beat": 0.75, "length": 1.25, "step": 4, "lyric": "bah"}
                                     ]
                                 },
-                                "questions": [{"en": "Did it bend, or jump?"}, {"en": "Did your throat stay easy?"}]
+                                "questions": [{"en": "Did it bend, or jump?", "es": "¿Se deslizó o saltó?"}, {"en": "Did your throat stay easy?", "es": "¿Siguió relajada la garganta?"}]
                             }
                         }
                     ]
                 },
                 {
                     "id": "sc-4-scale",
-                    "title": {"en": "The blues scale"},
-                    "fact": {"id": "limb-braun-2008", "text": {"en": "In brain scans of jazz pianists improvising, an area linked to self-monitoring quietened, while one at the front of the brain grew more active."}, "source": {"en": "Limb and Braun, PLoS ONE (2008)"}, "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001679"},
+                    "title": {"en": "The blues scale", "es": "La escala de blues"},
+                    "fact": {"id": "limb-braun-2008", "text": {"en": "In brain scans of jazz pianists improvising, an area linked to self-monitoring quietened, while one at the front of the brain grew more active.", "es": "En escáneres cerebrales de pianistas de jazz mientras improvisaban, una zona ligada a vigilarse a uno mismo redujo su actividad, y otra de la parte delantera del cerebro se activó más."}, "source": {"en": "Limb and Braun, PLoS ONE (2008)", "es": "Limb y Braun, PLoS ONE (2008)"}, "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001679"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The blues scale is the riff's five notes plus the flat five, another blue note: flat seven, do, flat three, four, flat five, five."},
+                            "headline": {"en": "The blues scale is the riff's five notes plus the flat five, another blue note: flat seven, do, flat three, four, flat five, five.", "es": "La escala de blues suma a las cinco notas del riff la quinta bemol (quinta disminuida), otra nota blue: séptima menor, \"do\", tercera menor, cuarta, quinta bemol y quinta."},
                             "steps": [
-                                {"title": {"en": "The riff's notes"}, "detail": {"en": "Five you know"}},
-                                {"title": {"en": "Plus flat five"}, "detail": {"en": "Another blue note"}},
-                                {"title": {"en": "Up and down"}, "detail": {"en": "Swung, \"bee-dah\""}}
+                                {"title": {"en": "The riff's notes", "es": "Las notas del riff"}, "detail": {"en": "Five you know", "es": "Cinco que ya conoces"}},
+                                {"title": {"en": "Plus flat five", "es": "Y la quinta bemol"}, "detail": {"en": "Another blue note", "es": "Otra nota blue"}},
+                                {"title": {"en": "Up and down", "es": "Sube y baja"}, "detail": {"en": "Swung, \"bee-dah\"", "es": "Con swing, \"bee-dah\" (bi-da)"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Up the blues scale and down, swung."},
+                            "text": {"en": "Up the blues scale and down, swung.", "es": "Sube y baja la escala de blues, con swing."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -3380,29 +3380,29 @@
                                 ],
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat.", "es": "Se puntúan tus notas: afinadas y a tiempo con el swing."}
                         }
                     ]
                 },
                 {
                     "id": "sc-4-four",
-                    "title": {"en": "Four bars of your own"},
-                    "fact": {"id": "gonsalves-27-choruses", "text": {"en": "At the 1956 Newport Jazz Festival, Paul Gonsalves soloed for 27 choruses in Duke Ellington's Diminuendo and Crescendo in Blue. The seated crowd rose to dance, and the night revived Ellington's career."}, "source": {"en": "Wikipedia, Ellington at Newport"}, "url": "https://en.wikipedia.org/wiki/Ellington_at_Newport"},
+                    "title": {"en": "Four bars of your own", "es": "Cuatro compases tuyos"},
+                    "fact": {"id": "gonsalves-27-choruses", "text": {"en": "At the 1956 Newport Jazz Festival, Paul Gonsalves soloed for 27 choruses in Duke Ellington's Diminuendo and Crescendo in Blue. The seated crowd rose to dance, and the night revived Ellington's career.", "es": "En el Festival de Jazz de Newport de 1956, Paul Gonsalves improvisó 27 chorus seguidos (27 vueltas enteras a la forma) en Diminuendo and Crescendo in Blue, de Duke Ellington. El público, sentado, se levantó a bailar, y esa noche relanzó la carrera de Ellington."}, "source": {"en": "Wikipedia, Ellington at Newport", "es": "Wikipedia, Ellington at Newport"}, "url": "https://en.wikipedia.org/wiki/Ellington_at_Newport"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Four bars, every note your choice from the blues scale, the last on one of the chord's tones. No wrong notes: everything lit fits."},
+                            "headline": {"en": "Four bars, every note your choice from the blues scale, the last on one of the chord's tones. No wrong notes: everything lit fits.", "es": "Cuatro compases, cada nota elegida por ti en la escala de blues, y la última en una nota del acorde. No hay notas equivocadas: todo lo iluminado encaja."},
                             "steps": [
-                                {"title": {"en": "A rhythm"}, "detail": {"en": "Written for you"}},
-                                {"title": {"en": "The notes"}, "detail": {"en": "Any of the blues scale"}},
-                                {"title": {"en": "The last"}, "detail": {"en": "A chord tone"}}
+                                {"title": {"en": "A rhythm", "es": "Un ritmo"}, "detail": {"en": "Written for you", "es": "Escrito para ti"}},
+                                {"title": {"en": "The notes", "es": "Las notas"}, "detail": {"en": "Any of the blues scale", "es": "Cualquiera de la escala de blues"}},
+                                {"title": {"en": "The last", "es": "La última"}, "detail": {"en": "A chord tone", "es": "Nota del acorde"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Your four bars over I7."},
+                            "text": {"en": "Your four bars over I7.", "es": "Tus cuatro compases sobre el I7."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -3537,29 +3537,29 @@
                                 ],
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note.", "es": "Se puntúan tus notas: afinadas, a tiempo con el swing y, las que eliges tú, en una nota iluminada."}
                         }
                     ]
                 },
                 {
                     "id": "sc-4-challenge",
-                    "title": {"en": "Your chorus"},
+                    "title": {"en": "Your chorus", "es": "Tu chorus"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lesson 1's trades, then a chorus: eight bars of trading (unit 3), then four bars all yours from the blues scale, with space between phrases, as a blues lyric breathes."},
+                            "headline": {"en": "Lesson 1's trades, then a chorus: eight bars of trading (unit 3), then four bars all yours from the blues scale, with space between phrases, as a blues lyric breathes.", "es": "Los intercambios de la lección 1 y luego un chorus: ocho compases de intercambio (unidad 3) y cuatro compases solo tuyos con la escala de blues, dejando espacio entre frases, como respira una letra de blues."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Lesson 1's trades"}},
-                                {"title": {"en": "Trade"}, "detail": {"en": "Eight bars with the band"}},
-                                {"title": {"en": "Then solo"}, "detail": {"en": "Four bars of your own"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Lesson 1's trades", "es": "Intercambios de la lección 1"}},
+                                {"title": {"en": "Trade", "es": "Intercambia"}, "detail": {"en": "Eight bars with the band", "es": "Ocho compases con la banda"}},
+                                {"title": {"en": "Then solo", "es": "Y tu solo"}, "detail": {"en": "Four bars of your own", "es": "Cuatro compases tuyos"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lesson 1's four trades again."},
+                            "text": {"en": "Lesson 1's four trades again.", "es": "Los cuatro intercambios de la lección 1, otra vez."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -3739,11 +3739,11 @@
                                 "thenAndNow": "sc.first-trade",
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note.", "es": "Se puntúan tus notas: afinadas, a tiempo con el swing y, las que eliges tú, en una nota iluminada."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Your chorus."},
+                            "text": {"en": "Your chorus.", "es": "Tu chorus."},
                             "exercise": {
                                 "tempo": 84,
                                 "notes": [
@@ -3965,11 +3965,11 @@
                                 ],
                                 "rhythm": "swing"
                             },
-                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note."}
+                            "measures": {"en": "Scored on your notes on pitch and on the swung beat, each one you chose on a lit note.", "es": "Se puntúan tus notas: afinadas, a tiempo con el swing y, las que eliges tú, en una nota iluminada."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Once more, your last four bars, then hear yours."},
+                            "text": {"en": "Once more, your last four bars, then hear yours.", "es": "Una vez más, tus últimos cuatro compases, y luego escúchate."},
                             "exercise": {
                                 "tempo": 84,
                                 "model": {
@@ -4025,7 +4025,7 @@
                                         }
                                     ]
                                 },
-                                "questions": [{"en": "Did it swing, or march?"}, {"en": "Did your jaw stay loose?"}]
+                                "questions": [{"en": "Did it swing, or march?", "es": "¿Tuvo swing o sonó a marcha?"}, {"en": "Did your jaw stay loose?", "es": "¿Siguió suelta la mandíbula?"}]
                             }
                         }
                     ]

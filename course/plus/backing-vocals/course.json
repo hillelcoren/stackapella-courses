@@ -3,32 +3,32 @@
     "version": 1,
     "headphones": "needed",
     "reviewed": false,
-    "title": {"en": "Backing vocals"},
+    "title": {"en": "Backing vocals", "es": "Hacer coros"},
     "units": [
         {
             "id": "bv-oohs-and-aahs",
-            "title": {"en": "Oohs and aahs"},
+            "title": {"en": "Oohs and aahs", "es": "\"Oo\" y \"ah\""},
             "colour": 3,
             "lessons": [
                 {
                     "id": "bv-1-pad",
-                    "title": {"en": "A pad"},
-                    "fact": {"id": "bagpipe-amazing-grace", "text": {"en": "A bagpipe Amazing Grace, by the pipes, drums and military band of the Royal Scots Dragoon Guards, was Britain's best-selling single of 1972. Under the tune, the pipes' drones hold one constant note, usually the home note."}, "source": {"en": "Wikipedia, 1972 in British music; Bagpipes"}, "url": "https://en.wikipedia.org/wiki/1972_in_British_music"},
+                    "title": {"en": "A pad", "es": "Un colchón"},
+                    "fact": {"id": "bagpipe-amazing-grace", "text": {"en": "A bagpipe Amazing Grace, by the pipes, drums and military band of the Royal Scots Dragoon Guards, was Britain's best-selling single of 1972. Under the tune, the pipes' drones hold one constant note, usually the home note.", "es": "Una versión de Amazing Grace para gaita, de las gaitas, los tambores y la banda militar de los Royal Scots Dragoon Guards, fue el sencillo más vendido de Gran Bretaña en 1972. Bajo la melodía, los bordones de las gaitas mantienen una nota constante, normalmente la nota base."}, "source": {"en": "Wikipedia, 1972 in British music; Bagpipes", "es": "Wikipedia, 1972 in British music; Bagpipes"}, "url": "https://en.wikipedia.org/wiki/1972_in_British_music"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A pad is one held \"oo\" under the tune. Yours: do, and ti when the chord moves to so."},
+                            "headline": {"en": "A pad is one held \"oo\" under the tune. Yours: do, and ti when the chord moves to so.", "es": "Un colchón es un \"oo\" (una u) sostenido bajo la melodía. El tuyo: \"do\", y \"ti\" (si) cuando el acorde pasa al de \"so\" (sol). Aquí usamos do móvil: \"do\" no es una nota fija, es tu nota base, esté donde esté."},
                             "steps": [
-                                {"title": {"en": "Softer than the tune"}, "detail": {"en": "Easy volume; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Hold still while the tune moves"}, "detail": {"en": "Your note stays put; the tune passes over it"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "Softer than the tune", "es": "Más suave que la melodía"}, "detail": {"en": "Easy volume; stop if anything tightens or hurts", "es": "Volumen cómodo. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Hold still while the tune moves", "es": "Firme mientras la melodía se mueve"}, "detail": {"en": "Your note stays put; the tune passes over it", "es": "Tu nota no se mueve; la melodía pasa por encima"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find each pad note: do, ti, do. Each waits until you're on it."},
+                            "text": {"en": "Find each pad note: do, ti, do. Each waits until you're on it.", "es": "Encuentra cada nota del colchón: \"do\", \"ti\", \"do\". Cada una espera a que llegues a ella."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -40,7 +40,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first two lines over the chords alone: a soft \"oo\" on do, then ti as the chord moves. Breathe where the tune would; a quick breath mid-note is fine."},
+                            "text": {"en": "The first two lines over the chords alone: a soft \"oo\" on do, then ti as the chord moves. Breathe where the tune would; a quick breath mid-note is fine.", "es": "Las dos primeras frases solo sobre los acordes: un \"oo\" suave en \"do\" y luego \"ti\" cuando cambia el acorde. Respira donde respiraría la melodía; si tomas aire rápido a mitad de nota, no pasa nada."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -59,11 +59,11 @@
                                 ],
                                 "tuning": true
                             },
-                            "measures": {"en": "Scored on your pad's notes on pitch. The ring shows how well each one locks to the chord."}
+                            "measures": {"en": "Scored on your pad's notes on pitch. The ring shows how well each one locks to the chord.", "es": "Se puntúa la afinación de las notas de tu colchón. Además, verás lo bien que resuena cada una con el acorde."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the whole verse, the tune coming in quietly over you. Rest where the tune breathes. Your first pad is kept for the course's last lesson."},
+                            "text": {"en": "Now the whole verse, the tune coming in quietly over you. Rest where the tune breathes. Your first pad is kept for the course's last lesson.", "es": "Ahora la estrofa entera, con la melodía entrando suave por encima de ti. Descansa donde respira la melodía. Tu primer colchón se guarda para la última lección del curso."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -133,34 +133,34 @@
                                 ],
                                 "keep": "backing.first-pad"
                             },
-                            "measures": {"en": "Scored on your pad's notes on pitch, under the tune."}
+                            "measures": {"en": "Scored on your pad's notes on pitch, under the tune.", "es": "Se puntúa la afinación de las notas de tu colchón, bajo la melodía."}
                         }
                     ]
                 },
                 {
                     "id": "bv-1-moving",
-                    "title": {"en": "Moving with the chords"},
-                    "fact": {"id": "rule-of-the-shortest-way", "text": {"en": "Keep the shared note, else take the nearest: in his 1841 harmony textbook the organist Johann August Dürrnberger called this the \"rule of the shortest way\". Anton Bruckner was one of his students."}, "source": {"en": "Wikipedia, Voice leading"}, "url": "https://en.wikipedia.org/wiki/Voice_leading"},
+                    "title": {"en": "Moving with the chords", "es": "Moverse con los acordes"},
+                    "fact": {"id": "rule-of-the-shortest-way", "text": {"en": "Keep the shared note, else take the nearest: in his 1841 harmony textbook the organist Johann August Dürrnberger called this the \"rule of the shortest way\". Anton Bruckner was one of his students.", "es": "Mantén la nota común; si no, ve a la más cercana: en su tratado de armonía de 1841, el organista Johann August Dürrnberger llamó a esto la \"regla del camino más corto\". Anton Bruckner fue uno de sus alumnos."}, "source": {"en": "Wikipedia, Voice leading", "es": "Wikipedia, Voice leading"}, "url": "https://en.wikipedia.org/wiki/Voice_leading"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Keep the note the new chord shares; else step to the nearest. Mi, fa, mi, re."},
+                            "headline": {"en": "Keep the note the new chord shares; else step to the nearest. Mi, fa, mi, re.", "es": "Mantén la nota que comparte el nuevo acorde; si no, ve por grado conjunto a la más cercana. \"mi\", \"fa\", \"mi\", \"re\"."},
                             "steps": [
-                                {"title": {"en": "Move only when you must"}, "detail": {"en": "A common tone holds; else the nearest step"}},
-                                {"title": {"en": "Why \"oo\""}, "detail": {"en": "An \"oo\" blends where an \"ah\" carries; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "Move only when you must", "es": "Muévete solo si hace falta"}, "detail": {"en": "A common tone holds; else the nearest step", "es": "La nota común se mantiene; si no, la más cercana"}},
+                                {"title": {"en": "Why \"oo\"", "es": "¿Por qué \"oo\"?"}, "detail": {"en": "An \"oo\" blends where an \"ah\" carries; stop if anything tightens or hurts", "es": "Un \"oo\" (una u) empasta; un \"ah\" se proyecta. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "blend",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Hear the chord move under each pad, then choose."},
+                            "text": {"en": "Hear the chord move under each pad, then choose.", "es": "Escucha cómo se mueve el acorde bajo cada colchón y luego elige."},
                             "exercise": {
                                 "tempo": 76,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "The chord moves from do's to fa's. Which pad moves the least?"},
+                                        "prompt": {"en": "The chord moves from do's to fa's. Which pad moves the least?", "es": "El acorde pasa del de \"do\" al de \"fa\". ¿Qué colchón se mueve menos?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -184,10 +184,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Fa is a half step from mi, so the pad hardly moves. La is a leap."}
+                                        "why": {"en": "Fa is a half step from mi, so the pad hardly moves. La is a leap.", "es": "De \"mi\" a \"fa\" hay un semitono, así que el colchón apenas se mueve. Ir a \"la\" es un salto."}
                                     },
                                     {
-                                        "prompt": {"en": "The chord moves from do's to so's. Which pad moves the least?"},
+                                        "prompt": {"en": "The chord moves from do's to so's. Which pad moves the least?", "es": "El acorde pasa del de \"do\" al de \"so\". ¿Qué colchón se mueve menos?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -211,15 +211,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "Re is a whole step from mi, and so's chord holds it. Low ti is a leap down."}
+                                        "why": {"en": "Re is a whole step from mi, and so's chord holds it. Low ti is a leap down.", "es": "De \"mi\" a \"re\" hay un tono, y el acorde de \"so\" lo contiene. Bajar a \"ti\" grave es un salto."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first two lines over the chords: mi, fa, mi, then re, each held on \"oo\"."},
+                            "text": {"en": "The first two lines over the chords: mi, fa, mi, then re, each held on \"oo\".", "es": "Las dos primeras frases sobre los acordes: \"mi\", \"fa\", \"mi\" y luego \"re\", cada una sostenida en \"oo\"."},
                             "exercise": {
                                 "tempo": 76,
                                 "turn": false,
@@ -239,11 +239,11 @@
                                 ],
                                 "tuning": true
                             },
-                            "measures": {"en": "Scored on your pad's notes on pitch. The ring shows how well each one locks to the chord."}
+                            "measures": {"en": "Scored on your pad's notes on pitch. The ring shows how well each one locks to the chord.", "es": "Se puntúa la afinación de las notas de tu colchón. Además, verás lo bien que resuena cada una con el acorde."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole chorus under the tune. Only the chord changes light: between them, hold by ear."},
+                            "text": {"en": "The whole chorus under the tune. Only the chord changes light: between them, hold by ear.", "es": "El estribillo entero bajo la melodía. Solo se iluminan los cambios de acorde: entre ellos, mantén la nota de oído."},
                             "exercise": {
                                 "tempo": 76,
                                 "turn": false,
@@ -316,11 +316,11 @@
                                 ],
                                 "lights": "changes"
                             },
-                            "measures": {"en": "Scored on your pad's notes on pitch, most of them sung with no light to follow."}
+                            "measures": {"en": "Scored on your pad's notes on pitch, most of them sung with no light to follow.", "es": "Se puntúa la afinación de las notas de tu colchón, casi todas cantadas sin luz que seguir."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Your pad once more, the guide singing it with you, then hear yours beside it."},
+                            "text": {"en": "Your pad once more, the guide singing it with you, then hear yours beside it.", "es": "Tu colchón una vez más, con la guía cantándolo contigo, y luego escúchate junto a ella."},
                             "exercise": {
                                 "tempo": 76,
                                 "model": {
@@ -356,9 +356,9 @@
                                 },
                                 "along": true,
                                 "questions": [
-                                    {"en": "Singing with the guide, did your \"oo\" disappear into its \"oo\"?"},
-                                    {"en": "Was it the same shape from start to end: no \"w\" in, no \"ah\" out?"},
-                                    {"en": "Did you stay at speaking volume or softer?"}
+                                    {"en": "Singing with the guide, did your \"oo\" disappear into its \"oo\"?", "es": "Al cantar con la guía, ¿tu \"oo\" se fundía con el suyo hasta desaparecer?"},
+                                    {"en": "Was it the same shape from start to end: no \"w\" in, no \"ah\" out?", "es": "¿Mantuvo la misma forma de principio a fin: sin \"w\" al entrar, sin \"ah\" al salir?"},
+                                    {"en": "Did you stay at speaking volume or softer?", "es": "¿Te mantuviste a volumen de conversación o más suave?"}
                                 ]
                             }
                         }
@@ -366,28 +366,28 @@
                 },
                 {
                     "id": "bv-1-together",
-                    "title": {"en": "Together off"},
-                    "fact": {"id": "choir-hearts-in-step", "text": {"en": "In a 2013 study of fifteen 18-year-old choir singers, their heart rates rose and fell together when they sang a slow chant, breathing only between phrases. Humming one note, breathing at will, gave no shared pattern."}, "source": {"en": "Vickhoff et al., Frontiers in Psychology (2013)"}, "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00334/full"},
+                    "title": {"en": "Together off", "es": "Cortar juntos"},
+                    "fact": {"id": "choir-hearts-in-step", "text": {"en": "In a 2013 study of fifteen 18-year-old choir singers, their heart rates rose and fell together when they sang a slow chant, breathing only between phrases. Humming one note, breathing at will, gave no shared pattern.", "es": "En un estudio de 2013 con quince coristas de 18 años, su ritmo cardiaco subía y bajaba a la vez cuando cantaban un cántico lento, respirando solo entre frases. Al tararear una nota respirando cuando querían, no apareció ningún patrón común."}, "source": {"en": "Vickhoff et al., Frontiers in Psychology (2013)", "es": "Vickhoff et al., Frontiers in Psychology (2013)"}, "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00334/full"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Backing singers stop with the tune. Each note is the one the phrase's chords share: do, then so."},
+                            "headline": {"en": "Backing singers stop with the tune. Each note is the one the phrase's chords share: do, then so.", "es": "Quienes hacen coros cortan con la melodía. Cada nota es la que comparten los acordes de la frase: \"do\" y luego \"so\"."},
                             "steps": [
-                                {"title": {"en": "Off with the tune"}, "detail": {"en": "When the tune's phrase ends, yours does"}},
-                                {"title": {"en": "Breathe with the tune"}, "detail": {"en": "Then back in together; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "Off with the tune", "es": "Corta con la melodía"}, "detail": {"en": "When the tune's phrase ends, yours does", "es": "Cuando acaba la frase de la melodía, acaba la tuya"}},
+                                {"title": {"en": "Breathe with the tune", "es": "Respira con la melodía"}, "detail": {"en": "Then back in together; stop if anything tightens or hurts", "es": "Y vuelve a entrar a la vez. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "steady",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Hear each pad under the tune, then choose."},
+                            "text": {"en": "Hear each pad under the tune, then choose.", "es": "Escucha cada colchón bajo la melodía y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which pad stops with the tune?"},
+                                        "prompt": {"en": "Which pad stops with the tune?", "es": "¿Qué colchón corta con la melodía?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -407,10 +407,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The first ends as the tune does. The second hangs on after it."}
+                                        "why": {"en": "The first ends as the tune does. The second hangs on after it.", "es": "El primero acaba cuando acaba la melodía. El segundo sigue sonando después."}
                                     },
                                     {
-                                        "prompt": {"en": "Which pad stops with the tune?"},
+                                        "prompt": {"en": "Which pad stops with the tune?", "es": "¿Qué colchón corta con la melodía?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -430,15 +430,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The first stops before the tune does. The second ends with it."}
+                                        "why": {"en": "The first stops before the tune does. The second ends with it.", "es": "El primero corta antes que la melodía. El segundo acaba con ella."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first two lines under the tune: do, held, then so. Stop each with the tune."},
+                            "text": {"en": "The first two lines under the tune: do, held, then so. Stop each with the tune.", "es": "Las dos primeras frases bajo la melodía: \"do\", sostenido, y luego \"so\". Corta cada una con la melodía."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -478,11 +478,11 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole verse: do, so, do, so, each stopped as the tune's phrase ends, with a breath after it."},
+                            "text": {"en": "The whole verse: do, so, do, so, each stopped as the tune's phrase ends, with a breath after it.", "es": "La estrofa entera: \"do\", \"so\", \"do\", \"so\", cada una cortada al acabar la frase de la melodía, con una respiración después."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -549,22 +549,22 @@
                                 ],
                                 "score": "release"
                             },
-                            "measures": {"en": "Scored on stopping with the tune, not on the notes."}
+                            "measures": {"en": "Scored on stopping with the tune, not on the notes.", "es": "Se puntúa que cortes con la melodía, no las notas."}
                         }
                     ]
                 },
                 {
                     "id": "bv-1-shenandoah",
-                    "title": {"en": "Shenandoah's pad"},
+                    "title": {"en": "Shenandoah's pad", "es": "Colchón de Shenandoah"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Shenandoah, slow and wide: a low \"oo\" that rocks between so and la. Hear the tune first."},
+                            "headline": {"en": "Shenandoah, slow and wide: a low \"oo\" that rocks between so and la. Hear the tune first.", "es": "Shenandoah, lenta y amplia: un \"oo\" (una u) grave que se mece entre \"so\" y \"la\". Escucha primero la melodía."},
                             "steps": [
-                                {"title": {"en": "Low and light"}, "detail": {"en": "Your low so, never pressed; stop if anything tightens or hurts"}},
-                                {"title": {"en": "In with the chord"}, "detail": {"en": "Some lines, the pad waits for the chord to start"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "Low and light", "es": "Grave y ligero"}, "detail": {"en": "Your low so, never pressed; stop if anything tightens or hurts", "es": "Tu \"so\" grave, nunca apretado. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "In with the chord", "es": "Entra con el acorde"}, "detail": {"en": "Some lines, the pad waits for the chord to start", "es": "En algunas frases, el colchón espera a que empiece el acorde"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false,
@@ -594,7 +594,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the pad's notes: low so, low la, low so."},
+                            "text": {"en": "Find the pad's notes: low so, low la, low so.", "es": "Encuentra las notas del colchón: \"so\" grave, \"la\" grave, \"so\" grave."},
                             "exercise": {
                                 "tempo": 63,
                                 "notes": [
@@ -606,7 +606,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first two lines under the tune: low so, then la, then so."},
+                            "text": {"en": "The first two lines under the tune: low so, then la, then so.", "es": "Las dos primeras frases bajo la melodía: \"so\" grave, luego \"la\" y luego \"so\"."},
                             "exercise": {
                                 "tempo": 63,
                                 "turn": false,
@@ -647,11 +647,11 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on your pad's notes on pitch, under the tune."}
+                            "measures": {"en": "Scored on your pad's notes on pitch, under the tune.", "es": "Se puntúa la afinación de las notas de tu colchón, bajo la melodía."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole verse. Only the chord changes light: between them, rock between so and la by ear."},
+                            "text": {"en": "The whole verse. Only the chord changes light: between them, rock between so and la by ear.", "es": "La estrofa entera. Solo se iluminan los cambios de acorde: entre ellos, mécete de oído entre \"so\" y \"la\"."},
                             "exercise": {
                                 "tempo": 63,
                                 "turn": false,
@@ -731,7 +731,7 @@
                                 ],
                                 "lights": "changes"
                             },
-                            "measures": {"en": "Scored on your pad's notes on pitch, most of them sung with no light to follow."}
+                            "measures": {"en": "Scored on your pad's notes on pitch, most of them sung with no light to follow.", "es": "Se puntúa la afinación de las notas de tu colchón, casi todas cantadas sin luz que seguir."}
                         }
                     ]
                 }
@@ -739,28 +739,28 @@
         },
         {
             "id": "bv-doo-wop",
-            "title": {"en": "Doo-wop"},
+            "title": {"en": "Doo-wop", "es": "Doo-wop"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "bv-2-doo-wah",
-                    "title": {"en": "Doo-wah"},
-                    "fact": {"id": "doo-wop-progression-buxtehude", "text": {"en": "Your four chords are known as the doo-wop progression, or the \"Heart and Soul\" chords. They're far older: Dieterich Buxtehude, who died in 1707, repeated them in the bass line of a psalm setting."}, "source": {"en": "Wikipedia, '50s progression"}, "url": "https://en.wikipedia.org/wiki/50s_progression"},
+                    "title": {"en": "Doo-wah", "es": "Doo-wah"},
+                    "fact": {"id": "doo-wop-progression-buxtehude", "text": {"en": "Your four chords are known as the doo-wop progression, or the \"Heart and Soul\" chords. They're far older: Dieterich Buxtehude, who died in 1707, repeated them in the bass line of a psalm setting.", "es": "Tus cuatro acordes se conocen como la progresión doo-wop, o los acordes de \"Heart and Soul\". Son mucho más antiguos: Dieterich Buxtehude, que murió en 1707, los repitió en el bajo de una obra sobre un salmo."}, "source": {"en": "Wikipedia, '50s progression", "es": "Wikipedia, '50s progression"}, "url": "https://en.wikipedia.org/wiki/50s_progression"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "\"Doo\" on the beat, \"wah\" opens up: the change is the vowel. Four chords, one a bar, round and round."},
+                            "headline": {"en": "\"Doo\" on the beat, \"wah\" opens up: the change is the vowel. Four chords, one a bar, round and round.", "es": "\"Doo\" (du) en el pulso, y \"wah\" (uá) se abre: el cambio está en la vocal. Cuatro acordes, uno por compás, una vuelta tras otra."},
                             "steps": [
-                                {"title": {"en": "Light, never punched"}, "detail": {"en": "Easy volume; stop if anything tightens or hurts"}},
-                                {"title": {"en": "The same notes as your mi, fa, re pad"}, "detail": {"en": "Mi, mi, fa, re: one a chord"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "Light, never punched", "es": "Ligero, sin golpear"}, "detail": {"en": "Easy volume; stop if anything tightens or hurts", "es": "Volumen cómodo. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "The same notes as your mi, fa, re pad", "es": "Las notas de tu colchón \"mi\", \"fa\", \"re\""}, "detail": {"en": "Mi, mi, fa, re: one a chord", "es": "\"mi\", \"mi\", \"fa\", \"re\": una por acorde"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "vowels",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the notes you'll use: mi, so, la, fa, re."},
+                            "text": {"en": "Find the notes you'll use: mi, so, la, fa, re.", "es": "Encuentra las notas que vas a usar: \"mi\", \"so\", \"la\", \"fa\", \"re\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -774,7 +774,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once round the four chords: \"doo\", then \"wah\" on the same note, on mi, mi, fa, re."},
+                            "text": {"en": "Once round the four chords: \"doo\", then \"wah\" on the same note, on mi, mi, fa, re.", "es": "Una vuelta a los cuatro acordes: \"doo\" y luego \"wah\" en la misma nota, en \"mi\", \"mi\", \"fa\", \"re\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -795,11 +795,11 @@
                                     {"beat": 12, "root": 7, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Twice round, the two-note doo-wah: \"doo\" on mi, mi, fa, re, and \"wah\" up to so, la, la, so. Halfway, the lights fade."},
+                            "text": {"en": "Twice round, the two-note doo-wah: \"doo\" on mi, mi, fa, re, and \"wah\" up to so, la, la, so. Halfway, the lights fade.", "es": "Dos vueltas, el doo-wah de dos notas: \"doo\" en \"mi\", \"mi\", \"fa\", \"re\", y \"wah\" subiendo a \"so\", \"la\", \"la\", \"so\". A mitad, las luces se apagan."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -833,34 +833,34 @@
                                 ],
                                 "lights": "fade"
                             },
-                            "measures": {"en": "Scored on your notes on pitch, the second half with the lights faded."}
+                            "measures": {"en": "Scored on your notes on pitch, the second half with the lights faded.", "es": "Se puntúa la afinación de tus notas; la segunda mitad, con las luces apagadas."}
                         }
                     ]
                 },
                 {
                     "id": "bv-2-shoo-bop",
-                    "title": {"en": "Shoo-bop"},
-                    "fact": {"id": "syllables-for-drums", "text": {"en": "Doo-wop street singers generally sang with no instruments. They kept time with a swing-like off-beat, and syllables like \"doo-wop\" stood in for the drums."}, "source": {"en": "Wikipedia, Doo-wop"}, "url": "https://en.wikipedia.org/wiki/Doo-wop"},
+                    "title": {"en": "Shoo-bop", "es": "Shoo-bop"},
+                    "fact": {"id": "syllables-for-drums", "text": {"en": "Doo-wop street singers generally sang with no instruments. They kept time with a swing-like off-beat, and syllables like \"doo-wop\" stood in for the drums.", "es": "Los cantantes callejeros de doo-wop solían cantar sin instrumentos. Marcaban el tiempo con un contratiempo parecido al swing, y sílabas como \"doo-wop\" hacían de batería."}, "source": {"en": "Wikipedia, Doo-wop", "es": "Wikipedia, Doo-wop"}, "url": "https://en.wikipedia.org/wiki/Doo-wop"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Shoo-bop: the \"sh\" is breath, and the note is on \"bop\". Short and light, on the beat. Here, just \"bop\"."},
+                            "headline": {"en": "Shoo-bop: the \"sh\" is breath, and the note is on \"bop\". Short and light, on the beat. Here, just \"bop\".", "es": "Shoo-bop (shu-bop): la \"sh\" es solo aire y la nota va en \"bop\". Corto y ligero, en el pulso. Aquí, solo \"bop\"."},
                             "steps": [
-                                {"title": {"en": "On beats two and four"}, "detail": {"en": "Two bops a bar, in the gaps"}},
-                                {"title": {"en": "Short and light"}, "detail": {"en": "A low bop is never pushed; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "On beats two and four", "es": "En los tiempos 2 y 4"}, "detail": {"en": "Two bops a bar, in the gaps", "es": "Dos bops por compás, en los huecos"}},
+                                {"title": {"en": "Short and light", "es": "Corto y ligero"}, "detail": {"en": "A low bop is never pushed; stop if anything tightens or hurts", "es": "Un \"bop\" grave nunca se empuja. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "bass",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Hear each pair of bops over the chord, then choose."},
+                            "text": {"en": "Hear each pair of bops over the chord, then choose.", "es": "Escucha cada par de bops sobre el acorde y luego elige."},
                             "exercise": {
                                 "tempo": 80,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which bops are on the beat?"},
+                                        "prompt": {"en": "Which bops are on the beat?", "es": "¿Qué bops caen en el pulso?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -878,10 +878,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The second pair comes in late, just after the beat."}
+                                        "why": {"en": "The second pair comes in late, just after the beat.", "es": "El segundo par entra tarde, justo después del pulso."}
                                     },
                                     {
-                                        "prompt": {"en": "Which bops are on the beat?"},
+                                        "prompt": {"en": "Which bops are on the beat?", "es": "¿Qué bops caen en el pulso?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -899,15 +899,15 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": {"en": "The first pair rushes, just ahead of the beat."}
+                                        "why": {"en": "The first pair rushes, just ahead of the beat.", "es": "El primer par se adelanta, justo antes del pulso."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Once round: two bops a bar on do, then on low ti for the last chord."},
+                            "text": {"en": "Once round: two bops a bar on do, then on low ti for the last chord.", "es": "Una vuelta: dos bops por compás en \"do\", y luego en \"ti\" grave para el último acorde."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -928,11 +928,11 @@
                                     {"beat": 12, "root": 7, "quality": "maj", "bass": null}
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch."}
+                            "measures": {"en": "Scored on your notes on pitch.", "es": "Se puntúa la afinación de tus notas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Twice round, each bop on the beat."},
+                            "text": {"en": "Twice round, each bop on the beat.", "es": "Dos vueltas, cada bop en el pulso."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -966,29 +966,29 @@
                                 ],
                                 "score": "entry"
                             },
-                            "measures": {"en": "Scored on coming in on the beat, and the note you land on."}
+                            "measures": {"en": "Scored on coming in on the beat, and the note you land on.", "es": "Se puntúa que entres en el pulso, y la nota en la que caes."}
                         }
                     ]
                 },
                 {
                     "id": "bv-2-three",
-                    "title": {"en": "Three parts"},
-                    "fact": {"id": "doo-wop-name-1961", "text": {"en": "The earliest known print use of \"doo-wop\" for this music came in 1961, as the style faded: a Chicago Defender column called the Marcels' \"Blue Moon\" a doo-wop \"like those of many years ago\"."}, "source": {"en": "Wikipedia, Doo-wop"}, "url": "https://en.wikipedia.org/wiki/Doo-wop"},
+                    "title": {"en": "Three parts", "es": "Tres voces"},
+                    "fact": {"id": "doo-wop-name-1961", "text": {"en": "The earliest known print use of \"doo-wop\" for this music came in 1961, as the style faded: a Chicago Defender column called the Marcels' \"Blue Moon\" a doo-wop \"like those of many years ago\".", "es": "El primer uso impreso conocido de \"doo-wop\" para esta música llegó en 1961, cuando el estilo ya se apagaba: una columna del Chicago Defender llamó a \"Blue Moon\", de los Marcels, un doo-wop \"como los de hace muchos años\"."}, "source": {"en": "Wikipedia, Doo-wop", "es": "Wikipedia, Doo-wop"}, "url": "https://en.wikipedia.org/wiki/Doo-wop"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Three of you, one chord: low, middle, top, each a step from its last note."},
+                            "headline": {"en": "Three of you, one chord: low, middle, top, each a step from its last note.", "es": "Tres voces tuyas, un acorde: grave, media y aguda, cada una a un grado de su nota anterior."},
                             "steps": [
-                                {"title": {"en": "One part at a time"}, "detail": {"en": "Each sung over the ones before"}},
-                                {"title": {"en": "Never louder to hear yourself"}, "detail": {"en": "Lower your headphones instead; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "One part at a time", "es": "Una voz tras otra"}, "detail": {"en": "Each sung over the ones before", "es": "Cada una sobre las anteriores"}},
+                                {"title": {"en": "Never louder to hear yourself", "es": "Nunca más fuerte para oírte"}, "detail": {"en": "Lower your headphones instead; stop if anything tightens or hurts", "es": "Mejor baja el volumen de los auriculares. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The low part, twice round and a closing chord: do, do, do, low ti, each held on \"oo\"."},
+                            "text": {"en": "The low part, twice round and a closing chord: do, do, do, low ti, each held on \"oo\".", "es": "La voz grave, dos vueltas y un acorde final: \"do\", \"do\", \"do\", \"ti\" grave, cada una sostenida en \"oo\" (una u)."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -1016,11 +1016,11 @@
                                 ],
                                 "tuning": true
                             },
-                            "measures": {"en": "Scored on your notes on pitch. The ring shows how well each one locks to the chord."}
+                            "measures": {"en": "Scored on your notes on pitch. The ring shows how well each one locks to the chord.", "es": "Se puntúa la afinación de tus notas. Además, verás lo bien que resuena cada una con el acorde."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The middle over your low part: mi, mi, fa, re."},
+                            "text": {"en": "The middle over your low part: mi, mi, fa, re.", "es": "La voz media sobre tu voz grave: \"mi\", \"mi\", \"fa\", \"re\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -1050,11 +1050,11 @@
                                     "steps": [1]
                                 }
                             },
-                            "measures": {"en": "Scored on your notes on pitch, over your low part."}
+                            "measures": {"en": "Scored on your notes on pitch, over your low part.", "es": "Se puntúa la afinación de tus notas, sobre tu voz grave."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The top over both: so, la, la, so. Three of you."},
+                            "text": {"en": "The top over both: so, la, la, so. Three of you.", "es": "La aguda sobre las dos: \"so\", \"la\", \"la\", \"so\". Tu propio trío."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -1084,39 +1084,39 @@
                                     "steps": [1, 2]
                                 }
                             },
-                            "measures": {"en": "Scored on your notes on pitch, over your two parts."}
+                            "measures": {"en": "Scored on your notes on pitch, over your two parts.", "es": "Se puntúa la afinación de tus notas, sobre tus dos voces."}
                         }
                     ]
                 },
                 {
                     "id": "bv-2-doo-wop",
-                    "title": {"en": "Your doo-wop"},
+                    "title": {"en": "Your doo-wop", "es": "Tu doo-wop"},
                     "challenge": true,
                     "keepSong": {
-                        "title": {"en": "My doo-wop"},
+                        "title": {"en": "My doo-wop", "es": "Mi doo-wop"},
                         "takes": [
-                            {"step": 1, "name": {"en": "Low"}},
-                            {"step": 2, "name": {"en": "Doo-wah"}},
-                            {"step": 3, "name": {"en": "Bops"}}
+                            {"step": 1, "name": {"en": "Low", "es": "Grave"}},
+                            {"step": 2, "name": {"en": "Doo-wah", "es": "Doo-wah"}},
+                            {"step": 3, "name": {"en": "Bops", "es": "Bops"}}
                         ],
                         "from": 3,
-                        "partners": [{"en": "Lead"}]
+                        "partners": [{"en": "Lead", "es": "Voz principal"}]
                     },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Your three parts, now with rhythm, under a lead. Kept as a song."},
+                            "headline": {"en": "Your three parts, now with rhythm, under a lead. Kept as a song.", "es": "Tus tres voces, ahora con ritmo, bajo una voz principal. Se guarda como canción."},
                             "steps": [
-                                {"title": {"en": "Low, then doo-wah, then bops"}, "detail": {"en": "Each over the ones before"}},
-                                {"title": {"en": "Under the lead"}, "detail": {"en": "Every part sits below it; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "Low, then doo-wah, then bops", "es": "Grave, luego doo-wah, luego bops"}, "detail": {"en": "Each over the ones before", "es": "Cada una sobre las anteriores"}},
+                                {"title": {"en": "Under the lead", "es": "Bajo la voz principal"}, "detail": {"en": "Every part sits below it; stop if anything tightens or hurts", "es": "Cada voz va por debajo de ella. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The low part on \"oo\", under the lead: do, do, do, low ti, and the closing chord."},
+                            "text": {"en": "The low part on \"oo\", under the lead: do, do, do, low ti, and the closing chord.", "es": "La voz grave en \"oo\" (una u), bajo la voz principal: \"do\", \"do\", \"do\", \"ti\" grave, y el acorde final."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -1169,11 +1169,11 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on your notes on pitch, under the lead."}
+                            "measures": {"en": "Scored on your notes on pitch, under the lead.", "es": "Se puntúa la afinación de tus notas, bajo la voz principal."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The middle doo-wah over it: \"doo\", \"wah\" on mi, mi, fa, re, then a held \"wah\"."},
+                            "text": {"en": "The middle doo-wah over it: \"doo\", \"wah\" on mi, mi, fa, re, then a held \"wah\".", "es": "El doo-wah medio por encima: \"doo\" (du) y \"wah\" (uá) en \"mi\", \"mi\", \"fa\", \"re\", y luego un \"wah\" sostenido."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -1237,11 +1237,11 @@
                                     "steps": [1]
                                 }
                             },
-                            "measures": {"en": "Scored on your notes on pitch, over your low part."}
+                            "measures": {"en": "Scored on your notes on pitch, over your low part.", "es": "Se puntúa la afinación de tus notas, sobre tu voz grave."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The top bops over both: two a bar on so, la, la, so. Halfway, the lights fade."},
+                            "text": {"en": "The top bops over both: two a bar on so, la, la, so. Halfway, the lights fade.", "es": "Los bops agudos sobre las dos: dos por compás en \"so\", \"la\", \"la\", \"so\". A mitad, las luces se apagan."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -1306,7 +1306,7 @@
                                 },
                                 "lights": "fade"
                             },
-                            "measures": {"en": "Scored on your notes on pitch, over your two parts, the second half with the lights faded."}
+                            "measures": {"en": "Scored on your notes on pitch, over your two parts, the second half with the lights faded.", "es": "Se puntúa la afinación de tus notas, sobre tus dos voces; la segunda mitad, con las luces apagadas."}
                         }
                     ]
                 }
@@ -1314,33 +1314,33 @@
         },
         {
             "id": "bv-answers",
-            "title": {"en": "Answers"},
+            "title": {"en": "Answers", "es": "Respuestas"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "bv-3-fill",
-                    "title": {"en": "Fill the gap"},
-                    "fact": {"id": "whatd-i-say-filled-time", "text": {"en": "One night on tour, Ray Charles and his band ran out of songs with time still to fill. He improvised \"What'd I Say\", and had his backing singers answer him."}, "source": {"en": "Wikipedia, What'd I Say"}, "url": "https://en.wikipedia.org/wiki/What%27d_I_Say"},
+                    "title": {"en": "Fill the gap", "es": "Llena el hueco"},
+                    "fact": {"id": "whatd-i-say-filled-time", "text": {"en": "One night on tour, Ray Charles and his band ran out of songs with time still to fill. He improvised \"What'd I Say\", and had his backing singers answer him.", "es": "Una noche de gira, a Ray Charles y su banda se les acabaron las canciones y aún quedaba tiempo por llenar. Improvisó \"What'd I Say\" e hizo que sus coristas le respondieran."}, "source": {"en": "Wikipedia, What'd I Say", "es": "Wikipedia, What'd I Say"}, "url": "https://en.wikipedia.org/wiki/What%27d_I_Say"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "An answer waits for the tune's long note, then fills it."},
+                            "headline": {"en": "An answer waits for the tune's long note, then fills it.", "es": "Una respuesta espera la nota larga de la melodía y entonces la rellena."},
                             "steps": [
-                                {"title": {"en": "Wait for the long note"}, "detail": {"en": "Then a short \"oo\" under it"}},
-                                {"title": {"en": "Small and soft"}, "detail": {"en": "An answer never covers the tune; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "Wait for the long note", "es": "Espera la nota larga"}, "detail": {"en": "Then a short \"oo\" under it", "es": "Luego, un \"oo\" (una u) corto debajo"}},
+                                {"title": {"en": "Small and soft", "es": "Pequeña y suave"}, "detail": {"en": "An answer never covers the tune; stop if anything tightens or hurts", "es": "Una respuesta nunca tapa la melodía. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Hear the tune with each answer, then choose."},
+                            "text": {"en": "Hear the tune with each answer, then choose.", "es": "Escucha la melodía con cada respuesta y luego elige."},
                             "exercise": {
                                 "tempo": 76,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which answer waits for the long note?"},
+                                        "prompt": {"en": "Which answer waits for the long note?", "es": "¿Qué respuesta espera la nota larga?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1380,15 +1380,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The answer waits for the long note: the first fills the held \"home\", the second sings over \"carry me\"."}
+                                        "why": {"en": "The answer waits for the long note: the first fills the held \"home\", the second sings over \"carry me\".", "es": "La respuesta espera la nota larga: la primera rellena el \"home\" sostenido; la segunda canta encima de \"carry me\"."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first two lines: an \"oo\" in the tune's rest, then two under its held \"home\"."},
+                            "text": {"en": "The first two lines: an \"oo\" in the tune's rest, then two under its held \"home\".", "es": "Las dos primeras frases: un \"oo\" en el silencio de la melodía y luego dos bajo su \"home\" sostenido."},
                             "exercise": {
                                 "tempo": 76,
                                 "turn": false,
@@ -1427,11 +1427,11 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on your answers on pitch."}
+                            "measures": {"en": "Scored on your answers on pitch.", "es": "Se puntúa la afinación de tus respuestas."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole chorus: each answer in a rest or under a held note."},
+                            "text": {"en": "The whole chorus: each answer in a rest or under a held note.", "es": "El estribillo entero: cada respuesta en un silencio o bajo una nota sostenida."},
                             "exercise": {
                                 "tempo": 76,
                                 "turn": false,
@@ -1498,35 +1498,35 @@
                                 ],
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your answers on pitch and on the beat."}
+                            "measures": {"en": "Scored on your answers on pitch and on the beat.", "es": "Se puntúan tus respuestas: afinadas y a tiempo."}
                         }
                     ]
                 },
                 {
                     "id": "bv-3-response",
-                    "title": {"en": "The response"},
+                    "title": {"en": "The response", "es": "La respuesta"},
                     "fact": {
                         "id": "basing-the-leader",
-                        "text": {"en": "Slave Songs of the United States (1867), the book that printed Michael, Row, describes a leader starting each verse, often improvising, while the others, \"who 'base' him, as it is called\", strike in with the refrain."},
-                        "source": {"en": "Allen, Ware and Garrison, Slave Songs of the United States (1867), introduction, Internet Archive"},
+                        "text": {"en": "Slave Songs of the United States (1867), the book that printed Michael, Row, describes a leader starting each verse, often improvising, while the others, \"who 'base' him, as it is called\", strike in with the refrain.", "es": "Slave Songs of the United States (1867), el libro que publicó Michael, Row, cuenta cómo quien lleva el canto empieza cada estrofa, a menudo improvisando, mientras los demás, \"que le hacen de 'base', como se dice\", entran con el estribillo."},
+                        "source": {"en": "Allen, Ware and Garrison, Slave Songs of the United States (1867), introduction, Internet Archive", "es": "Allen, Ware y Garrison, Slave Songs of the United States (1867), introducción, Internet Archive"},
                         "url": "https://archive.org/details/slavesongsofunit00alle",
                         "distinct": ["michael-row-1863"]
                     },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Call and response, the oldest backing job: the leader calls \"Michael, row the boat ashore\", and you answer \"Hallelujah\"."},
+                            "headline": {"en": "Call and response, the oldest backing job: the leader calls \"Michael, row the boat ashore\", and you answer \"Hallelujah\".", "es": "Llamada y respuesta, el trabajo de coros más antiguo: la voz principal lanza \"Michael, row the boat ashore\", y tú respondes \"Hallelujah\"."},
                             "steps": [
-                                {"title": {"en": "The leader calls"}, "detail": {"en": "You answer, and rest through the next call"}},
-                                {"title": {"en": "An answer, not a shout"}, "detail": {"en": "Easy volume; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "The leader calls", "es": "La voz principal llama"}, "detail": {"en": "You answer, and rest through the next call", "es": "Tú respondes y descansas durante la siguiente llamada"}},
+                                {"title": {"en": "An answer, not a shout", "es": "Responder, no gritar"}, "detail": {"en": "Easy volume; stop if anything tightens or hurts", "es": "Volumen cómodo. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The lead sings only the calls. You sing the response: the tune's own \"Hallelujah\"."},
+                            "text": {"en": "The lead sings only the calls. You sing the response: the tune's own \"Hallelujah\".", "es": "La voz principal canta solo las llamadas. Tú cantas la respuesta: el propio \"Hallelujah\" de la melodía."},
                             "exercise": {
                                 "tempo": 92,
                                 "turn": false,
@@ -1578,11 +1578,11 @@
                                 ],
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your response on pitch and on the beat."}
+                            "measures": {"en": "Scored on your response on pitch and on the beat.", "es": "Se puntúa tu respuesta: afinada y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the lead sings it all. You sing the \"Hallelujah\" in harmony under it, resting through the calls. Halfway, the lights fade."},
+                            "text": {"en": "Now the lead sings it all. You sing the \"Hallelujah\" in harmony under it, resting through the calls. Halfway, the lights fade.", "es": "Ahora la voz principal lo canta todo. Tú cantas el \"Hallelujah\" en armonía por debajo, descansando durante las llamadas. A mitad, las luces se apagan."},
                             "exercise": {
                                 "tempo": 92,
                                 "turn": false,
@@ -1644,29 +1644,29 @@
                                 "lights": "fade",
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your harmony on pitch and on the beat, the second half with the lights faded."}
+                            "measures": {"en": "Scored on your harmony on pitch and on the beat, the second half with the lights faded.", "es": "Se puntúa tu armonía: afinada y a tiempo; la segunda mitad, con las luces apagadas."}
                         }
                     ]
                 },
                 {
                     "id": "bv-3-on-time",
-                    "title": {"en": "Back in on time"},
-                    "fact": {"id": "gandy-dancers-third-beat", "text": {"en": "Gandy dancers, railroad gangs who straightened track, tapped their bars on the rails to a caller's song. Once they tapped in perfect time, he called for a pull on the third beat of a four-beat refrain."}, "source": {"en": "Encyclopedia of Alabama, Gandy Dancer Work Song Tradition"}, "url": "https://encyclopediaofalabama.org/article/gandy-dancer-work-song-tradition/"},
+                    "title": {"en": "Back in on time", "es": "Entra a tiempo"},
+                    "fact": {"id": "gandy-dancers-third-beat", "text": {"en": "Gandy dancers, railroad gangs who straightened track, tapped their bars on the rails to a caller's song. Once they tapped in perfect time, he called for a pull on the third beat of a four-beat refrain.", "es": "Los gandy dancers, cuadrillas del ferrocarril que enderezaban las vías, golpeaban sus barras contra los rieles al ritmo de la canción de un cantor que los guiaba. Cuando ya golpeaban perfectamente a tiempo, él pedía un tirón en el tercer tiempo de un estribillo de cuatro tiempos."}, "source": {"en": "Encyclopedia of Alabama, Gandy Dancer Work Song Tradition", "es": "Encyclopedia of Alabama, Gandy Dancer Work Song Tradition"}, "url": "https://encyclopediaofalabama.org/article/gandy-dancer-work-song-tradition/"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Echo the tune's \"low\", then answer the line. Count the gap; come in on the beat."},
+                            "headline": {"en": "Echo the tune's \"low\", then answer the line. Count the gap; come in on the beat.", "es": "Repite el \"low\" de la melodía y luego responde a la frase. Cuenta el hueco; entra en el pulso."},
                             "steps": [
-                                {"title": {"en": "Count the gap"}, "detail": {"en": "The tune rests; you come in on the beat"}},
-                                {"title": {"en": "Light and quick"}, "detail": {"en": "The words short and easy; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "Count the gap", "es": "Cuenta el hueco"}, "detail": {"en": "The tune rests; you come in on the beat", "es": "La melodía descansa; tú entras en el pulso"}},
+                                {"title": {"en": "Light and quick", "es": "Ligero y rápido"}, "detail": {"en": "The words short and easy; stop if anything tightens or hurts", "es": "Pronuncia corto y sin esfuerzo. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first two lines: echo \"low\", then answer \"Coming for to carry me home\"."},
+                            "text": {"en": "The first two lines: echo \"low\", then answer \"Coming for to carry me home\".", "es": "Las dos primeras frases: repite \"low\" y luego responde \"Coming for to carry me home\"."},
                             "exercise": {
                                 "tempo": 76,
                                 "turn": false,
@@ -1704,11 +1704,11 @@
                                 ],
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your answers on pitch and on the beat."}
+                            "measures": {"en": "Scored on your answers on pitch and on the beat.", "es": "Se puntúan tus respuestas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole chorus: each echo and answer in on the beat."},
+                            "text": {"en": "The whole chorus: each echo and answer in on the beat.", "es": "El estribillo entero: cada eco y cada respuesta entran en el pulso."},
                             "exercise": {
                                 "tempo": 76,
                                 "turn": false,
@@ -1771,29 +1771,29 @@
                                 ],
                                 "score": "entry"
                             },
-                            "measures": {"en": "Scored on coming back in on time after each rest, and the note you land on."}
+                            "measures": {"en": "Scored on coming back in on time after each rest, and the note you land on.", "es": "Se puntúa que vuelvas a entrar a tiempo después de cada silencio, y la nota en la que caes."}
                         }
                     ]
                 },
                 {
                     "id": "bv-3-verse",
-                    "title": {"en": "Answers through a verse"},
+                    "title": {"en": "Answers through a verse", "es": "Respuestas en una estrofa"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The whole call and response. The tune calls four times: you answer, and echo its \"low\"."},
+                            "headline": {"en": "The whole call and response. The tune calls four times: you answer, and echo its \"low\".", "es": "La llamada y respuesta completa. La melodía llama cuatro veces: tú respondes y repites su \"low\"."},
                             "steps": [
-                                {"title": {"en": "Four calls, four answers"}, "detail": {"en": "Two in the verse, two in the chorus"}},
-                                {"title": {"en": "Count, then come in"}, "detail": {"en": "Easy volume; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "Four calls, four answers", "es": "Cuatro llamadas, cuatro respuestas"}, "detail": {"en": "Two in the verse, two in the chorus", "es": "Dos en la estrofa, dos en el estribillo"}},
+                                {"title": {"en": "Count, then come in", "es": "Cuenta y entra"}, "detail": {"en": "Easy volume; stop if anything tightens or hurts", "es": "Volumen cómodo. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The verse: answer both calls, \"Coming for to carry me home\"."},
+                            "text": {"en": "The verse: answer both calls, \"Coming for to carry me home\".", "es": "La estrofa: responde a las dos llamadas, \"Coming for to carry me home\"."},
                             "exercise": {
                                 "tempo": 76,
                                 "turn": false,
@@ -1865,11 +1865,11 @@
                                 ],
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your answers on pitch and on the beat."}
+                            "measures": {"en": "Scored on your answers on pitch and on the beat.", "es": "Se puntúan tus respuestas: afinadas y a tiempo."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The verse and the chorus: answer every call, and echo the chorus's \"low\". Halfway, the lights fade."},
+                            "text": {"en": "The verse and the chorus: answer every call, and echo the chorus's \"low\". Halfway, the lights fade.", "es": "La estrofa y el estribillo: responde a cada llamada y repite el \"low\" del estribillo. A mitad, las luces se apagan."},
                             "exercise": {
                                 "tempo": 76,
                                 "turn": false,
@@ -1988,7 +1988,7 @@
                                 "lights": "fade",
                                 "rhythm": true
                             },
-                            "measures": {"en": "Scored on your answers on pitch and on the beat, the second half with the lights faded."}
+                            "measures": {"en": "Scored on your answers on pitch and on the beat, the second half with the lights faded.", "es": "Se puntúan tus respuestas: afinadas y a tiempo; la segunda mitad, con las luces apagadas."}
                         }
                     ]
                 }
@@ -1996,21 +1996,21 @@
         },
         {
             "id": "bv-behind-a-song",
-            "title": {"en": "Behind a real song"},
+            "title": {"en": "Behind a real song", "es": "En una canción de verdad"},
             "colour": 3,
             "lessons": [
                 {
                     "id": "bv-4-red-river",
-                    "title": {"en": "Red River Valley: a pad, then answers"},
-                    "fact": {"id": "artificial-double-tracking", "text": {"en": "Pop singers often double a vocal by singing it twice. In 1966 an Abbey Road engineer invented a way to fake it, artificial double tracking, mainly at John Lennon's request: he despised the chore."}, "source": {"en": "Wikipedia, Automatic double tracking"}, "url": "https://en.wikipedia.org/wiki/Automatic_double_tracking"},
+                    "title": {"en": "Red River Valley: a pad, then answers", "es": "Red River Valley: colchón y respuestas"},
+                    "fact": {"id": "artificial-double-tracking", "text": {"en": "Pop singers often double a vocal by singing it twice. In 1966 an Abbey Road engineer invented a way to fake it, artificial double tracking, mainly at John Lennon's request: he despised the chore.", "es": "Los cantantes de pop suelen doblar su voz cantándola dos veces. En 1966, un ingeniero de Abbey Road inventó una forma de simularlo, el doblaje artificial de pistas (ADT), sobre todo a petición de John Lennon, que detestaba esa tarea."}, "source": {"en": "Wikipedia, Automatic double tracking", "es": "Wikipedia, Automatic double tracking"}, "url": "https://en.wikipedia.org/wiki/Automatic_double_tracking"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A pad for two lines, then answers: wait, echo \"sunshine\", and fill \"a while\". Hear the tune first."},
+                            "headline": {"en": "A pad for two lines, then answers: wait, echo \"sunshine\", and fill \"a while\". Hear the tune first.", "es": "Un colchón durante dos frases y luego respuestas: espera, repite \"sunshine\" y rellena \"a while\". Escucha primero la melodía."},
                             "steps": [
-                                {"title": {"en": "Pad, then answers"}, "detail": {"en": "Hold for two lines, then the gaps; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Doubling the tune"}, "detail": {"en": "Pop backing often sings the tune too: the mic can't score it"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "Pad, then answers", "es": "Colchón y respuestas"}, "detail": {"en": "Hold for two lines, then the gaps; stop if anything tightens or hurts", "es": "Sostén dos frases y luego rellena los huecos. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Doubling the tune", "es": "Doblar la melodía"}, "detail": {"en": "Pop backing often sings the tune too: the mic can't score it", "es": "En pop, los coros a menudo cantan también la melodía: el micrófono no puede puntuarlo"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false,
@@ -2061,12 +2061,12 @@
                         },
                         {
                             "kind": "choose",
-                            "text": {"en": "Hear the tune with each echo, then choose."},
+                            "text": {"en": "Hear the tune with each echo, then choose.", "es": "Escucha la melodía con cada eco y luego elige."},
                             "exercise": {
                                 "tempo": 90,
                                 "rounds": [
                                     {
-                                        "prompt": {"en": "Which echo sits in the tune's rest?"},
+                                        "prompt": {"en": "Which echo sits in the tune's rest?", "es": "¿Qué eco cae en el silencio de la melodía?"},
                                         "clips": [
                                             {
                                                 "notes": [
@@ -2098,15 +2098,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": {"en": "The first waits for the tune's rest. The second sings over \"sunshine\"."}
+                                        "why": {"en": "The first waits for the tune's rest. The second sings over \"sunshine\".", "es": "El primero espera al silencio de la melodía. El segundo canta encima de \"sunshine\"."}
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on the rounds you got right first time."}
+                            "measures": {"en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The first two lines: the pad on mi, a step up to fa and back, held under the tune."},
+                            "text": {"en": "The first two lines: the pad on mi, a step up to fa and back, held under the tune.", "es": "Las dos primeras frases: el colchón en \"mi\", sube un grado a \"fa\" y vuelve, sostenido bajo la melodía."},
                             "exercise": {
                                 "tempo": 90,
                                 "turn": false,
@@ -2150,11 +2150,11 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on your pad's notes on pitch."}
+                            "measures": {"en": "Scored on your pad's notes on pitch.", "es": "Se puntúa la afinación de las notas de tu colchón."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole verse: the pad, then echo \"sunshine\" in the rest, and fill \"a while\" under the tune's held note. Halfway, the lights fade."},
+                            "text": {"en": "The whole verse: the pad, then echo \"sunshine\" in the rest, and fill \"a while\" under the tune's held note. Halfway, the lights fade.", "es": "La estrofa entera: el colchón, luego repite \"sunshine\" en el silencio y rellena \"a while\" bajo la nota sostenida de la melodía. A mitad, las luces se apagan."},
                             "exercise": {
                                 "tempo": 90,
                                 "turn": false,
@@ -2231,29 +2231,29 @@
                                 ],
                                 "lights": "fade"
                             },
-                            "measures": {"en": "Scored on your notes on pitch, the second half with the lights faded."}
+                            "measures": {"en": "Scored on your notes on pitch, the second half with the lights faded.", "es": "Se puntúa la afinación de tus notas; la segunda mitad, con las luces apagadas."}
                         }
                     ]
                 },
                 {
                     "id": "bv-4-two-more",
-                    "title": {"en": "Amazing Grace: two more parts"},
-                    "fact": {"id": "andrews-sisters-three-parts", "text": {"en": "The Andrews Sisters sang close harmony in three parts: LaVerne a contralto, Maxene a soprano, and Patty, a mezzo-soprano, the lead. They started out imitating an earlier sister trio, the Boswell Sisters."}, "source": {"en": "Wikipedia, The Andrews Sisters"}, "url": "https://en.wikipedia.org/wiki/The_Andrews_Sisters"},
+                    "title": {"en": "Amazing Grace: two more parts", "es": "Amazing Grace: dos voces más"},
+                    "fact": {"id": "andrews-sisters-three-parts", "text": {"en": "The Andrews Sisters sang close harmony in three parts: LaVerne a contralto, Maxene a soprano, and Patty, a mezzo-soprano, the lead. They started out imitating an earlier sister trio, the Boswell Sisters.", "es": "Las Andrews Sisters cantaban en armonía cerrada a tres voces: LaVerne, contralto; Maxene, soprano; y Patty, mezzosoprano, la voz principal. Empezaron imitando a un trío de hermanas anterior, las Boswell Sisters."}, "source": {"en": "Wikipedia, The Andrews Sisters", "es": "Wikipedia, The Andrews Sisters"}, "url": "https://en.wikipedia.org/wiki/The_Andrews_Sisters"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Your pad from lesson 1 is the low part. Now a middle and a top: mi, fa, re and so, la."},
+                            "headline": {"en": "Your pad from lesson 1 is the low part. Now a middle and a top: mi, fa, re and so, la.", "es": "Tu colchón de la lección 1 es la voz grave. Ahora, una media y una aguda: \"mi\", \"fa\", \"re\" y \"so\", \"la\"."},
                             "steps": [
-                                {"title": {"en": "The top rests"}, "detail": {"en": "Where the tune dips low, the top waits"}},
-                                {"title": {"en": "Breathe at different times"}, "detail": {"en": "In a group, so the pad never stops; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "The top rests", "es": "La aguda descansa"}, "detail": {"en": "Where the tune dips low, the top waits", "es": "Donde la melodía baja, la aguda espera"}},
+                                {"title": {"en": "Breathe at different times", "es": "Respiración escalonada"}, "detail": {"en": "In a group, so the pad never stops; stop if anything tightens or hurts", "es": "En grupo, para que el colchón nunca se corte. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "dynamics",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Find the top part's notes: so, la, so."},
+                            "text": {"en": "Find the top part's notes: so, la, so.", "es": "Encuentra las notas de la voz aguda: \"so\", \"la\", \"so\"."},
                             "exercise": {
                                 "tempo": 80,
                                 "notes": [
@@ -2265,7 +2265,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The middle part under the tune: mi, fa and re, each held on \"oo\"."},
+                            "text": {"en": "The middle part under the tune: mi, fa and re, each held on \"oo\".", "es": "La voz media bajo la melodía: \"mi\", \"fa\" y \"re\", cada una sostenida en \"oo\" (una u)."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -2338,11 +2338,11 @@
                                     }
                                 ]
                             },
-                            "measures": {"en": "Scored on your middle part's notes on pitch."}
+                            "measures": {"en": "Scored on your middle part's notes on pitch.", "es": "Se puntúa la afinación de tu voz media."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The top part over your middle, under the tune: so and la, resting where the tune dips low. Only the chord changes light."},
+                            "text": {"en": "The top part over your middle, under the tune: so and la, resting where the tune dips low. Only the chord changes light.", "es": "La voz aguda sobre tu voz media, bajo la melodía: \"so\" y \"la\", descansando donde la melodía baja. Solo se iluminan los cambios de acorde."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -2414,11 +2414,11 @@
                                 },
                                 "lights": "changes"
                             },
-                            "measures": {"en": "Scored on your top part's notes on pitch, most of them sung with no light to follow."}
+                            "measures": {"en": "Scored on your top part's notes on pitch, most of them sung with no light to follow.", "es": "Se puntúa la afinación de tu voz aguda, casi toda cantada sin luz que seguir."}
                         },
                         {
                             "kind": "selfcheck",
-                            "text": {"en": "Your middle part once more, the tune singing with you, then hear yours beside it."},
+                            "text": {"en": "Your middle part once more, the tune singing with you, then hear yours beside it.", "es": "Tu voz media una vez más, con la melodía cantando contigo, y luego escúchate junto a ella."},
                             "exercise": {
                                 "tempo": 80,
                                 "model": {
@@ -2475,8 +2475,8 @@
                                 },
                                 "along": true,
                                 "questions": [
-                                    {"en": "In your headphones, could you hear the lead over yourself?"},
-                                    {"en": "Did your \"oo\" stay soft on the high notes too?"}
+                                    {"en": "In your headphones, could you hear the lead over yourself?", "es": "Con los auriculares, ¿oías la voz principal por encima de ti?"},
+                                    {"en": "Did your \"oo\" stay soft on the high notes too?", "es": "¿Tu \"oo\" siguió suave también en las notas agudas?"}
                                 ]
                             }
                         }
@@ -2484,33 +2484,33 @@
                 },
                 {
                     "id": "bv-4-amazing-grace",
-                    "title": {"en": "Amazing Grace, your backing"},
+                    "title": {"en": "Amazing Grace, your backing", "es": "Amazing Grace, tus coros"},
                     "challenge": true,
                     "keepSong": {
-                        "title": {"en": "Amazing Grace, my backing"},
+                        "title": {"en": "Amazing Grace, my backing", "es": "Amazing Grace, mis coros"},
                         "takes": [
-                            {"step": 1, "name": {"en": "Low"}},
-                            {"step": 2, "name": {"en": "Middle"}},
-                            {"step": 3, "name": {"en": "Top"}}
+                            {"step": 1, "name": {"en": "Low", "es": "Grave"}},
+                            {"step": 2, "name": {"en": "Middle", "es": "Media"}},
+                            {"step": 3, "name": {"en": "Top", "es": "Aguda"}}
                         ],
                         "from": 3,
-                        "partners": [{"en": "Lead"}]
+                        "partners": [{"en": "Lead", "es": "Voz principal"}]
                     },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Three parts under the tune, kept as a song. First, your pad from lesson 1, beside today's."},
+                            "headline": {"en": "Three parts under the tune, kept as a song. First, your pad from lesson 1, beside today's.", "es": "Tres voces bajo la melodía, guardadas como canción. Primero, tu colchón de la lección 1 junto al de hoy."},
                             "steps": [
-                                {"title": {"en": "Then and now"}, "detail": {"en": "Your first pad beside today's, the same line"}},
-                                {"title": {"en": "Three of you under the tune"}, "detail": {"en": "Low, middle, top; stop if anything tightens or hurts"}},
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing"}}
+                                {"title": {"en": "Then and now", "es": "Antes y ahora"}, "detail": {"en": "Your first pad beside today's, the same line", "es": "Tu primer colchón junto al de hoy, la misma parte"}},
+                                {"title": {"en": "Three of you under the tune", "es": "Tu trío bajo la melodía"}, "detail": {"en": "Low, middle, top; stop if anything tightens or hurts", "es": "Grave, media, aguda. Si algo se tensa o duele, para"}},
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "Through a speaker, the lead and your earlier takes rest while you sing", "es": "Por el altavoz, la voz principal y tus tomas anteriores dejan de sonar mientras cantas"}}
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The low part, your pad from lesson 1, the tune at full volume this time. Nothing lit while you sing."},
+                            "text": {"en": "The low part, your pad from lesson 1, the tune at full volume this time. Nothing lit while you sing.", "es": "La voz grave, tu colchón de la lección 1, esta vez con la melodía a todo volumen. Nada se ilumina mientras cantas."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -2581,11 +2581,11 @@
                                 "lights": "off",
                                 "thenAndNow": "backing.first-pad"
                             },
-                            "measures": {"en": "Scored on your pad's notes on pitch, from memory."}
+                            "measures": {"en": "Scored on your pad's notes on pitch, from memory.", "es": "Se puntúa la afinación de las notas de tu colchón, de memoria."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The middle part over your low part. Only the chord changes light."},
+                            "text": {"en": "The middle part over your low part. Only the chord changes light.", "es": "La voz media sobre tu voz grave. Solo se iluminan los cambios de acorde."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -2662,11 +2662,11 @@
                                 },
                                 "lights": "changes"
                             },
-                            "measures": {"en": "Scored on your middle part's notes on pitch, most of them sung with no light to follow."}
+                            "measures": {"en": "Scored on your middle part's notes on pitch, most of them sung with no light to follow.", "es": "Se puntúa la afinación de tu voz media, casi toda cantada sin luz que seguir."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The top part over both. Only the chord changes light. Three of you, under the tune."},
+                            "text": {"en": "The top part over both. Only the chord changes light. Three of you, under the tune.", "es": "La voz aguda sobre las dos. Solo se iluminan los cambios de acorde. Tu propio trío, bajo la melodía."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -2738,7 +2738,7 @@
                                 },
                                 "lights": "changes"
                             },
-                            "measures": {"en": "Scored on your top part's notes on pitch, over your two parts."}
+                            "measures": {"en": "Scored on your top part's notes on pitch, over your two parts.", "es": "Se puntúa la afinación de tu voz aguda, sobre tus dos voces."}
                         }
                     ]
                 }
