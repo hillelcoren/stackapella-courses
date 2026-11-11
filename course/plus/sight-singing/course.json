@@ -2,30 +2,30 @@
     "id": "sight-singing",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Sight-singing"},
+    "title": {"en": "Sight-singing", "es": "Lectura a primera vista"},
     "units": [
         {
             "id": "ss-find-do",
-            "title": {"en": "Find do on the stave"},
+            "title": {"en": "Find do on the stave", "es": "Busca \"do\" en el pentagrama"},
             "lessons": [
                 {
                     "id": "ss-1-do",
-                    "title": {"en": "Do on the stave"},
-                    "fact": {"id": "guido-lines-a-third-apart", "text": {"en": "In the 1000s Guido of Arezzo set staff lines a third apart, so lines and spaces each hold a note, and coloured two lines red and yellow. Chant books still use his four lines."}, "source": {"en": "Encyclopedia.com, Guido of Arezzo (New Catholic Encyclopedia)"}, "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/guido-arezzo"},
+                    "title": {"en": "Do on the stave", "es": "\"do\" en el pentagrama"},
+                    "fact": {"id": "guido-lines-a-third-apart", "text": {"en": "In the 1000s Guido of Arezzo set staff lines a third apart, so lines and spaces each hold a note, and coloured two lines red and yellow. Chant books still use his four lines.", "es": "Hacia el siglo XI, Guido de Arezzo separó las líneas una tercera, para que cada línea y cada espacio tuvieran una nota, y coloreó dos líneas de rojo y amarillo. Los libros de canto llano aún usan sus cuatro líneas."}, "source": {"en": "Encyclopedia.com, Guido of Arezzo (New Catholic Encyclopedia)", "es": "Encyclopedia.com, Guido of Arezzo (New Catholic Encyclopedia)"}, "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/guido-arezzo"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A stave is five lines. Every line and every space is one note, and higher on the stave is higher in pitch. Your do sits where your own note is."},
+                            "headline": {"en": "A stave is five lines. Every line and every space is one note, and higher on the stave is higher in pitch. Your do sits where your own note is.", "es": "Un pentagrama tiene cinco líneas. Cada línea y cada espacio es una nota, y cuanto más arriba, más aguda. Aquí leemos con do móvil: \"do\" no es una nota fija, es tu nota base. Las sílabas en minúscula (\"do\", \"re\", \"mi\") dicen qué lugar ocupa la nota en la tonalidad; los nombres con mayúscula (Do, Sol) nombran la nota en sí. Tu \"do\" está en tu propia nota, así que puede caer en cualquier línea o espacio."},
                             "steps": [
-                                {"title": {"en": "Do is home"}, "detail": {"en": "Every line here starts on it"}},
-                                {"title": {"en": "The signs at the start"}, "detail": {"en": "The clef, set for your voice, and the key's sharps or flats: more on them in unit 5"}},
-                                {"title": {"en": "Easy voice"}, "detail": {"en": "Medium volume; stop if anything tightens or hurts"}}
+                                {"title": {"en": "Do is home", "es": "\"do\" es la nota base"}, "detail": {"en": "Every line here starts on it", "es": "Aquí todas las frases empiezan en \"do\""}},
+                                {"title": {"en": "The signs at the start", "es": "Los signos del principio"}, "detail": {"en": "The clef, set for your voice, and the key's sharps or flats: more on them in unit 5", "es": "La clave, según tu voz, y los sostenidos o bemoles de la tonalidad: más sobre ellos en la unidad 5"}},
+                                {"title": {"en": "Easy voice", "es": "Sin esfuerzo"}, "detail": {"en": "Medium volume; stop if anything tightens or hurts", "es": "Volumen medio; si algo se tensa o duele, para"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Watch the stave while it plays, then sing it back: do, re, mi, re, do."},
+                            "text": {"en": "Watch the stave while it plays, then sing it back: do, re, mi, re, do.", "es": "Mira el pentagrama mientras suena y luego repítelo: \"do\", \"re\", \"mi\", \"re\", \"do\"."},
                             "exercise": {
                                 "tempo": 60,
                                 "turn": true,
@@ -42,7 +42,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Your turn to read. Look first, then sing it as the notes light: the names are under them."},
+                            "text": {"en": "Your turn to read. Look first, then sing it as the notes light: the names are under them.", "es": "Te toca leer. Primero mira y luego canta a medida que se iluminan las notas: debajo tienes sus nombres."},
                             "exercise": {
                                 "tempo": 60,
                                 "turn": false,
@@ -63,11 +63,11 @@
                                 "score": "read",
                                 "generous": true
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Names faint now: read the stave. The same line or space twice is the same note again."},
+                            "text": {"en": "Names faint now: read the stave. The same line or space twice is the same note again.", "es": "Ahora los nombres se ven tenues: lee el pentagrama. La misma línea o el mismo espacio dos veces es la misma nota repetida."},
                             "exercise": {
                                 "tempo": 60,
                                 "turn": false,
@@ -88,28 +88,28 @@
                                 "score": "read",
                                 "generous": true
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-1-up",
-                    "title": {"en": "Steps up and down"},
-                    "fact": {"id": "neumes-showed-only-rise-and-fall", "text": {"en": "Early Western chant notation, from the 800s, had no staff. Its marks showed a tune's general rise and fall, not its exact notes, probably as reminders of melodies singers had already learned by ear."}, "source": {"en": "Wikipedia, Neume"}, "url": "https://en.wikipedia.org/wiki/Neume"},
+                    "title": {"en": "Steps up and down", "es": "Grados arriba y abajo"},
+                    "fact": {"id": "neumes-showed-only-rise-and-fall", "text": {"en": "Early Western chant notation, from the 800s, had no staff. Its marks showed a tune's general rise and fall, not its exact notes, probably as reminders of melodies singers had already learned by ear.", "es": "La primera notación occidental del canto, del siglo IX, no tenía pentagrama. Sus signos mostraban si la melodía subía o bajaba en general, no sus notas exactas; probablemente servían para recordar melodías que los cantantes ya habían aprendido de oído."}, "source": {"en": "Wikipedia, Neume", "es": "Wikipedia, Neume"}, "url": "https://en.wikipedia.org/wiki/Neume"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A step goes from a line to the next space, or a space to the next line. Up the stave is up in pitch."},
+                            "headline": {"en": "A step goes from a line to the next space, or a space to the next line. Up the stave is up in pitch.", "es": "Un grado conjunto va de una línea al espacio siguiente, o de un espacio a la línea siguiente. Subir en el pentagrama es subir de altura."},
                             "steps": [
-                                {"title": {"en": "Count the steps"}, "detail": {"en": "Line, space, line: three notes in a row"}},
-                                {"title": {"en": "Up to so"}, "detail": {"en": "Do, re, mi, fa, so"}},
-                                {"title": {"en": "Then back"}, "detail": {"en": "The same steps, down"}}
+                                {"title": {"en": "Count the steps", "es": "Cuenta los grados"}, "detail": {"en": "Line, space, line: three notes in a row", "es": "Línea, espacio, línea: tres notas seguidas"}},
+                                {"title": {"en": "Up to so", "es": "Hasta \"so\" (sol)"}, "detail": {"en": "Do, re, mi, fa, so", "es": "\"do\", \"re\", \"mi\", \"fa\", \"so\""}},
+                                {"title": {"en": "Then back", "es": "Y de vuelta"}, "detail": {"en": "The same steps, down", "es": "Los mismos grados, bajando"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Read up to so, names under the notes."},
+                            "text": {"en": "Read up to so, names under the notes.", "es": "Lee hasta \"so\", con los nombres bajo las notas."},
                             "exercise": {
                                 "tempo": 60,
                                 "turn": false,
@@ -127,11 +127,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now back down. The names are faint: read the stave first."},
+                            "text": {"en": "Now back down. The names are faint: read the stave first.", "es": "Ahora, de bajada. Los nombres se ven tenues: lee primero el pentagrama."},
                             "exercise": {
                                 "tempo": 60,
                                 "turn": false,
@@ -149,11 +149,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole climb, up to so and back down, with no names."},
+                            "text": {"en": "The whole climb, up to so and back down, with no names.", "es": "Toda la subida, hasta \"so\" y de vuelta, sin nombres."},
                             "exercise": {
                                 "tempo": 60,
                                 "turn": false,
@@ -175,27 +175,27 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-1-turns",
-                    "title": {"en": "Lines that turn"},
+                    "title": {"en": "Lines that turn", "es": "Melodías con giros"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Real tunes turn: up a little, back, then on. Follow the notes, not a pattern."},
+                            "headline": {"en": "Real tunes turn: up a little, back, then on. Follow the notes, not a pattern.", "es": "Las melodías de verdad dan giros: suben un poco, vuelven y siguen. Sigue las notas, no un patrón."},
                             "steps": [
-                                {"title": {"en": "Not starting on do?"}, "detail": {"en": "Hear do, then step up to the first note in your head"}},
-                                {"title": {"en": "Find the turns"}, "detail": {"en": "Where it changes direction"}},
-                                {"title": {"en": "Then sing"}, "detail": {"en": "Steady; a slip? Go on to the next note"}}
+                                {"title": {"en": "Not starting on do?", "es": "¿No empieza en \"do\"?"}, "detail": {"en": "Hear do, then step up to the first note in your head", "es": "Escucha \"do\" y sube por grados, mentalmente, hasta la primera nota"}},
+                                {"title": {"en": "Find the turns", "es": "Busca los giros"}, "detail": {"en": "Where it changes direction", "es": "Donde cambia de dirección"}},
+                                {"title": {"en": "Then sing", "es": "Luego canta"}, "detail": {"en": "Steady; a slip? Go on to the next note", "es": "Con calma; ¿un fallo? Sigue con la nota siguiente"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "A line that turns, names faint."},
+                            "text": {"en": "A line that turns, names faint.", "es": "Una melodía con giros, nombres tenues."},
                             "exercise": {
                                 "tempo": 66,
                                 "turn": false,
@@ -217,11 +217,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Another, with no names at all."},
+                            "text": {"en": "Another, with no names at all.", "es": "Otra, sin ningún nombre."},
                             "exercise": {
                                 "tempo": 66,
                                 "turn": false,
@@ -243,11 +243,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "This one starts on so: hear do, step up to so in your head, then read. No names."},
+                            "text": {"en": "This one starts on so: hear do, step up to so in your head, then read. No names.", "es": "Esta empieza en \"so\": escucha \"do\", sube por grados mentalmente hasta \"so\" y lee. Sin nombres."},
                             "exercise": {
                                 "tempo": 66,
                                 "turn": false,
@@ -269,29 +269,29 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-1-challenge",
-                    "title": {"en": "A line, read cold"},
+                    "title": {"en": "A line, read cold", "es": "Frase a primera vista"},
                     "challenge": true,
-                    "fact": {"id": "treble-clef-g", "text": {"en": "The treble clef is a fancy letter G. Its curl wraps around the line where G sits, which is why it's also called the G clef."}, "source": {"en": "Britannica, \"Clef\""}, "url": "https://www.britannica.com/art/clef"},
+                    "fact": {"id": "treble-clef-g", "text": {"en": "The treble clef is a fancy letter G. Its curl wraps around the line where G sits, which is why it's also called the G clef.", "es": "La clave de sol es una G adornada (G es Sol en el cifrado americano). Su espiral rodea la línea del Sol, y de ahí su nombre."}, "source": {"en": "Britannica, \"Clef\"", "es": "Britannica, \"Clef\""}, "url": "https://www.britannica.com/art/clef"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Three bars you haven't heard. Look, find do, then read them straight through. Hear it first is there if you need it; the top score is for reading it cold."},
+                            "headline": {"en": "Three bars you haven't heard. Look, find do, then read them straight through. Hear it first is there if you need it; the top score is for reading it cold.", "es": "Tres compases que no has oído. Mira, encuentra \"do\" y léelos de corrido. Si lo necesitas, tienes \"Escuchar primero\"; la puntuación máxima es para leerlo sin escucharlo antes."},
                             "steps": [
-                                {"title": {"en": "Find do first"}, "detail": {"en": "Where your note sits"}},
-                                {"title": {"en": "Look for the top"}, "detail": {"en": "The highest note"}},
-                                {"title": {"en": "Read it cold"}, "detail": {"en": "No names, no help"}}
+                                {"title": {"en": "Find do first", "es": "Primero, \"do\""}, "detail": {"en": "Where your note sits", "es": "Donde está tu nota"}},
+                                {"title": {"en": "Look for the top", "es": "Busca la más aguda"}, "detail": {"en": "The highest note", "es": "La nota más aguda"}},
+                                {"title": {"en": "Read it cold", "es": "A primera vista"}, "detail": {"en": "No names, no help", "es": "Sin nombres ni ayuda"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "First its last two bars, to warm up: names faint."},
+                            "text": {"en": "First its last two bars, to warm up: names faint.", "es": "Primero sus dos últimos compases, para calentar: nombres tenues."},
                             "exercise": {
                                 "tempo": 66,
                                 "turn": false,
@@ -311,11 +311,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the whole line, cold: no names."},
+                            "text": {"en": "Now the whole line, cold: no names.", "es": "Ahora la frase entera, a primera vista: sin nombres."},
                             "exercise": {
                                 "tempo": 66,
                                 "turn": false,
@@ -340,7 +340,7 @@
                                 "score": "read",
                                 "keep": "sight-singing.first-cold"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 }
@@ -348,26 +348,26 @@
         },
         {
             "id": "ss-leaps",
-            "title": {"en": "Leaps you can see"},
+            "title": {"en": "Leaps you can see", "es": "Saltos que se ven"},
             "lessons": [
                 {
                     "id": "ss-2-chord",
-                    "title": {"en": "Do, mi, so"},
-                    "fact": {"id": "taps-home-chord", "text": {"en": "Taps, the US Army's lights-out call, was reworked from an older bugle call in July 1862. A bugle plays only its harmonic series, so Taps uses just one major chord: so, do and mi."}, "source": {"en": "Wikipedia, Taps (bugle call)"}, "url": "https://en.wikipedia.org/wiki/Taps_(bugle_call)"},
+                    "title": {"en": "Do, mi, so", "es": "\"do\", \"mi\", \"so\""},
+                    "fact": {"id": "taps-home-chord", "text": {"en": "Taps, the US Army's lights-out call, was reworked from an older bugle call in July 1862. A bugle plays only its harmonic series, so Taps uses just one major chord: so, do and mi.", "es": "Taps, el toque de silencio del Ejército de EE. UU., se adaptó en julio de 1862 de un toque de corneta anterior. Una corneta solo da su serie de armónicos, así que Taps usa un único acorde mayor: \"so\", \"do\" y \"mi\"."}, "source": {"en": "Wikipedia, Taps (bugle call)", "es": "Wikipedia, Taps (bugle call)"}, "url": "https://en.wikipedia.org/wiki/Taps_(bugle_call)"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Do, mi and so are the notes of your home chord. On the stave each sits two steps above the last: line to line, or space to space."},
+                            "headline": {"en": "Do, mi and so are the notes of your home chord. On the stave each sits two steps above the last: line to line, or space to space.", "es": "Las notas de tu acorde de tónica son \"do\", \"mi\" y \"so\". En el pentagrama, cada una está dos grados por encima de la anterior: de línea a línea, o de espacio a espacio."},
                             "steps": [
-                                {"title": {"en": "A skip"}, "detail": {"en": "Jumps over one line or space"}},
-                                {"title": {"en": "Do, mi, so"}, "detail": {"en": "Each a skip apart"}},
-                                {"title": {"en": "Hear it in your head"}, "detail": {"en": "Before you sing it"}}
+                                {"title": {"en": "A skip", "es": "Un salto"}, "detail": {"en": "Jumps over one line or space", "es": "Se salta una línea o un espacio"}},
+                                {"title": {"en": "Do, mi, so", "es": "\"do\", \"mi\", \"so\""}, "detail": {"en": "Each a skip apart", "es": "Separadas por un salto"}},
+                                {"title": {"en": "Hear it in your head", "es": "Óyela mentalmente"}, "detail": {"en": "Before you sing it", "es": "Antes de cantarla"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Watch the skips while they play, then sing them back."},
+                            "text": {"en": "Watch the skips while they play, then sing them back.", "es": "Mira los saltos mientras suenan y luego repítelos."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": true,
@@ -384,7 +384,7 @@
                         },
                         {
                             "kind": "bullseye",
-                            "text": {"en": "Hear do, then sing the note named. Hear it in your head first."},
+                            "text": {"en": "Hear do, then sing the note named. Hear it in your head first.", "es": "Escucha \"do\" y canta la nota que se indica. Antes, óyela mentalmente."},
                             "exercise": {
                                 "tempo": 72,
                                 "think": 1,
@@ -392,26 +392,26 @@
                                     {
                                         "call": [0],
                                         "sing": [7],
-                                        "label": {"en": "Sing so"}
+                                        "label": {"en": "Sing so", "es": "Canta \"so\""}
                                     },
                                     {
                                         "call": [0],
                                         "sing": [4],
-                                        "label": {"en": "Sing mi"}
+                                        "label": {"en": "Sing mi", "es": "Canta \"mi\""}
                                     },
                                     {
                                         "call": [0, 7],
                                         "sing": [4],
-                                        "label": {"en": "Sing mi"}
+                                        "label": {"en": "Sing mi", "es": "Canta \"mi\""}
                                     }
                                 ],
                                 "named": true
                             },
-                            "measures": {"en": "Scored on singing each note named, close to its middle."}
+                            "measures": {"en": "Scored on singing each note named, close to its middle.", "es": "Se puntúa cada nota que se indica: que llegues cerca del centro de la nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Read the skips, names under the notes."},
+                            "text": {"en": "Read the skips, names under the notes.", "es": "Lee los saltos, con los nombres bajo las notas."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -432,11 +432,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "More skips through the chord, names faint."},
+                            "text": {"en": "More skips through the chord, names faint.", "es": "Más saltos por el acorde, nombres tenues."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -456,28 +456,28 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-2-below",
-                    "title": {"en": "So below do"},
-                    "fact": {"id": "ledger-lines-printers-disliked", "text": {"en": "Old music printers disliked ledger lines: hard to set in type, wasteful of space and messy-looking. Vocal music instead used many different clefs to keep each part on the stave as much as possible."}, "source": {"en": "Wikipedia, Ledger line"}, "url": "https://en.wikipedia.org/wiki/Ledger_line"},
+                    "title": {"en": "So below do", "es": "\"so\" bajo \"do\""},
+                    "fact": {"id": "ledger-lines-printers-disliked", "text": {"en": "Old music printers disliked ledger lines: hard to set in type, wasteful of space and messy-looking. Vocal music instead used many different clefs to keep each part on the stave as much as possible.", "es": "A los antiguos impresores de música no les gustaban las líneas adicionales: eran difíciles de componer con tipos, gastaban espacio y quedaban desordenadas. Por eso la música vocal usaba muchas claves distintas, para que cada voz quedara dentro del pentagrama todo lo posible."}, "source": {"en": "Wikipedia, Ledger line", "es": "Wikipedia, Ledger line"}, "url": "https://en.wikipedia.org/wiki/Ledger_line"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Many tunes start below do, on the so beneath it, and leap up home. On the stave it's a skip and a step lower."},
+                            "headline": {"en": "Many tunes start below do, on the so beneath it, and leap up home. On the stave it's a skip and a step lower.", "es": "Muchas melodías empiezan por debajo de \"do\", en el \"so\" de abajo, y saltan hasta la nota base. En el pentagrama, un salto y un grado más abajo."},
                             "steps": [
-                                {"title": {"en": "So below"}, "detail": {"en": "A fourth under do"}},
-                                {"title": {"en": "Leap up home"}, "detail": {"en": "So to do, like a call"}},
-                                {"title": {"en": "Below the stave"}, "detail": {"en": "A short extra line counts like the stave's own"}}
+                                {"title": {"en": "So below", "es": "\"so\" grave"}, "detail": {"en": "A fourth under do", "es": "Una cuarta por debajo de \"do\""}},
+                                {"title": {"en": "Leap up home", "es": "Salta hasta \"do\""}, "detail": {"en": "So to do, like a call", "es": "De \"so\" a \"do\", como una llamada"}},
+                                {"title": {"en": "Below the stave", "es": "Debajo del pentagrama"}, "detail": {"en": "A short extra line counts like the stave's own", "es": "Una línea adicional cuenta como las del pentagrama"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "So below do, then up by step and home: names under the notes."},
+                            "text": {"en": "So below do, then up by step and home: names under the notes.", "es": "Del \"so\" grave a \"do\", sube por grados y vuelve a \"do\": nombres bajo las notas."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -496,11 +496,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "So below do, then home: names faint."},
+                            "text": {"en": "So below do, then home: names faint.", "es": "Del \"so\" bajo \"do\" a la nota base: nombres tenues."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -519,11 +519,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Down to so, up through the chord, no names."},
+                            "text": {"en": "Down to so, up through the chord, no names.", "es": "Baja a \"so\", sube por el acorde, sin nombres."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -543,27 +543,27 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-2-mixed",
-                    "title": {"en": "Steps and skips"},
+                    "title": {"en": "Steps and skips", "es": "Grados y saltos"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now lines mix steps and skips. A step goes to the very next line or space; a skip jumps one."},
+                            "headline": {"en": "Now lines mix steps and skips. A step goes to the very next line or space; a skip jumps one.", "es": "Ahora las melodías mezclan grados y saltos. Un grado va a la línea o al espacio de al lado; un salto se salta uno."},
                             "steps": [
-                                {"title": {"en": "Spot the skips"}, "detail": {"en": "Before you start"}},
-                                {"title": {"en": "Steps fill in"}, "detail": {"en": "Between them"}},
-                                {"title": {"en": "Keep the beat"}, "detail": {"en": "Even when it leaps"}}
+                                {"title": {"en": "Spot the skips", "es": "Busca los saltos"}, "detail": {"en": "Before you start", "es": "Antes de empezar"}},
+                                {"title": {"en": "Steps fill in", "es": "Los grados rellenan"}, "detail": {"en": "Between them", "es": "Entre salto y salto"}},
+                                {"title": {"en": "Keep the beat", "es": "Mantén el pulso"}, "detail": {"en": "Even when it leaps", "es": "Aunque salte"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Steps and skips, names faint."},
+                            "text": {"en": "Steps and skips, names faint.", "es": "Grados y saltos, nombres tenues."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -586,11 +586,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "And again, no names."},
+                            "text": {"en": "And again, no names.", "es": "Y otra vez, sin nombres."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -611,11 +611,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "From so below do this time, steps and skips, no names."},
+                            "text": {"en": "From so below do this time, steps and skips, no names.", "es": "Esta vez desde el \"so\" grave: grados y saltos, sin nombres."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -636,29 +636,29 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-2-challenge",
-                    "title": {"en": "Leaps, read cold"},
+                    "title": {"en": "Leaps, read cold", "es": "Saltos a primera vista"},
                     "challenge": true,
-                    "fact": {"id": "bass-clef-f", "text": {"en": "The bass clef is a fancy letter F. Its two dots sit either side of the line where F sits, which is why it's also called the F clef."}, "source": {"en": "Britannica, \"Clef\""}, "url": "https://www.britannica.com/art/clef"},
+                    "fact": {"id": "bass-clef-f", "text": {"en": "The bass clef is a fancy letter F. Its two dots sit either side of the line where F sits, which is why it's also called the F clef.", "es": "La clave de fa es una F adornada (F es Fa en el cifrado americano). Sus dos puntos quedan a cada lado de la línea del Fa, y de ahí su nombre."}, "source": {"en": "Britannica, \"Clef\"", "es": "Britannica, \"Clef\""}, "url": "https://www.britannica.com/art/clef"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Three bars you haven't heard, with leaps you can see: so below do, and skips through the home chord. Hear it first is there if you need it; the top score is for reading it cold."},
+                            "headline": {"en": "Three bars you haven't heard, with leaps you can see: so below do, and skips through the home chord. Hear it first is there if you need it; the top score is for reading it cold.", "es": "Tres compases que no has oído, con saltos que se ven: el \"so\" bajo \"do\" y saltos por el acorde de tónica. Si lo necesitas, tienes \"Escuchar primero\"; la puntuación máxima es para leerlo sin escucharlo antes."},
                             "steps": [
-                                {"title": {"en": "Find do"}, "detail": {"en": "Then the so below it"}},
-                                {"title": {"en": "Spot the skips"}, "detail": {"en": "Line to line, or space to space"}},
-                                {"title": {"en": "Read it cold"}, "detail": {"en": "No names, no help"}}
+                                {"title": {"en": "Find do", "es": "Busca \"do\""}, "detail": {"en": "Then the so below it", "es": "Luego, el \"so\" de abajo"}},
+                                {"title": {"en": "Spot the skips", "es": "Busca los saltos"}, "detail": {"en": "Line to line, or space to space", "es": "De línea a línea, o de espacio a espacio"}},
+                                {"title": {"en": "Read it cold", "es": "A primera vista"}, "detail": {"en": "No names, no help", "es": "Sin nombres ni ayuda"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "First the leaps to warm up: names faint."},
+                            "text": {"en": "First the leaps to warm up: names faint.", "es": "Primero los saltos, para calentar: nombres tenues."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -678,11 +678,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the whole line, cold: no names."},
+                            "text": {"en": "Now the whole line, cold: no names.", "es": "Ahora la frase entera, a primera vista: sin nombres."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -706,7 +706,7 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 }
@@ -714,26 +714,26 @@
         },
         {
             "id": "ss-reading-time",
-            "title": {"en": "Reading time"},
+            "title": {"en": "Reading time", "es": "Leer el ritmo"},
             "lessons": [
                 {
                     "id": "ss-3-long",
-                    "title": {"en": "Long and short"},
-                    "fact": {"id": "minim-was-the-smallest", "text": {"en": "The minim's Latin name, minima, means \"smallest\": it was once the shortest note value. And the breve, now worth two semibreves, was named from the Latin for \"short\", the root of \"brief\"."}, "source": {"en": "Wikipedia, Half note"}, "url": "https://en.wikipedia.org/wiki/Half_note"},
+                    "title": {"en": "Long and short", "es": "Largas y cortas"},
+                    "fact": {"id": "minim-was-the-smallest", "text": {"en": "The minim's Latin name, minima, means \"smallest\": it was once the shortest note value. And the breve, now worth two semibreves, was named from the Latin for \"short\", the root of \"brief\".", "es": "En latín, la blanca se llamaba minima, \"la más pequeña\": fue la figura más corta. Y la breve, que hoy vale dos redondas, debe su nombre al latín brevis, \"corto\"."}, "source": {"en": "Wikipedia, Half note", "es": "Wikipedia, Half note"}, "url": "https://en.wikipedia.org/wiki/Half_note"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the notes' shapes tell you how long. A filled note with a stem is one beat; a hollow one with a stem is two. A rest is silence that still counts: this one, a beat."},
+                            "headline": {"en": "Now the notes' shapes tell you how long. A filled note with a stem is one beat; a hollow one with a stem is two. A rest is silence that still counts: this one, a beat.", "es": "Ahora la forma de cada nota te dice cuánto dura. Una nota de cabeza rellena con plica dura un tiempo; una de cabeza hueca con plica, dos. Un silencio también se cuenta: este dura un tiempo."},
                             "steps": [
-                                {"title": {"en": "Crotchet"}, "detail": {"en": "Filled, with a stem: one beat"}},
-                                {"title": {"en": "Minim"}, "detail": {"en": "Hollow, with a stem: two beats"}},
-                                {"title": {"en": "Semibreve"}, "detail": {"en": "Hollow, no stem: four beats"}}
+                                {"title": {"en": "Crotchet", "es": "Negra"}, "detail": {"en": "Filled, with a stem: one beat", "es": "Rellena, con plica: un tiempo"}},
+                                {"title": {"en": "Minim", "es": "Blanca"}, "detail": {"en": "Hollow, with a stem: two beats", "es": "Hueca, con plica: dos tiempos"}},
+                                {"title": {"en": "Semibreve", "es": "Redonda"}, "detail": {"en": "Hollow, no stem: four beats", "es": "Hueca, sin plica: cuatro tiempos"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Count in with the clicks, then read it: names under the notes."},
+                            "text": {"en": "Count in with the clicks, then read it: names under the notes.", "es": "Cuenta con los clics de entrada y lee: nombres bajo las notas."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -751,11 +751,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Again, names faint. Hold each long note its full two beats."},
+                            "text": {"en": "Again, names faint. Hold each long note its full two beats.", "es": "Otra vez, nombres tenues. Mantén cada nota larga sus dos tiempos enteros."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -774,11 +774,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Three bars, no names: long notes, and a rest that counts."},
+                            "text": {"en": "Three bars, no names: long notes, and a rest that counts.", "es": "Tres compases, sin nombres: notas largas y un silencio que cuenta."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -800,28 +800,28 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-3-quick",
-                    "title": {"en": "Quick notes"},
-                    "fact": {"id": "beams-meant-one-syllable", "text": {"en": "Vocal scores traditionally beamed quavers only when they shared one syllable, so each new syllable got its own flag. Today it's more common to beam by the beat and show shared syllables with slurs."}, "source": {"en": "Wikipedia, Beam (music)"}, "url": "https://en.wikipedia.org/wiki/Beam_(music)"},
+                    "title": {"en": "Quick notes", "es": "Notas rápidas"},
+                    "fact": {"id": "beams-meant-one-syllable", "text": {"en": "Vocal scores traditionally beamed quavers only when they shared one syllable, so each new syllable got its own flag. Today it's more common to beam by the beat and show shared syllables with slurs.", "es": "En las partituras vocales, por tradición, las corcheas solo se unían con barra cuando compartían una sílaba, así que cada sílaba nueva llevaba su propio corchete. Hoy es más habitual agruparlas por tiempos y marcar las sílabas compartidas con ligaduras de expresión."}, "source": {"en": "Wikipedia, Beam (music)", "es": "Wikipedia, Beam (music)"}, "url": "https://en.wikipedia.org/wiki/Beam_(music)"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A quaver is half a beat. It has a flag, or it's joined to its neighbour by a beam, and two fit in one beat."},
+                            "headline": {"en": "A quaver is half a beat. It has a flag, or it's joined to its neighbour by a beam, and two fit in one beat.", "es": "Una corchea dura medio tiempo. Lleva corchete, o va unida a su vecina con una barra, y caben dos en un tiempo."},
                             "steps": [
-                                {"title": {"en": "Quaver"}, "detail": {"en": "Half a beat"}},
-                                {"title": {"en": "In pairs"}, "detail": {"en": "Two to a beat"}},
-                                {"title": {"en": "Say it"}, "detail": {"en": "One-and, two-and"}}
+                                {"title": {"en": "Quaver", "es": "Corchea"}, "detail": {"en": "Half a beat", "es": "Medio tiempo"}},
+                                {"title": {"en": "In pairs", "es": "De dos en dos"}, "detail": {"en": "Two to a beat", "es": "Dos por tiempo"}},
+                                {"title": {"en": "Say it", "es": "Dilo"}, "detail": {"en": "One-and, two-and", "es": "Uno y, dos y"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Quick notes in pairs: names under the notes."},
+                            "text": {"en": "Quick notes in pairs: names under the notes.", "es": "Notas rápidas de dos en dos: nombres bajo las notas."},
                             "exercise": {
                                 "tempo": 76,
                                 "turn": false,
@@ -845,11 +845,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Quick and long together, with a rest that counts. No names."},
+                            "text": {"en": "Quick and long together, with a rest that counts. No names.", "es": "Rápidas y largas juntas, con un silencio que cuenta. Sin nombres."},
                             "exercise": {
                                 "tempo": 76,
                                 "turn": false,
@@ -872,11 +872,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Quick notes up to so, then home. No names."},
+                            "text": {"en": "Quick notes up to so, then home. No names.", "es": "Notas rápidas hasta \"so\" y de vuelta a la nota base. Sin nombres."},
                             "exercise": {
                                 "tempo": 76,
                                 "turn": false,
@@ -899,27 +899,27 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-3-dotted",
-                    "title": {"en": "Dotted notes"},
+                    "title": {"en": "Dotted notes", "es": "Con puntillo"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A dot makes a note half as long again. A dotted minim is three beats, a whole bar of a waltz."},
+                            "headline": {"en": "A dot makes a note half as long again. A dotted minim is three beats, a whole bar of a waltz.", "es": "El puntillo alarga una nota la mitad de su valor. Una blanca con puntillo dura tres tiempos, un compás entero de vals."},
                             "steps": [
-                                {"title": {"en": "Dotted minim"}, "detail": {"en": "Three beats"}},
-                                {"title": {"en": "In threes"}, "detail": {"en": "Count 1, 2, 3"}},
-                                {"title": {"en": "A tie"}, "detail": {"en": "A curve joining two of the same note: sing it once and hold through"}}
+                                {"title": {"en": "Dotted minim", "es": "Blanca con puntillo"}, "detail": {"en": "Three beats", "es": "Tres tiempos"}},
+                                {"title": {"en": "In threes", "es": "En tres tiempos"}, "detail": {"en": "Count 1, 2, 3", "es": "Cuenta 1, 2, 3"}},
+                                {"title": {"en": "A tie", "es": "Ligadura"}, "detail": {"en": "A curve joining two of the same note: sing it once and hold through", "es": "Una curva que une dos notas iguales: se canta una sola vez, sostenida"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "A waltz in threes: names faint."},
+                            "text": {"en": "A waltz in threes: names faint.", "es": "Un vals en 3/4: nombres tenues."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -939,11 +939,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "A dotted crotchet, then a short note: long, short. No names."},
+                            "text": {"en": "A dotted crotchet, then a short note: long, short. No names.", "es": "Una negra con puntillo y luego una nota corta: larga, corta. Sin nombres."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -962,11 +962,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Ode to Joy's second line: you know how it goes; read its long-short."},
+                            "text": {"en": "Ode to Joy's second line: you know how it goes; read its long-short.", "es": "La segunda frase de Ode to Joy (el \"Himno de la alegría\"): ya sabes cómo va; lee su ritmo largo-corto."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -994,29 +994,29 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-3-challenge",
-                    "title": {"en": "A line in time"},
+                    "title": {"en": "A line in time", "es": "Una frase a compás"},
                     "challenge": true,
-                    "fact": {"id": "maelzel-metronome-1815", "text": {"en": "A tempo mark like \"M.M. = 72\" stands for Maelzel's Metronome: Johann Maelzel patented the metronome in 1815, and composers began writing their speeds in its beats."}, "source": {"en": "Britannica, \"Metronome\""}, "url": "https://www.britannica.com/art/metronome"},
+                    "fact": {"id": "maelzel-metronome-1815", "text": {"en": "A tempo mark like \"M.M. = 72\" stands for Maelzel's Metronome: Johann Maelzel patented the metronome in 1815, and composers began writing their speeds in its beats.", "es": "Una indicación de tempo como \"M.M. = 72\" significa Metrónomo de Maelzel: Johann Maelzel patentó el metrónomo en 1815, y los compositores empezaron a indicar el tempo en pulsaciones de su metrónomo."}, "source": {"en": "Britannica, \"Metronome\"", "es": "Britannica, \"Metronome\""}, "url": "https://www.britannica.com/art/metronome"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Four bars with long, short and quick notes, a long-short, and a rest. Look, count in, then read it in time. Hear it first is there if you need it; the top score is for reading it cold."},
+                            "headline": {"en": "Four bars with long, short and quick notes, a long-short, and a rest. Look, count in, then read it in time. Hear it first is there if you need it; the top score is for reading it cold.", "es": "Cuatro compases con notas largas, cortas y rápidas, un ritmo largo-corto y un silencio. Mira, cuenta la entrada y lee a compás. Si lo necesitas, tienes \"Escuchar primero\"; la puntuación máxima es para leerlo sin escucharlo antes."},
                             "steps": [
-                                {"title": {"en": "Find do"}, "detail": {"en": "Then the longest notes"}},
-                                {"title": {"en": "Spot the rests"}, "detail": {"en": "They count too"}},
-                                {"title": {"en": "Keep going"}, "detail": {"en": "A slip? Catch the next beat"}}
+                                {"title": {"en": "Find do", "es": "Busca \"do\""}, "detail": {"en": "Then the longest notes", "es": "Luego, las notas más largas"}},
+                                {"title": {"en": "Spot the rests", "es": "Busca los silencios"}, "detail": {"en": "They count too", "es": "También cuentan"}},
+                                {"title": {"en": "Keep going", "es": "Sigue adelante"}, "detail": {"en": "A slip? Catch the next beat", "es": "¿Un fallo? Retoma en el tiempo siguiente"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "First its middle two bars, to warm up: names faint."},
+                            "text": {"en": "First its middle two bars, to warm up: names faint.", "es": "Primero sus dos compases centrales, para calentar: nombres tenues."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -1037,11 +1037,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole line, in time, no names."},
+                            "text": {"en": "The whole line, in time, no names.", "es": "La frase entera, a compás, sin nombres."},
                             "exercise": {
                                 "tempo": 80,
                                 "turn": false,
@@ -1067,7 +1067,7 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         }
                     ]
                 }
@@ -1075,26 +1075,26 @@
         },
         {
             "id": "ss-further",
-            "title": {"en": "Further from do"},
+            "title": {"en": "Further from do", "es": "Más lejos de \"do\""},
             "lessons": [
                 {
                     "id": "ss-5-la",
-                    "title": {"en": "Up to la"},
-                    "fact": {"id": "four-syllables-king-lear", "text": {"en": "Elizabethan English singers used just four syllables, mi, fa, sol and la, singing fa, sol, la twice to fill a scale. In King Lear's 1623 Folio, Edmund adds \"Fa, sol, la, me.\""}, "source": {"en": "Wikipedia, Solfège"}, "url": "https://en.wikipedia.org/wiki/Solf%C3%A8ge"},
+                    "title": {"en": "Up to la", "es": "Hasta \"la\""},
+                    "fact": {"id": "four-syllables-king-lear", "text": {"en": "Elizabethan English singers used just four syllables, mi, fa, sol and la, singing fa, sol, la twice to fill a scale. In King Lear's 1623 Folio, Edmund adds \"Fa, sol, la, me.\"", "es": "Los cantantes ingleses de la época isabelina usaban solo cuatro sílabas, \"mi\", \"fa\", \"sol\" y \"la\", y cantaban \"fa\", \"sol\", \"la\" dos veces para completar la escala. En el Folio de 1623 de El rey Lear, Edmund añade: \"Fa, sol, la, me.\""}, "source": {"en": "Wikipedia, Solfège", "es": "Wikipedia, Solfège"}, "url": "https://en.wikipedia.org/wiki/Solf%C3%A8ge"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "La is a step above so: on the stave, the next line or space up. There's a low la too, a skip below do, just above low so."},
+                            "headline": {"en": "La is a step above so: on the stave, the next line or space up. There's a low la too, a skip below do, just above low so.", "es": "El \"la\" está un grado por encima de \"so\": en el pentagrama, la línea o el espacio siguiente hacia arriba. También hay un \"la\" grave, un salto por debajo de \"do\", justo encima del \"so\" grave."},
                             "steps": [
-                                {"title": {"en": "Up to la"}, "detail": {"en": "A step above so"}},
-                                {"title": {"en": "Low la"}, "detail": {"en": "A skip below do"}},
-                                {"title": {"en": "So, la, so, mi"}, "detail": {"en": "The notes of a playground chant"}}
+                                {"title": {"en": "Up to la", "es": "Hasta \"la\""}, "detail": {"en": "A step above so", "es": "Un grado por encima de \"so\""}},
+                                {"title": {"en": "Low la", "es": "\"la\" grave"}, "detail": {"en": "A skip below do", "es": "Un salto por debajo de \"do\""}},
+                                {"title": {"en": "So, la, so, mi", "es": "\"so\", \"la\", \"so\", \"mi\""}, "detail": {"en": "The notes of a playground chant", "es": "Las notas de una cantinela infantil"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "bullseye",
-                            "text": {"en": "Hear the guide's notes, then sing la, a step above so."},
+                            "text": {"en": "Hear the guide's notes, then sing la, a step above so.", "es": "Escucha las notas de la guía y canta \"la\", un grado por encima de \"so\"."},
                             "exercise": {
                                 "tempo": 72,
                                 "think": 1,
@@ -1102,21 +1102,21 @@
                                     {
                                         "call": [7],
                                         "sing": [9],
-                                        "label": {"en": "Sing la: a step above so"}
+                                        "label": {"en": "Sing la: a step above so", "es": "Canta \"la\": un grado sobre \"so\""}
                                     },
                                     {
                                         "call": [0, 7],
                                         "sing": [9],
-                                        "label": {"en": "Sing la"}
+                                        "label": {"en": "Sing la", "es": "Canta \"la\""}
                                     }
                                 ],
                                 "named": true
                             },
-                            "measures": {"en": "Scored on singing la each time, close to its middle."}
+                            "measures": {"en": "Scored on singing la each time, close to its middle.", "es": "Se puntúa cada \"la\": que llegues cerca del centro de la nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Up to la and back, then home: names under the notes."},
+                            "text": {"en": "Up to la and back, then home: names under the notes.", "es": "Sube a \"la\", vuelve y llega a la nota base: nombres bajo las notas."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -1136,11 +1136,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Down to low la and low so, then home: names faint."},
+                            "text": {"en": "Down to low la and low so, then home: names faint.", "es": "Baja al \"la\" grave y al \"so\" grave, y vuelve a la nota base: nombres tenues."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -1160,11 +1160,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Up to la and back down, with no names."},
+                            "text": {"en": "Up to la and back down, with no names.", "es": "Sube a \"la\" y vuelve a bajar, sin nombres."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -1185,28 +1185,28 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-5-half",
-                    "title": {"en": "The two half steps"},
-                    "fact": {"id": "kodaly-half-steps-later", "text": {"en": "Kodály educators found children struggled to sing half steps in tune. So the method starts with mi and so, adds la, do and re, and brings in fa and ti only once those feel comfortable."}, "source": {"en": "Wikipedia, Kodály method"}, "url": "https://en.wikipedia.org/wiki/Kod%C3%A1ly_method"},
+                    "title": {"en": "The two half steps", "es": "Los dos semitonos"},
+                    "fact": {"id": "kodaly-half-steps-later", "text": {"en": "Kodály educators found children struggled to sing half steps in tune. So the method starts with mi and so, adds la, do and re, and brings in fa and ti only once those feel comfortable.", "es": "Los pedagogos del método Kodály vieron que a los niños les costaba afinar los semitonos. Por eso el método empieza con \"mi\" y \"so\", añade \"la\", \"do\" y \"re\", y solo introduce \"fa\" y \"ti\" (si) cuando esas notas ya resultan cómodas."}, "source": {"en": "Wikipedia, Kodály method", "es": "Wikipedia, Kodály method"}, "url": "https://en.wikipedia.org/wiki/Kod%C3%A1ly_method"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Ti sits just below do. Mi to fa and ti to do look like every other step on the stave, but they're half as far: sing them close."},
+                            "headline": {"en": "Ti sits just below do. Mi to fa and ti to do look like every other step on the stave, but they're half as far: sing them close.", "es": "El \"ti\" está justo debajo de \"do\". De \"mi\" a \"fa\" y de \"ti\" a \"do\" parecen grados como los demás en el pentagrama, pero están a la mitad de distancia: cántalos bien cerca."},
                             "steps": [
-                                {"title": {"en": "Mi to fa"}, "detail": {"en": "Half a step: sing it close"}},
-                                {"title": {"en": "Ti to do"}, "detail": {"en": "Half a step: ti leans into do"}},
-                                {"title": {"en": "On the stave"}, "detail": {"en": "They look like every other step"}}
+                                {"title": {"en": "Mi to fa", "es": "De \"mi\" a \"fa\""}, "detail": {"en": "Half a step: sing it close", "es": "Un semitono: cántalo bien cerca"}},
+                                {"title": {"en": "Ti to do", "es": "De \"ti\" a \"do\""}, "detail": {"en": "Half a step: ti leans into do", "es": "Un semitono: \"ti\" tira hacia \"do\""}},
+                                {"title": {"en": "On the stave", "es": "En el pentagrama"}, "detail": {"en": "They look like every other step", "es": "Parecen grados como los demás"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": {"en": "Off the stave for a moment: each note waits until you're on it. Keep fa close to mi."},
+                            "text": {"en": "Off the stave for a moment: each note waits until you're on it. Keep fa close to mi.", "es": "Fuera del pentagrama un momento: cada nota espera a que estés en ella. Mantén \"fa\" bien cerca de \"mi\"."},
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1221,7 +1221,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Both half steps, names under the notes."},
+                            "text": {"en": "Both half steps, names under the notes.", "es": "Los dos semitonos, con los nombres bajo las notas."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -1241,11 +1241,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Ti below do, then up to fa and back: names faint."},
+                            "text": {"en": "Ti below do, then up to fa and back: names faint.", "es": "De \"do\" baja a \"ti\", luego sube a \"fa\" y vuelve: nombres tenues."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -1267,11 +1267,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "From so down through both half steps, with no names."},
+                            "text": {"en": "From so down through both half steps, with no names.", "es": "Desde \"so\", baja por los dos semitonos, sin nombres."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -1293,28 +1293,28 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-5-minor",
-                    "title": {"en": "La is home"},
-                    "fact": {"id": "shape-notes-minor-on-la", "text": {"en": "In shape-note singing each syllable has its own note-head shape, and a minor key's first note is always la, as yours is now. Little and Smith printed the shapes in 1801."}, "source": {"en": "Wikipedia, Shape note"}, "url": "https://en.wikipedia.org/wiki/Shape_note"},
+                    "title": {"en": "La is home", "es": "\"la\" es la nota base"},
+                    "fact": {"id": "shape-notes-minor-on-la", "text": {"en": "In shape-note singing each syllable has its own note-head shape, and a minor key's first note is always la, as yours is now. Little and Smith printed the shapes in 1801.", "es": "En el canto de shape notes (notas con forma), cada sílaba tiene su propia forma de cabeza de nota, y en una tonalidad menor la nota base es siempre \"la\", como ahora la tuya. Little y Smith imprimieron esas formas en 1801."}, "source": {"en": "Wikipedia, Shape note", "es": "Wikipedia, Shape note"}, "url": "https://en.wikipedia.org/wiki/Shape_note"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Start and end on la and the same notes sound minor. The signature doesn't change: find do, then la a skip below it. The drone now sounds la, your new home."},
+                            "headline": {"en": "Start and end on la and the same notes sound minor. The signature doesn't change: find do, then la a skip below it. The drone now sounds la, your new home.", "es": "Empieza y termina en \"la\", y las mismas notas suenan en menor. La armadura no cambia: encuentra \"do\" y luego \"la\", un salto por debajo. El bordón da ahora \"la\", tu nueva nota base."},
                             "steps": [
-                                {"title": {"en": "Same signature"}, "detail": {"en": "Find do first"}},
-                                {"title": {"en": "La is home"}, "detail": {"en": "A skip below do"}},
-                                {"title": {"en": "La, do, mi"}, "detail": {"en": "The minor home chord"}}
+                                {"title": {"en": "Same signature", "es": "La misma armadura"}, "detail": {"en": "Find do first", "es": "Primero, \"do\""}},
+                                {"title": {"en": "La is home", "es": "\"la\" es la nota base"}, "detail": {"en": "A skip below do", "es": "Un salto por debajo de \"do\""}},
+                                {"title": {"en": "La, do, mi", "es": "\"la\", \"do\", \"mi\""}, "detail": {"en": "The minor home chord", "es": "El acorde de tónica menor"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Out from la and home again, over the drone on la: names under the notes."},
+                            "text": {"en": "Out from la and home again, over the drone on la: names under the notes.", "es": "Sal de \"la\" y vuelve, sobre el bordón en \"la\": nombres bajo las notas."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -1332,11 +1332,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Up through the minor home chord and back: names faint."},
+                            "text": {"en": "Up through the minor home chord and back: names faint.", "es": "Sube por el acorde de tónica menor y vuelve: nombres tenues."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -1355,11 +1355,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Up to mi and home to la, with no names."},
+                            "text": {"en": "Up to mi and home to la, with no names.", "es": "Sube a \"mi\" y vuelve a \"la\", sin nombres."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -1380,28 +1380,28 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-5-challenge",
-                    "title": {"en": "A minor line, read cold"},
+                    "title": {"en": "A minor line, read cold", "es": "En menor, a primera vista"},
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Four bars in minor you haven't heard, steps and skips, in time. Find do, then la below it. Hear it first is there if you need it; the top score is for reading it cold."},
+                            "headline": {"en": "Four bars in minor you haven't heard, steps and skips, in time. Find do, then la below it. Hear it first is there if you need it; the top score is for reading it cold.", "es": "Cuatro compases en menor que no has oído, con grados y saltos, a compás. Encuentra \"do\" y luego \"la\", un salto por debajo. Si lo necesitas, tienes \"Escuchar primero\"; la puntuación máxima es para leerlo sin escucharlo antes."},
                             "steps": [
-                                {"title": {"en": "Find la"}, "detail": {"en": "A skip below do"}},
-                                {"title": {"en": "Count in"}, "detail": {"en": "Then keep the beat"}},
-                                {"title": {"en": "Keep going"}, "detail": {"en": "A slip? Catch the next beat"}}
+                                {"title": {"en": "Find la", "es": "Busca \"la\""}, "detail": {"en": "A skip below do", "es": "Un salto por debajo de \"do\""}},
+                                {"title": {"en": "Count in", "es": "Cuenta la entrada"}, "detail": {"en": "Then keep the beat", "es": "Y mantén el pulso"}},
+                                {"title": {"en": "Keep going", "es": "Sigue adelante"}, "detail": {"en": "A slip? Catch the next beat", "es": "¿Un fallo? Retoma en el tiempo siguiente"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "First a short minor line, to warm up: names faint."},
+                            "text": {"en": "First a short minor line, to warm up: names faint.", "es": "Primero una frase corta en menor, para calentar: nombres tenues."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -1421,11 +1421,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now the whole line, cold, in time: no names."},
+                            "text": {"en": "Now the whole line, cold, in time: no names.", "es": "Ahora la frase entera, a primera vista y a compás: sin nombres."},
                             "exercise": {
                                 "tempo": 72,
                                 "turn": false,
@@ -1452,7 +1452,7 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         }
                     ]
                 }
@@ -1460,36 +1460,36 @@
         },
         {
             "id": "ss-part-in-chord",
-            "title": {"en": "Your part in a chord"},
+            "title": {"en": "Your part in a chord", "es": "Tu voz en el acorde"},
             "lessons": [
                 {
                     "id": "ss-4-signature",
-                    "title": {"en": "Sharps and flats at the start"},
-                    "fact": {"id": "order-of-sharps", "text": {"en": "Sharps in a key signature always come in the same order, F, C, G, D, A, E, B, and flats in the reverse order. Each new key a fifth higher adds the next sharp."}, "source": {"en": "Wikipedia, \"Key signature\" (citing George Thaddeus Jones, Music Theory, 1974)"}, "url": "https://en.wikipedia.org/wiki/Key_signature"},
+                    "title": {"en": "Sharps and flats at the start", "es": "Sostenidos y bemoles al principio"},
+                    "fact": {"id": "order-of-sharps", "text": {"en": "Sharps in a key signature always come in the same order, F, C, G, D, A, E, B, and flats in the reverse order. Each new key a fifth higher adds the next sharp.", "es": "Los sostenidos de una armadura siempre van en el mismo orden, Fa, Do, Sol, Re, La, Mi, Si, y los bemoles en el orden inverso. Cada tonalidad una quinta más aguda añade el sostenido siguiente."}, "source": {"en": "Wikipedia, \"Key signature\" (citing George Thaddeus Jones, Music Theory, 1974)", "es": "Wikipedia, \"Key signature\" (que cita a George Thaddeus Jones, Music Theory, 1974)"}, "url": "https://en.wikipedia.org/wiki/Key_signature"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Real music starts each line with a key signature: the sharps or flats there say which notes are always raised or lowered. Do moves with the key: it's the key's home note."},
+                            "headline": {"en": "Real music starts each line with a key signature: the sharps or flats there say which notes are always raised or lowered. Do moves with the key: it's the key's home note.", "es": "La música de verdad empieza cada pentagrama con una armadura: sus sostenidos o bemoles dicen qué notas se suben o se bajan siempre. Y \"do\" se mueve con la tonalidad: es su nota base. En Sol mayor, por ejemplo, \"do\" es la nota Sol."},
                             "steps": [
-                                {"title": {"en": "Count them"}, "detail": {"en": "The sharps or flats at the start of every line"}},
-                                {"title": {"en": "All the way through"}, "detail": {"en": "Those notes stay raised or lowered"}},
-                                {"title": {"en": "A pickup"}, "detail": {"en": "The tune can start before the first bar line: count from its beat"}}
+                                {"title": {"en": "Count them", "es": "Cuéntalos"}, "detail": {"en": "The sharps or flats at the start of every line", "es": "Los sostenidos o bemoles al principio de cada pentagrama"}},
+                                {"title": {"en": "All the way through", "es": "De principio a fin"}, "detail": {"en": "Those notes stay raised or lowered", "es": "Esas notas se mantienen alteradas"}},
+                                {"title": {"en": "A pickup", "es": "Anacrusa"}, "detail": {"en": "The tune can start before the first bar line: count from its beat", "es": "La melodía puede empezar antes de la primera barra de compás: cuenta desde el tiempo en que empieza"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "learn",
-                            "headline": {"en": "Do is home, and the signature tells you where it sits: look at its last sharp or flat."},
+                            "headline": {"en": "Do is home, and the signature tells you where it sits: look at its last sharp or flat.", "es": "La armadura te dice dónde está \"do\", la nota base: mira su último sostenido o bemol."},
                             "steps": [
-                                {"title": {"en": "Sharps"}, "detail": {"en": "The last sharp sits on ti: do is the next line or space up"}},
-                                {"title": {"en": "Flats"}, "detail": {"en": "The last flat sits on fa; with two or more, do sits on the next-to-last flat"}},
-                                {"title": {"en": "None"}, "detail": {"en": "Do sits where the lesson's lines have always shown it"}}
+                                {"title": {"en": "Sharps", "es": "Sostenidos"}, "detail": {"en": "The last sharp sits on ti: do is the next line or space up", "es": "El último sostenido está en \"ti\": \"do\" está en la línea o el espacio de justo encima"}},
+                                {"title": {"en": "Flats", "es": "Bemoles"}, "detail": {"en": "The last flat sits on fa; with two or more, do sits on the next-to-last flat", "es": "El último bemol está en \"fa\"; con dos o más, \"do\" está en el penúltimo bemol"}},
+                                {"title": {"en": "None", "es": "Ninguno"}, "detail": {"en": "Do sits where the lesson's lines have always shown it", "es": "Entonces \"do\" es la nota Do"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Amazing Grace's first line. Find do from the signature, then read: names faint."},
+                            "text": {"en": "Amazing Grace's first line. Find do from the signature, then read: names faint.", "es": "La primera frase de Amazing Grace. Busca \"do\" a partir de la armadura y lee: nombres tenues."},
                             "exercise": {
                                 "song": {
                                     "template": "amazing-grace",
@@ -1505,11 +1505,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Its second line, with the same signature."},
+                            "text": {"en": "Its second line, with the same signature.", "es": "Su segunda frase, con la misma armadura."},
                             "exercise": {
                                 "song": {
                                     "template": "amazing-grace",
@@ -1525,11 +1525,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Its last line. It starts like the first: spot where it changes."},
+                            "text": {"en": "Its last line. It starts like the first: spot where it changes.", "es": "Su última frase. Empieza como la primera: busca dónde cambia."},
                             "exercise": {
                                 "song": {
                                     "template": "amazing-grace",
@@ -1545,28 +1545,28 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-4-alto",
-                    "title": {"en": "A part of its own"},
-                    "fact": {"id": "choirbook-each-part-its-own-patch", "text": {"en": "Medieval and Renaissance church choirs sang from choirbooks big enough for all to read, each part on its own patch of the open pages. The book sat on a stand: boys in front, men behind."}, "source": {"en": "Wikipedia, Choirbook"}, "url": "https://en.wikipedia.org/wiki/Choirbook"},
+                    "title": {"en": "A part of its own", "es": "Una voz propia"},
+                    "fact": {"id": "choirbook-each-part-its-own-patch", "text": {"en": "Medieval and Renaissance church choirs sang from choirbooks big enough for all to read, each part on its own patch of the open pages. The book sat on a stand: boys in front, men behind.", "es": "Los coros de iglesia medievales y renacentistas cantaban con libros de coro tan grandes que todos podían leerlos, cada voz en su propia zona de las páginas abiertas. El libro descansaba en un atril: los niños delante, los hombres detrás."}, "source": {"en": "Wikipedia, Choirbook", "es": "Wikipedia, Choirbook"}, "url": "https://en.wikipedia.org/wiki/Choirbook"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "A choir part rarely has the tune. Read the alto of Michael, Row the Boat Ashore: its own line, mostly one held note under the tune, then a line that moves on its own."},
+                            "headline": {"en": "A choir part rarely has the tune. Read the alto of Michael, Row the Boat Ashore: its own line, mostly one held note under the tune, then a line that moves on its own.", "es": "Una voz del coro rara vez lleva la melodía. Lee la voz de contralto de Michael, Row the Boat Ashore: es una melodía propia, casi siempre una nota tenida por debajo de la melodía principal, y luego un pasaje que se mueve por su cuenta."},
                             "steps": [
-                                {"title": {"en": "Your clef"}, "detail": {"en": "It follows your voice, not the part's name"}},
-                                {"title": {"en": "Look for the shape"}, "detail": {"en": "Long notes on one line or space, then a climb down and back"}},
-                                {"title": {"en": "Its signature"}, "detail": {"en": "Find do from it first"}}
+                                {"title": {"en": "Your clef", "es": "Tu clave"}, "detail": {"en": "It follows your voice, not the part's name", "es": "Depende de tu voz, no del nombre de la parte"}},
+                                {"title": {"en": "Look for the shape", "es": "Busca el dibujo"}, "detail": {"en": "Long notes on one line or space, then a climb down and back", "es": "Notas largas en una línea o un espacio, luego baja y vuelve a subir"}},
+                                {"title": {"en": "Its signature", "es": "Su armadura"}, "detail": {"en": "Find do from it first", "es": "Primero, encuentra \"do\" con ella"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The alto's first line, on its own, the chords under you."},
+                            "text": {"en": "The alto's first line, on its own, the chords under you.", "es": "La primera frase de la contralto, sola, con los acordes debajo."},
                             "exercise": {
                                 "song": {
                                     "template": "michael-row",
@@ -1582,11 +1582,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The alto's second line: it climbs down below the stave's lowest notes so far, then back. Names faint."},
+                            "text": {"en": "The alto's second line: it climbs down below the stave's lowest notes so far, then back. Names faint.", "es": "La segunda frase de la voz de contralto: baja por debajo de las notas más graves del pentagrama que has visto hasta ahora, y vuelve. Nombres tenues."},
                             "exercise": {
                                 "song": {
                                     "template": "michael-row",
@@ -1602,11 +1602,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Another song's alto, cold: Amazing Grace's first line, on its own."},
+                            "text": {"en": "Another song's alto, cold: Amazing Grace's first line, on its own.", "es": "La contralto de otra canción, a primera vista: la primera frase de Amazing Grace, sola."},
                             "exercise": {
                                 "song": {
                                     "template": "amazing-grace",
@@ -1622,27 +1622,27 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-4-chord",
-                    "title": {"en": "Inside the chord"},
+                    "title": {"en": "Inside the chord", "es": "Dentro del acorde"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Now the other parts sing while you read yours. Keep your eyes on your line and let the chord sound around you."},
+                            "headline": {"en": "Now the other parts sing while you read yours. Keep your eyes on your line and let the chord sound around you.", "es": "Ahora las demás voces cantan mientras lees la tuya. No apartes la vista de tu parte y deja que el acorde suene a tu alrededor."},
                             "steps": [
-                                {"title": {"en": "Headphones on"}, "detail": {"en": "So the mic hears only you"}},
-                                {"title": {"en": "Don't follow the tune"}, "detail": {"en": "Your notes are on the stave"}},
-                                {"title": {"en": "Lost your place?"}, "detail": {"en": "Find the next bar's first note"}}
+                                {"title": {"en": "Headphones on", "es": "Con auriculares"}, "detail": {"en": "So the mic hears only you", "es": "Para que el micrófono solo te oiga a ti"}},
+                                {"title": {"en": "Don't follow the tune", "es": "No sigas la melodía"}, "detail": {"en": "Your notes are on the stave", "es": "Tus notas están en el pentagrama"}},
+                                {"title": {"en": "Lost your place?", "es": "¿Te pierdes?"}, "detail": {"en": "Find the next bar's first note", "es": "Busca la primera nota del compás siguiente"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The alto's first line, the other parts singing with you."},
+                            "text": {"en": "The alto's first line, the other parts singing with you.", "es": "La primera frase de la contralto, con las demás voces cantando contigo."},
                             "exercise": {
                                 "song": {
                                     "template": "michael-row",
@@ -1659,11 +1659,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Amazing Grace's alto, its second line, the other parts singing with you."},
+                            "text": {"en": "Amazing Grace's alto, its second line, the other parts singing with you.", "es": "La contralto de Amazing Grace, su segunda frase, con las demás voces cantando contigo."},
                             "exercise": {
                                 "song": {
                                     "template": "amazing-grace",
@@ -1680,11 +1680,11 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Back to Michael, Row: its second line, inside the chord."},
+                            "text": {"en": "Back to Michael, Row: its second line, inside the chord.", "es": "Volvemos a Michael, Row: su segunda frase, dentro del acorde."},
                             "exercise": {
                                 "song": {
                                     "template": "michael-row",
@@ -1701,29 +1701,29 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         }
                     ]
                 },
                 {
                     "id": "ss-4-challenge",
-                    "title": {"en": "Your part, read"},
+                    "title": {"en": "Your part, read", "es": "Lee tu voz"},
                     "challenge": true,
-                    "fact": {"id": "flat-sharp-from-b", "text": {"en": "The flat, sharp and natural signs all grew from the letter b: the flat from a round b, the sharp and natural from a square one."}, "source": {"en": "Wikipedia, \"Accidental (music)\", its history (citing Frederick Niecks, \"The Flat, Sharp, and Natural: A Historical Sketch\", 1889 to 1890)"}, "url": "https://en.wikipedia.org/wiki/Accidental_(music)"},
+                    "fact": {"id": "flat-sharp-from-b", "text": {"en": "The flat, sharp and natural signs all grew from the letter b: the flat from a round b, the sharp and natural from a square one.", "es": "Los signos de bemol, sostenido y becuadro nacieron de la letra b: el bemol, de una b redonda; el sostenido y el becuadro, de una b cuadrada."}, "source": {"en": "Wikipedia, \"Accidental (music)\", its history (citing Frederick Niecks, \"The Flat, Sharp, and Natural: A Historical Sketch\", 1889 to 1890)", "es": "Wikipedia, \"Accidental (music)\", su historia (que cita a Frederick Niecks, \"The Flat, Sharp, and Natural: A Historical Sketch\", 1889 a 1890)"}, "url": "https://en.wikipedia.org/wiki/Accidental_(music)"},
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "The whole alto part of Michael, Row, read from the stave while the other parts sing. No names, no guide: you're reading in a choir."},
+                            "headline": {"en": "The whole alto part of Michael, Row, read from the stave while the other parts sing. No names, no guide: you're reading in a choir.", "es": "Toda la voz de contralto de Michael, Row, leída del pentagrama mientras cantan las demás voces. Sin nombres ni guía: estás leyendo en un coro."},
                             "steps": [
-                                {"title": {"en": "Find do"}, "detail": {"en": "From the signature"}},
-                                {"title": {"en": "Look ahead"}, "detail": {"en": "At the shape, not each note"}},
-                                {"title": {"en": "Keep going"}, "detail": {"en": "A slip? Catch the next beat"}}
+                                {"title": {"en": "Find do", "es": "Busca \"do\""}, "detail": {"en": "From the signature", "es": "A partir de la armadura"}},
+                                {"title": {"en": "Look ahead", "es": "Adelanta la vista"}, "detail": {"en": "At the shape, not each note", "es": "Al dibujo, no a cada nota"}},
+                                {"title": {"en": "Keep going", "es": "Sigue adelante"}, "detail": {"en": "A slip? Catch the next beat", "es": "¿Un fallo? Retoma en el tiempo siguiente"}}
                             ],
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "First, the line you read cold in your first challenge, read again. Then hear how far you've come."},
+                            "text": {"en": "First, the line you read cold in your first challenge, read again. Then hear how far you've come.", "es": "Primero, otra vez la frase que leíste a primera vista en tu primer desafío. Luego escucha cuánto has avanzado."},
                             "exercise": {
                                 "tempo": 66,
                                 "turn": false,
@@ -1748,11 +1748,11 @@
                                 "score": "read",
                                 "thenAndNow": "sight-singing.first-cold"
                             },
-                            "measures": {"en": "Scored on each note's pitch."}
+                            "measures": {"en": "Scored on each note's pitch.", "es": "Se puntúa la afinación de cada nota."}
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "The whole alto part, inside the chord."},
+                            "text": {"en": "The whole alto part, inside the chord.", "es": "Toda la voz de contralto, dentro del acorde."},
                             "exercise": {
                                 "song": {
                                     "template": "michael-row",
@@ -1769,7 +1769,7 @@
                                 "hearFirst": true,
                                 "score": "read"
                             },
-                            "measures": {"en": "Scored on each note's pitch, and when it starts."}
+                            "measures": {"en": "Scored on each note's pitch, and when it starts.", "es": "Se puntúan la afinación y la entrada de cada nota."}
                         }
                     ]
                 }
