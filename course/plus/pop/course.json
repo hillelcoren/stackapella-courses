@@ -2,29 +2,30 @@
     "id": "pop",
     "version": 1,
     "reviewed": false,
-    "title": { "en": "Pop and country styling" },
+    "title": { "en": "Pop and country styling", "es": "Estilo pop y country" },
     "units": [
         {
             "id": "pop-scoops-and-falls",
-            "title": { "en": "Scoops and fall-offs" },
+            "title": { "en": "Scoops and fall-offs", "es": "Arrastres y caídas" },
             "colour": 1,
             "lessons": [
                 {
                     "id": "pop-1-style",
-                    "fact": {"id": "weill-down-in-the-valley", "text": {"en": "Kurt Weill built a folk opera around Down in the Valley. It opened at Indiana University in 1948."}, "source": {"en": "Kurt Weill Foundation, Down in the Valley"}, "url": "https://www.kwf.org/works/down-in-the-valley/"},
-                    "title": { "en": "Plain to styled" },
+                    "fact": {"id": "weill-down-in-the-valley", "text": {"en": "Kurt Weill built a folk opera around Down in the Valley. It opened at Indiana University in 1948.", "es": "Kurt Weill construyó una ópera folk en torno a Down in the Valley. Se estrenó en la Universidad de Indiana en 1948."}, "source": {"en": "Kurt Weill Foundation, Down in the Valley", "es": "Kurt Weill Foundation, Down in the Valley"}, "url": "https://www.kwf.org/works/down-in-the-valley/"},
+                    "title": { "en": "Plain to styled", "es": "Sin adornos, con estilo" },
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A plain tune and a styled one are the same notes. The difference is a few small moves, like a scoop up into a note." },
+                            "headline": { "en": "A plain tune and a styled one are the same notes. The difference is a few small moves, like a scoop up into a note.", "es": "Una melodía sin adornos y otra con estilo tienen las mismas notas. La diferencia está en unos pocos recursos, como el arrastre: entrar en una nota deslizándote desde abajo." },
                             "steps": [
-                                { "title": { "en": "Listen to the line" }, "detail": { "en": "Down in the Valley, a traditional song, with a scoop into \"val-\"" } },
-                                { "title": { "en": "Small and light" }, "detail": { "en": "Medium volume, the middle of your voice" } },
+                                { "title": { "en": "Listen to the line", "es": "Escucha la frase" }, "detail": { "en": "Down in the Valley, a traditional song, with a scoop into \"val-\"", "es": "Down in the Valley, una canción tradicional, con un arrastre al entrar en \"val-\"" } },
+                                { "title": { "en": "Small and light", "es": "Pequeño y ligero" }, "detail": { "en": "Medium volume, the middle of your voice", "es": "Volumen medio, en la zona media de tu voz" } },
                                 {
-                                    "title": { "en": "Look after your voice" },
+                                    "title": { "en": "Look after your voice", "es": "Cuida tu voz" },
                                     "detail": {
-                                        "en": "Stop if anything tightens, tickles or hurts. Don't sing when you're ill; see someone if hoarseness lasts more than two weeks. No app replaces a teacher"
+                                        "en": "Stop if anything tightens, tickles or hurts. Don't sing when you're ill; see someone if hoarseness lasts more than two weeks. No app replaces a teacher",
+                                        "es": "Si notas tensión, carraspera o dolor, para. No cantes si no te encuentras bien; si la ronquera dura más de dos semanas, consulta a un médico. Ninguna app sustituye a una clase de canto"
                                     }
                                 }
                             ],
@@ -53,12 +54,12 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The scoop on its own: start a little below \"val-\" and slide up into it." },
+                            "text": { "en": "The scoop on its own: start a little below \"val-\" and slide up into it.", "es": "El arrastre por sí solo: empieza un poco por debajo de \"val-\" y desliza la voz hacia arriba hasta la nota." },
                             "exercise": { "tempo": 96, "notes": [{ "beat": 0, "length": 3, "step": 4, "lyric": "val-", "style": "scoop" }], "turn": false }
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "First the line plain, over the chords." },
+                            "text": { "en": "First the line plain, over the chords.", "es": "Primero, la frase tal cual, sobre los acordes." },
                             "exercise": {
                                 "keep": "pop.first",
                                 "tempo": 96,
@@ -83,7 +84,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now the same line with your scoop into \"val-\". If we don't hear it, try a bigger, slower one." },
+                            "text": { "en": "Now the same line with your scoop into \"val-\". If we don't hear it, try a bigger, slower one.", "es": "Ahora la misma frase con tu arrastre hacia \"val-\". Si no lo oímos, prueba uno más amplio y más lento." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -107,22 +108,22 @@
                                 "window": 0.5,
                                 "generous": true
                             },
-                            "measures": { "en": "Scored on the scoop and the notes. Listen back to both takes: same notes, different song." }
+                            "measures": { "en": "Scored on the scoop and the notes. Listen back to both takes: same notes, different song.", "es": "Se puntúan el arrastre y las notas. Escucha las dos tomas: mismas notas, otra canción." }
                         }
                     ]
                 },
                 {
                     "id": "pop-1-scoop",
-                    "fact": {"id": "scoops-change-tuning", "text": {"en": "In a 2018 study, 110 listeners judged the tuning of short sung tunes. A brief scoop at the start or end of a note changed how in tune they heard it."}, "source": {"en": "Larrouy-Maestri and Pfordresher, J. Exp. Psychol. Hum. Percept. Perform. (2018)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/29975095/"},
-                    "title": { "en": "The scoop" },
+                    "fact": {"id": "scoops-change-tuning", "text": {"en": "In a 2018 study, 110 listeners judged the tuning of short sung tunes. A brief scoop at the start or end of a note changed how in tune they heard it.", "es": "En un estudio de 2018, 110 oyentes juzgaron la afinación de melodías cantadas cortas. Un breve arrastre al principio o al final de una nota cambiaba lo afinada que les parecía."}, "source": {"en": "Larrouy-Maestri and Pfordresher, J. Exp. Psychol. Hum. Percept. Perform. (2018)", "es": "Larrouy-Maestri y Pfordresher, J. Exp. Psychol. Hum. Percept. Perform. (2018)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/29975095/"},
+                    "title": { "en": "The scoop", "es": "El arrastre" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A scoop slides up into a note from a little below, on purpose. Done well it sounds meant, not missed." },
+                            "headline": { "en": "A scoop slides up into a note from a little below, on purpose. Done well it sounds meant, not missed.", "es": "Un arrastre entra en una nota deslizándose desde un poco más abajo, a propósito. Bien hecho, suena a intención, no a fallo." },
                             "steps": [
-                                { "title": { "en": "From below" }, "detail": { "en": "A semitone to a third under the note" } },
-                                { "title": { "en": "Quick or lazy" }, "detail": { "en": "A flick, or a slow, easy rise" } },
-                                { "title": { "en": "Land on the note" }, "detail": { "en": "Then hold it steady" } }
+                                { "title": { "en": "From below", "es": "Desde abajo" }, "detail": { "en": "A semitone to a third under the note", "es": "De un semitono a una tercera por debajo de la nota" } },
+                                { "title": { "en": "Quick or lazy", "es": "Rápido o perezoso" }, "detail": { "en": "A flick, or a slow, easy rise", "es": "Un toque rápido, o una subida lenta y relajada" } },
+                                { "title": { "en": "Land on the note", "es": "Llega a la nota" }, "detail": { "en": "Then hold it steady", "es": "Y luego mantenla estable" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -137,34 +138,34 @@
                         },
                         {
                             "kind": "choose",
-                            "text": { "en": "Listen to both, then choose." },
+                            "text": { "en": "Listen to both, then choose.", "es": "Escucha las dos y luego elige." },
                             "exercise": {
                                 "tempo": 72,
                                 "rounds": [
                                     {
-                                        "prompt": { "en": "Which one scooped?" },
+                                        "prompt": { "en": "Which one scooped?", "es": "¿Cuál entró desde abajo?" },
                                         "clips": [
                                             { "notes": [{ "beat": 0, "length": 2, "step": 0, "lyric": "oo" }] },
                                             { "notes": [{ "beat": 0, "length": 2, "step": 0, "lyric": "oo", "style": "scoop" }] }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "B slid up into the note from below. A started right on it." }
+                                        "why": { "en": "B slid up into the note from below. A started right on it.", "es": "B entró en la nota deslizándose desde abajo. A empezó justo en ella." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one scooped?" },
+                                        "prompt": { "en": "Which one scooped?", "es": "¿Cuál entró desde abajo?" },
                                         "clips": [
                                             { "notes": [{ "beat": 0, "length": 2, "step": 2, "lyric": "oo", "style": "scoop" }] },
                                             { "notes": [{ "beat": 0, "length": 2, "step": 2, "lyric": "oo" }] }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A rose into its note; B was straight from the start." }
+                                        "why": { "en": "A rose into its note; B was straight from the start.", "es": "A subió hasta su nota; B fue directa desde el principio." }
                                     }
                                 ]
                             }
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "Three notes at your own pace: start a little below each and slide up into it." },
+                            "text": { "en": "Three notes at your own pace: start a little below each and slide up into it.", "es": "Tres notas a tu ritmo: empieza un poco por debajo de cada una y desliza la voz hacia arriba hasta ella." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -177,7 +178,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then sing them back, each with a quick scoop." },
+                            "text": { "en": "Listen, then sing them back, each with a quick scoop.", "es": "Escucha y repítelas, cada una con un arrastre rápido." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -191,7 +192,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now lazy scoops: a slower, easy rise into each." },
+                            "text": { "en": "Now lazy scoops: a slower, easy rise into each.", "es": "Ahora arrastres perezosos: una subida lenta y relajada hacia cada nota." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -203,22 +204,22 @@
                                 "score": "styled",
                                 "window": 0.5
                             },
-                            "measures": { "en": "Scored on the scoops and the notes they land on. Did they sound meant, not missed?" }
+                            "measures": { "en": "Scored on the scoops and the notes they land on. Did they sound meant, not missed?", "es": "Se puntúan los arrastres y las notas en las que caen. ¿Sonaron a intención, no a fallo?" }
                         }
                     ]
                 },
                 {
                     "id": "pop-1-fall",
-                    "fact": {"id": "valley-birmingham-jail", "text": {"en": "Down in the Valley is also sung as Birmingham Jail. Jimmie Tarlton claimed he wrote those verses while jailed in Birmingham for moonshining, and he and Tom Darby recorded them in 1927."}, "source": {"en": "Wikipedia, Down in the Valley (folk song)"}, "url": "https://en.wikipedia.org/wiki/Down_in_the_Valley_(folk_song)"},
-                    "title": { "en": "The fall-off" },
+                    "fact": {"id": "valley-birmingham-jail", "text": {"en": "Down in the Valley is also sung as Birmingham Jail. Jimmie Tarlton claimed he wrote those verses while jailed in Birmingham for moonshining, and he and Tom Darby recorded them in 1927.", "es": "Down in the Valley también se canta como Birmingham Jail. Jimmie Tarlton aseguraba que escribió esas estrofas preso en Birmingham por destilar alcohol clandestino, y en 1927 las grabó con Tom Darby."}, "source": {"en": "Wikipedia, Down in the Valley (folk song)", "es": "Wikipedia, Down in the Valley (folk song)"}, "url": "https://en.wikipedia.org/wiki/Down_in_the_Valley_(folk_song)"},
+                    "title": { "en": "The fall-off", "es": "La caída" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A fall-off lets the end of a note drop away. Let the pitch go and keep the breath steady, never a collapse into a creak." },
+                            "headline": { "en": "A fall-off lets the end of a note drop away. Let the pitch go and keep the breath steady, never a collapse into a creak.", "es": "En una caída, dejas que el final de la nota se vaya hacia abajo. Suelta la altura pero mantén el aire estable, sin que la voz se hunda nunca en un sonido rasposo." },
                             "steps": [
-                                { "title": { "en": "Hold, then let go" }, "detail": { "en": "The note first, the fall at its end" } },
-                                { "title": { "en": "Longer notes" }, "detail": { "en": "Hold, then let each end drop away" } },
-                                { "title": { "en": "Keep the breath" }, "detail": { "en": "The pitch falls, the breath doesn't" } }
+                                { "title": { "en": "Hold, then let go", "es": "Mantén y suelta" }, "detail": { "en": "The note first, the fall at its end", "es": "Primero la nota, y la caída al final" } },
+                                { "title": { "en": "Longer notes", "es": "Notas más largas" }, "detail": { "en": "Hold, then let each end drop away", "es": "Mantén y luego deja caer cada final" } },
+                                { "title": { "en": "Keep the breath", "es": "Mantén el aire" }, "detail": { "en": "The pitch falls, the breath doesn't", "es": "La altura cae, el aire no" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -233,7 +234,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "Hold each note at your own pace; the fall-off comes when you let go." },
+                            "text": { "en": "Hold each note at your own pace; the fall-off comes when you let go.", "es": "Mantén cada nota a tu ritmo; la caída llega cuando sueltas." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -245,7 +246,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then sing them back, each falling off at the end." },
+                            "text": { "en": "Listen, then sing them back, each falling off at the end.", "es": "Escucha y repítelas, cada una con una caída al final." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -258,7 +259,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Longer notes: hold, then let each end drop away." },
+                            "text": { "en": "Longer notes: hold, then let each end drop away.", "es": "Notas más largas: mantén y luego deja caer cada final." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -271,7 +272,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The line's last note, \"low\", with a fall-off." },
+                            "text": { "en": "The line's last note, \"low\", with a fall-off.", "es": "La última nota de la frase, \"low\", con una caída." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -293,22 +294,22 @@
                                 ],
                                 "score": "styled"
                             },
-                            "measures": { "en": "Scored on the fall-off and the notes." }
+                            "measures": { "en": "Scored on the fall-off and the notes.", "es": "Se puntúan la caída y las notas." }
                         }
                     ]
                 },
                 {
                     "id": "pop-1-challenge",
-                    "title": { "en": "Styled valley" },
+                    "title": { "en": "Styled valley", "es": "Valle con estilo" },
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "The whole verse with two scoops and two fall-offs, on the long notes and the ends of lines." },
+                            "headline": { "en": "The whole verse with two scoops and two fall-offs, on the long notes and the ends of lines.", "es": "La estrofa entera con dos arrastres y dos caídas, en las notas largas y en los finales de frase." },
                             "steps": [
-                                { "title": { "en": "Scoops" }, "detail": { "en": "Into \"val-\" and \"o-\"" } },
-                                { "title": { "en": "Fall-offs" }, "detail": { "en": "On \"low\" and \"blow\"" } },
-                                { "title": { "en": "Everything else plain" }, "detail": { "en": "Moves mean more when they're rare" } }
+                                { "title": { "en": "Scoops", "es": "Arrastres" }, "detail": { "en": "Into \"val-\" and \"o-\"", "es": "Hacia \"val-\" y hacia \"o-\"" } },
+                                { "title": { "en": "Fall-offs", "es": "Caídas" }, "detail": { "en": "On \"low\" and \"blow\"", "es": "En \"low\" y \"blow\"" } },
+                                { "title": { "en": "Everything else plain", "es": "Lo demás, sin adornos" }, "detail": { "en": "Moves mean more when they're rare", "es": "Los recursos dicen más cuando son pocos" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -344,7 +345,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The verse at your own pace first." },
+                            "text": { "en": "The verse at your own pace first.", "es": "Primero, la estrofa a tu ritmo." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -372,7 +373,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "After a bar of chords, sing the styled verse." },
+                            "text": { "en": "After a bar of chords, sing the styled verse.", "es": "Tras un compás de acordes, canta la estrofa con estilo." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -403,7 +404,7 @@
                                 ],
                                 "score": "styled"
                             },
-                            "measures": { "en": "Scored on the moves asked for and the notes. Listen back: did they sound meant?" }
+                            "measures": { "en": "Scored on the moves asked for and the notes. Listen back: did they sound meant?", "es": "Se puntúan los recursos pedidos y las notas. Escúchate: ¿sonaron a intención?" }
                         }
                     ]
                 }
@@ -411,23 +412,24 @@
         },
         {
             "id": "pop-slides-and-cry",
-            "title": { "en": "Slides and the cry" },
+            "title": { "en": "Slides and the cry", "es": "Portamentos y el quiebro" },
             "colour": 1,
             "lessons": [
                 {
                     "id": "pop-2-slide",
-                    "fact": {"id": "steel-guitar-glide", "text": {"en": "A steel guitar's bar glides through every pitch between notes, like a singing voice. Born in Hawaii, its sound swept the US: in 1916 Hawaiian records reportedly outsold all other music."}, "source": {"en": "Wikipedia, Steel guitar"}, "url": "https://en.wikipedia.org/wiki/Steel_guitar"},
-                    "title": { "en": "The slide" },
+                    "fact": {"id": "steel-guitar-glide", "text": {"en": "A steel guitar's bar glides through every pitch between notes, like a singing voice. Born in Hawaii, its sound swept the US: in 1916 Hawaiian records reportedly outsold all other music.", "es": "La barra de una guitarra steel (o hawaiana) se desliza por todas las alturas entre notas, como una voz que canta. Nació en Hawái y su sonido arrasó en Estados Unidos: en 1916, según se cuenta, los discos hawaianos vendieron más que todo el resto de la música."}, "source": {"en": "Wikipedia, Steel guitar", "es": "Wikipedia, Steel guitar"}, "url": "https://en.wikipedia.org/wiki/Steel_guitar"},
+                    "title": { "en": "The slide", "es": "El portamento" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A slide glides from one note to the next on one breath, through every pitch between. Slow and smooth, it sounds like a sigh with a tune in it."
+                                "en": "A slide glides from one note to the next on one breath, through every pitch between. Slow and smooth, it sounds like a sigh with a tune in it.",
+                                "es": "Un portamento desliza la voz de una nota a la siguiente en una sola respiración, pasando por todas las alturas intermedias. Lento y suave, suena como un suspiro con melodía."
                             },
                             "steps": [
-                                { "title": { "en": "On one breath" }, "detail": { "en": "The two notes joined, no gap" } },
-                                { "title": { "en": "Through the middle" }, "detail": { "en": "Every pitch between, evenly" } },
-                                { "title": { "en": "Look after your voice" }, "detail": { "en": "Stop if anything tightens, tickles or hurts; rest when hoarse" } }
+                                { "title": { "en": "On one breath", "es": "De un solo aliento" }, "detail": { "en": "The two notes joined, no gap", "es": "Las dos notas unidas, sin hueco" } },
+                                { "title": { "en": "Through the middle", "es": "Pasando por el medio" }, "detail": { "en": "Every pitch between, evenly", "es": "Todas las alturas intermedias, por igual" } },
+                                { "title": { "en": "Look after your voice", "es": "Cuida tu voz" }, "detail": { "en": "Stop if anything tightens, tickles or hurts; rest when hoarse", "es": "Si notas tensión, carraspera o dolor, para; descansa si notas la voz ronca" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -442,7 +444,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "Slide up a third and back, at your own pace." },
+                            "text": { "en": "Slide up a third and back, at your own pace.", "es": "Sube una tercera deslizando la voz y vuelve, a tu ritmo." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -455,7 +457,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then slide up a third and back down." },
+                            "text": { "en": "Listen, then slide up a third and back down.", "es": "Escucha y luego sube una tercera deslizando la voz, y vuelve a bajar." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -469,7 +471,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "A wider slide, a fifth: up and back, smooth all the way." },
+                            "text": { "en": "A wider slide, a fifth: up and back, smooth all the way.", "es": "Un portamento más amplio, una quinta: arriba y de vuelta, suave de principio a fin." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -483,7 +485,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now a line with two slides, into \"val-\" and into \"low\"." },
+                            "text": { "en": "Now a line with two slides, into \"val-\" and into \"low\".", "es": "Ahora una frase con dos portamentos, hacia \"val-\" y hacia \"low\"." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -505,24 +507,25 @@
                                 ],
                                 "score": "styled"
                             },
-                            "measures": { "en": "Scored on the slides and the notes." }
+                            "measures": { "en": "Scored on the slides and the notes.", "es": "Se puntúan los portamentos y las notas." }
                         }
                     ]
                 },
                 {
                     "id": "pop-2-cry",
-                    "fact": {"id": "hank-williams-cry", "text": {"en": "Hank Williams was famous for this flick into the lighter voice: his Lovesick Blues of 1949 yodels on \"cry\" and on every syllable of \"lonesome\"."}, "source": {"en": "Wikipedia, Lovesick Blues"}, "url": "https://en.wikipedia.org/wiki/Lovesick_Blues"},
-                    "title": { "en": "The little cry" },
+                    "fact": {"id": "hank-williams-cry", "text": {"en": "Hank Williams was famous for this flick into the lighter voice: his Lovesick Blues of 1949 yodels on \"cry\" and on every syllable of \"lonesome\".", "es": "Hank Williams era famoso por este toque hacia la voz ligera: en su Lovesick Blues de 1949 hace yodel en \"cry\" y en cada sílaba de \"lonesome\"."}, "source": {"en": "Wikipedia, Lovesick Blues", "es": "Wikipedia, Lovesick Blues"}, "url": "https://en.wikipedia.org/wiki/Lovesick_Blues"},
+                    "title": { "en": "The little cry", "es": "El quiebro" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Country singers add a little cry: a quick flip up into the lighter voice and straight back down, a tiny yodel. Light, never a hard catch."
+                                "en": "Country singers add a little cry: a quick flip up into the lighter voice and straight back down, a tiny yodel. Light, never a hard catch.",
+                                "es": "En el country se añade un quiebro, un pequeño sollozo en la voz: un salto rápido a la voz ligera y vuelta directa abajo, un yodel diminuto. Ligero, nunca un golpe brusco."
                             },
                             "steps": [
-                                { "title": { "en": "A quick flick up" }, "detail": { "en": "Into the lighter voice, and back" } },
-                                { "title": { "en": "At the start or inside a note" }, "detail": { "en": "A held note is easiest" } },
-                                { "title": { "en": "We hear its shape" }, "detail": { "en": "Not the sob in it: that part is yours" } }
+                                { "title": { "en": "A quick flick up", "es": "Un toque rápido arriba" }, "detail": { "en": "Into the lighter voice, and back", "es": "Hacia la voz ligera, y de vuelta" } },
+                                { "title": { "en": "At the start or inside a note", "es": "Al empezar o dentro de una nota" }, "detail": { "en": "A held note is easiest", "es": "Lo más fácil es en una nota larga" } },
+                                { "title": { "en": "We hear its shape", "es": "Oímos su forma" }, "detail": { "en": "Not the sob in it: that part is yours", "es": "No el sollozo que lleva: eso lo pones tú" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -537,7 +540,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "A slow practice cry first, at your own pace: the note, a quick step up, and back." },
+                            "text": { "en": "A slow practice cry first, at your own pace: the note, a quick step up, and back.", "es": "Primero, un quiebro lento de práctica, a tu ritmo: la nota, un paso rápido arriba, y de vuelta." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -550,7 +553,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now quicker, as a cry: listen, then sing three back." },
+                            "text": { "en": "Now quicker, as a cry: listen, then sing three back.", "es": "Ahora más rápido, como quiebro: escucha y repite tres." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -564,7 +567,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "In a song: Down in the Valley's first line with a cry on \"low\"." },
+                            "text": { "en": "In a song: Down in the Valley's first line with a cry on \"low\".", "es": "En una canción: la primera frase de Down in the Valley con un quiebro en \"low\"." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -586,36 +589,36 @@
                                 ],
                                 "score": "styled"
                             },
-                            "measures": { "en": "Scored on the cry and the notes." }
+                            "measures": { "en": "Scored on the cry and the notes.", "es": "Se puntúan el quiebro y las notas." }
                         }
                     ]
                 },
                 {
                     "id": "pop-2-hear",
-                    "title": { "en": "Which move?" },
+                    "title": { "en": "Which move?", "es": "¿Qué recurso?" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Four moves so far: a scoop, a fall-off, a slide and a cry. Can you tell them apart, and hear when they're too many?" },
+                            "headline": { "en": "Four moves so far: a scoop, a fall-off, a slide and a cry. Can you tell them apart, and hear when they're too many?", "es": "Cuatro recursos hasta ahora: un arrastre, una caída, un portamento y un quiebro. ¿Sabes distinguirlos, y notar cuándo sobran?" },
                             "steps": [
-                                { "title": { "en": "Listen to the line" }, "detail": { "en": "Each round has one move" } },
-                                { "title": { "en": "Pick the move" }, "detail": { "en": "Only your first answer counts" } },
-                                { "title": { "en": "Then taste" }, "detail": { "en": "Which one overdid it?" } }
+                                { "title": { "en": "Listen to the line", "es": "Escucha la frase" }, "detail": { "en": "Each round has one move", "es": "Cada ronda tiene un recurso" } },
+                                { "title": { "en": "Pick the move", "es": "Elige el recurso" }, "detail": { "en": "Only your first answer counts", "es": "Solo cuenta tu primera respuesta" } },
+                                { "title": { "en": "Then taste", "es": "Y el gusto" }, "detail": { "en": "Which one overdid it?", "es": "¿Cuál se pasó?" } }
                             ],
                             "visual": "echo",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": { "en": "Listen, then choose." },
+                            "text": { "en": "Listen, then choose.", "es": "Escucha y luego elige." },
                             "exercise": {
                                 "tempo": 96,
                                 "rounds": [
                                     {
-                                        "prompt": { "en": "Which move did you hear?" },
+                                        "prompt": { "en": "Which move did you hear?", "es": "¿Qué recurso oíste?" },
                                         "clips": [
                                             {
-                                                "label": { "en": "The line" },
+                                                "label": { "en": "The line", "es": "La frase" },
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -5, "lyric": "Down" },
                                                     { "beat": 1, "length": 1, "step": 0, "lyric": "in" },
@@ -630,19 +633,19 @@
                                             }
                                         ],
                                         "options": [
-                                            { "en": "A scoop" },
-                                            { "en": "A fall-off" },
-                                            { "en": "A slide" },
-                                            { "en": "A cry" }
+                                            { "en": "A scoop", "es": "Arrastre" },
+                                            { "en": "A fall-off", "es": "Caída" },
+                                            { "en": "A slide", "es": "Portamento" },
+                                            { "en": "A cry", "es": "Quiebro" }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A scoop: it rose into \"val-\" from below." }
+                                        "why": { "en": "A scoop: it rose into \"val-\" from below.", "es": "Un arrastre: subió hacia \"val-\" desde abajo." }
                                     },
                                     {
-                                        "prompt": { "en": "Which move did you hear?" },
+                                        "prompt": { "en": "Which move did you hear?", "es": "¿Qué recurso oíste?" },
                                         "clips": [
                                             {
-                                                "label": { "en": "The line" },
+                                                "label": { "en": "The line", "es": "La frase" },
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -5, "lyric": "Down" },
                                                     { "beat": 1, "length": 1, "step": 0, "lyric": "in" },
@@ -657,19 +660,19 @@
                                             }
                                         ],
                                         "options": [
-                                            { "en": "A scoop" },
-                                            { "en": "A fall-off" },
-                                            { "en": "A slide" },
-                                            { "en": "A cry" }
+                                            { "en": "A scoop", "es": "Arrastre" },
+                                            { "en": "A fall-off", "es": "Caída" },
+                                            { "en": "A slide", "es": "Portamento" },
+                                            { "en": "A cry", "es": "Quiebro" }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "A fall-off: \"low\" dropped away at its end." }
+                                        "why": { "en": "A fall-off: \"low\" dropped away at its end.", "es": "Una caída: \"low\" cayó al final." }
                                     },
                                     {
-                                        "prompt": { "en": "Which move did you hear?" },
+                                        "prompt": { "en": "Which move did you hear?", "es": "¿Qué recurso oíste?" },
                                         "clips": [
                                             {
-                                                "label": { "en": "The line" },
+                                                "label": { "en": "The line", "es": "La frase" },
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -5, "lyric": "Down" },
                                                     { "beat": 1, "length": 1, "step": 0, "lyric": "in" },
@@ -684,19 +687,19 @@
                                             }
                                         ],
                                         "options": [
-                                            { "en": "A scoop" },
-                                            { "en": "A fall-off" },
-                                            { "en": "A slide" },
-                                            { "en": "A cry" }
+                                            { "en": "A scoop", "es": "Arrastre" },
+                                            { "en": "A fall-off", "es": "Caída" },
+                                            { "en": "A slide", "es": "Portamento" },
+                                            { "en": "A cry", "es": "Quiebro" }
                                         ],
                                         "answer": 2,
-                                        "why": { "en": "A slide: \"the\" glided up into \"val-\"." }
+                                        "why": { "en": "A slide: \"the\" glided up into \"val-\".", "es": "Un portamento: \"the\" se deslizó hacia arriba hasta \"val-\"." }
                                     },
                                     {
-                                        "prompt": { "en": "Which move did you hear?" },
+                                        "prompt": { "en": "Which move did you hear?", "es": "¿Qué recurso oíste?" },
                                         "clips": [
                                             {
-                                                "label": { "en": "The line" },
+                                                "label": { "en": "The line", "es": "La frase" },
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -5, "lyric": "Down" },
                                                     { "beat": 1, "length": 1, "step": 0, "lyric": "in" },
@@ -711,19 +714,19 @@
                                             }
                                         ],
                                         "options": [
-                                            { "en": "A scoop" },
-                                            { "en": "A fall-off" },
-                                            { "en": "A slide" },
-                                            { "en": "A cry" }
+                                            { "en": "A scoop", "es": "Arrastre" },
+                                            { "en": "A fall-off", "es": "Caída" },
+                                            { "en": "A slide", "es": "Portamento" },
+                                            { "en": "A cry", "es": "Quiebro" }
                                         ],
                                         "answer": 3,
-                                        "why": { "en": "A cry: a quick flick up inside \"ley\", and back." }
+                                        "why": { "en": "A cry: a quick flick up inside \"ley\", and back.", "es": "Un quiebro: un toque rápido arriba dentro de \"ley\", y de vuelta." }
                                     },
                                     {
-                                        "prompt": { "en": "Which move did you hear?" },
+                                        "prompt": { "en": "Which move did you hear?", "es": "¿Qué recurso oíste?" },
                                         "clips": [
                                             {
-                                                "label": { "en": "The line" },
+                                                "label": { "en": "The line", "es": "La frase" },
                                                 "notes": [
                                                     { "beat": 0, "length": 1, "step": -5, "lyric": "Down" },
                                                     { "beat": 1, "length": 1, "step": 0, "lyric": "in" },
@@ -738,16 +741,16 @@
                                             }
                                         ],
                                         "options": [
-                                            { "en": "A scoop" },
-                                            { "en": "A fall-off" },
-                                            { "en": "A slide" },
-                                            { "en": "A cry" }
+                                            { "en": "A scoop", "es": "Arrastre" },
+                                            { "en": "A fall-off", "es": "Caída" },
+                                            { "en": "A slide", "es": "Portamento" },
+                                            { "en": "A cry", "es": "Quiebro" }
                                         ],
                                         "answer": 2,
-                                        "why": { "en": "A slide again, from \"ley\" down into \"so\"." }
+                                        "why": { "en": "A slide again, from \"ley\" down into \"so\".", "es": "Otra vez un portamento, de \"ley\" bajando hasta \"so\"." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one overdid it?" },
+                                        "prompt": { "en": "Which one overdid it?", "es": "¿Cuál se pasó?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -778,30 +781,30 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "B put a move on nearly every note. A saved two for the long notes, and they meant more." }
+                                        "why": { "en": "B put a move on nearly every note. A saved two for the long notes, and they meant more.", "es": "B puso un recurso en casi cada nota. A guardó dos para las notas largas, y lucieron más." }
                                     }
                                 ]
                             },
-                            "measures": { "en": "Scored on the rounds you got right first time." }
+                            "measures": { "en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera." }
                         }
                     ]
                 },
                 {
                     "id": "pop-2-challenge",
-                    "fact": {"id": "ocean-burial-prairie", "text": {"en": "Cowboys reworked The Ocean Burial, E. H. Chapin's 1839 poem of a burial at sea, into a burial on the prairie. John Lomax printed their words in 1910."}, "source": {"en": "Wikipedia, The Ocean Burial"}, "url": "https://en.wikipedia.org/wiki/The_Ocean_Burial"},
-                    "title": { "en": "Lone prairie" },
+                    "fact": {"id": "ocean-burial-prairie", "text": {"en": "Cowboys reworked The Ocean Burial, E. H. Chapin's 1839 poem of a burial at sea, into a burial on the prairie. John Lomax printed their words in 1910.", "es": "Los vaqueros adaptaron The Ocean Burial, el poema de E. H. Chapin de 1839 sobre un entierro en el mar, a un entierro en la pradera. John Lomax publicó su letra en 1910."}, "source": {"en": "Wikipedia, The Ocean Burial", "es": "Wikipedia, The Ocean Burial"}, "url": "https://en.wikipedia.org/wiki/The_Ocean_Burial"},
+                    "title": { "en": "Lone prairie", "es": "Pradera solitaria" },
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A cowboy lament, styled: a slide from \"not\", a light cry on \"lone\", a scoop into \"low\" and a fall-off at the end." },
+                            "headline": { "en": "A cowboy lament, styled: a slide from \"not\", a light cry on \"lone\", a scoop into \"low\" and a fall-off at the end.", "es": "Un lamento vaquero, con estilo: un portamento desde \"not\", un quiebro ligero en \"lone\", un arrastre hacia \"low\" y una caída al final." },
                             "steps": [
                                 {
-                                    "title": { "en": "Bury Me Not on the Lone Prairie" },
-                                    "detail": { "en": "Cowboy words of 1910, to The Ocean Burial's tune" }
+                                    "title": { "en": "Bury Me Not on the Lone Prairie", "es": "Bury Me Not on the Lone Prairie" },
+                                    "detail": { "en": "Cowboy words of 1910, to The Ocean Burial's tune", "es": "Letra vaquera de 1910, con la melodía de The Ocean Burial" }
                                 },
-                                { "title": { "en": "Long notes, long moves" }, "detail": { "en": "The slide, the scoop and the fall sit on five-beat notes" } },
-                                { "title": { "en": "The cry is light" }, "detail": { "en": "A flick, never a hard catch" } }
+                                { "title": { "en": "Long notes, long moves", "es": "Nota larga, recurso largo" }, "detail": { "en": "The slide, the scoop and the fall sit on five-beat notes", "es": "El portamento, el arrastre y la caída van en notas de cinco tiempos" } },
+                                { "title": { "en": "The cry is light", "es": "El quiebro, ligero" }, "detail": { "en": "A flick, never a hard catch", "es": "Un toque, nunca un golpe brusco" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -837,7 +840,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The two lines at your own pace first." },
+                            "text": { "en": "The two lines at your own pace first.", "es": "Primero, las dos frases a tu ritmo." },
                             "exercise": {
                                 "tempo": 84,
                                 "notes": [
@@ -870,7 +873,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "After the drone's lead-in, sing the two lines, styled." },
+                            "text": { "en": "After the drone's lead-in, sing the two lines, styled.", "es": "Tras la entrada del bordón, canta las dos frases con estilo." },
                             "exercise": {
                                 "tempo": 84,
                                 "notes": [
@@ -901,7 +904,7 @@
                                 ],
                                 "score": "styled"
                             },
-                            "measures": { "en": "Scored on the moves asked for and the notes. Listen back: did the long notes carry them?" }
+                            "measures": { "en": "Scored on the moves asked for and the notes. Listen back: did the long notes carry them?", "es": "Se puntúan los recursos pedidos y las notas. Escúchate: ¿las notas largas los sostuvieron?" }
                         }
                     ]
                 }
@@ -909,28 +912,28 @@
         },
         {
             "id": "pop-colours",
-            "title": { "en": "Colours" },
+            "title": { "en": "Colours", "es": "Colores" },
             "colour": 1,
             "lessons": [
                 {
                     "id": "pop-3-colours",
-                    "fact": {"id": "gujarati-breathy-words", "text": {"en": "In Gujarati, breathiness can change a word: said with a clear voice, bar means twelve; said breathy, it means outside."}, "source": {"en": "Wikipedia, Breathy voice"}, "url": "https://en.wikipedia.org/wiki/Breathy_voice"},
-                    "title": { "en": "Three colours" },
+                    "fact": {"id": "gujarati-breathy-words", "text": {"en": "In Gujarati, breathiness can change a word: said with a clear voice, bar means twelve; said breathy, it means outside.", "es": "En guyaratí, el aire en la voz puede cambiar una palabra: dicha con voz clara, bar significa doce; dicha con aire, significa fuera."}, "source": {"en": "Wikipedia, Breathy voice", "es": "Wikipedia, Breathy voice"}, "url": "https://en.wikipedia.org/wiki/Breathy_voice"},
+                    "title": { "en": "Three colours", "es": "Tres colores" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "The same line can be breathy, bright or twangy. These are tone colours: we can't score them yet, so you'll be the judge." },
+                            "headline": { "en": "The same line can be breathy, bright or twangy. These are tone colours: we can't score them yet, so you'll be the judge.", "es": "La misma frase puede sonar con aire, con brillo o con twang (un brillo metálico y estrecho). Son colores de la voz: aún no podemos puntuarlos, así que tú decides." },
                             "steps": [
-                                { "title": { "en": "Breathy" }, "detail": { "en": "A little air, quiet and close; water nearby" } },
-                                { "title": { "en": "Bright" }, "detail": { "en": "A clear ring from the vowel, never louder" } },
-                                { "title": { "en": "Twang" }, "detail": { "en": "A narrow edge from a light \"nyeh\", never pressed" } }
+                                { "title": { "en": "Breathy", "es": "Con aire" }, "detail": { "en": "A little air, quiet and close; water nearby", "es": "Un poco de aire, voz suave y cercana; ten agua a mano" } },
+                                { "title": { "en": "Bright", "es": "Con brillo" }, "detail": { "en": "A clear ring from the vowel, never louder", "es": "Una resonancia clara desde la vocal, nunca más fuerte" } },
+                                { "title": { "en": "Twang", "es": "Twang" }, "detail": { "en": "A narrow edge from a light \"nyeh\", never pressed", "es": "Un filo estrecho desde un \"nyeh\" (ñe) ligero, nunca apretado" } }
                             ],
                             "visual": "dynamics",
                             "reviewed": false
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "First the line plain, over the chords: the colours come next." },
+                            "text": { "en": "First the line plain, over the chords: the colours come next.", "es": "Primero, la frase tal cual, sobre los acordes: los colores vienen después." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -951,12 +954,13 @@
                                     { "beat": 30, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             },
-                            "measures": { "en": "Scored on the plain line's notes; the colours that follow are yours to judge." }
+                            "measures": { "en": "Scored on the plain line's notes; the colours that follow are yours to judge.", "es": "Se puntúan las notas de la frase sin adornos; los colores que siguen los juzgas tú." }
                         },
                         {
                             "kind": "selfcheck",
                             "text": {
-                                "en": "Breathy first: quiet and close, a little air in the sound, never a whisper. Sing the line, then hear yours beside the guide's. We don't score the tone yet."
+                                "en": "Breathy first: quiet and close, a little air in the sound, never a whisper. Sing the line, then hear yours beside the guide's. We don't score the tone yet.",
+                                "es": "Primero, con aire: suave y cercana, con un poco de aire en el sonido, nunca un susurro. Canta la frase y luego escúchate junto a la guía. Aún no puntuamos el timbre."
                             },
                             "exercise": {
                                 "tempo": 96,
@@ -980,17 +984,17 @@
                                     ],
                                     "clip": "pop.breathy",
                                     "seconds": 10,
-                                    "description": { "en": "Breathy: quiet and close, with a little air in the sound, like singing to one person." }
+                                    "description": { "en": "Breathy: quiet and close, with a little air in the sound, like singing to one person.", "es": "Con aire: suave y cercana, con un poco de aire en el sonido, como si cantaras para una sola persona." }
                                 },
                                 "questions": [
-                                    { "en": "Could you hear air in it?" },
-                                    { "en": "Was it still on pitch?" }
+                                    { "en": "Could you hear air in it?", "es": "¿Oíste aire en el sonido?" },
+                                    { "en": "Was it still on pitch?", "es": "¿Seguía afinada?" }
                                 ]
                             }
                         },
                         {
                             "kind": "selfcheck",
-                            "text": { "en": "Now bright: a clear, forward ring from the vowel and a slight smile, never from more volume. This isn't belting." },
+                            "text": { "en": "Now bright: a clear, forward ring from the vowel and a slight smile, never from more volume. This isn't belting.", "es": "Ahora con brillo: una resonancia clara y adelantada que sale de la vocal y de una ligera sonrisa, nunca de más volumen. Esto no es belting." },
                             "exercise": {
                                 "tempo": 96,
                                 "lead": 3,
@@ -1013,17 +1017,17 @@
                                     ],
                                     "clip": "pop.bright",
                                     "seconds": 10,
-                                    "description": { "en": "Bright: a clear, forward ring from the vowel and a slight smile, never from more volume." }
+                                    "description": { "en": "Bright: a clear, forward ring from the vowel and a slight smile, never from more volume.", "es": "Con brillo: una resonancia clara y adelantada que sale de la vocal y de una ligera sonrisa, nunca de más volumen." }
                                 },
                                 "questions": [
-                                    { "en": "Did it ring without getting louder?" },
-                                    { "en": "Did your throat stay easy?" }
+                                    { "en": "Did it ring without getting louder?", "es": "¿Resonó sin sonar más fuerte?" },
+                                    { "en": "Did your throat stay easy?", "es": "¿Tu garganta siguió relajada?" }
                                 ]
                             }
                         },
                         {
                             "kind": "selfcheck",
-                            "text": { "en": "Now a little twang: a narrow, bright edge, from a light, bratty \"nyeh\". Never squeezed." },
+                            "text": { "en": "Now a little twang: a narrow, bright edge, from a light, bratty \"nyeh\". Never squeezed.", "es": "Ahora un poco de twang: un filo estrecho y brillante, que sale de un \"nyeh\" (ñe) ligero y burlón. Nunca apretado." },
                             "exercise": {
                                 "tempo": 96,
                                 "lead": 3,
@@ -1046,11 +1050,11 @@
                                     ],
                                     "clip": "pop.twang",
                                     "seconds": 10,
-                                    "description": { "en": "Twang: a narrow, bright edge, like a light, bratty \"nyeh\", never squeezed." }
+                                    "description": { "en": "Twang: a narrow, bright edge, like a light, bratty \"nyeh\", never squeezed.", "es": "Twang: un filo estrecho y brillante, como un \"nyeh\" ligero y burlón, nunca apretado." }
                                 },
                                 "questions": [
-                                    { "en": "Pinch your nose and sing it again: did it sound about the same? (If it changed a lot, it was nasal, not twang.)" },
-                                    { "en": "Did one colour feel most like you? Keep it in mind for Your colour." }
+                                    { "en": "Pinch your nose and sing it again: did it sound about the same? (If it changed a lot, it was nasal, not twang.)", "es": "Tápate la nariz y cántalo otra vez: ¿sonó más o menos igual? (Si cambió mucho, era voz nasal, no twang.)" },
+                                    { "en": "Did one colour feel most like you? Keep it in mind for Your colour.", "es": "¿Algún color te pareció más tuyo? Tenlo en cuenta para la lección Tu color." }
                                 ]
                             }
                         }
@@ -1058,19 +1062,20 @@
                 },
                 {
                     "id": "pop-3-crooner",
-                    "fact": {"id": "aura-lee-love-me-tender", "text": {"en": "Aura Lee's 1861 tune came back in 1956 as the melody of Love Me Tender."}, "source": {"en": "Wikipedia, Aura Lea"}, "url": "https://en.wikipedia.org/wiki/Aura_Lea"},
-                    "title": { "en": "The crooner" },
+                    "fact": {"id": "aura-lee-love-me-tender", "text": {"en": "Aura Lee's 1861 tune came back in 1956 as the melody of Love Me Tender.", "es": "La melodía de Aura Lee, de 1861, volvió en 1956 convertida en Love Me Tender."}, "source": {"en": "Wikipedia, Aura Lea", "es": "Wikipedia, Aura Lea"}, "url": "https://en.wikipedia.org/wiki/Aura_Lea"},
+                    "title": { "en": "The crooner", "es": "El crooner" },
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Crooning became popular when electric microphones arrived in the 1920s: quiet, close singing, a little air in it, and fall-offs at the ends of lines."
+                                "en": "Crooning became popular when electric microphones arrived in the 1920s: quiet, close singing, a little air in it, and fall-offs at the ends of lines.",
+                                "es": "El crooning se hizo popular cuando llegaron los micrófonos eléctricos, en los años 20: cantar suave y cerca del micrófono, con un poco de aire y caídas al final de las frases."
                             },
                             "steps": [
-                                { "title": { "en": "Aura Lee" }, "detail": { "en": "Poulton and Fosdick, 1861: a little air, quiet and close, never a whisper" } },
-                                { "title": { "en": "Your phone is your mic" }, "detail": { "en": "Stay quiet; don't push to be heard" } },
-                                { "title": { "en": "Water nearby" }, "detail": { "en": "Breathy singing dries the voice" } }
+                                { "title": { "en": "Aura Lee", "es": "Aura Lee" }, "detail": { "en": "Poulton and Fosdick, 1861: a little air, quiet and close, never a whisper", "es": "Poulton y Fosdick, 1861: un poco de aire, suave y cercana, nunca un susurro" } },
+                                { "title": { "en": "Your phone is your mic", "es": "Tu teléfono es tu micrófono" }, "detail": { "en": "Stay quiet; don't push to be heard", "es": "Canta suave; no empujes para que se te oiga" } },
+                                { "title": { "en": "Water nearby", "es": "Agua a mano" }, "detail": { "en": "Breathy singing dries the voice", "es": "Cantar con aire seca la voz" } }
                             ],
                             "visual": "dynamics",
                             "reviewed": false,
@@ -1095,7 +1100,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "Aura Lee's first two lines at your own pace." },
+                            "text": { "en": "Aura Lee's first two lines at your own pace.", "es": "Las dos primeras frases de Aura Lee, a tu ritmo." },
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1123,7 +1128,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Sing them breathy and close, with a fall-off on \"Spring\" and on \"tree\"." },
+                            "text": { "en": "Sing them breathy and close, with a fall-off on \"Spring\" and on \"tree\".", "es": "Cántalas con aire y voz cercana, con una caída en \"Spring\" y en \"tree\"." },
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1150,12 +1155,13 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the fall-offs and the notes, judged gently: air in the sound makes pitch harder to hear. The tone is yours to judge."
+                                "en": "Scored on the fall-offs and the notes, judged gently: air in the sound makes pitch harder to hear. The tone is yours to judge.",
+                                "es": "Se puntúan las caídas y las notas, con más tolerancia: el aire en el sonido hace más difícil oír la afinación. El timbre lo juzgas tú."
                             }
                         },
                         {
                             "kind": "selfcheck",
-                            "text": { "en": "Once more, then hear yours beside the guide's. We don't score the tone yet." },
+                            "text": { "en": "Once more, then hear yours beside the guide's. We don't score the tone yet.", "es": "Una vez más, y luego escúchate junto a la guía. Aún no puntuamos el timbre." },
                             "exercise": {
                                 "tempo": 76,
                                 "lead": 4,
@@ -1182,8 +1188,8 @@
                                     ]
                                 },
                                 "questions": [
-                                    { "en": "Could you hear a little air, not a whisper?" },
-                                    { "en": "Did you stay quiet, without pushing?" }
+                                    { "en": "Could you hear a little air, not a whisper?", "es": "¿Oíste un poco de aire, sin llegar al susurro?" },
+                                    { "en": "Did you stay quiet, without pushing?", "es": "¿Cantaste suave, sin empujar?" }
                                 ]
                             }
                         }
@@ -1191,18 +1197,19 @@
                 },
                 {
                     "id": "pop-3-twang",
-                    "fact": {"id": "country-sing-like-speech", "text": {"en": "In a 2001 study, five top male country singers spoke and sang the same words. Their singing had the resonance of their speech, without the \"singer's formant\" that classical singers use."}, "source": {"en": "Cleveland, Sundberg and Stone, Journal of Voice (2001)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/12269635/"},
-                    "title": { "en": "The country edge" },
+                    "fact": {"id": "country-sing-like-speech", "text": {"en": "In a 2001 study, five top male country singers spoke and sang the same words. Their singing had the resonance of their speech, without the \"singer's formant\" that classical singers use.", "es": "En un estudio de 2001, cinco grandes cantantes de country, todos hombres, hablaron y cantaron las mismas palabras. Su canto tenía la resonancia de su habla, sin el \"formante del cantante\" que usan los cantantes clásicos."}, "source": {"en": "Cleveland, Sundberg and Stone, Journal of Voice (2001)", "es": "Cleveland, Sundberg y Stone, Journal of Voice (2001)"}, "url": "https://pubmed.ncbi.nlm.nih.gov/12269635/"},
+                    "title": { "en": "The country edge", "es": "El filo country" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A little twang gives country singing its edge. It comes from narrowing a small ring of muscle just above your vocal folds, so it rings without being louder. Find it from a light, bratty \"nyeh\", then add a cry."
+                                "en": "A little twang gives country singing its edge. It comes from narrowing a small ring of muscle just above your vocal folds, so it rings without being louder. Find it from a light, bratty \"nyeh\", then add a cry.",
+                                "es": "Un poco de twang da al country su filo. Sale de estrechar un pequeño anillo de músculo justo encima de los pliegues vocales, así que resuena sin sonar más fuerte. Encuéntralo desde un \"nyeh\" (ñe) ligero y burlón, y luego añade un quiebro."
                             },
                             "steps": [
-                                { "title": { "en": "Start from \"nyeh\"" }, "detail": { "en": "Light and bratty, like teasing" } },
-                                { "title": { "en": "The nose-pinch check" }, "detail": { "en": "If pinching your nose changes it a lot, it's nasal, not twang" } },
-                                { "title": { "en": "Stop if it burns" }, "detail": { "en": "Twang is bright, never squeezed" } }
+                                { "title": { "en": "Start from \"nyeh\"", "es": "Empieza con \"nyeh\"" }, "detail": { "en": "Light and bratty, like teasing", "es": "Ligero y burlón, en broma" } },
+                                { "title": { "en": "The nose-pinch check", "es": "La prueba de la nariz" }, "detail": { "en": "If pinching your nose changes it a lot, it's nasal, not twang", "es": "Si al taparte la nariz cambia mucho, es voz nasal, no twang" } },
+                                { "title": { "en": "Stop if it burns", "es": "Si notas ardor, para" }, "detail": { "en": "Twang is bright, never squeezed", "es": "El twang es brillante, nunca apretado" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -1238,7 +1245,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "Find the twang first: a light, bratty \"nyeh\" on the line's notes, at your own pace." },
+                            "text": { "en": "Find the twang first: a light, bratty \"nyeh\" on the line's notes, at your own pace.", "es": "Primero, encuentra el twang: un \"nyeh\" ligero y burlón en las notas de la frase, a tu ritmo." },
                             "exercise": {
                                 "tempo": 84,
                                 "notes": [
@@ -1261,7 +1268,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The first line with a little twang and a light cry on \"lone\"." },
+                            "text": { "en": "The first line with a little twang and a light cry on \"lone\".", "es": "La primera frase con un poco de twang y un quiebro ligero en \"lone\"." },
                             "exercise": {
                                 "tempo": 84,
                                 "notes": [
@@ -1282,11 +1289,11 @@
                                 ],
                                 "score": "styled"
                             },
-                            "measures": { "en": "Scored on the cry and the notes. The twang is yours to judge." }
+                            "measures": { "en": "Scored on the cry and the notes. The twang is yours to judge.", "es": "Se puntúan el quiebro y las notas. El twang lo juzgas tú." }
                         },
                         {
                             "kind": "selfcheck",
-                            "text": { "en": "Once more, then hear yours beside the guide's. We don't score the tone yet." },
+                            "text": { "en": "Once more, then hear yours beside the guide's. We don't score the tone yet.", "es": "Una vez más, y luego escúchate junto a la guía. Aún no puntuamos el timbre." },
                             "exercise": {
                                 "tempo": 84,
                                 "lead": 3,
@@ -1308,8 +1315,8 @@
                                     ]
                                 },
                                 "questions": [
-                                    { "en": "Bright, not tight?" },
-                                    { "en": "Pinch your nose and sing it again: did it sound about the same? (If it changed a lot, it was nasal, not twang.)" }
+                                    { "en": "Bright, not tight?", "es": "¿Brillante, sin tensión?" },
+                                    { "en": "Pinch your nose and sing it again: did it sound about the same? (If it changed a lot, it was nasal, not twang.)", "es": "Tápate la nariz y cántalo otra vez: ¿sonó más o menos igual? (Si cambió mucho, era voz nasal, no twang.)" }
                                 ]
                             }
                         }
@@ -1317,17 +1324,17 @@
                 },
                 {
                     "id": "pop-3-challenge",
-                    "title": { "en": "Your colour" },
+                    "title": { "en": "Your colour", "es": "Tu color" },
                     "challenge": true,
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Aura Lee's verse in the colour that felt most like you, with two slides from unit 2 and fall-offs at the line ends." },
+                            "headline": { "en": "Aura Lee's verse in the colour that felt most like you, with two slides from unit 2 and fall-offs at the line ends.", "es": "La estrofa de Aura Lee en el color que sentiste más tuyo, con dos portamentos de la unidad 2 y caídas al final de las frases." },
                             "steps": [
-                                { "title": { "en": "Pick your colour" }, "detail": { "en": "Breathy, bright or a little twang" } },
-                                { "title": { "en": "Slides" }, "detail": { "en": "From \"bird\" and from \"him\"" } },
-                                { "title": { "en": "Fall-offs" }, "detail": { "en": "On \"tree\" and \"Lea\"" } }
+                                { "title": { "en": "Pick your colour", "es": "Elige tu color" }, "detail": { "en": "Breathy, bright or a little twang", "es": "Con aire, con brillo o con un poco de twang" } },
+                                { "title": { "en": "Slides", "es": "Portamentos" }, "detail": { "en": "From \"bird\" and from \"him\"", "es": "Desde \"bird\" y desde \"him\"" } },
+                                { "title": { "en": "Fall-offs", "es": "Caídas" }, "detail": { "en": "On \"tree\" and \"Lea\"", "es": "En \"tree\" y \"Lea\"" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -1374,7 +1381,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The verse at your own pace first." },
+                            "text": { "en": "The verse at your own pace first.", "es": "Primero, la estrofa a tu ritmo." },
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1418,7 +1425,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "After a bar of chords, sing the verse in your colour, styled." },
+                            "text": { "en": "After a bar of chords, sing the verse in your colour, styled.", "es": "Tras un compás de acordes, canta la estrofa en tu color, con estilo." },
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1460,7 +1467,7 @@
                                     { "beat": 32, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             },
-                            "measures": { "en": "Scored on the moves and the notes, judged gently. The colour is yours to judge: listen back." }
+                            "measures": { "en": "Scored on the moves and the notes, judged gently. The colour is yours to judge: listen back.", "es": "Se puntúan los recursos y las notas, con más tolerancia. El color lo juzgas tú: escúchate." }
                         }
                     ]
                 }
@@ -1468,33 +1475,33 @@
         },
         {
             "id": "pop-your-way",
-            "title": { "en": "Your way" },
+            "title": { "en": "Your way", "es": "A tu manera" },
             "colour": 1,
             "lessons": [
                 {
                     "id": "pop-4-where",
-                    "fact": {"id": "tosi-seldom-prodigy", "text": {"en": "In 1723 the singer and teacher Pier Francesco Tosi praised a slow slide down from a high note. Sung only seldom, his English translation says, \"it becomes a Prodigy\"."}, "source": {"en": "Tosi, Observations on the Florid Song, tr. Galliard (1743), Project Gutenberg"}, "url": "https://www.gutenberg.org/ebooks/26477"},
-                    "title": { "en": "Where the moves go" },
+                    "fact": {"id": "tosi-seldom-prodigy", "text": {"en": "In 1723 the singer and teacher Pier Francesco Tosi praised a slow slide down from a high note. Sung only seldom, his English translation says, \"it becomes a Prodigy\".", "es": "En 1723, el cantante y profesor Pier Francesco Tosi elogió un portamento lento hacia abajo desde una nota aguda. Cantado solo de vez en cuando, dice su traducción inglesa, \"se convierte en un prodigio\"."}, "source": {"en": "Tosi, Observations on the Florid Song, tr. Galliard (1743), Project Gutenberg", "es": "Tosi, Observations on the Florid Song, trad. de Galliard (1743), Project Gutenberg"}, "url": "https://www.gutenberg.org/ebooks/26477"},
+                    "title": { "en": "Where the moves go", "es": "Dónde van los recursos" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A rule of thumb: moves on the long notes and the ends of lines, plain everywhere else. They mean more when they're rare." },
+                            "headline": { "en": "A rule of thumb: moves on the long notes and the ends of lines, plain everywhere else. They mean more when they're rare.", "es": "Una regla práctica: recursos en las notas largas y en los finales de frase, y sin adornos todo lo demás. Dicen más cuando son pocos." },
                             "steps": [
-                                { "title": { "en": "Long notes" }, "detail": { "en": "Room for a move to be heard" } },
-                                { "title": { "en": "Line ends" }, "detail": { "en": "A fall-off or a cry to close" } },
-                                { "title": { "en": "Plain between" }, "detail": { "en": "So the moves stand out" } }
+                                { "title": { "en": "Long notes", "es": "Notas largas" }, "detail": { "en": "Room for a move to be heard", "es": "Espacio para que se oiga un recurso" } },
+                                { "title": { "en": "Line ends", "es": "Finales de frase" }, "detail": { "en": "A fall-off or a cry to close", "es": "Una caída o un quiebro para cerrar" } },
+                                { "title": { "en": "Plain between", "es": "Sin adornos en medio" }, "detail": { "en": "So the moves stand out", "es": "Para que los recursos destaquen" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": { "en": "Listen to both, then choose." },
+                            "text": { "en": "Listen to both, then choose.", "es": "Escucha las dos y luego elige." },
                             "exercise": {
                                 "tempo": 96,
                                 "rounds": [
                                     {
-                                        "prompt": { "en": "Which one styled only the long notes?" },
+                                        "prompt": { "en": "Which one styled only the long notes?", "es": "¿Cuál dio estilo solo a las notas largas?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1524,10 +1531,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A's moves were on \"val-\", \"ley\" and \"low\", the long ones. B's were on quick notes, where they blur." }
+                                        "why": { "en": "A's moves were on \"val-\", \"ley\" and \"low\", the long ones. B's were on quick notes, where they blur.", "es": "Los recursos de A iban en \"val-\", \"ley\" y \"low\", las largas. Los de B, en notas rápidas, donde se pierden." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one saved its move for the last word?" },
+                                        "prompt": { "en": "Which one saved its move for the last word?", "es": "¿Cuál guardó su recurso para la última palabra?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1557,10 +1564,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "B's cry came on \"low\", the line's last word. A's was on \"in\", near the start." }
+                                        "why": { "en": "B's cry came on \"low\", the line's last word. A's was on \"in\", near the start.", "es": "El quiebro de B llegó en \"low\", la última palabra de la frase. El de A, en \"in\", cerca del principio." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one styled only the long notes?" },
+                                        "prompt": { "en": "Which one styled only the long notes?", "es": "¿Cuál dio estilo solo a las notas largas?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1590,10 +1597,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "B scooped into \"o-\" and fell off \"blow\", both long. A's moves were on short notes." }
+                                        "why": { "en": "B scooped into \"o-\" and fell off \"blow\", both long. A's moves were on short notes.", "es": "B entró desde abajo en \"o-\" y dejó caer \"blow\", las dos largas. Los recursos de A iban en notas cortas." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one ends with a fall-off?" },
+                                        "prompt": { "en": "Which one ends with a fall-off?", "es": "¿Cuál termina con una caída?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1623,15 +1630,15 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A's \"blow\" dropped away at the end." }
+                                        "why": { "en": "A's \"blow\" dropped away at the end.", "es": "El \"blow\" de A cayó al final." }
                                     }
                                 ]
                             },
-                            "measures": { "en": "Scored on the rounds you got right first time." }
+                            "measures": { "en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera." }
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now the line your way: two moves at most, on the long notes." },
+                            "text": { "en": "Now the line your way: two moves at most, on the long notes.", "es": "Ahora la frase a tu manera: dos recursos como máximo, en las notas largas." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -1653,29 +1660,29 @@
                                 ],
                                 "score": "styled"
                             },
-                            "measures": { "en": "Scored on the notes and any move of yours we heard on a long note." }
+                            "measures": { "en": "Scored on the notes and any move of yours we heard on a long note.", "es": "Se puntúan las notas y cualquier recurso tuyo que oigamos en una nota larga." }
                         }
                     ]
                 },
                 {
                     "id": "pop-4-answer",
-                    "fact": {"id": "nashville-number-system", "text": {"en": "In the late 1950s Neal Matthews Jr. of the Jordanaires began writing vocal parts as numbers. Nashville's studios still chart songs that way."}, "source": {"en": "Wikipedia, Nashville Number System"}, "url": "https://en.wikipedia.org/wiki/Nashville_Number_System"},
-                    "title": { "en": "Answer back" },
+                    "fact": {"id": "nashville-number-system", "text": {"en": "In the late 1950s Neal Matthews Jr. of the Jordanaires began writing vocal parts as numbers. Nashville's studios still chart songs that way.", "es": "A finales de los años 50, Neal Matthews Jr., de los Jordanaires, empezó a escribir las voces con números. Los estudios de Nashville aún anotan así las canciones."}, "source": {"en": "Wikipedia, Nashville Number System", "es": "Wikipedia, Nashville Number System"}, "url": "https://en.wikipedia.org/wiki/Nashville_Number_System"},
+                    "title": { "en": "Answer back", "es": "Responde" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "The guide styles a line its way; you answer the same notes with moves of your own." },
+                            "headline": { "en": "The guide styles a line its way; you answer the same notes with moves of your own.", "es": "La guía da estilo a una frase a su manera; tú respondes con las mismas notas y tus propios recursos." },
                             "steps": [
-                                { "title": { "en": "Listen to its moves" }, "detail": { "en": "Then answer with your own" } },
-                                { "title": { "en": "Any move counts" }, "detail": { "en": "One heard is enough" } },
-                                { "title": { "en": "Less is more" }, "detail": { "en": "Two or three, on long notes" } }
+                                { "title": { "en": "Listen to its moves", "es": "Escucha sus recursos" }, "detail": { "en": "Then answer with your own", "es": "Luego responde con los tuyos" } },
+                                { "title": { "en": "Any move counts", "es": "Cualquier recurso cuenta" }, "detail": { "en": "One heard is enough", "es": "Basta con que oigamos uno" } },
+                                { "title": { "en": "Less is more", "es": "Menos es más" }, "detail": { "en": "Two or three, on long notes", "es": "Dos o tres, en notas largas" } }
                             ],
                             "visual": "echo",
                             "reviewed": false
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The line plain at your own pace first, so you know its notes." },
+                            "text": { "en": "The line plain at your own pace first, so you know its notes.", "es": "Primero, la frase tal cual a tu ritmo, para conocer sus notas." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -1699,7 +1706,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen to the guide's line, then answer it your way." },
+                            "text": { "en": "Listen to the guide's line, then answer it your way.", "es": "Escucha la frase de la guía y respóndela a tu manera." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -1735,7 +1742,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "And the second line." },
+                            "text": { "en": "And the second line.", "es": "Y la segunda frase." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -1767,22 +1774,22 @@
                                     { "beat": 12, "root": 0, "quality": "maj", "bass": null }
                                 ]
                             },
-                            "measures": { "en": "Scored on the notes and any move of yours we heard: never more for more." }
+                            "measures": { "en": "Scored on the notes and any move of yours we heard: never more for more.", "es": "Se puntúan las notas y cualquier recurso tuyo que oigamos: más recursos no suman más." }
                         }
                     ]
                 },
                 {
                     "id": "pop-4-yours",
-                    "fact": {"id": "beautiful-dreamer-1864", "text": {"en": "Beautiful Dreamer was published in 1864, shortly after Stephen Foster died."}, "source": {"en": "Wikipedia, Beautiful Dreamer"}, "url": "https://en.wikipedia.org/wiki/Beautiful_Dreamer"},
-                    "title": { "en": "Your way" },
+                    "fact": {"id": "beautiful-dreamer-1864", "text": {"en": "Beautiful Dreamer was published in 1864, shortly after Stephen Foster died.", "es": "Beautiful Dreamer se publicó en 1864, poco después de la muerte de Stephen Foster."}, "source": {"en": "Wikipedia, Beautiful Dreamer", "es": "Wikipedia, Beautiful Dreamer"}, "url": "https://en.wikipedia.org/wiki/Beautiful_Dreamer"},
+                    "title": { "en": "Your way", "es": "A tu manera" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Beautiful Dreamer's first line, written plain. Style it your way: a scoop, a fall-off, a slide or a cry." },
+                            "headline": { "en": "Beautiful Dreamer's first line, written plain. Style it your way: a scoop, a fall-off, a slide or a cry.", "es": "La primera frase de Beautiful Dreamer, escrita sin adornos. Dale estilo a tu manera: un arrastre, una caída, un portamento o un quiebro." },
                             "steps": [
-                                { "title": { "en": "Beautiful Dreamer" }, "detail": { "en": "Stephen Foster, 1864" } },
-                                { "title": { "en": "Your palette" }, "detail": { "en": "Every move from the course" } },
-                                { "title": { "en": "Hear your takes" }, "detail": { "en": "Listen back after each" } }
+                                { "title": { "en": "Beautiful Dreamer", "es": "Beautiful Dreamer" }, "detail": { "en": "Stephen Foster, 1864", "es": "Stephen Foster, 1864" } },
+                                { "title": { "en": "Your palette", "es": "Tu paleta" }, "detail": { "en": "Every move from the course", "es": "Todos los recursos del curso" } },
+                                { "title": { "en": "Hear your takes", "es": "Escucha tus tomas" }, "detail": { "en": "Listen back after each", "es": "Escúchate después de cada una" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -1808,7 +1815,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The line plain at your own pace first." },
+                            "text": { "en": "The line plain at your own pace first.", "es": "Primero, la frase tal cual a tu ritmo." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1831,7 +1838,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "After a bar of chords, sing it your way." },
+                            "text": { "en": "After a bar of chords, sing it your way.", "es": "Tras un compás de acordes, cántala a tu manera." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1855,7 +1862,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now plain, no moves at all, to hear the difference." },
+                            "text": { "en": "Now plain, no moves at all, to hear the difference.", "es": "Ahora tal cual, sin ningún recurso, para oír la diferencia." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1878,7 +1885,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Once more, a different way." },
+                            "text": { "en": "Once more, a different way.", "es": "Una vez más, de otra manera." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1900,24 +1907,25 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the notes and any move of yours we heard, never more for more. A very small move may slip past us."
+                                "en": "Scored on the notes and any move of yours we heard, never more for more. A very small move may slip past us.",
+                                "es": "Se puntúan las notas y cualquier recurso tuyo que oigamos; más recursos no suman más. Un recurso muy pequeño se nos puede escapar."
                             }
                         }
                     ]
                 },
                 {
                     "id": "pop-4-challenge",
-                    "title": { "en": "Your record" },
+                    "title": { "en": "Your record", "es": "Tu versión" },
                     "challenge": true,
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Back to lesson 1's song. Then: plain. Now: your record, your way, in your colour." },
+                            "headline": { "en": "Back to lesson 1's song. Then: plain. Now: your record, your way, in your colour.", "es": "Volvemos a la canción de la lección 1. Antes: tal cual. Ahora: tu versión, a tu manera, en tu color." },
                             "steps": [
-                                { "title": { "en": "Down in the Valley" }, "detail": { "en": "The whole verse, over chords" } },
-                                { "title": { "en": "Your moves, your colour" }, "detail": { "en": "Two or three moves, where they fit" } },
-                                { "title": { "en": "Look after your voice" }, "detail": { "en": "Stop if anything tightens, tickles or hurts; rest when hoarse" } }
+                                { "title": { "en": "Down in the Valley", "es": "Down in the Valley" }, "detail": { "en": "The whole verse, over chords", "es": "La estrofa entera, sobre acordes" } },
+                                { "title": { "en": "Your moves, your colour", "es": "Tus recursos, tu color" }, "detail": { "en": "Two or three moves, where they fit", "es": "Dos o tres recursos, donde encajen" } },
+                                { "title": { "en": "Look after your voice", "es": "Cuida tu voz" }, "detail": { "en": "Stop if anything tightens, tickles or hurts; rest when hoarse", "es": "Si notas tensión, carraspera o dolor, para; descansa si notas la voz ronca" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -1953,7 +1961,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The verse at your own pace first." },
+                            "text": { "en": "The verse at your own pace first.", "es": "Primero, la estrofa a tu ritmo." },
                             "exercise": {
                                 "tempo": 96,
                                 "notes": [
@@ -1986,7 +1994,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "After a bar of chords, sing your record." },
+                            "text": { "en": "After a bar of chords, sing your record.", "es": "Tras un compás de acordes, canta tu versión." },
                             "exercise": {
                                 "thenAndNow": "pop.first",
                                 "tempo": 96,
@@ -2018,11 +2026,11 @@
                                 ],
                                 "score": "styled"
                             },
-                            "measures": { "en": "Scored on the notes and any move of yours we heard. Listen back: then plain, now your record." }
+                            "measures": { "en": "Scored on the notes and any move of yours we heard. Listen back: then plain, now your record.", "es": "Se puntúan las notas y cualquier recurso tuyo que oigamos. Escúchate: antes tal cual, ahora tu versión." }
                         },
                         {
                             "kind": "selfcheck",
-                            "text": { "en": "Hear yours beside the guide's plain verse. We don't score the colour yet." },
+                            "text": { "en": "Hear yours beside the guide's plain verse. We don't score the colour yet.", "es": "Escúchate junto a la estrofa sin adornos de la guía. Aún no puntuamos el color." },
                             "exercise": {
                                 "tempo": 96,
                                 "lead": 3,
@@ -2054,8 +2062,8 @@
                                     ]
                                 },
                                 "questions": [
-                                    { "en": "Did your moves land on the long notes?" },
-                                    { "en": "Did your colour stay easy, never pushed?" }
+                                    { "en": "Did your moves land on the long notes?", "es": "¿Tus recursos cayeron en las notas largas?" },
+                                    { "en": "Did your colour stay easy, never pushed?", "es": "¿Tu color siguió cómodo, sin forzar?" }
                                 ]
                             }
                         }

@@ -2,30 +2,31 @@
     "id": "yodel",
     "version": 1,
     "reviewed": false,
-    "title": { "en": "Yodeling" },
+    "title": { "en": "Yodeling", "es": "Yodel" },
     "units": [
         {
             "id": "yodel-find-the-flip",
-            "title": { "en": "Find the flip" },
+            "title": { "en": "Find the flip", "es": "Encuentra el salto" },
             "colour": 4,
             "lessons": [
                 {
                     "id": "yodel-1-flip",
-                    "fact": {"id": "yodel-calls-carry", "text": {"en": "In a 2020 outdoor study with 15 callers, yodeled calls stayed louder than ordinary calls at long range, but listeners beyond 50 meters made out yodeled words less well."}, "source": {"en": "Titze, Blake and Wodzak, Journal of Voice (2020)"}, "url": "https://europepmc.org/article/MED/30227979"},
-                    "title": { "en": "Find the flip" },
+                    "fact": {"id": "yodel-calls-carry", "text": {"en": "In a 2020 outdoor study with 15 callers, yodeled calls stayed louder than ordinary calls at long range, but listeners beyond 50 meters made out yodeled words less well.", "es": "En un estudio de 2020 al aire libre con 15 participantes, las llamadas en yodel se seguían oyendo más fuertes que las normales a larga distancia, pero a más de 50 metros se entendían peor sus palabras."}, "source": {"en": "Titze, Blake and Wodzak, Journal of Voice (2020)", "es": "Titze, Blake y Wodzak, Journal of Voice (2020)"}, "url": "https://europepmc.org/article/MED/30227979"},
+                    "title": { "en": "Find the flip", "es": "Encuentra el salto" },
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Herders called across valleys with a voice that flips, and the flip is already in yours. Listen for the jump: yours will do this too. The app hears the jump in pitch, not which voice made it: you'll hear that part yourself."
+                                "en": "Herders called across valleys with a voice that flips, and the flip is already in yours. Listen for the jump: yours will do this too. The app hears the jump in pitch, not which voice made it: you'll hear that part yourself.",
+                                "es": "Los pastores se llamaban de valle a valle con una voz que salta, el yodel (el canto tirolés), y ese salto ya está en la tuya. Fíjate en el salto: tu voz también lo hará. La app oye el salto de altura, no qué voz lo produce: eso lo oirás tú."
                             },
                             "steps": [
-                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                { "title": { "en": "A light flick" }, "detail": { "en": "Never a crack, never a slam back down: medium volume, land at speaking volume" } },
+                                { "title": { "en": "Warm up first", "es": "Primero, calienta" }, "detail": { "en": "A lip trill or a quiet siren, up and down", "es": "Una vibración de labios o una sirena suave, arriba y abajo" } },
+                                { "title": { "en": "A light flick", "es": "Un toque ligero" }, "detail": { "en": "Never a crack, never a slam back down: medium volume, land at speaking volume", "es": "Sin quiebres bruscos ni golpes al bajar: volumen medio, y aterriza a volumen de conversación" } },
                                 {
-                                    "title": { "en": "Stop if it strains" },
-                                    "detail": { "en": "Tightens, tickles or hurts: rest. Don't yodel when ill, and see someone if hoarseness lasts more than two weeks" }
+                                    "title": { "en": "Stop if it strains", "es": "Si fuerzas la voz, para" },
+                                    "detail": { "en": "Tightens, tickles or hurts: rest. Don't yodel when ill, and see someone if hoarseness lasts more than two weeks", "es": "Si notas tensión, carraspera o dolor, descansa la voz. No hagas yodel si no te encuentras bien, y si la ronquera dura más de dos semanas, consulta a un médico" }
                                 }
                             ],
                             "visual": "echo",
@@ -44,7 +45,8 @@
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "Slide up and down once on a quiet \"oo\", following the ribbon. Somewhere your voice may jump: that's your flip. Go only as high as feels easy, and keep the top light, never louder."
+                                "en": "Slide up and down once on a quiet \"oo\", following the ribbon. Somewhere your voice may jump: that's your flip. Go only as high as feels easy, and keep the top light, never louder.",
+                                "es": "Desliza la voz hacia arriba y hacia abajo una vez en un \"oo\" (una u) suave, siguiendo la línea. En algún punto la voz puede saltar: ahí está tu salto. Sube solo hasta donde te resulte fácil y mantén ligero lo agudo, nunca más fuerte."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -60,7 +62,7 @@
                         },
                         {
                             "kind": "wave",
-                            "text": { "en": "Breathe, then once more, the same way. Two jumps in the same place make sure it's your flip." },
+                            "text": { "en": "Breathe, then once more, the same way. Two jumps in the same place make sure it's your flip.", "es": "Respira y repite, igual. Dos saltos en el mismo punto confirman que es tu salto." },
                             "exercise": {
                                 "tempo": 60,
                                 "lead": 2,
@@ -76,7 +78,8 @@
                         {
                             "kind": "wave",
                             "text": {
-                                "en": "A higher siren, twice up and down, lighter still, like an owl's hoo: many voices, often men's, flip higher. If yours already jumped twice in the same place, sing it gently or skip it."
+                                "en": "A higher siren, twice up and down, lighter still, like an owl's hoo: many voices, often men's, flip higher. If yours already jumped twice in the same place, sing it gently or skip it.",
+                                "es": "Una sirena más aguda, dos veces arriba y abajo, aún más ligera, como el ulular de un búho: muchas voces, a menudo las de hombre, saltan más arriba. Si la tuya ya saltó dos veces en el mismo punto, cántala con suavidad o déjala."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -93,7 +96,8 @@
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Now on purpose: from below your flip, jump over it and back, then your first yodel hook, \"yo-hee-o\", twice. Listen, then sing it back."
+                                "en": "Now on purpose: from below your flip, jump over it and back, then your first yodel hook, \"yo-hee-o\", twice. Listen, then sing it back.",
+                                "es": "Ahora a propósito: empieza por debajo de tu salto, crúzalo y vuelve; luego, tu primer motivo de yodel, \"yo-hee-o\" (\"hee\": una ji con la j muy suave), dos veces. Escucha y repítelo."
                             },
                             "exercise": {
                                 "keep": "yodel.first-hook",
@@ -115,24 +119,25 @@
                                 "generous": true
                             },
                             "measures": {
-                                "en": "Scored on the flips and the notes. If the top sounded the same as the bottom, let it tip over: lighter, quieter, hootier. Listen back: did the top sound lighter, like a different voice?"
+                                "en": "Scored on the flips and the notes. If the top sounded the same as the bottom, let it tip over: lighter, quieter, hootier. Listen back: did the top sound lighter, like a different voice?",
+                                "es": "Se puntúan los saltos y las notas. Si lo agudo sonó igual que lo grave, deja que la voz dé el salto: más ligera, más suave, más aflautada. Escúchate: ¿lo agudo sonó más ligero, como otra voz?"
                             }
                         }
                     ]
                 },
                 {
                     "id": "yodel-1-two",
-                    "fact": {"id": "why-chest-voice", "text": {"en": "The name \"chest voice\" may come from sensations felt in the windpipe or chest when you make its rich, overtone-heavy sound. Light falsetto puts most of its energy in the note itself."}, "source": {"en": "Titze, Journal of the Acoustical Society of America (2014)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4167751/"},
-                    "title": { "en": "Two voices" },
+                    "fact": {"id": "why-chest-voice", "text": {"en": "The name \"chest voice\" may come from sensations felt in the windpipe or chest when you make its rich, overtone-heavy sound. Light falsetto puts most of its energy in the note itself.", "es": "El nombre \"voz de pecho\" quizá venga de lo que se nota en la tráquea o en el pecho al producir su sonido rico en armónicos. El falsete ligero concentra casi toda su energía en la nota misma."}, "source": {"en": "Titze, Journal of the Acoustical Society of America (2014)", "es": "Titze, Journal of the Acoustical Society of America (2014)"}, "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4167751/"},
+                    "title": { "en": "Two voices", "es": "Dos voces" },
                     "strictness": "relaxed",
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Your voice has two sounds: chest voice, low and speaking-like, and head voice, high, light and hooty. A yodel flips between them." },
+                            "headline": { "en": "Your voice has two sounds: chest voice, low and speaking-like, and head voice, high, light and hooty. A yodel flips between them.", "es": "Tu voz tiene dos sonidos: la voz de pecho, grave y parecida a la hablada, y la voz de cabeza, aguda, ligera y aflautada. El yodel salta de una a otra." },
                             "steps": [
-                                { "title": { "en": "A gear change" }, "detail": { "en": "Chest voice: the vocal folds thick and short. Head voice: thin and stretched" } },
-                                { "title": { "en": "\"ho\" below your flip" }, "detail": { "en": "Chest buzzes" } },
-                                { "title": { "en": "\"hoo\" above it" }, "detail": { "en": "Head floats, light and quiet" } }
+                                { "title": { "en": "A gear change", "es": "Cambio de marcha" }, "detail": { "en": "Chest voice: the vocal folds thick and short. Head voice: thin and stretched", "es": "Voz de pecho: los pliegues vocales gruesos y cortos. Voz de cabeza: finos y estirados" } },
+                                { "title": { "en": "\"ho\" below your flip", "es": "\"ho\" por debajo del salto" }, "detail": { "en": "Chest buzzes", "es": "Cosquilleo en el pecho" } },
+                                { "title": { "en": "\"hoo\" above it", "es": "\"hoo\" por encima" }, "detail": { "en": "Head floats, light and quiet", "es": "La voz de cabeza flota, ligera y suave" } }
                             ],
                             "visual": "steady",
                             "reviewed": false,
@@ -148,7 +153,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "Find \"ho\" low in chest voice, then \"hoo\" up high, light. Each note waits until you find it." },
+                            "text": { "en": "Find \"ho\" low in chest voice, then \"hoo\" up high, light. Each note waits until you find it.", "es": "Busca \"ho\" (una jo con la j muy suave) grave, en voz de pecho, y luego \"hoo\" (una u con aire, una j muy suave) arriba, ligero. Cada nota te espera hasta que la encuentres." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -161,13 +166,14 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Hold \"ho\" in chest voice, easy and low." },
+                            "text": { "en": "Hold \"ho\" in chest voice, easy and low.", "es": "Mantén \"ho\" en voz de pecho, fácil y grave." },
                             "exercise": { "tempo": 60, "notes": [{ "beat": 2, "length": 4, "step": -7, "lyric": "ho" }], "turn": false, "base": "flip", "score": "hold" }
                         },
                         {
                             "kind": "play",
                             "text": {
-                                "en": "Now \"hoo\", light and easy, above your flip: 4 beats. If your voice cracks on the way, you found it; a light voice may waver a little, and that's fine."
+                                "en": "Now \"hoo\", light and easy, above your flip: 4 beats. If your voice cracks on the way, you found it; a light voice may waver a little, and that's fine.",
+                                "es": "Ahora \"hoo\", ligero y fácil, por encima de tu salto: 4 tiempos. Si la voz se quiebra por el camino, lo has encontrado; una voz ligera puede temblar un poco, y no pasa nada."
                             },
                             "exercise": {
                                 "tempo": 60,
@@ -178,11 +184,11 @@
                                 "base": "flip",
                                 "generous": true
                             },
-                            "measures": { "en": "Scored on your last \"hoo\" being on its note, not how steady it was: a new head voice wavers." }
+                            "measures": { "en": "Scored on your last \"hoo\" being on its note, not how steady it was: a new head voice wavers.", "es": "Se puntúa que tu último \"hoo\" esté en su nota, no que sea estable: una voz de cabeza nueva tiembla." }
                         },
                         {
                             "kind": "selfcheck",
-                            "text": { "en": "Sing \"ho\" then \"hoo\" once more, and hear yours beside the guide's." },
+                            "text": { "en": "Sing \"ho\" then \"hoo\" once more, and hear yours beside the guide's.", "es": "Canta \"ho\" y luego \"hoo\" una vez más, y escúchate junto a la guía." },
                             "exercise": {
                                 "tempo": 60,
                                 "lead": 2,
@@ -194,8 +200,8 @@
                                     ]
                                 },
                                 "questions": [
-                                    { "en": "Did the \"hoo\" sound like a different, lighter voice?" },
-                                    { "en": "Did the \"ho\" buzz, and the \"hoo\" float?" }
+                                    { "en": "Did the \"hoo\" sound like a different, lighter voice?", "es": "¿El \"hoo\" sonó como otra voz, más ligera?" },
+                                    { "en": "Did the \"ho\" buzz, and the \"hoo\" float?", "es": "¿Notaste cosquilleo en el \"ho\" y el \"hoo\" flotó?" }
                                 ]
                             }
                         }
@@ -203,18 +209,19 @@
                 },
                 {
                     "id": "yodel-1-hear",
-                    "fact": {"id": "mbuti-hawaiian-yodel", "text": {"en": "Yodeling isn't only Alpine: the Mbuti of the Congo weave yodels into their songs, and Hawaiian falsetto singers make a yodel of the break."}, "source": {"en": "Wikipedia, Yodeling"}, "url": "https://en.wikipedia.org/wiki/Yodeling"},
-                    "title": { "en": "Flip or slide?" },
+                    "fact": {"id": "mbuti-hawaiian-yodel", "text": {"en": "Yodeling isn't only Alpine: the Mbuti of the Congo weave yodels into their songs, and Hawaiian falsetto singers make a yodel of the break.", "es": "El yodel no es solo alpino: los mbuti del Congo entretejen yodels en sus canciones, y los cantantes hawaianos de falsete hacen del quiebre un yodel."}, "source": {"en": "Wikipedia, Yodeling", "es": "Wikipedia, Yodeling"}, "url": "https://en.wikipedia.org/wiki/Yodeling"},
+                    "title": { "en": "Flip or slide?", "es": "¿Saltar o deslizar?" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "A yodel flips: the voice jumps straight from one note to the other. A slide passes through every note in between. Your ear can learn the difference."
+                                "en": "A yodel flips: the voice jumps straight from one note to the other. A slide passes through every note in between. Your ear can learn the difference.",
+                                "es": "Un yodel salta: la voz pasa directamente de una nota a la otra. Al deslizar, la voz pasa por todas las notas intermedias. Tu oído puede aprender la diferencia."
                             },
                             "steps": [
-                                { "title": { "en": "The flip" }, "detail": { "en": "Straight across: a light flick" } },
-                                { "title": { "en": "The slide" }, "detail": { "en": "A siren between the notes" } },
-                                { "title": { "en": "Listen as often as you like" }, "detail": { "en": "Only your first answer counts" } }
+                                { "title": { "en": "The flip", "es": "Saltar" }, "detail": { "en": "Straight across: a light flick", "es": "Directo de una a otra: un toque ligero" } },
+                                { "title": { "en": "The slide", "es": "Deslizar" }, "detail": { "en": "A siren between the notes", "es": "Una sirena entre las notas" } },
+                                { "title": { "en": "Listen as often as you like", "es": "Escucha las veces que quieras" }, "detail": { "en": "Only your first answer counts", "es": "Solo cuenta tu primera respuesta" } }
                             ],
                             "visual": "echo",
                             "reviewed": false,
@@ -231,13 +238,13 @@
                         },
                         {
                             "kind": "choose",
-                            "text": { "en": "Listen to both, then choose." },
+                            "text": { "en": "Listen to both, then choose.", "es": "Escucha las dos y luego elige." },
                             "exercise": {
                                 "tempo": 66,
                                 "base": "flip",
                                 "rounds": [
                                     {
-                                        "prompt": { "en": "Which one flipped?" },
+                                        "prompt": { "en": "Which one flipped?", "es": "¿Cuál saltó?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -257,10 +264,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A jumped straight across each way. B slid through the notes between." }
+                                        "why": { "en": "A jumped straight across each way. B slid through the notes between.", "es": "A saltó directo al subir y al bajar. B se deslizó por las notas intermedias." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one flipped?" },
+                                        "prompt": { "en": "Which one flipped?", "es": "¿Cuál saltó?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -280,10 +287,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "B went straight across. A glided, like a siren." }
+                                        "why": { "en": "B went straight across. A glided, like a siren.", "es": "B saltó directo. A se deslizó, como una sirena." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one slid?" },
+                                        "prompt": { "en": "Which one slid?", "es": "¿Cuál se deslizó?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -301,10 +308,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "Over an octave the slide is long and easy to hear: B." }
+                                        "why": { "en": "Over an octave the slide is long and easy to hear: B.", "es": "En una octava, el deslizamiento es largo y fácil de oír: B." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one flipped?" },
+                                        "prompt": { "en": "Which one flipped?", "es": "¿Cuál saltó?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -322,10 +329,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "A smaller leap, so a slide is shorter. B still jumped straight across." }
+                                        "why": { "en": "A smaller leap, so a slide is shorter. B still jumped straight across.", "es": "Un salto más pequeño, así que el deslizamiento es más corto. B, aun así, saltó directo." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one slid only on the way down?" },
+                                        "prompt": { "en": "Which one slid only on the way down?", "es": "¿Cuál se deslizó solo al bajar?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -343,10 +350,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A flipped up, then slid down. The way down is the one singers often smear." }
+                                        "why": { "en": "A flipped up, then slid down. The way down is the one singers often smear.", "es": "A saltó al subir y se deslizó al bajar. La bajada es la que más se suele desdibujar." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one flipped both ways?" },
+                                        "prompt": { "en": "Which one flipped both ways?", "es": "¿Cuál saltó al subir y al bajar?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -364,26 +371,26 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "B flipped up and down. A slid on the way up." }
+                                        "why": { "en": "B flipped up and down. A slid on the way up.", "es": "B saltó al subir y al bajar. A se deslizó al subir." }
                                     }
                                 ]
                             },
-                            "measures": { "en": "Scored on the rounds you got right first time." }
+                            "measures": { "en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera." }
                         }
                     ]
                 },
                 {
                     "id": "yodel-1-challenge",
-                    "title": { "en": "The hook in time" },
+                    "title": { "en": "The hook in time", "es": "El motivo a ritmo" },
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Four hooks in rhythm. First slowly, with a gap after each; then four in a row." },
+                            "headline": { "en": "Four hooks in rhythm. First slowly, with a gap after each; then four in a row.", "es": "Cuatro motivos a ritmo. Primero despacio, con una pausa después de cada uno; luego, cuatro seguidos." },
                             "steps": [
-                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                { "title": { "en": "A light flick" }, "detail": { "en": "Let the top tip over, never a hard catch" } },
-                                { "title": { "en": "Land lightly" }, "detail": { "en": "Back down at speaking volume" } }
+                                { "title": { "en": "Warm up first", "es": "Primero, calienta" }, "detail": { "en": "A lip trill or a quiet siren, up and down", "es": "Una vibración de labios o una sirena suave, arriba y abajo" } },
+                                { "title": { "en": "A light flick", "es": "Un toque ligero" }, "detail": { "en": "Let the top tip over, never a hard catch", "es": "Deja que la voz dé el salto sola, nunca un golpe brusco" } },
+                                { "title": { "en": "Land lightly", "es": "Aterriza suave" }, "detail": { "en": "Back down at speaking volume", "es": "De vuelta abajo, a volumen de conversación" } }
                             ],
                             "visual": "echo",
                             "reviewed": false,
@@ -403,7 +410,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "Two hooks at your own pace first." },
+                            "text": { "en": "Two hooks at your own pace first.", "es": "Primero, dos motivos a tu ritmo." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -420,7 +427,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then sing two hooks back, a gap after each." },
+                            "text": { "en": "Listen, then sing two hooks back, a gap after each.", "es": "Escucha y repite dos motivos, con una pausa después de cada uno." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -438,7 +445,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now four, in time over the home chord, a breath after the second." },
+                            "text": { "en": "Now four, in time over the home chord, a breath after the second.", "es": "Ahora cuatro, a tiempo sobre el acorde de tónica, respirando después del segundo." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -463,12 +470,13 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored half on clean flips, up and down, and half on the notes. About five minutes of flips at a time: take a break. Listen back: did the top sound lighter, like a different voice?"
+                                "en": "Scored half on clean flips, up and down, and half on the notes. About five minutes of flips at a time: take a break. Listen back: did the top sound lighter, like a different voice?",
+                                "es": "Se puntúan a partes iguales los saltos limpios, al subir y al bajar, y las notas. Unos cinco minutos de saltos cada vez: luego, descansa. Escúchate: ¿lo agudo sonó más ligero, como otra voz?"
                             }
                         },
                         {
                             "kind": "selfcheck",
-                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's. The app hears the jump in pitch, not which voice made it." },
+                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's. The app hears the jump in pitch, not which voice made it.", "es": "Canta el motivo una vez más y luego escúchate junto a la guía. La app oye el salto de altura, no qué voz lo produce." },
                             "exercise": {
                                 "tempo": 66,
                                 "lead": 2,
@@ -481,8 +489,8 @@
                                     ]
                                 },
                                 "questions": [
-                                    { "en": "Did the top sound like a different, lighter voice?" },
-                                    { "en": "Did the way down land lightly, at speaking volume?" }
+                                    { "en": "Did the top sound like a different, lighter voice?", "es": "¿Lo agudo sonó como otra voz, más ligera?" },
+                                    { "en": "Did the way down land lightly, at speaking volume?", "es": "¿La bajada aterrizó suave, a volumen de conversación?" }
                                 ]
                             }
                         }
@@ -492,23 +500,24 @@
         },
         {
             "id": "yodel-vowel-switch",
-            "title": { "en": "The vowel switch" },
+            "title": { "en": "The vowel switch", "es": "El cambio de vocal" },
             "colour": 4,
             "lessons": [
                 {
                     "id": "yodel-2-yodelay",
-                    "fact": {"id": "yodel-mri-vowel-switch", "text": {"en": "Filmed with real-time MRI in a 2011 study, two Swiss yodelers flipping up to a high \"oo\" narrowed their lips, raised the back of the tongue and widened the throat, while the jaw barely moved."}, "source": {"en": "Echternach, Markl and Richter, Logopedics Phoniatrics Vocology (2011)"}, "url": "https://europepmc.org/article/MED/21417599"},
-                    "title": { "en": "Open below, narrow above" },
+                    "fact": {"id": "yodel-mri-vowel-switch", "text": {"en": "Filmed with real-time MRI in a 2011 study, two Swiss yodelers flipping up to a high \"oo\" narrowed their lips, raised the back of the tongue and widened the throat, while the jaw barely moved.", "es": "En un estudio de 2011 filmado con resonancia magnética en tiempo real, dos cantantes suizos de yodel, al saltar a un \"oo\" (una u) agudo, estrechaban los labios, subían la parte de atrás de la lengua y ensanchaban la garganta, mientras la mandíbula apenas se movía."}, "source": {"en": "Echternach, Markl and Richter, Logopedics Phoniatrics Vocology (2011)", "es": "Echternach, Markl y Richter, Logopedics Phoniatrics Vocology (2011)"}, "url": "https://europepmc.org/article/MED/21417599"},
+                    "title": { "en": "Open below, narrow above", "es": "Abierta abajo, cerrada arriba" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "Yodelers switch vowel at the flip: an open vowel on the low chest note, a narrow one on the high head note. It helps the voice tip over."
+                                "en": "Yodelers switch vowel at the flip: an open vowel on the low chest note, a narrow one on the high head note. It helps the voice tip over.",
+                                "es": "Quien canta yodel cambia de vocal en el salto: una vocal abierta en la nota grave de pecho y una cerrada en la nota aguda de cabeza. Eso ayuda a que la voz dé el salto."
                             },
                             "steps": [
-                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                { "title": { "en": "\"yo\" low, \"hee\" high" }, "detail": { "en": "Open, then narrow" } },
-                                { "title": { "en": "High voices: \"oo\" first" }, "detail": { "en": "\"ee\" up high can pinch" } }
+                                { "title": { "en": "Warm up first", "es": "Primero, calienta" }, "detail": { "en": "A lip trill or a quiet siren, up and down", "es": "Una vibración de labios o una sirena suave, arriba y abajo" } },
+                                { "title": { "en": "\"yo\" low, \"hee\" high", "es": "\"yo\" grave, \"hee\" agudo" }, "detail": { "en": "Open, then narrow", "es": "Abierta y luego cerrada (\"hee\": una ji con la j muy suave)" } },
+                                { "title": { "en": "High voices: \"oo\" first", "es": "Voces agudas: primero \"oo\"" }, "detail": { "en": "\"ee\" up high can pinch", "es": "\"ee\" (una i) puede apretar en lo agudo" } }
                             ],
                             "visual": "vowels",
                             "reviewed": false,
@@ -528,7 +537,7 @@
                         },
                         {
                             "kind": "wave",
-                            "text": { "en": "Trace the yodel: the ribbon jumps straight up and back. Jump with it, light at the top." },
+                            "text": { "en": "Trace the yodel: the ribbon jumps straight up and back. Jump with it, light at the top.", "es": "Sigue el yodel con la voz: la línea sube de un salto y vuelve. Salta con ella, ligera arriba." },
                             "exercise": {
                                 "tempo": 66,
                                 "lead": 2,
@@ -543,7 +552,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then sing \"yo-hee-o\" back." },
+                            "text": { "en": "Listen, then sing \"yo-hee-o\" back.", "es": "Escucha y repite \"yo-hee-o\"." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -558,7 +567,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "And \"lo-ee-o\"." },
+                            "text": { "en": "And \"lo-ee-o\".", "es": "Y \"lo-ee-o\"." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -573,7 +582,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The guide sings two hooks, then drops out: breathe, then sing two more, in time. Just listen to the guide's two." },
+                            "text": { "en": "The guide sings two hooks, then drops out: breathe, then sing two more, in time. Just listen to the guide's two.", "es": "La guía canta dos motivos y luego deja de cantar: respira y canta dos más, a tiempo. Los dos de la guía, solo escúchalos." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -594,24 +603,25 @@
                                 "base": "flip",
                                 "score": "flip"
                             },
-                            "measures": { "en": "Scored on clean flips and the notes." }
+                            "measures": { "en": "Scored on clean flips and the notes.", "es": "Se puntúan los saltos limpios y las notas." }
                         }
                     ]
                 },
                 {
                     "id": "yodel-2-down",
-                    "fact": {"id": "jodeln-jo", "text": {"en": "\"Yodel\" comes from the German jodeln, to call out the syllable \"jo\"."}, "source": {"en": "Wikipedia, Yodeling"}, "url": "https://en.wikipedia.org/wiki/Yodeling"},
-                    "title": { "en": "The way down" },
+                    "fact": {"id": "jodeln-jo", "text": {"en": "\"Yodel\" comes from the German jodeln, to call out the syllable \"jo\".", "es": "\"Yodel\" viene del alemán jodeln, llamar con la sílaba \"jo\" (que suena \"yo\")."}, "source": {"en": "Wikipedia, Yodeling", "es": "Wikipedia, Yodeling"}, "url": "https://en.wikipedia.org/wiki/Yodeling"},
+                    "title": { "en": "The way down", "es": "La bajada" },
                     "steps": [
                         {
                             "kind": "learn",
                             "headline": {
-                                "en": "The way down is the flip singers often slam. Never slam: land in chest voice lightly, at speaking volume, as if you'd just said \"oh\"."
+                                "en": "The way down is the flip singers often slam. Never slam: land in chest voice lightly, at speaking volume, as if you'd just said \"oh\".",
+                                "es": "La bajada es el salto que más se suele dar de golpe. Nunca de golpe: aterriza en la voz de pecho con suavidad, a volumen de conversación, como si acabaras de decir \"oh\"."
                             },
                             "steps": [
-                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                { "title": { "en": "\"hee-o\"" }, "detail": { "en": "High to low, one flip" } },
-                                { "title": { "en": "Land lightly" }, "detail": { "en": "Speaking volume, never a thump" } }
+                                { "title": { "en": "Warm up first", "es": "Primero, calienta" }, "detail": { "en": "A lip trill or a quiet siren, up and down", "es": "Una vibración de labios o una sirena suave, arriba y abajo" } },
+                                { "title": { "en": "\"hee-o\"", "es": "\"hee-o\"" }, "detail": { "en": "High to low, one flip", "es": "De agudo a grave, un solo salto" } },
+                                { "title": { "en": "Land lightly", "es": "Aterriza suave" }, "detail": { "en": "Speaking volume, never a thump", "es": "A volumen de conversación, nunca un golpe" } }
                             ],
                             "visual": "echo",
                             "reviewed": false,
@@ -629,7 +639,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Over an octave first: \"hee-o\", landing lightly." },
+                            "text": { "en": "Over an octave first: \"hee-o\", landing lightly.", "es": "Primero en una octava: \"hee-o\" (\"hee\": una ji con la j muy suave), aterrizando suave." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -645,7 +655,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Over a fifth, the smallest leap: flip down, don't slide." },
+                            "text": { "en": "Over a fifth, the smallest leap: flip down, don't slide.", "es": "En una quinta, el salto más pequeño: salta hacia abajo, no te deslices." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -661,7 +671,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then sing three \"hee-o\"s back, each landing lightly." },
+                            "text": { "en": "Listen, then sing three \"hee-o\"s back, each landing lightly.", "es": "Escucha y repite tres \"hee-o\", aterrizando suave en cada uno." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -677,22 +687,23 @@
                                 "score": "flip"
                             },
                             "measures": {
-                                "en": "Scored on the downward flips and the notes. Listen back: did each one land lightly?"
+                                "en": "Scored on the downward flips and the notes. Listen back: did each one land lightly?",
+                                "es": "Se puntúan los saltos hacia abajo y las notas. Escúchate: ¿cada uno aterrizó suave?"
                             }
                         }
                     ]
                 },
                 {
                     "id": "yodel-2-leaps",
-                    "title": { "en": "Sixths, octaves, fifths" },
+                    "title": { "en": "Sixths, octaves, fifths", "es": "Sextas, octavas, quintas" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "The same flip across three leaps: a sixth, an octave (often easier) and a fifth, the smallest and hardest. The sixth and the fifth on their own, then all three in a row." },
+                            "headline": { "en": "The same flip across three leaps: a sixth, an octave (often easier) and a fifth, the smallest and hardest. The sixth and the fifth on their own, then all three in a row.", "es": "El mismo salto en tres intervalos: una sexta, una octava (a menudo más fácil) y una quinta, la más pequeña y la más difícil. Primero la sexta y la quinta por separado; luego, las tres seguidas." },
                             "steps": [
-                                { "title": { "en": "Rest first" }, "detail": { "en": "You've sung a lot of flips: a minute's quiet, then a gentle warm-up" } },
-                                { "title": { "en": "Bigger can be easier" }, "detail": { "en": "The octave gives the voice room to tip over" } },
-                                { "title": { "en": "The fifth last" }, "detail": { "en": "Small leaps tempt you to slide" } }
+                                { "title": { "en": "Rest first", "es": "Descansa antes" }, "detail": { "en": "You've sung a lot of flips: a minute's quiet, then a gentle warm-up", "es": "Has cantado muchos saltos: un minuto sin cantar y luego un calentamiento suave" } },
+                                { "title": { "en": "Bigger can be easier", "es": "Más grande, a veces más fácil" }, "detail": { "en": "The octave gives the voice room to tip over", "es": "La octava le da a la voz espacio para dar el salto" } },
+                                { "title": { "en": "The fifth last", "es": "La quinta, al final" }, "detail": { "en": "Small leaps tempt you to slide", "es": "Los saltos pequeños invitan a deslizarse" } }
                             ],
                             "visual": "ladder",
                             "reviewed": false,
@@ -715,7 +726,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The three leaps at your own pace first: a sixth, an octave, a fifth." },
+                            "text": { "en": "The three leaps at your own pace first: a sixth, an octave, a fifth.", "es": "Primero, los tres saltos a tu ritmo: una sexta, una octava, una quinta." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -735,7 +746,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "A sixth: listen, then sing it back." },
+                            "text": { "en": "A sixth: listen, then sing it back.", "es": "Una sexta: escucha y repítela." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -750,7 +761,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "A fifth, the hardest. Flip, don't slide." },
+                            "text": { "en": "A fifth, the hardest. Flip, don't slide.", "es": "Una quinta, la más difícil. Salta, no te deslices." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -765,7 +776,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now all three in a row: a sixth, an octave, a fifth." },
+                            "text": { "en": "Now all three in a row: a sixth, an octave, a fifth.", "es": "Ahora las tres seguidas: una sexta, una octava, una quinta." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -784,24 +795,25 @@
                                 "score": "flip"
                             },
                             "measures": {
-                                "en": "Scored on the flips and notes across all three leaps."
+                                "en": "Scored on the flips and notes across all three leaps.",
+                                "es": "Se puntúan los saltos y las notas en los tres intervalos."
                             }
                         }
                     ]
                 },
                 {
                     "id": "yodel-2-challenge",
-                    "fact": {"id": "ranz-des-vaches-homesick", "text": {"en": "Rousseau wrote, in his music dictionary of the 1760s, that Swiss soldiers serving abroad were forbidden to sing the herders' call, the Ranz des vaches, because it made them too homesick."}, "source": {"en": "swissinfo, Ranz des vaches"}, "url": "https://www.swissinfo.ch/eng/culture/ranz-des-vaches/7685444"},
-                    "title": { "en": "Call across the valley" },
+                    "fact": {"id": "ranz-des-vaches-homesick", "text": {"en": "Rousseau wrote, in his music dictionary of the 1760s, that Swiss soldiers serving abroad were forbidden to sing the herders' call, the Ranz des vaches, because it made them too homesick.", "es": "Rousseau escribió en su diccionario de música, en la década de 1760, que a los soldados suizos que servían en el extranjero se les prohibía cantar la llamada de los pastores, el Ranz des vaches, porque les daba demasiada nostalgia."}, "source": {"en": "swissinfo, Ranz des vaches", "es": "swissinfo, Ranz des vaches"}, "url": "https://www.swissinfo.ch/eng/culture/ranz-des-vaches/7685444"},
+                    "title": { "en": "Call across the valley", "es": "Llama de valle a valle" },
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Herders called across valleys with a yodel, and the valley carried it, so you never need to push: medium volume." },
+                            "headline": { "en": "Herders called across valleys with a yodel, and the valley carried it, so you never need to push: medium volume.", "es": "Los pastores se llamaban de valle a valle con un yodel, y el valle lo llevaba lejos, así que nunca hace falta empujar: volumen medio." },
                             "steps": [
-                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                { "title": { "en": "Listen to the call" }, "detail": { "en": "Then answer it" } },
-                                { "title": { "en": "Each call longer" }, "detail": { "en": "One hook, then two, then three" } }
+                                { "title": { "en": "Warm up first", "es": "Primero, calienta" }, "detail": { "en": "A lip trill or a quiet siren, up and down", "es": "Una vibración de labios o una sirena suave, arriba y abajo" } },
+                                { "title": { "en": "Listen to the call", "es": "Escucha la llamada" }, "detail": { "en": "Then answer it", "es": "Luego, respóndela" } },
+                                { "title": { "en": "Each call longer", "es": "Cada vez más larga" }, "detail": { "en": "One hook, then two, then three", "es": "Un motivo, luego dos, luego tres" } }
                             ],
                             "visual": "echo",
                             "reviewed": false,
@@ -821,7 +833,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The first call: one hook." },
+                            "text": { "en": "The first call: one hook.", "es": "La primera llamada: un motivo." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -839,7 +851,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Two hooks." },
+                            "text": { "en": "Two hooks.", "es": "Dos motivos." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -860,7 +872,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Three hooks, in time, a breath after the second." },
+                            "text": { "en": "Three hooks, in time, a breath after the second.", "es": "Tres motivos, a tiempo, respirando después del segundo." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -882,12 +894,13 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on clean flips and the notes across all three hooks. Take a break."
+                                "en": "Scored on clean flips and the notes across all three hooks. Take a break.",
+                                "es": "Se puntúan los saltos limpios y las notas en los tres motivos. Luego, descansa."
                             }
                         },
                         {
                             "kind": "selfcheck",
-                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's." },
+                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's.", "es": "Canta el motivo una vez más y luego escúchate junto a la guía." },
                             "exercise": {
                                 "tempo": 66,
                                 "lead": 2,
@@ -900,8 +913,8 @@
                                     ]
                                 },
                                 "questions": [
-                                    { "en": "Did the top sound like a different, lighter voice?" },
-                                    { "en": "Did the way down land lightly, at speaking volume?" }
+                                    { "en": "Did the top sound like a different, lighter voice?", "es": "¿Lo agudo sonó como otra voz, más ligera?" },
+                                    { "en": "Did the way down land lightly, at speaking volume?", "es": "¿La bajada aterrizó suave, a volumen de conversación?" }
                                 ]
                             }
                         }
@@ -911,21 +924,21 @@
         },
         {
             "id": "yodel-in-rhythm",
-            "title": { "en": "Yodel in rhythm" },
+            "title": { "en": "Yodel in rhythm", "es": "Yodel a ritmo" },
             "colour": 4,
             "lessons": [
                 {
                     "id": "yodel-3-chord",
-                    "fact": {"id": "yodel-songs-change-chords", "text": {"en": "Unlike a whoop or a call, a yodel tune runs over several bars, with changes of chord. Those handed down to us date from the 1700s on: modern harmony, mostly in Ländler or waltz form."}, "source": {"en": "Wikipedia (German), Jodeln"}, "url": "https://de.wikipedia.org/wiki/Jodeln"},
-                    "title": { "en": "On the chord" },
+                    "fact": {"id": "yodel-songs-change-chords", "text": {"en": "Unlike a whoop or a call, a yodel tune runs over several bars, with changes of chord. Those handed down to us date from the 1700s on: modern harmony, mostly in Ländler or waltz form.", "es": "A diferencia de un grito o una llamada, una melodía de yodel dura varios compases, con cambios de acorde. Las que nos han llegado son del siglo XVIII en adelante: armonía moderna, casi siempre en forma de ländler o de vals."}, "source": {"en": "Wikipedia (German), Jodeln", "es": "Wikipedia (alemán), Jodeln"}, "url": "https://de.wikipedia.org/wiki/Jodeln"},
+                    "title": { "en": "On the chord", "es": "Sobre el acorde" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A yodel sounds right when both its notes belong to the chord underneath. As the chord changes, the top note moves with it." },
+                            "headline": { "en": "A yodel sounds right when both its notes belong to the chord underneath. As the chord changes, the top note moves with it.", "es": "Un yodel suena bien cuando sus dos notas pertenecen al acorde de debajo. Cuando cambia el acorde, la nota aguda se mueve con él." },
                             "steps": [
-                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                { "title": { "en": "Over the home chord" }, "detail": { "en": "The top lands on mi" } },
-                                { "title": { "en": "Over the next chord" }, "detail": { "en": "It moves up a half step, to fa" } }
+                                { "title": { "en": "Warm up first", "es": "Primero, calienta" }, "detail": { "en": "A lip trill or a quiet siren, up and down", "es": "Una vibración de labios o una sirena suave, arriba y abajo" } },
+                                { "title": { "en": "Over the home chord", "es": "Sobre el acorde de tónica" }, "detail": { "en": "The top lands on mi", "es": "La nota aguda cae en \"mi\". Aquí usamos do móvil: \"do\" no es una nota fija, es tu nota base, esté donde esté" } },
+                                { "title": { "en": "Over the next chord", "es": "Sobre el acorde siguiente" }, "detail": { "en": "It moves up a half step, to fa", "es": "Sube un semitono, a \"fa\"" } }
                             ],
                             "visual": "harmony",
                             "reviewed": false,
@@ -957,7 +970,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The hooks at your own pace, over the chords: the top moves up a half step on the second." },
+                            "text": { "en": "The hooks at your own pace, over the chords: the top moves up a half step on the second.", "es": "Los motivos a tu ritmo, sobre los acordes: en el segundo, la nota aguda sube un semitono." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -978,7 +991,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Two hooks over the home chord: listen, then sing them back." },
+                            "text": { "en": "Two hooks over the home chord: listen, then sing them back.", "es": "Dos motivos sobre el acorde de tónica: escucha y repítelos." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -999,7 +1012,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then sing the four hooks back as the chords change." },
+                            "text": { "en": "Listen, then sing the four hooks back as the chords change.", "es": "Escucha y repite los cuatro motivos mientras cambian los acordes." },
                             "exercise": {
                                 "tempo": 66,
                                 "notes": [
@@ -1027,23 +1040,24 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the flips and the notes: did the top move with the chord?"
+                                "en": "Scored on the flips and the notes: did the top move with the chord?",
+                                "es": "Se puntúan los saltos y las notas: ¿la nota aguda se movió con el acorde?"
                             }
                         }
                     ]
                 },
                 {
                     "id": "yodel-3-lope",
-                    "fact": {"id": "jimmie-rodgers-blue-yodel", "text": {"en": "In 1927 Jimmie Rodgers recorded Blue Yodel, mixing the yodel with blues he'd learned from Black railroad workers. It brought the yodel into country music."}, "source": {"en": "Wikipedia, Blue Yodel No. 1"}, "url": "https://en.wikipedia.org/wiki/Blue_Yodel_No._1_(T_for_Texas)"},
-                    "title": { "en": "A cowboy lope" },
+                    "fact": {"id": "jimmie-rodgers-blue-yodel", "text": {"en": "In 1927 Jimmie Rodgers recorded Blue Yodel, mixing the yodel with blues he'd learned from Black railroad workers. It brought the yodel into country music.", "es": "En 1927, Jimmie Rodgers grabó Blue Yodel, que mezclaba el yodel con el blues que había aprendido de ferroviarios negros. Así llevó el yodel a la música country."}, "source": {"en": "Wikipedia, Blue Yodel No. 1", "es": "Wikipedia, Blue Yodel No. 1"}, "url": "https://en.wikipedia.org/wiki/Blue_Yodel_No._1_(T_for_Texas)"},
+                    "title": { "en": "A cowboy lope", "es": "Galope vaquero" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Cowboy yodels sway: long, short, long, like a horse's easy lope. The quick top note still flips cleanly." },
+                            "headline": { "en": "Cowboy yodels sway: long, short, long, like a horse's easy lope. The quick top note still flips cleanly.", "es": "Los yodels vaqueros se mecen: largo, corto, largo, como el galope tranquilo de un caballo. La nota aguda, rápida, sigue saltando limpia." },
                             "steps": [
-                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                { "title": { "en": "Long, short, long" }, "detail": { "en": "\"yo-\" held, \"hee\" quick, \"o\" held" } },
-                                { "title": { "en": "Sway, don't push" }, "detail": { "en": "The rhythm does the work" } }
+                                { "title": { "en": "Warm up first", "es": "Primero, calienta" }, "detail": { "en": "A lip trill or a quiet siren, up and down", "es": "Una vibración de labios o una sirena suave, arriba y abajo" } },
+                                { "title": { "en": "Long, short, long", "es": "Largo, corto, largo" }, "detail": { "en": "\"yo-\" held, \"hee\" quick, \"o\" held", "es": "\"yo-\" largo, \"hee\" rápido, \"o\" largo" } },
+                                { "title": { "en": "Sway, don't push", "es": "Mécete, no empujes" }, "detail": { "en": "The rhythm does the work", "es": "El ritmo hace el trabajo" } }
                             ],
                             "visual": "echo",
                             "reviewed": false,
@@ -1067,7 +1081,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The lope at your own pace: long, short, long." },
+                            "text": { "en": "The lope at your own pace: long, short, long.", "es": "El galope a tu ritmo: largo, corto, largo." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1081,7 +1095,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then sing two lopes back." },
+                            "text": { "en": "Listen, then sing two lopes back.", "es": "Escucha y repite dos galopes." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1103,7 +1117,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Four in a row, over the chords." },
+                            "text": { "en": "Four in a row, over the chords.", "es": "Cuatro seguidos, sobre los acordes." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1131,36 +1145,37 @@
                                 ]
                             },
                             "measures": {
-                                "en": "Scored on the flips and the notes. Listen back: did it sway?"
+                                "en": "Scored on the flips and the notes. Listen back: did it sway?",
+                                "es": "Se puntúan los saltos y las notas. Escúchate: ¿se mecía?"
                             }
                         }
                     ]
                 },
                 {
                     "id": "yodel-3-hear",
-                    "fact": {"id": "singing-cowboy-films", "text": {"en": "Hollywood's singing cowboys, in the Western films of the 1930s and 40s, made the cowboy yodel famous."}, "source": {"en": "Wikipedia, Singing cowboy"}, "url": "https://en.wikipedia.org/wiki/Singing_cowboy"},
-                    "title": { "en": "Which one fits?" },
+                    "fact": {"id": "singing-cowboy-films", "text": {"en": "Hollywood's singing cowboys, in the Western films of the 1930s and 40s, made the cowboy yodel famous.", "es": "Los vaqueros cantantes de Hollywood, en las películas del Oeste de los años 30 y 40, hicieron famoso el yodel vaquero."}, "source": {"en": "Wikipedia, Singing cowboy", "es": "Wikipedia, Singing cowboy"}, "url": "https://en.wikipedia.org/wiki/Singing_cowboy"},
+                    "title": { "en": "Which one fits?", "es": "¿Cuál encaja?" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Over a chord, a yodel's top note either belongs or rubs. Hear the difference before you sing it." },
+                            "headline": { "en": "Over a chord, a yodel's top note either belongs or rubs. Hear the difference before you sing it.", "es": "Sobre un acorde, la nota aguda de un yodel o encaja o roza. Escucha la diferencia antes de cantarla." },
                             "steps": [
-                                { "title": { "en": "Belongs" }, "detail": { "en": "The top is one of the chord's notes" } },
-                                { "title": { "en": "Rubs" }, "detail": { "en": "One note off, and it clashes" } },
-                                { "title": { "en": "Listen as often as you like" }, "detail": { "en": "Only your first answer counts" } }
+                                { "title": { "en": "Belongs", "es": "Encaja" }, "detail": { "en": "The top is one of the chord's notes", "es": "La nota aguda es una de las del acorde" } },
+                                { "title": { "en": "Rubs", "es": "Roza" }, "detail": { "en": "One note off, and it clashes", "es": "Una nota fuera del acorde, y choca" } },
+                                { "title": { "en": "Listen as often as you like", "es": "Escucha las veces que quieras" }, "detail": { "en": "Only your first answer counts", "es": "Solo cuenta tu primera respuesta" } }
                             ],
                             "visual": "harmony",
                             "reviewed": false
                         },
                         {
                             "kind": "choose",
-                            "text": { "en": "Listen to both, then choose." },
+                            "text": { "en": "Listen to both, then choose.", "es": "Escucha las dos y luego elige." },
                             "exercise": {
                                 "tempo": 66,
                                 "base": "flip",
                                 "rounds": [
                                     {
-                                        "prompt": { "en": "Which one fits the chord?" },
+                                        "prompt": { "en": "Which one fits the chord?", "es": "¿Cuál encaja con el acorde?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1184,10 +1199,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A's top was mi, a note of the chord. B's was a half step lower and rubbed." }
+                                        "why": { "en": "A's top was mi, a note of the chord. B's was a half step lower and rubbed.", "es": "La nota aguda de A era \"mi\", una nota del acorde. La de B estaba un semitono más abajo y rozaba." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one fits the chord?" },
+                                        "prompt": { "en": "Which one fits the chord?", "es": "¿Cuál encaja con el acorde?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1211,10 +1226,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "Over this chord the top moves up to fa: B. A went a half step too far and rubbed." }
+                                        "why": { "en": "Over this chord the top moves up to fa: B. A went a half step too far and rubbed.", "es": "Sobre este acorde, la nota aguda sube a \"fa\": B. A subió un semitono de más y rozaba." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one rubs?" },
+                                        "prompt": { "en": "Which one rubs?", "es": "¿Cuál roza?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1238,10 +1253,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A's top was fa over the home chord: it wants to fall to mi." }
+                                        "why": { "en": "A's top was fa over the home chord: it wants to fall to mi.", "es": "La nota aguda de A era \"fa\" sobre el acorde de tónica: quiere bajar a \"mi\"." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one fits the chord?" },
+                                        "prompt": { "en": "Which one fits the chord?", "es": "¿Cuál encaja con el acorde?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1265,10 +1280,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "B's fa belongs to this chord. A's top was a half step off it." }
+                                        "why": { "en": "B's fa belongs to this chord. A's top was a half step off it.", "es": "El \"fa\" de B pertenece a este acorde. La nota aguda de A quedaba a un semitono de ese \"fa\"." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one rubs?" },
+                                        "prompt": { "en": "Which one rubs?", "es": "¿Cuál roza?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1292,10 +1307,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "This time the low note was off: A's chest note was a half step above so." }
+                                        "why": { "en": "This time the low note was off: A's chest note was a half step above so.", "es": "Esta vez fallaba la nota grave: la nota de pecho de A estaba un semitono por encima de \"so\" (sol)." }
                                     },
                                     {
-                                        "prompt": { "en": "Which one fits both chords?" },
+                                        "prompt": { "en": "Which one fits both chords?", "es": "¿Cuál encaja con los dos acordes?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1327,26 +1342,26 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A's top moved up to fa when the chord changed. B's went a half step too far and rubbed." }
+                                        "why": { "en": "A's top moved up to fa when the chord changed. B's went a half step too far and rubbed.", "es": "La nota aguda de A subió a \"fa\" al cambiar el acorde. La de B subió un semitono de más y rozaba." }
                                     }
                                 ]
                             },
-                            "measures": { "en": "Scored on the rounds you got right first time." }
+                            "measures": { "en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera." }
                         }
                     ]
                 },
                 {
                     "id": "yodel-3-challenge",
-                    "title": { "en": "Home on the Range" },
+                    "title": { "en": "Home on the Range", "es": "Home on the Range" },
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A cowboy song with a yodel tag: sing the line plainly, then yodel after it, open below and narrow above." },
+                            "headline": { "en": "A cowboy song with a yodel tag: sing the line plainly, then yodel after it, open below and narrow above.", "es": "Una canción vaquera con un remate de yodel: canta la frase tal cual y luego haz el yodel, con vocal abierta abajo y cerrada arriba." },
                             "steps": [
-                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                { "title": { "en": "The line first" }, "detail": { "en": "\"And the skies are not cloudy all day\"" } },
-                                { "title": { "en": "Then the tag" }, "detail": { "en": "\"yo-hee-o\", \"lo-ee-o\", with the vowel switch" } }
+                                { "title": { "en": "Warm up first", "es": "Primero, calienta" }, "detail": { "en": "A lip trill or a quiet siren, up and down", "es": "Una vibración de labios o una sirena suave, arriba y abajo" } },
+                                { "title": { "en": "The line first", "es": "Primero, la frase" }, "detail": { "en": "\"And the skies are not cloudy all day\"", "es": "\"And the skies are not cloudy all day\"" } },
+                                { "title": { "en": "Then the tag", "es": "Y el remate" }, "detail": { "en": "\"yo-hee-o\", \"lo-ee-o\", with the vowel switch", "es": "\"yo-hee-o\", \"lo-ee-o\" (\"hee\", una ji con la j muy suave; \"ee\", una i), con el cambio de vocal" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -1369,7 +1384,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The line at your own pace first." },
+                            "text": { "en": "The line at your own pace first.", "es": "Primero, la frase a tu ritmo." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1389,7 +1404,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The line, plainly, over the drone." },
+                            "text": { "en": "The line, plainly, over the drone.", "es": "La frase, tal cual, sobre el bordón." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1409,7 +1424,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now the tag: listen, then yodel it back, open below and narrow above." },
+                            "text": { "en": "Now the tag: listen, then yodel it back, open below and narrow above.", "es": "Ahora el remate: escucha y repítelo en yodel, abierta abajo y cerrada arriba." },
                             "exercise": {
                                 "tempo": 72,
                                 "notes": [
@@ -1425,11 +1440,11 @@
                                 "lineKey": 0,
                                 "score": "flip"
                             },
-                            "measures": { "en": "Scored on the tag's flips and notes. Take a break." }
+                            "measures": { "en": "Scored on the tag's flips and notes. Take a break.", "es": "Se puntúan los saltos y las notas del remate. Luego, descansa." }
                         },
                         {
                             "kind": "selfcheck",
-                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's." },
+                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's.", "es": "Canta el motivo una vez más y luego escúchate junto a la guía." },
                             "exercise": {
                                 "tempo": 66,
                                 "lead": 2,
@@ -1443,8 +1458,8 @@
                                     ]
                                 },
                                 "questions": [
-                                    { "en": "Did the top sound like a different, lighter voice?" },
-                                    { "en": "Did the way down land lightly, at speaking volume?" }
+                                    { "en": "Did the top sound like a different, lighter voice?", "es": "¿Lo agudo sonó como otra voz, más ligera?" },
+                                    { "en": "Did the way down land lightly, at speaking volume?", "es": "¿La bajada aterrizó suave, a volumen de conversación?" }
                                 ]
                             }
                         }
@@ -1454,21 +1469,21 @@
         },
         {
             "id": "yodel-faster",
-            "title": { "en": "Faster" },
+            "title": { "en": "Faster", "es": "Más rápido" },
             "colour": 4,
             "lessons": [
                 {
                     "id": "yodel-4-roll",
-                    "fact": {"id": "fastest-yodel-record", "text": {"en": "In 1984 the Canadian yodeler Donn Reynolds set a world record for the fastest yodel: five tones, three of them falsetto, in 1.9 seconds."}, "source": {"en": "Wikipedia, Yodeling"}, "url": "https://en.wikipedia.org/wiki/Yodeling"},
-                    "title": { "en": "The roll" },
+                    "fact": {"id": "fastest-yodel-record", "text": {"en": "In 1984 the Canadian yodeler Donn Reynolds set a world record for the fastest yodel: five tones, three of them falsetto, in 1.9 seconds.", "es": "En 1984, el cantante canadiense de yodel Donn Reynolds estableció el récord mundial del yodel más rápido: cinco notas, tres de ellas en falsete, en un segundo y nueve décimas."}, "source": {"en": "Wikipedia, Yodeling", "es": "Wikipedia, Yodeling"}, "url": "https://en.wikipedia.org/wiki/Yodeling"},
+                    "title": { "en": "The roll", "es": "La cadena" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A roll is several flips on one breath: low, high, low, high, low. Four flips at most to a breath." },
+                            "headline": { "en": "A roll is several flips on one breath: low, high, low, high, low. Four flips at most to a breath.", "es": "Una cadena son varios saltos en una sola respiración: grave, agudo, grave, agudo, grave. Cuatro saltos como máximo por respiración." },
                             "steps": [
-                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                { "title": { "en": "Slowly first" }, "detail": { "en": "Each flip clean before it's quick" } },
-                                { "title": { "en": "Breathe between rolls" }, "detail": { "en": "Never more than four flips a breath" } }
+                                { "title": { "en": "Warm up first", "es": "Primero, calienta" }, "detail": { "en": "A lip trill or a quiet siren, up and down", "es": "Una vibración de labios o una sirena suave, arriba y abajo" } },
+                                { "title": { "en": "Slowly first", "es": "Primero, despacio" }, "detail": { "en": "Each flip clean before it's quick", "es": "Cada salto limpio antes que rápido" } },
+                                { "title": { "en": "Breathe between rolls", "es": "Respira entre cadenas" }, "detail": { "en": "Never more than four flips a breath", "es": "Nunca más de cuatro saltos por respiración" } }
                             ],
                             "visual": "ladder",
                             "reviewed": false,
@@ -1487,7 +1502,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The roll at your own pace first: low, high, low, high, low." },
+                            "text": { "en": "The roll at your own pace first: low, high, low, high, low.", "es": "Primero, la cadena a tu ritmo: grave, agudo, grave, agudo, grave." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1503,7 +1518,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Listen, then sing the roll back, slowly." },
+                            "text": { "en": "Listen, then sing the roll back, slowly.", "es": "Escucha y repite la cadena, despacio." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1520,7 +1535,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "A little quicker." },
+                            "text": { "en": "A little quicker.", "es": "Un poco más rápido." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1537,7 +1552,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The same roll over the home chord, every flip clean." },
+                            "text": { "en": "The same roll over the home chord, every flip clean.", "es": "La misma cadena sobre el acorde de tónica, con cada salto limpio." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1554,22 +1569,22 @@
                                     { "beat": 0, "root": -2, "quality": "maj", "bass": null }
                                 ]
                             },
-                            "measures": { "en": "Scored on the four flips and the notes." }
+                            "measures": { "en": "Scored on the four flips and the notes.", "es": "Se puntúan los cuatro saltos y las notas." }
                         }
                     ]
                 },
                 {
                     "id": "yodel-4-ladder",
-                    "fact": {"id": "jodlerfest-basel-1924", "text": {"en": "Switzerland's first national yodeling festival was held in Basel in 1924."}, "source": {"en": "Historisches Lexikon der Schweiz, Jodel"}, "url": "https://hls-dhs-dss.ch/de/articles/011891"},
-                    "title": { "en": "Slow to quicker" },
+                    "fact": {"id": "jodlerfest-basel-1924", "text": {"en": "Switzerland's first national yodeling festival was held in Basel in 1924.", "es": "El primer festival nacional de yodel de Suiza se celebró en Basilea en 1924."}, "source": {"en": "Historisches Lexikon der Schweiz, Jodel", "es": "Historisches Lexikon der Schweiz, Jodel"}, "url": "https://hls-dhs-dss.ch/de/articles/011891"},
+                    "title": { "en": "Slow to quicker", "es": "De lento a rápido" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "The same roll at three speeds. Keep every flip clean; if they start to smear, stay at the speed before." },
+                            "headline": { "en": "The same roll at three speeds. Keep every flip clean; if they start to smear, stay at the speed before.", "es": "La misma cadena a tres velocidades. Que cada salto sea limpio; si empiezan a desdibujarse, quédate en la velocidad anterior." },
                             "steps": [
-                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                { "title": { "en": "60, 76, then 92 beats a minute" }, "detail": { "en": "Three rungs" } },
-                                { "title": { "en": "Clean beats quick" }, "detail": { "en": "A smeared fast roll is a slide" } }
+                                { "title": { "en": "Warm up first", "es": "Primero, calienta" }, "detail": { "en": "A lip trill or a quiet siren, up and down", "es": "Una vibración de labios o una sirena suave, arriba y abajo" } },
+                                { "title": { "en": "60, 76, then 92 beats a minute", "es": "60, 76 y luego 92 pulsos por minuto" }, "detail": { "en": "Three rungs", "es": "Tres peldaños" } },
+                                { "title": { "en": "Clean beats quick", "es": "Mejor limpio que rápido" }, "detail": { "en": "A smeared fast roll is a slide", "es": "Una cadena rápida desdibujada es un deslizamiento" } }
                             ],
                             "visual": "ladder",
                             "reviewed": false,
@@ -1588,7 +1603,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The roll at your own pace first." },
+                            "text": { "en": "The roll at your own pace first.", "es": "Primero, la cadena a tu ritmo." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1604,7 +1619,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The roll at 60: listen, then sing it back." },
+                            "text": { "en": "The roll at 60: listen, then sing it back.", "es": "La cadena a 60: escucha y repítela." },
                             "exercise": {
                                 "tempo": 60,
                                 "notes": [
@@ -1621,7 +1636,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "At 76." },
+                            "text": { "en": "At 76.", "es": "A 76." },
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1638,7 +1653,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "At 92. Clean, not rushed." },
+                            "text": { "en": "At 92. Clean, not rushed.", "es": "A 92. Limpia, sin prisa." },
                             "exercise": {
                                 "tempo": 92,
                                 "notes": [
@@ -1653,23 +1668,24 @@
                                 "score": "flip"
                             },
                             "measures": {
-                                "en": "Scored on the flips at 92. If they smeared, the roll at 76 is still a yodel."
+                                "en": "Scored on the flips at 92. If they smeared, the roll at 76 is still a yodel.",
+                                "es": "Se puntúan los saltos a 92. Si se desdibujaron, la cadena a 76 sigue siendo un yodel."
                             }
                         }
                     ]
                 },
                 {
                     "id": "yodel-4-hear",
-                    "fact": {"id": "yodel-teachers-faster-flips", "text": {"en": "In a 2010 study, four professional yodeling teachers held both their low and high notes steadier, and jumped between them faster, than four untrained voices."}, "source": {"en": "Echternach and Richter, Logopedics Phoniatrics Vocology (2010)"}, "url": "https://europepmc.org/article/MED/20350070"},
-                    "title": { "en": "Clean or smeared?" },
+                    "fact": {"id": "yodel-teachers-faster-flips", "text": {"en": "In a 2010 study, four professional yodeling teachers held both their low and high notes steadier, and jumped between them faster, than four untrained voices.", "es": "En un estudio de 2010, cuatro docentes profesionales de yodel mantuvieron más estables sus notas graves y agudas, y saltaron entre ellas más rápido, que cuatro voces sin formación."}, "source": {"en": "Echternach and Richter, Logopedics Phoniatrics Vocology (2010)", "es": "Echternach y Richter, Logopedics Phoniatrics Vocology (2010)"}, "url": "https://europepmc.org/article/MED/20350070"},
+                    "title": { "en": "Clean or smeared?", "es": "¿Limpia o desdibujada?" },
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "Fast, a roll either flips cleanly or smears into slides. The clean one sparkles; the smeared one sounds like a siren." },
+                            "headline": { "en": "Fast, a roll either flips cleanly or smears into slides. The clean one sparkles; the smeared one sounds like a siren.", "es": "A velocidad, una cadena o salta limpia o se desdibuja en deslizamientos. La limpia brilla; la desdibujada suena como una sirena." },
                             "steps": [
-                                { "title": { "en": "Clean" }, "detail": { "en": "Each note distinct, even when quick" } },
-                                { "title": { "en": "Smeared" }, "detail": { "en": "Glides between, no flips" } },
-                                { "title": { "en": "Listen as often as you like" }, "detail": { "en": "Only your first answer counts" } }
+                                { "title": { "en": "Clean", "es": "Limpia" }, "detail": { "en": "Each note distinct, even when quick", "es": "Cada nota se distingue, aunque sea rápida" } },
+                                { "title": { "en": "Smeared", "es": "Desdibujada" }, "detail": { "en": "Glides between, no flips", "es": "Se desliza entre notas, sin saltos" } },
+                                { "title": { "en": "Listen as often as you like", "es": "Escucha las veces que quieras" }, "detail": { "en": "Only your first answer counts", "es": "Solo cuenta tu primera respuesta" } }
                             ],
                             "visual": "echo",
                             "reviewed": false,
@@ -1688,13 +1704,13 @@
                         },
                         {
                             "kind": "choose",
-                            "text": { "en": "Listen to both, then choose." },
+                            "text": { "en": "Listen to both, then choose.", "es": "Escucha las dos y luego elige." },
                             "exercise": {
                                 "tempo": 84,
                                 "base": "flip",
                                 "rounds": [
                                     {
-                                        "prompt": { "en": "Which roll was clean?" },
+                                        "prompt": { "en": "Which roll was clean?", "es": "¿Qué cadena fue limpia?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1718,10 +1734,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A's notes stayed distinct. B glided between them." }
+                                        "why": { "en": "A's notes stayed distinct. B glided between them.", "es": "Las notas de A se distinguían. B se deslizaba entre ellas." }
                                     },
                                     {
-                                        "prompt": { "en": "Which roll was clean?" },
+                                        "prompt": { "en": "Which roll was clean?", "es": "¿Qué cadena fue limpia?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1745,10 +1761,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "B flipped every time. A smeared." }
+                                        "why": { "en": "B flipped every time. A smeared.", "es": "B saltó todas las veces. A se desdibujó." }
                                     },
                                     {
-                                        "prompt": { "en": "Which roll smeared?" },
+                                        "prompt": { "en": "Which roll smeared?", "es": "¿Qué cadena se desdibujó?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1770,10 +1786,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "Faster still, and B slid: no clean flips." }
+                                        "why": { "en": "Faster still, and B slid: no clean flips.", "es": "Más rápido aún, y B se deslizó: ningún salto limpio." }
                                     },
                                     {
-                                        "prompt": { "en": "Which roll was clean?" },
+                                        "prompt": { "en": "Which roll was clean?", "es": "¿Qué cadena fue limpia?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1795,10 +1811,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "B smeared every other flip. A stayed clean at speed." }
+                                        "why": { "en": "B smeared every other flip. A stayed clean at speed.", "es": "B desdibujó un salto de cada dos. A siguió limpia a velocidad." }
                                     },
                                     {
-                                        "prompt": { "en": "Which roll smeared?" },
+                                        "prompt": { "en": "Which roll smeared?", "es": "¿Qué cadena se desdibujó?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1820,10 +1836,10 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "Only A's first flip slid, but that's enough to hear." }
+                                        "why": { "en": "Only A's first flip slid, but that's enough to hear.", "es": "Solo el primer salto de A se deslizó, pero basta para oírlo." }
                                     },
                                     {
-                                        "prompt": { "en": "Which roll smeared?" },
+                                        "prompt": { "en": "Which roll smeared?", "es": "¿Qué cadena se desdibujó?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1845,10 +1861,10 @@
                                             }
                                         ],
                                         "answer": 1,
-                                        "why": { "en": "One smeared flip in the middle of B's roll." }
+                                        "why": { "en": "One smeared flip in the middle of B's roll.", "es": "Un salto desdibujado en mitad de la cadena de B." }
                                     },
                                     {
-                                        "prompt": { "en": "Which roll smeared only at the end?" },
+                                        "prompt": { "en": "Which roll smeared only at the end?", "es": "¿Qué cadena se desdibujó solo al final?" },
                                         "clips": [
                                             {
                                                 "notes": [
@@ -1870,26 +1886,26 @@
                                             }
                                         ],
                                         "answer": 0,
-                                        "why": { "en": "A started clean and smeared as it went: the way tiredness shows." }
+                                        "why": { "en": "A started clean and smeared as it went: the way tiredness shows.", "es": "A empezó limpia y se fue desdibujando: así se nota el cansancio." }
                                     }
                                 ]
                             },
-                            "measures": { "en": "Scored on the rounds you got right first time." }
+                            "measures": { "en": "Scored on the rounds you got right first time.", "es": "Se puntúan las rondas que aciertas a la primera." }
                         }
                     ]
                 },
                 {
                     "id": "yodel-4-challenge",
-                    "title": { "en": "Red River Valley, yodeled" },
+                    "title": { "en": "Red River Valley, yodeled", "es": "Red River Valley, en yodel" },
                     "challenge": true,
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": { "en": "A line of Red River Valley sung plainly, then a fast yodel tag: the hook and the roll, after a song." },
+                            "headline": { "en": "A line of Red River Valley sung plainly, then a fast yodel tag: the hook and the roll, after a song.", "es": "Una frase de Red River Valley cantada tal cual y luego un remate rápido en yodel: el motivo y la cadena, después de una canción." },
                             "steps": [
-                                { "title": { "en": "Warm up first" }, "detail": { "en": "A lip trill or a quiet siren, up and down" } },
-                                { "title": { "en": "The line first" }, "detail": { "en": "\"From this valley they say you are going\"" } },
-                                { "title": { "en": "Then the roll" }, "detail": { "en": "Clean, at the speed you can keep clean" } }
+                                { "title": { "en": "Warm up first", "es": "Primero, calienta" }, "detail": { "en": "A lip trill or a quiet siren, up and down", "es": "Una vibración de labios o una sirena suave, arriba y abajo" } },
+                                { "title": { "en": "The line first", "es": "Primero, la frase" }, "detail": { "en": "\"From this valley they say you are going\"", "es": "\"From this valley they say you are going\"" } },
+                                { "title": { "en": "Then the roll", "es": "Y la cadena" }, "detail": { "en": "Clean, at the speed you can keep clean", "es": "Limpia, a la velocidad que puedas mantener limpia" } }
                             ],
                             "visual": "phrase",
                             "reviewed": false,
@@ -1913,7 +1929,7 @@
                         },
                         {
                             "kind": "try",
-                            "text": { "en": "The line at your own pace first." },
+                            "text": { "en": "The line at your own pace first.", "es": "Primero, la frase a tu ritmo." },
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1934,7 +1950,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "The line, plainly, over the drone." },
+                            "text": { "en": "The line, plainly, over the drone.", "es": "La frase, tal cual, sobre el bordón." },
                             "exercise": {
                                 "tempo": 76,
                                 "notes": [
@@ -1955,7 +1971,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": { "en": "Now the tag: a hook and a roll. Listen, then yodel it back." },
+                            "text": { "en": "Now the tag: a hook and a roll. Listen, then yodel it back.", "es": "Ahora el remate: un motivo y una cadena. Escucha y repítelo en yodel." },
                             "exercise": {
                                 "thenAndNow": "yodel.first-hook",
                                 "tempo": 84,
@@ -1975,12 +1991,13 @@
                                 "score": "flip"
                             },
                             "measures": {
-                                "en": "Scored on the tag's flips and notes. Take a break: that's the course. Listen back: did the top sound lighter, like a different voice?"
+                                "en": "Scored on the tag's flips and notes. Take a break: that's the course. Listen back: did the top sound lighter, like a different voice?",
+                                "es": "Se puntúan los saltos y las notas de la coletilla. Descansa: aquí termina el curso. Escúchate: ¿lo agudo sonó más ligero, como otra voz?"
                             }
                         },
                         {
                             "kind": "selfcheck",
-                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's." },
+                            "text": { "en": "Sing the hook once more, then hear yours beside the guide's.", "es": "Canta el motivo una vez más y luego escúchate junto a la guía." },
                             "exercise": {
                                 "tempo": 66,
                                 "lead": 2,
@@ -1994,8 +2011,8 @@
                                     ]
                                 },
                                 "questions": [
-                                    { "en": "Did the top sound like a different, lighter voice?" },
-                                    { "en": "Did the way down land lightly, at speaking volume?" }
+                                    { "en": "Did the top sound like a different, lighter voice?", "es": "¿Lo agudo sonó como otra voz, más ligera?" },
+                                    { "en": "Did the way down land lightly, at speaking volume?", "es": "¿La bajada aterrizó suave, a volumen de conversación?" }
                                 ]
                             }
                         }
