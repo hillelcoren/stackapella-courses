@@ -397,7 +397,7 @@ def gr_4_ladder():
     real = [dict(n) for n in FIVE]
     return {
         "id": "gr-4-ladder", "title": EN("The ladder"),
-        "fact": fact("slow-practice", "Almost every classical musician practises slowly: 99.45 percent of 256 players in a 2022 survey. Science hasn't yet shown exactly how it helps.", "Allingham and Wöllner, Psychology of Music (2022)", "https://doi.org/10.1177/03057356211073481"),
+        "fact": fact("slow-practice", "Almost every classical musician practises slowly: in a 2022 survey of 256 musicians, 99.45 percent of the classical players did. Science hasn't yet shown exactly how it helps.", "Allingham and Wöllner, Psychology of Music (2022)", "https://doi.org/10.1177/03057356211073481"),
         "steps": steps + [selfcheck("One step further: the guide's run at real speed. Try it, then hear yours beside it. We don't score this speed yet.",
                                     real, ["Did every note stay clean?", "Did your jaw stay still?"], 240)],
     }
