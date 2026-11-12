@@ -2,7 +2,7 @@
     "id": "song-adon-olam",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Adon Olam"},
+    "title": {"en": "Adon Olam", "es": "Adon Olam"},
     "units": [
         {
             "id": "song-adon-olam-soprano",
@@ -16,7 +16,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Adon Olam: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Adon Olam: hear the whole song first, then the tune on its own.", "es": "Adon Olam: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -57,7 +57,7 @@
                             }
                         }
                     ],
-                    "fact": {"id": "ao-close", "text": {"en": "In Sephardic and British synagogues the whole congregation sings it at the close of the Sabbath and festival morning services, and it is chanted almost everywhere on the eve of Yom Kippur."}, "source": {"en": "The Jewish Encyclopedia, vol. 1 (Funk and Wagnalls, 1901), p. 205, \"Adon 'Olam\", read from the archive.org text"}, "url": "https://archive.org/details/cu31924091768188"}
+                    "fact": {"id": "ao-close", "text": {"en": "In Sephardic and British synagogues the whole congregation sings it at the close of the Sabbath and festival morning services, and it is chanted almost everywhere on the eve of Yom Kippur.", "es": "En las sinagogas sefardíes y británicas, toda la congregación lo canta al cierre del servicio de la mañana del sabbat y de las fiestas, y se canta casi en todas partes la víspera de Yom Kipur."}, "source": {"en": "The Jewish Encyclopedia, vol. 1 (Funk and Wagnalls, 1901), p. 205, \"Adon 'Olam\", read from the archive.org text", "es": "The Jewish Encyclopedia, vol. 1 (Funk and Wagnalls, 1901), p. 205, \"Adon 'Olam\", leído en el texto de archive.org"}, "url": "https://archive.org/details/cu31924091768188"}
                 },
                 {
                     "id": "song-adon-olam-soprano-2",
@@ -373,7 +373,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Adon olam start to end, with the guide."},
+                            "text": {"en": "Adon olam start to end, with the guide.", "es": "\"Adon olam\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -386,7 +386,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Ve'achrei kichlot hakol start to end, with the guide."},
+                            "text": {"en": "Ve'achrei kichlot hakol start to end, with the guide.", "es": "\"Ve'achrei kichlot hakol\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -399,7 +399,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Vehu echad start to end, with the guide."},
+                            "text": {"en": "Vehu echad start to end, with the guide.", "es": "\"Vehu echad\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -412,7 +412,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Beyado afkid ruchi start to end, with the guide."},
+                            "text": {"en": "Beyado afkid ruchi start to end, with the guide.", "es": "\"Beyado afkid ruchi\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -500,10 +500,10 @@
                     "id": "song-adon-olam-soprano-10",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Adon Olam in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "adon-olam", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Adon Olam in Sing, with the other parts playing.", "es": "Graba la melodía de Adon Olam en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "adon-olam", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "ao-bedtime", "text": {"en": "Its last lines, \"into His hand I commit my spirit when I sleep and when I wake\", led the scholar Seligman Baer to think it was first meant to be said before going to sleep."}, "source": {"en": "The Jewish Encyclopedia, vol. 1 (Funk and Wagnalls, 1901), p. 206, \"Adon 'Olam\", citing Baer's prayer-book commentary (Rödelheim, 1868), read from the archive.org text"}, "url": "https://archive.org/details/cu31924091768188"}
+                    "fact": {"id": "ao-bedtime", "text": {"en": "Its last lines, \"into His hand I commit my spirit when I sleep and when I wake\", led the scholar Seligman Baer to think it was first meant to be said before going to sleep.", "es": "Sus últimos versos, \"en Su mano encomiendo mi espíritu cuando duermo y cuando despierto\", llevaron al estudioso Seligman Baer a pensar que en su origen se recitaba antes de dormir."}, "source": {"en": "The Jewish Encyclopedia, vol. 1 (Funk and Wagnalls, 1901), p. 206, \"Adon 'Olam\", citing Baer's prayer-book commentary (Rödelheim, 1868), read from the archive.org text", "es": "The Jewish Encyclopedia, vol. 1 (Funk and Wagnalls, 1901), p. 206, \"Adon 'Olam\", que cita el comentario de Baer al libro de oraciones (Rödelheim, 1868), leído en el texto de archive.org"}, "url": "https://archive.org/details/cu31924091768188"}
                 }
             ]
         },
@@ -519,7 +519,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Adon Olam: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Adon Olam: hear the whole song first, then the alto part on its own.", "es": "Adon Olam: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -875,7 +875,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Adon olam start to end, with the guide."},
+                            "text": {"en": "Adon olam start to end, with the guide.", "es": "\"Adon olam\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -888,7 +888,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Ve'achrei kichlot hakol start to end, with the guide."},
+                            "text": {"en": "Ve'achrei kichlot hakol start to end, with the guide.", "es": "\"Ve'achrei kichlot hakol\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -901,7 +901,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Vehu echad start to end, with the guide."},
+                            "text": {"en": "Vehu echad start to end, with the guide.", "es": "\"Vehu echad\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -914,7 +914,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Beyado afkid ruchi start to end, with the guide."},
+                            "text": {"en": "Beyado afkid ruchi start to end, with the guide.", "es": "\"Beyado afkid ruchi\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -1002,7 +1002,7 @@
                     "id": "song-adon-olam-alto-10",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Adon Olam in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "adon-olam", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Adon Olam in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Adon Olam en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "adon-olam", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -1020,7 +1020,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Adon Olam: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Adon Olam: hear the whole song first, then the bass part on its own.", "es": "Adon Olam: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1376,7 +1376,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Adon olam start to end, with the guide."},
+                            "text": {"en": "Adon olam start to end, with the guide.", "es": "\"Adon olam\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -1389,7 +1389,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Ve'achrei kichlot hakol start to end, with the guide."},
+                            "text": {"en": "Ve'achrei kichlot hakol start to end, with the guide.", "es": "\"Ve'achrei kichlot hakol\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -1402,7 +1402,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Vehu echad start to end, with the guide."},
+                            "text": {"en": "Vehu echad start to end, with the guide.", "es": "\"Vehu echad\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -1415,7 +1415,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Beyado afkid ruchi start to end, with the guide."},
+                            "text": {"en": "Beyado afkid ruchi start to end, with the guide.", "es": "\"Beyado afkid ruchi\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -1503,7 +1503,7 @@
                     "id": "song-adon-olam-bass-10",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Adon Olam in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "adon-olam", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Adon Olam in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Adon Olam en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "adon-olam", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1521,7 +1521,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Adon Olam: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Adon Olam: hear the whole song first, then the tenor part on its own.", "es": "Adon Olam: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1877,7 +1877,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Adon olam start to end, with the guide."},
+                            "text": {"en": "Adon olam start to end, with the guide.", "es": "\"Adon olam\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -1890,7 +1890,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Ve'achrei kichlot hakol start to end, with the guide."},
+                            "text": {"en": "Ve'achrei kichlot hakol start to end, with the guide.", "es": "\"Ve'achrei kichlot hakol\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -1903,7 +1903,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Vehu echad start to end, with the guide."},
+                            "text": {"en": "Vehu echad start to end, with the guide.", "es": "\"Vehu echad\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -1916,7 +1916,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Beyado afkid ruchi start to end, with the guide."},
+                            "text": {"en": "Beyado afkid ruchi start to end, with the guide.", "es": "\"Beyado afkid ruchi\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "adon-olam",
@@ -2004,7 +2004,7 @@
                     "id": "song-adon-olam-tenor-10",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Adon Olam in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "adon-olam", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Adon Olam in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Adon Olam en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "adon-olam", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

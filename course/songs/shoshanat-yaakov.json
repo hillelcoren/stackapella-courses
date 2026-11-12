@@ -2,7 +2,7 @@
     "id": "song-shoshanat-yaakov",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Shoshanat Yaakov"},
+    "title": {"en": "Shoshanat Yaakov", "es": "Shoshanat Yaakov"},
     "units": [
         {
             "id": "song-shoshanat-yaakov-soprano",
@@ -16,7 +16,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Shoshanat Yaakov: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Shoshanat Yaakov: hear the whole song first, then the tune on its own.", "es": "Shoshanat Yaakov: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -57,7 +57,7 @@
                             }
                         }
                     ],
-                    "fact": {"id": "sy-after-megillah", "text": {"en": "It is sung on Purim once the Book of Esther has been read: Baer's book has the scroll rolled up, the blessing sung after it, and then this song."}, "source": {"en": "Abraham Baer, Baal T'fillah (Frankfurt am Main: J. Kauffmann, 3rd edition), p. 59, Nos. 196 and 197, read from the scan"}, "url": "https://archive.org/details/der-practische-vorbeter-baer"}
+                    "fact": {"id": "sy-after-megillah", "text": {"en": "It is sung on Purim once the Book of Esther has been read: Baer's book has the scroll rolled up, the blessing sung after it, and then this song.", "es": "Se canta en Purim una vez leído el Libro de Ester: el libro de Baer indica enrollar el rollo, cantar después la bendición y luego esta canción."}, "source": {"en": "Abraham Baer, Baal T'fillah (Frankfurt am Main: J. Kauffmann, 3rd edition), p. 59, Nos. 196 and 197, read from the scan", "es": "Abraham Baer, Baal T'fillah (Frankfurt am Main: J. Kauffmann, 3.ª edición), p. 59, n.os 196 y 197, leído en el escaneo"}, "url": "https://archive.org/details/der-practische-vorbeter-baer"}
                 },
                 {
                     "id": "song-shoshanat-yaakov-soprano-2",
@@ -256,7 +256,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide.", "es": "La frase 11 repite la frase 5. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -334,7 +334,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide.", "es": "\"Shoshanat Yaakov\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -347,7 +347,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide.", "es": "\"Shoshanat Yaakov\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -360,7 +360,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Vegam Charvona start to end, with the guide."},
+                            "text": {"en": "Vegam Charvona start to end, with the guide.", "es": "\"Vegam Charvona\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -448,10 +448,10 @@
                     "id": "song-shoshanat-yaakov-soprano-10",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Shoshanat Yaakov in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shoshanat-yaakov", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Shoshanat Yaakov in Sing, with the other parts playing.", "es": "Graba la melodía de Shoshanat Yaakov en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shoshanat-yaakov", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "sy-esther-verses", "text": {"en": "On the same page Baer prints four verses of Esther that everyone sings aloud during the reading before the reader repeats them, starting with \"Ish yehudi haya b'Shushan habira\", there was a Jew in Shushan the capital."}, "source": {"en": "Abraham Baer, Baal T'fillah (Frankfurt am Main: J. Kauffmann, 3rd edition), p. 59, Nos. 192 to 195, \"Chor, dann Solo\", read from the scan"}, "url": "https://archive.org/details/der-practische-vorbeter-baer"}
+                    "fact": {"id": "sy-esther-verses", "text": {"en": "On the same page Baer prints four verses of Esther that everyone sings aloud during the reading before the reader repeats them, starting with \"Ish yehudi haya b'Shushan habira\", there was a Jew in Shushan the capital.", "es": "En la misma página, Baer imprime cuatro versículos de Ester que todos cantan en voz alta durante la lectura antes de que el lector los repita, empezando por \"Ish yehudi haya b'Shushan habira\", había un judío en Susa, la capital."}, "source": {"en": "Abraham Baer, Baal T'fillah (Frankfurt am Main: J. Kauffmann, 3rd edition), p. 59, Nos. 192 to 195, \"Chor, dann Solo\", read from the scan", "es": "Abraham Baer, Baal T'fillah (Frankfurt am Main: J. Kauffmann, 3.ª edición), p. 59, n.os 192 a 195, \"Chor, dann Solo\", leído en el escaneo"}, "url": "https://archive.org/details/der-practische-vorbeter-baer"}
                 }
             ]
         },
@@ -467,7 +467,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Shoshanat Yaakov: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Shoshanat Yaakov: hear the whole song first, then the alto part on its own.", "es": "Shoshanat Yaakov: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -706,7 +706,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide.", "es": "La frase 11 repite la frase 5. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -784,7 +784,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide.", "es": "\"Shoshanat Yaakov\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -797,7 +797,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide.", "es": "\"Shoshanat Yaakov\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -810,7 +810,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Vegam Charvona start to end, with the guide."},
+                            "text": {"en": "Vegam Charvona start to end, with the guide.", "es": "\"Vegam Charvona\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -898,7 +898,7 @@
                     "id": "song-shoshanat-yaakov-alto-10",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Shoshanat Yaakov in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shoshanat-yaakov", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Shoshanat Yaakov in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Shoshanat Yaakov en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shoshanat-yaakov", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -916,7 +916,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Shoshanat Yaakov: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Shoshanat Yaakov: hear the whole song first, then the bass part on its own.", "es": "Shoshanat Yaakov: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1175,7 +1175,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide.", "es": "La frase 11 repite la frase 5. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -1214,7 +1214,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 to 13 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 11 to 13 joined: hear them, then sing them back.", "es": "Ahora las frases 11 a 13 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -1233,7 +1233,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide.", "es": "\"Shoshanat Yaakov\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -1246,7 +1246,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide.", "es": "\"Shoshanat Yaakov\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -1259,7 +1259,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Vegam Charvona start to end, with the guide."},
+                            "text": {"en": "Vegam Charvona start to end, with the guide.", "es": "\"Vegam Charvona\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -1347,7 +1347,7 @@
                     "id": "song-shoshanat-yaakov-bass-10",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Shoshanat Yaakov in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shoshanat-yaakov", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Shoshanat Yaakov in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Shoshanat Yaakov en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shoshanat-yaakov", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1365,7 +1365,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Shoshanat Yaakov: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Shoshanat Yaakov: hear the whole song first, then the tenor part on its own.", "es": "Shoshanat Yaakov: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1624,7 +1624,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide."},
+                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide.", "es": "La frase 11 repite la frase 5. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -1663,7 +1663,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 11 to 13 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 11 to 13 joined: hear them, then sing them back.", "es": "Ahora las frases 11 a 13 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -1682,7 +1682,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide.", "es": "\"Shoshanat Yaakov\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -1695,7 +1695,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide.", "es": "\"Shoshanat Yaakov\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -1708,7 +1708,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Vegam Charvona start to end, with the guide."},
+                            "text": {"en": "Vegam Charvona start to end, with the guide.", "es": "\"Vegam Charvona\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "shoshanat-yaakov",
@@ -1796,7 +1796,7 @@
                     "id": "song-shoshanat-yaakov-tenor-10",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Shoshanat Yaakov in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shoshanat-yaakov", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Shoshanat Yaakov in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Shoshanat Yaakov en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shoshanat-yaakov", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

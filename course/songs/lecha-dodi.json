@@ -2,7 +2,7 @@
     "id": "song-lecha-dodi",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Lecha Dodi"},
+    "title": {"en": "Lecha Dodi", "es": "Lecha Dodi"},
     "units": [
         {
             "id": "song-lecha-dodi-soprano",
@@ -16,7 +16,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lecha Dodi: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Lecha Dodi: hear the whole song first, then the tune on its own.", "es": "Lecha Dodi: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -57,7 +57,7 @@
                             }
                         }
                     ],
-                    "fact": {"id": "ld-alkabiz", "text": {"en": "Solomon ha-Levi Alkabetz wrote it about the middle of the sixteenth century to welcome the Sabbath, and signed eight of its nine verses with his name, their first letters spelling it out."}, "source": {"en": "The Jewish Encyclopedia, vol. 7 (Funk and Wagnalls, 1904), p. 675, \"Lekah Dodi\", read from the archive.org text"}, "url": "https://archive.org/details/cu31924091768246"}
+                    "fact": {"id": "ld-alkabiz", "text": {"en": "Solomon ha-Levi Alkabetz wrote it about the middle of the sixteenth century to welcome the Sabbath, and signed eight of its nine verses with his name, their first letters spelling it out.", "es": "Solomon ha-Levi Alkabetz lo escribió hacia mediados del siglo XVI para recibir el sabbat, y firmó ocho de sus nueve estrofas con su nombre: sus primeras letras lo forman."}, "source": {"en": "The Jewish Encyclopedia, vol. 7 (Funk and Wagnalls, 1904), p. 675, \"Lekah Dodi\", read from the archive.org text", "es": "The Jewish Encyclopedia, vol. 7 (Funk and Wagnalls, 1904), p. 675, \"Lekah Dodi\", leído en el texto de archive.org"}, "url": "https://archive.org/details/cu31924091768246"}
                 },
                 {
                     "id": "song-lecha-dodi-soprano-2",
@@ -243,7 +243,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 10 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -328,7 +328,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 12 to 14 joined, with the guide."},
+                            "text": {"en": "Now lines 12 to 14 joined, with the guide.", "es": "Ahora las frases 12 a 14 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -347,7 +347,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Lecha dodi start to end, with the guide."},
+                            "text": {"en": "Lecha dodi start to end, with the guide.", "es": "\"Lecha dodi\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -360,7 +360,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shamor vezachor start to end, with the guide."},
+                            "text": {"en": "Shamor vezachor start to end, with the guide.", "es": "\"Shamor vezachor\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -373,7 +373,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lecha dodi start to end, with the guide."},
+                            "text": {"en": "Lecha dodi start to end, with the guide.", "es": "\"Lecha dodi\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -386,7 +386,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Bo'i veshalom start to end, with the guide."},
+                            "text": {"en": "Bo'i veshalom start to end, with the guide.", "es": "\"Bo'i veshalom\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -474,10 +474,10 @@
                     "id": "song-lecha-dodi-soprano-10",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Lecha Dodi in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "lecha-dodi", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Lecha Dodi in Sing, with the other parts playing.", "es": "Graba la melodía de Lecha Dodi en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "lecha-dodi", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "ld-omer-air", "text": {"en": "The Jewish Encyclopedia says this tune was kept for the weeks of the Omer, between Passover and Shavuot, and that some heard \"Lilliburlero\" or Mozart's Figaro in its phrases, while it heard German folk song of the late seventeenth century."}, "source": {"en": "The Jewish Encyclopedia, vol. 7 (Funk and Wagnalls, 1904), p. 675, \"Lekah Dodi\", read from the archive.org text"}, "url": "https://archive.org/details/cu31924091768246"}
+                    "fact": {"id": "ld-omer-air", "text": {"en": "The Jewish Encyclopedia says this tune was kept for the weeks of the Omer, between Passover and Shavuot, and that some heard \"Lilliburlero\" or Mozart's Figaro in its phrases, while it heard German folk song of the late seventeenth century.", "es": "The Jewish Encyclopedia dice que esta melodía se reservaba para las semanas del Ómer, entre Pésaj y Shavuot, y que algunos oían en sus frases \"Lilliburlero\" o el Fígaro de Mozart, aunque la propia enciclopedia oía en ella la canción popular alemana de finales del siglo XVII."}, "source": {"en": "The Jewish Encyclopedia, vol. 7 (Funk and Wagnalls, 1904), p. 675, \"Lekah Dodi\", read from the archive.org text", "es": "The Jewish Encyclopedia, vol. 7 (Funk and Wagnalls, 1904), p. 675, \"Lekah Dodi\", leído en el texto de archive.org"}, "url": "https://archive.org/details/cu31924091768246"}
                 }
             ]
         },
@@ -493,7 +493,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lecha Dodi: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Lecha Dodi: hear the whole song first, then the alto part on its own.", "es": "Lecha Dodi: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -823,7 +823,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Lecha dodi start to end, with the guide."},
+                            "text": {"en": "Lecha dodi start to end, with the guide.", "es": "\"Lecha dodi\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -836,7 +836,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shamor vezachor start to end, with the guide."},
+                            "text": {"en": "Shamor vezachor start to end, with the guide.", "es": "\"Shamor vezachor\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -849,7 +849,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lecha dodi start to end, with the guide."},
+                            "text": {"en": "Lecha dodi start to end, with the guide.", "es": "\"Lecha dodi\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -862,7 +862,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Bo'i veshalom start to end, with the guide."},
+                            "text": {"en": "Bo'i veshalom start to end, with the guide.", "es": "\"Bo'i veshalom\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -950,7 +950,7 @@
                     "id": "song-lecha-dodi-alto-10",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Lecha Dodi in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "lecha-dodi", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Lecha Dodi in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Lecha Dodi en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "lecha-dodi", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -968,7 +968,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lecha Dodi: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Lecha Dodi: hear the whole song first, then the bass part on its own.", "es": "Lecha Dodi: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1298,7 +1298,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Lecha dodi start to end, with the guide."},
+                            "text": {"en": "Lecha dodi start to end, with the guide.", "es": "\"Lecha dodi\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -1311,7 +1311,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shamor vezachor start to end, with the guide."},
+                            "text": {"en": "Shamor vezachor start to end, with the guide.", "es": "\"Shamor vezachor\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -1324,7 +1324,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lecha dodi start to end, with the guide."},
+                            "text": {"en": "Lecha dodi start to end, with the guide.", "es": "\"Lecha dodi\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -1337,7 +1337,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Bo'i veshalom start to end, with the guide."},
+                            "text": {"en": "Bo'i veshalom start to end, with the guide.", "es": "\"Bo'i veshalom\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -1425,7 +1425,7 @@
                     "id": "song-lecha-dodi-bass-10",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Lecha Dodi in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "lecha-dodi", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Lecha Dodi in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Lecha Dodi en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "lecha-dodi", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1443,7 +1443,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Lecha Dodi: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Lecha Dodi: hear the whole song first, then the tenor part on its own.", "es": "Lecha Dodi: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1773,7 +1773,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Lecha dodi start to end, with the guide."},
+                            "text": {"en": "Lecha dodi start to end, with the guide.", "es": "\"Lecha dodi\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -1786,7 +1786,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shamor vezachor start to end, with the guide."},
+                            "text": {"en": "Shamor vezachor start to end, with the guide.", "es": "\"Shamor vezachor\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -1799,7 +1799,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Lecha dodi start to end, with the guide."},
+                            "text": {"en": "Lecha dodi start to end, with the guide.", "es": "\"Lecha dodi\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -1812,7 +1812,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Bo'i veshalom start to end, with the guide."},
+                            "text": {"en": "Bo'i veshalom start to end, with the guide.", "es": "\"Bo'i veshalom\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "lecha-dodi",
@@ -1900,7 +1900,7 @@
                     "id": "song-lecha-dodi-tenor-10",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Lecha Dodi in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "lecha-dodi", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Lecha Dodi in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Lecha Dodi en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "lecha-dodi", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }
