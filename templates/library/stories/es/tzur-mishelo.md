@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: tzur mishelo significado | tzur mishelo traducción | tzur mishelo letra | tzur mishelo origen | tzur mishelo achalnu | tzur mishelo canción
-translatedFrom: 744f6f2968a1
+translatedFrom: 607bf73e6db1
 ---
 
 Tzur Mishelo es uno de los zemirot, los cantos hebreos que los judíos cantan en casa alrededor de la mesa del sabbat, sobre todo antes o después de la bendición que sigue a las comidas principales.[^je][^ej] Su estribillo toma la antigua invitación a bendecir juntos después de comer, "A bendecir a Aquel de cuya comida hemos comido", y la convierte en un coro para toda la mesa.[^mishnah][^abrahams][^loewe] Sus estrofas siguen después la bendición en orden: gracias por la comida, gracias por la tierra y una súplica de misericordia para Sion, que termina con el Templo reconstruido y una copa llena de vino.[^ej][^loewe][^metsudah] Nadie sabe quién la escribió. Nuestra melodía es la melodía alemana que la Jewish Encyclopedia de 1906 señalaba como la que más se usaba para ella.[^je]
@@ -53,6 +53,74 @@ La canción tiene cuatro estrofas, con el estribillo antes, entre ellas y despu�
 **Estrofa 4 (cantada).** Que se reconstruya el Templo y se llene otra vez la ciudad de Sion, y allí cantaremos un cántico nuevo y subiremos con alegría. Que el Misericordioso, el Santo, sea bendito y ensalzado sobre una copa llena de vino, como Hashem nos ha bendecido. El "cántico nuevo" es el de Isaías.[^tanakh][^loewe] La copa es la copa de bendición sobre la que se dice la bendición después de comer, y el Talmud pide que esté llena.[^ej][^talmud]
 
 Donde el hebreo tiene el nombre de cuatro letras, cantamos Adoshem, el nombre sustituto que se acostumbra al cantar fuera de la oración: "kidvar Adoshem", "kevirkat Adoshem", y en la estrofa 1 "ein kadosh kadoshem", donde el nombre va unido a ka, "como". Muchos judíos cambian los nombres de Hashem al decirlos o cantarlos fuera de la oración, por reverencia, y una canción para practicar está fuera de la oración; el significado es el mismo.[^ohr][^enkinnames]
+
+### La letra completa
+
+Estos son el estribillo y las cuatro estrofas tal como los imprime el Siddur Ashkenaz de Sefaria, del Metsudah Siddur (1981), con una licencia Creative Commons de Atribución; los significados son nuestros.[^metsudah] Damos el estribillo una sola vez, y el nombre de cuatro letras en la forma abreviada de muchos libros de oraciones.
+
+**Estribillo**
+> צוּר מִשֶּׁלּוֹ אָכַֽלְנוּ בָּרְכוּ אֱמוּנַי
+*Tzur mishelo achalnu, barchu emunai,*
+Aquel, la Roca, de cuya comida hemos comido: ¡a bendecirlo, mis fieles amigos!
+> שָׂבַֽעְנוּ וְהוֹתַֽרְנוּ כִּדְבַר יְיָ׃
+*savanu vehotarnu kidvar Adoshem.*
+Hemos comido hasta saciarnos y ha sobrado comida, tal como dijo Hashem.
+
+**Estrofa 1**
+> הַזָּן אֶת עוֹלָמוֹ רוֹעֵֽנוּ אָבִֽינוּ
+*Hazan et olamo, roenu avinu,*
+Él alimenta a Su mundo, nuestro pastor, nuestro padre;
+> אָכַֽלְנוּ אֶת לַחְמוֹ וְיֵינוֹ שָׁתִֽינוּ
+*achalnu et lachmo, veyeino shatinu.*
+hemos comido Su pan y bebido Su vino.
+> עַל כֵּן נוֹדֶה לִשְׁמוֹ וּנְהַלְּלוֹ בְּפִֽינוּ
+*Al ken node lishmo un'halelo befinu,*
+Por eso daremos gracias a Su nombre y lo alabaremos en voz alta,
+> אָמַֽרְנוּ וְעָנִֽינוּ אֵין קָדוֹשׁ כַּייָ׃
+*amarnu veaninu: ein kadosh kadoshem.*
+hemos dicho y respondido: nadie es santo como Hashem.
+
+**Estrofa 2**
+> בְּשִׁיר וְקוֹל תּוֹדָה נְבָרֵךְ לֵאלֹהֵֽינוּ
+*Beshir vekol toda nevarech lelokeinu,*
+Con canto y voz de gratitud bendeciremos a Hashem
+> עַל אֶֽרֶץ חֶמְדָּה טוֹבָה שֶׁהִנְחִיל לַאֲבוֹתֵֽינוּ
+*al eretz chemda tova shehinchil laavoteinu.*
+por la tierra buena y deseable que dejó en herencia a nuestros antepasados.
+> מָזוֹן וְצֵדָה הִשְׂבִּֽיעַ לְנַפְשֵֽׁנוּ
+*Mazon vetzeida hisbia lenafshenu,*
+Nos ha saciado de comida y de provisiones;
+> חַסְדּוֹ גָּבַר עָלֵֽינוּ וֶאֱמֶת יְיָ׃
+*chasdo gavar aleinu, veemet Adoshem.*
+Su bondad ha prevalecido sobre nosotros, y Hashem es verdadero.
+
+**Estrofa 3**
+> רַחֵם בְּחַסְדֶּֽךָ עַל עַמְּךָ צוּרֵֽנוּ
+*Rachem bechasdecha al amcha tzurenu,*
+Ten misericordia, en Tu bondad, de Tu pueblo, Roca nuestra,
+> עַל צִיּוֹן מִשְׁכַּן כְּבוֹדֶֽךָ זְבוּל בֵּית תִּפְאַרְתֵּֽנוּ
+*al Tziyon mishkan kevodecha, zevul beit tifartenu.*
+de Sion, morada de Tu gloria, casa excelsa de nuestra belleza.
+> בֶּן־דָּוִד עַבְדֶּֽךָ יָבֹא וְיִגְאָלֵֽנוּ
+*Ben David avdecha yavo veyigalenu,*
+Que el hijo de David, Tu siervo, venga y nos redima,
+> רֽוּחַ אַפֵּֽינוּ מְשִֽׁיחַ יְיָ׃
+*ruach apeinu meshiach Adoshem.*
+el aliento de nuestra vida, el ungido de Hashem.
+
+**Estrofa 4**
+> יִבָּנֶה הַמִּקְדָּשׁ עִיר צִיּוֹן תְּמַלֵּא
+*Yibane hamikdash, ir Tziyon temale,*
+Que se reconstruya el Templo y se llene otra vez la ciudad de Sion,
+> וְשָׁם נָשִׁיר שִׁיר חָדָשׁ וּבִרְנָנָה נַעֲלֶה
+*vesham nashir shir chadash uvirnana naale.*
+y allí cantaremos un cántico nuevo y subiremos con alegría.
+> הָרַחֲמָן הַנִּקְדָּשׁ יִתְבָּרַךְ וְיִתְעַלֶּה
+*Harachaman hanikdash yitbarach veyitale*
+Que el Misericordioso, el Santo, sea bendito y ensalzado
+> עַל כּוֹס יַֽיִן מָלֵא כְּבִרְכַּת יְיָ׃
+*al kos yayin male, kevirkat Adoshem.*
+sobre una copa llena de vino, como Hashem nos ha bendecido.
 
 ## Cómo se canta
 
@@ -108,7 +176,7 @@ La soprano canta de principio a fin la melodía alemana que imprimió la Jewish 
 - [^ejzem]: Ernst Daniel Goldschmidt, "Zemirot", *Encyclopaedia Judaica*, en Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/zemirot
 - [^abrahams]: Israel Abrahams, *Annotated Edition of the Authorised Daily Prayer Book* (Eyre and Spottiswoode, 1914), apéndice IV, "Table Hymns", pp. cclix a cclxi. https://archive.org/details/annotatededition00unknuoft
 - [^loewe]: Herbert Loewe, *Mediaeval Hebrew Minstrelsy: Songs for the Bride Queen's Feast*, melodías arregladas por Rose L. Henriques (James Clarke, 1926), pp. 3, 9 a 11, 15 y 75 a 77. https://archive.org/details/mediaevalhebrewm00loewuoft
-- [^metsudah]: *Siddur Ashkenaz*, Zemirot for Shabbat Evening, "Tzur Mishelo", texto hebreo y la versión inglesa y las notas del Metsudah Siddur (Avrohom Davis, 1981), en Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Shabbat_Evening%2C_Zemirot_for_Shabbat_Evening%2C_Tzur_Mishelo
+- [^metsudah]: *Siddur Ashkenaz*, Zemirot for Shabbat Evening, "Tzur Mishelo", texto hebreo y la versión inglesa y las notas del Metsudah Siddur (Avrohom Davis, 1981), en Sefaria, con la licencia [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Shabbat_Evening%2C_Zemirot_for_Shabbat_Evening%2C_Tzur_Mishelo
 - [^yomzeh]: *Siddur Ashkenaz*, Zemirot for Shabbat Evening, "Yom Zeh L'yisrael", texto hebreo (Metsudah Siddur, 1981), en Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Shabbat_Evening%2C_Zemirot_for_Shabbat_Evening%2C_Yom_zeh_L'yisrael
 - [^mishnah]: Mishnah Berakhot 7:3, edición William Davidson, en Sefaria. https://www.sefaria.org/Mishnah_Berakhot.7.3
 - [^talmud]: Talmud de Babilonia, Berakhot 48b y 51a, edición William Davidson, en Sefaria. https://www.sefaria.org/Berakhot.48b

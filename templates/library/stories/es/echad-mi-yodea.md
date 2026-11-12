@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: echad mi yodea significado | echad mi yodea letra en español | echad mi yodea transliteración | echad mi yodea historia | quién escribió echad mi yodea | echad mi yodea pésaj
-translatedFrom: a3f700138742
+translatedFrom: 2990f16344c9
 ---
 
 Echad Mi Yodea es una canción hebrea para contar que se canta en el séder de Pésaj, el oficio en casa y la cena de las primeras noches de la fiesta.[^idel29][^je] Las familias asquenazíes la cantan cerca del final de la velada, justo antes de Chad Gadya.[^ej][^jmrc][^sefaria] Una voz pregunta: "¿Quién sabe qué es uno?", y la mesa responde: uno es Hashem, en el cielo y en la tierra.[^sefaria][^uh1923] Cada número nuevo trae una respuesta nueva, las dos tablas de la alianza, los tres padres, las cuatro madres, y la lista entera se cuenta hacia atrás hasta el uno, así hasta llegar al trece.[^sefaria][^je] Su función era mantener a todos despiertos, sobre todo a los niños, hasta el final de una noche larga.[^ej][^chabad] La Union Haggadah de 1923 la convirtió en una carrera: "cada uno leyendo lo más rápido posible, en el intento de terminar el primero la respuesta".[^uh1923]
@@ -59,6 +59,312 @@ Donde la Hagadá tiene Eloheinu, cantamos Elokeinu, con k, el nombre sustituto q
 **Estrofa 4.** Arba imahot: las cuatro madres, las matriarcas Sara, Rebeca, Raquel y Lea, de nuevo las cuatro que nombra el Talmud.[^berakhot][^jepatriarchs]
 
 **Las estrofas que no cantamos.** Cinco son los cinco libros de la Torá; seis, los seis órdenes de la Mishná; siete, los días de la semana; ocho, los ocho días hasta la circuncisión de un niño; nueve, los nueve meses hasta el parto; diez, los diez mandamientos; once, los astros que se inclinaron ante José en su sueño; doce, las tribus de Israel; y trece, los trece atributos de la misericordia de Hashem, de Éxodo 34.[^sefaria][^je][^uh1923] Kaufmann Kohler, en la Jewish Encyclopedia, veía sentido en que la canción se detuviera en el trece, el número de la mala suerte: hacía del trece un número santo, y por tanto de buena suerte, para los judíos.[^je][^uh1908]
+
+### La letra completa
+
+Estas son las trece estrofas tal como las imprime la Hagadá de Sefaria, tomadas del sitio Da'at, con las vocales impresas.[^sefaria] Es el hebreo tradicional, no el texto reformista de la Union Haggadah. La transliteración es israelí moderna, con Elokeinu, como se canta fuera de la oración; la traducción es nuestra.
+
+**Estrofa 1**
+> אֶחָד מִי יוֹדֵעַ? אֶחָד אֲנִי יוֹדֵעַ:
+*Echad mi yodea? Echad ani yodea:*
+¿Quién sabe qué es uno? Yo sé qué es uno:
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
+
+**Estrofa 2**
+> שְׁנַיִם מִי יוֹדֵעַ? שְׁנַיִם אֲנִי יוֹדֵעַ: שְׁנֵי לֻחוֹת הַבְּרִית.
+*Shenayim mi yodea? Shenayim ani yodea: sh'nei luchot hab'rit,*
+¿Quién sabe qué es dos? Yo sé qué es dos: las dos tablas de la alianza,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
+
+**Estrofa 3**
+> שְׁלֹשָׁה מִי יוֹדֵעַ? שְׁלֹשָׁה אֲנִי יוֹדֵעַ: שְׁלֹשָׁה אָבוֹת,
+*Sh'losha mi yodea? Sh'losha ani yodea: sh'losha avot,*
+¿Quién sabe qué es tres? Yo sé qué es tres: los tres patriarcas,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+las dos tablas de la alianza,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
+
+**Estrofa 4**
+> אַרְבַּע מִי יוֹדֵעַ? אַרְבַּע אֲנִי יוֹדֵעַ: אַרְבַּע אִמָּהוֹת,
+*Arba mi yodea? Arba ani yodea: arba imahot,*
+¿Quién sabe qué es cuatro? Yo sé qué es cuatro: las cuatro matriarcas,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+los tres patriarcas,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+las dos tablas de la alianza,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
+
+**Estrofa 5**
+> חֲמִשָּׁה מִי יוֹדֵעַ? חֲמִשָּׁה אֲנִי יוֹדֵעַ: חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*Chamisha mi yodea? Chamisha ani yodea: chamisha chumshei Torah,*
+¿Quién sabe qué es cinco? Yo sé qué es cinco: los cinco libros de la Torá,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+las cuatro matriarcas,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+los tres patriarcas,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+las dos tablas de la alianza,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
+
+**Estrofa 6**
+> שִׁשָּׂה מִי יוֹדֵעַ? שִׁשָּׂה אֲנִי יוֹדֵעַ: שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*Shisha mi yodea? Shisha ani yodea: shisha sidrei Mishna,*
+¿Quién sabe qué es seis? Yo sé qué es seis: los seis órdenes de la Mishná,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+los cinco libros de la Torá,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+las cuatro matriarcas,
+> שְׁלֹשָׁה אָבוֹת,
+*sh'losha avot,*
+los tres patriarcas,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+las dos tablas de la alianza,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
+
+**Estrofa 7**
+> שִׁבְעָה מִי יוֹדֵעַ? שִׁבְעָה אֲנִי יוֹדֵעַ: שִׁבְעָה יְמֵי שַׁבָּתָא,
+*Shiv'a mi yodea? Shiv'a ani yodea: shiv'a yemei shabata,*
+¿Quién sabe qué es siete? Yo sé qué es siete: los siete días de la semana,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+los seis órdenes de la Mishná,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+los cinco libros de la Torá,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+las cuatro matriarcas,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+los tres patriarcas,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+las dos tablas de la alianza,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
+
+**Estrofa 8**
+> שְׁמוֹנָה מִי יוֹדֵעַ? שְׁמוֹנָה אֲנִי יוֹדֵעַ: שְׁמוֹנָה יְמֵי מִילָה,
+*Sh'mona mi yodea? Sh'mona ani yodea: sh'mona yemei mila,*
+¿Quién sabe qué es ocho? Yo sé qué es ocho: los ocho días hasta la circuncisión,
+> שִׁבְעָה יְמֵי שַׁבָּתָא,
+*shiv'a yemei shabata,*
+los siete días de la semana,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+los seis órdenes de la Mishná,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+los cinco libros de la Torá,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+las cuatro matriarcas,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+los tres patriarcas,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+las dos tablas de la alianza,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
+
+**Estrofa 9**
+> תִּשְׁעָה מִי יוֹדֵעַ? תִּשְׁעָה אֲנִי יוֹדֵעַ: תִּשְׁעָה יַרְחֵי לֵדָה,
+*Tish'a mi yodea? Tish'a ani yodea: tish'a yarchei leda,*
+¿Quién sabe qué es nueve? Yo sé qué es nueve: los nueve meses hasta el parto,
+> שְׁמוֹנָה יְמֵי מִילָה,
+*sh'mona yemei mila,*
+los ocho días hasta la circuncisión,
+> שִׁבְעָה יְמֵי שַׁבָּתָא,
+*shiv'a yemei shabata,*
+los siete días de la semana,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+los seis órdenes de la Mishná,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+los cinco libros de la Torá,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+las cuatro matriarcas,
+> שְׁלֹשָׁה אָבוֹת,
+*sh'losha avot,*
+los tres patriarcas,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+las dos tablas de la alianza,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
+
+**Estrofa 10**
+> עֲשָֹרָה מִי יוֹדֵעַ? עֲשָֹרָה אֲנִי יוֹדֵעַ: עֲשָׂרָה דִבְּרַיָא,
+*Asara mi yodea? Asara ani yodea: asara dibraya,*
+¿Quién sabe qué es diez? Yo sé qué es diez: los diez mandamientos,
+> תִּשְׁעָה יַרְחֵי לֵדָה,
+*tish'a yarchei leda,*
+los nueve meses hasta el parto,
+> שְׁמוֹנָה יְמֵי מִילָה,
+*sh'mona yemei mila,*
+los ocho días hasta la circuncisión,
+> שִׁבְעָה יְמֵי שַׁבָּתָא,
+*shiv'a yemei shabata,*
+los siete días de la semana,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+los seis órdenes de la Mishná,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+los cinco libros de la Torá,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+las cuatro matriarcas,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+los tres patriarcas,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+las dos tablas de la alianza,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
+
+**Estrofa 11**
+> אַחַד עָשָׂר מִי יוֹדֵעַ? אַחַד עָשָׂר אֲנִי יוֹדֵעַ: אַחַד עָשָׂר כּוֹכְבַיָּא,
+*Achad asar mi yodea? Achad asar ani yodea: achad asar kochvaya,*
+¿Quién sabe qué es once? Yo sé qué es once: las once estrellas,
+> עֲשָׂרָה דִבְּרַיָא,
+*asara dibraya,*
+los diez mandamientos,
+> תִּשְׁעָה יַרְחֵי לֵדָה,
+*tish'a yarchei leda,*
+los nueve meses hasta el parto,
+> שְׁמוֹנָה יְמֵי מִילָה,
+*sh'mona yemei mila,*
+los ocho días hasta la circuncisión,
+> שִׁבְעָה יְמֵי שַׁבָּתָא,
+*shiv'a yemei shabata,*
+los siete días de la semana,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+los seis órdenes de la Mishná,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+los cinco libros de la Torá,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+las cuatro matriarcas,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+los tres patriarcas,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+las dos tablas de la alianza,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
+
+**Estrofa 12**
+> שְׁנֵים עָשָׂר מִי יוֹדֵעַ? שְׁנֵים עָשָׂר אֲנִי יוֹדֵעַ: שְׁנֵים עָשָׂר שִׁבְטַיָּא,
+*Sh'neim asar mi yodea? Sh'neim asar ani yodea: sh'neim asar shivtaya,*
+¿Quién sabe qué es doce? Yo sé qué es doce: las doce tribus,
+> אַחַד עָשָׂר כּוֹכְבַיָּא,
+*achad asar kochvaya,*
+las once estrellas,
+> עֲשָׂרָה דִבְּרַיָא,
+*asara dibraya,*
+los diez mandamientos,
+> תִּשְׁעָה יַרְחֵי לֵדָה,
+*tish'a yarchei leda,*
+los nueve meses hasta el parto,
+> שְׁמוֹנָה יְמֵי מִילָה,
+*sh'mona yemei mila,*
+los ocho días hasta la circuncisión,
+> שִׁבְעָה יְמֵי שַׁבָּתָא,
+*shiv'a yemei shabata,*
+los siete días de la semana,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+los seis órdenes de la Mishná,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+los cinco libros de la Torá,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+las cuatro matriarcas,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+los tres patriarcas,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+las dos tablas de la alianza,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
+
+**Estrofa 13**
+> שְׁלשָׁה עָשָׂר מִי יוֹדֵעַ? שְׁלשָׁה עָשָׂר אֲנִי יוֹדֵעַ: שְׁלשָׁה עָשָׂר מִדַּיָּא.
+*Sh'losha asar mi yodea? Sh'losha asar ani yodea: sh'losha asar midaya,*
+¿Quién sabe qué es trece? Yo sé qué es trece: los trece atributos,
+> שְׁנֵים עָשָׂר שִׁבְטַיָּא,
+*sh'neim asar shivtaya,*
+las doce tribus,
+> אַחַד עָשָׂר כּוֹכְבַיָּא,
+*achad asar kochvaya,*
+las once estrellas,
+> עֲשָׂרָה דִבְּרַיָא,
+*asara dibraya,*
+los diez mandamientos,
+> תִּשְׁעָה יַרְחֵי לֵדָה,
+*tish'a yarchei leda,*
+los nueve meses hasta el parto,
+> שְׁמוֹנָה יְמֵי מִילָה,
+*sh'mona yemei mila,*
+los ocho días hasta la circuncisión,
+> שִׁבְעָה יְמֵי שַׁבָּתָא,
+*shiv'a yemei shabata,*
+los siete días de la semana,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+los seis órdenes de la Mishná,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+los cinco libros de la Torá,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+las cuatro matriarcas,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+los tres patriarcas,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+las dos tablas de la alianza,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+uno es Hashem, que está en el cielo y en la tierra.
 
 ## Cómo se canta
 
@@ -116,7 +422,7 @@ La soprano canta la melodía de principio a fin, tal como la imprime la Union Ha
 - [^jrb]: Yosef Lindell, "Kidnapped Choruses?", *Jewish Review of Books* (primavera de 2025). https://jewishreviewofbooks.com/jewish-life/18544/kidnapped-choruses/
 - [^jl]: HUC Jewish Language Project, "Echad Mi Yodea (Who Knows One?)", textos e imágenes, entre ellos el ejemplar de Praga de 1526 de la Biblioteca Nacional de Israel y la Seattle Ladino Haggadah (2004). https://www.jewishlanguages.org/who-knows-one
 - [^uw]: Ty Alhadeff, "'Who Knows One?' in Ladino: The Power of Oral Tradition at the Sephardic Passover Seder", Stroum Center for Jewish Studies, University of Washington (2017). https://jewishstudies.washington.edu/digital-sephardic-treasures/who-knows-one-in-ladino/
-- [^sefaria]: *Pesach Haggadah*, Nirtzah, "Echad Mi Yodea", texto hebreo y la versión inglesa de la Koren Haggadah (Koren, 2013), en Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Echad_Mi_Yodea
+- [^sefaria]: *Pesach Haggadah*, Nirtzah, "Echad Mi Yodea", texto hebreo (la versión de dominio público de Sefaria, tomada del sitio de estudios judíos Da'at) y la versión inglesa de la Koren Haggadah (Koren, 2013), en Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Echad_Mi_Yodea
 - [^berakhot]: Talmud de Babilonia, Berakhot 16b, edición William Davidson, en Sefaria. https://www.sefaria.org/Berakhot.16b
 - [^jepatriarchs]: Executive Committee of the Editorial Board, Schulim Ochser, Wilhelm Bacher y Judah David Eisenstein, "Patriarchs, The", *The Jewish Encyclopedia*, vol. 9 (Funk and Wagnalls, 1905), pp. 560 a 561. https://www.jewishencyclopedia.com/articles/11944-patriarchs-the
 - [^chabad]: Moshe Bogomilsky, "Questions and Answers on the Post-Seder Hymns", Chabad.org. https://www.chabad.org/library/article_cdo/aid/2834703/jewish/Post-Seder-Hymns.htm

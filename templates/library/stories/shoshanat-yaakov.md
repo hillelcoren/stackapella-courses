@@ -56,6 +56,51 @@ We sing the closing lines of Asher heni, then the line about Harbona.[^vitry][^b
 
 These lines need none of the substituted names customary when singing outside prayer: they speak to Hashem only as "You", in "kovecha" and "bach".
 
+### The full words
+
+These are the poem's last lines and the lines that follow them, as the Siddur Sefard on Sefaria prints them, in the public-domain Hebrew of Torat Emet; the meanings are our own.[^sefard] Singer's English has no line on all the wicked and all the righteous.[^singer]
+
+> שׁוֹשַׁנַּת יַעֲקֹב צָהֲלָה וְשָׂמֵחָה
+*Shoshanat Yaakov tzahala vesamecha*
+The rose of Jacob cried out with joy and was glad
+> בִּרְאוֹתָם יַחַד תְּכֵלֶת מָרְדְּכָי:
+*birotam yachad techelet Mordechai.*
+when together they saw Mordecai's blue.
+> תְּשׁוּעָתָם הָיִיתָ לָנֶצַח.
+*Teshuatam hayita lanetzach,*
+You were their salvation forever,
+> וְתִקְוָתָם בְּכָל דּוֹר וָדוֹר:
+*v'tikvatam bechol dor vador,*
+and their hope in every generation,
+> לְהוֹדִיעַ שֶׁכָּל קֹוֶיךָ לֹא יֵבֹשׁוּ.
+*l'hodia shekol kovecha lo yevoshu,*
+to make known that all who hope in You will not be put to shame,
+> וְלֹא יִכָּלְמוּ לָנֶצַח כָּל הַחוֹסִים בָּךְ:
+*velo yikalmu lanetzach kol hachosim bach.*
+and all who take shelter in You will never be disgraced.
+
+> אָרוּר הָמָן אֲשֶׁר בִּקֵשׁ לְאַבְּדִי.
+*Arur Haman asher bikesh l'abdi,*
+Cursed be Haman, who sought to destroy me;
+> בָּרוּךְ מָרְדְּכַי הַיְּהוּדִי.
+*baruch Mordechai hayehudi.*
+blessed be Mordecai the Jew.
+> אֲרוּרָה זֶרֶשׁ אֵשֶׁת מַפְחִידִי.
+*Arura Zeresh eshet mafchidi,*
+Cursed be Zeresh, the wife of the one who terrified me;
+> בְּרוּכָה אֶסְתֵּר בַּעֲדִי.
+*brucha Ester baadi.*
+blessed be Esther, who pleaded for me.
+> אֲרוּרִים כָּל הָרְשָׁעִים.
+*Arurim kol hareshaim,*
+Cursed be all the wicked;
+> בְּרוּכִים כָּל הַצַּדִּיקִים.
+*bruchim kol hatzadikim.*
+blessed be all the righteous.
+> וְגַם חַרְבוֹנָה זָכוּר לַטּוֹב:
+*Vegam Charvona zachur latov.*
+And Harbona, too, is remembered for good.
+
 ## How it is sung
 
 The Talmud says the scroll of Esther is read at night and again by day, and it gives the blessing said after the reading, in places where that is the custom.[^meg][^je-purim][^kitzur] In the Ashkenazi rite the whole of Asher heni follows the blessing at night. Moses Isserles's gloss on the Shulchan Aruch notes the custom of saying it at night but not by day, and Singer's prayer book leaves the paragraph out after the morning reading.[^sa][^singer] Shlomo Ganzfried's Kitzur Shulchan Aruch has only Shoshanat Yaakov said after the morning reading.[^kitzur]
@@ -122,3 +167,4 @@ The soprano sings the tune throughout, as Baer printed it for the cantor; where 
 - [^sa]: Shulchan Aruch, Orach Chayim 690:16 and 692:1, with the glosses of Moses Isserles, via Sefaria. https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.692.1
 - [^kitzur]: Shlomo Ganzfried, *Kitzur Shulchan Aruch* 141:22, via Sefaria. https://www.sefaria.org/Kitzur_Shulchan_Arukh.141.22
 - [^singer]: Simeon Singer, trans., *The Standard Prayer Book* (1915), pp. 422 to 423, "Purim". https://neonvagabond.xyz/mirrors/sacred-texts/jud/spb/spb42.htm
+- [^sefard]: *Siddur Sefard*, Purim, Megillah Reading, Hebrew text of Torat Emet (public domain), via Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Purim%2C_Megillah_Reading.41-50

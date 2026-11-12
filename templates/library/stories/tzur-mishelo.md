@@ -53,6 +53,74 @@ The song has four verses, with the refrain before, between and after them. We si
 
 Where the Hebrew has the four-letter name, we sing Adoshem, the substituted name customary when singing outside prayer: "kidvar Adoshem", "kevirkat Adoshem", and in verse 1 "ein kadosh kadoshem", where the name is joined to ka, "like". Many Jews change Hashem's names when saying or singing them outside prayer, out of reverence, and a practice song is outside prayer; the meaning is the same.[^ohr][^enkinnames]
 
+### The full words
+
+These are the refrain and all four verses as the Siddur Ashkenaz on Sefaria prints them, from the Metsudah Siddur (1981) under a Creative Commons Attribution licence; the meanings are our own.[^metsudah] We print the refrain once, and the four-letter name in the short form many prayer books use.
+
+**Refrain**
+> צוּר מִשֶּׁלּוֹ אָכַֽלְנוּ בָּרְכוּ אֱמוּנַי
+*Tzur mishelo achalnu, barchu emunai,*
+The Rock from whose food we have eaten: bless Him, my faithful friends,
+> שָׂבַֽעְנוּ וְהוֹתַֽרְנוּ כִּדְבַר יְיָ׃
+*savanu vehotarnu kidvar Adoshem.*
+we have eaten our fill and there is food left over, just as Hashem said.
+
+**Verse 1**
+> הַזָּן אֶת עוֹלָמוֹ רוֹעֵֽנוּ אָבִֽינוּ
+*Hazan et olamo, roenu avinu,*
+He feeds His world, our shepherd, our father;
+> אָכַֽלְנוּ אֶת לַחְמוֹ וְיֵינוֹ שָׁתִֽינוּ
+*achalnu et lachmo, veyeino shatinu.*
+we have eaten His bread and drunk His wine.
+> עַל כֵּן נוֹדֶה לִשְׁמוֹ וּנְהַלְּלוֹ בְּפִֽינוּ
+*Al ken node lishmo un'halelo befinu,*
+So we will thank His name and praise Him aloud,
+> אָמַֽרְנוּ וְעָנִֽינוּ אֵין קָדוֹשׁ כַּייָ׃
+*amarnu veaninu: ein kadosh kadoshem.*
+we have said and answered: none is holy like Hashem.
+
+**Verse 2**
+> בְּשִׁיר וְקוֹל תּוֹדָה נְבָרֵךְ לֵאלֹהֵֽינוּ
+*Beshir vekol toda nevarech lelokeinu,*
+With song and the sound of thanks we will bless Hashem
+> עַל אֶֽרֶץ חֶמְדָּה טוֹבָה שֶׁהִנְחִיל לַאֲבוֹתֵֽינוּ
+*al eretz chemda tova shehinchil laavoteinu.*
+for the good and lovely land He handed down to our ancestors.
+> מָזוֹן וְצֵדָה הִשְׂבִּֽיעַ לְנַפְשֵֽׁנוּ
+*Mazon vetzeida hisbia lenafshenu,*
+He has filled us with food and provisions;
+> חַסְדּוֹ גָּבַר עָלֵֽינוּ וֶאֱמֶת יְיָ׃
+*chasdo gavar aleinu, veemet Adoshem.*
+His kindness has prevailed over us, and Hashem is true.
+
+**Verse 3**
+> רַחֵם בְּחַסְדֶּֽךָ עַל עַמְּךָ צוּרֵֽנוּ
+*Rachem bechasdecha al amcha tzurenu,*
+Have mercy, in Your kindness, on Your people, our Rock,
+> עַל צִיּוֹן מִשְׁכַּן כְּבוֹדֶֽךָ זְבוּל בֵּית תִּפְאַרְתֵּֽנוּ
+*al Tziyon mishkan kevodecha, zevul beit tifartenu.*
+on Zion, home of Your glory, the lofty house of our beauty.
+> בֶּן־דָּוִד עַבְדֶּֽךָ יָבֹא וְיִגְאָלֵֽנוּ
+*Ben David avdecha yavo veyigalenu,*
+May the son of David, Your servant, come and redeem us,
+> רֽוּחַ אַפֵּֽינוּ מְשִֽׁיחַ יְיָ׃
+*ruach apeinu meshiach Adoshem.*
+the breath of our life, Hashem's anointed.
+
+**Verse 4**
+> יִבָּנֶה הַמִּקְדָּשׁ עִיר צִיּוֹן תְּמַלֵּא
+*Yibane hamikdash, ir Tziyon temale,*
+Let the Temple be rebuilt and the city of Zion filled again,
+> וְשָׁם נָשִׁיר שִׁיר חָדָשׁ וּבִרְנָנָה נַעֲלֶה
+*vesham nashir shir chadash uvirnana naale.*
+and there we will sing a new song and go up with joy.
+> הָרַחֲמָן הַנִּקְדָּשׁ יִתְבָּרַךְ וְיִתְעַלֶּה
+*Harachaman hanikdash yitbarach veyitale*
+May the Merciful One, the Holy One, be blessed and raised high
+> עַל כּוֹס יַֽיִן מָלֵא כְּבִרְכַּת יְיָ׃
+*al kos yayin male, kevirkat Adoshem.*
+over a full cup of wine, as Hashem has blessed us.
+
 ## How it is sung
 
 Tzur Mishelo is sung at home at the end of the Sabbath meal. Ashkenazi prayer books print it among the songs for the Friday-night meal, and the Encyclopaedia Judaica calls it an introduction to the grace.[^ejzem][^metsudah][^ej] Because its verses come so near the grace itself, a few authorities have warned that singing it might count as saying grace, and so advise singing it in mid-meal, or only after the grace. Most dismiss the worry, and the custom is to sing it at the meal.[^metsudah][^enkin]
@@ -107,7 +175,7 @@ The soprano sings the German melody the Jewish Encyclopedia printed, all the way
 - [^ejzem]: Ernst Daniel Goldschmidt, "Zemirot", *Encyclopaedia Judaica*, via Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/zemirot
 - [^abrahams]: Israel Abrahams, *Annotated Edition of the Authorised Daily Prayer Book* (Eyre and Spottiswoode, 1914), Appendix IV, "Table Hymns", pp. cclix to cclxi. https://archive.org/details/annotatededition00unknuoft
 - [^loewe]: Herbert Loewe, *Mediaeval Hebrew Minstrelsy: Songs for the Bride Queen's Feast*, tunes arranged by Rose L. Henriques (James Clarke, 1926), pp. 3, 9 to 11, 15 and 75 to 77. https://archive.org/details/mediaevalhebrewm00loewuoft
-- [^metsudah]: *Siddur Ashkenaz*, Zemirot for Shabbat Evening, "Tzur Mishelo", Hebrew text and the English and notes of the Metsudah Siddur (Avrohom Davis, 1981), via Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Shabbat_Evening%2C_Zemirot_for_Shabbat_Evening%2C_Tzur_Mishelo
+- [^metsudah]: *Siddur Ashkenaz*, Zemirot for Shabbat Evening, "Tzur Mishelo", Hebrew text and the English and notes of the Metsudah Siddur (Avrohom Davis, 1981), via Sefaria, under the licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Shabbat_Evening%2C_Zemirot_for_Shabbat_Evening%2C_Tzur_Mishelo
 - [^yomzeh]: *Siddur Ashkenaz*, Zemirot for Shabbat Evening, "Yom Zeh L'yisrael", Hebrew text (Metsudah Siddur, 1981), via Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Shabbat_Evening%2C_Zemirot_for_Shabbat_Evening%2C_Yom_zeh_L'yisrael
 - [^mishnah]: Mishnah Berakhot 7:3, William Davidson edition, via Sefaria. https://www.sefaria.org/Mishnah_Berakhot.7.3
 - [^talmud]: Babylonian Talmud, Berakhot 48b and 51a, William Davidson edition, via Sefaria. https://www.sefaria.org/Berakhot.48b

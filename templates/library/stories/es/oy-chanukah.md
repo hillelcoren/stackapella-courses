@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: oy chanukah letra en español | oy chanukah canción en ídish | oy chanukah significado | oy chanukah historia | canción de janucá en ídish | oh chanukah letra
-translatedFrom: 109b2f82bbcd
+translatedFrom: 50b3d64d2b9c
 ---
 
 Oy Chanukah es una canción en ídish para Janucá, la fiesta judía de las luces, que dura ocho días. Su primera estrofa es la fiesta en casa: dreidels cada noche, latkes calientes sin fin, las velitas finas encendidas, la oración por los milagros dicha, y luego un baile.[^k4] La segunda alaba a Judá Macabeo, que expulsó al enemigo y devolvió la vida a Jerusalén.[^k4][^1macc] Mordkhe Rivesman escribió la letra para un cancionero "para la escuela y la familia judías", publicado en San Petersburgo en 1911 o 1912, y el libro llama a la melodía simplemente jasídica.[^k4][^idel29][^leksk] La melodía ha viajado más allá del ídish. En hebreo se canta como Yemei HaChanukah, y quienes hablan inglés la cantan con una letra inglesa propia.[^zemer][^chagim][^mjl]
@@ -28,9 +28,9 @@ En 1908 un grupo de jóvenes músicos judíos, estudiantes del conservatorio de 
 
 El prefacio de Kisselgof explica por qué. Los maestros escribían una y otra vez a la Sociedad, y a la Sociedad para la Difusión de la Ilustración entre los Judíos, pidiendo que les enviaran canciones populares en ídish, porque los cancioneros escolares que había entonces no traían ninguna. La canción popular en ídish, escribió, refleja la vida del pueblo, "sus penas y alegrías, sus costumbres y fiestas", y a través de ella un maestro puede sembrar en el corazón de un niño el amor por el pueblo.[^k4] El prefacio está firmado en San Petersburgo el 1 de junio de 1911. La historia de la música judía de Idelsohn fecha el libro en 1911; el léxico de escritores en ídish y la colección de música popular de Kyiv dan 1912.[^k4][^idel29][^leksk][^ipri]
 
-**La letra.** Mordkhe Rivesman nació en Vilna en 1868 y murió en 1924. Enseñó en escuelas judías, desde 1896 en una escuela de esa misma sociedad de ilustración en San Petersburgo, y escribió en ídish y en ruso.[^leksr][^posenr] Formó parte de la comisión que planeó el cancionero, y el prefacio de Kisselgof le atribuye "algunos textos originales" y el paso al ídish de sus canciones cultas.[^k4] La canción n.º 24 se titula "A chanuke lid", una canción de Janucá, "Werter fun M. Riwesman", letra de M. Rivesman, y sus dos estrofas están impresas en el alfabeto del ídish en la sección de letras del libro.[^k4]
+**La letra.** Mordkhe Rivesman nació en Vilna en 1868 y murió en 1924. Enseñó en escuelas judías, desde 1896 en una escuela de esa misma sociedad de ilustración en San Petersburgo, y escribió en ídish y en ruso.[^leksr][^posenr] Formó parte de la comisión que planeó el cancionero, y el prefacio de Kisselgof le atribuye "algunos textos originales" y el paso al ídish de sus canciones cultas.[^k4] La canción n.º 24 se titula "A chanuke lid", una canción de Janucá, "Werter fun M. Riwesman", letra de M. Rivesman.[^k4]
 
-**La melodía.** Bajo el título, el libro imprime una sola palabra sobre la melodía: "Chsidisch", jasídica.[^k4] No nombra autor ni lugar. Idelsohn, el historiador de la música judía, consideraba el canto jasídico una creación propia de los judíos de Polonia y Ucrania. Escribió que sus melodías para el "despertar" se construyen sobre ritmos vigorosos y bailables, y que sus melodías se basan en el modo Ahavoh Rabboh o en la escala menor, y solo rara vez en la mayor.[^idel29] Esta encaja en ese retrato: está en Fa menor, marcada Allegretto y "Freilich", alegremente.[^k4] Esa sola palabra es todo lo que el libro dice del origen de la melodía, y no hemos encontrado ninguna impresión anterior.
+**La melodía.** Bajo el título, el libro imprime una sola palabra sobre la melodía: "Chsidisch", jasídica.[^k4] No nombra autor ni lugar. Idelsohn, el historiador de la música judía, consideraba el canto jasídico una creación propia de los judíos de Polonia y Ucrania. Escribió que sus melodías para el "despertar" se construyen sobre ritmos vigorosos y bailables, y que sus melodías se basan en el modo Ahavoh Rabboh o en la escala menor, y solo rara vez en la mayor.[^idel29] Esta encaja en ese retrato: está en Fa menor, marcada Allegretto y "Freilich", alegremente.[^k4] No hemos encontrado ninguna impresión anterior.
 
 **El arreglo.** Pesach Lvov la arregló para sopranos y contraltos con piano.[^k4] Para la segunda edición, Zhitomirsky rehízo varios de los arreglos del libro para hacerlos más fáciles para coros infantiles; el libro no dice cuáles, y el n.º 24 sigue llevando el nombre de Lvov.[^k4] Lvov había arreglado casi la mitad de las canciones del libro cuando murió en Kyiv en 1913, el 22 de febrero según la fecha de la nota en su memoria de Kisselgof, antes de que saliera la segunda edición.[^k4][^penn][^yusfin] La página en su memoria que Kisselgof incluyó en esa edición, fechada en enero de 1914, termina así: "Los niños judíos cantarán tus canciones y nunca te olvidarán".[^k4] Después de la Primera Guerra Mundial, miembros del círculo de la Sociedad fundaron en Berlín la editorial Juwal, en 1922, y Juwal reeditó allí el cancionero.[^idel29][^jmrc][^penn]
 
@@ -67,11 +67,61 @@ El libro imprime dos estrofas, y cantamos las dos y luego otra vez la primera.[^
 
 Las palabras hebreas dentro del ídish conservan su sonido ídish, que lleva el ritmo de la melodía: beys hamikdesh para el Templo, Yerusholayim para Jerusalén. La palabra ídish para Hashem, Got, se canta tal como está impresa: es la palabra cotidiana del ídish, no uno de los nombres hebreos que nuestras canciones hebreas sustituyen por los nombres sustitutos que se acostumbran al cantar fuera de la oración.
 
+### La letra completa
+
+Aquí van las dos estrofas tal como las imprime en letras hebreas la sección de letras del libro, el n.º 24 en la página 13, con su propia ortografía, anterior a la norma de YIVO (שעהנער por sheyner).[^k4] Los versos siguen la lista de arriba, con los guiones del libro como comas, y la transliteración es la nuestra, al estilo de YIVO.
+
+**Estrofa 1**
+> אָי, חנכה, אי חנכה, א יום טוב א שעהנער
+*Oy, Khanike, oy Khanike, a yontev a sheyner,*
+Oh Janucá, oh Janucá, una fiesta preciosa,
+> א לוסטיגער, א פרעהליכער, ניטא נאך אזוינער....
+*a lustiker, a freylekher, nito nokh azoyner.*
+una fiesta alegre, una fiesta feliz, no hay otra igual.
+> אלע נאכט אין דריידלאך שפילען מיר,
+*Ale nakht in dreydlekh shpiln mir,*
+Cada noche jugamos con dreidels,
+> זודיג־הייסע לאטקעס עסט אהן א שיער:
+*zudik heyse latkes est on a shier:*
+a comer latkes calientes que chisporrotean, sin fin;
+> געשווינדער צינדט, קינדער, די דינינקע ליכטעלאך אן.
+*geshvinder tsindt, kinder, di dininke likhtelekh on.*
+deprisa, niños, a encender las velitas finas.
+> זאגט „על־הנסים“ לויבט גאט פאר די נסים
+*Zogt al hanisim, loybt Got far di nisim,*
+A decir Al hanisim, a alabar a Hashem por los milagros,
+> און קומט גיכער טאנצען אין קאן......
+*un kumt gikher tantsn in kon.*
+y a venir deprisa a bailar en el corro.
+
+**Estrofa 2**
+> יהודה האט פארטריבען דעם שונא, דעם רוצח
+*Yehude hot fartribn dem soyne, dem rotseyekh,*
+Judá expulsó al enemigo, al asesino,
+> און האט אין בית־המקדש געזונגען „למנצח“
+*un hot in beys hamikdesh gezungen lamnatseyekh.*
+y en el Templo cantó salmos ("Para el director").
+> די שטאט ירושלים האט ווידער אויפגעלעבט
+*Di shtot Yerusholayim hot vider oyfgelebt,*
+La ciudad de Jerusalén volvió a la vida,
+> און צו א נייעם לעבען האט יעדערער געשטרעבט...
+*un tsu a nayem lebn hot yederer geshtrebt.*
+y cada uno aspiró a una vida nueva.
+> דאריבער דעם גבור יהודה־המכבי לובט הויך!
+*Deriber dem giber Yehude hamakabi loybt hoykh!*
+¡Así que a alabar en voz alta al héroe, Judá Macabeo!
+> זאל יעדער באזונדער באזינגען דעם וואונדער
+*Zol yeder bazunder bazingen dem vunder,*
+Que todos y cada uno canten el prodigio,
+> און ליבען דאס פאלק זאלט איהר אויך.
+*un libn dos folk zolt ir oykh.*
+y que también se ame al pueblo.
+
 ## Cómo se canta
 
 Janucá empieza el 25 de Kislev y dura ocho días. Recuerda la nueva dedicación del Templo de Jerusalén por Judá Macabeo y sus hermanos, después de que los griegos lo profanaran.[^1macc][^jehan][^shab21] Cada tarde, después de la puesta del sol, se encienden las luces en casa, colocadas donde se vean desde fuera, una más cada noche, como enseñó la escuela de Hillel.[^shab21][^jehan] La Jewish Encyclopedia señala que los juegos, las adivinanzas y los pasatiempos son propios de las noches de Janucá.[^jehan]
 
-Oy Chanukah no es una oración. Es una canción de esas noches, hecha para un libro "para la escuela y la familia judías", y su letra pinta la escena: juegos, latkes, velas, la bendición, el baile.[^k4]
+Oy Chanukah no es una oración. Es una canción de esas noches, hecha para un libro "para la escuela y la familia judías".[^k4]
 
 Nuestro arreglo está tomado de la cuarta edición del cancionero, publicada en Berlín por Juwal, n.º 24 en la página 32, en Fa menor y en 2/4, como está impreso, un poco más lento que los 88 pulsos por minuto del libro, a 80.[^k4] Es para 2 a 4 cantantes, cantado en ídish: estrofa 1, estrofa 2 y otra vez la estrofa 1. La soprano y la contralto cantan las dos voces impresas con el nombre de Lvov. El tenor y el bajo salen de la mano izquierda de su piano: el tenor canta la letra, y el bajo canta un "dm" corto bajo los demás, y solo se suma a la letra al final de cada estrofa. En la estrofa 2 algunas notas se dividen en la misma altura para que quepan sus sílabas de más.
 

@@ -27,9 +27,9 @@ In 1908 a group of young Jewish musicians, students of the St Petersburg conserv
 
 Kisselgof's preface says why. Teachers kept writing to the Society, and to the Society for the Spread of Enlightenment among the Jews, asking to be sent Yiddish folk songs, because the school songbooks then in print held none. The Yiddish folk song, he wrote, mirrors the people's life, "its sorrows and joys, its customs and holidays", and through it a teacher can plant in a child's heart a love for the people.[^k4] The preface is signed in St Petersburg on 1 June 1911. Idelsohn's history of Jewish music dates the book to 1911; the Yiddish writers' lexicon and the Kyiv folk-music collection give 1912.[^k4][^idel29][^leksk][^ipri]
 
-**The words.** Mordkhe Rivesman was born in Vilna in 1868 and died in 1924. He taught in Jewish schools, from 1896 at a school of that same enlightenment society in St Petersburg, and wrote in Yiddish and Russian.[^leksr][^posenr] He sat on the commission that planned the songbook, and Kisselgof's preface credits him with "some original texts" and with putting its art songs into Yiddish.[^k4] Song No. 24 is headed "A chanuke lid", a Hanukkah song, "Werter fun M. Riwesman", words by M. Rivesman, and its two verses are printed in Yiddish letters in the book's words section.[^k4]
+**The words.** Mordkhe Rivesman was born in Vilna in 1868 and died in 1924. He taught in Jewish schools, from 1896 at a school of that same enlightenment society in St Petersburg, and wrote in Yiddish and Russian.[^leksr][^posenr] He sat on the commission that planned the songbook, and Kisselgof's preface credits him with "some original texts" and with putting its art songs into Yiddish.[^k4] Song No. 24 is headed "A chanuke lid", a Hanukkah song, "Werter fun M. Riwesman", words by M. Rivesman.[^k4]
 
-**The tune.** Under the title the book prints one word about the tune: "Chsidisch", Hasidic.[^k4] It names no maker and no place. Idelsohn, the historian of Jewish music, counted Hasidic song as the Jews of Poland and Ukraine's own creation. He wrote that its tunes for "awakening" are built on vigorous, dancing rhythms, and that its melodies are built on the Ahavoh Rabboh mode or the minor scale, and only rarely on the major.[^idel29] This one fits that picture: it is in F minor, marked Allegretto and "Freilich", merrily.[^k4] That one word is all the book says of where the tune came from, and we have found no earlier printing of it.
+**The tune.** Under the title the book prints one word about the tune: "Chsidisch", Hasidic.[^k4] It names no maker and no place. Idelsohn, the historian of Jewish music, counted Hasidic song as the Jews of Poland and Ukraine's own creation. He wrote that its tunes for "awakening" are built on vigorous, dancing rhythms, and that its melodies are built on the Ahavoh Rabboh mode or the minor scale, and only rarely on the major.[^idel29] This one fits that picture: it is in F minor, marked Allegretto and "Freilich", merrily.[^k4] We have found no earlier printing of it.
 
 **The arrangement.** Pesach Lvov set it for sopranos and altos with piano.[^k4] For the second edition Zhitomirsky reworked a number of the book's arrangements to make them easier for children's choirs; the book doesn't say which, and No. 24 still carries Lvov's name.[^k4] He had arranged nearly half of the book's songs when he died in Kyiv in 1913, on 22 February as Kisselgof's memorial dates it, before the second edition came out.[^k4][^penn][^yusfin] Kisselgof's memorial page in that edition, dated January 1914, ends: "Jewish children will sing your songs and will never forget you."[^k4] After the First World War members of the Society's circle founded the Juwal publishing company in Berlin, in 1922, and Juwal reissued the songbook there.[^idel29][^jmrc][^penn]
 
@@ -66,11 +66,61 @@ The book prints two verses, and we sing both, then the first again.[^k4] Here th
 
 The Hebrew words inside the Yiddish keep their Yiddish sound, which the tune's rhythm carries: beys hamikdesh for the Temple, Yerusholayim for Jerusalem. The Yiddish word for Hashem, Got, is sung as printed: it is the everyday Yiddish word, not one of the Hebrew names that our Hebrew songs replace with the substituted names customary when singing outside prayer.
 
+### The full words
+
+Here are both verses as the book's words section prints them in Yiddish letters, No. 24 on page 13, in its own spelling, older than the YIVO standard (שעהנער for sheyner).[^k4] The lines follow the list above, with the book's dashes as commas, and the transliteration is our YIVO-style one.
+
+**Verse 1**
+> אָי, חנכה, אי חנכה, א יום טוב א שעהנער
+*Oy, Khanike, oy Khanike, a yontev a sheyner,*
+Oh Hanukkah, oh Hanukkah, a lovely holiday,
+> א לוסטיגער, א פרעהליכער, ניטא נאך אזוינער....
+*a lustiker, a freylekher, nito nokh azoyner.*
+a cheerful one, a merry one, there is no other like it.
+> אלע נאכט אין דריידלאך שפילען מיר,
+*Ale nakht in dreydlekh shpiln mir,*
+Every night we play with dreidels,
+> זודיג־הייסע לאטקעס עסט אהן א שיער:
+*zudik heyse latkes est on a shier:*
+eat sizzling-hot latkes without end;
+> געשווינדער צינדט, קינדער, די דינינקע ליכטעלאך אן.
+*geshvinder tsindt, kinder, di dininke likhtelekh on.*
+quickly, children, light the thin little candles.
+> זאגט „על־הנסים“ לויבט גאט פאר די נסים
+*Zogt al hanisim, loybt Got far di nisim,*
+Say Al hanisim, praise Hashem for the miracles,
+> און קומט גיכער טאנצען אין קאן......
+*un kumt gikher tantsn in kon.*
+and come quickly to dance in the ring.
+
+**Verse 2**
+> יהודה האט פארטריבען דעם שונא, דעם רוצח
+*Yehude hot fartribn dem soyne, dem rotseyekh,*
+Judah drove out the enemy, the murderer,
+> און האט אין בית־המקדש געזונגען „למנצח“
+*un hot in beys hamikdesh gezungen lamnatseyekh.*
+and in the Temple he sang psalms ("For the leader").
+> די שטאט ירושלים האט ווידער אויפגעלעבט
+*Di shtot Yerusholayim hot vider oyfgelebt,*
+The city of Jerusalem came back to life,
+> און צו א נייעם לעבען האט יעדערער געשטרעבט...
+*un tsu a nayem lebn hot yederer geshtrebt.*
+and everyone reached for a new life.
+> דאריבער דעם גבור יהודה־המכבי לובט הויך!
+*Deriber dem giber Yehude hamakabi loybt hoykh!*
+So praise aloud the hero, Judah the Maccabee!
+> זאל יעדער באזונדער באזינגען דעם וואונדער
+*Zol yeder bazunder bazingen dem vunder,*
+Let each and every one sing of the wonder,
+> און ליבען דאס פאלק זאלט איהר אויך.
+*un libn dos folk zolt ir oykh.*
+and you should love the people too.
+
 ## How it is sung
 
 Hanukkah begins on the 25th of Kislev and lasts eight days. It remembers the rededication of the Temple in Jerusalem by Judah the Maccabee and his brothers, after the Greeks had defiled it.[^1macc][^jehan][^shab21] Each evening after sunset the lights are kindled at home, set where they can be seen from outside, one more each night, as the school of Hillel taught.[^shab21][^jehan] The Jewish Encyclopedia notes that games, riddles and pastimes belong to the Hanukkah evenings.[^jehan]
 
-Oy Chanukah is not a prayer. It is a song of those evenings, made for a book "for the Jewish school and family", and its words set the scene: games, latkes, candles, the blessing, the dance.[^k4]
+Oy Chanukah is not a prayer. It is a song of those evenings, made for a book "for the Jewish school and family".[^k4]
 
 Our arrangement is read from the songbook's fourth edition, published in Berlin by Juwal, No. 24 on page 32, in F minor in 2/4 as printed, a little slower than the book's 88 beats a minute, at 80.[^k4] It is for 2 to 4 singers, sung in Yiddish: verse 1, verse 2, then verse 1 again. The soprano and alto sing the two voices printed under Lvov's name. The tenor and bass are taken from his piano's left hand: the tenor sings the words, and the bass sings a short "dm" under the others, joining the words only at the end of each verse. In verse 2 a few notes are split on the same pitch to fit its extra syllables.
 

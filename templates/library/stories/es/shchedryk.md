@@ -13,7 +13,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: shchedryk historia | shchedryk significado | quién escribió shchedryk | shchedryk letra en español | carol of the bells historia ucraniana | villancico de las campanas historia
-translatedFrom: ede2990735aa
+translatedFrom: 4c57a870523a
 ---
 
 Shchedryk es una shchedrivka ucraniana, una canción de Año Nuevo que le desea bien a una familia. En su letra una golondrina entra volando, llama al dueño de la casa para que salga a ver sus corderos recién nacidos y le dice que el año le traerá dinero [^eu-carols][^america][^kyivind]. El compositor Mykola Leontovych trabajó, según la cuenta de los estudiosos ucranianos, cerca de veinte años en un breve arreglo coral construido sobre su melodía de cuatro notas [^makarenko][^vn-bib]. En 1922 el Coro Nacional Ucraniano de Oleksandr Koshyts cantó ese arreglo en el Carnegie Hall de Nueva York [^america][^slate]. En 1936 el director de coro estadounidense Peter J. Wilhousky le puso a la música una letra inglesa nueva, sobre campanas, y como "Carol of the Bells" (en español, "Villancico de las campanas") entró en los villancicos de Navidad de Estados Unidos [^musicanet][^slate][^eu-carols].
@@ -60,7 +60,51 @@ La letra es un texto popular sin autor conocido. Cantamos doce versos y luego lo
 
 **La promesa.** Todo tu "tovar", tu ganado, sobre todo vacuno en el sentido antiguo, es bueno [^sum-tovar]. Tendrás una "mirka" de dinero: la mirka era una medida doméstica para el grano, y también la vasija que lo contenía [^sum-mirka]. Si no dinero, "polova", la paja que queda al trillar el grano [^sum-polova], lo que parece prometer grano de sobra para trillar. Y tienes una esposa de cejas oscuras.
 
-**El final.** Vuelven los primeros versos: la noche generosa y la golondrina que ha entrado volando.
+### La letra completa
+
+Esta es la letra tal como la imprimió un cancionero de Kiev en 1913, seis pareados numerados de Krasnopil, en Volinia, con su ortografía y su puntuación [^zbirnychok]. Aparte de la ortografía, cantamos "lastivochka" por la forma dialectal "hlastivochka" y otro último verso, "V tebe zhinka chornobrova", tienes una esposa de cejas negras, y terminamos con los dos primeros versos otra vez, que la página no repite. La transliteración es el sistema nacional de Ucrania de 2010.
+
+> Щедрик, щедрик щедривочка,
+*Shchedryk, shchedryk shchedryvochka,*
+Shchedryk, shchedryk (Noche Generosa), una cancioncita de Año Nuevo,
+> Прилетіла гластівочка.
+*Pryletila hlastivochka.*
+ha llegado volando una golondrinita.
+
+> Стала собі щебетати
+*Stala sobi shchebetaty*
+Se puso a trinar,
+> Господаря викликати:
+*Hospodaria vyklykaty:*
+llamando al dueño de la casa:
+
+> „Вийди, вийди господарю,
+*"Vyidy, vyidy hospodariu,*
+"Sal, sal, dueño de la casa,
+> Подивися на кошару;
+*Podyvysia na kosharu;*
+mira el redil;
+
+> „Там овечки покотились,
+*"Tam ovechky pokotylys,*
+allí las ovejas han parido,
+> А ягнички народились.
+*A yahnychky narodylys.*
+y han nacido corderitos.
+
+> „В тебе товар, весь хороший,
+*"V tebe tovar, ves khoroshyi,*
+Todo tu ganado es bueno,
+> Будиш мати мірку грошей.
+*Budysh maty mirku hroshei.*
+tendrás una medida de dinero.
+
+> „Хочь не гроші, то полова
+*"Khoch ne hroshi, to polova*
+Si no es dinero, paja de la trilla:
+> Твоя жінка черноброва“...
+*Tvoia zhinka chernobrova"...*
+tu esposa tiene cejas negras."
 
 ## Cómo se canta
 
@@ -132,3 +176,4 @@ La soprano canta la melodía, la figura de cuatro notas, del primer compás al �
 - [^sum-tovar]: *Slovnyk ukrainskoi movy*, 11 vols, "tovar" (acepción 2), según goroh.pp.ua. https://goroh.pp.ua/Тлумачення/товар
 - [^sum-mirka]: *Slovnyk ukrainskoi movy*, "mirka", según goroh.pp.ua. https://goroh.pp.ua/Тлумачення/мірка
 - [^sum-polova]: *Slovnyk ukrainskoi movy*, "polova", según goroh.pp.ua. https://goroh.pp.ua/Тлумачення/полова
+- [^zbirnychok]: K. L. Polishchuk, comp., *Zbirnychok naikrashchykh ukrainskykh pisen* (Kiev: Y. T. Hubanov, 1913), n.º 23, "Shchedryk, shchedryk shchedryvochka", p. 43, de Krasnopil, distrito de Zhytomyr, Volinia; ejemplar de la University of Toronto, Faculty of Music Library, M1764 .P65 Z3, imagen n154. https://archive.org/details/zbirnychoknakras00poli

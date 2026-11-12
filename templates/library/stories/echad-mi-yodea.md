@@ -59,6 +59,312 @@ Where the Haggadah has Eloheinu, we sing Elokeinu, with a k, the substituted nam
 
 **The verses we don't sing.** Five is the five books of the Torah; six, the six orders of the Mishnah; seven, the days of the week; eight, the eight days to a baby boy's circumcision; nine, the nine months to birth; ten, the Ten Commandments; eleven, the lights in the sky that bowed to Joseph in his dream; twelve, the tribes of Israel; and thirteen, the thirteen attributes of Hashem's mercy, from Exodus 34.[^sefaria][^je][^uh1923] Kaufmann Kohler, writing in the Jewish Encyclopedia, saw meaning in the song's stopping at thirteen, the unlucky number: it made thirteen a holy and so a lucky number for Jews.[^je][^uh1908]
 
+### The full words
+
+Here are all thirteen verses as Sefaria's Haggadah prints them, from the Da'at site, vowels as printed.[^sefaria] This is the traditional Hebrew, not the Union Haggadah's Reform text. The transliteration is modern Israeli, with Elokeinu, as sung outside prayer; the English is ours.
+
+**Verse 1**
+> אֶחָד מִי יוֹדֵעַ? אֶחָד אֲנִי יוֹדֵעַ:
+*Echad mi yodea? Echad ani yodea:*
+Who knows one? I know one:
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
+**Verse 2**
+> שְׁנַיִם מִי יוֹדֵעַ? שְׁנַיִם אֲנִי יוֹדֵעַ: שְׁנֵי לֻחוֹת הַבְּרִית.
+*Shenayim mi yodea? Shenayim ani yodea: sh'nei luchot hab'rit,*
+Who knows two? I know two: the two tablets of the covenant,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
+**Verse 3**
+> שְׁלֹשָׁה מִי יוֹדֵעַ? שְׁלֹשָׁה אֲנִי יוֹדֵעַ: שְׁלֹשָׁה אָבוֹת,
+*Sh'losha mi yodea? Sh'losha ani yodea: sh'losha avot,*
+Who knows three? I know three: the three fathers,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+the two tablets of the covenant,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
+**Verse 4**
+> אַרְבַּע מִי יוֹדֵעַ? אַרְבַּע אֲנִי יוֹדֵעַ: אַרְבַּע אִמָּהוֹת,
+*Arba mi yodea? Arba ani yodea: arba imahot,*
+Who knows four? I know four: the four mothers,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+the three fathers,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+the two tablets of the covenant,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
+**Verse 5**
+> חֲמִשָּׁה מִי יוֹדֵעַ? חֲמִשָּׁה אֲנִי יוֹדֵעַ: חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*Chamisha mi yodea? Chamisha ani yodea: chamisha chumshei Torah,*
+Who knows five? I know five: the five books of the Torah,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+the four mothers,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+the three fathers,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+the two tablets of the covenant,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
+**Verse 6**
+> שִׁשָּׂה מִי יוֹדֵעַ? שִׁשָּׂה אֲנִי יוֹדֵעַ: שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*Shisha mi yodea? Shisha ani yodea: shisha sidrei Mishna,*
+Who knows six? I know six: the six orders of the Mishnah,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+the five books of the Torah,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+the four mothers,
+> שְׁלֹשָׁה אָבוֹת,
+*sh'losha avot,*
+the three fathers,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+the two tablets of the covenant,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
+**Verse 7**
+> שִׁבְעָה מִי יוֹדֵעַ? שִׁבְעָה אֲנִי יוֹדֵעַ: שִׁבְעָה יְמֵי שַׁבָּתָא,
+*Shiv'a mi yodea? Shiv'a ani yodea: shiv'a yemei shabata,*
+Who knows seven? I know seven: the seven days of the week,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+the six orders of the Mishnah,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+the five books of the Torah,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+the four mothers,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+the three fathers,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+the two tablets of the covenant,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
+**Verse 8**
+> שְׁמוֹנָה מִי יוֹדֵעַ? שְׁמוֹנָה אֲנִי יוֹדֵעַ: שְׁמוֹנָה יְמֵי מִילָה,
+*Sh'mona mi yodea? Sh'mona ani yodea: sh'mona yemei mila,*
+Who knows eight? I know eight: the eight days to circumcision,
+> שִׁבְעָה יְמֵי שַׁבָּתָא,
+*shiv'a yemei shabata,*
+the seven days of the week,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+the six orders of the Mishnah,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+the five books of the Torah,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+the four mothers,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+the three fathers,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+the two tablets of the covenant,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
+**Verse 9**
+> תִּשְׁעָה מִי יוֹדֵעַ? תִּשְׁעָה אֲנִי יוֹדֵעַ: תִּשְׁעָה יַרְחֵי לֵדָה,
+*Tish'a mi yodea? Tish'a ani yodea: tish'a yarchei leda,*
+Who knows nine? I know nine: the nine months to birth,
+> שְׁמוֹנָה יְמֵי מִילָה,
+*sh'mona yemei mila,*
+the eight days to circumcision,
+> שִׁבְעָה יְמֵי שַׁבָּתָא,
+*shiv'a yemei shabata,*
+the seven days of the week,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+the six orders of the Mishnah,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+the five books of the Torah,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+the four mothers,
+> שְׁלֹשָׁה אָבוֹת,
+*sh'losha avot,*
+the three fathers,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+the two tablets of the covenant,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
+**Verse 10**
+> עֲשָֹרָה מִי יוֹדֵעַ? עֲשָֹרָה אֲנִי יוֹדֵעַ: עֲשָׂרָה דִבְּרַיָא,
+*Asara mi yodea? Asara ani yodea: asara dibraya,*
+Who knows ten? I know ten: the Ten Commandments,
+> תִּשְׁעָה יַרְחֵי לֵדָה,
+*tish'a yarchei leda,*
+the nine months to birth,
+> שְׁמוֹנָה יְמֵי מִילָה,
+*sh'mona yemei mila,*
+the eight days to circumcision,
+> שִׁבְעָה יְמֵי שַׁבָּתָא,
+*shiv'a yemei shabata,*
+the seven days of the week,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+the six orders of the Mishnah,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+the five books of the Torah,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+the four mothers,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+the three fathers,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+the two tablets of the covenant,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
+**Verse 11**
+> אַחַד עָשָׂר מִי יוֹדֵעַ? אַחַד עָשָׂר אֲנִי יוֹדֵעַ: אַחַד עָשָׂר כּוֹכְבַיָּא,
+*Achad asar mi yodea? Achad asar ani yodea: achad asar kochvaya,*
+Who knows eleven? I know eleven: the eleven stars,
+> עֲשָׂרָה דִבְּרַיָא,
+*asara dibraya,*
+the Ten Commandments,
+> תִּשְׁעָה יַרְחֵי לֵדָה,
+*tish'a yarchei leda,*
+the nine months to birth,
+> שְׁמוֹנָה יְמֵי מִילָה,
+*sh'mona yemei mila,*
+the eight days to circumcision,
+> שִׁבְעָה יְמֵי שַׁבָּתָא,
+*shiv'a yemei shabata,*
+the seven days of the week,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+the six orders of the Mishnah,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+the five books of the Torah,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+the four mothers,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+the three fathers,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+the two tablets of the covenant,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
+**Verse 12**
+> שְׁנֵים עָשָׂר מִי יוֹדֵעַ? שְׁנֵים עָשָׂר אֲנִי יוֹדֵעַ: שְׁנֵים עָשָׂר שִׁבְטַיָּא,
+*Sh'neim asar mi yodea? Sh'neim asar ani yodea: sh'neim asar shivtaya,*
+Who knows twelve? I know twelve: the twelve tribes,
+> אַחַד עָשָׂר כּוֹכְבַיָּא,
+*achad asar kochvaya,*
+the eleven stars,
+> עֲשָׂרָה דִבְּרַיָא,
+*asara dibraya,*
+the Ten Commandments,
+> תִּשְׁעָה יַרְחֵי לֵדָה,
+*tish'a yarchei leda,*
+the nine months to birth,
+> שְׁמוֹנָה יְמֵי מִילָה,
+*sh'mona yemei mila,*
+the eight days to circumcision,
+> שִׁבְעָה יְמֵי שַׁבָּתָא,
+*shiv'a yemei shabata,*
+the seven days of the week,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+the six orders of the Mishnah,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+the five books of the Torah,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+the four mothers,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+the three fathers,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+the two tablets of the covenant,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
+**Verse 13**
+> שְׁלשָׁה עָשָׂר מִי יוֹדֵעַ? שְׁלשָׁה עָשָׂר אֲנִי יוֹדֵעַ: שְׁלשָׁה עָשָׂר מִדַּיָּא.
+*Sh'losha asar mi yodea? Sh'losha asar ani yodea: sh'losha asar midaya,*
+Who knows thirteen? I know thirteen: the thirteen attributes,
+> שְׁנֵים עָשָׂר שִׁבְטַיָּא,
+*sh'neim asar shivtaya,*
+the twelve tribes,
+> אַחַד עָשָׂר כּוֹכְבַיָּא,
+*achad asar kochvaya,*
+the eleven stars,
+> עֲשָׂרָה דִבְּרַיָא,
+*asara dibraya,*
+the Ten Commandments,
+> תִּשְׁעָה יַרְחֵי לֵדָה,
+*tish'a yarchei leda,*
+the nine months to birth,
+> שְׁמוֹנָה יְמֵי מִילָה,
+*sh'mona yemei mila,*
+the eight days to circumcision,
+> שִׁבְעָה יְמֵי שַׁבָּתָא,
+*shiv'a yemei shabata,*
+the seven days of the week,
+> שִׁשָּׁה סִדְרֵי מִשְׁנָה,
+*shisha sidrei Mishna,*
+the six orders of the Mishnah,
+> חֲמִשָּׁה חוּמְשֵׁי תוֹרָה,
+*chamisha chumshei Torah,*
+the five books of the Torah,
+> אַרְבַּע אִמָּהוֹת,
+*arba imahot,*
+the four mothers,
+> שְׁלשָׁה אָבוֹת,
+*sh'losha avot,*
+the three fathers,
+> שְׁנֵי לֻחוֹת הַבְּרִית,
+*sh'nei luchot hab'rit,*
+the two tablets of the covenant,
+> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+*echad Elokeinu shebashamayim uvaaretz.*
+one is Hashem, who is in heaven and on earth.
+
 ## How it is sung
 
 It comes in the seder's closing section, Nirtzah, after Ki Lo Naeh and Adir Hu.[^sefaria][^jmrc][^ej] The Union Haggadah of 1923 calls it "A Madrigal of Numbers".[^uh1923]
@@ -115,7 +421,7 @@ The soprano sings the tune throughout, as the Union Haggadah prints it. The alto
 - [^jrb]: Yosef Lindell, "Kidnapped Choruses?", *Jewish Review of Books* (Spring 2025). https://jewishreviewofbooks.com/jewish-life/18544/kidnapped-choruses/
 - [^jl]: HUC Jewish Language Project, "Echad Mi Yodea (Who Knows One?)", texts and images including the National Library of Israel's 1526 Prague copy and the Seattle Ladino Haggadah (2004). https://www.jewishlanguages.org/who-knows-one
 - [^uw]: Ty Alhadeff, "'Who Knows One?' in Ladino: The Power of Oral Tradition at the Sephardic Passover Seder", Stroum Center for Jewish Studies, University of Washington (2017). https://jewishstudies.washington.edu/digital-sephardic-treasures/who-knows-one-in-ladino/
-- [^sefaria]: *Pesach Haggadah*, Nirtzah, "Echad Mi Yodea", Hebrew text and the English of the Koren Haggadah (Koren, 2013), via Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Echad_Mi_Yodea
+- [^sefaria]: *Pesach Haggadah*, Nirtzah, "Echad Mi Yodea", Hebrew text (Sefaria's public-domain version, from the Da'at Jewish studies site) and the English of the Koren Haggadah (Koren, 2013), via Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Echad_Mi_Yodea
 - [^berakhot]: Babylonian Talmud, Berakhot 16b, William Davidson edition, via Sefaria. https://www.sefaria.org/Berakhot.16b
 - [^jepatriarchs]: Executive Committee of the Editorial Board, Schulim Ochser, Wilhelm Bacher and Judah David Eisenstein, "Patriarchs, The", *The Jewish Encyclopedia*, vol. 9 (Funk and Wagnalls, 1905), pp. 560 to 561. https://www.jewishencyclopedia.com/articles/11944-patriarchs-the
 - [^chabad]: Moshe Bogomilsky, "Questions and Answers on the Post-Seder Hymns", Chabad.org. https://www.chabad.org/library/article_cdo/aid/2834703/jewish/Post-Seder-Hymns.htm

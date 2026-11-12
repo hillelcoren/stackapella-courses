@@ -45,7 +45,138 @@ We sing only the refrain's first line, the three names, as Idelsohn printed it. 
 - **Eliyahu hatishbi**: Elijah the Tishbite. Kings calls him this, probably after a place called Tishbe, whose site is uncertain.[^jeelijah]
 - **Eliyahu, Eliyahu, Eliyahu hagiladi**: Elijah, Elijah, Elijah of Gilead, the land east of the Jordan where he lived among its settlers.[^kings][^jeelijah]
 
-In the prayer books the refrain goes on: "bimhera yavo eleinu im mashiach ben David", may he come to us soon with the Messiah, the son of David.[^sefard][^edot] Idelsohn's print has only part of that line, "bimheroh yovo elenu", may he soon come to us, set as a free recitative after the measured first section, and nothing of the longer, measured second half many sing today. We leave the recitative out.[^idel1929] The Milken Archive's notes suggest that carrying the tune on into that second line may be a later addition.[^milken] The refrain has none of Hashem's names, so it needs none of the substituted names customary when singing outside prayer.
+In the prayer books the refrain goes on: "bimhera yavo eleinu im mashiach ben David", may he come to us soon with the Messiah, the son of David.[^sefard][^edot] Idelsohn's print has only part of that line, "bimheroh yovo elenu", may he soon come to us, set as a free recitative after the measured first section, and nothing of the longer, measured second half many sing today. We leave the recitative out.[^idel1929] The Milken Archive's notes suggest that carrying the tune on into that second line may be a later addition.[^milken]
+
+### The full words
+
+Here are the refrain and the long poem's ten verses as Siddur Sefard on Sefaria prints them for the meal after the Sabbath, from the public-domain Torat Emet text; the meanings are ours.[^sefard] The refrain follows every verse but the last, and has "Eliyahu" once before "hagiladi", where Idelsohn's tune repeats it three times.[^idel1929][^sefard] The transliteration gives Hashem's names as sung outside prayer: Kel, Adoshem and Elokim.
+
+**Refrain**
+> אֵלִיָּהוּ הַנָּבִיא.
+*Eliyahu hanavi,*
+Elijah the prophet,
+> אֵלִיָּהוּ הַתִּשְׁבִּי.
+*Eliyahu hatishbi,*
+Elijah the Tishbite,
+> אֵלִיָּהוּ הַגִּלְעָדִי.
+*Eliyahu hagiladi,*
+Elijah of Gilead,
+> בִּמְהֵרָה יָבֹא אֵלֵינוּ עִם מָשִׁיחַ בֶּן דָּוִד:
+*bimhera yavo eleinu im mashiach ben David.*
+may he come to us soon with the Messiah, the son of David.
+
+**Verse 1**
+> אִישׁ אֲשֶׁר קִנֵּא לְשֵׁם הָאֵל.
+*Ish asher kinei leshem haKel,*
+A man who was zealous for the name of Hashem,
+> אִישׁ בֻּשַּׂר שָׁלוֹם עַל יַד יְקוּתִיאֵל.
+*ish busar shalom al yad Yekutiel,*
+a man promised peace by the hand of Yekutiel,
+> אִישׁ גָּשׁ וַיְכַפֵּר עַל בְּנֵי יִשְׂרָאֵל:
+*ish gash vaychaper al b'nei Yisrael.*
+a man who stepped forward and atoned for the children of Israel.
+
+**Verse 2**
+> אִישׁ דּוֹרוֹת שְׁנֵים עָשָׂר רָאוּ עֵינָיו.
+*Ish dorot sh'neim asar ra'u einav,*
+A man whose eyes saw twelve generations,
+> אִישׁ הַנִּקְרָא בַּעַל שֵׂעָר בְּסִמָּנָיו.
+*ish hanikra ba'al se'ar besimanav,*
+a man known by his signs as a hairy man,
+> אִישׁ וְאֵזוֹר עוֹר אָזוּר בְּמָתְנָיו:
+*ish ve'ezor or azur bemotnav.*
+a man with a leather belt bound around his waist.
+
+**Verse 3**
+> אִישׁ זָעַף עַל עוֹבְדֵי חַמָּנִים.
+*Ish za'af al ovdei chamanim,*
+A man who raged at the worshippers of sun images,
+> אִישׁ חָשׁ וְנִשְׁבַּע מִהְיוֹת גִּשְׁמֵי מְעוֹנִים.
+*ish chash venishba mihyot gishmei me'onim,*
+a man who hurried to swear that no rain would fall from the skies,
+> אִישׁ טַל וּמָטָר עָצַר שָׁלשׁ שָׁנִים:
+*ish tal umatar atzar shalosh shanim.*
+a man who held back the dew and rain for three years.
+
+**Verse 4**
+> אִישׁ יָצָא לִמְצֹא לְנַפְשׁוֹ נַחַת.
+*Ish yatza limtzo lenafsho nachat,*
+A man who went out to find rest for his soul,
+> אִישׁ כִּלְכְּלוּהוּ הָעוֹרְבִים וְלֹא מֵת לַשַּׁחַת.
+*ish kilk'luhu ha'orvim velo met lashachat,*
+a man whom the ravens fed, who did not die and go down to the pit,
+> אִישׁ לְמַעֲנוֹ נִתְבָּרְכוּ כַּד וְצַפַּחַת:
+*ish lema'ano nitbarchu kad vetzapachat.*
+a man for whose sake a jar and a flask were blessed.
+
+**Verse 5**
+> אִישׁ מוּסָרָיו הִקְשִׁיבוּ כְמֵהִים.
+*Ish musarav hikshivu chemehim,*
+A man whose teaching was heard by those who longed for it,
+> אִישׁ נֶעֱנֶה בָאֵשׁ מִשְּׁמֵי גְבוֹהִים.
+*ish ne'ena va'esh mishmei g'vohim,*
+a man answered with fire from the high heavens,
+> אִישׁ סָחוּ אַחֲרָיו יְיָ הוּא הָאֱלֹהִים:
+*ish sachu acharav Adoshem hu haElokim.*
+a man after whom they said, "Hashem, He is the Almighty."
+
+**Verse 6**
+> אִישׁ עָתִיד לְהִשְׁתַּלֵּחַ מִשְּׁמֵי עֲרָבוֹת.
+*Ish atid lehishtale'ach mishmei aravot,*
+A man who will one day be sent from the highest heavens,
+> אִישׁ פָּקִיד עַל כָּל בְּשׁוֹרוֹת טוֹבוֹת.
+*ish pakid al kol b'sorot tovot,*
+a man put in charge of all good news,
+> אִישׁ צִיר נֶאֱמָן לְהָשִׁיב לֵב בָּנִים עַל אָבוֹת:
+*ish tzir ne'eman lehashiv lev banim al avot.*
+a faithful messenger, to turn the hearts of children to their parents.
+
+**Verse 7**
+> אִישׁ קָרָא קַנֹּא קִנֵּאתִי לַייָ בְּתִפְאָרָה.
+*Ish kara kano kineti laAdoshem betif'ara,*
+A man who cried out, "I have been very zealous for Hashem", in glory,
+> אִישׁ רָכַב עַל סוּסֵי אֵשׁ בִּסְעָרָה.
+*ish rachav al susei esh bis'ara,*
+a man who rode on horses of fire in a storm,
+> אִישׁ שֶׁלּא טָעַם טַעַם מִיתָה וּקְבוּרָה:
+*ish shelo ta'am ta'am mita ukvura.*
+a man who never tasted death or burial.
+
+**Verse 8**
+> אִישׁ תִּשְׁבִּי עַל שְׁמוֹ נִקְרָא.
+*Ish Tishbi al sh'mo nikra,*
+A man called by the name of the Tishbite:
+> תַּצְלִיחֵנוּ עַל יָדוֹ בַּתּוֹרָה.
+*tatzlicheinu al yado baTorah,*
+through him, let us succeed in the Torah,
+> תַּשְׁמִיעֵנוּ מִפִּיו בְּשׁוֹרָה טוֹבָה בִּמְהֵרָה.
+*tashmi'enu mipiv b'sora tova bimhera,*
+let us hear good news from his mouth soon,
+> בִּמְהֵרָה תּוֹצִיאֵנוּ מֵאֲפֵלָה לְאוֹרָה:
+*bimhera totzi'enu me'afela le'ora.*
+soon bring us out of darkness into light.
+
+**Verse 9**
+> אַשְׁרֵי מִי שֶׁרָאָה פָנָיו בַּחֲלוֹם.
+*Ashrei mi shera'a fanav bachalom,*
+Happy is one who has seen his face in a dream,
+> אַשְׁרֵי מִי שֶׁנָּתַן לוֹ שָׁלוֹם וְהֶחֱזִיר לוֹ שָׁלוֹם.
+*ashrei mi shenatan lo shalom vehechezir lo shalom,*
+happy is one who greeted him with peace and whom he greeted with peace in return.
+> יְיָ יְבָרֵךְ אֶת עַמּוֹ בַשָּׁלוֹם:
+*Adoshem yevarech et amo vashalom.*
+May Hashem bless His people with peace.
+
+**Verse 10**
+> כַּכָּתוּב הִנֵּה אָנֹכִי שׁלֵחַ לָכֶם אֵת אֵלִיָּה הַנָּבִיא.
+*Kakatuv: hine anochi sholeach lachem et Eliya hanavi*
+As it is written: "Here, I am sending you Elijah the prophet
+> לִפְנֵי בּא יוֹם יְיָ הַגָּדוֹל וְהַנּוֹרָא.
+*lifnei bo yom Adoshem hagadol vehanora,*
+before the coming of the great and awesome day of Hashem,
+> וְהֵשִׁיב לֵב אָבוֹת עַל בָּנִים וְלֵב בָּנִים עַל אֲבוֹתָם:
+*veheshiv lev avot al banim velev banim al avotam.*
+and he will turn the hearts of parents to their children and the hearts of children to their parents."
 
 ## How it is sung
 
@@ -57,7 +188,7 @@ In the prayer books the refrain goes on: "bimhera yavo eleinu im mashiach ben Da
 
 ## Versions and other words
 
-The long poem's stanzas run through the Hebrew alphabet in their second words and tell Elijah's story: zealous for Hashem, a hairy man with a leather belt, who held back the dew and rain for three years, was fed by ravens, for whose sake a jar and a flask were blessed, who was answered by fire from heaven, and who rode horses of fire in a storm without tasting death.[^sefard][^milken] Some versions add a stanza asking him to bring good news "on Saturday nights".[^edot][^milken]
+The long poem's stanzas run through the Hebrew alphabet in their second words and tell Elijah's story, from his zeal for Hashem to his ride on horses of fire without tasting death.[^sefard][^milken] Some versions add a stanza asking him to bring good news "on Saturday nights".[^edot][^milken]
 
 In the Edot HaMizrach prayer book each stanza ends "Eliyahu hanavi zachur latov", Elijah the prophet, remembered for good.[^edot] Idelsohn's second popular tune, printed beside ours and marked "recit.", sets only the first two words, "Eliyohu hanovi", again and again.[^idel1929] The Milken Archive's notes trace Idelsohn's tune to a variant in a German synagogue hymnbook from Braunschweig, which they say has been cited as its earliest known notation. Idelsohn himself names no source and files the tune among Eastern Ashkenazi folk songs. That variant, the notes add, has fewer dotted rhythms than the tune now sung almost everywhere in American Ashkenazi circles.[^milken][^idel1929]
 
@@ -113,7 +244,7 @@ The soprano sings the tune throughout, as Idelsohn printed it, a minor third hig
 - [^sa480]: Shulchan Arukh, Orach Chayim 480:1, with the gloss of the Rema, via Sefaria. https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.480.1
 - [^kings]: I Kings 17:1, 18, and II Kings 2:11, in *The Holy Scriptures* (Jewish Publication Society, 1917), via Sefaria. https://www.sefaria.org/I_Kings.17.1
 - [^malachi]: Malachi 3:23 to 24, in *The Holy Scriptures* (Jewish Publication Society, 1917), via Sefaria. https://www.sefaria.org/Malachi.3.23-24
-- [^sefard]: Siddur Sefard (Torat Emet), Motzaei Shabbat, Melava Malka Zemirot, via Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Motzaei_Shabbat_%2C_Melava_Malka_Zemirot.47
+- [^sefard]: Siddur Sefard, Motzaei Shabbat, Melava Malka Zemirot, Hebrew text of Torat Emet (public domain), via Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Motzaei_Shabbat_%2C_Melava_Malka_Zemirot.47
 - [^edot]: Siddur Edot HaMizrach, Havdalah, Before Havdalah, via Sefaria. https://www.sefaria.org/Siddur_Edot_HaMizrach%2C_Havdalah%2C_Before_Havdalah.3
 - [^birkat]: Siddur Ashkenaz (Metsudah, 1981), Birkat HaMazon, via Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Berachot%2C_Birkat_HaMazon.56
 - [^sinclair]: Julian Sinclair, "Singing about Elijah at the end of Shabbat", *The Jewish Chronicle* (27 July 2012). https://www.thejc.com/singing-about-elijah-at-the-end-of-shabbat-ibgi3m1a

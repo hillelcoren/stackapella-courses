@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: eliyahu hanavi significado | eliyahu hanavi traducción | eliyahu hanavi letra en español | eliyahu hanavi havdalah | eliyahu hanavi pésaj | eliyahu hanavi zachur latov significado
-translatedFrom: c28d98b2d924
+translatedFrom: 2faed899ce0c
 ---
 
 Eliyahu HaNavi, "Elías el profeta", es un breve estribillo hebreo. Se canta el sábado por la noche, cuando ha terminado el sabbat y se ha hecho la Havdalá, y en el séder de Pésaj, cuando se abre la puerta a Elías.[^ejhav][^jehab][^milken][^merwin] Llama al profeta con tres nombres: Elías el profeta, Elías el tisbita, Elías de Galaad.[^idel1929][^sefard] El profeta Malaquías prometió que Hashem enviaría a Elías antes del gran día que ha de venir, y el Talmud enseña que Elías no vendrá en viernes, ni tampoco en el propio sabbat. El sábado por la noche es el primer momento en que podría venir.[^malachi][^eruvin][^mb295] El estudioso A. Z. Idelsohn llamó a este estribillo la parte más antigua de las canciones de Elías que, según escribió, las comunidades judías ya cantaban al cierre del sabbat en el siglo XI.[^idel1929][^milken]
@@ -46,7 +46,138 @@ Cantamos solo el primer verso del estribillo, los tres nombres, tal como lo impr
 - **Eliyahu hatishbi**: Elías el tisbita. Así lo llama Reyes, probablemente por un lugar llamado Tisbé, cuyo emplazamiento no se conoce con certeza.[^jeelijah]
 - **Eliyahu, Eliyahu, Eliyahu hagiladi**: Elías, Elías, Elías de Galaad, la tierra al este del Jordán donde vivió entre sus pobladores.[^kings][^jeelijah]
 
-En los libros de oraciones el estribillo sigue: "bimhera yavo eleinu im mashiach ben David", que venga pronto a nosotros con el Mesías, hijo de David.[^sefard][^edot] La impresión de Idelsohn solo tiene parte de ese verso, "bimheroh yovo elenu", que venga pronto a nosotros, como un recitativo libre tras la primera sección medida, y nada de la segunda mitad, más larga y medida, que muchos cantan hoy. Nosotros dejamos fuera el recitativo.[^idel1929] Las notas del Milken Archive sugieren que llevar la melodía hasta ese segundo verso puede ser un añadido posterior.[^milken] El estribillo no tiene ninguno de los nombres de Hashem, así que no necesita ninguno de los nombres sustitutos que se acostumbran al cantar fuera de la oración.
+En los libros de oraciones el estribillo sigue: "bimhera yavo eleinu im mashiach ben David", que venga pronto a nosotros con el Mesías, hijo de David.[^sefard][^edot] La impresión de Idelsohn solo tiene parte de ese verso, "bimheroh yovo elenu", que venga pronto a nosotros, como un recitativo libre tras la primera sección medida, y nada de la segunda mitad, más larga y medida, que muchos cantan hoy. Nosotros dejamos fuera el recitativo.[^idel1929] Las notas del Milken Archive sugieren que llevar la melodía hasta ese segundo verso puede ser un añadido posterior.[^milken]
+
+### La letra completa
+
+Estos son el estribillo y las diez estrofas del poema largo tal como los imprime el Siddur Sefard en Sefaria para la comida después del sabbat, tomados del texto de dominio público de Torat Emet; los significados son nuestros.[^sefard] El estribillo sigue a cada estrofa menos la última, y tiene "Eliyahu" una sola vez antes de "hagiladi", donde la melodía de Idelsohn lo repite tres veces.[^idel1929][^sefard] La transliteración da los nombres de Hashem como se cantan fuera de la oración: Kel, Adoshem y Elokim.
+
+**Estribillo**
+> אֵלִיָּהוּ הַנָּבִיא.
+*Eliyahu hanavi,*
+Elías el profeta,
+> אֵלִיָּהוּ הַתִּשְׁבִּי.
+*Eliyahu hatishbi,*
+Elías el tisbita,
+> אֵלִיָּהוּ הַגִּלְעָדִי.
+*Eliyahu hagiladi,*
+Elías de Galaad,
+> בִּמְהֵרָה יָבֹא אֵלֵינוּ עִם מָשִׁיחַ בֶּן דָּוִד:
+*bimhera yavo eleinu im mashiach ben David.*
+que venga pronto a nosotros con el Mesías, hijo de David.
+
+**Estrofa 1**
+> אִישׁ אֲשֶׁר קִנֵּא לְשֵׁם הָאֵל.
+*Ish asher kinei leshem haKel,*
+Un hombre que tuvo celo por el nombre de Hashem,
+> אִישׁ בֻּשַּׂר שָׁלוֹם עַל יַד יְקוּתִיאֵל.
+*ish busar shalom al yad Yekutiel,*
+un hombre a quien se le prometió la paz por mano de Yekutiel,
+> אִישׁ גָּשׁ וַיְכַפֵּר עַל בְּנֵי יִשְׂרָאֵל:
+*ish gash vaychaper al b'nei Yisrael.*
+un hombre que se adelantó e hizo expiación por los hijos de Israel.
+
+**Estrofa 2**
+> אִישׁ דּוֹרוֹת שְׁנֵים עָשָׂר רָאוּ עֵינָיו.
+*Ish dorot sh'neim asar ra'u einav,*
+Un hombre cuyos ojos vieron doce generaciones,
+> אִישׁ הַנִּקְרָא בַּעַל שֵׂעָר בְּסִמָּנָיו.
+*ish hanikra ba'al se'ar besimanav,*
+un hombre conocido por sus señas como un hombre velludo,
+> אִישׁ וְאֵזוֹר עוֹר אָזוּר בְּמָתְנָיו:
+*ish ve'ezor or azur bemotnav.*
+un hombre con un cinturón de cuero ceñido a la cintura.
+
+**Estrofa 3**
+> אִישׁ זָעַף עַל עוֹבְדֵי חַמָּנִים.
+*Ish za'af al ovdei chamanim,*
+Un hombre que se enfureció contra los adoradores de imágenes del sol,
+> אִישׁ חָשׁ וְנִשְׁבַּע מִהְיוֹת גִּשְׁמֵי מְעוֹנִים.
+*ish chash venishba mihyot gishmei me'onim,*
+un hombre que se apresuró a jurar que no caería lluvia del cielo,
+> אִישׁ טַל וּמָטָר עָצַר שָׁלשׁ שָׁנִים:
+*ish tal umatar atzar shalosh shanim.*
+un hombre que retuvo el rocío y la lluvia durante tres años.
+
+**Estrofa 4**
+> אִישׁ יָצָא לִמְצֹא לְנַפְשׁוֹ נַחַת.
+*Ish yatza limtzo lenafsho nachat,*
+Un hombre que salió a buscar descanso para su alma,
+> אִישׁ כִּלְכְּלוּהוּ הָעוֹרְבִים וְלֹא מֵת לַשַּׁחַת.
+*ish kilk'luhu ha'orvim velo met lashachat,*
+un hombre a quien alimentaron los cuervos, que no murió ni bajó a la fosa,
+> אִישׁ לְמַעֲנוֹ נִתְבָּרְכוּ כַּד וְצַפַּחַת:
+*ish lema'ano nitbarchu kad vetzapachat.*
+un hombre por quien fueron bendecidas una tinaja y una vasija.
+
+**Estrofa 5**
+> אִישׁ מוּסָרָיו הִקְשִׁיבוּ כְמֵהִים.
+*Ish musarav hikshivu chemehim,*
+Un hombre cuya enseñanza escucharon quienes la anhelaban,
+> אִישׁ נֶעֱנֶה בָאֵשׁ מִשְּׁמֵי גְבוֹהִים.
+*ish ne'ena va'esh mishmei g'vohim,*
+un hombre que recibió respuesta con fuego de los altos cielos,
+> אִישׁ סָחוּ אַחֲרָיו יְיָ הוּא הָאֱלֹהִים:
+*ish sachu acharav Adoshem hu haElokim.*
+un hombre tras el cual dijeron: "Hashem, Él es el Todopoderoso".
+
+**Estrofa 6**
+> אִישׁ עָתִיד לְהִשְׁתַּלֵּחַ מִשְּׁמֵי עֲרָבוֹת.
+*Ish atid lehishtale'ach mishmei aravot,*
+Un hombre que un día será enviado desde los cielos más altos,
+> אִישׁ פָּקִיד עַל כָּל בְּשׁוֹרוֹת טוֹבוֹת.
+*ish pakid al kol b'sorot tovot,*
+un hombre encargado de todas las buenas noticias,
+> אִישׁ צִיר נֶאֱמָן לְהָשִׁיב לֵב בָּנִים עַל אָבוֹת:
+*ish tzir ne'eman lehashiv lev banim al avot.*
+un mensajero fiel, para volver el corazón de los hijos hacia sus padres.
+
+**Estrofa 7**
+> אִישׁ קָרָא קַנֹּא קִנֵּאתִי לַייָ בְּתִפְאָרָה.
+*Ish kara kano kineti laAdoshem betif'ara,*
+Un hombre que clamó: "He tenido mucho celo por Hashem", con gloria,
+> אִישׁ רָכַב עַל סוּסֵי אֵשׁ בִּסְעָרָה.
+*ish rachav al susei esh bis'ara,*
+un hombre que montó en caballos de fuego en una tormenta,
+> אִישׁ שֶׁלּא טָעַם טַעַם מִיתָה וּקְבוּרָה:
+*ish shelo ta'am ta'am mita ukvura.*
+un hombre que nunca probó la muerte ni la sepultura.
+
+**Estrofa 8**
+> אִישׁ תִּשְׁבִּי עַל שְׁמוֹ נִקְרָא.
+*Ish Tishbi al sh'mo nikra,*
+Un hombre llamado por el nombre de tisbita:
+> תַּצְלִיחֵנוּ עַל יָדוֹ בַּתּוֹרָה.
+*tatzlicheinu al yado baTorah,*
+por medio de él, haz que tengamos éxito en la Torá,
+> תַּשְׁמִיעֵנוּ מִפִּיו בְּשׁוֹרָה טוֹבָה בִּמְהֵרָה.
+*tashmi'enu mipiv b'sora tova bimhera,*
+haz que oigamos pronto de su boca buenas noticias,
+> בִּמְהֵרָה תּוֹצִיאֵנוּ מֵאֲפֵלָה לְאוֹרָה:
+*bimhera totzi'enu me'afela le'ora.*
+sácanos pronto de la oscuridad a la luz.
+
+**Estrofa 9**
+> אַשְׁרֵי מִי שֶׁרָאָה פָנָיו בַּחֲלוֹם.
+*Ashrei mi shera'a fanav bachalom,*
+Feliz quien ha visto su rostro en un sueño,
+> אַשְׁרֵי מִי שֶׁנָּתַן לוֹ שָׁלוֹם וְהֶחֱזִיר לוֹ שָׁלוֹם.
+*ashrei mi shenatan lo shalom vehechezir lo shalom,*
+feliz quien lo saludó con la paz y a quien él devolvió el saludo de paz.
+> יְיָ יְבָרֵךְ אֶת עַמּוֹ בַשָּׁלוֹם:
+*Adoshem yevarech et amo vashalom.*
+Que Hashem bendiga a Su pueblo con la paz.
+
+**Estrofa 10**
+> כַּכָּתוּב הִנֵּה אָנֹכִי שׁלֵחַ לָכֶם אֵת אֵלִיָּה הַנָּבִיא.
+*Kakatuv: hine anochi sholeach lachem et Eliya hanavi*
+Como está escrito: "Yo les envío a Elías el profeta
+> לִפְנֵי בּא יוֹם יְיָ הַגָּדוֹל וְהַנּוֹרָא.
+*lifnei bo yom Adoshem hagadol vehanora,*
+antes de que llegue el día de Hashem, grande y temible,
+> וְהֵשִׁיב לֵב אָבוֹת עַל בָּנִים וְלֵב בָּנִים עַל אֲבוֹתָם:
+*veheshiv lev avot al banim velev banim al avotam.*
+y él volverá el corazón de los padres hacia los hijos y el corazón de los hijos hacia sus padres".
 
 ## Cómo se canta
 
@@ -58,7 +189,7 @@ En los libros de oraciones el estribillo sigue: "bimhera yavo eleinu im mashiach
 
 ## Versiones y otras letras
 
-Las estrofas del poema largo recorren el alfabeto hebreo en su segunda palabra y cuentan la historia de Elías: celoso de Hashem, un hombre velludo con un cinturón de cuero, que retuvo el rocío y la lluvia durante tres años, al que alimentaron los cuervos, por quien se bendijeron una tinaja y una vasija, al que respondió el fuego del cielo, y que montó en caballos de fuego en una tormenta sin probar la muerte.[^sefard][^milken] Algunas versiones añaden una estrofa que le pide traer buenas noticias "en las noches de sábado".[^edot][^milken]
+Las estrofas del poema largo recorren el alfabeto hebreo en su segunda palabra y cuentan la historia de Elías, desde su celo por Hashem hasta su viaje en caballos de fuego sin probar la muerte.[^sefard][^milken] Algunas versiones añaden una estrofa que le pide traer buenas noticias "en las noches de sábado".[^edot][^milken]
 
 En el libro de oraciones Edot HaMizrach, cada estrofa termina con "Eliyahu hanavi zachur latov", Elías el profeta, recordado para bien.[^edot] La segunda melodía popular de Idelsohn, impresa junto a la nuestra y marcada "recit.", pone música solo a las dos primeras palabras, "Eliyohu hanovi", una y otra vez.[^idel1929] Las notas del Milken Archive remontan la melodía de Idelsohn a una variante de un himnario de sinagoga alemán de Braunschweig, que según dicen se ha citado como su notación más antigua conocida. El propio Idelsohn no nombra ninguna fuente y clasifica la melodía entre las canciones populares asquenazíes orientales. Esa variante, añaden las notas, tiene menos ritmos con puntillo que la melodía que hoy se canta casi en todas partes en los círculos asquenazíes estadounidenses.[^milken][^idel1929]
 
@@ -114,7 +245,7 @@ La soprano canta la melodía de principio a fin, tal como la imprimió Idelsohn,
 - [^sa480]: Shulchan Arukh, Orach Chayim 480:1, con la glosa del Rema, en Sefaria. https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.480.1
 - [^kings]: I Reyes 17:1, 18, y II Reyes 2:11, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Sefaria. https://www.sefaria.org/I_Kings.17.1
 - [^malachi]: Malaquías 3:23 a 24, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Sefaria. https://www.sefaria.org/Malachi.3.23-24
-- [^sefard]: Siddur Sefard (Torat Emet), Motzaei Shabbat, Melava Malka Zemirot, en Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Motzaei_Shabbat_%2C_Melava_Malka_Zemirot.47
+- [^sefard]: Siddur Sefard, Motzaei Shabbat, Melava Malka Zemirot, texto hebreo de Torat Emet (dominio público), en Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Motzaei_Shabbat_%2C_Melava_Malka_Zemirot.47
 - [^edot]: Siddur Edot HaMizrach, Havdalah, Before Havdalah, en Sefaria. https://www.sefaria.org/Siddur_Edot_HaMizrach%2C_Havdalah%2C_Before_Havdalah.3
 - [^birkat]: Siddur Ashkenaz (Metsudah, 1981), Birkat HaMazon, en Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Berachot%2C_Birkat_HaMazon.56
 - [^sinclair]: Julian Sinclair, "Singing about Elijah at the end of Shabbat", *The Jewish Chronicle* (27 de julio de 2012). https://www.thejc.com/singing-about-elijah-at-the-end-of-shabbat-ibgi3m1a

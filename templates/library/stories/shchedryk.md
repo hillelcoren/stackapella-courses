@@ -59,7 +59,51 @@ The words are a folk text with no known author. We sing twelve lines and then th
 
 **The promise.** All your "tovar", your livestock, mostly cattle in the old sense, is good [^sum-tovar]. You will have a "mirka" of money: a mirka was a household measure for grain, and the vessel that held it [^sum-mirka]. If not money, then "polova", the chaff left from threshing grain [^sum-polova], which seems to promise grain enough to thresh. And you have a dark-browed wife.
 
-**The close.** The opening lines come back: the generous evening, and the swallow that has flown in.
+### The full words
+
+These are the words as a Kyiv songbook printed them in 1913, six numbered couplets from Krasnopil, in Volhynia, with its spelling and punctuation [^zbirnychok]. Beyond spelling, we sing "lastivochka" for the dialect "hlastivochka" and a different last line, "V tebe zhinka chornobrova", you have a dark-browed wife, and we close with the first two lines again, which the page leaves off. The transliteration is Ukraine's national system of 2010.
+
+> Щедрик, щедрик щедривочка,
+*Shchedryk, shchedryk shchedryvochka,*
+Shchedryk, shchedryk (Generous Evening), a little New Year song,
+> Прилетіла гластівочка.
+*Pryletila hlastivochka.*
+a little swallow has flown in.
+
+> Стала собі щебетати
+*Stala sobi shchebetaty*
+She began to twitter away,
+> Господаря викликати:
+*Hospodaria vyklykaty:*
+calling out the master of the house:
+
+> „Вийди, вийди господарю,
+*"Vyidy, vyidy hospodariu,*
+"Come out, come out, master,
+> Подивися на кошару;
+*Podyvysia na kosharu;*
+take a look at the sheepfold;
+
+> „Там овечки покотились,
+*"Tam ovechky pokotylys,*
+the ewes there have given birth,
+> А ягнички народились.
+*A yahnychky narodylys.*
+and little lambs have been born.
+
+> „В тебе товар, весь хороший,
+*"V tebe tovar, ves khoroshyi,*
+All your livestock is good,
+> Будиш мати мірку грошей.
+*Budysh maty mirku hroshei.*
+you will have a measure of money.
+
+> „Хочь не гроші, то полова
+*"Khoch ne hroshi, to polova*
+If not money, then chaff from the threshing:
+> Твоя жінка черноброва“...
+*Tvoia zhinka chernobrova"...*
+your wife is dark-browed."
 
 ## How it is sung
 
@@ -131,3 +175,4 @@ The soprano sings the tune, the four-note figure, from the first bar to the last
 - [^sum-tovar]: *Slovnyk ukrainskoi movy*, 11 vols, "tovar" (sense 2), as given at goroh.pp.ua. https://goroh.pp.ua/Тлумачення/товар
 - [^sum-mirka]: *Slovnyk ukrainskoi movy*, "mirka", as given at goroh.pp.ua. https://goroh.pp.ua/Тлумачення/мірка
 - [^sum-polova]: *Slovnyk ukrainskoi movy*, "polova", as given at goroh.pp.ua. https://goroh.pp.ua/Тлумачення/полова
+- [^zbirnychok]: K. L. Polishchuk, comp., *Zbirnychok naikrashchykh ukrainskykh pisen* (Kyiv: Y. T. Hubanov, 1913), No. 23, "Shchedryk, shchedryk shchedryvochka", p. 43, from Krasnopil, Zhytomyr district, Volhynia; University of Toronto, Faculty of Music Library copy, M1764 .P65 Z3, image n154. https://archive.org/details/zbirnychoknakras00poli

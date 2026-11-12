@@ -13,7 +13,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: shoshanat yaakov significado | shoshanat yaakov traducción | shoshanat yaakov letra | shoshanat yaakov texto | shoshanat yaakov purim | shoshanat yaakov canción
-translatedFrom: 00bc72596db1
+translatedFrom: ca7a23d5dea9
 ---
 
 Shoshanat Yaakov es una breve canción hebrea para Purim. Cuando se ha leído en voz alta el libro de Ester en su rollo y se ha dicho la bendición que lo sigue, vienen estos versos.[^baer][^kitzur] Son los últimos versos de un antiguo poema, Asher heni, con un verso más que viene de una antigua costumbre, y reúnen toda la historia en unas pocas palabras: los judíos se alegraron al ver a Mardoqueo vestido de azul real, Hashem fue entonces su salvación y es su esperanza en cada generación, y Harbona, el servidor del rey que señaló la horca de Amán, es recordado para bien.[^vitry][^yer][^je-harbona] Su primer verso toma sus palabras de alegría del propio libro de Ester.[^esther][^vitry] Nuestra melodía es la que imprimió Abraham Baer, cantor de la sinagoga de Gotemburgo, en Suecia, en su manual para cantores.[^baer][^hammarlund]
@@ -56,6 +56,51 @@ Cantamos los versos finales de Asher heni y luego el verso sobre Harbona.[^vitry
 **"Vegam Charvona zachur latov."** Y también Harbona es recordado para bien. Zachur latov es la frase que pedía el rabino Pinchas.[^yer][^soferim]
 
 Estos versos no necesitan ninguno de los nombres sustitutos que se acostumbran al cantar fuera de la oración: solo le hablan a Hashem como "Tú", en "kovecha" y "bach".
+
+### La letra completa
+
+Estos son los últimos versos del poema y los versos que los siguen, tal como los imprime el Siddur Sefard de Sefaria, en el hebreo de dominio público de Torat Emet; los significados son nuestros.[^sefard] La versión inglesa de Singer no tiene el verso sobre todos los malvados y todos los justos.[^singer]
+
+> שׁוֹשַׁנַּת יַעֲקֹב צָהֲלָה וְשָׂמֵחָה
+*Shoshanat Yaakov tzahala vesamecha*
+La rosa de Jacob gritó de júbilo y se alegró
+> בִּרְאוֹתָם יַחַד תְּכֵלֶת מָרְדְּכָי:
+*birotam yachad techelet Mordechai.*
+cuando vieron juntos el azul de Mardoqueo.
+> תְּשׁוּעָתָם הָיִיתָ לָנֶצַח.
+*Teshuatam hayita lanetzach,*
+Tú fuiste su salvación para siempre,
+> וְתִקְוָתָם בְּכָל דּוֹר וָדוֹר:
+*v'tikvatam bechol dor vador,*
+y su esperanza en cada generación,
+> לְהוֹדִיעַ שֶׁכָּל קֹוֶיךָ לֹא יֵבֹשׁוּ.
+*l'hodia shekol kovecha lo yevoshu,*
+para dar a conocer que todos los que esperan en Ti no serán avergonzados,
+> וְלֹא יִכָּלְמוּ לָנֶצַח כָּל הַחוֹסִים בָּךְ:
+*velo yikalmu lanetzach kol hachosim bach.*
+y que nunca serán deshonrados todos los que se refugian en Ti.
+
+> אָרוּר הָמָן אֲשֶׁר בִּקֵשׁ לְאַבְּדִי.
+*Arur Haman asher bikesh l'abdi,*
+Maldito sea Amán, que quiso destruirme;
+> בָּרוּךְ מָרְדְּכַי הַיְּהוּדִי.
+*baruch Mordechai hayehudi.*
+bendito sea Mardoqueo, el judío.
+> אֲרוּרָה זֶרֶשׁ אֵשֶׁת מַפְחִידִי.
+*Arura Zeresh eshet mafchidi,*
+Maldita sea Zeres, la mujer del que me aterrorizaba;
+> בְּרוּכָה אֶסְתֵּר בַּעֲדִי.
+*brucha Ester baadi.*
+bendita sea Ester, que intercedió por mí.
+> אֲרוּרִים כָּל הָרְשָׁעִים.
+*Arurim kol hareshaim,*
+Malditos sean todos los malvados;
+> בְּרוּכִים כָּל הַצַּדִּיקִים.
+*bruchim kol hatzadikim.*
+benditos sean todos los justos.
+> וְגַם חַרְבוֹנָה זָכוּר לַטּוֹב:
+*Vegam Charvona zachur latov.*
+Y también Harbona es recordado para bien.
 
 ## Cómo se canta
 
@@ -123,3 +168,4 @@ La soprano canta la melodía de principio a fin, tal como la imprimió Baer para
 - [^sa]: Shulchan Aruch, Orach Chayim 690:16 y 692:1, con las glosas de Moses Isserles, en Sefaria. https://www.sefaria.org/Shulchan_Arukh%2C_Orach_Chayim.692.1
 - [^kitzur]: Shlomo Ganzfried, *Kitzur Shulchan Aruch* 141:22, en Sefaria. https://www.sefaria.org/Kitzur_Shulchan_Arukh.141.22
 - [^singer]: Simeon Singer, trad., *The Standard Prayer Book* (1915), pp. 422 a 423, "Purim". https://neonvagabond.xyz/mirrors/sacred-texts/jud/spb/spb42.htm
+- [^sefard]: *Siddur Sefard*, Purim, lectura de la Meguilá, texto hebreo de Torat Emet (dominio público), en Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Purim%2C_Megillah_Reading.41-50
