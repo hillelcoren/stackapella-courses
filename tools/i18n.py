@@ -16,7 +16,8 @@ it's translated again, never a stale sentence (docs/languages-plan.md, "Keeping 
                                                       merges a JSON map {english: translation} into the language's file
 
 <course> is free (course/course.json), cooldown, songs (every song course in course/songs: one file, since their
-words repeat), or a Plus course's id. tools/course_check.py fails when a course file and its language file disagree.
+words repeat), catalogue (course/plus/courses.json: each course's title, line and safety note, as the course lists
+show them), or a Plus course's id. tools/course_check.py fails when a course file and its language file disagree.
 """
 import json
 import re
@@ -41,6 +42,7 @@ def courses():
     for c in json.loads((COURSE / "plus" / "courses.json").read_text())["courses"]:
         if c.get("file"):
             out[c["id"]] = [COURSE / "plus" / c["file"]]
+    out["catalogue"] = [COURSE / "plus" / "courses.json"]
     out["songs"] = sorted(f for f in (COURSE / "songs").glob("*.json") if f.name != "index.json")
     return out
 
