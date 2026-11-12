@@ -47,13 +47,108 @@ Often told: abolitionists in America took up Dwight's third verse, "Chains shall
 
 ## What the words mean
 
-Cappeau wrote three verses, each ending with a call to the people; his French survives in slightly different versions, and we follow Havard de la Montagne's [^musimem][^nemausensis]. Dwight's three verses are a free version: they keep each verse's shape and some images, and say much in their own way [^musimem][^hutchins][^dann].
+Cappeau wrote three verses, each ending with a call to the people; his French survives in slightly different versions, and we give it as Schott printed it in about 1852, one of the earliest printings [^ddb][^musimem][^nemausensis]. Dwight's three verses are a free version: they keep each verse's shape and some images, and say much in their own way [^musimem][^hutchins][^dann].
 
 **Verse 1, the one we sing.** It is the night of Jesus' birth. The world lay long in sin and error until he came; then "the soul felt its worth", knowing its value. A shiver of hope runs through the worn-out world as a new morning breaks over there, "yonder" [^hutchins].
 
 **The refrain.** "Fall on your knees! O hear the angel voices!": kneel, and listen to the angels of the Christmas story. "Night divine": a holy night, the night when Christ was born [^hutchins]. Cappeau's first verse is plainer theology: at midnight, the solemn hour, the God-man came down to wash away original sin and calm his Father's anger; the whole world trembles with hope; people, on your knees, "Peuple, à genoux", wait for your deliverance [^musimem][^nemausensis]. Dwight's "thrill of hope" and "fall on your knees" echo those lines [^musimem][^hutchins].
 
 **Verses 2 and 3 (not sung here).** Cappeau's second verse has the light of faith guide everyone to the cradle, as the kings of the East were once guided, and tells the proud to bow before a King born in a manger; Dwight keeps the wise men and the manger and adds a friend in our trials [^musimem][^hutchins]. Cappeau's third says the Redeemer has broken every bond and ends: people, stand up and sing your deliverance. Dwight's makes it a teaching of love, an end to chains and oppression, and praise [^musimem][^dann].
+
+### Cappeau's French
+
+Cappeau's three verses are given here as Schott's edition of Adam's carol, printed in Mainz in about 1852, sets them under the notes of its voice part; that copy is digitised by the Bavarian State Library [^ddb]. Its words and spelling are kept: it has "Chrétien" where later copies have "chrétiens", and "qu'un Dieu prêche" where they have "que Dieu prêche" [^ddb][^musimem]. The voice part has almost no punctuation, so the punctuation here is ours, and its "puis sans" in the second verse, a misprint, is given as "Puissants". The last line of each verse is sung twice. Below each French line is our own plain English.
+
+**Verse 1**
+> Minuit, Chrétien, c'est l'heure solennelle
+Midnight, Christian: it is the solemn hour
+> Où l'homme Dieu descendit jusqu'à nous,
+when the God-man came down to us,
+> Pour effacer la tache originelle,
+to wash away the stain of original sin
+> Et de son père arrêter le courroux.
+and to stop his Father's anger.
+> Le monde entier tressaille d'espérance,
+The whole world trembles with hope
+> À cette nuit qui lui donne un sauveur.
+on this night that gives it a Saviour.
+> Peuple, à genoux, attends ta délivrance.
+People, on your knees, wait for your deliverance.
+> Noël ! Noël ! Voici le rédempteur.
+Noël! Noël! Here is the Redeemer.
+
+**Verse 2**
+> De notre foi que la lumière ardente
+May the burning light of our faith
+> Nous guide tous au berceau de l'enfant,
+guide us all to the Child's cradle,
+> Comme autrefois une étoile brillante
+as once a shining star
+> Y conduisit les chefs de l'orient.
+led the chiefs of the East there.
+> Le roi des rois nait dans une humble crèche :
+The King of kings is born in a humble manger:
+> Puissants du jour, fiers de votre grandeur,
+you who are powerful today, proud of your greatness,
+> À votre orgueil, c'est de là qu'un Dieu prêche.
+it is from there that a God preaches to your pride.
+> Courbez vos fronts devant le rédempteur.
+Bow your heads before the Redeemer.
+
+**Verse 3**
+> Le rédempteur a brisé toute entrave,
+The Redeemer has broken every bond;
+> La terre est libre et le ciel est ouvert.
+the earth is free and heaven is open.
+> Il voit un frère où n'était qu'un esclave,
+He sees a brother where there was only a slave;
+> L'amour unit ceux qu'enchainait le fer.
+love joins those whom iron chained.
+> Qui lui dira notre reconnaissance ?
+Who will tell him how grateful we are?
+> C'est pour nous tous qu'il nait, qu'il souffre et meurt.
+It is for all of us that he is born, suffers and dies.
+> Peuple, debout ! Chante ta délivrance.
+People, stand up! Sing your deliverance.
+> Noël ! Noël ! Chantons le rédempteur.
+Noël! Noël! Let us sing of the Redeemer.
+
+### The full words
+
+These are John Sullivan Dwight's words. Verses 1 and 2 are as Carols Old and Carols New (Boston, 1916) prints them, the book our arrangement is read from, each ending with the solo's added last line [^hutchins]. That book leaves out Dwight's third verse, "Truly he taught us", given here as Hollis Dann's Christmas Carols and Hymns for School and Choir (New York, 1910) prints it [^dann]. Dann's second verse differs in places: where the 1916 book has "He guardeth us from danger", it has "To our weakness is no stranger" [^dann][^hutchins].
+
+**Verse 1**
+O holy night! the stars are brightly shining,
+It is the night of the dear Saviour's birth;
+Long lay the world in sin and error pining,
+Till He appeared and the soul felt its worth.
+A thrill of hope, the weary world rejoices,
+For yonder breaks a new and glorious morn!
+Fall on your knees, O hear the angel voices!
+O night divine! O night when Christ was born!
+O night divine, O night, O night divine!
+
+**Verse 2**
+Led by the light of faith serenely beaming,
+With glowing hearts by His cradle we stand;
+So led by light of a star sweetly gleaming,
+Here came the wise men from the Orient land.
+The King of kings lay thus in lowly manger,
+In all our trials born to be our friend;
+He knows our need, He guardeth us from danger,
+Behold your King! Before the Lowly bend.
+Behold your King! Before the Lowly bend!
+
+**Verse 3**
+Truly he taught us to love one another;
+His law is love, and his gospel is peace;
+Chains shall he break, for the slave is our brother,
+And in his name all oppression shall cease.
+Sweet hymns of joy in grateful chorus raise we,
+Let all within us praise his holy name;
+Christ is the Lord, Oh, praise his name forever!
+His pow'r and glory evermore proclaim!
+His pow'r and glory evermore proclaim!
 
 ## How it is sung
 

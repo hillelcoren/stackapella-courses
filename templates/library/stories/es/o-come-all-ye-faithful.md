@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adeste fideles historia | adeste fideles significado | quién escribió adeste fideles | adeste fideles letra original en latín | o come all ye faithful significado | o come all ye faithful historia
-translatedFrom: 44b662d87735
+translatedFrom: 4221597d3c22
 ---
 
 O Come, All Ye Faithful es la forma inglesa de Adeste Fideles, un himno latino de Navidad del siglo XVIII. Sus primeras copias conocidas, letra y melodía juntas, son de la mano de John Francis Wade, un católico inglés que se ganaba la vida copiando música religiosa [^hymnarchive][^zon]. No se sabe si lo escribió él o solo lo copió [^hymnarchive][^zon][^america]. En la década de 1790 se cantaba en la capilla de la embajada de Portugal en Londres, y en 1841 un sacerdote anglicano, Frederick Oakeley, lo pasó al inglés para su congregación de Londres [^julian][^hymnarchive]. En 1907, el Dictionary of Hymnology de Julian encontraba la versión inglesa de Oakeley en "un gran número de colecciones" [^julian].
@@ -56,6 +56,126 @@ El latín de Wade tiene cuatro estrofas. Autores posteriores añadieron otras cu
 **Estrofa 2 (aquí no se canta).** "God of God, Light of Light" toma el Credo de Nicea casi palabra por palabra: el niño es Dios de Dios, Luz de Luz, "engendrado, no creado", es decir, nacido del Padre y no hecho [^hymnarchive][^creed]. "Abhors not the Virgin's womb" significa que no rehuyó nacer de María.
 
 **Estrofas 3 y 4 (aquí no se cantan).** En "Sing, choirs of angels", los ángeles cantan "Glory to God in the highest" (gloria a Dios en las alturas), como en Lucas 2:14 [^kjv-luke][^phh]. "Yea, Lord, we greet thee" saluda al niño nacido "this happy morning", esta mañana feliz, la Palabra del Padre "now in flesh appearing", que ahora aparece en carne: el Evangelio de Juan dice "the Word was made flesh" (el Verbo se hizo carne) [^kjv-john][^phh]. Algunos himnarios marcan esta estrofa "On Christmas Day", para el día de Navidad [^neh].
+
+### El latín
+
+Las cuatro estrofas latinas que cantan los himnarios ingleses se dan aquí tal como las imprime el Dictionary of Hymnology de Julian en 1907, tomadas de un devocionario sin fecha impreso en Malinas que trae las ocho; son su primera, segunda, séptima y octava [^julian]. Las impresiones varían en detalles: Julian creía que "Io", un grito de alegría, en lugar de "hymnos" en la séptima estrofa es probablemente la lectura original [^julian]. Debajo de cada verso latino va nuestra propia traducción al español, sencilla.
+
+**Estrofa 1**
+> Adeste, fideles,
+Que acudan los fieles,
+> Laeti triumphantes;
+alegres y triunfantes;
+> Venite, venite in Bethlehem;
+que vengan, que vengan a Belén;
+> Natum videte
+que vean nacido
+> Regem Angelorum:
+al Rey de los ángeles:
+> Venite adoremus Dominum.
+vamos, adoremos al Señor.
+
+**Estrofa 2**
+> Deum de Deo;
+Dios de Dios,
+> Lumen de Lumine,
+luz de luz,
+> Gestant puellae viscera
+el seno de una doncella lleva
+> Deum Verum,
+al Dios verdadero,
+> Genitum non factum:
+engendrado, no hecho:
+> Venite adoremus Dominum.
+vamos, adoremos al Señor.
+
+**Estrofa 3**
+> Cantet nunc hymnos,
+Que cante ahora himnos
+> Chorus Angelorum:
+el coro de los ángeles;
+> Cantet nunc aula celestium,
+que cante ahora la corte de los habitantes del cielo
+> Gloria
+gloria
+> In excelsis Deo!
+a Dios en las alturas.
+> Venite adoremus Dominum.
+Vamos, adoremos al Señor.
+
+**Estrofa 4**
+> Ergo Qui natus
+Así pues, tú que naciste
+> Die hodiernâ,
+en este día,
+> Jesu Tibi sit gloria:
+Jesús, gloria a ti:
+> Patris Aeterni
+del Padre eterno
+> Verbum Caro factum!
+la Palabra hecha carne.
+> Venite adoremus Dominum
+Vamos, adoremos al Señor.
+
+### La letra completa
+
+Esta es la letra de Frederick Oakeley de 1841, con los cambios que le hizo el himnario de Murray en 1852, tal como la imprime Hymns of Worship and Service (Nueva York, 1909) en el número 89, la página de la que sale nuestro arreglo; escribe "Oh" donde nosotros cantamos "O", y canta el estribillo después de cada estrofa [^hws1909][^julian]. Ese libro imprime tres estrofas y deja fuera la segunda de Oakeley, "God of God", así que esa estrofa no sale del libro de 1909: se da aquí tal como la imprimió The English Hymnal en 1906, en el número 28 [^eh1906]. Los himnarios más completos añaden la versión inglesa de W. T. Brooke de las cuatro estrofas latinas posteriores, de 1884 [^hymnary-latin][^hymnarchive].
+
+**Estrofa 1**
+> Oh come, all ye faithful,
+Oh, que vengan todos los fieles,
+> Joyful and triumphant,
+alegres y triunfantes;
+> Oh come ye, oh come ye to Bethlehem;
+oh, que vengan, que vengan a Belén;
+> Come and behold Him
+que vengan a contemplarlo,
+> Born the King of Angels;
+nacido Rey de los ángeles.
+
+**Estribillo**
+> Oh come, let us adore Him,
+Oh, vamos, adorémoslo,
+> Oh come, let us adore Him,
+oh, vamos, adorémoslo,
+> Oh come, let us adore Him,
+oh, vamos, adorémoslo,
+> Christ, the Lord.
+a Cristo, el Señor.
+
+**Estrofa 2**
+> God of God,
+Dios de Dios,
+> Light of Light,
+Luz de Luz,
+> Lo! he abhors not the Virgin's womb;
+mira: no rehúye el seno de la Virgen;
+> Very God,
+Dios verdadero,
+> Begotten not created:
+engendrado, no creado.
+
+**Estrofa 3**
+> Sing, choirs of Angels,
+Que canten los coros de ángeles,
+> Sing in exultation,
+que canten llenos de júbilo,
+> Sing, all ye citizens of heav'n above:
+que canten todos los ciudadanos del cielo:
+> Glory to God, all glory in the highest;
+gloria a Dios, toda la gloria en las alturas.
+
+**Estrofa 4**
+> Yea, Lord, we greet Thee,
+Sí, Señor, te saludamos,
+> Born this happy morning,
+nacido en esta mañana feliz;
+> Jesus, to Thee be all glory giv'n;
+Jesús, a ti sea dada toda la gloria;
+> Word of the Father,
+Palabra del Padre,
+> Now in flesh appearing;
+que ahora aparece en carne.
 
 ## Cómo se canta
 
@@ -125,4 +245,5 @@ En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la me
 - [^kjv-luke]: *The Holy Bible*, King James Version, Lucas 2:8 a 20. https://www.biblegateway.com/passage/?search=Luke+2%3A8-20&version=KJV
 - [^kjv-john]: *The Holy Bible*, King James Version, Juan 1:14. https://www.biblegateway.com/passage/?search=John+1%3A14&version=KJV
 - [^eh1906]: *The English Hymnal* (Oxford University Press, 1906), n.º 28, facsímil de la página en Wikisource. https://en.wikisource.org/wiki/Page:The_English_hymnal_(1906).djvu/79
+- [^hws1909]: *Hymns of Worship and Service*, 20.ª ed. (The Century Co., Nueva York, 1909), n.º 89, "Adeste Fideles", p. 63, ejemplar de la Princeton Theological Seminary Library. https://archive.org/details/hymnsofworship00newy
 - [^neh]: *The New English Hymnal*, n.º 30, texto en Hymnary.org. https://hymnary.org/hymn/NEH1985/30?media=text

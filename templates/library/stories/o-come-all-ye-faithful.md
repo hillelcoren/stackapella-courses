@@ -56,6 +56,103 @@ Wade's Latin has four verses. Later writers added four more, so the full Latin h
 
 **Verses 3 and 4 (not sung here).** In "Sing, choirs of angels" the angels sing "Glory to God in the highest", as in Luke 2:14 [^kjv-luke][^phh]. "Yea, Lord, we greet thee" greets the child born "this happy morning", the Word of the Father "now in flesh appearing": John's Gospel says "the Word was made flesh" [^kjv-john][^phh]. Some hymnals mark this verse "On Christmas Day" [^neh].
 
+### The Latin
+
+The four Latin verses English hymnals sing are given here as Julian's Dictionary of Hymnology prints them in 1907, from an undated prayer book printed at Mechlin that has all eight; they are its first, second, seventh and eighth [^julian]. Printings vary in small readings: Julian thought "Io", a shout of joy, in place of "hymnos" in the seventh verse probably the original [^julian]. Below each Latin line is our own plain English.
+
+**Verse 1**
+> Adeste, fideles,
+Be here, you faithful,
+> Laeti triumphantes;
+glad and exulting;
+> Venite, venite in Bethlehem;
+come, come to Bethlehem;
+> Natum videte
+see him born,
+> Regem Angelorum:
+the King of angels:
+> Venite adoremus Dominum.
+come, let us worship the Lord.
+
+**Verse 2**
+> Deum de Deo;
+God from God,
+> Lumen de Lumine,
+light from light,
+> Gestant puellae viscera
+a maiden's womb carries
+> Deum Verum,
+true God,
+> Genitum non factum:
+begotten, not made:
+> Venite adoremus Dominum.
+come, let us worship the Lord.
+
+**Verse 3**
+> Cantet nunc hymnos,
+Now let it sing hymns,
+> Chorus Angelorum:
+the choir of angels;
+> Cantet nunc aula celestium,
+let the court of heaven's people now sing
+> Gloria
+glory
+> In excelsis Deo!
+to God in the highest!
+> Venite adoremus Dominum.
+Come, let us worship the Lord.
+
+**Verse 4**
+> Ergo Qui natus
+So, you who were born
+> Die hodiernâ,
+on this day,
+> Jesu Tibi sit gloria:
+Jesus, glory be to you:
+> Patris Aeterni
+of the eternal Father
+> Verbum Caro factum!
+the Word made flesh!
+> Venite adoremus Dominum
+Come, let us worship the Lord.
+
+### The full words
+
+These are Frederick Oakeley's words of 1841, with the changes Murray's hymnal made in 1852, as Hymns of Worship and Service (New York, 1909) prints them at No. 89, the page our arrangement is read from; it spells "Oh" where we sing "O", and sings the refrain after each verse [^hws1909][^julian]. That book prints three verses and leaves out Oakeley's second, "God of God", so that verse is not from the 1909 book: it is given here as The English Hymnal printed it in 1906, at No. 28 [^eh1906]. Fuller hymnals add W. T. Brooke's English of the four later Latin verses, from 1884 [^hymnary-latin][^hymnarchive].
+
+**Verse 1**
+Oh come, all ye faithful,
+Joyful and triumphant,
+Oh come ye, oh come ye to Bethlehem;
+Come and behold Him
+Born the King of Angels;
+
+**Refrain**
+Oh come, let us adore Him,
+Oh come, let us adore Him,
+Oh come, let us adore Him,
+Christ, the Lord.
+
+**Verse 2**
+God of God,
+Light of Light,
+Lo! he abhors not the Virgin's womb;
+Very God,
+Begotten not created:
+
+**Verse 3**
+Sing, choirs of Angels,
+Sing in exultation,
+Sing, all ye citizens of heav'n above:
+Glory to God, all glory in the highest;
+
+**Verse 4**
+Yea, Lord, we greet Thee,
+Born this happy morning,
+Jesus, to Thee be all glory giv'n;
+Word of the Father,
+Now in flesh appearing;
+
 ## How it is sung
 
 Adeste Fideles began in Catholic Latin worship. The 1760 Evening Office sets it for Benediction at Christmas, and Julian says it was sung so in England and France by the late eighteenth century [^hymnarchive][^julian]. Oakeley's English brought it into Anglican churches, and Catholic collections took up the English too [^julian]. Its tune is called ADESTE FIDELES, and its meter is irregular, with a refrain, and the English does not rhyme [^hymnary-text][^phh]. One hymnal handbook suggests the verses in unison and the refrain in parts [^phh].
@@ -124,4 +221,5 @@ The soprano sings the tune in our arrangement. With two singers you have the tun
 - [^kjv-luke]: *The Holy Bible*, King James Version, Luke 2:8 to 20. https://www.biblegateway.com/passage/?search=Luke+2%3A8-20&version=KJV
 - [^kjv-john]: *The Holy Bible*, King James Version, John 1:14. https://www.biblegateway.com/passage/?search=John+1%3A14&version=KJV
 - [^eh1906]: *The English Hymnal* (Oxford University Press, 1906), No. 28, page facsimile at Wikisource. https://en.wikisource.org/wiki/Page:The_English_hymnal_(1906).djvu/79
+- [^hws1909]: *Hymns of Worship and Service*, 20th ed. (The Century Co., New York, 1909), No. 89, "Adeste Fideles", p. 63, Princeton Theological Seminary Library copy. https://archive.org/details/hymnsofworship00newy
 - [^neh]: *The New English Hymnal*, No. 30, text at Hymnary.org. https://hymnary.org/hymn/NEH1985/30?media=text

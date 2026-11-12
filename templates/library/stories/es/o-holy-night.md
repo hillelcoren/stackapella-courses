@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: o holy night historia | quién escribió o holy night | minuit chrétiens historia | oh noche santa significado | o holy night significado de la letra | o holy night primera canción en la radio
-translatedFrom: 288ea13c714d
+translatedFrom: c43730e92b0f
 ---
 
 O Holy Night es un solo de Navidad que los coros han hecho suyo. Su letra francesa, Minuit, chrétiens ("Medianoche, cristianos"), es de Placide Cappeau, un comerciante de vinos de Roquemaure, en el sur de Francia. Adolphe Adam, compositor parisino de ópera cómica y ballet, le puso música en 1847 [^canterbury-fr][^musimem]. Se cantó en la misa del gallo de Roquemaure aquella Navidad, y en menos de veinte años una revista francesa de música religiosa se quejaba de que se oía en calles, salones y cafés-concierto [^musimem][^lefort][^ivry]. La versión inglesa que canta casi todo el mundo es de John Sullivan Dwight, crítico musical de Boston y antiguo pastor unitario, y es de 1855 [^canterbury-en][^canterbury-dwight][^hymnary-stw].
@@ -48,13 +48,135 @@ Se suele contar que los abolicionistas de Estados Unidos hicieron suya la tercer
 
 ## Qué dice la letra
 
-Cappeau escribió tres estrofas, y cada una termina con una llamada al pueblo; su francés se conserva en versiones un poco distintas, y seguimos la de Havard de la Montagne [^musimem][^nemausensis]. Las tres estrofas de Dwight son una versión libre: mantienen la forma de cada estrofa y algunas imágenes, y dicen mucho a su manera [^musimem][^hutchins][^dann].
+Cappeau escribió tres estrofas, y cada una termina con una llamada al pueblo; su francés se conserva en versiones un poco distintas, y lo damos como lo imprimió Schott hacia 1852, una de las primeras ediciones [^ddb][^musimem][^nemausensis]. Las tres estrofas de Dwight son una versión libre: mantienen la forma de cada estrofa y algunas imágenes, y dicen mucho a su manera [^musimem][^hutchins][^dann].
 
 **Estrofa 1, la que cantamos.** Es la noche en que nace Jesús. El mundo estuvo mucho tiempo en el pecado y el error hasta que él llegó; entonces "the soul felt its worth", el alma sintió su valor, supo lo que valía. Un estremecimiento de esperanza recorre el mundo cansado mientras amanece una nueva mañana allá a lo lejos, "yonder" [^hutchins].
 
 **El estribillo.** "Fall on your knees! O hear the angel voices!": arrodíllate y escucha a los ángeles de la historia de Navidad. "Night divine": una noche santa, la noche en que nació Cristo [^hutchins]. La primera estrofa de Cappeau es teología más directa: a medianoche, la hora solemne, el Dios hecho hombre bajó para borrar el pecado original y calmar la ira de su Padre; el mundo entero tiembla de esperanza; pueblo, de rodillas, "Peuple, à genoux", espera tu liberación [^musimem][^nemausensis]. El "thrill of hope" y el "fall on your knees" de Dwight son ecos de esos versos [^musimem][^hutchins].
 
 **Estrofas 2 y 3 (aquí no se cantan).** En la segunda estrofa de Cappeau, la luz de la fe guía a todos hasta la cuna, como guio un día a los reyes de Oriente, y pide a los orgullosos que se inclinen ante un Rey nacido en un pesebre; Dwight conserva a los magos y el pesebre, y añade un amigo en nuestras pruebas [^musimem][^hutchins]. La tercera de Cappeau dice que el Redentor ha roto toda atadura y termina: pueblo, ponte en pie y canta tu liberación. La de Dwight la convierte en una enseñanza de amor, un fin de las cadenas y de la opresión, y una alabanza [^musimem][^dann].
+
+### El francés de Cappeau
+
+Las tres estrofas de Cappeau se dan aquí tal como las pone bajo las notas de la parte vocal la edición de Schott del villancico de Adam, impresa en Maguncia hacia 1852; ese ejemplar lo ha digitalizado la Biblioteca Estatal de Baviera [^ddb]. Se conservan sus palabras y su ortografía: dice "Chrétien" donde copias posteriores dicen "chrétiens", y "qu'un Dieu prêche" donde dicen "que Dieu prêche" [^ddb][^musimem]. La parte vocal casi no lleva puntuación, así que la puntuación es nuestra, y su "puis sans" de la segunda estrofa, una errata, se da como "Puissants". El último verso de cada estrofa se canta dos veces. Debajo de cada verso francés va nuestra propia traducción al español, sencilla.
+
+**Estrofa 1**
+> Minuit, Chrétien, c'est l'heure solennelle
+Medianoche, cristiano: es la hora solemne
+> Où l'homme Dieu descendit jusqu'à nous,
+en que el Dios hecho hombre bajó hasta nosotros
+> Pour effacer la tache originelle,
+para borrar la mancha del pecado original
+> Et de son père arrêter le courroux.
+y detener la ira de su Padre.
+> Le monde entier tressaille d'espérance,
+El mundo entero tiembla de esperanza
+> À cette nuit qui lui donne un sauveur.
+en esta noche que le da un Salvador.
+> Peuple, à genoux, attends ta délivrance.
+Pueblo, de rodillas, espera tu liberación.
+> Noël ! Noël ! Voici le rédempteur.
+¡Navidad! ¡Navidad! Aquí está el Redentor.
+
+**Estrofa 2**
+> De notre foi que la lumière ardente
+Que la luz ardiente de nuestra fe
+> Nous guide tous au berceau de l'enfant,
+nos guíe a todos a la cuna del Niño,
+> Comme autrefois une étoile brillante
+como antaño una estrella brillante
+> Y conduisit les chefs de l'orient.
+llevó hasta allí a los jefes de Oriente.
+> Le roi des rois nait dans une humble crèche :
+El Rey de reyes nace en un humilde pesebre:
+> Puissants du jour, fiers de votre grandeur,
+a los poderosos de hoy, orgullosos de su grandeza,
+> À votre orgueil, c'est de là qu'un Dieu prêche.
+desde allí un Dios predica a su orgullo.
+> Courbez vos fronts devant le rédempteur.
+Que inclinen la frente ante el Redentor.
+
+**Estrofa 3**
+> Le rédempteur a brisé toute entrave,
+El Redentor ha roto toda atadura;
+> La terre est libre et le ciel est ouvert.
+la tierra es libre y el cielo está abierto.
+> Il voit un frère où n'était qu'un esclave,
+Ve un hermano donde solo había un esclavo;
+> L'amour unit ceux qu'enchainait le fer.
+el amor une a los que encadenaba el hierro.
+> Qui lui dira notre reconnaissance ?
+¿Quién le dirá cuánto le agradecemos?
+> C'est pour nous tous qu'il nait, qu'il souffre et meurt.
+Por todos nosotros nace, sufre y muere.
+> Peuple, debout ! Chante ta délivrance.
+Pueblo, ¡de pie! Canta tu liberación.
+> Noël ! Noël ! Chantons le rédempteur.
+¡Navidad! ¡Navidad! Cantemos al Redentor.
+
+### La letra completa
+
+Esta es la letra de John Sullivan Dwight. Las estrofas 1 y 2 van como las imprime Carols Old and Carols New (Boston, 1916), el libro del que sale nuestro arreglo, cada una con el último verso que añade el solo [^hutchins]. Ese libro deja fuera la tercera estrofa de Dwight, "Truly he taught us", que se da aquí tal como la imprime Christmas Carols and Hymns for School and Choir de Hollis Dann (Nueva York, 1910) [^dann]. La segunda estrofa de Dann difiere en algunos puntos: donde el libro de 1916 dice "He guardeth us from danger", el de Dann dice "To our weakness is no stranger" [^dann][^hutchins].
+
+**Estrofa 1**
+> O holy night! the stars are brightly shining,
+¡Oh, noche santa! Las estrellas brillan con fuerza;
+> It is the night of the dear Saviour's birth;
+es la noche en que nace el querido Salvador.
+> Long lay the world in sin and error pining,
+Mucho tiempo yació el mundo en el pecado y el error, consumiéndose,
+> Till He appeared and the soul felt its worth.
+hasta que él apareció y el alma sintió su valor.
+> A thrill of hope, the weary world rejoices,
+Un estremecimiento de esperanza: el mundo cansado se alegra,
+> For yonder breaks a new and glorious morn!
+porque allá a lo lejos amanece una mañana nueva y gloriosa.
+> Fall on your knees, O hear the angel voices!
+Arrodíllate; ¡oh, escucha las voces de los ángeles!
+> O night divine! O night when Christ was born!
+¡Oh, noche divina! ¡Oh, noche en que nació Cristo!
+> O night divine, O night, O night divine!
+¡Oh, noche divina, oh, noche, oh, noche divina!
+
+**Estrofa 2**
+> Led by the light of faith serenely beaming,
+Guiados por la luz de la fe, que brilla serena,
+> With glowing hearts by His cradle we stand;
+con el corazón encendido estamos junto a su cuna.
+> So led by light of a star sweetly gleaming,
+Así, guiados por la luz de una estrella de suave brillo,
+> Here came the wise men from the Orient land.
+vinieron aquí los magos de las tierras de Oriente.
+> The King of kings lay thus in lowly manger,
+El Rey de reyes yacía así en un humilde pesebre,
+> In all our trials born to be our friend;
+nacido para ser nuestro amigo en todas nuestras pruebas.
+> He knows our need, He guardeth us from danger,
+Él sabe lo que necesitamos, nos guarda del peligro.
+> Behold your King! Before the Lowly bend.
+¡Mira a tu Rey! Inclínate ante el Humilde.
+> Behold your King! Before the Lowly bend!
+¡Mira a tu Rey! ¡Inclínate ante el Humilde!
+
+**Estrofa 3**
+> Truly he taught us to love one another;
+En verdad nos enseñó a amarnos unos a otros;
+> His law is love, and his gospel is peace;
+su ley es el amor, y su evangelio es la paz.
+> Chains shall he break, for the slave is our brother,
+Romperá las cadenas, porque el esclavo es nuestro hermano,
+> And in his name all oppression shall cease.
+y en su nombre cesará toda opresión.
+> Sweet hymns of joy in grateful chorus raise we,
+Alcemos dulces himnos de alegría en un coro agradecido;
+> Let all within us praise his holy name;
+que todo lo que hay en nosotros alabe su santo nombre.
+> Christ is the Lord, Oh, praise his name forever!
+Cristo es el Señor: ¡oh, alaba su nombre para siempre!
+> His pow'r and glory evermore proclaim!
+¡Proclama para siempre su poder y su gloria!
+> His pow'r and glory evermore proclaim!
+¡Proclama para siempre su poder y su gloria!
 
 ## Cómo se canta
 
