@@ -30,7 +30,7 @@ Silent Night is a Christmas carol from Austria. Joseph Mohr, a Catholic assistan
 
 ![[1]]
 
-**How it travelled.** Gruber's account says a well-known man from the Zillertal took the song to Tyrol; the Silent Night Society identifies him as the organ builder Carl Mauracher, of Fügen, who rebuilt the Oberndorf organ in 1825, or by Hochradner's account built a new one [^sng-spread][^hochradner]. The Strasser siblings of Laimach, glove makers who also sang, performed it in Leipzig in December 1832, after a reader's letter to the Leipziger Tageblatt asked for it [^hochradner][^sng-spread][^hymnarchive]. Its earliest known printing followed in about 1833, in Dresden, among Vier ächte Tyroler Lieder, "four genuine Tyrolean songs". It named no authors, moved the key to C and kept three of Mohr's six verses: the first, the sixth and the second [^hochradner][^hymnarchive]. Another troupe, the Rainer family, are believed to have brought it to New York; the Silent Night Society places their singing of it on Christmas Day 1839, by the Alexander Hamilton monument in Trinity Church's churchyard; Hymnology Archive says Christmas Eve or Christmas Day [^sng-spread][^hymnarchive].
+**How it travelled.** Gruber's account says a well-known man from the Zillertal took the song to Tyrol; the Silent Night Society identifies him as the organ builder Carl Mauracher, of Fügen, who worked on the Oberndorf organ in 1825 [^sng-spread][^hochradner]. The Strasser siblings of Laimach, glove makers who also sang, performed it in Leipzig in December 1832, after a reader's letter to the Leipziger Tageblatt asked for it [^hochradner][^sng-spread][^hymnarchive]. Its earliest known printing with music followed in about 1833, in Dresden, among Vier ächte Tyroler Lieder, "four genuine Tyrolean songs". It named no authors, moved the key to C and kept three of Mohr's six verses: the first, the sixth and the second [^hochradner][^hymnarchive]. Another troupe, the Rainer family, are believed to have brought it to New York; the Silent Night Society places their singing of it on Christmas Day 1839, by the Alexander Hamilton monument in Trinity Church's churchyard; Hymnology Archive says Christmas Eve or Christmas Day [^sng-spread][^hymnarchive].
 
 In 1854 the royal court musicians in Berlin asked St Peter's Abbey in Salzburg who had written the song, and some thought it was by the composer Michael Haydn [^hochradner][^hymnarchive]. Gruber's answer, the only first-hand record of that night, survives in the Silent Night archive in Hallein, where he was by then organist and choir director [^hochradner][^sng-time].
 
@@ -38,39 +38,153 @@ In 1854 the royal court musicians in Berlin asked St Peter's Abbey in Salzburg w
 
 ![[2]]
 
-**Myth and record.** Often told: on Christmas Eve 1818 the organ broke down, mice had chewed through its bellows, and Mohr and Gruber wrote a song for guitar to save the service. What the record shows: Gruber's 1854 account says only that Mohr asked for a melody for two solo voices and choir with a guitar, and gives no reason for the guitar [^hymnarchive][^sng-hist]. The Silent Night Society still names a broken organ as one supposition [^sng-hist]. Hochradner finds nothing in the documents to show the organ was broken, and suggests the guitar was chosen because the song was sung at the crib at the end of Mass [^hochradner]. The organ did need work: a hymnal companion quoted by Hymnology Archive says Gruber's son later called it almost unplayable, and in 1825 Mauracher rebuilt it, or by Hochradner's account built a new one [^hymnarchive][^sng-spread][^hochradner]. No document from 1818 says it failed that night, and the mice in the bellows are an embroidered detail [^hymnarchive][^hochradner].
+**Myth and record.** Often told: on Christmas Eve 1818 the organ broke down, mice had chewed through its bellows, and Mohr and Gruber wrote a song for guitar to save the service. What the record shows: Gruber's 1854 account gives no reason for the guitar [^hymnarchive][^sng-hist]. The Silent Night Society still names a broken organ as one supposition [^sng-hist]. Hochradner finds nothing in the documents to show the organ was broken, and suggests the guitar was chosen because the song was sung at the crib at the end of Mass [^hochradner]. The organ did need work: a hymnal companion quoted by Hymnology Archive says Gruber's son later called it almost unplayable, and in 1825 Mauracher rebuilt it, or by Hochradner's account built a new one [^hymnarchive][^sng-spread][^hochradner]. The mice in the bellows are an embroidered detail [^hymnarchive][^hochradner].
 
 ### Timeline
 
-- 1816: Joseph Mohr writes the poem in Mariapfarr, where he is assistant priest. [^sng-time][^hochradner][^hymnarchive]
+- 1816: Joseph Mohr writes the poem in Mariapfarr. [^sng-time][^hochradner][^hymnarchive]
 - 1818: Gruber sets it on 24 December, and it is sung at Christmas Eve Mass in Oberndorf. [^sng-hist][^hochradner][^hymnarchive]
-- 1832: The Strasser family sings it at a concert in Leipzig in December. [^sng-spread][^hochradner][^hymnarchive]
+- 1832: The Strasser siblings sing it in Leipzig. [^sng-spread][^hochradner][^hymnarchive]
 - before 1832: Joseph Greis prints all six stanzas, the words alone, in a Christmas leaflet at Steyr, the earliest known printing of the text. [^sng-greis][^orf-greis]
-- 1833: About this year, its earliest known printing with music, in Dresden, as a Tyrolean song. [^sng-spread][^hymnarchive]
+- 1833: About this year, its earliest known printing with music, in Dresden. [^sng-spread][^hymnarchive]
 - 1839: The Rainer family singers are believed to bring it to New York. [^sng-spread][^hymnarchive]
 - 1854: Gruber dates his account of the song's making 30 December. [^sng-time][^hymnarchive]
 - 1859: John Freeman Young's English is printed in New York, in Carols for Christmas Tide. [^young]
-- 1995: Mohr's own copy of the song, made about 1820 to 1825 and giving 1816 as the year of the words, comes to light. [^sng-time][^sonntagsblatt]
+- 1995: Mohr's own copy of the song, dating the words to 1816, comes to light. [^sng-time][^sonntagsblatt]
 
 ## What the words mean
 
-Mohr wrote six verses. Young's English has three, made from Mohr's first, sixth and second, in that order, the same three the earliest printing kept [^young][^hochradner]. Young keeps Mohr's sense, not his exact words [^hymnarchive]. We sing Young's first verse as he printed it in 1859, with lighter punctuation [^young].
+Mohr wrote six verses. Young's English has three, the same three, in the same order, as the earliest printing with music [^young][^hochradner]. Young keeps Mohr's sense, not his exact words [^hymnarchive]. We sing Young's first verse as Charles L. Hutchins printed it in 1916 [^hutchins].
 
-**Verse 1, the one we sing.** A silent, holy night: the night of Jesus' birth. "All is calm, all is bright round yon virgin mother and child": everything is still and full of light around the mother and her baby. "Round" means around, and "yon" is an old word for "that one, over there", as if pointing at the manger. The virgin mother is Mary. The last lines speak to the baby, like a lullaby: holy infant, so tender and "mild", gentle, sleep in heavenly peace. Mohr's first verse is different: everyone sleeps, only the dear, holy pair keep watch, and he tells the "holder Knab' im lockigten Haar", the lovely boy with curly hair, to sleep in heavenly peace [^mohr-ms].
+**Verse 1, the one we sing.** A silent, holy night: the night of Jesus' birth. "All is calm, all is bright round yon virgin mother and child": everything is still and full of light around the mother and her baby. "Round yon" means around that one, over there, as if pointing at the manger. The virgin mother is Mary. The last lines speak to the baby, like a lullaby: holy infant, so tender and "mild", gentle, sleep in heavenly peace. Mohr's first verse is different, as his German below shows [^mohr-ms].
 
 **Verse 2 (Mohr's sixth).** The shepherds "quake", tremble, at the sight. Light streams from heaven, and the "heavenly hosts", the armies of angels, sing Alleluia, a cry of praise: "Christ, the Saviour is born" [^young]. It is the shepherds' story from Luke's Gospel, chapter 2 [^hymnarchive]. Mohr ends "Jesus der Retter ist da!": Jesus the Saviour is here [^mohr-ms].
 
-**Verse 3 (Mohr's second).** The Son of God is love's pure light, shining from his holy face. "Redeeming grace" is the saving love that Christians believe this birth brings, and its "dawn" is its first light. Young ends "Jesus, Lord, at thy birth"; Mohr ends "Jesus! in deiner Geburt!", Jesus, in your birth [^young][^mohr-ms].
+**Verse 3 (Mohr's second).** The Son of God is love's pure light, shining from his holy face. "Redeeming grace" is the saving love that Christians believe this birth brings, and its "dawn" is its first light. Young ends "Jesus, Lord, at thy birth"; Mohr ends "Jesus! in Deiner Geburth!", Jesus, at Your birth [^young][^mohr-ms].
 
-**The verses English leaves out.** Mohr's third, fourth and fifth verses tell of God's grace shown from heaven's golden heights in Jesus in human form, of God's fatherly love as Jesus embraces the peoples of the world like a brother, and of mercy promised to the whole world long ago [^sng-text][^mohr-ms].
+### Mohr's German
+
+Here are Mohr's six verses as he wrote them out in his own copy, read from its facsimile, with his spelling, such as "befreyt", "bey" and "Geburth" [^mohr-ms]. He writes the first line once, as "Stille Nacht! Heilge Nacht!", for every verse. The Silent Night Society prints the same words in modern spelling from a copy in Gruber's hand of about 1860, which has "urgrauer" where Mohr wrote "urgrauen" [^sng-text]. Under each line is our own plain English.
+
+**Verse 1**
+> Stille Nacht! Heilge Nacht!
+Silent night! Holy night!
+> Alles schläft, einsam wacht,
+Everyone sleeps; alone, awake,
+> Nur das traute heilige Paar,
+only the dear, holy pair keep watch.
+> Holder Knab' im lockigten Haar;
+Lovely boy with curly hair,
+> Schlafe in himmlischer Ruh!
+sleep in heavenly peace!
+> Schlafe in himmlischer Ruh!
+Sleep in heavenly peace!
+
+**Verse 2**
+> Stille Nacht! Heilge Nacht!
+Silent night! Holy night!
+> Gottes Sohn! O! wie lacht
+Son of God! Oh, how love laughs
+> Lieb' aus Deinem göttlichen Mund,
+from Your divine mouth,
+> Da uns schlägt die rettende Stund';
+as the hour that saves us strikes:
+> Jesus! in Deiner Geburth!
+Jesus, at Your birth!
+> Jesus in Deiner Geburth!
+Jesus, at Your birth!
+
+**Verse 3**
+> Stille Nacht! Heilge Nacht!
+Silent night! Holy night!
+> Die der Welt Heil gebracht;
+which brought the world salvation;
+> Aus des Himmels goldenen Höhn,
+from heaven's golden heights
+> Uns der Gnaden Fülle läßt seh'n:
+lets us see the fullness of grace:
+> Jesum in Menschengestalt!
+Jesus in human form!
+> Jesum in Menschengestalt!
+Jesus in human form!
+
+**Verse 4**
+> Stille Nacht! Heilge Nacht!
+Silent night! Holy night!
+> Wo sich heut alle Macht
+When today all the power
+> Väterlicher Liebe ergoß,
+of a father's love poured out,
+> Und als Bruder huldvoll umschloß
+and, kindly, as a brother,
+> Jesus die Völker der Welt!
+Jesus embraced the peoples of the world!
+> Jesus die Völker der Welt!
+Jesus embraced the peoples of the world!
+
+**Verse 5**
+> Stille Nacht! Heilge Nacht!
+Silent night! Holy night!
+> Lange schon uns bedacht,
+Planned for us long ago,
+> Als der Herr vom Grimme befreyt,
+when the Lord, freed from anger,
+> In der Väter urgrauen Zeit
+in the forefathers' ancient days
+> Aller Welt Schonung verhieß!
+promised the whole world mercy!
+> Aller Welt Schonung verhieß!
+Promised the whole world mercy!
+
+**Verse 6**
+> Stille Nacht! Heilge Nacht!
+Silent night! Holy night!
+> Hirten erst kund gemacht
+Made known first to shepherds
+> Durch der Engel „Hallelujah!“
+by the angels' "Hallelujah!",
+> Tönt es laut bey Ferne und Nah:
+it rings out loud, far and near:
+> „Jesus der Retter ist da!“
+"Jesus the Saviour is here!"
+> „Jesus der Retter ist da!“
+"Jesus the Saviour is here!"
+
+### The full words
+
+Young's three verses as Charles L. Hutchins printed them in Carols Old and Carols New (Boston, 1916), Carol 28, the printing our arrangement reads its tune and first verse from; its index names no translator, only "the German of J. Mohr" [^hutchins]. Some hymnals, the United Methodist Hymnal and the Baptist Hymnal 2008 among them, add a fourth verse by an unknown translator; we have found no printing of it before 1931, so it is named here but not given [^hymnary-text].
+
+**Verse 1**
+Silent night! Holy night!
+All is calm, all is bright:
+Round yon Virgin Mother and Child,
+Holy Infant, so tender and mild,
+Sleep in heavenly peace,
+Sleep in heavenly peace.
+
+**Verse 2**
+Silent night! Holy night!
+Shepherds quake at the sight!
+Glories stream from heaven afar,
+Heavenly hosts sing Alleluia!
+Christ, the Saviour, is born!
+Christ, the Saviour, is born!
+
+**Verse 3**
+Silent night! Holy night!
+Son of God, love's pure light
+Radiant beams from Thy Holy Face
+With the dawn of redeeming grace,
+Jesus, Lord, at Thy Birth!
+Jesus, Lord, at Thy Birth!
 
 ## How it is sung
 
-Silent Night was made for a Catholic Christmas Eve Mass, and Hochradner suggests it was first sung at the crib as the Mass ended [^hochradner]. Protestant Germany sang a version that Hochradner traces largely to Johann Hinrich Wichern of Hamburg, which later came back to Austria; German singers today use either Mohr's "Jesus" or the later "Christ" in places [^hochradner].
+Silent Night was made for a Catholic Christmas Eve Mass [^hochradner]. Protestant Germany sang a version that Hochradner traces largely to Johann Hinrich Wichern of Hamburg, which later came back to Austria; German singers today use either Mohr's "Jesus" or the later "Christ" in places [^hochradner].
 
-In hymnals the tune is called STILLE NACHT. Hymnary.org gives its meter both as irregular and as 6.6.8.8.6.6. Most hymnals print three verses, and some add a fourth [^hymnary-text][^hymnary-tune].
+In hymnals the tune is called STILLE NACHT. Hymnary.org gives its meter both as irregular and as 6.6.8.8.6.6. Most hymnals print three verses [^hymnary-text][^hymnary-tune].
 
-Our arrangement sings Young's first verse in C, the key of his 1859 printing, written in 3/4 and taken slowly [^young]. It is for 2 to 4 singers, with the bass on "oo". The melody is the one sung today, a little changed from Gruber's: its first "Sleep in heavenly peace" begins a third higher than in his manuscripts [^hochradner][^hymnarchive].
+Our arrangement sings Young's first verse in C, the key of Hutchins's 1916 printing, written in 3/4 and taken slowly [^hutchins]. It is for 2 to 4 singers, with the bass on "oo". The melody is the one sung today, a little changed from Gruber's: its first "Sleep in heavenly peace" begins a third higher than in his manuscripts [^hochradner][^hymnarchive].
 
 ## Versions and other words
 
@@ -120,6 +234,7 @@ The soprano sings the tune in our arrangement. With two singers you have the tun
 - [^hc-young]: Hymns and Carols of Christmas, *John Freeman Young* (biography). https://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/Biographies/john_freeman_young.htm
 - [^julian]: John Julian (ed.), *A Dictionary of Hymnology*, 2nd ed. (John Murray, 1907; Dover reprint, 1957), vol. 1, pp. 760 to 761, "Mohr, Joseph" (signed J. M., James Mearns). https://archive.org/details/dictionaryofhymn01lond
 - [^canterbury]: *The Canterbury Dictionary of Hymnology*, "Silent night! holy night!" (Canterbury Press, 2013). https://hymnology.hymnsam.co.uk/s/silent-night!-holy-night!
+- [^hutchins]: Charles L. Hutchins (ed.), *Carols Old and Carols New* (The Parish Choir, Boston, 1916), Carol 28, p. 29, "Silent night! Holy night!". https://archive.org/details/carolsoldcarolsn00huth/page/n52/mode/1up
 - [^hymnary-text]: Hymnary.org, *Silent Night, Holy Night* (text). https://hymnary.org/text/silent_night_holy_night_all_is_calm_all
 - [^hymnary-tune]: Hymnary.org, *STILLE NACHT* (tune). https://hymnary.org/tune/stille_nacht_gruber
 - [^cwgc]: Alec Malloy, *Peace in No Man's Land? The truth behind the Christmas Truce* (Commonwealth War Graves Commission blog, 15 December 2022). https://www.cwgc.org/our-work/blog/peace-in-no-man-s-land-the-truth-behind-the-christmas-truce/
