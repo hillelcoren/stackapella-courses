@@ -359,7 +359,7 @@ def gr_3_hear():
                "why": EN("One bends up and arrives; the other stalls just short.")} for l in (True, False, True, False)]
     return {
         "id": "gr-3-hear", "title": EN("Bend or stall?"),
-        "fact": fact("dorsey-kicked-out", "Thomas A. Dorsey's bluesy gospel met resistance from ministers, musicians and churchgoers alike. He was often quoted saying he had \"been kicked out of the best churches in the country\".", "Wikipedia, Thomas A. Dorsey", "https://en.wikipedia.org/wiki/Thomas_A._Dorsey"),
+        "fact": fact("dorsey-kicked-out", "Thomas A. Dorsey's bluesy gospel met resistance in the churches: many pastors called it \"devil's music\". He recalled being thrown out of some of the best churches.", "PBS, This Far by Faith, \"Thomas Dorsey\"", "https://www.pbs.org/thisfarbyfaith/people/thomas_dorsey.html"),
         "steps": [
             learn("A bend has to arrive. Listen for the one that lands.",
                   [("Listen", "Which one lands?"), ("Then you", "A bend that arrives"), ("Hold it", "On the third")], visual="vibrato"),

@@ -362,8 +362,8 @@ def ol_3_line():
                          [(breath_clip(0.5), breath_clip(0)), (breath_clip(0.35), breath_clip(0))])
     return {
         "id": "ol-3-line", "title": EN("One breath, one line"),
-        "fact": fact("ave-verum-13th-century", "The words are much older than Mozart: the hymn is first found in a 13th-century Franciscan manuscript, now in Chicago's Newberry Library.",
-                     "Ave verum corpus, English Wikipedia (citing Rubin, 1992)", "https://en.wikipedia.org/wiki/Ave_verum_corpus"),
+        "fact": fact("ave-verum-13th-century", "The words are much older than Mozart: a Franciscan service book in Chicago's Newberry Library has them set for two voices, on a leaf added in the late 1300s or early 1400s.",
+                     "DIAMM, Chicago, Newberry Library, MS 24", "https://www.diamm.ac.uk/sources/665/"),
         "steps": [
             learn("Mozart's line is long and joined: the consonants quick between the vowels, and a breath only between words, never inside one.",
                   [("Double letters", "PAS-sum, im-mo-LA-tum: held a moment"), ("The tap", "Ma-RI-a, VE-rum: one tap, as in Spanish"), ("Breathe between words", "Here, after \"Maria\"")], visual="breath"),
@@ -423,7 +423,7 @@ def ol_4_figure():
     ex["score"] = "keyDrift"
     return {
         "id": "ol-4-figure", "title": EN("The figure, faster"),
-        "fact": fact("leontovych-twenty-years", "Mykola Leontovych was a perfectionist who could spend years on one arrangement before showing it to anyone. Shchedryk was first heard in Kyiv in 1916, when the conductor Oleksander Koshyts persuaded him to let it be sung.",
+        "fact": fact("leontovych-twenty-years", "Mykola Leontovych was modest about his work and could spend years on one arrangement before showing it. Shchedryk was first sung in Kyiv in December 1916, by the Kyiv University student choir of the conductor Oleksander Koshyts.",
                      "McDermott, America Magazine (17 November 2022)", "https://www.americamagazine.org/arts-culture/2022/11/17/carol-bells-ukraine-centennial-244117"),
         "steps": [
             learn("Four notes, round and round. Choirs go flat repeating it, so the key is the test, a step faster each time.",

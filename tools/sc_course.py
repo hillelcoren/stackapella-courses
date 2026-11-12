@@ -252,7 +252,7 @@ def sc_1_and():
         names += [chord] * 4
     return {
         "id": "sc-1-and", "title": EN("Start on the and"),
-        "fact": fact("bebop-from-scat-syllables", "The word \"bebop\" comes from scat syllables. In Dizzy Gillespie's account, fans heard him scat his new, untitled tunes to the band, and \"would ask for bebop.\"", "Wikipedia, Bebop", "https://en.wikipedia.org/wiki/Bebop"),
+        "fact": fact("bebop-from-scat-syllables", "The word \"bebop\" comes from scat syllables. In Dizzy Gillespie's account, fans heard him scat his new, untitled tunes to the band, and \"would ask for bebop.\"", "Gillespie with Fraser, To Be, or Not... to Bop (1979)", "https://archive.org/details/tobeornottobopme0000gill"),
         "steps": [
             learn("Jazz lines love to start just after the beat, on the \"and\". End each one clean, the t of \"dat\" cutting it off.",
                   [("Wait", "Let the beat go by"), ("Then go", "On the and"), ("Dat", "A clean end")]),
@@ -327,7 +327,7 @@ def sc_2_finish():
     model = [n for n in notes if not n.get("listenOnly")]
     return {
         "id": "sc-2-finish", "title": EN("Finish the phrase"),
-        "fact": fact("stop-time-tap-dancers", "In \"stop-time\" the band hits a chord, then falls silent for the soloist to fill. Louis Armstrong's famous stop-time chorus in \"Potato Head Blues\" (1927) drew partly on the tap dancing at the Sunset Café.", "Wikipedia, Potato Head Blues (citing Brothers, Louis Armstrong: Master of Modernism (2014))", "https://en.wikipedia.org/wiki/Potato_Head_Blues"),
+        "fact": fact("stop-time-tap-dancers", "In \"stop-time\" the band hits a chord, then falls silent for the soloist to fill. In Louis Armstrong's \"Potato Head Blues\" (1927), the highlight is his solo over stop-time.", "Porter, Ullman and Hazell, Jazz: From Its Origins to the Present (1993)", "https://archive.org/details/jazzfromitsorigi00port"),
         "steps": [
             learn("The band plays a phrase and stops short: you sing its last note, any of the chord's 1, 3 or 5.",
                   [("Listen", "The phrase from the band"), ("Finish it", "Its last note is yours"), ("Any lit note", "1, 3 or 5 of the chord")]),

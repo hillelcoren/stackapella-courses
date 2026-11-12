@@ -141,7 +141,7 @@ def di_1_two():
     ex = {"tempo": TEMPO, "notes": held_words(words), "turn": False, "drone": {"step": 0}, "score": "lock"}
     return {
         "id": "di-1-two", "title": EN("Two vowels, one note"),
-        "fact": fact("great-vowel-shift-glides", "In Middle English, \"mite\" sounded like today's \"meet\" and \"bout\" like \"boot\". The Great Vowel Shift broke those long vowels into the two-vowel glides we say in \"mite\" and \"bout\" today.", "Wikipedia, Great Vowel Shift", "https://en.wikipedia.org/wiki/Great_Vowel_Shift"),
+        "fact": fact("great-vowel-shift-glides", "In Middle English, \"mite\" sounded like today's \"meet\" and \"bout\" like \"boot\". The Great Vowel Shift broke those long vowels into the two-vowel glides we say in \"mite\" and \"bout\" today.", "Menzer, The Great Vowel Shift, Furman University (2000)", "https://facweb.furman.edu/~mmenzer/gvs/what.htm"),
         "steps": [
             learn("Night, day, how and boy each glide between two vowels. Hold the first and give the second only at the very end.",
                   [("Night", "Ah, then a touch of ee"), ("Day", "Eh, then a touch of ee"), ("How", "Ah, then a touch of oo")]),
@@ -267,7 +267,7 @@ def di_3_buzz():
     words = held_words(["very", "zoo", "love"])
     return {
         "id": "di-3-buzz", "title": EN("Buzz, not hiss"),
-        "fact": fact("old-english-f-v-one-letter", "Old English usually wrote v and f with the same letter, f, and z and s with s: an f or s buzzed between vowels, and hissed at the start or end of a word.", "Wikipedia, Old English phonology", "https://en.wikipedia.org/wiki/Old_English_phonology"),
+        "fact": fact("old-english-f-v-one-letter", "Old English usually wrote v and f with the same letter, f, and z and s with s: an f or s buzzed between vowels, and hissed at the start or end of a word.", "Society for Name Studies in Britain and Ireland, \"Old English pronunciation\"", "https://www.snsbi.org.uk/exploring-names/old-english-pronunciation/"),
         "steps": [
             learn("v and z can buzz on the note, or hiss without it. Buzz them.",
                   [("Very", "A buzzing v"), ("Zoo", "A buzzing z"), ("Love", "A light v at the end")]),

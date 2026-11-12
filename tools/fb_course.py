@@ -456,7 +456,7 @@ def b_4_wade():
              {"beat": 2, "length": 0.5, "step": 2, "lyric": "wa-"}, {"beat": 2.5, "length": 0.5, "step": -1, "lyric": "ter,"}]
     return {
         "id": "belting-4-wade", "title": EN("Wade in the water"),
-        "fact": fact("troubled-water-bethesda", "The theologian Howard Thurman traced the song's line \"God's gonna trouble the water\" to a story in John's Gospel: a healing pool whose water was stirred, or \"troubled\".", "Wikipedia, Wade in the Water", "https://en.wikipedia.org/wiki/Wade_in_the_Water"),
+        "fact": fact("troubled-water-bethesda", "The song's line \"God's gonna trouble the water\" points to a story in John's Gospel: a healing pool whose water was stirred, or \"troubled\".", "Richard Newman, Go Down, Moses: A Celebration of the African-American Spiritual (1998)", "https://archive.org/details/godownmosesceleb00rich"),
         "steps": [
             first(SPIRITUAL, [("One line", "\"Wade in the water,\""), ("At speaking volume", "A call that invites, never a shout")], visual="harmony"),
             warmup("brr"),

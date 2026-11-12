@@ -151,23 +151,29 @@
   "checked": "2026-11-12",
   "course": "pop",
   "lesson": "pop-3-crooner",
-  "second": null,
-  "unsettled": "the 1861 Aura Lea date rests on the primary sheet music (card); the 1956 Love Me Tender link has no opened source (the Telegraph's 2008 \"story behind the song\" is paywalled, the other candidates lending-only)",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "\"In 1956 the music was given a brand new set of lyrics and entitled 'Love Me Tender' for a movie bearing the same title.\"",
+   "source": "Raph, The American Song Treasury: 100 Favorites (1964; Dover 1986), \"Aura Lee\"",
+   "url": "https://archive.org/details/americansongtrea0000unse"
+  },
+  "verdict": "OK"
  },
  "ave-verum-13th-century": {
   "card": {
    "source": {
-    "en": "Ave verum corpus, English Wikipedia (citing Rubin, 1992)",
-    "es": "Ave verum corpus, Wikipedia en inglés (citando a Rubin, 1992)"
+    "en": "DIAMM, Chicago, Newberry Library, MS 24",
+    "es": "DIAMM, Chicago, Newberry Library, MS 24"
    },
-   "url": "https://en.wikipedia.org/wiki/Ave_verum_corpus"
+   "url": "https://www.diamm.ac.uk/sources/665/"
   },
   "checked": "2026-11-12",
   "course": "other-languages",
   "lesson": "ol-3-line",
-  "second": null,
-  "unsettled": "card never opened: the card is Wikipedia, which gives the Newberry MS 24 claim with no footnote, and no other source was reached; the current card and text stay (the checker's wording fix, \"first found\" to \"earliest known copy\", waits with it). If no source turns up, drop it for a Mozart K. 618 fact",
+  "second": {
+   "says": "Hymn \"Ave verum corpus natum de\" on f. 258r of Newberry 24; the indexer notes it \"appears to be two-voice polyphony\".",
+   "source": "Cantus Database, Chicago, The Newberry Library, 24, f. 258r, \"Ave verum corpus natum de\"",
+   "url": "https://cantusdatabase.org/chant/1010090"
+  },
   "verdict": "FIX"
  },
  "bach-goldberg-quodlibet": {
@@ -339,8 +345,11 @@
   "checked": "2026-11-12",
   "course": "improvising-harmony",
   "lesson": "imp-3-chord",
-  "second": null,
-  "unsettled": "no independent second source found; the card (Barbershop Harmony Society) is taken as primary (the style's own governing body defining its parts)",
+  "second": {
+   "says": "\"LEAD is the melody\"; \"TENOR is a harmony part sung consistently above the lead\"; \"the BARITONE part fills in the all-important missing note in a chord\"; \"the BASS part supplies the harmonic foundation (root or fifth) of the chord\"",
+   "source": "SingUnited International (formerly Sweet Adelines International), Barbershop 101",
+   "url": "https://singunited.org/about/barbershop-101"
+  },
   "verdict": "OK"
  },
  "barbershop-seventh-35-60": {
@@ -459,8 +468,11 @@
   "checked": "2026-11-12",
   "course": "sight-singing",
   "lesson": "ss-3-quick",
-  "second": null,
-  "unsettled": "second source not opened: Westergaard, An Introduction to Tonal Theory (1975), p. 24, is a lending-only scan; the older one-syllable beaming rule is only implied by the card (\"now standard\")",
+  "second": {
+   "says": "\"One convention used in opera or art song notation is beaming to lyrics\": \"eighth notes and sixteenth notes are never beamed together in the vocal line except when a syllable is sustained\" through a melisma.",
+   "source": "MakeMusic, Finale 2012 User Manual, \"Vocal music\"",
+   "url": "https://usermanuals.finalemusic.com/Finale2012Mac/Content/Finale/Vocal_music.htm"
+  },
   "verdict": "SOURCE"
  },
  "beat-rate-difference": {
@@ -498,16 +510,19 @@
  "bebop-from-scat-syllables": {
   "card": {
    "source": {
-    "en": "Wikipedia, Bebop",
-    "es": "Wikipedia, Bebop"
+    "en": "Gillespie with Fraser, To Be, or Not... to Bop (1979)",
+    "es": "Gillespie con Fraser, To Be, or Not... to Bop (1979)"
    },
-   "url": "https://en.wikipedia.org/wiki/Bebop"
+   "url": "https://archive.org/details/tobeornottobopme0000gill"
   },
   "checked": "2026-11-12",
   "course": "scat",
   "lesson": "sc-1-and",
-  "second": null,
-  "unsettled": "card never opened: the checker's candidates, Gillespie with Fraser, To Be, or Not ... to Bop (1979) (https://archive.org/details/tobeornottobopme00gill), and Painter, Creating Black Americans (2006), pp. 228-229, are lending-only with search inside refused; the current card and text stay",
+  "second": {
+   "says": "quotes Gillespie: the tunes \"didn't have titles. We just wrote an introduction and a first chorus. I'd say, 'Dee-da-pa-da-n-de-bop . . .' and we'd go into it. People, when they'd want to ask for one of those numbers and didn't know the name, would ask for bebop.\"",
+   "source": "Eileen Southern, The Music of Black Americans: A History (1983)",
+   "url": "https://archive.org/details/musicofblackamer00south"
+  },
   "verdict": "SOURCE"
  },
  "beethoven-permits-fifths": {
@@ -765,9 +780,12 @@
   "checked": "2026-11-12",
   "course": "other-languages",
   "lesson": "ol-2-light",
-  "second": null,
-  "unsettled": "the card (the 1895 Schirmer vocal score, opened) supports only the footnote \"Imitated from a Spanish song\"; the second source for El Arreglito and the folk-song belief (Grove, 5th ed., 1954) is access-restricted and was not opened",
-  "verdict": "FIX"
+  "second": {
+   "says": "\"Bizet thought he was using a folk song for Habanera, but he learned later that it was El arreglito (A little arrangement) by Sebastián de Yradier (1809-65)\".",
+   "source": "Stolba, The Development of Western Music: A History (3rd ed., 1998)",
+   "url": "https://archive.org/details/developmentofwes0000stol_t2w0"
+  },
+  "verdict": "OK"
  },
  "caro-mio-ben-pacchierotti": {
   "card": {
@@ -1042,21 +1060,6 @@
   "second": null,
   "verdict": "OK"
  },
- "countertenors-falsetto-deller": {
-  "card": {
-   "source": {
-    "en": "Wikipedia, Countertenor",
-    "es": "Wikipedia, Countertenor"
-   },
-   "url": "https://en.wikipedia.org/wiki/Countertenor"
-  },
-  "checked": "2026-11-12",
-  "course": "range",
-  "lesson": "range-3-hoot",
-  "second": null,
-  "unsettled": "card never opened: no source other than Wikipedia was reached (Giles, The History and Technique of the Counter-Tenor (2005), and Britannica refused fetches); the current Wikipedia card stays and must move before this ships, or the fact be replaced",
-  "verdict": "SOURCE"
- },
  "counting-voices": {
   "card": {
    "source": {
@@ -1171,6 +1174,25 @@
   },
   "verdict": "OK"
  },
+ "deller-tippett-canterbury": {
+  "card": {
+   "source": {
+    "en": "Anastasia Tsioulcas, \"Alfred Deller: Celebrating A High-Flying Singer\", NPR (31 May 2012)",
+    "es": "Anastasia Tsioulcas, \"Alfred Deller: Celebrating A High-Flying Singer\", NPR (31 de mayo de 2012)"
+   },
+   "url": "https://www.npr.org/sections/deceptivecadence/2012/05/31/154059434/alfred-deller-celebrating-a-high-flying-singer"
+  },
+  "checked": "2026-11-12",
+  "course": "range",
+  "lesson": "range-3-hoot",
+  "replaces": "countertenors-falsetto-deller",
+  "second": {
+   "says": "\"1940 - Member of Canterbury Cathedral Choir (until 1947)\"; \"1943 - Michael Tippett arranges his London debut as a solo countertenor\".",
+   "source": "harmonia mundi, \"Alfred Deller\", biography",
+   "url": "https://harmoniamundi.com/en/artistes/alfred-deller"
+  },
+  "verdict": "DROP"
+ },
  "deutsch-tone-language-2006": {
   "card": {
    "source": {
@@ -1272,17 +1294,20 @@
  "dorsey-kicked-out": {
   "card": {
    "source": {
-    "en": "Wikipedia, Thomas A. Dorsey",
-    "es": "Wikipedia, Thomas A. Dorsey"
+    "en": "PBS, This Far by Faith, \"Thomas Dorsey\"",
+    "es": "PBS, This Far by Faith, \"Thomas Dorsey\""
    },
-   "url": "https://en.wikipedia.org/wiki/Thomas_A._Dorsey"
+   "url": "https://www.pbs.org/thisfarbyfaith/people/thomas_dorsey.html"
   },
   "checked": "2026-11-12",
   "course": "gospel-runs",
   "lesson": "gr-3-hear",
-  "second": null,
-  "unsettled": "card never opened: the checker's card, Harris, The Rise of Gospel Blues (1992) (https://archive.org/details/riseofgospelblue00harr), and Heilbut, The Gospel Sound, are lending-only; the current Wikipedia card stays. No other source for the quote was reached",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "\"There was a great deal of early resistance to Dorsey's work\"; \"Although Dorsey claimed to have been thrown out of some of the best churches\".",
+   "source": "Encyclopedia of World Biography, \"Thomas Andrew Dorsey\" (Gale, via Encyclopedia.com)",
+   "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/thomas-andrew-dorsey"
+  },
+  "verdict": "FIX"
  },
  "double-tone-tremolo": {
   "card": {
@@ -1324,9 +1349,12 @@
   "course": "a-cappella-bass",
   "lesson": "acb-2-dm",
   "replaces": "konnakol-drum-syllables",
-  "second": null,
-  "unsettled": "the second source found (Barrett et al., Brain and Cognition, 2026) covers the tabla bols only; the solkattu of the mridangam rests on the card (Gowriprasad et al., 2025) alone",
-  "verdict": "DROP"
+  "second": {
+   "says": "the mrdangam is \"the principal rhythmic accompaniment instrument in Karnatak music, the art music of South India\"; \"each stroke is named according to a vocabulary of mnemonic syllables\"; \"This simultaneous reciting and clapping called solkattu, functions as an effective kinesthetic notation.\"",
+   "source": "Wesleyan University Virtual Instrument Museum, \"Mrdangam\"",
+   "url": "https://wesomeka.wesleyan.edu/vim2/items/show/17"
+  },
+  "verdict": "OK"
  },
  "drunken-sailor-navy-softly": {
   "card": {
@@ -1389,8 +1417,11 @@
   "checked": "2026-11-12",
   "course": "diction",
   "lesson": "di-3-hum",
-  "second": null,
-  "unsettled": "no independent second source reached; the new text rests on the card (Russell, University of Manitoba) alone",
+  "second": {
+   "says": "Sonorants (nasals and approximants): \"They are normally voiced, and so do not come in pairs.\" Also UCL, PALS1004 Introduction to Speech Science, week 6: \"Approximants and Nasals are always voiced\" (https://www.phon.ucl.ac.uk/courses/spsci/iss/week6.php).",
+   "source": "Ton Broeders and Carlos Gussenhoven, An Introduction to American English Phonetics, 8.4 \"Manner of articulation\" (University of Groningen open textbook)",
+   "url": "https://opentextbooks.rug.nl/americanenglishphonetics2/chapter/8-4-manner-of-articulation/"
+  },
   "verdict": "FIX"
  },
  "farinelli-trumpet-duel": {
@@ -1728,16 +1759,19 @@
  "great-vowel-shift-glides": {
   "card": {
    "source": {
-    "en": "Wikipedia, Great Vowel Shift",
-    "es": "Wikipedia, Great Vowel Shift"
+    "en": "Menzer, The Great Vowel Shift, Furman University (2000)",
+    "es": "Menzer, The Great Vowel Shift, Universidad Furman (2000)"
    },
-   "url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift"
+   "url": "https://facweb.furman.edu/~mmenzer/gvs/what.htm"
   },
   "checked": "2026-11-12",
   "course": "diction",
   "lesson": "di-1-two",
-  "second": null,
-  "unsettled": "card never opened: no non-Wikipedia source reached (Harvard's Chaucer pages refused fetches; Sweet's History of English Sounds OCR too garbled); the current Wikipedia card stays and needs a university or scholarly page",
+  "second": {
+   "says": "\"words with the long [i] sound have had it diphthongized into [ai] ... The long [u], written ou, has similarly become [au], e.g. ... M. E. spouse, pronounced [spu'zə], now pron. [spauz]\"",
+   "source": "Jespersen, Growth and Structure of the English Language (1905), section 105",
+   "url": "https://archive.org/details/growthstructureo00jesprich"
+  },
   "verdict": "SOURCE"
  },
  "greensleeves-not-henry": {
@@ -1825,17 +1859,20 @@
  "gymel-twin": {
   "card": {
    "source": {
-    "en": "Britannica, Gymel",
-    "es": "Britannica, Gymel"
+    "en": "Grove, A Dictionary of Music and Musicians, vol. 2 (1904), \"Gimel\", Internet Archive",
+    "es": "Grove, A Dictionary of Music and Musicians, vol. 2 (1904), \"Gimel\", Internet Archive"
    },
-   "url": "https://www.britannica.com/art/gymel"
+   "url": "https://archive.org/details/grovesdictionar02maigoog"
   },
   "checked": "2026-11-12",
   "course": "improvising-harmony",
   "lesson": "imp-1-third",
-  "second": null,
-  "unsettled": "card never opened: Britannica, Gymel blocks fetches and was read only through a search summary (the card is unchanged). Grove, Dictionary of Music and Musicians, vol. 2 (1904), \"Gimel\" (https://archive.org/details/grovesdictionar02maigoog) was opened and agrees",
-  "verdict": "OK"
+  "second": {
+   "says": "Gymel, from gemellus, \"twin song\"; later \"attempts were made to fill out the gymel by adding a third part above the 'twin' voices\".",
+   "source": "Reese, Music in the Middle Ages (1940)",
+   "url": "https://archive.org/details/musicinmiddleage0000gust_h1a7"
+  },
+  "verdict": "SOURCE"
  },
  "handy-flat-third-folk-roots": {
   "card": {
@@ -1891,7 +1928,6 @@
   "course": "pitch",
   "lesson": "pp-2-home",
   "second": null,
-  "unsettled": "the song (Happy Birthday) is not named in the abstract, and the paper's full text was not opened (403); the card's other figures (24 singers, about 50 s, median drift 11 cents) are checked in the abstract",
   "verdict": "OK"
  },
  "haul-away-joe-fore-sheet": {
@@ -1958,20 +1994,24 @@
   },
   "verdict": "OK"
  },
- "higgins-spoken-melody": {
+ "higgins-talk-singing": {
   "card": {
    "source": {
-    "en": "Wikipedia, My Fair Lady",
-    "es": "Wikipedia, My Fair Lady"
+    "en": "Jeff Lunden, \"NPR 100: My Fair Lady\", NPR (15 July 2000)",
+    "es": "Jeff Lunden, \"NPR 100: My Fair Lady\", NPR (15 de julio de 2000)"
    },
-   "url": "https://en.wikipedia.org/wiki/My_Fair_Lady"
+   "url": "https://www.npr.org/2000/07/15/1079541/nprs-100-my-fair-lady"
   },
   "checked": "2026-11-12",
   "course": "musical-theatre",
   "lesson": "mt-3-bright",
-  "second": null,
-  "unsettled": "card never opened: no source beyond Wikipedia was reached (it cites only a 1956 Columbia LP interview, not checkable online; the LOC registry essay and the NYT refused fetches); the current Wikipedia card stays. If nothing turns up, drop it for a plainer line two sources support",
-  "verdict": "SOURCE"
+  "replaces": "higgins-spoken-melody",
+  "second": {
+   "says": "\"Because he was hopeless as a singer ... Harrison developed a technique of talking his way through songs that proved highly effective.\"",
+   "source": "Britannica, \"Rex Harrison\"",
+   "url": "https://www.britannica.com/biography/Rex-Harrison"
+  },
+  "verdict": "DROP"
  },
  "high-vowels-misheard": {
   "card": {
@@ -2052,9 +2092,12 @@
   "checked": "2026-11-12",
   "course": "humming",
   "lesson": "hum-1-bubble",
-  "second": null,
-  "unsettled": "no independent second source opened: UNSW Music Acoustics (the card) says it exactly",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "\"the sound of brass instruments is created by the vibration of the musician's body, specifically their lips ... which is called buzzing\"; \"The tighter the corners are, the brighter the tone and higher the pitch\"; \"Faster air produces a faster buzz, resulting in a higher partial\".",
+   "source": "Brian Weidner, Brass Techniques and Pedagogy, ch. 3 \"Tone Production Fundamentals on the Mouthpiece\" and ch. 5 (PALNI open textbook)",
+   "url": "https://pressbooks.palni.org/brasstechniquesandpedagogy/chapter/getting-started-with-posture-and-embouchure/"
+  },
+  "verdict": "FIX"
  },
  "hum-face-buzz": {
   "card": {
@@ -2165,17 +2208,20 @@
  "hum-siren-named-1819": {
   "card": {
    "source": {
-    "en": "Cagniard de la Tour, \"Sur la Sirène, nouvelle machine d'acoustique...\", Annales de chimie et de physique 12 (1819), p. 171, quoted and translated in Wikipedia, \"Siren (alarm)\"",
-    "es": "Cagniard de la Tour, \"Sur la Sirène, nouvelle machine d'acoustique...\", Annales de chimie et de physique 12 (1819), p. 171, citado y traducido en Wikipedia, \"Siren (alarm)\""
+    "en": "Cagniard de la Tour, \"Sur la Sirène, nouvelle machine d'acoustique...\", Annales de chimie et de physique 12 (1819), pp. 167-171, Internet Archive",
+    "es": "Cagniard de la Tour, \"Sur la Sirène, nouvelle machine d'acoustique...\", Annales de chimie et de physique 12 (1819), pp. 167-171, Internet Archive"
    },
-   "url": "https://en.wikipedia.org/wiki/Siren_(alarm)"
+   "url": "https://archive.org/details/s3id13207800"
   },
   "checked": "2026-11-12",
   "course": "humming",
   "lesson": "hum-2-bigger",
-  "second": null,
-  "unsettled": "card never opened: the proposed primary, Cagniard de la Tour, Annales de chimie et de physique 12 (1819), p. 171 (Gallica), was blocked; the current card (quoted via Wikipedia) stays until p. 171 is seen",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "\"The siren was invented by ... Charles Gagniard de la Tour ... in 1819\"; \"The siren is so-called due to its ability to produce sound underwater\"; \"the Sirens of Greek mythology were sweet singing but deadly female sea creatures\".",
+   "source": "Whipple Museum of the History of Science, University of Cambridge, \"Siren\"",
+   "url": "https://www.whipplemuseum.cam.ac.uk/explore-whipple-collections/acoustics/siren"
+  },
+  "verdict": "FIX"
  },
  "hum-soft-palate-gate": {
   "card": {
@@ -2222,6 +2268,21 @@
   "lesson": "hum-4-warmup",
   "second": null,
   "verdict": "OK"
+ },
+ "hummed-search-ups-downs": {
+  "card": {
+   "source": {
+    "en": "Ghias, Logan, Chamberlin and Smith, \"Query By Humming\", ACM Multimedia 95 (Cornell University, 1995)",
+    "es": "Ghias, Logan, Chamberlin and Smith, \"Query By Humming\", ACM Multimedia 95 (Cornell University, 1995)"
+   },
+   "url": "https://www.cs.cornell.edu/zeno/papers/humming/humming.html"
+  },
+  "checked": "2026-11-12",
+  "course": "ear",
+  "lesson": "ear-1-updown",
+  "replaces": "parsons-code-ups-and-downs",
+  "second": null,
+  "verdict": "DROP"
  },
  "in-the-mood-riff-1930": {
   "card": {
@@ -2384,24 +2445,30 @@
   "checked": "2026-11-12",
   "course": "sight-singing",
   "lesson": "ss-5-half",
-  "second": null,
-  "unsettled": "second source not opened: Choksy, The Kodaly Method, pp. 9-12, is a lending-only scan; the card (OAKE) supports the pentatonic start, not a second source",
-  "verdict": "FIX"
+  "second": {
+   "says": "\"Half steps are difficult for the young child to sing in tune\"; \"... low so, and high do are taught, and, last, the half steps fa and ti, to complete the diatonic major\".",
+   "source": "Choksy, The Kodály Method (Prentice-Hall, 1974)",
+   "url": "https://archive.org/details/kodalymethodcomp0000chok"
+  },
+  "verdict": "OK"
  },
  "kreisler-constant-vibrato": {
   "card": {
    "source": {
-    "en": "Philip, Early Recordings and Musical Style (1992)",
-    "es": "Philip, Early Recordings and Musical Style (1992)"
+    "en": "Leech-Wilkinson, The Changing Sound of Music (CHARM, 2009), chapter 5",
+    "es": "Leech-Wilkinson, The Changing Sound of Music (CHARM, 2009), capítulo 5"
    },
-   "url": ""
+   "url": "https://charm.kcl.ac.uk/studies/chapters/chap5.html"
   },
   "checked": "2026-11-12",
   "course": "vibrato",
   "lesson": "vib-4-style",
-  "second": null,
-  "unsettled": "card never opened: Philip, Early Recordings and Musical Style (1992), ch. 4, shows only its contents online, so the claim is unchecked; the current card stays (the checker's proposed DOI, https://doi.org/10.1017/CBO9780511470271, is not added). Flesch, The Art of Violin Playing (1924), would be the second",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "\"the great violinists of the middle of the last century were opposed to uninterrupted vibration ... But it was Kreisler who forty years ago ... started a revolutionary change in this regard, by vibrating not only continuously in cantilenas like Ysaye, but even in technical passages.\"",
+   "source": "Carl Flesch, The Art of Violin Playing, Book One (1924; rev. 1939), \"The Vibrato from Joachim till Kreisler\"",
+   "url": "https://archive.org/details/bwb_Y0-CRV-700"
+  },
+  "verdict": "FIX"
  },
  "la-folia": {
   "card": {
@@ -2460,8 +2527,11 @@
   "checked": "2026-11-12",
   "course": "sight-singing",
   "lesson": "ss-2-below",
-  "second": null,
-  "unsettled": "\"avoided by a change of clef\" rests on Williams (1903) alone; the second opened (Concise Oxford, \"clef\") shows the many clefs, not why they were used",
+  "second": {
+   "says": "\"Each part was written to fit the range of the staves; that is why the Middle C was located differently in different parts: for baritone it was on the top line, for soprano on the bottom line ... instrumental music also preferred changing clefs instead of adding ledger lines.\"",
+   "source": "Uniarts Helsinki (Sibelius Academy), Music theory: Notation, \"Clefs\"",
+   "url": "https://sites.uniarts.fi/en/web/musiikin-teoria-1/notation/clefs"
+  },
   "verdict": "FIX"
  },
  "lehmann-twelve-endings-on-n": {
@@ -2489,24 +2559,30 @@
   "checked": "2026-11-12",
   "course": "other-languages",
   "lesson": "ol-4-figure",
-  "second": null,
-  "unsettled": "no independent second source reached; the new text rests on the card (McDermott, America Magazine, 2022) alone",
+  "second": {
+   "says": "\"first performed during a Christmas concert by the student choir of the University of Kyiv on Dec. 29, 1916.\"",
+   "source": "Mia Billetdeaux, \"Carol of the Bells: the classic, and Ukrainian, Christmas song\", The Kyiv Independent (5 December 2024)",
+   "url": "https://kyivindependent.com/from-a-ukrainian-village-to-home-alone-carol-of-the-bells"
+  },
   "verdict": "FIX"
  },
  "leopold-mozart-palsy": {
   "card": {
    "source": {
-    "en": "L. Mozart, Violin Playing (1756), tr. Knocker",
-    "es": "L. Mozart, Violin Playing (1756), trad. de Knocker"
+    "en": "L. Mozart, Versuch einer gründlichen Violinschule (Augsburg, 1756), ch. 11, §3, Internet Archive",
+    "es": "L. Mozart, Versuch einer gründlichen Violinschule (Augsburgo, 1756), cap. 11, §3, Internet Archive"
    },
-   "url": "https://archive.org/details/treatiseonfundam0000moza"
+   "url": "https://archive.org/details/versucheinergrnd00moza"
   },
   "checked": "2026-11-12",
   "course": "vibrato",
   "lesson": "vib-4-switch",
-  "second": null,
-  "unsettled": "card never opened: Knocker's translation is lending-only and the German original (Deutsches Textarchiv) could not be read, so the \"palsy\" wording is unchecked; the card stays",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "\"Performers there are who tremble consistently on each note as if they had the palsy.\"",
+   "source": "L. Mozart, A Treatise on the Fundamental Principles of Violin Playing, tr. Knocker (1948; 2nd ed. 1951)",
+   "url": "https://archive.org/details/treatiseonfundam0000moza"
+  },
+  "verdict": "FIX"
  },
  "less-feedback-sticks": {
   "card": {
@@ -2583,9 +2659,12 @@
   "checked": "2026-11-12",
   "course": "gospel-runs",
   "lesson": "gr-2-challenge",
-  "second": null,
-  "unsettled": "no independent second source found for the new text; it rests on Titon (Smithsonian Folklife Festival program, 1997) alone",
-  "verdict": "FIX"
+  "second": {
+   "says": "\"'Lining out,' also called Dr. Watts hymn singing, refers to hymns sung to a limited selection of familiar tunes, intoned a line at a time by a leader and taken up in turn by the congregation\"; \"the current practice of lining out among some Baptist congregations in the American South today\"",
+   "source": "William T. Dargan, Lining Out the Word: Dr. Watts Hymn Singing in the Music of Black Americans (University of California Press, 2006), publisher's description",
+   "url": "https://www.ucpress.edu/books/lining-out-the-word/hardcover"
+  },
+  "verdict": "OK"
  },
  "long-hoist-slack-rope": {
   "card": {
@@ -2698,8 +2777,11 @@
   "checked": "2026-11-12",
   "course": "ear",
   "lesson": "ear-2-steps",
-  "second": null,
-  "unsettled": "second source not opened: Touma, The Music of the Arabs (1996), p. 23, is a lending-only scan, quoted via Wikipedia's citation",
+  "second": {
+   "says": "Intervals \"approximating ... three-quarter-tones (~150 cents)\"; \"pitch values vary according to melodic direction, phrase position, and regional performance practice\"; \"performers adjust pitch levels in maqâmât such as Râst and Sîkâh\" (citing Marcus 1993 and Ayari and McAdams 2003); \"actual performance values may vary by performer, region\".",
+   "source": "Mohammed Al-Derbi and Ayat Al Matani, \"A frequency-based comparative analysis of Arabic maqâmât and the Western equal-tempered system\", Rast Musicology Journal 14(2) (2026), 313-349",
+   "url": "https://dergipark.org.tr/en/pub/rastmd/article/1932527"
+  },
   "verdict": "FIX"
  },
  "masefield-runaway-chorus": {
@@ -2978,9 +3060,12 @@
   "checked": "2026-11-12",
   "course": "breath",
   "lesson": "br-3-challenge",
-  "second": null,
-  "unsettled": "no independent second source opened: Henle (the card) dates it to 1781 in Vienna; the Köchel catalogue or the NMA preface not opened",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "Dating 1781 to 1782 (both marked presumed), place of composition Vienna; first edition Torricella, Vienna, 1785.",
+   "source": "Köchel Catalogue online (Internationale Stiftung Mozarteum), KV 265",
+   "url": "https://kv.mozarteum.at/en/work/twelve-variations-in-c-on-4057"
+  },
+  "verdict": "OK"
  },
  "mozart-voice-naturally-tremulous": {
   "card": {
@@ -3141,16 +3226,19 @@
  "old-english-f-v-one-letter": {
   "card": {
    "source": {
-    "en": "Wikipedia, Old English phonology",
-    "es": "Wikipedia, Old English phonology"
+    "en": "Society for Name Studies in Britain and Ireland, \"Old English pronunciation\"",
+    "es": "Society for Name Studies in Britain and Ireland, \"Old English pronunciation\" (en inglés)"
    },
-   "url": "https://en.wikipedia.org/wiki/Old_English_phonology"
+   "url": "https://www.snsbi.org.uk/exploring-names/old-english-pronunciation/"
   },
   "checked": "2026-11-12",
   "course": "diction",
   "lesson": "di-3-buzz",
-  "second": null,
-  "unsettled": "card never opened: no non-Wikipedia source reached; the current Wikipedia card stays and needs a modern grammar (Mitchell and Robinson, or Hogg), not Sweet's 1905 Primer, which gives the older view",
+  "second": {
+   "says": "\"In Old English (OE) the phonetically voiced ([v ð z ɣ]) and voiceless fricatives ([f θ s x]) were in complementary distribution\"; fricatives \"can only become voiced in voiced environments\" (giving Hogg 2011 as the standard account); modern remnants wolf/wolves, house/houses.",
+   "source": "Attila Starčević, \"The phonologically voiceless fricatives of Old English (noch einmal)\", English Language and Linguistics 30(2) (Cambridge University Press, 2025, open access)",
+   "url": "https://www.cambridge.org/core/journals/english-language-and-linguistics/article/phonologically-voiceless-fricatives-of-old-english-noch-einmal/D6B3E69D13ABF43EACC9590EFE475DFC"
+  },
   "verdict": "SOURCE"
  },
  "old-mill-stream-1908": {
@@ -3232,8 +3320,11 @@
   "checked": "2026-11-12",
   "course": "ear",
   "lesson": "ear-2-fourfive",
-  "second": null,
-  "unsettled": "second source not opened: Britannica, \"Organum\" (c. 900, a fourth or fifth below) was read only through search-result quotes (direct fetch blocked); the card (Norton) was read in full",
+  "second": {
+   "says": "\"Sometime around the middle of the ninth century ... some singing teachers whose identities remain anonymous organized two basic handbooks\"; the treatises give \"the earliest description of polyphonic singing\"; fourth, fifth and octave \"were employed with suave effect in organal singing of chant\"",
+   "source": "Sarah Fuller, review of Musica enchiriadis and Scolica enchiriadis, trans. Erickson, Music Theory Online 3.1 (1997)",
+   "url": "https://mtosmt.org/issues/mto.97.3.1/mto.97.3.1.fuller.php"
+  },
   "verdict": "FIX"
  },
  "pachelbel-true-canon": {
@@ -3252,21 +3343,6 @@
    "source": "Neidhöfer and Schubert, Baroque Counterpoint (SUNY Press, 2023)",
    "url": "https://books.google.com/books?id=VTbhEAAAQBAJ"
   },
-  "verdict": "SOURCE"
- },
- "parsons-code-ups-and-downs": {
-  "card": {
-   "source": {
-    "en": "Time, \"Music: Name That Tune\" (1975)",
-    "es": "Time, \"Music: Name That Tune\" (1975)"
-   },
-   "url": "https://time.com/archive/6846882/music-name-that-tune/"
-  },
-  "checked": "2026-11-12",
-  "course": "ear",
-  "lesson": "ear-1-updown",
-  "second": null,
-  "unsettled": "the \"over 14,000\" count rests on Time (1975) alone; the book itself (archive.org directoryoftunes0000pars) is lending-only, its catalog record confirms only author, title and year",
   "verdict": "SOURCE"
  },
  "patter-pater-noster": {
@@ -3584,9 +3660,12 @@
   "checked": "2026-11-12",
   "course": "range",
   "lesson": "range-2-challenge",
-  "second": null,
-  "unsettled": "NCVS (the card) says it exactly, but the second source opened (Harries et al., Archives of Disease in Childhood, 1997) backs only the speed of the change, not the ages or the steadier low notes",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "\"the average age of onset is 12.5 years\"; \"The maximum change in pitch occurs at the same time as the maximum growth, between Tanner stages 3 and 4\"; \"There tends to be more stability and less individual variation around the lower pitch range limit ... than around the upper pitch range limit\".",
+   "source": "J. Williams, \"Boiling frogs and tipping points: which sung pitch range is best for boys during voice change?\", ABCD journal (2020)",
+   "url": "https://abcd.org.uk/wp-content/uploads/2024/05/Boiling-frogs-Williams.pdf"
+  },
+  "verdict": "FIX"
  },
  "range-break-higher-going-up": {
   "card": {
@@ -3631,9 +3710,12 @@
   "checked": "2026-11-12",
   "course": "range",
   "lesson": "range-3-high",
-  "second": null,
-  "unsettled": "no independent second source opened: NCVS (the card) says it exactly; Gackle's studies of the adolescent female voice not opened",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "female voice change is characterized by \"increased breathiness or huskiness in the voice\", \"voice cracking\", and (proposed symptoms) \"insecurity of pitch\"",
+   "source": "Lynne Gackle, \"The Adolescent Female Voice: Characteristics of Change and Stages of Development\", Choral Journal (March 1991)",
+   "url": "https://acda-publications.s3.us-east-2.amazonaws.com/choral_journals/March_1991_Gackle_L.pdf"
+  },
+  "verdict": "OK"
  },
  "range-phonetogram-soft": {
   "card": {
@@ -3660,9 +3742,12 @@
   "checked": "2026-11-12",
   "course": "range",
   "lesson": "range-1-low",
-  "second": null,
-  "unsettled": "no independent second source opened: NCVS (the card) says it exactly; Hollien and Michel, JSHR 1968, has no online abstract to check",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "creaky voice \"manifests as intervals of low-frequency glottal pulses\"; \"To the ear, it sounds low-pitched and like 'a rapid series of taps, like a stick being run along a railing'\"; auditory criteria include \"a train of separately resolvable glottal pulses\".",
+   "source": "Dallaston and Docherty, \"The quantitative prevalence of creaky voice (vocal fry) in varieties of English: A systematic review of the literature\", PLoS One (2020)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7065773/"
+  },
+  "verdict": "FIX"
  },
  "range-whistle-register": {
   "card": {
@@ -3744,9 +3829,12 @@
   "checked": "2026-11-12",
   "course": "gospel-runs",
   "lesson": "gr-3-bend",
-  "second": null,
-  "unsettled": "second source not reached: Schwartz (1979) or Greenberg (1998); the new text rests on the LOC National Recording Registry essay alone",
-  "verdict": "FIX"
+  "second": {
+   "says": "\"It was not until rehearsals of the Rhapsody began\"; \"as a joke on Gershwin, Gorman ... played the opening measure\" that way; \"Reacting favourably to Gorman's whimsy, Gershwin asked him to perform the opening measure that way at the concert.\"",
+   "source": "J. Wolfe and colleagues, \"How to play the first bar of Rhapsody in Blue\", School of Physics, UNSW Sydney",
+   "url": "https://phys.unsw.edu.au/jw/Rhapsody-in-Blue.html"
+  },
+  "verdict": "OK"
  },
  "rheingold-pedal": {
   "card": {
@@ -4072,9 +4160,12 @@
   "checked": "2026-11-12",
   "course": "sight-singing",
   "lesson": "ss-5-minor",
-  "second": null,
-  "unsettled": "\"a minor key's first note is always la\" rests only on the general moveable-syllable rule (Concise Oxford, tonic sol-fa); no shape-note rudiment opened says it. The 1801 date and four shapes are double-sourced (fasola.org; Little and Smith, The Easy Instructor, archive.org easyinstructoror00litt_0)",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "keys are known \"By the last note in the bass, which is always the key note or tonic. Should it be law, immediately below me, the tune is in a flat or minor key; but if faw, immediately above me, it is in a sharp or major key\"",
+   "source": "White and King, The Sacred Harp (1870 printing), rudiments",
+   "url": "https://archive.org/details/sacredharpcollec00king"
+  },
+  "verdict": "OK"
  },
  "sharp-sing-without-accompaniment": {
   "card": {
@@ -4093,21 +4184,20 @@
  "shaw-little-menlo-1888": {
   "card": {
    "source": {
-    "en": "New York Public Library Digital Collections, \"Edison white wax 'Perfected' era cylinders, Nos. 1 thru 22\", Rodgers and Hammerstein Archives of Recorded Sound (shelf *LT-10 9655), table of contents and notes; originals lent by the Edison National Historic Site, transferred to tape 27 August 1995",
-    "es": "New York Public Library Digital Collections, \"Edison white wax 'Perfected' era cylinders, Nos. 1 thru 22\", Rodgers and Hammerstein Archives of Recorded Sound (shelf *LT-10 9655), table of contents and notes; originals lent by the Edison National Historic Site, transferred to tape 27 August 1995"
+    "en": "WFMU, \"Thomas Edison's Attic\" playlist (28 December 2004), cylinder E-2440-08 from the Edison National Historic Site",
+    "es": "WFMU, \"Thomas Edison's Attic\", lista del 28 de diciembre de 2004, cilindro E-2440-08 del Edison National Historic Site"
    },
-   "url": "https://digitalcollections.nypl.org/items/1203be70-b910-0133-4350-60f81dd2b63c"
+   "url": "https://wfmu.org/playlists/shows/13720"
   },
   "checked": "2026-11-12",
   "course": "whistling",
   "lesson": "wh-1-start",
   "second": {
-   "says": "Alice Shaw, \"Whistling by Mrs. Shaw, Aug. 14, Little Menlo\", yellow paraffine cylinder E-2440-21, 1888",
-   "source": "WFMU, \"Thomas Edison's Attic\" playlist, 28 Dec. 2004 (the audio curator at Edison National Historic Site)",
-   "url": "https://wfmu.org/playlists/shows/13720"
+   "says": "whistling by Mrs. Shaw, 14 August 1888, Little Menlo, recorded by Gouraud and Walter H. Miller (read by the earlier checker in search-result text; NYPL refuses every fetch)",
+   "source": "New York Public Library catalog, \"Edison white wax 'Perfected' era cylinders, Nos. 1 thru 22\" (Rodgers and Hammerstein Archives of Recorded Sound)",
+   "url": "https://digitalcollections.nypl.org/items/1203be70-b910-0133-4350-60f81dd2b63c"
   },
-  "unsettled": "card page never opened: NYPL Digital Collections and its catalog refuse every fetch (bot wall); the date (14 Aug 1888) and place (Little Menlo, Gouraud) match the NYPL catalog's search-result text and the second source, but the 1995 tape transfer and shelf *LT-10 9655 on the card were not seen directly",
-  "verdict": "OK"
+  "verdict": "FIX"
  },
  "shell-voicings-third-seventh": {
   "card": {
@@ -4120,9 +4210,12 @@
   "checked": "2026-11-12",
   "course": "scat",
   "lesson": "sc-2-third",
-  "second": null,
-  "unsettled": "no independent second source for the Bud Powell and Bill Evans line (Levine, The Jazz Piano Book, not opened); the rest is checked word for word on the card",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "\"Shells consisting of only the third and the seventh\"; \"Two-note bass shells, sometimes referred to as Bud Powell voicings\"; \"Powell uses two-note bass shells on solo piano tracks\"; \"Bill Evans uses bass shells frequently in his solo piano recordings.\"",
+   "source": "Siskind, Playing Solo Jazz Piano, chapter B, \"Three Positions of the Left Hand\" (author's sample chapter)",
+   "url": "https://jeremysiskind.com/wp-content/uploads/2022/12/Chapter-B-1.pdf"
+  },
+  "verdict": "OK"
  },
  "shore-tuning-fork-1711": {
   "card": {
@@ -4367,9 +4460,12 @@
   "checked": "2026-11-12",
   "course": "improvising-harmony",
   "lesson": "imp-2-challenge",
-  "second": null,
-  "unsettled": "no independent second source found (Marsh 1880 and Pike 1873 do not mention Reid or the Willises); the card (OHS) cites Reid's own \"Sketch of the Life of Uncle Wallace\", Fisk Herald",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "\"Wallace and Minerva Willis sang for the students and missionaries ... among those pieces composed by the Spencer slaves in the academy's fields were 'Steal Away to Jesus,' ... and 'Swing Low, Sweet Chariot.'\"",
+   "source": "W. David Baird, \"Spencer Academy, Choctaw Nation, 1842-1900\", Chronicles of Oklahoma 45 (1967), p. 29",
+   "url": "https://georgiapioneers.com/backend/public/GB/okbooks/Chronicles%20of%20Oklahoma,%20Vol%2045%20(1967).pdf"
+  },
+  "verdict": "OK"
  },
  "steal-away-oberlin-1871": {
   "card": {
@@ -4392,17 +4488,20 @@
  "stop-time-tap-dancers": {
   "card": {
    "source": {
-    "en": "Wikipedia, Potato Head Blues (citing Brothers, Louis Armstrong: Master of Modernism (2014))",
-    "es": "Wikipedia, Potato Head Blues (citando a Brothers, Louis Armstrong: Master of Modernism (2014))"
+    "en": "Porter, Ullman and Hazell, Jazz: From Its Origins to the Present (1993)",
+    "es": "Porter, Ullman y Hazell, Jazz: From Its Origins to the Present (1993)"
    },
-   "url": "https://en.wikipedia.org/wiki/Potato_Head_Blues"
+   "url": "https://archive.org/details/jazzfromitsorigi00port"
   },
   "checked": "2026-11-12",
   "course": "scat",
   "lesson": "sc-2-finish",
-  "second": null,
-  "unsettled": "card never opened: the checker's candidate, Brothers, Louis Armstrong: Master of Modernism (2014), pp. 265-268 (https://archive.org/details/louisarmstrongma0000brot), is lending-only; the current card and text stay. Fallback if it can't be confirmed: drop the Sunset Cafe half and keep Potato Head Blues (Hot Seven, 1927)",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "Discusses \"the stop-time solo for Potato Head Blues\" (read through archive.org full-text search snippets of the lending scan).",
+   "source": "Brothers, Louis Armstrong: Master of Modernism (2014), \"Potato Head Blues and Stop Time\"",
+   "url": "https://archive.org/details/louisarmstrongma0000brot"
+  },
+  "verdict": "FIX"
  },
  "subglottal-pressure-pitch": {
   "card": {
@@ -4471,9 +4570,12 @@
   "checked": "2026-11-12",
   "course": "pitch",
   "lesson": "pp-3-pull",
-  "second": null,
-  "unsettled": "no independent second source reached: the UNESCO page would not load, and the other paper found (Velička, 2021) is by the card's own author",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "\"an unaccompanied vocal style, sung by female singers\"; \"the prevalence of dissonances (particularly 'squeezed' major seconds\"; \"the rough 'clashes' of the seconds are positively connoted and are appreciated for their 'bell-like' sound\".",
+   "source": "Armitage, Lahdelma, Eerola and Ambrazevičius, \"Culture influences conscious appraisal of, but not automatic aversion to, acoustically rough musical intervals\", PLoS One (2023)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10697574/"
+  },
+  "verdict": "FIX"
  },
  "swing-low-fisk-1872": {
   "card": {
@@ -4724,17 +4826,20 @@
  "troubled-water-bethesda": {
   "card": {
    "source": {
-    "en": "Wikipedia, Wade in the Water",
-    "es": "Wikipedia, Wade in the Water"
+    "en": "Richard Newman, Go Down, Moses: A Celebration of the African-American Spiritual (1998)",
+    "es": "Richard Newman, Go Down, Moses: A Celebration of the African-American Spiritual (1998)"
    },
-   "url": "https://en.wikipedia.org/wiki/Wade_in_the_Water"
+   "url": "https://archive.org/details/godownmosesceleb00rich"
   },
   "checked": "2026-11-12",
   "course": "belting",
   "lesson": "belting-4-wade",
-  "second": null,
-  "unsettled": "card never opened: the checker's card, Thurman, Deep River (1945), pp. 89-94 (https://archive.org/details/deepriverreflect00thur), is lending-only; the current Wikipedia card stays. The Gospel side is confirmed by KJV John 5:4, 5:7 (https://www.gutenberg.org/ebooks/10)",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "\"The phrase 'trouble the water' echoes John 5:4\"",
+   "source": "Blount et al. (eds.), True to Our Native Land: An African American New Testament Commentary (Fortress, 2007)",
+   "url": "https://archive.org/details/truetoournativel0000unse"
+  },
+  "verdict": "FIX"
  },
  "tutwiler-knife-guitar": {
   "card": {
@@ -4785,16 +4890,19 @@
  "twinkle-printed-1761": {
   "card": {
    "source": {
-    "en": "Wikipedia, Ah! vous dirai-je, maman",
-    "es": "Wikipedia, Ah! vous dirai-je, maman"
+    "en": "Britannica, on whether Mozart wrote Twinkle",
+    "es": "Britannica, sobre si Mozart escribió Twinkle (en inglés)"
    },
-   "url": "https://en.wikipedia.org/wiki/Ah!_vous_dirai-je,_maman"
+   "url": "https://www.britannica.com/story/did-mozart-write-twinkle-twinkle-little-star"
   },
   "checked": "2026-11-12",
   "course": "ear",
   "lesson": "ear-1-challenge",
-  "second": null,
-  "unsettled": "card never opened: Britannica's \"Did Mozart Write Twinkle, Twinkle, Little Star?\" blocks fetches and was read only through search-result quotes; the checker's FIX (\"The earliest known printing of Twinkle's tune is from Paris, in 1761, without words.\", house rule: not \"first printed\") and the Britannica card are not applied; the current Wikipedia card and text stay. A second source was read in full: Kurt von Fischer, preface to Mozart K. 265, Barenreiter (https://www.barenreiter.co.uk/prefaces/9790006524365_Innenansicht.pdf): the theme \"was known in Paris at least from 1761\".",
+  "second": {
+   "says": "\"The anonymous theme Ah, vous dirai-je Maman was known in Paris at least from 1761\"",
+   "source": "Kurt von Fischer, preface to Mozart, Twelve Variations on \"Ah, vous dirai-je Maman\" K. 265, Bärenreiter Urtext (New Mozart Edition)",
+   "url": "https://www.barenreiter.co.uk/prefaces/9790006524365_Innenansicht.pdf"
+  },
   "verdict": "FIX"
  },
  "up-she-rises-1841": {
@@ -4808,8 +4916,11 @@
   "checked": "2026-11-12",
   "course": "live-looping",
   "lesson": "ll-3-sailor",
-  "second": null,
-  "unsettled": "the 1841 printing is checked on the primary scan; \"earliest known\" rests on folklorists not opened (Hugill; the Roud index page would not load)",
+  "second": {
+   "says": "Doerflinger \"gives a certain Francis Allyn Olmstead as the first man ... to publish shanties with their tunes\"; \"The two shanties he gives with tunes are Drunken Sailor and Nancy Fanana.\"",
+   "source": "Hugill, Shanties from the Seven Seas (1961)",
+   "url": "https://archive.org/details/bwb_P8-AFD-430"
+  },
   "verdict": "OK"
  },
  "vaccai-appoggiatura-value": {
@@ -5105,9 +5216,12 @@
   "checked": "2026-11-12",
   "course": "other-languages",
   "lesson": "ol-4-swallow",
-  "second": null,
-  "unsettled": "no independent second source reached (the 1936 Carl Fischer print or a library record); the card (America Magazine, 2022) supports every point",
-  "verdict": "SOURCE"
+  "second": {
+   "says": "\"Carol of the bells; Ukrainian carol, Christmas, m M. Leontovich, w and arr. of m Peter J. Wilhousky; mixed voices; pf. or organ acc. © Nov. 21, 1936; E pub. 60239; Carl Fischer, inc., New York.\"",
+   "source": "Library of Congress, Catalog of Copyright Entries, Part 3: Musical Compositions, 1937 (vol. 32), entry 3076",
+   "url": "https://archive.org/details/catalogofcopyrig323libr"
+  },
+  "verdict": "OK"
  },
  "willcocks-descant-1961": {
   "card": {

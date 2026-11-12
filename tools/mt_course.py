@@ -333,7 +333,7 @@ def mt_3_bright():
     ex = {"tempo": 88, "notes": line, "turn": False, "chords": buttercup_chords(line, L2), "keep": "mt.bright"}
     return {
         "id": "mt-3-bright", "title": EN("Bright, like talking"),
-        "fact": fact("higgins-spoken-melody", "When My Fair Lady opened on Broadway in 1956, Rex Harrison's music as Henry Higgins was \"written without sustained notes and with natural tonal patterns\": \"a spoken part that happens to have a melody\".", "Wikipedia, My Fair Lady", "https://en.wikipedia.org/wiki/My_Fair_Lady"),
+        "fact": fact("higgins-talk-singing", "Rex Harrison had never sung onstage before he played Henry Higgins in My Fair Lady (1956). He talked his way through the songs, keeping the melody but using as many or as few of its notes as he liked.", "Jeff Lunden, \"NPR 100: My Fair Lady\", NPR (15 July 2000)", "https://www.npr.org/2000/07/15/1079541/nprs-100-my-fair-lady"),
         "steps": [
             learn("Say the line as if calling to a friend across a room, at speaking volume, then sing it that way. Bright is not belt. First steps to belting is the first step; full belt is for later, with a teacher.",
                   [("Call across the room", "Speaking volume, speech vowels"), ("Then sing it", "Near your comfortable note"), ("Stop if", "It scratches or tickles: sing it the legit way")]),
