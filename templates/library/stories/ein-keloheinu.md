@@ -1,0 +1,126 @@
+---
+title: "Ein Keloheinu: history, meaning and the words explained"
+description: Ein Keloheinu comes near the end of the Sabbath morning service. Its first verses hide the word Amen; its tune was printed in Braunschweig in 1843.
+lead: Ein Keloheinu, "There is none like our God", is a short Hebrew hymn from the end of the Sabbath and festival morning service. Its tune here was written for the synagogue of Braunschweig, Germany.
+words: Traditional Hebrew liturgy, from the time of the Geonim; known from Amram Gaon's prayer book (9th century)
+tune: Julius Freudenthal (1805 to 1874)
+earliestPrinting: 1843, the tune, in Hirsch Goldberg's songbook for the Braunschweig synagogue
+earliestPrintingSource: idel29
+language: Hebrew
+origin: Braunschweig, Germany (the tune)
+occasion: End of the Sabbath and festival morning service (Ashkenazi); weekday mornings too (Sephardi)
+alsoKnownAs: En Kelohenu, Ayn Kaylohaynu, Ein Ke-Elohenu
+wikidata: Q3049440
+quote: Ein kelokeinu, ein kadoneinu, ein kemalkenu, ein k'moshienu.
+updated: 2026-11-12
+checked: 2026-11-12
+reviewed: true
+searches: ein keloheinu meaning | ein keloheinu translation | ein keloheinu prayer | ein keloheinu lyrics | ein keloheinu song
+---
+
+Ein Keloheinu is a Hebrew hymn of five short verses that praise God by four titles: our God, our Lord, our King, our Saviour. In the Ashkenazi rite it comes at the close of the additional service on Sabbaths and festivals; Sephardi Jews say it on weekdays as well.[^ej][^huji] Nobody knows who wrote it, but it is already in the prayer book of Amram Gaon, from the ninth century.[^ej][^milken] Its words are older than any tune, so composers keep setting them: the Union Hymnal, an American Reform hymnal of 1897, printed four different settings, one after another.[^je][^uh1897][^uh1932] The tune we sing is the one Julius Freudenthal wrote for the synagogue of Braunschweig, printed there in 1843.[^idel29][^austerklein]
+
+## Where it comes from
+
+**The words.** The hymn comes from the early Middle Ages, the period of the Geonim.[^huji][^posen] Its earliest known appearance is in the prayer book of Amram Gaon, in the ninth century.[^ej][^milken] Its verses there stand in another order: the Jewish Encyclopedia of 1903 thought it opened with the question, "Who is like our God?", and only then answered, "There is none like our God".[^je][^ej] The two encyclopedias disagree on when today's order settled. The Jewish Encyclopedia says the hymn had its present form by the time of Rashi, who remarked on its acrostic; the Encyclopaedia Judaica says Rashi's prayer book still had the stanzas in a different sequence.[^je][^ej]
+
+That acrostic hides a word in the hymn's opening letters. The first letters of the first three verses, Ein, Mi and Node, spell Amen. The last two verses open with Baruch and Ata, "Blessed are You", the words that begin every Jewish blessing.[^je][^ej][^miller]
+
+**The tune.** Julius Freudenthal was born in Braunschweig in 1805 and died there in 1874. He was a leading violinist in the Duke of Brunswick's court orchestra and became court music director.[^adb][^idel29][^nds] In 1842 the city's Jewish community took on a new cantor, Hirsch Goldberg, and the two men modernized the synagogue's singing together.[^idel29][^nds] Goldberg published the result in 1843: a book of songs for the cantor and a small choir in two parts. A. Z. Idelsohn, the historian of Jewish music, wrote in 1929 that Freudenthal gave it several tunes, "especially his famous tune for En Kelohenu", which Idelsohn dated to 1841.[^idel29][^austerklein]
+
+The first edition sold out in barely a year, Goldberg wrote in the second, of 1845, which carries a foreword by Freudenthal.[^bs1845] There the tune is No. 2 of two settings of the hymn, signed only "J. F.", in the Sabbath morning pages right after the additional service. The choir sings verses 1, 3 and 5 in two parts, and the cantor answers alone with verses 2 and 4, to a second strain of the tune.[^bs1845]
+
+From Germany the tune crossed to America. The Union Hymnal of the Central Conference of American Rabbis, made for Reform congregations, printed it in four voices in 1897 as the first of its four settings of the hymn, with no composer on the page and only "German" in the index.[^uh1897][^uh1932][^idel29] Its third edition, of 1932, sets it in the music for the Sabbath morning service and names Julius Freudenthal.[^uh1932]
+
+**Myth and record.** Often told: this tune, like other German synagogue tunes, began as an old German drinking song.[^austerklein] What the record shows: a named court musician wrote it for the Braunschweig synagogue, and the synagogue's own songbook printed it; the 1897 hymnal's index, naming no composer, says only "German".[^idel29][^bs1845][^uh1897] Idelsohn heard in its first part a likeness to a German church melody of 1774, and printed them together in a table. A 2008 master's thesis on the Braunschweig synagogue's music, from the University of Potsdam, rejects that borrowing.[^idel29][^austerklein]
+
+### Timeline
+
+- 9th century: the hymn is in the prayer book of Amram Gaon, in another order. [^ej][^milken]
+- 1805: Julius Freudenthal is born in Braunschweig. [^adb][^idel29]
+- 1843: Hirsch Goldberg's songbook for the Braunschweig synagogue prints Freudenthal's tune. [^idel29][^austerklein]
+- 1845: the second edition signs the tune "J. F."; the choir and the cantor take turns. [^bs1845]
+- 1874: Freudenthal dies in Braunschweig. [^adb][^idel29]
+- 1897: the Union Hymnal prints it in four voices, its source given as "German". [^uh1897]
+- 1932: the Union Hymnal's third edition credits Freudenthal. [^uh1932]
+
+## What the words mean
+
+The hymn is built from four titles. Each verse runs through the same four titles of God, Elokeinu, our God; Adoneinu, our Lord; Malkeinu, our King; Moshienu, our Saviour, and changes only the word in front.[^je][^mjl]
+
+**Verse 1.** There is none like our God, none like our Lord, none like our King, none like our Saviour. Ke- means "like".
+
+**Verse 2.** Who is like our God, our Lord, our King, our Saviour? The question comes after its answer; in Amram's day, as the Jewish Encyclopedia reads it, the question came first.[^je]
+
+**Verse 3.** We give thanks to our God, our Lord, our King, our Saviour. Node means "we thank".
+
+**Verse 4.** Blessed is our God, our Lord, our King, our Saviour.
+
+**Verse 5.** You are our God, our Lord, our King, our Saviour. The hymn ends by speaking to God directly. In the Ashkenazi prayer book a further line follows, recalling the incense the ancestors offered, which leads into the passage on the Temple incense read next.[^je][^posen]
+
+The page shows our words in modern Israeli pronunciation. The 1897 hymnal spelled them the Ashkenazi way, "En Kelohenu", "Boruch", "Atto hu", with the same syllables under the same notes.[^uh1897] We sing God's names in the substituted forms, Kelokeinu and Elokeinu, with a k in place of the h: it is the custom not to say God's name in full outside prayer, and a practice song is outside prayer. The title keeps the spelling the prayer is known by, Ein Keloheinu: the custom is about saying the name aloud, and a title is read, not sung.
+
+## How it is sung
+
+In the Ashkenazi rite Ein Keloheinu follows the additional service, Musaf, on Sabbaths and festivals; in the Sephardi rite it ends the weekday morning service too.[^ej][^huji] It was also sung at home, at the Sabbath table.[^je][^huji] The medieval commentator Rashi recorded the Ashkenazi custom of keeping it for Sabbaths and festivals. The Encyclopaedia Judaica gives his reason: the Sabbath Amidah, the central prayer, has seven blessings in place of the weekday nineteen, and the hymn's praises make up some of the difference.[^ej][^posen][^mjl]
+
+Freudenthal's tune moves in short, even phrases, and in Braunschweig it was a dialogue between choir and cantor.[^bs1845] The Union Hymnal turned it into a plain four-part hymn for the whole choir, all five verses.[^uh1897]
+
+Our arrangement is read from the 1897 Union Hymnal, No. 17. The book prints it in F; we sing it a tone higher, in G, which happens to be the key of the Braunschweig book of 1845.[^uh1897][^bs1845] All five verses are sung in order, for 2 to 4 singers. Verses 1, 3 and 5 share the opening tune, and verses 2 and 4 take the second strain, the one the Braunschweig cantor once sang alone; verse 5 comes in after a bar's rest with a pickup note of its own.[^bs1845][^uh1897]
+
+## Versions and other words
+
+**Other tunes.** The 1897 Union Hymnal follows Freudenthal's tune with three more settings of the same words, by Louis Lewandowski, I. M. Japhet and Alois Kaiser.[^uh1897] The Braunschweig book of 1845 prints another setting just before his.[^bs1845] Sephardi congregations sing it to traditional melodies of their own.[^je][^milken]
+
+## Did you know?
+
+- The 1897 Union Hymnal prints four settings of Ein Keloheinu in a row, Nos. 17 to 20; no other hymn in its Hebrew section has more than two. [^uh1897]
+- In his preface of 1843, Goldberg wrote that his book spells the Hebrew halfway between the German and the Portuguese pronunciation: he meant to adopt the Portuguese fully, but not to leave behind singers who could not follow so fast. [^bs1845]
+
+## Singing it
+
+- [Soprano](/songs/ein-keloheinu/soprano): Freudenthal's tune, mostly on G and B. It climbs to its top E on "kemalkenu," in verse 1, "lemalkenu," in verse 3 and "malkenu," in verse 5, and dips to its low C-sharp only near the end of verses 2 and 4, on "ch'moshienu." and "moshienu.".
+- [Alto](/songs/ein-keloheinu/alto): under the tune, mostly a third or a sixth below, most often on D. It touches its low B on the opening "Ein", "Node" and "Ata hu", and on the very last "moshienu." it ends on its top B, a third above the tune.
+- [Tenor](/songs/ein-keloheinu/tenor): the middle of the chord, most often on A. It stays on A for about three quarters of verses 2 and 4, and rises to its top E on the last syllable of "kemalkenu," in verse 1 and "lemalkenu," in verse 3, just after the tune's high point, and on the last "ata" in verse 5.
+- [Bass](/songs/ein-keloheinu/bass): the bass line, mostly on the chords' roots and mostly on G and D. It drops to its low A only in verses 2 and 4, on "mi chadoneinu," and "ch'moshienu." and on "baruch adoneinu," and "moshienu.".
+
+## Questions
+
+### What does Ein Keloheinu mean?
+
+"There is none like our God." The hymn's five verses say there is none like our God, our Lord, our King, our Saviour; ask who is like our God; give thanks to our God; bless our God; and end, "You are our God". The first letters of the first three verses spell Amen.[^je][^ej][^mjl]
+
+### Who wrote Ein Keloheinu?
+
+Nobody knows who wrote the words. They come from the period of the Geonim, and their earliest known appearance is in Amram Gaon's ninth-century prayer book. The tune we sing is by Julius Freudenthal of Braunschweig, printed there in 1843; the 1932 Union Hymnal names him.[^ej][^milken][^idel29][^uh1932]
+
+### When is Ein Keloheinu said?
+
+At the end of the Sabbath and festival service in Ashkenazi synagogues, right after Musaf. Sephardi Jews say it on weekdays too, at the close of the morning service. It has also been sung at home, at the Sabbath table.[^ej][^huji][^je]
+
+### Which part sings the tune?
+
+The soprano sings Freudenthal's tune throughout, up to its top E on "kemalkenu," in verse 1. With two singers it is soprano and alto, the alto mostly a third or sixth below; with three the bass joins, and with four the tenor fills the middle of each chord.
+
+## Sing next
+
+- [Maoz Tzur](/songs/maoz-tzur): the Hanukkah hymn, whose tune the same 1897 Union Hymnal prints with English words, "Rock of Ages".
+- [Adon Olam](/songs/adon-olam): another Hebrew hymn printed in four voices for the synagogue in 1897.
+- [Eliyahu HaNavi](/songs/eliyahu-hanavi): a song for the close of the Sabbath, a good next step in Hebrew.
+
+## Sources
+
+- [^je]: Cyrus Adler and Francis L. Cohen, "En Kelohenu", *The Jewish Encyclopedia*, vol. 5 (Funk and Wagnalls, 1903), pp. 154 to 155. https://www.jewishencyclopedia.com/articles/5744-en-kelohenu
+- [^ej]: Meir Ydit, "Ein Ke-Elohenu", *Encyclopaedia Judaica*, 2nd ed. (Macmillan Reference USA, 2007), via Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/ein-ke-elohenu
+- [^huji]: Jewish Music Research Centre, Hebrew University of Jerusalem, "Ein Ke'eloheinu" (in Hebrew). https://jewish-music.huji.ac.il/he/node/21819
+- [^posen]: "There is None Like Our God (En kelohenu)", translated by Gabriel Wasserman, *The Posen Library of Jewish Culture and Civilization*, vol. 3 (Yale University Press). https://www.posenlibrary.com/node/13075
+- [^milken]: Milken Archive of Jewish Music, "Ein keloheinu", *Jewish Voices in the New World*. https://www.milkenarchive.org/music/volumes/view/jewish-voices-in-the-new-world/work/ein-keloheinu
+- [^mjl]: Rachel Scheinerman, "Ein Keloheinu: A Blessing Explosion", *My Jewish Learning*. https://www.myjewishlearning.com/article/ein-keloheinu-a-blessing-explosion/
+- [^miller]: Mordecai Miller, "The Mystery of 'Eyn Keloheinu'", *Exploring Judaism*. https://www.exploringjudaism.org/?p=6874
+- [^idel29]: A. Z. Idelsohn, *Jewish Music in its Historical Development* (Henry Holt, 1929), pp. 238 to 239, 289 and 324. https://archive.org/details/jewishmusicinits00idel_0
+- [^adb]: Ludwig Ferdinand Spehr, "Freudenthal, Julius", *Allgemeine Deutsche Biographie*, vol. 7 (1878), pp. 355 to 356, via Deutsche Biographie. https://www.deutsche-biographie.de/sfz17099.html
+- [^nds]: "Goldberg, Hirsch", *Niedersächsische Personen* (Niedersächsische Bibliographie, revised 2016). https://personen.niedersaechsische-bibliographie.de/person/1786823810
+- [^bs1845]: H. Goldberg, *Gesänge für Synagogen, eingeführt in der Synagoge zu Braunschweig*, 2nd ed., with a foreword by Musikdirector Freudenthal (Braunschweig: Friedrich Vieweg und Sohn, 1845), title page, prefaces pp. VIII and IX, and "En kelohenu" Nos. 1 and 2, pp. 17 to 19, via Penn Libraries. https://colenda.library.upenn.edu/catalog/81431-p3v11w261
+- [^austerklein]: Matt Austerklein, "Not a German Drinking Song", *Austerklein* (Substack, 8 June 2026). https://mattausterklein.substack.com/p/not-a-german-drinking-song
+- [^uh1897]: Central Conference of American Rabbis, *Union Hymnal* (1897), Appendix A, Nos. 17 to 20, "En Kelohenu", pp. 140 to 147, and index, p. 218. https://archive.org/details/unionhymnal0000unse_l7i5
+- [^uh1932]: Central Conference of American Rabbis, *Union Hymnal*, third edition (copyright 1932; 1936 printing), preface, p. v, and No. 292, "Ayn Kaylohaynu", p. 330, Morning Service for the Sabbath. https://archive.org/details/unionhymnal00cent
