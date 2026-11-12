@@ -3309,8 +3309,8 @@
                             "listen": {
                                 "tempo": 84,
                                 "notes": [
-                                    {"beat": 1, "length": 0.5, "step": -11, "lyric": "'Tis"},
-                                    {"beat": 1.5, "length": 0.5, "step": -11, "lyric": "the"},
+                                    {"beat": 0, "length": 1, "step": -11, "lyric": "'Tis"},
+                                    {"beat": 1, "length": 1, "step": -11, "lyric": "the"},
                                     {"beat": 2, "length": 1, "step": -6, "lyric": "gift"},
                                     {"beat": 3, "length": 0.5, "step": -6, "lyric": "to"},
                                     {"beat": 3.5, "length": 0.5, "step": -4, "lyric": "be"},
@@ -3381,15 +3381,15 @@
                                 "notes": [
                                     {"beat": 0, "length": 2, "step": -6, "listenOnly": true},
                                     {
-                                        "beat": 5,
-                                        "length": 0.5,
+                                        "beat": 4,
+                                        "length": 1,
                                         "step": -6,
                                         "choices": [-6, -2],
                                         "lyric": "'Tis"
                                     },
                                     {
-                                        "beat": 5.5,
-                                        "length": 0.5,
+                                        "beat": 5,
+                                        "length": 1,
                                         "step": -6,
                                         "choices": [-6, -2],
                                         "lyric": "the"
@@ -3673,8 +3673,8 @@
                                 "with": [
                                     {
                                         "notes": [
-                                            {"beat": 5, "length": 0.5, "step": -11},
-                                            {"beat": 5.5, "length": 0.5, "step": -11},
+                                            {"beat": 4, "length": 1, "step": -11},
+                                            {"beat": 5, "length": 1, "step": -11},
                                             {"beat": 6, "length": 1, "step": -6},
                                             {"beat": 7, "length": 0.5, "step": -6},
                                             {"beat": 7.5, "length": 0.5, "step": -4},
