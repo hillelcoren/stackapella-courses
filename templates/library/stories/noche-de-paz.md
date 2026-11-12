@@ -50,7 +50,7 @@ Noche de paz, "night of peace", is Silent Night in Spanish: Franz Xaver Gruber's
 
 Mohr wrote six German verses; the Spanish has three [^sng-text][^h1893]. They are a free version, not a line-by-line translation, and they seem to draw on both the German and the English. The first verse's "Todo duerme", all is asleep, is Mohr's "Alles schläft", which John Freeman Young's English of 1859 leaves out [^mohr-ms][^young]. The third verse's light on the child's face is nearer Young's "thy holy face" than Mohr's "göttlichen Mund", divine mouth [^young][^mohr-ms]. Their order, Mohr's first, sixth and second verses, is the one German printings had used since about 1833 and Young's English kept [^young][^sng-text]. The light in the sky, in the first and third Spanish verses, is the Spanish writer's own: neither Mohr's first verse nor Young's has it [^mohr-ms][^young].
 
-**Verse 1.** Night of peace, night of love: all around, everything sleeps. "Derredor" means around. "Astros" are the lights of the sky, "esparcen" means they scatter, and "niñito" is a fond word for a little child. Among those lights, one, beautiful, shines out, the light of peace, telling of the baby Jesus.
+**Verse 1.** Night of peace, night of love: all around, everything sleeps. "Derredor" means around. "Astros" are the lights of the sky, "esparcen" means they scatter, and "niñito" is a fond word for a little child. Among those lights, one, beautiful, shines out, the star of peace, telling of the baby Jesus.
 
 **Verse 2.** In the field, to the shepherd, choirs from heaven proclaim "salud", here in its old sense of salvation, with thanks and glory in their "plenitud", fullness, for "nuestro buen Redentor", our good Redeemer. It is the shepherds' night from Luke's Gospel, where an angel brings the news and a host from heaven sings glory to God [^luke2]. In 1915 the second line became "Oye humilde el fiel pastor", the humble, faithful shepherd hears, and "proclaman" and "en su plenitud" became "que anuncian" and "en gran plenitud" [^h1915][^h1893].
 
@@ -66,7 +66,7 @@ Night of peace, night of love!
 > Todo duerme en derredor.
 All around, everything sleeps.
 > Entre los astros que esparcen su luz,
-Among the lights of heaven that scatter their light,
+Among the heavenly bodies that scatter their light,
 > Bella anunciando al niñito Jesús,
 lovely, telling of the little child Jesus,
 > Brilla la estrella de paz,
