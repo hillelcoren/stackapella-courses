@@ -51,10 +51,10 @@ El libro imprime dos estrofas, y cantamos las dos y luego otra vez la primera.[^
 - *Oy, Khanike, oy Khanike, a yontev a sheyner*: oh Janucá, oh Janucá, una fiesta preciosa. Khanike es la forma ídish de Janucá; a yontev, del hebreo yom tov, "buen día", es una fiesta.
 - *a lustiker, a freylekher, nito nokh azoyner*: una fiesta alegre, una fiesta feliz, no hay otra igual.
 - *Ale nakht in dreydlekh shpiln mir*: cada noche jugamos con dreidels, las peonzas de Janucá.
-- *zudik heyse latkes est on a shier*: come latkes calientes que chisporrotean, sin fin. On a shier es "sin medida".
+- *zudik heyse latkes est on a shier*: a comer latkes calientes que chisporrotean, sin fin. On a shier es "sin medida".
 - *geshvinder tsindt, kinder, di dininke likhtelekh on*: deprisa, niños, a encender las velitas finas.
 - *Zogt al hanisim, loybt Got far di nisim*: a decir Al hanisim, a alabar a Hashem por los milagros. Al hanisim, "por los milagros", es la acción de gracias que en Janucá se añade a las oraciones diarias y a la bendición después de las comidas.[^ejalh][^shab24][^jehan]
-- *un kumt gikher tantsn in kon*: y a bailar deprisa en el corro. Un kon es la figura o el corro de un baile.[^harkavy][^league]
+- *un kumt gikher tantsn in kon*: y a venir deprisa a bailar en el corro. Un kon es la figura o el corro de un baile.[^harkavy][^league]
 
 **Estrofa 2.**
 - *Yehude hot fartribn dem soyne, dem rotseyekh*: Judá expulsó al enemigo, al asesino.

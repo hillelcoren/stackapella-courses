@@ -52,7 +52,7 @@ En los libros de oraciones el estribillo sigue: "bimhera yavo eleinu im mashiach
 
 **En la Havdalah.** El sábado por la noche, cuando termina el sabbat, se dice la Havdalá ("separación") sobre el vino, las especias y una llama.[^jehab][^abrahams] Después es costumbre cantar himnos, y Eliyahu HaNavi es de los más conocidos, junto a Ha-Mavdil.[^ejhav][^jehab] El Rema recoge la costumbre de invocar a Elías el sábado por la noche, rezando para que venga y anuncie la redención.[^sa295][^mb295] En el libro de oraciones Edot HaMizrach, del rito sefardí y mizrají, algunos dicen el poema antes de la Havdalá.[^edot][^jehab] Hoy la mayoría canta solo el estribillo, observan las notas del Milken Archive.[^milken]
 
-**En el séder.** Después de la bendición que sigue a la comida y de la tercera copa de vino, con la copa de Elías en la mesa, se abre la puerta.[^zivotofsky][^milken][^uh1923] Muchos dicen los versículos que empiezan "Shefokh chamatkha", "Derrama tu ira", mientras está abierta.[^zivotofsky][^sa480] Eliyahu HaNavi suele cantarse entonces, con la puerta abierta.[^milken][^merwin]
+**En el séder.** Después de la bendición que sigue a la comida y de la tercera copa de vino, con la copa de Elías en la mesa, se abre la puerta.[^zivotofsky][^milken][^uh1923] Muchos dicen los versículos que empiezan "Shefokh chamatkha", "Derrama Tu ira", mientras está abierta.[^zivotofsky][^sa480] Eliyahu HaNavi suele cantarse entonces, con la puerta abierta.[^milken][^merwin]
 
 **Nuestro arreglo.** Tomamos la melodía y la letra de la página 401 del libro de Idelsohn, una melodía sola, Moderato, en Mi menor, y la cantamos una tercera menor más alta, en Sol menor, en 3/4.[^idel1929] Cantamos la primera sección, la medida, hasta el Fine de la impresión, tres veces, la tercera en voz baja. Las cuatro voces son nuestras. Hemos marcado respiraciones para principiantes al final de "navi", "tishbi" y "giladi".
 
@@ -94,7 +94,7 @@ La soprano canta la melodía de principio a fin, tal como la imprimió Idelsohn,
 ## Canta después
 
 - [Shoshanat Yaakov](/songs/shoshanat-yaakov): su último verso termina con las mismas palabras, "zachur latov", recordado para bien.
-- [Adir Hu](/songs/adir-hu): otra canción del séder de Pésaj, que pide a Hashem que construya pronto su casa, en nuestros días.
+- [Adir Hu](/songs/adir-hu): otra canción del séder de Pésaj, que pide a Hashem que construya pronto Su casa, en nuestros días.
 - [Lecha Dodi](/songs/lecha-dodi): el himno del viernes por la noche que recibe al sabbat, igual que esta canción lo despide.
 
 ## Fuentes

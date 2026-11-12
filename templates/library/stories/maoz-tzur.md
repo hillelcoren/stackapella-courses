@@ -48,7 +48,7 @@ The title is the hymn's first words. Maoz is a stronghold or refuge, tzur is a r
 
 We sing stanzas 1 and 5.
 
-**Stanza 1 (sung).** Stronghold, rock of my salvation, it is right to praise You. Let my house of prayer, the Temple, stand again, and there we will bring an offering of thanks. When You make ready the slaughter of the foe who barks at us, then I will finish, with a psalm, the dedication of the altar. Chanukat, "dedication", is the festival's own name: Hanukkah is the Feast of Dedication.[^je][^melamed]
+**Stanza 1 (sung).** Stronghold, rock of my salvation, it is right to praise You. Let my house of prayer, the Temple, stand again, and there we will bring an offering of thanks. When You make ready the slaughter of the foe who barks at us, then with song and psalm I will complete the dedication of the altar. Chanukat, "dedication", is the festival's own name: Hanukkah is the Feast of Dedication.[^je][^melamed]
 
 **Stanza 2.** My soul had its fill of troubles, my life made bitter by hard labor under Egypt. With His great hand Hashem brought out His treasured people, and Pharaoh's army sank like a stone into the deep.[^id1912][^ej]
 

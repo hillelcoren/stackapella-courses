@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: lecha dodi significado | lecha dodi traducción | quién escribió lecha dodi | lecha dodi historia | lecha dodi letra en español | lecha dodi significado en hebreo
-translatedFrom: c30573537f59
+translatedFrom: 738ecb0bec9e
 ---
 
 Lecha Dodi, "Ven, amado mío", es el himno hebreo que recibe al sabbat el viernes por la noche. Forma parte de Kabbalat Shabbat, "recibir el sabbat", el breve oficio que se canta cuando entra el sabbat, y cuando empieza su última estrofa muchos en la congregación se dan la vuelta y hacen una reverencia.[^ej][^abrahams] Solomon ha-Levi Alkabetz lo escribió en Safed en el siglo XVI, y fue uno de los últimos poemas hebreos en entrar de forma fija en el libro de oraciones.[^je][^ej] Desde entonces se canta en comunidades judías de todo el mundo.[^schechter][^ejalk] En 1929, A. Z. Idelsohn escribió que había recibido unas dos mil versiones musicales.[^idel29][^ej] La nuestra es una antigua melodía asquenazí que se reservaba para las semanas entre Pésaj y Shavuot.[^je][^idel29]
@@ -52,7 +52,7 @@ La cantamos con los nombres sustitutos que se acostumbran al cantar fuera de la 
 
 **El estribillo.** Ven, amado mío, al encuentro de la novia; recibamos la presencia del sabbat. "Lecha dodi" es una frase del Cantar de los Cantares: "Ven, amado mío, salgamos al campo".[^songofsongs] Kala es "novia". "Penei Shabbat" es, palabra por palabra, el rostro del sabbat.
 
-**Estrofa 1.** "Guarda" y "Recuerda" se dijeron en una sola palabra; Hashem, el Único, nos los hizo oír. Hashem es uno y su nombre es uno, para renombre, para gloria y para alabanza. El mandamiento del sabbat empieza con "Recuerda" en el Éxodo y con "Observa" en el Deuteronomio; el Talmud enseña que los dos se dijeron en una sola emisión.[^shevuot][^abrahams] "Hashem es uno y su nombre es uno" viene de Zacarías, y el último verso recuerda el "en alabanza, en nombre y en gloria" del Deuteronomio.[^zech][^deut]
+**Estrofa 1.** "Guarda" y "Recuerda" se dijeron de una vez; Hashem, el Único, nos los hizo oír. Hashem es uno y Su nombre es uno, para renombre, para gloria y para alabanza. El mandamiento del sabbat empieza con "Recuerda" en el Éxodo y con "Observa" en el Deuteronomio; el Talmud enseña que los dos se dijeron en una sola emisión.[^shevuot][^abrahams] "Hashem es uno y Su nombre es uno" viene de Zacarías, y el último verso recuerda el "en alabanza, en nombre y en gloria" del Deuteronomio.[^zech][^deut]
 
 **Estrofa 9.** Ven en paz, corona de su esposo, con canto y alegría, entre los fieles del pueblo atesorado. ¡Ven, oh novia; ven, oh novia! "Ateret ba'la" recuerda a Proverbios: la buena esposa es la corona de su marido.[^prov] Segula, "tesoro", es la palabra con que Hashem llama a Israel en el Éxodo: "seréis mi propio tesoro entre todos los pueblos".[^exod] "Bo'i chala" es el saludo del rabino Yannai en el Talmud; chala es kala, "novia", con su primer sonido suavizado por la vocal que lo precede.[^shabbat] Los libros de oraciones difieren aquí en una palabra. Los asquenazíes tienen besimcha, "con alegría"; los de Nusach Sefard, el rito jasídico, tienen berina, "con canto", en sabbat, y dan besimcha para una fiesta.[^ashkenaz][^sefard] Nosotros cantamos berina, la palabra del sabbat en Nusach Sefard.
 

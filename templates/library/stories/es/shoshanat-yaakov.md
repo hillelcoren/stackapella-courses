@@ -43,7 +43,7 @@ Baer no nombra a ningún autor para ella. Su primer prefacio, de 1877, explica s
 
 ## Qué dice la letra
 
-Cantamos los versos finales de Asher heni y luego el verso sobre Harbona.[^vitry][^baer] La copia del Mahzor Vitry termina de forma algo distinta, con "los que confían en ti" y un último verso que llama a Hashem escudo de los justos, y no tiene el verso sobre Harbona.[^vitry]
+Cantamos los versos finales de Asher heni y luego el verso sobre Harbona.[^vitry][^baer] La copia del Mahzor Vitry termina de forma algo distinta, con "los que confían en Ti" y un último verso que llama a Hashem escudo de los justos, y no tiene el verso sobre Harbona.[^vitry]
 
 **"Shoshanat Yaakov tzahala vesamecha."** La rosa de Jacob gritó de júbilo y se alegró. Shoshana es un lirio o una rosa; el libro de oraciones inglés de Simeon Singer lo tradujo como "el lirio de Jacob".[^singer] Jacob es el pueblo de Israel, llamado así por el patriarca. "Tzahala vesamecha" son las palabras que usa el libro de Ester para la ciudad de Susa cuando Mardoqueo salió con vestiduras reales.[^esther]
 
@@ -51,11 +51,11 @@ Cantamos los versos finales de Asher heni y luego el verso sobre Harbona.[^vitry
 
 **"Teshuatam hayita lanetzach, v'tikvatam bechol dor vador."** Tú fuiste su salvación para siempre, y su esperanza en cada generación.
 
-**"L'hodia shekol kovecha lo yevoshu, velo yikalmu lanetzach kol hachosim bach."** Para dar a conocer que todos los que esperan en ti no serán avergonzados, y que nunca serán deshonrados todos los que se refugian en ti.
+**"L'hodia shekol kovecha lo yevoshu, velo yikalmu lanetzach kol hachosim bach."** Para dar a conocer que todos los que esperan en Ti no serán avergonzados, y que nunca serán deshonrados todos los que se refugian en Ti.
 
 **"Vegam Charvona zachur latov."** Y también Harbona es recordado para bien. Zachur latov es la frase que pedía el rabino Pinchas.[^yer][^soferim]
 
-Estos versos no necesitan ninguno de los nombres sustitutos que se acostumbran al cantar fuera de la oración: solo le hablan a Hashem como "tú", en "kovecha" y "bach".
+Estos versos no necesitan ninguno de los nombres sustitutos que se acostumbran al cantar fuera de la oración: solo le hablan a Hashem como "Tú", en "kovecha" y "bach".
 
 ## Cómo se canta
 

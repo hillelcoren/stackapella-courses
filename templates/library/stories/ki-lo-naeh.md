@@ -38,7 +38,7 @@ Johann Stephan Rittangel, a Christian Hebraist at Königsberg, published a Hagga
 
 ## What the words mean
 
-The title is the hymn's last line: ki lo naeh, ki lo yaeh. Ki means for, lo means to Him, and both naeh and yaeh mean fitting or due. "For to Him it is fitting, to Him it is due."[^sefaria][^baruch] The words echo Jeremiah 10:7, "ki lecha yaata", for to You it is due.[^tanakh][^baruch][^sacks] The hymn is also called Adir Bimlucha, after its first words.[^ej][^davidson]
+The title is the hymn's last line: ki lo naeh, ki lo yaeh. Ki means for, lo means to Him, and both naeh and yaeh mean fitting or due. "For to Him it is fitting, for to Him it is due."[^sefaria][^baruch] The words echo Jeremiah 10:7, "ki lecha yaata", for to You it is due.[^tanakh][^baruch][^sacks] The hymn is also called Adir Bimlucha, after its first words.[^ej][^davidson]
 
 The full hymn has eight stanzas, each the same except for three words whose first letters march through the alphabet. The last stanza uses the final letter, tav, three times.[^je][^sefaria] The Union Haggadah prints three of them, and we sing those: the first, seventh and eighth.[^uh1923][^sefaria]
 
@@ -85,7 +85,7 @@ There are other tunes. The Jewish Encyclopedia mentions several, and in 1929 the
 
 ### What does Ki Lo Na'eh mean in English?
 
-"For to Him it is fitting." Ki is for, lo is to Him, and naeh is fitting; the line goes on "ki lo yaeh", to Him it is due. It closes every verse, after His hosts answer: Yours, Hashem, is the kingdom.[^sefaria][^baruch]
+"For to Him it is fitting." Ki is for, lo is to Him, and naeh is fitting; the line goes on "ki lo yaeh", for to Him it is due. It closes every verse, after His hosts answer: Yours, Hashem, is the kingdom.[^sefaria][^baruch]
 
 ### When is Ki Lo Na'eh sung at Passover?
 

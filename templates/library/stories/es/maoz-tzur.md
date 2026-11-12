@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: maoz tzur significado | maoz tzur letra en español | maoz tzur traducción | quién escribió maoz tzur | maoz tzur historia | maoz tzur canción de janucá
-translatedFrom: 51191bd644b6
+translatedFrom: 88dc43970394
 ---
 
 Maoz Tzur es un himno hebreo de Janucá. En los hogares asquenazíes se canta en cuanto se encienden las luces de Janucá, y también se canta en la sinagoga.[^je][^ej] Su poeta, Mordecai, lo escribió en las tierras alemanas en la Edad Media y dejó su nombre en las primeras letras de las estrofas.[^je][^ej] El himno recorre cuatro salvaciones, de Egipto, de Babilonia, del complot de Amán en Persia y de los griegos en tiempos de los asmoneos, y pide que se reconstruya el Templo.[^ej][^melamed] Su melodía alegre llegó a ser hasta tal punto el sonido de la fiesta que otros himnos y oraciones de Janucá también se cantan con ella.[^je][^ej] Las congregaciones de habla inglesa también lo cantan como Rock of Ages.[^ej][^uh1897]
@@ -49,7 +49,7 @@ El título son las primeras palabras del himno. Maoz es una fortaleza o un refug
 
 Cantamos las estrofas 1 y 5.
 
-**Estrofa 1 (se canta).** Fortaleza, roca de mi salvación, es justo alabarte. Que mi casa de oración, el Templo, vuelva a alzarse, y allí traeremos una ofrenda de gratitud. Cuando prepares la matanza del enemigo que nos ladra, entonces completaré, con un salmo, la dedicación del altar. Chanukat, "dedicación", es el nombre mismo de la fiesta: Janucá es la Fiesta de la Dedicación.[^je][^melamed]
+**Estrofa 1 (se canta).** Fortaleza, roca de mi salvación, es justo alabarte. Que mi casa de oración, el Templo, vuelva a alzarse, y allí traeremos una ofrenda de gratitud. Cuando prepares la matanza del enemigo que nos ladra, entonces, con canto y salmo, completaré la dedicación del altar. Chanukat, "dedicación", es el nombre mismo de la fiesta: Janucá es la Fiesta de la Dedicación.[^je][^melamed]
 
 **Estrofa 2.** Mi alma se hartó de penas, mi vida amargada por el trabajo duro bajo Egipto. Con Su gran mano Hashem sacó a Su pueblo querido, y el ejército del faraón se hundió como una piedra en el abismo.[^id1912][^ej]
 

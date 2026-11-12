@@ -60,7 +60,7 @@ The hymn moves from Hashem beyond time to the singer's own trust: Abrahams saw i
 
 **Line 8 (not sung).** He is my banner and my refuge, my portion on the day I call.
 
-**Line 9 (sung).** Into His hand I give my spirit, when I sleep and when I wake. Afkid is "I entrust", ruchi "my spirit". They echo Psalm 31, "Into Thy hand I commit my spirit".[^ps31]
+**Line 9 (sung).** Into His hand I entrust my spirit, when I sleep and when I wake. Afkid is "I entrust", ruchi "my spirit". They echo Psalm 31, "Into Thy hand I commit my spirit".[^ps31]
 
 **Line 10 (sung).** And with my spirit, my body too. Hashem is with me; I will not fear. Geviyati is "my body". The last words echo Psalm 118:6, where the psalmist, with Hashem on his side, says he will not fear.[^ps118][^barth]
 

@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adon olam significado | adon olam traducción | quién escribió adon olam | adon olam historia | adon olam asher malach significado | adon olam melodía
-translatedFrom: 664b0c43154a
+translatedFrom: d2cbf67d7242
 ---
 
 Adon Olam, "Señor del mundo", es un himno hebreo sobre Hashem, que reinaba antes de que nada fuera creado y reinará solo cuando todo haya desaparecido.[^sefaria] Está en los dos extremos de las oraciones de la mañana. Se imprime al comienzo del oficio diario, y al cierre del oficio de la mañana del sabbat y de las fiestas muchas congregaciones lo cantan juntas.[^je][^ej][^posen] Sus últimos versos ponen el espíritu de quien canta en la mano de Hashem, "cuando duermo y cuando despierto", así que también es una oración de la noche: se dice antes de dormir y junto a quien se está muriendo.[^abrahams][^ej][^je]
@@ -47,21 +47,21 @@ El himno va de Hashem, más allá del tiempo, a la confianza de quien canta: Abr
 
 **Verso 1 (cantado).** Señor del mundo, que fue Rey antes de que nada en absoluto fuera formado. Adon es "señor", y olam es "mundo", una palabra que también significa "para siempre". Malach es "reinó".
 
-**Verso 2 (cantado).** Cuando todo fue hecho por su voluntad, entonces fue llamado Rey.
+**Verso 2 (cantado).** Cuando todo fue hecho por Su voluntad, entonces fue llamado Rey.
 
 **Verso 3 (cantado).** Y cuando todo llegue a su fin, solo Él, el Temible, reinará.
 
 **Verso 4 (cantado).** Él fue, Él es y Él será, en gloria. Tifara es "gloria" o "esplendor".
 
-**Verso 5 (cantado).** Él es Uno, y no hay un segundo que se le compare o se ponga a su lado.
+**Verso 5 (cantado).** Él es Uno, y no hay un segundo que se le compare o se ponga a Su lado.
 
-**Verso 6 (cantado).** Sin principio, sin fin; suyos son la fuerza y el dominio. Misra es "dominio".
+**Verso 6 (cantado).** Sin principio, sin fin; Suyos son la fuerza y el dominio. Misra es "dominio".
 
 **Verso 7 (no se canta).** Él es Hashem, mi redentor que vive, mi roca en mi dolor, en el tiempo de angustia.
 
 **Verso 8 (no se canta).** Él es mi estandarte y mi refugio, mi porción el día en que lo llamo.
 
-**Verso 9 (cantado).** En su mano entrego mi espíritu, cuando duermo y cuando despierto. Afkid es "encomiendo", ruchi, "mi espíritu". Recuerdan el Salmo 31, "En tu mano pongo mi espíritu".[^ps31]
+**Verso 9 (cantado).** En Su mano entrego mi espíritu, cuando duermo y cuando despierto. Afkid es "encomiendo", ruchi, "mi espíritu". Recuerdan el Salmo 31, "En tu mano pongo mi espíritu".[^ps31]
 
 **Verso 10 (cantado).** Y con mi espíritu, también mi cuerpo. Hashem está conmigo; no temeré. Geviyati es "mi cuerpo". Las últimas palabras recuerdan el Salmo 118:6, donde el salmista, con Hashem de su parte, dice que no temerá.[^ps118][^barth]
 

@@ -43,7 +43,7 @@ The song has four verses, with the refrain before, between and after them. We si
 
 **Refrain (sung).** The Rock from whose food we have eaten: bless Him, my faithful friends. We have eaten our fill and there is food left over, just as Hashem said. Barchu, "bless!", is the zimmun's call, and kidvar, "as the word of", is the very word of the Elisha story, where the people ate and had some left over "as God had said".[^mishnah][^tanakh]
 
-**Verse 1 (sung).** He feeds His world, our shepherd, our father. We have eaten His bread and drunk His wine. So we will thank His name and praise Him aloud, saying and answering: none is holy like Hashem. The opening echoes the grace's first blessing, which thanks Hashem for feeding all.[^ej][^loewe][^metsudah] The last line is from Hannah's song in the Book of Samuel.[^tanakh][^loewe]
+**Verse 1 (sung).** He feeds His world, our shepherd, our father. We have eaten His bread and drunk His wine. So we will thank His name and praise Him aloud, we have said and answered: none is holy like Hashem. The opening echoes the grace's first blessing, which thanks Hashem for feeding all.[^ej][^loewe][^metsudah] The last line is from Hannah's song in the Book of Samuel.[^tanakh][^loewe]
 
 **Verse 2.** With song and thanks we bless Hashem for the good land He gave our ancestors, and for the food that filled us. This is the grace's second blessing, for the land.[^ej][^metsudah]
 

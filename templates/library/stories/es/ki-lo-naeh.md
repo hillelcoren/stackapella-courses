@@ -1,7 +1,7 @@
 ---
 title: "Ki Lo Na'eh: historia, significado y la letra explicada"
 description: "Ki Lo Na'eh, el himno alfabético de alabanza del séder de Pésaj, ya en el libro de leyes de un erudito londinense en 1287, cantado aquí como solo y coro."
-lead: Ki Lo Na'eh, "Porque a Él le corresponde", es el himno alfabético del final del séder de Pésaj. Cada estrofa llama a Hashem poderoso, santo y fuerte, y sus huestes responden: tuyo, Hashem, es el reino.
+lead: Ki Lo Na'eh, "Porque a Él le corresponde", es el himno alfabético del final del séder de Pésaj. Cada estrofa llama a Hashem poderoso, santo y fuerte, y Sus huestes responden: Tuyo, Hashem, es el reino.
 words: Hebreo tradicional, anónimo (en Inglaterra ya en 1287)
 tune: Tradicional; en la Union Haggadah (1908), marcada "Traditional" en 1923
 language: hebreo
@@ -14,10 +14,10 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: ki lo naeh letra | ki lo na eh transliteración | ki lo naeh pésaj | ki lo na eh traducción | ki lo naeh significado
-translatedFrom: 6cfe84a3e2d9
+translatedFrom: 3896f7fa1e2a
 ---
 
-Ki Lo Na'eh es un himno hebreo que se canta en el séder de Pésaj, el oficio en casa y la cena festiva de las primeras noches de la fiesta.[^je][^ej] Llega cerca del final, cuando ya ha terminado la parte formal de la Hagadá, entre las canciones que cierran la noche, y se canta sobre todo en hogares asquenazíes.[^ej][^sefaria][^bogomilsky] Sus estrofas recorren el alfabeto hebreo. Cada una llama a Hashem poderoso, elegido, santo o fuerte en su reinado, y luego nombra a un grupo de sus servidores que responden: tuyo, y tuyo, Hashem, es el reino.[^ej][^sefaria] La mesa lo lleva cantando más de siete siglos. Un erudito de Londres lo copió en su libro de ley judía en 1287, y la Hagadá del movimiento reformista aún lo imprimía con música en 1908 y 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
+Ki Lo Na'eh es un himno hebreo que se canta en el séder de Pésaj, el oficio en casa y la cena festiva de las primeras noches de la fiesta.[^je][^ej] Llega cerca del final, cuando ya ha terminado la parte formal de la Hagadá, entre las canciones que cierran la noche, y se canta sobre todo en hogares asquenazíes.[^ej][^sefaria][^bogomilsky] Sus estrofas recorren el alfabeto hebreo. Cada una llama a Hashem poderoso, elegido, santo o fuerte en Su reinado, y luego nombra a un grupo de Sus servidores que responden: Tuyo, y Tuyo, Hashem, es el reino.[^ej][^sefaria] La mesa lo lleva cantando más de siete siglos. Un erudito de Londres lo copió en su libro de ley judía en 1287, y la Hagadá del movimiento reformista aún lo imprimía con música en 1908 y 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
 
 ## De dónde viene
 
@@ -39,19 +39,19 @@ Johann Stephan Rittangel, un hebraísta cristiano de Königsberg, publicó allí
 
 ## Qué dice la letra
 
-El título es el último verso del himno: ki lo naeh, ki lo yaeh. Ki significa "porque", lo, "a Él", y tanto naeh como yaeh significan "propio" o "debido". "Porque a Él le corresponde, a Él le es debido".[^sefaria][^baruch] Las palabras recuerdan Jeremías 10:7, "ki lecha yaata", porque a ti te corresponde.[^tanakh][^baruch][^sacks] El himno también se llama Adir Bimlucha, por sus primeras palabras.[^ej][^davidson]
+El título es el último verso del himno: ki lo naeh, ki lo yaeh. Ki significa "porque", lo, "a Él", y tanto naeh como yaeh significan "propio" o "debido". "Porque a Él le corresponde, porque a Él le es debido".[^sefaria][^baruch] Las palabras recuerdan Jeremías 10:7, "ki lecha yaata", porque a Ti te corresponde.[^tanakh][^baruch][^sacks] El himno también se llama Adir Bimlucha, por sus primeras palabras.[^ej][^davidson]
 
 El himno completo tiene ocho estrofas, todas iguales salvo tres palabras cuyas primeras letras avanzan por el alfabeto. La última estrofa usa tres veces la última letra, tav.[^je][^sefaria] La Union Haggadah imprime tres de ellas, y son las que cantamos: la primera, la séptima y la octava.[^uh1923][^sefaria]
 
-**Estrofa 1.** Adir bimlucha: poderoso en su reinado. Bachur kahalacha: elegido, como es debido, de verdad. Gedudav yomru lo: sus tropas le dicen.[^sefaria][^baruch]
+**Estrofa 1.** Adir bimlucha: poderoso en Su reinado. Bachur kahalacha: elegido, como es debido, de verdad. Gedudav yomru lo: Sus tropas le dicen.[^sefaria][^baruch]
 
-**Estrofa 2.** Kadosh bimlucha: santo en su reinado. Rachum kahalacha: compasivo, como es debido. Shinanav yomru lo: sus ángeles le dicen.[^sefaria][^lissa]
+**Estrofa 2.** Kadosh bimlucha: santo en Su reinado. Rachum kahalacha: compasivo, como es debido. Shinanav yomru lo: Sus ángeles le dicen.[^sefaria][^lissa]
 
-**Estrofa 3.** Takif bimlucha: fuerte en su reinado. Tomech kahalacha: el que sostiene, como es debido. Temimav yomru lo: sus íntegros, los de corazón entero, le dicen.[^sefaria]
+**Estrofa 3.** Takif bimlucha: fuerte en Su reinado. Tomech kahalacha: el que sostiene, como es debido. Temimav yomru lo: Sus íntegros, los de corazón entero, le dicen.[^sefaria]
 
-**La respuesta, después de cada estrofa.** Lecha ulecha: tuyo y tuyo. Lecha ki lecha: tuyo, porque es tuyo. Lecha af lecha: tuyo, sí, tuyo. Lecha Adoshem hamamlacha: tuyo, Hashem, es el reino. Y luego otra vez el verso del título.[^sefaria] La respuesta está hecha de frases de la Biblia: "tuyo, Hashem, es el reino" es de 1 Crónicas 29:11, y "los cielos son tuyos, y también la tierra", del Salmo 89:12, da el modelo de "lecha af lecha".[^tanakh][^baruch][^sacks] Fíjate en el giro: el himno habla sobre Hashem, "a Él", pero las huestes le hablan a Hashem, "tuyo".[^sefaria]
+**La respuesta, después de cada estrofa.** Lecha ulecha: Tuyo y Tuyo. Lecha ki lecha: Tuyo, porque es Tuyo. Lecha af lecha: Tuyo, sí, Tuyo. Lecha Adoshem hamamlacha: Tuyo, Hashem, es el reino. Y luego otra vez el verso del título.[^sefaria] La respuesta está hecha de frases de la Biblia: "Tuyo, Hashem, es el reino" es de 1 Crónicas 29:11, y "los cielos son Tuyos, y también la tierra", del Salmo 89:12, da el modelo de "lecha af lecha".[^tanakh][^baruch][^sacks] Fíjate en el giro: el himno habla sobre Hashem, "a Él", pero las huestes le hablan a Hashem, "Tuyo".[^sefaria]
 
-¿Quiénes hablan? La Encyclopaedia Judaica los lee a todos como clases de ángeles.[^ej] Jacob de Lissa, en su comentario a la Hagadá, Maaseh Nissim, los divide: las tropas y los ángeles son ángeles, pero los justos y los íntegros son Israel. También lee los nombres a través del midrash. El midrash dice que Hashem se apareció en el mar Rojo como un guerrero y en el Sinaí como un anciano lleno de compasión, y él y otros maestros leen bachur, que también puede significar "joven", como ese joven guerrero. Rachum recuerda la historia del Talmud según la cual Hashem hizo callar a los ángeles que cantaban mientras los egipcios se ahogaban, porque también ellos eran obra de sus manos.[^lissa][^ejlissa][^bogomilsky][^rashi][^megillah]
+¿Quiénes hablan? La Encyclopaedia Judaica los lee a todos como clases de ángeles.[^ej] Jacob de Lissa, en su comentario a la Hagadá, Maaseh Nissim, los divide: las tropas y los ángeles son ángeles, pero los justos y los íntegros son Israel. También lee los nombres a través del midrash. El midrash dice que Hashem se apareció en el mar Rojo como un guerrero y en el Sinaí como un anciano lleno de compasión, y él y otros maestros leen bachur, que también puede significar "joven", como ese joven guerrero. Rachum recuerda la historia del Talmud según la cual Hashem hizo callar a los ángeles que cantaban mientras los egipcios se ahogaban, porque también ellos eran obra de Sus manos.[^lissa][^ejlissa][^bogomilsky][^rashi][^megillah]
 
 Donde el hebreo tiene el nombre de cuatro letras, que la Union Haggadah escribe "Adonoi", cantamos Adoshem, el nombre sustituto que se acostumbra al cantar fuera de la oración. Muchos judíos cambian los nombres de Hashem al decirlos fuera de la oración, por reverencia y para no pronunciar el nombre en vano; nuestras canciones, que se cantan fuera de la oración, usan la forma cambiada, y el significado es el mismo.[^ohr][^outorah]
 
@@ -65,15 +65,15 @@ Lo cantamos un tono más alto, en Re, con cuatro voces nuestras; la parte de pia
 
 ## Versiones y otras letras
 
-La Union Haggadah de 1923 imprime, dos páginas antes del hebreo, un himno en inglés con la misma melodía, "Our Souls We Raise In Fervent Praise", sin autor. Como el hebreo, tiene estrofas solistas y un coro, "To Thee, O to Thee" (a ti, oh, a ti), que recuerda el "lecha ulecha".[^uh1923]
+La Union Haggadah de 1923 imprime, dos páginas antes del hebreo, un himno en inglés con la misma melodía, "Our Souls We Raise In Fervent Praise", sin autor. Como el hebreo, tiene estrofas solistas y un coro, "To Thee, O to Thee" (a Ti, oh, a Ti), que recuerda el "lecha ulecha".[^uh1923]
 
 Hay otras melodías. La Jewish Encyclopedia menciona varias, y en 1929 el historiador de la música A. Z. Idelsohn imprimió una cuyos sostenidos y bemoles cambiantes comparaba con la canción popular ucraniana y rumana.[^je][^idel29]
 
 ## ¿Sabías que...?
 
-- La respuesta dice "lecha", tuyo, siete veces. Los comentaristas han visto significados en el número, entre ellos los siete cielos, los siete días de la semana y los siete mil años del mundo.[^sacks][^marbeh]
+- La respuesta dice "lecha", Tuyo, siete veces. Los comentaristas han visto significados en el número, entre ellos los siete cielos, los siete días de la semana y los siete mil años del mundo.[^sacks][^marbeh]
 - La paráfrasis inglesa de la Jewish Encyclopedia, de 1904, juega en inglés al juego del alfabeto, desde "Awe by His throne is" hasta "His zealous ones".[^je]
-- La frase "a ti te corresponde" tiene un eco antiguo. Un midrash del Génesis Rabbah lee el Salmo 74:16, "El día es tuyo, y la noche también es tuya", así: a ti te corresponde que cantemos de día y de noche.[^berrab][^tanakh][^sacks]
+- La frase "a Ti te corresponde" tiene un eco antiguo. Un midrash del Génesis Rabbah lee el Salmo 74:16, "El día es Tuyo, y la noche también es Tuya", así: a Ti te corresponde que cantemos de día y de noche.[^berrab][^tanakh][^sacks]
 
 ## Cómo cantarla
 
@@ -86,7 +86,7 @@ Hay otras melodías. La Jewish Encyclopedia menciona varias, y en 1929 el histor
 
 ### ¿Qué significa Ki Lo Na'eh en español?
 
-"Porque a Él le corresponde". Ki es "porque", lo es "a Él", y naeh es "propio"; el verso sigue "ki lo yaeh", a Él le es debido. Cierra cada estrofa, después de que sus huestes responden: tuyo, Hashem, es el reino.[^sefaria][^baruch]
+"Porque a Él le corresponde". Ki es "porque", lo es "a Él", y naeh es "propio"; el verso sigue "ki lo yaeh", porque a Él le es debido. Cierra cada estrofa, después de que Sus huestes responden: Tuyo, Hashem, es el reino.[^sefaria][^baruch]
 
 ### ¿Cuándo se canta Ki Lo Na'eh en Pésaj?
 
