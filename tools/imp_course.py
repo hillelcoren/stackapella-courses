@@ -242,7 +242,7 @@ def imp_1_switch():
     ]
     return {
         "id": "imp-1-switch", "title": EN("Major and minor thirds"),
-        "fact": {"id": "odington-thirds", "text": {"en": "Before 1316, the English monk Walter Odington wrote that thirds sit close to the ratios 5 to 4 and 6 to 5, and that human voices, \"by their own subtlety\", blend them pleasantly."}, "source": {"en": "Wikipedia, Walter Odington"}, "url": "https://en.wikipedia.org/wiki/Walter_Odington"},
+        "fact": {"id": "odington-thirds", "text": {"en": "The medieval English monk Walter Odington wrote that thirds sit close to the ratios 5 to 4 and 6 to 5, and that human voices, \"by their own subtlety\", blend them pleasantly."}, "source": {"en": "Odington, Summa de speculatione musicae, ed. Hammond (1970), Thesaurus Musicarum Latinarum"}, "url": "https://chmtl.indiana.edu/tml/14th/ODISUM"},
         "steps": [
             learn("A third above switches between major and minor to stay in the key. You don't count it: you follow the scale, two notes up.",
                   [("Major thirds", "Do to mi, fa to la, so to ti"),
@@ -271,7 +271,7 @@ def imp_1_fourth():
     first = line(HARMONY, 0, 16)
     return {
         "id": "imp-1-fourth", "title": EN("Third or fourth?"),
-        "fact": {"id": "fourth-in-lower-voice", "text": {"en": "In the 1470s, the first dictionary of musical terms called the fourth a dissonance. Yet it still worked as a consonance with a third or fifth in a lower voice, as yours over so does."}, "source": {"en": "Wikipedia, Perfect fourth (citing Drabkin, \"Fourth\", New Grove (2001))"}, "url": "https://en.wikipedia.org/wiki/Perfect_fourth"},
+        "fact": {"id": "fourth-in-lower-voice", "text": {"en": "In 1477 the theorist Johannes Tinctoris wrote that a bare fourth is \"intolerably\" discordant. Yet with a fifth or third sung below it, it worked, as yours over so does."}, "source": {"en": "Tinctoris, Liber de arte contrapuncti (1477), in Coussemaker, Scriptorum IV (1876), p. 85"}, "url": "https://archive.org/details/scriptorumdemusi0000unse"},
         "steps": [
             learn("Hear why the part goes one note higher over so: with the chord of do under it, the third above so (ti) rubs, and do rings.",
                   [("Over so", "Not ti, but do"),
@@ -355,7 +355,7 @@ def imp_1_challenge():
             {"kind": "play", "text": EN("The part above the refrain. The lights show only where the chord changes."),
              "exercise": {"tempo": 100, "notes": cue(do + above[0]["step"]) + sung(above, do, 4), "turn": False, "lights": "changes",
                           "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4)},
-             "measures": EN("Scored on your part's notes on pitch, most of them sung with no light to follow. Did you know? Home on the Range began as a Kansas doctor's poem, printed in 1873, and became Kansas's state song in 1947.")},
+             "measures": EN("Scored on your part's notes on pitch, most of them sung with no light to follow. Did you know? Home on the Range began as a poem by a Kansas doctor, Brewster Higley, and became Kansas's state song in 1947.")},
         ],
     }
 
@@ -375,7 +375,7 @@ def imp_2_below():
                   {"tempo": 92, "notes": sung(line(below, 0, 16), do, 0), "turn": False, "with": [guide_line(line(TUNE, 0, 16), do, 0)], "chords": chords(do, until=16)}),
             {"kind": "play", "text": EN("The part below, the whole verse, while the guide sings the tune above you."),
              "exercise": {"tempo": 92, "notes": cue(do) + sung(below, do, BAR), "turn": False, "with": [guide_line(TUNE, do, BAR)], "chords": chords(do, BAR)},
-             "measures": EN("Scored on your part's notes on pitch, under the tune. Did you know? Michael, Row the Boat Ashore was written down in 1863 from freed people on St. Helena Island, South Carolina, and printed in 1867.")},
+             "measures": EN("Scored on your part's notes on pitch, under the tune. Did you know? Michael, Row the Boat Ashore was written down from freed people on South Carolina's Port Royal islands in the 1860s, and printed in 1867 in Slave Songs of the United States.")},
         ],
     }
 
@@ -609,7 +609,7 @@ def imp_4_high():
                   {"tempo": 84, "notes": sung(mel, do, 0), "turn": False, "chords": lib_chords(chs, do)}),
             {"kind": "play", "text": EN("Simple Gifts: a part above the tune, lights off."),
              "exercise": {"tempo": 84, "notes": cue(picks[0]["step"]) + shifted(picks, 4), "turn": False, "lights": "off", "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4)},
-             "measures": EN("Scored on landing on the chord tone just above the tune, by ear. Did you know? Bluegrass is named after Bill Monroe's Blue Grass Boys, and Monroe often sang the high tenor above the lead.")},
+             "measures": EN("Scored on landing on the chord tone just above the tune, by ear. Did you know? Bluegrass is named after Bill Monroe's band, the Blue Grass Boys, named in turn for Kentucky, the Bluegrass State. Monroe's own singing was famously high and \"lonesome\".")},
         ],
     }
 

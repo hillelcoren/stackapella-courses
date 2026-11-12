@@ -207,7 +207,7 @@ def b_1_onset():
     model = [{"beat": k * 2, "length": 1, "step": s, "lyric": w} for k, (w, s) in enumerate([("hey", 2), ("yeah", 0), ("no", 2), ("my", 0)])]
     return {
         "id": "belting-1-onset", "title": EN("Start on h, y, n"),
-        "fact": fact("glottal-stop-okina", "That click before a bare vowel is a glottal stop, the catch in the middle of \"uh-oh\". In Hawaiian it's a letter, the ʻokina: it tells koʻu, \"my\", from kou, \"your\".", "Wikipedia, Glottal stop; Hawaiian alphabet", "https://en.wikipedia.org/wiki/Glottal_stop"),
+        "fact": fact("glottal-stop-okina", "That click before a bare vowel is a glottal stop, like the catch in the middle of \"oh-oh\". Hawaiian writes it with a mark, the ʻokina: it tells koʻu, \"my\", from kou, \"your\".", "University of Hawaiʻi, About Hawaiian diacritical marks", "https://www.hawaii.edu/site/info/diacritics.php"),
         "steps": [
             first("Every call starts on a sound that eases the voice in: h, y, n, m or w. Never a vowel on its own, which can start with a click.",
                   [("Easy starts", "hey, yeah, no, my, whoa"), ("No click", "The sound slides in")]),
@@ -227,8 +227,8 @@ def b_1_easy():
     model = [{"beat": 0, "length": 1, "step": 2, "lyric": "hey!"}, {"beat": 1, "length": 1, "step": -1}]
     return {
         "id": "belting-1-easy", "title": EN("As easy as talking"),
-        "fact": fact("popeil-perceived-volume", "Brightness, ring and a little nasality make a voice sound bigger to listeners without being any louder: one reason a bright call carries across a room.",
-                     "Popeil, NATS Chat handout (2017)", "https://www.nats.org/_Library/NATS_Chat_2014_15/NATS_Chat_LisaPopeil_handout_April_9_2017.pdf"),
+        "fact": fact("popeil-perceived-volume", "Brightness helps a voice carry. In a 2010 study, a singer's bright \"twang\" always had a higher sound level than her neutral voice, mainly because of how her throat and mouth shaped the sound.",
+                     "Sundberg and Thalén, What is \"Twang\"?, Journal of Voice (2010)", "https://pubmed.ncbi.nlm.nih.gov/20083379/"),
         "steps": [
             first("A bright call carries without being loud: brightness does the work, so your voice doesn't have to.",
                   [("Short", "A beat, then it falls"), ("Easy", "Could you do it all day?")]),
@@ -347,8 +347,8 @@ def b_3_hold():
     model = [{"beat": 0, "length": 2, "step": 0, "lyric": "hey"}]
     return {
         "id": "belting-3-hold", "title": EN("A short hold"),
-        "fact": fact("voice-recovery-hours", "After two hours of reading aloud, voices in a University of Utah study had made 90% of their recovery within 4 to 6 hours, and recovered fully in 12 to 18.",
-                     "Hunter and Titze, Annals of Otology, Rhinology and Laryngology (2009)", "https://iro.uiowa.edu/esploro/outputs/journalArticle/Quantifying-Vocal-Fatigue-Recovery-Dynamic-Vocal/9984446403802771"),
+        "fact": fact("voice-recovery-hours", "After two hours of reading aloud, the 86 voices in a 2009 study had made 90% of their recovery within 4 to 6 hours, and recovered fully in 12 to 18.",
+                     "Hunter and Titze, Annals of Otology, Rhinology and Laryngology (2009)", "https://pubmed.ncbi.nlm.nih.gov/19663377/"),
         "steps": [
             first("A call held two beats, steady and easy, then let go into a light \"hoo\" above.",
                   [("Two beats", "Never longer"), ("Low first", "Then the middle, then a little higher")]),
@@ -386,7 +386,7 @@ def b_3_lighter():
         notes += [call("hey", 0, k * 6, 1), {"beat": k * 6 + 2, "length": 1.5, "step": 4, "lyric": "hoo"}]
     return {
         "id": "belting-3-lighter", "title": EN("Lighter higher"),
-        "fact": fact("titze-belt-top", "The highest belt note for women is usually around C5, Ingo Titze explains: the point where the voice can no longer keep its bright resonance above the note, and it flips.",
+        "fact": fact("titze-belt-top", "The highest belt note is usually around C5. Above it, the throat can't tune its lowest resonance high enough to boost the note's first overtone, so the voice flips to a lighter register.",
                      "Titze, Belting and a High Larynx Position, Journal of Singing (2007)", "https://www.nats.org/_Library/Science_Informed_Voice_Pedagogy_Resource/Article_Titze_Belting_and_a_High_Larynx_JOS-063-5-2007-557_1_.pdf"),
         "steps": [
             first("When a note won't stay bright and easy, let it go lighter, or let it flip. That's your voice telling you where today's top is.",
@@ -423,7 +423,7 @@ def b_4_heyho():
     model = [{"beat": 0, "length": 2, "step": 2, "lyric": "Hey"}, {"beat": 2, "length": 2, "step": 0, "lyric": "ho"}]
     return {
         "id": "belting-4-heyho", "title": EN("Hey, ho"),
-        "fact": {**fact("ravenscroft-three-blind-mice", "Hey, Ho's editor, Thomas Ravenscroft, put out a second book of songs and rounds the same year, 1609. In it is the first known printing of Three Blind Mice.", "Wikipedia, Three Blind Mice", "https://en.wikipedia.org/wiki/Three_Blind_Mice"), "distinct": ["heyho-pammelia"]},
+        "fact": {**fact("ravenscroft-three-blind-mice", "Hey, Ho's editor, Thomas Ravenscroft, put out a second book of songs and rounds the same year, 1609. In it, as a round for three voices, is Three Blind Mice.", "Ravenscroft, Deuteromelia (1609)", "https://archive.org/details/bim_early-english-books-1475-1640_deuteromelia-or-the-sec_ravenscroft-thomas_1609"), "distinct": ["heyho-pammelia"]},
         "steps": [
             first("Hey, Ho, Nobody Home is a round printed in 1609: every voice sings the same tune, coming in one after another. Its \"Hey, ho\" is a call.",
                   [("Hey, ho", "A call, falling"), ("Nobody home", "Easy, down to the end")]),
@@ -439,7 +439,7 @@ def b_4_haul():
     model = [{"beat": 0, "length": 1, "step": 2, "lyric": "Way,"}, {"beat": 1, "length": 1, "step": 2, "lyric": "haul"}, {"beat": 2, "length": 2, "step": -3, "lyric": "away"}]
     return {
         "id": "belting-4-haul", "title": EN("Way, haul away"),
-        "fact": fact("short-drag-shanty", "Haul Away Joe was a short-drag shanty, for brief, hard hauls such as turning the sails: the crew gave one heave per chorus, typically on its last word.", "Wikipedia, Sea shanty", "https://en.wikipedia.org/wiki/Sea_shanty"),
+        "fact": fact("short-drag-shanty", "Haul Away Joe was a short-drag shanty, for brief, hard hauls such as turning the sails: the crew gave one heave per chorus, typically on its last word.", "Terry, The Shanty Book, Part I (1921)", "https://archive.org/details/shantybooksailor00terr"),
         "steps": [
             first("Sailors hauled a rope to a shanty: the shantyman sang a line, and the crew answered together. Their answer is a call: \"Way, haul away\".",
                   [("The crew's answer", "Bright, together, short"), ("Not a shout", "A crew works all day")]),

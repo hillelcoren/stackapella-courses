@@ -234,7 +234,7 @@
                 {
                     "id": "imp-1-switch",
                     "title": {"en": "Major and minor thirds", "es": "Terceras mayores y menores"},
-                    "fact": {"id": "odington-thirds", "text": {"en": "Before 1316, the English monk Walter Odington wrote that thirds sit close to the ratios 5 to 4 and 6 to 5, and that human voices, \"by their own subtlety\", blend them pleasantly.", "es": "Antes de 1316, el monje inglés Walter Odington escribió que las terceras se acercan a las proporciones 5 a 4 y 6 a 5, y que las voces humanas, \"por su propia sutileza\", las funden de forma agradable."}, "source": {"en": "Wikipedia, Walter Odington", "es": "Wikipedia, Walter Odington"}, "url": "https://en.wikipedia.org/wiki/Walter_Odington"},
+                    "fact": {"id": "odington-thirds", "text": {"en": "The medieval English monk Walter Odington wrote that thirds sit close to the ratios 5 to 4 and 6 to 5, and that human voices, \"by their own subtlety\", blend them pleasantly.", "es": "El monje inglés medieval Walter Odington escribió que las terceras se acercan a las proporciones 5 a 4 y 6 a 5, y que las voces humanas, \"por su propia sutileza\", las funden de forma agradable."}, "source": {"en": "Odington, Summa de speculatione musicae, ed. Hammond (1970), Thesaurus Musicarum Latinarum", "es": "Odington, Summa de speculatione musicae, ed. de Hammond (1970), Thesaurus Musicarum Latinarum"}, "url": "https://chmtl.indiana.edu/tml/14th/ODISUM"},
                     "steps": [
                         {
                             "kind": "learn",
@@ -385,7 +385,7 @@
                 {
                     "id": "imp-1-fourth",
                     "title": {"en": "Third or fourth?", "es": "¿Tercera o cuarta?"},
-                    "fact": {"id": "fourth-in-lower-voice", "text": {"en": "In the 1470s, the first dictionary of musical terms called the fourth a dissonance. Yet it still worked as a consonance with a third or fifth in a lower voice, as yours over so does.", "es": "En la década de 1470, el primer diccionario de términos musicales llamó disonancia a la cuarta. Aun así, funcionaba como consonancia si una voz más grave formaba debajo una tercera o una quinta, como pasa con la tuya sobre \"so\"."}, "source": {"en": "Wikipedia, Perfect fourth (citing Drabkin, \"Fourth\", New Grove (2001))", "es": "Wikipedia, Perfect fourth (citando a Drabkin, \"Fourth\", New Grove (2001))"}, "url": "https://en.wikipedia.org/wiki/Perfect_fourth"},
+                    "fact": {"id": "fourth-in-lower-voice", "text": {"en": "In 1477 the theorist Johannes Tinctoris wrote that a bare fourth is \"intolerably\" discordant. Yet with a fifth or third sung below it, it worked, as yours over so does.", "es": "En 1477, el teórico Johannes Tinctoris escribió que una cuarta sola es \"intolerablemente\" disonante. Aun así, con una quinta o una tercera cantada debajo, funcionaba, como pasa con la tuya sobre \"so\"."}, "source": {"en": "Tinctoris, Liber de arte contrapuncti (1477), in Coussemaker, Scriptorum IV (1876), p. 85", "es": "Tinctoris, Liber de arte contrapuncti (1477), en Coussemaker, Scriptorum IV (1876), p. 85"}, "url": "https://archive.org/details/scriptorumdemusi0000unse"},
                     "steps": [
                         {
                             "kind": "learn",
@@ -993,7 +993,7 @@
                             "measures": {"en": "Scored on your part's notes on pitch, most of them sung with no light to follow.", "es": "Se puntúa la afinación de tu voz, casi toda cantada sin luz que seguir."}
                         }
                     ],
-                    "fact": {"id": "home-on-the-range-kansas", "text": {"en": "Home on the Range began as a Kansas doctor's poem, printed in 1873, and became Kansas's state song in 1947.", "es": "Home on the Range nació como el poema de un médico de Kansas, publicado en 1873, y en 1947 se convirtió en la canción oficial del estado de Kansas."}, "source": {"en": "Kansapedia, Home on the Range", "es": "Kansapedia, Home on the Range"}, "url": "https://www.kansashistory.gov/kansapedia/home-on-the-range/17165"}
+                    "fact": {"id": "home-on-the-range-kansas", "text": {"en": "Home on the Range began as a poem by a Kansas doctor, Brewster Higley, and became Kansas's state song in 1947.", "es": "Home on the Range nació como un poema de un médico de Kansas, Brewster Higley, y en 1947 se convirtió en la canción oficial del estado de Kansas."}, "source": {"en": "Kansas Statutes 73-1301 (L. 1947, ch. 433)", "es": "Estatutos de Kansas 73-1301 (L. 1947, cap. 433)"}, "url": "https://www.ksrevisor.gov/statutes/chapters/ch73/073_013_0001.html"}
                 }
             ]
         },
@@ -1137,7 +1137,13 @@
                             "measures": {"en": "Scored on your part's notes on pitch, under the tune.", "es": "Se puntúa la afinación de tu voz bajo la melodía."}
                         }
                     ],
-                    "fact": {"id": "michael-row-1863", "text": {"en": "Michael, Row the Boat Ashore was written down in 1863 from freed people on St. Helena Island, South Carolina, and printed in 1867.", "es": "Michael, Row the Boat Ashore se transcribió en 1863 del canto de personas liberadas de la esclavitud en la isla de St. Helena, en Carolina del Sur, y se publicó en 1867."}, "source": {"en": "Wikipedia, Michael, Row the Boat Ashore", "es": "Wikipedia, Michael, Row the Boat Ashore"}, "url": "https://en.wikipedia.org/wiki/Michael,_Row_the_Boat_Ashore"}
+                    "fact": {
+                        "id": "michael-row-1863",
+                        "text": {"en": "Michael, Row the Boat Ashore was written down from freed people on South Carolina's Port Royal islands in the 1860s, and printed in 1867 in Slave Songs of the United States.", "es": "Michael, Row the Boat Ashore se transcribió en la década de 1860 del canto de personas liberadas de la esclavitud en las islas de Port Royal, en Carolina del Sur, y se publicó en 1867 en Slave Songs of the United States."},
+                        "source": {"en": "Allen, Ware and Garrison, Slave Songs of the United States (1867)", "es": "Allen, Ware y Garrison, Slave Songs of the United States (1867)"},
+                        "url": "https://archive.org/details/slavesongsofunit00alle",
+                        "distinct": ["mr-highwaymen"]
+                    }
                 },
                 {
                     "id": "imp-2-hold",
@@ -1620,7 +1626,7 @@
                             "measures": {"en": "Scored on your part above on pitch. Could you hear the tune under you?", "es": "Se puntúa la afinación de tu voz de arriba. ¿Oías la melodía por debajo?"}
                         }
                     ],
-                    "fact": {"id": "steal-away-choctaw", "text": {"en": "Steal Away was sung at a Choctaw Nation school in Indian Territory, in today's Oklahoma.", "es": "Steal Away se cantaba en una escuela de la Nación Choctaw en el Territorio Indio, en la actual Oklahoma."}, "source": {"en": "Wikipedia, Steal Away", "es": "Wikipedia, Steal Away"}, "url": "https://en.wikipedia.org/wiki/Steal_Away"}
+                    "fact": {"id": "steal-away-choctaw", "text": {"en": "Steal Away was sung at a Choctaw Nation school in Indian Territory, in today's Oklahoma.", "es": "Steal Away se cantaba en una escuela de la Nación Choctaw en el Territorio Indio, en la actual Oklahoma."}, "source": {"en": "Oklahoma Historical Society, Encyclopedia of Oklahoma History and Culture, \"Willis, Uncle Wallace and Aunt Minerva\"", "es": "Oklahoma Historical Society, Encyclopedia of Oklahoma History and Culture, \"Willis, Uncle Wallace and Aunt Minerva\""}, "url": "https://www.okhistory.org/publications/enc/entry?entry=WI018"}
                 }
             ]
         },
@@ -2610,7 +2616,7 @@
                             "measures": {"en": "Scored on landing on lit notes, and the top score needs four moves in five to be a step or a third.", "es": "Se puntúa que caigas en notas iluminadas, y la puntuación máxima pide que cuatro de cada cinco movimientos sean de un grado o una tercera."}
                         }
                     ],
-                    "fact": {"id": "sacred-harp-tenor-tune", "text": {"en": "In shape-note singing from The Sacred Harp (1844), the tune is in the tenor, with parts sung above and below it.", "es": "En el canto con notas de formas (shape-note) de The Sacred Harp (1844), la melodía va en el tenor, con voces por encima y por debajo."}, "source": {"en": "New Georgia Encyclopedia, Sacred Harp", "es": "New Georgia Encyclopedia, Sacred Harp"}, "url": "https://www.georgiaencyclopedia.org/articles/arts-culture/sacred-harp/"}
+                    "fact": {"id": "sacred-harp-tenor-tune", "text": {"en": "In shape-note singing from The Sacred Harp (1844), the tune is in the tenor, with parts sung above and below it.", "es": "En el canto con notas de formas (shape-note) de The Sacred Harp (1844), la melodía va en el tenor, con voces por encima y por debajo."}, "source": {"en": "White and King, The Sacred Harp (1844)", "es": "White y King, The Sacred Harp (1844)"}, "url": "https://archive.org/details/1844-sacred-harp-philadelphia-white-and-king"}
                 }
             ]
         },
@@ -3729,7 +3735,7 @@
                             "measures": {"en": "Scored on landing on the chord tone just above the tune, by ear.", "es": "Se puntúa que caigas, de oído, en la nota del acorde justo por encima de la melodía."}
                         }
                     ],
-                    "fact": {"id": "monroe-high-tenor", "text": {"en": "Bluegrass is named after Bill Monroe's Blue Grass Boys, and Monroe often sang the high tenor above the lead.", "es": "El bluegrass debe su nombre a los Blue Grass Boys de Bill Monroe, y Monroe solía cantar el tenor agudo por encima de la voz principal."}, "source": {"en": "Wikipedia, Bill Monroe", "es": "Wikipedia, Bill Monroe"}, "url": "https://en.wikipedia.org/wiki/Bill_Monroe"}
+                    "fact": {"id": "monroe-high-tenor", "text": {"en": "Bluegrass is named after Bill Monroe's band, the Blue Grass Boys, named in turn for Kentucky, the Bluegrass State. Monroe's own singing was famously high and \"lonesome\".", "es": "El bluegrass debe su nombre a la banda de Bill Monroe, los Blue Grass Boys, que a su vez se llamaban así por Kentucky, el \"estado del bluegrass\". Monroe era famoso por su canto agudo y \"solitario\" (high lonesome)."}, "source": {"en": "International Bluegrass Music Hall of Fame, Bill Monroe", "es": "International Bluegrass Music Hall of Fame, Bill Monroe"}, "url": "https://www.bluegrasshall.org/inductees/bill-monroe/"}
                 },
                 {
                     "id": "imp-4-challenge",

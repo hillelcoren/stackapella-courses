@@ -148,7 +148,7 @@ def gr_1_stairs():
     hum[0]["lyric"] = "mm"
     return {
         "id": "gr-1-stairs", "title": EN("Five stairs"), "strictness": "relaxed",
-        "fact": fact("amen-cadence", "A move from chord IV to home, I, is called the plagal or Amen cadence, after the \"Amen\" so often sung to it in hymns. The most famous chorus of Handel's Messiah ends with it, repeated.", "Wikipedia, Cadence", "https://en.wikipedia.org/wiki/Cadence"),
+        "fact": fact("amen-cadence", "A move from chord IV to home, I, is called the plagal or Amen cadence, after the \"Amen\" so often sung to it in hymns. It has long been a favourite close in church music.", "Baker, A Dictionary of Musical Terms (1907), \"Cadence\"", "https://archive.org/details/dictionaryofmusi1907bake"),
         "steps": [
             learn("A run is a few notes on one syllable, each one clean, like stairs. The spirituals were made by enslaved Black Americans as sacred songs, and gospel grew from them in Black churches: here a run serves the word.",
                   [("One syllable", "Several clean notes"), ("One run a line", "On a held word; the tune comes first"), ("Light", SAFETY)]),
@@ -185,7 +185,7 @@ def gr_1_turn():
     notes = turn(0, MAJOR, 0) + turn(7, MAJOR, 4)
     return {
         "id": "gr-1-turn", "title": EN("A turn"),
-        "fact": fact("cpe-bach-turn-abused", "In 1753 C. P. E. Bach, J. S. Bach's son, called the turn \"appropriate for almost any place, and therefore often abused\": many believe, he wrote, that playing's charm lies in \"using turns on every occasion\".", "C. P. E. Bach, Essay on the True Manner of Playing the Clavier (1753), Packard Humanities Institute", "https://versuch.cpebach.org/v-html/part-I/chapter-2/section-4/I-2-4-p7.html"),
+        "fact": fact("cpe-bach-turn-abused", "In 1753 C. P. E. Bach, J. S. Bach's son, wrote that the turn fits almost anywhere and is \"for that reason often badly misused\": many think, he said, that a turn at every moment is the whole charm of playing.", "C. P. E. Bach, Essay on the True Manner of Playing the Clavier (1753), Packard Humanities Institute", "https://versuch.cpebach.org/v-html/part-I/chapter-2/section-4/I-2-4-p7.html"),
         "steps": [
             learn("The smallest run is a turn: the note above, the note, the note below, the note.",
                   [("Above", "One stair up"), ("The note", "Home"), ("Below, and back", "One stair down, then home")]),
@@ -254,7 +254,7 @@ def gr_2_clean():
                "why": EN("Clean is each note separate but joined. Smeared slides between them; choppy breaks them apart with breath.")} for a, b in order]
     return {
         "id": "gr-2-clean", "title": EN("Clean, smeared or choppy?"),
-        "fact": {**fact("tosi-ha-ha-ha", "In 1723 the singing teacher Pier Francesco Tosi wanted a run's notes \"not too much join'd, nor too much mark'd\". Pushed too hard, he wrote, a run on \"A\" sounds like \"Ha, Ha, Ha\".", "Tosi, Observations on the Florid Song, tr. Galliard (1743), Project Gutenberg", "https://www.gutenberg.org/ebooks/26477"), "distinct": ["tosi-seldom-prodigy"]},
+        "fact": {**fact("tosi-ha-ha-ha", "In 1723 the singing teacher Pier Francesco Tosi wanted a run's notes \"not too much join'd, nor too much mark'd\". A student who marked them \"with the Tongue, or with the Chin\" was to be corrected.", "Tosi, Observations on the Florid Song, tr. Galliard (1743), Project Gutenberg", "https://www.gutenberg.org/ebooks/26477"), "distinct": ["tosi-seldom-prodigy"]},
         "steps": [
             learn("A clean run keeps each note separate but joined. A smeared one slides; a choppy one breathes between notes, \"ha-ha-ha\".",
                   [("Clean", "Separate and joined"), ("Smeared", "Sliding together"), ("Choppy", "Breathy gaps")]),
@@ -302,7 +302,7 @@ def gr_2_challenge():
     ran = line[:k] + run
     return {
         "id": "gr-2-challenge", "title": EN("Wade in the Water"), "challenge": True,
-        "fact": fact("lining-out", "In lining out, a leader chants a line and the congregation answers with a slower, more decorated version. African American congregations made it their own, and it became one of the roots of gospel singing.", "Titon, Smithsonian Folklife Festival program (1997)", "https://folklife-media.si.edu/docs/festival/program-book-articles/FESTBK1997_25.pdf"),
+        "fact": fact("lining-out", "In lining out, a leader chants a line and the congregation answers with a much longer, more decorated tune. African American congregations, mostly Baptists in the rural South, still keep the tradition.", "Titon, Smithsonian Folklife Festival program (1997)", "https://folklife-media.si.edu/docs/festival/program-book-articles/FESTBK1997_25.pdf"),
         "steps": [
             learn("Five stairs again, then Wade in the Water: a minor song (darker, its third a half step lower), with a minor run in fours (In groups).",
                   [("Then and now", "Five stairs, today"), ("Minor", "The darker five notes"), ("In fours", "A small lean on the first")]),
@@ -322,7 +322,7 @@ def bend(start=3, end=4, seconds=3):
 def gr_3_bend():
     return {
         "id": "gr-3-bend", "title": EN("Bend up"),
-        "fact": fact("rhapsody-clarinet-slide", "The clarinet slide that opens Rhapsody in Blue began as a joke. Gershwin wrote a trill and a plain scale; in rehearsal Ross Gorman slid it instead, and Gershwin asked for as much \"wail\" as possible.", "Wikipedia, Rhapsody in Blue", "https://en.wikipedia.org/wiki/Rhapsody_in_Blue"),
+        "fact": fact("rhapsody-clarinet-slide", "The clarinet slide that opens Rhapsody in Blue wasn't in the score. Gershwin wrote a trill and a plain scale; in rehearsal Ross Gorman slid up it instead, to Gershwin's delight.", "Farrington, \"Rhapsody in Blue\", National Recording Registry essay, Library of Congress", "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/RhapsodyInBlue.pdf"),
         "steps": [
             learn("The blue note sits between the piano's keys, between the minor and major third, nearer the minor. Start there, loose, and bend up to the third: the arrival is what matters.",
                   [("Start low", "Between the keys"), ("Bend up", "Slowly, lightly"), ("Arrive", "And hold the third")], visual="vibrato"),
@@ -340,7 +340,7 @@ def gr_3_up():
         notes[-4]["lyric"] = "oh"
     return {
         "id": "gr-3-up", "title": EN("Run up to it"),
-        "fact": fact("slide-elevation-1654", "Baroque musicians had a name for two or three steps climbing into a note: the slide, Schleifer in German. Writing in 1654, England's John Playford called this rising kind an \"elevation\".", "Wikipedia, Slide (musical ornament)", "https://en.wikipedia.org/wiki/Slide_(musical_ornament)"),
+        "fact": fact("slide-elevation-1654", "Baroque musicians had a name for two or three steps climbing into a note: the slide, Schleifer in German. England's John Playford, in his Introduction to the Skill of Musick, called this rising grace an \"elevation\".", "Playford, An Introduction to the Skill of Musick (1674 ed.), p. 116", "https://archive.org/details/bim_early-english-books-1641-1700_an-introduction-to-the-s_playford-john_1674"),
         "steps": [
             learn("A run can climb into a note too: three stairs up, then hold.",
                   [("Three up", "Light and clean"), ("Then hold", "The note you ran to"), ("Light", "No pushing at the top")]),

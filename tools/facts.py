@@ -21,6 +21,8 @@ def fact_for(lesson_id, text):
     fact = {"id": source["id"], "text": {"en": text}, "source": {"en": source["source"]}}
     if source.get("url"):
         fact["url"] = source["url"]
+    if source.get("distinct"):
+        fact["distinct"] = source["distinct"]
     return fact
 
 
