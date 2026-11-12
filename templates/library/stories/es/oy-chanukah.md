@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: oy chanukah letra en español | oy chanukah canción en ídish | oy chanukah significado | oy chanukah historia | canción de janucá en ídish | oh chanukah letra
-translatedFrom: 1f9ab4a1894a
+translatedFrom: 109b2f82bbcd
 ---
 
 Oy Chanukah es una canción en ídish para Janucá, la fiesta judía de las luces, que dura ocho días. Su primera estrofa es la fiesta en casa: dreidels cada noche, latkes calientes sin fin, las velitas finas encendidas, la oración por los milagros dicha, y luego un baile.[^k4] La segunda alaba a Judá Macabeo, que expulsó al enemigo y devolvió la vida a Jerusalén.[^k4][^1macc] Mordkhe Rivesman escribió la letra para un cancionero "para la escuela y la familia judías", publicado en San Petersburgo en 1911 o 1912, y el libro llama a la melodía simplemente jasídica.[^k4][^idel29][^leksk] La melodía ha viajado más allá del ídish. En hebreo se canta como Yemei HaChanukah, y quienes hablan inglés la cantan con una letra inglesa propia.[^zemer][^chagim][^mjl]
@@ -53,7 +53,7 @@ El libro imprime dos estrofas, y cantamos las dos y luego otra vez la primera.[^
 - *Ale nakht in dreydlekh shpiln mir*: cada noche jugamos con dreidels, las peonzas de Janucá.
 - *zudik heyse latkes est on a shier*: come latkes calientes que chisporrotean, sin fin. On a shier es "sin medida".
 - *geshvinder tsindt, kinder, di dininke likhtelekh on*: deprisa, niños, a encender las velitas finas.
-- *Zogt al hanisim, loybt Got far di nisim*: a decir Al hanisim, a alabar a Dios por los milagros. Al hanisim, "por los milagros", es la acción de gracias que en Janucá se añade a las oraciones diarias y a la bendición después de las comidas.[^ejalh][^shab24][^jehan]
+- *Zogt al hanisim, loybt Got far di nisim*: a decir Al hanisim, a alabar a Hashem por los milagros. Al hanisim, "por los milagros", es la acción de gracias que en Janucá se añade a las oraciones diarias y a la bendición después de las comidas.[^ejalh][^shab24][^jehan]
 - *un kumt gikher tantsn in kon*: y a bailar deprisa en el corro. Un kon es la figura o el corro de un baile.[^harkavy][^league]
 
 **Estrofa 2.**
@@ -65,7 +65,7 @@ El libro imprime dos estrofas, y cantamos las dos y luego otra vez la primera.[^
 - *Zol yeder bazunder bazingen dem vunder*: que todos y cada uno canten el prodigio.
 - *un libn dos folk zolt ir oykh*: y que también se ame al pueblo.
 
-Las palabras hebreas dentro del ídish conservan su sonido ídish, que lleva el ritmo de la melodía: beys hamikdesh para el Templo, Yerusholayim para Jerusalén. La palabra ídish para Dios, Got, se canta tal como está impresa: es la palabra cotidiana del ídish, no uno de los nombres hebreos de Dios que nuestras canciones hebreas sustituyen por otras formas al cantarse fuera de la oración.
+Las palabras hebreas dentro del ídish conservan su sonido ídish, que lleva el ritmo de la melodía: beys hamikdesh para el Templo, Yerusholayim para Jerusalén. La palabra ídish para Hashem, Got, se canta tal como está impresa: es la palabra cotidiana del ídish, no uno de los nombres hebreos que nuestras canciones hebreas sustituyen por los nombres sustitutos que se acostumbran al cantar fuera de la oración.
 
 ## Cómo se canta
 

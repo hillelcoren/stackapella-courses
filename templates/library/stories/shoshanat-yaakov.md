@@ -15,7 +15,7 @@ reviewed: true
 searches: shoshanat yaakov meaning | shoshanat yaakov translation | shoshanat yaakov lyrics | shoshanat yaakov text | shoshanat yaakov words | shoshanat yaakov song
 ---
 
-Shoshanat Yaakov is a short Hebrew song for Purim. Once the Book of Esther has been read aloud from its scroll and the blessing after it said, these lines follow.[^baer][^kitzur] They are the last lines of an old poem, Asher heni, with one more line from an old custom, and they gather the whole story into a few words: the Jews rejoiced when they saw Mordecai in royal blue, God was their rescue then and is their hope in every generation, and Harbona, the king's servant who pointed out Haman's gallows, is remembered for good.[^vitry][^yer][^je-harbona] Its first line borrows its words of joy from the Book of Esther itself.[^esther][^vitry] Our tune is the one Abraham Baer, cantor of the Gothenburg synagogue in Sweden, printed in his handbook for cantors.[^baer][^hammarlund]
+Shoshanat Yaakov is a short Hebrew song for Purim. Once the Book of Esther has been read aloud from its scroll and the blessing after it said, these lines follow.[^baer][^kitzur] They are the last lines of an old poem, Asher heni, with one more line from an old custom, and they gather the whole story into a few words: the Jews rejoiced when they saw Mordecai in royal blue, Hashem was their rescue then and is their hope in every generation, and Harbona, the king's servant who pointed out Haman's gallows, is remembered for good.[^vitry][^yer][^je-harbona] Its first line borrows its words of joy from the Book of Esther itself.[^esther][^vitry] Our tune is the one Abraham Baer, cantor of the Gothenburg synagogue in Sweden, printed in his handbook for cantors.[^baer][^hammarlund]
 
 ## Where it comes from
 
@@ -42,7 +42,7 @@ Baer names no maker for it. His first preface, of 1877, explains his marks: "N. 
 
 ## What the words mean
 
-We sing the closing lines of Asher heni, then the line about Harbona.[^vitry][^baer] The Mahzor Vitry's copy ends a little differently, with "those who trust in You" and a last line calling God the shield of the righteous, and has no line about Harbona.[^vitry]
+We sing the closing lines of Asher heni, then the line about Harbona.[^vitry][^baer] The Mahzor Vitry's copy ends a little differently, with "those who trust in You" and a last line calling Hashem the shield of the righteous, and has no line about Harbona.[^vitry]
 
 **"Shoshanat Yaakov tzahala vesamecha."** The rose of Jacob cried out with joy and was glad. Shoshana is a lily or a rose; Simeon Singer's English prayer book made it "the lily of Jacob".[^singer] Jacob is the people of Israel, named for the patriarch. "Tzahala vesamecha" are the words the Book of Esther uses for the city of Shushan when Mordecai came out in royal robes.[^esther]
 
@@ -54,7 +54,7 @@ We sing the closing lines of Asher heni, then the line about Harbona.[^vitry][^b
 
 **"Vegam Charvona zachur latov."** And Harbona, too, is remembered for good. Zachur latov is the phrase Rabbi Pinchas asked for.[^yer][^soferim]
 
-These lines need none of the substituted forms of God's name our songs use outside prayer: they speak to God only as "You", in "kovecha" and "bach".
+These lines need none of the substituted names customary when singing outside prayer: they speak to Hashem only as "You", in "kovecha" and "bach".
 
 ## How it is sung
 

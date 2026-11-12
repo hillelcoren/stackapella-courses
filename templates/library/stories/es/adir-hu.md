@@ -1,7 +1,7 @@
 ---
 title: "Adir Hu: historia, significado y la letra explicada"
-description: "Adir Hu, himno alfabético del séder de Pésaj que pide a Dios reconstruir pronto el Templo; su melodía tiene su primera impresión conocida en Königsberg, 1644."
-lead: Adir Hu, "Poderoso es Él", es el himno alfabético que las familias asquenazíes cantan cerca del final del séder de Pésaj. Cada estrofa pide a Dios que construya pronto Su casa, el Templo, en nuestros días.
+description: "Adir Hu, himno alfabético del séder de Pésaj que pide a Hashem reconstruir el Templo; su melodía tiene su primera impresión conocida en Königsberg, 1644."
+lead: Adir Hu, "Poderoso es Él", es el himno alfabético que las familias asquenazíes cantan cerca del final del séder de Pésaj. Cada estrofa pide a Hashem que construya pronto Su casa, el Templo, en nuestros días.
 words: Hebreo tradicional, anónimo (en la Hagadá a finales del siglo XV)
 tune: Tradicional asquenazí; la primera impresión conocida es de 1644
 tuneName: ADDIR HU
@@ -18,10 +18,10 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adir hu significado | adir hu traducción | adir hu letra en español | adir hu canción de pésaj | adir hu transliteración | quién escribió adir hu
-translatedFrom: dc1b17b5f9ee
+translatedFrom: 8b75f6477b05
 ---
 
-Adir Hu es un himno hebreo que se canta en el séder de Pésaj, el rito en casa y la cena festiva de las primeras noches de la fiesta.[^je][^idel29] En el rito asquenazí llega una vez terminado el rito formal, entre los cantos que cierran la velada.[^ej][^sefaria] Sus estrofas recorren el alfabeto hebreo y alaban a Dios como poderoso, elegido, grande, santo y más, y cada una termina con la misma súplica: construye Tu casa, el Templo, pronto.[^je][^ej][^sefaria] A diferencia de la mayoría de los cantos del séder, tiene una sola melodía casi en todas partes. La Jewish Encyclopedia de 1901 señalaba que, mientras los demás himnos del séder tenían muchas melodías, este se cantaba con la misma, y que las sinagogas la tomaban prestada para marcar la fiesta en sus propias oraciones.[^je][^ej]
+Adir Hu es un himno hebreo que se canta en el séder de Pésaj, el rito en casa y la cena festiva de las primeras noches de la fiesta.[^je][^idel29] En el rito asquenazí llega una vez terminado el rito formal, entre los cantos que cierran la velada.[^ej][^sefaria] Sus estrofas recorren el alfabeto hebreo y alaban a Hashem como poderoso, elegido, grande, santo y más, y cada una termina con la misma súplica: construye Tu casa, el Templo, pronto.[^je][^ej][^sefaria] A diferencia de la mayoría de los cantos del séder, tiene una sola melodía casi en todas partes. La Jewish Encyclopedia de 1901 señalaba que, mientras los demás himnos del séder tenían muchas melodías, este se cantaba con la misma, y que las sinagogas la tomaban prestada para marcar la fiesta en sus propias oraciones.[^je][^ej]
 
 ## De dónde viene
 
@@ -29,7 +29,7 @@ Nadie sabe quién escribió la letra. La mayoría de las fuentes dicen que Adir 
 
 Adir Hu tiene un gemelo. Ki Lo Na'eh, que se canta justo antes, recorre el alfabeto de la misma manera.[^je][^sefaria] Las notas de la Union Haggadah dicen que los dos se añadieron en el siglo XV; la Jewish Encyclopedia dice que Adir Hu se adoptó un poco más tarde, como compañero de Ki Lo Na'eh.[^uh1923][^je] La Jewish Encyclopedia veía la diferencia en sus propósitos: Ki Lo Na'eh alaba el poder que puede redimir a Israel, mientras que Adir Hu le ruega a ese poder que se dé prisa y reconstruya.[^je]
 
-Una versión judeoalemana, "Allmächtiger Gott, nun bau dein' Tempel schiere", "Dios todopoderoso, construye ahora pronto Tu Templo", se cantó mucho en otro tiempo, y la Jewish Encyclopedia la encontraba aún en uso en 1901.[^je][^idel29] Como en el hebreo, sus estrofas cambiaban el nombre cada vez: Dios todopoderoso, Dios misericordioso, y así.[^je] Idelsohn escribe que se la llamaba el Baugesang, el canto de la reconstrucción del Templo.[^idel29]
+Una versión judeoalemana, "Allmächtiger Gott, nun bau dein' Tempel schiere", "Hashem todopoderoso, construye ahora pronto Tu Templo", se cantó mucho en otro tiempo, y la Jewish Encyclopedia la encontraba aún en uso en 1901.[^je][^idel29] Como en el hebreo, sus estrofas cambiaban el nombre cada vez: Hashem todopoderoso, Hashem misericordioso, y así.[^je] Idelsohn escribe que se la llamaba el Baugesang, el canto de la reconstrucción del Templo.[^idel29]
 
 La primera impresión conocida de la melodía está en una Hagadá con traducciones al latín y al alemán, publicada en Königsberg en 1644 por J. S. Rittangel, un hebraísta cristiano que enseñaba allí lenguas orientales.[^je][^idel29][^brown][^braginsky][^chalmers] Su libro da las melodías de los cantos que se cantaban al cerrar el séder, y la Jewish Encyclopedia dice que la imprimió con una parte de bajo.[^je][^braginsky][^niv] La forma de 1644 es más sencilla que la nuestra. La enciclopedia la llamó "una salmodia monótona más que una melodía fija", y pensaba que los bajos de la mesa, cantando "segundas" por debajo, pronto llegaron a frases más cercanas a la melodía que se cantaba en 1901.[^je] Idelsohn siguió ese cambio a través de otras dos impresiones, ambas en Leipzig, en 1677 y 1769. La Jewish Encyclopedia encontró la forma de 1769 "casi exactamente" igual a la melodía que se cantaba en el norte de Alemania en su propia época, 1901.[^idel29][^je]
 
@@ -48,7 +48,7 @@ No está claro de dónde viene la melodía. La Jewish Encyclopedia la tenía por
 
 El título son las primeras palabras: adir es poderoso, hu es él. "Él es poderoso".[^sefaria] El himno completo tiene ocho estrofas. La primera tiene una palabra, para la letra álef, y las otras siete tienen tres palabras cada una, así que los nombres avanzan desde bet hasta la última letra, tav.[^je][^sefaria] La Union Haggadah, que es la que cantamos, imprime tres estrofas que toman nombres de todo el himno, y cada estrofa mantiene el orden del alfabeto.[^uh1923][^sefaria]
 
-**El estribillo, en cada estrofa.** Yivne veito bekarov: que construya pronto Su casa. Bimhera, bimhera, beyameinu bekarov: deprisa, deprisa, en nuestros días, pronto. Kel bene, Kel bene, b'ne veitcha bekarov: Dios, construye; Dios, construye; construye pronto Tu casa.[^sefaria] Su casa es el Templo de Jerusalén.[^ej][^je][^idel29] El primer verso habla de Dios, "Su casa"; el último habla a Dios, "Tu casa".[^sefaria]
+**El estribillo, en cada estrofa.** Yivne veito bekarov: que construya pronto Su casa. Bimhera, bimhera, beyameinu bekarov: deprisa, deprisa, en nuestros días, pronto. Kel bene, Kel bene, b'ne veitcha bekarov: Hashem, construye; Hashem, construye; construye pronto Tu casa.[^sefaria] Su casa es el Templo de Jerusalén.[^ej][^je][^idel29] El primer verso habla de Hashem, "Su casa"; el último habla a Hashem, "Tu casa".[^sefaria]
 
 **Estrofa 1.** Adir hu: Él es poderoso. El libro lo imprime dos veces, y nuestra melodía lo canta una tercera vez para llenar los compases que las otras estrofas llenan con tres nombres.[^uh1923]
 
@@ -56,7 +56,7 @@ El título son las primeras palabras: adir es poderoso, hu es él. "Él es poder
 
 **Estrofa 3.** Tzadik hu, kadosh hu, rachum hu: Él es justo, Él es santo, Él es compasivo. Estos vienen de las dos últimas estrofas del himno.[^sefaria][^uh1923]
 
-Donde el hebreo dice El, un nombre de Dios, cantamos Kel. Muchos judíos cambian así los nombres de Dios cuando los dicen fuera de la oración, por reverencia y para no tomar el nombre en vano.[^ohr]
+Donde el hebreo dice El, uno de los nombres de Hashem, cantamos Kel, el nombre sustituto que se acostumbra al cantar fuera de la oración. Muchos judíos cambian así los nombres de Hashem cuando los dicen fuera de la oración, por reverencia y para no tomar el nombre en vano.[^ohr]
 
 ## Cómo se canta
 
@@ -66,7 +66,7 @@ Nuestro arreglo está tomado de la página 81 de la Union Haggadah, edición rev
 
 ## Versiones y otras letras
 
-El rabino Gustav Gottheil escribió "God of Might, God of Right, Thee we give all glory" (Dios de poder, Dios de justicia, a Ti te damos toda la gloria) con esta melodía. No es una traducción: sus estrofas alaban a Dios por la historia de la libertad que se cuenta cada año en Pésaj. El Union Hymnal lo imprimió en 1897, y la Union Haggadah lo imprime en la página anterior a Adir Hu.[^uh1897][^uh1923][^hymnary]
+El rabino Gustav Gottheil escribió "God of Might, God of Right, Thee we give all glory" (Dios de poder, Dios de justicia, a Ti te damos toda la gloria) con esta melodía. No es una traducción: sus estrofas alaban a Hashem por la historia de la libertad que se cuenta cada año en Pésaj. El Union Hymnal lo imprimió en 1897, y la Union Haggadah lo imprime en la página anterior a Adir Hu.[^uh1897][^uh1923][^hymnary]
 
 ## ¿Sabías que...?
 
@@ -84,11 +84,11 @@ El rabino Gustav Gottheil escribió "God of Might, God of Right, Thee we give al
 
 ### ¿Qué significa Adir Hu?
 
-"Él es poderoso". Adir significa poderoso y hu significa él. El resto del himno nombra a Dios de la misma manera, elegido, grande, santo y más, en el orden del alfabeto hebreo, y cada estrofa pide: que construya Su casa, el Templo, pronto, deprisa, en nuestros días.[^sefaria][^je][^ej]
+"Él es poderoso". Adir significa poderoso y hu significa él. El resto del himno nombra a Hashem de la misma manera, elegido, grande, santo y más, en el orden del alfabeto hebreo, y cada estrofa pide: que construya Su casa, el Templo, pronto, deprisa, en nuestros días.[^sefaria][^je][^ej]
 
 ### ¿Hay una versión en inglés de Adir Hu?
 
-Hay un himno inglés con su melodía, aunque no es una traducción. "God of Might, God of Right", del rabino Gustav Gottheil, se imprimió en el Union Hymnal de 1897 y en la Union Haggadah. Alaba a Dios por la historia de libertad de Pésaj en lugar de pedir el Templo.[^uh1897][^uh1923][^hymnary]
+Hay un himno inglés con su melodía, aunque no es una traducción. "God of Might, God of Right", del rabino Gustav Gottheil, se imprimió en el Union Hymnal de 1897 y en la Union Haggadah. Alaba a Hashem por la historia de libertad de Pésaj en lugar de pedir el Templo.[^uh1897][^uh1923][^hymnary]
 
 ### ¿Cuándo se canta Adir Hu en el séder de Pésaj?
 
@@ -96,7 +96,7 @@ Cerca del final, después de la cena, de los salmos del Hallel y de las palabras
 
 ### ¿Por qué esta versión canta "Kel" y no "El"?
 
-El es uno de los nombres de Dios. Muchos judíos cambian los nombres de Dios cuando los dicen fuera de la oración, por reverencia y para no usar el nombre en vano, así que El se convierte en Kel. Nuestras canciones judías, que se cantan fuera de la oración, usan las formas cambiadas; el significado es el mismo.[^ohr]
+El es uno de los nombres de Hashem. Muchos judíos cambian los nombres de Hashem cuando los dicen fuera de la oración, por reverencia y para no usar el nombre en vano, así que El se convierte en Kel. Nuestras canciones judías, que se cantan fuera de la oración, usan las formas cambiadas; el significado es el mismo.[^ohr]
 
 ### ¿Qué voz canta la melodía?
 

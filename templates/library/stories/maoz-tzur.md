@@ -26,7 +26,7 @@ Maoz Tzur is a Hebrew hymn for Hanukkah. In Ashkenazi homes it is sung once the 
 
 Almost nothing is known of the poet but his name. The first letters of the first five stanzas spell Mordecai in Hebrew.[^je][^ej] The stanzas open Maoz, Ra'ot, Dvir, Krot and Yevanim: mem, resh, dalet, kaf, yod.[^id1912] The scholar Zunz placed the poet in the middle of the thirteenth century, in Germany; a 2016 article puts him a little earlier, in the late twelfth or early thirteenth century.[^je][^ej][^melamed] Some scholars have identified him with Mordecai ben Isaac, who wrote the Sabbath table song Mah Yafit.[^je][^ej] The hymn belonged first to the home, sung after the lights were kindled, and only later came into the synagogue.[^je][^idel29]
 
-A sixth stanza, "Chasof zeroa", pleads for the redemption to come near and for God to avenge His servants. Most prayer books leave it out.[^je][^ej] Its first letters spell chazak, "be strong".[^ej][^melamed] It is not known in print until centuries after the hymn was written, so some scholars think it was added later; others, the Encyclopaedia Judaica among them, take the acrostic as a sign that it is the poet's own.[^ej][^melamed] Idelsohn's songbook prints five stanzas.[^id1912]
+A sixth stanza, "Chasof zeroa", pleads for the redemption to come near and for Hashem to avenge His servants. Most prayer books leave it out.[^je][^ej] Its first letters spell chazak, "be strong".[^ej][^melamed] It is not known in print until centuries after the hymn was written, so some scholars think it was added later; others, the Encyclopaedia Judaica among them, take the acrostic as a sign that it is the poet's own.[^ej][^melamed] Idelsohn's songbook prints five stanzas.[^id1912]
 
 The tune has no known composer. Its earliest known printing is in Isaac Nathan's Hebrew Melodies, published in London in 1815, where it carries Lord Byron's poem "On Jordan's Banks".[^ej][^je] The Jewish Encyclopedia reports that the Königsberg cantor Eduard Birnbaum identified it as an adaptation of an old German folk song, "So weiss ich eins, dass mich erfreut, das pluemlein auff preiter heyde": "I know a thing that gladdens me, the little flower on the wide heath".[^je][^idel29] Martin Luther set that folk melody to his hymn "Nun freut euch, lieben Christen gmein", written in 1523.[^je][^idel29][^lh1941]
 
@@ -44,23 +44,23 @@ In his history of Jewish music of 1929, A. Z. Idelsohn found only the first four
 
 ## What the words mean
 
-The title is the hymn's first words. Maoz is a stronghold or refuge, tzur is a rock, and yeshuati is "my salvation": God is called the stronghold and rock of the singer's rescue.[^ej] The phrase echoes Isaiah, who scolds Israel for forgetting "the Rock of thy stronghold".[^isaiah][^ej]
+The title is the hymn's first words. Maoz is a stronghold or refuge, tzur is a rock, and yeshuati is "my salvation": Hashem is called the stronghold and rock of the singer's rescue.[^ej] The phrase echoes Isaiah, who scolds Israel for forgetting "the Rock of thy stronghold".[^isaiah][^ej]
 
 We sing stanzas 1 and 5.
 
 **Stanza 1 (sung).** Stronghold, rock of my salvation, it is right to praise You. Let my house of prayer, the Temple, stand again, and there we will bring an offering of thanks. When You make ready the slaughter of the foe who barks at us, then I will finish, with a psalm, the dedication of the altar. Chanukat, "dedication", is the festival's own name: Hanukkah is the Feast of Dedication.[^je][^melamed]
 
-**Stanza 2.** My soul had its fill of troubles, my life made bitter by hard labor under Egypt. With His great hand God brought out His treasured people, and Pharaoh's army sank like a stone into the deep.[^id1912][^ej]
+**Stanza 2.** My soul had its fill of troubles, my life made bitter by hard labor under Egypt. With His great hand Hashem brought out His treasured people, and Pharaoh's army sank like a stone into the deep.[^id1912][^ej]
 
-**Stanza 3.** God brought me to His holy house, but there too I found no rest. The oppressor came and drove me into exile, because I had served strange gods. I drank a cup of staggering wine and almost perished. Babylon fell, Zerubbabel came, and after seventy years I was saved.[^id1912][^ej]
+**Stanza 3.** Hashem brought me to His holy house, but there too I found no rest. The oppressor came and drove me into exile, because I had served strange gods. I drank a cup of staggering wine and almost perished. Babylon fell, Zerubbabel came, and after seventy years I was saved.[^id1912][^ej]
 
-**Stanza 4.** Haman, the Agagite, son of Hammedatha, plotted to cut down the tall cypress, but the plot became his own trap. God lifted up the Benjamite, Mordecai, blotted out the enemy's name, and hanged his many sons on the gallows. This is the Purim story.[^id1912][^ej]
+**Stanza 4.** Haman, the Agagite, son of Hammedatha, plotted to cut down the tall cypress, but the plot became his own trap. Hashem lifted up the Benjamite, Mordecai, blotted out the enemy's name, and hanged his many sons on the gallows. This is the Purim story.[^id1912][^ej]
 
 **Stanza 5 (sung).** The Greeks gathered against me in the days of the Hasmoneans. They broke down the walls of my towers and made all the oils unclean. From what was left in the last of the jars, a miracle was done for the lilies, the people of Israel. Then the people of understanding set eight days for song and joyful praise.[^id1912][^talmud]
 
 **Stanza 6 (not sung).** Show Your holy arm and bring the redemption near.[^ej][^melamed]
 
-Our Jewish songs sing God's names in the substituted forms customary when singing outside prayer, but neither stanza we sing names God: the hymn speaks to God as "You", lecha.
+Our Jewish songs are sung with the substituted names customary when singing outside prayer, but neither stanza we sing has one of Hashem's names: the hymn speaks to Hashem as "You", lecha.
 
 ## How it is sung
 
@@ -87,7 +87,7 @@ Each stanza sings its last line twice, as Idelsohn's repeat signs ask.[^id1912] 
 
 ### What does "Maoz Tzur" mean?
 
-"Stronghold, Rock", the hymn's first words, which go on "of my salvation, it is right to praise You". The words speak to God and echo Isaiah's "the Rock of thy stronghold"; the English version is called Rock of Ages.[^ej][^isaiah][^uh1897]
+"Stronghold, Rock", the hymn's first words, which go on "of my salvation, it is right to praise You". The words speak to Hashem and echo Isaiah's "the Rock of thy stronghold"; the English version is called Rock of Ages.[^ej][^isaiah][^uh1897]
 
 ### Who wrote Maoz Tzur?
 

@@ -13,10 +13,10 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: shoshanat yaakov significado | shoshanat yaakov traducción | shoshanat yaakov letra | shoshanat yaakov texto | shoshanat yaakov purim | shoshanat yaakov canción
-translatedFrom: 473edcb5f2e7
+translatedFrom: 00bc72596db1
 ---
 
-Shoshanat Yaakov es una breve canción hebrea para Purim. Cuando se ha leído en voz alta el libro de Ester en su rollo y se ha dicho la bendición que lo sigue, vienen estos versos.[^baer][^kitzur] Son los últimos versos de un antiguo poema, Asher heni, con un verso más que viene de una antigua costumbre, y reúnen toda la historia en unas pocas palabras: los judíos se alegraron al ver a Mardoqueo vestido de azul real, Dios fue entonces su salvación y es su esperanza en cada generación, y Harbona, el servidor del rey que señaló la horca de Amán, es recordado para bien.[^vitry][^yer][^je-harbona] Su primer verso toma sus palabras de alegría del propio libro de Ester.[^esther][^vitry] Nuestra melodía es la que imprimió Abraham Baer, cantor de la sinagoga de Gotemburgo, en Suecia, en su manual para cantores.[^baer][^hammarlund]
+Shoshanat Yaakov es una breve canción hebrea para Purim. Cuando se ha leído en voz alta el libro de Ester en su rollo y se ha dicho la bendición que lo sigue, vienen estos versos.[^baer][^kitzur] Son los últimos versos de un antiguo poema, Asher heni, con un verso más que viene de una antigua costumbre, y reúnen toda la historia en unas pocas palabras: los judíos se alegraron al ver a Mardoqueo vestido de azul real, Hashem fue entonces su salvación y es su esperanza en cada generación, y Harbona, el servidor del rey que señaló la horca de Amán, es recordado para bien.[^vitry][^yer][^je-harbona] Su primer verso toma sus palabras de alegría del propio libro de Ester.[^esther][^vitry] Nuestra melodía es la que imprimió Abraham Baer, cantor de la sinagoga de Gotemburgo, en Suecia, en su manual para cantores.[^baer][^hammarlund]
 
 ## De dónde viene
 
@@ -43,7 +43,7 @@ Baer no nombra a ningún autor para ella. Su primer prefacio, de 1877, explica s
 
 ## Qué dice la letra
 
-Cantamos los versos finales de Asher heni y luego el verso sobre Harbona.[^vitry][^baer] La copia del Mahzor Vitry termina de forma algo distinta, con "los que confían en ti" y un último verso que llama a Dios escudo de los justos, y no tiene el verso sobre Harbona.[^vitry]
+Cantamos los versos finales de Asher heni y luego el verso sobre Harbona.[^vitry][^baer] La copia del Mahzor Vitry termina de forma algo distinta, con "los que confían en ti" y un último verso que llama a Hashem escudo de los justos, y no tiene el verso sobre Harbona.[^vitry]
 
 **"Shoshanat Yaakov tzahala vesamecha."** La rosa de Jacob gritó de júbilo y se alegró. Shoshana es un lirio o una rosa; el libro de oraciones inglés de Simeon Singer lo tradujo como "el lirio de Jacob".[^singer] Jacob es el pueblo de Israel, llamado así por el patriarca. "Tzahala vesamecha" son las palabras que usa el libro de Ester para la ciudad de Susa cuando Mardoqueo salió con vestiduras reales.[^esther]
 
@@ -55,7 +55,7 @@ Cantamos los versos finales de Asher heni y luego el verso sobre Harbona.[^vitry
 
 **"Vegam Charvona zachur latov."** Y también Harbona es recordado para bien. Zachur latov es la frase que pedía el rabino Pinchas.[^yer][^soferim]
 
-Estos versos no necesitan ninguna de las formas sustitutas del nombre de Dios que nuestras canciones usan fuera de la oración: solo le hablan a Dios como "tú", en "kovecha" y "bach".
+Estos versos no necesitan ninguno de los nombres sustitutos que se acostumbran al cantar fuera de la oración: solo le hablan a Hashem como "tú", en "kovecha" y "bach".
 
 ## Cómo se canta
 

@@ -1,7 +1,7 @@
 ---
 title: "Ein Keloheinu: history, meaning and the words explained"
 description: Ein Keloheinu comes near the end of the Sabbath morning service. Its first verses hide the word Amen; its tune was printed in Braunschweig in 1843.
-lead: Ein Keloheinu, "There is none like our God", is a short Hebrew hymn from the end of the Sabbath and festival morning service. Its tune here was written for the synagogue of Braunschweig, Germany.
+lead: Ein Keloheinu, "There is none like Hashem", is a short Hebrew hymn from the end of the Sabbath and festival morning service. Its tune here was written for the synagogue of Braunschweig, Germany.
 words: Traditional Hebrew liturgy, from the time of the Geonim; known from Amram Gaon's prayer book (9th century)
 tune: Julius Freudenthal (1805 to 1874)
 earliestPrinting: 1843, the tune, in Hirsch Goldberg's songbook for the Braunschweig synagogue
@@ -18,11 +18,11 @@ reviewed: true
 searches: ein keloheinu meaning | ein keloheinu translation | ein keloheinu prayer | ein keloheinu lyrics | ein keloheinu song
 ---
 
-Ein Keloheinu is a Hebrew hymn of five short verses that praise God by four titles: our God, our Lord, our King, our Saviour. In the Ashkenazi rite it comes at the close of the additional service on Sabbaths and festivals; Sephardi Jews say it on weekdays as well.[^ej][^huji] Nobody knows who wrote it, but it is already in the prayer book of Amram Gaon, from the ninth century.[^ej][^milken] Its words are older than any tune, so composers keep setting them: the Union Hymnal, an American Reform hymnal of 1897, printed four different settings, one after another.[^je][^uh1897][^uh1932] The tune we sing is the one Julius Freudenthal wrote for the synagogue of Braunschweig, printed there in 1843.[^idel29][^austerklein]
+Ein Keloheinu is a Hebrew hymn of five short verses that praise Hashem by four titles: Hashem, our Lord, our King, our Saviour. In the Ashkenazi rite it comes at the close of the additional service on Sabbaths and festivals; Sephardi Jews say it on weekdays as well.[^ej][^huji] Nobody knows who wrote it, but it is already in the prayer book of Amram Gaon, from the ninth century.[^ej][^milken] Its words are older than any tune, so composers keep setting them: the Union Hymnal, an American Reform hymnal of 1897, printed four different settings, one after another.[^je][^uh1897][^uh1932] The tune we sing is the one Julius Freudenthal wrote for the synagogue of Braunschweig, printed there in 1843.[^idel29][^austerklein]
 
 ## Where it comes from
 
-**The words.** The hymn comes from the early Middle Ages, the period of the Geonim.[^huji][^posen] Its earliest known appearance is in the prayer book of Amram Gaon, in the ninth century.[^ej][^milken] Its verses there stand in another order: the Jewish Encyclopedia of 1903 thought it opened with the question, "Who is like our God?", and only then answered, "There is none like our God".[^je][^ej] The two encyclopedias disagree on when today's order settled. The Jewish Encyclopedia says the hymn had its present form by the time of Rashi, who remarked on its acrostic; the Encyclopaedia Judaica says Rashi's prayer book still had the stanzas in a different sequence.[^je][^ej]
+**The words.** The hymn comes from the early Middle Ages, the period of the Geonim.[^huji][^posen] Its earliest known appearance is in the prayer book of Amram Gaon, in the ninth century.[^ej][^milken] Its verses there stand in another order: the Jewish Encyclopedia of 1903 thought it opened with the question, "Who is like Hashem?", and only then answered, "There is none like Hashem".[^je][^ej] The two encyclopedias disagree on when today's order settled. The Jewish Encyclopedia says the hymn had its present form by the time of Rashi, who remarked on its acrostic; the Encyclopaedia Judaica says Rashi's prayer book still had the stanzas in a different sequence.[^je][^ej]
 
 That acrostic hides a word in the hymn's opening letters. The first letters of the first three verses, Ein, Mi and Node, spell Amen. The last two verses open with Baruch and Ata, "Blessed are You", the words that begin every Jewish blessing.[^je][^ej][^miller]
 
@@ -46,19 +46,19 @@ From Germany the tune crossed to America. The Union Hymnal of the Central Confer
 
 ## What the words mean
 
-The hymn is built from four titles. Each verse runs through the same four titles of God, Elokeinu, our God; Adoneinu, our Lord; Malkeinu, our King; Moshienu, our Saviour, and changes only the word in front.[^je][^mjl]
+The hymn is built from four titles. Each verse runs through the same four titles, Elokeinu, Hashem; Adoneinu, our Lord; Malkeinu, our King; Moshienu, our Saviour, and changes only the word in front.[^je][^mjl]
 
-**Verse 1.** There is none like our God, none like our Lord, none like our King, none like our Saviour. Ke- means "like".
+**Verse 1.** There is none like Hashem, none like our Lord, none like our King, none like our Saviour. Ke- means "like".
 
-**Verse 2.** Who is like our God, our Lord, our King, our Saviour? The question comes after its answer; in Amram's day, as the Jewish Encyclopedia reads it, the question came first.[^je]
+**Verse 2.** Who is like Hashem, our Lord, our King, our Saviour? The question comes after its answer; in Amram's day, as the Jewish Encyclopedia reads it, the question came first.[^je]
 
-**Verse 3.** We give thanks to our God, our Lord, our King, our Saviour. Node means "we thank".
+**Verse 3.** We give thanks to Hashem, our Lord, our King, our Saviour. Node means "we thank".
 
-**Verse 4.** Blessed is our God, our Lord, our King, our Saviour.
+**Verse 4.** Blessed is Hashem, our Lord, our King, our Saviour.
 
-**Verse 5.** You are our God, our Lord, our King, our Saviour. The hymn ends by speaking to God directly. In the Ashkenazi prayer book a further line follows, recalling the incense the ancestors offered, which leads into the passage on the Temple incense read next.[^je][^posen]
+**Verse 5.** You are Hashem, our Lord, our King, our Saviour. The hymn ends by speaking to Hashem directly. In the Ashkenazi prayer book a further line follows, recalling the incense the ancestors offered, which leads into the passage on the Temple incense read next.[^je][^posen]
 
-The page shows our words in modern Israeli pronunciation. The 1897 hymnal spelled them the Ashkenazi way, "En Kelohenu", "Boruch", "Atto hu", with the same syllables under the same notes.[^uh1897] We sing God's names in the substituted forms, Kelokeinu and Elokeinu, with a k in place of the h: it is the custom not to say God's name in full outside prayer, and a practice song is outside prayer. The title keeps the spelling the prayer is known by, Ein Keloheinu: the custom is about saying the name aloud, and a title is read, not sung.
+The page shows our words in modern Israeli pronunciation. The 1897 hymnal spelled them the Ashkenazi way, "En Kelohenu", "Boruch", "Atto hu", with the same syllables under the same notes.[^uh1897] We sing it with the substituted names customary when singing outside prayer, Kelokeinu and Elokeinu, with a k in place of the h: it is the custom not to say Hashem's name in full outside prayer, and a practice song is outside prayer. The title keeps the spelling the prayer is known by, Ein Keloheinu: the custom is about saying the name aloud, and a title is read, not sung.
 
 ## How it is sung
 
@@ -88,7 +88,7 @@ Our arrangement is read from the 1897 Union Hymnal, No. 17. The book prints it i
 
 ### What does Ein Keloheinu mean?
 
-"There is none like our God." The hymn's five verses say there is none like our God, our Lord, our King, our Saviour; ask who is like our God; give thanks to our God; bless our God; and end, "You are our God". The first letters of the first three verses spell Amen.[^je][^ej][^mjl]
+"There is none like Hashem." The hymn's five verses say there is none like Hashem, our Lord, our King, our Saviour; ask who is like Hashem; give thanks to Hashem; bless Hashem; and end, "You are Hashem". The first letters of the first three verses spell Amen.[^je][^ej][^mjl]
 
 ### Who wrote Ein Keloheinu?
 

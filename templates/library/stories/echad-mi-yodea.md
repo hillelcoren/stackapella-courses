@@ -1,7 +1,7 @@
 ---
 title: "Echad Mi Yodea: history, meaning and the words explained"
-description: "Echad Mi Yodea, the seder's Hebrew counting song from one God to thirteen attributes; its earliest known printing is the Prague Haggadah of 1590."
-lead: Echad Mi Yodea, "Who knows one?", is the counting song near the end of the Ashkenazi Passover seder. Thirteen riddles, each answered from Jewish life, from one God to the thirteen attributes.
+description: "Echad Mi Yodea, the seder's Hebrew counting song from one, Hashem, to thirteen attributes; its earliest known printing is the Prague Haggadah of 1590."
+lead: Echad Mi Yodea, "Who knows one?", is the counting song near the end of the Ashkenazi Passover seder. Thirteen riddles, each answered from Jewish life, from one, Hashem, to the thirteen attributes.
 words: Traditional Hebrew, anonymous (earliest known printing 1590)
 tune: Traditional; printed without a composer in the Union Haggadah (1908)
 earliestPrinting: 1590, the words, in the Prague Haggadah, with a Yiddish translation
@@ -19,7 +19,7 @@ reviewed: true
 searches: echad mi yodea meaning | echad mi yodea lyrics english | echad mi yodea transliteration | echad mi yodea song meaning | echad mi yodea history | who wrote echad mi yodea
 ---
 
-Echad Mi Yodea is a Hebrew counting song for the Passover seder, the home service and meal on the first nights of the festival.[^idel29][^je] Ashkenazi families sing it near the end of the evening, just before Chad Gadya.[^ej][^jmrc][^sefaria] One voice asks, "Who knows one?", and the table answers: one is our God, in heaven and on earth.[^sefaria][^uh1923] Each new number brings a new answer, two tablets of the covenant, three fathers, four mothers, and the whole list is counted back down to one, all the way to thirteen.[^sefaria][^je] Its job was to keep everyone, children above all, awake to the end of a long night.[^ej][^chabad] The Union Haggadah of 1923 turned it into a race: "each reading as fast as possible, in the effort to finish the answer first."[^uh1923]
+Echad Mi Yodea is a Hebrew counting song for the Passover seder, the home service and meal on the first nights of the festival.[^idel29][^je] Ashkenazi families sing it near the end of the evening, just before Chad Gadya.[^ej][^jmrc][^sefaria] One voice asks, "Who knows one?", and the table answers: one is Hashem, in heaven and on earth.[^sefaria][^uh1923] Each new number brings a new answer, two tablets of the covenant, three fathers, four mothers, and the whole list is counted back down to one, all the way to thirteen.[^sefaria][^je] Its job was to keep everyone, children above all, awake to the end of a long night.[^ej][^chabad] The Union Haggadah of 1923 turned it into a race: "each reading as fast as possible, in the effort to finish the answer first."[^uh1923]
 
 ## Where it comes from
 
@@ -45,11 +45,11 @@ The tune we sing has no known composer. The Union Haggadah of the Central Confer
 
 ## What the words mean
 
-The title is the first line: echad, one; mi, who; yodea, knows. "Who knows one?"[^sefaria][^uh1923] Each verse asks who knows a number, "Shenayim mi yodea?", who knows two?, and answers "shenayim ani yodea", I know two, then names what it stands for and counts back down through every answer before it.[^sefaria][^uh1923] Every verse ends on the same line: "echad Elokeinu shebashamayim uvaaretz", one is our God, who is in heaven and on earth.[^sefaria][^uh1923]
+The title is the first line: echad, one; mi, who; yodea, knows. "Who knows one?"[^sefaria][^uh1923] Each verse asks who knows a number, "Shenayim mi yodea?", who knows two?, and answers "shenayim ani yodea", I know two, then names what it stands for and counts back down through every answer before it.[^sefaria][^uh1923] Every verse ends on the same line: "echad Elokeinu shebashamayim uvaaretz", one is Hashem, who is in heaven and on earth.[^sefaria][^uh1923]
 
-Where the Haggadah has Eloheinu, "our God", we sing Elokeinu, with a k. Many Jews alter God's names when they say them outside prayer, out of reverence and to avoid taking the name in vain, and a practice song is outside prayer.[^ohr]
+Where the Haggadah has Eloheinu, we sing Elokeinu, with a k, the substituted name customary when singing outside prayer. Many Jews alter Hashem's names when they say them outside prayer, out of reverence and to avoid taking the name in vain, and a practice song is outside prayer.[^ohr]
 
-**Verse 1.** One is our God, in heaven and on earth.[^sefaria]
+**Verse 1.** One is Hashem, in heaven and on earth.[^sefaria]
 
 **Verse 2.** Sh'nei luchot hab'rit: the two tablets of the covenant.[^sefaria][^uh1923]
 
@@ -57,7 +57,7 @@ Where the Haggadah has Eloheinu, "our God", we sing Elokeinu, with a k. Many Jew
 
 **Verse 4.** Arba imahot: four mothers, the matriarchs Sarah, Rebecca, Rachel and Leah, again the four the Talmud names.[^berakhot][^jepatriarchs]
 
-**The verses we don't sing.** Five is the five books of the Torah; six, the six orders of the Mishnah; seven, the days of the week; eight, the eight days to a baby boy's circumcision; nine, the nine months to birth; ten, the Ten Commandments; eleven, the lights in the sky that bowed to Joseph in his dream; twelve, the tribes of Israel; and thirteen, the thirteen attributes of God's mercy, from Exodus 34.[^sefaria][^je][^uh1923] Kaufmann Kohler, writing in the Jewish Encyclopedia, saw meaning in the song's stopping at thirteen, the unlucky number: it made thirteen a holy and so a lucky number for Jews.[^je][^uh1908]
+**The verses we don't sing.** Five is the five books of the Torah; six, the six orders of the Mishnah; seven, the days of the week; eight, the eight days to a baby boy's circumcision; nine, the nine months to birth; ten, the Ten Commandments; eleven, the lights in the sky that bowed to Joseph in his dream; twelve, the tribes of Israel; and thirteen, the thirteen attributes of Hashem's mercy, from Exodus 34.[^sefaria][^je][^uh1923] Kaufmann Kohler, writing in the Jewish Encyclopedia, saw meaning in the song's stopping at thirteen, the unlucky number: it made thirteen a holy and so a lucky number for Jews.[^je][^uh1908]
 
 ## How it is sung
 
@@ -73,7 +73,7 @@ Ladino-speaking Sephardi Jews of Salonica, Rhodes and Turkey sing their own vers
 
 ## Did you know?
 
-- The letters of echad, "one", add up to thirteen in Hebrew numbering, so the song starts and ends on God's oneness. Kaufmann Kohler made the point in the Jewish Encyclopedia, the Union Haggadah of 1908 repeated it, and later writers still do.[^je][^uh1908][^chabad]
+- The letters of echad, "one", add up to thirteen in Hebrew numbering, so the song starts and ends on Hashem's oneness. Kaufmann Kohler made the point in the Jewish Encyclopedia, the Union Haggadah of 1908 repeated it, and later writers still do.[^je][^uh1908][^chabad]
 - In Cochin, in India, it was a wedding song: the Jews there sang it on the Sabbath for a bride and groom.[^ej][^jrb]
 
 ## Singing it

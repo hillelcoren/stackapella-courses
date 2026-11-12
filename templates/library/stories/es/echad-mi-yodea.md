@@ -1,7 +1,7 @@
 ---
 title: "Echad Mi Yodea: historia, significado y la letra explicada"
-description: "Echad Mi Yodea, la canción hebrea para contar del séder, del Dios único a los trece atributos; su primera impresión conocida es la Hagadá de Praga de 1590."
-lead: Echad Mi Yodea, "¿Quién sabe qué es uno?", es la canción para contar del final del séder asquenazí de Pésaj. Trece adivinanzas, cada una respondida desde la vida judía, del Dios único a los trece atributos.
+description: "Echad Mi Yodea, la canción hebrea para contar del séder, del uno, Hashem, a los trece atributos; su primera impresión conocida es la Hagadá de Praga de 1590."
+lead: Echad Mi Yodea, "¿Quién sabe qué es uno?", es la canción para contar del final del séder asquenazí de Pésaj. Trece adivinanzas, cada una respondida desde la vida judía, del uno, Hashem, a los trece atributos.
 words: Hebreo tradicional, anónimo (primera impresión conocida, 1590)
 tune: Tradicional; impresa sin compositor en la Union Haggadah (1908)
 earliestPrinting: 1590, la letra, en la Hagadá de Praga, con una traducción al yidis
@@ -17,10 +17,10 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: echad mi yodea significado | echad mi yodea letra en español | echad mi yodea transliteración | echad mi yodea historia | quién escribió echad mi yodea | echad mi yodea pésaj
-translatedFrom: 6c16dab722f0
+translatedFrom: a3f700138742
 ---
 
-Echad Mi Yodea es una canción hebrea para contar que se canta en el séder de Pésaj, el oficio en casa y la cena de las primeras noches de la fiesta.[^idel29][^je] Las familias asquenazíes la cantan cerca del final de la velada, justo antes de Chad Gadya.[^ej][^jmrc][^sefaria] Una voz pregunta: "¿Quién sabe qué es uno?", y la mesa responde: uno es nuestro Dios, en el cielo y en la tierra.[^sefaria][^uh1923] Cada número nuevo trae una respuesta nueva, las dos tablas de la alianza, los tres padres, las cuatro madres, y la lista entera se cuenta hacia atrás hasta el uno, así hasta llegar al trece.[^sefaria][^je] Su función era mantener a todos despiertos, sobre todo a los niños, hasta el final de una noche larga.[^ej][^chabad] La Union Haggadah de 1923 la convirtió en una carrera: "cada uno leyendo lo más rápido posible, en el intento de terminar el primero la respuesta".[^uh1923]
+Echad Mi Yodea es una canción hebrea para contar que se canta en el séder de Pésaj, el oficio en casa y la cena de las primeras noches de la fiesta.[^idel29][^je] Las familias asquenazíes la cantan cerca del final de la velada, justo antes de Chad Gadya.[^ej][^jmrc][^sefaria] Una voz pregunta: "¿Quién sabe qué es uno?", y la mesa responde: uno es Hashem, en el cielo y en la tierra.[^sefaria][^uh1923] Cada número nuevo trae una respuesta nueva, las dos tablas de la alianza, los tres padres, las cuatro madres, y la lista entera se cuenta hacia atrás hasta el uno, así hasta llegar al trece.[^sefaria][^je] Su función era mantener a todos despiertos, sobre todo a los niños, hasta el final de una noche larga.[^ej][^chabad] La Union Haggadah de 1923 la convirtió en una carrera: "cada uno leyendo lo más rápido posible, en el intento de terminar el primero la respuesta".[^uh1923]
 
 ## De dónde viene
 
@@ -46,11 +46,11 @@ La melodía que cantamos no tiene compositor conocido. La Union Haggadah de la C
 
 ## Qué dice la letra
 
-El título es el primer verso: echad, uno; mi, quién; yodea, sabe. "¿Quién sabe qué es uno?"[^sefaria][^uh1923] Cada estrofa pregunta quién sabe un número, "Shenayim mi yodea?", ¿quién sabe qué es dos?, y responde "shenayim ani yodea", yo sé qué es dos; luego dice lo que significa y cuenta hacia atrás todas las respuestas anteriores.[^sefaria][^uh1923] Todas las estrofas terminan con el mismo verso: "echad Elokeinu shebashamayim uvaaretz", uno es nuestro Dios, que está en el cielo y en la tierra.[^sefaria][^uh1923]
+El título es el primer verso: echad, uno; mi, quién; yodea, sabe. "¿Quién sabe qué es uno?"[^sefaria][^uh1923] Cada estrofa pregunta quién sabe un número, "Shenayim mi yodea?", ¿quién sabe qué es dos?, y responde "shenayim ani yodea", yo sé qué es dos; luego dice lo que significa y cuenta hacia atrás todas las respuestas anteriores.[^sefaria][^uh1923] Todas las estrofas terminan con el mismo verso: "echad Elokeinu shebashamayim uvaaretz", uno es Hashem, que está en el cielo y en la tierra.[^sefaria][^uh1923]
 
-Donde la Hagadá tiene Eloheinu, "nuestro Dios", cantamos Elokeinu, con k. Muchos judíos cambian los nombres de Dios cuando los dicen fuera de la oración, por reverencia y para no pronunciar el nombre en vano, y una canción para practicar está fuera de la oración.[^ohr]
+Donde la Hagadá tiene Eloheinu, cantamos Elokeinu, con k, el nombre sustituto que se acostumbra al cantar fuera de la oración. Muchos judíos cambian los nombres de Hashem cuando los dicen fuera de la oración, por reverencia y para no pronunciar el nombre en vano, y una canción para practicar está fuera de la oración.[^ohr]
 
-**Estrofa 1.** Uno es nuestro Dios, en el cielo y en la tierra.[^sefaria]
+**Estrofa 1.** Uno es Hashem, en el cielo y en la tierra.[^sefaria]
 
 **Estrofa 2.** Sh'nei luchot hab'rit: las dos tablas de la alianza.[^sefaria][^uh1923]
 
@@ -58,7 +58,7 @@ Donde la Hagadá tiene Eloheinu, "nuestro Dios", cantamos Elokeinu, con k. Mucho
 
 **Estrofa 4.** Arba imahot: las cuatro madres, las matriarcas Sara, Rebeca, Raquel y Lea, de nuevo las cuatro que nombra el Talmud.[^berakhot][^jepatriarchs]
 
-**Las estrofas que no cantamos.** Cinco son los cinco libros de la Torá; seis, los seis órdenes de la Mishná; siete, los días de la semana; ocho, los ocho días hasta la circuncisión de un niño; nueve, los nueve meses hasta el parto; diez, los diez mandamientos; once, los astros que se inclinaron ante José en su sueño; doce, las tribus de Israel; y trece, los trece atributos de la misericordia de Dios, de Éxodo 34.[^sefaria][^je][^uh1923] Kaufmann Kohler, en la Jewish Encyclopedia, veía sentido en que la canción se detuviera en el trece, el número de la mala suerte: hacía del trece un número santo, y por tanto de buena suerte, para los judíos.[^je][^uh1908]
+**Las estrofas que no cantamos.** Cinco son los cinco libros de la Torá; seis, los seis órdenes de la Mishná; siete, los días de la semana; ocho, los ocho días hasta la circuncisión de un niño; nueve, los nueve meses hasta el parto; diez, los diez mandamientos; once, los astros que se inclinaron ante José en su sueño; doce, las tribus de Israel; y trece, los trece atributos de la misericordia de Hashem, de Éxodo 34.[^sefaria][^je][^uh1923] Kaufmann Kohler, en la Jewish Encyclopedia, veía sentido en que la canción se detuviera en el trece, el número de la mala suerte: hacía del trece un número santo, y por tanto de buena suerte, para los judíos.[^je][^uh1908]
 
 ## Cómo se canta
 
@@ -74,7 +74,7 @@ Los judíos sefardíes de habla ladina de Salónica, Rodas y Turquía cantan su 
 
 ## ¿Sabías que...?
 
-- Las letras de echad, "uno", suman trece en la numeración hebrea, así que la canción empieza y termina en la unicidad de Dios. Kaufmann Kohler lo señaló en la Jewish Encyclopedia, la Union Haggadah de 1908 lo repitió, y autores posteriores todavía lo hacen.[^je][^uh1908][^chabad]
+- Las letras de echad, "uno", suman trece en la numeración hebrea, así que la canción empieza y termina en la unicidad de Hashem. Kaufmann Kohler lo señaló en la Jewish Encyclopedia, la Union Haggadah de 1908 lo repitió, y autores posteriores todavía lo hacen.[^je][^uh1908][^chabad]
 - En Cochín, en la India, era una canción de boda: los judíos de allí la cantaban en sabbat para los novios.[^ej][^jrb]
 
 ## Cómo cantarla

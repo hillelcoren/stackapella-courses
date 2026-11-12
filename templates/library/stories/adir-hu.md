@@ -1,7 +1,7 @@
 ---
 title: "Adir Hu: history, meaning and the words explained"
-description: "Adir Hu, the Passover seder's alphabet hymn asking God to rebuild the Temple soon, sung to a tune whose earliest known printing is Königsberg, 1644."
-lead: Adir Hu, "Mighty is He", is the alphabet hymn Ashkenazi families sing near the end of the Passover seder. Every verse asks God to build His house, the Temple, soon, in our days.
+description: "Adir Hu, the Passover seder's alphabet hymn asking Hashem to rebuild the Temple soon, sung to a tune whose earliest known printing is Königsberg, 1644."
+lead: Adir Hu, "Mighty is He", is the alphabet hymn Ashkenazi families sing near the end of the Passover seder. Every verse asks Hashem to build His house, the Temple, soon, in our days.
 words: Traditional Hebrew, anonymous (in the Haggadah by the late 15th century)
 tune: Traditional Ashkenazi; the earliest known printing is 1644
 tuneName: ADDIR HU
@@ -20,7 +20,7 @@ reviewed: true
 searches: adir hu meaning | adir hu translation | adir hu lyrics english | adir hu passover song | adir hu transliteration | who wrote adir hu
 ---
 
-Adir Hu is a Hebrew hymn sung at the Passover seder, the home service and festive meal on the first nights of the festival.[^je][^idel29] In the Ashkenazi rite it comes after the formal service is over, among the songs that close the evening.[^ej][^sefaria] Its verses run through the Hebrew alphabet, praising God as mighty, chosen, great, holy and more, and each one ends with the same plea: build Your house, the Temple, soon.[^je][^ej][^sefaria] Unlike most seder songs, it has one tune nearly everywhere. The Jewish Encyclopedia of 1901 noted that while the other seder hymns had many tunes, this one was sung to the same melody, and synagogues borrowed it to mark the festival in their own prayers.[^je][^ej]
+Adir Hu is a Hebrew hymn sung at the Passover seder, the home service and festive meal on the first nights of the festival.[^je][^idel29] In the Ashkenazi rite it comes after the formal service is over, among the songs that close the evening.[^ej][^sefaria] Its verses run through the Hebrew alphabet, praising Hashem as mighty, chosen, great, holy and more, and each one ends with the same plea: build Your house, the Temple, soon.[^je][^ej][^sefaria] Unlike most seder songs, it has one tune nearly everywhere. The Jewish Encyclopedia of 1901 noted that while the other seder hymns had many tunes, this one was sung to the same melody, and synagogues borrowed it to mark the festival in their own prayers.[^je][^ej]
 
 ## Where it comes from
 
@@ -28,7 +28,7 @@ No one knows who wrote the words. Most sources say Adir Hu came late to the Hagg
 
 Adir Hu has a twin. Ki Lo Na'eh, sung just before it, runs through the alphabet in the same way.[^je][^sefaria] The Union Haggadah's notes say the two were added in the fifteenth century; the Jewish Encyclopedia says Adir Hu was taken up a little later, as a companion to Ki Lo Na'eh.[^uh1923][^je] The Jewish Encyclopedia saw the difference in their aims: Ki Lo Na'eh praises the power that can redeem Israel, while Adir Hu prays to that power to hurry and rebuild.[^je]
 
-A Judeo-German version, "Allmächtiger Gott, nun bau dein' Tempel schiere", "Almighty God, now build Your Temple soon", was once widely sung, and the Jewish Encyclopedia found it still in use in 1901.[^je][^idel29] Like the Hebrew, its verses changed the name each time: Almighty God, Merciful God, and so on.[^je] Idelsohn writes that it was called the Baugesang, the song of the rebuilding of the Temple.[^idel29]
+A Judeo-German version, "Allmächtiger Gott, nun bau dein' Tempel schiere", "Almighty Hashem, now build Your Temple soon", was once widely sung, and the Jewish Encyclopedia found it still in use in 1901.[^je][^idel29] Like the Hebrew, its verses changed the name each time: Almighty Hashem, Merciful Hashem, and so on.[^je] Idelsohn writes that it was called the Baugesang, the song of the rebuilding of the Temple.[^idel29]
 
 The tune's earliest known printing is in a Haggadah with Latin and German translations, published at Königsberg in 1644 by J. S. Rittangel, a Christian Hebraist who taught Oriental languages there.[^je][^idel29][^brown][^braginsky][^chalmers] His book gives the tunes of songs sung at the close of the seder, and the Jewish Encyclopedia says he printed it with a bass part.[^je][^braginsky][^niv] The 1644 form is plainer than ours. The encyclopedia called it "a droning intonation rather than a set melody", and thought the basses at the table, singing "seconds" under it, soon reached phrases nearer the tune sung in 1901.[^je] Idelsohn traced that change through two more printings, both at Leipzig, in 1677 and 1769. The Jewish Encyclopedia found the 1769 form "almost precisely" the tune sung in North Germany in its own day, 1901.[^idel29][^je]
 
@@ -47,7 +47,7 @@ Where the tune came from is not settled. The Jewish Encyclopedia took it for the
 
 The title is the first words: adir is mighty, hu is he. "He is mighty."[^sefaria] The full hymn has eight stanzas. The first has one word, for the letter alef, and the other seven have three words each, so the names march from bet to the last letter, tav.[^je][^sefaria] The Union Haggadah, which we sing, prints three verses that pick names from across the hymn, each verse keeping alphabet order.[^uh1923][^sefaria]
 
-**The refrain, in every verse.** Yivne veito bekarov: may He build His house soon. Bimhera, bimhera, beyameinu bekarov: speedily, speedily, in our days, soon. Kel bene, Kel bene, b'ne veitcha bekarov: God, build; God, build; build Your house soon.[^sefaria] His house is the Temple in Jerusalem.[^ej][^je][^idel29] The first line speaks about God, "His house"; the last speaks to God, "Your house".[^sefaria]
+**The refrain, in every verse.** Yivne veito bekarov: may He build His house soon. Bimhera, bimhera, beyameinu bekarov: speedily, speedily, in our days, soon. Kel bene, Kel bene, b'ne veitcha bekarov: Hashem, build; Hashem, build; build Your house soon.[^sefaria] His house is the Temple in Jerusalem.[^ej][^je][^idel29] The first line speaks about Hashem, "His house"; the last speaks to Hashem, "Your house".[^sefaria]
 
 **Verse 1.** Adir hu: He is mighty. The book prints it twice, and our tune sings it a third time to fill the bars the other verses fill with three names.[^uh1923]
 
@@ -55,7 +55,7 @@ The title is the first words: adir is mighty, hu is he. "He is mighty."[^sefaria
 
 **Verse 3.** Tzadik hu, kadosh hu, rachum hu: He is righteous, He is holy, He is compassionate. These come from the hymn's last two stanzas.[^sefaria][^uh1923]
 
-Where the Hebrew has El, a name of God, we sing Kel. Many Jews change God's names this way when saying them outside prayer, out of reverence and to avoid taking the name in vain.[^ohr]
+Where the Hebrew has El, one of Hashem's names, we sing Kel, the substituted name customary when singing outside prayer. Many Jews change Hashem's names this way when saying them outside prayer, out of reverence and to avoid taking the name in vain.[^ohr]
 
 ## How it is sung
 
@@ -65,7 +65,7 @@ Our arrangement is read from page 81 of the Union Haggadah, revised edition, pub
 
 ## Versions and other words
 
-Rabbi Gustav Gottheil wrote "God of Might, God of Right, Thee we give all glory" to the tune. It is not a translation: its verses praise God for the freedom story told each year at Passover. The Union Hymnal printed it in 1897, and the Union Haggadah prints it on the page before Adir Hu.[^uh1897][^uh1923][^hymnary]
+Rabbi Gustav Gottheil wrote "God of Might, God of Right, Thee we give all glory" to the tune. It is not a translation: its verses praise Hashem for the freedom story told each year at Passover. The Union Hymnal printed it in 1897, and the Union Haggadah prints it on the page before Adir Hu.[^uh1897][^uh1923][^hymnary]
 
 ## Did you know?
 
@@ -83,11 +83,11 @@ Rabbi Gustav Gottheil wrote "God of Might, God of Right, Thee we give all glory"
 
 ### What does Adir Hu mean?
 
-"He is mighty." Adir means mighty and hu means he. The rest of the hymn names God the same way, chosen, great, holy and more, in the order of the Hebrew alphabet, and every verse asks: may He build His house, the Temple, soon, speedily, in our days.[^sefaria][^je][^ej]
+"He is mighty." Adir means mighty and hu means he. The rest of the hymn names Hashem the same way, chosen, great, holy and more, in the order of the Hebrew alphabet, and every verse asks: may He build His house, the Temple, soon, speedily, in our days.[^sefaria][^je][^ej]
 
 ### Is there an English version of Adir Hu?
 
-There is an English hymn to its tune, though it is not a translation. Rabbi Gustav Gottheil's "God of Might, God of Right" was printed in the Union Hymnal of 1897 and the Union Haggadah. It praises God for the Passover story of freedom rather than asking for the Temple.[^uh1897][^uh1923][^hymnary]
+There is an English hymn to its tune, though it is not a translation. Rabbi Gustav Gottheil's "God of Might, God of Right" was printed in the Union Hymnal of 1897 and the Union Haggadah. It praises Hashem for the Passover story of freedom rather than asking for the Temple.[^uh1897][^uh1923][^hymnary]
 
 ### When is Adir Hu sung at the Passover seder?
 
@@ -95,7 +95,7 @@ Near the end, after the meal, the Hallel psalms and the words that close the for
 
 ### Why does this version sing "Kel" and not "El"?
 
-El is one of the names of God. Many Jews alter God's names when saying them outside prayer, out of reverence and to avoid using the name in vain, so El becomes Kel. Our Jewish songs, sung outside prayer, use the altered forms; the meaning is the same.[^ohr]
+El is one of Hashem's names. Many Jews alter Hashem's names when saying them outside prayer, out of reverence and to avoid using the name in vain, so El becomes Kel. Our Jewish songs, sung outside prayer, use the altered forms; the meaning is the same.[^ohr]
 
 ### Which part sings the tune?
 

@@ -16,11 +16,11 @@ reviewed: true
 searches: eliyahu hanavi meaning | eliyahu hanavi meaning in english | eliyahu hanavi song meaning | eliyahu hanavi havdalah song | eliyahu hanavi passover song | eliyahu hanavi translation | eliyahu hanavi song composer | eliyahu hanavi zachur latov
 ---
 
-Eliyahu HaNavi, "Elijah the Prophet", is a short Hebrew refrain. It is sung on Saturday night, once the Sabbath is over and Havdalah has been made, and at the Passover seder, when the door is opened for Elijah.[^ejhav][^jehab][^milken][^merwin] It calls the prophet by three names: Elijah the prophet, Elijah the Tishbite, Elijah of Gilead.[^idel1929][^sefard] The prophet Malachi promised that God would send Elijah before the great day to come, and the Talmud teaches that Elijah will not come on a Friday, nor on the Sabbath itself. Saturday night is the first moment he might.[^malachi][^eruvin][^mb295] The scholar A. Z. Idelsohn called this refrain the oldest part of the Elijah songs that, he wrote, Jewish communities already sang at the close of the Sabbath in the eleventh century.[^idel1929][^milken]
+Eliyahu HaNavi, "Elijah the Prophet", is a short Hebrew refrain. It is sung on Saturday night, once the Sabbath is over and Havdalah has been made, and at the Passover seder, when the door is opened for Elijah.[^ejhav][^jehab][^milken][^merwin] It calls the prophet by three names: Elijah the prophet, Elijah the Tishbite, Elijah of Gilead.[^idel1929][^sefard] The prophet Malachi promised that Hashem would send Elijah before the great day to come, and the Talmud teaches that Elijah will not come on a Friday, nor on the Sabbath itself. Saturday night is the first moment he might.[^malachi][^eruvin][^mb295] The scholar A. Z. Idelsohn called this refrain the oldest part of the Elijah songs that, he wrote, Jewish communities already sang at the close of the Sabbath in the eleventh century.[^idel1929][^milken]
 
 ## Where it comes from
 
-Elijah was a prophet of the northern kingdom of Israel in the ninth century BCE, in the days of King Ahab.[^jeelijah][^milken] The Book of Kings brings him in suddenly, without even his father's name, as "Elijah the Tishbite, who was of the settlers of Gilead", announcing a drought.[^kings][^jeelijah] He fought the worship of Baal, and, as Kings tells it, he did not die: a chariot of fire and horses of fire parted him from his disciple Elisha, and he went up to heaven in a whirlwind.[^kings][^jeelijah][^milken] The prophet Malachi then promised that God would send Elijah before the great and terrible day, to turn the hearts of parents to their children and of children to their parents.[^malachi][^jeelijah]
+Elijah was a prophet of the northern kingdom of Israel in the ninth century BCE, in the days of King Ahab.[^jeelijah][^milken] The Book of Kings brings him in suddenly, without even his father's name, as "Elijah the Tishbite, who was of the settlers of Gilead", announcing a drought.[^kings][^jeelijah] He fought the worship of Baal, and, as Kings tells it, he did not die: a chariot of fire and horses of fire parted him from his disciple Elisha, and he went up to heaven in a whirlwind.[^kings][^jeelijah][^milken] The prophet Malachi then promised that Hashem would send Elijah before the great and terrible day, to turn the hearts of parents to their children and of children to their parents.[^malachi][^jeelijah]
 
 From that promise grew the Elijah of Jewish tradition: the herald of the Messiah, the unseen guest at a circumcision and at the seder, and a protector who might turn up anywhere.[^jeelijah][^milken] The Talmud, in a discussion of a vow tied to the Messiah's coming, says that Elijah will not arrive on a Friday, because people would leave their Sabbath preparations to go out and greet him. It takes for granted that he cannot come on the Sabbath either.[^eruvin][^jehab] Books of Jewish custom, Sefer ha-Manhig and Abudarham, record the legend that follows: Elijah is expected on Saturday night, at the beginning of a new week.[^jehab][^abrahams] The law code called the Tur gives the reason for the custom: now that the Sabbath is past and he can come, we pray that he will, and bring us the good news.[^mb295][^sa295]
 
@@ -45,7 +45,7 @@ We sing only the refrain's first line, the three names, as Idelsohn printed it. 
 - **Eliyahu hatishbi**: Elijah the Tishbite. Kings calls him this, probably after a place called Tishbe, whose site is uncertain.[^jeelijah]
 - **Eliyahu, Eliyahu, Eliyahu hagiladi**: Elijah, Elijah, Elijah of Gilead, the land east of the Jordan where he lived among its settlers.[^kings][^jeelijah]
 
-In the prayer books the refrain goes on: "bimhera yavo eleinu im mashiach ben David", may he come to us soon with the Messiah, the son of David.[^sefard][^edot] Idelsohn's print has only part of that line, "bimheroh yovo elenu", may he soon come to us, set as a free recitative after the measured first section, and nothing of the longer, measured second half many sing today. We leave the recitative out.[^idel1929] The Milken Archive's notes suggest that carrying the tune on into that second line may be a later addition.[^milken] The refrain names no name of God, so it needs none of the substituted forms used when singing outside prayer.
+In the prayer books the refrain goes on: "bimhera yavo eleinu im mashiach ben David", may he come to us soon with the Messiah, the son of David.[^sefard][^edot] Idelsohn's print has only part of that line, "bimheroh yovo elenu", may he soon come to us, set as a free recitative after the measured first section, and nothing of the longer, measured second half many sing today. We leave the recitative out.[^idel1929] The Milken Archive's notes suggest that carrying the tune on into that second line may be a later addition.[^milken] The refrain has none of Hashem's names, so it needs none of the substituted names customary when singing outside prayer.
 
 ## How it is sung
 
@@ -57,7 +57,7 @@ In the prayer books the refrain goes on: "bimhera yavo eleinu im mashiach ben Da
 
 ## Versions and other words
 
-The long poem's stanzas run through the Hebrew alphabet in their second words and tell Elijah's story: zealous for God, a hairy man with a leather belt, who held back the dew and rain for three years, was fed by ravens, for whose sake a jar and a flask were blessed, who was answered by fire from heaven, and who rode horses of fire in a storm without tasting death.[^sefard][^milken] Some versions add a stanza asking him to bring good news "on Saturday nights".[^edot][^milken]
+The long poem's stanzas run through the Hebrew alphabet in their second words and tell Elijah's story: zealous for Hashem, a hairy man with a leather belt, who held back the dew and rain for three years, was fed by ravens, for whose sake a jar and a flask were blessed, who was answered by fire from heaven, and who rode horses of fire in a storm without tasting death.[^sefard][^milken] Some versions add a stanza asking him to bring good news "on Saturday nights".[^edot][^milken]
 
 In the Edot HaMizrach prayer book each stanza ends "Eliyahu hanavi zachur latov", Elijah the prophet, remembered for good.[^edot] Idelsohn's second popular tune, printed beside ours and marked "recit.", sets only the first two words, "Eliyohu hanovi", again and again.[^idel1929] The Milken Archive's notes trace Idelsohn's tune to a variant in a German synagogue hymnbook from Braunschweig, which they say has been cited as its earliest known notation. Idelsohn himself names no source and files the tune among Eastern Ashkenazi folk songs. That variant, the notes add, has fewer dotted rhythms than the tune now sung almost everywhere in American Ashkenazi circles.[^milken][^idel1929]
 
@@ -84,7 +84,7 @@ Because Elijah is the expected guest of the seder night. After the grace after t
 
 ### What does "Eliyahu hanavi zachur latov" mean?
 
-"Elijah the prophet, remembered for good." Zachur latov is an honour added to Elijah's name: the grace after meals asks God to send "Elijah the prophet, remembered for good", with good tidings, and the Edot HaMizrach prayer book ends each stanza of the Saturday-night poem with the same words. Because in Jewish tradition Elijah records people's deeds, as the Jewish Encyclopedia notes, some read it as a pun: mazkir latov, "who records for good".[^birkat][^sinclair][^edot][^jeelijah]
+"Elijah the prophet, remembered for good." Zachur latov is an honour added to Elijah's name: the grace after meals asks Hashem to send "Elijah the prophet, remembered for good", with good tidings, and the Edot HaMizrach prayer book ends each stanza of the Saturday-night poem with the same words. Because in Jewish tradition Elijah records people's deeds, as the Jewish Encyclopedia notes, some read it as a pun: mazkir latov, "who records for good".[^birkat][^sinclair][^edot][^jeelijah]
 
 ### Which part sings the tune?
 
@@ -93,7 +93,7 @@ The soprano sings the tune throughout, as Idelsohn printed it, a minor third hig
 ## Sing next
 
 - [Shoshanat Yaakov](/songs/shoshanat-yaakov): its last line ends with the same words, "zachur latov", remembered for good.
-- [Adir Hu](/songs/adir-hu): another song of the Passover seder, which asks God to build His house soon, in our days.
+- [Adir Hu](/songs/adir-hu): another song of the Passover seder, which asks Hashem to build His house soon, in our days.
 - [Lecha Dodi](/songs/lecha-dodi): the Friday-night hymn that greets the Sabbath, as this song sees it out.
 
 ## Sources

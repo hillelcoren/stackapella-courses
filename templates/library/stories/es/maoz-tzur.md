@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: maoz tzur significado | maoz tzur letra en español | maoz tzur traducción | quién escribió maoz tzur | maoz tzur historia | maoz tzur canción de janucá
-translatedFrom: 318ce397ff68
+translatedFrom: 51191bd644b6
 ---
 
 Maoz Tzur es un himno hebreo de Janucá. En los hogares asquenazíes se canta en cuanto se encienden las luces de Janucá, y también se canta en la sinagoga.[^je][^ej] Su poeta, Mordecai, lo escribió en las tierras alemanas en la Edad Media y dejó su nombre en las primeras letras de las estrofas.[^je][^ej] El himno recorre cuatro salvaciones, de Egipto, de Babilonia, del complot de Amán en Persia y de los griegos en tiempos de los asmoneos, y pide que se reconstruya el Templo.[^ej][^melamed] Su melodía alegre llegó a ser hasta tal punto el sonido de la fiesta que otros himnos y oraciones de Janucá también se cantan con ella.[^je][^ej] Las congregaciones de habla inglesa también lo cantan como Rock of Ages.[^ej][^uh1897]
@@ -27,7 +27,7 @@ Maoz Tzur es un himno hebreo de Janucá. En los hogares asquenazíes se canta en
 
 Del poeta casi no se sabe nada más que su nombre. Las primeras letras de las cinco primeras estrofas forman Mordecai en hebreo.[^je][^ej] Las estrofas empiezan por Maoz, Ra'ot, Dvir, Krot y Yevanim: mem, resh, dálet, kaf, yod.[^id1912] El estudioso Zunz situó al poeta a mediados del siglo XIII, en Alemania; un artículo de 2016 lo sitúa algo antes, a finales del siglo XII o principios del XIII.[^je][^ej][^melamed] Algunos estudiosos lo han identificado con Mordecai ben Isaac, autor del canto de mesa del sabbat Mah Yafit.[^je][^ej] El himno perteneció primero al hogar, donde se cantaba después de encender las luces, y solo más tarde entró en la sinagoga.[^je][^idel29]
 
-Una sexta estrofa, "Chasof zeroa", ruega que la redención se acerque y que Dios vengue a Sus siervos. La mayoría de los libros de oraciones la omiten.[^je][^ej] Sus primeras letras forman chazak, "sé fuerte".[^ej][^melamed] No se conoce impresa hasta siglos después de que se escribiera el himno, así que algunos estudiosos creen que se añadió más tarde; otros, entre ellos la Encyclopaedia Judaica, ven en el acróstico una señal de que es del propio poeta.[^ej][^melamed] El cancionero de Idelsohn imprime cinco estrofas.[^id1912]
+Una sexta estrofa, "Chasof zeroa", ruega que la redención se acerque y que Hashem vengue a Sus siervos. La mayoría de los libros de oraciones la omiten.[^je][^ej] Sus primeras letras forman chazak, "sé fuerte".[^ej][^melamed] No se conoce impresa hasta siglos después de que se escribiera el himno, así que algunos estudiosos creen que se añadió más tarde; otros, entre ellos la Encyclopaedia Judaica, ven en el acróstico una señal de que es del propio poeta.[^ej][^melamed] El cancionero de Idelsohn imprime cinco estrofas.[^id1912]
 
 La melodía no tiene compositor conocido. Su primera impresión conocida está en las Hebrew Melodies de Isaac Nathan, publicadas en Londres en 1815, donde lleva el poema de Lord Byron "On Jordan's Banks".[^ej][^je] La Jewish Encyclopedia cuenta que el cantor de Königsberg Eduard Birnbaum la identificó como una adaptación de una antigua canción popular alemana, "So weiss ich eins, dass mich erfreut, das pluemlein auff preiter heyde": "Sé de una cosa que me alegra, la florecilla del ancho brezal".[^je][^idel29] Martín Lutero puso esa melodía popular a su himno "Nun freut euch, lieben Christen gmein", escrito en 1523.[^je][^idel29][^lh1941]
 
@@ -45,23 +45,23 @@ En su historia de la música judía de 1929, A. Z. Idelsohn solo encontró en Ma
 
 ## Qué dice la letra
 
-El título son las primeras palabras del himno. Maoz es una fortaleza o un refugio, tzur es una roca, y yeshuati es "mi salvación": a Dios se le llama fortaleza y roca de la salvación de quien canta.[^ej] La frase recuerda a Isaías, que reprocha a Israel haber olvidado "la Roca de tu fortaleza".[^isaiah][^ej]
+El título son las primeras palabras del himno. Maoz es una fortaleza o un refugio, tzur es una roca, y yeshuati es "mi salvación": a Hashem se le llama fortaleza y roca de la salvación de quien canta.[^ej] La frase recuerda a Isaías, que reprocha a Israel haber olvidado "la Roca de tu fortaleza".[^isaiah][^ej]
 
 Cantamos las estrofas 1 y 5.
 
 **Estrofa 1 (se canta).** Fortaleza, roca de mi salvación, es justo alabarte. Que mi casa de oración, el Templo, vuelva a alzarse, y allí traeremos una ofrenda de gratitud. Cuando prepares la matanza del enemigo que nos ladra, entonces completaré, con un salmo, la dedicación del altar. Chanukat, "dedicación", es el nombre mismo de la fiesta: Janucá es la Fiesta de la Dedicación.[^je][^melamed]
 
-**Estrofa 2.** Mi alma se hartó de penas, mi vida amargada por el trabajo duro bajo Egipto. Con Su gran mano Dios sacó a Su pueblo querido, y el ejército del faraón se hundió como una piedra en el abismo.[^id1912][^ej]
+**Estrofa 2.** Mi alma se hartó de penas, mi vida amargada por el trabajo duro bajo Egipto. Con Su gran mano Hashem sacó a Su pueblo querido, y el ejército del faraón se hundió como una piedra en el abismo.[^id1912][^ej]
 
-**Estrofa 3.** Dios me llevó a Su santa casa, pero tampoco allí encontré descanso. Vino el opresor y me llevó al exilio, porque había servido a dioses extraños. Bebí una copa de vino que hace tambalear y casi perecí. Cayó Babilonia, llegó Zorobabel, y al cabo de setenta años fui salvado.[^id1912][^ej]
+**Estrofa 3.** Hashem me llevó a Su santa casa, pero tampoco allí encontré descanso. Vino el opresor y me llevó al exilio, porque había servido a dioses extraños. Bebí una copa de vino que hace tambalear y casi perecí. Cayó Babilonia, llegó Zorobabel, y al cabo de setenta años fui salvado.[^id1912][^ej]
 
-**Estrofa 4.** Amán, el agagueo, hijo de Hamedata, tramó talar el alto ciprés, pero la trama se volvió su propia trampa. Dios enalteció al benjaminita, Mardoqueo, borró el nombre del enemigo y colgó a sus muchos hijos en la horca. Es la historia de Purim.[^id1912][^ej]
+**Estrofa 4.** Amán, el agagueo, hijo de Hamedata, tramó talar el alto ciprés, pero la trama se volvió su propia trampa. Hashem enalteció al benjaminita, Mardoqueo, borró el nombre del enemigo y colgó a sus muchos hijos en la horca. Es la historia de Purim.[^id1912][^ej]
 
 **Estrofa 5 (se canta).** Los griegos se juntaron contra mí en tiempos de los asmoneos. Derribaron los muros de mis torres y profanaron todos los aceites. De lo que quedaba en la última de las vasijas se hizo un milagro para los lirios, el pueblo de Israel. Entonces la gente sabia fijó ocho días de canto y alabanza gozosa.[^id1912][^talmud]
 
 **Estrofa 6 (no se canta).** Muestra Tu santo brazo y acerca la redención.[^ej][^melamed]
 
-Nuestras canciones judías cantan los nombres de Dios con las formas sustitutas que se acostumbran al cantar fuera de la oración, pero ninguna de las dos estrofas que cantamos nombra a Dios: el himno se dirige a Dios como "Tú", lecha.
+Nuestras canciones judías se cantan con los nombres sustitutos que se acostumbran al cantar fuera de la oración, pero ninguna de las dos estrofas que cantamos tiene uno de los nombres de Hashem: el himno se dirige a Hashem como "Tú", lecha.
 
 ## Cómo se canta
 
@@ -88,7 +88,7 @@ Cada estrofa canta dos veces su último verso, como piden los signos de repetici
 
 ### ¿Qué significa "Maoz Tzur"?
 
-"Fortaleza, Roca", las primeras palabras del himno, que siguen "de mi salvación, es justo alabarte". La letra se dirige a Dios y recuerda "la Roca de tu fortaleza" de Isaías; la versión inglesa se llama Rock of Ages.[^ej][^isaiah][^uh1897]
+"Fortaleza, Roca", las primeras palabras del himno, que siguen "de mi salvación, es justo alabarte". La letra se dirige a Hashem y recuerda "la Roca de tu fortaleza" de Isaías; la versión inglesa se llama Rock of Ages.[^ej][^isaiah][^uh1897]
 
 ### ¿Quién escribió Maoz Tzur?
 

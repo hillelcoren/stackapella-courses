@@ -1,7 +1,7 @@
 ---
 title: "Ki Lo Na'eh: historia, significado y la letra explicada"
 description: "Ki Lo Na'eh, el himno alfabético de alabanza del séder de Pésaj, ya en el libro de leyes de un erudito londinense en 1287, cantado aquí como solo y coro."
-lead: Ki Lo Na'eh, "Porque a Él le corresponde", es el himno alfabético del final del séder de Pésaj. Cada estrofa llama a Dios poderoso, santo y fuerte, y sus huestes responden: tuyo, Señor, es el reino.
+lead: Ki Lo Na'eh, "Porque a Él le corresponde", es el himno alfabético del final del séder de Pésaj. Cada estrofa llama a Hashem poderoso, santo y fuerte, y sus huestes responden: tuyo, Señor, es el reino.
 words: Hebreo tradicional, anónimo (en Inglaterra ya en 1287)
 tune: Tradicional; en la Union Haggadah (1908), marcada "Traditional" en 1923
 language: hebreo
@@ -14,10 +14,10 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: ki lo naeh letra | ki lo na eh transliteración | ki lo naeh pésaj | ki lo na eh traducción | ki lo naeh significado
-translatedFrom: ae4e6133afa6
+translatedFrom: f48bc25f74ca
 ---
 
-Ki Lo Na'eh es un himno hebreo que se canta en el séder de Pésaj, el oficio en casa y la cena festiva de las primeras noches de la fiesta.[^je][^ej] Llega cerca del final, cuando ya ha terminado la parte formal de la Hagadá, entre las canciones que cierran la noche, y se canta sobre todo en hogares asquenazíes.[^ej][^sefaria][^bogomilsky] Sus estrofas recorren el alfabeto hebreo. Cada una llama a Dios poderoso, elegido, santo o fuerte en su reinado, y luego nombra a un grupo de sus servidores que responden: tuyo, y tuyo, Señor, es el reino.[^ej][^sefaria] La mesa lo lleva cantando más de siete siglos. Un erudito de Londres lo copió en su libro de ley judía en 1287, y la Hagadá del movimiento reformista aún lo imprimía con música en 1908 y 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
+Ki Lo Na'eh es un himno hebreo que se canta en el séder de Pésaj, el oficio en casa y la cena festiva de las primeras noches de la fiesta.[^je][^ej] Llega cerca del final, cuando ya ha terminado la parte formal de la Hagadá, entre las canciones que cierran la noche, y se canta sobre todo en hogares asquenazíes.[^ej][^sefaria][^bogomilsky] Sus estrofas recorren el alfabeto hebreo. Cada una llama a Hashem poderoso, elegido, santo o fuerte en su reinado, y luego nombra a un grupo de sus servidores que responden: tuyo, y tuyo, Señor, es el reino.[^ej][^sefaria] La mesa lo lleva cantando más de siete siglos. Un erudito de Londres lo copió en su libro de ley judía en 1287, y la Hagadá del movimiento reformista aún lo imprimía con música en 1908 y 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
 
 ## De dónde viene
 
@@ -49,11 +49,11 @@ El himno completo tiene ocho estrofas, todas iguales salvo tres palabras cuyas p
 
 **Estrofa 3.** Takif bimlucha: fuerte en su reinado. Tomech kahalacha: el que sostiene, como es debido. Temimav yomru lo: sus íntegros, los de corazón entero, le dicen.[^sefaria]
 
-**La respuesta, después de cada estrofa.** Lecha ulecha: tuyo y tuyo. Lecha ki lecha: tuyo, porque es tuyo. Lecha af lecha: tuyo, sí, tuyo. Lecha Adoshem hamamlacha: tuyo, Señor, es el reino. Y luego otra vez el verso del título.[^sefaria] La respuesta está hecha de frases de la Biblia: "tuyo, Señor, es el reino" es de 1 Crónicas 29:11, y "los cielos son tuyos, y también la tierra", del Salmo 89:12, da el modelo de "lecha af lecha".[^tanakh][^baruch][^sacks] Fíjate en el giro: el himno habla sobre Dios, "a Él", pero las huestes le hablan a Dios, "tuyo".[^sefaria]
+**La respuesta, después de cada estrofa.** Lecha ulecha: tuyo y tuyo. Lecha ki lecha: tuyo, porque es tuyo. Lecha af lecha: tuyo, sí, tuyo. Lecha Adoshem hamamlacha: tuyo, Señor, es el reino. Y luego otra vez el verso del título.[^sefaria] La respuesta está hecha de frases de la Biblia: "tuyo, Señor, es el reino" es de 1 Crónicas 29:11, y "los cielos son tuyos, y también la tierra", del Salmo 89:12, da el modelo de "lecha af lecha".[^tanakh][^baruch][^sacks] Fíjate en el giro: el himno habla sobre Hashem, "a Él", pero las huestes le hablan a Hashem, "tuyo".[^sefaria]
 
-¿Quiénes hablan? La Encyclopaedia Judaica los lee a todos como clases de ángeles.[^ej] Jacob de Lissa, en su comentario a la Hagadá, Maaseh Nissim, los divide: las tropas y los ángeles son ángeles, pero los justos y los íntegros son Israel. También lee los nombres a través del midrash. El midrash dice que Dios se apareció en el mar Rojo como un guerrero y en el Sinaí como un anciano lleno de compasión, y él y otros maestros leen bachur, que también puede significar "joven", como ese joven guerrero. Rachum recuerda la historia del Talmud según la cual Dios hizo callar a los ángeles que cantaban mientras los egipcios se ahogaban, porque también ellos eran obra de sus manos.[^lissa][^ejlissa][^bogomilsky][^rashi][^megillah]
+¿Quiénes hablan? La Encyclopaedia Judaica los lee a todos como clases de ángeles.[^ej] Jacob de Lissa, en su comentario a la Hagadá, Maaseh Nissim, los divide: las tropas y los ángeles son ángeles, pero los justos y los íntegros son Israel. También lee los nombres a través del midrash. El midrash dice que Hashem se apareció en el mar Rojo como un guerrero y en el Sinaí como un anciano lleno de compasión, y él y otros maestros leen bachur, que también puede significar "joven", como ese joven guerrero. Rachum recuerda la historia del Talmud según la cual Hashem hizo callar a los ángeles que cantaban mientras los egipcios se ahogaban, porque también ellos eran obra de sus manos.[^lissa][^ejlissa][^bogomilsky][^rashi][^megillah]
 
-Donde el hebreo tiene el nombre de cuatro letras de Dios, que la Union Haggadah escribe "Adonoi", cantamos Adoshem. Muchos judíos cambian los nombres de Dios al decirlos fuera de la oración, por reverencia y para no pronunciar el nombre en vano; nuestras canciones, que se cantan fuera de la oración, usan la forma cambiada, y el significado es el mismo.[^ohr][^outorah]
+Donde el hebreo tiene el nombre de cuatro letras, que la Union Haggadah escribe "Adonoi", cantamos Adoshem, el nombre sustituto que se acostumbra al cantar fuera de la oración. Muchos judíos cambian los nombres de Hashem al decirlos fuera de la oración, por reverencia y para no pronunciar el nombre en vano; nuestras canciones, que se cantan fuera de la oración, usan la forma cambiada, y el significado es el mismo.[^ohr][^outorah]
 
 ## Cómo se canta
 

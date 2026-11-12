@@ -14,10 +14,10 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adon olam significado | adon olam traducción | quién escribió adon olam | adon olam historia | adon olam asher malach significado | adon olam melodía
-translatedFrom: 32c7fb110d85
+translatedFrom: 664b0c43154a
 ---
 
-Adon Olam, "Señor del mundo", es un himno hebreo sobre Dios, que reinaba antes de que nada fuera creado y reinará solo cuando todo haya desaparecido.[^sefaria] Está en los dos extremos de las oraciones de la mañana. Se imprime al comienzo del oficio diario, y al cierre del oficio de la mañana del sabbat y de las fiestas muchas congregaciones lo cantan juntas.[^je][^ej][^posen] Sus últimos versos ponen el espíritu de quien canta en la mano de Dios, "cuando duermo y cuando despierto", así que también es una oración de la noche: se dice antes de dormir y junto a quien se está muriendo.[^abrahams][^ej][^je]
+Adon Olam, "Señor del mundo", es un himno hebreo sobre Hashem, que reinaba antes de que nada fuera creado y reinará solo cuando todo haya desaparecido.[^sefaria] Está en los dos extremos de las oraciones de la mañana. Se imprime al comienzo del oficio diario, y al cierre del oficio de la mañana del sabbat y de las fiestas muchas congregaciones lo cantan juntas.[^je][^ej][^posen] Sus últimos versos ponen el espíritu de quien canta en la mano de Hashem, "cuando duermo y cuando despierto", así que también es una oración de la noche: se dice antes de dormir y junto a quien se está muriendo.[^abrahams][^ej][^je]
 
 ## De dónde viene
 
@@ -43,7 +43,7 @@ Su Schirej Tefilah, cantos para la sinagoga, se imprimió en Rostov, y la edici�
 
 ## Qué dice la letra
 
-El himno va del Dios más allá del tiempo a la confianza de quien canta: Abrahams veía su encanto en unir las grandes doctrinas de la fe con pensamientos sencillos del corazón.[^abrahams] Aquí están los diez versos en palabras sencillas, tal como los imprime el libro de oraciones asquenazí.[^sefaria] Cantamos los versos 1 a 6, 9 y 10, dos versos en cada vuelta de la sección de Gerovitsch, y dejamos fuera el 7 y el 8.
+El himno va de Hashem, más allá del tiempo, a la confianza de quien canta: Abrahams veía su encanto en unir las grandes doctrinas de la fe con pensamientos sencillos del corazón.[^abrahams] Aquí están los diez versos en palabras sencillas, tal como los imprime el libro de oraciones asquenazí.[^sefaria] Cantamos los versos 1 a 6, 9 y 10, dos versos en cada vuelta de la sección de Gerovitsch, y dejamos fuera el 7 y el 8.
 
 **Verso 1 (cantado).** Señor del mundo, que fue Rey antes de que nada en absoluto fuera formado. Adon es "señor", y olam es "mundo", una palabra que también significa "para siempre". Malach es "reinó".
 
@@ -57,15 +57,15 @@ El himno va del Dios más allá del tiempo a la confianza de quien canta: Abraha
 
 **Verso 6 (cantado).** Sin principio, sin fin; suyos son la fuerza y el dominio. Misra es "dominio".
 
-**Verso 7 (no se canta).** Él es mi Dios, mi redentor que vive, mi roca en mi dolor, en el tiempo de angustia.
+**Verso 7 (no se canta).** Él es Hashem, mi redentor que vive, mi roca en mi dolor, en el tiempo de angustia.
 
 **Verso 8 (no se canta).** Él es mi estandarte y mi refugio, mi porción el día en que lo llamo.
 
 **Verso 9 (cantado).** En su mano entrego mi espíritu, cuando duermo y cuando despierto. Afkid es "encomiendo", ruchi, "mi espíritu". Recuerdan el Salmo 31, "En tu mano pongo mi espíritu".[^ps31]
 
-**Verso 10 (cantado).** Y con mi espíritu, también mi cuerpo. Dios está conmigo; no temeré. Geviyati es "mi cuerpo". Las últimas palabras recuerdan el Salmo 118:6, donde el salmista, con Dios de su parte, dice que no temerá.[^ps118][^barth]
+**Verso 10 (cantado).** Y con mi espíritu, también mi cuerpo. Hashem está conmigo; no temeré. Geviyati es "mi cuerpo". Las últimas palabras recuerdan el Salmo 118:6, donde el salmista, con Hashem de su parte, dice que no temerá.[^ps118][^barth]
 
-En el verso 10 el hebreo tiene el nombre de cuatro letras de Dios, y cantamos "Adoshem li". Muchos judíos cambian los nombres de Dios cuando los dicen fuera de la oración, por reverencia y para no pronunciar el nombre en vano, y una canción para practicar está fuera de la oración.[^ohr][^outorah]
+En el verso 10 el hebreo tiene el nombre de cuatro letras, y cantamos "Adoshem li", el nombre sustituto que se acostumbra al cantar fuera de la oración. Muchos judíos cambian los nombres de Hashem cuando los dicen fuera de la oración, por reverencia y para no pronunciar el nombre en vano, y una canción para practicar está fuera de la oración.[^ohr][^outorah]
 
 Gerovitsch imprimió la letra con la pronunciación asquenazí, "Adon olom ascher molach".[^zemer] Nosotros la cantamos con la pronunciación israelí moderna, sobre las mismas notas.
 

@@ -52,7 +52,7 @@ The book prints two verses, and we sing both, then the first again.[^k4] Here th
 - *Ale nakht in dreydlekh shpiln mir*: every night we play with dreidels, the spinning tops of Hanukkah.
 - *zudik heyse latkes est on a shier*: eat sizzling-hot latkes without end. On a shier is "without measure".
 - *geshvinder tsindt, kinder, di dininke likhtelekh on*: quickly, children, light the thin little candles.
-- *Zogt al hanisim, loybt Got far di nisim*: say Al hanisim, praise God for the miracles. Al hanisim, "for the miracles", is the thanksgiving added to the daily prayers and to the grace after meals on Hanukkah.[^ejalh][^shab24][^jehan]
+- *Zogt al hanisim, loybt Got far di nisim*: say Al hanisim, praise Hashem for the miracles. Al hanisim, "for the miracles", is the thanksgiving added to the daily prayers and to the grace after meals on Hanukkah.[^ejalh][^shab24][^jehan]
 - *un kumt gikher tantsn in kon*: and come quickly to dance in the ring. A kon is a dance's figure or circle.[^harkavy][^league]
 
 **Verse 2.**
@@ -64,7 +64,7 @@ The book prints two verses, and we sing both, then the first again.[^k4] Here th
 - *Zol yeder bazunder bazingen dem vunder*: let each and every one sing of the wonder.
 - *un libn dos folk zolt ir oykh*: and you should love the people too.
 
-The Hebrew words inside the Yiddish keep their Yiddish sound, which the tune's rhythm carries: beys hamikdesh for the Temple, Yerusholayim for Jerusalem. The Yiddish word for God, Got, is sung as printed: it is the everyday Yiddish word, not one of the Hebrew names of God that our Hebrew songs replace with substitute forms when sung outside prayer.
+The Hebrew words inside the Yiddish keep their Yiddish sound, which the tune's rhythm carries: beys hamikdesh for the Temple, Yerusholayim for Jerusalem. The Yiddish word for Hashem, Got, is sung as printed: it is the everyday Yiddish word, not one of the Hebrew names that our Hebrew songs replace with the substituted names customary when singing outside prayer.
 
 ## How it is sung
 

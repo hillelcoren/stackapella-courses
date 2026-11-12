@@ -1,7 +1,7 @@
 ---
 title: "Ein Keloheinu: historia, significado y la letra explicada"
 description: Ein Keloheinu llega casi al final del oficio matinal del sabbat. Sus primeras estrofas esconden la palabra Amén; su melodía se imprimió en Braunschweig en 1843.
-lead: Ein Keloheinu, "No hay nadie como nuestro Dios", es un breve himno hebreo del final del oficio de la mañana del sabbat y de las fiestas. Nuestra melodía se escribió para la sinagoga de Braunschweig, en Alemania.
+lead: Ein Keloheinu, "No hay nadie como Hashem", es un breve himno hebreo del final del oficio de la mañana del sabbat y de las fiestas. Nuestra melodía se escribió para la sinagoga de Braunschweig, en Alemania.
 words: Liturgia hebrea tradicional, de la época de los Geonim; conocida por el libro de oraciones de Amram Gaon (siglo IX)
 tune: Julius Freudenthal (1805 a 1874)
 earliestPrinting: 1843, la melodía, en el cancionero de Hirsch Goldberg para la sinagoga de Braunschweig
@@ -16,14 +16,14 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: ein keloheinu significado | ein keloheinu traducción | ein keloheinu oración | ein keloheinu letra | ein keloheinu canción
-translatedFrom: 565c1a0b1186
+translatedFrom: f8a5dcb27f19
 ---
 
-Ein Keloheinu es un himno hebreo de cinco estrofas cortas que alaban a Dios con cuatro títulos: nuestro Dios, nuestro Señor, nuestro Rey, nuestro Salvador. En el rito asquenazí llega al cierre del oficio adicional de los sabbats y las fiestas; los judíos sefardíes lo dicen también entre semana.[^ej][^huji] Nadie sabe quién lo escribió, pero ya está en el libro de oraciones de Amram Gaon, del siglo IX.[^ej][^milken] Su letra es más antigua que cualquier melodía, así que los compositores siguen poniéndole música: el Union Hymnal, un himnario reformista estadounidense de 1897, imprimió cuatro versiones distintas, una tras otra.[^je][^uh1897][^uh1932] La melodía que cantamos es la que Julius Freudenthal escribió para la sinagoga de Braunschweig, impresa allí en 1843.[^idel29][^austerklein]
+Ein Keloheinu es un himno hebreo de cinco estrofas cortas que alaban a Hashem con cuatro títulos: Hashem, nuestro Señor, nuestro Rey, nuestro Salvador. En el rito asquenazí llega al cierre del oficio adicional de los sabbats y las fiestas; los judíos sefardíes lo dicen también entre semana.[^ej][^huji] Nadie sabe quién lo escribió, pero ya está en el libro de oraciones de Amram Gaon, del siglo IX.[^ej][^milken] Su letra es más antigua que cualquier melodía, así que los compositores siguen poniéndole música: el Union Hymnal, un himnario reformista estadounidense de 1897, imprimió cuatro versiones distintas, una tras otra.[^je][^uh1897][^uh1932] La melodía que cantamos es la que Julius Freudenthal escribió para la sinagoga de Braunschweig, impresa allí en 1843.[^idel29][^austerklein]
 
 ## De dónde viene
 
-**La letra.** El himno viene de la Alta Edad Media, la época de los Geonim.[^huji][^posen] Su aparición más antigua que se conoce está en el libro de oraciones de Amram Gaon, en el siglo IX.[^ej][^milken] Allí sus estrofas van en otro orden: la Jewish Encyclopedia de 1903 creía que empezaba con la pregunta, "¿Quién es como nuestro Dios?", y solo después respondía: "No hay nadie como nuestro Dios".[^je][^ej] Las dos enciclopedias no coinciden en cuándo se fijó el orden actual. La Jewish Encyclopedia dice que el himno ya tenía su forma actual en tiempos de Rashi, que comentó su acróstico; la Encyclopaedia Judaica dice que el libro de oraciones de Rashi aún tenía las estrofas en otro orden.[^je][^ej]
+**La letra.** El himno viene de la Alta Edad Media, la época de los Geonim.[^huji][^posen] Su aparición más antigua que se conoce está en el libro de oraciones de Amram Gaon, en el siglo IX.[^ej][^milken] Allí sus estrofas van en otro orden: la Jewish Encyclopedia de 1903 creía que empezaba con la pregunta, "¿Quién es como Hashem?", y solo después respondía: "No hay nadie como Hashem".[^je][^ej] Las dos enciclopedias no coinciden en cuándo se fijó el orden actual. La Jewish Encyclopedia dice que el himno ya tenía su forma actual en tiempos de Rashi, que comentó su acróstico; la Encyclopaedia Judaica dice que el libro de oraciones de Rashi aún tenía las estrofas en otro orden.[^je][^ej]
 
 Ese acróstico esconde una palabra en las letras iniciales del himno. Las primeras letras de las tres primeras estrofas, Ein, Mi y Node, forman Amén. Las dos últimas estrofas empiezan con Baruch y Ata, "Bendito eres Tú", las palabras con que empieza toda bendición judía.[^je][^ej][^miller]
 
@@ -47,19 +47,19 @@ De Alemania, la melodía pasó a América. El Union Hymnal de la Central Confere
 
 ## Qué dice la letra
 
-El himno está hecho de cuatro títulos. Cada estrofa recorre los mismos cuatro títulos de Dios, Elokeinu, nuestro Dios; Adoneinu, nuestro Señor; Malkeinu, nuestro Rey; Moshienu, nuestro Salvador, y solo cambia la palabra de delante.[^je][^mjl]
+El himno está hecho de cuatro títulos. Cada estrofa recorre los mismos cuatro títulos, Elokeinu, Hashem; Adoneinu, nuestro Señor; Malkeinu, nuestro Rey; Moshienu, nuestro Salvador, y solo cambia la palabra de delante.[^je][^mjl]
 
-**Estrofa 1.** No hay nadie como nuestro Dios, nadie como nuestro Señor, nadie como nuestro Rey, nadie como nuestro Salvador. Ke- significa "como".
+**Estrofa 1.** No hay nadie como Hashem, nadie como nuestro Señor, nadie como nuestro Rey, nadie como nuestro Salvador. Ke- significa "como".
 
-**Estrofa 2.** ¿Quién es como nuestro Dios, nuestro Señor, nuestro Rey, nuestro Salvador? La pregunta llega después de su respuesta; en tiempos de Amram, según lo lee la Jewish Encyclopedia, la pregunta iba primero.[^je]
+**Estrofa 2.** ¿Quién es como Hashem, nuestro Señor, nuestro Rey, nuestro Salvador? La pregunta llega después de su respuesta; en tiempos de Amram, según lo lee la Jewish Encyclopedia, la pregunta iba primero.[^je]
 
-**Estrofa 3.** Damos gracias a nuestro Dios, nuestro Señor, nuestro Rey, nuestro Salvador. Node significa "damos gracias".
+**Estrofa 3.** Damos gracias a Hashem, nuestro Señor, nuestro Rey, nuestro Salvador. Node significa "damos gracias".
 
-**Estrofa 4.** Bendito sea nuestro Dios, nuestro Señor, nuestro Rey, nuestro Salvador.
+**Estrofa 4.** Bendito sea Hashem, nuestro Señor, nuestro Rey, nuestro Salvador.
 
-**Estrofa 5.** Tú eres nuestro Dios, nuestro Señor, nuestro Rey, nuestro Salvador. El himno termina hablándole a Dios directamente. En el libro de oraciones asquenazí sigue un verso más, que recuerda el incienso que ofrecían los antepasados y lleva al pasaje sobre el incienso del Templo que se lee a continuación.[^je][^posen]
+**Estrofa 5.** Tú eres Hashem, nuestro Señor, nuestro Rey, nuestro Salvador. El himno termina hablándole a Hashem directamente. En el libro de oraciones asquenazí sigue un verso más, que recuerda el incienso que ofrecían los antepasados y lleva al pasaje sobre el incienso del Templo que se lee a continuación.[^je][^posen]
 
-La página muestra nuestra letra con la pronunciación israelí moderna. El himnario de 1897 la escribía a la manera asquenazí, "En Kelohenu", "Boruch", "Atto hu", con las mismas sílabas bajo las mismas notas.[^uh1897] Cantamos los nombres de Dios en sus formas sustitutas, Kelokeinu y Elokeinu, con una k en lugar de la h: es costumbre no pronunciar el nombre de Dios completo fuera de la oración, y una canción para practicar está fuera de la oración. El título conserva la grafía con la que se conoce la oración, Ein Keloheinu: la costumbre se refiere a pronunciar el nombre en voz alta, y un título se lee, no se canta.
+La página muestra nuestra letra con la pronunciación israelí moderna. El himnario de 1897 la escribía a la manera asquenazí, "En Kelohenu", "Boruch", "Atto hu", con las mismas sílabas bajo las mismas notas.[^uh1897] Lo cantamos con los nombres sustitutos que se acostumbran al cantar fuera de la oración, Kelokeinu y Elokeinu, con una k en lugar de la h: es costumbre no pronunciar el nombre de Hashem completo fuera de la oración, y una canción para practicar está fuera de la oración. El título conserva la grafía con la que se conoce la oración, Ein Keloheinu: la costumbre se refiere a pronunciar el nombre en voz alta, y un título se lee, no se canta.
 
 ## Cómo se canta
 
@@ -89,7 +89,7 @@ Nuestro arreglo se basa en el Union Hymnal de 1897, n.º 17. El libro lo imprime
 
 ### ¿Qué significa Ein Keloheinu?
 
-"No hay nadie como nuestro Dios". Las cinco estrofas del himno dicen que no hay nadie como nuestro Dios, nuestro Señor, nuestro Rey, nuestro Salvador; preguntan quién es como nuestro Dios; dan gracias a nuestro Dios; bendicen a nuestro Dios; y terminan: "Tú eres nuestro Dios". Las primeras letras de las tres primeras estrofas forman Amén.[^je][^ej][^mjl]
+"No hay nadie como Hashem". Las cinco estrofas del himno dicen que no hay nadie como Hashem, nuestro Señor, nuestro Rey, nuestro Salvador; preguntan quién es como Hashem; dan gracias a Hashem; bendicen a Hashem; y terminan: "Tú eres Hashem". Las primeras letras de las tres primeras estrofas forman Amén.[^je][^ej][^mjl]
 
 ### ¿Quién escribió Ein Keloheinu?
 

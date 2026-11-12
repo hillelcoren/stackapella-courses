@@ -1,7 +1,7 @@
 ---
 title: "Tzur Mishelo: history, meaning and the words explained"
 description: "Tzur Mishelo, the Sabbath table song that leads into the grace after meals, sung to the German melody the Jewish Encyclopedia printed in 1906."
-lead: Tzur Mishelo is a Hebrew song for the Sabbath table. Its refrain invites everyone to bless God for the meal, and its verses walk through the grace after meals, one blessing at a time.
+lead: Tzur Mishelo is a Hebrew song for the Sabbath table. Its refrain invites everyone to bless Hashem for the meal, and its verses walk through the grace after meals, one blessing at a time.
 words: Anonymous Hebrew table song
 tune: Traditional; printed by Francis L. Cohen in the Jewish Encyclopedia (1906) as a German melody
 language: Hebrew
@@ -20,7 +20,7 @@ Tzur Mishelo is one of the zemirot, the Hebrew songs Jews sing at home around th
 
 ## Where it comes from
 
-The words have no author's name and no acrostic to give one.[^loewe][^abrahams] What they do have is a model: the grace after meals, Birkat Hamazon. The refrain borrows its first half from the zimmun, the invitation the leader says when three or more have eaten together. When four or more have eaten, the Mishnah has the leader say: "Bless the One from whose food we have eaten."[^mishnah][^abrahams] Its second half, "we have eaten our fill and left some over, as God said", comes from the story of Elisha feeding a hundred people with twenty loaves.[^tanakh][^abrahams][^loewe] The verses follow the grace in order: the first thanks God for feeding the world, as the grace's first paragraph does, the second for the land, as the second does, and the third asks, as the third does, for mercy on Zion and for the heir of David. The fourth carries on the third's prayer for the Temple rebuilt, and ends over the full cup of wine on which the grace is said.[^ej][^loewe][^metsudah]
+The words have no author's name and no acrostic to give one.[^loewe][^abrahams] What they do have is a model: the grace after meals, Birkat Hamazon. The refrain borrows its first half from the zimmun, the invitation the leader says when three or more have eaten together. When four or more have eaten, the Mishnah has the leader say: "Bless the One from whose food we have eaten."[^mishnah][^abrahams] Its second half, "we have eaten our fill and left some over, as Hashem said", comes from the story of Elisha feeding a hundred people with twenty loaves.[^tanakh][^abrahams][^loewe] The verses follow the grace in order: the first thanks Hashem for feeding the world, as the grace's first paragraph does, the second for the land, as the second does, and the third asks, as the third does, for mercy on Zion and for the heir of David. The fourth carries on the third's prayer for the Temple rebuilt, and ends over the full cup of wine on which the grace is said.[^ej][^loewe][^metsudah]
 
 How old it is, nobody can say. In 1926 Herbert Loewe reported that L. Hirschfeld, who had put the Sabbath table songs into German verse, thought Tzur Mishelo as old as the Mishnah.[^loewe][^abrahams] His reason was the grace itself. The song follows only its first three blessings, which the rabbis drew from the Torah, and has nothing of the fourth, which the Talmud says the sages added at Yavneh after the fall of Betar.[^loewe][^talmud] Loewe doubted it: the style seemed too polished for so early a date, and he did not think the song was in the oldest prayer books.[^loewe]
 
@@ -37,21 +37,21 @@ The tune has its own history. In 1906 the Jewish Encyclopedia's article on the z
 
 ## What the words mean
 
-The title is the refrain's first words. Tzur is "rock", an old name for God: Hannah's song says "there is no rock like our God".[^tanakh] Mishelo is "from His own", and achalnu "we have eaten". So the refrain opens: the Rock, from whose own food we have eaten.[^metsudah][^loewe]
+The title is the refrain's first words. Tzur is "rock", an old name for Hashem: Hannah's song says "there is no rock like our God".[^tanakh] Mishelo is "from His own", and achalnu "we have eaten". So the refrain opens: the Rock, from whose own food we have eaten.[^metsudah][^loewe]
 
 The song has four verses, with the refrain before, between and after them. We sing verses 1 and 4.
 
-**Refrain (sung).** The Rock from whose food we have eaten: bless Him, my faithful friends. We have eaten our fill and there is food left over, just as God said. Barchu, "bless!", is the zimmun's call, and kidvar, "as the word of", is the very word of the Elisha story, where the people ate and had some left over "as God had said".[^mishnah][^tanakh]
+**Refrain (sung).** The Rock from whose food we have eaten: bless Him, my faithful friends. We have eaten our fill and there is food left over, just as Hashem said. Barchu, "bless!", is the zimmun's call, and kidvar, "as the word of", is the very word of the Elisha story, where the people ate and had some left over "as God had said".[^mishnah][^tanakh]
 
-**Verse 1 (sung).** He feeds His world, our shepherd, our father. We have eaten His bread and drunk His wine. So we will thank His name and praise Him aloud, saying and answering: none is holy like God. The opening echoes the grace's first blessing, which thanks God for feeding all.[^ej][^loewe][^metsudah] The last line is from Hannah's song in the Book of Samuel.[^tanakh][^loewe]
+**Verse 1 (sung).** He feeds His world, our shepherd, our father. We have eaten His bread and drunk His wine. So we will thank His name and praise Him aloud, saying and answering: none is holy like Hashem. The opening echoes the grace's first blessing, which thanks Hashem for feeding all.[^ej][^loewe][^metsudah] The last line is from Hannah's song in the Book of Samuel.[^tanakh][^loewe]
 
-**Verse 2.** With song and thanks we bless our God for the good land He gave our ancestors, and for the food that filled us. This is the grace's second blessing, for the land.[^ej][^metsudah]
+**Verse 2.** With song and thanks we bless Hashem for the good land He gave our ancestors, and for the food that filled us. This is the grace's second blessing, for the land.[^ej][^metsudah]
 
 **Verse 3.** Have mercy on Your people and on Zion, home of Your glory, and let David's heir come to redeem us. This is the third blessing, for Jerusalem.[^ej][^metsudah]
 
-**Verse 4 (sung).** Let the Temple be rebuilt and the city of Zion filled again, and there we will sing a new song and go up with joy. May the Merciful One, the Holy One, be blessed and raised high, over a full cup of wine, as God has blessed us. The "new song" is Isaiah's.[^tanakh][^loewe] The cup is the cup of blessing over which the grace is said, and the Talmud asks that it be full.[^ej][^talmud]
+**Verse 4 (sung).** Let the Temple be rebuilt and the city of Zion filled again, and there we will sing a new song and go up with joy. May the Merciful One, the Holy One, be blessed and raised high, over a full cup of wine, as Hashem has blessed us. The "new song" is Isaiah's.[^tanakh][^loewe] The cup is the cup of blessing over which the grace is said, and the Talmud asks that it be full.[^ej][^talmud]
 
-Where the Hebrew has God's four-letter name, we sing Adoshem: "kidvar Adoshem", "kevirkat Adoshem", and in verse 1 "ein kadosh kadoshem", where the name is joined to ka, "like". Many Jews change God's names when saying or singing them outside prayer, out of reverence, and a practice song is outside prayer; the meaning is the same.[^ohr][^enkinnames]
+Where the Hebrew has the four-letter name, we sing Adoshem, the substituted name customary when singing outside prayer: "kidvar Adoshem", "kevirkat Adoshem", and in verse 1 "ein kadosh kadoshem", where the name is joined to ka, "like". Many Jews change Hashem's names when saying or singing them outside prayer, out of reverence, and a practice song is outside prayer; the meaning is the same.[^ohr][^enkinnames]
 
 ## How it is sung
 
@@ -84,7 +84,7 @@ Our arrangement reads the tune from page 658 of the Jewish Encyclopedia's twelft
 
 ### What does "Tzur Mishelo" mean?
 
-"The Rock, from His own": the opening of the refrain, "the Rock from whose own food we have eaten". Tzur, "rock", is a biblical name for God, as in Hannah's song in the Book of Samuel: "there is no rock like our God".[^tanakh][^metsudah][^loewe]
+"The Rock, from His own": the opening of the refrain, "the Rock from whose own food we have eaten". Tzur, "rock", is a biblical name for Hashem, as in Hannah's song in the Book of Samuel: "there is no rock like our God".[^tanakh][^metsudah][^loewe]
 
 ### What is the origin of Tzur Mishelo?
 

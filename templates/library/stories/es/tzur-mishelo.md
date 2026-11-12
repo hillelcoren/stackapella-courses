@@ -1,7 +1,7 @@
 ---
 title: "Tzur Mishelo: historia, significado y la letra explicada"
 description: "Tzur Mishelo, la canción de mesa del sabbat que lleva a la bendición después de comer, con la melodía alemana que la Jewish Encyclopedia imprimió en 1906."
-lead: Tzur Mishelo es una canción hebrea para la mesa del sabbat. Su estribillo invita a todos a bendecir a Dios por la comida, y sus estrofas recorren la bendición después de las comidas, una bendición tras otra.
+lead: Tzur Mishelo es una canción hebrea para la mesa del sabbat. Su estribillo invita a todos a bendecir a Hashem por la comida, y sus estrofas recorren la bendición después de las comidas, una bendición tras otra.
 words: Canción de mesa hebrea anónima
 tune: Tradicional; Francis L. Cohen la imprimió en la Jewish Encyclopedia (1906) como melodía alemana
 language: hebreo
@@ -14,14 +14,14 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: tzur mishelo significado | tzur mishelo traducción | tzur mishelo letra | tzur mishelo origen | tzur mishelo achalnu | tzur mishelo canción
-translatedFrom: b563970b470e
+translatedFrom: acf6edf8e91f
 ---
 
 Tzur Mishelo es uno de los zemirot, los cantos hebreos que los judíos cantan en casa alrededor de la mesa del sabbat, sobre todo antes o después de la bendición que sigue a las comidas principales.[^je][^ej] Su estribillo toma la antigua invitación a bendecir juntos después de comer, "A bendecir a Aquel de cuya comida hemos comido", y la convierte en un coro para toda la mesa.[^mishnah][^abrahams][^loewe] Sus estrofas siguen después la bendición en orden: gracias por la comida, gracias por la tierra y una súplica de misericordia para Sion, que termina con el Templo reconstruido y una copa llena de vino.[^ej][^loewe][^metsudah] Nadie sabe quién la escribió. Nuestra melodía es la melodía alemana que la Jewish Encyclopedia de 1906 señalaba como la que más se usaba para ella.[^je]
 
 ## De dónde viene
 
-La letra no lleva nombre de autor ni un acróstico que lo dé.[^loewe][^abrahams] Lo que sí tiene es un modelo: la bendición después de las comidas, Birkat Hamazon. El estribillo toma su primera mitad del zimmun, la invitación que dice quien dirige cuando han comido juntos tres o más. Cuando han comido cuatro o más, la Mishná pone en su boca: "A bendecir a Aquel de cuya comida hemos comido".[^mishnah][^abrahams] Su segunda mitad, "hemos comido hasta saciarnos y ha sobrado, como dijo Dios", viene de la historia de Eliseo, que da de comer a cien personas con veinte panes.[^tanakh][^abrahams][^loewe] Las estrofas siguen la bendición en orden: la primera da gracias a Dios por alimentar al mundo, como el primer párrafo de la bendición; la segunda, por la tierra, como el segundo; y la tercera pide, como el tercero, misericordia para Sion y para el heredero de David. La cuarta continúa la oración de la tercera por el Templo reconstruido, y termina sobre la copa llena de vino sobre la que se dice la bendición.[^ej][^loewe][^metsudah]
+La letra no lleva nombre de autor ni un acróstico que lo dé.[^loewe][^abrahams] Lo que sí tiene es un modelo: la bendición después de las comidas, Birkat Hamazon. El estribillo toma su primera mitad del zimmun, la invitación que dice quien dirige cuando han comido juntos tres o más. Cuando han comido cuatro o más, la Mishná pone en su boca: "A bendecir a Aquel de cuya comida hemos comido".[^mishnah][^abrahams] Su segunda mitad, "hemos comido hasta saciarnos y ha sobrado, como dijo Hashem", viene de la historia de Eliseo, que da de comer a cien personas con veinte panes.[^tanakh][^abrahams][^loewe] Las estrofas siguen la bendición en orden: la primera da gracias a Hashem por alimentar al mundo, como el primer párrafo de la bendición; la segunda, por la tierra, como el segundo; y la tercera pide, como el tercero, misericordia para Sion y para el heredero de David. La cuarta continúa la oración de la tercera por el Templo reconstruido, y termina sobre la copa llena de vino sobre la que se dice la bendición.[^ej][^loewe][^metsudah]
 
 Qué edad tiene, nadie puede decirlo. En 1926, Herbert Loewe contaba que L. Hirschfeld, que había puesto en verso alemán las canciones de mesa del sabbat, creía que Tzur Mishelo era tan antigua como la Mishná.[^loewe][^abrahams] Su razón era la propia bendición. La canción sigue solo sus tres primeras bendiciones, que los rabinos sacaron de la Torá, y no tiene nada de la cuarta, que según el Talmud añadieron los sabios en Yavneh tras la caída de Betar.[^loewe][^talmud] Loewe lo dudaba: el estilo le parecía demasiado pulido para una fecha tan temprana, y no creía que la canción estuviera en los libros de oraciones más antiguos.[^loewe]
 
@@ -38,21 +38,21 @@ La melodía tiene su propia historia. En 1906, el artículo de la Jewish Encyclo
 
 ## Qué dice la letra
 
-El título son las primeras palabras del estribillo. Tzur es "roca", un antiguo nombre de Dios: el cántico de Ana dice "no hay roca como nuestro Dios".[^tanakh] Mishelo es "de lo suyo", y achalnu, "hemos comido". Así que el estribillo empieza: la Roca, de cuya propia comida hemos comido.[^metsudah][^loewe]
+El título son las primeras palabras del estribillo. Tzur es "roca", un antiguo nombre de Hashem: el cántico de Ana dice "no hay roca como nuestro Dios".[^tanakh] Mishelo es "de lo suyo", y achalnu, "hemos comido". Así que el estribillo empieza: la Roca, de cuya propia comida hemos comido.[^metsudah][^loewe]
 
 La canción tiene cuatro estrofas, con el estribillo antes, entre ellas y después. Cantamos las estrofas 1 y 4.
 
-**Estribillo (cantado).** Aquel, la Roca, de cuya comida hemos comido: ¡a bendecirlo, mis fieles amigos! Hemos comido hasta saciarnos y ha sobrado comida, tal como dijo Dios. Barchu, "¡a bendecir!", es la llamada del zimmun, y kidvar, "según la palabra de", es la misma palabra de la historia de Eliseo, donde la gente comió y aún sobró "como Dios había dicho".[^mishnah][^tanakh]
+**Estribillo (cantado).** Aquel, la Roca, de cuya comida hemos comido: ¡a bendecirlo, mis fieles amigos! Hemos comido hasta saciarnos y ha sobrado comida, tal como dijo Hashem. Barchu, "¡a bendecir!", es la llamada del zimmun, y kidvar, "según la palabra de", es la misma palabra de la historia de Eliseo, donde la gente comió y aún sobró "como Dios había dicho".[^mishnah][^tanakh]
 
-**Estrofa 1 (cantada).** Él alimenta a su mundo, nuestro pastor, nuestro padre. Hemos comido su pan y bebido su vino. Por eso daremos gracias a su nombre y lo alabaremos en voz alta, diciendo y respondiendo: nadie es santo como Dios. El comienzo recuerda la primera bendición, que da gracias a Dios por alimentar a todos.[^ej][^loewe][^metsudah] El último verso es del cántico de Ana en el libro de Samuel.[^tanakh][^loewe]
+**Estrofa 1 (cantada).** Él alimenta a su mundo, nuestro pastor, nuestro padre. Hemos comido su pan y bebido su vino. Por eso daremos gracias a su nombre y lo alabaremos en voz alta, diciendo y respondiendo: nadie es santo como Hashem. El comienzo recuerda la primera bendición, que da gracias a Hashem por alimentar a todos.[^ej][^loewe][^metsudah] El último verso es del cántico de Ana en el libro de Samuel.[^tanakh][^loewe]
 
-**Estrofa 2.** Con canto y gratitud bendecimos a nuestro Dios por la buena tierra que dio a nuestros antepasados, y por la comida que nos ha saciado. Es la segunda bendición, la de la tierra.[^ej][^metsudah]
+**Estrofa 2.** Con canto y gratitud bendecimos a Hashem por la buena tierra que dio a nuestros antepasados, y por la comida que nos ha saciado. Es la segunda bendición, la de la tierra.[^ej][^metsudah]
 
 **Estrofa 3.** Ten misericordia de tu pueblo y de Sion, morada de tu gloria, y que venga el heredero de David a redimirnos. Es la tercera bendición, la de Jerusalén.[^ej][^metsudah]
 
-**Estrofa 4 (cantada).** Que se reconstruya el Templo y se llene otra vez la ciudad de Sion, y allí cantaremos un cántico nuevo y subiremos con alegría. Que el Misericordioso, el Santo, sea bendito y ensalzado sobre una copa llena de vino, como Dios nos ha bendecido. El "cántico nuevo" es el de Isaías.[^tanakh][^loewe] La copa es la copa de bendición sobre la que se dice la bendición después de comer, y el Talmud pide que esté llena.[^ej][^talmud]
+**Estrofa 4 (cantada).** Que se reconstruya el Templo y se llene otra vez la ciudad de Sion, y allí cantaremos un cántico nuevo y subiremos con alegría. Que el Misericordioso, el Santo, sea bendito y ensalzado sobre una copa llena de vino, como Hashem nos ha bendecido. El "cántico nuevo" es el de Isaías.[^tanakh][^loewe] La copa es la copa de bendición sobre la que se dice la bendición después de comer, y el Talmud pide que esté llena.[^ej][^talmud]
 
-Donde el hebreo tiene el nombre de cuatro letras de Dios, cantamos Adoshem: "kidvar Adoshem", "kevirkat Adoshem", y en la estrofa 1 "ein kadosh kadoshem", donde el nombre va unido a ka, "como". Muchos judíos cambian los nombres de Dios al decirlos o cantarlos fuera de la oración, por reverencia, y una canción para practicar está fuera de la oración; el significado es el mismo.[^ohr][^enkinnames]
+Donde el hebreo tiene el nombre de cuatro letras, cantamos Adoshem, el nombre sustituto que se acostumbra al cantar fuera de la oración: "kidvar Adoshem", "kevirkat Adoshem", y en la estrofa 1 "ein kadosh kadoshem", donde el nombre va unido a ka, "como". Muchos judíos cambian los nombres de Hashem al decirlos o cantarlos fuera de la oración, por reverencia, y una canción para practicar está fuera de la oración; el significado es el mismo.[^ohr][^enkinnames]
 
 ## Cómo se canta
 
@@ -85,7 +85,7 @@ Nuestro arreglo toma la melodía de la página 658 del volumen 12 de la Jewish E
 
 ### ¿Qué significa "Tzur Mishelo"?
 
-"La Roca, de lo suyo": el comienzo del estribillo, "la Roca de cuya propia comida hemos comido". Tzur, "roca", es un nombre bíblico de Dios, como en el cántico de Ana en el libro de Samuel: "no hay roca como nuestro Dios".[^tanakh][^metsudah][^loewe]
+"La Roca, de lo suyo": el comienzo del estribillo, "la Roca de cuya propia comida hemos comido". Tzur, "roca", es un nombre bíblico de Hashem, como en el cántico de Ana en el libro de Samuel: "no hay roca como nuestro Dios".[^tanakh][^metsudah][^loewe]
 
 ### ¿Cuál es el origen de Tzur Mishelo?
 

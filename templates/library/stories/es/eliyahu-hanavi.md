@@ -14,14 +14,14 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: eliyahu hanavi significado | eliyahu hanavi traducción | eliyahu hanavi letra en español | eliyahu hanavi havdalah | eliyahu hanavi pésaj | eliyahu hanavi zachur latov significado
-translatedFrom: 1b37abb48890
+translatedFrom: c28d98b2d924
 ---
 
-Eliyahu HaNavi, "Elías el profeta", es un breve estribillo hebreo. Se canta el sábado por la noche, cuando ha terminado el sabbat y se ha hecho la Havdalá, y en el séder de Pésaj, cuando se abre la puerta a Elías.[^ejhav][^jehab][^milken][^merwin] Llama al profeta con tres nombres: Elías el profeta, Elías el tisbita, Elías de Galaad.[^idel1929][^sefard] El profeta Malaquías prometió que Dios enviaría a Elías antes del gran día que ha de venir, y el Talmud enseña que Elías no vendrá en viernes, ni tampoco en el propio sabbat. El sábado por la noche es el primer momento en que podría venir.[^malachi][^eruvin][^mb295] El estudioso A. Z. Idelsohn llamó a este estribillo la parte más antigua de las canciones de Elías que, según escribió, las comunidades judías ya cantaban al cierre del sabbat en el siglo XI.[^idel1929][^milken]
+Eliyahu HaNavi, "Elías el profeta", es un breve estribillo hebreo. Se canta el sábado por la noche, cuando ha terminado el sabbat y se ha hecho la Havdalá, y en el séder de Pésaj, cuando se abre la puerta a Elías.[^ejhav][^jehab][^milken][^merwin] Llama al profeta con tres nombres: Elías el profeta, Elías el tisbita, Elías de Galaad.[^idel1929][^sefard] El profeta Malaquías prometió que Hashem enviaría a Elías antes del gran día que ha de venir, y el Talmud enseña que Elías no vendrá en viernes, ni tampoco en el propio sabbat. El sábado por la noche es el primer momento en que podría venir.[^malachi][^eruvin][^mb295] El estudioso A. Z. Idelsohn llamó a este estribillo la parte más antigua de las canciones de Elías que, según escribió, las comunidades judías ya cantaban al cierre del sabbat en el siglo XI.[^idel1929][^milken]
 
 ## De dónde viene
 
-Elías fue un profeta del reino del norte de Israel en el siglo IX a. C., en tiempos del rey Acab.[^jeelijah][^milken] El libro de los Reyes lo presenta de repente, sin decir siquiera el nombre de su padre, como "Elías el tisbita, que era de los pobladores de Galaad", anunciando una sequía.[^kings][^jeelijah] Combatió el culto a Baal y, según cuenta Reyes, no murió: un carro de fuego con caballos de fuego lo separó de su discípulo Eliseo, y subió al cielo en un torbellino.[^kings][^jeelijah][^milken] El profeta Malaquías prometió después que Dios enviaría a Elías antes del día grande y terrible, para volver el corazón de los padres hacia los hijos y el de los hijos hacia los padres.[^malachi][^jeelijah]
+Elías fue un profeta del reino del norte de Israel en el siglo IX a. C., en tiempos del rey Acab.[^jeelijah][^milken] El libro de los Reyes lo presenta de repente, sin decir siquiera el nombre de su padre, como "Elías el tisbita, que era de los pobladores de Galaad", anunciando una sequía.[^kings][^jeelijah] Combatió el culto a Baal y, según cuenta Reyes, no murió: un carro de fuego con caballos de fuego lo separó de su discípulo Eliseo, y subió al cielo en un torbellino.[^kings][^jeelijah][^milken] El profeta Malaquías prometió después que Hashem enviaría a Elías antes del día grande y terrible, para volver el corazón de los padres hacia los hijos y el de los hijos hacia los padres.[^malachi][^jeelijah]
 
 De esa promesa nació el Elías de la tradición judía: el heraldo del Mesías, el invitado invisible en una circuncisión y en el séder, y un protector que puede aparecer en cualquier parte.[^jeelijah][^milken] El Talmud, al hablar de un voto ligado a la llegada del Mesías, dice que Elías no llegará en viernes, porque la gente dejaría los preparativos del sabbat para salir a recibirlo. Da por sentado que tampoco puede venir en sabbat.[^eruvin][^jehab] Los libros de costumbres judías Sefer ha-Manhig y Abudarham recogen la leyenda que sigue: a Elías se le espera el sábado por la noche, al comienzo de una semana nueva.[^jehab][^abrahams] El código legal llamado el Tur da la razón de la costumbre: ahora que ha pasado el sabbat y puede venir, rezamos para que venga y nos traiga la buena noticia.[^mb295][^sa295]
 
@@ -46,7 +46,7 @@ Cantamos solo el primer verso del estribillo, los tres nombres, tal como lo impr
 - **Eliyahu hatishbi**: Elías el tisbita. Así lo llama Reyes, probablemente por un lugar llamado Tisbé, cuyo emplazamiento no se conoce con certeza.[^jeelijah]
 - **Eliyahu, Eliyahu, Eliyahu hagiladi**: Elías, Elías, Elías de Galaad, la tierra al este del Jordán donde vivió entre sus pobladores.[^kings][^jeelijah]
 
-En los libros de oraciones el estribillo sigue: "bimhera yavo eleinu im mashiach ben David", que venga pronto a nosotros con el Mesías, hijo de David.[^sefard][^edot] La impresión de Idelsohn solo tiene parte de ese verso, "bimheroh yovo elenu", que venga pronto a nosotros, como un recitativo libre tras la primera sección medida, y nada de la segunda mitad, más larga y medida, que muchos cantan hoy. Nosotros dejamos fuera el recitativo.[^idel1929] Las notas del Milken Archive sugieren que llevar la melodía hasta ese segundo verso puede ser un añadido posterior.[^milken] El estribillo no nombra ningún nombre de Dios, así que no necesita ninguna de las formas sustitutas que se usan al cantar fuera de la oración.
+En los libros de oraciones el estribillo sigue: "bimhera yavo eleinu im mashiach ben David", que venga pronto a nosotros con el Mesías, hijo de David.[^sefard][^edot] La impresión de Idelsohn solo tiene parte de ese verso, "bimheroh yovo elenu", que venga pronto a nosotros, como un recitativo libre tras la primera sección medida, y nada de la segunda mitad, más larga y medida, que muchos cantan hoy. Nosotros dejamos fuera el recitativo.[^idel1929] Las notas del Milken Archive sugieren que llevar la melodía hasta ese segundo verso puede ser un añadido posterior.[^milken] El estribillo no tiene ninguno de los nombres de Hashem, así que no necesita ninguno de los nombres sustitutos que se acostumbran al cantar fuera de la oración.
 
 ## Cómo se canta
 
@@ -58,7 +58,7 @@ En los libros de oraciones el estribillo sigue: "bimhera yavo eleinu im mashiach
 
 ## Versiones y otras letras
 
-Las estrofas del poema largo recorren el alfabeto hebreo en su segunda palabra y cuentan la historia de Elías: celoso de Dios, un hombre velludo con un cinturón de cuero, que retuvo el rocío y la lluvia durante tres años, al que alimentaron los cuervos, por quien se bendijeron una tinaja y una vasija, al que respondió el fuego del cielo, y que montó en caballos de fuego en una tormenta sin probar la muerte.[^sefard][^milken] Algunas versiones añaden una estrofa que le pide traer buenas noticias "en las noches de sábado".[^edot][^milken]
+Las estrofas del poema largo recorren el alfabeto hebreo en su segunda palabra y cuentan la historia de Elías: celoso de Hashem, un hombre velludo con un cinturón de cuero, que retuvo el rocío y la lluvia durante tres años, al que alimentaron los cuervos, por quien se bendijeron una tinaja y una vasija, al que respondió el fuego del cielo, y que montó en caballos de fuego en una tormenta sin probar la muerte.[^sefard][^milken] Algunas versiones añaden una estrofa que le pide traer buenas noticias "en las noches de sábado".[^edot][^milken]
 
 En el libro de oraciones Edot HaMizrach, cada estrofa termina con "Eliyahu hanavi zachur latov", Elías el profeta, recordado para bien.[^edot] La segunda melodía popular de Idelsohn, impresa junto a la nuestra y marcada "recit.", pone música solo a las dos primeras palabras, "Eliyohu hanovi", una y otra vez.[^idel1929] Las notas del Milken Archive remontan la melodía de Idelsohn a una variante de un himnario de sinagoga alemán de Braunschweig, que según dicen se ha citado como su notación más antigua conocida. El propio Idelsohn no nombra ninguna fuente y clasifica la melodía entre las canciones populares asquenazíes orientales. Esa variante, añaden las notas, tiene menos ritmos con puntillo que la melodía que hoy se canta casi en todas partes en los círculos asquenazíes estadounidenses.[^milken][^idel1929]
 
@@ -85,7 +85,7 @@ Porque Elías es el invitado al que se espera la noche del séder. Después de l
 
 ### ¿Qué significa "Eliyahu hanavi zachur latov"?
 
-"Elías el profeta, recordado para bien". Zachur latov es un honor que se añade al nombre de Elías: la bendición después de las comidas pide a Dios que envíe a "Elías el profeta, recordado para bien", con buenas noticias, y el libro de oraciones Edot HaMizrach termina cada estrofa del poema del sábado por la noche con esas mismas palabras. Como en la tradición judía Elías anota los actos de las personas, según señala la Jewish Encyclopedia, algunos lo leen como un juego de palabras: mazkir latov, "que anota para bien".[^birkat][^sinclair][^edot][^jeelijah]
+"Elías el profeta, recordado para bien". Zachur latov es un honor que se añade al nombre de Elías: la bendición después de las comidas pide a Hashem que envíe a "Elías el profeta, recordado para bien", con buenas noticias, y el libro de oraciones Edot HaMizrach termina cada estrofa del poema del sábado por la noche con esas mismas palabras. Como en la tradición judía Elías anota los actos de las personas, según señala la Jewish Encyclopedia, algunos lo leen como un juego de palabras: mazkir latov, "que anota para bien".[^birkat][^sinclair][^edot][^jeelijah]
 
 ### ¿Qué voz canta la melodía?
 
@@ -94,7 +94,7 @@ La soprano canta la melodía de principio a fin, tal como la imprimió Idelsohn,
 ## Canta después
 
 - [Shoshanat Yaakov](/songs/shoshanat-yaakov): su último verso termina con las mismas palabras, "zachur latov", recordado para bien.
-- [Adir Hu](/songs/adir-hu): otra canción del séder de Pésaj, que pide a Dios que construya pronto su casa, en nuestros días.
+- [Adir Hu](/songs/adir-hu): otra canción del séder de Pésaj, que pide a Hashem que construya pronto su casa, en nuestros días.
 - [Lecha Dodi](/songs/lecha-dodi): el himno del viernes por la noche que recibe al sabbat, igual que esta canción lo despide.
 
 ## Fuentes

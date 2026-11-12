@@ -16,7 +16,7 @@ reviewed: true
 searches: adon olam meaning | adon olam meaning in english | who wrote adon olam | adon olam history | adon olam asher malach meaning | adon olam melody | adon olam song
 ---
 
-Adon Olam, "Lord of the world", is a Hebrew hymn about God, who reigned before anything was made and will reign alone when everything is gone.[^sefaria] It stands at both ends of the morning prayers. It is printed at the start of the daily service, and at the close of the Sabbath and festival morning service many congregations sing it together.[^je][^ej][^posen] Its last lines put the singer's spirit into God's hand, "when I sleep and when I wake", so it is a night prayer too: it is said at bedtime and beside the dying.[^abrahams][^ej][^je]
+Adon Olam, "Lord of the world", is a Hebrew hymn about Hashem, who reigned before anything was made and will reign alone when everything is gone.[^sefaria] It stands at both ends of the morning prayers. It is printed at the start of the daily service, and at the close of the Sabbath and festival morning service many congregations sing it together.[^je][^ej][^posen] Its last lines put the singer's spirit into Hashem's hand, "when I sleep and when I wake", so it is a night prayer too: it is said at bedtime and beside the dying.[^abrahams][^ej][^je]
 
 ## Where it comes from
 
@@ -42,7 +42,7 @@ His Schirej Tefilah, songs for the synagogue, was printed in Rostov, and the edi
 
 ## What the words mean
 
-The hymn moves from God beyond time to the singer's own trust: Abrahams saw its charm in joining the faith's great doctrines to simple thoughts of the heart.[^abrahams] Here is each of the ten lines in plain words, as the Ashkenazi prayer book prints them.[^sefaria] We sing lines 1 to 6, 9 and 10, two lines to each time through Gerovitsch's strain, and leave out 7 and 8.
+The hymn moves from Hashem beyond time to the singer's own trust: Abrahams saw its charm in joining the faith's great doctrines to simple thoughts of the heart.[^abrahams] Here is each of the ten lines in plain words, as the Ashkenazi prayer book prints them.[^sefaria] We sing lines 1 to 6, 9 and 10, two lines to each time through Gerovitsch's strain, and leave out 7 and 8.
 
 **Line 1 (sung).** Lord of the world, who was King before anything at all was formed. Adon is "lord", and olam is "world", a word that also means "forever". Malach is "reigned".
 
@@ -56,15 +56,15 @@ The hymn moves from God beyond time to the singer's own trust: Abrahams saw its 
 
 **Line 6 (sung).** Without beginning, without end; strength and rule are His. Misra is "dominion".
 
-**Line 7 (not sung).** He is my God, my living redeemer, my rock in my pain, in a time of trouble.
+**Line 7 (not sung).** He is Hashem, my living redeemer, my rock in my pain, in a time of trouble.
 
 **Line 8 (not sung).** He is my banner and my refuge, my portion on the day I call.
 
 **Line 9 (sung).** Into His hand I give my spirit, when I sleep and when I wake. Afkid is "I entrust", ruchi "my spirit". They echo Psalm 31, "Into Thy hand I commit my spirit".[^ps31]
 
-**Line 10 (sung).** And with my spirit, my body too. God is with me; I will not fear. Geviyati is "my body". The last words echo Psalm 118:6, where the psalmist, with God on his side, says he will not fear.[^ps118][^barth]
+**Line 10 (sung).** And with my spirit, my body too. Hashem is with me; I will not fear. Geviyati is "my body". The last words echo Psalm 118:6, where the psalmist, with Hashem on his side, says he will not fear.[^ps118][^barth]
 
-In line 10 the Hebrew has the four-letter name of God, and we sing "Adoshem li". Many Jews change God's names when they say them outside prayer, out of reverence and to avoid taking the name in vain, and a practice song is outside prayer.[^ohr][^outorah]
+In line 10 the Hebrew has the four-letter name, and we sing "Adoshem li", the substituted name customary when singing outside prayer. Many Jews change Hashem's names when they say them outside prayer, out of reverence and to avoid taking the name in vain, and a practice song is outside prayer.[^ohr][^outorah]
 
 Gerovitsch printed the words in the Ashkenazi pronunciation, "Adon olom ascher molach".[^zemer] We sing them in modern Israeli pronunciation, on the same notes.
 
