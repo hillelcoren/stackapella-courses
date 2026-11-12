@@ -1,7 +1,7 @@
 ---
 title: "Ki Lo Na'eh: history, meaning and the words explained"
 description: "Ki Lo Na'eh, the Passover seder's alphabet hymn of praise, already in a London scholar's law book by 1287, sung here as a solo verse and a chorus."
-lead: Ki Lo Na'eh, "For to Him it is fitting", is the alphabet hymn sung near the end of the Passover seder. Each verse names Hashem mighty, holy and strong, and His hosts answer: Yours, Lord, is the kingdom.
+lead: Ki Lo Na'eh, "For to Him it is fitting", is the alphabet hymn sung near the end of the Passover seder. Each verse names Hashem mighty, holy and strong, and His hosts answer: Yours, Hashem, is the kingdom.
 words: Traditional Hebrew, anonymous (in England by 1287)
 tune: Traditional; in the Union Haggadah (1908), marked "Traditional" in 1923
 language: Hebrew
@@ -16,7 +16,7 @@ reviewed: true
 searches: ki lo naeh lyrics | ki lo na eh transliteration | ki lo naeh passover | ki lo na eh translation
 ---
 
-Ki Lo Na'eh is a Hebrew hymn sung at the Passover seder, the home service and festive meal on the first nights of the festival.[^je][^ej] It comes near the end, after the Haggadah's formal service has closed, among the songs that finish the night, and it is sung mainly in Ashkenazi homes.[^ej][^sefaria][^bogomilsky] Its verses run through the Hebrew alphabet. Each one calls Hashem mighty, chosen, holy or strong in His kingship, then names a company of His servants who answer: Yours, and Yours, Lord, is the kingdom.[^ej][^sefaria] The table has sung it for more than seven centuries. A London scholar copied it into his book of Jewish law in 1287, and the Reform movement's Haggadah still printed it with music in 1908 and 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
+Ki Lo Na'eh is a Hebrew hymn sung at the Passover seder, the home service and festive meal on the first nights of the festival.[^je][^ej] It comes near the end, after the Haggadah's formal service has closed, among the songs that finish the night, and it is sung mainly in Ashkenazi homes.[^ej][^sefaria][^bogomilsky] Its verses run through the Hebrew alphabet. Each one calls Hashem mighty, chosen, holy or strong in His kingship, then names a company of His servants who answer: Yours, and Yours, Hashem, is the kingdom.[^ej][^sefaria] The table has sung it for more than seven centuries. A London scholar copied it into his book of Jewish law in 1287, and the Reform movement's Haggadah still printed it with music in 1908 and 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
 
 ## Where it comes from
 
@@ -48,7 +48,7 @@ The full hymn has eight stanzas, each the same except for three words whose firs
 
 **Verse 3.** Takif bimlucha: powerful in kingship. Tomech kahalacha: upholding, as is right. Temimav yomru lo: His perfect ones, the wholehearted, say to Him.[^sefaria]
 
-**The answer, after every verse.** Lecha ulecha: Yours and Yours. Lecha ki lecha: Yours, for it is Yours. Lecha af lecha: Yours, yes, Yours. Lecha Adoshem hamamlacha: Yours, Lord, is the kingdom. Then the title line again.[^sefaria] The answer is built from Bible phrases: "Yours, Lord, is the kingdom" is from 1 Chronicles 29:11, and "the heavens are Yours, the earth too" from Psalm 89:12 gives the pattern of "lecha af lecha".[^tanakh][^baruch][^sacks] Listen for the turn: the hymn speaks about Hashem, "to Him", but the hosts speak to Hashem, "Yours".[^sefaria]
+**The answer, after every verse.** Lecha ulecha: Yours and Yours. Lecha ki lecha: Yours, for it is Yours. Lecha af lecha: Yours, yes, Yours. Lecha Adoshem hamamlacha: Yours, Hashem, is the kingdom. Then the title line again.[^sefaria] The answer is built from Bible phrases: "Yours, Hashem, is the kingdom" is from 1 Chronicles 29:11, and "the heavens are Yours, the earth too" from Psalm 89:12 gives the pattern of "lecha af lecha".[^tanakh][^baruch][^sacks] Listen for the turn: the hymn speaks about Hashem, "to Him", but the hosts speak to Hashem, "Yours".[^sefaria]
 
 Who are the speakers? The Encyclopaedia Judaica reads them all as kinds of angels.[^ej] Jacob of Lissa, in his Haggadah commentary Maaseh Nissim, splits them: the troops and the angels are angels, but the righteous and the perfect ones are Israel. He reads the names through midrash too. The midrash says Hashem appeared at the Red Sea as a warrior and at Sinai as an elder full of compassion, and he and other teachers read bachur, which can also mean a young man, as that young warrior. Rachum recalls the Talmud's story that Hashem stopped the angels singing as the Egyptians drowned, because they too were the work of His hands.[^lissa][^ejlissa][^bogomilsky][^rashi][^megillah]
 
@@ -85,7 +85,7 @@ There are other tunes. The Jewish Encyclopedia mentions several, and in 1929 the
 
 ### What does Ki Lo Na'eh mean in English?
 
-"For to Him it is fitting." Ki is for, lo is to Him, and naeh is fitting; the line goes on "ki lo yaeh", to Him it is due. It closes every verse, after His hosts answer: Yours, Lord, is the kingdom.[^sefaria][^baruch]
+"For to Him it is fitting." Ki is for, lo is to Him, and naeh is fitting; the line goes on "ki lo yaeh", to Him it is due. It closes every verse, after His hosts answer: Yours, Hashem, is the kingdom.[^sefaria][^baruch]
 
 ### When is Ki Lo Na'eh sung at Passover?
 
