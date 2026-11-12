@@ -116,6 +116,8 @@ SONGS = {
     "tzur-mishelo": "with the song",
     "adon-olam": "with the song",
     "shoshanat-yaakov": "with the song",
+    "oyfn-pripetchik": "with the song",
+    "rozhinkes-mit-mandlen": "with the song",
     # Batch 4 (Thanksgiving, Scottish, Shaker), 2026-11-12.
     "comin-thro-the-rye": "with the song",
     "red-red-rose": "with the song",
