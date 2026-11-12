@@ -1,6 +1,6 @@
 ---
 title: "Adir Hu: historia, significado y la letra explicada"
-description: "Adir Hu, himno alfabético del séder de Pésaj que pide a Dios reconstruir pronto el Templo, con una melodía cuya primera impresión conocida es Königsberg, 1644."
+description: "Adir Hu, himno alfabético del séder de Pésaj que pide a Dios reconstruir pronto el Templo; su melodía tiene su primera impresión conocida en Königsberg, 1644."
 lead: Adir Hu, "Poderoso es Él", es el himno alfabético que las familias asquenazíes cantan cerca del final del séder de Pésaj. Cada estrofa pide a Dios que construya pronto Su casa, el Templo, en nuestros días.
 words: Hebreo tradicional, anónimo (en la Hagadá a finales del siglo XV)
 tune: Tradicional asquenazí; la primera impresión conocida es de 1644

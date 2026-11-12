@@ -1,6 +1,6 @@
 ---
 title: "Eliyahu HaNavi: historia, significado y la letra explicada"
-description: "Eliyahu HaNavi, estribillo hebreo al profeta Elías que se canta tras la Havdalah del sábado y en el séder, con la melodía popular que Idelsohn imprimió en 1929."
+description: "Eliyahu HaNavi, estribillo hebreo al profeta Elías que se canta tras la Havdalá del sabbat y en el séder, con la melodía que Idelsohn imprimió en 1929."
 lead: "Eliyahu HaNavi es el breve estribillo hebreo al profeta Elías que se canta el sábado por la noche, cuando termina el sabbat, y en el séder de Pésaj, cuando se le abre la puerta."
 words: Estribillo hebreo tradicional, de autor desconocido
 tune: Tradicional; A. Z. Idelsohn la imprimió (1929) entre las melodías populares asquenazíes orientales
