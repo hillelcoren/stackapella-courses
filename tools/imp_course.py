@@ -276,7 +276,7 @@ def imp_1_fourth():
             learn("Hear why the part goes one note higher over so: with the chord of do under it, the third above so (ti) rubs, and do rings.",
                   [("Over so", "Not ti, but do"),
                    ("A fourth, not a third", "The next note in the chord"),
-                   ("Every so in the tune", "Row, boat, shore, jah")], "harmony"),
+                   ("Every so in the tune", "Row, boat, shore, le-, jah")], "harmony"),
             {"kind": "choose", "text": EN("Listen to each, then choose the one that rubs."), "exercise": {"tempo": 72, "rounds": rounds}},
             {"kind": "play", "text": EN("The first line again, the part above: do over every so."),
              "exercise": {"tempo": 92, "notes": placed(first, DO, BAR), "turn": False,

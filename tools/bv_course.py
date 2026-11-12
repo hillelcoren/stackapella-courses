@@ -541,8 +541,9 @@ SWING_CALLS = [(0, 8), (16, 24)]
 FILLS = L("7:1 4, 13:1 2, 14:2 -1, 23:1 4, 29:1 4, 30:1 0")
 
 M_VERSE = MICHAEL.passage(0, 32)
-RESPONSE = L("8:1 4 Hal-, 9:1 7 le-, 10:4 9 lu-, 14:1 7 jah!, 24:1 0 Hal-, 25:1 2 le-, 26:2 4 lu-, 28:2 2, 30:2 0 jah!", None)
-HALLELUJAH = L("8:1 4 Hal-, 9:1 4 le-, 10:4 5 lu-, 14:1 4 jah!, 24:1 -5 Hal-, 25:1 -3 le-, 26:2 0 lu-, 28:2 -1, 30:2 0 jah!", None)
+# Michael, Row v7 (Slave Songs, 1867): the second Hallelujah holds "lu-" three beats, then a beat on G under C.
+RESPONSE = L("8:1 4 Hal-, 9:1 7 le-, 10:4 9 lu-, 14:1 7 jah!, 24:1 0 Hal-, 25:1 2 le-, 26:3 4 lu-, 29:1 2, 30:2 0 jah!", None)
+HALLELUJAH = L("8:1 4 Hal-, 9:1 4 le-, 10:4 5 lu-, 14:1 4 jah!, 24:1 -5 Hal-, 25:1 -3 le-, 26:3 0 lu-, 29:1 -1, 30:2 0 jah!", None)
 
 ON_TIME_TWO = L("2:1 0 low") + words(L("8:0.5 0, 8.5:0.5 0, 9:0.5 0, 9.5:0.5 0, 10:0.5 4, 10.5:0.5 4, 11:1 7, 12:3 7"), COMING)
 ON_TIME = ON_TIME_TWO + L("18:1 4 low") + words(L("24:0.5 0, 24.5:0.5 0, 25:0.5 0, 25.5:0.5 0, 26:0.5 4, 26.5:0.5 4, 27:1 2, 28:2 0"), COMING)
