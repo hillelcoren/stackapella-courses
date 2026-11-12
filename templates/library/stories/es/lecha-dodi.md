@@ -1,7 +1,7 @@
 ---
 title: "Lecha Dodi: historia, significado y la letra explicada"
 description: Lecha Dodi recibe al sabbat como a una novia el viernes por la noche. Solomon Alkabetz lo escribió en Safed (siglo XVI); Idelsohn calculó unas 2000 versiones.
-lead: Lecha Dodi, "Ven, amado mío", es el himno hebreo que recibe al sabbat como a una novia el viernes al anochecer. Solomon ha-Levi Alkabetz lo escribió en Safed en el siglo XVI y firmó ocho de sus nueve estrofas.
+lead: Lecha Dodi, "Ven, amado mío", es el himno que recibe al sabbat como a una novia el viernes al anochecer. Solomon ha-Levi Alkabetz lo escribió en Safed en el siglo XVI y firmó ocho de sus nueve estrofas.
 words: Solomon ha-Levi Alkabetz (hacia 1505 a 1580 o 1584; las fuentes no coinciden)
 tune: Melodía asquenazí tradicional para las semanas del Ómer, tal como la imprimió Francis L. Cohen (1904)
 earliestPrinting: 1583/4, la letra, en un libro de oraciones sefardí
