@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: eliyahu hanavi significado | eliyahu hanavi traducción | eliyahu hanavi letra en español | eliyahu hanavi havdalah | eliyahu hanavi pésaj | eliyahu hanavi zachur latov significado
-translatedFrom: 2faed899ce0c
+translatedFrom: 2ad9f5597cf9
 ---
 
 Eliyahu HaNavi, "Elías el profeta", es un breve estribillo hebreo. Se canta el sábado por la noche, cuando ha terminado el sabbat y se ha hecho la Havdalá, y en el séder de Pésaj, cuando se abre la puerta a Elías.[^ejhav][^jehab][^milken][^merwin] Llama al profeta con tres nombres: Elías el profeta, Elías el tisbita, Elías de Galaad.[^idel1929][^sefard] El profeta Malaquías prometió que Hashem enviaría a Elías antes del gran día que ha de venir, y el Talmud enseña que Elías no vendrá en viernes, ni tampoco en el propio sabbat. El sábado por la noche es el primer momento en que podría venir.[^malachi][^eruvin][^mb295] El estudioso A. Z. Idelsohn llamó a este estribillo la parte más antigua de las canciones de Elías que, según escribió, las comunidades judías ya cantaban al cierre del sabbat en el siglo XI.[^idel1929][^milken]
@@ -67,7 +67,7 @@ Elías de Galaad,
 que venga pronto a nosotros con el Mesías, hijo de David.
 
 **Estrofa 1**
-> אִישׁ אֲשֶׁר קִנֵּא לְשֵׁם הָאֵל.
+> אִישׁ אֲשֶׁר קִנֵּא לְשֵׁם הַקֵּל.
 *Ish asher kinei leshem haKel,*
 Un hombre que tuvo celo por el nombre de Hashem,
 > אִישׁ בֻּשַּׂר שָׁלוֹם עַל יַד יְקוּתִיאֵל.
@@ -117,7 +117,7 @@ Un hombre cuya enseñanza escucharon quienes la anhelaban,
 > אִישׁ נֶעֱנֶה בָאֵשׁ מִשְּׁמֵי גְבוֹהִים.
 *ish ne'ena va'esh mishmei g'vohim,*
 un hombre que recibió respuesta con fuego de los altos cielos,
-> אִישׁ סָחוּ אַחֲרָיו יְיָ הוּא הָאֱלֹהִים:
+> אִישׁ סָחוּ אַחֲרָיו יְיָ הוּא הָאֱלֹקִים:
 *ish sachu acharav Adoshem hu haElokim.*
 un hombre tras el cual dijeron: "Hashem, Él es el Todopoderoso".
 

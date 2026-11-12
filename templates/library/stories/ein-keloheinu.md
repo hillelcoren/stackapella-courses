@@ -65,7 +65,7 @@ The page shows our words in modern Israeli pronunciation. The 1897 hymnal spelle
 These are the five verses and the line that follows them as the Ashkenazi prayer book prints them, in the Hebrew of the Metsudah Siddur on Sefaria; some editions add Hashem's name to that last line.[^sefaria] It prints adonenu, "our Lord", where we sing adoneinu, another spelling of the same word, and the transliteration uses the substituted names we sing.
 
 **Verse 1**
-> אֵין כֵּאלֹהֵינוּ.
+> אֵין כֵּאלֹקֵינוּ.
 *Ein kelokeinu,*
 There is none like Hashem,
 > אֵין כַּאדוֹנֵנוּ.
@@ -79,7 +79,7 @@ none like our King,
 none like our Saviour.
 
 **Verse 2**
-> מִי כֵאלֹהֵינוּ.
+> מִי כֵאלֹקֵינוּ.
 *Mi chelokeinu,*
 Who is like Hashem?
 > מִי כַאדוֹנֵנוּ.
@@ -93,7 +93,7 @@ Who is like our King?
 Who is like our Saviour?
 
 **Verse 3**
-> נוֹדֶה לֵאלֹהֵינוּ.
+> נוֹדֶה לֵאלֹקֵינוּ.
 *Node lelokeinu,*
 We give thanks to Hashem,
 > נוֹדֶה לַאדוֹנֵנוּ.
@@ -107,7 +107,7 @@ we give thanks to our King,
 we give thanks to our Saviour.
 
 **Verse 4**
-> בָּרוּךְ אֱלֹהֵינוּ.
+> בָּרוּךְ אֱלֹקֵינוּ.
 *Baruch elokeinu,*
 Blessed is Hashem,
 > בָּרוּךְ אֲדוֹנֵנוּ.
@@ -121,7 +121,7 @@ blessed is our King,
 blessed is our Saviour.
 
 **Verse 5**
-> אַתָּה הוּא אֱלֹהֵינוּ.
+> אַתָּה הוּא אֱלֹקֵינוּ.
 *Ata hu elokeinu,*
 You are Hashem,
 > אַתָּה הוּא אֲדוֹנֵנוּ.

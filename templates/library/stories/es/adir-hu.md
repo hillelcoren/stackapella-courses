@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adir hu significado | adir hu traducción | adir hu letra en español | adir hu canción de pésaj | adir hu transliteración | quién escribió adir hu
-translatedFrom: 04eeaf0093db
+translatedFrom: 213adc368987
 ---
 
 Adir Hu es un himno hebreo que se canta en el séder de Pésaj, el rito en casa y la cena festiva de las primeras noches de la fiesta.[^je][^idel29] En el rito asquenazí llega una vez terminado el rito formal, entre los cantos que cierran la velada.[^ej][^sefaria] Sus estrofas recorren el alfabeto hebreo y alaban a Hashem como poderoso, elegido, grande, santo y más, y cada una termina con la misma súplica: construye Tu casa, el Templo, pronto.[^je][^ej][^sefaria] A diferencia de la mayoría de los cantos del séder, tiene una sola melodía casi en todas partes. La Jewish Encyclopedia de 1901 señalaba que, mientras los demás himnos del séder tenían muchas melodías, este se cantaba con la misma, y que las sinagogas la tomaban prestada para marcar la fiesta en sus propias oraciones.[^je][^ej]
@@ -71,7 +71,7 @@ que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Deprisa, deprisa, en nuestros días, pronto.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
 
@@ -84,7 +84,7 @@ que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Deprisa, deprisa, en nuestros días, pronto.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
 
@@ -97,7 +97,7 @@ que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Deprisa, deprisa, en nuestros días, pronto.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
 
@@ -110,7 +110,7 @@ que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Deprisa, deprisa, en nuestros días, pronto.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
 
@@ -123,7 +123,7 @@ que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Deprisa, deprisa, en nuestros días, pronto.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
 
@@ -136,7 +136,7 @@ que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Deprisa, deprisa, en nuestros días, pronto.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
 
@@ -149,11 +149,11 @@ que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Deprisa, deprisa, en nuestros días, pronto.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
 
-> רַחוּם הוּא, שַׁדַּי הוּא, תַּקִּיף הוּא
+> רַחוּם הוּא, שַׁקַּי הוּא, תַּקִּיף הוּא
 *Rachum hu, Shakai hu, takif hu,*
 Él es compasivo, Él es el Todopoderoso, Él es potente,
 > יִבְנֶה בֵיתוֹ בְּקָרוֹב.
@@ -162,7 +162,7 @@ que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Deprisa, deprisa, en nuestros días, pronto.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
 

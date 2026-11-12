@@ -115,7 +115,7 @@ Without beginning, without end;
 strength and rule are His.
 
 **Lines 7 and 8 (not sung)**
-> וְהוּא אֵלִי וְחַי גּוֹאֲלִי,
+> וְהוּא קֵלִי וְחַי גּוֹאֲלִי,
 *Vehu Keli vechai goali,*
 He is Hashem, my living redeemer,
 > וְצוּר חֶבְלִי בְּעֵת צָרָה:

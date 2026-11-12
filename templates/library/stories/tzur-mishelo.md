@@ -80,7 +80,7 @@ So we will thank His name and praise Him aloud,
 we have said and answered: none is holy like Hashem.
 
 **Verse 2**
-> בְּשִׁיר וְקוֹל תּוֹדָה נְבָרֵךְ לֵאלֹהֵֽינוּ
+> בְּשִׁיר וְקוֹל תּוֹדָה נְבָרֵךְ לֵאלֹקֵֽינוּ
 *Beshir vekol toda nevarech lelokeinu,*
 With song and the sound of thanks we will bless Hashem
 > עַל אֶֽרֶץ חֶמְדָּה טוֹבָה שֶׁהִנְחִיל לַאֲבוֹתֵֽינוּ

@@ -66,7 +66,7 @@ Elijah of Gilead,
 may he come to us soon with the Messiah, the son of David.
 
 **Verse 1**
-> אִישׁ אֲשֶׁר קִנֵּא לְשֵׁם הָאֵל.
+> אִישׁ אֲשֶׁר קִנֵּא לְשֵׁם הַקֵּל.
 *Ish asher kinei leshem haKel,*
 A man who was zealous for the name of Hashem,
 > אִישׁ בֻּשַּׂר שָׁלוֹם עַל יַד יְקוּתִיאֵל.
@@ -116,7 +116,7 @@ A man whose teaching was heard by those who longed for it,
 > אִישׁ נֶעֱנֶה בָאֵשׁ מִשְּׁמֵי גְבוֹהִים.
 *ish ne'ena va'esh mishmei g'vohim,*
 a man answered with fire from the high heavens,
-> אִישׁ סָחוּ אַחֲרָיו יְיָ הוּא הָאֱלֹהִים:
+> אִישׁ סָחוּ אַחֲרָיו יְיָ הוּא הָאֱלֹקִים:
 *ish sachu acharav Adoshem hu haElokim.*
 a man after whom they said, "Hashem, He is the Almighty."
 

@@ -71,7 +71,7 @@ let us welcome the Sabbath's presence.
 > שָׁמוֹר וְזָכוֹר בְּדִבּוּר אֶחָד.
 *Shamor vezachor bedibur echad,*
 "Keep" and "Remember", in one utterance,
-> הִשְׁמִיעָֽנוּ אֵל הַמְיוּחָד.
+> הִשְׁמִיעָֽנוּ קֵל הַמְיוּחָד.
 *hishmianu Kel hameyuchad.*
 Hashem, the One, made us hear.
 > יְיָ אֶחָד וּשְׁמוֹ אֶחָד.
@@ -158,7 +158,7 @@ Those who plundered you will be plundered,
 > וְרָחֲקוּ כָּל מְבַלְּ֒עָֽיִךְ.
 *verachaku kol mevalayich.*
 and all who would devour you will be far away.
-> יָשִׂישׂ עָלַֽיִךְ אֱלֹהָֽיִךְ.
+> יָשִׂישׂ עָלַֽיִךְ אֱלֹקָֽיִךְ.
 *Yasis alayich Elokayich,*
 Hashem will rejoice over you
 > כִּמְשׂוֹשׂ חָתָן עַל כַּלָּה:

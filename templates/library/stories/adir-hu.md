@@ -70,7 +70,7 @@ may He build His house soon.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Speedily, speedily, in our days, soon.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, build, Hashem, build, build Your house soon.
 
@@ -83,7 +83,7 @@ may He build His house soon.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Speedily, speedily, in our days, soon.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, build, Hashem, build, build Your house soon.
 
@@ -96,7 +96,7 @@ may He build His house soon.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Speedily, speedily, in our days, soon.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, build, Hashem, build, build Your house soon.
 
@@ -109,7 +109,7 @@ may He build His house soon.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Speedily, speedily, in our days, soon.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, build, Hashem, build, build Your house soon.
 
@@ -122,7 +122,7 @@ may He build His house soon.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Speedily, speedily, in our days, soon.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, build, Hashem, build, build Your house soon.
 
@@ -135,7 +135,7 @@ may He build His house soon.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Speedily, speedily, in our days, soon.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, build, Hashem, build, build Your house soon.
 
@@ -148,11 +148,11 @@ may He build His house soon.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Speedily, speedily, in our days, soon.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, build, Hashem, build, build Your house soon.
 
-> רַחוּם הוּא, שַׁדַּי הוּא, תַּקִּיף הוּא
+> רַחוּם הוּא, שַׁקַּי הוּא, תַּקִּיף הוּא
 *Rachum hu, Shakai hu, takif hu,*
 He is compassionate, He is the Almighty, He is powerful,
 > יִבְנֶה בֵיתוֹ בְּקָרוֹב.
@@ -161,7 +161,7 @@ may He build His house soon.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
 Speedily, speedily, in our days, soon.
-> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+> קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, build, Hashem, build, build Your house soon.
 

@@ -67,7 +67,7 @@ Here are all thirteen verses as Sefaria's Haggadah prints them, from the Da'at s
 > אֶחָד מִי יוֹדֵעַ? אֶחָד אֲנִי יוֹדֵעַ:
 *Echad mi yodea? Echad ani yodea:*
 Who knows one? I know one:
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 
@@ -75,7 +75,7 @@ one is Hashem, who is in heaven and on earth.
 > שְׁנַיִם מִי יוֹדֵעַ? שְׁנַיִם אֲנִי יוֹדֵעַ: שְׁנֵי לֻחוֹת הַבְּרִית.
 *Shenayim mi yodea? Shenayim ani yodea: sh'nei luchot hab'rit,*
 Who knows two? I know two: the two tablets of the covenant,
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 
@@ -86,7 +86,7 @@ Who knows three? I know three: the three fathers,
 > שְׁנֵי לֻחוֹת הַבְּרִית,
 *sh'nei luchot hab'rit,*
 the two tablets of the covenant,
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 
@@ -100,7 +100,7 @@ the three fathers,
 > שְׁנֵי לֻחוֹת הַבְּרִית,
 *sh'nei luchot hab'rit,*
 the two tablets of the covenant,
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 
@@ -117,7 +117,7 @@ the three fathers,
 > שְׁנֵי לֻחוֹת הַבְּרִית,
 *sh'nei luchot hab'rit,*
 the two tablets of the covenant,
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 
@@ -137,7 +137,7 @@ the three fathers,
 > שְׁנֵי לֻחוֹת הַבְּרִית,
 *sh'nei luchot hab'rit,*
 the two tablets of the covenant,
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 
@@ -160,7 +160,7 @@ the three fathers,
 > שְׁנֵי לֻחוֹת הַבְּרִית,
 *sh'nei luchot hab'rit,*
 the two tablets of the covenant,
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 
@@ -186,7 +186,7 @@ the three fathers,
 > שְׁנֵי לֻחוֹת הַבְּרִית,
 *sh'nei luchot hab'rit,*
 the two tablets of the covenant,
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 
@@ -215,7 +215,7 @@ the three fathers,
 > שְׁנֵי לֻחוֹת הַבְּרִית,
 *sh'nei luchot hab'rit,*
 the two tablets of the covenant,
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 
@@ -247,7 +247,7 @@ the three fathers,
 > שְׁנֵי לֻחוֹת הַבְּרִית,
 *sh'nei luchot hab'rit,*
 the two tablets of the covenant,
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 
@@ -282,7 +282,7 @@ the three fathers,
 > שְׁנֵי לֻחוֹת הַבְּרִית,
 *sh'nei luchot hab'rit,*
 the two tablets of the covenant,
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 
@@ -320,7 +320,7 @@ the three fathers,
 > שְׁנֵי לֻחוֹת הַבְּרִית,
 *sh'nei luchot hab'rit,*
 the two tablets of the covenant,
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 
@@ -361,7 +361,7 @@ the three fathers,
 > שְׁנֵי לֻחוֹת הַבְּרִית,
 *sh'nei luchot hab'rit,*
 the two tablets of the covenant,
-> אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
+> אֶחָד אֱלֹקֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ.
 *echad Elokeinu shebashamayim uvaaretz.*
 one is Hashem, who is in heaven and on earth.
 

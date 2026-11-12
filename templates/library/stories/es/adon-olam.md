@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adon olam significado | adon olam traducción | quién escribió adon olam | adon olam historia | adon olam asher malach significado | adon olam melodía
-translatedFrom: 59ceca56bbc5
+translatedFrom: 38de159def90
 ---
 
 Adon Olam, "Señor del mundo", es un himno hebreo sobre Hashem, que reinaba antes de que nada fuera creado y reinará solo cuando todo haya desaparecido.[^sefaria] Está en los dos extremos de las oraciones de la mañana. Se imprime al comienzo del oficio diario, y al cierre del oficio de la mañana del sabbat y de las fiestas muchas congregaciones lo cantan juntas.[^je][^ej][^posen] Sus últimos versos ponen el espíritu de quien canta en la mano de Hashem, "cuando duermo y cuando despierto", así que también es una oración de la noche: se dice antes de dormir y junto a quien se está muriendo.[^abrahams][^ej][^je]
@@ -116,7 +116,7 @@ Sin principio, sin fin;
 Suyos son la fuerza y el dominio.
 
 **Versos 7 y 8 (no se cantan)**
-> וְהוּא אֵלִי וְחַי גּוֹאֲלִי,
+> וְהוּא קֵלִי וְחַי גּוֹאֲלִי,
 *Vehu Keli vechai goali,*
 Él es Hashem, mi redentor que vive,
 > וְצוּר חֶבְלִי בְּעֵת צָרָה:

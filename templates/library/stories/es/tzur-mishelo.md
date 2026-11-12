@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: tzur mishelo significado | tzur mishelo traducción | tzur mishelo letra | tzur mishelo origen | tzur mishelo achalnu | tzur mishelo canción
-translatedFrom: 607bf73e6db1
+translatedFrom: e9afa7dbedf9
 ---
 
 Tzur Mishelo es uno de los zemirot, los cantos hebreos que los judíos cantan en casa alrededor de la mesa del sabbat, sobre todo antes o después de la bendición que sigue a las comidas principales.[^je][^ej] Su estribillo toma la antigua invitación a bendecir juntos después de comer, "A bendecir a Aquel de cuya comida hemos comido", y la convierte en un coro para toda la mesa.[^mishnah][^abrahams][^loewe] Sus estrofas siguen después la bendición en orden: gracias por la comida, gracias por la tierra y una súplica de misericordia para Sion, que termina con el Templo reconstruido y una copa llena de vino.[^ej][^loewe][^metsudah] Nadie sabe quién la escribió. Nuestra melodía es la melodía alemana que la Jewish Encyclopedia de 1906 señalaba como la que más se usaba para ella.[^je]
@@ -81,7 +81,7 @@ Por eso daremos gracias a Su nombre y lo alabaremos en voz alta,
 hemos dicho y respondido: nadie es santo como Hashem.
 
 **Estrofa 2**
-> בְּשִׁיר וְקוֹל תּוֹדָה נְבָרֵךְ לֵאלֹהֵֽינוּ
+> בְּשִׁיר וְקוֹל תּוֹדָה נְבָרֵךְ לֵאלֹקֵֽינוּ
 *Beshir vekol toda nevarech lelokeinu,*
 Con canto y voz de gratitud bendeciremos a Hashem
 > עַל אֶֽרֶץ חֶמְדָּה טוֹבָה שֶׁהִנְחִיל לַאֲבוֹתֵֽינוּ
