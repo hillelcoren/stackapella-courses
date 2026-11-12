@@ -2,7 +2,7 @@
     "id": "song-noche-de-paz",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Noche de paz"},
+    "title": {"en": "Noche de paz", "es": "Noche de paz"},
     "units": [
         {
             "id": "song-noche-de-paz-soprano",
@@ -16,7 +16,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Noche de paz: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Noche de paz: hear the whole song first, then the tune on its own.", "es": "Noche de paz: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -59,8 +59,8 @@
                     ],
                     "fact": {
                         "id": "ndp-holy-night-1893",
-                        "text": {"en": "The earliest known printing of these Spanish words is in El Himnario evangélico, a New York hymnal of 1893. It calls the tune by an English name, \"Holy Night\", and names no one: not Gruber, not Mohr, and not whoever wrote \"¡Noche de paz, noche de amor! Todo duerme en derredor.\""},
-                        "source": {"en": "El Himnario evangélico, para el uso de todas las iglesias (New York: Sociedad Americana de Tratados, copyright 1893), No. 48, p. 38, read from the scan"},
+                        "text": {"en": "The earliest known printing of these Spanish words is in El Himnario evangélico, a New York hymnal of 1893. It calls the tune by an English name, \"Holy Night\", and names no one: not Gruber, not Mohr, and not whoever wrote \"¡Noche de paz, noche de amor! Todo duerme en derredor.\"", "es": "La primera impresión conocida de esta letra en español está en El Himnario evangélico, un himnario de Nueva York de 1893. Da a la melodía un nombre inglés, \"Holy Night\", y no nombra a nadie: ni a Gruber, ni a Mohr, ni a quien escribió \"¡Noche de paz, noche de amor! Todo duerme en derredor.\""},
+                        "source": {"en": "El Himnario evangélico, para el uso de todas las iglesias (New York: Sociedad Americana de Tratados, copyright 1893), No. 48, p. 38, read from the scan", "es": "El Himnario evangélico, para el uso de todas las iglesias (Nueva York: Sociedad Americana de Tratados, copyright 1893), n.º 48, p. 38, leído en el escaneo"},
                         "url": "https://archive.org/details/elhimevangl93amer/page/n43",
                         "distinct": ["navarro-tomas-timbre", "sn-guitar"]
                     }
@@ -172,7 +172,7 @@
                 },
                 {
                     "id": "song-noche-de-paz-soprano-4",
-                    "title": {"en": "Lines 6 to 9"},
+                    "title": {"en": "Lines 6 to 9", "es": "Frases 6 a 9"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -229,7 +229,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 to 9 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 6 to 9 joined: hear them, then sing them back.", "es": "Ahora las frases 6 a 9 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -249,7 +249,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 10 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -301,7 +301,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 10 to 13 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 10 to 13 joined: hear them, then sing them back.", "es": "Ahora las frases 10 a 13 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -347,7 +347,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 16 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 16 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -380,7 +380,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is the tune of line 5 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 17 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 17 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -539,10 +539,10 @@
                     "id": "song-noche-de-paz-soprano-11",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Noche de paz in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "noche-de-paz", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Noche de paz in Sing, with the other parts playing.", "es": "Graba la melodía de Noche de paz en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "noche-de-paz", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "ndp-oye-humilde-1915", "text": {"en": "In 1893 the second verse's second line was \"En el campo al pastor\", and so it stayed in Spanish hymnals of 1894 and 1907. The earliest known printing of the line as \"Oye humilde el fiel pastor\" is in El Nuevo himnario evangélico (New York, 1915)."}, "source": {"en": "El Himnario evangélico (New York, 1893), No. 48, p. 38; Himnos evangélicos (New York, 1894), No. 48, p. 24; Himnario provisional, ed. James H. Van Buren (Philadelphia, 1907), No. 18; El Nuevo himnario evangélico (New York: Sociedad Americana de Tratados, copyright 1915), No. 83, p. 32; read from the scans"}, "url": "https://archive.org/details/elnuev00newy/page/n51"}
+                    "fact": {"id": "ndp-oye-humilde-1915", "text": {"en": "In 1893 the second verse's second line was \"En el campo al pastor\", and so it stayed in Spanish hymnals of 1894 and 1907. The earliest known printing of the line as \"Oye humilde el fiel pastor\" is in El Nuevo himnario evangélico (New York, 1915).", "es": "En 1893, el segundo verso de la segunda estrofa era \"En el campo al pastor\", y así siguió en himnarios en español de 1894 y 1907. La primera impresión conocida del verso como \"Oye humilde el fiel pastor\" está en El Nuevo himnario evangélico (Nueva York, 1915)."}, "source": {"en": "El Himnario evangélico (New York, 1893), No. 48, p. 38; Himnos evangélicos (New York, 1894), No. 48, p. 24; Himnario provisional, ed. James H. Van Buren (Philadelphia, 1907), No. 18; El Nuevo himnario evangélico (New York: Sociedad Americana de Tratados, copyright 1915), No. 83, p. 32; read from the scans", "es": "El Himnario evangélico (Nueva York, 1893), n.º 48, p. 38; Himnos evangélicos (Nueva York, 1894), n.º 48, p. 24; Himnario provisional, ed. James H. Van Buren (Filadelfia, 1907), n.º 18; El Nuevo himnario evangélico (Nueva York: Sociedad Americana de Tratados, copyright 1915), n.º 83, p. 32; leído en los escaneos"}, "url": "https://archive.org/details/elnuev00newy/page/n51"}
                 }
             ]
         },
@@ -558,7 +558,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Noche de paz: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Noche de paz: hear the whole song first, then the alto part on its own.", "es": "Noche de paz: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -707,7 +707,7 @@
                 },
                 {
                     "id": "song-noche-de-paz-alto-4",
-                    "title": {"en": "Lines 6 to 9"},
+                    "title": {"en": "Lines 6 to 9", "es": "Frases 6 a 9"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -764,7 +764,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 to 9 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 6 to 9 joined: hear them, then sing them back.", "es": "Ahora las frases 6 a 9 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -784,7 +784,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 10 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -836,7 +836,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 10 to 13 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 10 to 13 joined: hear them, then sing them back.", "es": "Ahora las frases 10 a 13 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -882,7 +882,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 16 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 16 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -915,7 +915,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is the tune of line 5 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 17 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 17 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -1074,7 +1074,7 @@
                     "id": "song-noche-de-paz-alto-11",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Noche de paz in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "noche-de-paz", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Noche de paz in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Noche de paz en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "noche-de-paz", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -1092,7 +1092,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Noche de paz: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Noche de paz: hear the whole song first, then the bass part on its own.", "es": "Noche de paz: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1241,7 +1241,7 @@
                 },
                 {
                     "id": "song-noche-de-paz-bass-4",
-                    "title": {"en": "Lines 6 to 9"},
+                    "title": {"en": "Lines 6 to 9", "es": "Frases 6 a 9"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -1298,7 +1298,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 to 9 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 6 to 9 joined: hear them, then sing them back.", "es": "Ahora las frases 6 a 9 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -1370,7 +1370,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 10 to 13 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 10 to 13 joined: hear them, then sing them back.", "es": "Ahora las frases 10 a 13 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -1449,7 +1449,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 17 is line 2 again. Sing it with the guide.", "es": "La frase 17 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -1608,7 +1608,7 @@
                     "id": "song-noche-de-paz-bass-11",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Noche de paz in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "noche-de-paz", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Noche de paz in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Noche de paz en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "noche-de-paz", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1626,7 +1626,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Noche de paz: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Noche de paz: hear the whole song first, then the tenor part on its own.", "es": "Noche de paz: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1775,7 +1775,7 @@
                 },
                 {
                     "id": "song-noche-de-paz-tenor-4",
-                    "title": {"en": "Lines 6 to 9"},
+                    "title": {"en": "Lines 6 to 9", "es": "Frases 6 a 9"},
                     "strictness": "relaxed",
                     "steps": [
                         {
@@ -1832,7 +1832,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 6 to 9 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 6 to 9 joined: hear them, then sing them back.", "es": "Ahora las frases 6 a 9 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -1852,7 +1852,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 10 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 10 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -1904,7 +1904,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 10 to 13 joined: hear them, then sing them back."},
+                            "text": {"en": "Now lines 10 to 13 joined: hear them, then sing them back.", "es": "Ahora las frases 10 a 13 seguidas: escúchalas y repítelas."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -1950,7 +1950,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 16 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 16 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 16 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -1983,7 +1983,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 17 is the tune of line 5 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 17 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 17 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "noche-de-paz",
@@ -2142,7 +2142,7 @@
                     "id": "song-noche-de-paz-tenor-11",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Noche de paz in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "noche-de-paz", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Noche de paz in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Noche de paz en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "noche-de-paz", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

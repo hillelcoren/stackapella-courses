@@ -2,7 +2,7 @@
     "id": "song-pastores-a-belen",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Pastores a Belén"},
+    "title": {"en": "Pastores a Belén", "es": "Pastores a Belén"},
     "units": [
         {
             "id": "song-pastores-a-belen-soprano",
@@ -16,7 +16,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Pastores a Belén: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Pastores a Belén: hear the whole song first, then the tune on its own.", "es": "Pastores a Belén: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -57,7 +57,7 @@
                             }
                         }
                     ],
-                    "fact": {"id": "pab-asi-los-canta", "text": {"en": "The 1916 New Mexico songbook this version comes from says it at last brings out the music of the \"Cánticos espirituales, recogidos por el P. Ralliere\". Words and music, it admits, don't always keep the rules of the art, but the people of its region \"así los conoce, así los canta, así los quiere\" (knows them, sings them, loves them this way), so it left them \"intactos\" as far as it could."}, "source": {"en": "Cánticos espirituales con música, recogidos por la \"Revista Católica\" (Las Vegas, New Mexico, 1916), the note \"¡¡¡IMPORTANTE!!!\" (leaf 9), read from the scan"}, "url": "https://archive.org/details/b19151652/page/n9"}
+                    "fact": {"id": "pab-asi-los-canta", "text": {"en": "The 1916 New Mexico songbook this version comes from says it at last brings out the music of the \"Cánticos espirituales, recogidos por el P. Ralliere\". Words and music, it admits, don't always keep the rules of the art, but the people of its region \"así los conoce, así los canta, así los quiere\" (knows them, sings them, loves them this way), so it left them \"intactos\" as far as it could.", "es": "El cancionero de Nuevo México de 1916 del que viene esta versión dice que por fin saca a la luz la música de los \"Cánticos espirituales, recogidos por el P. Ralliere\". Admite que letra y música no siempre guardan las reglas del arte, pero la gente de su región \"así los conoce, así los canta, así los quiere\", y por eso los dejó \"intactos\" en la medida de lo posible."}, "source": {"en": "Cánticos espirituales con música, recogidos por la \"Revista Católica\" (Las Vegas, New Mexico, 1916), the note \"¡¡¡IMPORTANTE!!!\" (leaf 9), read from the scan", "es": "Cánticos espirituales con música, recogidos por la \"Revista Católica\" (Las Vegas, Nuevo México, 1916), la nota \"¡¡¡IMPORTANTE!!!\" (hoja 9), leído en el escaneo"}, "url": "https://archive.org/details/b19151652/page/n9"}
                 },
                 {
                     "id": "song-pastores-a-belen-soprano-2",
@@ -363,13 +363,13 @@
                     "id": "song-pastores-a-belen-soprano-9",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Pastores a Belén in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "pastores-a-belen", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Pastores a Belén in Sing, with the other parts playing.", "es": "Graba la melodía de Pastores a Belén en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "pastores-a-belen", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
                     "fact": {
                         "id": "pab-ralliere-tome",
-                        "text": {"en": "Father J. B. Ralliere, who collected the Cánticos espirituales, was brought from France and served Tomé, New Mexico, from 1858 to 1911. When he died in July 1915 he was buried beneath the church floor."},
-                        "source": {"en": "Florence Hawley Ellis, \"Tomé and Father J. B. R.\", New Mexico Historical Review 30, no. 2 (April 1955), p. 103, and no. 3 (July 1955), pp. 217 and 218; Cánticos espirituales con música (Las Vegas, New Mexico, 1916), the note \"¡¡¡IMPORTANTE!!!\" (leaf 9); read from the scans"},
+                        "text": {"en": "Father J. B. Ralliere, who collected the Cánticos espirituales, was brought from France and served Tomé, New Mexico, from 1858 to 1911. When he died in July 1915 he was buried beneath the church floor.", "es": "El padre J. B. Ralliere, que recogió los Cánticos espirituales, fue traído de Francia y sirvió en Tomé, Nuevo México, de 1858 a 1911. Al morir, en julio de 1915, fue enterrado bajo el suelo de la iglesia."},
+                        "source": {"en": "Florence Hawley Ellis, \"Tomé and Father J. B. R.\", New Mexico Historical Review 30, no. 2 (April 1955), p. 103, and no. 3 (July 1955), pp. 217 and 218; Cánticos espirituales con música (Las Vegas, New Mexico, 1916), the note \"¡¡¡IMPORTANTE!!!\" (leaf 9); read from the scans", "es": "Florence Hawley Ellis, \"Tomé and Father J. B. R.\", New Mexico Historical Review 30, n.º 2 (abril de 1955), p. 103, y n.º 3 (julio de 1955), pp. 217 y 218; Cánticos espirituales con música (Las Vegas, Nuevo México, 1916), la nota \"¡¡¡IMPORTANTE!!!\" (hoja 9); leído en los escaneos"},
                         "url": "https://archive.org/details/sim_new-mexico-historical-review_1955-07_30_3/page/n46",
                         "distinct": ["dboms-third-most-popular"]
                     }
@@ -388,7 +388,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Pastores a Belén: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Pastores a Belén: hear the whole song first, then the alto part on its own.", "es": "Pastores a Belén: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -734,7 +734,7 @@
                     "id": "song-pastores-a-belen-alto-9",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Pastores a Belén in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "pastores-a-belen", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Pastores a Belén in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Pastores a Belén en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "pastores-a-belen", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -752,7 +752,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Pastores a Belén: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Pastores a Belén: hear the whole song first, then the bass part on its own.", "es": "Pastores a Belén: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1098,7 +1098,7 @@
                     "id": "song-pastores-a-belen-bass-9",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Pastores a Belén in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "pastores-a-belen", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Pastores a Belén in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Pastores a Belén en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "pastores-a-belen", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1116,7 +1116,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Pastores a Belén: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Pastores a Belén: hear the whole song first, then the tenor part on its own.", "es": "Pastores a Belén: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1462,7 +1462,7 @@
                     "id": "song-pastores-a-belen-tenor-9",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Pastores a Belén in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "pastores-a-belen", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Pastores a Belén in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Pastores a Belén en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "pastores-a-belen", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }
