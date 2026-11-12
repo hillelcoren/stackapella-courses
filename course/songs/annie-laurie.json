@@ -2,7 +2,7 @@
     "id": "song-annie-laurie",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Annie Laurie"},
+    "title": {"en": "Annie Laurie", "es": "Annie Laurie"},
     "units": [
         {
             "id": "song-annie-laurie-soprano",
@@ -16,7 +16,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Annie Laurie: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Annie Laurie: hear the whole song first, then the tune on its own.", "es": "Annie Laurie: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -57,7 +57,7 @@
                             }
                         }
                     ],
-                    "fact": {"id": "al-lady-john-scott", "text": {"en": "Lady John Scott told the editor Alfred Moffat that the tune was her own, and that she altered the second verse and wrote all of the third."}, "source": {"en": "Alfred Moffat, The Minstrelsy of Scotland (London: Augener, 2nd edition), p. 109, footnote, read from the scan"}, "url": "https://archive.org/details/minstrelsyofscot00moff/page/n128"}
+                    "fact": {"id": "al-lady-john-scott", "text": {"en": "Lady John Scott told the editor Alfred Moffat that the tune was her own, and that she altered the second verse and wrote all of the third.", "es": "Lady John Scott le contó al editor Alfred Moffat que la melodía era suya, y que había cambiado la segunda estrofa y escrito entera la tercera."}, "source": {"en": "Alfred Moffat, The Minstrelsy of Scotland (London: Augener, 2nd edition), p. 109, footnote, read from the scan", "es": "Alfred Moffat, The Minstrelsy of Scotland (Londres: Augener, 2.ª edición), p. 109, nota al pie, leído en el escaneo"}, "url": "https://archive.org/details/minstrelsyofscot00moff/page/n128"}
                 },
                 {
                     "id": "song-annie-laurie-soprano-2",
@@ -330,10 +330,10 @@
                     "id": "song-annie-laurie-soprano-8",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Annie Laurie in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "annie-laurie", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Annie Laurie in Sing, with the other parts playing.", "es": "Graba la melodía de Annie Laurie en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "annie-laurie", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "al-douglas-of-fingland", "text": {"en": "The older song is \"said to\" be by Mr Douglas of Fingland, for Anne, a daughter of Sir Robert Laurie of Maxwelton. But \"the Lady afterwards married Mr Ferguson of Craigdarroch\"."}, "source": {"en": "C. K. Sharpe, A Ballad Book (1880 reprint of the 1823 edition), pp. 107 and 108, note, read from the scan"}, "url": "https://archive.org/details/balladbook00shar/page/n148"}
+                    "fact": {"id": "al-douglas-of-fingland", "text": {"en": "The older song is \"said to\" be by Mr Douglas of Fingland, for Anne, a daughter of Sir Robert Laurie of Maxwelton. But \"the Lady afterwards married Mr Ferguson of Craigdarroch\".", "es": "Se dice (\"said to\") que la canción más antigua es de Mr Douglas of Fingland, para Anne, hija de Sir Robert Laurie of Maxwelton. Pero \"the Lady afterwards married Mr Ferguson of Craigdarroch\" (la dama se casó después con Mr Ferguson of Craigdarroch)."}, "source": {"en": "C. K. Sharpe, A Ballad Book (1880 reprint of the 1823 edition), pp. 107 and 108, note, read from the scan", "es": "C. K. Sharpe, A Ballad Book (reimpresión de 1880 de la edición de 1823), pp. 107 y 108, nota, leído en el escaneo"}, "url": "https://archive.org/details/balladbook00shar/page/n148"}
                 }
             ]
         },
@@ -349,7 +349,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Annie Laurie: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Annie Laurie: hear the whole song first, then the alto part on its own.", "es": "Annie Laurie: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -662,7 +662,7 @@
                     "id": "song-annie-laurie-alto-8",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Annie Laurie in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "annie-laurie", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Annie Laurie in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Annie Laurie en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "annie-laurie", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -680,7 +680,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Annie Laurie: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Annie Laurie: hear the whole song first, then the bass part on its own.", "es": "Annie Laurie: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -993,7 +993,7 @@
                     "id": "song-annie-laurie-bass-8",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Annie Laurie in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "annie-laurie", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Annie Laurie in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Annie Laurie en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "annie-laurie", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1011,7 +1011,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Annie Laurie: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Annie Laurie: hear the whole song first, then the tenor part on its own.", "es": "Annie Laurie: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1324,7 +1324,7 @@
                     "id": "song-annie-laurie-tenor-8",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Annie Laurie in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "annie-laurie", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Annie Laurie in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Annie Laurie en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "annie-laurie", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }

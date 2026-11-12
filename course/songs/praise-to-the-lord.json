@@ -2,7 +2,7 @@
     "id": "song-praise-to-the-lord",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Praise to the Lord, the Almighty"},
+    "title": {"en": "Praise to the Lord, the Almighty", "es": "Praise to the Lord, the Almighty"},
     "units": [
         {
             "id": "song-praise-to-the-lord-soprano",
@@ -16,7 +16,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Praise to the Lord, the Almighty: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Praise to the Lord, the Almighty: hear the whole song first, then the tune on its own.", "es": "Praise to the Lord, the Almighty: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -57,7 +57,7 @@
                             }
                         }
                     ],
-                    "fact": {"id": "ptl-waldenburg", "text": {"en": "The German hymn, Lobe den Herren, was the favourite of King Friedrich Wilhelm III of Prussia. The writer Lauxmann relates how he was affected by hearing it sung in a boat in the mines at Waldenburg in 1800."}, "source": {"en": "John Julian, A Dictionary of Hymnology (1907), vol. 1, p. 683, \"Lobe den Herren\", citing Lauxmann, read from the scan"}, "url": "https://archive.org/details/dictionaryofhymn01lond/page/n709"}
+                    "fact": {"id": "ptl-waldenburg", "text": {"en": "The German hymn, Lobe den Herren, was the favourite of King Friedrich Wilhelm III of Prussia. The writer Lauxmann relates how he was affected by hearing it sung in a boat in the mines at Waldenburg in 1800.", "es": "El himno alemán, Lobe den Herren, era el favorito del rey Federico Guillermo III de Prusia. El escritor Lauxmann cuenta cómo se emocionó el rey al oírlo cantar en una barca, en las minas de Waldenburg, en 1800."}, "source": {"en": "John Julian, A Dictionary of Hymnology (1907), vol. 1, p. 683, \"Lobe den Herren\", citing Lauxmann, read from the scan", "es": "John Julian, A Dictionary of Hymnology (1907), vol. 1, p. 683, \"Lobe den Herren\", citando a Lauxmann, leído en el escaneo"}, "url": "https://archive.org/details/dictionaryofhymn01lond/page/n709"}
                 },
                 {
                     "id": "song-praise-to-the-lord-soprano-2",
@@ -177,7 +177,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 to 7 joined, with the guide."},
+                            "text": {"en": "Now lines 4 to 7 joined, with the guide.", "es": "Ahora las frases 4 a 7 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "praise-to-the-lord",
@@ -197,7 +197,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 8 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "praise-to-the-lord",
@@ -210,7 +210,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 9 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 9 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "praise-to-the-lord",
@@ -356,10 +356,10 @@
                     "id": "song-praise-to-the-lord-soprano-8",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Praise to the Lord, the Almighty in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "praise-to-the-lord", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Praise to the Lord, the Almighty in Sing, with the other parts playing.", "es": "Graba la melodía de Praise to the Lord, the Almighty en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "praise-to-the-lord", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "ptl-von-roon", "text": {"en": "With this hymn the Prussian War Minister, Albrecht von Roon, celebrated his jubilee of service, near Paris, on January 9, 1871."}, "source": {"en": "John Julian, A Dictionary of Hymnology (1907), vol. 1, p. 683, \"Lobe den Herren\", read from the scan"}, "url": "https://archive.org/details/dictionaryofhymn01lond/page/n709"}
+                    "fact": {"id": "ptl-von-roon", "text": {"en": "With this hymn the Prussian War Minister, Albrecht von Roon, celebrated his jubilee of service, near Paris, on January 9, 1871.", "es": "Con este himno el ministro de la Guerra de Prusia, Albrecht von Roon, celebró su jubileo de servicio, cerca de París, el 9 de enero de 1871."}, "source": {"en": "John Julian, A Dictionary of Hymnology (1907), vol. 1, p. 683, \"Lobe den Herren\", read from the scan", "es": "John Julian, A Dictionary of Hymnology (1907), vol. 1, p. 683, \"Lobe den Herren\", leído en el escaneo"}, "url": "https://archive.org/details/dictionaryofhymn01lond/page/n709"}
                 }
             ]
         },
@@ -375,7 +375,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Praise to the Lord, the Almighty: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Praise to the Lord, the Almighty: hear the whole song first, then the alto part on its own.", "es": "Praise to the Lord, the Almighty: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -535,7 +535,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 to 7 joined, with the guide."},
+                            "text": {"en": "Now lines 4 to 7 joined, with the guide.", "es": "Ahora las frases 4 a 7 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "praise-to-the-lord",
@@ -555,7 +555,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 8 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "praise-to-the-lord",
@@ -714,7 +714,7 @@
                     "id": "song-praise-to-the-lord-alto-8",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Praise to the Lord, the Almighty in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "praise-to-the-lord", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Praise to the Lord, the Almighty in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Praise to the Lord, the Almighty en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "praise-to-the-lord", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -732,7 +732,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Praise to the Lord, the Almighty: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Praise to the Lord, the Almighty: hear the whole song first, then the bass part on its own.", "es": "Praise to the Lord, the Almighty: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -892,7 +892,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 to 7 joined, with the guide."},
+                            "text": {"en": "Now lines 4 to 7 joined, with the guide.", "es": "Ahora las frases 4 a 7 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "praise-to-the-lord",
@@ -912,7 +912,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 8 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "praise-to-the-lord",
@@ -1071,7 +1071,7 @@
                     "id": "song-praise-to-the-lord-bass-8",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Praise to the Lord, the Almighty in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "praise-to-the-lord", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Praise to the Lord, the Almighty in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Praise to the Lord, the Almighty en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "praise-to-the-lord", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1089,7 +1089,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Praise to the Lord, the Almighty: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Praise to the Lord, the Almighty: hear the whole song first, then the tenor part on its own.", "es": "Praise to the Lord, the Almighty: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1249,7 +1249,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Now lines 4 to 7 joined, with the guide."},
+                            "text": {"en": "Now lines 4 to 7 joined, with the guide.", "es": "Ahora las frases 4 a 7 seguidas, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "praise-to-the-lord",
@@ -1269,7 +1269,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is the tune of line 3 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 8 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "praise-to-the-lord",
@@ -1428,7 +1428,7 @@
                     "id": "song-praise-to-the-lord-tenor-8",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Praise to the Lord, the Almighty in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "praise-to-the-lord", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Praise to the Lord, the Almighty in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Praise to the Lord, the Almighty en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "praise-to-the-lord", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }
