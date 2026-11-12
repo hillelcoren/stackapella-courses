@@ -2,7 +2,7 @@
     "id": "song-echad-mi-yodea",
     "version": 1,
     "reviewed": false,
-    "title": {"en": "Echad Mi Yodea"},
+    "title": {"en": "Echad Mi Yodea", "es": "Echad Mi Yodea"},
     "units": [
         {
             "id": "song-echad-mi-yodea-soprano",
@@ -16,7 +16,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Echad Mi Yodea: hear the whole song first, then the tune on its own."},
+                            "headline": {"en": "Echad Mi Yodea: hear the whole song first, then the tune on its own.", "es": "Echad Mi Yodea: escucha primero la canción entera y luego la melodía sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -57,7 +57,7 @@
                             }
                         }
                     ],
-                    "fact": {"id": "emy-counting", "text": {"en": "It counts from one to thirteen, and each stanza repeats every number back down to one: one is our God, in heaven and on earth."}, "source": {"en": "The Union Haggadah (Central Conference of American Rabbis, 1923), pp. 86 to 92, read from the scan"}, "url": "https://archive.org/details/unionhaggadahhom00unse"}
+                    "fact": {"id": "emy-counting", "text": {"en": "It counts from one to thirteen, and each stanza repeats every number back down to one: one is our God, in heaven and on earth.", "es": "Cuenta del uno al trece, y cada estrofa repite todos los números hacia atrás hasta el uno: uno es nuestro Dios, en el cielo y en la tierra."}, "source": {"en": "The Union Haggadah (Central Conference of American Rabbis, 1923), pp. 86 to 92, read from the scan", "es": "The Union Haggadah (Central Conference of American Rabbis, 1923), pp. 86 a 92, leído en el escaneo"}, "url": "https://archive.org/details/unionhaggadahhom00unse"}
                 },
                 {
                     "id": "song-echad-mi-yodea-soprano-2",
@@ -184,7 +184,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 2 again. Sing it with the guide.", "es": "La frase 7 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -197,7 +197,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 8 is the tune of line 5 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 8 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -230,7 +230,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Line 9 is the tune of line 6 again, with new words. Sing it with the guide."},
+                            "text": {"en": "Line 9 is the tune of line 6 again, with new words. Sing it with the guide.", "es": "La frase 9 repite la melodía de la frase 6, con otra letra. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -275,7 +275,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Echad start to end, with the guide."},
+                            "text": {"en": "Echad start to end, with the guide.", "es": "\"Echad\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -288,7 +288,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shenayim start to end, with the guide."},
+                            "text": {"en": "Shenayim start to end, with the guide.", "es": "\"Shenayim\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -301,7 +301,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Sh'losha start to end, with the guide."},
+                            "text": {"en": "Sh'losha start to end, with the guide.", "es": "\"Sh'losha\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -314,7 +314,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Arba start to end, with the guide."},
+                            "text": {"en": "Arba start to end, with the guide.", "es": "\"Arba\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -402,10 +402,10 @@
                     "id": "song-echad-mi-yodea-soprano-9",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tune of Echad Mi Yodea in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "echad-mi-yodea", "singers": 4, "part": "soprano"}
+                        {"kind": "record", "text": {"en": "Record the tune of Echad Mi Yodea in Sing, with the other parts playing.", "es": "Graba la melodía de Echad Mi Yodea en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "echad-mi-yodea", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "emy-eight-nine", "text": {"en": "The Union Haggadah of 1923 changes two of the numbers, in its Hebrew as well as its English: eight becomes the eight days of Hanukkah, and nine the nine festivals."}, "source": {"en": "The Union Haggadah (1923), pp. 87 to 89, read from the scan"}, "url": "https://archive.org/details/unionhaggadahhom00unse"}
+                    "fact": {"id": "emy-eight-nine", "text": {"en": "The Union Haggadah of 1923 changes two of the numbers, in its Hebrew as well as its English: eight becomes the eight days of Hanukkah, and nine the nine festivals.", "es": "The Union Haggadah de 1923 cambia dos de los números, tanto en hebreo como en inglés: el ocho pasa a ser los ocho días de Janucá, y el nueve, las nueve fiestas."}, "source": {"en": "The Union Haggadah (1923), pp. 87 to 89, read from the scan", "es": "The Union Haggadah (1923), pp. 87 a 89, leído en el escaneo"}, "url": "https://archive.org/details/unionhaggadahhom00unse"}
                 }
             ]
         },
@@ -421,7 +421,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Echad Mi Yodea: hear the whole song first, then the alto part on its own."},
+                            "headline": {"en": "Echad Mi Yodea: hear the whole song first, then the alto part on its own.", "es": "Echad Mi Yodea: escucha primero la canción entera y luego la voz de contralto sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -588,7 +588,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 2 again. Sing it with the guide.", "es": "La frase 7 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -679,7 +679,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Echad start to end, with the guide."},
+                            "text": {"en": "Echad start to end, with the guide.", "es": "\"Echad\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -692,7 +692,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shenayim start to end, with the guide."},
+                            "text": {"en": "Shenayim start to end, with the guide.", "es": "\"Shenayim\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -705,7 +705,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Sh'losha start to end, with the guide."},
+                            "text": {"en": "Sh'losha start to end, with the guide.", "es": "\"Sh'losha\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -718,7 +718,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Arba start to end, with the guide."},
+                            "text": {"en": "Arba start to end, with the guide.", "es": "\"Arba\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -806,7 +806,7 @@
                     "id": "song-echad-mi-yodea-alto-9",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the alto part of Echad Mi Yodea in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "echad-mi-yodea", "singers": 4, "part": "alto"}
+                        {"kind": "record", "text": {"en": "Record the alto part of Echad Mi Yodea in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Echad Mi Yodea en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "echad-mi-yodea", "singers": 4, "part": "alto"}
                     ],
                     "challenge": true
                 }
@@ -824,7 +824,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Echad Mi Yodea: hear the whole song first, then the bass part on its own."},
+                            "headline": {"en": "Echad Mi Yodea: hear the whole song first, then the bass part on its own.", "es": "Echad Mi Yodea: escucha primero la canción entera y luego la voz de bajo sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -991,7 +991,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 2 again. Sing it with the guide.", "es": "La frase 7 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -1082,7 +1082,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Echad start to end, with the guide."},
+                            "text": {"en": "Echad start to end, with the guide.", "es": "\"Echad\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -1095,7 +1095,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shenayim start to end, with the guide."},
+                            "text": {"en": "Shenayim start to end, with the guide.", "es": "\"Shenayim\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -1108,7 +1108,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Sh'losha start to end, with the guide."},
+                            "text": {"en": "Sh'losha start to end, with the guide.", "es": "\"Sh'losha\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -1121,7 +1121,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Arba start to end, with the guide."},
+                            "text": {"en": "Arba start to end, with the guide.", "es": "\"Arba\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -1209,7 +1209,7 @@
                     "id": "song-echad-mi-yodea-bass-9",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the bass part of Echad Mi Yodea in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "echad-mi-yodea", "singers": 4, "part": "bass"}
+                        {"kind": "record", "text": {"en": "Record the bass part of Echad Mi Yodea in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Echad Mi Yodea en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "echad-mi-yodea", "singers": 4, "part": "bass"}
                     ],
                     "challenge": true
                 }
@@ -1227,7 +1227,7 @@
                     "steps": [
                         {
                             "kind": "learn",
-                            "headline": {"en": "Echad Mi Yodea: hear the whole song first, then the tenor part on its own."},
+                            "headline": {"en": "Echad Mi Yodea: hear the whole song first, then the tenor part on its own.", "es": "Echad Mi Yodea: escucha primero la canción entera y luego la voz de tenor sola."},
                             "steps": [
                                 {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
                                 {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
@@ -1394,7 +1394,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Line 7 is line 2 again. Sing it with the guide."},
+                            "text": {"en": "Line 7 is line 2 again. Sing it with the guide.", "es": "La frase 7 repite la frase 2. Cántala con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -1485,7 +1485,7 @@
                     "steps": [
                         {
                             "kind": "play",
-                            "text": {"en": "Echad start to end, with the guide."},
+                            "text": {"en": "Echad start to end, with the guide.", "es": "\"Echad\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -1498,7 +1498,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Shenayim start to end, with the guide."},
+                            "text": {"en": "Shenayim start to end, with the guide.", "es": "\"Shenayim\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -1511,7 +1511,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Sh'losha start to end, with the guide."},
+                            "text": {"en": "Sh'losha start to end, with the guide.", "es": "\"Sh'losha\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -1524,7 +1524,7 @@
                         },
                         {
                             "kind": "play",
-                            "text": {"en": "Arba start to end, with the guide."},
+                            "text": {"en": "Arba start to end, with the guide.", "es": "\"Arba\", de principio a fin, con la guía."},
                             "exercise": {
                                 "song": {
                                     "template": "echad-mi-yodea",
@@ -1612,7 +1612,7 @@
                     "id": "song-echad-mi-yodea-tenor-9",
                     "title": {"en": "Record it", "es": "Grabar"},
                     "steps": [
-                        {"kind": "record", "text": {"en": "Record the tenor part of Echad Mi Yodea in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "echad-mi-yodea", "singers": 4, "part": "tenor"}
+                        {"kind": "record", "text": {"en": "Record the tenor part of Echad Mi Yodea in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Echad Mi Yodea en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "echad-mi-yodea", "singers": 4, "part": "tenor"}
                     ],
                     "challenge": true
                 }
