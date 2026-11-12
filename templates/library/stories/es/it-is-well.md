@@ -39,7 +39,7 @@ It Is Well with My Soul, que en español se canta como "Estoy bien con mi Dios" 
 ### Cronología
 
 - 1873: Se hunde el Ville du Havre, el 22 de noviembre según Hymnology Archive y el Canterbury Dictionary, el 21 de noviembre según la exposición de la Biblioteca del Congreso; perecen las cuatro hijas de Spafford [^hymnarchive][^canterbury][^loc-family]
-- 1873: Anna desembarca en Cardiff y envía el cable "Salvada sola" [^loc-family][^hymnarchive]
+- 1873: Anna desembarca en Cardiff y envía el cable "Saved alone" (salvada, sola) [^loc-family][^hymnarchive]
 - 1876: Gospel Hymns No. 2 imprime la letra de Spafford con la melodía de Bliss, como n.º 76 [^gh2][^motb]
 - 1876: Bliss y su mujer mueren en el desastre del puente de Ashtabula, el 29 de diciembre (el 30 de diciembre según Julian) [^whittle][^chi][^hymnary-bliss]
 - 1878: Spafford imprime el poema en Waiting for the Morning [^loc-jerusalem][^hymnarchive]
