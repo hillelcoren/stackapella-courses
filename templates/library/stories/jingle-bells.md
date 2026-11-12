@@ -1,0 +1,124 @@
+---
+title: "Jingle Bells: history, meaning and the words explained"
+description: Published in Boston in 1857 as The One Horse Open Sleigh, first known from a minstrel stage, it has no word of Christmas. Its history and words explained.
+lead: James Lord Pierpont's sleigh-ride song, published in Boston in 1857 as "The One Horse Open Sleigh" and first known to be sung in a minstrel show. We sing its first verse and chorus as printed in 1909.
+words: James Lord Pierpont (1857)
+tune: James Lord Pierpont (1857); the chorus tune sung today in print by 1876
+earliestPrinting: The One Horse Open Sleigh, Oliver Ditson & Co., Boston, 1857
+earliestPrintingSource: ditson1857
+language: English
+origin: Boston, Massachusetts
+occasion: Winter; now the Christmas season
+alsoKnownAs: The One Horse Open Sleigh
+wikidata: Q406845
+quote: "Oh! what joy it is to ride / In a one horse open sleigh."
+quoteSource: ditson1857
+updated: 2026-11-12
+checked: 2026-11-12
+reviewed: true
+searches: who wrote jingle bells originally | what year was jingle bells written | was jingle bells written for thanksgiving | was jingle bells a minstrel song | is jingle bells a christmas song | jingle bells history minstrel | is jingle bells public domain | jingle bells meaning origin
+---
+
+Jingle Bells is a song about a fast sleigh ride on new snow, and its words never mention Christmas. James Lord Pierpont wrote the words and the music, and Oliver Ditson & Co. of Boston published it in 1857 as "The One Horse Open Sleigh", a song with a chorus for four voices [^ditson1857]. Its first known performance was on a Boston minstrel stage on 15 September 1857, sung by a performer in blackface [^hamill][^bostonia]. Within twenty years it was in a Boston book of American college songs, its chorus marked "accompanied by jingling glasses" [^carmina1876]. It became a Christmas song only later, and today it is among the best known of them [^hamill][^bostonia].
+
+## Where it comes from
+
+**The man.** James Lord Pierpont was born in Boston in 1822, the son of the Reverend John Pierpont, a Unitarian minister and outspoken abolitionist [^hamill][^connectsav][^historycom]. His sister's son was the banker J. Pierpont Morgan [^bostonia][^historycom]. James went west in the California gold rush, where a photography business in San Francisco failed, and he came back east with nothing [^bostonia][^connectsav]. From 1852 he wrote songs for the blackface minstrel shows at Ordway Hall in Boston, beginning with "The Returned Californian", a dozen or more in all [^hamill][^bostonia]. In 1853 he sailed to Savannah, Georgia, where his brother John was minister of the Unitarian church, and he became its music director [^hamill][^historycom][^connectsav].
+
+**The song.** The Library of Congress copy of "The One Horse Open Sleigh" carries the handwritten note "Deposited Sept. 16. 1857": the day it was deposited for copyright [^ditson1857]. Its cover names it a "Song and Chorus, written & composed by J. Pierpont" and dedicates it "to John P. Ordway, Esq." [^ditson1857]. John Ordway ran Ordway Hall and led Ordway's Aeolians, a minstrel company of white men in blackface [^wittmann][^historycom][^bostonia]. The theatre historian Kyna Hamill found a playbill for Ordway Hall on 15 September 1857, the day before the deposit. In the first part of that night's blackface minstrel show, Johnny Pell sang "One Horse Open Sleigh", playing a blackface dandy [^hamill][^bostonia]. Hamill argues that the song grew out of a fashion on northern minstrel stages for burlesquing the popular sleigh-ride courtship song through the figure of the blackface dandy, and that the song's beginnings in blackface and racist entertainment were later removed from its history, subtly and step by step [^hamill]. Its words, she notes, are not written wholly in dialect, though a word like "upsot" gives them a southern sound for northern audiences [^hamill].
+
+**The new title.** In 1859 the song was copyrighted again, as "Jingle Bells, or The One Horse Open Sleigh" [^hamill][^connectsav]. By Hamill's account this edition dropped the dedication to Ordway [^hamill]. That year the Savannah church closed and Pierpont's brother went back north [^historycom][^connectsav].
+
+**The war.** When the Civil War came, Pierpont enlisted in the Confederate army and served as a company clerk in a Georgia cavalry unit raised around Savannah [^historycom][^connectsav]. He wrote songs for the Southern cause; "We Conquer or Die" was published in New Orleans in 1861 [^wustl1861][^hamill]. His father went to the war as chaplain of a Union regiment, the 22nd Massachusetts Infantry, in 1861 [^historycom][^harvard]. James died in Florida in 1893 and was buried in Savannah [^historycom][^connectsav][^bostonia].
+
+**The tune.** The verse tune of 1857 is, in its shape, the one sung now [^ditson1857][^heartsongs1909]. The chorus is not. In 1857 the second "Jingle bells" jumps higher than the first, the line touches a note outside the key, an E natural on "way", and the words are "Oh! what joy it is to ride" [^ditson1857]. The chorus sung today, with every "Jingle bells" on one repeated note and "Oh! what fun it is to ride", is in print by 1876, in a Boston book of college songs with no composer named [^carmina1876]. The verse has changed a little too: 1857 has "o'er the hills" for "o'er the fields" and "Oh what sport to ride and sing" [^ditson1857][^carmina1876]. Who reshaped the song, and when, is not known from the sources read for this page.
+
+**Myth and record.** Often told: the song was first sung at Thanksgiving, at a church service or a Sunday school concert; Savannah's version places it at his brother's church there in 1857 [^historycom][^connectsav]. What the record shows: the song was on a Boston minstrel stage on 15 September 1857 and deposited for copyright the next day, weeks before that year's Thanksgiving, and nothing in its words belongs to a church or a holiday [^hamill][^ditson1857].
+
+Often told, too: Pierpont wrote it in 1850 at the Simpson Tavern in Medford, Massachusetts, as a plaque there says; or in Savannah in late 1857, as Savannah holds [^hamill][^bostonia][^connectsav]. What the record shows: Hamill traced Medford's claim back no further than a Boston Globe article of 1946, and the song was published in Boston before the Savannah date [^hamill][^bostonia][^ditson1857]. Popular accounts add that Pierpont was in California in 1850 [^bostonia][^historycom]; Hamill's own notes are more careful, finding him on Medford's census and tax lists in 1850 and in San Francisco by June 1851 [^hamill]. Where he wrote it is not known; Hamill's best guess is his Boston rooming house of early summer 1857 [^bostonia][^historycom].
+
+### Timeline
+
+- 1822: James Lord Pierpont is born in Boston [^hamill][^connectsav]
+- 1853: He goes to Savannah as music director of his brother's Unitarian church [^hamill][^historycom]
+- 1857: Johnny Pell sings "One Horse Open Sleigh" at Ordway Hall, Boston, on 15 September [^hamill][^bostonia]
+- 1857: Ditson's sheet music is deposited for copyright on 16 September [^ditson1857]
+- 1859: Copyrighted again as "Jingle Bells, or The One Horse Open Sleigh" [^hamill][^connectsav]
+- 1876: Today's chorus tune appears in Carmina Collegensia, a Boston college songbook [^carmina1876]
+- 1909: Heart Songs prints the version we sing [^heartsongs1909]
+- 1965: Two astronauts play it on Gemini 6 on 16 December [^nasm-story][^nasa]
+
+## What the words mean
+
+The 1857 song has four verses: a light story of winter fun and mishaps [^ditson1857].
+
+**Verse 1**, the one we sing, sets the scene. "Dashing" is rushing along, in a small roofless sleigh pulled by one horse. "O'er" is "over". The sleigh bells ring on the harness of a bobtail, a horse whose tail is cut short, and "making spirits bright" means putting everyone in a good mood.
+
+**The chorus** is the sound of the ride: let the bells jingle all the way, because riding in the sleigh is such fun. In 1857 it was "what joy" [^ditson1857].
+
+**Verse 2** goes wrong. The singer takes Miss Fannie Bright for a ride, but the horse is lean and unlucky, runs into a snowdrift, and "we got upsot": tipped over. "Upsot" is an old country form of "upset"; Bartlett's Dictionary of Americanisms of 1859 quotes it from a rural newspaper sketch [^bartlett1859]; Hamill notes that it can be read as southern dialect, a hint of the minstrel stage [^hamill].
+
+**Verse 3**, left out of our 1909 printing, has the singer fall flat on his back in the snow while a man in a passing sleigh laughs and drives on [^ditson1857][^heartsongs1909]. Its line "The story I must tell" gave Hamill the title of her study [^hamill].
+
+**Verse 4** is advice: while the ground is white and you are young, take the girls out tonight. Get a bobtailed bay (a reddish-brown horse) with a speed of "two forty", hitch him to an open sleigh, and with a crack of the whip you will take the lead. "Two forty" means a mile in two minutes and forty seconds, the pace of a fast trotting horse in those years [^bartlett1877][^hamill].
+
+## How it is sung
+
+In 1857 the verse is for one voice and the chorus for four, from a high part down to a bass, over a busy piano part [^ditson1857]. College students took it up as a song for parties; both the 1876 college book and the 1909 Heart Songs mark the chorus "accompanied by jingling glasses" [^carmina1876][^heartsongs1909]. Heart Songs, built from favourite songs sent in by some twenty thousand people, prints three of the four verses and names no author [^heartsongs1909].
+
+Our arrangement reads the verse and chorus from Heart Songs of 1909, set by Stackapella on the harmony of its piano part and moved down a semitone from A-flat to G. We sing the first verse and then the chorus. It is for 2 to 4 singers, bright and quick, with a breath at every line: the tune on top, the alto under it, the tenor in the middle of the chord, and the bass playing the horse and the bells.
+
+## Did you know?
+
+- The first edition's chorus is a little part-song: its four voice parts are printed on four staves of their own, above the piano [^ditson1857].
+- On Gemini 6 the crew first radioed that they could see an "object", a joke about Santa Claus, and then played the tune: Wally Schirra on a tiny Hohner harmonica, Tom Stafford on small bells. Both instruments are now in the Smithsonian's National Air and Space Museum [^nasm-story][^nasm-harmonica][^nasa].
+
+## Singing it
+
+- [Soprano](/songs/jingle-bells/soprano): the tune. Four times in the verse the tune leaps a sixth, low D up to B, on "Dash-ing", "one-horse", "Bells on" and "Mak-ing"; land it cleanly. The top E comes once, on "sleigh-" in "A sleighing song tonight". In the chorus every "Jingle bells" sits on one B: keep those repeated notes light and on pitch, not sinking.
+- [Alto](/songs/jingle-bells/alto): the words, mostly a sixth under the tune, mostly on D and B. Every "Jingle bells" is on D under the tune's B. Your top note is F-sharp, held through "Laughing all the" and repeated through "ride and sing a sleighing": keep it bright and in tune.
+- [Tenor](/songs/jingle-bells/tenor): mostly on G. The changes are few: A from "O'er the fields we go" to "Laughing all the", C on "ride and sing a", A on "sleighing", and down to F-sharp on "song to-". The chorus stays on G until the end of each half: B and A on "pen sleigh" the first time; A, then F-sharp, then home to G the last.
+- [Bass](/songs/jingle-bells/bass): the horse and the bells. A short low "dm" on every other beat through the verse, like hooves, then a ringing "jing" through the chorus, mostly on G, D and C. Keep it steady, and hold the last "jing" on low G for a full bar.
+
+## Questions
+
+### Was Jingle Bells written for Thanksgiving?
+
+No evidence from the time says so. The story is that it was first sung at Thanksgiving, at a church service or a Sunday school concert; Savannah places it at his brother's church [^historycom][^connectsav]. But the song was sung on a Boston minstrel stage on 15 September 1857 and deposited for copyright the next day, weeks before Thanksgiving [^hamill][^ditson1857].
+
+### Was Jingle Bells a minstrel song?
+
+Yes, at its beginning. Its first known performance was by Johnny Pell, a white performer in blackface, at Ordway Hall in Boston in September 1857, and the sheet music is dedicated to the hall's owner, John P. Ordway [^hamill][^bostonia][^ditson1857]. It was not a song of enslaved people. The theatre historian Kyna Hamill traced this history in a 2017 study and argues that it was later left out of the song's story [^hamill].
+
+### Is Jingle Bells public domain?
+
+Yes. Pierpont published the words and music in 1857 and died in 1893 [^ditson1857][^historycom]. In the United States, works published before 1931 are in the public domain [^cornell]. A newer arrangement or recording can still be under copyright, but the song itself is free to sing, print and arrange.
+
+### Which part sings the tune?
+
+The soprano sings the tune in our arrangement. With two singers you have the tune and the alto; with three, add the bass; the tenor makes four. The tune runs from the low D up to the E above the octave, and its highest note comes only once, on "sleighing".
+
+## Sing next
+
+- [Deck the Halls](/songs/deck-the-halls): another bright, quick song of the winter season with no word of the Nativity, everyone on the words.
+- [Daisy Bell](/songs/daisy-bell): a later popular song of verse and chorus, read like this one from an old printing, with a ride of its own on a bicycle built for two.
+- [God Rest Ye Merry, Gentlemen](/songs/god-rest-ye): a carol for the same December singing, brisk like this one but in a minor key.
+
+## Sources
+
+- [^ditson1857]: J. Pierpont, *The One Horse Open Sleigh: Song and Chorus* (Boston: Oliver Ditson & Co., 1857), plate 18200, cover and pp. 3 to 5, with the deposit note "Deposited Sept. 16. 1857"; Library of Congress copy (item 2023812429), facsimile on the Internet Archive. https://archive.org/details/loc-american-sheet-mus-2023812429-the-one-horse-open-sleigh
+- [^carmina1876]: Henry Randall Waite, ed., *Carmina Collegensia* (Boston: Oliver Ditson & Co., 1876), pp. 18 to 19, "Jingle, Bells"; York University Libraries copy, facsimile. https://archive.org/details/carminacollegens00wait
+- [^heartsongs1909]: Joe Mitchell Chapple, ed., *Heart Songs Dear to the American People* (Boston: The Chapple Publishing Company, 1909), foreword and pp. 148 to 149, "Jingle, Bells"; facsimile. https://archive.org/details/heartsongsdearto00chap
+- [^hamill]: Kyna Hamill, "'The story I must tell': 'Jingle Bells' in the Minstrel Repertoire", *Theatre Survey* 58, no. 3 (September 2017), pp. 375 to 403. https://www.cambridge.org/core/journals/theatre-survey/article/story-i-must-tell-jingle-bells-in-the-minstrel-repertoire/D42C78950A58BDB88290954F73B195B2
+- [^bostonia]: Joel Brown, "Unearthing the Truth about 'Jingle Bells'", *Bostonia*, Boston University (9 December 2016). https://www.bu.edu/bostonia/2016/jingle-bells-history/
+- [^historycom]: Christopher Klein, "8 Things You May Not Know About 'Jingle Bells'", History.com (2016, updated 2025). https://www.history.com/articles/8-things-you-may-not-know-about-jingle-bells
+- [^connectsav]: Bill DeYoung, "Jingle, all the way!", *Connect Savannah* (2009, updated 2024). https://www.connectsavannah.com/?p=149634
+- [^wittmann]: Matthew Wittmann, "Kelly and Leon's Minstrels (Part I)" (15 September 2012). https://matthewwittmann.com/category/minstrelsy/
+- [^wustl1861]: James Pierpont, *We Conquer or Die* (New Orleans: P. P. Werlein & Halsey, 1861), plate 621; Gaylord Music Library, Washington University in St. Louis, facsimile. https://archive.org/details/b88149122
+- [^bartlett1859]: John Russell Bartlett, *Dictionary of Americanisms*, 2nd ed. (Boston: Little, Brown and Company, 1859), p. 412, "To Slat", quoting the Lafayette Chronicle; facsimile. https://archive.org/details/dictionaryofamer00bartiala
+- [^bartlett1877]: John Russell Bartlett, *Dictionary of Americanisms*, 4th ed. (Boston: Little, Brown, and Company, 1877), p. 725, "Two-forty Pace"; facsimile. https://archive.org/details/dictionaryameri01bartgoog
+- [^nasm-story]: National Air and Space Museum, "Tom Stafford's Jingle Bells and Wally Schirra's Harmonica" (16 December 2014). https://airandspace.si.edu/stories/editorial/tom-staffords-jingle-bells-and-wally-schirras-harmonica
+- [^nasm-harmonica]: National Air and Space Museum, "Harmonica, Gemini 6", inventory number A19670148000. https://airandspace.si.edu/collection-objects/harmonica-gemini-6/nasm_A19670148000
+- [^nasa]: John Uri, "55 Years Ago: The Spirit of 76, The First Rendezvous in Space", NASA (8 December 2020). https://www.nasa.gov/?p=168584
+- [^harvard]: Harvard Divinity School Library, "Which Harvard Divinity School students served in the Civil War?", entry for John Pierpont. https://asklib.hds.harvard.edu/faq/88504
+- [^cornell]: Peter B. Hirtle, "Copyright Term and the Public Domain", Cornell University Library (2026). https://guides.library.cornell.edu/copyright/publicdomain
