@@ -27,9 +27,13 @@ Danny Boy is a song of parting. Its words are by Frederic Weatherly, an English 
 
 **The tune.** In 1855 the antiquarian George Petrie published The Petrie Collection of the Ancient Music of Ireland in Dublin. On page 57 is an air headed "Name unknown".[^petrie][^minerva] Petrie thanked Miss J. Ross of New Town, Limavady, in the County of Londonderry, who had made a large collection of the county's unpublished tunes and sent him this one. "The name of the tune unfortunately was not ascertained by Miss Ross," he wrote. She called it "very old", and he said he agreed.[^petrie][^minerva] Because it came from County Londonderry, it came to be called the Londonderry Air; hymnals also call it the Air from County Derry.[^ballad][^hymnary][^methodist]
 
+![[1]]
+
 **The words.** Weatherly wrote the words for well over a thousand songs.[^mann][^ballad] In words of his that Aileen Dillane quotes, he recalled: "It so happened that I had written in March of 1910 a song called Danny Boy with a different melody in mind."[^dillane] That first setting came to nothing.[^ballad] Then the air reached him from America. His great-grandson's account says his sister-in-law in America sent it in 1912, and an older songbook account also names a sister-in-law; one recent account says his sister, and puts his rewriting in 1911.[^mann][^ballad][^dillane] By lucky chance, he said in the same account, the words needed only "a few alterations" to fit.[^dillane]
 
 **The pairing.** Boosey & Co. published Danny Boy in 1913, in London and New York, for voice and piano, adapted from an old Irish air.[^imslp][^conncoll] It went with soldiers into the First World War, and a modern collection of the war's soldiers' songs includes it.[^dillane][^ballad] In America it became an Irish American song above all, tied to St Patrick's Day, and one Irish American editor called it the "Irish American anthem".[^dillane][^odowd]
+
+![[2]]
 
 **Myth and record.** Often told: a blind fiddler, Jimmy McCurry, played the tune in Limavady on a market day in 1851 while Jane Ross wrote it down; or the tune goes back to the harper Rory Dall O'Cahan.[^niarchive][^rte1980][^odowd][^ballad] What the record shows: Petrie names no player and gives no date for when it was noted.[^petrie] A study of 2000 notes that the date 1851 may come from Ross's own manuscripts.[^audley] The McCurry story is a Limavady tradition, and the tellings disagree even on the instrument: a fiddler in one, a piper in another.[^niarchive][^methodist] The Ballad Index finds the O'Cahan "evidence" unexplained, and notes that some doubt Rory Dall existed.[^ballad] The tune's age has been argued too. Anne Gilchrist in 1934, and later Hugh Shields, suspected that its collector shaped it. The same study, in the Journal of the Royal Musical Association, argued that it really is old and was shaped by tradition.[^audley][^ballad][^dillane]
 
@@ -47,6 +51,8 @@ Danny Boy is a song of parting. Its words are by Frederic Weatherly, an English 
 Weatherly wrote two verses. Our arrangement sings the first.[^wikisource]
 
 **Verse 1, first half (sung).** Danny, the pipes are calling, from one glen to the next and down the mountainside. A glen is a narrow valley; the pipes are bagpipes, summoning him away. Summer is over and the roses are dropping. It is Danny who must go, and the singer who must bide, which means stay behind and wait.[^wikisource]
+
+![[3]]
 
 **Verse 1, second half (sung).** Come back when summer is in the meadow, or when the valley lies quiet under snow. Whatever the weather, sunshine or shadow, the singer will be here. The verse ends on the plainest line in the song: Danny, I love you so.[^wikisource]
 

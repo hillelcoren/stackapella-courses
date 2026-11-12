@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: danny boy significado | danny boy historia | quién escribió danny boy | danny boy letra en español | danny boy canción de funeral | danny boy es irlandesa o escocesa
-translatedFrom: 4ac95ff66e70
+translatedFrom: d5ba530de356
 ---
 
 Danny Boy es una canción de despedida. Su letra es de Frederic Weatherly, abogado y letrista inglés, que la escribió en 1910 y la publicó en 1913 con el Londonderry Air, una melodía irlandesa que George Petrie había impreso en 1855 sin nombre.[^dillane][^mann][^imslp][^petrie] Alguien que se queda en casa le dice a Danny que las gaitas lo llaman a partir, y le promete que lo estará esperando cuando vuelva, en verano o con nieve. Se canta el Día de San Patricio y en los funerales.[^dillane][^odowd][^ap][^golway] En sus memorias de 1926, tal como las cita Aileen Dillane, de la Universidad de Limerick, Weatherly escribió que se cantaba "en todo el mundo, tanto por los del Sinn Féin como por los del Úlster".[^dillane][^ballad][^odowd]
@@ -28,9 +28,13 @@ Danny Boy es una canción de despedida. Su letra es de Frederic Weatherly, aboga
 
 **La melodía.** En 1855 el anticuario George Petrie publicó en Dublín The Petrie Collection of the Ancient Music of Ireland. En la página 57 hay una melodía encabezada "Name unknown" (nombre desconocido).[^petrie][^minerva] Petrie dio las gracias a la señorita J. Ross, de New Town, Limavady, en el condado de Londonderry, que había reunido una gran colección de melodías inéditas del condado y le había enviado esta. "El nombre de la melodía, por desgracia, no lo averiguó la señorita Ross", escribió. Ella la llamaba "muy antigua", y él dijo estar de acuerdo.[^petrie][^minerva] Como venía del condado de Londonderry, se la llegó a llamar Londonderry Air; los himnarios también la llaman Air from County Derry.[^ballad][^hymnary][^methodist]
 
+![[1]]
+
 **La letra.** Weatherly escribió la letra de bastante más de mil canciones.[^mann][^ballad] En unas palabras suyas que cita Aileen Dillane, recordaba: "Dio la casualidad de que en marzo de 1910 yo había escrito una canción llamada Danny Boy pensando en otra melodía".[^dillane] Aquella primera versión no llegó a nada.[^ballad] Luego la melodía le llegó desde Estados Unidos. El relato de su bisnieto dice que se la envió en 1912 su cuñada, que vivía allí, y un relato más antiguo de un cancionero también habla de una cuñada; un relato reciente dice que fue su hermana, y sitúa su reescritura en 1911.[^mann][^ballad][^dillane] Por un golpe de suerte, dijo en ese mismo relato, la letra solo necesitó "unos pocos cambios" para encajar.[^dillane]
 
 **La unión.** Boosey & Co. publicó Danny Boy en 1913, en Londres y Nueva York, para voz y piano, adaptada de una antigua melodía irlandesa.[^imslp][^conncoll] Acompañó a los soldados a la Primera Guerra Mundial, y una colección moderna de canciones de los soldados de esa guerra la incluye.[^dillane][^ballad] En Estados Unidos se convirtió sobre todo en una canción irlandesa-estadounidense, unida al Día de San Patricio, y un editor irlandés-estadounidense la llamó el "himno irlandés-estadounidense".[^dillane][^odowd]
+
+![[2]]
 
 **Mito y documentos.** Se suele contar que un violinista ciego, Jimmy McCurry, tocó la melodía en Limavady un día de mercado de 1851 mientras Jane Ross la anotaba; o que la melodía se remonta al arpista Rory Dall O'Cahan.[^niarchive][^rte1980][^odowd][^ballad] Lo que muestran los documentos: Petrie no nombra a ningún intérprete ni da fecha de cuándo se anotó.[^petrie] Un estudio de 2000 señala que la fecha de 1851 puede venir de los propios manuscritos de Ross.[^audley] La historia de McCurry es una tradición de Limavady, y las versiones no coinciden ni siquiera en el instrumento: en una es violinista, en otra gaitero.[^niarchive][^methodist] The Ballad Index considera que las "pruebas" sobre O'Cahan no se explican, y señala que algunos dudan de que Rory Dall existiera.[^ballad] También se ha discutido la antigüedad de la melodía. Anne Gilchrist en 1934, y más tarde Hugh Shields, sospecharon que quien la recogió le dio forma. El mismo estudio, en el Journal of the Royal Musical Association, sostuvo que de verdad es antigua y que la moldeó la tradición.[^audley][^ballad][^dillane]
 
@@ -48,6 +52,8 @@ Danny Boy es una canción de despedida. Su letra es de Frederic Weatherly, aboga
 Weatherly escribió dos estrofas. Nuestro arreglo canta la primera.[^wikisource]
 
 **Estrofa 1, primera mitad (se canta).** Danny, las gaitas llaman, de un "glen" al siguiente y montaña abajo. Un "glen" es un valle estrecho; las "pipes" son las gaitas, que lo llaman a partir. El verano se ha acabado y las rosas se caen. Es Danny quien debe irse, y quien canta quien debe "bide", es decir, quedarse y esperar.[^wikisource]
+
+![[3]]
 
 **Estrofa 1, segunda mitad (se canta).** Vuelve cuando el verano esté en el prado, o cuando el valle esté en silencio bajo la nieve. Haga el tiempo que haga, sol o sombra, quien canta estará aquí. La estrofa termina con el verso más sencillo de la canción: Danny, te quiero tanto.[^wikisource]
 
