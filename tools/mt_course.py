@@ -225,7 +225,7 @@ def mt_1_thought():
     sing = {"tempo": 88, "notes": whole_thoughts(line), "turn": False, "chords": buttercup_chords(line), "score": "entry"}
     return {
         "id": "mt-1-thought", "title": EN("Breathe where the thought ends"),
-        "fact": fact("buttercup-bumboat-poem", "Little Buttercup grew out of Gilbert's own comic poem \"The Bumboat Woman's Story\", about a woman who sold the ships \"apples and cakes, and fowls, and beer\".", "Wikipedia, H.M.S. Pinafore", "https://en.wikipedia.org/wiki/H.M.S._Pinafore"),
+        "fact": fact("buttercup-bumboat-poem", "H.M.S. Pinafore grew out of Gilbert's own comic poems. One, \"The Bumboat Woman's Story\", is told by a woman who, like Little Buttercup, sold to the ships: \"apples and cakes, and fowls, and beer\".", "Lytton, The Secrets of a Savoyard (1922)", "https://www.gutenberg.org/ebooks/39392"),
         "steps": [
             learn("A breath belongs at the end of a thought, not at every comma. Breathing mid-thought cuts the sense in two.",
                   [("One thought", "Dear Little Buttercup, all of it"), ("Then breathe", "Where the thought ends"), ("Back in", "On time for the next one")]),
@@ -269,7 +269,7 @@ def mt_2_two():
     steps.append(play("Now the whole line, slowly.", {"tempo": 60, "notes": one, "turn": True, "rhythm": True}, PITCH_BEAT))
     return {
         "id": "mt-2-two", "title": EN("Two notes, many words"),
-        "fact": fact("grossmith-audition-1877", "At George Grossmith's audition in 1877, Sullivan told him \"Sing it out as loud as you can\". Gilbert said that a big voice \"is just what we don't want\".",
+        "fact": fact("grossmith-audition-1877", "In 1877 Sullivan tried George Grossmith's voice: \"Sing it out as loud as you can.\" When Grossmith said a magician's part needed \"a fine man with a fine voice\", Gilbert replied, \"No; that is just what we don't want.\"",
                      "Grossmith, A Society Clown (1888)", "https://www.gutenberg.org/ebooks/53225"),
         "steps": steps,
     }
@@ -279,7 +279,7 @@ def mt_2_consonants():
     one = major_general(0, MG_LINE1)
     return {
         "id": "mt-2-consonants", "title": EN("Consonant first"),
-        "fact": fact("ruddigore-unintelligible-patter", "Gilbert joked about patter nobody can follow. A trio in Ruddigore (1887) sings: \"This particularly rapid, unintelligible patter isn't generally heard, and if it is, it doesn't matter!\"", "Wikipedia, Patter song", "https://en.wikipedia.org/wiki/Patter_song"),
+        "fact": fact("ruddigore-unintelligible-patter", "Gilbert joked about patter nobody can follow. A trio in Ruddigore (1887) sings: \"This particularly rapid, unintelligible patter isn't generally heard, and if it is it doesn't matter!\"", "Gilbert, Ruddigore (1887), libretto, Gilbert and Sullivan Archive", "https://gsarchive.net/ruddigore/libretto.txt"),
         "steps": [
             learn("Put the consonant just before the beat, so the vowel lands on it. The app hears the vowel; so does the audience.",
                   [("Consonant early", "A hair before the beat"), ("Vowel on the beat", "That's the note"), ("Loose jaw", "Small, quick, easy")]),
@@ -301,7 +301,7 @@ def mt_2_quicker():
                "why": EN("A few of its words came early: clear patter stays even.")} for r in (True, False, True)]
     return {
         "id": "mt-2-quicker", "title": EN("A little quicker"),
-        "fact": fact("patter-pater-noster", "The word \"patter\" comes from the Pater Noster, the Lord's Prayer said in Latin: people's habit of rushing through its words as quickly as possible gave English the word.", "Wikipedia, Patter song", "https://en.wikipedia.org/wiki/Patter_song"),
+        "fact": fact("patter-pater-noster", "The word \"patter\" comes from the Pater Noster, the Lord's Prayer in Latin. In Middle English, \"pateren\" meant to say the Pater Noster, and to pray quickly and mechanically.", "Skeat, An Etymological Dictionary of the English Language (1888), \"Patter\"", "https://archive.org/details/etymologicaldict00skeauoft"),
         "steps": [
             learn("Clear first, then quicker. Here the top speed is three words a second; the real thing is about twice that.",
                   [("Slow", "Every word clear"), ("Listen", "Which one rushed?"), ("Quicker", "Three words a second, even")], visual="echo"),
@@ -358,7 +358,7 @@ def mt_3_legit():
     ex = {"tempo": 88, "notes": line, "turn": False, "chords": buttercup_chords(line, L2), "score": "release"}
     return {
         "id": "mt-3-legit", "title": EN("Tall and steady"),
-        "fact": fact("singers-formant", "Trained operatic voices carry a strong energy peak near 3,000 hertz, the singer's formant. An orchestra makes relatively little sound up there, so the voice can be heard above it.", "National Center for Voice and Speech, The Singer's Formant", "https://ncvs.org/tutorials/the-singers-formant/"),
+        "fact": fact("singers-formant", "Trained operatic voices, men's above all, carry a strong energy peak near 3,000 hertz, the singer's formant. An orchestra makes relatively little sound up there, so the voice can be heard above it.", "National Center for Voice and Speech, The Singer's Formant", "https://ncvs.org/tutorials/the-singers-formant/"),
         "steps": [
             learn("Legit is the classic sound: tall vowels and long notes held to their full value. On \"why\", stay on \"ah\" and turn to \"ee\" only at the end.",
                   [("Tall vowels", "Space inside, jaw easy"), ("Stay on ah", "Why: ah, then ee at the cutoff"), ("Held to its value", "Then let go on time")]),
@@ -431,7 +431,7 @@ def mt_4_someone():
     ex = {"tempo": 88, "notes": line, "turn": False, "chords": buttercup_chords(line)}
     return {
         "id": "mt-4-someone", "title": EN("Sing it to someone"),
-        "fact": fact("clear-speech-17-points", "In a 1985 study, five listeners with hearing loss heard sentences said clearly or conversationally. The clear ones were understood on average 17 percentage points better, at every playback level tested.", "Picheny, Durlach and Braida, Journal of Speech and Hearing Research (1985)", "https://doi.org/10.1044/jshr.2801.96"),
+        "fact": fact("clear-speech-17-points", "In a 1985 study, five listeners with hearing loss heard nonsense sentences said clearly or conversationally. The clear ones were understood on average 17 percentage points better, by about the same margin at every playback level.", "Picheny, Durlach and Braida, Journal of Speech and Hearing Research (1985)", "https://doi.org/10.1044/jshr.2801.96"),
         "steps": [
             learn("Henry Irving told the young Henry Lytton to picture a friend who couldn't afford the stalls, at the back of the gallery: \"Let him hear every line you have to say.\" Sing to them, not louder.",
                   [("Pick someone", "At the very back"), ("Tell them", "This line is for them"), ("Not louder", "Clearer and meant")]),
@@ -470,7 +470,7 @@ def mt_4_hail():
     return {
         "id": "mt-4-hail", "title": EN("Hail, Poetry, the first half"),
         "fact": fact("pirates-new-york-1879", "The Pirates of Penzance opened in New York in December 1879, so Gilbert, Sullivan and Carte would have their own production on stage before the pirates of the stage could copy it.",
-                     "Victoria and Albert Museum, The Pirates of Penzance silk programme", "https://collections.vam.ac.uk/item/O1370508/the-pirates-of-penzance-silk-programme-seer-a-s/"),
+                     "Lawrence, Sir Arthur Sullivan (1899)", "https://archive.org/details/sirarthursulliva00lawruoft"),
         "steps": steps,
     }
 

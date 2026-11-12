@@ -169,8 +169,8 @@ def pair_rounds(prompt, why, pairs):
 def ol_1_sakura():
     return {
         "id": "ol-1-sakura", "title": EN("Sakura"), "strictness": "relaxed",
-        "fact": fact("sakura-1941-words", "In 1941 Japan's Ministry of Education gave Sakura new words, \"Noyama mo, sato mo\", because the 1888 ones were hard for children. That's the version most Japanese people learned; this course sings the 1888 words.",
-                     "さくらさくら, Japanese Wikipedia", "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89%E3%81%95%E3%81%8F%E3%82%89"),
+        "fact": fact("sakura-1941-words", "In 1941 Japan's Ministry of Education gave Sakura new words, \"Noyama mo, sato mo\", for its school songbook: the teacher's book said the old words were too hard for children. This course sings the 1888 words.",
+                     "National Diet Library, Reference Collaborative Database (Suita City Library): the two sets of words of Sakura sakura", "https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000154322"),
         "steps": [
             learn("Choirs learn a song in another language by ear: the tune's vowels first, then the words. Here's your first Japanese line: さくら さくら, \"sa-ku-ra, sa-ku-ra\", cherry blossoms.",
                   [("The vowels", "a u a, a u a"), ("Then the words", "sa-ku-ra, every a an \"ah\""), ("Then the choir", "With the other parts")], visual="vowels"),
@@ -204,8 +204,8 @@ def ol_1_mora():
     ]
     return {
         "id": "ol-1-mora", "title": EN("Every small sound"),
-        "fact": fact("bidakuon-textbook", "A Japanese middle-school music book still tells pupils that a g inside a word may be sung through the nose, the soft \"ng\" of traditional singing.",
-                     "Kyōiku Shuppan, Chūgaku Ongaku 1", "https://www.kyoiku-shuppan.co.jp/docs/r7chuu/ongaku/d-book/pageindices/index17.html"),
+        "fact": fact("bidakuon-textbook", "A Japanese middle-school music book still teaches the nasal g: pupils underline where a g in a song's words turns into a soft \"ng\" through the nose, and sing it that way.",
+                     "Kyōiku Shuppan, Chūgaku Ongaku 1, p. 24", "https://www.kyoiku-shuppan.co.jp/docs/r7chuu/ongaku/d-book/pageindices/index17.html"),
         "steps": [
             learn("In Japanese, every small sound gets its own beat. \"Ya-yo-i\" is three notes, never \"ya-yoy\".",
                   [("Every sound", "ya-yo-i, ni-o-i: two vowels, two notes"), ("The quiet su", "Whispered in speech, sung here"), ("ka-gi-ri", "A soft \"ng\" is the old way; a plain g is fine")], visual="echo"),
@@ -261,7 +261,7 @@ def ol_2_join():
     model = [{"beat": 0, "length": 1, "step": 0, "lyric": "Si‿a"}, {"beat": 1, "length": 1, "step": 2, "lyric": "tu"}]
     return {
         "id": "ol-2-join", "title": EN("Two vowels, one note"),
-        "fact": fact("navarro-tomas-timbre", "In 1918 the phonetician Tomás Navarro Tomás wrote that English speakers give Spanish vowels \"a less fixed and even timbre than the Castilian ear requires\".",
+        "fact": fact("navarro-tomas-timbre", "In 1918 the phonetician Tomás Navarro Tomás wrote that English speakers give Spanish close vowels, like the e of \"pena\" and the o of \"canto\", \"a less fixed and even timbre than the Castilian ear requires\".",
                      "Navarro Tomás, Manual de pronunciación española (1918), §43", "https://archive.org/details/manualdepronunci00navauoft"),
         "steps": [
             learn("Japanese gave every vowel its own note. Spanish joins them: where the music gives one note, two words' vowels share it.",
@@ -279,8 +279,8 @@ def ol_2_light():
              {"beat": 4, "length": 1, "step": 0, "lyric": "ven-"}, {"beat": 5, "length": 1, "step": 2, "lyric": "ta-"}, {"beat": 6, "length": 1, "step": 0, "lyric": "na"}]
     return {
         "id": "ol-2-light", "title": EN("Light consonants"),
-        "fact": fact("carmen-arreglito", "Bizet took Iradier's other habanera, \"El Arreglito\", for Carmen's famous Habanera, thinking it was a folk song, and then named Iradier in the vocal score.",
-                     "Sebastián Iradier, English Wikipedia (citing Grove, 5th ed.)", "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Iradier"),
+        "fact": fact("carmen-arreglito", "Bizet took Carmen's famous Habanera from Iradier's habanera \"El Arreglito\", thinking it was a folk song. The vocal score notes that it is \"imitated from a Spanish song\".",
+                     "Bizet, Carmen, vocal score (G. Schirmer, 1895), Internet Archive", "https://archive.org/details/carmenoperainfou00bize2"),
         "steps": [
             learn("Spanish consonants are light and quick, so the vowels can sing.",
                   [("r is one tap", "ca-RI-ño, TRA-ta-la: the tap you met in Sakura"), ("v is a soft b", "ven-TA-na, never an English v"), ("ll is y", "\"LLE-ga\" is YEH-gah; in old Castilian, nearer \"ly\"")]),
@@ -317,7 +317,7 @@ def ol_3_latin():
              {"beat": 10, "length": 2, "step": 4, "lyric": "cor-"}, {"beat": 12, "length": 2, "step": 4, "lyric": "pus"}]
     return {
         "id": "ol-3-latin", "title": EN("Ah-veh, not Ay-vee"),
-        "fact": fact("liber-one-sound", "The Liber Usualis, the Catholic Church's book of chant, says of Latin's vowels: \"Each vowel has one sound; a mixture or sequence of sounds would be fatal.\"",
+        "fact": fact("liber-one-sound", "The Liber Usualis, the Catholic Church's book of chant, says of Latin's vowels: \"Each vowel has one sound; a mixture or sequence of sounds would be fatal to good Latin pronunciation.\"",
                      "The Liber Usualis (1961), Rules for Interpretation, p. xxxvi", "https://archive.org/details/TheLiberUsualis1961"),
         "steps": [
             learn("A medieval hymn for the Eucharist, in Mozart's setting. " + AVE_WORDS,
@@ -423,8 +423,8 @@ def ol_4_figure():
     ex["score"] = "keyDrift"
     return {
         "id": "ol-4-figure", "title": EN("The figure, faster"),
-        "fact": fact("leontovych-twenty-years", "Mykola Leontovych worked on his Shchedryk for about twenty years, in five versions, before its premiere in Kyiv in December 1916.",
-                     "Щедрик (Леонтович), Ukrainian Wikipedia", "https://uk.wikipedia.org/wiki/%D0%A9%D0%B5%D0%B4%D1%80%D0%B8%D0%BA_(%D0%9B%D0%B5%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D1%87)"),
+        "fact": fact("leontovych-twenty-years", "Mykola Leontovych was a perfectionist who could spend years on one arrangement before showing it to anyone. Shchedryk was first heard in Kyiv in 1916, when the conductor Oleksander Koshyts persuaded him to let it be sung.",
+                     "McDermott, America Magazine (17 November 2022)", "https://www.americamagazine.org/arts-culture/2022/11/17/carol-bells-ukraine-centennial-244117"),
         "steps": [
             learn("Four notes, round and round. Choirs go flat repeating it, so the key is the test, a step faster each time.",
                   [("Every o whole", "VOCH-ka, never \"vuch-kuh\""), ("The shch early", "Before the beat, the vowel on it"), ("Light", SHCH_SAFETY)], visual="ladder"),

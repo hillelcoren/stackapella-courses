@@ -13,7 +13,13 @@
                     "id": "sc-1-trade",
                     "title": {"en": "Trade with the band", "es": "Intercambia con la banda"},
                     "strictness": "relaxed",
-                    "fact": {"id": "scat-syllables-as-instruments", "text": {"en": "Scat syllables can copy instruments. A 1987 study likened Ella Fitzgerald's \"b\" and \"p\" to reed instruments and her \"d\" to tongued brass, and Sarah Vaughan's \"sh\" to brushes on a drum.", "es": "Las sílabas del scat pueden imitar instrumentos. Un estudio de 1987 comparó la \"b\" y la \"p\" de Ella Fitzgerald con los instrumentos de lengüeta, su \"d\" con los metales con golpe de lengua, y la \"sh\" de Sarah Vaughan con las escobillas sobre un tambor."}, "source": {"en": "Wikipedia, Scat singing (citing Stewart, Jazzforschung/Jazz Research 19 (1987))", "es": "Wikipedia, Scat singing (citando a Stewart, Jazzforschung/Jazz Research 19 (1987))"}, "url": "https://en.wikipedia.org/wiki/Scat_singing"},
+                    "fact": {
+                        "id": "redman-scat-1924",
+                        "text": {"en": "Louis Armstrong wasn't the first to scat in Fletcher Henderson's band: Don Redman scatted on its record of \"My Papa Doesn't Two-Time No Time\" in April 1924, before Armstrong joined.", "es": "Louis Armstrong no fue el primero en cantar scat en la banda de Fletcher Henderson: Don Redman ya lo hizo en su disco de \"My Papa Doesn't Two-Time No Time\", en abril de 1924, antes de que Armstrong entrara."},
+                        "source": {"en": "Discography of American Historical Recordings, UC Santa Barbara Library, Columbia 126-D (with audio)", "es": "Discography of American Historical Recordings, Biblioteca de UC Santa Barbara, Columbia 126-D (con audio)"},
+                        "url": "https://adp.library.ucsb.edu/index.php/objects/detail/193030/Columbia_126-D",
+                        "distinct": ["lmcys-slow-start"]
+                    },
                     "steps": [
                         {
                             "kind": "learn",
@@ -2064,7 +2070,7 @@
                 {
                     "id": "sc-3-ends",
                     "title": {"en": "Keep the rhythm, change the end", "es": "Mismo ritmo, otro final"},
-                    "fact": {"id": "blues-aab-verse", "text": {"en": "Many blues verses follow an AAB pattern: a line sung over four bars, the same line repeated over the next four, then a longer, different line to close.", "es": "Muchas estrofas de blues siguen un patrón AAB: un verso cantado durante cuatro compases, el mismo verso repetido en los cuatro siguientes y, para cerrar, otro distinto y más largo."}, "source": {"en": "Wikipedia, Blues", "es": "Wikipedia, Blues"}, "url": "https://en.wikipedia.org/wiki/Blues"},
+                    "fact": {"id": "blues-aab-verse", "text": {"en": "Many blues verses follow an AAB pattern: a line over four bars, the same line over the next four, then a new line to close. W. C. Handy used that third line to tell why the first was said.", "es": "Muchas estrofas de blues siguen un patrón AAB: un verso durante cuatro compases, el mismo verso en los cuatro siguientes y, para cerrar, uno nuevo. W. C. Handy usaba ese tercer verso para contar por qué se había dicho el primero."}, "source": {"en": "W. C. Handy, Father of the Blues (1941), Internet Archive", "es": "W. C. Handy, Father of the Blues (1941), Internet Archive"}, "url": "https://archive.org/details/fatherofbluesaut00wcha_0"},
                     "steps": [
                         {
                             "kind": "learn",
@@ -2691,7 +2697,7 @@
                 {
                     "id": "sc-3-riff",
                     "title": {"en": "A riff", "es": "Un riff"},
-                    "fact": {"id": "in-the-mood-riff-1930", "text": {"en": "The riff of Glenn Miller's \"In the Mood\" was going round the bands years earlier: Wingy Manone recorded it in \"Tar Paper Stomp\" in 1930, and Fletcher Henderson's band used it in 1931.", "es": "El riff de \"In the Mood\", de Glenn Miller, ya circulaba entre las bandas años antes: Wingy Manone lo grabó en \"Tar Paper Stomp\" en 1930, y la banda de Fletcher Henderson lo usó en 1931."}, "source": {"en": "Wikipedia, In the Mood", "es": "Wikipedia, In the Mood"}, "url": "https://en.wikipedia.org/wiki/In_the_Mood"},
+                    "fact": {"id": "in-the-mood-riff-1930", "text": {"en": "The riff of Glenn Miller's \"In the Mood\" was going round the bands years earlier: Fletcher Henderson's band recorded it in 1931, in Horace Henderson's \"Hot and Anxious\".", "es": "El riff de \"In the Mood\", de Glenn Miller, ya circulaba entre las bandas años antes: la banda de Fletcher Henderson lo grabó en 1931, en \"Hot and Anxious\", de Horace Henderson."}, "source": {"en": "David Rickert, Glenn Miller: In the Mood, All About Jazz (2005)", "es": "David Rickert, Glenn Miller: In the Mood, All About Jazz (2005)"}, "url": "https://www.allaboutjazz.com/glenn-miller-in-the-mood-glenn-miller-by-david-rickert.php"},
                     "steps": [
                         {
                             "kind": "learn",
@@ -3180,7 +3186,7 @@
                 {
                     "id": "sc-4-blue",
                     "title": {"en": "The blue note", "es": "La nota blue"},
-                    "fact": {"id": "handy-flat-third-folk-roots", "text": {"en": "In his autobiography, W. C. Handy wrote that the flat third and seventh in his major-key blues came from the music of poor Black Southerners. Today we call them blue notes.", "es": "En su autobiografía, W. C. Handy escribió que la tercera y la séptima menores de sus blues en tonalidad mayor venían de la música de la población negra pobre del Sur de Estados Unidos. Hoy las llamamos notas blue."}, "source": {"en": "Wikipedia, W. C. Handy", "es": "Wikipedia, W. C. Handy"}, "url": "https://en.wikipedia.org/wiki/W._C._Handy"},
+                    "fact": {"id": "handy-flat-third-folk-roots", "text": {"en": "In his autobiography, W. C. Handy wrote that the flat third and seventh in his major-key blues came from the music of poor Black Southerners. Today we call them blue notes.", "es": "En su autobiografía, W. C. Handy escribió que la tercera y la séptima menores de sus blues en tonalidad mayor venían de la música de la población negra pobre del Sur de Estados Unidos. Hoy las llamamos notas blue."}, "source": {"en": "W. C. Handy, Father of the Blues (1941), Internet Archive", "es": "W. C. Handy, Father of the Blues (1941), Internet Archive"}, "url": "https://archive.org/details/fatherofbluesaut00wcha_0"},
                     "steps": [
                         {
                             "kind": "learn",
@@ -3387,7 +3393,7 @@
                 {
                     "id": "sc-4-four",
                     "title": {"en": "Four bars of your own", "es": "Cuatro compases tuyos"},
-                    "fact": {"id": "gonsalves-27-choruses", "text": {"en": "At the 1956 Newport Jazz Festival, Paul Gonsalves soloed for 27 choruses in Duke Ellington's Diminuendo and Crescendo in Blue. The seated crowd rose to dance, and the night revived Ellington's career.", "es": "En el Festival de Jazz de Newport de 1956, Paul Gonsalves improvisó 27 chorus seguidos (27 vueltas enteras a la forma) en Diminuendo and Crescendo in Blue, de Duke Ellington. El público, sentado, se levantó a bailar, y esa noche relanzó la carrera de Ellington."}, "source": {"en": "Wikipedia, Ellington at Newport", "es": "Wikipedia, Ellington at Newport"}, "url": "https://en.wikipedia.org/wiki/Ellington_at_Newport"},
+                    "fact": {"id": "gonsalves-27-choruses", "text": {"en": "At the 1956 Newport Jazz Festival, Paul Gonsalves soloed for 27 choruses in Duke Ellington's Diminuendo and Crescendo in Blue. The crowd got to its feet, some dancing, and the night revived Ellington's career.", "es": "En el Festival de Jazz de Newport de 1956, Paul Gonsalves improvisó 27 chorus seguidos (27 vueltas enteras a la forma) en Diminuendo and Crescendo in Blue, de Duke Ellington. El público se puso en pie, y hubo quien bailó; esa noche relanzó la carrera de Ellington."}, "source": {"en": "Terry Teachout, Duke Ellington: Newport Jazz Festival, Mosaic Records (2021)", "es": "Terry Teachout, Duke Ellington: Newport Jazz Festival, Mosaic Records (2021)"}, "url": "https://www.mosaicrecords.com/duke-ellington-newport-jazz-festival/"},
                     "steps": [
                         {
                             "kind": "learn",

@@ -94,7 +94,7 @@ def acb_1_root():
     return {
         "id": "acb-1-root", "title": EN("Under the group"), "strictness": "relaxed",
         "fact": fact("rameau-fundamental-bass", "Rameau's Treatise on Harmony (Paris, 1722) built harmony on the bass. Its 1779 London translation puts the \"grand Art or Mystery in Composition\" \"in the Bass, which we call Fundamental\".",
-                     "Rameau, A Treatise of Music (London, 1779)", "https://archive.org/details/traitdelharmon00rame", ["otj-bernstein-berlin"]),
+                     "Rameau, A Treatise of Music (London, 1779)", "https://archive.org/details/treatiseofmusicc00rame", ["otj-bernstein-berlin"]),
         "steps": [
             learn("The bass sings the chord's root, the note it's named after, and the whole group stands on it. Listen: a chord with no floor, then with one.",
                   [("The root", "The note at the bottom of the chord"), ("Under the group", "Three voices above, you underneath"), ("Low and easy", SAFETY)], hear),
@@ -113,7 +113,7 @@ def acb_1_low():
     ex = {"tempo": 72, "notes": notes, "turn": True, "drone": {"step": 0}}
     return {
         "id": "acb-1-low", "title": EN("Low and easy"), "strictness": "relaxed",
-        "fact": fact("low-notes-loudness-range", "Why are low notes quieter? A 1992 voice study points to breath pressure: pushing more air tends to raise their pitch, so the soft-to-loud range narrows at the bottom of the voice.", "Titze, Journal of Speech and Hearing Research (1992)", "https://iro.uiowa.edu/esploro/outputs/journalArticle/Acoustic-Interpretation-of-the-Voice-Range/9984719751002771"),
+        "fact": fact("low-notes-loudness-range", "Why can't low notes get very loud? A 1992 voice study points to breath pressure: pushing more air tends to raise their pitch, so the soft-to-loud range narrows at the bottom of the voice.", "Titze, Journal of Speech and Hearing Research (1992)", "https://pubmed.ncbi.nlm.nih.gov/1735970/"),
         "steps": [
             learn("A bass's low notes come from ease, not effort. They're quieter than your middle notes, and that's right: the mic does the work.",
                   [("Step down", "Do, ti, la, so, fa, one at a time"), ("Hold only do", "The low notes are short"), ("Easy throat", "Where it sits when you speak")]),
@@ -142,8 +142,8 @@ def acb_1_hear():
     sing = {"tempo": 72, "notes": [note(0, 4, -3, "doo")], "turn": False, "with": group(["vi"], 0, 4)}
     return {
         "id": "acb-1-hear", "title": EN("Bright or dark?"),
-        "fact": fact("bass-overtones-chord", "A sung bass note is a stack of overtones, and two of them, the third and fifth harmonics, are notes of its own major chord. That's part of why a chord sounds built on its bass.",
-                     "UNSW, Physics of music: chords and harmonics", "https://newt.phys.unsw.edu.au/jw/chords.html"),
+        "fact": fact("bass-overtones-chord", "A sung bass note is a stack of overtones, and two of them, the third and fifth harmonics, are notes of its own major chord: its fifth and its third, an octave or two higher.",
+                     "UNSW Music Acoustics, Acoustics FAQ", "https://newt.phys.unsw.edu.au/jw/musFAQ.html"),
         "steps": [
             learn("The same notes on top can make a bright chord or a dark one. The bass decides.",
                   [("Two notes on top", "They never move"), ("A new bass", "And the chord changes"), ("Then you", "Sing the root of a dark chord")], visual="harmony"),
@@ -184,7 +184,7 @@ def acb_2_doom():
     ex = {"tempo": 80, "notes": notes, "turn": False, "with": group(FOUR, 0, 4), "score": "release"}
     return {
         "id": "acb-2-doom", "title": EN("Doom"),
-        "fact": fact("mills-brothers-tuba", "The Mills Brothers' bass, John Mills Jr., would imitate the tuba. Their early records said: \"No musical instruments or mechanical devices used on this recording other than one guitar.\"", "Wikipedia, The Mills Brothers", "https://en.wikipedia.org/wiki/The_Mills_Brothers"),
+        "fact": fact("mills-four-boys-and-a-guitar", "In the 1930s the Mills Brothers were billed on their records as \"Four Boys and a Guitar\": four singers, one guitar.", "Rex 8925-A, The Mills Brothers, Sleepy Head, record label (Internet Archive)", "https://archive.org/details/78_sleepy-head_the-mills-brothers-donaldson-kahn_gbia0539202a"),
         "steps": [
             learn("\"Doom\" is \"doo\" closing to a hum. A bass's long note is only as good as its stop.",
                   [("Doo, then m", "Lips close, the hum goes on"), ("Then stop", "The hum ends on the beat"), ("A rest", "Two beats of quiet")]),
@@ -204,7 +204,7 @@ def acb_2_dm():
              "questions": [EN("Did your lips close before the note, with no scoop up to it?"), EN("Were your teeth apart inside the hum?")]}
     return {
         "id": "acb-2-dm", "title": EN("Dm dm"),
-        "fact": fact("konnakol-drum-syllables", "South Indian Carnatic music has konnakol, \"the art of performing percussion syllables vocally\": drumming with the voice. A beat split into four is spoken \"tha ka dhi mi\".", "Wikipedia, Konnakol", "https://en.wikipedia.org/wiki/Konnakol"),
+        "fact": fact("drum-strokes-as-syllables", "In Indian classical music, drum strokes are taught and remembered as spoken syllables: solkattu for the mridangam of the south, bols for the tabla of the north.", "Gowriprasad et al., Journal of the Acoustical Society of America (2025)", "https://pubmed.ncbi.nlm.nih.gov/41201271/"),
         "steps": [
             learn("\"Dm\" is the bass's drum: a light tap of the tongue, then a short hum with lips closed and teeth apart.",
                   [("A tap", "The tongue, light, behind the teeth"), ("A hum", "Lips closed, teeth apart"), ("On the beat", "Exactly, every time")]),
@@ -234,7 +234,7 @@ def acb_2_buh():
         steps.append(play(f"Call {k + 1}: listen, then answer.", on_beat(ex) if timed else ex, ON_THE_BEAT if timed else PITCH_STEADY))
     return {
         "id": "acb-2-buh", "title": EN("Call and response"),
-        "fact": fact("fisk-1872-basses", "The first Fisk Jubilee Singers had as many basses as tenors: their 1872 songbook names two basses, Isaac P. Dickerson and Greene Evans.",
+        "fact": fact("fisk-1872-basses", "The first Fisk Jubilee Singers had as many basses as tenors: their 1872 songbook lists two of each, with I. P. Dickerson and Greene Evans as the basses.",
                      "Jubilee Songs, as sung by the Jubilee Singers of Fisk University (1872)", "https://archive.org/details/jubileesongsassu00jubi", ["swing-low-fisk-1872"]),
         "steps": steps,
     }
@@ -278,7 +278,7 @@ def acb_3_fifth():
     every = {"tempo": 84, "notes": groove(FOUR), "turn": True, "with": group(FOUR, 0, 4)}
     return {
         "id": "acb-3-fifth", "title": EN("Root and fifth"),
-        "fact": fact("timpani-root-and-fifth", "In the 1600s and 1700s, timpani were almost always tuned with the key's fifth on the low drum and its home note on the high drum, a fourth apart: your so below, and do.", "Wikipedia, Timpani", "https://en.wikipedia.org/wiki/Timpani"),
+        "fact": fact("timpani-root-and-fifth", "Until the 1800s, timpani almost always played just the key's home note and its fifth. In keys like C and D, the fifth went below, a fourth under do: your low so.", "Berlioz, A Treatise on Modern Instrumentation and Orchestration (tr. 1882)", "https://archive.org/details/treatiseonmodern00berl"),
         "steps": [
             learn("The most common bass move: the root, then the chord's fifth. On low chords the fifth goes up, so you never go below fa.",
                   [("Root", "The chord's own note"), ("Fifth", "Its fifth, up or down"), ("Back", "Home to the root")]),
@@ -314,7 +314,7 @@ def acb_3_hear():
     return {
         "id": "acb-3-hear", "title": EN("Steady or rushing?"),
         "fact": fact("missing-fundamental-bass", "Your ear can hear a low note even when its lowest frequency is missing, from the overtones above it. That's how a small speaker still sounds a bass.",
-                     "Journal of the Acoustical Society of America (2012), via PMC", "https://pmc.ncbi.nlm.nih.gov/articles/PMC3316681/"),
+                     "UNSW Music Acoustics, Acoustics FAQ", "https://newt.phys.unsw.edu.au/jw/musFAQ.html"),
         "steps": [
             learn("A bass that rushes pulls the whole group forward. Hear it, then be the steady one.",
                   [("Two grooves", "One of them rushes"), ("Choose", "Which leaned forward?"), ("Then you", "The groove, steady")]),
@@ -348,7 +348,7 @@ def acb_4_walk():
     ex = {"tempo": 76, "notes": notes, "turn": True, "with": group(chords, 0, 1) + group(["V", "vi", "I", "I"], 5, 1)}
     return {
         "id": "acb-4-walk", "title": EN("Walk down"),
-        "fact": fact("rachmaninoff-asparagus-basses", "In Rachmaninoff's All-Night Vigil (1915), the basses walk down a scale to a low B-flat. Rachmaninoff recalled its first conductor asking where to find such basses: \"They are as rare as asparagus at Christmas!\"", "Wikipedia, All-Night Vigil (Rachmaninoff)", "https://en.wikipedia.org/wiki/All-Night_Vigil_(Rachmaninoff)"),
+        "fact": fact("rachmaninoff-asparagus-basses", "In Rachmaninoff's All-Night Vigil (1915), the basses walk down a scale to a low B-flat. Rachmaninoff recalled its first conductor asking where to find such basses: \"They are as rare as asparagus at Christmas.\"", "Riesemann, Rachmaninoff's Recollections (1934)", "https://archive.org/details/in.ernet.dli.2015.179919"),
         "steps": [
             learn("A walking bass steps from one root to the next, landing on each chord as it changes.",
                   [("Step down", "Do, ti, la, so, fa"), ("Land", "On each new chord"), ("Walk back", "Up to do")]),
@@ -368,7 +368,7 @@ def acb_4_lead():
           "score": "landing"}
     return {
         "id": "acb-4-lead", "title": EN("Arrive home"),
-        "fact": fact("ti-was-si", "Ti, the note that leads home to do, was once called si. In English-speaking countries Sarah Glover changed it to ti in the 1800s, \"so that every syllable might begin with a different letter\".", "Wikipedia, Solfège", "https://en.wikipedia.org/wiki/Solf%C3%A8ge"),
+        "fact": fact("ti-was-si", "Ti, the note that leads home to do, was once si. Tonic sol-fa, the English singing method of the 1800s, renamed it because sol and si began with the same letter.", "John Curwen, Tonic Sol-fa (Novello, 1893)", "https://archive.org/details/cu31924021797547"),
         "steps": [
             learn("A bass brings the group home: the last note lands on do, right on the downbeat.",
                   [("From ti", "A half step below"), ("From re", "A step above"), ("From so", "The leap from V to I")]),
@@ -381,8 +381,8 @@ def acb_4_swing():
     song = {"template": "swing-low", "part": "bass", "phrases": [0, 1], "with": "others"}
     return {
         "id": "acb-4-swing", "title": EN("Swing Low, rehearsed"),
-        "fact": fact("barbershop-chorus-bass-share", "A barbershop chorus aims for about 40 percent of its singers on bass, more than on any other part, and many go as high as half.",
-                     "Barbershop Harmony Society, What is barbershop music?", "https://www.barbershop.org/music/about-our-music"),
+        "fact": fact("barbershop-chorus-bass-share", "The Barbershop Harmony Society says the bass should make about 40 percent of a barbershop chord's sound: more than the melody (30), the baritone (20) or the tenor (10).",
+                     "Barbershop Harmony Society, About our music", "https://www.barbershop.org/music/about-our-music"),
         "steps": [
             learn("A real song now: the bass of Swing Low, Sweet Chariot, the roots under a whole group.",
                   [("Roots on oo", "Long notes, steady"), ("Under three voices", "The tune on top"), ("Balance", "The tune should float over you")], visual="harmony"),

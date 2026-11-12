@@ -184,7 +184,7 @@ def di_2_finals():
     ex = {"tempo": TEMPO, "notes": held_words(["night", "light", "past", "bright", "cold", "found"]), "turn": False, "drone": {"step": 0}, "score": "release"}
     return {
         "id": "di-2-finals", "title": EN("The end on the beat"),
-        "fact": fact("garcia-consonants-beat-time", "The great singing teacher Manuel Garcia gave consonants a second job beyond making the words clear: \"To beat time and mark the rhythm by their percussions.\"", "Garcia, Hints on Singing (revised edition, ed. Klein)", "https://archive.org/details/hintsonsinging00garc"),
+        "fact": fact("garcia-consonants-beat-time", "The great singing teacher Manuel Garcia gave consonants a second job beyond making the words clear: \"To beat time and mark the rhythm by their percussions.\"", "Garcia, Hints on Singing, trans. Beata Garcia (new revised edition, 1894)", "https://archive.org/details/hintsonsinging00garc"),
         "steps": [
             learn("A word's last consonant goes exactly where the note ends. A final t, k, p or s is quick and light; a final d is light too, never \"found-uh\".",
                   [("Hold the vowel", "To the end of the note"), ("Then the consonant", "Right on the beat"), ("Light", "A short s, a soft d")]),
@@ -240,7 +240,7 @@ def di_3_hum():
              {"beat": 8, "length": 2, "step": 0, "lyric": "home"}]
     return {
         "id": "di-3-hum", "title": EN("On the m"),
-        "fact": fact("english-voiced-consonants", "In English, r, l, w, y, m, n and ng are always voiced: the vocal folds vibrate right through them, and none has a voiceless twin.", "Russell, Describing consonants, University of Manitoba", "https://home.cc.umanitoba.ca/~krussll/phonetics/articulation/describing-consonants.html"),
+        "fact": fact("english-voiced-consonants", "In English, m, n, ng, l, r, w and y are voiced, and in most accents none has a voiceless twin, the way b has p and z has s.", "Russell, Describing consonants, University of Manitoba", "https://home.cc.umanitoba.ca/~krussll/phonetics/articulation/describing-consonants.html"),
         "steps": [
             learn("An m has pitch: it's on the note, short, and the vowel gets the length. Only a final m hums through to the end. This one is kinder.",
                   [("The hum", "On the note"), ("Short", "The vowel gets the length"), ("A final m", "Hums to the end")]),

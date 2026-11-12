@@ -41,8 +41,11 @@ def learn(headline, cards, visual="harmony"):
     return {"kind": "learn", "headline": EN(headline), "steps": [card(*c) for c in cards], "visual": visual, "reviewed": False}
 
 
-def fact(fid, text, source, url):
-    return {"id": fid, "text": EN(text), "source": EN(source), "url": url}
+def fact(fid, text, source, url, distinct=None):
+    f = {"id": fid, "text": EN(text), "source": EN(source), "url": url}
+    if distinct:
+        f["distinct"] = distinct
+    return f
 
 
 def play(text, exercise, measures=None, kind="play", rhythm=None):
@@ -198,7 +201,7 @@ def sc_1_trade():
     try_names = ["I", "I"]
     return {
         "id": "sc-1-trade", "title": EN("Trade with the band"), "strictness": "relaxed",
-        "fact": fact("scat-syllables-as-instruments", "Scat syllables can copy instruments. A 1987 study likened Ella Fitzgerald's \"b\" and \"p\" to reed instruments and her \"d\" to tongued brass, and Sarah Vaughan's \"sh\" to brushes on a drum.", "Wikipedia, Scat singing (citing Stewart, Jazzforschung/Jazz Research 19 (1987))", "https://en.wikipedia.org/wiki/Scat_singing"),
+        "fact": fact("redman-scat-1924", "Louis Armstrong wasn't the first to scat in Fletcher Henderson's band: Don Redman scatted on its record of \"My Papa Doesn't Two-Time No Time\" in April 1924, before Armstrong joined.", "Discography of American Historical Recordings, UC Santa Barbara Library, Columbia 126-D (with audio)", "https://adp.library.ucsb.edu/index.php/objects/detail/193030/Columbia_126-D", ["lmcys-slow-start"]),
         "steps": [
             learn("Scat is singing like a horn on syllables. The band plays a call; you answer it. No wrong notes here: where you choose, every lit note fits.",
                   [("The call", "Two bars from the band"), ("Your echo", "The same two bars back"), ("Your last note", "Any lit note: one that sounds at rest")]),
@@ -384,7 +387,7 @@ def sc_3_ends():
     notes, names = trades([(0, "I"), (2, "IV"), (3, "I"), (0, "V")], choose_last=2)
     return {
         "id": "sc-3-ends", "title": EN("Keep the rhythm, change the end"),
-        "fact": fact("blues-aab-verse", "Many blues verses follow an AAB pattern: a line sung over four bars, the same line repeated over the next four, then a longer, different line to close.", "Wikipedia, Blues", "https://en.wikipedia.org/wiki/Blues"),
+        "fact": fact("blues-aab-verse", "Many blues verses follow an AAB pattern: a line over four bars, the same line over the next four, then a new line to close. W. C. Handy used that third line to tell why the first was said.", "W. C. Handy, Father of the Blues (1941), Internet Archive", "https://archive.org/details/fatherofbluesaut00wcha_0"),
         "steps": [
             learn("Echo the call's rhythm, and choose its last two notes yourself, any of the chord's tones, the flat seven too.",
                   [("The rhythm", "Exactly the call's"), ("The end", "Two notes of your own"), ("The flat seven", "Now lit too")]),
@@ -429,7 +432,7 @@ def sc_3_riff():
         names += [chord] * 2
     return {
         "id": "sc-3-riff", "title": EN("A riff"),
-        "fact": fact("in-the-mood-riff-1930", "The riff of Glenn Miller's \"In the Mood\" was going round the bands years earlier: Wingy Manone recorded it in \"Tar Paper Stomp\" in 1930, and Fletcher Henderson's band used it in 1931.", "Wikipedia, In the Mood", "https://en.wikipedia.org/wiki/In_the_Mood"),
+        "fact": fact("in-the-mood-riff-1930", "The riff of Glenn Miller's \"In the Mood\" was going round the bands years earlier: Fletcher Henderson's band recorded it in 1931, in Horace Henderson's \"Hot and Anxious\".", "David Rickert, Glenn Miller: In the Mood, All About Jazz (2005)", "https://www.allaboutjazz.com/glenn-miller-in-the-mood-glenn-miller-by-david-rickert.php"),
         "steps": [
             learn("A riff is a short phrase the band repeats over the changes. This one is the minor pentatonic: flat seven, do, flat three, four and five, ending on five.",
                   [("Five notes", "Flat seven up to five"), ("Every chord", "The same riff"), ("Ends on five", "It fits even over V")]),
@@ -468,7 +471,7 @@ def sc_4_blue():
     model = notes[:2]
     return {
         "id": "sc-4-blue", "title": EN("The blue note"),
-        "fact": fact("handy-flat-third-folk-roots", "In his autobiography, W. C. Handy wrote that the flat third and seventh in his major-key blues came from the music of poor Black Southerners. Today we call them blue notes.", "Wikipedia, W. C. Handy", "https://en.wikipedia.org/wiki/W._C._Handy"),
+        "fact": fact("handy-flat-third-folk-roots", "In his autobiography, W. C. Handy wrote that the flat third and seventh in his major-key blues came from the music of poor Black Southerners. Today we call them blue notes.", "W. C. Handy, Father of the Blues (1941), Internet Archive", "https://archive.org/details/fatherofbluesaut00wcha_0"),
         "steps": [
             learn("The blue note is the flat third sung against a major chord: it rubs on purpose, then lifts to the third. No pushing on the bend.",
                   [("Flat third", "Against the major chord"), ("It rubs", "On purpose"), ("Then lift", "To the third")]),
@@ -515,7 +518,7 @@ def sc_4_four():
     notes, names = solo([CALLS[0], CALLS[2]], ["I", "I"])
     return {
         "id": "sc-4-four", "title": EN("Four bars of your own"),
-        "fact": fact("gonsalves-27-choruses", "At the 1956 Newport Jazz Festival, Paul Gonsalves soloed for 27 choruses in Duke Ellington's Diminuendo and Crescendo in Blue. The seated crowd rose to dance, and the night revived Ellington's career.", "Wikipedia, Ellington at Newport", "https://en.wikipedia.org/wiki/Ellington_at_Newport"),
+        "fact": fact("gonsalves-27-choruses", "At the 1956 Newport Jazz Festival, Paul Gonsalves soloed for 27 choruses in Duke Ellington's Diminuendo and Crescendo in Blue. The crowd got to its feet, some dancing, and the night revived Ellington's career.", "Terry Teachout, Duke Ellington: Newport Jazz Festival, Mosaic Records (2021)", "https://www.mosaicrecords.com/duke-ellington-newport-jazz-festival/"),
         "steps": [
             learn("Four bars, every note your choice from the blues scale, the last on one of the chord's tones. No wrong notes: everything lit fits.",
                   [("A rhythm", "Written for you"), ("The notes", "Any of the blues scale"), ("The last", "A chord tone")]),
