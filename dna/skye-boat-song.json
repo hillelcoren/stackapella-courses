@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "skye-boat-song",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 74,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 5,
+    "kind": "pentatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "sol",
+      "la"
+    ],
+    "missing": [
+      "fa",
+      "ti"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "6/8",
+    "pickupBeats": 0
+  },
+  "rhythm": {
+    "notes": 90,
+    "scotchSnaps": 0,
+    "dottedPairs": 16,
+    "syncopations": 0
+  },
+  "phraseEndHold": 4.19,
+  "climaxAt": 0.1,
+  "opening": [
+    "sol",
+    "la",
+    "sol",
+    "do"
+  ],
+  "ending": [
+    "mi",
+    "la",
+    "sol"
+  ],
+  "difficulty": {
+    "melody": 44,
+    "parts": {
+      "soprano": 44,
+      "alto": 28,
+      "tenor": 20,
+      "bass": 37
+    }
+  },
+  "kin": [
+    {
+      "id": "happy-birthday",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "la",
+        "sol",
+        "do"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

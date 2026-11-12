@@ -20,3 +20,5 @@ jobs:
         run: python3 -I tools/course_check.py
       - name: The songs
         run: python3 -I tools/template_check.py
+      - name: Song DNA is current
+        run: python3 -I tools/song_dna.py --check

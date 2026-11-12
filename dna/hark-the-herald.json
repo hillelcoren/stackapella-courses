@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "hark-the-herald",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 76,
+    "semitones": 14
+  },
+  "scale": {
+    "notes": 7,
+    "kind": "diatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": []
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 0
+  },
+  "rhythm": {
+    "notes": 76,
+    "scotchSnaps": 0,
+    "dottedPairs": 7,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.14,
+  "climaxAt": 0.61,
+  "opening": [
+    "sol",
+    "do",
+    "ti",
+    "do"
+  ],
+  "ending": [
+    "do",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 44,
+    "parts": {
+      "soprano": 44,
+      "alto": 29,
+      "tenor": 20,
+      "bass": 42
+    }
+  },
+  "kin": [
+    {
+      "id": "home-on-the-range",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "sol",
+        "fa",
+        "mi",
+        "re",
+        "mi",
+        "sol",
+        "do",
+        "ti",
+        "do"
+      ],
+      "beat": 8.0,
+      "theirBeat": 49.0
+    }
+  ]
+}

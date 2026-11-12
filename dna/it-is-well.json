@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "it-is-well",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 74,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 7,
+    "kind": "diatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": []
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 1
+  },
+  "rhythm": {
+    "notes": 55,
+    "scotchSnaps": 0,
+    "dottedPairs": 2,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.12,
+  "climaxAt": 0.5,
+  "opening": [
+    "sol",
+    "fa",
+    "mi",
+    "re"
+  ],
+  "ending": [
+    "do",
+    "ti",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 22,
+    "parts": {
+      "soprano": 22,
+      "alto": 16,
+      "tenor": 16,
+      "bass": 44
+    }
+  },
+  "kin": [
+    {
+      "id": "deck-the-halls",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "fa",
+        "mi",
+        "re"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

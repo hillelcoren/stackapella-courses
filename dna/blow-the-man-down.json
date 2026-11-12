@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "blow-the-man-down",
+  "templateVersion": 2,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 65,
+    "high": 74,
+    "semitones": 9
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la"
+    ],
+    "missing": [
+      "ti"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "3/4",
+    "pickupBeats": 1
+  },
+  "rhythm": {
+    "notes": 75,
+    "scotchSnaps": 0,
+    "dottedPairs": 14,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.54,
+  "climaxAt": 0.03,
+  "opening": [
+    "sol",
+    "la",
+    "sol",
+    "mi"
+  ],
+  "ending": [
+    "re",
+    "mi",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 28,
+    "parts": {
+      "soprano": 28,
+      "alto": 22,
+      "tenor": 18,
+      "bass": 33
+    }
+  },
+  "kin": [
+    {
+      "id": "we-gather-together",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "la",
+        "sol",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "noche-de-paz",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "la",
+        "sol",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "silent-night",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "la",
+        "sol",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

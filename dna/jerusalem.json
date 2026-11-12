@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "jerusalem",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 59,
+    "high": 76,
+    "semitones": 17
+  },
+  "scale": {
+    "notes": 7,
+    "kind": "diatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": []
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "3/4",
+    "pickupBeats": 1.5
+  },
+  "rhythm": {
+    "notes": 67,
+    "scotchSnaps": 0,
+    "dottedPairs": 9,
+    "syncopations": 24
+  },
+  "phraseEndHold": 2.26,
+  "climaxAt": 0.8,
+  "opening": [
+    "do",
+    "mi",
+    "sol",
+    "la"
+  ],
+  "ending": [
+    "mi",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 51,
+    "parts": {
+      "soprano": 51,
+      "alto": 39,
+      "tenor": 40,
+      "bass": 54
+    }
+  },
+  "kin": [
+    {
+      "id": "steal-away",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "mi",
+        "sol",
+        "la"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "holy-holy-holy",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "mi",
+        "sol",
+        "la"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

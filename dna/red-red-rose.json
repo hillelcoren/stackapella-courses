@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "red-red-rose",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 60,
+    "high": 79,
+    "semitones": 19
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": [
+      "fa"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 0.75
+  },
+  "rhythm": {
+    "notes": 182,
+    "scotchSnaps": 8,
+    "dottedPairs": 32,
+    "syncopations": 88
+  },
+  "phraseEndHold": 2.54,
+  "climaxAt": 0.25,
+  "opening": [
+    "sol",
+    "mi",
+    "do",
+    "re"
+  ],
+  "ending": [
+    "la",
+    "ti",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 63,
+    "parts": {
+      "soprano": 63,
+      "alto": 38,
+      "tenor": 34,
+      "bass": 56
+    }
+  },
+  "kin": [
+    {
+      "id": "the-lord-bless-you",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "mi",
+        "do",
+        "re"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

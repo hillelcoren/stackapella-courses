@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "loch-lomond",
+  "templateVersion": 4,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 76,
+    "semitones": 14
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": [
+      "fa"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 1
+  },
+  "rhythm": {
+    "notes": 176,
+    "scotchSnaps": 8,
+    "dottedPairs": 7,
+    "syncopations": 0
+  },
+  "phraseEndHold": 1.8,
+  "climaxAt": 0.11,
+  "opening": [
+    "sol",
+    "ti",
+    "do",
+    "re"
+  ],
+  "ending": [
+    "mi",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 26,
+    "parts": {
+      "soprano": 26,
+      "alto": 25,
+      "tenor": 28,
+      "bass": 33
+    }
+  },
+  "kin": [
+    {
+      "id": "the-water-is-wide",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "do",
+        "sol",
+        "do",
+        "re",
+        "mi",
+        "re",
+        "do",
+        "la",
+        "sol"
+      ],
+      "beat": 31.0,
+      "theirBeat": 45.0
+    },
+    {
+      "id": "will-ye-no-come-back-again",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "la",
+        "sol",
+        "mi",
+        "re",
+        "do",
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 27.0,
+      "theirBeat": 56.0
+    }
+  ]
+}

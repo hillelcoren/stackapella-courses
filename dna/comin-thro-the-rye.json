@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "comin-thro-the-rye",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 76,
+    "semitones": 14
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la"
+    ],
+    "missing": [
+      "ti"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 0
+  },
+  "rhythm": {
+    "notes": 56,
+    "scotchSnaps": 3,
+    "dottedPairs": 16,
+    "syncopations": 0
+  },
+  "phraseEndHold": 3.93,
+  "climaxAt": 0.71,
+  "opening": [
+    "sol",
+    "mi",
+    "re",
+    "do"
+  ],
+  "ending": [
+    "la",
+    "sol",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 49,
+    "parts": {
+      "soprano": 49,
+      "alto": 19,
+      "tenor": 22,
+      "bass": 32
+    }
+  },
+  "kin": [
+    {
+      "id": "jingle-bells",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "mi",
+        "re",
+        "do"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

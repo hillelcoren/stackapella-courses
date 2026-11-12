@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "bully-in-the-alley",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 74,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la"
+    ],
+    "missing": [
+      "ti"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 0.5
+  },
+  "rhythm": {
+    "notes": 192,
+    "scotchSnaps": 0,
+    "dottedPairs": 0,
+    "syncopations": 79
+  },
+  "phraseEndHold": 1.39,
+  "climaxAt": 0.02,
+  "opening": [
+    "sol",
+    "do",
+    "mi",
+    "sol"
+  ],
+  "ending": [
+    "do",
+    "la",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 49,
+    "parts": {
+      "soprano": 49,
+      "alto": 33,
+      "tenor": 33,
+      "bass": 39
+    }
+  },
+  "kin": [
+    {
+      "id": "asleep-in-the-deep",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "mi",
+        "sol"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "down-by-the-old-mill-stream",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "mi",
+        "sol"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

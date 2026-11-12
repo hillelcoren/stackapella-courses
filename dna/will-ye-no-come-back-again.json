@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "will-ye-no-come-back-again",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 60,
+    "high": 77,
+    "semitones": 17
+  },
+  "scale": {
+    "notes": 5,
+    "kind": "pentatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "sol",
+      "la"
+    ],
+    "missing": [
+      "fa",
+      "ti"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 0
+  },
+  "rhythm": {
+    "notes": 120,
+    "scotchSnaps": 0,
+    "dottedPairs": 14,
+    "syncopations": 12
+  },
+  "phraseEndHold": 2.06,
+  "climaxAt": 0.3,
+  "opening": [
+    "do",
+    "re",
+    "mi",
+    "do"
+  ],
+  "ending": [
+    "mi",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 51,
+    "parts": {
+      "soprano": 51,
+      "alto": 48,
+      "tenor": 42,
+      "bass": 44
+    }
+  },
+  "kin": [
+    {
+      "id": "every-time-i-feel-the-spirit",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "sol",
+        "la",
+        "sol",
+        "mi",
+        "re",
+        "do",
+        "re",
+        "mi",
+        "do"
+      ],
+      "beat": 8.0,
+      "theirBeat": 5.0
+    },
+    {
+      "id": "nearer-my-god",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "sol",
+        "la",
+        "sol",
+        "mi",
+        "re",
+        "mi",
+        "re",
+        "do",
+        "la"
+      ],
+      "beat": 43.0,
+      "theirBeat": 57.0
+    },
+    {
+      "id": "loch-lomond",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "la",
+        "sol",
+        "mi",
+        "re",
+        "do",
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 56.0,
+      "theirBeat": 27.0
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "keep-on-the-sunny-side",
+  "templateVersion": 4,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 63,
+    "high": 75,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 7,
+    "kind": "diatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": []
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 1
+  },
+  "rhythm": {
+    "notes": 83,
+    "scotchSnaps": 5,
+    "dottedPairs": 26,
+    "syncopations": 0
+  },
+  "phraseEndHold": 4.22,
+  "climaxAt": 0.15,
+  "opening": [
+    "sol",
+    "do",
+    "re",
+    "mi"
+  ],
+  "ending": [
+    "mi",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 36,
+    "parts": {
+      "soprano": 36,
+      "alto": 39,
+      "tenor": 31,
+      "bass": 43
+    }
+  },
+  "kin": [
+    {
+      "id": "home-on-the-range",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "shenandoah",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "simple-gifts",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "michael-row",
+  "templateVersion": 7,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 65,
+    "high": 74,
+    "semitones": 9
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la"
+    ],
+    "missing": [
+      "ti"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 2
+  },
+  "rhythm": {
+    "notes": 23,
+    "scotchSnaps": 0,
+    "dottedPairs": 2,
+    "syncopations": 0
+  },
+  "phraseEndHold": 1.59,
+  "climaxAt": 0.23,
+  "opening": [
+    "do",
+    "mi",
+    "sol",
+    "mi"
+  ],
+  "ending": [
+    "mi",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 16,
+    "parts": {
+      "soprano": 16,
+      "alto": 25,
+      "tenor": 22,
+      "bass": 30
+    }
+  },
+  "kin": [
+    {
+      "id": "i-will-bow-and-be-simple",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "mi",
+        "sol",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

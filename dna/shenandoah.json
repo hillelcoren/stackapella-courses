@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "shenandoah",
+  "templateVersion": 8,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 60,
+    "high": 77,
+    "semitones": 17
+  },
+  "scale": {
+    "notes": 5,
+    "kind": "pentatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "sol",
+      "la"
+    ],
+    "missing": [
+      "fa",
+      "ti"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 1
+  },
+  "rhythm": {
+    "notes": 38,
+    "scotchSnaps": 0,
+    "dottedPairs": 4,
+    "syncopations": 2
+  },
+  "phraseEndHold": 2.5,
+  "climaxAt": 0.24,
+  "opening": [
+    "sol",
+    "do",
+    "re",
+    "mi"
+  ],
+  "ending": [
+    "mi",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 41,
+    "parts": {
+      "soprano": 41,
+      "alto": 33,
+      "tenor": 24,
+      "bass": 51
+    }
+  },
+  "kin": [
+    {
+      "id": "come-thou-fount",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "do",
+        "ti",
+        "la",
+        "sol",
+        "la",
+        "sol",
+        "mi",
+        "sol",
+        "la"
+      ],
+      "beat": 8.0,
+      "theirBeat": 25.0
+    },
+    {
+      "id": "home-on-the-range",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "keep-on-the-sunny-side",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

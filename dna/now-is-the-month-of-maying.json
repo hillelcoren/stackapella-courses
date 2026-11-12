@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "now-is-the-month-of-maying",
+  "templateVersion": 3,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 74,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 7,
+    "kind": "chromatic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "fi",
+      "sol",
+      "ti"
+    ],
+    "missing": [
+      "la"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 1
+  },
+  "rhythm": {
+    "notes": 88,
+    "scotchSnaps": 0,
+    "dottedPairs": 3,
+    "syncopations": 0
+  },
+  "phraseEndHold": 3.03,
+  "climaxAt": 0.14,
+  "opening": [
+    "do",
+    "re",
+    "mi",
+    "do"
+  ],
+  "ending": [
+    "mi",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 45,
+    "parts": {
+      "soprano": 45,
+      "alto": 29,
+      "tenor": 37,
+      "bass": 55
+    }
+  },
+  "kin": [
+    {
+      "id": "ein-keloheinu",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "re",
+        "mi",
+        "do"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "will-ye-no-come-back-again",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "re",
+        "mi",
+        "do"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "are-you-sleeping",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "re",
+        "mi",
+        "do"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

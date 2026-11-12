@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "auld-lang-syne",
+  "templateVersion": 8,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 60,
+    "high": 74,
+    "semitones": 14
+  },
+  "scale": {
+    "notes": 5,
+    "kind": "pentatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "sol",
+      "la"
+    ],
+    "missing": [
+      "fa",
+      "ti"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 1
+  },
+  "rhythm": {
+    "notes": 27,
+    "scotchSnaps": 0,
+    "dottedPairs": 4,
+    "syncopations": 2
+  },
+  "phraseEndHold": 2.79,
+  "climaxAt": 0.5,
+  "opening": [
+    "sol",
+    "do",
+    "mi",
+    "re"
+  ],
+  "ending": [
+    "la",
+    "sol",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 31,
+    "parts": {
+      "soprano": 31,
+      "alto": 17,
+      "tenor": 21,
+      "bass": 44
+    }
+  },
+  "kin": [
+    {
+      "id": "were-you-there",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "mi",
+        "re"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "ezekiel-saw-the-wheel",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "mi",
+        "re"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

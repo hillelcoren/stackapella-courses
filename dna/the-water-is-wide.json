@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "the-water-is-wide",
+  "templateVersion": 8,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 74,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 7,
+    "kind": "diatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": []
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "3/4",
+    "pickupBeats": 0
+  },
+  "rhythm": {
+    "notes": 77,
+    "scotchSnaps": 0,
+    "dottedPairs": 1,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.6,
+  "climaxAt": 0.3,
+  "opening": [
+    "sol",
+    "do",
+    "re",
+    "mi"
+  ],
+  "ending": [
+    "la",
+    "ti",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 22,
+    "parts": {
+      "soprano": 22,
+      "alto": 18,
+      "tenor": 23,
+      "bass": 41
+    }
+  },
+  "kin": [
+    {
+      "id": "loch-lomond",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "do",
+        "sol",
+        "do",
+        "re",
+        "mi",
+        "re",
+        "do",
+        "la",
+        "sol"
+      ],
+      "beat": 45.0,
+      "theirBeat": 31.0
+    },
+    {
+      "id": "away-in-a-manger",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "simple-gifts",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

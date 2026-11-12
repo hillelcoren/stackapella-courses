@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "danny-boy",
+  "templateVersion": 6,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 58,
+    "high": 78,
+    "semitones": 20
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": [
+      "fa"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 2
+  },
+  "rhythm": {
+    "notes": 92,
+    "scotchSnaps": 0,
+    "dottedPairs": 5,
+    "syncopations": 0
+  },
+  "phraseEndHold": 3.93,
+  "climaxAt": 0.78,
+  "opening": [
+    "ti",
+    "do",
+    "re",
+    "mi"
+  ],
+  "ending": [
+    "la",
+    "ti",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 36,
+    "parts": {
+      "soprano": 36,
+      "alto": 23,
+      "tenor": 20,
+      "bass": 39
+    }
+  },
+  "kin": [
+    {
+      "id": "be-thou-my-vision",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "sol",
+        "la",
+        "ti",
+        "do",
+        "ti",
+        "la",
+        "sol",
+        "mi",
+        "sol"
+      ],
+      "beat": 32.5,
+      "theirBeat": 21.0
+    },
+    {
+      "id": "lift-every-voice",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "ti",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

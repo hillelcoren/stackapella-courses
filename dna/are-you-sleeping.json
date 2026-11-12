@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "are-you-sleeping",
+  "templateVersion": 4,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 58,
+    "high": 72,
+    "semitones": 14
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la"
+    ],
+    "missing": [
+      "ti"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 0
+  },
+  "rhythm": {
+    "notes": 64,
+    "scotchSnaps": 0,
+    "dottedPairs": 0,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.25,
+  "climaxAt": 0.24,
+  "opening": [
+    "do",
+    "re",
+    "mi",
+    "do"
+  ],
+  "ending": [
+    "do",
+    "sol",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 32,
+    "parts": {
+      "soprano": 32,
+      "alto": 31,
+      "tenor": 31,
+      "bass": 31
+    }
+  },
+  "kin": [
+    {
+      "id": "ein-keloheinu",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "re",
+        "mi",
+        "do"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "oh-how-lovely",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "re",
+        "mi",
+        "do"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "now-is-the-month-of-maying",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "re",
+        "mi",
+        "do"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

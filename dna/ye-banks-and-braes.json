@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "ye-banks-and-braes",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 76,
+    "semitones": 14
+  },
+  "scale": {
+    "notes": 5,
+    "kind": "pentatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "sol",
+      "la"
+    ],
+    "missing": [
+      "fa",
+      "ti"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "6/8",
+    "pickupBeats": 0.333333
+  },
+  "rhythm": {
+    "notes": 178,
+    "scotchSnaps": 6,
+    "dottedPairs": 14,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.02,
+  "climaxAt": 0.27,
+  "opening": [
+    "sol",
+    "do",
+    "re",
+    "do"
+  ],
+  "ending": [
+    "sol",
+    "la",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 35,
+    "parts": {
+      "soprano": 35,
+      "alto": 15,
+      "tenor": 22,
+      "bass": 40
+    }
+  },
+  "kin": [
+    {
+      "id": "be-thou-my-vision",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "re",
+        "do",
+        "la",
+        "sol",
+        "la",
+        "do",
+        "re",
+        "mi",
+        "re"
+      ],
+      "beat": 4.833,
+      "theirBeat": 2.0
+    }
+  ]
+}

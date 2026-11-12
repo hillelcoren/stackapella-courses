@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "ein-keloheinu",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 61,
+    "high": 76,
+    "semitones": 15
+  },
+  "scale": {
+    "notes": 8,
+    "kind": "chromatic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "fi",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": []
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 0
+  },
+  "rhythm": {
+    "notes": 122,
+    "scotchSnaps": 0,
+    "dottedPairs": 0,
+    "syncopations": 0
+  },
+  "phraseEndHold": 1.66,
+  "climaxAt": 0.12,
+  "opening": [
+    "do",
+    "re",
+    "mi",
+    "do"
+  ],
+  "ending": [
+    "ti",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 39,
+    "parts": {
+      "soprano": 39,
+      "alto": 36,
+      "tenor": 23,
+      "bass": 30
+    }
+  },
+  "kin": [
+    {
+      "id": "simple-gifts",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi",
+        "do",
+        "mi",
+        "fa",
+        "sol",
+        "mi"
+      ],
+      "beat": 62.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "now-is-the-month-of-maying",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "re",
+        "mi",
+        "do"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "are-you-sleeping",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "re",
+        "mi",
+        "do"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

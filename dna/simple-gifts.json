@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "simple-gifts",
+  "templateVersion": 7,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 74,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "ti"
+    ],
+    "missing": [
+      "la"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 2
+  },
+  "rhythm": {
+    "notes": 82,
+    "scotchSnaps": 0,
+    "dottedPairs": 2,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.05,
+  "climaxAt": 0.11,
+  "opening": [
+    "sol",
+    "do",
+    "re",
+    "mi"
+  ],
+  "ending": [
+    "mi",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 27,
+    "parts": {
+      "soprano": 27,
+      "alto": 27,
+      "tenor": 14,
+      "bass": 42
+    }
+  },
+  "kin": [
+    {
+      "id": "ein-keloheinu",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi",
+        "do",
+        "mi",
+        "fa",
+        "sol",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 62.0
+    },
+    {
+      "id": "away-in-a-manger",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "the-water-is-wide",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

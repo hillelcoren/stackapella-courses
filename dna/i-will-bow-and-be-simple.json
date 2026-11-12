@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "i-will-bow-and-be-simple",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 60,
+    "high": 76,
+    "semitones": 16
+  },
+  "scale": {
+    "notes": 4,
+    "kind": "other",
+    "solfa": [
+      "do",
+      "mi",
+      "sol",
+      "la"
+    ],
+    "missing": [
+      "re",
+      "fa",
+      "ti"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 2
+  },
+  "rhythm": {
+    "notes": 92,
+    "scotchSnaps": 0,
+    "dottedPairs": 9,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.02,
+  "climaxAt": 0.22,
+  "opening": [
+    "do",
+    "mi",
+    "sol",
+    "mi"
+  ],
+  "ending": [
+    "sol",
+    "la",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 36,
+    "parts": {
+      "soprano": 36,
+      "alto": 13,
+      "tenor": 23,
+      "bass": 38
+    }
+  },
+  "kin": [
+    {
+      "id": "la-paloma",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "mi",
+        "sol",
+        "mi",
+        "fa",
+        "sol",
+        "la",
+        "ti",
+        "do",
+        "la"
+      ],
+      "beat": 1.0,
+      "theirBeat": 16.5
+    },
+    {
+      "id": "michael-row",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "mi",
+        "sol",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

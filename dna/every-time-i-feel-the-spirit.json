@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "every-time-i-feel-the-spirit",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 63,
+    "high": 75,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 5,
+    "kind": "pentatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "sol",
+      "la"
+    ],
+    "missing": [
+      "fa",
+      "ti"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 1
+  },
+  "rhythm": {
+    "notes": 64,
+    "scotchSnaps": 0,
+    "dottedPairs": 4,
+    "syncopations": 0
+  },
+  "phraseEndHold": 3.31,
+  "climaxAt": 0.0,
+  "opening": [
+    "do",
+    "la",
+    "do",
+    "la"
+  ],
+  "ending": [
+    "re",
+    "mi",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 38,
+    "parts": {
+      "soprano": 38,
+      "alto": 26,
+      "tenor": 26,
+      "bass": 32
+    }
+  },
+  "kin": [
+    {
+      "id": "will-ye-no-come-back-again",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "sol",
+        "la",
+        "sol",
+        "mi",
+        "re",
+        "do",
+        "re",
+        "mi",
+        "do"
+      ],
+      "beat": 5.0,
+      "theirBeat": 8.0
+    },
+    {
+      "id": "didnt-my-lord-deliver-daniel",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "la",
+        "do",
+        "la"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

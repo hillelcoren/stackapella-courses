@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "la-paloma",
+  "templateVersion": 2,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 60,
+    "high": 77,
+    "semitones": 17
+  },
+  "scale": {
+    "notes": 7,
+    "kind": "diatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": []
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "2/4",
+    "pickupBeats": 0.5
+  },
+  "rhythm": {
+    "notes": 157,
+    "scotchSnaps": 0,
+    "dottedPairs": 2,
+    "syncopations": 46
+  },
+  "phraseEndHold": 6.13,
+  "climaxAt": 0.9,
+  "opening": [
+    "sol",
+    "mi",
+    "fa",
+    "sol"
+  ],
+  "ending": [
+    "la",
+    "sol",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 54,
+    "parts": {
+      "soprano": 54,
+      "alto": 30,
+      "tenor": 30,
+      "bass": 55
+    }
+  },
+  "kin": [
+    {
+      "id": "i-will-bow-and-be-simple",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "mi",
+        "sol",
+        "mi",
+        "fa",
+        "sol",
+        "la",
+        "ti",
+        "do",
+        "la"
+      ],
+      "beat": 16.5,
+      "theirBeat": 1.0
+    }
+  ]
+}

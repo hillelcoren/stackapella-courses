@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "come-thou-fount",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 63,
+    "high": 75,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": [
+      "fa"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "3/4",
+    "pickupBeats": 1
+  },
+  "rhythm": {
+    "notes": 63,
+    "scotchSnaps": 0,
+    "dottedPairs": 0,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.95,
+  "climaxAt": 0.53,
+  "opening": [
+    "mi",
+    "re",
+    "do",
+    "mi"
+  ],
+  "ending": [
+    "mi",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 35,
+    "parts": {
+      "soprano": 35,
+      "alto": 30,
+      "tenor": 23,
+      "bass": 36
+    }
+  },
+  "kin": [
+    {
+      "id": "be-thou-my-vision",
+      "kind": "sharedRun",
+      "notes": 11,
+      "solfa": [
+        "sol",
+        "la",
+        "sol",
+        "mi",
+        "sol",
+        "la",
+        "ti",
+        "do",
+        "ti",
+        "la",
+        "sol"
+      ],
+      "beat": 27.5,
+      "theirBeat": 17.0
+    },
+    {
+      "id": "adir-hu",
+      "kind": "sharedRun",
+      "notes": 10,
+      "solfa": [
+        "sol",
+        "mi",
+        "sol",
+        "la",
+        "ti",
+        "do",
+        "ti",
+        "la",
+        "sol",
+        "do"
+      ],
+      "beat": 28.5,
+      "theirBeat": 5.0
+    },
+    {
+      "id": "shenandoah",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "do",
+        "ti",
+        "la",
+        "sol",
+        "la",
+        "sol",
+        "mi",
+        "sol",
+        "la"
+      ],
+      "beat": 25.0,
+      "theirBeat": 8.0
+    }
+  ]
+}

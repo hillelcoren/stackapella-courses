@@ -1,0 +1,111 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "noche-de-paz",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 60,
+    "high": 77,
+    "semitones": 17
+  },
+  "scale": {
+    "notes": 7,
+    "kind": "diatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": []
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "6/8",
+    "pickupBeats": 0
+  },
+  "rhythm": {
+    "notes": 104,
+    "scotchSnaps": 0,
+    "dottedPairs": 20,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.47,
+  "climaxAt": 0.39,
+  "opening": [
+    "sol",
+    "la",
+    "sol",
+    "mi"
+  ],
+  "ending": [
+    "fa",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 42,
+    "parts": {
+      "soprano": 42,
+      "alto": 20,
+      "tenor": 20,
+      "bass": 40
+    }
+  },
+  "kin": [
+    {
+      "id": "silent-night",
+      "kind": "sameTune",
+      "notes": 41,
+      "solfa": [
+        "sol",
+        "la",
+        "sol",
+        "mi",
+        "sol",
+        "la",
+        "sol",
+        "mi",
+        "re"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "nearer-my-god",
+      "kind": "sharedRun",
+      "notes": 10,
+      "solfa": [
+        "re",
+        "do",
+        "sol",
+        "la",
+        "sol",
+        "mi",
+        "sol",
+        "la",
+        "sol",
+        "mi"
+      ],
+      "beat": 21.667,
+      "theirBeat": 41.0
+    },
+    {
+      "id": "we-gather-together",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "la",
+        "sol",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}
