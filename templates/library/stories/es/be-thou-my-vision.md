@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: quién escribió be thou my vision | quién compuso la música de be thou my vision | be thou my vision letra original | be thou my vision himno irlandés historia | be thou my vision significado | be thou my vision versículo bíblico
-translatedFrom: 04853f8db459
+translatedFrom: dabb1028dc57
 ---
 
 Be Thou My Vision es una oración de la Irlanda medieval convertida en himno inglés en el siglo XX. Su poema irlandés, "Rop tú mo baile", pide a Dios que lo sea todo para quien reza: vista, pensamiento, sabiduría, padre, escudo y tesoro [^eriu1905][^celt]. Nadie sabe quién lo escribió [^celt][^hymnarchive]. Mary Byrne lo publicó con una sencilla traducción inglesa en 1905, y Eleanor Hull la convirtió en pareados rimados en 1912 [^eriu1905][^hull1912]. La primera unión conocida de la letra con su melodía, SLANE, una melodía popular irlandesa, está en el himnario de la Iglesia de Irlanda de 1919 [^hymnarchive][^methodist]. Las iglesias presbiterianas de Escocia, Irlanda, Inglaterra y Gales lo imprimieron en su himnario común de 1927 [^rch1927][^moffatt1927].
@@ -58,6 +58,154 @@ La letra que cantamos es la de Hull, tal como la imprimió en 1912. Detrás est�
 6. Después de la victoria, déjame alcanzar las alegrías del cielo. Corazón de mi corazón, pase lo que pase, sé aún mi visión, soberano de todo.
 
 El poema termina donde empezó, en "vision": en irlandés, el último verso se cierra con "rob tu mo boile", las palabras con que se abre el primero [^eriu1905].
+
+### El poema irlandés
+
+Las dieciséis estrofas irlandesas tal como Mary Byrne las imprimió en Ériu en 1905 a partir del manuscrito 23 N 10 de la Royal Irish Academy, cada verso seguido de nuestro propio significado en palabras sencillas, que sigue su traducción y conserva sus dudas donde ella marcó una lectura como incierta [^eriu1905]. Sus cursivas, que señalan las letras que ella añadió a las palabras abreviadas del copista, van como letras normales, y se omiten sus notas al pie. Byrne murió en 1931, así que su edición es de dominio público.
+
+> Rob tu mo bhoile, a Comdi cride.
+Sé mi visión, oh Señor de mi corazón.
+> Ní ní nech aile, acht ri secht nime.
+Nadie más es nada para mí, sino el Rey de los siete cielos.
+
+> Rob tu mo scrutain i llo 'san-aidche.
+Sé mi pensamiento de día y de noche;
+> Rop tu atcheur im cotlad caidhce.
+que seas tú a quien vea siempre en mi sueño.
+
+> Rob tu mo labhradh, rob tu mo tuicsi,
+Sé mi palabra, sé mi entendimiento;
+> Rob tusa damsa, rob misi duitsi.
+quédate conmigo, y que yo esté contigo.
+
+> Rob tusa m' athair, rob me do mac-sa.
+Sé mi padre, y que yo sea tu hijo;
+> Rob tusa lemsa, rob misi latsa.
+sé mío, y que yo sea tuyo.
+
+> Rob tu mo cathsciath, rob tu mo cloidem.
+Sé mi escudo de batalla, sé mi espada;
+> Rob tusa m' ordan, rob tusa m' airer.
+sé mi dignidad, sé mi alegría.
+
+> Rob tu mo didiu rob tu mo daingen.
+Sé mi refugio, sé mi fortaleza;
+> Rob tu romtogba a n-aontaig aingel.
+elévame hasta la compañía de los ángeles.
+
+> Rob tu gach maithus dom curp, dom anmain.
+Sé todo bien para mi cuerpo y mi alma;
+> Rob tu mo flaithus a nim occus i talmain.
+sé mi reino en el cielo y en la tierra.
+
+> Rob tusa t' oinar sainṡerc mo cridhe.
+Sé tú solo el primer amor de mi corazón;
+> Ni rob nech aile, a airdrig nime.
+que no haya nadie más, oh alto Rey del cielo.
+
+> Co talla orm rondul it lama
+Hasta que pueda pasar a tus manos (Byrne marca el sentido como dudoso),
+> Mo cuid, mo cuisle ar med do grada.
+mi tesoro, mi amado, por la grandeza de tu amor.
+
+> Rob tusa at' aonar m'[ḟ]erann uais ammra
+Sé tú solo mi noble y maravillosa heredad;
+> Ni cuinngim doine na maine marba.
+no busco a la gente ni la riqueza sin vida.
+
+> Rob tusa dinsir cech selb, cech saoghal;
+Sé el guardián constante de cada posesión y de cada vida (también dudoso);
+> Mar marb ar mbrenadh art fegad t' aonar.
+pues nuestros deseos corruptos mueren con solo mirarte.
+
+> Do serc am anmuin, do grad im craidhe
+Tu amor en mi alma, tu amor en mi corazón:
+> Tabuir dam amlaidh, a ri secht nime.
+dame esto, oh Rey de los siete cielos.
+
+> A ri secht nime, tabair dam amlaidh
+Oh Rey de los siete cielos, dame esto:
+> Do gradh im cride, do serc im anmain.
+tu amor en mi corazón y en mi alma.
+
+> Ac righ na n-uile ris iar mbuaid leire
+Con el Rey de todo, con Él (Byrne lo marca como dudoso), tras la victoria ganada por la devoción,
+> Robeo i flaith nime, a gile grene.
+que esté yo en el reino del cielo, oh resplandor del sol.
+
+> Athair inmain, cluin, cluin mo nuallsa.
+Padre amado, escucha, escucha mi lamento;
+> Mithig monuarán lasin truagan truaghsa.
+ya es hora del grito de dolor de este pobre desdichado.
+
+> A cride mo cridhe, cipead dommaire,
+Corazón de mi corazón, pase lo que me pase,
+> A flaith na n-uile, rob tu mo boile.
+oh soberano de todo, sé mi visión.
+
+### La letra completa
+
+Los doce pareados de Eleanor Hull tal como los imprimió en The Poem-Book of the Gael en 1912, páginas 119 y 120, el texto con el que se coteja nuestra canción [^hull1912]. Los himnarios imprimen menos y cambian palabras: el Church Hymnary de 1927 trae cinco estrofas de cuatro versos, sin los dos pareados de "King of the seven heavens" [^rch1927]. Hull murió en 1935, así que sus versos son de dominio público.
+
+> Be Thou my Vision, O Lord of my heart,
+Sé tú mi visión, oh Señor de mi corazón;
+> Naught is all else to me, save that Thou art.
+todo lo demás no es nada para mí, salvo que tú existes.
+
+> Thou my best thought by day and by night,
+Tú, mi mejor pensamiento de día y de noche;
+> Waking or sleeping, Thy presence my light.
+despierto o dormido, tu presencia, mi luz.
+
+> Be Thou my Wisdom, Thou my true Word;
+Sé tú mi sabiduría, tú mi palabra verdadera;
+> I ever with Thee, Thou with me, Lord.
+yo siempre contigo, y tú conmigo, Señor.
+
+> Thou my great Father, I thy dear son;
+Tú, mi gran Padre; yo, tu hijo querido;
+> Thou in me dwelling, I with Thee one.
+tú viviendo en mí, yo uno contigo.
+
+> Be Thou my battle-shield, sword for the fight,
+Sé tú mi escudo de batalla, espada para la lucha;
+> Be Thou my dignity, Thou my delight.
+sé tú mi dignidad, tú mi alegría.
+
+> Thou my soul's shelter, Thou my high tower;
+Tú, refugio de mi alma; tú, mi alta torre;
+> Raise Thou me heavenward, Power of my power.
+elévame hacia el cielo, poder de mi poder.
+
+> Riches I heed not or man's empty praise,
+No me importan las riquezas ni el elogio vacío de los hombres;
+> Thou mine inheritance now and always.
+tú eres mi herencia, ahora y siempre.
+
+> Thou, and Thou only, first in my heart,
+Tú, y solo tú, el primero en mi corazón;
+> High King of Heaven, my treasure Thou art.
+alto Rey del cielo, tú eres mi tesoro.
+
+> King of the seven heavens, grant me for dole,
+Rey de los siete cielos, concédeme como porción
+> Thy love in my heart, Thy light in my soul.
+tu amor en mi corazón, tu luz en mi alma.
+
+> Thy light from my soul, Thy love from my heart,
+Tu luz de mi alma, tu amor de mi corazón,
+> King of the seven heavens, may they never depart.
+Rey de los siete cielos, que nunca se aparten.
+
+> With the High King of heaven, after victory won,
+Con el alto Rey del cielo, tras la victoria ganada,
+> May I reach heaven's joys, O Bright heaven's Sun!
+que alcance las alegrías del cielo, oh Sol brillante del cielo.
+
+> Heart of my own heart, whatever befall,
+Corazón de mi propio corazón, pase lo que pase,
+> Still be my Vision, O Ruler of all.
+sé aún mi visión, oh soberano de todo.
 
 ## Cómo se canta
 

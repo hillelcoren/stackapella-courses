@@ -58,6 +58,38 @@ Gospel Hymns No. 2 prints four verses, each followed by the chorus, and heads th
 
 **The chorus.** "It is well, it is well with my soul." The phrase is an old one in the King James Bible: when the prophet Elisha's servant asks the Shunammite woman, whose son has just died, whether all is well, she answers "It is well" [^kjv][^hymnary-text].
 
+### The full words
+
+The four verses and the chorus as Gospel Hymns No. 2 printed them in 1876, the chorus given once though the book sings it after every verse, and its dashes written as commas [^gh2]. Spafford's own book of 1878 prints it in four verses; the back of his manuscript has two more stanzas in pencil, one an early try at the fourth, and a British printing of about 1877 has five [^hymnarchive].
+
+**Verse 1**
+When peace, like a river, attendeth my way,
+When sorrows, like sea billows, roll;
+Whatever my lot, Thou hast taught me to say,
+It is well, it is well with my soul.
+
+**Chorus**
+It is well, with my soul,
+It is well, it is well with my soul.
+
+**Verse 2**
+Though Satan should buffet, though trials should come,
+Let this blest assurance control,
+That Christ hath regarded my helpless estate,
+And hath shed His own blood for my soul.
+
+**Verse 3**
+My sin, oh, the bliss of this glorious thought,
+My sin, not in part but the whole,
+Is nailed to His cross and I bear it no more,
+Praise the Lord, praise the Lord, oh, my soul!
+
+**Verse 4**
+And, Lord, haste the day when the faith shall be sight,
+The clouds be rolled back as a scroll,
+The trump shall resound, and the Lord shall descend,
+"Even so," it is well with my soul.
+
 ## How it is sung
 
 It is a gospel hymn, verses with a chorus, from a book made for the revival meetings Bliss and Sankey led [^gh2][^motb]. Its tune is VILLE DU HAVRE, and its meter is 11.8.11.9 with a refrain [^hymnary-text][^gh2]. Gospel Hymns No. 2 marks the chorus after every verse; the Psalter Hymnal Handbook suggests singing it in harmony throughout, with the refrain after the last verse only [^gh2][^hymnary-text].

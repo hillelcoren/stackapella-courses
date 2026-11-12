@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: away in a manger historia | quién escribió away in a manger | escribió martín lutero away in a manger | away in a manger significado | allá en el pesebre himno historia | away in a manger melodías
-translatedFrom: 18a5206b62a4
+translatedFrom: 39671a905ea5
 ---
 
 Away in a Manger es un villancico infantil sobre el niño Jesús dormido en el heno. Su letra es anónima y estadounidense. Hymnology Archive encuentra ocho de sus versos en un relato de periódico de 1868, y sus dos primeras estrofas ya estaban impresas en 1882 con el título "Luther's Cradle Song" (la canción de cuna de Lutero) [^hymnarchive][^cynosure1882]. Martín Lutero no tuvo nada que ver [^hill][^hymnarchive]. Tiene dos melodías principales: la de James R. Murray, de 1887, la versión más impresa que encontró Hill, y la de William J. Kirkpatrick, de 1895, que según el Canterbury Dictionary of Hymnology es la que siempre se canta en Gran Bretaña [^hill][^hymnarchive][^canterbury]. En 1945, el estudioso Richard S. Hill había contado cuarenta y una versiones musicales de estos pocos versos [^hill][^hymnarchive].
@@ -61,6 +61,40 @@ Cantamos la primera estrofa, tal como la imprimió Kirkpatrick en Joy and Praise
 **Estrofa 2.** "Lowing" es mugir. El bebé se despierta pero no llora. Luego quien canta habla a Jesús: "Thee" es la antigua forma familiar de "you", que se conserva en la oración, y "nigh" significa cerca. En 1882, quien canta le pide que se quede junto a "my crib", mi cuna, "watching my lullaby"; Murray pone "to watch lullaby"; Kirkpatrick escribió "till morning is nigh", hasta que se acerque la mañana [^cynosure1882][^murray1887][^kirk1895].
 
 **Estrofa 3.** El Psalter Hymnal Handbook la llama una oración para la hora de dormir, después de dos estrofas con aire de canción de cuna [^hymnary-text]. Quien canta pide a Jesús que se quede cerca, que bendiga a todos los niños y que los lleve al cielo. Gabriel en 1892 y Kirkpatrick en 1908 dicen "take us to heaven", llévanos al cielo; el libro de Londres de 1905 dice "fit us for heaven", prepáranos para el cielo [^gabriel1892][^jp1908][^bonner1905].
+
+### La letra completa
+
+Estas son las tres estrofas tal como las imprimió Kirkpatrick en Joy and Praise en 1908, número 174, la página de la que sale nuestro arreglo, con la raya que sigue a "lay" escrita como coma [^jp1908]. Las dos primeras ya estaban impresas en 1882; la tercera se añadió después, su impresión más antigua conocida es de 1892, y nadie sabe quién la escribió [^cynosure1882][^gabriel1892][^hymnarchive].
+
+**Estrofa 1**
+> Away in a manger, no crib for a bed,
+Allá en un pesebre, sin cuna por cama,
+> The little Lord Jesus laid down His sweet head.
+el pequeño Señor Jesús recostó Su dulce cabeza.
+> The stars in the bright sky looked down where He lay,
+Las estrellas del cielo brillante miraban hacia donde Él yacía,
+> The little Lord Jesus asleep on the hay.
+el pequeño Señor Jesús, dormido sobre el heno.
+
+**Estrofa 2**
+> The cattle are lowing, the baby awakes,
+El ganado muge, el niño se despierta,
+> But little Lord Jesus no crying He makes.
+pero el pequeño Señor Jesús no llora.
+> I love Thee, Lord Jesus! look down from the sky,
+¡Te amo, Señor Jesús! Mira desde el cielo
+> And stay by my cradle till morning is nigh.
+y quédate junto a mi cuna hasta que se acerque la mañana.
+
+**Estrofa 3**
+> Be near me, Lord Jesus, I ask Thee to stay
+Quédate cerca de mí, Señor Jesús; te pido que te quedes
+> Close by me forever, and love me, I pray.
+muy cerca de mí para siempre, y que me ames, te lo ruego.
+> Bless all the dear children in Thy tender care,
+Bendice a todos los queridos niños que están a Tu tierno cuidado,
+> And take us to heaven to live with Thee there.
+y llévanos al cielo para vivir allí contigo.
 
 ## Cómo se canta
 

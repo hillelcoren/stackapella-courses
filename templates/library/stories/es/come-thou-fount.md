@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: come thou fount of every blessing historia | come thou fount significado | qué significa ebenezer en come thou fount | quién escribió come thou fount of every blessing | quién compuso la música de come thou fount
-translatedFrom: 9321d1a3ba9a
+translatedFrom: de4ea759acfc
 ---
 
 Come, Thou Fount of Every Blessing es un himno de gratitud por la gracia, escrito en Inglaterra por Robert Robinson, un joven predicador que había llegado a la fe con George Whitefield [^julian-robinson][^dnb]. Una lista de sus escritos de su puño y letra, que John Julian vio en el Cambridge Church Book, lo fecha en 1758, y la impresión más antigua que se conserva está en un pequeño himnario londinense de 1759 [^julian][^hymnarchive]. En Estados Unidos encontró su melodía, NETTLETON, impresa en Pensilvania en 1813 [^hymnary-nettleton][^hymnarchive]. Su segunda estrofa levanta un "Ebenezer", una piedra del libro de Samuel [^madan1760][^kjv].
@@ -57,6 +57,82 @@ La edición de Madan de 1760 puso referencias bíblicas debajo de los versos [^m
 3. Cada día le debo más a la gracia. Que ate mi corazón como un "fetter", una cadena, porque soy "prone to wander": sé que tiendo a extraviarme. Quien canta ofrece su corazón y pide a Dios que lo "seal" (lo selle) como suyo, con las notas de Madan a 2 Corintios 1:22 y Efesios 1:13 [^madan1760][^kjv].
 
 El texto de 1759 tenía una cuarta estrofa que miraba al día en que quien canta queda libre del pecado; Madan la quitó, y la mayoría de los himnarios la dejan fuera [^julian][^hymnarchive].
+
+### La letra completa
+
+Las estrofas 1 a 3 tal como las imprimió The Methodist Hymnal en 1905, con las rayas del séptimo verso de la primera estrofa escritas como comas [^methodist1905]. Llevan los cambios de Madan de 1760 y el "Mount of thy redeeming love" de mediados del siglo XIX [^madan1760][^hymnarchive]. La cuarta estrofa de Robinson es la que imprimió en 1759 la colección de Angel-Alley, leída en su página reproducida por Hymnology Archive, con la s larga escrita como s [^hymnarchive]. Algunos himnarios modernos cambian también el verso del Ebenezer [^hymnarchive].
+
+**Estrofa 1**
+> Come, thou Fount of every blessing,
+Ven, tú, fuente de toda bendición,
+> Tune my heart to sing thy grace;
+afina mi corazón para cantar tu gracia;
+> Streams of mercy, never ceasing,
+torrentes de misericordia que nunca cesan
+> Call for songs of loudest praise.
+piden cantos de la más alta alabanza.
+> Teach me some melodious sonnet,
+Enséñame algún canto melodioso,
+> Sung by flaming tongues above;
+cantado por las lenguas de fuego de lo alto;
+> Praise the mount, I'm fixed upon it,
+alaba el monte: en él me mantengo firme,
+> Mount of thy redeeming love.
+monte de tu amor redentor.
+
+**Estrofa 2**
+> Here I raise mine Ebenezer;
+Aquí levanto mi Ebenezer, mi piedra de gratitud;
+> Hither by thy help I'm come;
+hasta aquí he llegado con tu ayuda;
+> And I hope, by thy good pleasure,
+y espero, por tu buena voluntad,
+> Safely to arrive at home.
+llegar a salvo a casa.
+> Jesus sought me when a stranger,
+Jesús me buscó cuando era un extraño,
+> Wandering from the fold of God;
+extraviado lejos del redil de Dios;
+> He, to rescue me from danger,
+él, para rescatarme del peligro,
+> Interposed his precious blood.
+interpuso su preciosa sangre.
+
+**Estrofa 3**
+> O to grace how great a debtor
+Oh, qué gran deudor de la gracia
+> Daily I'm constrained to be!
+me veo obligado a ser cada día.
+> Let thy goodness, like a fetter,
+Que tu bondad, como una cadena,
+> Bind my wandering heart to thee:
+ate a ti mi corazón errante:
+> Prone to wander, Lord, I feel it,
+propenso a extraviarme, Señor, lo siento,
+> Prone to leave the God I love;
+propenso a dejar al Dios que amo;
+> Here's my heart, O take and seal it;
+aquí está mi corazón, oh, tómalo y séllalo;
+> Seal it for thy courts above.
+séllalo para tus atrios de lo alto.
+
+**Estrofa 4, de 1759**
+> O that Day when freed from Sinning,
+Oh, ese día en que, libre del pecado,
+> I shall see thy lovely Face;
+veré tu hermoso rostro;
+> Cloathed then in blood-wash'd Linnen,
+vestido entonces de lino lavado en la sangre,
+> How I'll sing thy sov'reign Grace:
+cómo cantaré tu gracia soberana.
+> Come, my Lord, no longer tarry,
+Ven, Señor mío, no tardes más,
+> Take my ransom'd Soul away;
+llévate mi alma rescatada;
+> Send thine Angels now to carry
+envía ahora a tus ángeles a llevarme
+> Me to Realms of endless Day.
+a los reinos del día sin fin.
 
 ## Cómo se canta
 

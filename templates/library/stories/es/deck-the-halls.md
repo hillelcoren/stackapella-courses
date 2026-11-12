@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: deck the halls historia | deck the halls significado | quién escribió deck the halls | deck the halls letra en español | deck the halls origen | deck the halls gay apparel significado
-translatedFrom: f8f134d1812c
+translatedFrom: be9747a01fa8
 ---
 
 Deck the Halls es el villancico con más "fa la la" que palabras. Su melodía es galesa: una pieza de arpa llamada Nos Galan, víspera de Año Nuevo, que imprimieron el arpista John Parry en 1781 y Edward Jones en 1784 [^parry1781][^jones1784][^tta]. En Gales llevaba versos de amor y un estribillo de "fal lal" [^jones1784][^jones1794]. Su letra inglesa, "Deck the hall with boughs of holly" (adorna la sala con ramas de acebo), es de Thomas Oliphant y se imprimió en Londres en 1862 junto a una letra galesa del poeta Talhaiarn [^thomas1862][^hullah1866]. La primera estrofa de Oliphant pedía llenar la copa de hidromiel y vaciar el barril. En 1877 una revista escolar estadounidense ya imprimía en su lugar "Don we now our gay apparel", y esa es la versión que llevaron los cancioneros posteriores [^psj1877][^mccaskey1881][^golden1923].
@@ -57,6 +57,118 @@ Oliphant escribió tres estrofas: una para adornar y beber, otra para el cuenco 
 **Estrofa 3.** Aquí la canción pasa a la víspera de Año Nuevo: el año viejo se va, y los mozos y las mozas saludan al nuevo [^hullah1866]. La compañía de Oliphant va "laughing, quaffing", riendo y bebiendo a grandes tragos; los libros estadounidenses, en cambio, la ponen a cantar con alegría, todos juntos, sin hacer caso del viento ni del tiempo [^hullah1866][^psj1877].
 
 **El "fa la la".** No significa nada; es un estribillo para que cante todo el mundo. Las ediciones galesas de 1784 y 1794 ya tienen "fal lal" en los compases del estribillo, y la de 1794 añade "dadlea" [^jones1784][^jones1794].
+
+### La letra completa
+
+Estas son las tres estrofas tal como las imprime el Golden Book en la página 66, la página de la que sale nuestro arreglo: la revisión estadounidense de 1877, retocada un poco otra vez por autores que no se nombran [^golden1923][^psj1877]. Después vienen las tres estrofas del propio Oliphant tal como se imprimieron por primera vez, bajo la música de las Welsh Melodies de John Thomas en 1862 [^thomas1862].
+
+**Estrofa 1**
+> Deck the halls with boughs of holly,
+Adorna los salones con ramas de acebo,
+> Fa la la la la, la la la la.
+fa la la la la, la la la la.
+> 'Tis the season to be jolly,
+es la época de estar alegres,
+> Fa la la la la, la la la la.
+fa la la la la, la la la la.
+> Don we now our gay apparel,
+pongámonos ahora la ropa de fiesta,
+> Fa la la la la la la,
+fa la la la la la la,
+> Troll the ancient Yule-tide carol,
+cantemos a plena voz el antiguo villancico de Navidad,
+> Fa la la la la, la la la la.
+fa la la la la, la la la la.
+
+**Estrofa 2**
+> See the blazing Yule before us,
+Mira el tronco de Navidad que arde ante nosotros,
+> Fa la la la la, la la la la.
+fa la la la la, la la la la.
+> Strike the harp and join the chorus,
+pulsa el arpa y únete al coro,
+> Fa la la la la, la la la la.
+fa la la la la, la la la la.
+> Follow me in merry measure,
+sígueme a un ritmo alegre,
+> Fa la la la la la la,
+fa la la la la la la,
+> While I tell of Yule-tide treasure
+mientras hablo del tesoro de la Navidad,
+> Fa la la la la, la la la la.
+fa la la la la, la la la la.
+
+**Estrofa 3**
+> Fast away the old year passes
+El año viejo se va deprisa,
+> Fa la la la la, la la la la.
+fa la la la la, la la la la.
+> Hail the new, ye lads and lasses,
+que mozos y mozas saluden al nuevo,
+> Fa la la la la, la la la la.
+fa la la la la, la la la la.
+> Sing we joyous all together,
+cantemos alegres todos juntos,
+> Fa la la la la la la,
+fa la la la la la la,
+> Heedless of the wind and weather,
+sin hacer caso del viento ni del tiempo,
+> Fa la la la la, la la la la.
+fa la la la la, la la la la.
+
+**Estrofa 1 de Oliphant (1862)**
+> Deck the hall with boughs of holly,
+Adorna el salón con ramas de acebo,
+> Fa, la, la, la, la, la, la, la, la!
+¡fa, la, la, la, la, la, la, la, la!
+> 'Tis the season to be jolly:
+es la época de estar alegres:
+> Fa, la, la, la, la, la, la, la, la!
+¡fa, la, la, la, la, la, la, la, la!
+> Fill the mead-cup, drain the barrel,
+llena la copa de hidromiel, vacía el barril,
+> Fa, la, la, la, la, la, la, la!
+¡fa, la, la, la, la, la, la, la!
+> Troul the ancient Christmas carol.
+canta a plena voz el antiguo villancico de Navidad.
+> Fa, la, la, la, la, la, la, la, la!
+¡Fa, la, la, la, la, la, la, la, la!
+
+**Estrofa 2 de Oliphant (1862)**
+> See the flowing bowl before us,
+Mira el cuenco rebosante ante nosotros,
+> Fa, la, la, la, la, la, la, la, la!
+¡fa, la, la, la, la, la, la, la, la!
+> Strike the harp, and join in chorus:
+pulsa el arpa y canta con todos:
+> Fa, la, la, la, la, la, la, la, la!
+¡fa, la, la, la, la, la, la, la, la!
+> Follow me in merry measure,
+sígueme a un ritmo alegre,
+> Fa, la, la, la, la, la, la, la!
+¡fa, la, la, la, la, la, la, la!
+> While I sing of beauty's treasure.
+mientras canto el tesoro de la belleza.
+> Fa, la, la, la, la, la, la, la, la!
+¡Fa, la, la, la, la, la, la, la, la!
+
+**Estrofa 3 de Oliphant (1862)**
+> Fast away the old year passes,
+El año viejo se va deprisa,
+> Fa, la, la, la, la, la, la, la, la!
+¡fa, la, la, la, la, la, la, la, la!
+> Hail the new, ye lads and lasses:
+que mozos y mozas saluden al nuevo:
+> Fa, la, la, la, la, la, la, la, la!
+¡fa, la, la, la, la, la, la, la, la!
+> Laughing, quaffing all together,
+riendo y bebiendo a grandes tragos, todos juntos,
+> Fa, la, la, la, la, la, la, la!
+¡fa, la, la, la, la, la, la, la!
+> Heedless of the wind and weather.
+sin hacer caso del viento ni del tiempo.
+> Fa, la, la, la, la, la, la, la, la!
+¡Fa, la, la, la, la, la, la, la, la!
 
 ## Cómo se canta
 

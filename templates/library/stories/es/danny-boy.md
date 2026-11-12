@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: danny boy significado | danny boy historia | quién escribió danny boy | danny boy letra en español | danny boy canción de funeral | danny boy es irlandesa o escocesa
-translatedFrom: d5ba530de356
+translatedFrom: 3d3036bfd077
 ---
 
 Danny Boy es una canción de despedida. Su letra es de Frederic Weatherly, abogado y letrista inglés, que la escribió en 1910 y la publicó en 1913 con el Londonderry Air, una melodía irlandesa que George Petrie había impreso en 1855 sin nombre.[^dillane][^mann][^imslp][^petrie] Alguien que se queda en casa le dice a Danny que las gaitas lo llaman a partir, y le promete que lo estará esperando cuando vuelva, en verano o con nieve. Se canta el Día de San Patricio y en los funerales.[^dillane][^odowd][^ap][^golway] En sus memorias de 1926, tal como las cita Aileen Dillane, de la Universidad de Limerick, Weatherly escribió que se cantaba "en todo el mundo, tanto por los del Sinn Féin como por los del Úlster".[^dillane][^ballad][^odowd]
@@ -60,6 +60,28 @@ Weatherly escribió dos estrofas. Nuestro arreglo canta la primera.[^wikisource]
 **Estrofa 2 (no se canta).** Quien canta piensa en la posibilidad de morir antes de que Danny vuelva a casa. Si es así, Danny encontrará la tumba, se arrodillará allí y rezará un "Ave", el avemaría. Quien canta lo oirá incluso a través de la tierra, la tumba se sentirá más cálida por su amor, y dormirá en paz hasta que Danny también llegue.[^wikisource]
 
 La canción nunca dice quién canta, ni a qué llaman las gaitas a Danny. Puede ser una madre, un padre o una persona amada. Algunas ediciones indican a un hombre que la cante que use otras palabras, impresas en cursiva, y la canción se convierte en Eily Dear.[^imslp][^cf] En los años de guerra encajaba con los soldados y con quienes los esperaban en casa; los irlandeses de Estados Unidos oían en ella las despedidas de sus propios emigrantes.[^dillane][^odowd]
+
+### La letra completa
+
+Esta es la letra que cantamos: la primera estrofa de Weatherly, tal como la fija nuestro arreglo a partir de su canción de 1913.[^conncoll] Su segunda estrofa, explicada más arriba, está en la misma edición; aquí no se canta.
+
+**Estrofa 1**
+> Oh, Danny Boy, the pipes, the pipes are calling
+Oh, Danny, las gaitas, las gaitas te llaman
+> From glen to glen, and down the mountain side,
+de valle en valle y por la ladera de la montaña.
+> The summer's gone, and all the roses falling,
+El verano se ha ido y caen todas las rosas;
+> It's you, it's you must go, and I must bide.
+eres tú, eres tú quien debe irse, y yo debo quedarme.
+> But come ye back when summer's in the meadow,
+Pero vuelve cuando el verano esté en el prado
+> Or when the valley's hushed and white with snow,
+o cuando el valle esté callado y blanco de nieve:
+> It's I'll be here in sunshine or in shadow,
+aquí estaré, con sol o con sombra.
+> Oh, Danny boy, oh, Danny boy, I love you so!
+Oh, Danny, oh, Danny, te quiero tanto.
 
 ## Cómo se canta
 

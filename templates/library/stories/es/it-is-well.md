@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: estoy bien con mi dios historia | alcancé salvación himno historia | quién escribió it is well with my soul y por qué | it is well with my soul historia | it is well with my soul significado | it is well with my soul versículo bíblico
-translatedFrom: 77c19e932564
+translatedFrom: 79f352c47d7c
 ---
 
 It Is Well with My Soul, que en español se canta como "Estoy bien con mi Dios" o "Alcancé salvación", es un himno evangélico de confianza en Dios en medio del duelo. Su letra es de Horatio G. Spafford, un abogado de Chicago cuyas cuatro hijas se ahogaron cuando el vapor francés Ville du Havre se hundió en el Atlántico en noviembre de 1873 [^loc-family][^hymnarchive]. Su melodía es de Philip P. Bliss y lleva el nombre del barco [^hymnarchive][^hymnary-text]. La primera impresión conocida de letra y melodía juntas es el n.º 76 de Gospel Hymns No. 2, el cancionero de 1876 que Bliss e Ira D. Sankey reunieron para sus reuniones de avivamiento [^gh2][^motb]. Hoy Hymnary.org lo registra en más de 600 himnarios, y el Psalter Hymnal Handbook señala que las iglesias lo cantan a menudo después de una tragedia [^hymnary-text].
@@ -53,11 +53,61 @@ Gospel Hymns No. 2 imprime cuatro estrofas, cada una seguida del estribillo, y l
 
 **Estrofa 2.** Aunque Satanás lo golpee una y otra vez ("buffet") y lleguen las pruebas, quien canta pide que lo gobierne una sola certeza: que Cristo "hath regarded my helpless estate", es decir, que se ha fijado en su indefensión, y ha muerto por él. "Regarded the low estate" (miró la pequeñez) es la expresión de María en Lucas [^kjv].
 
-**Estrofa 3.** La alegría de saber que el pecado, todo y no solo una parte, está "nailed to His cross" (clavado en Su cruz). La imagen viene de Colosenses, donde lo que estaba en contra nuestra se quita de en medio, "clavándolo en su cruz" [^kjv][^hymnary-text].
+**Estrofa 3.** La alegría de saber que el pecado, todo y no solo una parte, está "nailed to His cross" (clavado en su cruz). La imagen viene de Colosenses, donde lo que estaba en contra nuestra se quita de en medio, "clavándolo en su cruz" [^kjv][^hymnary-text].
 
-**Estrofa 4.** Una oración por el fin de los tiempos, cuando "faith shall be sight" (la fe será vista), cuando los creyentes vean aquello en lo que ahora confían (el "andamos por fe, no por vista" de Pablo) [^kjv]. Las nubes se retiran "as a scroll" (como un rollo), como los cielos en Isaías, suena la trompeta y el Señor desciende [^kjv][^hymnary-text]. El último verso empieza con "Even so" (así sea), entre comillas en la página de 1876 [^gh2], muy probablemente tomado de la oración con que se cierra la Biblia, "Así sea, ven, Señor Jesús" [^kjv].
+**Estrofa 4.** Una oración por el fin de los tiempos, cuando "faith shall be sight" (la fe se convierta en vista), cuando los creyentes vean aquello en lo que ahora confían (el "andamos por fe, no por vista" de Pablo) [^kjv]. Las nubes se retiran "as a scroll" (como un rollo), como los cielos en Isaías, suena la trompeta y el Señor desciende [^kjv][^hymnary-text]. El último verso empieza con "Even so" (así sea), entre comillas en la página de 1876 [^gh2], muy probablemente tomado de la oración con que se cierra la Biblia, "Así sea, ven, Señor Jesús" [^kjv].
 
 **El estribillo.** "It is well, it is well with my soul" (está bien, mi alma está bien). La expresión es antigua en la Biblia King James: cuando el criado del profeta Eliseo pregunta a la sunamita, cuyo hijo acaba de morir, si todo va bien, ella responde "Está bien" ("It is well") [^kjv][^hymnary-text].
+
+### La letra completa
+
+Las cuatro estrofas y el estribillo tal como los imprimió Gospel Hymns No. 2 en 1876; el estribillo se da una sola vez, aunque el libro lo canta después de cada estrofa, y sus rayas se escriben como comas [^gh2]. El libro del propio Spafford, de 1878, la imprime en cuatro estrofas; el reverso de su manuscrito tiene dos estrofas más a lápiz, una de ellas un primer intento de la cuarta, y una edición británica de hacia 1877 tiene cinco [^hymnarchive].
+
+**Estrofa 1**
+> When peace, like a river, attendeth my way,
+Cuando la paz, como un río, acompaña mi camino,
+> When sorrows, like sea billows, roll;
+cuando las penas ruedan como olas del mar,
+> Whatever my lot, Thou hast taught me to say,
+sea cual sea mi suerte, tú me has enseñado a decir:
+> It is well, it is well with my soul.
+está bien, mi alma está bien.
+
+**Estribillo**
+> It is well, with my soul,
+Está bien, mi alma está bien,
+> It is well, it is well with my soul.
+está bien, mi alma está bien.
+
+**Estrofa 2**
+> Though Satan should buffet, though trials should come,
+Aunque Satanás me golpee una y otra vez, aunque lleguen las pruebas,
+> Let this blest assurance control,
+que me gobierne esta bendita certeza:
+> That Christ hath regarded my helpless estate,
+que Cristo se ha fijado en mi indefensión
+> And hath shed His own blood for my soul.
+y ha derramado su propia sangre por mi alma.
+
+**Estrofa 3**
+> My sin, oh, the bliss of this glorious thought,
+Mi pecado, oh, la dicha de este pensamiento glorioso,
+> My sin, not in part but the whole,
+mi pecado, no una parte sino todo,
+> Is nailed to His cross and I bear it no more,
+está clavado en su cruz y ya no lo cargo;
+> Praise the Lord, praise the Lord, oh, my soul!
+¡alaba al Señor, alaba al Señor, oh alma mía!
+
+**Estrofa 4**
+> And, Lord, haste the day when the faith shall be sight,
+Y, Señor, apresura el día en que la fe se convierta en vista,
+> The clouds be rolled back as a scroll,
+en que las nubes se retiren como un rollo,
+> The trump shall resound, and the Lord shall descend,
+la trompeta resuene y el Señor descienda.
+> "Even so," it is well with my soul.
+"Así sea": mi alma está bien.
 
 ## Cómo se canta
 

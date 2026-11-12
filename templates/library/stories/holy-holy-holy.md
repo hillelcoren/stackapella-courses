@@ -59,6 +59,34 @@ The hymn draws on two visions of God's throne in the Bible [^hymnary-text][^hymn
 
 We sing verse 1.
 
+### The full words
+
+Heber's four verses as Hymns Ancient and Modern printed them in 1861, Hymn 135, the page our arrangement is read from, with its small capitals set as ordinary letters and its closing "Amen" left out [^ham1861]. They are the four verses of Heber's own book of 1827, which differs only in small points of spelling and punctuation [^heber1827][^ham1861]. Heber died in 1826, so every verse is in the public domain.
+
+**Verse 1**
+Holy, Holy, Holy! Lord God Almighty!
+Early in the morning our song shall rise to Thee:
+Holy, Holy, Holy! merciful and mighty;
+God in Three Persons, Blessèd Trinity!
+
+**Verse 2**
+Holy, Holy, Holy! all the saints adore Thee,
+Casting down their golden crowns around the glassy sea,
+Cherubim and Seraphim falling down before Thee,
+Which wert, and art, and evermore shalt be.
+
+**Verse 3**
+Holy, Holy, Holy! though the darkness hide Thee,
+Though the eye of sinful man Thy glory may not see,
+Only Thou art Holy: There is none beside Thee
+Perfect in power, in love, and purity.
+
+**Verse 4**
+Holy, Holy, Holy! Lord God Almighty!
+All Thy works shall praise Thy Name, in earth, and sky, and sea:
+Holy, Holy, Holy! merciful and mighty;
+God in Three Persons, Blessèd Trinity!
+
 ## How it is sung
 
 Heber appointed the hymn for Trinity Sunday, and Hymns Ancient and Modern placed it there in 1861 [^heber1827][^ham1861]. Many hymnals still list it for Trinity Sunday, and for morning worship [^hymnary-text]. Anglican, Methodist, Lutheran, Catholic and Baptist hymnals all print it with NICAEA [^hymnary-text][^hymnary-nicaea]. The meter is 11.12.12.10: four lines of eleven, twelve, twelve and ten syllables [^ham1861][^hymnary-nicaea].

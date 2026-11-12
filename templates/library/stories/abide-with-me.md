@@ -59,10 +59,62 @@ Lyte set Luke 24:29 above the hymn: "Abide with us: for it is toward evening, an
 4. Not as a fearsome King of kings, but kind, "with healing in Thy wings", a phrase from Malachi, and as the "Friend of sinners", a name given to Jesus in Matthew [^kjv]. "Bide" means stay.
 5. God smiled on my youth and never left me, though I often left him.
 6. Only grace can beat "the Tempter", the devil; stay through cloud and sunshine.
-7. With God near, no enemy frightens. "Where is death's sting? where, grave, thy victory?" is St Paul, in 1 Corinthians 15 [^kjv].
+7. With God near, no enemy frightens. "Where is death's sting, where, grave, thy victory?" is St Paul, in 1 Corinthians 15 [^kjv].
 8. Hold the cross before my closing eyes: heaven's morning breaks, and earth's shadows flee.
 
 Hymns Ancient and Modern left out verses 3, 4 and 5, and most hymnals still do [^ham1861][^julian]. We sing verse 1.
+
+### The full words
+
+All eight of Lyte's verses. Verses 1, 2 and 6 to 8 are as Hymns Ancient and Modern printed them in 1861, without the stress marks it adds for chanting [^ham1861]. Verses 3, 4 and 5, which it left out, are as Lyte's Remains printed them in 1850 [^remains1850].
+
+**Verse 1**
+Abide with me; fast falls the even-tide;
+The darkness deepens; Lord, with me abide;
+When other helpers fail, and comforts flee,
+Help of the helpless, O abide with me.
+
+**Verse 2**
+Swift to its close ebbs out life's little day;
+Earth's joys grow dim, its glories pass away;
+Change and decay in all around I see;
+O Thou Who changest not, abide with me.
+
+**Verse 3**
+Not a brief glance I beg, a passing word,
+But as Thou dwell'st with Thy disciples, Lord,
+Familiar, condescending, patient, free,
+Come, not to sojourn, but abide, with me!
+
+**Verse 4**
+Come not in terrors, as the King of kings;
+But kind and good, with healing in Thy wings:
+Tears for all woes, a heart for every plea.
+Come, Friend of sinners, and thus bide with me!
+
+**Verse 5**
+Thou on my head in early youth didst smile,
+And, though rebellious and perverse meanwhile,
+Thou hast not left me, oft as I left Thee.
+On to the close, O Lord, abide with me!
+
+**Verse 6**
+I need Thy presence every passing hour;
+What but Thy grace can foil the tempter's power?
+Who like Thyself my guide and stay can be?
+Through cloud and sunshine, Lord, abide with me.
+
+**Verse 7**
+I fear no foe with Thee at hand to bless;
+Ills have no weight, and tears no bitterness;
+Where is death's sting, where, grave, thy victory?
+I triumph still, if Thou abide with me.
+
+**Verse 8**
+Hold Thou Thy Cross before my closing eyes;
+Shine through the gloom, and point me to the skies;
+Heaven's morning breaks, and earth's vain shadows flee,
+In life, in death, O Lord, abide with me.
 
 ## How it is sung
 

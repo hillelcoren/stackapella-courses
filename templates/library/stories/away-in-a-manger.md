@@ -61,6 +61,28 @@ We sing the first, as Kirkpatrick printed it in Joy and Praise [^jp1908].
 
 **Verse 3.** The Psalter Hymnal Handbook calls it a bedtime prayer, after two verses with a lullaby's feel [^hymnary-text]. The singer asks Jesus to stay close, bless all children and take them to heaven. Gabriel in 1892 and Kirkpatrick in 1908 say "take us to heaven"; the London book of 1905 says "fit us for heaven", make us ready for it [^gabriel1892][^jp1908][^bonner1905].
 
+### The full words
+
+These are the three verses as Kirkpatrick printed them in Joy and Praise in 1908, No. 174, the page our arrangement reads, the dash after "lay" written as a comma [^jp1908]. The first two were in print by 1882; the third was added later, with its earliest known printing in 1892, and nobody knows who wrote it [^cynosure1882][^gabriel1892][^hymnarchive].
+
+**Verse 1**
+Away in a manger, no crib for a bed,
+The little Lord Jesus laid down His sweet head.
+The stars in the bright sky looked down where He lay,
+The little Lord Jesus asleep on the hay.
+
+**Verse 2**
+The cattle are lowing, the baby awakes,
+But little Lord Jesus no crying He makes.
+I love Thee, Lord Jesus! look down from the sky,
+And stay by my cradle till morning is nigh.
+
+**Verse 3**
+Be near me, Lord Jesus, I ask Thee to stay
+Close by me forever, and love me, I pray.
+Bless all the dear children in Thy tender care,
+And take us to heaven to live with Thee there.
+
 ## How it is sung
 
 From the start it was a carol for small children: a recitation in 1883, a nursery hymn in 1885, a song for the primary school in 1895 [^pilgrim1883][^lcb1885][^kirk1895]. The Psalter Hymnal Handbook suggests Christmas Eve [^hymnary-text]. Its meter is 11.11.11.11 [^lcb1885][^bonner1905].

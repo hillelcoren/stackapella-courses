@@ -64,6 +64,51 @@ The book spells the words as its editors heard the Sea Island speech. "De" is "t
 
 **The Hilton Head words.** Michael hauls the boat ashore, and the trumpet sounds the world around, for rich and poor and for the jubilee, a time of release [^scan31][^kjv].
 
+### The full words
+
+These are all the words of No. 31 in *Slave Songs of the United States*, pages 23 and 24, with the book's spelling and its own gloss "(there)" [^scan31]. Lines 1 and 2 are printed under the music with their "Hallelujah!"; lines 3 to 22 are numbered below it, grouped here as in the notes above, and seven more lines follow under the book's heading "Words from Hilton Head". The book was printed in 1867, so all of it is in the public domain.
+
+**Lines 1 and 2**
+Michael row de boat ashore, Hallelujah!
+Michael boat a gospel boat, Hallelujah!
+
+**Lines 3 to 7**
+I wonder where my mudder deh (there).
+See my mudder on de rock gwine home.
+On de rock gwine home in Jesus' name.
+Michael boat a music boat.
+Gabriel blow de trumpet horn.
+
+**Lines 8 to 11**
+O you mind your boastin' talk.
+Boastin' talk will sink your soul.
+Brudder, lend a helpin' hand.
+Sister, help for trim dat boat.
+
+**Lines 12 to 15**
+Jordan stream is wide and deep.
+Jesus stand on t' oder side.
+I wonder if my maussa deh.
+My fader gone to unknown land.
+
+**Lines 16 to 22**
+O de Lord he plant his garden deh.
+He raise de fruit for you to eat.
+He dat eat shall neber die.
+When de riber overflow.
+O poor sinner, how you land?
+Riber run and darkness comin'.
+Sinner row to save your soul.
+
+**Words from Hilton Head**
+Michael haul the boat ashore.
+Then you'll hear the horn they blow.
+Then you'll hear the trumpet sound.
+Trumpet sound the world around.
+Trumpet sound for rich and poor.
+Trumpet sound the jubilee.
+Trumpet sound for you and me.
+
 ## How it is sung
 
 Most island songs served both for rowing and for the shout. This one, Allen wrote, was the exception: a pure boat-song, sung at the oars [^slavesongs].

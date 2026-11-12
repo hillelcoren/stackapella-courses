@@ -33,7 +33,7 @@ Jingle Bells is a song about a fast sleigh ride on new snow, and its words never
 
 **The tune.** The verse tune of 1857 is, in its shape, the one sung now [^ditson1857][^heartsongs1909]. The chorus is not. In 1857 the second "Jingle bells" jumps higher than the first, the line touches a note outside the key, an E natural on "way", and the words are "Oh! what joy it is to ride" [^ditson1857]. The chorus sung today, with every "Jingle bells" on one repeated note and "Oh! what fun it is to ride", is in print by 1876, in a Boston book of college songs with no composer named [^carmina1876]. The verse has changed a little too: 1857 has "o'er the hills" for "o'er the fields" and "Oh what sport to ride and sing" [^ditson1857][^carmina1876]. Who reshaped the song, and when, is not known from the sources read for this page.
 
-**Myth and record.** Often told: the song was first sung at Thanksgiving, at a church service or a Sunday school concert; Savannah's version places it at his brother's church there in 1857 [^historycom][^connectsav]. What the record shows: the song was on a Boston minstrel stage on 15 September 1857 and deposited for copyright the next day, weeks before that year's Thanksgiving, and nothing in its words belongs to a church or a holiday [^hamill][^ditson1857].
+**Myth and record.** Often told: it was first sung at a Thanksgiving church service or Sunday school concert, in Savannah's version at his brother's church there in 1857 [^historycom][^connectsav]. What the record shows: its first known performance and its copyright deposit, both in September 1857, came weeks before that year's Thanksgiving, and nothing in its words belongs to a church or a holiday [^hamill][^ditson1857].
 
 Often told, too: Pierpont wrote it in 1850 at the Simpson Tavern in Medford, Massachusetts, as a plaque there says; or in Savannah in late 1857, as Savannah holds [^hamill][^bostonia][^connectsav]. What the record shows: Hamill traced Medford's claim back no further than a Boston Globe article of 1946, and the song was published in Boston before the Savannah date [^hamill][^bostonia][^ditson1857]. Popular accounts add that Pierpont was in California in 1850 [^bostonia][^historycom]; Hamill's own notes are more careful, finding him on Medford's census and tax lists in 1850 and in San Francisco by June 1851 [^hamill]. Where he wrote it is not known; Hamill's best guess is his Boston rooming house of early summer 1857 [^bostonia][^historycom].
 
@@ -54,19 +54,83 @@ The 1857 song has four verses: a light story of winter fun and mishaps [^ditson1
 
 **Verse 1**, the one we sing, sets the scene. "Dashing" is rushing along, in a small roofless sleigh pulled by one horse. "O'er" is "over". The sleigh bells ring on the harness of a bobtail, a horse whose tail is cut short, and "making spirits bright" means putting everyone in a good mood.
 
-**The chorus** is the sound of the ride: let the bells jingle all the way, because riding in the sleigh is such fun. In 1857 it was "what joy" [^ditson1857].
+**The chorus** is the sound of the ride: let the bells jingle all the way, because riding in the sleigh is such fun.
 
-**Verse 2** goes wrong. The singer takes Miss Fannie Bright for a ride, but the horse is lean and unlucky, runs into a snowdrift, and "we got upsot": tipped over. "Upsot" is an old country form of "upset"; Bartlett's Dictionary of Americanisms of 1859 quotes it from a rural newspaper sketch [^bartlett1859]; Hamill notes that it can be read as southern dialect, a hint of the minstrel stage [^hamill].
+**Verse 2** goes wrong. The singer takes Miss Fannie Bright for a ride, but the horse is lean and unlucky, runs into a snowdrift, and "we got upsot": tipped over. "Upsot" is an old country form of "upset"; Bartlett's Dictionary of Americanisms of 1859 quotes it from a rural newspaper sketch [^bartlett1859].
 
 **Verse 3**, left out of our 1909 printing, has the singer fall flat on his back in the snow while a man in a passing sleigh laughs and drives on [^ditson1857][^heartsongs1909]. Its line "The story I must tell" gave Hamill the title of her study [^hamill].
 
 **Verse 4** is advice: while the ground is white and you are young, take the girls out tonight. Get a bobtailed bay (a reddish-brown horse) with a speed of "two forty", hitch him to an open sleigh, and with a crack of the whip you will take the lead. "Two forty" means a mile in two minutes and forty seconds, the pace of a fast trotting horse in those years [^bartlett1877][^hamill].
 
+### The full words
+
+These are the words as Heart Songs prints them in 1909, the page our arrangement reads, with three verses and the chorus we sing [^heartsongs1909]. Pierpont's sheet music of 1857 has one more, given here as verse 3, where it stands there, and its own chorus, given last [^ditson1857].
+
+**Verse 1**
+Dashing thro' the snow,
+In a one-horse open sleigh;
+O'er the fields we go,
+Laughing all the way;
+Bells on bob-tail ring
+Making spirits bright;
+What fun it is to ride and sing
+A sleighing song to-night!
+
+**Chorus**
+Jingle, bells! Jingle, bells!
+Jingle all the way!
+Oh! what fun it is to ride
+In a one-horse open sleigh!
+Jingle, bells! jingle, bells!
+Jingle all the way!
+Oh! what fun it is to ride
+In a one-horse open sleigh!
+
+**Verse 2**
+A day or two ago
+I thought I'd take a ride,
+And soon Miss Fannie Bright
+Was seated by my side.
+The horse was lean and lank;
+Misfortune seem'd his lot;
+He got into a drifted bank,
+And we, we got upsot.
+
+**Verse 3 (1857 only)**
+A day or two ago,
+The story I must tell
+I went out on the snow
+And on my back I fell;
+A gent was riding by
+In a one horse open sleigh,
+He laughed as there I sprawling lie,
+But quickly drove away.
+
+**Verse 4 (verse 3 in 1909)**
+Now the ground is white;
+Go it while you're young;
+Take the girls to-night,
+And sing this sleighing song.
+Just get a bob-tail'd bay,
+Two-forty for his speed;
+Then hitch him to an open sleigh,
+And crack! you'll take the lead.
+
+**The 1857 chorus**
+Jingle bells, Jingle bells,
+Jingle all the way;
+Oh! what joy it is to ride
+In a one horse open sleigh.
+Jingle bells, Jingle bells,
+Jingle all the way
+Oh! what joy it is to ride
+In a one horse open sleigh.
+
 ## How it is sung
 
-In 1857 the verse is for one voice and the chorus for four, from a high part down to a bass, over a busy piano part [^ditson1857]. College students took it up as a song for parties; both the 1876 college book and the 1909 Heart Songs mark the chorus "accompanied by jingling glasses" [^carmina1876][^heartsongs1909]. Heart Songs, built from favourite songs sent in by some twenty thousand people, prints three of the four verses and names no author [^heartsongs1909].
+In 1857 the verse is for one voice and the chorus for four, from a high part down to a bass, over a busy piano part [^ditson1857]. College students took it up as a song for parties; both the 1876 college book and the 1909 Heart Songs mark the chorus "accompanied by jingling glasses" [^carmina1876][^heartsongs1909]. Heart Songs, built from favourite songs sent in by some twenty thousand people, names no author [^heartsongs1909].
 
-Our arrangement reads the verse and chorus from Heart Songs of 1909, set by Stackapella on the harmony of its piano part and moved down a semitone from A-flat to G. We sing the first verse and then the chorus. It is for 2 to 4 singers, bright and quick, with a breath at every line: the tune on top, the alto under it, the tenor in the middle of the chord, and the bass playing the horse and the bells.
+Our arrangement reads the verse and chorus from Heart Songs of 1909, set by Stackapella on the harmony of its piano part and moved down a semitone from A-flat to G. We sing the first verse and then the chorus. It is for 2 to 4 singers, bright and quick, with a breath at every line.
 
 ## Did you know?
 
@@ -84,7 +148,7 @@ Our arrangement reads the verse and chorus from Heart Songs of 1909, set by Stac
 
 ### Was Jingle Bells written for Thanksgiving?
 
-No evidence from the time says so. The story is that it was first sung at Thanksgiving, at a church service or a Sunday school concert; Savannah places it at his brother's church [^historycom][^connectsav]. But the song was sung on a Boston minstrel stage on 15 September 1857 and deposited for copyright the next day, weeks before Thanksgiving [^hamill][^ditson1857].
+No evidence from the time says so. The story sets its first singing at a Thanksgiving church service or Sunday school concert, in Savannah's version at his brother's church [^historycom][^connectsav]. But the song was sung on a Boston minstrel stage on 15 September 1857 and deposited for copyright the next day, weeks before Thanksgiving [^hamill][^ditson1857].
 
 ### Was Jingle Bells a minstrel song?
 
@@ -96,7 +160,7 @@ Yes. Pierpont published the words and music in 1857 and died in 1893 [^ditson185
 
 ### Which part sings the tune?
 
-The soprano sings the tune in our arrangement. With two singers you have the tune and the alto; with three, add the bass; the tenor makes four. The tune runs from the low D up to the E above the octave, and its highest note comes only once, on "sleighing".
+The soprano sings the tune in our arrangement. With two singers you have the tune and the alto; with three, add the bass; the tenor makes four.
 
 ## Sing next
 

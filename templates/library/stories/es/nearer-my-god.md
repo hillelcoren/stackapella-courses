@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: más cerca oh dios de ti historia | quién escribió nearer my god to thee | quién compuso la música de nearer my god to thee | nearer my god to thee significado versículo bíblico | nearer my god to thee titanic | nearer my god to thee historia del himno
-translatedFrom: bf0cee47c0ba
+translatedFrom: 331e8f5ca377
 ---
 
 Nearer, My God, to Thee, que en español se canta como "Más cerca, oh Dios, de ti", es un himno sobre el anhelo de estar cerca de Dios, incluso en la adversidad. Sarah Flower Adams lo escribió para la capilla unitaria de William Johnson Fox en Londres, y su primera impresión conocida es el n.º 85 de Hymns and Anthems, de Fox, de 1841 [^fox1841][^julian][^canterbury]. Sus estrofas siguen el sueño de Jacob en el Génesis, el de una escalera entre la tierra y el cielo [^fox1841][^kjv]. En 1907 el himnólogo John Julian lo encontraba en uso muy amplio en todos los países de habla inglesa, y traducido a muchas lenguas [^julian]. Se cantó en los funerales del presidente McKinley en 1901 [^halstead][^hazelton], y es el himno que más se asocia con el hundimiento del Titanic, aunque los supervivientes no se pusieron de acuerdo sobre si la orquesta lo tocó [^gracie][^marshall1912].
@@ -58,6 +58,90 @@ El himno sigue a Jacob en Génesis 28. De camino a Harán, se detiene a pasar la
 5. Y si al final vuelo hacia lo alto, dejando atrás el sol y la luna, mi canto seguirá siendo "nearer, my God, to thee" (más cerca de ti, Dios mío).
 
 El himno nunca nombra a Cristo; Adams era unitaria, y sus estrofas hablan solo de Dios [^fox1841][^julian]. Algunos editores añadieron estrofas o cambiaron versos para hacerlo más claramente cristiano; un autor metodista de 1906 pensaba que ninguno lo logró [^julian][^telford]. Edward Henry Bickersteth, editor del Hymnal Companion, escribió en una nota que no se atrevía a añadir una estrofa final a un himno que tantos consideraban completo, y luego dio la que él habría propuesto: "There in my Father's home, Safe and at rest" (allí, en la casa de mi Padre, a salvo y en reposo) [^julian][^telford].
+
+### La letra completa
+
+Las cinco estrofas de Adams tal como las imprimió The Sabbath Hymn and Tune Book con BETHANY en 1859, donde unos signos de repetición marcan que el sexto verso de cada estrofa se canta dos veces [^sabbath1859]. Su propio texto de 1841 difiere en algunas palabras, que se indican en Versiones y otras letras [^fox1841]. Las estrofas que añadieron editores posteriores no son suyas y se dejan fuera.
+
+**Estrofa 1**
+> Nearer, my God, to thee,
+Más cerca, Dios mío, de ti,
+> Nearer to thee:
+más cerca de ti:
+> Ev'n though it be a cross
+aunque sea una cruz
+> That raiseth me,
+lo que me eleve,
+> Still all my song shall be,
+todo mi canto seguirá siendo:
+> Nearer, my God, to thee,
+más cerca, Dios mío, de ti,
+> Nearer to thee.
+más cerca de ti.
+
+**Estrofa 2**
+> Though like a wanderer,
+Aunque, como un caminante,
+> Daylight all gone,
+ya sin luz del día,
+> Darkness be over me,
+la oscuridad esté sobre mí
+> My rest a stone,
+y mi descanso sea una piedra,
+> Yet in my dreams, I'd be
+aun en mis sueños querría estar
+> Nearer, my God, to thee,
+más cerca, Dios mío, de ti,
+> Nearer to thee.
+más cerca de ti.
+
+**Estrofa 3**
+> There let the way appear
+Que allí aparezca el camino,
+> Steps up to heaven;
+escalones que suben al cielo;
+> All that thou sendest me
+que todo lo que me envías,
+> In mercy given,
+dado con misericordia,
+> Angels to beckon me
+sean ángeles que me llamen
+> Nearer, my God, to thee,
+más cerca, Dios mío, de ti,
+> Nearer to thee.
+más cerca de ti.
+
+**Estrofa 4**
+> Then with my waking thoughts,
+Luego, con mis pensamientos al despertar,
+> Bright with thy praise,
+radiantes con tu alabanza,
+> Out of my stony griefs,
+de mis penas de piedra
+> Bethel I'll raise;
+levantaré un Betel;
+> So by my woes to be
+para estar así, por mis dolores,
+> Nearer, my God, to thee,
+más cerca, Dios mío, de ti,
+> Nearer to thee.
+más cerca de ti.
+
+**Estrofa 5**
+> Or if on joyful wing,
+O si, con alas alegres,
+> Cleaving the sky,
+surcando el cielo,
+> Sun, moon, and stars forgot,
+olvidados el sol, la luna y las estrellas,
+> Upward I fly,
+vuelo hacia lo alto,
+> Still all my song shall be,
+todo mi canto seguirá siendo:
+> Nearer, my God, to thee,
+más cerca, Dios mío, de ti,
+> Nearer to thee.
+más cerca de ti.
 
 ## Cómo se canta
 

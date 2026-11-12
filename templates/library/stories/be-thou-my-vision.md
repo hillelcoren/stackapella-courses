@@ -58,6 +58,130 @@ The words we sing are Hull's, as she printed them in 1912. Behind them is Byrne'
 
 The poem ends where it began, on "vision": in the Irish, the last line closes on "rob tu mo boile", the words that open the first [^eriu1905].
 
+### The Irish poem
+
+The sixteen Irish stanzas as Mary Byrne printed them in Ériu in 1905 from the Royal Irish Academy manuscript 23 N 10, each line followed by our own plain meaning, which follows her translation and keeps her doubts where she marked a reading uncertain [^eriu1905]. Her italics, which show letters she supplied for the scribe's shortened words, are set as plain letters, and her footnotes are left out. Byrne died in 1931, so her edition is in the public domain.
+
+> Rob tu mo bhoile, a Comdi cride.
+Be my vision, O Lord of my heart.
+> Ní ní nech aile, acht ri secht nime.
+No one else is anything to me but the King of the seven heavens.
+
+> Rob tu mo scrutain i llo 'san-aidche.
+Be my thought by day and by night;
+> Rop tu atcheur im cotlad caidhce.
+may it be you I see always in my sleep.
+
+> Rob tu mo labhradh, rob tu mo tuicsi,
+Be my speech, be my understanding;
+> Rob tusa damsa, rob misi duitsi.
+be with me, and let me be with you.
+
+> Rob tusa m' athair, rob me do mac-sa.
+Be my father, and let me be your son;
+> Rob tusa lemsa, rob misi latsa.
+be mine, and let me be yours.
+
+> Rob tu mo cathsciath, rob tu mo cloidem.
+Be my battle-shield, be my sword;
+> Rob tusa m' ordan, rob tusa m' airer.
+be my dignity, be my delight.
+
+> Rob tu mo didiu rob tu mo daingen.
+Be my shelter, be my stronghold;
+> Rob tu romtogba a n-aontaig aingel.
+raise me up to the company of the angels.
+
+> Rob tu gach maithus dom curp, dom anmain.
+Be every good thing to my body and my soul;
+> Rob tu mo flaithus a nim occus i talmain.
+be my kingdom in heaven and on earth.
+
+> Rob tusa t' oinar sainṡerc mo cridhe.
+Be you alone the first love of my heart;
+> Ni rob nech aile, a airdrig nime.
+let there be no one else, O high King of heaven.
+
+> Co talla orm rondul it lama
+Until I can pass into your hands (Byrne marks the sense as uncertain),
+> Mo cuid, mo cuisle ar med do grada.
+my treasure, my beloved, through the greatness of your love.
+
+> Rob tusa at' aonar m'[ḟ]erann uais ammra
+Be you alone my noble and wonderful estate;
+> Ni cuinngim doine na maine marba.
+I do not seek people, or lifeless wealth.
+
+> Rob tusa dinsir cech selb, cech saoghal;
+Be the constant guardian of every possession and every life (again uncertain);
+> Mar marb ar mbrenadh art fegad t' aonar.
+for our corrupt desires die at the mere sight of you.
+
+> Do serc am anmuin, do grad im craidhe
+Your love in my soul, your love in my heart:
+> Tabuir dam amlaidh, a ri secht nime.
+give me this, O King of the seven heavens.
+
+> A ri secht nime, tabair dam amlaidh
+O King of the seven heavens, give me this:
+> Do gradh im cride, do serc im anmain.
+your love in my heart and in my soul.
+
+> Ac righ na n-uile ris iar mbuaid leire
+With the King of all, with Him (Byrne marks this as uncertain), after the victory won by devotion,
+> Robeo i flaith nime, a gile grene.
+may I be in the kingdom of heaven, O brightness of the sun.
+
+> Athair inmain, cluin, cluin mo nuallsa.
+Beloved Father, hear, hear my lament;
+> Mithig monuarán lasin truagan truaghsa.
+it is time for the cry of woe of this poor wretch.
+
+> A cride mo cridhe, cipead dommaire,
+Heart of my heart, whatever happens to me,
+> A flaith na n-uile, rob tu mo boile.
+O ruler of all, be my vision.
+
+### The full words
+
+Eleanor Hull's twelve couplets as she printed them in The Poem-Book of the Gael in 1912, pages 119 and 120, the text our song is checked against [^hull1912]. Hymnals print fewer and change words: the 1927 Church Hymnary has five four-line verses, without the two "King of the seven heavens" couplets [^rch1927]. Hull died in 1935, so her verse is in the public domain.
+
+Be Thou my Vision, O Lord of my heart,
+Naught is all else to me, save that Thou art.
+
+Thou my best thought by day and by night,
+Waking or sleeping, Thy presence my light.
+
+Be Thou my Wisdom, Thou my true Word;
+I ever with Thee, Thou with me, Lord.
+
+Thou my great Father, I thy dear son;
+Thou in me dwelling, I with Thee one.
+
+Be Thou my battle-shield, sword for the fight,
+Be Thou my dignity, Thou my delight.
+
+Thou my soul's shelter, Thou my high tower;
+Raise Thou me heavenward, Power of my power.
+
+Riches I heed not or man's empty praise,
+Thou mine inheritance now and always.
+
+Thou, and Thou only, first in my heart,
+High King of Heaven, my treasure Thou art.
+
+King of the seven heavens, grant me for dole,
+Thy love in my heart, Thy light in my soul.
+
+Thy light from my soul, Thy love from my heart,
+King of the seven heavens, may they never depart.
+
+With the High King of heaven, after victory won,
+May I reach heaven's joys, O Bright heaven's Sun!
+
+Heart of my own heart, whatever befall,
+Still be my Vision, O Ruler of all.
+
 ## How it is sung
 
 It is a hymn of devotion and trust, printed in the hymnals of many churches and not tied to one season [^hymnary-text][^hymnary-slane]. Its tune is SLANE, and its meter is 10.10.10.10: four lines of ten syllables [^rch1927][^hymnary-slane]. The Church of Ireland sang it from 1919, and the Presbyterian churches of Britain and Ireland from 1927 [^hymnary-ich3][^rch1927].

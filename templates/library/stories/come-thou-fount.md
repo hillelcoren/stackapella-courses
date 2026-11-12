@@ -57,6 +57,50 @@ Madan's 1760 printing put Bible references under the lines [^madan1760].
 
 The 1759 text had a fourth stanza looking ahead to the day the singer is free from sin; Madan dropped it, and most hymnals leave it out [^julian][^hymnarchive].
 
+### The full words
+
+Verses 1 to 3 as The Methodist Hymnal printed them in 1905, with the dashes in the first verse's seventh line written as commas [^methodist1905]. They carry Madan's changes of 1760 and the mid-1800s "Mount of thy redeeming love" [^madan1760][^hymnarchive]. Robinson's fourth stanza is as the 1759 Angel-Alley collection printed it, read from its page in the Hymnology Archive, the long s set as s [^hymnarchive]. Some modern hymnals reword the Ebenezer line too [^hymnarchive].
+
+**Verse 1**
+Come, thou Fount of every blessing,
+Tune my heart to sing thy grace;
+Streams of mercy, never ceasing,
+Call for songs of loudest praise.
+Teach me some melodious sonnet,
+Sung by flaming tongues above;
+Praise the mount, I'm fixed upon it,
+Mount of thy redeeming love.
+
+**Verse 2**
+Here I raise mine Ebenezer;
+Hither by thy help I'm come;
+And I hope, by thy good pleasure,
+Safely to arrive at home.
+Jesus sought me when a stranger,
+Wandering from the fold of God;
+He, to rescue me from danger,
+Interposed his precious blood.
+
+**Verse 3**
+O to grace how great a debtor
+Daily I'm constrained to be!
+Let thy goodness, like a fetter,
+Bind my wandering heart to thee:
+Prone to wander, Lord, I feel it,
+Prone to leave the God I love;
+Here's my heart, O take and seal it;
+Seal it for thy courts above.
+
+**Verse 4, from 1759**
+O that Day when freed from Sinning,
+I shall see thy lovely Face;
+Cloathed then in blood-wash'd Linnen,
+How I'll sing thy sov'reign Grace:
+Come, my Lord, no longer tarry,
+Take my ransom'd Soul away;
+Send thine Angels now to carry
+Me to Realms of endless Day.
+
 ## How it is sung
 
 It is a congregational hymn, in the hymnals of many churches [^hymnary-text][^hymnary-nettleton]. Its meter is 8.7.8.7 D: eight lines of eight and seven syllables in turn [^hymnary-nettleton][^temple1851]. NETTLETON is in three, and its shape is AABA: the first two lines' tune comes back for lines 3 and 4, new music lifts lines 5 and 6, and the opening returns to close [^psh][^methodist1905].

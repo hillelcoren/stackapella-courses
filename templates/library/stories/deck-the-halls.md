@@ -57,6 +57,70 @@ Oliphant wrote three verses: one for decorating and drinking, one for the bowl a
 
 **The "fa la la".** It means nothing; it is a refrain for everyone to sing. The Welsh printings of 1784 and 1794 already have "fal lal" in the chorus bars, and 1794 adds "dadlea" [^jones1784][^jones1794].
 
+### The full words
+
+These are the three verses as the Golden Book prints them on page 66, the page our arrangement reads: the American revision of 1877, changed a little again, by writers not named [^golden1923][^psj1877]. After them come Oliphant's own three verses as first printed, under the music of John Thomas's Welsh Melodies in 1862 [^thomas1862].
+
+**Verse 1**
+Deck the halls with boughs of holly,
+Fa la la la la, la la la la.
+'Tis the season to be jolly,
+Fa la la la la, la la la la.
+Don we now our gay apparel,
+Fa la la la la la la,
+Troll the ancient Yule-tide carol,
+Fa la la la la, la la la la.
+
+**Verse 2**
+See the blazing Yule before us,
+Fa la la la la, la la la la.
+Strike the harp and join the chorus,
+Fa la la la la, la la la la.
+Follow me in merry measure,
+Fa la la la la la la,
+While I tell of Yule-tide treasure
+Fa la la la la, la la la la.
+
+**Verse 3**
+Fast away the old year passes
+Fa la la la la, la la la la.
+Hail the new, ye lads and lasses,
+Fa la la la la, la la la la.
+Sing we joyous all together,
+Fa la la la la la la,
+Heedless of the wind and weather,
+Fa la la la la, la la la la.
+
+**Oliphant's verse 1 (1862)**
+Deck the hall with boughs of holly,
+Fa, la, la, la, la, la, la, la, la!
+'Tis the season to be jolly:
+Fa, la, la, la, la, la, la, la, la!
+Fill the mead-cup, drain the barrel,
+Fa, la, la, la, la, la, la, la!
+Troul the ancient Christmas carol.
+Fa, la, la, la, la, la, la, la, la!
+
+**Oliphant's verse 2 (1862)**
+See the flowing bowl before us,
+Fa, la, la, la, la, la, la, la, la!
+Strike the harp, and join in chorus:
+Fa, la, la, la, la, la, la, la, la!
+Follow me in merry measure,
+Fa, la, la, la, la, la, la, la!
+While I sing of beauty's treasure.
+Fa, la, la, la, la, la, la, la, la!
+
+**Oliphant's verse 3 (1862)**
+Fast away the old year passes,
+Fa, la, la, la, la, la, la, la, la!
+Hail the new, ye lads and lasses:
+Fa, la, la, la, la, la, la, la, la!
+Laughing, quaffing all together,
+Fa, la, la, la, la, la, la, la!
+Heedless of the wind and weather.
+Fa, la, la, la, la, la, la, la, la!
+
 ## How it is sung
 
 It is sung at Christmas, and its last verse belongs to New Year's Eve, the night its Welsh name means [^hullah1866][^jones1794]. In Jones's Wales it was a harp air for verses: a singer came in over the harp, and the chorus bars answered [^jones1784]. Hullah's 1866 page says "Repeat in Chorus" [^hullah1866].

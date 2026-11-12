@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: abide with me historia | quién escribió abide with me y por qué | quién compuso la música de abide with me | abide with me final de la fa cup | señor jesús la luz del sol se fue himno | abide with me significado versículo bíblico
-translatedFrom: 01ab356db955
+translatedFrom: 979315a89097
 ---
 
 Abide with Me, que en español se canta como "Señor Jesús, la luz del sol se fue" (o "Señor Jesús, el día ya se fue"), es una oración que pide la compañía de Dios cuando la vida se acaba. Henry Francis Lyte escribió este himno en 1847, el último año de su vida, cuando era cura de Lower Brixham, un pueblo de pescadores de Devon [^remains1850][^canterbury]. Suele cantarse con EVENTIDE, la melodía que William Henry Monk escribió para la primera edición con música de Hymns Ancient and Modern, en 1861 [^ham1861][^hymnary-eventide]. Desde hace mucho se canta en los funerales [^canterbury][^julian]. Además, las multitudes lo cantan antes de la final de la FA Cup en Inglaterra desde 1927 [^richards][^pdr].
@@ -60,10 +60,94 @@ Lyte puso al frente del himno Lucas 24:29: "Quédate con nosotros, que ya cae la
 4. No como un temible Rey de reyes, sino amable, "with healing in Thy wings" (con salud en tus alas), una expresión de Malaquías, y como el "Friend of sinners" (amigo de pecadores), un nombre que se da a Jesús en Mateo [^kjv]. "Bide" significa quedarse.
 5. Dios sonrió a mi juventud y nunca me dejó, aunque yo lo dejé a menudo.
 6. Solo la gracia puede vencer al "Tempter" (el tentador), el diablo; quédate entre nubes y sol.
-7. Con Dios cerca, ningún enemigo da miedo. "Where is death's sting? where, grave, thy victory?" (¿dónde está el aguijón de la muerte? ¿dónde, sepulcro, tu victoria?) es de san Pablo, en 1 Corintios 15 [^kjv].
+7. Con Dios cerca, ningún enemigo da miedo. "Where is death's sting, where, grave, thy victory?" (¿dónde está el aguijón de la muerte? ¿dónde, sepulcro, tu victoria?) es de san Pablo, en 1 Corintios 15 [^kjv].
 8. Sostén la cruz ante mis ojos que se cierran: amanece la mañana del cielo, y las sombras de la tierra huyen.
 
 Hymns Ancient and Modern dejó fuera las estrofas 3, 4 y 5, y la mayoría de los himnarios todavía lo hacen [^ham1861][^julian]. Nosotros cantamos la estrofa 1.
+
+### La letra completa
+
+Las ocho estrofas de Lyte. Las estrofas 1, 2 y 6 a 8 son como las imprimió Hymns Ancient and Modern en 1861, sin las marcas de acento que añade para cantarlas como salmodia [^ham1861]. Las estrofas 3, 4 y 5, que dejó fuera, son como las imprimieron los Remains de Lyte en 1850 [^remains1850].
+
+**Estrofa 1**
+> Abide with me; fast falls the even-tide;
+Quédate conmigo; el anochecer cae deprisa;
+> The darkness deepens; Lord, with me abide;
+la oscuridad se hace más honda; Señor, quédate conmigo;
+> When other helpers fail, and comforts flee,
+cuando otras ayudas fallan y los consuelos huyen,
+> Help of the helpless, O abide with me.
+ayuda de los que no tienen ayuda, oh, quédate conmigo.
+
+**Estrofa 2**
+> Swift to its close ebbs out life's little day;
+Deprisa hacia su final se retira, como la marea, el pequeño día de la vida;
+> Earth's joys grow dim, its glories pass away;
+las alegrías de la tierra se apagan, sus glorias pasan;
+> Change and decay in all around I see;
+veo cambio y decadencia en todo lo que me rodea;
+> O Thou Who changest not, abide with me.
+oh, tú que no cambias, quédate conmigo.
+
+**Estrofa 3**
+> Not a brief glance I beg, a passing word,
+No pido una mirada breve, una palabra de paso,
+> But as Thou dwell'st with Thy disciples, Lord,
+sino que, como habitas con tus discípulos, Señor,
+> Familiar, condescending, patient, free,
+cercano, bajando con bondad hasta nosotros, paciente, generoso,
+> Come, not to sojourn, but abide, with me!
+¡ven, no de paso, sino a quedarte conmigo!
+
+**Estrofa 4**
+> Come not in terrors, as the King of kings;
+No vengas entre terrores, como el Rey de reyes,
+> But kind and good, with healing in Thy wings:
+sino amable y bueno, con salud en tus alas:
+> Tears for all woes, a heart for every plea.
+lágrimas para todas las penas, un corazón para cada súplica.
+> Come, Friend of sinners, and thus bide with me!
+¡Ven, amigo de pecadores, y quédate así conmigo!
+
+**Estrofa 5**
+> Thou on my head in early youth didst smile,
+Tú sonreíste sobre mi cabeza en mi primera juventud,
+> And, though rebellious and perverse meanwhile,
+y, aunque entretanto fui rebelde y obstinado,
+> Thou hast not left me, oft as I left Thee.
+no me has dejado, por más que yo te dejé a menudo.
+> On to the close, O Lord, abide with me!
+¡Hasta el final, oh Señor, quédate conmigo!
+
+**Estrofa 6**
+> I need Thy presence every passing hour;
+Necesito tu presencia a cada hora que pasa;
+> What but Thy grace can foil the tempter's power?
+¿qué sino tu gracia puede frustrar el poder del tentador?
+> Who like Thyself my guide and stay can be?
+¿Quién como tú puede ser mi guía y mi sostén?
+> Through cloud and sunshine, Lord, abide with me.
+Entre nubes y sol, Señor, quédate conmigo.
+
+**Estrofa 7**
+> I fear no foe with Thee at hand to bless;
+No temo a ningún enemigo si estás cerca para bendecirme;
+> Ills have no weight, and tears no bitterness;
+los males no pesan, y las lágrimas no son amargas;
+> Where is death's sting, where, grave, thy victory?
+¿dónde está el aguijón de la muerte? ¿dónde, sepulcro, tu victoria?
+> I triumph still, if Thou abide with me.
+Sigo venciendo, si tú te quedas conmigo.
+
+**Estrofa 8**
+> Hold Thou Thy Cross before my closing eyes;
+Sostén tu cruz ante mis ojos que se cierran;
+> Shine through the gloom, and point me to the skies;
+brilla en la oscuridad y señálame el cielo;
+> Heaven's morning breaks, and earth's vain shadows flee,
+amanece la mañana del cielo, y las vanas sombras de la tierra huyen;
+> In life, in death, O Lord, abide with me.
+en la vida, en la muerte, oh Señor, quédate conmigo.
 
 ## Cómo se canta
 

@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: joy to the world historia | quién escribió joy to the world | joy to the world es un villancico | joy to the world significado | al mundo paz himno historia | joy to the world händel
-translatedFrom: b8b2d94871fa
+translatedFrom: 4ae72c64e1a6
 ---
 
 Joy to the World, que en español se canta como Al mundo paz, es el himno de Navidad cuya melodía baja la escala de un tirón en su primer verso. Su letra es de Isaac Watts, impresa en Londres en 1719 como su versión de la segunda mitad del Salmo 98 [^watts1719][^canterbury]. Watts no lo tituló como himno de Navidad: lo llamó "The Messiah's Coming and Kingdom" (La venida y el reino del Mesías) [^watts1719][^hymnarchive]. Su melodía, ANTIOCH, la publicó en Boston en 1836 Lowell Mason, con la indicación "Arranged from Handel" (arreglada a partir de Händel) [^mason1836][^hymnarchive]. Una forma anterior ya estaba impresa en Inglaterra en 1833 [^hymnarchive][^cyber], con el nombre de COMFORT [^hymnarchive]. En 1907 el himnólogo John Julian encontraba la letra de Watts en uso en la mayoría de los países de habla inglesa [^hymnary-text].
@@ -56,6 +56,50 @@ Watts escribió cuatro estrofas [^watts1719][^hymnary-text]. Cantamos la primera
 **Estrofa 3.** Esta estrofa no está en el salmo. Sus espinas y su "curse", su maldición, vienen del Génesis, donde la tierra queda maldita tras la desobediencia de Adán y produce espinos y cardos [^kjv][^hymnary-text]. La estrofa dice que Cristo viene a hacer que sus bendiciones lleguen "far as the curse is found": hasta donde llegue la maldición, a todas partes. El Psalter Hymnal Handbook señala que algunos himnarios omiten esta estrofa [^hymnary-text].
 
 **Estrofa 4.** El salmo termina con el Señor juzgando al mundo con justicia [^kjv]. Watts lo convierte en un reinado: él "rules the world with truth and grace", gobierna el mundo con verdad y gracia, y hace que las naciones "prove", en el sentido antiguo de comprobar por sí mismas, las glorias de su justicia y las maravillas de su amor [^watts1719].
+
+### La letra completa
+
+La National Psalmist de Mason solo imprime la primera estrofa bajo la música [^mason1848], así que aquí van las cuatro estrofas de Watts tal como las imprimió en The Psalms of David Imitated en 1719, página 253, con la s larga escrita como s [^watts1719]. Cantada con ANTIOCH, se repite el último verso de cada estrofa, y algunos himnarios omiten la tercera estrofa [^mason1848][^hymnary-text]. Watts murió en 1748, así que todas las estrofas son de dominio público.
+
+**Estrofa 1**
+> Joy to the World; the Lord is come;
+Alegría al mundo: el Señor ha venido;
+> Let Earth receive her King:
+que la tierra reciba a su Rey;
+> Let every Heart prepare him Room,
+que cada corazón le prepare sitio,
+> And Heaven and Nature sing.
+y que canten el cielo y la naturaleza.
+
+**Estrofa 2**
+> Joy to the Earth, The Saviour reigns;
+Alegría a la tierra: el Salvador reina;
+> Let Men their Songs employ;
+que la gente alce sus cantos,
+> While Fields & Floods, Rocks, Hills & Plains
+mientras campos y ríos, rocas, colinas y llanuras
+> Repeat the sounding Joy.
+repiten como un eco la alegría que resuena.
+
+**Estrofa 3**
+> No more let Sins and Sorrows grow,
+Que no crezcan más los pecados ni las penas,
+> Nor Thorns infest the Ground:
+ni los espinos invadan la tierra:
+> He comes to make his Blessings flow
+él viene a hacer que corran sus bendiciones
+> Far as the Curse is found.
+hasta donde llegue la maldición.
+
+**Estrofa 4**
+> He rules the World with Truth and Grace,
+Él gobierna el mundo con verdad y gracia,
+> And makes the Nations prove
+y hace que las naciones comprueben
+> The Glories of his Righteousness,
+las glorias de su justicia
+> And Wonders of his Love.
+y las maravillas de su amor.
 
 ## Cómo se canta
 

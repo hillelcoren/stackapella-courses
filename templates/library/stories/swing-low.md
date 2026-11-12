@@ -52,6 +52,40 @@ Swing Low, Sweet Chariot is a spiritual, one of the religious songs made by ensl
 
 **The other verses.** Jubilee Songs prints three more verses: "If you get there before I do", a message to friends to say the singer is coming too; "the brightest day", the day the singer's sins were washed away; and being sometimes up and sometimes down but still bound for heaven [^seward1872]. The 1872 book spells the refrain's word "Coming", as we sing it [^seward1872].
 
+### The full words
+
+Jubilee Songs prints the refrain and four verses on page 6: verses 1 and 2 under the music, verses 3 and 4 in full below it, and the refrain is sung again after each verse [^seward1872]. The spelling is the book's.
+
+**Refrain**
+Swing low, sweet chariot,
+Coming for to carry me home,
+Swing low, sweet chariot,
+Coming for to carry me home.
+
+**Verse 1**
+I looked over Jordan, and what did I see,
+Coming for to carry me home?
+A band of angels coming after me,
+Coming for to carry me home.
+
+**Verse 2**
+If you get there before I do,
+Coming for to carry me home,
+Tell all my friends I'm coming too,
+Coming for to carry me home.
+
+**Verse 3**
+The brightest day that ever I saw,
+Coming for to carry me home,
+When Jesus washed my sins away,
+Coming for to carry me home.
+
+**Verse 4**
+I'm sometimes up and sometimes down,
+Coming for to carry me home,
+But still my soul feels heavenly bound,
+Coming for to carry me home.
+
 ## How it is sung
 
 It began as a folk spiritual, sung by enslaved people among themselves [^carnegie]. The Fisk singers took such songs to the concert stage in arranged harmony, the start of the concert spiritual, and singers from Hampton Institute and other Black colleges followed [^carnegie][^psh]. The Psalter Hymnal Handbook describes its tune, SWING LOW, as pentatonic and built as call and response: a soloist or a few voices sing the calls and everyone answers in harmony. It suggests singing it unaccompanied and slowly [^psh].

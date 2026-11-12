@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: swing low sweet chariot significado | swing low sweet chariot significado esclavitud | swing low sweet chariot ferrocarril subterráneo | quién escribió swing low sweet chariot | swing low sweet chariot historia | swing low sweet chariot rugby inglaterra
-translatedFrom: 6758dca57bed
+translatedFrom: f0588de1ed26
 ---
 
 Swing Low, Sweet Chariot es un espiritual (en inglés, spiritual), uno de los cantos religiosos que crearon los afroamericanos esclavizados. Su estribillo pide a un carro que baje y se lleve a quien canta a casa, una imagen tomada de la historia bíblica del profeta Elías [^kjv][^psh]. Estudiantes de la Universidad Fisk de Nashville la cantaron en las giras de conciertos que empezaron en octubre de 1871, y se imprimió en su libro, Jubilee Songs, en 1872 [^seward1872][^balladindex][^marsh][^okhist]. Una tradición la atribuye a Wallace Willis, un hombre esclavizado en la Nación Choctaw, en lo que hoy es Oklahoma [^okhist][^oksenate]. Los himnarios aún la imprimen, y las aficiones de rugby inglesas la cantan desde los años ochenta [^hymnary-text][^psh][^rte][^espn].
@@ -52,6 +52,60 @@ Swing Low, Sweet Chariot es un espiritual (en inglés, spiritual), uno de los ca
 **La estrofa 1, la que cantamos.** "I looked over Jordan, and what did I see": miré al otro lado del río. El Jordán es el río que los israelitas cruzaron a pie enjuto hacia la tierra prometida, y el río que Elías y Eliseo cruzaron, también a pie enjuto, justo antes de que apareciera el carro [^kjv][^psh]. Al otro lado del río, quien canta ve "a band of angels coming after me": un grupo de ángeles que viene a buscarme.
 
 **Las otras estrofas.** Jubilee Songs imprime tres estrofas más: "If you get there before I do", un mensaje a los amigos para que digan que quien canta también va en camino; "the brightest day", el día en que se lavaron sus pecados; y estar unas veces arriba y otras abajo, pero siempre camino del cielo [^seward1872]. El libro de 1872 escribe "Coming" en el estribillo, como lo cantamos [^seward1872].
+
+### La letra completa
+
+Jubilee Songs imprime en la página 6 el estribillo y cuatro estrofas: la 1 y la 2 bajo la música, la 3 y la 4 completas debajo, y el estribillo se vuelve a cantar después de cada estrofa [^seward1872]. Las líneas en inglés siguen la ortografía del libro.
+
+**Estribillo**
+> Swing low, sweet chariot,
+Baja, dulce carro,
+> Coming for to carry me home,
+viniendo para llevarme a casa,
+> Swing low, sweet chariot,
+baja, dulce carro,
+> Coming for to carry me home.
+viniendo para llevarme a casa.
+
+**Estrofa 1**
+> I looked over Jordan, and what did I see,
+Miré al otro lado del Jordán, ¿y qué vi,
+> Coming for to carry me home?
+viniendo para llevarme a casa?
+> A band of angels coming after me,
+Un grupo de ángeles que venía a buscarme,
+> Coming for to carry me home.
+viniendo para llevarme a casa.
+
+**Estrofa 2**
+> If you get there before I do,
+Si llegas allí antes que yo,
+> Coming for to carry me home,
+viniendo para llevarme a casa,
+> Tell all my friends I'm coming too,
+di a todos mis amigos que yo también voy,
+> Coming for to carry me home.
+viniendo para llevarme a casa.
+
+**Estrofa 3**
+> The brightest day that ever I saw,
+El día más luminoso que jamás vi,
+> Coming for to carry me home,
+viniendo para llevarme a casa,
+> When Jesus washed my sins away,
+cuando Jesús lavó mis pecados,
+> Coming for to carry me home.
+viniendo para llevarme a casa.
+
+**Estrofa 4**
+> I'm sometimes up and sometimes down,
+Unas veces estoy arriba y otras abajo,
+> Coming for to carry me home,
+viniendo para llevarme a casa,
+> But still my soul feels heavenly bound,
+pero mi alma aún se siente camino del cielo,
+> Coming for to carry me home.
+viniendo para llevarme a casa.
 
 ## Cómo se canta
 

@@ -56,6 +56,34 @@ Watts wrote four verses [^watts1719][^hymnary-text]. We sing the first, in the w
 
 **Verse 4.** The psalm ends with the Lord judging the world with righteousness [^kjv]. Watts makes it a reign: he "rules the world with truth and grace" and makes the nations "prove", in the old sense of find out for themselves, the glories of his righteousness and the wonders of his love [^watts1719].
 
+### The full words
+
+Mason's National Psalmist prints only the first verse under the music [^mason1848], so here are Watts's four verses as he printed them in The Psalms of David Imitated in 1719, page 253, with the long s set as s [^watts1719]. Sung to ANTIOCH, each verse's last line is repeated, and some hymnals leave out the third verse [^mason1848][^hymnary-text]. Watts died in 1748, so every verse is in the public domain.
+
+**Verse 1**
+Joy to the World; the Lord is come;
+Let Earth receive her King:
+Let every Heart prepare him Room,
+And Heaven and Nature sing.
+
+**Verse 2**
+Joy to the Earth, The Saviour reigns;
+Let Men their Songs employ;
+While Fields & Floods, Rocks, Hills & Plains
+Repeat the sounding Joy.
+
+**Verse 3**
+No more let Sins and Sorrows grow,
+Nor Thorns infest the Ground:
+He comes to make his Blessings flow
+Far as the Curse is found.
+
+**Verse 4**
+He rules the World with Truth and Grace,
+And makes the Nations prove
+The Glories of his Righteousness,
+And Wonders of his Love.
+
 ## How it is sung
 
 It is a hymn for Christmas Day above all. The Psalter Hymnal Handbook adds that it suits any time of year when Psalm 98 is read [^hymnary-text]. Hymnology Archive calls the pairing of Watts's words with ANTIOCH a staple of Christmas, especially in the United States [^hymnarchive]. In hymnals the tune is ANTIOCH, in common meter (8.6.8.6) with the last line repeated [^mason1848][^hymnary-text]. An Irish hymnal companion of 2005, quoted by Hymnology Archive, noted that hymnals were only lately taking up the hymn, and that only in the last few years had it been sung in the British Isles with anything like American enthusiasm [^hymnarchive].

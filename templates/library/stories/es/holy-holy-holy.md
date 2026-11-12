@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: santo santo santo himno historia | quién escribió santo santo santo señor omnipotente | quién escribió holy holy holy | quién compuso la música de holy holy holy | holy holy holy himno significado | el que era el que es y el que ha de venir significado
-translatedFrom: 7caa716f99b6
+translatedFrom: 9bcbab83cfdb
 ---
 
 Holy, Holy, Holy, que en español se canta como "Santo, santo, santo", es un himno a Dios como Trinidad: un solo Dios, Padre, Hijo y Espíritu Santo. Reginald Heber lo escribió para el domingo de la Trinidad cuando era párroco rural en Hodnet, en Shropshire [^heber1827][^hymnarchive]. Su letra es el canto que resuena alrededor del trono de Dios en el libro del Apocalipsis, contado de nuevo en verso [^julian1892][^canterbury]. Su primera impresión conocida, según la registra el Dictionary of Hymnology de Julian, es de 1826, el año en que Heber murió en la India; no se conoce ningún ejemplar [^julian1907][^hymnarchive]. Su melodía, NICAEA, es de John Bacchus Dykes, que la escribió para la primera edición de Hymns Ancient and Modern, en 1861 [^ham1861][^hymnary-nicaea]. Ya en 1892 ese diccionario lo llamaba el más conocido de los himnos de Heber [^julian1892], y hoy Hymnary.org registra la melodía en bastante más de mil himnarios [^hymnary-nicaea].
@@ -59,6 +59,50 @@ El himno se inspira en dos visiones bíblicas del trono de Dios [^hymnary-text][
 4. Vuelve el verso 1, pero ahora se une toda la creación, "in earth, and sky, and sea" (en la tierra, el cielo y el mar), como todas las criaturas de Apocalipsis 5:13 [^kjv].
 
 Nosotros cantamos la estrofa 1.
+
+### La letra completa
+
+Las cuatro estrofas de Heber tal como las imprimió Hymns Ancient and Modern en 1861, himno 135, la página de la que se lee nuestro arreglo, con sus versalitas escritas como letras normales y sin el "Amen" final [^ham1861]. Son las cuatro estrofas del propio libro de Heber de 1827, que solo se diferencia en pequeños detalles de ortografía y puntuación [^heber1827][^ham1861]. Heber murió en 1826, así que todas las estrofas son de dominio público.
+
+**Estrofa 1**
+> Holy, Holy, Holy! Lord God Almighty!
+¡Santo, santo, santo! Señor Dios todopoderoso.
+> Early in the morning our song shall rise to Thee:
+De madrugada nuestro canto subirá hasta ti:
+> Holy, Holy, Holy! merciful and mighty;
+¡santo, santo, santo! Misericordioso y poderoso,
+> God in Three Persons, Blessèd Trinity!
+Dios en tres Personas, bendita Trinidad.
+
+**Estrofa 2**
+> Holy, Holy, Holy! all the saints adore Thee,
+¡Santo, santo, santo! Todos los santos te adoran
+> Casting down their golden crowns around the glassy sea,
+y arrojan sus coronas de oro alrededor del mar de vidrio;
+> Cherubim and Seraphim falling down before Thee,
+querubines y serafines se postran ante ti,
+> Which wert, and art, and evermore shalt be.
+que eras, y eres, y siempre serás.
+
+**Estrofa 3**
+> Holy, Holy, Holy! though the darkness hide Thee,
+¡Santo, santo, santo! Aunque la oscuridad te oculte,
+> Though the eye of sinful man Thy glory may not see,
+aunque el ojo del hombre pecador no pueda ver tu gloria,
+> Only Thou art Holy: There is none beside Thee
+solo tú eres santo: no hay otro fuera de ti
+> Perfect in power, in love, and purity.
+perfecto en poder, en amor y en pureza.
+
+**Estrofa 4**
+> Holy, Holy, Holy! Lord God Almighty!
+¡Santo, santo, santo! Señor Dios todopoderoso.
+> All Thy works shall praise Thy Name, in earth, and sky, and sea:
+Todas tus obras alabarán tu nombre en la tierra, el cielo y el mar:
+> Holy, Holy, Holy! merciful and mighty;
+¡santo, santo, santo! Misericordioso y poderoso,
+> God in Three Persons, Blessèd Trinity!
+Dios en tres Personas, bendita Trinidad.
 
 ## Cómo se canta
 

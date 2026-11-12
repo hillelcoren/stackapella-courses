@@ -54,6 +54,162 @@ The story is in the Book of Exodus. The Israelites are enslaved in Egypt, made t
 
 For the people who made it, the story was not only about the past. Frederick Douglass wrote in 1855 that when he and his friends sang of Canaan while planning to escape, they meant more than heaven: "the north was our Canaan" [^douglass1855]. The printed verses say so too: the 1861 sheet music has "O let us all from bondage flee", and the 1872 book has "We need not always weep and moan, And wear these slavery chains forlorn" [^contrabands1861][^jubilee1872].
 
+### The full words
+
+These are all 24 verses as *Jubilee Songs* (1872) prints them on pages 22 and 23, with spelling as printed and the refrain set out in full after verse 1 [^jubilee1872]. The book writes "Go down, Moses, etc." after verses 2 to 4 only, and spells the king "Pharoh" in the refrain but "Pharaoh" in verse 11.
+
+**Verse 1**
+When Israel was in Egypt's land:
+Let my people go,
+Oppressed so hard they could not stand,
+Let my people go.
+
+**Refrain**
+Go down, Moses, way down in Egypt land,
+Tell ole Pharoh,
+Let my people go.
+
+**Verse 2**
+Thus saith the Lord, bold Moses said,
+Let my people go;
+If not I'll smite your first-born dead,
+Let my people go.
+Go down, Moses, etc.
+
+**Verse 3**
+No more shall they in bondage toil.
+Let my people go;
+Let them come out with Egypt's spoil,
+Let my people go.
+Go down, Moses, etc.
+
+**Verse 4**
+When Israel out of Egypt came,
+Let my people go;
+And left the proud oppressive land,
+Let my people go.
+Go down, Moses, etc.
+
+**Verse 5**
+O, 'twas a dark and dismal night,
+Let my people go;
+When Moses led the Israelites,
+Let my people go.
+
+**Verse 6**
+'Twas good old Moses and Aaron, too,
+Let my people go;
+'Twas they that led the armies through,
+Let my people go.
+
+**Verse 7**
+The Lord told Moses what to do,
+Let my people go:
+To lead the children of Israel through,
+Let my people go.
+
+**Verse 8**
+O come along Moses, you'll not get lost,
+Let my people go;
+Stretch out your rod and come across,
+Let my people go.
+
+**Verse 9**
+As Israel stood by the water side,
+Let my people go;
+At the command of God it did divide,
+Let my people go.
+
+**Verse 10**
+When they had reached the other shore,
+Let my people go;
+They sang a song of triumph o'er,
+Let my people go.
+
+**Verse 11**
+Pharaoh said he would go across.
+Let my people go;
+But Pharaoh and his host were lost,
+Let my people go.
+
+**Verse 12**
+O Moses the cloud shall cleave the way,
+Let my people go;
+A fire by night, a shade by day,
+Let my people go.
+
+**Verse 13**
+You'll not get lost in the wilderness,
+Let my people go:
+With a lighted candle in your breast,
+Let my people go.
+
+**Verse 14**
+Jordan shall stand up like a wall,
+Let my people go;
+And the walls of Jericho shall fall
+Let my people go.
+
+**Verse 15**
+Your foes shall not before you stand,
+Let my people go;
+And you'll possess fair Canaan's land,
+Let my people go.
+
+**Verse 16**
+'Twas just about in harvest time,
+Let my people go;
+When Joshua led his host divine,
+Let my people go.
+
+**Verse 17**
+O let us all from bondage flee,
+Let my people go;
+And let us all in Christ be free,
+Let my people go
+
+**Verse 18**
+We need not always weep and moan,
+Let my people go:
+And wear these slavery chains forlorn,
+Let my people go.
+
+**Verse 19**
+This world's a wilderness of woe,
+Let my people go;
+O, let us on to Canaan go,
+Let my people go.
+
+**Verse 20**
+What a beautiful morning that will be.
+Let my people go:
+When time breaks up in eternity,
+Let my people go.
+
+**Verse 21**
+The Devil he thought he had me fast,
+Let my people go;
+But I thought I'd break his chains at last,
+Let my people go.
+
+**Verse 22**
+O take yer shoes from off yer feet,
+Let my people go;
+And walk into the golden street,
+Let my people go.
+
+**Verse 23**
+I'll tell you what I likes de best,
+Let my people go;
+It is the shouting Methodist,
+Let my people go.
+
+**Verse 24**
+I do believe without a doubt,
+Let my people go;
+That a Christian has the right to shout,
+Let my people go.
+
 ## How it is sung
 
 A folk spiritual was sung by ear, in worship, by the people who made it; a concert spiritual is arranged for trained singers on a stage. Go Down, Moses has been both. The 1872 printing keeps its folk shape, a leader's line and everyone's answer: each verse's call is the tune alone, and only "Let my people go" is written for four voices [^jubilee1872]. The 1861 sheet music instead gives the verses to one voice with piano and sets the whole chorus in four parts [^contrabands1861]. The Fisk singers carried it into concert halls, and their book's introduction says plainly that their schooling had changed how they sang [^jubilee1872]. Burleigh's 1917 setting made it an art song for one voice and piano [^burleigh1917][^imslp-burleigh].

@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: quién escribió michael row the boat ashore | michael row the boat ashore significado | michael row the boat ashore significado aleluya | michael row the boat ashore en la biblia | michael row the boat ashore historia | michael row the boat ashore letra en español
-translatedFrom: db04b7d15d5a
+translatedFrom: d5d01858a7c4
 ---
 
 Michael, Row the Boat Ashore es un espiritual (en inglés, spiritual), una canción creada por afroamericanos esclavizados. Su tierra son las Sea Islands (islas del Mar) de Carolina del Sur, donde los remeros negros la cantaban mientras remaban. Durante la guerra civil estadounidense, Charles Pickard Ware la anotó en las islas de Port Royal, probablemente en Coffin's Point, en la isla de St. Helena, y su primera impresión conocida es el n.º 31 de Slave Songs of the United States (1867) [^scan31][^slavesongs][^place2019]. Su primer verso pide a Michael (Miguel) que lleve la barca a la orilla, y a cada verso se responde igual: "Hallelujah!" [^scan31]. En los años cincuenta la recuperó el renacimiento folk, y en 1961 una grabación suya llegó al número uno de las listas en Estados Unidos y en Gran Bretaña [^place2019][^stereogum][^officialcharts].
@@ -64,6 +64,80 @@ El libro escribe la letra tal como sus editores oían el habla de las Sea Island
 **Versos 16 a 22.** El Señor ha plantado allí su jardín y ha hecho crecer fruta para comer, y quien la coma no morirá nunca. Luego un giro más oscuro: el río se desborda, llega la oscuridad, y el último verso le dice al pecador que reme para salvar su alma [^scan31].
 
 **Los versos de Hilton Head.** Michael lleva la barca a la orilla, y la trompeta suena por todo el mundo, para ricos y pobres y por el jubileo, un tiempo de liberación [^scan31][^kjv].
+
+### La letra completa
+
+Esta es toda la letra del n.º 31 de *Slave Songs of the United States*, páginas 23 y 24, con la ortografía del libro y su propia aclaración "(there)" [^scan31]. Los versos 1 y 2 van impresos bajo la música con su "Hallelujah!"; los versos 3 a 22 van numerados debajo, agrupados aquí como en las notas de arriba, y siguen siete versos más bajo el título del libro "Words from Hilton Head" (letra de Hilton Head). El libro se imprimió en 1867, así que toda la letra es de dominio público.
+
+**Versos 1 y 2**
+> Michael row de boat ashore, Hallelujah!
+Michael, lleva la barca remando hasta la orilla, ¡aleluya!
+> Michael boat a gospel boat, Hallelujah!
+La barca de Michael es una barca del evangelio, ¡aleluya!
+
+**Versos 3 a 7**
+> I wonder where my mudder deh (there).
+Me pregunto dónde estará mi madre (allí).
+> See my mudder on de rock gwine home.
+Veo a mi madre sobre la roca, camino de casa.
+> On de rock gwine home in Jesus' name.
+Sobre la roca, camino de casa, en el nombre de Jesús.
+> Michael boat a music boat.
+La barca de Michael es una barca de música.
+> Gabriel blow de trumpet horn.
+Gabriel toca la trompeta.
+
+**Versos 8 a 11**
+> O you mind your boastin' talk.
+Oh, cuidado con tus palabras de jactancia.
+> Boastin' talk will sink your soul.
+Las palabras de jactancia hundirán tu alma.
+> Brudder, lend a helpin' hand.
+Hermano, echa una mano.
+> Sister, help for trim dat boat.
+Hermana, ayuda a equilibrar esa barca.
+
+**Versos 12 a 15**
+> Jordan stream is wide and deep.
+El río Jordán es ancho y hondo.
+> Jesus stand on t' oder side.
+Jesús está en la otra orilla.
+> I wonder if my maussa deh.
+Me pregunto si mi amo estará allí.
+> My fader gone to unknown land.
+Mi padre se ha ido a una tierra desconocida.
+
+**Versos 16 a 22**
+> O de Lord he plant his garden deh.
+Oh, el Señor plantó allí su jardín.
+> He raise de fruit for you to eat.
+Hace crecer la fruta para que tú la comas.
+> He dat eat shall neber die.
+Quien la coma no morirá nunca.
+> When de riber overflow.
+Cuando el río se desborde,
+> O poor sinner, how you land?
+oh, pobre pecador, ¿cómo llegarás a la orilla?
+> Riber run and darkness comin'.
+El río corre y llega la oscuridad.
+> Sinner row to save your soul.
+Pecador, rema para salvar tu alma.
+
+**Letra de Hilton Head**
+> Michael haul the boat ashore.
+Michael, arrastra la barca hasta la orilla.
+> Then you'll hear the horn they blow.
+Entonces oirás el cuerno que tocan.
+> Then you'll hear the trumpet sound.
+Entonces oirás sonar la trompeta.
+> Trumpet sound the world around.
+La trompeta suena por todo el mundo.
+> Trumpet sound for rich and poor.
+La trompeta suena para ricos y pobres.
+> Trumpet sound the jubilee.
+La trompeta anuncia el jubileo.
+> Trumpet sound for you and me.
+La trompeta suena para ti y para mí.
 
 ## Cómo se canta
 

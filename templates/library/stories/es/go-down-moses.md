@@ -15,7 +15,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: go down moses significado | go down moses historia | quién escribió go down moses | go down moses espiritual historia | go down moses letra en español | go down moses louis armstrong
-translatedFrom: 8c2cac263f65
+translatedFrom: fb781a754062
 ---
 
 Go Down, Moses es un espiritual afroamericano (en inglés, spiritual), creado por personas esclavizadas que cantaban como suya la historia bíblica del Éxodo. Dios envía a Moisés ante Faraón, el rey de Egipto, con una sola exigencia, "Let my people go" (deja ir a mi pueblo), y la canción responde con ella a cada verso de sus estrofas. Su primera impresión conocida con música es una partitura de 1861, The Song of the Contrabands, anotada en Fort Monroe, Virginia, de personas que habían escapado de la esclavitud en los primeros meses de la guerra civil estadounidense [^contrabands1861][^canterbury]. En 1872 los Fisk Jubilee Singers la imprimieron con 24 estrofas [^jubilee1872]. Harry T. Burleigh la arregló para voz y piano en 1917 [^burleigh1917][^imslp-burleigh], y Louis Armstrong la grabó en 1958 [^jazzjournal][^freshsound].
@@ -54,6 +54,264 @@ La historia está en el libro del Éxodo. Los israelitas están esclavizados en 
 - **El estribillo.** Dios le dice a Moisés que baje a Egipto y hable con el rey. "Ole" es "old" (viejo), y "Pharoh" es la grafía de Pharaoh (Faraón) en el libro de 1872, que mantenemos tal como se imprimió [^jubilee1872].
 
 Para quienes la crearon, la historia no hablaba solo del pasado. Frederick Douglass escribió en 1855 que, cuando él y sus amigos cantaban sobre Canaán mientras planeaban escapar, querían decir algo más que el cielo: "el norte era nuestro Canaán" [^douglass1855]. Las estrofas impresas también lo dicen: la partitura de 1861 tiene "O let us all from bondage flee" (huyamos todos de la esclavitud), y el libro de 1872 tiene "We need not always weep and moan, And wear these slavery chains forlorn" (no tenemos por qué llorar y gemir siempre, ni llevar, desolados, estas cadenas de esclavitud) [^contrabands1861][^jubilee1872].
+
+### La letra completa
+
+Estas son las 24 estrofas tal como las imprime *Jubilee Songs* (1872) en las páginas 22 y 23, con la grafía impresa y el estribillo completo después de la estrofa 1 [^jubilee1872]. El libro escribe "Go down, Moses, etc." solo después de las estrofas 2 a 4, y escribe "Pharoh" en el estribillo pero "Pharaoh" en la estrofa 11.
+
+**Estrofa 1**
+> When Israel was in Egypt's land:
+Cuando Israel estaba en la tierra de Egipto:
+> Let my people go,
+deja ir a mi pueblo,
+> Oppressed so hard they could not stand,
+oprimidos con tanta crueldad que ya no podían soportarlo,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estribillo**
+> Go down, Moses, way down in Egypt land,
+Baja, Moisés, allá abajo, a la tierra de Egipto,
+> Tell ole Pharoh,
+dile al viejo Faraón:
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 2**
+> Thus saith the Lord, bold Moses said,
+Así dice el Señor, dijo el valiente Moisés,
+> Let my people go;
+deja ir a mi pueblo;
+> If not I'll smite your first-born dead,
+si no, heriré de muerte a tu primogénito,
+> Let my people go.
+deja ir a mi pueblo.
+> Go down, Moses, etc.
+Baja, Moisés, etc.
+
+**Estrofa 3**
+> No more shall they in bondage toil.
+Ya no trabajarán más en la esclavitud,
+> Let my people go;
+deja ir a mi pueblo;
+> Let them come out with Egypt's spoil,
+que salgan con los bienes de Egipto,
+> Let my people go.
+deja ir a mi pueblo.
+> Go down, Moses, etc.
+Baja, Moisés, etc.
+
+**Estrofa 4**
+> When Israel out of Egypt came,
+Cuando Israel salió de Egipto,
+> Let my people go;
+deja ir a mi pueblo;
+> And left the proud oppressive land,
+y dejó la tierra orgullosa y opresora,
+> Let my people go.
+deja ir a mi pueblo.
+> Go down, Moses, etc.
+Baja, Moisés, etc.
+
+**Estrofa 5**
+> O, 'twas a dark and dismal night,
+Oh, fue una noche oscura y triste,
+> Let my people go;
+deja ir a mi pueblo;
+> When Moses led the Israelites,
+cuando Moisés guió a los israelitas,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 6**
+> 'Twas good old Moses and Aaron, too,
+Fueron el buen viejo Moisés y también Aarón,
+> Let my people go;
+deja ir a mi pueblo;
+> 'Twas they that led the armies through,
+fueron ellos quienes guiaron a las huestes a través del mar,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 7**
+> The Lord told Moses what to do,
+El Señor le dijo a Moisés lo que tenía que hacer,
+> Let my people go:
+deja ir a mi pueblo;
+> To lead the children of Israel through,
+guiar a los hijos de Israel a través del mar,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 8**
+> O come along Moses, you'll not get lost,
+Oh, ven, Moisés, no te perderás,
+> Let my people go;
+deja ir a mi pueblo;
+> Stretch out your rod and come across,
+extiende tu vara y cruza al otro lado,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 9**
+> As Israel stood by the water side,
+Cuando Israel estaba a la orilla del agua,
+> Let my people go;
+deja ir a mi pueblo;
+> At the command of God it did divide,
+por orden de Dios, el agua se dividió,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 10**
+> When they had reached the other shore,
+Cuando llegaron a la otra orilla,
+> Let my people go;
+deja ir a mi pueblo;
+> They sang a song of triumph o'er,
+cantaron allí un canto de victoria,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 11**
+> Pharaoh said he would go across.
+Faraón dijo que él también cruzaría.
+> Let my people go;
+deja ir a mi pueblo;
+> But Pharaoh and his host were lost,
+pero Faraón y su ejército se perdieron,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 12**
+> O Moses the cloud shall cleave the way,
+Oh, Moisés, la nube abrirá el camino,
+> Let my people go;
+deja ir a mi pueblo;
+> A fire by night, a shade by day,
+un fuego de noche, una sombra de día,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 13**
+> You'll not get lost in the wilderness,
+No te perderás en el desierto,
+> Let my people go:
+deja ir a mi pueblo;
+> With a lighted candle in your breast,
+con una vela encendida en el pecho,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 14**
+> Jordan shall stand up like a wall,
+El Jordán se alzará como un muro,
+> Let my people go;
+deja ir a mi pueblo;
+> And the walls of Jericho shall fall
+y caerán los muros de Jericó,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 15**
+> Your foes shall not before you stand,
+Tus enemigos no podrán hacerte frente,
+> Let my people go;
+deja ir a mi pueblo;
+> And you'll possess fair Canaan's land,
+y poseerás la hermosa tierra de Canaán,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 16**
+> 'Twas just about in harvest time,
+Fue justo hacia el tiempo de la cosecha,
+> Let my people go;
+deja ir a mi pueblo;
+> When Joshua led his host divine,
+cuando Josué guió a su pueblo santo,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 17**
+> O let us all from bondage flee,
+Oh, huyamos todos de la esclavitud,
+> Let my people go;
+deja ir a mi pueblo;
+> And let us all in Christ be free,
+y seamos todos libres en Cristo,
+> Let my people go
+deja ir a mi pueblo.
+
+**Estrofa 18**
+> We need not always weep and moan,
+No tenemos por qué llorar y gemir siempre,
+> Let my people go:
+deja ir a mi pueblo;
+> And wear these slavery chains forlorn,
+ni llevar, desolados, estas cadenas de esclavitud,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 19**
+> This world's a wilderness of woe,
+Este mundo es un desierto de penas,
+> Let my people go;
+deja ir a mi pueblo;
+> O, let us on to Canaan go,
+oh, sigamos adelante hacia Canaán,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 20**
+> What a beautiful morning that will be.
+Qué mañana tan hermosa será.
+> Let my people go:
+deja ir a mi pueblo;
+> When time breaks up in eternity,
+cuando el tiempo se abra a la eternidad,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 21**
+> The Devil he thought he had me fast,
+El diablo creía que me tenía bien atrapado.
+> Let my people go;
+deja ir a mi pueblo;
+> But I thought I'd break his chains at last,
+pero yo pensé que al fin rompería sus cadenas,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 22**
+> O take yer shoes from off yer feet,
+Oh, quítate los zapatos de los pies,
+> Let my people go;
+deja ir a mi pueblo;
+> And walk into the golden street,
+y entra en la calle de oro,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 23**
+> I'll tell you what I likes de best,
+Te diré lo que más me gusta,
+> Let my people go;
+deja ir a mi pueblo;
+> It is the shouting Methodist,
+son los metodistas que cantan a gritos,
+> Let my people go.
+deja ir a mi pueblo.
+
+**Estrofa 24**
+> I do believe without a doubt,
+Creo sin ninguna duda
+> Let my people go;
+deja ir a mi pueblo;
+> That a Christian has the right to shout,
+que un cristiano tiene derecho a gritar de alegría,
+> Let my people go.
+deja ir a mi pueblo.
 
 ## Cómo se canta
 

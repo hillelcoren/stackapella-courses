@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: jingle bells historia | quién escribió jingle bells | jingle bells significado | jingle bells es una canción de navidad | jingle bells origen minstrel | jingle bells dominio público
-translatedFrom: 36f33c28f859
+translatedFrom: 6f9e1addf4c2
 ---
 
 Jingle Bells es una canción sobre un paseo rápido en trineo por la nieve recién caída, y su letra no menciona nunca la Navidad. James Lord Pierpont escribió la letra y la música, y Oliver Ditson & Co., de Boston, la publicó en 1857 como "The One Horse Open Sleigh", una canción con un estribillo a cuatro voces [^ditson1857]. Su primera interpretación conocida fue en un escenario de minstrel show de Boston el 15 de septiembre de 1857, cantada por un artista con la cara pintada de negro (blackface) [^hamill][^bostonia]. Antes de veinte años ya estaba en un libro de Boston de canciones universitarias estadounidenses, con el estribillo marcado "acompañado de copas que tintinean" [^carmina1876]. Solo más tarde se convirtió en canción de Navidad, y hoy es de las más conocidas [^hamill][^bostonia].
@@ -34,7 +34,7 @@ Jingle Bells es una canción sobre un paseo rápido en trineo por la nieve reci�
 
 **La melodía.** La melodía de la estrofa de 1857 es, en su forma, la que se canta hoy [^ditson1857][^heartsongs1909]. La del estribillo no. En 1857 el segundo "Jingle bells" salta más arriba que el primero, la línea toca una nota fuera de la tonalidad, un Mi becuadro en "way", y la letra dice "Oh! what joy it is to ride" [^ditson1857]. El estribillo que se canta hoy, con cada "Jingle bells" en una misma nota repetida y "Oh! what fun it is to ride", está impreso ya en 1876, en un libro de Boston de canciones universitarias que no nombra compositor [^carmina1876]. La estrofa también ha cambiado un poco: 1857 tiene "o'er the hills" en lugar de "o'er the fields" y "Oh what sport to ride and sing" [^ditson1857][^carmina1876]. Quién le dio a la canción su forma nueva, y cuándo, no se sabe por las fuentes leídas para esta página.
 
-**Mito y documentos.** Se suele contar que la canción se cantó por primera vez en Acción de Gracias, en un oficio religioso o en un concierto de la escuela dominical; la versión de Savannah la sitúa en la iglesia de su hermano allí, en 1857 [^historycom][^connectsav]. Lo que muestran los documentos: la canción estaba en un escenario de minstrel show de Boston el 15 de septiembre de 1857 y se depositó para registrar sus derechos al día siguiente, semanas antes del Día de Acción de Gracias de ese año, y nada en su letra pertenece a una iglesia ni a una fiesta [^hamill][^ditson1857].
+**Mito y documentos.** Se suele contar que se cantó por primera vez en un oficio o un concierto de escuela dominical de Acción de Gracias, en la versión de Savannah en la iglesia de su hermano allí, en 1857 [^historycom][^connectsav]. Lo que muestran los documentos: su primera actuación conocida y su depósito para los derechos de autor, ambos en septiembre de 1857, fueron semanas antes del Día de Acción de Gracias de ese año, y nada en su letra pertenece a una iglesia ni a una fiesta [^hamill][^ditson1857].
 
 Se suele contar también que Pierpont la escribió en 1850 en la Simpson Tavern de Medford, Massachusetts, como dice una placa que hay allí; o en Savannah a finales de 1857, como sostiene Savannah [^hamill][^bostonia][^connectsav]. Lo que muestran los documentos: Hamill no pudo remontar la afirmación de Medford más allá de un artículo del Boston Globe de 1946, y la canción se publicó en Boston antes de la fecha de Savannah [^hamill][^bostonia][^ditson1857]. Algunos relatos populares añaden que Pierpont estaba en California en 1850 [^bostonia][^historycom]; las notas de la propia Hamill son más cautas: lo encuentra en el censo y las listas de impuestos de Medford en 1850 y en San Francisco ya en junio de 1851 [^hamill]. No se sabe dónde la escribió; la mejor hipótesis de Hamill es la casa de huéspedes de Boston donde vivía a principios del verano de 1857 [^bostonia][^historycom].
 
@@ -55,19 +55,131 @@ La canción de 1857 tiene cuatro estrofas: una historia ligera de diversión y p
 
 **La estrofa 1**, la que cantamos, presenta la escena. "Dashing" es ir a toda prisa, en un trineo pequeño sin techo tirado por un solo caballo. "O'er" es "over" (por encima de, a través de). Los cascabeles suenan en los arreos de un "bobtail", un caballo con la cola cortada, y "making spirits bright" quiere decir poner a todos de buen humor.
 
-**El estribillo** es el sonido del paseo: que suenen los cascabeles todo el camino, porque ir en el trineo es muy divertido. En 1857 decía "what joy" (qué alegría) [^ditson1857].
+**El estribillo** es el sonido del paseo: que suenen los cascabeles todo el camino, porque ir en el trineo es muy divertido.
 
-**La estrofa 2** sale mal. Quien canta lleva de paseo a la señorita Fannie Bright, pero el caballo es flaco y desafortunado, se mete en un montón de nieve y "we got upsot": volcamos. "Upsot" es una forma rústica antigua de "upset" (volcar); el Dictionary of Americanisms de Bartlett, de 1859, la cita de un relato de un periódico rural [^bartlett1859]; Hamill señala que puede leerse como dialecto sureño, un indicio del minstrel show [^hamill].
+**La estrofa 2** sale mal. Quien canta lleva de paseo a la señorita Fannie Bright, pero el caballo es flaco y desafortunado, se mete en un montón de nieve y "we got upsot": volcamos. "Upsot" es una forma rústica antigua de "upset" (volcar); el Dictionary of Americanisms de Bartlett, de 1859, la cita de un relato de un periódico rural [^bartlett1859].
 
 **La estrofa 3**, que falta en nuestra edición de 1909, hace caer a quien canta de espaldas en la nieve mientras un hombre que pasa en otro trineo se ríe y sigue su camino [^ditson1857][^heartsongs1909]. Su verso "The story I must tell" (la historia que debo contar) le dio a Hamill el título de su estudio [^hamill].
 
 **La estrofa 4** es un consejo: mientras el suelo esté blanco y seas joven, saca a pasear a las chicas esta noche. Consigue un "bobtailed bay" (un caballo castaño rojizo de cola corta) con una velocidad de "two forty", engánchalo a un trineo abierto y, con un chasquido del látigo, tomarás la delantera. "Two forty" quiere decir una milla en dos minutos y cuarenta segundos, el paso de un caballo trotón rápido en aquellos años [^bartlett1877][^hamill].
 
+### La letra completa
+
+Esta es la letra tal como la imprime Heart Songs en 1909, la página de la que sale nuestro arreglo, con tres estrofas y el estribillo que cantamos [^heartsongs1909]. La partitura de Pierpont de 1857 tiene una más, que damos aquí como estrofa 3, donde está en ella, y su propio estribillo, que va al final [^ditson1857].
+
+**Estrofa 1**
+> Dashing thro' the snow,
+Corriendo a toda prisa por la nieve
+> In a one-horse open sleigh;
+en un trineo abierto de un solo caballo,
+> O'er the fields we go,
+vamos por los campos,
+> Laughing all the way;
+riendo todo el camino;
+> Bells on bob-tail ring
+suenan los cascabeles del caballo de cola corta
+> Making spirits bright;
+y nos ponen de buen humor;
+> What fun it is to ride and sing
+qué divertido es pasear y cantar
+> A sleighing song to-night!
+una canción de trineo esta noche.
+
+**Estribillo**
+> Jingle, bells! Jingle, bells!
+¡Suenen, cascabeles! ¡Suenen, cascabeles!
+> Jingle all the way!
+¡Suenen todo el camino!
+> Oh! what fun it is to ride
+¡Oh, qué divertido es pasear
+> In a one-horse open sleigh!
+en un trineo abierto de un solo caballo!
+> Jingle, bells! jingle, bells!
+¡Suenen, cascabeles! ¡Suenen, cascabeles!
+> Jingle all the way!
+¡Suenen todo el camino!
+> Oh! what fun it is to ride
+¡Oh, qué divertido es pasear
+> In a one-horse open sleigh!
+en un trineo abierto de un solo caballo!
+
+**Estrofa 2**
+> A day or two ago
+Hace un día o dos
+> I thought I'd take a ride,
+se me ocurrió dar un paseo,
+> And soon Miss Fannie Bright
+y pronto la señorita Fannie Bright
+> Was seated by my side.
+iba sentada a mi lado.
+> The horse was lean and lank;
+El caballo era flaco y huesudo;
+> Misfortune seem'd his lot;
+la mala suerte parecía su destino;
+> He got into a drifted bank,
+se metió en un montón de nieve,
+> And we, we got upsot.
+y nosotros, nosotros volcamos.
+
+**Estrofa 3 (solo en 1857)**
+> A day or two ago,
+Hace un día o dos,
+> The story I must tell
+y la historia debo contarla,
+> I went out on the snow
+salí sobre la nieve
+> And on my back I fell;
+y me caí de espaldas;
+> A gent was riding by
+pasaba un señor
+> In a one horse open sleigh,
+en un trineo abierto de un solo caballo;
+> He laughed as there I sprawling lie,
+se rio mientras yo estaba allí tendido,
+> But quickly drove away.
+pero se alejó deprisa.
+
+**Estrofa 4 (la estrofa 3 en 1909)**
+> Now the ground is white;
+Ahora que el suelo está blanco
+> Go it while you're young;
+aprovecha mientras eres joven;
+> Take the girls to-night,
+saca a pasear a las chicas esta noche
+> And sing this sleighing song.
+y canta esta canción de trineo.
+> Just get a bob-tail'd bay,
+Consigue un caballo castaño de cola corta
+> Two-forty for his speed;
+que haga la milla en dos minutos y cuarenta;
+> Then hitch him to an open sleigh,
+luego engánchalo a un trineo abierto
+> And crack! you'll take the lead.
+y, con un chasquido del látigo, tomarás la delantera.
+
+**El estribillo de 1857**
+> Jingle bells, Jingle bells,
+Suenen, cascabeles, suenen, cascabeles,
+> Jingle all the way;
+suenen todo el camino;
+> Oh! what joy it is to ride
+¡oh, qué alegría es pasear
+> In a one horse open sleigh.
+en un trineo abierto de un solo caballo!
+> Jingle bells, Jingle bells,
+Suenen, cascabeles, suenen, cascabeles,
+> Jingle all the way
+suenen todo el camino;
+> Oh! what joy it is to ride
+¡oh, qué alegría es pasear
+> In a one horse open sleigh.
+en un trineo abierto de un solo caballo!
+
 ## Cómo se canta
 
-En 1857 la estrofa es para una voz y el estribillo para cuatro, de una voz aguda hasta un bajo, sobre un acompañamiento de piano muy movido [^ditson1857]. Los estudiantes universitarios la adoptaron como canción de fiesta; tanto el libro universitario de 1876 como Heart Songs, de 1909, marcan el estribillo "acompañado de copas que tintinean" [^carmina1876][^heartsongs1909]. Heart Songs, hecho con canciones favoritas enviadas por unas veinte mil personas, imprime tres de las cuatro estrofas y no nombra autor [^heartsongs1909].
+En 1857 la estrofa es para una voz y el estribillo para cuatro, de una voz aguda hasta un bajo, sobre un acompañamiento de piano muy movido [^ditson1857]. Los estudiantes universitarios la adoptaron como canción de fiesta; tanto el libro universitario de 1876 como Heart Songs, de 1909, marcan el estribillo "acompañado de copas que tintinean" [^carmina1876][^heartsongs1909]. Heart Songs, hecho con canciones favoritas enviadas por unas veinte mil personas, no nombra autor [^heartsongs1909].
 
-Nuestro arreglo toma la estrofa y el estribillo de Heart Songs, de 1909; las voces las escribió Stackapella sobre la armonía de su acompañamiento de piano, y lo bajamos un semitono, de La bemol a Sol. Cantamos la primera estrofa y luego el estribillo. Es para 2 a 4 cantantes, con un aire brillante y rápido, con una respiración en cada verso: la melodía arriba, la contralto debajo, el tenor en el centro del acorde y el bajo haciendo de caballo y de cascabeles.
+Nuestro arreglo toma la estrofa y el estribillo de Heart Songs, de 1909; las voces las escribió Stackapella sobre la armonía de su acompañamiento de piano, y lo bajamos un semitono, de La bemol a Sol. Cantamos la primera estrofa y luego el estribillo. Es para 2 a 4 cantantes, con un aire brillante y rápido, con una respiración en cada verso.
 
 ## ¿Sabías que...?
 
@@ -85,7 +197,7 @@ Nuestro arreglo toma la estrofa y el estribillo de Heart Songs, de 1909; las voc
 
 ### ¿Jingle Bells se escribió para Acción de Gracias?
 
-Ningún documento de la época lo dice. Se cuenta que se cantó por primera vez en Acción de Gracias, en un oficio religioso o en un concierto de la escuela dominical; Savannah la sitúa en la iglesia de su hermano [^historycom][^connectsav]. Pero la canción se cantó en un escenario de minstrel show de Boston el 15 de septiembre de 1857 y se depositó para registrar sus derechos al día siguiente, semanas antes de Acción de Gracias [^hamill][^ditson1857].
+Ningún documento de la época lo dice. Se cuenta que se cantó por primera vez en un oficio o un concierto de escuela dominical de Acción de Gracias; en la versión de Savannah, en la iglesia de su hermano [^historycom][^connectsav]. Pero la canción se cantó en un escenario de minstrel show de Boston el 15 de septiembre de 1857 y se depositó para registrar sus derechos al día siguiente, semanas antes de Acción de Gracias [^hamill][^ditson1857].
 
 ### ¿Jingle Bells era una canción de minstrel show?
 
@@ -97,7 +209,7 @@ Sí. Pierpont publicó la letra y la música en 1857 y murió en 1893 [^ditson18
 
 ### ¿Qué voz canta la melodía?
 
-En nuestro arreglo la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto; con tres, se suma el bajo; el tenor completa las cuatro. La melodía va del Re grave hasta el Mi que queda por encima de la octava, y su nota más aguda llega una sola vez, en "sleighing".
+En nuestro arreglo la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto; con tres, se suma el bajo; el tenor completa las cuatro.
 
 ## Canta después
 

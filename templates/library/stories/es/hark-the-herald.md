@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: hark the herald angels sing historia | quién escribió hark the herald angels sing | hark the herald angels sing significado | qué significa herald en hark the herald angels sing | quién compuso la melodía de hark the herald angels sing
-translatedFrom: c09f23661d80
+translatedFrom: 0820775e52f5
 ---
 
 Hark! The Herald Angels Sing es un himno inglés de Navidad. Su letra nació como el "Hymn for Christmas-Day" (himno para el día de Navidad) de Charles Wesley, impreso en Londres en 1739 con otro primer verso: "Hark how all the welkin rings" [^duke-hsp][^julian]. El comienzo que todos conocen lo escribió el predicador George Whitefield, que lo imprimió en 1753 [^duke-hsp][^julian]. La melodía es de Felix Mendelssohn, escrita en 1840 para una fiesta en Leipzig en honor de Gutenberg y de la invención de la imprenta; un organista inglés, William H. Cummings, la ajustó a la letra de Wesley en la década de 1850 [^mt1897][^lightwood]. En 1907 el Dictionary of Hymnology llamaba a este texto modificado la forma más popular del himno, de uso común en todos los países de habla inglesa [^julian].
@@ -60,6 +60,116 @@ Cantamos la primera estrofa y el estribillo de la forma en tres estrofas, hecha 
 **Estrofa 3.** Cristo es aclamado como el "Prince of Peace" (Príncipe de la Paz) de Isaías y el "Sun of righteousness" (Sol de justicia) de Malaquías, que nace "with healing in his wings", con la salud en sus alas [^kjv]. Deja a un lado su gloria, la gloria del cielo, y nace para dar a las personas un "second birth", un segundo nacimiento, el nuevo nacimiento del que habla Jesús en el Evangelio de Juan [^kjv].
 
 **Las estrofas que se dejan fuera.** Las cuatro últimas estrofas de Wesley se vuelven hacia quien canta: piden al "Desire of nations", el Deseado de las naciones, título que viene de Ageo, que haga su morada en nosotros, y al "Second Adam", el segundo Adán, nombre que Pablo da a Cristo, que devuelva lo que Adán perdió [^duke-hsp][^kjv]. Whitefield quitó dos de ellas, y la forma en tres estrofas, las cuatro [^julian][^hymnarchive].
+
+### La letra completa
+
+Las tres estrofas y el estribillo tal como los imprimió Hymns Ancient and Modern en su edición estándar de 1875, himno 60, la página de la que se lee nuestro arreglo, con las versalitas escritas como letras normales y sin sus indicaciones de matiz ni el "Amen" [^ham1875]. Son las seis primeras estrofas de Wesley de 1739 con el comienzo de Whitefield de 1753, los versos de Madan de 1760 y pequeños cambios posteriores [^duke-hsp][^madan][^julian]. Después vienen las cuatro últimas estrofas de Wesley tal como las imprimió el libro de 1739, con la s larga escrita como s y su errata "the the" de la última estrofa tal como está impresa [^hsp1739]. Todos los que escribieron o cambiaron esta letra murieron antes de 1840, así que toda ella es de dominio público.
+
+**Estrofa 1**
+> Hark! the herald-angels sing
+¡Escucha! Los ángeles mensajeros cantan
+> Glory to the new-born King,
+gloria al Rey recién nacido:
+> Peace on earth, and mercy mild,
+paz en la tierra y dulce misericordia,
+> God and sinners reconciled.
+Dios y los pecadores reconciliados.
+> Joyful, all ye nations, rise,
+Que se alcen con alegría todas las naciones,
+> Join the triumph of the skies;
+que se unan al triunfo de los cielos;
+> With the Angelic host proclaim,
+que proclamen con la hueste de los ángeles:
+> "Christ is born in Bethlehem."
+"Cristo ha nacido en Belén".
+> Hark! the herald-angels sing
+¡Escucha! Los ángeles mensajeros cantan
+> Glory to the new-born King.
+gloria al Rey recién nacido.
+
+**Estrofa 2**
+> Christ, by highest Heav'n adored,
+Cristo, adorado por el más alto cielo,
+> Christ, the Everlasting Lord,
+Cristo, el Señor eterno:
+> Late in time behold Him come,
+míralo venir tarde en el tiempo,
+> Offspring of a Virgin's womb.
+fruto del vientre de una Virgen.
+> Veil'd in flesh the Godhead see!
+¡Mira a Dios velado en la carne!
+> Hail, the Incarnate Deity!
+¡Salve, Dios hecho carne!
+> Pleased as Man with man to dwell,
+Contento de vivir como hombre entre los hombres,
+> Jesus, our Emmanuel.
+Jesús, nuestro Emmanuel.
+> Hark! the herald-angels sing
+¡Escucha! Los ángeles mensajeros cantan
+> Glory to the new-born King.
+gloria al Rey recién nacido.
+
+**Estrofa 3**
+> Hail, the heaven-born Prince of peace!
+¡Salve, Príncipe de la paz nacido del cielo!
+> Hail, the Sun of righteousness!
+¡Salve, Sol de justicia!
+> Light and life to all He brings,
+A todos trae luz y vida,
+> Risen with healing in His wings.
+alzado con la salud en sus alas.
+> Mild He lays His glory by,
+Manso, deja a un lado su gloria;
+> Born that man no more may die,
+nace para que el hombre ya no muera,
+> Born to raise the sons of earth,
+nace para levantar a los hijos de la tierra,
+> Born to give them second birth.
+nace para darles un segundo nacimiento.
+> Hark! the herald-angels sing
+¡Escucha! Los ángeles mensajeros cantan
+> Glory to the new-born King.
+gloria al Rey recién nacido.
+
+**Estrofa 7 de Wesley, 1739**
+> Come, Desire of Nations come,
+Ven, Deseado de las naciones, ven,
+> Fix in Us thy humble Home,
+haz en nosotros tu humilde morada;
+> Rise, the Woman's Conqu'ring Seed,
+álzate, descendencia vencedora de la mujer,
+> Bruise in Us the Serpent's Head.
+aplasta en nosotros la cabeza de la serpiente.
+
+**Estrofa 8 de Wesley, 1739**
+> Now display Thy saving Pow'r,
+Muestra ahora tu poder que salva,
+> Ruin'd Nature now restore,
+restaura ahora la naturaleza arruinada,
+> Now in Mystic Union join
+une ahora en unión mística
+> Thine to Ours, and Ours to Thine.
+lo tuyo a lo nuestro y lo nuestro a lo tuyo.
+
+**Estrofa 9 de Wesley, 1739**
+> Adam's Likeness, Lord, efface,
+Borra, Señor, la semejanza de Adán,
+> Stamp thy Image in its Place,
+imprime tu imagen en su lugar;
+> Second Adam from above,
+segundo Adán venido de lo alto,
+> Reinstate us in thy Love.
+devuélvenos a tu amor.
+
+**Estrofa 10 de Wesley, 1739**
+> Let us Thee, tho' lost, regain,
+Que te recobremos, aunque te perdimos,
+> Thee, the Life, the the Inner Man:
+a ti, la Vida, el hombre interior:
+> O! to All Thyself impart,
+¡oh, date a ti mismo a todos,
+> Form'd in each Believing Heart.
+formado en cada corazón que cree!
 
 ## Cómo se canta
 
@@ -107,7 +217,7 @@ En nuestro arreglo, la soprano canta la melodía de Mendelssohn. Con dos cantant
 ## Fuentes
 
 - [^duke-hsp]: John y Charles Wesley, *Hymns and Sacred Poems* (Londres: Strahan, 1739), "Hymn for Christmas-Day", pp. 206 a 208, en la edición del Duke Center for Studies in the Wesleyan Tradition, ed. Randy L. Maddox (2020), con notas sobre los cambios de Whitefield de 1753. https://divinity.duke.edu/sites/default/files/documents/04_Hymns_and_Sacred_Poems_%281739%29.pdf
-- [^hsp1739]: John y Charles Wesley, *Hymns and Sacred Poems* (1739), p. 206, "Hymn for Christmass-Day", facsímil de una impresión de 1739 (Eighteenth Century Collections Online, en el Internet Archive). https://archive.org/details/bim_eighteenth-century_hymns-and-sacred-poems-_wesley-john_1739_1
+- [^hsp1739]: John y Charles Wesley, *Hymns and Sacred Poems* (1739), pp. 206 a 208, "Hymn for Christmass-Day", facsímil de una impresión de 1739 (Eighteenth Century Collections Online, en el Internet Archive). https://archive.org/details/bim_eighteenth-century_hymns-and-sacred-poems-_wesley-john_1739_1
 - [^julian]: John Julian (ed.), *A Dictionary of Hymnology*, 2.ª ed. (John Murray, 1907), vol. 1, pp. 487 a 488, "Hark, how all the welkin rings" (firmado J. J.). https://archive.org/details/dictionaryofhymn01lond
 - [^julian-supp]: John Julian (ed.), *A Dictionary of Hymnology*, 2.ª ed. (John Murray, 1907), vol. 2, New Supplement, p. 1645, "Hark! how all the welkin rings". https://archive.org/details/dictionaryofhymn02lond
 - [^madan]: Martin Madan, *A Collection of Psalms and Hymns, Extracted from Various Authors* (Londres, 1760), himno VIII, "Nativity of Christ", p. 8. https://archive.org/details/bim_eighteenth-century_a-collection-of-psalms-a_madan-martin_1760

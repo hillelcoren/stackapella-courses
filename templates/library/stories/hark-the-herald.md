@@ -60,6 +60,70 @@ We sing the first verse and refrain of the three-verse form, made in stages. Its
 
 **The verses left out.** Wesley's last four verses turn to the singer, asking the "Desire of nations", Haggai's title, to make a home in us, and the "Second Adam", Paul's name for Christ, to restore what Adam lost [^duke-hsp][^kjv]. Whitefield dropped two of them, and the three-verse form all four [^julian][^hymnarchive].
 
+### The full words
+
+The three verses and refrain as Hymns Ancient and Modern printed them in its standard edition of 1875, Hymn 60, the page our arrangement is read from, with small capitals set as ordinary letters and its singing marks and "Amen" left out [^ham1875]. They are Wesley's first six verses of 1739 with Whitefield's opening of 1753, Madan's lines of 1760 and later small changes [^duke-hsp][^madan][^julian]. Wesley's last four verses follow as the 1739 book printed them, the long s set as s, and its slip "the the" in the last verse kept as printed [^hsp1739]. Everyone who wrote or changed these words died before 1840, so all of them are in the public domain.
+
+**Verse 1**
+Hark! the herald-angels sing
+Glory to the new-born King,
+Peace on earth, and mercy mild,
+God and sinners reconciled.
+Joyful, all ye nations, rise,
+Join the triumph of the skies;
+With the Angelic host proclaim,
+"Christ is born in Bethlehem."
+Hark! the herald-angels sing
+Glory to the new-born King.
+
+**Verse 2**
+Christ, by highest Heav'n adored,
+Christ, the Everlasting Lord,
+Late in time behold Him come,
+Offspring of a Virgin's womb.
+Veil'd in flesh the Godhead see!
+Hail, the Incarnate Deity!
+Pleased as Man with man to dwell,
+Jesus, our Emmanuel.
+Hark! the herald-angels sing
+Glory to the new-born King.
+
+**Verse 3**
+Hail, the heaven-born Prince of peace!
+Hail, the Sun of righteousness!
+Light and life to all He brings,
+Risen with healing in His wings.
+Mild He lays His glory by,
+Born that man no more may die,
+Born to raise the sons of earth,
+Born to give them second birth.
+Hark! the herald-angels sing
+Glory to the new-born King.
+
+**Wesley's verse 7, 1739**
+Come, Desire of Nations come,
+Fix in Us thy humble Home,
+Rise, the Woman's Conqu'ring Seed,
+Bruise in Us the Serpent's Head.
+
+**Wesley's verse 8, 1739**
+Now display Thy saving Pow'r,
+Ruin'd Nature now restore,
+Now in Mystic Union join
+Thine to Ours, and Ours to Thine.
+
+**Wesley's verse 9, 1739**
+Adam's Likeness, Lord, efface,
+Stamp thy Image in its Place,
+Second Adam from above,
+Reinstate us in thy Love.
+
+**Wesley's verse 10, 1739**
+Let us Thee, tho' lost, regain,
+Thee, the Life, the the Inner Man:
+O! to All Thyself impart,
+Form'd in each Believing Heart.
+
 ## How it is sung
 
 It is a Christmas hymn, printed among the Christmas hymns of Hymns Ancient and Modern, and sometimes sung without its refrain [^ham1875][^julian]. Its meter is 7.7.7.7 D with refrain: eight lines of seven syllables, then the two-line refrain [^hymnary-text][^ham1875]. In both 1861 and 1875 the hymnal asked for it in unison, everyone on the tune, except the ninth line, the refrain's first [^ham1861][^ham1875].
@@ -106,7 +170,7 @@ The soprano sings Mendelssohn's tune in our arrangement. With two singers you ha
 ## Sources
 
 - [^duke-hsp]: John and Charles Wesley, *Hymns and Sacred Poems* (London: Strahan, 1739), "Hymn for Christmas-Day", pp. 206 to 208, in the edition of the Duke Center for Studies in the Wesleyan Tradition, ed. Randy L. Maddox (2020), with notes on Whitefield's 1753 changes. https://divinity.duke.edu/sites/default/files/documents/04_Hymns_and_Sacred_Poems_%281739%29.pdf
-- [^hsp1739]: John and Charles Wesley, *Hymns and Sacred Poems* (1739), p. 206, "Hymn for Christmass-Day", facsimile of a 1739 printing (Eighteenth Century Collections Online, at the Internet Archive). https://archive.org/details/bim_eighteenth-century_hymns-and-sacred-poems-_wesley-john_1739_1
+- [^hsp1739]: John and Charles Wesley, *Hymns and Sacred Poems* (1739), pp. 206 to 208, "Hymn for Christmass-Day", facsimile of a 1739 printing (Eighteenth Century Collections Online, at the Internet Archive). https://archive.org/details/bim_eighteenth-century_hymns-and-sacred-poems-_wesley-john_1739_1
 - [^julian]: John Julian (ed.), *A Dictionary of Hymnology*, 2nd ed. (John Murray, 1907), vol. 1, pp. 487 to 488, "Hark, how all the welkin rings" (signed J. J.). https://archive.org/details/dictionaryofhymn01lond
 - [^julian-supp]: John Julian (ed.), *A Dictionary of Hymnology*, 2nd ed. (John Murray, 1907), vol. 2, New Supplement, p. 1645, "Hark! how all the welkin rings". https://archive.org/details/dictionaryofhymn02lond
 - [^madan]: Martin Madan, *A Collection of Psalms and Hymns, Extracted from Various Authors* (London, 1760), Hymn VIII, "Nativity of Christ", p. 8. https://archive.org/details/bim_eighteenth-century_a-collection-of-psalms-a_madan-martin_1760

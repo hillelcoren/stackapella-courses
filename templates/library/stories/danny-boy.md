@@ -60,6 +60,20 @@ Weatherly wrote two verses. Our arrangement sings the first.[^wikisource]
 
 The song never says who is singing, or what the pipes are calling Danny to. It can be a mother, a father or a sweetheart. Some printings tell a man who sings it to use other words, printed in italics, and the song becomes Eily Dear.[^imslp][^cf] In the war years it fitted soldiers and the people waiting for them at home; Irish Americans heard their own emigrants' partings in it.[^dillane][^odowd]
 
+### The full words
+
+These are the words we sing: Weatherly's first verse, as our arrangement sets it from his song of 1913.[^conncoll] His second verse, explained above, is in the same printing; it is not sung here.
+
+**Verse 1**
+Oh, Danny Boy, the pipes, the pipes are calling
+From glen to glen, and down the mountain side,
+The summer's gone, and all the roses falling,
+It's you, it's you must go, and I must bide.
+But come ye back when summer's in the meadow,
+Or when the valley's hushed and white with snow,
+It's I'll be here in sunshine or in shadow,
+Oh, Danny boy, oh, Danny boy, I love you so!
+
 ## How it is sung
 
 Danny Boy was published as a song for one voice and piano.[^imslp] It is sung at Irish American gatherings and on St Patrick's Day.[^odowd][^dillane] It is asked for at funerals, but it is not a hymn, and some Catholic dioceses in the United States have kept it out of the funeral Mass, which they reserve for liturgical music. In New York, mourners answered with religious words sung to the same tune.[^ap][^golway]

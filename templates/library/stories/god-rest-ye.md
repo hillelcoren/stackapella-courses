@@ -53,7 +53,7 @@ Ten years later the antiquary William Sandys described the same London trade. Ca
 
 **The first line.** "Rest" here is an old use of the verb: to stay or remain in a state. The great Oxford dictionary, in its first edition, files "rest you merry" under that sense, while noting it may belong with the senses next to it. It quotes a Latin dictionary of 1548, which explains a Latin greeting as "bee thou gladde: or ioyfull, as the vulgare people saie Reste you mery" [^ned-rest]. So "God rest you merry" means "God keep you merry", as an editor of Shakespeare glossed it in 1878 [^rolfe]. It was a greeting, spoken to the "gentlemen", so the comma goes after "merry".
 
-Printers placed the comma both ways. Sandys printed "God rest you merry, gentlemen"; Hone's list and Bramley and Stainer's book put it after "you" [^sandys1833][^hone1823][^bramley]. Our words follow Bramley and Stainer; sing "God rest you merry" as one phrase and the sense comes through. All three printed "you": our title keeps the "ye" many people know, but we sing "you".
+Our words follow Bramley and Stainer, who put the comma after "you", as Hone's list does; Sandys put it after "merry" [^bramley][^hone1823][^sandys1833]. Sing "God rest you merry" as one phrase and the sense comes through. All three printed "you": our title keeps the "ye" many people know, but we sing "you".
 
 **Verse 1, the one we sing.** Nothing should dismay you, take away your courage [^webster], because Christ was born on Christmas Day "to save us all from Satan's power", echoing "the power of Satan" in the Acts of the Apostles, "when we were gone astray", like Isaiah's sheep [^kjv]. The refrain calls it "tidings", news, of comfort and joy [^webster], as the angel tells the shepherds in Luke: "I bring you good tidings of great joy" [^kjv].
 
@@ -65,13 +65,77 @@ Printers placed the comma both ways. Sandys printed "God rest you merry, gentlem
 
 **Verse 7.** Everyone in the room is asked to sing praises and to embrace one another "with true love and brotherhood". This holy season "all other doth deface": "deface" once meant to outshine, so Christmas outshines every other time of year [^ned-deface].
 
-Sandys's text differs in places. His first verse has "For Jesus Christ our Saviour / Was born upon this day", where Bramley and Stainer have "Remember Christ our Saviour / Was born on Christmas Day" (his music has "on Christmas day"), and he spells Jewry "Jury" [^sandys1833][^bramley].
+Sandys's first verse has "For Jesus Christ our Saviour / Was born upon this day", where Bramley and Stainer have "Remember Christ our Saviour / Was born on Christmas Day" (his music has "on Christmas day"), and he spells Jewry "Jury" [^sandys1833][^bramley].
+
+### The full words
+
+These are the seven verses as Bramley and Stainer print them at No. 1, the first under the music and the rest on the next page, each ending "O tidings, &c." for the refrain; the long s is written here as a modern s [^bramley]. Sandys's text of 1833 has the same seven verses with other words in places, among them a different second half to the fourth [^sandys1833].
+
+**Verse 1**
+God rest you, merry gentlemen,
+Let nothing you dismay,
+Remember Christ our Saviour,
+Was born on Christmas Day;
+To save us all from Satan's pow'r
+When we were gone astray;
+
+**Refrain**
+O tidings of comfort and joy, comfort and joy,
+O tidings of comfort and joy.
+
+**Verse 2**
+In Bethlehem, in Jewry,
+This blessed Babe was born,
+And laid within a manger,
+Upon this blessed Morn;
+The which His Mother Mary,
+Did nothing take in scorn.
+
+**Verse 3**
+From God our Heavenly Father,
+A blessed Angel came;
+And unto certain Shepherds
+Brought tidings of the same:
+How that in Bethlehem was born
+The Son of God by Name.
+
+**Verse 4**
+Fear not then said the Angel,
+Let nothing you affright,
+This day is born a Saviour
+Of a pure Virgin bright,
+To free all those who trust in Him
+From Satan's power and might.
+
+**Verse 5**
+The Shepherds at those tidings,
+Rejoicéd much in mind,
+And left their flocks a-feeding,
+In tempest, storm, and wind:
+And went to Bethlehem straightway,
+The Son of God to find.
+
+**Verse 6**
+And when they came to Bethlehem
+Where our dear Saviour lay,
+They found Him in a manger,
+Where oxen feed on hay;
+His Mother Mary kneeling down,
+Unto the Lord did pray.
+
+**Verse 7**
+Now to the Lord sing praises,
+All you within this place,
+And with true love and brotherhood
+Each other now embrace;
+This holy tide of Christmas
+All other doth deface.
 
 ## How it is sung
 
 The New Oxford Book of Carols calls it a "luck-visit song", one sung by visitors at a house [^canterbury]. Its tune is GOD REST YOU MERRY. Hymnary.org gives its meter as 8.6.8.6.8.6 with refrain; The Hymnal 1982, No. 105, gives 7.6.7.6.8.6 [^hymnary-tune][^h82].
 
-Our arrangement reads Stainer's four parts for No. 1 in a printing of the 1870s, in E minor as printed [^bramley]. We sing the first verse and its refrain, "O tidings of comfort and joy". Where Stainer slurs two notes on one syllable in the lower parts, we sing one held note, in 17 places. Nine notes are changed: more thirds between the soprano and alto, no wide leaps in the bass and inner parts, and a tenor that moves mostly by step. Breaths are written in. On "O tidings of comfort and joy" the harmony turns toward G major, and the last "joy" comes home to E minor.
+Our arrangement reads Stainer's four parts for No. 1 in a printing of the 1870s, in E minor as printed [^bramley]. We sing the first verse and its refrain. Where Stainer slurs two notes on one syllable in the lower parts, we sing one held note, in 17 places. Nine notes are changed: more thirds between the soprano and alto, no wide leaps in the bass and inner parts, and a tenor that moves mostly by step. Breaths are written in. On "O tidings of comfort and joy" the harmony turns toward G major, and the last "joy" comes home to E minor.
 
 ## Versions and other words
 
@@ -103,7 +167,7 @@ Nobody knows. The earliest known printings, broadsides of the 1700s, name no aut
 
 ### Which part sings the tune?
 
-The soprano sings the tune in our arrangement, from the low D on "Let" to the top E on "Satan's". With two singers you have the tune and the alto; with three, add the bass on the roots; with four, the tenor fills the middle of the chord.
+The soprano sings the tune in our arrangement. With two singers you have the tune and the alto; with three, add the bass on the roots; with four, the tenor fills the middle of the chord.
 
 ## Sing next
 

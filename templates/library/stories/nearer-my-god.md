@@ -58,6 +58,55 @@ The hymn follows Jacob in Genesis 28. On the road to Haran he stops for the nigh
 
 The hymn never names Christ; Adams was a Unitarian, and her verses speak only of God [^fox1841][^julian]. Editors added verses or changed lines to make it more plainly Christian; a Methodist writer of 1906 thought none of it succeeded [^julian][^telford]. Edward Henry Bickersteth, editor of the Hymnal Companion, wrote in a note that he shrank from adding a closing verse to a hymn so widely thought complete, then gave the one he would have suggested: "There in my Father's home, Safe and at rest" [^julian][^telford].
 
+### The full words
+
+Adams's five verses as The Sabbath Hymn and Tune Book printed them with BETHANY in 1859, where repeat signs mark each verse's sixth line to be sung twice [^sabbath1859]. Her own text of 1841 differs in a few words, given under Versions and other words [^fox1841]. Verses that later editors added are not hers and are left out.
+
+**Verse 1**
+Nearer, my God, to thee,
+Nearer to thee:
+Ev'n though it be a cross
+That raiseth me,
+Still all my song shall be,
+Nearer, my God, to thee,
+Nearer to thee.
+
+**Verse 2**
+Though like a wanderer,
+Daylight all gone,
+Darkness be over me,
+My rest a stone,
+Yet in my dreams, I'd be
+Nearer, my God, to thee,
+Nearer to thee.
+
+**Verse 3**
+There let the way appear
+Steps up to heaven;
+All that thou sendest me
+In mercy given,
+Angels to beckon me
+Nearer, my God, to thee,
+Nearer to thee.
+
+**Verse 4**
+Then with my waking thoughts,
+Bright with thy praise,
+Out of my stony griefs,
+Bethel I'll raise;
+So by my woes to be
+Nearer, my God, to thee,
+Nearer to thee.
+
+**Verse 5**
+Or if on joyful wing,
+Cleaving the sky,
+Sun, moon, and stars forgot,
+Upward I fly,
+Still all my song shall be,
+Nearer, my God, to thee,
+Nearer to thee.
+
 ## How it is sung
 
 First sung by Unitarians, it was in the Church of England's Hymns Ancient and Modern within twenty years [^ham1861][^canterbury] and in churches of many kinds in Britain and America [^julian][^bb1906]. Its lines run six and four syllables, and BETHANY sings the next-to-last line twice, so the meter is 6.4.6.4.6.6.6.4 [^sabbath1859][^hymnary-text].

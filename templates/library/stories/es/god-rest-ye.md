@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: god rest ye merry gentlemen historia | god rest ye merry gentlemen significado | quién escribió god rest ye merry gentlemen | god rest ye merry gentlemen dónde va la coma | god rest ye merry gentlemen letra original
-translatedFrom: d6c6b74766bc
+translatedFrom: 935dd95bd6e8
 ---
 
 God Rest Ye Merry, Gentlemen es un villancico inglés. Nadie sabe quién hizo su letra ni su melodía: las primeras impresiones conocidas son hojas sueltas baratas del siglo XVIII, y no nombran a ningún autor [^ebba][^ecco1760][^canterbury]. Su primer verso es un saludo, "God keep you merry", que Dios los guarde alegres, dirigido a los señores que escuchan [^ned-rest][^rolfe]. Después, el villancico cuenta la historia de Navidad, desde la noticia del ángel hasta la visita de los pastores al pesebre. Fue una canción de la calle antes que una pieza de coro: en 1833 un coleccionista todavía podía oír en Londres a un cantante solitario "graznando" este villancico [^sandys1833]. Un editor victoriano escribió que "quizá no haya ningún villancico tan universalmente conocido" [^husk].
@@ -54,7 +54,7 @@ Diez años después, el anticuario William Sandys describió el mismo comercio l
 
 **El primer verso.** "Rest" es aquí un uso antiguo del verbo: quedarse o seguir en un estado. El gran diccionario de Oxford, en su primera edición, clasifica "rest you merry" en esa acepción, aunque señala que podría ir con las acepciones vecinas. Cita un diccionario latino de 1548, que explica un saludo latino como "bee thou gladde: or ioyfull, as the vulgare people saie Reste you mery" (alégrate, o regocíjate, como dice la gente común: "Reste you mery") [^ned-rest]. Así que "God rest you merry" significa "God keep you merry", que Dios los guarde alegres, como lo explicó un editor de Shakespeare en 1878 [^rolfe]. Era un saludo dirigido a los "gentlemen", los señores, así que la coma va después de "merry".
 
-Los impresores pusieron la coma en los dos sitios. Sandys imprimió "God rest you merry, gentlemen"; la lista de Hone y el libro de Bramley y Stainer la ponen después de "you" [^sandys1833][^hone1823][^bramley]. Nuestra letra sigue a Bramley y Stainer; canta "God rest you merry" como una sola frase y el sentido se entiende. Los tres imprimieron "you": nuestro título conserva el "ye" que mucha gente conoce, pero cantamos "you".
+Nuestra letra sigue a Bramley y Stainer, que ponen la coma después de "you", como la lista de Hone; Sandys la puso después de "merry" [^bramley][^hone1823][^sandys1833]. Canta "God rest you merry" como una sola frase y el sentido se entiende. Los tres imprimieron "you": nuestro título conserva el "ye" que mucha gente conoce, pero cantamos "you".
 
 **Estrofa 1, la que cantamos.** Que nada te "dismay", que nada te quite el ánimo [^webster], porque Cristo nació el día de Navidad "to save us all from Satan's power", para salvarnos a todos del poder de Satanás, como un eco del "power of Satan" de los Hechos de los Apóstoles, "when we were gone astray", cuando andábamos descarriados, como las ovejas de Isaías [^kjv]. El estribillo lo llama "tidings", noticias, de consuelo y de alegría [^webster], como el ángel que, en Lucas, anuncia a los pastores "good tidings of great joy", una buena noticia de gran alegría [^kjv].
 
@@ -66,13 +66,121 @@ Los impresores pusieron la coma en los dos sitios. Sandys imprimió "God rest yo
 
 **Estrofa 7.** Se pide a todos los que están en la sala que canten alabanzas y que se abracen "with true love and brotherhood", con amor sincero y fraternidad. Esta santa estación "all other doth deface": "deface" significaba antes eclipsar, así que la Navidad eclipsa cualquier otra época del año [^ned-deface].
 
-El texto de Sandys es distinto en algunos puntos. Su primera estrofa dice "For Jesus Christ our Saviour / Was born upon this day", donde Bramley y Stainer ponen "Remember Christ our Saviour / Was born on Christmas Day" (su música dice "on Christmas day"), y escribe Jewry como "Jury" [^sandys1833][^bramley].
+La primera estrofa de Sandys dice "For Jesus Christ our Saviour / Was born upon this day", donde Bramley y Stainer ponen "Remember Christ our Saviour / Was born on Christmas Day" (su música dice "on Christmas day"), y escribe Jewry como "Jury" [^sandys1833][^bramley].
+
+### La letra completa
+
+Estas son las siete estrofas tal como las imprimen Bramley y Stainer en el número 1, la primera bajo la música y las demás en la página siguiente, cada una terminada en "O tidings, &c." en lugar del estribillo; la s larga se escribe aquí como una s moderna [^bramley]. El texto de Sandys de 1833 tiene las mismas siete estrofas con otras palabras en algunos puntos, entre ellas una segunda mitad distinta en la cuarta [^sandys1833].
+
+**Estrofa 1**
+> God rest you, merry gentlemen,
+Dios los guarde alegres, señores,
+> Let nothing you dismay,
+que nada les quite el ánimo;
+> Remember Christ our Saviour,
+recuerden que Cristo, nuestro Salvador,
+> Was born on Christmas Day;
+nació el día de Navidad,
+> To save us all from Satan's pow'r
+para salvarnos a todos del poder de Satanás
+> When we were gone astray;
+cuando andábamos descarriados.
+
+**Estribillo**
+> O tidings of comfort and joy, comfort and joy,
+Oh, noticias de consuelo y de alegría, de consuelo y de alegría,
+> O tidings of comfort and joy.
+oh, noticias de consuelo y de alegría.
+
+**Estrofa 2**
+> In Bethlehem, in Jewry,
+En Belén, en Judea,
+> This blessed Babe was born,
+nació este Niño bendito,
+> And laid within a manger,
+y lo acostaron en un pesebre
+> Upon this blessed Morn;
+en esta mañana bendita;
+> The which His Mother Mary,
+y Su Madre María
+> Did nothing take in scorn.
+no despreció nada de aquello.
+
+**Estrofa 3**
+> From God our Heavenly Father,
+De Dios, nuestro Padre del cielo,
+> A blessed Angel came;
+vino un Ángel bendito,
+> And unto certain Shepherds
+y a unos Pastores
+> Brought tidings of the same:
+les llevó la noticia:
+> How that in Bethlehem was born
+que en Belén había nacido
+> The Son of God by Name.
+el Hijo de Dios, así llamado.
+
+**Estrofa 4**
+> Fear not then said the Angel,
+No teman, dijo entonces el Ángel,
+> Let nothing you affright,
+que nada los asuste;
+> This day is born a Saviour
+hoy ha nacido un Salvador
+> Of a pure Virgin bright,
+de una Virgen pura y luminosa,
+> To free all those who trust in Him
+para librar a todos los que confían en Él
+> From Satan's power and might.
+del poder y la fuerza de Satanás.
+
+**Estrofa 5**
+> The Shepherds at those tidings,
+Los Pastores, ante esa noticia,
+> Rejoicéd much in mind,
+se alegraron mucho en su interior,
+> And left their flocks a-feeding,
+y dejaron sus rebaños paciendo
+> In tempest, storm, and wind:
+entre tempestad, tormenta y viento,
+> And went to Bethlehem straightway,
+y fueron enseguida a Belén
+> The Son of God to find.
+a buscar al Hijo de Dios.
+
+**Estrofa 6**
+> And when they came to Bethlehem
+Y cuando llegaron a Belén,
+> Where our dear Saviour lay,
+donde estaba nuestro querido Salvador,
+> They found Him in a manger,
+lo encontraron en un pesebre,
+> Where oxen feed on hay;
+donde los bueyes comen heno;
+> His Mother Mary kneeling down,
+Su Madre María, de rodillas,
+> Unto the Lord did pray.
+rezaba al Señor.
+
+**Estrofa 7**
+> Now to the Lord sing praises,
+Canten ahora alabanzas al Señor,
+> All you within this place,
+todos los que están en este lugar,
+> And with true love and brotherhood
+y con amor sincero y fraternidad
+> Each other now embrace;
+abrácense ahora unos a otros;
+> This holy tide of Christmas
+esta santa estación de Navidad
+> All other doth deface.
+eclipsa a todas las demás.
 
 ## Cómo se canta
 
 The New Oxford Book of Carols lo llama una "luck-visit song", una canción que cantan quienes visitan una casa para desearle suerte [^canterbury]. Su melodía es GOD REST YOU MERRY. Hymnary.org da su métrica como 8.6.8.6.8.6 con estribillo; The Hymnal 1982, n.º 105, da 7.6.7.6.8.6 [^hymnary-tune][^h82].
 
-Nuestro arreglo toma las cuatro voces de Stainer para el n.º 1 en una impresión de la década de 1870, en Mi menor, como está impreso [^bramley]. Cantamos la primera estrofa y su estribillo, "O tidings of comfort and joy". Donde Stainer liga dos notas en una sílaba en las voces graves, cantamos una sola nota larga, en 17 lugares. Hay nueve notas cambiadas: más terceras entre la soprano y la contralto, ningún salto amplio en el bajo ni en las voces interiores, y un tenor que se mueve casi siempre por grados conjuntos. Las respiraciones están marcadas. En "O tidings of comfort and joy" la armonía gira hacia Sol mayor, y el último "joy" vuelve a casa, a Mi menor.
+Nuestro arreglo toma las cuatro voces de Stainer para el n.º 1 en una impresión de la década de 1870, en Mi menor, como está impreso [^bramley]. Cantamos la primera estrofa y su estribillo. Donde Stainer liga dos notas en una sílaba en las voces graves, cantamos una sola nota larga, en 17 lugares. Hay nueve notas cambiadas: más terceras entre la soprano y la contralto, ningún salto amplio en el bajo ni en las voces interiores, y un tenor que se mueve casi siempre por grados conjuntos. Las respiraciones están marcadas. En "O tidings of comfort and joy" la armonía gira hacia Sol mayor, y el último "joy" vuelve a casa, a Mi menor.
 
 ## Versiones y otras letras
 
@@ -105,7 +213,7 @@ Nadie lo sabe. Las primeras impresiones conocidas, hojas sueltas del siglo XVIII
 
 ### ¿Qué voz canta la melodía?
 
-En nuestro arreglo, la soprano canta la melodía, desde el Re grave de "Let" hasta el Mi agudo de "Satan's". Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo en las fundamentales; con cuatro, el tenor llena el centro del acorde.
+En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo en las fundamentales; con cuatro, el tenor llena el centro del acorde.
 
 ## Canta después
 
