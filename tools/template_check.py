@@ -14,6 +14,7 @@ and words included. Skipped when git or the ref isn't there (a shallow CI checko
 check (app:templates:versions, run by content-bump.sh) compares with the pinned commit.
 """
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -80,6 +81,43 @@ def check(path):
             problems.append(f"{where}: voicing {count} names a part that doesn't exist")
         if melodies and melodies[0] not in voicing:
             problems.append(f"{where}: voicing {count} leaves out the melody ({melodies[0]})")
+    check_rights(song, where)
+
+
+ROLES = {"music", "words", "translation", "arrangement", "edition"}
+COUNTRY = re.compile(r"^[A-Z]{2}$")
+
+
+def check_rights(song, where):
+    """Rights by country (the Stackapella repository's docs/geo-rights-plan.md): an open song names its makers
+    (an empty list when all of it is traditional or anonymous) and its first printing, or, known only from a
+    manuscript, the year it was made. Missing data would withhold it everywhere."""
+    def year(value):
+        return isinstance(value, int) and not isinstance(value, bool) and 1000 <= value <= 2100
+
+    makers, printed, made = song.get("makers"), song.get("firstPublished"), song.get("made")
+    if song.get("reviewed") and makers is None:
+        problems.append(f"{where}: an open song needs makers (an empty list if all of it is traditional or anonymous)")
+    if song.get("reviewed") and printed is None and made is None:
+        problems.append(f"{where}: an open song needs firstPublished (or made, for a song known only from a manuscript)")
+    for maker in makers or []:
+        if not isinstance(maker, dict) or not isinstance(maker.get("name"), str) or not maker["name"]:
+            problems.append(f"{where}: a maker without a name")
+            continue
+        name = maker["name"]
+        if maker.get("role") not in ROLES:
+            problems.append(f"{where}: {name}'s role {maker.get('role')!r} isn't one of {', '.join(sorted(ROLES))}")
+        if not year(maker.get("died")) and maker.get("died") not in ("living", "unknown"):
+            problems.append(f"{where}: {name} died {maker.get('died')!r}: a year, \"living\" or \"unknown\"")
+        if "nationality" in maker and not COUNTRY.match(str(maker["nationality"])):
+            problems.append(f"{where}: {name}'s nationality {maker['nationality']!r} isn't an ISO 3166 code")
+    if printed is not None:
+        if not isinstance(printed, dict) or not year(printed.get("year")):
+            problems.append(f"{where}: firstPublished needs a year")
+        elif "country" in printed and not COUNTRY.match(str(printed["country"])):
+            problems.append(f"{where}: firstPublished's country {printed['country']!r} isn't an ISO 3166 code")
+    if made is not None and not year(made):
+        problems.append(f"{where}: made {made!r} isn't a year")
 
 
 songs = sorted(p for p in (ROOT / "templates").glob("*/*.json") if p.name != "index.json" and p.parent.name != "format")
