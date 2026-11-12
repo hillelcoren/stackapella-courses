@@ -19,6 +19,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote hark the herald angels sing | who originally wrote hark the herald angels sing | hark the herald angels sing history | what does hark the herald angels sing mean | what does harold mean in hark the herald angels sing | hark the herald angels sing lyrics 5 verses meaning | who wrote the melody for hark the herald angels sing
+listen: National Jukebox, 1919 recording | https://www.loc.gov/item/jukebox-661398/ || National Jukebox, 1911 recording | https://www.loc.gov/item/jukebox-130938/
+original: Hymns and Sacred Poems (1739), Internet Archive | https://archive.org/details/bim_eighteenth-century_hymns-and-sacred-poems-_wesley-john_1739_1/page/n219
 ---
 
 Hark! The Herald Angels Sing is an English Christmas hymn. Its words began as Charles Wesley's "Hymn for Christmas-Day", printed in London in 1739 with a different first line: "Hark how all the welkin rings" [^duke-hsp][^julian]. The opening everyone knows was written by the preacher George Whitefield, who printed it in 1753 [^duke-hsp][^julian]. The tune is Felix Mendelssohn's, written in 1840 for a festival in Leipzig honouring Gutenberg and the invention of printing; an English organist, William H. Cummings, fitted it to Wesley's words in the 1850s [^mt1897][^lightwood]. By 1907 the Dictionary of Hymnology called this altered text the most popular form of the hymn, in common use in all English-speaking countries [^julian].
@@ -27,13 +29,21 @@ Hark! The Herald Angels Sing is an English Christmas hymn. Its words began as Ch
 
 **The words.** In 1739, at the start of the Methodist revival, the brothers John and Charles Wesley published a book of verse in London, Hymns and Sacred Poems [^duke-hsp][^julian]. The book bore both brothers' names but did not say who wrote which hymn; this one is Charles's [^duke-hsp][^julian][^canterbury]. His "Hymn for Christmas-Day" had ten verses of four lines [^duke-hsp][^julian][^canterbury]. It began with the angels' song ringing across the sky: "Hark how all the welkin rings, / 'Glory to the King of kings'" [^hsp1739][^duke-hsp][^kjv]. "Welkin" is an old, poetic word for the sky, the vault of heaven [^webster][^summerly].
 
+![[1]]
+
 **The changes.** George Whitefield, a leading Methodist preacher of Calvinist views, put it in his Collection of Hymns for Social Worship in 1753 [^summerly][^nge][^duke-hsp][^julian]. He rewrote the first two lines as "Hark! the herald angels sing / Glory to the new-born King!", made smaller changes, and left out Wesley's eighth and tenth verses [^duke-hsp][^julian][^hymnarchive]. In 1760 Martin Madan's Collection of Psalms and Hymns kept Whitefield's opening but went back to Wesley elsewhere, except for two lines. Wesley had written "Universal nature say / 'Christ the Lord is born to day!'", and Whitefield had made them "Nature rise and worship him, / Who is born at Bethlehem". Madan gave "With th' angelic host proclaim, / 'Christ is born in Bethlehem!'" [^madan][^julian][^hymnarchive][^wf1753]. By 1782 a supplement of hymns printed with Tate and Brady's New Version of the Psalms had made it three verses of eight lines, with its first two lines repeated after each as a refrain [^julian][^hymnarchive][^hymnary-text].
+
+![[2]]
 
 **The tune.** In June 1840 Leipzig held a festival for Gutenberg and what was taken to be the 400th anniversary of printing [^summerly][^praise]. Mendelssohn wrote a Festgesang, a "festival song", for men's voices and brass, and it was sung in the open air on 24 June 1840 [^mt1897][^imslp]. Its second number, headed simply "Lied", song, is our tune [^mt1897][^imslp].
 
 **The pairing.** William H. Cummings, a young organist at Waltham Abbey, was playing through the Festgesang when he saw that its second chorus would carry Wesley's hymn [^mt1897][^lightwood][^grove]. By his account to the Musical Times, the congregation there sang it "with great enthusiasm", and so many people asked for copies that he took it to the publishers Ewer and Co., who printed it in 1856 [^mt1897][^summerly]. Lightwood's history of hymn tunes dates the adaptation to 1855, Hymnary.org to 1856 [^lightwood][^hymnary-tune].
 
+![[3]]
+
 Which hymnal printed the pair first is disputed: the Musical Times believed in 1897 that it was Hymns Ancient and Modern in 1861, while Hymnology Archive and the Praise Trust name an earlier one, Richard Chope's Congregational Hymn and Tune Book [^mt1897][^hymnarchive][^praise]. Either way, Hymns Ancient and Modern fixed the pairing [^hymnary-tune][^hymnarchive][^praise]. It printed the hymn as No. 43 in 1861, the tune listed as "Mendelsohn", and as No. 60, MENDELSSOHN, in its standard edition of 1875 [^ham1861][^ham1875].
+
+![[4]]
 
 **Myth and record.** Often told: Mendelssohn objected to his tune being sung to this hymn. What the record shows: Mendelssohn died in 1847, years before Cummings's arrangement [^hymnary-mendelssohn][^mt1897][^summerly]. In a letter dated 30 April 1843, printed in part in the Musical Times in December 1897, he wrote to his English publisher, E. Buxton, about an English translation of the Festgesang and asked for other words for No. 2. The piece would be liked, he wrote, "but it will never do to sacred words. There must be a national and merry subject found out" [^mt1897]. The Musical Times noted that Buxton had owned Ewer and Co., and that Cummings had known nothing of Mendelssohn's view [^mt1897].
 

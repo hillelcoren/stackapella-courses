@@ -19,6 +19,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote o come all ye faithful | o come all ye faithful meaning | o come all ye faithful meaning bible verse | o come all ye faithful joyful and triumphant meaning | o come all ye faithful original lyrics | o come all ye faithful lyrics catholic version | o come all ye faithful history
+listen: National Jukebox, 1919 recording | https://www.loc.gov/item/jukebox-661390/ || National Jukebox, 1915 recording | https://www.loc.gov/item/jukebox-12842/
+original: Hymns of Worship and Service (1909), Internet Archive | https://archive.org/details/hymnsofworship00newy/page/n102
 ---
 
 O Come, All Ye Faithful is the English form of Adeste Fideles, a Latin Christmas hymn of the eighteenth century. Its earliest known copies, words and tune together, are in the hand of John Francis Wade, an English Catholic who earned his living copying church music [^hymnarchive][^zon]. Whether he wrote it or only copied it is not known [^hymnarchive][^zon][^america]. By the 1790s it was sung at the Portuguese embassy chapel in London, and in 1841 an Anglican priest, Frederick Oakeley, put it into English for his London congregation [^julian][^hymnarchive]. By 1907 Julian's Dictionary of Hymnology found Oakeley's English in "a great number of collections" [^julian].
@@ -30,6 +32,8 @@ O Come, All Ye Faithful is the English form of Adeste Fideles, a Latin Christmas
 **The copies.** Adeste Fideles appears, in four Latin verses with its tune, in several of Wade's books [^hymnarchive][^phh]. Probably the oldest, a copy described by Dom John Stéphan of Buckfast Abbey in a 1947 study and now lost, dates from the mid-1740s: about 1743 or 1744 in one account of Stéphan's dating, around 1745 in the 1996 study [^hcnotes][^zon]. The Irish musicologist W. H. Grattan Flood dated a copy at Clongowes Wood College in Ireland to 1746; James Britten, writing in 1924, said the manuscript itself showed 1749. It is now lost [^hymnarchive][^britten][^america]. Two surviving copies are dated 1750, one of them at the University of Glasgow, and one at Stonyhurst College is dated 1751 [^hymnarchive][^britten][^zon].
 
 **The tune.** In Wade's earliest copies the tune moves in threes. The even, four-beat tune sung today is first found in print in 1782, in An Essay on the Church Plain Chant, published in London by J. P. Coghlan [^zon][^phh][^hymnarchive]. Who prepared the Essay is disputed: Stéphan and others name Samuel Webbe, an organist of the London embassy chapels, while the editors of The New Oxford Book of Carols (1992) call it anonymous [^hcnotes][^phh][^hymnarchive]. The Latin words were printed earlier, in The Evening Office of the Church of 1760, a prayer book in Latin and English [^hymnarchive][^hymnary-latin].
+
+![[1]]
 
 **The Portuguese Hymn.** Webbe was also organist of the Portuguese embassy chapel, where the hymn was sung by the 1790s, so in England the tune was long known as the Portuguese Hymn [^cath-webbe][^julian][^hymnarchive][^america]. Vincent Novello, a later organist there, credited the tune to John Reading, a seventeenth-century organist of Winchester Cathedral; scholars set that aside, since the tune is not in Reading's known music and no copy is older than the 1740s [^julian][^hymnarchive][^britten]. The 1996 study has also suggested Thomas Arne, whom it places at the Sardinian embassy chapel, granting that the idea may seem implausible [^zon][^hymnarchive].
 
@@ -119,6 +123,8 @@ Come, let us worship the Lord.
 ### The full words
 
 These are Frederick Oakeley's words of 1841, with the changes Murray's hymnal made in 1852, as Hymns of Worship and Service (New York, 1909) prints them at No. 89, the page our arrangement is read from; it spells "Oh" where we sing "O", and sings the refrain after each verse [^hws1909][^julian]. That book prints three verses and leaves out Oakeley's second, "God of God", so that verse is not from the 1909 book: it is given here as The English Hymnal printed it in 1906, at No. 28 [^eh1906]. Fuller hymnals add W. T. Brooke's English of the four later Latin verses, from 1884 [^hymnary-latin][^hymnarchive].
+
+![[2]]
 
 **Verse 1**
 Oh come, all ye faithful,

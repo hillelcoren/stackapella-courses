@@ -16,6 +16,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote o holy night | o holy night history | o holy night original french | o holy night lyrics meaning | long lay the world in sin and error pining meaning | was o holy night written by an atheist | was o holy night banned | o holy night made history as the first
+listen: Internet Archive, 1914 recording | https://archive.org/details/78_holy-night-cantique-de-nol_evan-williams-louis-heine-adolphe-adam_gbia0310892a || Internet Archive, 1919 recording | https://archive.org/details/edison-82171_01_6817
+original: Schott's Cantique de Noël (about 1852), Bayerische Staatsbibliothek | https://www.digitale-sammlungen.de/en/view/bsb00149248?page=2
 ---
 
 O Holy Night is a Christmas solo that choirs have made their own. Its French words, Minuit, chrétiens ("Midnight, Christians"), are by Placide Cappeau, a wine merchant of Roquemaure in southern France. Adolphe Adam, a Paris composer of comic opera and ballet, set them in 1847 [^canterbury-fr][^musimem]. It was sung at Midnight Mass in Roquemaure that Christmas, and within twenty years a French church-music journal was complaining that it was heard in streets, salons and café-concerts [^musimem][^lefort][^ivry]. The English most people sing is by John Sullivan Dwight, a Boston music critic and former Unitarian minister, and dates from 1855 [^canterbury-en][^canterbury-dwight][^hymnary-stw].
@@ -30,11 +32,15 @@ The date is told two ways. Cappeau said he wrote them in a stagecoach on the way
 
 **How it travelled.** By about 1852, the date cataloguers give their earliest copies, Paris publishers had issued a "second" and a "sixth" edition, and Schott was selling it in Mainz, Brussels and London with French and German words [^momh][^imslp][^ddb]. In 1857 a young Quebec musician, Ernest Gagnon, heard it at Midnight Mass in Paris; the next year he brought it home [^bronze][^ivry].
 
+![[1]]
+
 **The English.** Dwight was born in Boston in 1813 [^cooke][^canterbury-en]. Ordained a Unitarian minister at Northampton, Massachusetts, in 1840, he left in 1841 for the Brook Farm community, and in 1852 founded Dwight's Journal of Music, which he edited for almost thirty years [^ripley][^cooke][^canterbury-dwight]. His English dates from 1855, but the sources we read do not say where it first appeared [^canterbury-en][^hymnary-stw]. He died in Boston on 5 September 1893 [^cooke][^canterbury-dwight].
 
 **Myth and record.** Often told: church leaders in France banned the carol once they learned what kind of man had written the words. What the record shows: Catholic critics and church-music journals disliked its martial music and its words [^musimem][^ivry]. In 1864 the Revue de musique sacrée suggested dropping it as a song of streets and cafés [^musimem][^ivry]. One Catholic reference book says many dioceses dropped it, but none of the sources we read names a ban by France's bishops as a whole or by Rome [^ivry]. Catholics in France and Quebec kept singing it at Midnight Mass [^coyne][^bronze].
 
 Often told: abolitionists in America took up Dwight's third verse, "Chains shall he break, for the slave is our brother". What the record shows: the line comes from Cappeau, whose third verse says the Redeemer sees a brother where there was only a slave, and that love joins those whom iron chained [^musimem][^nemausensis][^dann]. Dwight did hate slavery: in November 1861 his Journal said the Union was fighting "a treacherous and arrogant pro-Slavery rebellion" [^dwj1861][^cooke]. But none of the sources we read shows abolitionists singing the carol or quoting the verse; a 2023 article says it suited their cause and was popular in the North in the Civil War, but cites nothing from the time to show it [^coyne].
+
+![[2]]
 
 ### Timeline
 
@@ -155,6 +161,8 @@ His pow'r and glory evermore proclaim!
 Adam's printed copies are for one voice with piano, organ or harmonium [^ddb][^imslp]. In French Canada, singing it at Midnight Mass was an honour for a fine singer or the parish soloist [^bronze][^ivry]. English hymnals call the tune CANTIQUE DE NOEL [^hymnary-stw]. Choirs sing it in arrangements such as Dudley Buck's for solo, choir and organ (New York, copyright 1881) [^buck][^imslp], or the 1916 Boston carol book's, with a soprano or tenor soloist in the verse and a choir in the refrain [^hutchins].
 
 Our arrangement is read from that 1916 book, written a minor third lower, in C, for 2 to 4 singers: the first verse and the refrain. We sing it slow and lilting in 6/8, the lilt of the book's triplet accompaniment [^hutchins]. In the verse, the alto and tenor sing our own quiet chords on the book's organ harmony, and the bass takes the organ's lowest notes. In the refrain they sing the book's choir parts, with a few notes changed so the lines move by step.
+
+![[3]]
 
 ## Versions and other words
 

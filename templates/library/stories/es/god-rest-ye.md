@@ -19,7 +19,9 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: god rest ye merry gentlemen historia | god rest ye merry gentlemen significado | quién escribió god rest ye merry gentlemen | god rest ye merry gentlemen dónde va la coma | god rest ye merry gentlemen letra original
-translatedFrom: 935dd95bd6e8
+translatedFrom: 6dce47051fa8
+listen: Internet Archive, grabación de 1917 | https://archive.org/details/edison-50447_01_5677 || Internet Archive, grabación de 1923 | https://archive.org/details/78_god-rest-ye-merry-gentlemen_champion-quartette_gbia0535287a
+original: Four Choice Carols for Christmas Holidays (hacia 1700), English Broadside Ballad Archive | https://ebba.english.ucsb.edu/ballad/31130/citation
 ---
 
 God Rest Ye Merry, Gentlemen es un villancico inglés. Nadie sabe quién hizo su letra ni su melodía: las primeras impresiones conocidas son hojas sueltas baratas del siglo XVIII, y no nombran a ningún autor [^ebba][^ecco1760][^canterbury]. Su primer verso es un saludo, "God keep you merry", que Dios los guarde alegres, dirigido a los señores que escuchan [^ned-rest][^rolfe]. Después, el villancico cuenta la historia de Navidad, desde la noticia del ángel hasta la visita de los pastores al pesebre. Fue una canción de la calle antes que una pieza de coro: en 1833 un coleccionista todavía podía oír en Londres a un cantante solitario "graznando" este villancico [^sandys1833]. Un editor victoriano escribió que "quizá no haya ningún villancico tan universalmente conocido" [^husk].
@@ -32,11 +34,17 @@ God Rest Ye Merry, Gentlemen es un villancico inglés. Nadie sabe quién hizo su
 
 Diez años después, el anticuario William Sandys describió el mismo comercio londinense. Los villancicos "todavía se imprimen en Londres para los buhoneros, o vendedores de literatura barata", sobre todo por Pitts, Catnach y Batchelar. En las calles, escribió, "de vez en cuando se puede oír a algún ambulante solitario", graznando este villancico u otro "con una melodía antigua y sencilla" [^sandys1833]. Su libro de 1833, Christmas Carols, Ancient and Modern, imprimió el villancico en su segunda parte, "villancicos que todavía se usan en el oeste de Inglaterra", con una melodía propia [^sandys1833].
 
+![[1]]
+
 **Dickens.** En el primer capítulo de Cuento de Navidad (A Christmas Carol), en 1843, un joven cantor de villancicos se agacha ante el ojo de la cerradura de Scrooge para cantar "God bless you merry gentleman! May nothing you dismay!", y Scrooge agarra la regla "con tal energía que el cantor huyó aterrado" [^dickens-mcgill].
 
 **La melodía.** La melodía que cantamos es la menor. El coleccionista William Chappell, que la imprimió en la década de 1850, anotó que el villancico "a veces se canta en tono mayor, y a veces en menor", y que la copia más antigua de la melodía que había visto estaba "de puño y letra del Dr. Nares, el compositor de catedral", donde se llamaba "The old Christmas Carol", el viejo villancico de Navidad [^chappell]. James Nares (1715 a 1783) fue organista de la catedral de York (York Minster) y después organista y compositor de la Chapel Royal [^grove-nares][^dnb-nares]. A Little Book of Christmas Carols, de Edward Rimbault, sin fecha y situado por los editores de himnarios hacia 1846 a 1850, imprimió el villancico dos veces, como "versión común" y como "versión de Cornualles" [^rimbault-imslp][^hymnary-tune][^hcc-notes].
 
+![[2]]
+
 **Bramley y Stainer.** En Christmas Carols New and Old, la letra la editó Henry Ramsden Bramley, fellow del Magdalen College de Oxford, y la música John Stainer, organista del mismo colegio [^bramley]. God rest you merry abre el libro como n.º 1, a cuatro voces, en Mi menor y con siete estrofas [^bramley]. La primera serie salió en noviembre de 1867: el Musical Times del 1 de diciembre de 1867 la incluye entre los libros de Novello del último mes, y una historia de la editorial de 1887 da el mismo mes. El Musical Times lo reseñó en diciembre de 1868 [^mt1867][^hcc-bs][^mt1868]. En 1870 llegó una segunda serie, y la fecha de 1871, que se da a menudo, corresponde a una edición ilustrada de las dos primeras series juntas [^hymnarchive-stainer][^cam-blog].
+
+![[3]]
 
 **Mito y documentos.** Se suele contar que el villancico se remonta al siglo XVI, cuando lo cantaban los "waits" de Londres, músicos que recorrían las calles de noche [^hcc-notes][^webster]. Lo que muestran los documentos: su saludo era habla corriente en el siglo XVI, y un diccionario de 1548 ya da "Reste you mery" como lo que "the vulgare people saie", lo que dice la gente común [^ned-rest]. Pero las primeras impresiones conocidas del villancico son del siglo XVIII, y nadie ha averiguado quién lo cantó primero [^ebba][^ecco1760][^canterbury].
 

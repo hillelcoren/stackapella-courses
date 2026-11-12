@@ -19,6 +19,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote god rest ye merry gentlemen | who originally wrote god rest ye merry gentlemen | god rest ye merry gentlemen history | what does god rest ye merry gentlemen mean | god rest ye merry gentlemen meaning of lyrics | where is the comma in god rest ye merry gentlemen supposed to go | does god rest ye merry gentlemen have a comma | god rest ye merry gentlemen original
+listen: Internet Archive, 1917 recording | https://archive.org/details/edison-50447_01_5677 || Internet Archive, 1923 recording | https://archive.org/details/78_god-rest-ye-merry-gentlemen_champion-quartette_gbia0535287a
+original: Four Choice Carols for Christmas Holidays (about 1700), English Broadside Ballad Archive | https://ebba.english.ucsb.edu/ballad/31130/citation
 ---
 
 God Rest Ye Merry, Gentlemen is an English Christmas carol. Nobody knows who made its words or its tune: the earliest known printings are cheap single sheets of the 1700s, and they name no author [^ebba][^ecco1760][^canterbury]. Its first line is a greeting, "God keep you merry", spoken to the gentlemen listening [^ned-rest][^rolfe]. The carol then tells the Christmas story, from the angel's news to the shepherds' visit to the manger. It was a street song before it was a choir piece: in 1833 a collector could still hear a lone singer in London "croaking out" this carol [^sandys1833]. A Victorian editor wrote that there was "no carol, perhaps, so universally known" [^husk].
@@ -31,11 +33,17 @@ God Rest Ye Merry, Gentlemen is an English Christmas carol. Nobody knows who mad
 
 Ten years later the antiquary William Sandys described the same London trade. Carols were "yet printed in London for the chapmen, or dealers in cheap literature", chiefly by Pitts, Catnach and Batchelar. In the streets, he wrote, "a solitary itinerant may be occasionally heard", croaking out this carol or another "to an ancient and simple tune" [^sandys1833]. His book of 1833, Christmas Carols, Ancient and Modern, printed the carol in its second part, "carols still used in the West of England", with a tune of its own [^sandys1833].
 
+![[1]]
+
 **Dickens.** In the first chapter of A Christmas Carol, in 1843, a young caroller stoops at Scrooge's keyhole to sing "God bless you merry gentleman! May nothing you dismay!", and Scrooge seizes the ruler "with such energy of action, that the singer fled in terror" [^dickens-mcgill].
 
 **The tune.** The tune we sing is the minor one. The collector William Chappell, who printed it in the 1850s, noted that the carol was "sometimes sung in a major key, and sometimes in a minor", and that the earliest copy of the tune he had seen was "in the handwriting of Dr. Nares, the cathedral composer", where it was called "The old Christmas Carol" [^chappell]. James Nares (1715 to 1783) was organist of York Minster and later organist and composer to the Chapel Royal [^grove-nares][^dnb-nares]. Edward Rimbault's A Little Book of Christmas Carols, undated and placed by hymnal editors about 1846 to 1850, printed the carol twice, as a "common version" and a "Cornish version" [^rimbault-imslp][^hymnary-tune][^hcc-notes].
 
+![[2]]
+
 **Bramley and Stainer.** In Christmas Carols New and Old the words were edited by Henry Ramsden Bramley, a Fellow of Magdalen College, Oxford, and its music by John Stainer, organist of the same college [^bramley]. God rest you merry opens the book as No. 1, in four parts in E minor with seven verses [^bramley]. The first series came out in November 1867: the Musical Times of 1 December 1867 lists it among Novello's books of the past month, and an 1887 history of the firm gives the same month. The Musical Times reviewed it in December 1868 [^mt1867][^hcc-bs][^mt1868]. A second series followed in 1870, and the date 1871, often given, belongs to an illustrated edition of the first two series together [^hymnarchive-stainer][^cam-blog].
+
+![[3]]
 
 **Myth and record.** Often told: the carol goes back to the 1500s, when London's waits, musicians who went about at night, sang it [^hcc-notes][^webster]. What the record shows: its greeting was everyday speech in the 1500s, and a dictionary of 1548 already gives "Reste you mery" as what "the vulgare people saie" [^ned-rest]. But the earliest known printings of the carol are of the 1700s, and nobody has traced who first sang it [^ebba][^ecco1760][^canterbury].
 

@@ -17,6 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote jingle bells originally | what year was jingle bells written | was jingle bells written for thanksgiving | was jingle bells a minstrel song | is jingle bells a christmas song | jingle bells history minstrel | is jingle bells public domain | jingle bells meaning origin
+original: The One Horse Open Sleigh (1857), Library of Congress | https://www.loc.gov/item/2023812429/
 ---
 
 Jingle Bells is a song about a fast sleigh ride on new snow, and its words never mention Christmas. James Lord Pierpont wrote the words and the music, and Oliver Ditson & Co. of Boston published it in 1857 as "The One Horse Open Sleigh", a song with a chorus for four voices [^ditson1857]. Its first known performance was on a Boston minstrel stage on 15 September 1857, sung by a performer in blackface [^hamill][^bostonia]. Within twenty years it was in a Boston book of American college songs, its chorus marked "accompanied by jingling glasses" [^carmina1876]. It became a Christmas song only later, and today it is among the best known of them [^hamill][^bostonia].
@@ -27,11 +28,15 @@ Jingle Bells is a song about a fast sleigh ride on new snow, and its words never
 
 **The song.** The Library of Congress copy of "The One Horse Open Sleigh" carries the handwritten note "Deposited Sept. 16. 1857": the day it was deposited for copyright [^ditson1857]. Its cover names it a "Song and Chorus, written & composed by J. Pierpont" and dedicates it "to John P. Ordway, Esq." [^ditson1857]. John Ordway ran Ordway Hall and led Ordway's Aeolians, a minstrel company of white men in blackface [^wittmann][^historycom][^bostonia]. The theatre historian Kyna Hamill found a playbill for Ordway Hall on 15 September 1857, the day before the deposit. In the first part of that night's blackface minstrel show, Johnny Pell sang "One Horse Open Sleigh", playing a blackface dandy [^hamill][^bostonia]. Hamill argues that the song grew out of a fashion on northern minstrel stages for burlesquing the popular sleigh-ride courtship song through the figure of the blackface dandy, and that the song's beginnings in blackface and racist entertainment were later removed from its history, subtly and step by step [^hamill]. Its words, she notes, are not written wholly in dialect, though a word like "upsot" gives them a southern sound for northern audiences [^hamill].
 
+![[1]]
+
 **The new title.** In 1859 the song was copyrighted again, as "Jingle Bells, or The One Horse Open Sleigh" [^hamill][^connectsav]. By Hamill's account this edition dropped the dedication to Ordway [^hamill]. That year the Savannah church closed and Pierpont's brother went back north [^historycom][^connectsav].
 
 **The war.** When the Civil War came, Pierpont enlisted in the Confederate army and served as a company clerk in a Georgia cavalry unit raised around Savannah [^historycom][^connectsav]. He wrote songs for the Southern cause; "We Conquer or Die" was published in New Orleans in 1861 [^wustl1861][^hamill]. His father went to the war as chaplain of a Union regiment, the 22nd Massachusetts Infantry, in 1861 [^historycom][^harvard]. James died in Florida in 1893 and was buried in Savannah [^historycom][^connectsav][^bostonia].
 
 **The tune.** The verse tune of 1857 is, in its shape, the one sung now [^ditson1857][^heartsongs1909]. The chorus is not. In 1857 the second "Jingle bells" jumps higher than the first, the line touches a note outside the key, an E natural on "way", and the words are "Oh! what joy it is to ride" [^ditson1857]. The chorus sung today, with every "Jingle bells" on one repeated note and "Oh! what fun it is to ride", is in print by 1876, in a Boston book of college songs with no composer named [^carmina1876]. The verse has changed a little too: 1857 has "o'er the hills" for "o'er the fields" and "Oh what sport to ride and sing" [^ditson1857][^carmina1876]. Who reshaped the song, and when, is not known from the sources read for this page.
+
+![[2]]
 
 **Myth and record.** Often told: it was first sung at a Thanksgiving church service or Sunday school concert, in Savannah's version at his brother's church there in 1857 [^historycom][^connectsav]. What the record shows: its first known performance and its copyright deposit, both in September 1857, came weeks before that year's Thanksgiving, and nothing in its words belongs to a church or a holiday [^hamill][^ditson1857].
 
@@ -129,6 +134,8 @@ In a one horse open sleigh.
 ## How it is sung
 
 In 1857 the verse is for one voice and the chorus for four, from a high part down to a bass, over a busy piano part [^ditson1857]. College students took it up as a song for parties; both the 1876 college book and the 1909 Heart Songs mark the chorus "accompanied by jingling glasses" [^carmina1876][^heartsongs1909]. Heart Songs, built from favourite songs sent in by some twenty thousand people, names no author [^heartsongs1909].
+
+![[3]]
 
 Our arrangement reads the verse and chorus from Heart Songs of 1909, set by Stackapella on the harmony of its piano part and moved down a semitone from A-flat to G. We sing the first verse and then the chorus. It is for 2 to 4 singers, bright and quick, with a breath at every line.
 

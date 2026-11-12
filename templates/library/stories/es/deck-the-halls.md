@@ -17,7 +17,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: deck the halls historia | deck the halls significado | quién escribió deck the halls | deck the halls letra en español | deck the halls origen | deck the halls gay apparel significado
-translatedFrom: be9747a01fa8
+translatedFrom: 2ca038608d7e
+original: British Harmony de John Parry (1781), National Library of Wales | https://viewer.library.wales/4675640
 ---
 
 Deck the Halls es el villancico con más "fa la la" que palabras. Su melodía es galesa: una pieza de arpa llamada Nos Galan, víspera de Año Nuevo, que imprimieron el arpista John Parry en 1781 y Edward Jones en 1784 [^parry1781][^jones1784][^tta]. En Gales llevaba versos de amor y un estribillo de "fal lal" [^jones1784][^jones1794]. Su letra inglesa, "Deck the hall with boughs of holly" (adorna la sala con ramas de acebo), es de Thomas Oliphant y se imprimió en Londres en 1862 junto a una letra galesa del poeta Talhaiarn [^thomas1862][^hullah1866]. La primera estrofa de Oliphant pedía llenar la copa de hidromiel y vaciar el barril. En 1877 una revista escolar estadounidense ya imprimía en su lugar "Don we now our gay apparel", y esa es la versión que llevaron los cancioneros posteriores [^psj1877][^mccaskey1881][^golden1923].
@@ -26,13 +27,21 @@ Deck the Halls es el villancico con más "fa la la" que palabras. Su melodía es
 
 **La melodía.** En 1781 John Parry, arpista de la familia Williams Wynn en Wynnstay, imprimió una melodía llamada "Nôs Calan" como n.º 7 de British Harmony, su colección de "Antient Welsh Airs", en Sol y con tres variaciones [^parry1781][^dwb-parry]. Un investigador la remonta aún más atrás, a una pieza sin título de la colección de Parry de 1761 y a un manuscrito de violinista de hacia 1752 [^handyfinch1]. Tres años después Edward Jones, arpista de Llandderfel, en Merionethshire, la imprimió como "Nôs Galan" en Musical and Poetical Relicks of the Welsh Bards, un libro dedicado al príncipe de Gales [^jones1784][^dwb-jones]. Nos Galan es la víspera de Año Nuevo: la segunda edición de Jones, de 1794, le da el título inglés "New year's Night", y la edición de 1862, "New Year's Eve" [^jones1794][^thomas1862].
 
+![[1]]
+
 Jones la imprime en Fa, marcada Allegro, con variaciones y una estrofa galesa bajo la melodía [^jones1784]. La estrofa es un verso de amor, que empieza diciendo lo cálido que es el pecho de una muchacha esbelta, y los breves compases de respuesta tras cada verso están marcados "Chorus" (coro), con "fal lal &c" debajo [^jones1784]. Jones explica que esas estrofas, los penillion, eran la poesía propia del pueblo, guardada de memoria, y que quien cantaba podía ajustar una a muchas melodías, manteniendo la melodía mientras el arpa tocaba variaciones [^jones1784]. Su edición de 1794 añade una letra inglesa, un verso de amor sobre pechos suaves y arboledas en flor, y un "dadlea" en el estribillo [^jones1794].
+
+![[2]]
 
 **La letra.** En 1862 el arpista John Thomas, conocido como Pencerdd Gwalia, publicó un libro de Welsh Melodies with Welsh and English Poetry, arregladas para voz con arpa o piano [^thomas1862][^imslp-thomas][^handyfinch3]. Nos Galan es el n.º 15 de su segundo volumen, con letra galesa de Talhaiarn, el poeta John Jones (1810 a 1869), y letra inglesa de Thomas Oliphant [^thomas1862][^hullah1866][^dwb-talhaiarn][^imslp-thomas]. Oliphant, nacido en Perthshire en 1799, murió en Londres en 1873. Fue durante muchos años secretario de la Madrigal Society, y había pasado años ajustando letras inglesas a madrigales italianos [^dnb-oliphant][^grove-oliphant][^grandemusica]. Su Nos Galan empieza "Deck the hall with boughs of holly", y a cada verso le responde un "Fa la la" [^thomas1862].
 
 En 1866 John Hullah reimprimió la letra de Oliphant en The Song Book, con el título "Deck the Hall with Boughs of Holly", melodía "New Year's Eve", tomada de las Welsh Melodies de Thomas [^hullah1866]. En su prefacio escribió que nunca antes se había intentado nada como la obra de Thomas, melodías galesas "adornadas con el añadido de letras inglesas" [^hullah1866].
 
+![[3]]
+
 **La revisión estadounidense.** En diciembre de 1877 el Pennsylvania School Journal imprimió el villancico a cuatro voces como "Welsh Air" (aire galés), sin los versos de bebida de Oliphant [^psj1877]. La misma página se reimprimió en la Franklin Square Song Collection de J. P. McCaskey en 1881 [^mccaskey1881]. La misma letra, otra vez con pequeños cambios, está en cancioneros escolares posteriores como The Golden Book of Favorite Songs, el libro de 1923 del que está tomado nuestro arreglo [^golden1923].
+
+![[4]]
 
 **Mito y documentos.** Se suele contar que Mozart usó la melodía en una pieza para violín y piano. Lo que muestran los documentos: la historia rara vez nombra una obra, y el único investigador del que se sabe que lo comprobó, el autor de la historia del villancico de Handy Finch, no oyó la melodía en ninguna de las sonatas de Mozart para violín y piano [^handyfinch1]. Se suele contar también que la melodía es siglos más antigua que cualquier libro. La portada de Jones dice que sus melodías se conservaban "desde la más remota antigüedad", y la de Parry llama a sus piezas los restos de las que cantaban los bardos [^jones1784][^parry1781]. Lo que muestran los documentos: todas las copias escritas halladas hasta ahora son del siglo XVIII [^tta][^handyfinch1]. La melodía puede ser más antigua, pero ninguna copia lo muestra. Y se suele contar que Oliphant tradujo el galés. El libro de Hullah dice "traducido de Talhaiarn" [^hullah1866]. Pero los primeros versos de Talhaiarn alaban la noche de Año Nuevo junto al fuego con una familia alegre, mientras que los de Oliphant hablan del acebo y de la Navidad, y la historia de Handy Finch, al comparar los dos textos, concluye que el inglés no es una traducción [^thomas1862][^handyfinch3].
 

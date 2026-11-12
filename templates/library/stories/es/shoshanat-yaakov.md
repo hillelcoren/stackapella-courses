@@ -13,7 +13,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: shoshanat yaakov significado | shoshanat yaakov traducción | shoshanat yaakov letra | shoshanat yaakov texto | shoshanat yaakov purim | shoshanat yaakov canción
-translatedFrom: ca7a23d5dea9
+translatedFrom: 0f68302f6bcc
 ---
 
 Shoshanat Yaakov es una breve canción hebrea para Purim. Cuando se ha leído en voz alta el libro de Ester en su rollo y se ha dicho la bendición que lo sigue, vienen estos versos.[^baer][^kitzur] Son los últimos versos de un antiguo poema, Asher heni, con un verso más que viene de una antigua costumbre, y reúnen toda la historia en unas pocas palabras: los judíos se alegraron al ver a Mardoqueo vestido de azul real, Hashem fue entonces su salvación y es su esperanza en cada generación, y Harbona, el servidor del rey que señaló la horca de Amán, es recordado para bien.[^vitry][^yer][^je-harbona] Su primer verso toma sus palabras de alegría del propio libro de Ester.[^esther][^vitry] Nuestra melodía es la que imprimió Abraham Baer, cantor de la sinagoga de Gotemburgo, en Suecia, en su manual para cantores.[^baer][^hammarlund]

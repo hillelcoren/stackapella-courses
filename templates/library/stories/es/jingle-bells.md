@@ -17,7 +17,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: jingle bells historia | quién escribió jingle bells | jingle bells significado | jingle bells es una canción de navidad | jingle bells origen minstrel | jingle bells dominio público
-translatedFrom: 6f9e1addf4c2
+translatedFrom: db8492804cd2
+original: The One Horse Open Sleigh (1857), Library of Congress | https://www.loc.gov/item/2023812429/
 ---
 
 Jingle Bells es una canción sobre un paseo rápido en trineo por la nieve recién caída, y su letra no menciona nunca la Navidad. James Lord Pierpont escribió la letra y la música, y Oliver Ditson & Co., de Boston, la publicó en 1857 como "The One Horse Open Sleigh", una canción con un estribillo a cuatro voces [^ditson1857]. Su primera interpretación conocida fue en un escenario de minstrel show de Boston el 15 de septiembre de 1857, cantada por un artista con la cara pintada de negro (blackface) [^hamill][^bostonia]. Antes de veinte años ya estaba en un libro de Boston de canciones universitarias estadounidenses, con el estribillo marcado "acompañado de copas que tintinean" [^carmina1876]. Solo más tarde se convirtió en canción de Navidad, y hoy es de las más conocidas [^hamill][^bostonia].
@@ -28,11 +29,15 @@ Jingle Bells es una canción sobre un paseo rápido en trineo por la nieve reci�
 
 **La canción.** El ejemplar de "The One Horse Open Sleigh" de la Library of Congress lleva la nota manuscrita "Deposited Sept. 16. 1857": el día en que se depositó para registrar sus derechos de autor [^ditson1857]. Su portada la llama "Song and Chorus, written & composed by J. Pierpont" (canción y estribillo, escrita y compuesta por J. Pierpont) y la dedica "to John P. Ordway, Esq." [^ditson1857]. John Ordway dirigía el Ordway Hall y encabezaba los Ordway's Aeolians, una compañía de minstrels de hombres blancos con blackface [^wittmann][^historycom][^bostonia]. La historiadora del teatro Kyna Hamill encontró un programa del Ordway Hall del 15 de septiembre de 1857, la víspera del depósito. En la primera parte del minstrel show con blackface de esa noche, Johnny Pell cantó "One Horse Open Sleigh", en el papel de un dandi con blackface [^hamill][^bostonia]. Hamill sostiene que la canción nació de una moda de los escenarios de minstrel del norte, la de parodiar la popular canción de cortejo en trineo a través de la figura del dandi con blackface, y que los orígenes de la canción en el blackface y en el entretenimiento racista se borraron después de su historia, de forma sutil y paso a paso [^hamill]. Su letra, señala, no está escrita del todo en dialecto, aunque una palabra como "upsot" le da un sonido sureño para el público del norte [^hamill].
 
+![[1]]
+
 **El título nuevo.** En 1859 se volvieron a registrar los derechos de la canción, como "Jingle Bells, or The One Horse Open Sleigh" [^hamill][^connectsav]. Según Hamill, esa edición quitó la dedicatoria a Ordway [^hamill]. Ese año la iglesia de Savannah cerró y el hermano de Pierpont volvió al norte [^historycom][^connectsav].
 
 **La guerra.** Cuando llegó la guerra civil estadounidense, Pierpont se alistó en el ejército confederado y sirvió como escribiente de compañía en una unidad de caballería de Georgia reclutada en los alrededores de Savannah [^historycom][^connectsav]. Escribió canciones para la causa del Sur; "We Conquer or Die" se publicó en Nueva Orleans en 1861 [^wustl1861][^hamill]. Su padre fue a la guerra en 1861 como capellán de un regimiento de la Unión, el 22nd Massachusetts Infantry [^historycom][^harvard]. James murió en Florida en 1893 y fue enterrado en Savannah [^historycom][^connectsav][^bostonia].
 
 **La melodía.** La melodía de la estrofa de 1857 es, en su forma, la que se canta hoy [^ditson1857][^heartsongs1909]. La del estribillo no. En 1857 el segundo "Jingle bells" salta más arriba que el primero, la línea toca una nota fuera de la tonalidad, un Mi becuadro en "way", y la letra dice "Oh! what joy it is to ride" [^ditson1857]. El estribillo que se canta hoy, con cada "Jingle bells" en una misma nota repetida y "Oh! what fun it is to ride", está impreso ya en 1876, en un libro de Boston de canciones universitarias que no nombra compositor [^carmina1876]. La estrofa también ha cambiado un poco: 1857 tiene "o'er the hills" en lugar de "o'er the fields" y "Oh what sport to ride and sing" [^ditson1857][^carmina1876]. Quién le dio a la canción su forma nueva, y cuándo, no se sabe por las fuentes leídas para esta página.
+
+![[2]]
 
 **Mito y documentos.** Se suele contar que se cantó por primera vez en un oficio o un concierto de escuela dominical de Acción de Gracias, en la versión de Savannah en la iglesia de su hermano allí, en 1857 [^historycom][^connectsav]. Lo que muestran los documentos: su primera actuación conocida y su depósito para los derechos de autor, ambos en septiembre de 1857, fueron semanas antes del Día de Acción de Gracias de ese año, y nada en su letra pertenece a una iglesia ni a una fiesta [^hamill][^ditson1857].
 
@@ -178,6 +183,8 @@ en un trineo abierto de un solo caballo!
 ## Cómo se canta
 
 En 1857 la estrofa es para una voz y el estribillo para cuatro, de una voz aguda hasta un bajo, sobre un acompañamiento de piano muy movido [^ditson1857]. Los estudiantes universitarios la adoptaron como canción de fiesta; tanto el libro universitario de 1876 como Heart Songs, de 1909, marcan el estribillo "acompañado de copas que tintinean" [^carmina1876][^heartsongs1909]. Heart Songs, hecho con canciones favoritas enviadas por unas veinte mil personas, no nombra autor [^heartsongs1909].
+
+![[3]]
 
 Nuestro arreglo toma la estrofa y el estribillo de Heart Songs, de 1909; las voces las escribió Stackapella sobre la armonía de su acompañamiento de piano, y lo bajamos un semitono, de La bemol a Sol. Cantamos la primera estrofa y luego el estribillo. Es para 2 a 4 cantantes, con un aire brillante y rápido, con una respiración en cada verso.
 

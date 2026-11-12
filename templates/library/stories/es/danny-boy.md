@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: danny boy significado | danny boy historia | quién escribió danny boy | danny boy letra en español | danny boy canción de funeral | danny boy es irlandesa o escocesa
-translatedFrom: 3d3036bfd077
+translatedFrom: 455ce13f60c4
 listen: National Jukebox, grabación de 1917 | https://www.loc.gov/item/jukebox-189331/ || Internet Archive, grabación de Edison de 1918 | https://archive.org/details/edison-82559_01_6475
 original: The Petrie Collection (1855), Internet Archive | https://archive.org/details/petriecollection01petr/page/n84/mode/1up
 ---

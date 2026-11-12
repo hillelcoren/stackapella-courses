@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: noche de paz historia | noche de paz significado | quién escribió noche de paz | noche de paz tregua de navidad 1914 | silent night letra significado | noche de paz letra original en alemán
-translatedFrom: 49955629fe6f
+translatedFrom: 7ade0622283c
 listen: National Jukebox, grabación de 1917 | https://www.loc.gov/item/jukebox-26061/ || National Jukebox, grabación de 1909 | https://www.loc.gov/item/jukebox-761693/
 original: Autógrafo de Joseph Mohr, Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Autograph_Mohr_Stille_Nacht.jpg
 ---

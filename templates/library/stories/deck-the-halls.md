@@ -17,6 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote deck the halls | who originally wrote deck the halls | deck the halls song history | deck the halls meaning origin | deck the halls lyrics original meaning | deck the halls lyrics gay apparel meaning
+original: John Parry's British Harmony (1781), National Library of Wales | https://viewer.library.wales/4675640
 ---
 
 Deck the Halls is the carol with more "fa la la" than words. Its tune is Welsh: a harp air called Nos Galan, New Year's Eve, printed by the harper John Parry in 1781 and by Edward Jones in 1784 [^parry1781][^jones1784][^tta]. In Wales it carried love verses and a "fal lal" chorus [^jones1784][^jones1794]. Its English words, "Deck the hall with boughs of holly", are Thomas Oliphant's, printed in London in 1862 beside Welsh words by the poet Talhaiarn [^thomas1862][^hullah1866]. Oliphant's first verse called for filling the mead-cup and draining the barrel. By 1877 an American school journal printed "Don we now our gay apparel" in its place, and that is the version later songbooks carried [^psj1877][^mccaskey1881][^golden1923].
@@ -25,13 +26,21 @@ Deck the Halls is the carol with more "fa la la" than words. Its tune is Welsh: 
 
 **The tune.** In 1781 John Parry, harper to the Williams Wynn family at Wynnstay, printed a tune called "Nôs Calan" as No. 7 in British Harmony, his collection of "Antient Welsh Airs", in G with three variations [^parry1781][^dwb-parry]. One researcher traces it further back, to an untitled air in Parry's collection of 1761 and a fiddler's manuscript of about 1752 [^handyfinch1]. Three years later Edward Jones, a harper from Llandderfel in Merionethshire, printed it as "Nôs Galan" in Musical and Poetical Relicks of the Welsh Bards, a book dedicated to the Prince of Wales [^jones1784][^dwb-jones]. Nos Galan is New Year's Eve: Jones's second edition, of 1794, gives the English title "New year's Night", and the 1862 printing gives "New Year's Eve" [^jones1794][^thomas1862].
 
+![[1]]
+
 Jones prints it in F, marked Allegro, with variations and one Welsh stanza under the tune [^jones1784]. The stanza is a love verse, beginning with how warm a slender girl's bosom is, and the short answering bars after the lines are marked "Chorus", with "fal lal &c" under them [^jones1784]. Jones explains that such stanzas, penillion, were the people's own poetry, kept by memory, and that a singer could fit one to many tunes, holding the melody while the harp played variations [^jones1784]. His 1794 edition adds English words, a love verse of soft bosoms and groves in blossom, and a "dadlea" in the chorus [^jones1794].
+
+![[2]]
 
 **The words.** In 1862 the harpist John Thomas, known as Pencerdd Gwalia, published a book of Welsh Melodies with Welsh and English Poetry, arranged for voice with harp or piano [^thomas1862][^imslp-thomas][^handyfinch3]. Nos Galan is No. 15 in its second volume, with Welsh words by Talhaiarn, the poet John Jones (1810 to 1869), and English words by Thomas Oliphant [^thomas1862][^hullah1866][^dwb-talhaiarn][^imslp-thomas]. Oliphant, born in Perthshire in 1799, died in London in 1873. He was the long-serving secretary of the Madrigal Society, and he had spent years fitting English words to Italian madrigals [^dnb-oliphant][^grove-oliphant][^grandemusica]. His Nos Galan begins "Deck the hall with boughs of holly", each line answered by a "Fa la la" [^thomas1862].
 
 In 1866 John Hullah reprinted Oliphant's words in The Song Book, under the title "Deck the Hall with Boughs of Holly", tune "New Year's Eve", from Thomas's Welsh Melodies [^hullah1866]. In his preface he wrote that nothing like Thomas's work, Welsh tunes "adorned by the addition of English words", had been attempted before [^hullah1866].
 
+![[3]]
+
 **The American revision.** In December 1877 the Pennsylvania School Journal printed the carol in four parts as a "Welsh Air", with Oliphant's drinking lines gone [^psj1877]. The same page was reprinted in J. P. McCaskey's Franklin Square Song Collection in 1881 [^mccaskey1881]. The same words, lightly changed again, are in later school songbooks such as The Golden Book of Favorite Songs, the 1923 book our arrangement is read from [^golden1923].
+
+![[4]]
 
 **Myth and record.** Often told: Mozart used the tune in a piece for violin and piano. What the record shows: the story seldom names a work, and the one researcher known to have checked, the writer of the Handy Finch history of the carol, heard the tune in none of Mozart's sonatas for violin and piano [^handyfinch1]. Often told, too: the tune is centuries older than any book. Jones's title page says his tunes were preserved "from remote antiquity", and Parry's calls his airs the remains of those sung by the bards [^jones1784][^parry1781]. What the record shows: every written copy so far found is from the eighteenth century [^tta][^handyfinch1]. The tune may be older, but no copy shows it. And often told: Oliphant translated the Welsh. Hullah's book says "translated from Talhaiarn" [^hullah1866]. But Talhaiarn's first lines praise New Year's night by the fire with a cheerful family, while Oliphant's are about holly and Christmas, and the Handy Finch history, comparing the two texts, finds that the English is not a translation [^thomas1862][^handyfinch3].
 

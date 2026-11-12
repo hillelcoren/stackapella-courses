@@ -19,6 +19,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote joy to the world hymn | joy to the world hymn history | is joy to the world a christmas song | is joy to the world about the second coming of christ | joy to the world meaning bible | who wrote joy to the world handel
+listen: Internet Archive, 1916 recording | https://archive.org/details/78_joy-to-the-world_the-carol-singers_gbia0132469b || Internet Archive, 1920 recording | https://archive.org/details/78_joy-to-the-world_regal-male-quartette-handel_gbia0177355b
+original: Watts's Psalms of David Imitated (1719), Internet Archive | https://archive.org/details/chrtwimi00watt/page/n288/mode/1up
 ---
 
 Joy to the World is the Christmas hymn whose tune runs straight down the scale on its first line. Its words are Isaac Watts's, printed in London in 1719 as his version of the second half of Psalm 98 [^watts1719][^canterbury]. Watts did not head it as a Christmas hymn: he called it "The Messiah's Coming and Kingdom" [^watts1719][^hymnarchive]. Its tune, ANTIOCH, was published in Boston in 1836 by Lowell Mason, marked "Arranged from Handel" [^mason1836][^hymnarchive]. An earlier form of it was already in print in England by 1833 [^hymnarchive][^cyber], under the name COMFORT [^hymnarchive]. By 1907 the hymnologist John Julian found Watts's words in use in most English-speaking countries [^hymnary-text].
@@ -29,9 +31,13 @@ Joy to the World is the Christmas hymn whose tune runs straight down the scale o
 
 Watts made two hymns out of Psalm 98; the first is "Praise for the Gospel" [^watts1719][^hymnarchive]. The second, from the psalm's verses 4 to 9, is headed "The Messiah's Coming and Kingdom" and has four verses; it begins "Joy to the World; the Lord is come" [^watts1719][^canterbury]. In a note beneath the first hymn, Watts wrote that the two together expressed what he took to be the "first and chief Sense" of this psalm and of Psalm 96 [^watts1719]. Beneath the first part of Psalm 99 he added that the three psalms before it "refer to the Incarnation of Christ, and the setting up his Kingdom among the Gentiles" [^watts1719]. A hymnologist quoted by Hymnology Archive judges that Watts probably did not mean it as a Christmas hymn, and Hymnary.org says the same [^hymnarchive][^hymnary-text]. A hymnal companion, also quoted there, points out how easily "Let every heart prepare him room" is heard as the "no room for them in the inn" of Luke 2:7 [^hymnarchive][^kjv].
 
+![[1]]
+
 **The tune.** The tune's earliest known printings are from the early 1830s [^hymnarchive][^cyber], in English tune books that call it COMFORT [^hymnarchive]. One is Thomas Hawkes's Collection of Tunes, of 1833; another is William Holford's Voce di Melodia, which Hymnology Archive dates to about 1833 or 1834 and the Cyber Hymnal to about 1835 [^hymnarchive][^cyber]. By Hymnology Archive's reading, Holford's is the first to credit the tune to Handel [^hymnarchive]. By the Cyber Hymnal's notes, John Wilson, writing in the journal The Hymn in January 1986, traced the tune to Hawkes's and Holford's books [^cyber].
 
 Lowell Mason, born in Medfield, Massachusetts, in 1792, was a Boston church musician who had been president of the city's Handel and Haydn Society [^hymnary-mason][^bakers]. In 1836 he printed the tune as No. 73 in the third number of his Occasional Psalm and Hymn Tunes, named it ANTIOCH, marked it "Arranged from Handel" and set it to Watts's Psalm 98, second part [^mason1836][^hymnarchive]. That page is in A [^mason1836]. His Modern Psalmist of 1839 has it in D, marked "From HANDEL" [^mason1839]. In The National Psalmist of 1848, edited with George James Webb, it is in E-flat in longer notes, the form choirs know, marked "Arranged from HANDEL" [^mason1848][^hymnarchive]. Under it Mason added a footnote: the tune had been "very popular for Choir and Singing School practice", and should perhaps be kept to that, since "it cannot be appropriate to many Psalms, Hymns, or to the ordinary circumstances of Public Worship" [^mason1848][^hymnarchive].
+
+![[2]]
 
 **Myth and record.** Often told: Handel wrote the tune, or Mason took it from Messiah. What the record shows: Hymnology Archive reports that no such tune has been found among Handel's works [^hymnarchive]. The tune does recall moments in Messiah: its opening is often compared with the chorus "Lift up your heads", and a later phrase with "Comfort ye" [^hymnarchive][^cyber]. The Cyber Hymnal's notes go further and call it a piecing together of Messiah themes; Hymnology Archive treats it as a resemblance only [^cyber][^hymnarchive]. Hymnology Archive suggests the English name COMFORT may come from that [^hymnarchive]. Mason's own pages say only "Arranged from Handel" or "From HANDEL" [^mason1836][^mason1839][^mason1848]. Often told, too: Watts wrote it as a Christmas carol. What the record shows: he wrote it as a psalm, headed "The Messiah's Coming and Kingdom", and read Psalms 96 to 98 as being about the Incarnation of Christ and his kingdom spreading among the nations, not as songs for Christmas Day [^watts1719][^hymnarchive].
 
@@ -89,6 +95,8 @@ And Wonders of his Love.
 It is a hymn for Christmas Day above all. The Psalter Hymnal Handbook adds that it suits any time of year when Psalm 98 is read [^hymnary-text]. Hymnology Archive calls the pairing of Watts's words with ANTIOCH a staple of Christmas, especially in the United States [^hymnarchive]. In hymnals the tune is ANTIOCH, in common meter (8.6.8.6) with the last line repeated [^mason1848][^hymnary-text]. An Irish hymnal companion of 2005, quoted by Hymnology Archive, noted that hymnals were only lately taking up the hymn, and that only in the last few years had it been sung in the British Isles with anything like American enthusiasm [^hymnarchive].
 
 Our arrangement reads Mason's four parts from The National Psalmist of 1848, page 132, printed in E-flat and sung here a semitone lower, in D, the key of his 1839 printing [^mason1848][^mason1839]. We sing the first verse for 2 to 4 singers, bright and steady. Under "Let ev'ry heart prepare him room" the bass sings Mason's small notes, a held D, while the tenor rests. Four notes are changed so the duet keeps its thirds and the inner parts have no wide leaps.
+
+![[3]]
 
 ## Did you know?
 

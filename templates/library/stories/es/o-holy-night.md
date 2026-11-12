@@ -16,7 +16,9 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: o holy night historia | quién escribió o holy night | minuit chrétiens historia | oh noche santa significado | o holy night significado de la letra | o holy night primera canción en la radio
-translatedFrom: c43730e92b0f
+translatedFrom: e3f16e3671b0
+listen: Internet Archive, grabación de 1914 | https://archive.org/details/78_holy-night-cantique-de-nol_evan-williams-louis-heine-adolphe-adam_gbia0310892a || Internet Archive, grabación de 1919 | https://archive.org/details/edison-82171_01_6817
+original: Cantique de Noël de Schott (hacia 1852), Bayerische Staatsbibliothek | https://www.digitale-sammlungen.de/en/view/bsb00149248?page=2
 ---
 
 O Holy Night es un solo de Navidad que los coros han hecho suyo. Su letra francesa, Minuit, chrétiens ("Medianoche, cristianos"), es de Placide Cappeau, un comerciante de vinos de Roquemaure, en el sur de Francia. Adolphe Adam, compositor parisino de ópera cómica y ballet, le puso música en 1847 [^canterbury-fr][^musimem]. Se cantó en la misa del gallo de Roquemaure aquella Navidad, y en menos de veinte años una revista francesa de música religiosa se quejaba de que se oía en calles, salones y cafés-concierto [^musimem][^lefort][^ivry]. La versión inglesa que canta casi todo el mundo es de John Sullivan Dwight, crítico musical de Boston y antiguo pastor unitario, y es de 1855 [^canterbury-en][^canterbury-dwight][^hymnary-stw].
@@ -31,11 +33,15 @@ La fecha se cuenta de dos maneras. Cappeau dijo que las escribió en una diligen
 
 **Cómo viajó.** Hacia 1852, la fecha que dan los catalogadores a sus copias más antiguas, editores de París habían publicado una "segunda" y una "sexta" edición, y Schott lo vendía en Maguncia, Bruselas y Londres con letra en francés y en alemán [^momh][^imslp][^ddb]. En 1857 un joven músico de Quebec, Ernest Gagnon, lo oyó en la misa del gallo en París; al año siguiente lo llevó a su tierra [^bronze][^ivry].
 
+![[1]]
+
 **La versión inglesa.** Dwight nació en Boston en 1813 [^cooke][^canterbury-en]. Ordenado pastor unitario en Northampton, Massachusetts, en 1840, se marchó en 1841 a la comunidad de Brook Farm, y en 1852 fundó el Dwight's Journal of Music, que dirigió durante casi treinta años [^ripley][^cooke][^canterbury-dwight]. Su versión inglesa es de 1855, pero las fuentes que leímos no dicen dónde apareció por primera vez [^canterbury-en][^hymnary-stw]. Murió en Boston el 5 de septiembre de 1893 [^cooke][^canterbury-dwight].
 
 **Mito y documentos.** Se suele contar que los jefes de la Iglesia en Francia prohibieron el villancico cuando supieron qué clase de hombre había escrito la letra. Lo que muestran los documentos: a los críticos católicos y a las revistas de música religiosa no les gustaban su música marcial ni su letra [^musimem][^ivry]. En 1864 la Revue de musique sacrée propuso dejarlo de lado como canción de calles y cafés [^musimem][^ivry]. Una obra de referencia católica dice que muchas diócesis lo dejaron, pero ninguna de las fuentes que leímos menciona una prohibición del conjunto de los obispos de Francia ni de Roma [^ivry]. Los católicos de Francia y de Quebec siguieron cantándolo en la misa del gallo [^coyne][^bronze].
 
 Se suele contar que los abolicionistas de Estados Unidos hicieron suya la tercera estrofa de Dwight, "Chains shall he break, for the slave is our brother" (romperá las cadenas, porque el esclavo es nuestro hermano). Lo que muestran los documentos: el verso viene de Cappeau, cuya tercera estrofa dice que el Redentor ve un hermano donde solo había un esclavo, y que el amor une a quienes el hierro encadenaba [^musimem][^nemausensis][^dann]. Dwight sí detestaba la esclavitud: en noviembre de 1861 su Journal decía que la Unión luchaba contra "una rebelión esclavista, traicionera y arrogante" [^dwj1861][^cooke]. Pero ninguna de las fuentes que leímos muestra a abolicionistas cantando el villancico o citando la estrofa; un artículo de 2023 dice que encajaba con su causa y que era popular en el Norte durante la guerra de Secesión, pero no cita nada de la época que lo muestre [^coyne].
+
+![[2]]
 
 ### Cronología
 
@@ -183,6 +189,8 @@ Cristo es el Señor: ¡oh, alaba su nombre para siempre!
 Las copias impresas de Adam son para una voz con piano, órgano o armonio [^ddb][^imslp]. En el Canadá francés, cantarlo en la misa del gallo era un honor para un buen cantante o para el solista de la parroquia [^bronze][^ivry]. Los himnarios ingleses llaman a la melodía CANTIQUE DE NOEL [^hymnary-stw]. Los coros lo cantan en arreglos como el de Dudley Buck para solista, coro y órgano (Nueva York, copyright de 1881) [^buck][^imslp], o el del libro de villancicos de Boston de 1916, con una soprano o un tenor solista en la estrofa y el coro en el estribillo [^hutchins].
 
 Nuestro arreglo parte de ese libro de 1916, escrito una tercera menor más abajo, en Do, para 2 a 4 cantantes: la primera estrofa y el estribillo. Lo cantamos lento y mecido en 6/8, el vaivén del acompañamiento en tresillos del libro [^hutchins]. En la estrofa, la contralto y el tenor cantan nuestros propios acordes suaves sobre la armonía del órgano del libro, y el bajo toma las notas más graves del órgano. En el estribillo cantan las voces del coro del libro, con algunas notas cambiadas para que las líneas se muevan por grados conjuntos.
+
+![[3]]
 
 ## Versiones y otras letras
 

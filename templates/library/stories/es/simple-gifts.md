@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: simple gifts aaron copland | simple gifts canción shaker | simple gifts significado | simple gifts letra completa | quién escribió simple gifts | simple gifts tonalidad
-translatedFrom: 138043b59e9a
+translatedFrom: 8eacffd30f29
 original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 

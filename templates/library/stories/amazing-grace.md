@@ -18,6 +18,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: amazing grace meaning | amazing grace history | amazing grace story behind the hymn | who wrote amazing grace | who wrote amazing grace melody | was amazing grace written by a slave ship captain | amazing grace meaning in the bible | amazing grace all verses | is amazing grace scottish | amazing grace tune new britain
+listen: Library of Congress, 1922 recording | https://www.loc.gov/item/ihas.200049050/
+original: Olney Hymns (1779), Internet Archive | https://archive.org/details/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1779/page/n78
 ---
 
 Amazing Grace, whose opening line Newton printed as "Amazing grace! (how sweet the sound)", is a hymn by John Newton, a Church of England curate who had once captained slave ships [^olney1779][^dnb][^thoughts1788]. He wrote it for his parish at Olney, Buckinghamshire, for New Year's Day 1773, and printed it in 1779 in Olney Hymns as "Faith's Review and Expectation" [^sermonnotes][^canterbury][^cnbulletin][^olney1779]. Its tune, NEW BRITAIN, is American, by no known maker, and its earliest known printing is from Cincinnati in 1829 [^hymnary-tune][^motb-sound]. Words and tune met in 1835, and in 1972 a Scottish regiment's pipes and band took the hymn to number one in Britain [^southernharmony1835][^hymnarchive][^officialcharts][^scotsdg].
@@ -28,13 +30,21 @@ Amazing Grace, whose opening line Newton printed as "Amazing grace! (how sweet t
 
 **The trade.** The storm did not take Newton out of the slave trade. From 1750 to 1754 he commanded three voyages to the Windward Coast of Africa to buy enslaved people [^thoughts1788][^dnb][^rmg-log]. "I never had a scruple upon this head at the time," he wrote later [^thoughts1788]. Illness ended his time at sea in 1754, and in 1764 he was ordained and became curate of Olney [^thoughts1788][^dnb][^hymnary-newton]. In 1788 he published Thoughts upon the African Slave Trade, which the Dictionary of National Biography says aided William Wilberforce's campaign [^thoughts1788][^dnb]. He described captives chained in pairs for months, and called the pamphlet a "public confession, which, however sincere, comes too late" [^thoughts1788]. Parliament abolished the British slave trade on 25 March 1807; Newton died in London that December [^tna][^rmg-end][^dnb][^hymnary-newton].
 
+![[1]]
+
 **The words.** Newton's notes for a sermon on "New Year's morning" 1773 survive at Lambeth Palace Library, headed "1 Chron. 17. 16, 17" [^sermonnotes]. Hymnologists tie the hymn to that sermon, and a Newton researcher has matched its lines to the sermon's points, not all with certainty [^hymnarchive][^canterbury][^motb-creation]. In those verses King David asks God "what is mine house, that thou hast brought me hitherto?" and gives thanks for a promise "for a great while to come" [^kjv]. The hymn, as its title says, looks back and ahead in the same way: "Faith's review and expectation" [^olney1779][^hymnarchive].
 
+![[2]]
+
 Newton made Olney Hymns with the poet William Cowper, whose hymns are marked C; this one is not [^olney1779][^dnb]. He dated its preface 15 February 1779 and gave it to his parish, "for whose use the hymns were originally composed"; No. 41 has no music [^olney1779][^hymnarchive].
+
+![[3]]
 
 **The tune.** No one knows who made NEW BRITAIN [^hymnary-tune][^bethel]. Its earliest known printing is in Columbian Harmony, compiled by Benjamin Shaw and Charles H. Spilman at Cincinnati in 1829, in two versions [^motb-sound][^hymnary-tune][^canterbury][^hymnarchive]. The Virginia Harmony (1831) called it HARMONY GROVE; neither book sets Newton's words to it [^hymnarchive][^flutopedia][^canterbury][^motb-sound]. Hymnals before 1991 often credited the 1831 book; that year the hymnologist Marion Hatchett pointed to the 1829 printings [^ct2003].
 
 The earliest known pairing is on page 8 of William Walker's The Southern Harmony (Spartanburg, South Carolina, 1835) [^southernharmony1835][^hymnarchive][^canterbury]. It is headed "NEW BRITAIN. C. M.", in shape notes, whose heads show each note's place in the scale, with the tune in the middle line and all six stanzas [^southernharmony1835][^bethel]. Its corner note, "Baptist Harmony, p. 123", points to Walker's source for the words, Staunton S. Burdett's book of 1834 [^southernharmony1835][^hymnarchive]. The World (2018) gives 1847, the year of a later printing, for the pairing, but the 1835 book already has it [^theworld][^bethel][^southernharmony1835].
+
+![[4]]
 
 **The stanza that isn't Newton's.** "When we've been there ten thousand years", sung last in many hymnals, especially in the USA, was never Newton's [^canterbury][^hymnarchive]. Its oldest form we have read, spoken by Christ, is in A Choice Collection of Hymns (Philadelphia, 1782), catalogued under the preacher Elhanan Winchester: "When you've been there ten thousand Year" [^winchester1782]. A second Philadelphia Choice Collection, of 1784, ends its hymn "On the death of a Saint" with "When they've been there ten million years" [^winchester1784]. The Canterbury Dictionary and the Hymnology Archive both trace the stanza to that hymn, which Winchester later claimed as his own [^canterbury][^hymnarchive]. The "we" form, with "ten thousand years", ends "Jerusalem, my happy home" in A Collection of Sacred Ballads, gathered by Richard and Andrew Broaddus in Virginia, its preface dated 1 January 1790 [^broaddus1790][^hymnarchive]. In Uncle Tom's Cabin (1852), Tom, the enslaved hero, sings it after Newton's last two stanzas, in a changed order and changed words [^stowe][^canterbury]. The earliest hymnal known to join it to Newton's words is R. A. Torrey's World Renowned Hymns (1909), in E. O. Excell's arrangement: Newton's first three stanzas, then this one [^wrh1909][^hymnarchive]. Excell printed the same four in his Coronation Hymns (1910), and his arrangement is likely the version most people know [^coronation1910][^motb-sound].
 

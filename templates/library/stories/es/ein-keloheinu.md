@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: ein keloheinu significado | ein keloheinu traducción | ein keloheinu oración | ein keloheinu letra | ein keloheinu canción
-translatedFrom: b179eb04114f
+translatedFrom: 7a80daef0b78
 ---
 
 Ein Keloheinu es un himno hebreo de cinco estrofas cortas que alaban a Hashem con cuatro títulos: Hashem, nuestro Señor, nuestro Rey, nuestro Salvador. En el rito asquenazí llega al cierre del oficio adicional de los sabbats y las fiestas; los judíos sefardíes lo dicen también entre semana.[^ej][^huji] Nadie sabe quién lo escribió, pero ya está en el libro de oraciones de Amram Gaon, del siglo IX.[^ej][^milken] Su letra es más antigua que cualquier melodía, así que los compositores siguen poniéndole música: el Union Hymnal, un himnario reformista estadounidense de 1897, imprimió cuatro versiones distintas, una tras otra.[^je][^uh1897][^uh1932] La melodía que cantamos es la que Julius Freudenthal escribió para la sinagoga de Braunschweig, impresa allí en 1843.[^idel29][^austerklein]

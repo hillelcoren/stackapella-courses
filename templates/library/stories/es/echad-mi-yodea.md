@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: echad mi yodea significado | echad mi yodea letra en español | echad mi yodea transliteración | echad mi yodea historia | quién escribió echad mi yodea | echad mi yodea pésaj
-translatedFrom: ce82b6a3591e
+translatedFrom: d9d66bc29fa2
 ---
 
 Echad Mi Yodea es una canción hebrea para contar que se canta en el séder de Pésaj, el oficio en casa y la cena de las primeras noches de la fiesta.[^idel29][^je] Las familias asquenazíes la cantan cerca del final de la velada, justo antes de Chad Gadya.[^ej][^jmrc][^sefaria] Una voz pregunta: "¿Quién sabe qué es uno?", y la mesa responde: uno es Hashem, en el cielo y en la tierra.[^sefaria][^uh1923] Cada número nuevo trae una respuesta nueva, las dos tablas de la alianza, los tres padres, las cuatro madres, y la lista entera se cuenta hacia atrás hasta el uno, así hasta llegar al trece.[^sefaria][^je] Su función era mantener a todos despiertos, sobre todo a los niños, hasta el final de una noche larga.[^ej][^chabad] La Union Haggadah de 1923 la convirtió en una carrera: "cada uno leyendo lo más rápido posible, en el intento de terminar el primero la respuesta".[^uh1923]

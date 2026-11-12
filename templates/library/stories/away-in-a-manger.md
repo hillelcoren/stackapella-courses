@@ -19,6 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote away in a manger | who wrote the words to away in a manger | who wrote the music for away in a manger | did martin luther wrote away in a manger | away in a manger history | bible verse away in a manger | away in a manger tunes | away in a manger american tune
+original: The Christian Cynosure, 2 March 1882, Internet Archive | https://archive.org/details/christiancynosurv14blan/page/n374
 ---
 
 Away in a Manger is a children's Christmas carol about the baby Jesus asleep in the hay. Its words are anonymous and American. Hymnology Archive reports eight of its lines in a newspaper story of 1868, and its first two verses were in print by 1882 under the heading "Luther's Cradle Song" [^hymnarchive][^cynosure1882]. Martin Luther had nothing to do with it [^hill][^hymnarchive]. It has two main tunes: James R. Murray's of 1887, the most printed setting Hill found, and William J. Kirkpatrick's of 1895, which the Canterbury Dictionary of Hymnology says Britain always sings [^hill][^hymnarchive][^canterbury]. By 1945 the scholar Richard S. Hill had counted forty-one settings of these few lines [^hill][^hymnarchive].
@@ -29,6 +30,8 @@ Away in a Manger is a children's Christmas carol about the baby Jesus asleep in 
 
 Hymnology Archive reproduces both verses from The Congregationalist of 4 January 1882 [^hymnarchive]. On 2 March 1882 The Christian Cynosure, a Chicago weekly, printed them in its children's corner as "Luther's Cradle Song", with a note that Luther wrote the hymn for his children and German mothers still sang it [^cynosure1882]. In 1883 a New York songbook, Little Pilgrim Songs, put it into a Christmas service for Sunday schools, as a recitation "by a very little child" or a song to the air of "Home, Sweet Home" [^pilgrim1883].
 
+![[1]]
+
 The earliest known printing with music of its own is in Little Children's Book for Schools and Families, an Evangelical Lutheran book published in Philadelphia in 1885 [^lcb1885][^hill]. It stands among the nursery hymns, set to ST. KILDA by J. E. Clark, with no author named and no word of Luther [^lcb1885][^hymnarchive].
 
 The third verse, "Be near me, Lord Jesus", has its earliest known printing in Gabriel's Vineyard Songs, compiled by Charles H. Gabriel and published in Louisville in 1892. Gabriel credited the hymn to Luther and gave the new verse no author of its own [^gabriel1892][^hymnarchive][^canterbury]. In 1937 Robert G. McCutchan's Our Hymnody printed Bishop William F. Anderson's account: Anderson said that between 1904 and 1908 he asked John T. McFarland for a third verse for a Children's Day programme, and McFarland wrote it [^hymnarchive][^hill]. Hill pointed out that the verse was already in print in 1892, so the story cannot stand as told [^hill][^hymnarchive]. Who wrote it is not known.
@@ -37,7 +40,11 @@ The third verse, "Be near me, Lord Jesus", has its earliest known printing in Ga
 
 William J. Kirkpatrick (1838 to 1921) was a Philadelphia church musician, music director at Grace Methodist Episcopal Church, and a compiler of gospel songbooks [^hymnary-kirkpatrick][^hymnarchive-kirkpatrick]. In 1895 he and John R. Sweney wrote the music for Around the World with Christmas, a Christmas exercise for Sunday schools [^hill][^canterbury]. There, under "The German Fatherland", is "Luther's Cradle Hymn", for the primary school or a chosen pupil, with music by Kirkpatrick and all three verses [^kirk1895]. He printed it again in Joy and Praise, a Sunday-school book he edited with J. H. Fillmore in 1908, marked "Solo or Duet": the page our arrangement reads [^jp1908].
 
+![[2]]
+
 Hill found that Kirkpatrick's setting was the first to carry the words outside the United States [^hill]. In 1905 the Sunday School Union in London printed it in Carey Bonner's Sunday School Hymnary, for "Children in Unison. Softly. Not too quickly.", as "Translated from Martin Luther" [^bonner1905].
+
+![[3]]
 
 **Myth and record.** Often told: Luther wrote this carol for his children, and German mothers still sing it. What the record shows: the earliest known Luther claim is in American papers of 1882. The carol is in none of Luther's hymn collections, and no German form of it is known from before the English one [^hymnarchive][^hill]. Hill concluded that Luther had nothing at all to do with the words or any of the tunes [^hill]. The hymn Luther is said to have written for his children's Christmas Eve is "Vom Himmel hoch, da komm ich her", in an account John Julian quotes [^julian][^hill]. An American book of 1872, Luther at Home, said that "Luther's carol for Christmas, written for his own child Hans, is still sung" in Dresden, without naming it [^stork1872]; the Canterbury Dictionary of Hymnology suggests Murray took that carol to be this one [^canterbury]. Hill guessed the poem was first printed for Luther's 400th birthday in 1883, and Hymnology Archive ties the Luther label to that year, but both were in print by early 1882 [^hill][^hymnarchive][^cynosure1882].
 

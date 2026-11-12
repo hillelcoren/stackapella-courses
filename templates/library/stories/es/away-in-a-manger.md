@@ -19,7 +19,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: away in a manger historia | quién escribió away in a manger | escribió martín lutero away in a manger | away in a manger significado | allá en el pesebre himno historia | away in a manger melodías
-translatedFrom: 39671a905ea5
+translatedFrom: 4704a8b5b4b2
+original: The Christian Cynosure, 2 de marzo de 1882, Internet Archive | https://archive.org/details/christiancynosurv14blan/page/n374
 ---
 
 Away in a Manger es un villancico infantil sobre el niño Jesús dormido en el heno. Su letra es anónima y estadounidense. Hymnology Archive encuentra ocho de sus versos en un relato de periódico de 1868, y sus dos primeras estrofas ya estaban impresas en 1882 con el título "Luther's Cradle Song" (la canción de cuna de Lutero) [^hymnarchive][^cynosure1882]. Martín Lutero no tuvo nada que ver [^hill][^hymnarchive]. Tiene dos melodías principales: la de James R. Murray, de 1887, la versión más impresa que encontró Hill, y la de William J. Kirkpatrick, de 1895, que según el Canterbury Dictionary of Hymnology es la que siempre se canta en Gran Bretaña [^hill][^hymnarchive][^canterbury]. En 1945, el estudioso Richard S. Hill había contado cuarenta y una versiones musicales de estos pocos versos [^hill][^hymnarchive].
@@ -30,6 +31,8 @@ Away in a Manger es un villancico infantil sobre el niño Jesús dormido en el h
 
 Hymnology Archive reproduce las dos estrofas de The Congregationalist del 4 de enero de 1882 [^hymnarchive]. El 2 de marzo de 1882, The Christian Cynosure, un semanario de Chicago, las imprimió en su rincón infantil como "Luther's Cradle Song", con una nota que decía que Lutero escribió el himno para sus hijos y que las madres alemanas aún lo cantaban [^cynosure1882]. En 1883, un cancionero de Nueva York, Little Pilgrim Songs, lo incluyó en un servicio de Navidad para escuelas dominicales, como recitado "por un niño muy pequeño" o como canción con la melodía de "Home, Sweet Home" [^pilgrim1883].
 
+![[1]]
+
 La primera impresión conocida con música propia está en Little Children's Book for Schools and Families, un libro luterano evangélico publicado en Filadelfia en 1885 [^lcb1885][^hill]. Aparece entre los himnos para los más pequeños, con la melodía ST. KILDA de J. E. Clark, sin nombre de autor y sin mencionar a Lutero [^lcb1885][^hymnarchive].
 
 La tercera estrofa, "Be near me, Lord Jesus", tiene su primera impresión conocida en Gabriel's Vineyard Songs, recopilado por Charles H. Gabriel y publicado en Louisville en 1892. Gabriel atribuyó el himno a Lutero y no dio a la nueva estrofa un autor propio [^gabriel1892][^hymnarchive][^canterbury]. En 1937, Our Hymnody de Robert G. McCutchan imprimió el relato del obispo William F. Anderson: Anderson contaba que entre 1904 y 1908 pidió a John T. McFarland una tercera estrofa para un programa del Día del Niño, y que McFarland la escribió [^hymnarchive][^hill]. Hill señaló que la estrofa ya estaba impresa en 1892, así que la historia no se sostiene tal como se cuenta [^hill][^hymnarchive]. No se sabe quién la escribió.
@@ -38,7 +41,11 @@ La tercera estrofa, "Be near me, Lord Jesus", tiene su primera impresión conoci
 
 William J. Kirkpatrick (1838 a 1921) era un músico de iglesia de Filadelfia, director musical de la Grace Methodist Episcopal Church y recopilador de cancioneros de góspel [^hymnary-kirkpatrick][^hymnarchive-kirkpatrick]. En 1895, él y John R. Sweney escribieron la música de Around the World with Christmas, un ejercicio de Navidad para escuelas dominicales [^hill][^canterbury]. Allí, bajo "The German Fatherland" (la patria alemana), está "Luther's Cradle Hymn", para la clase de los pequeños o un alumno elegido, con música de Kirkpatrick y las tres estrofas [^kirk1895]. Lo volvió a imprimir en Joy and Praise, un libro para escuelas dominicales que editó con J. H. Fillmore en 1908, marcado "Solo or Duet" (solo o dúo): la página de la que parte nuestro arreglo [^jp1908].
 
+![[2]]
+
 Hill comprobó que la versión de Kirkpatrick fue la primera que llevó la letra fuera de Estados Unidos [^hill]. En 1905, la Sunday School Union de Londres la imprimió en el Sunday School Hymnary de Carey Bonner, con la indicación "Children in Unison. Softly. Not too quickly." (niños al unísono, suave, no demasiado deprisa) y como "Translated from Martin Luther" (traducido de Martín Lutero) [^bonner1905].
+
+![[3]]
 
 **Mito y documentos.** Se suele contar que Lutero escribió este villancico para sus hijos, y que las madres alemanas aún lo cantan. Lo que muestran los documentos: la primera atribución conocida a Lutero está en periódicos estadounidenses de 1882. El villancico no está en ninguna de las colecciones de himnos de Lutero, y no se conoce ninguna forma alemana anterior a la inglesa [^hymnarchive][^hill]. Hill concluyó que Lutero no tuvo absolutamente nada que ver con la letra ni con ninguna de las melodías [^hill]. El himno que, según se dice, Lutero escribió para la Nochebuena de sus hijos es "Vom Himmel hoch, da komm ich her", en un relato que cita John Julian [^julian][^hill]. Un libro estadounidense de 1872, Luther at Home, decía que "el villancico de Navidad de Lutero, escrito para su propio hijo Hans, todavía se canta" en Dresde, sin nombrarlo [^stork1872]; el Canterbury Dictionary of Hymnology sugiere que Murray tomó ese villancico por este [^canterbury]. Hill supuso que el poema se imprimió por primera vez para el 400 aniversario del nacimiento de Lutero, en 1883, y Hymnology Archive relaciona la etiqueta de Lutero con ese año, pero las dos estrofas ya estaban impresas a principios de 1882 [^hill][^hymnarchive][^cynosure1882].
 

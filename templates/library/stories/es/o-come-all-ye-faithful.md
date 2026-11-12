@@ -19,7 +19,9 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adeste fideles historia | adeste fideles significado | quién escribió adeste fideles | adeste fideles letra original en latín | o come all ye faithful significado | o come all ye faithful historia
-translatedFrom: 4221597d3c22
+translatedFrom: 2140e651baf3
+listen: National Jukebox, grabación de 1919 | https://www.loc.gov/item/jukebox-661390/ || National Jukebox, grabación de 1915 | https://www.loc.gov/item/jukebox-12842/
+original: Hymns of Worship and Service (1909), Internet Archive | https://archive.org/details/hymnsofworship00newy/page/n102
 ---
 
 O Come, All Ye Faithful es la forma inglesa de Adeste Fideles, un himno latino de Navidad del siglo XVIII. Sus primeras copias conocidas, letra y melodía juntas, son de la mano de John Francis Wade, un católico inglés que se ganaba la vida copiando música religiosa [^hymnarchive][^zon]. No se sabe si lo escribió él o solo lo copió [^hymnarchive][^zon][^america]. En la década de 1790 se cantaba en la capilla de la embajada de Portugal en Londres, y en 1841 un sacerdote anglicano, Frederick Oakeley, lo pasó al inglés para su congregación de Londres [^julian][^hymnarchive]. En 1907, el Dictionary of Hymnology de Julian encontraba la versión inglesa de Oakeley en "un gran número de colecciones" [^julian].
@@ -31,6 +33,8 @@ O Come, All Ye Faithful es la forma inglesa de Adeste Fideles, un himno latino d
 **Las copias.** Adeste Fideles aparece, en cuatro estrofas latinas con su melodía, en varios libros de Wade [^hymnarchive][^phh]. Probablemente la más antigua, una copia que describió dom John Stéphan, de la abadía de Buckfast, en un estudio de 1947 y que hoy está perdida, es de mediados de la década de 1740: hacia 1743 o 1744 según un relato de la datación de Stéphan, hacia 1745 según el estudio de 1996 [^hcnotes][^zon]. El musicólogo irlandés W. H. Grattan Flood fechó en 1746 una copia del Clongowes Wood College, en Irlanda; James Britten, en 1924, dijo que el propio manuscrito indicaba 1749. Hoy está perdida [^hymnarchive][^britten][^america]. Se conservan dos copias fechadas en 1750, una de ellas en la Universidad de Glasgow, y una del Stonyhurst College está fechada en 1751 [^hymnarchive][^britten][^zon].
 
 **La melodía.** En las primeras copias de Wade la melodía va en compás ternario. La melodía regular, de cuatro tiempos, que se canta hoy tiene su primera impresión conocida en 1782, en An Essay on the Church Plain Chant, publicado en Londres por J. P. Coghlan [^zon][^phh][^hymnarchive]. Quién preparó el Essay es discutido: Stéphan y otros nombran a Samuel Webbe, organista de las capillas de las embajadas en Londres, mientras que los editores de The New Oxford Book of Carols (1992) lo dan por anónimo [^hcnotes][^phh][^hymnarchive]. La letra latina se imprimió antes, en The Evening Office of the Church de 1760, un libro de oraciones en latín y en inglés [^hymnarchive][^hymnary-latin].
+
+![[1]]
 
 **El "Portuguese Hymn".** Webbe era también organista de la capilla de la embajada de Portugal, donde el himno se cantaba en la década de 1790, así que en Inglaterra la melodía se conoció mucho tiempo como el Portuguese Hymn, el himno portugués [^cath-webbe][^julian][^hymnarchive][^america]. Vincent Novello, organista posterior de esa capilla, atribuyó la melodía a John Reading, organista de la catedral de Winchester en el siglo XVII; los estudiosos lo descartan, porque la melodía no está en la música conocida de Reading y ninguna copia es anterior a la década de 1740 [^julian][^hymnarchive][^britten]. El estudio de 1996 también ha propuesto a Thomas Arne, al que sitúa en la capilla de la embajada de Cerdeña, aunque admite que la idea puede parecer inverosímil [^zon][^hymnarchive].
 
@@ -120,6 +124,8 @@ Vamos, adoremos al Señor.
 ### La letra completa
 
 Esta es la letra de Frederick Oakeley de 1841, con los cambios que le hizo el himnario de Murray en 1852, tal como la imprime Hymns of Worship and Service (Nueva York, 1909) en el número 89, la página de la que sale nuestro arreglo; escribe "Oh" donde nosotros cantamos "O", y canta el estribillo después de cada estrofa [^hws1909][^julian]. Ese libro imprime tres estrofas y deja fuera la segunda de Oakeley, "God of God", así que esa estrofa no sale del libro de 1909: se da aquí tal como la imprimió The English Hymnal en 1906, en el número 28 [^eh1906]. Los himnarios más completos añaden la versión inglesa de W. T. Brooke de las cuatro estrofas latinas posteriores, de 1884 [^hymnary-latin][^hymnarchive].
+
+![[2]]
 
 **Estrofa 1**
 > Oh come, all ye faithful,

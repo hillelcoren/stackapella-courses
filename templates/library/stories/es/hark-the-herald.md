@@ -19,7 +19,9 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: hark the herald angels sing historia | quién escribió hark the herald angels sing | hark the herald angels sing significado | qué significa herald en hark the herald angels sing | quién compuso la melodía de hark the herald angels sing
-translatedFrom: 0820775e52f5
+translatedFrom: d0a8dc5f5bc2
+listen: National Jukebox, grabación de 1919 | https://www.loc.gov/item/jukebox-661398/ || National Jukebox, grabación de 1911 | https://www.loc.gov/item/jukebox-130938/
+original: Hymns and Sacred Poems (1739), Internet Archive | https://archive.org/details/bim_eighteenth-century_hymns-and-sacred-poems-_wesley-john_1739_1/page/n219
 ---
 
 Hark! The Herald Angels Sing es un himno inglés de Navidad. Su letra nació como el "Hymn for Christmas-Day" (himno para el día de Navidad) de Charles Wesley, impreso en Londres en 1739 con otro primer verso: "Hark how all the welkin rings" [^duke-hsp][^julian]. El comienzo que todos conocen lo escribió el predicador George Whitefield, que lo imprimió en 1753 [^duke-hsp][^julian]. La melodía es de Felix Mendelssohn, escrita en 1840 para una fiesta en Leipzig en honor de Gutenberg y de la invención de la imprenta; un organista inglés, William H. Cummings, la ajustó a la letra de Wesley en la década de 1850 [^mt1897][^lightwood]. En 1907 el Dictionary of Hymnology llamaba a este texto modificado la forma más popular del himno, de uso común en todos los países de habla inglesa [^julian].
@@ -28,13 +30,21 @@ Hark! The Herald Angels Sing es un himno inglés de Navidad. Su letra nació com
 
 **La letra.** En 1739, al comienzo del avivamiento metodista, los hermanos John y Charles Wesley publicaron en Londres un libro de versos, Hymns and Sacred Poems [^duke-hsp][^julian]. El libro llevaba el nombre de los dos hermanos pero no decía quién había escrito cada himno; este es de Charles [^duke-hsp][^julian][^canterbury]. Su "Hymn for Christmas-Day" tenía diez estrofas de cuatro versos [^duke-hsp][^julian][^canterbury]. Empezaba con el canto de los ángeles resonando por el cielo: "Hark how all the welkin rings, / 'Glory to the King of kings'" [^hsp1739][^duke-hsp][^kjv]. "Welkin" es una palabra antigua y poética para el cielo, la bóveda celeste [^webster][^summerly].
 
+![[1]]
+
 **Los cambios.** George Whitefield, uno de los principales predicadores metodistas, de ideas calvinistas, lo incluyó en su Collection of Hymns for Social Worship en 1753 [^summerly][^nge][^duke-hsp][^julian]. Reescribió los dos primeros versos como "Hark! the herald angels sing / Glory to the new-born King!", hizo cambios menores y dejó fuera la octava y la décima estrofas de Wesley [^duke-hsp][^julian][^hymnarchive]. En 1760, la Collection of Psalms and Hymns de Martin Madan conservó el comienzo de Whitefield pero volvió a Wesley en lo demás, salvo en dos versos. Wesley había escrito "Universal nature say / 'Christ the Lord is born to day!'", y Whitefield los había cambiado por "Nature rise and worship him, / Who is born at Bethlehem". Madan puso "With th' angelic host proclaim, / 'Christ is born in Bethlehem!'" [^madan][^julian][^hymnarchive][^wf1753]. En 1782, un suplemento de himnos impreso con la New Version of the Psalms de Tate y Brady lo había convertido en tres estrofas de ocho versos, con sus dos primeros versos repetidos después de cada una como estribillo [^julian][^hymnarchive][^hymnary-text].
+
+![[2]]
 
 **La melodía.** En junio de 1840, Leipzig celebró una fiesta en honor de Gutenberg y de lo que se tenía por el 400 aniversario de la imprenta [^summerly][^praise]. Mendelssohn escribió un Festgesang, un "canto festivo", para voces de hombre y metales, y se cantó al aire libre el 24 de junio de 1840 [^mt1897][^imslp]. Su segundo número, titulado solo "Lied", canción, es nuestra melodía [^mt1897][^imslp].
 
 **La unión.** William H. Cummings, un joven organista de Waltham Abbey, estaba tocando el Festgesang cuando vio que su segundo coro podía llevar el himno de Wesley [^mt1897][^lightwood][^grove]. Según contó él mismo al Musical Times, la congregación de allí lo cantó "con gran entusiasmo", y tanta gente le pidió copias que lo llevó a los editores Ewer and Co., que lo imprimieron en 1856 [^mt1897][^summerly]. La historia de las melodías de himnos de Lightwood fecha la adaptación en 1855; Hymnary.org, en 1856 [^lightwood][^hymnary-tune].
 
+![[3]]
+
 Qué himnario imprimió primero la pareja es discutido: el Musical Times creía en 1897 que fue Hymns Ancient and Modern, en 1861, mientras que Hymnology Archive y el Praise Trust nombran uno anterior, el Congregational Hymn and Tune Book de Richard Chope [^mt1897][^hymnarchive][^praise]. En cualquier caso, Hymns Ancient and Modern fijó la unión [^hymnary-tune][^hymnarchive][^praise]. Imprimió el himno como n.º 43 en 1861, con la melodía indicada como "Mendelsohn", y como n.º 60, MENDELSSOHN, en su edición de referencia de 1875 [^ham1861][^ham1875].
+
+![[4]]
 
 **Mito y documentos.** Se suele contar que Mendelssohn se opuso a que su melodía se cantara con este himno. Lo que muestran los documentos: Mendelssohn murió en 1847, años antes del arreglo de Cummings [^hymnary-mendelssohn][^mt1897][^summerly]. En una carta fechada el 30 de abril de 1843, impresa en parte en el Musical Times en diciembre de 1897, escribió a su editor inglés, E. Buxton, sobre una traducción inglesa del Festgesang y le pidió otra letra para el n.º 2. La pieza gustaría, escribió, "pero nunca servirá para una letra sagrada. Hay que encontrar un tema nacional y alegre" [^mt1897]. El Musical Times señaló que Buxton había sido el dueño de Ewer and Co., y que Cummings no sabía nada de la opinión de Mendelssohn [^mt1897].
 
