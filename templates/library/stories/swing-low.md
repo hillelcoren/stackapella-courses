@@ -135,7 +135,7 @@ The soprano sings the tune, all the way through, and the other parts sing in har
 - [^marsh]: J. B. T. Marsh, *The Story of the Jubilee Singers; with Their Songs* (Boston: Houghton, Mifflin and Company, 1880), p. 16; facsimile. https://archive.org/details/storyofjubilees00mars
 - [^pbs]: PBS, American Experience, *Jubilee Singers*, "Timeline". https://www.pbs.org/wgbh/americanexperience/features/singers-timeline
 - [^tnenc]: *Tennessee Encyclopedia*, "Jubilee Singers of Fisk University" (Tennessee Historical Society). https://tennesseeencyclopedia.net/?p=1073
-- [^okhist]: Judith Michener, "Willis, 'Uncle' Wallace and 'Aunt' Minerva", *The Encyclopedia of Oklahoma History and Culture* (Oklahoma Historical Society, 2010, updated 2023). https://www.okhistory.org/publications/enc/entry?entry=WI018
+- [^okhist]: Judith Michener, "Willis, 'Uncle' Wallace and 'Aunt' Minerva", *The Encyclopedia of Oklahoma History and Culture* (Oklahoma Historical Society, online edition, 2010, updated 2023), entry WI018.
 - [^oksenate]: Oklahoma State Senate, "Senate sings praises of Swing Low, Sweet Chariot as state gospel song", press release, 24 February 2011. https://accessible.oksenate.gov/press-releases/senate-sings-praises-swing-low-sweet-chariot-state-gospel-song
 - [^work1915]: John Wesley Work, *Folk Song of the American Negro* (Nashville: Press of Fisk University, 1915), pp. 35 and 79 to 82; facsimile. https://archive.org/details/folkameric00work
 - [^pdr]: *The Public Domain Review*, "First Recording of Swing Low, Sweet Chariot (1909)". https://publicdomainreview.org/collection/first-recording-of-swing-low-sweet-chariot-1909

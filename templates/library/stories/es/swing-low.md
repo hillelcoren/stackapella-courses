@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: swing low sweet chariot significado | swing low sweet chariot significado esclavitud | swing low sweet chariot ferrocarril subterráneo | quién escribió swing low sweet chariot | swing low sweet chariot historia | swing low sweet chariot rugby inglaterra
-translatedFrom: f0588de1ed26
+translatedFrom: 2579d3ef2770
 ---
 
 Swing Low, Sweet Chariot es un espiritual (en inglés, spiritual), uno de los cantos religiosos que crearon los afroamericanos esclavizados. Su estribillo pide a un carro que baje y se lleve a quien canta a casa, una imagen tomada de la historia bíblica del profeta Elías [^kjv][^psh]. Estudiantes de la Universidad Fisk de Nashville la cantaron en las giras de conciertos que empezaron en octubre de 1871, y se imprimió en su libro, Jubilee Songs, en 1872 [^seward1872][^balladindex][^marsh][^okhist]. Una tradición la atribuye a Wallace Willis, un hombre esclavizado en la Nación Choctaw, en lo que hoy es Oklahoma [^okhist][^oksenate]. Los himnarios aún la imprimen, y las aficiones de rugby inglesas la cantan desde los años ochenta [^hymnary-text][^psh][^rte][^espn].
@@ -156,7 +156,7 @@ La soprano canta la melodía de principio a fin, y las otras voces cantan en arm
 - [^marsh]: J. B. T. Marsh, *The Story of the Jubilee Singers; with Their Songs* (Boston: Houghton, Mifflin and Company, 1880), p. 16; facsímil. https://archive.org/details/storyofjubilees00mars
 - [^pbs]: PBS, American Experience, *Jubilee Singers*, "Timeline". https://www.pbs.org/wgbh/americanexperience/features/singers-timeline
 - [^tnenc]: *Tennessee Encyclopedia*, "Jubilee Singers of Fisk University" (Tennessee Historical Society). https://tennesseeencyclopedia.net/?p=1073
-- [^okhist]: Judith Michener, "Willis, 'Uncle' Wallace and 'Aunt' Minerva", *The Encyclopedia of Oklahoma History and Culture* (Oklahoma Historical Society, 2010, actualizado en 2023). https://www.okhistory.org/publications/enc/entry?entry=WI018
+- [^okhist]: Judith Michener, "Willis, 'Uncle' Wallace and 'Aunt' Minerva", *The Encyclopedia of Oklahoma History and Culture* (Oklahoma Historical Society, edición en línea, 2010, actualizada en 2023), entrada WI018.
 - [^oksenate]: Oklahoma State Senate, "Senate sings praises of Swing Low, Sweet Chariot as state gospel song", nota de prensa, 24 de febrero de 2011. https://accessible.oksenate.gov/press-releases/senate-sings-praises-swing-low-sweet-chariot-state-gospel-song
 - [^work1915]: John Wesley Work, *Folk Song of the American Negro* (Nashville: Press of Fisk University, 1915), pp. 35 y 79 a 82; facsímil. https://archive.org/details/folkameric00work
 - [^pdr]: *The Public Domain Review*, "First Recording of Swing Low, Sweet Chariot (1909)". https://publicdomainreview.org/collection/first-recording-of-swing-low-sweet-chariot-1909
