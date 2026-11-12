@@ -60,7 +60,7 @@ Danny Boy was published as a song for one voice and piano.[^imslp] It is sung at
 
 In hymnals the tune is LONDONDERRY AIR. Hymnary.org lists it as 11.10.11.10 D, but hymnals that keep the long last line print it as 11.10.11.10.11.10.11.12, as Danny Boy's own lines run. Churches sing it to several texts.[^hymnary][^methodist]
 
-Our arrangement sings Weatherly's first verse, once, slowly, in D major, for 2 to 4 singers. The soprano sings the tune. The alto and tenor sing the words with it, and the bass hums the low notes on "oo". With two singers it is soprano and alto; with three the bass joins; with four the tenor fills the middle.
+Our arrangement takes the tune as Petrie printed it in 1855 and fits Weatherly's first verse to it ourselves, rather than following Boosey's 1913 sheet note for note.[^petrie] It sings that verse once, slowly, in D major, for 2 to 4 singers. The soprano sings the tune. The alto and tenor sing the words with it, and the bass hums the low notes on "oo". With two singers it is soprano and alto; with three the bass joins; with four the tenor fills the middle.
 
 ## Versions and other words
 

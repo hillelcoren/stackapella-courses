@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: danny boy significado | danny boy historia | quién escribió danny boy | danny boy letra en español | danny boy canción de funeral | danny boy es irlandesa o escocesa
-translatedFrom: b2e8b6ed1317
+translatedFrom: 4ac95ff66e70
 ---
 
 Danny Boy es una canción de despedida. Su letra es de Frederic Weatherly, abogado y letrista inglés, que la escribió en 1910 y la publicó en 1913 con el Londonderry Air, una melodía irlandesa que George Petrie había impreso en 1855 sin nombre.[^dillane][^mann][^imslp][^petrie] Alguien que se queda en casa le dice a Danny que las gaitas lo llaman a partir, y le promete que lo estará esperando cuando vuelva, en verano o con nieve. Se canta el Día de San Patricio y en los funerales.[^dillane][^odowd][^ap][^golway] En sus memorias de 1926, tal como las cita Aileen Dillane, de la Universidad de Limerick, Weatherly escribió que se cantaba "en todo el mundo, tanto por los del Sinn Féin como por los del Úlster".[^dillane][^ballad][^odowd]
@@ -61,7 +61,7 @@ Danny Boy se publicó como canción para una voz y piano.[^imslp] Se canta en la
 
 En los himnarios la melodía es LONDONDERRY AIR. Hymnary.org la recoge como 11.10.11.10 D, pero los himnarios que conservan el último verso largo la imprimen como 11.10.11.10.11.10.11.12, como van los versos de Danny Boy. Las iglesias la cantan con varios textos.[^hymnary][^methodist]
 
-Nuestro arreglo canta la primera estrofa de Weatherly, una vez, despacio, en Re mayor, para 2 a 4 cantantes. La soprano canta la melodía. La contralto y el tenor cantan la letra con ella, y el bajo sostiene las notas graves en "oo" (una u). Con dos cantantes son soprano y contralto; con tres se suma el bajo; con cuatro el tenor rellena el centro.
+Nuestro arreglo toma la melodía tal como la imprimió Petrie en 1855 y le ajustamos nosotros la primera estrofa de Weatherly, en lugar de seguir nota a nota la partitura de Boosey de 1913.[^petrie] La canta una vez, despacio, en Re mayor, para 2 a 4 cantantes. La soprano canta la melodía. La contralto y el tenor cantan la letra con ella, y el bajo sostiene las notas graves en "oo" (una u). Con dos cantantes son soprano y contralto; con tres se suma el bajo; con cuatro el tenor rellena el centro.
 
 ## Versiones y otras letras
 
