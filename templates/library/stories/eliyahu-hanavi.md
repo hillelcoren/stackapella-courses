@@ -84,7 +84,7 @@ Because Elijah is the expected guest of the seder night. After the grace after t
 
 ### What does "Eliyahu hanavi zachur latov" mean?
 
-"Elijah the prophet, remembered for good." Zachur latov is an honour added to Elijah's name: the grace after meals asks God to send "Elijah the prophet, remembered for good", with good tidings, and the Edot HaMizrach prayer book ends each stanza of the Saturday-night poem with the same words. Because Elijah is said to record people's deeds, some read it as a pun: mazkir latov, "who records for good".[^birkat][^sinclair][^edot][^jeelijah]
+"Elijah the prophet, remembered for good." Zachur latov is an honour added to Elijah's name: the grace after meals asks God to send "Elijah the prophet, remembered for good", with good tidings, and the Edot HaMizrach prayer book ends each stanza of the Saturday-night poem with the same words. Because in Jewish tradition Elijah records people's deeds, as the Jewish Encyclopedia notes, some read it as a pun: mazkir latov, "who records for good".[^birkat][^sinclair][^edot][^jeelijah]
 
 ### Which part sings the tune?
 
