@@ -1402,6 +1402,51 @@
                   }
                 ],
                 "turn": true
+              },
+              "from": "ode-to-joy",
+              "altSong": {
+                "kind": "play",
+                "text": {
+                  "en": "The unit's challenge: the opening of Joy to the World, which steps straight down the scale, a half at a time. Listen, then sing the first half.",
+                  "es": "El desafío de la unidad: el comienzo de Joy to the World (\"Al mundo paz\"), que baja la escala por grados conjuntos. Lo harás por mitades: escucha y canta la primera.",
+                  "de": "Die Herausforderung der Einheit: der Anfang von Joy to the World, der stufenweise die Tonleiter hinuntergeht. Du lernst ihn in zwei Hälften: Hör zu, dann sing die erste."
+                },
+                "measures": {
+                  "en": "Scored on the notes.",
+                  "es": "Se puntúan las notas.",
+                  "de": "Bewertet: die Töne."
+                },
+                "exercise": {
+                  "tempo": 100,
+                  "notes": [
+                    {
+                      "beat": 0,
+                      "length": 2,
+                      "step": 12,
+                      "lyric": "do"
+                    },
+                    {
+                      "beat": 2,
+                      "length": 1.5,
+                      "step": 11,
+                      "lyric": "ti"
+                    },
+                    {
+                      "beat": 3.5,
+                      "length": 0.5,
+                      "step": 9,
+                      "lyric": "la"
+                    },
+                    {
+                      "beat": 4,
+                      "length": 3,
+                      "step": 7,
+                      "lyric": "so"
+                    }
+                  ],
+                  "turn": true
+                },
+                "from": "joy-to-the-world"
               }
             },
             {
@@ -1463,6 +1508,51 @@
                   }
                 ],
                 "turn": true
+              },
+              "from": "ode-to-joy",
+              "altSong": {
+                "kind": "play",
+                "text": {
+                  "en": "Now the second half.",
+                  "es": "Ahora la segunda mitad.",
+                  "de": "Jetzt die zweite Hälfte."
+                },
+                "measures": {
+                  "en": "Scored on the notes.",
+                  "es": "Se puntúan las notas.",
+                  "de": "Bewertet: die Töne."
+                },
+                "exercise": {
+                  "tempo": 100,
+                  "notes": [
+                    {
+                      "beat": 0,
+                      "length": 1,
+                      "step": 5,
+                      "lyric": "fa"
+                    },
+                    {
+                      "beat": 1,
+                      "length": 2,
+                      "step": 4,
+                      "lyric": "mi"
+                    },
+                    {
+                      "beat": 3,
+                      "length": 2,
+                      "step": 2,
+                      "lyric": "re"
+                    },
+                    {
+                      "beat": 5,
+                      "length": 2,
+                      "step": 0,
+                      "lyric": "do"
+                    }
+                  ],
+                  "turn": true
+                },
+                "from": "joy-to-the-world"
               }
             },
             {
@@ -1572,10 +1662,87 @@
                   }
                 ],
                 "turn": true
+              },
+              "from": "ode-to-joy",
+              "altSong": {
+                "kind": "play",
+                "text": {
+                  "en": "Now the whole opening, with a quick breath in the middle.",
+                  "es": "Ahora el comienzo entero, con una respiración rápida en medio.",
+                  "de": "Jetzt der ganze Anfang, mit einem kurzen Atemzug in der Mitte."
+                },
+                "measures": {
+                  "en": "Scored on the notes.",
+                  "es": "Se puntúan las notas.",
+                  "de": "Bewertet: die Töne."
+                },
+                "exercise": {
+                  "tempo": 100,
+                  "notes": [
+                    {
+                      "beat": 0,
+                      "length": 2,
+                      "step": 12,
+                      "lyric": "do"
+                    },
+                    {
+                      "beat": 2,
+                      "length": 1.5,
+                      "step": 11,
+                      "lyric": "ti"
+                    },
+                    {
+                      "beat": 3.5,
+                      "length": 0.5,
+                      "step": 9,
+                      "lyric": "la"
+                    },
+                    {
+                      "beat": 4,
+                      "length": 2.5,
+                      "step": 7,
+                      "lyric": "so"
+                    },
+                    {
+                      "beat": 7,
+                      "length": 1,
+                      "step": 5,
+                      "lyric": "fa"
+                    },
+                    {
+                      "beat": 8,
+                      "length": 2,
+                      "step": 4,
+                      "lyric": "mi"
+                    },
+                    {
+                      "beat": 10,
+                      "length": 2,
+                      "step": 2,
+                      "lyric": "re"
+                    },
+                    {
+                      "beat": 12,
+                      "length": 2,
+                      "step": 0,
+                      "lyric": "do"
+                    }
+                  ],
+                  "turn": true
+                },
+                "from": "joy-to-the-world"
               }
             }
           ],
-          "challenge": true
+          "challenge": true,
+          "altSong": {
+            "title": {
+              "en": "Joy to the World's opening",
+              "es": "El comienzo de Joy to the World",
+              "de": "Der Anfang von Joy to the World"
+            },
+            "fact": {"id": "jttw-watts-psalm-98", "text": {"en": "Joy to the World's words are Isaac Watts's, printed in London in 1719 as his version of Psalm 98. He didn't head it as a Christmas hymn: he called it \"The Messiah's Coming and Kingdom\".", "es": "La letra de Joy to the World es de Isaac Watts, impresa en Londres en 1719 como su versión del Salmo 98. Watts no la tituló como himno de Navidad: la llamó \"The Messiah's Coming and Kingdom\" (La venida y el reino del Mesías).", "de": "Der Text von Joy to the World stammt von Isaac Watts und erschien 1719 in London als seine Fassung von Psalm 98. Als Weihnachtslied überschrieb er ihn nicht: Er nannte ihn \"The Messiah's Coming and Kingdom\" (Das Kommen und Reich des Messias)."}, "source": {"en": "Isaac Watts, The Psalms of David Imitated (London, 1719), p. 253", "es": "Isaac Watts, The Psalms of David Imitated (London, 1719), p. 253", "de": "Isaac Watts, The Psalms of David Imitated (London, 1719), p. 253"}, "url": "https://archive.org/details/chrtwimi00watt/page/n288/mode/1up"}
+          }
         }
       ],
       "boss": {
@@ -1688,6 +1855,70 @@
                   "lyric": "love;"
                 }
               ]
+            },
+            "from": "ode-to-joy",
+            "altSong": {
+              "kind": "play",
+              "text": {
+                "en": "The first line: listen, then sing.",
+                "es": "La primera frase: escucha y canta.",
+                "de": "Die erste Zeile: Hör zu, dann sing."
+              },
+              "exercise": {
+                "tempo": 100,
+                "turn": true,
+                "notes": [
+                  {
+                    "beat": 0,
+                    "length": 2,
+                    "step": 12,
+                    "lyric": "Joy"
+                  },
+                  {
+                    "beat": 2,
+                    "length": 1.5,
+                    "step": 11,
+                    "lyric": "to"
+                  },
+                  {
+                    "beat": 3.5,
+                    "length": 0.5,
+                    "step": 9,
+                    "lyric": "the"
+                  },
+                  {
+                    "beat": 4,
+                    "length": 3,
+                    "step": 7,
+                    "lyric": "world,"
+                  },
+                  {
+                    "beat": 7,
+                    "length": 1,
+                    "step": 5,
+                    "lyric": "the"
+                  },
+                  {
+                    "beat": 8,
+                    "length": 2,
+                    "step": 4,
+                    "lyric": "Lord"
+                  },
+                  {
+                    "beat": 10,
+                    "length": 2,
+                    "step": 2,
+                    "lyric": "is"
+                  },
+                  {
+                    "beat": 12,
+                    "length": 2,
+                    "step": 0,
+                    "lyric": "come!"
+                  }
+                ]
+              },
+              "from": "joy-to-the-world"
             }
           },
           {
@@ -1792,9 +2023,68 @@
                   "lyric": "bove."
                 }
               ]
+            },
+            "from": "ode-to-joy",
+            "altSong": {
+              "kind": "play",
+              "text": {
+                "en": "The next line, stepping back up to the top.",
+                "es": "La frase siguiente, subiendo por grados hasta arriba.",
+                "de": "Die nächste Zeile, stufenweise wieder hinauf bis nach oben."
+              },
+              "exercise": {
+                "tempo": 100,
+                "turn": true,
+                "notes": [
+                  {
+                    "beat": 0,
+                    "length": 1,
+                    "step": 7,
+                    "lyric": "Let"
+                  },
+                  {
+                    "beat": 1,
+                    "length": 3,
+                    "step": 9,
+                    "lyric": "earth"
+                  },
+                  {
+                    "beat": 4,
+                    "length": 1,
+                    "step": 9,
+                    "lyric": "re-"
+                  },
+                  {
+                    "beat": 5,
+                    "length": 2,
+                    "step": 11,
+                    "lyric": "ceive"
+                  },
+                  {
+                    "beat": 7,
+                    "length": 2,
+                    "step": 11,
+                    "lyric": "her"
+                  },
+                  {
+                    "beat": 9,
+                    "length": 6,
+                    "step": 12,
+                    "lyric": "King;"
+                  }
+                ]
+              },
+              "from": "joy-to-the-world"
             }
           }
-        ]
+        ],
+        "altSong": {
+          "title": {
+            "en": "Joy to the World's first lines",
+            "es": "Las primeras frases de Joy to the World",
+            "de": "Joy to the World, die ersten Zeilen"
+          }
+        }
       },
       "song": {
         "template": "ode-to-joy",
@@ -1820,6 +2110,33 @@
             "en": "You take the whole tune of Ode to Joy, on \"oo\". Three voices back you up.",
             "de": "Du singst die ganze Melodie der Ode an die Freude, auf \"oo\". Drei Stimmen begleiten dich.",
             "es": "Tú llevas entera la melodía del \"Himno a la alegría\", en \"oo\". Tres voces te acompañan."
+          }
+        },
+        "altSong": {
+          "template": "joy-to-the-world",
+          "part": "melody",
+          "syllable": "oo",
+          "title": {
+            "en": "Step through a song",
+            "de": "Schritt für Schritt durch ein Lied",
+            "es": "Paso a paso por una canción"
+          },
+          "text": {
+            "en": "Sing the whole tune of Joy to the World on \"oo\". It moves mostly by step, while three voices sing around you.",
+            "de": "Sing die ganze Melodie von Joy to the World auf \"oo\". Sie geht meist in Schritten, während drei Stimmen um dich herum singen.",
+            "es": "Canta entera la melodía de Joy to the World en \"oo\". Se mueve sobre todo por grados conjuntos, mientras tres voces cantan a tu alrededor."
+          },
+          "game": {
+            "title": {
+              "en": "Bonus round: a real song",
+              "de": "Bonusrunde: ein echtes Lied",
+              "es": "Ronda extra: una canción de verdad"
+            },
+            "text": {
+              "en": "You take the whole tune of Joy to the World, on \"oo\". Three voices back you up.",
+              "de": "Du singst die ganze Melodie von Joy to the World, auf \"oo\". Drei Stimmen begleiten dich.",
+              "es": "Tú llevas entera la melodía de Joy to the World, en \"oo\". Tres voces te acompañan."
+            }
           }
         }
       }
@@ -2543,7 +2860,18 @@
               },
               "template": "are-you-sleeping",
               "singers": 2,
-              "part": "alto"
+              "part": "alto",
+              "altSong": {
+                "kind": "use",
+                "text": {
+                  "en": "Learn the 2nd voice of Hey, Ho, Nobody Home, which starts one bar after the 1st.",
+                  "es": "Aprende la segunda voz de Hey, Ho, Nobody Home, que entra un compás después de la primera.",
+                  "de": "Lerne die zweite Stimme von Hey, Ho, Nobody Home, die einen Takt nach der ersten einsetzt."
+                },
+                "template": "hey-ho-nobody-home",
+                "singers": 2,
+                "part": "alto"
+              }
             },
             {
               "kind": "play",
@@ -2648,6 +2976,101 @@
                     "bass": null
                   }
                 ]
+              },
+              "from": "are-you-sleeping",
+              "altSong": {
+                "kind": "play",
+                "text": {
+                  "en": "Now on your own: sing the 2nd voice's first line over the chords. Keep your own words.",
+                  "es": "Ahora sin guía: canta la primera frase de la segunda voz sobre los acordes. Sigue tu propia letra.",
+                  "de": "Jetzt ohne Übestimme: Sing die erste Zeile der zweiten Stimme zu den Akkorden. Bleib bei deinem eigenen Text."
+                },
+                "measures": {
+                  "en": "Scored on your line over the chords.",
+                  "es": "Se puntúa tu línea sobre los acordes.",
+                  "de": "Bewertet: deine Stimme zu den Akkorden."
+                },
+                "exercise": {
+                  "tempo": 96,
+                  "notes": [
+                    {
+                      "beat": 4,
+                      "length": 2,
+                      "step": 0,
+                      "lyric": "Hey"
+                    },
+                    {
+                      "beat": 6,
+                      "length": 2,
+                      "step": -2,
+                      "lyric": "ho"
+                    },
+                    {
+                      "beat": 8,
+                      "length": 0.75,
+                      "step": 0,
+                      "lyric": "no-"
+                    },
+                    {
+                      "beat": 8.75,
+                      "length": 0.25,
+                      "step": 0,
+                      "lyric": "bo-"
+                    },
+                    {
+                      "beat": 9,
+                      "length": 0.5,
+                      "step": 0,
+                      "lyric": "dy"
+                    },
+                    {
+                      "beat": 9.5,
+                      "length": 0.5,
+                      "step": 0,
+                      "lyric": "at"
+                    },
+                    {
+                      "beat": 10,
+                      "length": 1,
+                      "step": -5,
+                      "lyric": "home"
+                    }
+                  ],
+                  "turn": false,
+                  "chords": [
+                    {
+                      "beat": 0,
+                      "root": 0,
+                      "quality": "min",
+                      "bass": null
+                    },
+                    {
+                      "beat": 4,
+                      "root": 8,
+                      "quality": "maj",
+                      "bass": 0
+                    },
+                    {
+                      "beat": 6,
+                      "root": 7,
+                      "quality": "min",
+                      "bass": null
+                    },
+                    {
+                      "beat": 8,
+                      "root": 8,
+                      "quality": "maj",
+                      "bass": 0
+                    },
+                    {
+                      "beat": 10,
+                      "root": 7,
+                      "quality": "min",
+                      "bass": 10
+                    }
+                  ]
+                },
+                "from": "hey-ho-nobody-home"
               }
             }
           ]
@@ -2796,7 +3219,18 @@
               },
               "template": "are-you-sleeping",
               "singers": 2,
-              "part": "alto"
+              "part": "alto",
+              "altSong": {
+                "kind": "record",
+                "text": {
+                  "en": "The unit's challenge: record the 2nd voice of Hey, Ho, Nobody Home.",
+                  "es": "El desafío de la unidad: graba la segunda voz de Hey, Ho, Nobody Home.",
+                  "de": "Die Herausforderung der Einheit: Nimm die zweite Stimme von Hey, Ho, Nobody Home auf."
+                },
+                "template": "hey-ho-nobody-home",
+                "singers": 2,
+                "part": "alto"
+              }
             }
           ],
           "challenge": true
@@ -2825,7 +3259,17 @@
                   1,
                   2
                 ],
-                "with": "others"
+                "with": "others",
+                "altSong": {
+                  "template": "hey-ho-nobody-home",
+                  "part": "alto",
+                  "phrases": [
+                    0,
+                    1,
+                    2
+                  ],
+                  "with": "others"
+                }
               },
               "turn": false
             }
@@ -2845,7 +3289,16 @@
                   3,
                   4
                 ],
-                "with": "others"
+                "with": "others",
+                "altSong": {
+                  "template": "hey-ho-nobody-home",
+                  "part": "alto",
+                  "phrases": [
+                    3,
+                    4
+                  ],
+                  "with": "others"
+                }
               },
               "turn": false
             }
@@ -3943,10 +4396,34 @@
                 "en": "Scored on the notes. The shape is for you to feel: listen back.",
                 "es": "Se puntúan las notas. La forma de la frase la sientes tú: escúchate después.",
                 "de": "Bewertet: die Töne. Die Gestaltung spürst du selbst: Hör dir die Aufnahme an."
+              },
+              "altSong": {
+                "kind": "record",
+                "text": {
+                  "en": "The unit's challenge: record the melody of Annie Laurie, shaping each line: a breath before it, growing to its top, settling at the end.",
+                  "es": "El desafío de la unidad: graba la melodía de Annie Laurie dando forma a cada frase: respira antes, crece hasta su cima y deja que se asiente al final.",
+                  "de": "Die Herausforderung der Einheit: Nimm die Melodie von Annie Laurie auf und gestalte jede Zeile: davor atmen, zum Höhepunkt wachsen, am Ende ausklingen."
+                },
+                "template": "annie-laurie",
+                "singers": 4,
+                "part": "soprano",
+                "measures": {
+                  "en": "Scored on the notes. The shape is for you to feel: listen back.",
+                  "es": "Se puntúan las notas. La forma de la frase la sientes tú: escúchate después.",
+                  "de": "Bewertet: die Töne. Die Gestaltung spürst du selbst: Hör dir die Aufnahme an."
+                }
               }
             }
           ],
-          "challenge": true
+          "challenge": true,
+          "altSong": {
+            "title": {
+              "en": "Annie Laurie, with expression",
+              "es": "Annie Laurie, con expresión",
+              "de": "Annie Laurie mit Ausdruck"
+            },
+            "fact": {"id": "annie-laurie-unsigned-1838", "text": {"en": "Lady John Scott reworked older verses into Annie Laurie and set them to a tune of her own in 1834 or 1835. It was first printed in Edinburgh in 1838, without her name.", "es": "Lady John Scott rehízo unas estrofas más antiguas para crear Annie Laurie y les puso una melodía propia en 1834 o 1835. Se imprimió por primera vez en Edimburgo en 1838, sin su nombre.", "de": "Lady John Scott formte ältere Strophen zu Annie Laurie um und vertonte sie 1834 oder 1835 mit einer eigenen Melodie. Zum ersten Mal gedruckt wurde das Lied 1838 in Edinburgh, ohne ihren Namen."}, "source": {"en": "Margaret Warrender, Songs and Verses by Lady John Scott (1911); James J. Fuld, The Book of World-Famous Music (1985), p. 101", "es": "Margaret Warrender, Songs and Verses by Lady John Scott (1911); James J. Fuld, The Book of World-Famous Music (1985), p. 101", "de": "Margaret Warrender, Songs and Verses by Lady John Scott (1911); James J. Fuld, The Book of World-Famous Music (1985), p. 101"}, "url": "https://archive.org/details/songsverses00scotiala/page/18"}
+          }
         }
       ],
       "boss": {
@@ -3978,7 +4455,22 @@
                   1,
                   2,
                   3
-                ]
+                ],
+                "altSong": {
+                  "template": "annie-laurie",
+                  "part": "soprano",
+                  "phrases": [
+                    0,
+                    1,
+                    2,
+                    3
+                  ],
+                  "text": {
+                    "en": "Annie Laurie's first verse: a breath before each line, then back in on the beat.",
+                    "es": "La primera estrofa de Annie Laurie: respira antes de cada frase y vuelve a entrar a tiempo.",
+                    "de": "Die erste Strophe von Annie Laurie: Atme vor jeder Zeile, dann setz pünktlich wieder ein."
+                  }
+                }
               },
               "turn": false,
               "score": "entry"
@@ -4008,7 +4500,14 @@
               ]
             }
           }
-        ]
+        ],
+        "altSong": {
+          "title": {
+            "en": "Annie Laurie, shaped",
+            "es": "Annie Laurie, con fraseo",
+            "de": "Annie Laurie, gestaltet"
+          }
+        }
       }
     }
   ]

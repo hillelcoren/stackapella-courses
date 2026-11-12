@@ -36,11 +36,11 @@
         "song"
     ],
     "unitBoss": {
-        "about": "A unit's boss round (docs/boss-round-plan.md in the app's repo): { id, title, steps }, beside the unit's lessons and never in them, so stars, unit opening and the next lesson don't change. id is the unit's number then -boss (3-boss); 2 to 4 sung `play` steps (song steps welcome; no record step, which would leave the round for Sing), checked as a lesson's are, with no keep or thenAndNow. Opens once the unit's challenge has stars, never in a singer's first week; 80% across its steps (notes-weighted) beats it. Web only: an app that doesn't play bosses skips the field."
+        "about": "A unit's boss round (docs/boss-round-plan.md in the app's repo): { id, title, steps, altSong? }, beside the unit's lessons and never in them, so stars, unit opening and the next lesson don't change. id is the unit's number then -boss (3-boss); 2 to 4 sung `play` steps (song steps welcome; no record step, which would leave the round for Sing), checked as a lesson's are, with no keep or thenAndNow. Opens once the unit's challenge has stars, never in a singer's first week; 80% across its steps (notes-weighted) beats it. altSong: its partial fallback (altSong, below). Web only: an app that doesn't play bosses skips the field."
     },
     "unitSong": {
-        "about": "A unit's song (docs/retention-plan.md, section 4, idea 4; Hillel, 2026-11-11): a real song offered at the unit's end, sung in the singer's key on one part while the guide voices sing the others, a quiet second way beside the next lesson, never instead of it. { template, part, syllable?, title, text, game? }: template is an open library song (the first unit's must be bundled, templates/free, so a guest can sing it); part is \"melody\" (the song's melody part) or a part key; syllable sings it on that syllable instead of the words; title and text are its two lines, game { title, text } game mode's. Web only until the app reads it.",
-        "fields": ["template", "part", "syllable", "title", "text", "game"],
+        "about": "A unit's song (docs/retention-plan.md, section 4, idea 4; Hillel, 2026-11-11): a real song offered at the unit's end, sung in the singer's key on one part while the guide voices sing the others, a quiet second way beside the next lesson, never instead of it. { template, part, syllable?, title, text, game? }: template is an open library song (the first unit's must be bundled, templates/free, so a guest can sing it); part is \"melody\" (the song's melody part) or a part key; syllable sings it on that syllable instead of the words; title and text are its two lines, game { title, text } game mode's; altSong: the same object for another song, where this one is withheld (altSong, below). Web only until the app reads it.",
+        "fields": ["template", "part", "syllable", "title", "text", "game", "altSong"],
         "syllables": ["oo", "ah", "loo", "mm"],
         "web": "no",
         "flutter": "no"
@@ -59,8 +59,14 @@
         "endLine",
         "variants",
         "quiet",
-        "headphones"
+        "headphones",
+        "altSong"
     ],
+    "altSong": {
+        "about": "A song's fallback where its rights hold it back in the singer's country (docs/geo-rights-plan.md in the app's repo, section 4): where a song is withheld the app uses the altSong of the object that names it, or hides that step (and a lesson it leaves empty) when there's none. It sits on the object that names the song: a step with template (use, record) or from (a play step whose own notes are taken from a song: from names it), an exercise's song, or a unit's song. altSong is a whole replacement of that object in its own schema: the same kind, another song, its own part, singers or phrases, notes and words, every word in the languages the original has; an exercise song's altSong may also carry text, the step's words, when they name the song. A lesson or a boss may carry a partial altSong, only the fields listed here that name the song, used when anything inside it fell back, and only where something inside it has an altSong; a lesson's fact there is a new one, its id used nowhere else.",
+        "lesson": ["title", "fact", "keepSong"],
+        "boss": ["title"]
+    },
     "lessonExtras": {
         "about": "Lesson fields an app may leave out without breaking the lesson: a lesson that has one still plays, so neither makes it web-only. docs/ux-spec.md says how each is shown.",
         "fact": {
@@ -120,10 +126,12 @@
                 "text",
                 "exercise",
                 "measures",
-                "textByPart"
+                "textByPart",
+                "from",
+                "altSong"
             ],
             "exercise": "play",
-            "about": "Hear it, then sing it back (turn: true), or sing over a drone or chords (turn: false); scored"
+            "about": "Hear it, then sing it back (turn: true), or sing over a drone or chords (turn: false); scored. from: the song (a template id) its own notes are taken from, so its altSong stands in where that song is withheld"
         },
         "home": {
             "web": "yes",
@@ -145,7 +153,8 @@
                 "part",
                 "singers",
                 "phrases",
-                "textByPart"
+                "textByPart",
+                "altSong"
             ],
             "about": "Opens a song in Sing; done after 20 seconds sung"
         },
@@ -160,7 +169,8 @@
                 "part",
                 "singers",
                 "measures",
-                "textByPart"
+                "textByPart",
+                "altSong"
             ],
             "about": "Records a part in Sing; scored on pitch. The song is a template (a free or library song), or a Plus course's own (`courseSong`: songs/<id>.json in the course's folder, a template file whose id is <id>)"
         },
@@ -316,7 +326,7 @@
             "lights": "how your notes are drawn, all still scored: on (the default), fade (the second half faint), changes (only where the chord changes), late (after a beat off) or off (Improvising a harmony: docs/courses/improvising-harmony.md)",
             "keep": "an id (\"<course>.<name>\"): the step's first heard take is kept on this device, never synced, for Then and now",
             "thenAndNow": "an id an earlier lesson keeps: after the take, that first take plays beside today's (Then and now, every course's finale)",
-            "song": "{ template, part, phrases, with? }: the notes come from that song's part in those phrases (from 0, every section's in order), loaded with the song so a Plus song's notes stay private; with: others plays the other parts as partner lines. With turn: false the guide sings your line with you, unless guide: false; without others, the song's chords play under you. An exercise has song or notes, never both (a song course, course/songs: docs/song-courses-plan.md)",
+            "song": "{ template, part, phrases, with? }: the notes come from that song's part in those phrases (from 0, every section's in order), loaded with the song so a Plus song's notes stay private; with: others plays the other parts as partner lines. With turn: false the guide sings your line with you, unless guide: false; without others, the song's chords play under you. An exercise has song or notes, never both (a song course, course/songs: docs/song-courses-plan.md). altSong: { template, part, phrases, with?, text? } for another song, where this one is withheld (altSong, above)",
             "tuning": "true: the ring meter shows while a note of a beat or more is held in the step's chord (its chords, or its drone as the root): how close it is to pure, not just the piano's pitch (js/tuning.js ringReading, ux-spec 5.10c). A view only, never scored; hidden through a speaker.",
             "staff": "{ names: on | faint | off, look: seconds }: the line drawn on a stave instead of the lane, in the key whose do is the singer's note, the clef from its range; names under the notes in the singer's chosen style (solfege by default), faint, or none; look: seconds it shows still before it runs, counted on the audio clock (Sight-singing: docs/sight-singing-plan.md); count: count-in beats in the time's own beat (0 to 8; 6/8 counts dotted quarters); time: \"4/4\" | \"3/4\" | \"2/4\" | \"6/8\" (default 4/4; notes stay in quarter-note beats, and a line fills whole bars); rhythm: true also scores when each note starts (pitch 70, timing 30, pitch alone when timing can't be read)",
             "hearFirst": "true: \"Hear it first\" is offered before the take; a take after hearing it is capped just under the top score, and the result says so",
