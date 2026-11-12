@@ -17,6 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: simple gifts aaron copland | simple gifts shaker song | simple gifts lyrics meaning | simple gifts hymn meaning | simple gifts lyrics all verses | who originally wrote simple gifts | who wrote the melody to the song simple gifts | was simple gifts originally a spiritual | what key is simple gifts in
+original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (begun 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
 Simple Gifts is a song of the Shakers, a religious community that worshipped by singing and dancing [^shakermuseum][^andrews]. It is one short verse in two halves: the first praises the gift of being simple and free, and the second describes bowing, bending and turning, the movements of the dance [^hazzard][^hall]. It is usually credited to Elder Joseph Brackett, a Maine Shaker, and dated 1848 [^hall][^smblog][^lcname][^songofamerica]. The copy we sing from, in Mary Hazzard's handwritten songbook, carries no name and no date [^hazzard]. Shakers copied it into many of their songbooks [^andrews][^smblog]. Nearly a century later Aaron Copland built the climax of his ballet Appalachian Spring on it, and that score won the Pulitzer Prize for Music in 1945 [^locblog][^boriskin].

@@ -18,6 +18,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote silent night | silent night meaning | silent night history | silent night history world war 1 | silent night lyrics meaning round yon virgin | silent night german lyrics meaning
+listen: National Jukebox, 1917 recording | https://www.loc.gov/item/jukebox-26061/ || National Jukebox, 1909 recording | https://www.loc.gov/item/jukebox-761693/
+original: Joseph Mohr's autograph, Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Autograph_Mohr_Stille_Nacht.jpg
 ---
 
 Silent Night is a Christmas carol from Austria. Joseph Mohr, a Catholic assistant priest, wrote its German words, Stille Nacht! Heilige Nacht!, as a poem in 1816. Franz Xaver Gruber, a village schoolteacher and church organist, set them to music for Christmas Eve 1818 in Oberndorf, near Salzburg [^sng-hist][^hochradner]. Within about twenty years, families of Tyrolean singers had carried it to Leipzig and, it is believed, to New York, mostly without its authors' names [^sng-spread][^hymnarchive]. The Silent Night Society knows of translations into more than 300 languages and dialects; a 2024 German report puts the count at more than 320 [^sng-spread][^sonntagsblatt]. The English most people sing is John Freeman Young's, printed in New York in 1859 [^young][^hymnarchive].

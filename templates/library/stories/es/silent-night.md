@@ -19,6 +19,8 @@ checked: 2026-11-12
 reviewed: true
 searches: noche de paz historia | noche de paz significado | quién escribió noche de paz | noche de paz tregua de navidad 1914 | silent night letra significado | noche de paz letra original en alemán
 translatedFrom: 49955629fe6f
+listen: National Jukebox, grabación de 1917 | https://www.loc.gov/item/jukebox-26061/ || National Jukebox, grabación de 1909 | https://www.loc.gov/item/jukebox-761693/
+original: Autógrafo de Joseph Mohr, Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Autograph_Mohr_Stille_Nacht.jpg
 ---
 
 Silent Night, Noche de paz en español, es un villancico de Austria. Joseph Mohr, un sacerdote católico coadjutor, escribió su letra alemana, Stille Nacht! Heilige Nacht!, como un poema en 1816. Franz Xaver Gruber, maestro de escuela de pueblo y organista de la iglesia, le puso música para la Nochebuena de 1818 en Oberndorf, cerca de Salzburgo [^sng-hist][^hochradner]. En unos veinte años, familias de cantantes tiroleses la habían llevado a Leipzig y, según se cree, a Nueva York, casi siempre sin los nombres de sus autores [^sng-spread][^hymnarchive]. La Sociedad Noche de Paz conoce traducciones a más de 300 idiomas y dialectos; un reportaje alemán de 2024 habla de más de 320 [^sng-spread][^sonntagsblatt]. La versión inglesa que canta casi todo el mundo es la de John Freeman Young, impresa en Nueva York en 1859 [^young][^hymnarchive].

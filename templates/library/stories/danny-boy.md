@@ -19,6 +19,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: danny boy meaning | danny boy history | who wrote danny boy | who wrote danny boy originally | danny boy lyrics meaning | is danny boy a funeral song | is danny boy irish or scottish | is danny boy catholic or protestant | is danny boy in the public domain
+listen: National Jukebox, 1917 recording | https://www.loc.gov/item/jukebox-189331/ || Internet Archive, 1918 Edison recording | https://archive.org/details/edison-82559_01_6475
+original: The Petrie Collection (1855), Internet Archive | https://archive.org/details/petriecollection01petr/page/n84/mode/1up
 ---
 
 Danny Boy is a song of parting. Its words are by Frederic Weatherly, an English barrister and lyricist, who wrote them in 1910 and published them in 1913 set to the Londonderry Air, an Irish tune that George Petrie had printed in 1855 without a name.[^dillane][^mann][^imslp][^petrie] Someone at home tells Danny that the pipes are calling him away, and promises to be waiting when he comes back, in summer or in snow. It is sung on St Patrick's Day and at funerals.[^dillane][^odowd][^ap][^golway] In his memoir of 1926, as Aileen Dillane of the University of Limerick quotes it, Weatherly wrote that it was sung "all over the world by Sinn Féiners and Ulstermen alike".[^dillane][^ballad][^odowd]

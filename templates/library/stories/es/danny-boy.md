@@ -20,6 +20,8 @@ checked: 2026-11-12
 reviewed: true
 searches: danny boy significado | danny boy historia | quién escribió danny boy | danny boy letra en español | danny boy canción de funeral | danny boy es irlandesa o escocesa
 translatedFrom: 3d3036bfd077
+listen: National Jukebox, grabación de 1917 | https://www.loc.gov/item/jukebox-189331/ || Internet Archive, grabación de Edison de 1918 | https://archive.org/details/edison-82559_01_6475
+original: The Petrie Collection (1855), Internet Archive | https://archive.org/details/petriecollection01petr/page/n84/mode/1up
 ---
 
 Danny Boy es una canción de despedida. Su letra es de Frederic Weatherly, abogado y letrista inglés, que la escribió en 1910 y la publicó en 1913 con el Londonderry Air, una melodía irlandesa que George Petrie había impreso en 1855 sin nombre.[^dillane][^mann][^imslp][^petrie] Alguien que se queda en casa le dice a Danny que las gaitas lo llaman a partir, y le promete que lo estará esperando cuando vuelva, en verano o con nieve. Se canta el Día de San Patricio y en los funerales.[^dillane][^odowd][^ap][^golway] En sus memorias de 1926, tal como las cita Aileen Dillane, de la Universidad de Limerick, Weatherly escribió que se cantaba "en todo el mundo, tanto por los del Sinn Féin como por los del Úlster".[^dillane][^ballad][^odowd]
