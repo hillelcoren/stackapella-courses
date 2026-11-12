@@ -97,8 +97,7 @@ TONES = {"maj": [0, 4, 7], "min": [0, 3, 7], "dom7": [0, 4, 7, 10], "min7": [0, 
 SCALE = [0, 2, 4, 5, 7, 9, 11]
 
 
-# Corrections to a template's chords, until the template itself is fixed: none now (Red River Valley's
-# early dominant was fixed in its template, version 5).
+# Corrections to a template's chords, until the template itself is fixed: none now.
 CHORD_FIXES = {}
 
 
@@ -616,7 +615,9 @@ def imp_4_high():
 
 
 def imp_4_challenge():
-    mel, chs = tune("red-river-valley")
+    # Shenandoah (Terry's 1921 print): new to this course, slow, its chords plain (do's and fa's, so's and la's near the end).
+    mel, chs = tune("shenandoah")
+    tempo = json.load(open(f"{LIBRARY}/shenandoah.json"))["tempo"]
     do = place_do([[{"step": 0}], [{"step": 9}]])
     above = chord_choices(mel, chs, do)
     # Roots and fifths, low: a bass under your own harmony. From -9 each chord reaches only one of them, so
@@ -626,17 +627,17 @@ def imp_4_challenge():
     low = {n["beat"]: n["choices"] for n in chord_choices(mel, chs, do, lo=-13, hi=-2, only=[0, 7], bass=True)}
     for n in below:
         n["choices"] = sorted(set(n["choices"]) | set(low.get(n["beat"], [])))
-    ex = lambda picks, extra=None: {"tempo": 90, "notes": cue(do) + shifted(picks, 4), "turn": False, "lights": "off",
+    ex = lambda picks, extra=None: {"tempo": tempo, "notes": cue(do) + shifted(picks, 4), "turn": False, "lights": "off",
                                     "with": [guide_line(mel, do, 4)], "chords": lib_chords(chs, do, 4), **(extra or {})}
     return {
         "id": "imp-4-challenge", "title": EN("A trio of you"), "challenge": True,
-        "keepSong": {"title": EN("Red River Valley, a trio of me"), "takes": [{"step": 2, "name": EN("My harmony")}, {"step": 3, "name": EN("My bass")}], "from": 3, "partners": [EN("The tune")], "chords": EN("Chords")},
+        "keepSong": {"title": EN("Shenandoah, a trio of me"), "takes": [{"step": 2, "name": EN("My harmony")}, {"step": 3, "name": EN("My bass")}], "from": 3, "partners": [EN("The tune")], "chords": EN("Chords")},
         "steps": [
-            learn("Red River Valley, a tune new to this course. Hear it once; then harmonise it by ear, again, and then a part under your own.",
+            learn("Shenandoah, a tune new to this course. Hear it once; then harmonise it by ear, again, and then a part under your own.",
                   [("Hear it once", "Just the tune"),
                    ("Harmonise it twice", "Lights off; the second time you know it"),
                    ("Then a bass under yourself", "Roots and fifths: three of you")], "harmony",
-                  {"tempo": 90, "notes": sung(mel, do, 0), "turn": False, "chords": lib_chords(chs, do)}),
+                  {"tempo": tempo, "notes": sung(mel, do, 0), "turn": False, "chords": lib_chords(chs, do)}),
             {"kind": "play", "text": EN("First listen: a harmony by ear, lights off."), "exercise": ex(above)},
             {"kind": "play", "text": EN("Again: now you know the tune."), "exercise": {"thenAndNow": "improvising.first-harmony", **ex(above)}},
             {"kind": "play", "text": EN("Last: a bass under it all, roots and fifths, with your second take singing too. A trio of you."),

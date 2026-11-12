@@ -110,7 +110,7 @@ class Song:
 GRACE = Song("free", "amazing-grace")
 SWING = Song("library", "swing-low")
 MICHAEL = Song("free", "michael-row")
-RED = Song("library", "red-river-valley")
+HOME = Song("library", "home-on-the-range")
 SHEN = Song("library", "shenandoah")
 
 # ---- The doo-wop loop (unit 2): no song, one chord a bar at 80, do, la, fa, so, then a closing do ----
@@ -624,30 +624,33 @@ assert [n for n in ANSWERS if n["beat"] < 33] == ANSWERS_VERSE
 
 # ---- Unit 4: Behind a real song ----
 
-R_VERSE = RED.passage(0, 33)
-R_TWO = RED.passage(0, 16)
-RED_PAD = L("1:4 4, 5:1 5, 6:1 4, 8:5 4, 13:2 5, 23:0.5 9 sun-, 23.5:0.5 5 shine, 30:1 5 a, 31:2 4 while")
-assert judged_entries(RED_PAD) == [8, 23, 30]
+# Home on the Range's verse (Lomax's 1910 print, 3/4, a beat a printed eighth): the pad on mi and fa through its
+# first two lines (fa is in the chord of fa and is the seventh of re's), then the answers: an echo of "word" in the
+# tune's one-beat rest after it, and "all day" under its five-beat "day".
+H_VERSE = HOME.passage(0, 49)
+H_TWO = HOME.passage(0, 24)
+HOME_PAD = L("1:6 4, 7:4 5, 13:3 4, 16:7 5, 35:1 5 word, 44:1 7 all, 45:2 4 day")
+assert judged_entries(HOME_PAD) == [13, 35, 44]
 
 UNIT4 = {"id": "bv-behind-a-song", "title": EN("Behind a real song"), "colour": COLOUR, "lessons": [
-    lesson("4-red-river", "Red River Valley: a pad, then answers", [
-        learn("A pad for two lines, then answers: wait, echo \"sunshine\", and fill \"a while\". Hear the tune first.", [
+    lesson("4-red-river", "Home on the Range: a pad, then answers", [
+        learn("A pad for two lines, then answers: wait, echo \"word\", and fill under the long \"day\". Hear the tune first.", [
             ("Pad, then answers", f"Hold for two lines, then the gaps; {SAFE}"),
             ("Doubling the tune", "Pop backing often sings the tune too: the mic can't score it"),
             HEADPHONES,
-        ], "harmony", listen=listen(RED.tempo, RED.lead(*R_VERSE)["notes"])),
-        options(choose("Hear the tune with each echo, then choose.", RED.tempo, [
+        ], "harmony", listen=listen(HOME.tempo, HOME.lead(*H_VERSE)["notes"])),
+        options(choose("Hear the tune with each echo, then choose.", HOME.tempo, [
             ("Which echo sits in the tune's rest?",
-             [clip(RED.lead(20, 24)["notes"], L("23:0.5 9, 23.5:0.5 5", shift=20), chords=RED.chords_at(20, 24)),
-              clip(RED.lead(20, 24)["notes"], L("21:1 9, 22:1 5", shift=20), chords=RED.chords_at(20, 24))],
-             0, "The first waits for the tune's rest. The second sings over \"sunshine\"."),
-        ]), L("23:0.5 9, 23.5:0.5 5"), L("21:1 9, 22:1 5")),
+             [clip(HOME.lead(30, 36)["notes"], L("35:1 5", shift=30), chords=HOME.chords_at(30, 36)),
+              clip(HOME.lead(30, 36)["notes"], L("34:1 5", shift=30), chords=HOME.chords_at(30, 36))],
+             0, "The first waits for the tune's rest. The second sings over the tune's own \"word\"."),
+        ]), L("35:1 5"), L("34:1 5")),
         play("The first two lines: the pad on mi, a step up to fa and back, held under the tune.",
-             first_two(RED_PAD, 16), RED.tempo, "Scored on your pad's notes on pitch.",
-             chords=RED.chords_at(*R_TWO), lead=RED.lead(*R_TWO)),
-        play("The whole verse: the pad, then echo \"sunshine\" in the rest, and fill \"a while\" under the tune's held note. Halfway, the lights fade.",
-             RED_PAD, RED.tempo, "Scored on your notes on pitch, the second half with the lights faded.",
-             chords=RED.chords_at(*R_VERSE), lead=RED.lead(*R_VERSE), lights="fade"),
+             first_two(HOME_PAD, 24), HOME.tempo, "Scored on your pad's notes on pitch.",
+             chords=HOME.chords_at(*H_TWO), lead=HOME.lead(*H_TWO)),
+        play("The whole verse: the pad, then echo \"word\" in the rest, and fill \"all day\" under the tune's held note. Halfway, the lights fade.",
+             HOME_PAD, HOME.tempo, "Scored on your notes on pitch, the second half with the lights faded.",
+             chords=HOME.chords_at(*H_VERSE), lead=HOME.lead(*H_VERSE), lights="fade"),
     ]),
     lesson("4-two-more", "Amazing Grace: two more parts", [
         learn("Your pad from lesson 1 is the low part. Now a middle and a top: mi, fa, re and so, la.", [

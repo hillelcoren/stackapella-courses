@@ -40,7 +40,9 @@ SONGS = {
     "shchedryk": "live",
     "simple-gifts": "live",
     "swing-low": "live",
-    "red-river-valley": "live",
+    # Hidden (Hillel, 2026-11-12): its notes came from a score of unclear licence; staff only until Kerrigan's
+    # 1896 print is read and the song rebuilt from it.
+    "red-river-valley": "staff",
     "home-on-the-range": "with the song",
     "all-through-the-night": "live",
     "blow-the-man-down": "with the song",
