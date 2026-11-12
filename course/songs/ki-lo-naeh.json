@@ -1,0 +1,2200 @@
+{
+    "id": "song-ki-lo-naeh",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Ki Lo Na'eh"},
+    "units": [
+        {
+            "id": "song-ki-lo-naeh-soprano",
+            "title": {"en": "The melody", "es": "La melodía"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-ki-lo-naeh-soprano-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Ki Lo Na'eh: hear the whole song first, then the tune on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "kln-solo-chorus", "text": {"en": "The Union Haggadah prints it as a solo verse and a chorus: one singer leads each verse, and everyone answers \"Lecha ulecha\", yours and yours."}, "source": {"en": "The Union Haggadah (Central Conference of American Rabbis, 1923), pp. 84 and 85, read from the scan"}, "url": "https://archive.org/details/unionhaggadahhom00unse"}
+                },
+                {
+                    "id": "song-ki-lo-naeh-soprano-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-soprano-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-soprano-4",
+                    "title": {"en": "Lines 5 to 7", "es": "Frases 5 a 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 7 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 7 joined: hear them, then sing them back.", "es": "Ahora las frases 5 a 7 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [4, 5, 6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-soprano-5",
+                    "title": {"en": "Lines 8 to 11", "es": "Frases 8 a 11"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 11 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8 to 11 joined: hear them, then sing them back.", "es": "Ahora las frases 8 a 11 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [7, 8, 9, 10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-soprano-6",
+                    "title": {"en": "Lines 12 to 15", "es": "Frases 12 a 15"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 12 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 5 again. Sing it with the guide.", "es": "La frase 13 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is line 6 again. Sing it with the guide.", "es": "La frase 14 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 15 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 15 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 12 to 15 joined: hear them, then sing them back.", "es": "Ahora las frases 12 a 15 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [11, 12, 13, 14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-soprano-7",
+                    "title": {"en": "Lines 16 to 19", "es": "Frases 16 a 19"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is line 8 again. Sing it with the guide.", "es": "La frase 16 repite la frase 8. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 18 is the tune of line 2 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 19 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 19 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 16 to 19 joined: hear them, then sing them back.", "es": "Ahora las frases 16 a 19 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [15, 16, 17, 18]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-soprano-8",
+                    "title": {"en": "Lines 20 to 23", "es": "Frases 20 a 23"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 20 is the tune of line 4 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [19]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 21 is line 5 again. Sing it with the guide.", "es": "La frase 21 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 22 is line 6 again. Sing it with the guide.", "es": "La frase 22 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [21]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 23 is the tune of line 5 again, with new words. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [22]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 20 to 23 joined: hear them, then sing them back.", "es": "Ahora las frases 20 a 23 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [19, 20, 21, 22]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-soprano-9",
+                    "title": {"en": "Lines 24 and 25"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 24 is line 8 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [23]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 25, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [24]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 24 and 25 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [23, 24]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-soprano-10",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Ki lo nae start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Adir bimlucha start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Kadosh bimlucha start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [9, 10, 11, 12, 13, 14, 15, 16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Takif bimlucha start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [17, 18, 19, 20, 21, 22, 23, 24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-soprano-11",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-soprano-12",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-soprano-13",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of Ki Lo Na'eh in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "ki-lo-naeh", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "kln-1908", "text": {"en": "It was already in the book's first edition of 1908, with the same tune in the same key, though with only its first verse."}, "source": {"en": "The Union Haggadah (Central Conference of American Rabbis, 1908), pp. 54 and 55, read from the scan"}, "url": "https://archive.org/details/ccar1908union"}
+                }
+            ]
+        },
+        {
+            "id": "song-ki-lo-naeh-alto",
+            "title": {"en": "Alto", "es": "Contralto"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-ki-lo-naeh-alto-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Ki Lo Na'eh: hear the whole song first, then the alto part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-alto-2",
+                    "title": {"en": "Lines 1 and 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 5 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-alto-3",
+                    "title": {"en": "Lines 6 and 7", "es": "Frases 6 y 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back.", "es": "Ahora las frases 6 y 7 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [5, 6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-alto-4",
+                    "title": {"en": "Lines 8, 9, 13 and 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 5 again. Sing it with the guide.", "es": "La frase 13 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is line 6 again. Sing it with the guide.", "es": "La frase 14 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8, 9, 13 and 14 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-alto-5",
+                    "title": {"en": "Lines 15, 16, 17 and 21"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 15 is line 7 again. Sing it with the guide.", "es": "La frase 15 repite la frase 7. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is line 8 again. Sing it with the guide.", "es": "La frase 16 repite la frase 8. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 21 is line 5 again. Sing it with the guide.", "es": "La frase 21 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15, 16, 17 and 21 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [14, 15, 16, 17, 18, 19, 20],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-alto-6",
+                    "title": {"en": "Lines 22 to 25"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 22 is line 6 again. Sing it with the guide.", "es": "La frase 22 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [21]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 23 is line 7 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [22]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 24 is line 8 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [23]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 25, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [24]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 22 to 25 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [21, 22, 23, 24]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-alto-7",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Ki lo nae start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Adir bimlucha start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [4, 5, 6, 7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Kadosh bimlucha start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [12, 13, 14, 15, 16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Takif bimlucha start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [20, 21, 22, 23, 24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [0, 4, 5, 6, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-alto-8",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [0, 4, 5, 6, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-alto-9",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [0, 4, 5, 6, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "alto",
+                                    "phrases": [0, 4, 5, 6, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-alto-10",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of Ki Lo Na'eh in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "ki-lo-naeh", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-ki-lo-naeh-bass",
+            "title": {"en": "Bass", "es": "Bajo"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-ki-lo-naeh-bass-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Ki Lo Na'eh: hear the whole song first, then the bass part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-bass-2",
+                    "title": {"en": "Lines 1 and 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 5 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-bass-3",
+                    "title": {"en": "Lines 6 and 7", "es": "Frases 6 y 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back.", "es": "Ahora las frases 6 y 7 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [5, 6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-bass-4",
+                    "title": {"en": "Lines 8, 9, 13 and 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 5 again. Sing it with the guide.", "es": "La frase 13 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is line 6 again. Sing it with the guide.", "es": "La frase 14 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8, 9, 13 and 14 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-bass-5",
+                    "title": {"en": "Lines 15, 16, 17 and 21"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 15 is line 7 again. Sing it with the guide.", "es": "La frase 15 repite la frase 7. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is line 8 again. Sing it with the guide.", "es": "La frase 16 repite la frase 8. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 21 is line 5 again. Sing it with the guide.", "es": "La frase 21 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15, 16, 17 and 21 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [14, 15, 16, 17, 18, 19, 20],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-bass-6",
+                    "title": {"en": "Lines 22 to 25"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 22 is line 6 again. Sing it with the guide.", "es": "La frase 22 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [21]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 23 is line 7 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [22]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 24 is line 8 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [23]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 25, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [24]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 22 to 25 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [21, 22, 23, 24]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-bass-7",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Ki lo nae start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Adir bimlucha start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [4, 5, 6, 7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Kadosh bimlucha start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [12, 13, 14, 15, 16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Takif bimlucha start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [20, 21, 22, 23, 24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [0, 4, 5, 6, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-bass-8",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [0, 4, 5, 6, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-bass-9",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [0, 4, 5, 6, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "bass",
+                                    "phrases": [0, 4, 5, 6, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-bass-10",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of Ki Lo Na'eh in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "ki-lo-naeh", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-ki-lo-naeh-tenor",
+            "title": {"en": "Tenor", "es": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-ki-lo-naeh-tenor-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Ki Lo Na'eh: hear the whole song first, then the tenor part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-tenor-2",
+                    "title": {"en": "Lines 1 and 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 5 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-tenor-3",
+                    "title": {"en": "Lines 6 and 7", "es": "Frases 6 y 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 and 7 joined: hear them, then sing them back.", "es": "Ahora las frases 6 y 7 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [5, 6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-tenor-4",
+                    "title": {"en": "Lines 8, 9, 13 and 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is line 1 again. Sing it with the guide.", "es": "La frase 9 repite la frase 1. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 5 again. Sing it with the guide.", "es": "La frase 13 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is line 6 again. Sing it with the guide.", "es": "La frase 14 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8, 9, 13 and 14 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-tenor-5",
+                    "title": {"en": "Lines 15, 16, 17 and 21"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 15 is line 7 again. Sing it with the guide.", "es": "La frase 15 repite la frase 7. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is line 8 again. Sing it with the guide.", "es": "La frase 16 repite la frase 8. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is line 1 again. Sing it with the guide.", "es": "La frase 17 repite la frase 1. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 21 is line 5 again. Sing it with the guide.", "es": "La frase 21 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [20]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15, 16, 17 and 21 in their places, the other parts singing the lines between, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [14, 15, 16, 17, 18, 19, 20],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-tenor-6",
+                    "title": {"en": "Lines 22 to 25"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 22 is line 6 again. Sing it with the guide.", "es": "La frase 22 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [21]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 23 is line 7 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [22]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 24 is line 8 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [23]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 25, then sing it back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [24]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 22 to 25 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [21, 22, 23, 24]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-tenor-7",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Ki lo nae start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Adir bimlucha start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [4, 5, 6, 7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Kadosh bimlucha start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [12, 13, 14, 15, 16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Takif bimlucha start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [20, 21, 22, 23, 24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [0, 4, 5, 6, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-tenor-8",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [0, 4, 5, 6, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-tenor-9",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [0, 4, 5, 6, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "ki-lo-naeh",
+                                    "part": "tenor",
+                                    "phrases": [0, 4, 5, 6, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-ki-lo-naeh-tenor-10",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of Ki Lo Na'eh in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "ki-lo-naeh", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
