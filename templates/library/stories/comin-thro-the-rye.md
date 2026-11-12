@@ -40,13 +40,13 @@ Comin' Thro' the Rye, also printed as Coming Through the Rye and known by its fi
 - 1794: John Watlen prints the second set in Edinburgh, by Glen's dating. [^glen]
 - 1796: Burns dies on 21 July. [^rpopoet][^nq1876]
 - 1796: The Scots Musical Museum, vol. 5, prints the song in two sets, Nos. 417 and 418 (some 19th-century writers say 1797). [^smm][^dick][^nq1876]
-- 1848: G. F. Graham's Songs of Scotland prints the second set, with a piano part by T. M. Mudie. [^graham]
+- 1849: G. F. Graham's Songs of Scotland prints the second set, with a piano part by T. M. Mudie. [^graham]
 - 1876: Readers of Notes and Queries argue over whether the rye is a field or a stream. [^nq1876]
 - 1951: J. D. Salinger publishes The Catcher in the Rye, its title taken from a misheard line of the song. [^richland][^tearle][^litcharts]
 
 ## What the words mean
 
-The song is in Scots, and the singer is a young woman, teasing.[^graham][^smm] We sing two verses as G. F. Graham printed them in Edinburgh in 1848. His text follows the Museum's second set, not Burns's first, and changes some words, including its answer and refrain ending, as set out with the full words below.[^graham][^smm]
+The song is in Scots, and the singer is a young woman, teasing.[^graham][^smm] We sing two verses as G. F. Graham printed them in Edinburgh in 1849. His text follows the Museum's second set, not Burns's first, and changes some words, including its answer and refrain ending, as set out with the full words below.[^graham][^smm]
 
 **Verse 1 (sung).** If one person meets another coming through the rye, and one kisses the other, need anyone cry out? Every girl has her young man, and people say I have none. Yet all the lads smile at me when I come through the rye. Gin means if, a body is a person, and ilka means each or every.[^graham][^dsl-body]
 
@@ -60,7 +60,7 @@ The song is in Scots, and the singer is a young woman, teasing.[^graham][^smm] W
 
 ### The full words
 
-These are the words as G. F. Graham printed them in The Songs of Scotland, vol. 2 (Edinburgh, 1848), pp. 10 and 11: the verse under the music, then two more stanzas.[^graham] We sing the first two. Where the Museum's second set of 1796 has "Ilka body has a body" and "But a' the lads they loe me, And what the war am I", Graham has "Ilka lassie has her laddie" and, in his first two verses, the lads smiling "when comin' thro' the rye".[^smm][^graham] In his third, gloom means to frown. Graham adds that Miss Stephens, a singer, used to close the song with four more lines, sung to the first part of the air, given last here; a swain is a young man or sweetheart, whaur his hame is "where his home is", and dinna is "do not".[^graham] Burns's own first set, the Jenny song, is described above.
+These are the words as G. F. Graham printed them in The Songs of Scotland, vol. 2 (Edinburgh, 1849), pp. 10 and 11: the verse under the music, then two more stanzas.[^graham] We sing the first two. Where the Museum's second set of 1796 has "Ilka body has a body" and "But a' the lads they loe me, And what the war am I", Graham has "Ilka lassie has her laddie" and, in his first two verses, the lads smiling "when comin' thro' the rye".[^smm][^graham] In his third, gloom means to frown. Graham adds that Miss Stephens, a singer, used to close the song with four more lines, sung to the first part of the air, given last here; a swain is a young man or sweetheart, whaur his hame is "where his home is", and dinna is "do not".[^graham] Burns's own first set, the Jenny song, is described above.
 
 **Verse 1**
 Gin a body meet a body
@@ -133,7 +133,7 @@ Not the same, but related. Both grew from the strathspey printed as The Miller's
 ## Sources
 
 - [^smm]: James Johnson (publisher), *The Scots Musical Museum*, vol. 5 (Edinburgh: James Johnson, undated; the library dates it 1796), p. 430, No. 417, "Comin thro' the rye. 1st Sett", and p. 431, No. 418, "Comin thro' the rye. 2d Sett", images n26 and n27. National Library of Scotland, Ing.43, on the Internet Archive (CC BY-NC-SA 2.5). https://archive.org/details/scotsmusicalmuv300john
-- [^graham]: G. F. Graham, ed., *The Songs of Scotland, adapted to their appropriate melodies*, vol. 2 (Edinburgh: Wood and Co., 1848), pp. 10 and 11, "Comin' thro' the rye", arranged by T. M. Mudie, with Graham's note, images n195 and n196. University of Toronto, Faculty of Music Library, M1746 .G47 S6. https://archive.org/details/songsofscotlanda00grah
+- [^graham]: G. F. Graham, ed., *The Songs of Scotland, adapted to their appropriate melodies*, vol. 2 (Edinburgh: Wood and Co., undated on the copy read; 1849 on the National Library of Scotland copy's title page), pp. 10 and 11, "Comin' thro' the rye", arranged by T. M. Mudie, with Graham's note, images n195 and n196. University of Toronto, Faculty of Music Library, M1746 .G47 S6. https://archive.org/details/songsofscotlanda00grah
 - [^stenhouse]: William Stenhouse, *Illustrations of the Lyric Poetry and Music of Scotland* (Edinburgh and London: William Blackwood and Sons, 1853), p. 377, Nos. 417 and 418, image n656. National Library of Scotland, call number 3180588, on the Internet Archive. https://archive.org/details/illustrationsofl00sten
 - [^dick]: James C. Dick, *The Songs of Robert Burns, now first printed with the melodies for which they were written* (London: Henry Frowde, 1903), Historical Notes, p. 406, No. 157, and p. 439, Auld lang syne, images n461 and n494. University of Toronto, Robarts Library. https://archive.org/details/songsofrobertbur00burnuoft
 - [^dick-gloss]: James C. Dick, *The Songs of Robert Burns* (London: Henry Frowde, 1903), Glossary, p. 509 ("draigl't"), p. 511 ("greet"), p. 513 ("ken") and p. 518 ("waur", "weel", "weet"), p. 518 on image n573. University of Toronto, Robarts Library. https://archive.org/details/songsofrobertbur00burnuoft

@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: comin thro the rye significado | comin thro the rye letra significado | comin thro the rye poema significado | quién escribió comin thro the rye | robert burns comin thro the rye significado | comin thro the rye traducción
-translatedFrom: b736e039b16a
+translatedFrom: bedba8dec361
 ---
 
 Comin' Thro' the Rye, impresa también como Coming Through the Rye y conocida por su primer verso, Gin a Body Meet a Body, es una canción en escocés sobre alguien que se encuentra con otra persona en un sendero y le roba un beso. Robert Burns la rehízo a partir de una canción más antigua y mucho más picante, y se imprimió en Edimburgo, en dos versiones, en el quinto volumen de The Scots Musical Museum, que las bibliotecas fechan en 1796.[^smm][^dick][^mm1911] La segunda versión, con la letra "Ilka body has a body", es la que se hizo popular, y su melodía pertenece a la misma familia de danzas escocesas que Auld Lang Syne.[^graham][^dick][^glen] Su verso sobre encontrarse con alguien en el centeno dio más tarde a J. D. Salinger el título de The Catcher in the Rye (El guardián entre el centeno).[^litcharts][^tearle]
@@ -41,13 +41,13 @@ Comin' Thro' the Rye, impresa también como Coming Through the Rye y conocida po
 - 1794: John Watlen imprime la segunda versión en Edimburgo, según la datación de Glen. [^glen]
 - 1796: Burns muere el 21 de julio. [^rpopoet][^nq1876]
 - 1796: The Scots Musical Museum, vol. 5, imprime la canción en dos versiones, los números 417 y 418 (algunos autores del siglo XIX dicen 1797). [^smm][^dick][^nq1876]
-- 1848: The Songs of Scotland, de G. F. Graham, imprime la segunda versión, con una parte de piano de T. M. Mudie. [^graham]
+- 1849: The Songs of Scotland, de G. F. Graham, imprime la segunda versión, con una parte de piano de T. M. Mudie. [^graham]
 - 1876: Los lectores de Notes and Queries discuten si "the rye" es un campo o un arroyo. [^nq1876]
 - 1951: J. D. Salinger publica The Catcher in the Rye, cuyo título viene de un verso mal oído de la canción. [^richland][^tearle][^litcharts]
 
 ## Qué dice la letra
 
-La canción está en escocés, y quien canta es una muchacha que bromea.[^graham][^smm] Cantamos dos estrofas tal como las imprimió G. F. Graham en Edimburgo en 1848. Su texto sigue la segunda versión del Museum, no la primera de Burns, y cambia algunas palabras, entre ellas su respuesta y el final del estribillo, como se explica con la letra completa más abajo.[^graham][^smm]
+La canción está en escocés, y quien canta es una muchacha que bromea.[^graham][^smm] Cantamos dos estrofas tal como las imprimió G. F. Graham en Edimburgo en 1849. Su texto sigue la segunda versión del Museum, no la primera de Burns, y cambia algunas palabras, entre ellas su respuesta y el final del estribillo, como se explica con la letra completa más abajo.[^graham][^smm]
 
 **Estrofa 1 (se canta).** Si una persona se encuentra con otra cuando viene por el centeno, y una besa a la otra, ¿hace falta que alguien grite? Cada muchacha tiene su muchacho, y dicen que yo no tengo ninguno. Pero todos los muchachos me sonríen cuando vengo por el centeno. Gin significa si, a body es una persona, e ilka significa cada.[^graham][^dsl-body]
 
@@ -61,7 +61,7 @@ La canción está en escocés, y quien canta es una muchacha que bromea.[^graham
 
 ### La letra completa
 
-Esta es la letra tal como la imprimió G. F. Graham en The Songs of Scotland, vol. 2 (Edimburgo, 1848), pp. 10 y 11: la estrofa bajo la música, y luego dos estrofas más.[^graham] Cantamos las dos primeras. Donde la segunda versión del Museum de 1796 dice "Ilka body has a body" y "But a' the lads they loe me, And what the war am I", Graham pone "Ilka lassie has her laddie" y, en sus dos primeras estrofas, a los muchachos que sonríen "when comin' thro' the rye".[^smm][^graham] En la tercera, gloom significa fruncir el ceño. Graham añade que Miss Stephens, una cantante, solía cerrar la canción con cuatro versos más, cantados con la primera parte de la melodía, que van al final; un swain es un joven o un enamorado, whaur his hame es "dónde está su casa", y dinna es "no".[^graham] La primera versión del propio Burns, la canción de Jenny, se describe más arriba.
+Esta es la letra tal como la imprimió G. F. Graham en The Songs of Scotland, vol. 2 (Edimburgo, 1849), pp. 10 y 11: la estrofa bajo la música, y luego dos estrofas más.[^graham] Cantamos las dos primeras. Donde la segunda versión del Museum de 1796 dice "Ilka body has a body" y "But a' the lads they loe me, And what the war am I", Graham pone "Ilka lassie has her laddie" y, en sus dos primeras estrofas, a los muchachos que sonríen "when comin' thro' the rye".[^smm][^graham] En la tercera, gloom significa fruncir el ceño. Graham añade que Miss Stephens, una cantante, solía cerrar la canción con cuatro versos más, cantados con la primera parte de la melodía, que van al final; un swain es un joven o un enamorado, whaur his hame es "dónde está su casa", y dinna es "no".[^graham] La primera versión del propio Burns, la canción de Jenny, se describe más arriba.
 
 **Estrofa 1**
 > Gin a body meet a body
@@ -162,7 +162,7 @@ No es la misma, pero están emparentadas. Las dos nacieron del strathspey impres
 ## Fuentes
 
 - [^smm]: James Johnson (editor), *The Scots Musical Museum*, vol. 5 (Edimburgo: James Johnson, sin fecha; la biblioteca lo fecha en 1796), p. 430, n.º 417, "Comin thro' the rye. 1st Sett", y p. 431, n.º 418, "Comin thro' the rye. 2d Sett", imágenes n26 y n27. National Library of Scotland, Ing.43, en Internet Archive (CC BY-NC-SA 2.5). https://archive.org/details/scotsmusicalmuv300john
-- [^graham]: G. F. Graham, ed., *The Songs of Scotland, adapted to their appropriate melodies*, vol. 2 (Edimburgo: Wood and Co., 1848), pp. 10 y 11, "Comin' thro' the rye", arreglo de T. M. Mudie, con la nota de Graham, imágenes n195 y n196. University of Toronto, Faculty of Music Library, M1746 .G47 S6. https://archive.org/details/songsofscotlanda00grah
+- [^graham]: G. F. Graham, ed., *The Songs of Scotland, adapted to their appropriate melodies*, vol. 2 (Edimburgo: Wood and Co., sin fecha en el ejemplar leído; 1849 en la portada del ejemplar de la National Library of Scotland), pp. 10 y 11, "Comin' thro' the rye", arreglo de T. M. Mudie, con la nota de Graham, imágenes n195 y n196. University of Toronto, Faculty of Music Library, M1746 .G47 S6. https://archive.org/details/songsofscotlanda00grah
 - [^stenhouse]: William Stenhouse, *Illustrations of the Lyric Poetry and Music of Scotland* (Edimburgo y Londres: William Blackwood and Sons, 1853), p. 377, números 417 y 418, imagen n656. National Library of Scotland, signatura 3180588, en Internet Archive. https://archive.org/details/illustrationsofl00sten
 - [^dick]: James C. Dick, *The Songs of Robert Burns, now first printed with the melodies for which they were written* (Londres: Henry Frowde, 1903), Historical Notes, p. 406, n.º 157, y p. 439, Auld lang syne, imágenes n461 y n494. University of Toronto, Robarts Library. https://archive.org/details/songsofrobertbur00burnuoft
 - [^dick-gloss]: James C. Dick, *The Songs of Robert Burns* (Londres: Henry Frowde, 1903), Glossary, p. 509 ("draigl't"), p. 511 ("greet"), p. 513 ("ken") y p. 518 ("waur", "weel", "weet"), la p. 518 en la imagen n573. University of Toronto, Robarts Library. https://archive.org/details/songsofrobertbur00burnuoft
