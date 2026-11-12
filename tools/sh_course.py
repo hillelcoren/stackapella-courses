@@ -278,8 +278,8 @@ def fact(fid, text, source, url):
 
 
 FACTS = {
-    "1-answer": fact("complaynt-one-sings-out", "Singing a call and an answer at sea is very old. In The Complaynt of Scotland, printed in 1549, sailors heave up the anchor singing: one mariner sings out, and the rest follow in the same tune.",
-                     "Whall, Ships, Sea Songs and Shanties (1913), introduction, Internet Archive; Wikipedia, The Complaynt of Scotland", "https://archive.org/details/shipsseasongssha00whal"),
+    "1-answer": fact("complaynt-one-sings-out", "Singing a call and an answer at sea is very old. In The Complaynt of Scotland, written in 1549, sailors heave up the anchor singing: one mariner sings out, and the rest follow in the same tune.",
+                     "Murray (ed.), The Complaynt of Scotlande (Early English Text Society, 1872), Internet Archive", "https://archive.org/details/complayntofscotl00henrrich"),
     "1-joe": fact("haul-away-joe-fore-sheet", "Frank Bullen, who led shanties at sea, called Haul Away, Joe a \"fore sheet\" shanty. It was always sung, he wrote, when hauling at that great rope with one collective drag.",
                   "Bullen and Arnold, Songs of Sea Labour (1914), notes to the chanties, Internet Archive", "https://archive.org/details/songsofsealabour1914bull"),
     "1-breathe": fact("blow-the-man-down-chorus-remains", "Blow the Man Down came from the old Atlantic packet ships, wrote the sea captain Whall. By his day sailors had quite forgotten its first words, though the tune and chorus remained.",
@@ -303,7 +303,7 @@ FACTS = {
     "4-part": fact("sharp-sing-without-accompaniment", "Cecil Sharp printed piano parts with his shanties, but told singers to sing most of them without accompaniment. The piano parts, he explained, were there only so the tunes could be played as instrumental airs.",
                    "Sharp, English Folk-Chanteys (1914), introduction, Internet Archive", "https://archive.org/details/englishfolkchant00shar"),
     "4-root": fact("ten-men-on-the-rope", "The poet John Masefield, who trained for the sea as a boy, wrote that without the shanties you would never get the work done, and quoted the line \"A song is ten men on the rope.\"",
-                   "Masefield, A Sailor's Garland (1906), \"Chanties\", Internet Archive; Wikipedia, John Masefield", "https://archive.org/details/asailorsgarland01masegoog"),
+                   "Masefield, A Sailor's Garland (1906), \"Chanties\", Internet Archive", "https://archive.org/details/asailorsgarland01masegoog"),
     "4-stack": fact("antigua-hut-shanty", "Shanties worked on land too. In Antigua, Richard Terry heard them sung to move a wooden hut: a shantyman sat astride its roof and sang, while the crowd on two long ropes sang the chorus and pulled.",
                     "Terry, The Shanty Book Part I (1921), apologia, Internet Archive", "https://archive.org/details/shantybooksailor00terr"),
 }
