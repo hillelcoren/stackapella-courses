@@ -57,7 +57,13 @@
                             }
                         }
                     ],
-                    "fact": {"id": "mr-highwaymen", "text": {"en": "A 1960 recording by the Highwaymen, a folk group formed by college students, went to number one in the United States and in Britain in 1961.", "es": "Una grabación de 1960 de los Highwaymen, un grupo folk formado por universitarios, llegó al número uno en Estados Unidos y en Gran Bretaña en 1961."}, "source": {"en": "Wikipedia, \"Michael, Row the Boat Ashore\", its recordings", "es": "Wikipedia, \"Michael, Row the Boat Ashore\", sus grabaciones"}, "url": "https://en.wikipedia.org/wiki/Michael,_Row_the_Boat_Ashore"}
+                    "fact": {
+                        "id": "mr-highwaymen",
+                        "text": {"en": "In 1961 a folk group of five Wesleyan University students took the song, under the title \"Michael\", to number one in the United States and in Britain.", "es": "En 1961, un grupo folk de cinco estudiantes de la Universidad Wesleyan llevó la canción, con el título \"Michael\", al número uno en Estados Unidos y en Gran Bretaña."},
+                        "source": {"en": "Wesleyan University, History and Traditions (trivia); Official Charts Company, \"Michael\" (1961); number1sblog (UK number ones); Associated Press obituary of Dave Fisher (2010)", "es": "Wesleyan University, History and Traditions (curiosidades); Official Charts Company, \"Michael\" (1961); number1sblog (números uno británicos); obituario de Associated Press de Dave Fisher (2010)"},
+                        "url": "https://wesleyan.edu/about/history-traditions/trivia.html",
+                        "distinct": ["basing-the-leader"]
+                    }
                 },
                 {
                     "id": "song-michael-row-soprano-2",
@@ -189,7 +195,7 @@
                         {"kind": "record", "text": {"en": "Record the tune of Michael, Row the Boat Ashore in Sing, with the other parts playing.", "es": "Graba la melodía de Michael, Row the Boat Ashore en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "michael-row", "singers": 4, "part": "soprano"}
                     ],
                     "challenge": true,
-                    "fact": {"id": "mr-archangel", "text": {"en": "The Michael of the song is usually taken to be the archangel Michael.", "es": "El Michael de la canción suele identificarse con el arcángel Miguel."}, "source": {"en": "Wikipedia, \"Michael, Row the Boat Ashore\"", "es": "Wikipedia, \"Michael, Row the Boat Ashore\""}, "url": "https://en.wikipedia.org/wiki/Michael,_Row_the_Boat_Ashore"}
+                    "fact": {"id": "mr-archangel", "text": {"en": "The Michael of the song is usually taken to be the archangel Michael.", "es": "El Michael de la canción suele identificarse con el arcángel Miguel."}, "source": {"en": "William Francis Allen, introduction to Slave Songs of the United States (New York: A. Simpson, 1867), p. xvi; Jeff Place, notes to Pete Seeger: The Smithsonian Folkways Collection (SFW 40225, 2019), p. 61", "es": "William Francis Allen, introducción a Slave Songs of the United States (Nueva York: A. Simpson, 1867), p. xvi; Jeff Place, notas de Pete Seeger: The Smithsonian Folkways Collection (SFW 40225, 2019), p. 61"}, "url": "https://archive.org/details/slavesongsofunit00alle"}
                 }
             ]
         },
