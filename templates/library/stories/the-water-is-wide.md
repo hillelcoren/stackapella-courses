@@ -1,5 +1,5 @@
 ---
-title: "The Water Is Wide: history, meaning and the words explained"
+title: The Water Is Wide: history, meaning and the words explained
 description: Cecil Sharp noted The Water Is Wide from Mrs Cox of High Ham, Somerset, and printed it in 1906 as O Waly, Waly. Its Scottish roots and all six verses.
 lead: The Water Is Wide is an English folk song of love grown cold. Cecil Sharp printed it in 1906 as O Waly, Waly; some of its lines are also in a Scottish lament printed in the 1720s.
 words: traditional, as sung by Mrs Cox of High Ham, Somerset; gathered and edited by Cecil Sharp (1859 to 1924) and Charles Marson (died 1914)

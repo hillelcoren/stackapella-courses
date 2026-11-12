@@ -1,5 +1,5 @@
 ---
-title: "I Will Bow and Be Simple: historia, significado y la letra explicada"
+title: I Will Bow and Be Simple: historia, significado y la letra explicada
 description: Canción shaker de reverencias del cancionero de Mary Hazzard, firmada solo "North Family", sin fecha, entre canciones de 1851 y 1852. Ecos bíblicos y la letra.
 lead: I Will Bow and Be Simple es una breve canción shaker sobre la humildad, en dos secciones. Se conserva en el cancionero de Mary Hazzard, firmada solo "North Family", sin fecha, entre canciones de 1851 y 1852.
 words: Canción shaker, sin autor nombrado; firmada "North Family" (sin fecha, entre canciones fechadas en 1851 y 1852)
@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: i will bow and be simple | i will bow and be simple letra | i will bow and be simple significado | i will bow and be simple partitura | i will bow and be simple canción shaker
-translatedFrom: cd612f68c81e
+translatedFrom: cfbbba0d8e8d
 ---
 
 I Will Bow and Be Simple es una canción de los shakers, la comunidad religiosa célibe que celebraba su culto cantando y bailando [^shakermuseum][^andrews]. En dos breves secciones, quien canta promete inclinarse: ser sencillo, libre y humilde, inclinarse como el sauce, llevar el "easy yoke" (el yugo suave) y caer sobre la roca [^hazzard][^andrews]. No tiene autor conocido. La copia que cantamos, en el cancionero manuscrito de Mary Hazzard, no lleva título ni fecha, solo las palabras "North Family" (Familia del Norte) al pie [^hazzard]. El estudioso de los shakers Edward Deming Andrews la imprimió dos veces en 1940, en The Gift to Be Simple, una entre las canciones de humildad y otra con su melodía, y la llamó una "bowing song", una canción de reverencias [^andrews].

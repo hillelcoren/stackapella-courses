@@ -1,5 +1,5 @@
 ---
-title: "Now Thank We All Our God: history, meaning and the words explained"
+title: Now Thank We All Our God: history, meaning and the words explained
 description: Martin Rinkart wrote it as a grace at table around 1630, in a Saxon town that would bury 8,000 people in the plague of 1637.
 lead: Now Thank We All Our God is Martin Rinkart's German grace from the Thirty Years' War, "Nun danket alle Gott", sung in Catherine Winkworth's English of 1858 to Johann Crüger's tune NUN DANKET.
 words: Martin Rinkart (1586 to 1649), around 1630; English by Catherine Winkworth (1827 to 1878), 1858

@@ -1,5 +1,5 @@
 ---
-title: "Adon Olam: historia, significado y la letra explicada"
+title: Adon Olam: historia, significado y la letra explicada
 description: Adon Olam abre las oraciones de cada mañana y cierra el oficio matinal del sabbat en muchas sinagogas. Nuestra melodía antigua está en Gerovitsch (1897).
 lead: Adon Olam, "Señor del mundo", es un himno hebreo medieval con el que muchas congregaciones cierran el oficio matinal del sabbat. Cantamos una melodía antigua armonizada a cuatro voces en la colección de Eliezer Gerovitsch, edición de 1897.
 words: Himno hebreo medieval, atribuido por tradición a Solomon ibn Gabirol (siglo XI)
@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adon olam significado | adon olam traducción | quién escribió adon olam | adon olam historia | adon olam asher malach significado | adon olam melodía
-translatedFrom: 38de159def90
+translatedFrom: 22cd10fe688d
 ---
 
 Adon Olam, "Señor del mundo", es un himno hebreo sobre Hashem, que reinaba antes de que nada fuera creado y reinará solo cuando todo haya desaparecido.[^sefaria] Está en los dos extremos de las oraciones de la mañana. Se imprime al comienzo del oficio diario, y al cierre del oficio de la mañana del sabbat y de las fiestas muchas congregaciones lo cantan juntas.[^je][^ej][^posen] Sus últimos versos ponen el espíritu de quien canta en la mano de Hashem, "cuando duermo y cuando despierto", así que también es una oración de la noche: se dice antes de dormir y junto a quien se está muriendo.[^abrahams][^ej][^je]

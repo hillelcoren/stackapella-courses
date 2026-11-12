@@ -1,5 +1,5 @@
 ---
-title: "Ode to Joy and Joyful, Joyful, We Adore Thee: history, meaning and the words"
+title: Ode to Joy and Joyful, Joyful, We Adore Thee: history, meaning and the words
 description: Beethoven's Ode to Joy tune, first heard in Vienna on 7 May 1824, sung with Henry van Dyke's 1907 hymn Joyful, Joyful, We Adore Thee. Its story and words.
 lead: The tune from the last movement of Beethoven's Ninth Symphony, first heard in Vienna in 1824, sung with the hymn words Henry van Dyke wrote for it in 1907, Joyful, Joyful, We Adore Thee.
 words: Henry van Dyke (1852 to 1933), written by 1907

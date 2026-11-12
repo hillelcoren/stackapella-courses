@@ -1,5 +1,5 @@
 ---
-title: "Abide with Me: history, meaning and the words explained"
+title: Abide with Me: history, meaning and the words explained
 description: Henry Francis Lyte wrote it at Brixham in 1847, the year he died at Nice. Its tune, EVENTIDE, came with Hymns Ancient and Modern in 1861.
 lead: Henry Francis Lyte's prayer for God's company at the end of life, written at Brixham in Devon in 1847, sung to EVENTIDE, William Henry Monk's tune of 1861. We sing verse 1 in Monk's four parts.
 words: Henry Francis Lyte (1793 to 1847), written 1847

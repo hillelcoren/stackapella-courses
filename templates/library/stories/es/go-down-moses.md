@@ -1,5 +1,5 @@
 ---
-title: "Go Down, Moses: historia, significado y la letra explicada"
+title: Go Down, Moses: historia, significado y la letra explicada
 description: Anotado en Fort Monroe, Virginia, de personas que habían huido de la esclavitud, y vendido como partitura en 1861. La historia del espiritual y su letra.
 lead: Un espiritual creado por afroamericanos esclavizados, anotado en 1861 de personas que habían huido a Fort Monroe, Virginia. Cantamos dos de las 24 estrofas que imprimieron los Fisk Jubilee Singers en 1872.
 words: Espiritual afroamericano tradicional

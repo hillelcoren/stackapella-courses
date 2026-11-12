@@ -1,7 +1,7 @@
 ---
-title: "Deck the Halls: history, meaning and the words explained"
-description: "A Welsh New Year's Eve harp tune, in print by 1781, with English words by Thomas Oliphant from 1862, whose mead-cup became gay apparel by 1877."
-lead: "A Welsh harp tune for New Year's Eve, in print by 1781, with English words by Thomas Oliphant, printed in 1862. American school songbooks gave it the words most people sing today."
+title: Deck the Halls: history, meaning and the words explained
+description: A Welsh New Year's Eve harp tune, in print by 1781, with English words by Thomas Oliphant from 1862, whose mead-cup became gay apparel by 1877.
+lead: A Welsh harp tune for New Year's Eve, in print by 1781, with English words by Thomas Oliphant, printed in 1862. American school songbooks gave it the words most people sing today.
 words: Thomas Oliphant (1862), revised in American printings by 1877
 tune: traditional Welsh, "Nos Galan"
 earliestPrinting: John Parry, British Harmony, Ruabon and London, 1781, as "Nôs Calan"

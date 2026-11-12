@@ -1,5 +1,5 @@
 ---
-title: "Shall We Gather at the River: historia, significado y la letra explicada"
+title: Shall We Gather at the River: historia, significado y la letra explicada
 description: Robert Lowry escribió letra y música en Brooklyn en julio de 1864; en 1865 se imprimió como Beautiful River. Su historia, el río del Apocalipsis, seis estrofas.
 lead: El himno evangélico de Robert Lowry de 1864, letra y melodía suyas, impreso en 1865 como Beautiful River. Cantamos la primera estrofa y el estribillo a las cuatro voces del propio Lowry, de 1869.
 words: Robert Lowry (1826 a 1899)
@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: quién escribió shall we gather at the river | shall we gather at the river significado | shall we gather at the river historia del himno | shall we gather at the river versículo bíblico | shall we gather at the river películas | shall we gather at the river letra
-translatedFrom: de19541148fc
+translatedFrom: 83700a34ec98
 ---
 
 Shall We Gather at the River?, llamado Beautiful River en sus primeras impresiones conocidas, es un himno evangélico de Robert Lowry, pastor bautista de Brooklyn, que escribió su letra y su melodía en julio de 1864 [^burrage1888][^sankey1907][^canterbury-hymn]. Su primera estrofa hace una pregunta sobre el cielo, y el estribillo la responde: sí, nos reuniremos junto al río de la vida que brota del trono de Dios en el libro del Apocalipsis [^burrage1888][^brightjewels1869]. Su primera impresión conocida está en Happy Voices, un libro de escuela dominical de 1865 [^happyvoices1865][^julian], y Henry Burrage e Ira D. Sankey escribieron más tarde que cuarenta mil niños de Brooklyn lo cantaron al año siguiente [^burrage1888][^sankey1907]. Hymnary.org lo registra en más de 800 himnarios [^hymnary-text], y fue uno de los himnos favoritos del director de cine John Ford [^filmsite-stagecoach][^bbcmusic].

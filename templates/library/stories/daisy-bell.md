@@ -1,5 +1,5 @@
 ---
-title: "Daisy Bell (A Bicycle Built for Two): history, meaning and the words explained"
+title: Daisy Bell (A Bicycle Built for Two): history, meaning and the words explained
 description: Harry Dacre's 1892 waltz song, a music hall hit that a Bell Labs computer sang in 1961. Who wrote it, what it means and all three verses.
 lead: Daisy Bell is Harry Dacre's 1892 waltz song, a proposal of marriage told in cycling puns. It was a music hall hit, and in 1961 a computer at Bell Labs sang it in a synthesized voice.
 words: Harry Dacre (Frank Dean, 1857 to 1922)

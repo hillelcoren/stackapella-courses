@@ -1,5 +1,5 @@
 ---
-title: "Who Will Bow and Bend Like a Willow: historia, significado y la letra explicada"
+title: Who Will Bow and Bend Like a Willow: historia, significado y la letra explicada
 description: Canción shaker del avivamiento, de reverencias, giros y "Mother's wine", copiada en el cancionero de Mary Hazzard entre canciones de Canterbury de 1847.
 lead: Una animada canción shaker en tres secciones que pregunta quién se inclinará y se doblará como un sauce y girará, se retorcerá y se tambaleará. Mary Hazzard la copió sin firma entre canciones de principios de 1847.
 words: Canción shaker anónima; sin firma en el cancionero de Mary Hazzard (hacia 1847)
@@ -15,7 +15,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: who will bow and bend | who will bow and bend like a willow | who will bow and bend significado | who will bow and bend canción shaker | who will bow and bend letra
-translatedFrom: 842911ed0176
+translatedFrom: cba5241a4967
 ---
 
 Who Will Bow and Bend Like a Willow, que suele abreviarse Who Will Bow and Bend, es una animada canción del culto de los shakers, una comunidad que "celebraba su culto con cantos y danzas propios y únicos" [^shakermuseum][^andrews]. Su primera sección pregunta quién se inclinará y se doblará como un sauce, y girará, se retorcerá y se tambaleará en el viento de la "simple freedom" (la libertad sencilla). La segunda pregunta quién beberá "the wine of power" (el vino del poder), al que llama "Mother's wine" (el vino de Madre), y la tercera responde: "O ho I will have it" (¡oh, ho, lo tendré!) [^hazzard][^andrews]. No se sabe quién la hizo: Mary Hazzard la copió en su cancionero sin firma ni fecha, cerca de canciones de principios de 1847 [^hazzard][^hazzardbook]. En 1940, el coleccionista Edward Deming Andrews escribió que nació en Canterbury, Nuevo Hampshire, hacia 1843 [^andrews].

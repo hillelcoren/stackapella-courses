@@ -1,5 +1,5 @@
 ---
-title: "El cant dels ocells: historia, significado y la letra explicada"
+title: El cant dels ocells: historia, significado y la letra explicada
 description: Villancico catalán en que las aves saludan a Jesús recién nacido, con la letra impresa ya en 1874 y la melodía en 1903. Su historia y sus 15 estrofas.
 lead: Villancico catalán donde las aves, del águila a los búhos, saludan a Jesús recién nacido. Cantamos la armonía de Lluís Millet, impresa en 1917, con sus cuatro voces a boca cerrada hechas tres bajo el solo de la soprano.
 words: tradicional catalana (impresa ya en 1874)
@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: el cant dels ocells significado | el cant dels ocells letra | el cant dels ocells letra en español | quién compuso el cant dels ocells | el cant dels ocells pau casals | el cant dels ocells historia
-translatedFrom: 883233a2e5e5
+translatedFrom: 956f4cbf66ef
 ---
 
 El cant dels ocells, "el canto de los pájaros", es un villancico catalán. Los libros antiguos lo escriben El cant dels aucells o Lo cant dels aucells, y en inglés se le suele llamar Song of the Birds. En él las aves vuelan a saludar a la "luz mayor" que despunta en la noche más dichosa, desde el águila imperial hasta los búhos [^millet1917][^briz1874]. Su letra ya estaba impresa en 1874 y su melodía en 1903, sin autor conocido para ninguna de las dos [^briz1874][^capmany1903]. El maestro de coro Lluís Millet lo armonizó para voces de hombre [^millet1917][^enccat-millet], y el violonchelista Pau Casals lo dio a conocer en el violonchelo, y lo tocó en las Naciones Unidas en 1971 [^un-av][^paucasals-un].

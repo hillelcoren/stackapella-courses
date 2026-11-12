@@ -1,5 +1,5 @@
 ---
-title: "Shoshanat Yaakov: historia, significado y la letra explicada"
+title: Shoshanat Yaakov: historia, significado y la letra explicada
 description: Shoshanat Yaakov se canta en Purim tras leer el libro de Ester: el final de un antiguo poema hebreo, con melodía impresa por un cantor de Gotemburgo tras 1883.
 lead: Shoshanat Yaakov, "la rosa de Jacob", es la canción de Purim que se canta una vez leído el libro de Ester. Cierra un antiguo poema hebreo con alegría y esperanza, y añade una buena palabra para Harbona.
 words: Anónima; los versos finales del poema de Purim Asher heni, y luego un verso de una costumbre que recoge el Talmud
@@ -13,7 +13,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: shoshanat yaakov significado | shoshanat yaakov traducción | shoshanat yaakov letra | shoshanat yaakov texto | shoshanat yaakov purim | shoshanat yaakov canción
-translatedFrom: 0f68302f6bcc
+translatedFrom: efd91c6e0742
 ---
 
 Shoshanat Yaakov es una breve canción hebrea para Purim. Cuando se ha leído en voz alta el libro de Ester en su rollo y se ha dicho la bendición que lo sigue, vienen estos versos.[^baer][^kitzur] Son los últimos versos de un antiguo poema, Asher heni, con un verso más que viene de una antigua costumbre, y reúnen toda la historia en unas pocas palabras: los judíos se alegraron al ver a Mardoqueo vestido de azul real, Hashem fue entonces su salvación y es su esperanza en cada generación, y Harbona, el servidor del rey que señaló la horca de Amán, es recordado para bien.[^vitry][^yer][^je-harbona] Su primer verso toma sus palabras de alegría del propio libro de Ester.[^esther][^vitry] Nuestra melodía es la que imprimió Abraham Baer, cantor de la sinagoga de Gotemburgo, en Suecia, en su manual para cantores.[^baer][^hammarlund]

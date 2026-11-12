@@ -1,5 +1,5 @@
 ---
-title: "Auld Lang Syne: history, meaning and the words explained"
+title: Auld Lang Syne: history, meaning and the words explained
 description: Burns sent Auld Lang Syne to a friend in 1788 as an old song. Printed in 1796 to a slow tune, it met today's tune in 1799. Its sources and full words.
 lead: Robert Burns's Scots song of old friends and a cup of kindness, which he sent to a friend in 1788 as an old song. We sing its first verse to the tune George Thomson gave it in 1799.
 words: Robert Burns (1759 to 1796), built on older songs that begin with the same line

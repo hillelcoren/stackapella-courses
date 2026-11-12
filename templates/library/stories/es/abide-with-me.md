@@ -1,5 +1,5 @@
 ---
-title: "Abide with Me: historia, significado y la letra explicada"
+title: Abide with Me: historia, significado y la letra explicada
 description: Henry Francis Lyte lo escribió en Brixham en 1847, el año en que murió en Niza. Su melodía, EVENTIDE, llegó con Hymns Ancient and Modern en 1861.
 lead: Oración de Henry Francis Lyte por la compañía de Dios al final de la vida, escrita en Brixham (Devon) en 1847, con EVENTIDE, de William Henry Monk (1861). Cantamos la estrofa 1 a las cuatro voces de Monk.
 words: Henry Francis Lyte (1793 a 1847), escrito en 1847
@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: abide with me historia | quién escribió abide with me y por qué | quién compuso la música de abide with me | abide with me final de la fa cup | señor jesús la luz del sol se fue himno | abide with me significado versículo bíblico
-translatedFrom: 979315a89097
+translatedFrom: 9fac7eea506b
 ---
 
 Abide with Me, que en español se canta como "Señor Jesús, la luz del sol se fue" (o "Señor Jesús, el día ya se fue"), es una oración que pide la compañía de Dios cuando la vida se acaba. Henry Francis Lyte escribió este himno en 1847, el último año de su vida, cuando era cura de Lower Brixham, un pueblo de pescadores de Devon [^remains1850][^canterbury]. Suele cantarse con EVENTIDE, la melodía que William Henry Monk escribió para la primera edición con música de Hymns Ancient and Modern, en 1861 [^ham1861][^hymnary-eventide]. Desde hace mucho se canta en los funerales [^canterbury][^julian]. Además, las multitudes lo cantan antes de la final de la FA Cup en Inglaterra desde 1927 [^richards][^pdr].

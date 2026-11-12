@@ -1,5 +1,5 @@
 ---
-title: "Shenandoah: historia, significado y la letra explicada"
+title: Shenandoah: historia, significado y la letra explicada
 description: Shanty de cabrestante que cantaban los marineros al levar el ancla. Su primera impresión conocida, "Shannydore", es de una revista juvenil de abril de 1868.
 lead: Shenandoah es una canción tradicional de añoranza por un río o una persona, cantada por alguien que parte a través del ancho Missouri. Los marineros la cantaban para levar el ancla; su primera impresión conocida es de 1868.
 words: tradicional; nuestra estrofa, tal como la imprimió Richard Runciman Terry, 1921

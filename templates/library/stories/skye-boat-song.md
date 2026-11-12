@@ -1,5 +1,5 @@
 ---
-title: "The Skye Boat Song: history, meaning and the words explained"
+title: The Skye Boat Song: history, meaning and the words explained
 description: Harold Boulton's 1880s words, to an air half taken down from Hebridean boatmen, tell Bonnie Prince Charlie's June 1746 crossing to Skye with Flora MacDonald.
 lead: A Victorian song about a real escape, Bonnie Prince Charlie's crossing to Skye with Flora MacDonald in 1746. Harold Boulton wrote the words; half the air came from Hebridean boatmen.
 words: Harold Boulton (1859 to 1935)

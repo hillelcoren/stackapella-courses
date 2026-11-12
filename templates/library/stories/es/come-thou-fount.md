@@ -1,5 +1,5 @@
 ---
-title: "Come, Thou Fount of Every Blessing: historia, significado y la letra explicada"
+title: Come, Thou Fount of Every Blessing: historia, significado y la letra explicada
 description: La lista de Robinson, que vio Julian, fecha el himno en 1758; NETTLETON se imprimió sin firma en Pensilvania en 1813. Su historia, Ebenezer y una leyenda.
 lead: El himno de alabanza de Robert Robinson es de 1758 según su propia lista, y en Estados Unidos se cantó con NETTLETON, impresa en 1813. Cantamos la primera estrofa a las cuatro voces del Methodist Hymnal de 1905.
 words: Robert Robinson (1735 a 1790)
@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: come thou fount of every blessing historia | come thou fount significado | qué significa ebenezer en come thou fount | quién escribió come thou fount of every blessing | quién compuso la música de come thou fount
-translatedFrom: de4ea759acfc
+translatedFrom: ceef5ccced3a
 ---
 
 Come, Thou Fount of Every Blessing es un himno de gratitud por la gracia, escrito en Inglaterra por Robert Robinson, un joven predicador que había llegado a la fe con George Whitefield [^julian-robinson][^dnb]. Una lista de sus escritos de su puño y letra, que John Julian vio en el Cambridge Church Book, lo fecha en 1758, y la impresión más antigua que se conserva está en un pequeño himnario londinense de 1759 [^julian][^hymnarchive]. En Estados Unidos encontró su melodía, NETTLETON, impresa en Pensilvania en 1813 [^hymnary-nettleton][^hymnarchive]. Su segunda estrofa levanta un "Ebenezer", una piedra del libro de Samuel [^madan1760][^kjv].

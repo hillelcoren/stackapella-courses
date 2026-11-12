@@ -1,6 +1,6 @@
 ---
-title: "Adir Hu: historia, significado y la letra explicada"
-description: "Adir Hu, himno alfabético del séder de Pésaj que pide a Hashem reconstruir el Templo; su melodía tiene su primera impresión conocida en Königsberg, 1644."
+title: Adir Hu: historia, significado y la letra explicada
+description: Adir Hu, himno alfabético del séder de Pésaj que pide a Hashem reconstruir el Templo; su melodía tiene su primera impresión conocida en Königsberg, 1644.
 lead: Adir Hu, "Poderoso es Él", es el himno alfabético que las familias asquenazíes cantan cerca del final del séder de Pésaj. Cada estrofa pide a Hashem que construya pronto Su casa, el Templo, en nuestros días.
 words: Hebreo tradicional, anónimo (en la Hagadá a finales del siglo XV)
 tune: Tradicional asquenazí; la primera impresión conocida es de 1644
@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adir hu significado | adir hu traducción | adir hu letra en español | adir hu canción de pésaj | adir hu transliteración | quién escribió adir hu
-translatedFrom: 213adc368987
+translatedFrom: 356bc3b11d4c
 ---
 
 Adir Hu es un himno hebreo que se canta en el séder de Pésaj, el rito en casa y la cena festiva de las primeras noches de la fiesta.[^je][^idel29] En el rito asquenazí llega una vez terminado el rito formal, entre los cantos que cierran la velada.[^ej][^sefaria] Sus estrofas recorren el alfabeto hebreo y alaban a Hashem como poderoso, elegido, grande, santo y más, y cada una termina con la misma súplica: construye Tu casa, el Templo, pronto.[^je][^ej][^sefaria] A diferencia de la mayoría de los cantos del séder, tiene una sola melodía casi en todas partes. La Jewish Encyclopedia de 1901 señalaba que, mientras los demás himnos del séder tenían muchas melodías, este se cantaba con la misma, y que las sinagogas la tomaban prestada para marcar la fiesta en sus propias oraciones.[^je][^ej]

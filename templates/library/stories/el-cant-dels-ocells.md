@@ -1,5 +1,5 @@
 ---
-title: "El cant dels ocells: history, meaning and the words explained"
+title: El cant dels ocells: history, meaning and the words explained
 description: A Catalan Christmas carol in which the birds greet the newborn Jesus, its words in print by 1874, its tune by 1903. Its story and all 15 verses.
 lead: A Catalan Christmas carol in which the birds, from the eagle to the owls, greet the newborn Jesus. We sing Lluís Millet's harmony, printed in 1917, his four humming parts made three under the soprano's solo.
 words: traditional Catalan (in print by 1874)

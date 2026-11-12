@@ -1,5 +1,5 @@
 ---
-title: "Who Will Bow and Bend Like a Willow: history, meaning and the words explained"
+title: Who Will Bow and Bend Like a Willow: history, meaning and the words explained
 description: A Shaker revival song of bowing, reeling and "Mother's wine", copied into Mary Hazzard's songbook among Canterbury songs of 1847. Its story and all its words.
 lead: A lively Shaker song in three strains, asking who will bow and bend like a willow and turn and twist and reel. It is copied, unsigned, in Mary Hazzard's songbook among songs dated early 1847.
 words: Anonymous Shaker song; unsigned in Mary Hazzard's songbook (about 1847)

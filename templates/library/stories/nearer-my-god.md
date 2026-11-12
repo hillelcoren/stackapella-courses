@@ -1,5 +1,5 @@
 ---
-title: "Nearer, My God, to Thee: history, meaning and the words explained"
+title: Nearer, My God, to Thee: history, meaning and the words explained
 description: Sarah Flower Adams wrote it for a Unitarian chapel in London, in print by 1841. Lowell Mason's BETHANY, usually dated 1856, was in print with it by 1859.
 lead: Sarah Flower Adams wrote this hymn on Jacob's dream for a London chapel, in print by 1841. We sing verse 1 in Lowell Mason's four parts for BETHANY, usually dated 1856, in print with these words by 1859.
 words: Sarah Flower Adams (1805 to 1848)

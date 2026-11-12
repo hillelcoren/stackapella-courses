@@ -1,5 +1,5 @@
 ---
-title: "Simple Gifts: historia, significado y la letra explicada"
+title: Simple Gifts: historia, significado y la letra explicada
 description: Canción de baile shaker que suele atribuirse a Joseph Brackett y fecharse en 1848. La cantamos del cancionero manuscrito de Mary Hazzard, sin firma ni fecha.
 lead: Simple Gifts es una canción shaker para bailar en el culto, sobre la sencillez, las reverencias y los giros. Suele atribuirse a Joseph Brackett y fecharse en 1848, pero nuestra copia, de Mary Hazzard, no tiene firma ni fecha.
 words: Atribuida por lo general al élder Joseph Brackett (1797 a 1882)

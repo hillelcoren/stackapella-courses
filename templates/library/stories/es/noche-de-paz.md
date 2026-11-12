@@ -1,6 +1,6 @@
 ---
-title: "Noche de paz: historia, significado y la letra explicada"
-description: "Silent Night en español. Su letra aparece sin firma en un himnario de Nueva York de 1893: quién pudo escribirla, el cambio de 1915 y sus tres estrofas."
+title: Noche de paz: historia, significado y la letra explicada
+description: Silent Night en español. Su letra aparece sin firma en un himnario de Nueva York de 1893: quién pudo escribirla, el cambio de 1915 y sus tres estrofas.
 lead: Noche de paz pone letra española a la melodía de Silent Night, de Gruber. Su primera impresión conocida es un himnario de Nueva York de 1893, donde nadie la firma. Cantamos sus tres estrofas.
 words: español, sin firma (primera impresión conocida, 1893), se atribuye a menudo a Federico Fliedner (1845 a 1901); alemán, Joseph Mohr (1816)
 tune: Franz Xaver Gruber (1818)
@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: noche de paz historia | noche de paz significado | quién escribió noche de paz en español | noche de paz letra | noche de paz autor y año | noche de paz original en alemán
-translatedFrom: 09ad10658545
+translatedFrom: 7fda4409e7d6
 ---
 
 Noche de paz es Silent Night en español: la melodía austriaca de Franz Xaver Gruber, de 1818, con una letra española que empieza "¡Noche de paz, noche de amor!" [^h1893][^hymnary-text]. Su primera impresión conocida es el himno n.º 48 de El Himnario evangélico, un himnario para las iglesias protestantes de habla hispana que publicó en Nueva York en 1893 la Sociedad Americana de Tratados (American Tract Society) [^h1893][^hymnary-text]. Esa página no nombra a nadie, ni al autor alemán, Joseph Mohr, ni al español [^h1893]. Todavía no se sabe con certeza quién hizo la letra española. De estos himnarios para protestantes de habla hispana pasó a libros luteranos, adventistas, metodistas y bautistas y, desde 1989, a uno católico: Hymnary.org la registra en 52 himnarios [^h1915-front][^hymnary-text].

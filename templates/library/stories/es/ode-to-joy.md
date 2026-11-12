@@ -1,5 +1,5 @@
 ---
-title: "Ode to Joy y Joyful, Joyful, We Adore Thee: historia, significado y la letra explicada"
+title: Ode to Joy y Joyful, Joyful, We Adore Thee: historia, significado y la letra explicada
 description: La melodía de Beethoven que se oyó en Viena el 7 de mayo de 1824, con el himno de Henry van Dyke de 1907, Joyful, Joyful, We Adore Thee. Su historia y su letra.
 lead: La melodía del último movimiento de la Novena Sinfonía de Beethoven, estrenada en Viena en 1824, con la letra de himno que Henry van Dyke escribió para ella en 1907, Joyful, Joyful, We Adore Thee.
 words: Henry van Dyke (1852 a 1933), escrita a más tardar en 1907
@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: himno a la alegría historia | himno a la alegría significado | quién escribió el himno a la alegría | himno a la alegría himno europeo | joyful joyful we adore thee significado | joyful joyful we adore thee historia
-translatedFrom: e58d1a0dc2f6
+translatedFrom: c79d745554da
 ---
 
 Ode to Joy (el "Himno a la alegría") es la melodía del último movimiento de la Novena Sinfonía de Beethoven, que se oyó por primera vez en Viena el 7 de mayo de 1824. En ella, solistas y coro cantan el poema alemán de Friedrich Schiller An die Freude, "A la alegría", de 1785 [^thayer3][^elbphil][^score1826][^gedichte1803]. En las iglesias de habla inglesa, la misma melodía lleva Joyful, Joyful, We Adore Thee (con alegría, con alegría, te adoramos), que el pastor y poeta estadounidense Henry van Dyke escribió para ella a más tardar en 1907 y llamó su "Hymn of Joy" (himno de gozo) [^h1911][^poems1911][^hymnarchive]. Desde 1972, la melodía, sin letra, es también el himno europeo [^coe][^eu]. Cantamos la primera estrofa del himno de van Dyke, para dos a cuatro cantantes.

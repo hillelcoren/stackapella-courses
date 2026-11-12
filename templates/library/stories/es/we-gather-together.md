@@ -1,5 +1,5 @@
 ---
-title: "We Gather Together: historia, significado y la letra explicada"
+title: We Gather Together: historia, significado y la letra explicada
 description: Canto neerlandés de gratitud por las victorias de 1597, impreso en Haarlem en 1626. Kremser lo arregló en Viena en 1877 y Baker lo pasó al inglés en 1894.
 lead: Un canto neerlandés de gratitud por las victorias de 1597, impreso en 1626, arreglado en Viena por Eduard Kremser en 1877 y llevado al inglés por Theodore Baker en 1894. En Estados Unidos se canta en Acción de Gracias.
 words: Adrianus Valerius (murió en 1625); en inglés, Theodore Baker (1851 a 1934)
@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: quién escribió we gather together | we gather together himno historia | es we gather together un himno neerlandés | por qué se canta we gather together en acción de gracias | we gather together significado | he chastens and hastens his will to make known significado
-translatedFrom: 9a910efe584c
+translatedFrom: ddd37d50b68f
 ---
 
 We Gather Together, que se canta con la melodía KREMSER y que en Estados Unidos se conoció un tiempo como Prayer of Thanksgiving (oración de acción de gracias), es el himno que muchas iglesias estadounidenses cantan el Día de Acción de Gracias [^hymnary-text][^komter1942]. Nació como un canto neerlandés, "Wilt heden nu treden" ("ven, da hoy un paso al frente"), cuya primera impresión conocida está en el Nederlandtsche Gedenck-clanck de Adrianus Valerius, impreso en Haarlem en 1626 [^valerius1626][^dbnl1942]. Allí da gracias a Dios tras las victorias neerlandesas sobre España de 1597 [^valerius1626][^komter1942]. Eduard Kremser lo arregló en Viena en 1877 como un Dankgebet alemán, una oración de acción de gracias [^komter1942][^hanslick1878], y el inglés de Theodore Baker se publicó en Nueva York en 1894 [^loc1894][^ccr1922].

@@ -1,5 +1,5 @@
 ---
-title: "I Will Bow and Be Simple: history, meaning and the words explained"
+title: I Will Bow and Be Simple: history, meaning and the words explained
 description: A Shaker bowing song in Mary Hazzard's songbook, signed only "North Family", undated, between songs dated 1851 and 1852. Its Bible words and all the words.
 lead: I Will Bow and Be Simple is a short Shaker song of humility, in two strains. It survives in Mary Hazzard's handwritten songbook, signed only "North Family", undated, between songs dated 1851 and 1852.
 words: Shaker song, no maker named; signed "North Family" (undated, between songs dated 1851 and 1852)

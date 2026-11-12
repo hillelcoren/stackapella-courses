@@ -1,10 +1,10 @@
 ---
-title: "Michael, Row the Boat Ashore: historia, significado y la letra explicada"
+title: Michael, Row the Boat Ashore: historia, significado y la letra explicada
 description: Espiritual de remeros de las Sea Islands de Carolina del Sur, anotado en la guerra civil; su primera impresión conocida es el n.º 31 de Slave Songs (1867).
 lead: Michael, Row the Boat Ashore es un espiritual de afroamericanos esclavizados, cantado al remo en las Sea Islands de Carolina del Sur. Se anotó en las islas de Port Royal durante la guerra civil y se imprimió en 1867.
 words: Tradicional, espiritual afroamericano (primera impresión conocida, 1867)
 tune: Tradicional, espiritual afroamericano (primera impresión conocida, 1867)
-earliestPrinting: "Slave Songs of the United States (Nueva York: A. Simpson & Co., 1867), n.º 31, p. 23"
+earliestPrinting: Slave Songs of the United States (Nueva York: A. Simpson & Co., 1867), n.º 31, p. 23
 earliestPrintingSource: scan31
 language: inglés
 origin: Islas de Port Royal (Sea Islands), Carolina del Sur

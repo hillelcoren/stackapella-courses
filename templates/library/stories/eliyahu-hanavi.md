@@ -1,14 +1,14 @@
 ---
-title: "Eliyahu HaNavi: history, meaning and the words explained"
-description: "Eliyahu HaNavi, the Hebrew refrain to the prophet Elijah sung after Havdalah on Saturday night and at the seder, to a folk tune Idelsohn printed in 1929."
-lead: "Eliyahu HaNavi is the short Hebrew refrain to the prophet Elijah sung once the Sabbath is over on Saturday night, and at the Passover seder when the door is opened for him."
+title: Eliyahu HaNavi: history, meaning and the words explained
+description: Eliyahu HaNavi, the Hebrew refrain to the prophet Elijah sung after Havdalah on Saturday night and at the seder, to a folk tune Idelsohn printed in 1929.
+lead: Eliyahu HaNavi is the short Hebrew refrain to the prophet Elijah sung once the Sabbath is over on Saturday night, and at the Passover seder when the door is opened for him.
 words: Traditional Hebrew refrain, author unknown
 tune: Traditional; printed by A. Z. Idelsohn (1929) among Eastern Ashkenazi folk tunes
 language: Hebrew
 occasion: Saturday night after Havdalah; the Passover seder, when the door is opened for Elijah
 alsoKnownAs: Eliyohu Hanovi, Elijah the Prophet
 wikidata: Q6989017
-quote: "Eliyahu hanavi, Eliyahu hatishbi, Eliyahu hagiladi."
+quote: Eliyahu hanavi, Eliyahu hatishbi, Eliyahu hagiladi.
 quoteSource: sefard
 updated: 2026-11-12
 checked: 2026-11-12

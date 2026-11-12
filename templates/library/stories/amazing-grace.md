@@ -1,5 +1,5 @@
 ---
-title: "Amazing Grace: history, meaning and the words explained"
+title: Amazing Grace: history, meaning and the words explained
 description: John Newton, once a slave-ship captain, wrote it at Olney for New Year's Day 1773. Its American tune, NEW BRITAIN, joined the words in 1835.
 lead: John Newton's hymn, written for his Olney parish for New Year's Day 1773 and printed in Olney Hymns in 1779, sung to NEW BRITAIN, an American tune printed in 1829. We sing verse 1.
 words: John Newton (1725 to 1807)

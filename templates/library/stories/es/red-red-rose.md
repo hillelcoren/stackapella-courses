@@ -1,5 +1,5 @@
 ---
-title: "A Red, Red Rose: historia, significado y la letra explicada"
+title: A Red, Red Rose: historia, significado y la letra explicada
 description: La canción de amor de Burns, en su primera impresión conocida de 1794 con música de Urbani, y con Low down in the Broom en la década de 1820. Fuentes y letra.
 lead: Burns compara su amor con una rosa y una melodía y promete volver, con versos en parte de viejas despedidas. La cantamos con Low down in the Broom, como la imprimió R. A. Smith en la década de 1820.
 words: Robert Burns (1759 a 1796), que rehízo versos de canciones populares más antiguas
@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: a red red rose significado | a red red rose poema significado | quién escribió a red red rose | my love is like a red red rose traducción | a red red rose robert burns historia | a red red rose canción
-translatedFrom: 25aa23254594
+translatedFrom: fe6bae3fb445
 ---
 
 A Red, Red Rose, conocida también por su primer verso, My Love Is Like a Red, Red Rose, o, en la ortografía escocesa de Burns, O My Luve's Like a Red, Red Rose, es una canción de amor de Robert Burns [^smm1796][^smith]. Un enamorado compara su amor con una rosa de junio y con una melodía dulce, jura quererla hasta que se sequen los mares y promete volver aunque fuera desde diez mil millas [^smm1796][^smith]. Su primera impresión conocida está en la Selection of Scots Songs de Peter Urbani, de 1794 [^urbani][^dick][^balladindex]. En la década de 1820 ya se había impreso con cinco melodías [^urbani][^smm1796][^dick][^smith]. La melodía de hoy, Low down in the Broom, es la que le puso R. A. Smith en su Scotish Minstrel en la década de 1820, su primera impresión conocida con esa melodía [^smith][^graham][^balladindex].

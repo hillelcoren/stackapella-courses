@@ -1,7 +1,7 @@
 ---
-title: "Nearer, My God, to Thee: historia, significado y la letra explicada"
+title: Nearer, My God, to Thee: historia, significado y la letra explicada
 description: Sarah Flower Adams lo escribió para una capilla unitaria de Londres, impreso ya en 1841. BETHANY, de Lowell Mason, suele fecharse en 1856 e iba con él en 1859.
-lead: "Himno de Sarah Flower Adams sobre el sueño de Jacob para una capilla londinense; impreso en 1841. Cantamos la estrofa 1 a cuatro voces de Mason con BETHANY, que suele datarse en 1856, ya con esta letra en 1859."
+lead: Himno de Sarah Flower Adams sobre el sueño de Jacob para una capilla londinense; impreso en 1841. Cantamos la estrofa 1 a cuatro voces de Mason con BETHANY, que suele datarse en 1856, ya con esta letra en 1859.
 words: Sarah Flower Adams (1805 a 1848)
 tune: Lowell Mason (1792 a 1872)
 tuneName: BETHANY
@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: más cerca oh dios de ti historia | quién escribió nearer my god to thee | quién compuso la música de nearer my god to thee | nearer my god to thee significado versículo bíblico | nearer my god to thee titanic | nearer my god to thee historia del himno
-translatedFrom: 331e8f5ca377
+translatedFrom: ac8eb81ff1fa
 ---
 
 Nearer, My God, to Thee, que en español se canta como "Más cerca, oh Dios, de ti", es un himno sobre el anhelo de estar cerca de Dios, incluso en la adversidad. Sarah Flower Adams lo escribió para la capilla unitaria de William Johnson Fox en Londres, y su primera impresión conocida es el n.º 85 de Hymns and Anthems, de Fox, de 1841 [^fox1841][^julian][^canterbury]. Sus estrofas siguen el sueño de Jacob en el Génesis, el de una escalera entre la tierra y el cielo [^fox1841][^kjv]. En 1907 el himnólogo John Julian lo encontraba en uso muy amplio en todos los países de habla inglesa, y traducido a muchas lenguas [^julian]. Se cantó en los funerales del presidente McKinley en 1901 [^halstead][^hazelton], y es el himno que más se asocia con el hundimiento del Titanic, aunque los supervivientes no se pusieron de acuerdo sobre si la orquesta lo tocó [^gracie][^marshall1912].

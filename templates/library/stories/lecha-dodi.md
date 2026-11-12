@@ -1,5 +1,5 @@
 ---
-title: "Lecha Dodi: history, meaning and the words explained"
+title: Lecha Dodi: history, meaning and the words explained
 description: Lecha Dodi greets the Sabbath as a bride on Friday evening. Solomon Alkabetz wrote it in 16th-century Safed; Idelsohn put its settings at about 2,000.
 lead: Lecha Dodi, "Come, my beloved", is the Hebrew hymn that greets the Sabbath as a bride on Friday evening. Solomon ha-Levi Alkabetz wrote it in sixteenth-century Safed and signed eight of its nine verses with his name.
 words: Solomon ha-Levi Alkabetz (about 1505 to 1580 or 1584; the sources differ)

@@ -1,5 +1,5 @@
 ---
-title: "Shoshanat Yaakov: history, meaning and the words explained"
+title: Shoshanat Yaakov: history, meaning and the words explained
 description: Shoshanat Yaakov, sung on Purim once the Book of Esther is read: the last lines of an old Hebrew poem, to a tune a Gothenburg cantor printed after 1883.
 lead: Shoshanat Yaakov, "the rose of Jacob", is the Purim song sung once the Book of Esther has been read. It closes an old Hebrew poem with joy and hope, then adds a good word for Harbona.
 words: Anonymous; the closing lines of the Purim poem Asher heni, then a line from a custom the Talmud records

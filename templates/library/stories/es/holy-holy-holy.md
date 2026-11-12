@@ -1,5 +1,5 @@
 ---
-title: "Holy, Holy, Holy: historia, significado y la letra explicada"
+title: Holy, Holy, Holy: historia, significado y la letra explicada
 description: Reginald Heber lo escribió en Hodnet para el domingo de la Trinidad; su viuda lo publicó en 1827, tras su muerte en la India. NICAEA, de Dykes, llegó en 1861.
 lead: El himno de Reginald Heber para el domingo de la Trinidad, sobre el canto ante el trono de Dios de Apocalipsis 4, con NICAEA, de John Bacchus Dykes (1861). Cantamos la estrofa 1 con la armonía de Dykes.
 words: Reginald Heber (1783 a 1826), escrito en Hodnet a más tardar en 1823
@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: santo santo santo himno historia | quién escribió santo santo santo señor omnipotente | quién escribió holy holy holy | quién compuso la música de holy holy holy | holy holy holy himno significado | el que era el que es y el que ha de venir significado
-translatedFrom: 9bcbab83cfdb
+translatedFrom: 1b1e07be453d
 ---
 
 Holy, Holy, Holy, que en español se canta como "Santo, santo, santo", es un himno a Dios como Trinidad: un solo Dios, Padre, Hijo y Espíritu Santo. Reginald Heber lo escribió para el domingo de la Trinidad cuando era párroco rural en Hodnet, en Shropshire [^heber1827][^hymnarchive]. Su letra es el canto que resuena alrededor del trono de Dios en el libro del Apocalipsis, contado de nuevo en verso [^julian1892][^canterbury]. Su primera impresión conocida, según la registra el Dictionary of Hymnology de Julian, es de 1826, el año en que Heber murió en la India; no se conoce ningún ejemplar [^julian1907][^hymnarchive]. Su melodía, NICAEA, es de John Bacchus Dykes, que la escribió para la primera edición de Hymns Ancient and Modern, en 1861 [^ham1861][^hymnary-nicaea]. Ya en 1892 ese diccionario lo llamaba el más conocido de los himnos de Heber [^julian1892], y hoy Hymnary.org registra la melodía en bastante más de mil himnarios [^hymnary-nicaea].

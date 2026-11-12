@@ -1,5 +1,5 @@
 ---
-title: "Lift Every Voice and Sing: historia, significado y la letra explicada"
+title: Lift Every Voice and Sing: historia, significado y la letra explicada
 description: Escrita por dos hermanos para celebrar el cumpleaños de Lincoln en Jacksonville en 1900, y cantada por 500 niños. Su historia, su significado y su letra.
 lead: James Weldon Johnson escribió la letra y su hermano J. Rosamond Johnson la música, en Jacksonville, Florida, en 1900, para que la cantaran escolares el cumpleaños de Lincoln. Lleva mucho tiempo llamándose himno nacional negro ("Negro", ahora "Black").
 words: James Weldon Johnson (1871 a 1938), 1900

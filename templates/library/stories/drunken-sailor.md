@@ -1,5 +1,5 @@
 ---
-title: "Drunken Sailor: history, meaning and the words explained"
+title: Drunken Sailor: history, meaning and the words explained
 description: A stamp-and-go shanty. Its chorus, "up she rises", was written down on a New London whaler in 1840, and crews sang it at a quick march along the deck.
 lead: Drunken Sailor is a sea shanty for walking away with a rope. Its chorus was sung on an American whaler in 1840, and old sailors remembered whole crews singing it at a quick march along the deck.
 words: Traditional sea shanty (chorus in print by 1841, verse by 1908)

@@ -1,12 +1,12 @@
 ---
-title: "Jerusalem: historia, significado y la letra explicada"
+title: Jerusalem: historia, significado y la letra explicada
 description: El "And did those feet" de Blake, hacia 1804, con música de Parry del 10 de marzo de 1916 para un acto en plena guerra, cedida luego al sufragio femenino.
 lead: El poema de Blake pregunta si Jesús caminó por Inglaterra. Viene del prefacio de su Milton; Parry le puso música en marzo de 1916 para una reunión en Londres en plena guerra. Cantamos la estrofa 1 a cuatro voces.
 words: William Blake (1757 a 1827), hacia 1804
 tune: Hubert Parry (1848 a 1918), 1916
 tuneName: JERUSALEM
 meter: DLM (8.8.8.8 D)
-earliestPrinting: "Milton: a Poem, de Blake, con portada fechada en 1804; los ejemplares con el prefacio, impresos hacia 1811"
+earliestPrinting: Milton: a Poem, de Blake, con portada fechada en 1804; los ejemplares con el prefacio, impresos hacia 1811
 earliestPrintingSource: princeton
 language: inglés
 occasion: la Last Night of the Proms
@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: jerusalem himno | jerusalem himno significado | quién compuso la música de jerusalem | dark satanic mills significado | es jerusalem el himno nacional de inglaterra | jerusalem william blake poema completo
-translatedFrom: 4a5ea2fc9e0f
+translatedFrom: bb5caac450bb
 ---
 
 Jerusalem es el poema de William Blake "And did those feet in ancient time", cantado con la melodía que Hubert Parry escribió para él en marzo de 1916 [^standpoint][^dibble]. Blake lo escribió como parte del prefacio de su largo poema Milton, que lleva la fecha de 1804 en la portada [^milton-asu][^princeton]. Sus cuatro estrofas preguntan si Jesús caminó alguna vez por Inglaterra, y luego prometen no descansar hasta construir allí una nueva Jerusalén [^milton-ws][^historicuk]. Parry escribió la melodía para un acto en Londres en plena guerra; dos años después, la campaña por el voto de las mujeres la hizo suya, con su bendición [^graves][^dibble]. Se canta en la Last Night of the Proms desde 1953 [^bbcmm][^lrb], y en 2010 el público la eligió como himno de la victoria de Inglaterra en los Juegos de la Commonwealth [^teamengland][^oliveira].

@@ -1,5 +1,5 @@
 ---
-title: "Riu, Riu, Chiu: history, meaning and the words explained"
+title: Riu, Riu, Chiu: history, meaning and the words explained
 description: An anonymous Christmas villancico printed in Venice in 1556, in a songbook whose one known copy is at Uppsala. Its story, its wolf and lamb, all its verses.
 lead: An anonymous Spanish Christmas villancico, printed in Venice in 1556 in a songbook that survives in one known copy, at Uppsala. We sing the book's own four parts, with two of its seven verses.
 words: anonymous (printed 1556)

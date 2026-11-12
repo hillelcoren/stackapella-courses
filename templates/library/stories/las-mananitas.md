@@ -1,5 +1,5 @@
 ---
-title: "Las Mañanitas: history, meaning and the words explained"
+title: Las Mañanitas: history, meaning and the words explained
 description: Mexico's dawn song for birthdays and saint's days: its tune was in print by 1904, its King David verse by 1921. Its story, meaning and all seven verses.
 lead: Mexico's dawn serenade for birthdays, saint's days and the Virgin of Guadalupe. No one knows who made it; its tune was in print by 1904. We sing two verses from a 1921 songbook, each with its refrain.
 words: traditional Mexican

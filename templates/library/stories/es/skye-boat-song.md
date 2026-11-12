@@ -1,5 +1,5 @@
 ---
-title: "The Skye Boat Song: historia, significado y la letra explicada"
+title: The Skye Boat Song: historia, significado y la letra explicada
 description: La letra de Harold Boulton (década de 1880), con una melodía a medias de barqueros de las Hébridas, cuenta la huida a Skye del príncipe Carlos en junio de 1746.
 lead: Una canción victoriana sobre una huida real, la travesía de Carlos Eduardo Estuardo a Skye con Flora MacDonald en 1746. Harold Boulton escribió la letra; la mitad de la melodía vino de barqueros de las Hébridas.
 words: Harold Boulton (1859 a 1935)
@@ -15,7 +15,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: skye boat song significado | skye boat song letra original | quién escribió skye boat song | skye boat song historia | skye boat song letra en gaélico | skye boat song traducción
-translatedFrom: 2511b3d48d56
+translatedFrom: 1d673da0556b
 ---
 
 The Skye Boat Song, a menudo llamada por su primer verso, Speed, Bonnie Boat, o por su estribillo, Over the Sea to Skye, es una canción escocesa sobre una huida real. En junio de 1746, dos meses después de que su ejército fuera derrotado en Culloden, el príncipe Carlos Eduardo Estuardo, "Bonnie Prince Charlie", cruzó de noche de Benbecula a la isla de Skye en una pequeña barca, vestido de criada de Flora MacDonald.[^lyon][^blaikie][^dnb-flora] La canción llegó más de un siglo después. Harold Boulton escribió la letra, y la melodía, según su libro, eran cuatro compases tomados de barqueros de las Hébridas y cuatro añadidos por Anne Campbell Macleod.[^sotn] Su Songs of the North la imprimió en la década de 1880,[^smith1888][^blackie1889] y Robert Louis Stevenson escribió más tarde su propia letra para la misma melodía.[^students][^balladindex]

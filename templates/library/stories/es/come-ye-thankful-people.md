@@ -1,5 +1,5 @@
 ---
-title: "Come, Ye Thankful People, Come: historia, significado y la letra explicada"
+title: Come, Ye Thankful People, Come: historia, significado y la letra explicada
 description: Henry Alford lo imprimió para su parroquia de Leicestershire en 1844, titulado After Harvest. Hymns Ancient and Modern le dio la melodía de Elvey en 1861.
 lead: Henry Alford imprimió este himno de la cosecha para su parroquia de Wymeswold en 1844. Se canta con ST. GEORGE'S WINDSOR, de George Elvey, en las fiestas inglesas de la cosecha y en Acción de Gracias en Estados Unidos.
 words: Henry Alford (1810 a 1871), 1844, revisada en 1865 y 1867
@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: quién escribió come ye thankful people come | come ye thankful people come historia | come ye thankful people come significado | cuándo se escribió come ye thankful people come | come ye thankful people come letra original | come ye thankful people come himno melodía
-translatedFrom: 3c26f9a4b6c7
+translatedFrom: 31f6fa3615c2
 ---
 
 Come, Ye Thankful People, Come es un himno de la cosecha. Henry Alford, vicario del pueblo de Wymeswold, en Leicestershire, lo imprimió en 1844, nuevo, en el himnario que preparó para su parroquia, con el encabezamiento "After Harvest" (después de la cosecha) [^ph1844][^life1873]. Su primera estrofa da gracias a Dios por una cosecha recogida antes del invierno. Las otras tres pasan a la parábola de Jesús del trigo y la cizaña, y a la cosecha del fin de los tiempos [^ph1844][^kjv]. Hymns Ancient and Modern le dio en 1861 la melodía con la que aún se canta, ST. GEORGE'S WINDSOR, de George Elvey, organista de la capilla de San Jorge de Windsor [^ham1861][^hymnary-tune]. En Inglaterra pertenece a la fiesta de la cosecha [^life1873][^hymnarchive]. Los himnarios episcopales estadounidenses lo imprimieron para el Día de Acción de Gracias al menos desde 1871 [^pe1871][^pe1892].

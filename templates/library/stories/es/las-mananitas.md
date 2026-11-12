@@ -1,6 +1,6 @@
 ---
-title: "Las Mañanitas: historia, significado y la letra explicada"
-description: "Serenata mexicana del amanecer para cumpleaños y santos: melodía impresa en 1904, estrofa del rey David en 1921. Historia, significado y las siete estrofas."
+title: Las Mañanitas: historia, significado y la letra explicada
+description: Serenata mexicana del amanecer para cumpleaños y santos: melodía impresa en 1904, estrofa del rey David en 1921. Historia, significado y las siete estrofas.
 lead: La serenata mexicana del amanecer para cumpleaños, santos y la Virgen de Guadalupe. Nadie sabe quién la hizo; su melodía ya estaba impresa en 1904. Cantamos dos estrofas de un cancionero de 1921, cada una con su estribillo.
 words: tradicional mexicana
 tune: tradicional mexicana
@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: las mañanitas historia | quién escribió las mañanitas | las mañanitas significado | las mañanitas del rey david | origen de las mañanitas | las mañanitas letra completa
-translatedFrom: 5cf5bad63c73
+translatedFrom: 11eb76b0e630
 ---
 
 Las Mañanitas, que muchos buscan por su primer verso, Estas son las mañanitas, o como Las mañanitas del rey David, es la canción que los mexicanos cantan al amanecer para despertar a alguien el día de su cumpleaños o de su santo [^toor1947][^manfred1932][^brenner1929]. También se le canta a la Virgen de Guadalupe en la Basílica de Guadalupe el 12 de diciembre, su día [^toor1947][^ewtn2022]. Nadie sabe quién la hizo. Su melodía y la estrofa de Amapolita las imprimió en 1904 Antonio García Cubas, al recordar una serenata al amanecer [^garciacubas1904]; la primera impresión que hemos encontrado de la estrofa del rey David es un cancionero de Los Ángeles de 1921 [^laud1921].

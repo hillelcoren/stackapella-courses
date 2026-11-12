@@ -1,6 +1,6 @@
 ---
-title: "Ki Lo Na'eh: historia, significado y la letra explicada"
-description: "Ki Lo Na'eh, el himno alfabético de alabanza del séder de Pésaj, ya en el libro de leyes de un erudito londinense en 1287, cantado aquí como solo y coro."
+title: Ki Lo Na'eh: historia, significado y la letra explicada
+description: Ki Lo Na'eh, el himno alfabético de alabanza del séder de Pésaj, ya en el libro de leyes de un erudito londinense en 1287, cantado aquí como solo y coro.
 lead: Ki Lo Na'eh, "Porque a Él le corresponde", es el himno alfabético del final del séder de Pésaj. Cada estrofa llama a Hashem poderoso, santo y fuerte, y Sus huestes responden: Tuyo, Hashem, es el reino.
 words: Hebreo tradicional, anónimo (en Inglaterra ya en 1287)
 tune: Tradicional; en la Union Haggadah (1908), marcada "Traditional" en 1923
@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: ki lo naeh letra | ki lo na eh transliteración | ki lo naeh pésaj | ki lo na eh traducción | ki lo naeh significado
-translatedFrom: 1fef1a1f356f
+translatedFrom: 788eb43cccb2
 ---
 
 Ki Lo Na'eh es un himno hebreo que se canta en el séder de Pésaj, el oficio en casa y la cena festiva de las primeras noches de la fiesta.[^je][^ej] Llega cerca del final, cuando ya ha terminado la parte formal de la Hagadá, entre las canciones que cierran la noche, y se canta sobre todo en hogares asquenazíes.[^ej][^sefaria][^bogomilsky] Sus estrofas recorren el alfabeto hebreo. Cada una llama a Hashem poderoso, elegido, santo o fuerte en Su reinado, y luego nombra a un grupo de Sus servidores que responden: Tuyo, y Tuyo, Hashem, es el reino.[^ej][^sefaria] La mesa lo lleva cantando más de siete siglos. Un erudito de Londres lo copió en su libro de ley judía en 1287, y la Hagadá del movimiento reformista aún lo imprimía con música en 1908 y 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]

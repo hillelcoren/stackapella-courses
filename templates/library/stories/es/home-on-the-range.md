@@ -1,5 +1,5 @@
 ---
-title: "Home on the Range: historia, significado y la letra explicada"
+title: Home on the Range: historia, significado y la letra explicada
 description: Brewster Higley la escribió como My Western Home en el condado de Smith, Kansas, hacia 1873; una demanda de 1934 llevó hasta él. Historia y todas sus estrofas.
 lead: Nació como poema de un colono de Kansas a principios de los años 1870. La versión de un vaquero, impresa por Lomax en 1910, la popularizó, y una demanda de 1934 mandó a un abogado al oeste a rastrearla.
 words: Brewster Higley (1823 a 1911), como My Western Home, hacia 1873
@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: home on the range significado | home on the range historia | quién escribió home on the range | home on the range letra en español | home on the range canción de kansas
-translatedFrom: fb9b91c59cf0
+translatedFrom: 6cbe02a88f7c
 ---
 
 Home on the Range, que también se canta como "Oh, Give Me a Home Where the Buffalo Roam", es la canción estadounidense de las grandes llanuras abiertas y la canción oficial del estado de Kansas [^kansapedia][^kpr][^mechem]. Su letra nació como My Western Home, un poema de Brewster Higley, un médico que en 1871 se había instalado como colono en una parcela del condado de Smith, en Kansas; la melodía se atribuye a su vecino Daniel E. Kelley [^mechem][^kansapedia][^kpr]. Los vaqueros la llevaron por las rutas del ganado, y John Lomax la imprimió como A Home on the Range en 1910, sin nombre de autor [^lomax1910][^mechem]. Veinticuatro años después, una pareja de Arizona demandó por medio millón de dólares, alegando que la canción era suya. La búsqueda que siguió llevó hasta el poema de Higley [^mechem][^kansapedia][^cooper].

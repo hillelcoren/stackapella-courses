@@ -1,5 +1,5 @@
 ---
-title: "Adon Olam: history, meaning and the words explained"
+title: Adon Olam: history, meaning and the words explained
 description: Adon Olam opens the daily morning prayers and closes the Sabbath morning service in many synagogues. Our old tune is in Eliezer Gerovitsch's print of 1897.
 lead: Adon Olam, "Lord of the world", is a medieval Hebrew hymn that many congregations sing to close the Sabbath morning service. We sing an old tune from a four-part setting in Eliezer Gerovitsch's collection, in an edition of 1897.
 words: Medieval Hebrew hymn, traditionally credited to Solomon ibn Gabirol (11th century)

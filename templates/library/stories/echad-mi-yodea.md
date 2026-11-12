@@ -1,6 +1,6 @@
 ---
-title: "Echad Mi Yodea: history, meaning and the words explained"
-description: "Echad Mi Yodea, the seder's Hebrew counting song from one, Hashem, to thirteen attributes; its earliest known printing is the Prague Haggadah of 1590."
+title: Echad Mi Yodea: history, meaning and the words explained
+description: Echad Mi Yodea, the seder's Hebrew counting song from one, Hashem, to thirteen attributes; its earliest known printing is the Prague Haggadah of 1590.
 lead: Echad Mi Yodea, "Who knows one?", is the counting song near the end of the Ashkenazi Passover seder. Thirteen riddles, each answered from Jewish life, from one, Hashem, to the thirteen attributes.
 words: Traditional Hebrew, anonymous (earliest known printing 1590)
 tune: Traditional; printed without a composer in the Union Haggadah (1908)

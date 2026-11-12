@@ -1,6 +1,6 @@
 ---
-title: "I Am Fill'd with Heavenly Treasures: historia, significado y la letra explicada"
-description: "Canción de don shaker copiada en 1847 por Mary Hazzard; según su nota, la cantó el espíritu Jack a través de Abraham Perkins el 30 de agosto."
+title: I Am Fill'd with Heavenly Treasures: historia, significado y la letra explicada
+description: Canción de don shaker copiada en 1847 por Mary Hazzard; según su nota, la cantó el espíritu Jack a través de Abraham Perkins el 30 de agosto.
 lead: I Am Fill'd with Heavenly Treasures es una canción de don shaker, de alegría, con un verso de letra y cuatro "praise"; cada línea termina en un pasaje sin letra. Se anotó el 30 de agosto de 1847.
 words: Canción de don shaker, atribuida en la página al espíritu "Jack" a través de Abraham Perkins (1847)
 tune: Canción de don shaker, atribuida en la página al espíritu "Jack" a través de Abraham Perkins (1847)
@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: i am filled with heavenly treasures | heavenly treasures canción shaker | qué son las canciones shaker | canciones de don shakers | haceos tesoros en el cielo significado
-translatedFrom: 091bbd7fcb15
+translatedFrom: abfc7536f6ee
 ---
 
 I Am Fill'd with Heavenly Treasures, que también se escribe I Am Filled with Heavenly Treasures, es una breve canción shaker de alegría. Tiene un solo verso de letra, escrito dos veces, y luego "Praise, praise, praise, praise" (alabanza), y cada línea termina en un pasaje de notas sin letra [^hazzard]. Mary Hazzard la copió en su cancionero manuscrito con la nota de que fue "Sung by Jack thro Abram P. on the holy Mount" (cantada por Jack a través de Abram P. en el monte santo) el 30 de agosto; la canción que tiene encima en la página da el año, 1847 [^hazzard]. Para los shakers, eso significaba que un espíritu llamado Jack la había cantado a través de un médium, Abraham Perkins, de Enfield, Nuevo Hampshire [^andrews][^enfield]. Sus "heavenly treasures", tesoros celestiales, recuerdan las palabras de Jesús sobre hacerse "treasures in heaven", tesoros en el cielo [^kjv-bg][^kjv-pg].

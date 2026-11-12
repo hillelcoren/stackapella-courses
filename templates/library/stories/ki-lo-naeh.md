@@ -1,6 +1,6 @@
 ---
-title: "Ki Lo Na'eh: history, meaning and the words explained"
-description: "Ki Lo Na'eh, the Passover seder's alphabet hymn of praise, already in a London scholar's law book by 1287, sung here as a solo verse and a chorus."
+title: Ki Lo Na'eh: history, meaning and the words explained
+description: Ki Lo Na'eh, the Passover seder's alphabet hymn of praise, already in a London scholar's law book by 1287, sung here as a solo verse and a chorus.
 lead: Ki Lo Na'eh, "For to Him it is fitting", is the alphabet hymn sung near the end of the Passover seder. Each verse names Hashem mighty, holy and strong, and His hosts answer: Yours, Hashem, is the kingdom.
 words: Traditional Hebrew, anonymous (in England by 1287)
 tune: Traditional; in the Union Haggadah (1908), marked "Traditional" in 1923

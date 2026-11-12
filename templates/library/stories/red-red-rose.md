@@ -1,5 +1,5 @@
 ---
-title: "A Red, Red Rose: history, meaning and the words explained"
+title: A Red, Red Rose: history, meaning and the words explained
 description: Robert Burns's love song, earliest known in print in 1794 with Urbani's music; printed to Low down in the Broom in the 1820s. Its sources and full words.
 lead: Robert Burns's love song of a rose, a tune and a promise to come back, built partly from older farewell songs. We sing it to Low down in the Broom, as R. A. Smith printed it in the 1820s.
 words: Robert Burns (1759 to 1796), reshaping lines from older popular songs

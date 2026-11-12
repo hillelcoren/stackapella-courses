@@ -1,5 +1,5 @@
 ---
-title: "Riu, Riu, Chiu: historia, significado y la letra explicada"
+title: Riu, Riu, Chiu: historia, significado y la letra explicada
 description: Villancico anónimo impreso en Venecia en 1556 en un cancionero cuyo único ejemplar conocido está en Upsala. Historia, el lobo, la cordera y todas sus estrofas.
 lead: Un villancico español de Navidad, anónimo, impreso en Venecia en 1556 en un cancionero del que se conserva un solo ejemplar conocido, en Upsala. Cantamos las cuatro voces del libro, con dos de sus siete estrofas.
 words: anónimo (impreso en 1556)
@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: riu riu chiu significado | qué significa riu riu chiu | quién escribió riu riu chiu | riu riu chiu historia | riu riu chiu letra | cancionero de upsala
-translatedFrom: d39cfe962123
+translatedFrom: 0cae0d64e3e3
 ---
 
 Riu, riu, chiu, que también se escribe Ríu, ríu, chíu o Riu chiu, es un villancico español de Navidad impreso en Venecia en 1556 en *Villancicos de diversos autores* [^uppsala-title][^uppsala-riu]. El único ejemplar conocido de ese libro está en la Biblioteca de la Universidad de Upsala, en Suecia, y de ahí su nombre, Cancionero de Upsala; también se le llama Cancionero del Duque de Calabria [^mitjana1909][^enccat-canconer]. El estribillo empieza con una llamada de puro sonido y luego canta que Dios apartó al lobo de "nuestra cordera", y la primera estrofa hace de la cordera a la Virgen María, guardada de todo pecado [^uppsala-riu][^lopez2026]. No se nombra poeta ni compositor [^uppsala-riu][^mitjana1909]. Un diplomático español, Rafael Mitjana, imprimió su letra en 1909, y la música se publicó en notación moderna en 1944 [^mitjana1909][^residencia][^griffiths].

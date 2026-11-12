@@ -1,6 +1,6 @@
 ---
-title: "Adir Hu: history, meaning and the words explained"
-description: "Adir Hu, the Passover seder's alphabet hymn asking Hashem to rebuild the Temple soon, sung to a tune whose earliest known printing is Königsberg, 1644."
+title: Adir Hu: history, meaning and the words explained
+description: Adir Hu, the Passover seder's alphabet hymn asking Hashem to rebuild the Temple soon, sung to a tune whose earliest known printing is Königsberg, 1644.
 lead: Adir Hu, "Mighty is He", is the alphabet hymn Ashkenazi families sing near the end of the Passover seder. Every verse asks Hashem to build His house, the Temple, soon, in our days.
 words: Traditional Hebrew, anonymous (in the Haggadah by the late 15th century)
 tune: Traditional Ashkenazi; the earliest known printing is 1644

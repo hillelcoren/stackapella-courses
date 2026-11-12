@@ -1,5 +1,5 @@
 ---
-title: "Noche de paz: history, meaning and the Spanish words explained"
+title: Noche de paz: history, meaning and the Spanish words explained
 description: Silent Night in Spanish. Its words appear unsigned in a New York hymnal of 1893. Who may have written them, the 1915 change, and all three verses.
 lead: Noche de paz sets Spanish words to Gruber's Silent Night tune. Their earliest known printing is a New York hymnal of 1893, where no one signs them. We sing all three of its verses.
 words: Spanish, unsigned (earliest known printing 1893), often credited to Federico Fliedner (1845 to 1901); German, Joseph Mohr (1816)

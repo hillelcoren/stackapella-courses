@@ -1,5 +1,5 @@
 ---
-title: "Ye Banks and Braes o' Bonnie Doon: history, meaning and the words explained"
+title: Ye Banks and Braes o' Bonnie Doon: history, meaning and the words explained
 description: Robert Burns's song of the river Doon, printed in Edinburgh in 1792, set to a tune Burns said an amateur picked out on a harpsichord's black keys.
 lead: A Scots song by Robert Burns, printed in 1792, in which a young woman walks by the river Doon and finds its flowers and birds hard to bear. Its tune, Burns said, began with an amateur at a harpsichord.
 words: Robert Burns (1759 to 1796)

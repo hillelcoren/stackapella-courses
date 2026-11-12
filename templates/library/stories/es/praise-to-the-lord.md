@@ -1,6 +1,6 @@
 ---
-title: "Praise to the Lord, the Almighty: historia, significado y la letra explicada"
-description: "El himno alemán de Joachim Neander, impreso en Bremen en 1680, el año de su muerte: la historia de Praise to the Lord, the Almighty, sus salmos y su letra."
+title: Praise to the Lord, the Almighty: historia, significado y la letra explicada
+description: El himno alemán de Joachim Neander, impreso en Bremen en 1680, el año de su muerte: la historia de Praise to the Lord, the Almighty, sus salmos y su letra.
 lead: El himno de gratitud de Joachim Neander se imprimió en Bremen en 1680, el año de su muerte, con una melodía cuya primera impresión conocida es de 1665. Cantamos el inglés de Catherine Winkworth, de 1863.
 words: Joachim Neander (1680); en inglés, Catherine Winkworth (1863)
 tune: Tradicional; primera impresión conocida en Stralsund, 1665, adaptada por Neander (1680)

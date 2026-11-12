@@ -1,5 +1,5 @@
 ---
-title: "Deep River: historia, significado y la letra explicada"
+title: Deep River: historia, significado y la letra explicada
 description: Un espiritual impreso ya en 1875 en el libro de los Fisk Jubilee Singers, que Harry T. Burleigh hizo canción lenta de concierto. Historia, significado y letra.
 lead: Un espiritual creado por afroamericanos esclavizados, impreso ya en 1875 en el libro de los Fisk Jubilee Singers. Cantamos las cuatro voces del propio Harry T. Burleigh, de 1914, lentas y fluidas, con la melodía en la contralto.
 words: Espiritual afroamericano tradicional
@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: deep river significado | deep river espiritual historia | quién escribió deep river | deep river letra en español | qué significa camp ground en deep river | deep river río jordán significado
-translatedFrom: dca3be40f5e2
+translatedFrom: d47b7861322a
 listen: Internet Archive, grabación de 1923 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-68748-deep-river
 original: The Story of the Jubilee Singers, segunda edición (1875), Universitätsbibliothek Gießen | https://digisam.ub.uni-giessen.de/ubg-ihd-gb/content/pageview/5174010
 ---

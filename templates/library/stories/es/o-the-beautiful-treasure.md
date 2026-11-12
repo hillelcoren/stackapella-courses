@@ -1,6 +1,6 @@
 ---
-title: "O the Beautiful Treasure: historia, significado y la letra explicada"
-description: "Canción shaker copiada hacia 1849 en el cancionero de Mary Hazzard como \"Valuable Riches\" y firmada \"Holy Ground\", que Andrews leyó como Canterbury."
+title: O the Beautiful Treasure: historia, significado y la letra explicada
+description: Canción shaker copiada hacia 1849 en el cancionero de Mary Hazzard como \"Valuable Riches\" y firmada \"Holy Ground\", que Andrews leyó como Canterbury.
 lead: O the Beautiful Treasure es una breve canción shaker en tonalidad menor sobre un tesoro guardado para los sabios, más brillante que los diamantes de una corona. La cantamos del cancionero manuscrito de Mary Hazzard, de hacia 1849.
 words: Canción shaker, sin autor nombrado (copiada hacia 1849)
 tune: Canción shaker, sin autor nombrado (copiada hacia 1849)
@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: o the beautiful treasures | o the beautiful treasure canción shaker | qué son las canciones shaker | canciones shaker significado | haceos tesoros en el cielo significado | haceos tesoros en el cielo versículo
-translatedFrom: 2e2d2b8bb41b
+translatedFrom: 77204aba30b5
 ---
 
 O the Beautiful Treasure, titulada "Valuable Riches" (riquezas valiosas) en su manuscrito, es una breve canción shaker en tonalidad menor. Sus dos breves secciones alaban un tesoro guardado para los sabios, más brillante que los diamantes en la frente de un príncipe. Mary Hazzard, una hermana shaker de New Lebanon, Nueva York, la copió en su cancionero manuscrito hacia 1849 y la firmó "Holy Ground", que el historiador Edward Deming Andrews da como el nombre que los shakers daban a Canterbury, Nuevo Hampshire [^hazzard][^andrews]. No se nombra a ningún autor [^hazzard]. Su imagen del tesoro guardado recuerda las palabras de Jesús sobre hacerse tesoros en el cielo, una imagen que los shakers cantaron una y otra vez [^kjv-bg][^kjv-pg][^hazzardbook][^andrews]. En 1940, Andrews la imprimió en su libro de canciones shakers, en el índice como "Oh the beautiful treasures" [^andrews].

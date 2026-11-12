@@ -1,5 +1,5 @@
 ---
-title: "Auld Lang Syne: historia, significado y la letra explicada"
+title: Auld Lang Syne: historia, significado y la letra explicada
 description: Burns envió Auld Lang Syne a una amiga en 1788 como canción antigua. Impresa en 1796 con una melodía lenta, halló la de hoy en 1799. Fuentes y letra completa.
 lead: La canción en escocés de Robert Burns sobre viejos amigos y una copa de afecto, que envió a una amiga en 1788 como canción antigua. Cantamos su primera estrofa con la melodía que le dio George Thomson en 1799.
 words: Robert Burns (1759 a 1796), sobre canciones más antiguas que empiezan con el mismo verso
@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: auld lang syne significado | auld lang syne traducción | quién escribió auld lang syne | auld lang syne historia | por qué se canta auld lang syne en año nuevo
-translatedFrom: 4d489e3aeb59
+translatedFrom: ec3456c7cc61
 ---
 
 Auld Lang Syne, impresa también como Auld Langsyne y conocida por su primer verso, Should Auld Acquaintance Be Forgot, es una canción en escocés de Robert Burns. Su título equivale al inglés "old long since": los días de hace mucho tiempo [^hh4][^dick]. Su pregunta es si hay que olvidar a los viejos amigos, y su respuesta es beber juntos "a cup o' kindness", una copa de afecto, por aquellos días [^smm5]. Burns la envió a una amiga en 1788 como una canción antigua que admiraba, y su primera impresión conocida llegó en Edimburgo en 1796, pocos meses después de su muerte, con una melodía antigua y lenta [^gebbie3][^dick][^smm5]. La melodía que se canta en Año Nuevo en todo el mundo se unió a la letra en 1799, en la colección de aires escoceses de George Thomson [^thomson][^dick][^mccue].

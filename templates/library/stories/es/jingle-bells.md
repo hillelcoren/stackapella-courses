@@ -1,5 +1,5 @@
 ---
-title: "Jingle Bells: historia, significado y la letra explicada"
+title: Jingle Bells: historia, significado y la letra explicada
 description: Publicada en Boston en 1857 como The One Horse Open Sleigh y conocida primero en un minstrel show, no nombra la Navidad. Su historia y su letra, explicadas.
 lead: La canción de trineo de James Lord Pierpont, publicada en Boston en 1857 como "The One Horse Open Sleigh" y cantada primero, que se sepa, en un minstrel show. Cantamos la estrofa 1 y el estribillo impresos en 1909.
 words: James Lord Pierpont (1857)
@@ -11,13 +11,13 @@ origin: Boston, Massachusetts
 occasion: Invierno; hoy, la temporada de Navidad
 alsoKnownAs: The One Horse Open Sleigh
 wikidata: Q406845
-quote: "Oh! what joy it is to ride / In a one horse open sleigh."
+quote: Oh! what joy it is to ride / In a one horse open sleigh.
 quoteSource: ditson1857
 updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: jingle bells historia | quién escribió jingle bells | jingle bells significado | jingle bells es una canción de navidad | jingle bells origen minstrel | jingle bells dominio público
-translatedFrom: db8492804cd2
+translatedFrom: daf687edd298
 original: The One Horse Open Sleigh (1857), Library of Congress | https://www.loc.gov/item/2023812429/
 ---
 

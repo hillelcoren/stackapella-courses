@@ -1,5 +1,5 @@
 ---
-title: "Now Thank We All Our God: historia, significado y la letra explicada"
+title: Now Thank We All Our God: historia, significado y la letra explicada
 description: Martin Rinkart lo escribió hacia 1630 como bendición de la mesa, en una ciudad sajona que enterraría a 8000 personas en la peste de 1637.
 lead: Now Thank We All Our God es "Nun danket alle Gott", la bendición de la mesa de Martin Rinkart en la guerra de los Treinta Años, cantada en el inglés de Catherine Winkworth (1858) con NUN DANKET, de Crüger.
 words: Martin Rinkart (1586 a 1649), hacia 1630; en inglés, Catherine Winkworth (1827 a 1878), 1858
@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: quién escribió now thank we all our god | now thank we all our god historia | now thank we all our god significado | nun danket alle gott traducción | nun danket alle gott bach | es now thank we all our god un himno fúnebre
-translatedFrom: 1f7dd8432479
+translatedFrom: a717c48013c6
 ---
 
 Now Thank We All Our God es un himno alemán de acción de gracias, "Nun danket alle Gott", escrito hacia 1630 por Martin Rinkart, pastor luterano de la ciudad sajona de Eilenburg [^adb-rinckart][^ndb-rinckart]. Él lo llamó una pequeña oración de mesa, una bendición para antes de comer [^julian1907][^adb-rinckart]. Vivió la guerra de los Treinta Años, y en la peste de 1637 enterró a miles de sus vecinos; su propia esposa murió en ella [^julian1907][^ndb-rinckart]. Johann Crüger, músico de iglesia de Berlín, le dio su melodía [^ndb-cruger][^adb-cruger]. El inglés de Catherine Winkworth llegó en 1858 [^lg1858][^hymnarchive-nun]. El Dictionary of Hymnology de Julian lo llamó "el Te Deum alemán" y lo encontró en todos los himnarios alemanes [^julian1907]. Bach construyó una cantata entera sobre sus tres estrofas [^bachipedia][^imslp192].

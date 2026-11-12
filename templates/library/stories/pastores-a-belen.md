@@ -1,5 +1,5 @@
 ---
-title: "Pastores a Belén: history, meaning and the words explained"
+title: Pastores a Belén: history, meaning and the words explained
 description: A Christmas Eve villancico printed unsigned in a New Mexico Catholic songbook in 1916: its shepherds, their nougat and honey, and all its printed words.
 lead: A Spanish Christmas villancico calling the shepherds to Bethlehem, printed unsigned in a Catholic songbook from Las Vegas, New Mexico, in 1916. We sing its one printed verse and refrain in our own four parts.
 words: unsigned (printed 1916)

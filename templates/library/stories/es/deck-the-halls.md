@@ -1,7 +1,7 @@
 ---
-title: "Deck the Halls: historia, significado y la letra explicada"
-description: "Melodía galesa de arpa de la víspera de Año Nuevo, impresa ya en 1781, con letra inglesa de Thomas Oliphant (1862) cuyo hidromiel ya era gay apparel en 1877."
-lead: "Una melodía galesa de arpa para la víspera de Año Nuevo, impresa ya en 1781, con letra inglesa de Thomas Oliphant, impresa en 1862. Los cancioneros escolares estadounidenses le dieron la letra que casi todos cantan hoy."
+title: Deck the Halls: historia, significado y la letra explicada
+description: Melodía galesa de arpa de la víspera de Año Nuevo, impresa ya en 1781, con letra inglesa de Thomas Oliphant (1862) cuyo hidromiel ya era gay apparel en 1877.
+lead: Una melodía galesa de arpa para la víspera de Año Nuevo, impresa ya en 1781, con letra inglesa de Thomas Oliphant, impresa en 1862. Los cancioneros escolares estadounidenses le dieron la letra que casi todos cantan hoy.
 words: Thomas Oliphant (1862), revisada en ediciones estadounidenses ya en 1877
 tune: tradicional galesa, "Nos Galan"
 earliestPrinting: John Parry, British Harmony, Ruabon y Londres, 1781, como "Nôs Calan"
@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: deck the halls historia | deck the halls significado | quién escribió deck the halls | deck the halls letra en español | deck the halls origen | deck the halls gay apparel significado
-translatedFrom: f50f01dc327a
+translatedFrom: ee89f1f3c930
 original: British Harmony de John Parry (1781), National Library of Wales | https://viewer.library.wales/4675640
 ---
 

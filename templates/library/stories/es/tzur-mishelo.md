@@ -1,6 +1,6 @@
 ---
-title: "Tzur Mishelo: historia, significado y la letra explicada"
-description: "Tzur Mishelo, la canción de mesa del sabbat que lleva a la bendición después de comer, con la melodía alemana que la Jewish Encyclopedia imprimió en 1906."
+title: Tzur Mishelo: historia, significado y la letra explicada
+description: Tzur Mishelo, la canción de mesa del sabbat que lleva a la bendición después de comer, con la melodía alemana que la Jewish Encyclopedia imprimió en 1906.
 lead: Tzur Mishelo es una canción hebrea para la mesa del sabbat. Su estribillo invita a todos a bendecir a Hashem por la comida, y sus estrofas recorren la bendición después de las comidas, una bendición tras otra.
 words: Canción de mesa hebrea anónima
 tune: Tradicional; Francis L. Cohen la imprimió en la Jewish Encyclopedia (1906) como melodía alemana
@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: tzur mishelo significado | tzur mishelo traducción | tzur mishelo letra | tzur mishelo origen | tzur mishelo achalnu | tzur mishelo canción
-translatedFrom: e9afa7dbedf9
+translatedFrom: f76e75b5eb11
 ---
 
 Tzur Mishelo es uno de los zemirot, los cantos hebreos que los judíos cantan en casa alrededor de la mesa del sabbat, sobre todo antes o después de la bendición que sigue a las comidas principales.[^je][^ej] Su estribillo toma la antigua invitación a bendecir juntos después de comer, "A bendecir a Aquel de cuya comida hemos comido", y la convierte en un coro para toda la mesa.[^mishnah][^abrahams][^loewe] Sus estrofas siguen después la bendición en orden: gracias por la comida, gracias por la tierra y una súplica de misericordia para Sion, que termina con el Templo reconstruido y una copa llena de vino.[^ej][^loewe][^metsudah] Nadie sabe quién la escribió. Nuestra melodía es la melodía alemana que la Jewish Encyclopedia de 1906 señalaba como la que más se usaba para ella.[^je]

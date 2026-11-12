@@ -1,5 +1,5 @@
 ---
-title: "Greensleeves: historia, significado y la letra explicada"
+title: Greensleeves: historia, significado y la letra explicada
 description: Canción de amor isabelina, registrada en Londres en 1580 e impresa en 1584; su melodía, en laúd hacia 1590. No es de Enrique VIII. Historia y letra completa.
 lead: Canción de amor isabelina: un hombre pregunta por qué la dama Greensleeves lo ha rechazado tras todo lo que le dio. Autor desconocido; la cantamos con la armonía de G. A. Macfarren, de los años 1850.
 words: anónima, registrada en Stationers' Hall, Londres, en 1580
@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: greensleeves historia | greensleeves significado | quién escribió greensleeves | greensleeves enrique viii ana bolena | greensleeves letra traducción | greensleeves y what child is this
-translatedFrom: 65426580ac33
+translatedFrom: 34a602ceeb8f
 ---
 
 Greensleeves, escrita también Green Sleeves y conocida por su primer verso, "Alas, my love, you do me wrong" (ay, amor mío, me tratas injustamente), es una canción de amor inglesa del reinado de Isabel I [^chappell][^handful]. Un hombre pregunta por qué la dama Greensleeves lo ha rechazado después de haberla vestido de seda y oro [^handful][^chappell]. Nadie sabe quién escribió la letra ni la melodía [^balladindex][^pittaway1]. Su documento más antiguo es una balada registrada en Stationers' Hall, en Londres, en septiembre de 1580, y su primera impresión conocida es un cancionero de 1584 [^chappell][^pittaway2][^balladindex]. Su melodía está en libros de laúd copiados hacia 1590, y esa misma melodía llevó más tarde el villancico What Child Is This? [^hymnarchive][^tcd][^bramley]

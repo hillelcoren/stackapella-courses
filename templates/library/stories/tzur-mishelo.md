@@ -1,6 +1,6 @@
 ---
-title: "Tzur Mishelo: history, meaning and the words explained"
-description: "Tzur Mishelo, the Sabbath table song that leads into the grace after meals, sung to the German melody the Jewish Encyclopedia printed in 1906."
+title: Tzur Mishelo: history, meaning and the words explained
+description: Tzur Mishelo, the Sabbath table song that leads into the grace after meals, sung to the German melody the Jewish Encyclopedia printed in 1906.
 lead: Tzur Mishelo is a Hebrew song for the Sabbath table. Its refrain invites everyone to bless Hashem for the meal, and its verses walk through the grace after meals, one blessing at a time.
 words: Anonymous Hebrew table song
 tune: Traditional; printed by Francis L. Cohen in the Jewish Encyclopedia (1906) as a German melody

@@ -1,5 +1,5 @@
 ---
-title: "Jerusalem: history, meaning and the words explained"
+title: Jerusalem: history, meaning and the words explained
 description: Blake's "And did those feet" of about 1804, set by Hubert Parry on 10 March 1916 for a wartime meeting, then given to the campaign for women's votes.
 lead: William Blake's poem asks whether Jesus walked in England. It comes from the preface to his Milton; Hubert Parry set it in March 1916 for a wartime meeting in London. We sing the first verse in four parts.
 words: William Blake (1757 to 1827), about 1804

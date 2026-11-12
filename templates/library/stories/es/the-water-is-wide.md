@@ -1,5 +1,5 @@
 ---
-title: "The Water Is Wide: historia, significado y la letra explicada"
+title: The Water Is Wide: historia, significado y la letra explicada
 description: Cecil Sharp anotó The Water Is Wide de la señora Cox, de High Ham (Somerset), y la imprimió en 1906 como O Waly, Waly. Sus raíces escocesas y sus seis estrofas.
 lead: The Water Is Wide es una canción popular inglesa de un amor que se enfría. Cecil Sharp la imprimió en 1906 como O Waly, Waly; algunos versos están también en un lamento escocés impreso en la década de 1720.
 words: tradicional, tal como la cantaba la señora Cox, de High Ham (Somerset); recogida y editada por Cecil Sharp (1859 a 1924) y Charles Marson (fallecido en 1914)
@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: the water is wide significado | the water is wide historia | quién escribió the water is wide | the water is wide letra traducida | o waly waly significado | the water is wide letra en español
-translatedFrom: cc3386f9275b
+translatedFrom: 74d972cde56c
 ---
 
 The Water Is Wide, impresa también como O Waly, Waly, es una canción popular inglesa sobre un amor que se enfría. Quien canta no puede cruzar el agua, desea una barca que lleve a dos y termina sabiendo que el amor "fades away like morning dew" (se desvanece como el rocío de la mañana). No se conoce autor. Cecil Sharp la anotó en Somerset de boca de la señora Cox, de High Ham, y él y Charles Marson la imprimieron en 1906, en la tercera serie de Folk Songs from Somerset [^sharp1906][^sharp1907][^foxstrangways]. Varios de sus versos son más antiguos: están en Waly, Waly, un lamento escocés que ya estaba impreso en la década de 1720 [^child][^glen]. La melodía que imprimió Sharp es hoy también una melodía de himno, llamada O WALY WALY en los himnarios [^hymnary-tune][^balladindex].

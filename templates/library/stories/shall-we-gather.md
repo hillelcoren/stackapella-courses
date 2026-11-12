@@ -1,5 +1,5 @@
 ---
-title: "Shall We Gather at the River: history, meaning and the words explained"
+title: Shall We Gather at the River: history, meaning and the words explained
 description: Robert Lowry wrote words and tune in Brooklyn in July 1864; it was printed as Beautiful River in 1865. Its story, its river in Revelation, all six verses.
 lead: Robert Lowry's gospel hymn of 1864, words and tune both his, printed in 1865 as Beautiful River. We sing the first verse and the chorus in Lowry's own four parts of 1869.
 words: Robert Lowry (1826 to 1899)

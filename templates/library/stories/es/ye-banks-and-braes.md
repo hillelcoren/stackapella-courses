@@ -1,5 +1,5 @@
 ---
-title: "Ye Banks and Braes o' Bonnie Doon: historia, significado y la letra explicada"
+title: Ye Banks and Braes o' Bonnie Doon: historia, significado y la letra explicada
 description: Canción de Robert Burns sobre el río Doon, impresa en Edimburgo en 1792, con una melodía que, según Burns, un aficionado sacó de las teclas negras de un clave.
 lead: Canción en escocés de Robert Burns, impresa en 1792, en la que una joven junto al río Doon no soporta sus flores ni sus pájaros. Su melodía, contó Burns, nació de un aficionado ante un clave.
 words: Robert Burns (1759 a 1796)
@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: ye banks and braes significado | ye banks and braes letra traducida | quién escribió ye banks and braes | ye banks and braes historia | ye banks and braes letra en español
-translatedFrom: d6c4fe2cc7e4
+translatedFrom: 43134f751484
 ---
 
 Ye Banks and Braes o' Bonnie Doon, titulada The Banks o' Doon en la primera impresión conocida, es una canción en escocés de Robert Burns sobre una joven a la que su enamorado ha abandonado. Pasea junto al río Doon, en Ayrshire, cerca de donde nació Burns, y pregunta cómo pueden florecer sus orillas y cantar sus pájaros cuando ella está tan llena de penas [^smm1792][^rpo-flowery][^spl]. Esa impresión está en el cuarto volumen de The Scots Musical Museum, publicado en Edimburgo en 1792, con la indicación "Slow & tender" (lento y tierno) [^smm1792][^dick]. Era el tercer intento de Burns con la canción [^dick][^chambers-wallace]. Burns contó la curiosa historia de su melodía: un abogado de Edimburgo, al que le dijeron que se limitara a las teclas negras de un clave, dio con el comienzo de una "melodía escocesa" [^stenhouse][^glen][^graham].

@@ -1,6 +1,6 @@
 ---
-title: "Comin' Thro' the Rye: historia, significado y la letra explicada"
-description: "Comin' Thro' the Rye: la canción escocesa de Robert Burns, dos versiones en el Scots Musical Museum, vol. 5 (1796), con un strathspey afín a Auld Lang Syne."
+title: Comin' Thro' the Rye: historia, significado y la letra explicada
+description: Comin' Thro' the Rye: la canción escocesa de Robert Burns, dos versiones en el Scots Musical Museum, vol. 5 (1796), con un strathspey afín a Auld Lang Syne.
 lead: Una burlona canción escocesa sobre un encuentro y un beso al cruzar el centeno. Robert Burns la rehízo a partir de una canción más antigua y más picante, y The Scots Musical Museum la imprimió en Edimburgo en 1796.
 words: Robert Burns (1759 a 1796), que rehízo una canción más antigua; la segunda versión ("Ilka body has a body") no lleva firma
 tune: tradicional escocesa, del strathspey The Miller's Wedding (impreso en 1759)

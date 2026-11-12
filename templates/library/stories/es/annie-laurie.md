@@ -1,10 +1,10 @@
 ---
-title: "Annie Laurie: historia, significado y la letra explicada"
+title: Annie Laurie: historia, significado y la letra explicada
 description: Lady John Scott hizo Annie Laurie con una canción más antigua en 1834 o 1835; se imprimió en Edimburgo en 1838 sin su nombre. Su historia y sus tres estrofas.
 lead: Una canción de amor escocesa para la hija de un laird de Maxwelton. Su letra nació de dos estrofas antiguas impresas en 1823; Lady John Scott las rehízo con su propia melodía, impresa sin su nombre en 1838.
 words: según se dice, de un tal señor Douglas de Fingland (las estrofas antiguas, impresas en 1823), rehecha por Lady John Scott (1810 a 1900)
 tune: Lady John Scott (Alicia Ann Spottiswoode, 1810 a 1900)
-earliestPrinting: "octubre de 1838, The Vocal Melodies of Scotland, vol. 3, n.º 27, p. 89 (Edimburgo: Paterson & Roy), sin firma"
+earliestPrinting: octubre de 1838, The Vocal Melodies of Scotland, vol. 3, n.º 27, p. 89 (Edimburgo: Paterson & Roy), sin firma
 earliestPrintingSource: fuld
 language: inglés, con palabras en escocés
 origin: Escocia
@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: quién escribió annie laurie | quién era annie laurie | annie laurie significado | annie laurie historia | annie laurie letra traducción | maxwelton braes are bonnie significado
-translatedFrom: e6b0bacb363a
+translatedFrom: d55fe76b5121
 ---
 
 Annie Laurie, conocida también por su primer verso, Maxwelton Braes Are Bonnie, es una canción de amor escocesa. Su letra nació de dos estrofas antiguas que, según se dice, escribió un tal señor Douglas de Fingland, sobre Anne Laurie, hija del laird (un terrateniente escocés) de Maxwelton, en Dumfriesshire; su primera impresión conocida es de 1823 [^sharpe][^chambers1862][^fuld]. Alicia Spottiswoode, más tarde Lady John Scott, las rehízo, escribió una tercera estrofa y les puso una melodía propia en 1834 o 1835 [^warrender1911][^ross1910][^moffat]. Se imprimió en Edimburgo en 1838 sin su nombre [^ross1910][^fuld]. A principios de la década de 1850, los editores estadounidenses ya la vendían con el retrato o el nombre de Jenny Lind en la portada [^hall][^peters].

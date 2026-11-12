@@ -1,5 +1,5 @@
 ---
-title: "Ein Keloheinu: history, meaning and the words explained"
+title: Ein Keloheinu: history, meaning and the words explained
 description: Ein Keloheinu comes near the end of the Sabbath morning service. Its first verses hide the word Amen; its tune was printed in Braunschweig in 1843.
 lead: Ein Keloheinu, "There is none like Hashem", is a short Hebrew hymn from the end of the Sabbath and festival morning service. Its tune here was written for the synagogue of Braunschweig, Germany.
 words: Traditional Hebrew liturgy, from the time of the Geonim; known from Amram Gaon's prayer book (9th century)

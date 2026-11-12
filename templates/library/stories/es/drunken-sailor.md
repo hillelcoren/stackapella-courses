@@ -1,5 +1,5 @@
 ---
-title: "Drunken Sailor: historia, significado y la letra explicada"
+title: Drunken Sailor: historia, significado y la letra explicada
 description: Una shanty de "stamp and go". Su estribillo, "up she rises", se anotó en un ballenero de New London en 1840, y se cantaba a paso rápido por la cubierta.
 lead: Drunken Sailor es una canción marinera (shanty) para marchar tirando de un cabo. Su estribillo se cantó en un ballenero estadounidense en 1840, y viejos marineros recordaban a tripulaciones enteras cantándola a paso rápido por la cubierta.
 words: Canción marinera tradicional (el estribillo, impreso ya en 1841; la estrofa, ya en 1908)
@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: quién escribió drunken sailor | drunken sailor significado | drunken sailor canción significado | drunken sailor historia | drunken sailor hija del capitán significado | drunken sailor es irlandesa
-translatedFrom: e86c46aaa351
+translatedFrom: fd4b94f695a1
 ---
 
 Drunken Sailor, que también se canta como "What Shall We Do with the Drunken Sailor?" o "What Shall We Do with a Drunken Sailor?" (¿qué hacemos con el marinero borracho?), es una canción marinera (shanty): un canto de trabajo que los marineros cantaban para tirar a la vez de un cabo. El solista (el shantyman) pregunta qué hacer con el marinero borracho, y todos responden: "Hooray and up she rises, early in the morning" (¡hurra, y arriba se alza, de buena mañana!) [^terryscan][^bullen]. El capitán de la marina mercante W. B. Whall, que la imprimió como "Early in the Morning", recordaba a toda la tripulación cantándola a paso rápido de marcha mientras se alejaba tirando del cabo [^whall]. Su estribillo está en el diario de un ballenero de 1840, impreso en 1841 [^olmsted][^balladindex]. Richard Terry, que imprimió esta melodía en 1921, la llamó "siempre una gran favorita" [^terry].

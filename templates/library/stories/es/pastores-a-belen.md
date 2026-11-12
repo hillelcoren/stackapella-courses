@@ -1,6 +1,6 @@
 ---
-title: "Pastores a Belén: historia, significado y la letra explicada"
-description: "Villancico de Nochebuena impreso sin firma en un cancionero católico de Nuevo México en 1916: sus pastores, sus turrones y miel, y toda su letra impresa."
+title: Pastores a Belén: historia, significado y la letra explicada
+description: Villancico de Nochebuena impreso sin firma en un cancionero católico de Nuevo México en 1916: sus pastores, sus turrones y miel, y toda su letra impresa.
 lead: Un villancico español que llama a los pastores a Belén, impreso sin firma en 1916 en un cancionero católico de Las Vegas, Nuevo México. Cantamos su única estrofa impresa y el estribillo, a cuatro voces nuestras.
 words: sin firma (impresa en 1916)
 tune: sin firma (impresa en 1916)
@@ -15,7 +15,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: pastores a belén | pastores a belén letra | pastores a belén significado | pastores a belén autor | pastores a belén puerto rico | pastores a belén letra completa
-translatedFrom: 383504f1d281
+translatedFrom: 0ee68a5b65da
 ---
 
 Pastores a Belén, impreso en 1916 como Pastores á Belén y que muchos buscan como "Pastores a Belén, vamos con alegría", es un villancico español, una canción de Navidad con estrofa y estribillo [^rae1869][^rae1914]. Los pastores se llaman unos a otros para ir a Belén a ver al hijo de María, y quedan en llevarle turrones y miel [^canticos1916][^rae1914]. La impresión más antigua que hemos visto es el n.º 23 de *Cánticos espirituales con música*, un cancionero católico publicado en Las Vegas, Nuevo México, en 1916 por la Revista Católica, entre dieciséis cantos para la Nochebuena [^canticos1916][^canticos1916-index]. No nombra ni poeta ni compositor [^canticos1916][^canticos1916-index]. Sus editores escribieron que dejaron estos cantos tan intactos como pudieron, porque la gente de su región los conocía y los cantaba así [^canticos1916-note].

@@ -1,5 +1,5 @@
 ---
-title: "Be Thou My Vision: history, meaning and the words explained"
+title: Be Thou My Vision: history, meaning and the words explained
 description: An anonymous medieval Irish prayer, put into English by Mary Byrne in 1905 and into verse by Eleanor Hull in 1912, sung to SLANE, an Irish folk tune.
 lead: Be Thou My Vision is an anonymous medieval Irish prayer, turned into English prose by Mary Byrne in 1905 and into rhyme by Eleanor Hull in 1912, and sung to SLANE, an Irish folk tune. We sing Hull's first verse.
 words: Irish, anonymous, about 900 to 1100; translated by Mary Byrne (1880 to 1931), 1905; versified by Eleanor Hull (1860 to 1935), 1912

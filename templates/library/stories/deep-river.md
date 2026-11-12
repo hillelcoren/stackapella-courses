@@ -1,5 +1,5 @@
 ---
-title: "Deep River: history, meaning and the words explained"
+title: Deep River: history, meaning and the words explained
 description: A spiritual in print by 1875 in the Fisk Jubilee Singers' book, made a slow concert song by Harry T. Burleigh. Its history, meaning and words.
 lead: A spiritual made by enslaved African Americans, in print by 1875 in the Fisk Jubilee Singers' book. We sing Harry T. Burleigh's own four parts of 1914, slow and smooth, with the tune in the alto.
 words: Traditional African American spiritual

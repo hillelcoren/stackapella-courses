@@ -1,5 +1,5 @@
 ---
-title: "Annie Laurie: history, meaning and the words explained"
+title: Annie Laurie: history, meaning and the words explained
 description: Lady John Scott made Annie Laurie from an older song in 1834 or 1835; it was printed in Edinburgh in 1838 without her name. Its story and all three verses.
 lead: Annie Laurie is a Scottish love song for a laird's daughter of Maxwelton. Its words grew from two older verses printed in 1823; Lady John Scott reworked them to her own tune, printed without her name in 1838.
 words: said to be by Mr Douglas of Fingland (the older verses, printed 1823), reworked by Lady John Scott (1810 to 1900)

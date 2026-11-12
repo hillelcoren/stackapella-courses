@@ -1,10 +1,10 @@
 ---
-title: "Loch Lomond: historia, significado y la letra explicada"
+title: Loch Lomond: historia, significado y la letra explicada
 description: Nadie sabe quién escribió Loch Lomond. Su primera impresión conocida, una hoja de Edimburgo de hacia 1840, ya llora Culloden; lo del cadalso llegó después.
 lead: Una canción escocesa de dos enamorados separados, con el estribillo que todos conocen, "Ye'll tak' the high road". Nadie sabe quién la escribió, y su primera impresión conocida es una hoja de Edimburgo de hacia 1840.
 words: tradicional escocesa, anónima (primera impresión conocida hacia 1840)
 tune: tradicional escocesa
-earliestPrinting: "hacia 1840, Bonnie Loch Loman, hoja suelta (Edimburgo: Paterson & Roy)"
+earliestPrinting: hacia 1840, Bonnie Loch Loman, hoja suelta (Edimburgo: Paterson & Roy)
 earliestPrintingSource: browns
 language: inglés, con palabras en escocés
 origin: Escocia
@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: loch lomond significado | loch lomond historia | quién escribió loch lomond | loch lomond letra traducción | high road low road significado | cómo se pronuncia loch lomond
-translatedFrom: 9110e2961ba7
+translatedFrom: a55f8dbc4a8b
 ---
 
 Loch Lomond, llamada también The Bonnie Banks o' Loch Lomond, o conocida por su estribillo, "Ye'll tak' the high road", es una canción escocesa de dos enamorados separados. Quien la canta recuerda sus paseos con su amor por las orillas del Loch Lomond, la mayor extensión de agua dulce de Gran Bretaña, y su estribillo termina "me and my true love will never meet again" (mi amor y yo no volveremos a vernos nunca) [^sotn][^ecn][^visitscot]. Nadie sabe quién la escribió. Su primera impresión conocida es una hoja de Edimburgo de hacia 1840, titulada Bonnie Loch Loman [^browns][^tbi]. En la década de 1890, tras años medio olvidada, volvía a ser popular, y en 1904 ya estaba impresa la historia de que su estribillo era la despedida de un soldado jacobita antes de su ejecución en Carlisle [^greig][^ford].

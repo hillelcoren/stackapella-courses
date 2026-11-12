@@ -1,5 +1,5 @@
 ---
-title: "Amazing Grace: historia, significado y la letra explicada"
+title: Amazing Grace: historia, significado y la letra explicada
 description: John Newton, antiguo capitán de barcos negreros, lo escribió en Olney para el Año Nuevo de 1773. Su melodía estadounidense, NEW BRITAIN, se le unió en 1835.
 lead: El himno de John Newton para su parroquia de Olney, del Año Nuevo de 1773, impreso en Olney Hymns en 1779, con NEW BRITAIN, melodía estadounidense impresa en 1829. Cantamos la estrofa 1.
 words: John Newton (1725 a 1807)
@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: sublime gracia historia | amazing grace historia | amazing grace significado | quién escribió amazing grace | amazing grace capitán de barco negrero | amazing grace todas las estrofas
-translatedFrom: a74d0dc921c1
+translatedFrom: 3b41d6ffd3eb
 listen: Library of Congress, grabación de 1922 | https://www.loc.gov/item/ihas.200049050/
 original: Olney Hymns (1779), Internet Archive | https://archive.org/details/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1779/page/n78
 ---

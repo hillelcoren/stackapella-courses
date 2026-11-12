@@ -1,6 +1,6 @@
 ---
-title: "O the Beautiful Treasure: history, meaning and the words explained"
-description: "A Shaker song copied about 1849 into Mary Hazzard's songbook as \"Valuable Riches\" and signed \"Holy Ground\", which Andrews read as Canterbury, N.H."
+title: O the Beautiful Treasure: history, meaning and the words explained
+description: A Shaker song copied about 1849 into Mary Hazzard's songbook as \"Valuable Riches\" and signed \"Holy Ground\", which Andrews read as Canterbury, N.H.
 lead: O the Beautiful Treasure is a short Shaker song in a minor key about a treasure stored up for the wise, brighter than the diamonds in a crown. We sing it from Mary Hazzard's handwritten songbook of about 1849.
 words: Shaker song, no maker named (copied about 1849)
 tune: Shaker song, no maker named (copied about 1849)

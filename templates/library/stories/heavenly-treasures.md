@@ -1,6 +1,6 @@
 ---
-title: "I Am Fill'd with Heavenly Treasures: history, meaning and the words"
-description: "A Shaker gift song copied in 1847 into Mary Hazzard's songbook, noted as sung by the spirit Jack through Abraham Perkins on the holy Mount on Aug 30."
+title: I Am Fill'd with Heavenly Treasures: history, meaning and the words
+description: A Shaker gift song copied in 1847 into Mary Hazzard's songbook, noted as sung by the spirit Jack through Abraham Perkins on the holy Mount on Aug 30.
 lead: I Am Fill'd with Heavenly Treasures is a Shaker gift song of joy, one line of words and four "praise"s, each ending in a run of notes without words. It was noted down on 30 August 1847.
 words: Shaker gift song, credited on the page to the spirit "Jack" through Abraham Perkins (1847)
 tune: Shaker gift song, credited on the page to the spirit "Jack" through Abraham Perkins (1847)

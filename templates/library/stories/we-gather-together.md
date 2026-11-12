@@ -1,5 +1,5 @@
 ---
-title: "We Gather Together: history, meaning and the words explained"
+title: We Gather Together: history, meaning and the words explained
 description: A Dutch song of thanks for the victories of 1597, printed in Haarlem in 1626, set by Kremser in Vienna in 1877 and put into English by Theodore Baker in 1894.
 lead: A Dutch song of thanks for the victories of 1597, printed in 1626, arranged in Vienna by Eduard Kremser in 1877 and put into English by Theodore Baker in 1894. Americans sing it at Thanksgiving.
 words: Adrianus Valerius (died 1625); English, Theodore Baker (1851 to 1934)

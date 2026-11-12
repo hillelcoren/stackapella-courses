@@ -1,5 +1,5 @@
 ---
-title: "Swing Low, Sweet Chariot: historia, significado y la letra explicada"
+title: Swing Low, Sweet Chariot: historia, significado y la letra explicada
 description: Impreso en el libro de los Fisk Jubilee Singers de 1872 y atribuido por tradición a Wallace Willis, de la Nación Choctaw. Historia y sentido del espiritual.
 lead: Este espiritual de afroamericanos esclavizados lo llevaron al mundo los Fisk Jubilee Singers desde 1871, y se imprimió en su libro de 1872. Cantamos el estribillo, una estrofa y de nuevo el estribillo.
 words: tradicional; atribuida a Wallace Willis

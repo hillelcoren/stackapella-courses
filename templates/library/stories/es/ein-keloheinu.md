@@ -1,5 +1,5 @@
 ---
-title: "Ein Keloheinu: historia, significado y la letra explicada"
+title: Ein Keloheinu: historia, significado y la letra explicada
 description: Ein Keloheinu llega casi al final del oficio matinal del sabbat. Sus primeras estrofas esconden la palabra Amén; su melodía se imprimió en Braunschweig en 1843.
 lead: Ein Keloheinu, "No hay nadie como Hashem", es un breve himno hebreo del final del oficio de la mañana del sabbat y de las fiestas. Nuestra melodía se escribió para la sinagoga de Braunschweig, en Alemania.
 words: Liturgia hebrea tradicional, de la época de los Geonim; conocida por el libro de oraciones de Amram Gaon (siglo IX)
@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: ein keloheinu significado | ein keloheinu traducción | ein keloheinu oración | ein keloheinu letra | ein keloheinu canción
-translatedFrom: 7a80daef0b78
+translatedFrom: 42ff9f9df8e2
 ---
 
 Ein Keloheinu es un himno hebreo de cinco estrofas cortas que alaban a Hashem con cuatro títulos: Hashem, nuestro Señor, nuestro Rey, nuestro Salvador. En el rito asquenazí llega al cierre del oficio adicional de los sabbats y las fiestas; los judíos sefardíes lo dicen también entre semana.[^ej][^huji] Nadie sabe quién lo escribió, pero ya está en el libro de oraciones de Amram Gaon, del siglo IX.[^ej][^milken] Su letra es más antigua que cualquier melodía, así que los compositores siguen poniéndole música: el Union Hymnal, un himnario reformista estadounidense de 1897, imprimió cuatro versiones distintas, una tras otra.[^je][^uh1897][^uh1932] La melodía que cantamos es la que Julius Freudenthal escribió para la sinagoga de Braunschweig, impresa allí en 1843.[^idel29][^austerklein]

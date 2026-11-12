@@ -1,5 +1,5 @@
 ---
-title: "Will Ye No Come Back Again?: history, meaning and the words explained"
+title: Will Ye No Come Back Again?: history, meaning and the words explained
 description: Lady Nairne, born at Gask in 1766 to a family that fought for Bonnie Prince Charlie, wrote it in secret. Its story, its Scots words and all five verses.
 lead: Lady Nairne's Scots song for Bonnie Prince Charlie, who fled Scotland in 1746 with a reward of £30,000 on his head. We sing two of its five verses, for 2 to 4 singers.
 words: Carolina Oliphant, Lady Nairne (1766 to 1845)

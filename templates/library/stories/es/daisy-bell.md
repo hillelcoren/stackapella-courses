@@ -1,5 +1,5 @@
 ---
-title: "Daisy Bell (A Bicycle Built for Two): historia, significado y la letra explicada"
+title: Daisy Bell (A Bicycle Built for Two): historia, significado y la letra explicada
 description: El vals de Harry Dacre de 1892, éxito del music hall que una computadora de Bell Labs cantó en 1961. Quién la escribió, qué significa y sus tres estrofas.
 lead: Daisy Bell es el vals de Harry Dacre de 1892, una petición de matrimonio contada con juegos de palabras ciclistas. Fue un éxito del music hall, y en 1961 una computadora de Bell Labs la cantó con voz sintetizada.
 words: Harry Dacre (Frank Dean, 1857 a 1922)
@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: daisy bell historia | daisy bell significado | quién escribió daisy bell | daisy bell letra en español | daisy bell computadora | daisy bell hal 9000
-translatedFrom: f00ea25a323a
+translatedFrom: 9a16cec7ba03
 ---
 
 Daisy Bell, la canción que muchos conocen como A Bicycle Built for Two (una bicicleta hecha para dos) o simplemente "Daisy, Daisy", fue escrita y compuesta por Harry Dacre y publicada en 1892 por T. B. Harms en Nueva York y por Francis, Day and Hunter en Londres [^harms1892][^powell][^loc-nrr]. Es un vals en el que un joven le pide matrimonio a Daisy: no puede permitirse un carruaje, pero ella estará preciosa en el asiento de una bicicleta tándem [^harms1892]. Su estribillo se cantaba en los music halls (los teatros de variedades) de la década de 1890 [^powell][^loc-nrr], y en 1961 unos investigadores de Bell Labs hicieron que una computadora la cantara con voz sintetizada [^loc-nrr][^ccrma][^mathews2011]. Siete años después la cantó HAL 9000, la computadora moribunda de la película 2001: Una odisea del espacio [^loc-nrr][^mathews2011].

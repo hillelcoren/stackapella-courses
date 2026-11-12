@@ -1,5 +1,5 @@
 ---
-title: "Greensleeves: history, meaning and the words explained"
+title: Greensleeves: history, meaning and the words explained
 description: An Elizabethan love song, entered in London in 1580 and printed in 1584, its tune in lute books of about 1590. Not by Henry VIII. History and full words.
 lead: An Elizabethan love song in which a man asks why the Lady Greensleeves has cast him off after all he gave her. Its author is unknown; we sing it on G. A. Macfarren's harmony of the 1850s.
 words: anonymous, entered at Stationers' Hall, London, in 1580

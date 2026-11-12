@@ -1,5 +1,5 @@
 ---
-title: "Loch Lomond: history, meaning and the words explained"
+title: Loch Lomond: history, meaning and the words explained
 description: No one knows who wrote Loch Lomond. Its earliest known printing, an Edinburgh sheet of about 1840, already mourns Culloden; the scaffold story came later.
 lead: A Scottish song of parted lovers, with the chorus everyone knows, "Ye'll tak' the high road". Nobody knows who wrote it, and its earliest known printing is an Edinburgh sheet of about 1840.
 words: traditional Scottish, anonymous (earliest known printing about 1840)

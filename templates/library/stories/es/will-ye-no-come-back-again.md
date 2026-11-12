@@ -1,5 +1,5 @@
 ---
-title: "Will Ye No Come Back Again?: historia, significado y la letra explicada"
+title: Will Ye No Come Back Again?: historia, significado y la letra explicada
 description: Lady Nairne, nacida en Gask en 1766 en una familia que luchó por Carlos Eduardo Estuardo, la escribió en secreto. Su historia y sus cinco estrofas en escocés.
 lead: La canción escocesa de Lady Nairne para Carlos Eduardo Estuardo, que huyó de Escocia en 1746 con una recompensa de 30 000 libras por su cabeza. Cantamos dos de sus cinco estrofas, para 2 a 4 cantantes.
 words: Carolina Oliphant, Lady Nairne (1766 a 1845)
@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: will ye no come back again significado | will ye no come back again traducción | quién escribió will ye no come back again | will ye no come back again letra en español | will ye no come back again historia | bonnie prince charlie canción
-translatedFrom: fc5ac2b87150
+translatedFrom: eb78e1eb4ac1
 ---
 
 Will Ye No Come Back Again? es una canción en escocés de Carolina Oliphant, Lady Nairne, sobre el príncipe Carlos Eduardo Estuardo, "Bonnie Prince Charlie", que escapó a Francia en septiembre de 1746, tras la derrota de su ejército en Culloden [^gems1894][^rogers1855][^blaikie][^chambers]. Se la conoce también como Bonnie Charlie, o por su primer verso, Bonnie Charlie's Now Awa [^hazard][^gems1894]. En cinco estrofas cortas, la gente que lo escondió le pregunta: ¿no vas a volver? Lady Nairne nació en Gask, en Perthshire, veinte años después, en una familia que había luchado por él [^chambers][^dnb]. Publicó sus canciones de forma anónima y solo se la nombró como autora después de su muerte [^rogers1869][^henderson1900][^dnb]. En 1900, su biógrafo ya la contaba entre las canciones más conocidas de la lengua [^henderson1900].

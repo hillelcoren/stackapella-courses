@@ -1,5 +1,5 @@
 ---
-title: "It Is Well with My Soul: historia, significado y la letra explicada"
+title: It Is Well with My Soul: historia, significado y la letra explicada
 description: Las cuatro hijas de Horatio Spafford murieron al hundirse el Ville du Havre en 1873; la melodía de Bliss se llama como el barco. Historia, documentos y letra.
 lead: La letra de Horatio G. Spafford, escrita tras morir sus cuatro hijas en el naufragio del Ville du Havre (1873), con la melodía de Philip P. Bliss (1876). Cantamos la estrofa 1 y el estribillo, con voces algo retocadas.
 words: Horatio G. Spafford (1828 a 1888)

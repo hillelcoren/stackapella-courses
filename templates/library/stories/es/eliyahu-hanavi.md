@@ -1,20 +1,20 @@
 ---
-title: "Eliyahu HaNavi: historia, significado y la letra explicada"
-description: "Eliyahu HaNavi, estribillo hebreo al profeta Elías que se canta tras la Havdalá del sabbat y en el séder, con la melodía que Idelsohn imprimió en 1929."
-lead: "Eliyahu HaNavi es el breve estribillo hebreo al profeta Elías que se canta el sábado por la noche, cuando termina el sabbat, y en el séder de Pésaj, cuando se le abre la puerta."
+title: Eliyahu HaNavi: historia, significado y la letra explicada
+description: Eliyahu HaNavi, estribillo hebreo al profeta Elías que se canta tras la Havdalá del sabbat y en el séder, con la melodía que Idelsohn imprimió en 1929.
+lead: Eliyahu HaNavi es el breve estribillo hebreo al profeta Elías que se canta el sábado por la noche, cuando termina el sabbat, y en el séder de Pésaj, cuando se le abre la puerta.
 words: Estribillo hebreo tradicional, de autor desconocido
 tune: Tradicional; A. Z. Idelsohn la imprimió (1929) entre las melodías populares asquenazíes orientales
 language: hebreo
 occasion: El sábado por la noche, después de la Havdalá; el séder de Pésaj, cuando se abre la puerta a Elías
 alsoKnownAs: Eliyohu Hanovi, Elijah the Prophet
 wikidata: Q6989017
-quote: "Eliyahu hanavi, Eliyahu hatishbi, Eliyahu hagiladi."
+quote: Eliyahu hanavi, Eliyahu hatishbi, Eliyahu hagiladi.
 quoteSource: sefard
 updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: eliyahu hanavi significado | eliyahu hanavi traducción | eliyahu hanavi letra en español | eliyahu hanavi havdalah | eliyahu hanavi pésaj | eliyahu hanavi zachur latov significado
-translatedFrom: 2ad9f5597cf9
+translatedFrom: 4ac1f5abb736
 ---
 
 Eliyahu HaNavi, "Elías el profeta", es un breve estribillo hebreo. Se canta el sábado por la noche, cuando ha terminado el sabbat y se ha hecho la Havdalá, y en el séder de Pésaj, cuando se abre la puerta a Elías.[^ejhav][^jehab][^milken][^merwin] Llama al profeta con tres nombres: Elías el profeta, Elías el tisbita, Elías de Galaad.[^idel1929][^sefard] El profeta Malaquías prometió que Hashem enviaría a Elías antes del gran día que ha de venir, y el Talmud enseña que Elías no vendrá en viernes, ni tampoco en el propio sabbat. El sábado por la noche es el primer momento en que podría venir.[^malachi][^eruvin][^mb295] El estudioso A. Z. Idelsohn llamó a este estribillo la parte más antigua de las canciones de Elías que, según escribió, las comunidades judías ya cantaban al cierre del sabbat en el siglo XI.[^idel1929][^milken]

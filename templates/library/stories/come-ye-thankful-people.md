@@ -1,5 +1,5 @@
 ---
-title: "Come, Ye Thankful People, Come: history, meaning and the words explained"
+title: Come, Ye Thankful People, Come: history, meaning and the words explained
 description: Henry Alford printed it for his Leicestershire parish in 1844, headed After Harvest. Hymns Ancient and Modern set it to Elvey's tune in 1861.
 lead: Henry Alford printed this harvest hymn for his village parish of Wymeswold in 1844; it is sung to George Elvey's tune ST. GEORGE'S WINDSOR at harvest festivals in England and at Thanksgiving in America.
 words: Henry Alford (1810 to 1871), 1844, revised 1865 and 1867

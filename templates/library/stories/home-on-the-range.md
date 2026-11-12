@@ -1,5 +1,5 @@
 ---
-title: "Home on the Range: history, meaning and the words explained"
+title: Home on the Range: history, meaning and the words explained
 description: Brewster Higley wrote it as My Western Home in Smith County, Kansas, about 1873; a 1934 lawsuit traced it back to him. Its story and all its verses.
 lead: Home on the Range began as a Kansas settler's poem of the early 1870s. John Lomax's 1910 printing of a cowboy's version made it famous, and a 1934 lawsuit sent a lawyer west to trace it.
 words: Brewster Higley (1823 to 1911), as My Western Home, about 1873

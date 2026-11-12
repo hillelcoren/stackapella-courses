@@ -1,5 +1,5 @@
 ---
-title: "Jingle Bells: history, meaning and the words explained"
+title: Jingle Bells: history, meaning and the words explained
 description: Published in Boston in 1857 as The One Horse Open Sleigh, first known from a minstrel stage, it has no word of Christmas. Its history and words explained.
 lead: James Lord Pierpont's sleigh-ride song, published in Boston in 1857 as "The One Horse Open Sleigh" and first known to be sung in a minstrel show. We sing its first verse and chorus as printed in 1909.
 words: James Lord Pierpont (1857)
@@ -11,7 +11,7 @@ origin: Boston, Massachusetts
 occasion: Winter; now the Christmas season
 alsoKnownAs: The One Horse Open Sleigh
 wikidata: Q406845
-quote: "Oh! what joy it is to ride / In a one horse open sleigh."
+quote: Oh! what joy it is to ride / In a one horse open sleigh.
 quoteSource: ditson1857
 updated: 2026-11-12
 checked: 2026-11-12

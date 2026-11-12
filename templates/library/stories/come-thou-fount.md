@@ -1,5 +1,5 @@
 ---
-title: "Come, Thou Fount of Every Blessing: history, meaning and the words explained"
+title: Come, Thou Fount of Every Blessing: history, meaning and the words explained
 description: Robinson's own list, as John Julian saw it, dates his hymn to 1758; NETTLETON was printed unsigned in Pennsylvania in 1813. Its story, Ebenezer and a legend.
 lead: Robert Robinson's hymn of praise dates from 1758 by his own list, and America sang it to NETTLETON, a tune printed in 1813. We sing the first verse in the four parts of The Methodist Hymnal of 1905.
 words: Robert Robinson (1735 to 1790)

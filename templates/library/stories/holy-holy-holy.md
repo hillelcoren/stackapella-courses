@@ -1,5 +1,5 @@
 ---
-title: "Holy, Holy, Holy: history, meaning and the words explained"
+title: Holy, Holy, Holy: history, meaning and the words explained
 description: Reginald Heber wrote it at Hodnet for Trinity Sunday; his widow published it in 1827, after his death in India. Dykes's tune NICAEA came in 1861.
 lead: Holy, Holy, Holy is Reginald Heber's hymn for Trinity Sunday, built on the song around God's throne in Revelation 4, and sung to NICAEA, John Bacchus Dykes's tune of 1861. We sing verse 1 on Dykes's harmony.
 words: Reginald Heber (1783 to 1826), written at Hodnet by 1823
