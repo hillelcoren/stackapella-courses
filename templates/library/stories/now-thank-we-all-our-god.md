@@ -174,6 +174,10 @@ Our arrangement sings verses 1 and 2 of Winkworth's English, the two The Hymnal 
 
 ## Questions
 
+### Is Now Thank We All Our God a Catholic hymn?
+
+It began as a Lutheran hymn and is now sung by Catholics too. Martin Rinkart was a Lutheran pastor[^adb-rinckart][^ndb-rinckart], but today the hymn is No. 405 in the Gotteslob, the Catholic hymnal of the German-speaking dioceses[^dli405], and American Catholic hymnals print Winkworth's English: Gather Comprehensive (GIA, 2004) as No. 545 and Breaking Bread (OCP, 2019) as No. 200[^gc2][^bb2020].
+
 ### When was Now Thank We All Our God written?
 
 Around 1630, by Martin Rinkart, pastor at Eilenburg in Saxony [^adb-rinckart][^ndb-rinckart]. It was probably printed in his Jesu Hertz-Büchlein in 1636, but no copy of that edition is known; the earliest known printing is in Johann Crüger's hymn book, Praxis pietatis melica, Berlin, 1647 or 1648 [^canterbury][^julian1907][^fischer-tuempel]. It was not written for the Peace of Westphalia in 1648, though that story is often told [^julian1907][^adb-rinckart].
@@ -230,3 +234,6 @@ It was not written as one: Rinkart wrote it as a grace at table, and hymn books 
 - [^stowe]: David W. Stowe, "Thanksgiving hymns are a few centuries old, tops, but biblical psalms of gratitude and praise go back thousands of years", The Conversation (2022). https://theconversation.com/thanksgiving-hymns-are-a-few-centuries-old-tops-but-biblical-psalms-of-gratitude-and-praise-go-back-thousands-of-years-194328
 - [^kjv-apoc]: The Bible, King James Version (1611), Apocrypha, Ecclesiasticus 50:22 to 24, at Wikisource. https://en.wikisource.org/wiki/Bible_(King_James)/Ecclesiasticus
 - [^loc1845]: Library of Congress, *Let all men praise the Lord, grand chorale [from] Lobgesang* (American sheet music, 1845). https://www.loc.gov/item/2023799220/
+- [^dli405]: Deutsches Liturgisches Institut, *Gotteslob 405: Nun danket alle Gott mit Herzen*. https://dli-daten.de/dli/gotteslob/zusammenfassung?glnr=405
+- [^gc2]: *Gather Comprehensive*, Second Edition (Chicago: GIA Publications, 2004), a Roman Catholic hymnal, No. 545, "Now Thank We All Our God", page scan at Hymnary.org. https://hymnary.org/hymn/GC2/545
+- [^bb2020]: *Breaking Bread*, vol. 39 (OCP, 2019), a Roman Catholic hymnal, No. 200, "Now Thank We All Our God", p. 250, page scan at Hymnary.org. https://hymnary.org/hymn/BB2020/200

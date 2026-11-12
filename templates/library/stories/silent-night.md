@@ -201,6 +201,10 @@ Our arrangement sings Young's first verse in C, the key of Hutchins's 1916 print
 
 ## Questions
 
+### What key is Silent Night in?
+
+Gruber's first score is lost, but his later copies of the song, and Mohr's, are mostly in D major[^hochradner][^sng-text]. The earliest known printing with music, in Dresden in about 1833, moved it to C, and John Freeman Young's English book of 1859 prints it in C too[^hochradner][^hymnarchive][^young]. Our arrangement is in C, the key of Charles L. Hutchins's printing of 1916[^hutchins].
+
 ### What does "round yon virgin" mean in Silent Night?
 
 It means "around that virgin mother and child". "Round" is around, and "yon" is an old word for "that, over there". The line finishes the one before it: all is calm and bright around Mary and her baby. The words are John Freeman Young's, printed in 1859 [^young]. Mohr's German has no virgin in this verse. It says everyone sleeps and only the dear, holy pair keep watch [^mohr-ms].

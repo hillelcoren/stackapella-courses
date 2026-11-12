@@ -178,6 +178,10 @@ Our arrangement sings the first verse and the refrain, in G and in 4/4, for 2 to
 
 ## Questions
 
+### What does "Adeste Fideles" mean?
+
+"Adeste fideles" is Latin for "be here, you faithful", or "draw near, you faithful" [^hymnarchive][^julian]. The whole first line, "Adeste, fideles, laeti triumphantes", means "be here, you faithful, glad and exulting" [^julian]. English hymnals sing "O come, all ye faithful, joyful and triumphant": Frederick Oakeley's English of 1841, with the first line Murray's hymnal gave it in 1852[^julian][^hymnarchive].
+
 ### What Bible verse is O Come, All Ye Faithful based on?
 
 It draws on the Christmas story in Luke 2. The call to Bethlehem echoes the shepherds' "Let us now go even unto Bethlehem" (Luke 2:15), and "Christ the Lord" is the angel's phrase in Luke 2:11 [^kjv-luke]. The third verse has the angels' song of Luke 2:14, and the fourth echoes John 1:14 [^kjv-john][^phh]. The second verse quotes the Nicene Creed, not the Bible [^hymnarchive][^creed].

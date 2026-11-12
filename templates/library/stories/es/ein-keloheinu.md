@@ -181,6 +181,10 @@ Nadie sabe quién escribió la letra. Viene de la época de los Geonim, y su apa
 
 Al final del oficio del sabbat y de las fiestas en las sinagogas asquenazíes, justo después del Musaf. Los judíos sefardíes lo dicen también entre semana, al cierre del oficio de la mañana. También se ha cantado en casa, en la mesa del sabbat.[^ej][^huji][^je]
 
+### ¿Se canta Ein Keloheinu en ladino?
+
+Sí. Existe una versión en ladino, o judeoespañol, que se canta en comunidades sefardíes. El HUC Jewish Language Project la muestra impresa en ladino en cancioneros de Los Ángeles y de Seattle, uno de ellos junto al texto en letra hebrea, y el Jewish Music Research Centre de la Universidad Hebrea conserva la grabación de una versión en judeoespañol de Gibraltar. Las congregaciones sefardíes cantan además el hebreo con melodías tradicionales propias.[^jlliturgy][^jmrcladino][^je][^milken]
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía de Freudenthal de principio a fin, hasta su Mi agudo en "kemalkenu," en la estrofa 1. Con dos cantantes son soprano y contralto, la contralto casi siempre una tercera o una sexta por debajo; con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.
@@ -208,3 +212,5 @@ La soprano canta la melodía de Freudenthal de principio a fin, hasta su Mi agud
 - [^uh1897]: Central Conference of American Rabbis, *Union Hymnal* (1897), apéndice A, n.os 17 a 20, "En Kelohenu", pp. 140 a 147, e índice, p. 218. https://archive.org/details/unionhymnal0000unse_l7i5
 - [^uh1932]: Central Conference of American Rabbis, *Union Hymnal*, tercera edición (copyright 1932; impresión de 1936), prefacio, p. v, y n.º 292, "Ayn Kaylohaynu", p. 330, Morning Service for the Sabbath. https://archive.org/details/unionhymnal00cent
 - [^sefaria]: "Ein Kelohenu", *Siddur Ashkenaz*, oficio de la mañana entre semana, oraciones finales (como se dicen en Israel), hebreo de *The Metsudah Siddur* (1981), en Sefaria, con licencia CC BY 3.0. https://www.sefaria.org/Siddur_Ashkenaz,_Weekday,_Shacharit,_Concluding_Prayers,_Korbanot_%28Israel%29,_Ein_Kelohenu
+- [^jlliturgy]: HUC Jewish Language Project, "Liturgy", sección Ladino/Judeo-Spanish: "En k'Elohenu in Ladino", *Trezoro de Kantes* (edición de Los Ángeles), y "En k'Elohenu in Ladino alongside Hebrew script" (edición de Seattle). https://www.jewishlanguages.org/liturgy
+- [^jmrcladino]: Jewish Music Research Centre, Hebrew University of Jerusalem, "Ein Keloheinu (Judeo-Spanish)", grabación sonora, Gibraltar, en hebreo y ladino. https://jewish-music.huji.ac.il/en/node/23614

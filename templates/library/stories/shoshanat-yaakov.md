@@ -137,6 +137,10 @@ Our arrangement is read from that page, in B-flat as printed, for 2 to 4 singers
 
 Both: they are the same Hebrew words said two ways. In Ashkenazi Hebrew the final letter, tav, is said "s", so Shoshanas Yaakov, and Baer printed it as "Schoschannas jaakow". Modern Israeli Hebrew says "t", so Shoshanat Yaakov. We sing the modern Israeli form, syllable for syllable as Baer's notes carry the words.[^baer]
 
+### Who wrote Shoshanat Yaakov?
+
+No one knows. Its lines close Asher heni, an alphabet poem in the Mahzor Vitry, the prayer book of Rashi's school compiled by Simhah of Vitry, who had died by 1105, though its manuscripts carry later additions too. The book heads the poem "a poem from the foundation of the Men of the Great Assembly", a traditional attribution, and names no poet. The last line, for Harbona, comes from a custom the Talmud records, and who made Baer's tune is not known either.[^vitry][^ej-vitry][^je-simhah][^je-great][^yer][^soferim][^baer]
+
 ### Which part sings the tune?
 
 The soprano sings the tune throughout, as Baer printed it for the cantor; where his print splits into two voices for a moment, it takes the lower one. With two singers it is soprano and alto, with three the bass joins, and with four the tenor fills the middle of each chord.[^baer]

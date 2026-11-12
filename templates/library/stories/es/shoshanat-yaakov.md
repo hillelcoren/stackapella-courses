@@ -138,6 +138,10 @@ Nuestro arreglo se basa en esa página, en Si bemol como está impresa, para 2 a
 
 Las dos cosas: son las mismas palabras hebreas dichas de dos maneras. En el hebreo asquenazí, la última letra, tav, se pronuncia "s", así que es Shoshanas Yaakov, y Baer lo imprimió como "Schoschannas jaakow". El hebreo israelí moderno dice "t", así que es Shoshanat Yaakov. Nosotros cantamos la forma israelí moderna, sílaba por sílaba, tal como las notas de Baer llevan la letra.[^baer]
 
+### ¿Quién escribió Shoshanat Yaakov?
+
+Nadie lo sabe. Sus versos cierran Asher heni, un poema alfabético que está en el Mahzor Vitry, el libro de oraciones de la escuela de Rashi recopilado por Simhah de Vitry, que había muerto ya en 1105, aunque sus manuscritos llevan también añadidos posteriores. El libro lo encabeza como "un poema de la fundación de los Hombres de la Gran Asamblea", una atribución tradicional, y no nombra a ningún poeta. El último verso, el de Harbona, viene de una costumbre que recoge el Talmud, y tampoco se sabe quién hizo la melodía de Baer.[^vitry][^ej-vitry][^je-simhah][^je-great][^yer][^soferim][^baer]
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía de principio a fin, tal como la imprimió Baer para el cantor; donde su impresión se divide un momento en dos voces, toma la más grave. Con dos cantantes son soprano y contralto, con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.[^baer]

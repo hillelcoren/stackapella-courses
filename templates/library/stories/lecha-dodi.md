@@ -228,6 +228,10 @@ Our arrangement is read from Cohen's 1904 printing, "Lekah Dodi (Melody for 'Ome
 
 Solomon ha-Levi Alkabetz, a poet and kabbalist of Safed, in the sixteenth century. He signed it: the first letters of the first eight verses spell Shlomo HaLevi. He was born about 1505; the sources differ on his death: Idelsohn gives 1580, the Encyclopaedia Judaica 1584.[^je][^ej][^ejalk][^idel29]
 
+### Who is the "beloved" in Lecha Dodi?
+
+Readings differ. Dodi is "my beloved", the word the Song of Songs uses in "Come, my beloved, let us go forth into the field". In the reading of the kabbalists, the mystics of Alkabetz's Safed, the beloved is Hashem, called to go out and meet the bride: the Sabbath as the Shekhinah, His presence. Francis L. Cohen's English of 1904 sings it more simply: "Then come, my friend, to meet the Bride".[^songofsongs][^jealk][^schechter][^schwartz][^miller][^je]
+
 ### Which part sings the tune?
 
 The soprano, throughout: the Omer-weeks melody Francis L. Cohen printed in 1904. With two singers it is soprano and alto, the alto mostly a third or sixth below; with three the bass joins, and with four the tenor fills the middle of each chord.[^je]
@@ -262,3 +266,5 @@ The soprano, throughout: the Omer-weeks melody Francis L. Cohen printed in 1904.
 - [^lev]: Leviticus 23:15 to 16, in *The Holy Scriptures* (Jewish Publication Society, 1917), via Mechon Mamre. https://mechon-mamre.org/p/pt/pt0323.htm
 - [^ashkenaz]: *Siddur Ashkenaz*, Kabbalat Shabbat, Lekha Dodi, Hebrew text of *The Metsudah Siddur* (1981), via Sefaria, licensed CC BY 3.0. https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Kabbalat_Shabbat%2C_Lekha_Dodi
 - [^sefard]: *Siddur Sefard*, Kabbalat Shabbat, Lekha Dodi, Hebrew text of Torat Emet, via Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Kabbalat_Shabbat%2C_Lekha_Dodi
+- [^schwartz]: Jeremy Schwartz, "Singing 'Lekha Dodi': Shabbat as 'Tikkun Olam'", *Evolve* (Reconstructing Judaism, 3 December 2023). https://evolve.reconstructingjudaism.org/singing-lekha-dodi-shabbat-as-tikkun-olam/
+- [^miller]: Moshe Miller, trans. and commentary, "Lecha Dodi: Welcoming the Bride", *KabbalaOnline* (Ascent of Safed, 2003). https://www.kabbalaonline.org/kabbalah/article_cdo/aid/380523/jewish/Lecha-Dodi-Welcoming-the-Bride.htm

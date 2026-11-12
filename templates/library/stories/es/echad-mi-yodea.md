@@ -400,6 +400,10 @@ Nadie lo sabe. Es una canción popular anónima.[^chabad][^uh1908] La copia más
 
 Sí. A menudo se canta o se lee en inglés como "Who Knows One?". La Union Haggadah imprimió una versión inglesa en 1908 y otra vez en 1923, cuando se leía en voz alta como una carrera, y las Hagadás modernas la traducen verso a verso.[^uh1908][^uh1923][^sefaria]
 
+### ¿Hay un Echad Mi Yodea en yidis?
+
+Sí, desde sus primeros testimonios. La copia más antigua que se conoce, añadida a mano a un ejemplar de una Hagadá de Praga impresa en 1526/27, tiene un texto en yidis junto al hebreo, y la Hagadá de Praga de 1590, su primera impresión conocida, puso a su lado una traducción al yidis. Los judíos sefardíes de habla ladina de Salónica, Rodas y Turquía cantan su propia versión, "Ken supiense", en la que, en la mayoría de sus versiones, el dos son Moisés y Aarón, no las tablas.[^jmrc][^jl][^jrb][^uw]
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía de principio a fin, tal como la imprime la Union Haggadah. La contralto canta bajo ella, casi siempre una sexta por debajo. Con dos cantantes son soprano y contralto; con tres se suma el bajo; con cuatro, el tenor.[^uh1923]

@@ -180,6 +180,10 @@ Nobody knows who wrote the words. They come from the period of the Geonim, and t
 
 At the end of the Sabbath and festival service in Ashkenazi synagogues, right after Musaf. Sephardi Jews say it on weekdays too, at the close of the morning service. It has also been sung at home, at the Sabbath table.[^ej][^huji][^je]
 
+### Is Ein Keloheinu sung in Ladino?
+
+Yes. There is a Ladino, or Judeo-Spanish, version, sung in Sephardi communities. The HUC Jewish Language Project shows it printed in Ladino song collections from Los Angeles and Seattle, one of them beside the Hebrew script, and the Hebrew University's Jewish Music Research Centre holds a recording of a Judeo-Spanish version from Gibraltar. Sephardi congregations also sing the Hebrew to traditional melodies of their own.[^jlliturgy][^jmrcladino][^je][^milken]
+
 ### Which part sings the tune?
 
 The soprano sings Freudenthal's tune throughout, up to its top E on "kemalkenu," in verse 1. With two singers it is soprano and alto, the alto mostly a third or sixth below; with three the bass joins, and with four the tenor fills the middle of each chord.
@@ -207,3 +211,5 @@ The soprano sings Freudenthal's tune throughout, up to its top E on "kemalkenu,"
 - [^uh1897]: Central Conference of American Rabbis, *Union Hymnal* (1897), Appendix A, Nos. 17 to 20, "En Kelohenu", pp. 140 to 147, and index, p. 218. https://archive.org/details/unionhymnal0000unse_l7i5
 - [^uh1932]: Central Conference of American Rabbis, *Union Hymnal*, third edition (copyright 1932; 1936 printing), preface, p. v, and No. 292, "Ayn Kaylohaynu", p. 330, Morning Service for the Sabbath. https://archive.org/details/unionhymnal00cent
 - [^sefaria]: "Ein Kelohenu", *Siddur Ashkenaz*, weekday morning service, concluding prayers (as said in Israel), Hebrew from *The Metsudah Siddur* (1981), via Sefaria, licensed CC BY 3.0. https://www.sefaria.org/Siddur_Ashkenaz,_Weekday,_Shacharit,_Concluding_Prayers,_Korbanot_%28Israel%29,_Ein_Kelohenu
+- [^jlliturgy]: HUC Jewish Language Project, "Liturgy", Ladino/Judeo-Spanish section: "En k'Elohenu in Ladino", *Trezoro de Kantes* (Los Angeles edition), and "En k'Elohenu in Ladino alongside Hebrew script" (Seattle edition). https://www.jewishlanguages.org/liturgy
+- [^jmrcladino]: Jewish Music Research Centre, Hebrew University of Jerusalem, "Ein Keloheinu (Judeo-Spanish)", sound recording, Gibraltar, languages Hebrew and Ladino. https://jewish-music.huji.ac.il/en/node/23614

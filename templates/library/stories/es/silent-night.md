@@ -220,6 +220,10 @@ Nuestro arreglo canta la primera estrofa de Young en Do, la tonalidad de la edic
 
 ## Preguntas
 
+### ¿En qué tonalidad está Silent Night?
+
+La primera partitura de Gruber se ha perdido, pero sus copias posteriores de la canción, y la de Mohr, están casi todas en Re mayor[^hochradner][^sng-text]. Su primera impresión conocida con música, hacia 1833 en Dresde, pasó la tonalidad a Do, y el librito de John Freeman Young de 1859 también la imprime en Do[^hochradner][^hymnarchive][^young]. Nuestro arreglo está en Do, la tonalidad de la edición de Charles L. Hutchins de 1916[^hutchins].
+
 ### ¿Qué significa "round yon virgin" en Silent Night?
 
 Significa "alrededor de aquella madre virgen y su niño". "Round" es alrededor, y "yon" es una palabra antigua para "aquel, el de allí". El verso completa el anterior: todo está en calma y lleno de luz alrededor de María y su bebé. La letra es de John Freeman Young, impresa en 1859 [^young]. El alemán de Mohr no tiene ninguna virgen en esta estrofa. Dice que todos duermen y que solo la querida y santa pareja vela [^mohr-ms].

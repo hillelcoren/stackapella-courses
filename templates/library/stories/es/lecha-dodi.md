@@ -229,6 +229,10 @@ Nuestro arreglo se basa en la impresión de Cohen de 1904, "Lekah Dodi (Melody f
 
 Solomon ha-Levi Alkabetz, poeta y cabalista de Safed, en el siglo XVI. Lo firmó: las primeras letras de las ocho primeras estrofas forman Shlomo HaLevi. Nació hacia 1505; las fuentes no coinciden sobre su muerte: Idelsohn da 1580, y la Encyclopaedia Judaica, 1584.[^je][^ej][^ejalk][^idel29]
 
+### ¿Quién es el "amado" de Lecha Dodi?
+
+Las lecturas no coinciden. Dodi es "amado mío", la palabra del Cantar de los Cantares en "Ven, amado mío, salgamos al campo". En la lectura de los cabalistas, los místicos de la Safed de Alkabetz, el amado es Hashem, llamado a salir al encuentro de la novia: el sabbat como la Shejiná, Su presencia. La versión inglesa de Francis L. Cohen, de 1904, lo canta de forma más sencilla: "Then come, my friend, to meet the Bride" (ven, pues, amigo mío, al encuentro de la novia).[^songofsongs][^jealk][^schechter][^schwartz][^miller][^je]
+
 ### ¿Qué voz canta la melodía?
 
 La soprano, de principio a fin: la melodía de las semanas del Ómer que Francis L. Cohen imprimió en 1904. Con dos cantantes son soprano y contralto, la contralto casi siempre una tercera o una sexta por debajo; con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.[^je]
@@ -263,3 +267,5 @@ La soprano, de principio a fin: la melodía de las semanas del Ómer que Francis
 - [^lev]: Levítico 23:15 a 16, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Mechon Mamre. https://mechon-mamre.org/p/pt/pt0323.htm
 - [^ashkenaz]: *Siddur Ashkenaz*, Kabbalat Shabbat, Lekha Dodi, texto hebreo de *The Metsudah Siddur* (1981), en Sefaria, con licencia CC BY 3.0. https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Kabbalat_Shabbat%2C_Lekha_Dodi
 - [^sefard]: *Siddur Sefard*, Kabbalat Shabbat, Lekha Dodi, texto hebreo de Torat Emet, en Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Kabbalat_Shabbat%2C_Lekha_Dodi
+- [^schwartz]: Jeremy Schwartz, "Singing 'Lekha Dodi': Shabbat as 'Tikkun Olam'", *Evolve* (Reconstructing Judaism, 3 de diciembre de 2023). https://evolve.reconstructingjudaism.org/singing-lekha-dodi-shabbat-as-tikkun-olam/
+- [^miller]: Moshe Miller, traducción y comentario, "Lecha Dodi: Welcoming the Bride", *KabbalaOnline* (Ascent of Safed, 2003). https://www.kabbalaonline.org/kabbalah/article_cdo/aid/380523/jewish/Lecha-Dodi-Welcoming-the-Bride.htm

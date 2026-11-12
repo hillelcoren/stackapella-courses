@@ -199,6 +199,10 @@ Nuestro arreglo canta las estrofas 1 y 2 del inglés de Winkworth, las dos que i
 
 ## Preguntas
 
+### ¿Es Now Thank We All Our God un himno católico?
+
+Nació como himno luterano y hoy lo cantan también los católicos. Martin Rinkart era pastor luterano[^adb-rinckart][^ndb-rinckart], pero hoy el himno es el n.º 405 del Gotteslob, el himnario católico de las diócesis de lengua alemana[^dli405], y los himnarios católicos de Estados Unidos imprimen el inglés de Winkworth: Gather Comprehensive (GIA, 2004) en el n.º 545 y Breaking Bread (OCP, 2019) en el n.º 200[^gc2][^bb2020].
+
 ### ¿Cuándo se escribió Now Thank We All Our God?
 
 Hacia 1630, y lo escribió Martin Rinkart, pastor en Eilenburg, en Sajonia [^adb-rinckart][^ndb-rinckart]. Probablemente se imprimió en su Jesu Hertz-Büchlein en 1636, pero no se conoce ningún ejemplar de esa edición; la primera impresión conocida está en el himnario de Johann Crüger, Praxis pietatis melica, Berlín, 1647 o 1648 [^canterbury][^julian1907][^fischer-tuempel]. No se escribió para la Paz de Westfalia de 1648, aunque esa historia se cuenta a menudo [^julian1907][^adb-rinckart].
@@ -255,3 +259,6 @@ No se escribió como tal: Rinkart lo escribió como bendición de la mesa, y los
 - [^stowe]: David W. Stowe, "Thanksgiving hymns are a few centuries old, tops, but biblical psalms of gratitude and praise go back thousands of years", The Conversation (2022). https://theconversation.com/thanksgiving-hymns-are-a-few-centuries-old-tops-but-biblical-psalms-of-gratitude-and-praise-go-back-thousands-of-years-194328
 - [^kjv-apoc]: La Biblia, versión King James (1611), libros apócrifos, Eclesiástico 50:22 a 24, en Wikisource. https://en.wikisource.org/wiki/Bible_(King_James)/Ecclesiasticus
 - [^loc1845]: Library of Congress, *Let all men praise the Lord, grand chorale [from] Lobgesang* (partitura estadounidense, 1845). https://www.loc.gov/item/2023799220/
+- [^dli405]: Deutsches Liturgisches Institut, *Gotteslob 405: Nun danket alle Gott mit Herzen*. https://dli-daten.de/dli/gotteslob/zusammenfassung?glnr=405
+- [^gc2]: *Gather Comprehensive*, segunda edición (Chicago: GIA Publications, 2004), himnario católico, n.º 545, "Now Thank We All Our God", imagen de la página en Hymnary.org. https://hymnary.org/hymn/GC2/545
+- [^bb2020]: *Breaking Bread*, vol. 39 (OCP, 2019), himnario católico, n.º 200, "Now Thank We All Our God", p. 250, imagen de la página en Hymnary.org. https://hymnary.org/hymn/BB2020/200

@@ -399,6 +399,10 @@ No one knows. It is an anonymous folk song.[^chabad][^uh1908] The earliest known
 
 Yes. It is often sung or read in English as "Who Knows One?". The Union Haggadah printed an English version in 1908 and again in 1923, when it was read aloud as a race, and modern Haggadot translate it line by line.[^uh1908][^uh1923][^sefaria]
 
+### Is there a Yiddish Echad Mi Yodea?
+
+Yes, from its earliest records. The earliest known copy, added by hand to a copy of a Prague Haggadah printed in 1526/27, has a Yiddish text with the Hebrew, and the Prague Haggadah of 1590, its earliest known printing, set a Yiddish translation beside it. Ladino-speaking Sephardi Jews of Salonica, Rhodes and Turkey sing their own version, "Ken supiense", where in most versions two is Moses and Aaron, not the tablets.[^jmrc][^jl][^jrb][^uw]
+
 ### Which part sings the tune?
 
 The soprano sings the tune throughout, as the Union Haggadah prints it. The alto sings under it, mostly a sixth below. With two singers it is soprano and alto; with three the bass joins; with four, the tenor.[^uh1923]

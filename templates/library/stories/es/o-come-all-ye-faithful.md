@@ -202,6 +202,10 @@ Nuestro arreglo canta la primera estrofa y el estribillo, en Sol y en 4/4, para 
 
 ## Preguntas
 
+### ¿Qué significa "Adeste Fideles"?
+
+"Adeste fideles" es latín: una llamada a los fieles a estar presentes, a acercarse, "que acudan los fieles" [^hymnarchive][^julian]. El primer verso entero, "Adeste, fideles, laeti triumphantes", significa "que acudan los fieles, alegres y triunfantes" [^julian]. Los himnarios ingleses cantan "O come, all ye faithful, joyful and triumphant": la versión inglesa de Frederick Oakeley, de 1841, con el primer verso que le dio el himnario de Murray en 1852[^julian][^hymnarchive].
+
 ### ¿En qué versículo de la Biblia se basa O Come, All Ye Faithful?
 
 Se inspira en la historia de Navidad de Lucas 2. La llamada a Belén es un eco del "Let us now go even unto Bethlehem" (vayamos, pues, hasta Belén) de los pastores (Lucas 2:15), y "Christ the Lord" es la expresión del ángel en Lucas 2:11 [^kjv-luke]. La tercera estrofa trae el canto de los ángeles de Lucas 2:14, y la cuarta es un eco de Juan 1:14 [^kjv-john][^phh]. La segunda estrofa cita el Credo de Nicea, no la Biblia [^hymnarchive][^creed].
