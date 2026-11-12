@@ -116,6 +116,23 @@ SONGS = {
     "tzur-mishelo": "with the song",
     "adon-olam": "with the song",
     "shoshanat-yaakov": "with the song",
+    # Batch 4 (Thanksgiving, Scottish, Shaker), 2026-11-12.
+    "comin-thro-the-rye": "with the song",
+    "red-red-rose": "with the song",
+    "annie-laurie": "with the song",
+    "will-ye-no-come-back-again": "with the song",
+    "ye-banks-and-braes": "with the song",
+    "skye-boat-song": "with the song",
+    "praise-to-the-lord": "with the song",
+    "come-ye-thankful-people": "with the song",
+    "now-thank-we-all-our-god": "with the song",
+    "we-gather-together": "with the song",
+    "i-will-bow-and-be-simple": "with the song",
+    "o-the-beautiful-treasure": "with the song",
+    "who-will-bow-and-bend": "with the song",
+    "heavenly-treasures": "with the song",
+    "las-mananitas": "with the song",
+    "riu-riu-chiu": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
