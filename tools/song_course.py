@@ -110,6 +110,10 @@ SONGS = {
     "eliyahu-hanavi": "with the song",
     "echad-mi-yodea": "with the song",
     "ki-lo-naeh": "with the song",
+    "lecha-dodi": "with the song",
+    "tzur-mishelo": "with the song",
+    "adon-olam": "with the song",
+    "shoshanat-yaakov": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")

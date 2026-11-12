@@ -1,0 +1,1806 @@
+{
+    "id": "song-shoshanat-yaakov",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Shoshanat Yaakov"},
+    "units": [
+        {
+            "id": "song-shoshanat-yaakov-soprano",
+            "title": {"en": "The melody", "es": "La melodía"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-shoshanat-yaakov-soprano-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Shoshanat Yaakov: hear the whole song first, then the tune on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "sy-after-megillah", "text": {"en": "It is sung on Purim once the Book of Esther has been read: Baer's book has the scroll rolled up, the blessing sung after it, and then this song."}, "source": {"en": "Abraham Baer, Baal T'fillah (Frankfurt am Main: J. Kauffmann, 3rd edition), p. 59, Nos. 196 and 197, read from the scan"}, "url": "https://archive.org/details/der-practische-vorbeter-baer"}
+                },
+                {
+                    "id": "song-shoshanat-yaakov-soprano-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-soprano-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-soprano-4",
+                    "title": {"en": "Lines 5 to 8", "es": "Frases 5 a 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is line 1 again. Sing it with the guide.", "es": "La frase 7 repite la frase 1. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is line 2 again. Sing it with the guide.", "es": "La frase 8 repite la frase 2. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined, with the guide.", "es": "Ahora las frases 5 a 8 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-soprano-5",
+                    "title": {"en": "Lines 9 to 11", "es": "Frases 9 a 11"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is line 3 again. Sing it with the guide.", "es": "La frase 9 repite la frase 3. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is line 4 again. Sing it with the guide.", "es": "La frase 10 repite la frase 4. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 to 11 joined: hear them, then sing them back.", "es": "Ahora las frases 9 a 11 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [8, 9, 10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-soprano-6",
+                    "title": {"en": "Lines 12 and 13", "es": "Frases 12 y 13"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 6 again. Sing it with the guide.", "es": "La frase 12 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 12 and 13 joined: hear them, then sing them back.", "es": "Ahora las frases 12 y 13 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [11, 12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-soprano-7",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [6, 7, 8, 9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Vegam Charvona start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-soprano-8",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-soprano-9",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-soprano-10",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of Shoshanat Yaakov in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shoshanat-yaakov", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "sy-esther-verses", "text": {"en": "On the same page Baer prints four verses of Esther that everyone sings aloud during the reading before the reader repeats them, starting with \"Ish yehudi haya b'Shushan habira\", there was a Jew in Shushan the capital."}, "source": {"en": "Abraham Baer, Baal T'fillah (Frankfurt am Main: J. Kauffmann, 3rd edition), p. 59, Nos. 192 to 195, \"Chor, dann Solo\", read from the scan"}, "url": "https://archive.org/details/der-practische-vorbeter-baer"}
+                }
+            ]
+        },
+        {
+            "id": "song-shoshanat-yaakov-alto",
+            "title": {"en": "Alto", "es": "Contralto"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-shoshanat-yaakov-alto-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Shoshanat Yaakov: hear the whole song first, then the alto part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-alto-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-alto-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-alto-4",
+                    "title": {"en": "Lines 5 to 8", "es": "Frases 5 a 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is line 1 again. Sing it with the guide.", "es": "La frase 7 repite la frase 1. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is line 2 again. Sing it with the guide.", "es": "La frase 8 repite la frase 2. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined, with the guide.", "es": "Ahora las frases 5 a 8 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-alto-5",
+                    "title": {"en": "Lines 9 to 11", "es": "Frases 9 a 11"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is line 3 again. Sing it with the guide.", "es": "La frase 9 repite la frase 3. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is line 4 again. Sing it with the guide.", "es": "La frase 10 repite la frase 4. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 to 11 joined: hear them, then sing them back.", "es": "Ahora las frases 9 a 11 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [8, 9, 10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-alto-6",
+                    "title": {"en": "Lines 12 and 13", "es": "Frases 12 y 13"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 6 again. Sing it with the guide.", "es": "La frase 12 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 12 and 13 joined: hear them, then sing them back.", "es": "Ahora las frases 12 y 13 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [11, 12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-alto-7",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [6, 7, 8, 9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Vegam Charvona start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-alto-8",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-alto-9",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-alto-10",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of Shoshanat Yaakov in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shoshanat-yaakov", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-shoshanat-yaakov-bass",
+            "title": {"en": "Bass", "es": "Bajo"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-shoshanat-yaakov-bass-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Shoshanat Yaakov: hear the whole song first, then the bass part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-bass-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-bass-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-bass-4",
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-bass-5",
+                    "title": {"en": "Lines 7 to 10", "es": "Frases 7 a 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is line 2 again. Sing it with the guide.", "es": "La frase 8 repite la frase 2. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is line 3 again. Sing it with the guide.", "es": "La frase 9 repite la frase 3. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is line 4 again. Sing it with the guide.", "es": "La frase 10 repite la frase 4. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 to 10 joined, with the guide.", "es": "Ahora las frases 7 a 10 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [6, 7, 8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-bass-6",
+                    "title": {"en": "Lines 11 to 13", "es": "Frases 11 a 13"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 6 again. Sing it with the guide.", "es": "La frase 12 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 to 13 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [10, 11, 12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-bass-7",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [6, 7, 8, 9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Vegam Charvona start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-bass-8",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-bass-9",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-bass-10",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of Shoshanat Yaakov in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shoshanat-yaakov", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-shoshanat-yaakov-tenor",
+            "title": {"en": "Tenor", "es": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-shoshanat-yaakov-tenor-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Shoshanat Yaakov: hear the whole song first, then the tenor part on its own."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-tenor-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-tenor-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-tenor-4",
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-tenor-5",
+                    "title": {"en": "Lines 7 to 10", "es": "Frases 7 a 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is line 2 again. Sing it with the guide.", "es": "La frase 8 repite la frase 2. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is line 3 again. Sing it with the guide.", "es": "La frase 9 repite la frase 3. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is line 4 again. Sing it with the guide.", "es": "La frase 10 repite la frase 4. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 to 10 joined, with the guide.", "es": "Ahora las frases 7 a 10 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [6, 7, 8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-tenor-6",
+                    "title": {"en": "Lines 11 to 13", "es": "Frases 11 a 13"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 to 13 joined: hear them, then sing them back."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [10, 11, 12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-tenor-7",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shoshanat Yaakov start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [6, 7, 8, 9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Vegam Charvona start to end, with the guide."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-tenor-8",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-tenor-9",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shoshanat-yaakov",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shoshanat-yaakov-tenor-10",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of Shoshanat Yaakov in Sing, with the other parts playing."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shoshanat-yaakov", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
