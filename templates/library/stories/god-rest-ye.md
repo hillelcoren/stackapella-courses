@@ -157,7 +157,7 @@ Our arrangement reads Stainer's four parts for No. 1 in a printing of the 1870s,
 - [Soprano](/songs/god-rest-ye/soprano): the tune. It opens on two Es and leaps up to B on "you"; land the B cleanly. It reaches its low D on "Let" and "Was" and its top E on "Satan's" and on "of" in the last "O tidings of comfort and joy". The quick "comfort" in the middle of the refrain is two short notes, G and F-sharp.
 - [Alto](/songs/god-rest-ye/alto): starts and ends on the tune's E. In the first line it sings D-sharp on "merry", then D natural on "gentle-" two beats later: two different Ds, so solo it in the player. D-sharp, the note that pulls the minor key home to E, comes back under "dismay" and "Christmas Day". On the refrain's quick "comfort" it drops to its lowest note, B, which it also sings on "Let" and "Was".
 - [Tenor](/songs/god-rest-ye/tenor): fills in the middle of the chord, mostly on G and B. "To", at the start of the third line, is a G-sharp, where the first two lines sang G natural. It rises to D on "astray" and on "O tidings" and "comfort" in the last line.
-- [Bass](/songs/god-rest-ye/bass): the roots, mostly E and B. D-sharp on "mer-" and "Christ" steps down to B, then home to E. The low G first comes on "Let", and the top A on "save".
+- [Bass](/songs/god-rest-ye/bass): the bass line, mostly E and B. D-sharp on "mer-" and "Christ" steps down to B, then home to E. The low G first comes on "Let", and the top A on "save".
 
 ## Questions
 
@@ -175,7 +175,7 @@ Nobody knows. The earliest known printings, broadsides of the 1700s, name no aut
 
 ### Which part sings the tune?
 
-The soprano sings the tune in our arrangement. With two singers you have the tune and the alto; with three, add the bass on the roots; with four, the tenor fills the middle of the chord.
+The soprano sings the tune in our arrangement. With two singers you have the tune and the alto; with three, add the bass; with four, the tenor fills the middle of the chord.
 
 ## Sing next
 

@@ -146,7 +146,7 @@ Our arrangement reads the Golden Book's four parts on page 66, printed in F and 
 - [Soprano](/songs/deck-the-halls/soprano): you carry the Welsh tune. "Deck the halls with boughs" steps down the scale from B-flat to E-flat, and the "fa la la" that ends the first, second and last lines dips to a low D before it lands. In the rising "fa la la" in the middle you climb to your top E-flat on the last "la"; aim for it.
 - [Alto](/songs/deck-the-halls/alto): you sing the words a third under the tune for most of the verse, mostly on E-flat and D. In the rising "fa la la" you hold G while the tune climbs, then follow it down a sixth below. You end the first and last lines on a low G.
 - [Tenor](/songs/deck-the-halls/tenor): you hold the middle of the chord, mostly on B-flat. At the end of the first and last lines you walk down A-flat, G, F to a low E-flat. In the middle "fa la la", as the tune comes back down, one note is an A-natural; listen for it in the player.
-- [Bass](/songs/deck-the-halls/bass): you sing the roots, mostly E-flat and B-flat, the home chord and the one that leads back to it. In the "fa la la" that ends the first, second and last lines you drop for one quick note to a low A-flat, your lowest.
+- [Bass](/songs/deck-the-halls/bass): you sing the bass line, mostly E-flat and B-flat, the roots of the home chord and of the one that leads back to it. In the "fa la la" that ends the first, second and last lines you drop for one quick note to a low A-flat, your lowest.
 
 ## Questions
 
@@ -164,7 +164,7 @@ It means "let us now put on our festive clothes". To don is to put on, apparel i
 
 ### Which part sings the tune?
 
-The soprano sings the tune in our arrangement. With two singers you have the tune and the alto, a third below it for most of the verse; with three, add the bass on the roots; the tenor makes four. The tune's highest note, a top E-flat, comes on the last "la" of the rising "fa la la" in the middle.
+The soprano sings the tune in our arrangement. With two singers you have the tune and the alto, a third below it for most of the verse; with three, add the bass; the tenor makes four. The tune's highest note, a top E-flat, comes on the last "la" of the rising "fa la la" in the middle.
 
 ## Sing next
 

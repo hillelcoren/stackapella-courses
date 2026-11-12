@@ -155,7 +155,7 @@ Our arrangement reads the four parts of the hymnal's 1875 standard edition, in G
 - [Soprano](/songs/hark-the-herald/soprano): Mendelssohn's tune, from the low D of the opening "Hark!" to the top E on "With th'angelic" and the refrain's "Hark! the herald". Its repeated high Ds on "Glory to", "Joyful, all" and "Join the tri-" should stay light, so the E has somewhere to go.
 - [Alto](/songs/hark-the-herald/alto): starts on the tune's D and holds it through "Hark! the herald an-" while the tune climbs, then sings mostly a third or a sixth below. Tune the sharpened notes: C-sharp on "reconciled", G-sharp on "proclaim" and the refrain's "angels". The last "King" drops to a low B, the part's lowest note.
 - [Tenor](/songs/hark-the-herald/tenor): the middle of the chord, mostly on D, B and E. It holds A on "Joyful, all" and "Join the tri-" under the tune's high D, and holds its top E through "With th'angelic host" and the refrain's "Hark! the herald an-": keep it steady as the others move.
-- [Bass](/songs/hark-the-herald/bass): the roots, from the low G of the opening. It holds D under "Joyful, all" and "Join the", then C under "With th'angelic host" before climbing through E to A on "proclaim"; the refrain does the same climb on "angels sing". The last "King" is the high G, an octave above where it began.
+- [Bass](/songs/hark-the-herald/bass): the bass line, from the low G of the opening. It holds D under "Joyful, all" and "Join the", then C under "With th'angelic host" before climbing through E to A on "proclaim"; the refrain does the same climb on "angels sing". The last "King" is the high G, an octave above where it began.
 
 ## Questions
 

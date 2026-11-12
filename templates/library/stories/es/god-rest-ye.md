@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: god rest ye merry gentlemen historia | god rest ye merry gentlemen significado | quién escribió god rest ye merry gentlemen | god rest ye merry gentlemen dónde va la coma | god rest ye merry gentlemen letra original
-translatedFrom: 6dce47051fa8
+translatedFrom: eb76ad61a286
 listen: Internet Archive, grabación de 1917 | https://archive.org/details/edison-50447_01_5677 || Internet Archive, grabación de 1923 | https://archive.org/details/78_god-rest-ye-merry-gentlemen_champion-quartette_gbia0535287a
 original: Four Choice Carols for Christmas Holidays (hacia 1700), English Broadside Ballad Archive | https://ebba.english.ucsb.edu/ballad/31130/citation
 ---
@@ -203,7 +203,7 @@ Nuestro arreglo toma las cuatro voces de Stainer para el n.º 1 en una impresió
 - [Soprano](/songs/god-rest-ye/soprano): la melodía. Empieza con dos Mi y salta a Si en "you"; aterriza en ese Si con limpieza. Llega a su Re grave en "Let" y "Was" y a su Mi agudo en "Satan's" y en "of" del último "O tidings of comfort and joy". El rápido "comfort" en medio del estribillo son dos notas cortas, Sol y Fa sostenido.
 - [Contralto](/songs/god-rest-ye/alto): empieza y termina en el Mi de la melodía. En el primer verso canta Re sostenido en "merry" y luego Re becuadro en "gentle-", dos tiempos después: son dos Re distintos, así que ponla en solo en el reproductor. El Re sostenido, la nota que lleva la tonalidad menor de vuelta a casa, a Mi, vuelve debajo de "dismay" y "Christmas Day". En el rápido "comfort" del estribillo baja a su nota más grave, Si, que también canta en "Let" y "Was".
 - [Tenor](/songs/god-rest-ye/tenor): rellena el centro del acorde, casi siempre en Sol y Si. "To", al comienzo del tercer verso, es un Sol sostenido, donde los dos primeros versos cantaban Sol becuadro. Sube a Re en "astray" y en "O tidings" y "comfort" del último verso.
-- [Bajo](/songs/god-rest-ye/bass): las fundamentales, casi siempre Mi y Si. El Re sostenido de "mer-" y "Christ" baja a Si y luego vuelve a casa, a Mi. El Sol grave llega por primera vez en "Let", y el La agudo en "save".
+- [Bajo](/songs/god-rest-ye/bass): la línea del bajo, casi siempre Mi y Si. El Re sostenido de "mer-" y "Christ" baja a Si y luego vuelve a casa, a Mi. El Sol grave llega por primera vez en "Let", y el La agudo en "save".
 
 ## Preguntas
 
@@ -221,7 +221,7 @@ Nadie lo sabe. Las primeras impresiones conocidas, hojas sueltas del siglo XVIII
 
 ### ¿Qué voz canta la melodía?
 
-En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo en las fundamentales; con cuatro, el tenor llena el centro del acorde.
+En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo; con cuatro, el tenor llena el centro del acorde.
 
 ## Canta después
 

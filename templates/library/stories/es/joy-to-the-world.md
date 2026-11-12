@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: joy to the world historia | quién escribió joy to the world | joy to the world es un villancico | joy to the world significado | al mundo paz himno historia | joy to the world händel
-translatedFrom: 6afcbdae8f3f
+translatedFrom: 1e8ee7998a2c
 listen: Internet Archive, grabación de 1916 | https://archive.org/details/78_joy-to-the-world_the-carol-singers_gbia0132469b || Internet Archive, grabación de 1920 | https://archive.org/details/78_joy-to-the-world_regal-male-quartette-handel_gbia0177355b
 original: Psalms of David Imitated de Watts (1719), Internet Archive | https://archive.org/details/chrtwimi00watt/page/n288/mode/1up
 ---
@@ -125,7 +125,7 @@ Nuestro arreglo toma las cuatro voces de Mason de The National Psalmist de 1848,
 - [Soprano](/songs/joy-to-the-world/soprano): llevas la melodía. Empieza bajando la escala de un tirón, las ocho notas desde el Re agudo hasta el grave, en "Joy to the world, the Lord is come!". En el último "And heav'n" salta de nuevo al Re agudo; apunta a él.
 - [Contralto](/songs/joy-to-the-world/alto): cantas la letra justo debajo de la melodía, casi siempre una tercera o una sexta por debajo. En "Let ev'ry heart prepare him room" vas casi todo en terceras con la soprano, y terminas en el Re grave con la melodía.
 - [Tenor](/songs/joy-to-the-world/tenor): rellenas el centro del acorde, casi siempre en La, con Fa sostenido y Sol. Descansas durante "Let ev'ry heart prepare him room" y luego entras un compás detrás de los demás en "And heav'n and nature sing", con una serie de La repetidos. Cuenta los silencios.
-- [Bajo](/songs/joy-to-the-world/bass): cantas las fundamentales, casi siempre Re y La. Debajo de "Let ev'ry heart prepare him room" te quedas en Re, y luego entras con el tenor un compás detrás en "And heav'n and nature sing". Tu nota más grave, un Sol grave, está en el último "and".
+- [Bajo](/songs/joy-to-the-world/bass): cantas la línea del bajo, casi siempre Re y La. Debajo de "Let ev'ry heart prepare him room" te quedas en Re, y luego entras con el tenor un compás detrás en "And heav'n and nature sing". Tu nota más grave, un Sol grave, está en el último "and".
 
 ## Preguntas
 

@@ -108,7 +108,7 @@ Our arrangement reads Mason's four parts from The National Psalmist of 1848, pag
 - [Soprano](/songs/joy-to-the-world/soprano): you carry the tune. It opens by running straight down the scale, all eight notes from the top D to the low one, on "Joy to the world, the Lord is come!". On the last "And heav'n" it leaps back up to the top D; aim for it.
 - [Alto](/songs/joy-to-the-world/alto): you sing the words just under the tune, mostly a third or a sixth below it. On "Let ev'ry heart prepare him room" you move mostly in thirds with the soprano, and you end on the low D with the tune.
 - [Tenor](/songs/joy-to-the-world/tenor): you fill in the middle of the chord, mostly on A, with F-sharp and G. You rest through "Let ev'ry heart prepare him room", then come in a bar behind the others on "And heav'n and nature sing", on a run of repeated A's. Count the rests.
-- [Bass](/songs/joy-to-the-world/bass): you sing the roots, mostly D and A. Under "Let ev'ry heart prepare him room" you stay on D, then come in with the tenor a bar behind on "And heav'n and nature sing". Your lowest note, a low G, is on the last "and".
+- [Bass](/songs/joy-to-the-world/bass): you sing the bass line, mostly D and A. Under "Let ev'ry heart prepare him room" you stay on D, then come in with the tenor a bar behind on "And heav'n and nature sing". Your lowest note, a low G, is on the last "and".
 
 ## Questions
 

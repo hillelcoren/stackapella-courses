@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: deck the halls historia | deck the halls significado | quién escribió deck the halls | deck the halls letra en español | deck the halls origen | deck the halls gay apparel significado
-translatedFrom: 2ca038608d7e
+translatedFrom: f50f01dc327a
 original: British Harmony de John Parry (1781), National Library of Wales | https://viewer.library.wales/4675640
 ---
 
@@ -195,7 +195,7 @@ Nuestro arreglo está tomado de las cuatro voces del Golden Book en la página 6
 - [Soprano](/songs/deck-the-halls/soprano): llevas la melodía galesa. "Deck the halls with boughs" baja por la escala de Si bemol a Mi bemol, y el "fa la la" que cierra el primer, el segundo y el último verso baja a un Re grave antes de asentarse. En el "fa la la" que sube por el medio llegas a tu Mi bemol agudo en el último "la"; apunta a esa nota.
 - [Contralto](/songs/deck-the-halls/alto): cantas la letra una tercera por debajo de la melodía durante casi toda la estrofa, sobre todo en Mi bemol y Re. En el "fa la la" que sube sostienes un Sol mientras la melodía asciende, y luego la sigues hacia abajo una sexta por debajo. Terminas el primer y el último verso en un Sol grave.
 - [Tenor](/songs/deck-the-halls/tenor): sostienes el centro del acorde, sobre todo en Si bemol. Al final del primer y del último verso bajas La bemol, Sol, Fa hasta un Mi bemol grave. En el "fa la la" del medio, cuando la melodía vuelve a bajar, una nota es un La becuadro; búscala en el reproductor.
-- [Bajo](/songs/deck-the-halls/bass): cantas las fundamentales, sobre todo Mi bemol y Si bemol, el acorde de tónica y el que lleva de vuelta a él. En el "fa la la" que cierra el primer, el segundo y el último verso bajas una nota rápida a un La bemol grave, tu nota más grave.
+- [Bajo](/songs/deck-the-halls/bass): cantas la línea del bajo, sobre todo Mi bemol y Si bemol, las fundamentales del acorde de tónica y del que lleva de vuelta a él. En el "fa la la" que cierra el primer, el segundo y el último verso bajas una nota rápida a un La bemol grave, tu nota más grave.
 
 ## Preguntas
 
@@ -213,7 +213,7 @@ Quiere decir "pongámonos ahora nuestra ropa de fiesta". "Don" es ponerse, "appa
 
 ### ¿Qué voz canta la melodía?
 
-En nuestro arreglo la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto, una tercera por debajo durante casi toda la estrofa; con tres, se suma el bajo en las fundamentales; el tenor completa las cuatro. La nota más aguda de la melodía, un Mi bemol agudo, llega en el último "la" del "fa la la" que sube por el medio.
+En nuestro arreglo la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto, una tercera por debajo durante casi toda la estrofa; con tres, se suma el bajo; el tenor completa las cuatro. La nota más aguda de la melodía, un Mi bemol agudo, llega en el último "la" del "fa la la" que sube por el medio.
 
 ## Canta después
 
