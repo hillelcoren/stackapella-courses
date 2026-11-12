@@ -5,8 +5,8 @@ lead: Poema de Joseph Mohr, melodía de Franz Xaver Gruber: se cantó por primer
 words: Joseph Mohr (1816); en inglés, John Freeman Young (1859)
 tune: Franz Xaver Gruber (1818)
 tuneName: STILLE NACHT
-earliestPrinting: Vier ächte Tyroler Lieder, A. R. Friese, Dresde, hacia 1833
-earliestPrintingSource: sng-spread
+earliestPrinting: Vier schöne neue Weihnachtslieder, Joseph Greis, Steyr, antes de 1832 (solo la letra)
+earliestPrintingSource: sng-greis
 language: alemán; inglés
 origin: Oberndorf bei Salzburg, Austria
 occasion: Nochebuena
@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: noche de paz historia | noche de paz significado | quién escribió noche de paz | noche de paz tregua de navidad 1914 | silent night letra significado | noche de paz letra original en alemán
-translatedFrom: 6e0785a6703e
+translatedFrom: a716b38fc3c9
 ---
 
 Silent Night, Noche de paz en español, es un villancico de Austria. Joseph Mohr, un sacerdote católico coadjutor, escribió su letra alemana, Stille Nacht! Heilige Nacht!, como un poema en 1816. Franz Xaver Gruber, maestro de escuela de pueblo y organista de la iglesia, le puso música para la Nochebuena de 1818 en Oberndorf, cerca de Salzburgo [^sng-hist][^hochradner]. En unos veinte años, familias de cantantes tiroleses la habían llevado a Leipzig y, según se cree, a Nueva York, casi siempre sin los nombres de sus autores [^sng-spread][^hymnarchive]. La Sociedad Noche de Paz conoce traducciones a más de 300 idiomas y dialectos; un reportaje alemán de 2024 habla de más de 320 [^sng-spread][^sonntagsblatt]. La versión inglesa que canta casi todo el mundo es la de John Freeman Young, impresa en Nueva York en 1859 [^young][^hymnarchive].
@@ -42,7 +42,8 @@ En 1854 los músicos de la corte real de Berlín preguntaron a la abadía de San
 - 1816: Joseph Mohr escribe el poema en Mariapfarr, donde es coadjutor. [^sng-time][^hochradner][^hymnarchive]
 - 1818: Gruber le pone música el 24 de diciembre, y se canta en la misa de Nochebuena de Oberndorf. [^sng-hist][^hochradner][^hymnarchive]
 - 1832: La familia Strasser la canta en un concierto en Leipzig en diciembre. [^sng-spread][^hochradner][^hymnarchive]
-- 1833: Hacia este año, su primera impresión conocida, en Dresde, como canción tirolesa. [^sng-spread][^hymnarchive]
+- antes de 1832: Joseph Greis imprime las seis estrofas, solo la letra, en un pliego navideño en Steyr, la primera impresión conocida del texto. [^sng-greis][^orf-greis]
+- 1833: Hacia este año, su primera impresión conocida con música, en Dresde, como canción tirolesa. [^sng-spread][^hymnarchive]
 - 1839: Se cree que los cantantes de la familia Rainer la llevan a Nueva York. [^sng-spread][^hymnarchive]
 - 1854: Gruber fecha su relato del origen de la canción el 30 de diciembre. [^sng-time][^hymnarchive]
 - 1859: La versión inglesa de John Freeman Young se imprime en Nueva York, en Carols for Christmas Tide. [^young]
@@ -108,6 +109,8 @@ En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la me
 - [^sng-spread]: Stille Nacht Gesellschaft, *Spreading of the Song*. https://www.stillenacht.at/en/history/spreading-of-the-song
 - [^sng-text]: Stille Nacht Gesellschaft, *Text and Music* (los autógrafos y las seis estrofas). https://www.stillenacht.at/en/text-and-music
 - [^hochradner]: Thomas Hochradner (Universität Mozarteum Salzburg), *Empfehlung zur Aufnahme des Elementes Weihnachtslied aus Salzburg "Stille Nacht! Heilige Nacht!" in die UNESCO-Liste des immateriellen Kulturerbes* (carta a la Stille-Nacht-Gesellschaft, 30 de diciembre de 2010), Österreichische UNESCO-Kommission. https://www.unesco.at/fileadmin/Redaktion/Kultur/IKE/IKE-DB/files/432.doc
+- [^sng-greis]: Stille Nacht Gesellschaft, *Erster Stille-Nacht-Textdruck in Steyr vor 1832 bewiesen* (en alemán). https://www.stillenacht.at/neuigkeiten/erster-stille-nacht-textdruck-in-steyr-vor-1832-bewiesen
+- [^orf-greis]: religion.ORF.at, *Ältester Textdruck von "Stille Nacht" aufgetaucht* (en alemán, noviembre de 2016). https://religion.orf.at/v3/stories/2808781/
 - [^hymnarchive]: Hymnology Archive, *Stille Nacht / Silent Night*. https://www.hymnologyarchive.com/stille-nacht-silent-night
 - [^mohr-ms]: Joseph Mohr, *Weyhnachts-Lied*, autógrafo para voces y guitarra (hacia 1820 a 1825), Salzburg Museum; facsímil en Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Autograph_Mohr_Stille_Nacht.jpg
 - [^young]: J. Freeman Young (ed.), *Carols for Christmas Tide* (Daniel Dana, Jr., Nueva York, 1859), n.º 1, facsímil de la portada y del villancico en Hymns and Carols of Christmas. https://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/silent_night_holy_night-1.htm

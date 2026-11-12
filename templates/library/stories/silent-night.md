@@ -5,8 +5,8 @@ lead: Joseph Mohr's poem, Franz Xaver Gruber's tune: first sung on Christmas Eve
 words: Joseph Mohr (1816); English, John Freeman Young (1859)
 tune: Franz Xaver Gruber (1818)
 tuneName: STILLE NACHT
-earliestPrinting: Vier ächte Tyroler Lieder, A. R. Friese, Dresden, about 1833
-earliestPrintingSource: sng-spread
+earliestPrinting: Vier schöne neue Weihnachtslieder, Joseph Greis, Steyr, before 1832 (the words alone)
+earliestPrintingSource: sng-greis
 language: German; English
 origin: Oberndorf bei Salzburg, Austria
 occasion: Christmas Eve
@@ -41,7 +41,8 @@ In 1854 the royal court musicians in Berlin asked St Peter's Abbey in Salzburg w
 - 1816: Joseph Mohr writes the poem in Mariapfarr, where he is assistant priest. [^sng-time][^hochradner][^hymnarchive]
 - 1818: Gruber sets it on 24 December, and it is sung at Christmas Eve Mass in Oberndorf. [^sng-hist][^hochradner][^hymnarchive]
 - 1832: The Strasser family sings it at a concert in Leipzig in December. [^sng-spread][^hochradner][^hymnarchive]
-- 1833: About this year, its earliest known printing, in Dresden, as a Tyrolean song. [^sng-spread][^hymnarchive]
+- before 1832: Joseph Greis prints all six stanzas, the words alone, in a Christmas leaflet at Steyr, the earliest known printing of the text. [^sng-greis][^orf-greis]
+- 1833: About this year, its earliest known printing with music, in Dresden, as a Tyrolean song. [^sng-spread][^hymnarchive]
 - 1839: The Rainer family singers are believed to bring it to New York. [^sng-spread][^hymnarchive]
 - 1854: Gruber dates his account of the song's making 30 December. [^sng-time][^hymnarchive]
 - 1859: John Freeman Young's English is printed in New York, in Carols for Christmas Tide. [^young]
@@ -107,6 +108,8 @@ The soprano sings the tune in our arrangement. With two singers you have the tun
 - [^sng-spread]: Stille Nacht Gesellschaft, *Spreading of the Song*. https://www.stillenacht.at/en/history/spreading-of-the-song
 - [^sng-text]: Stille Nacht Gesellschaft, *Text and Music* (the autographs and the six verses). https://www.stillenacht.at/en/text-and-music
 - [^hochradner]: Thomas Hochradner (Universität Mozarteum Salzburg), *Empfehlung zur Aufnahme des Elementes Weihnachtslied aus Salzburg "Stille Nacht! Heilige Nacht!" in die UNESCO-Liste des immateriellen Kulturerbes* (letter to the Stille-Nacht-Gesellschaft, 30 December 2010), Österreichische UNESCO-Kommission. https://www.unesco.at/fileadmin/Redaktion/Kultur/IKE/IKE-DB/files/432.doc
+- [^sng-greis]: Stille Nacht Gesellschaft, *Erster Stille-Nacht-Textdruck in Steyr vor 1832 bewiesen* (in German). https://www.stillenacht.at/neuigkeiten/erster-stille-nacht-textdruck-in-steyr-vor-1832-bewiesen
+- [^orf-greis]: religion.ORF.at, *Ältester Textdruck von "Stille Nacht" aufgetaucht* (in German, November 2016). https://religion.orf.at/v3/stories/2808781/
 - [^hymnarchive]: Hymnology Archive, *Stille Nacht / Silent Night*. https://www.hymnologyarchive.com/stille-nacht-silent-night
 - [^mohr-ms]: Joseph Mohr, *Weyhnachts-Lied*, autograph for voices and guitar (about 1820 to 1825), Salzburg Museum; facsimile on Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Autograph_Mohr_Stille_Nacht.jpg
 - [^young]: J. Freeman Young (ed.), *Carols for Christmas Tide* (Daniel Dana, Jr., New York, 1859), No. 1, facsimile of the title page and carol at Hymns and Carols of Christmas. https://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/silent_night_holy_night-1.htm
