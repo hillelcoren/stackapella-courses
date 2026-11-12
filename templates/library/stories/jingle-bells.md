@@ -170,7 +170,7 @@ The soprano sings the tune in our arrangement. With two singers you have the tun
 
 ## Sources
 
-- [^ditson1857]: J. Pierpont, *The One Horse Open Sleigh: Song and Chorus* (Boston: Oliver Ditson & Co., 1857), plate 18200, cover and pp. 3 to 5, with the deposit note "Deposited Sept. 16. 1857"; Library of Congress copy (item 2023812429), facsimile on the Internet Archive. https://archive.org/details/loc-american-sheet-mus-2023812429-the-one-horse-open-sleigh
+- [^ditson1857]: J. Pierpont, *The One Horse Open Sleigh: Song and Chorus* (Boston: Oliver Ditson & Co., 1857), plate 18200, cover and pp. 3 to 5, with the deposit note "Deposited Sept. 16. 1857"; Library of Congress copy (item 2023812429), https://www.loc.gov/item/2023812429/
 - [^carmina1876]: Henry Randall Waite, ed., *Carmina Collegensia* (Boston: Oliver Ditson & Co., 1876), pp. 18 to 19, "Jingle, Bells"; York University Libraries copy, facsimile. https://archive.org/details/carminacollegens00wait
 - [^heartsongs1909]: Joe Mitchell Chapple, ed., *Heart Songs Dear to the American People* (Boston: The Chapple Publishing Company, 1909), foreword and pp. 148 to 149, "Jingle, Bells"; facsimile. https://archive.org/details/heartsongsdearto00chap
 - [^hamill]: Kyna Hamill, "'The story I must tell': 'Jingle Bells' in the Minstrel Repertoire", *Theatre Survey* 58, no. 3 (September 2017), pp. 375 to 403. https://www.cambridge.org/core/journals/theatre-survey/article/story-i-must-tell-jingle-bells-in-the-minstrel-repertoire/D42C78950A58BDB88290954F73B195B2
