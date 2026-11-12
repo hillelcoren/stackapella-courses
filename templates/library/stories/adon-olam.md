@@ -42,7 +42,7 @@ His Schirej Tefilah, songs for the synagogue, was printed in Rostov, and the edi
 
 ## What the words mean
 
-The hymn moves from Hashem beyond time to the singer's own trust: Abrahams saw its charm in joining the faith's great doctrines to simple thoughts of the heart.[^abrahams] Here is each of the ten lines in plain words, as the Ashkenazi prayer book prints them.[^sefaria] We sing lines 1 to 6, 9 and 10, two lines to each time through Gerovitsch's strain, and leave out 7 and 8.
+The hymn moves from Hashem beyond time to the singer's own trust: Abrahams saw its charm in joining the faith's great doctrines to simple thoughts of the heart.[^abrahams] Here is each of the ten lines in plain words, as the Ashkenazi prayer book prints them.[^sefaria]
 
 **Line 1 (sung).** Lord of the world, who was King before anything at all was formed. Adon is "lord", and olam is "world", a word that also means "forever". Malach is "reigned".
 
@@ -68,6 +68,80 @@ In line 10 the Hebrew has the four-letter name, and we sing "Adoshem li", the su
 
 Gerovitsch printed the words in the Ashkenazi pronunciation, "Adon olom ascher molach".[^zemer] We sing them in modern Israeli pronunciation, on the same notes.
 
+### The full words
+
+These are the ten lines as the Ashkenazi prayer book prints them, in the Hebrew of the Metsudah Siddur on Sefaria, each line split at its comma.[^sefaria] The transliteration uses the substituted names: Keli for Eli in line 7, and Adoshem in line 10.
+
+**Lines 1 and 2**
+> אֲדוֹן עוֹלָם אֲשֶׁר מָלַךְ,
+*Adon olam asher malach,*
+Lord of the world, who was King
+> בְּטֶֽרֶם כָּל יְצִיר נִבְרָא:
+*b'terem kol yetzir nivra.*
+before anything at all was formed.
+> לְעֵת נַעֲשָׂה בְחֶפְצוֹ כֹּל,
+*L'et naasa vecheftzo kol,*
+When everything was made by His will,
+> אֲזַי מֶֽלֶךְ שְׁמוֹ נִקְרָא:
+*azai melech shemo nikra.*
+then He was called King.
+
+**Lines 3 and 4**
+> וְאַחֲרֵי כִּכְלוֹת הַכֹּל,
+*Veacharei kichlot hakol,*
+And when everything comes to an end,
+> לְבַדּוֹ יִמְלֹךְ נוֹרָא:
+*levado yimloch nora.*
+He alone, the awesome One, will reign.
+> וְהוּא הָיָה וְהוּא הֹוֶה,
+*Vehu haya vehu hove,*
+He was, He is,
+> וְהוּא יִהְיֶה בְּתִפְאָרָה:
+*vehu yihye betifara.*
+and He will be, in glory.
+
+**Lines 5 and 6**
+> וְהוּא אֶחָד וְאֵין שֵׁנִי,
+*Vehu echad veein sheni*
+He is One, and there is no second
+> לְהַמְשִׁיל לוֹ לְהַחְבִּֽירָה:
+*lehamshilo lehachbira.*
+to compare with Him or set beside Him.
+> בְּלִי רֵאשִׁית בְּלִי תַכְלִית,
+*Beli reshit beli tachlit,*
+Without beginning, without end;
+> וְלוֹ הָעֹז וְהַמִּשְׂרָה:
+*velo haoz vehamisra.*
+strength and rule are His.
+
+**Lines 7 and 8 (not sung)**
+> וְהוּא אֵלִי וְחַי גּוֹאֲלִי,
+*Vehu Keli vechai goali,*
+He is Hashem, my living redeemer,
+> וְצוּר חֶבְלִי בְּעֵת צָרָה:
+*vetzur chevli b'et tzara.*
+my rock in my pain, in a time of trouble.
+> וְהוּא נִסִּי וּמָנוֹס לִי,
+*Vehu nisi umanos li,*
+He is my banner and my refuge,
+> מְנָת כּוֹסִי בְּיוֹם אֶקְרָא:
+*menat kosi beyom ekra.*
+my portion on the day I call.
+
+**Lines 9 and 10**
+> בְּיָדוֹ אַפְקִיד רוּחִי,
+*Beyado afkid ruchi*
+Into His hand I entrust my spirit
+> בְּעֵת אִישַׁן וְאָעִֽירָה:
+*b'et ishan veaira.*
+when I sleep and when I wake.
+> וְעִם רוּחִי גְּוִיָּתִי,
+*Veim ruchi geviyati,*
+And with my spirit, my body too.
+> יְיָ לִי וְלֹא אִירָא:
+*Adoshem li velo ira.*
+Hashem is with me; I will not fear.
+
 ## How it is sung
 
 Adon Olam has two homes in the service. It is printed at the start of the daily morning prayers, and it is best known at the end.[^je][^ej][^sefaria] In 1901 the Jewish Encyclopedia reported that Sephardi Jews, and British synagogues generally, sang it all together at the close of the Sabbath and festival morning services, while Ashkenazi Jews often sang it at the close of the evening service in place of the hymn Yigdal.[^je] Today, the Encyclopaedia Judaica says, its main place is at the close of the Musaf, the additional service that ends the Sabbath and festival morning.[^ej] The Jewish Encyclopedia found it chanted almost everywhere on the eve of Yom Kippur, and the Encyclopaedia Judaica places it at the close of the Kol Nidre service that evening.[^je][^ej][^abrahams]
@@ -80,7 +154,7 @@ Our arrangement is read from Gerovitsch's page, in D minor as printed, in 4/4. W
 
 **Other tunes.** Adon Olam has a great number of melodies, some written for it and some borrowed, Jewish and not; its simple, regular metre fits them, and American congregations often sing it to popular tunes, "Rock Around the Clock" among them.[^ej][^posen] Yet in 1901 the Jewish Encyclopedia found the traditional tunes few, only four or five, the oldest seeming to be a short melody of Spanish origin.[^je]
 
-Salamone Rossi included a setting for eight voices in his collection of Hebrew songs for the synagogue, printed in Venice in 1622 or 1623.[^ej][^imslp][^musicweb] In 1976 Uzi Hitman wrote a new tune for the eighth Hasidic Song Festival, and Zemereshet calls it the most widespread tune of the last generation.[^zemer][^ice]
+Salamone Rossi included a setting for eight voices in his collection of Hebrew songs for the synagogue, printed in Venice in 1622 or 1623.[^ej][^imslp][^musicweb] In 1976 Uzi Hitman wrote the tune that Zemereshet calls the most widespread of the last generation.[^zemer][^ice]
 
 ## Singing it
 
@@ -114,7 +188,7 @@ The soprano sings the old tune all the way through, four times, once for each pa
 - [^je]: Kaufmann Kohler and Francis L. Cohen, "Adon 'Olam", *The Jewish Encyclopedia*, vol. 1 (Funk and Wagnalls, 1901), pp. 205 to 206. https://www.jewishencyclopedia.com/articles/851
 - [^ej]: "Adon Olam", *Encyclopaedia Judaica*, 2nd ed. (Macmillan Reference USA, 2007), music section by Avigdor Herzog, via Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/adon-olam
 - [^abrahams]: Israel Abrahams, *A Companion to the Authorised Daily Prayer Book*, revised edition (London: Eyre and Spottiswoode, 1922), pp. vii to ix. https://archive.org/details/acompaniontotheauthoriseddailyprayerbookrevisededitionisraelabrahams1922
-- [^sefaria]: "Adon Olam", *Siddur Ashkenaz*, weekday morning service, preparatory prayers, Hebrew from the Metsudah Siddur (1981), Sefaria. https://www.sefaria.org/Siddur_Ashkenaz,_Weekday,_Shacharit,_Preparatory_Prayers,_Adon_Olam
+- [^sefaria]: "Adon Olam", *Siddur Ashkenaz*, weekday morning service, preparatory prayers, Hebrew from *The Metsudah Siddur* (1981), via Sefaria, licensed CC BY 3.0. https://www.sefaria.org/Siddur_Ashkenaz,_Weekday,_Shacharit,_Preparatory_Prayers,_Adon_Olam
 - [^jegab]: Richard Gottheil, Stephen S. Wise and Michael Friedländer, "Ibn Gabirol, Solomon ben Judah", *The Jewish Encyclopedia*, vol. 6 (Funk and Wagnalls, 1904), p. 526. https://jewishencyclopedia.com/articles/6448-gabirol-solomon-ibn
 - [^posen]: "Adon Olam Prayer to a Tune from the Musical Hamilton", *The Posen Library of Jewish Culture and Civilization* (2016). https://www.posenlibrary.com/node/12052
 - [^ejger]: Joshua Leib Ne'eman, "Gerovich, Eliezer Mordecai ben Isaac", *Encyclopaedia Judaica*, 2nd ed. (Macmillan Reference USA, 2007), via Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/gerovich-eliezer-mordecai-ben-isaac

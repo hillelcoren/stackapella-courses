@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adir hu significado | adir hu traducción | adir hu letra en español | adir hu canción de pésaj | adir hu transliteración | quién escribió adir hu
-translatedFrom: 8b75f6477b05
+translatedFrom: 04eeaf0093db
 ---
 
 Adir Hu es un himno hebreo que se canta en el séder de Pésaj, el rito en casa y la cena festiva de las primeras noches de la fiesta.[^je][^idel29] En el rito asquenazí llega una vez terminado el rito formal, entre los cantos que cierran la velada.[^ej][^sefaria] Sus estrofas recorren el alfabeto hebreo y alaban a Hashem como poderoso, elegido, grande, santo y más, y cada una termina con la misma súplica: construye Tu casa, el Templo, pronto.[^je][^ej][^sefaria] A diferencia de la mayoría de los cantos del séder, tiene una sola melodía casi en todas partes. La Jewish Encyclopedia de 1901 señalaba que, mientras los demás himnos del séder tenían muchas melodías, este se cantaba con la misma, y que las sinagogas la tomaban prestada para marcar la fiesta en sus propias oraciones.[^je][^ej]
@@ -57,6 +57,114 @@ El título son las primeras palabras: adir es poderoso, hu es él. "Él es poder
 **Estrofa 3.** Tzadik hu, kadosh hu, rachum hu: Él es justo, Él es santo, Él es compasivo. Estos vienen de las dos últimas estrofas del himno.[^sefaria][^uh1923]
 
 Donde el hebreo dice El, uno de los nombres de Hashem, cantamos Kel, el nombre sustituto que se acostumbra al cantar fuera de la oración. Muchos judíos cambian así los nombres de Hashem cuando los dicen fuera de la oración, por reverencia y para no tomar el nombre en vano.[^ohr]
+
+### La letra completa
+
+Estas son las ocho estrofas tal como las imprime la Hagadá de Sefaria, tomadas del sitio Da'at, con las vocales impresas.[^sefaria] La transliteración es israelí moderna, con Kel y Shakai en lugar de El y Shadai, como se canta fuera de la oración; la traducción es nuestra.
+
+> אַדִּיר הוּא
+*Adir hu,*
+Él es poderoso,
+> יִבְנֶה בֵיתוֹ בְּקָרוֹב.
+*yivne veito bekarov.*
+que construya pronto Su casa.
+> בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
+*Bimhera, bimhera, beyameinu bekarov.*
+Deprisa, deprisa, en nuestros días, pronto.
+> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+*Kel bene, Kel bene, b'ne veitcha bekarov.*
+Hashem, construye, Hashem, construye, construye pronto Tu casa.
+
+> בָּחוּר הוּא, גָּדוֹל הוּא, דָּגוּל הוּא
+*Bachur hu, gadol hu, dagul hu,*
+Él es elegido, Él es grande, Él es insigne,
+> יִבְנֶה בֵיתוֹ בְּקָרוֹב.
+*yivne veito bekarov.*
+que construya pronto Su casa.
+> בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
+*Bimhera, bimhera, beyameinu bekarov.*
+Deprisa, deprisa, en nuestros días, pronto.
+> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+*Kel bene, Kel bene, b'ne veitcha bekarov.*
+Hashem, construye, Hashem, construye, construye pronto Tu casa.
+
+> הָדוּר הוּא, וָתִיק הוּא, זַכַּאי הוּא
+*Hadur hu, vatik hu, zakai hu,*
+Él es glorioso, Él es fiel, Él es intachable,
+> יִבְנֶה בֵיתוֹ בְּקָרוֹב.
+*yivne veito bekarov.*
+que construya pronto Su casa.
+> בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
+*Bimhera, bimhera, beyameinu bekarov.*
+Deprisa, deprisa, en nuestros días, pronto.
+> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+*Kel bene, Kel bene, b'ne veitcha bekarov.*
+Hashem, construye, Hashem, construye, construye pronto Tu casa.
+
+> חָסִיד הוּא, טָהוֹר הוּא, יָחִיד הוּא
+*Chasid hu, tahor hu, yachid hu,*
+Él es bondadoso, Él es puro, Él es uno,
+> יִבְנֶה בֵיתוֹ בְּקָרוֹב.
+*yivne veito bekarov.*
+que construya pronto Su casa.
+> בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
+*Bimhera, bimhera, beyameinu bekarov.*
+Deprisa, deprisa, en nuestros días, pronto.
+> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+*Kel bene, Kel bene, b'ne veitcha bekarov.*
+Hashem, construye, Hashem, construye, construye pronto Tu casa.
+
+> כַּבִּיר הוּא, לָמוּד הוּא, מֶלֶךְ הוּא
+*Kabir hu, lamud hu, melech hu,*
+Él es grande en poder, Él es sabio, Él es Rey,
+> יִבְנֶה בֵיתוֹ בְּקָרוֹב.
+*yivne veito bekarov.*
+que construya pronto Su casa.
+> בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
+*Bimhera, bimhera, beyameinu bekarov.*
+Deprisa, deprisa, en nuestros días, pronto.
+> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+*Kel bene, Kel bene, b'ne veitcha bekarov.*
+Hashem, construye, Hashem, construye, construye pronto Tu casa.
+
+> נוֹרָא הוּא, סַגִּיב הוּא, עִזּוּז הוּא
+*Nora hu, sagiv hu, izuz hu,*
+Él es imponente, Él es excelso, Él es fuerte,
+> יִבְנֶה בֵיתוֹ בְּקָרוֹב.
+*yivne veito bekarov.*
+que construya pronto Su casa.
+> בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
+*Bimhera, bimhera, beyameinu bekarov.*
+Deprisa, deprisa, en nuestros días, pronto.
+> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+*Kel bene, Kel bene, b'ne veitcha bekarov.*
+Hashem, construye, Hashem, construye, construye pronto Tu casa.
+
+> פּוֹדֶה הוּא, צַדִּיק הוּא, קָּדוֹשׁ הוּא
+*Pode hu, tzadik hu, kadosh hu,*
+Él es el Redentor, Él es justo, Él es santo,
+> יִבְנֶה בֵיתוֹ בְּקָרוֹב.
+*yivne veito bekarov.*
+que construya pronto Su casa.
+> בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
+*Bimhera, bimhera, beyameinu bekarov.*
+Deprisa, deprisa, en nuestros días, pronto.
+> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+*Kel bene, Kel bene, b'ne veitcha bekarov.*
+Hashem, construye, Hashem, construye, construye pronto Tu casa.
+
+> רַחוּם הוּא, שַׁדַּי הוּא, תַּקִּיף הוּא
+*Rachum hu, Shakai hu, takif hu,*
+Él es compasivo, Él es el Todopoderoso, Él es potente,
+> יִבְנֶה בֵיתוֹ בְּקָרוֹב.
+*yivne veito bekarov.*
+que construya pronto Su casa.
+> בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
+*Bimhera, bimhera, beyameinu bekarov.*
+Deprisa, deprisa, en nuestros días, pronto.
+> אֵל בְּנֵה, אֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
+*Kel bene, Kel bene, b'ne veitcha bekarov.*
+Hashem, construye, Hashem, construye, construye pronto Tu casa.
 
 ## Cómo se canta
 
@@ -116,7 +224,7 @@ La soprano canta la melodía todo el tiempo, tal como la imprime la Union Haggad
 - [^uh1923]: Central Conference of American Rabbis, *The Union Haggadah: Home Service for the Passover*, edición revisada (1923), pp. 78 a 81, 84 y 156 a 158. https://archive.org/details/unionhaggadahhom00unse
 - [^uh1897]: Central Conference of American Rabbis, *Union Hymnal* (1897), n.º 91, "God of Might, God of Right", e índice de primeros versos. https://archive.org/details/unionhymnal00rabbgoog
 - [^hymnary]: Hymnary.org, "God of might, God of right" (ficha del texto, Gustav Gottheil) y ADDIR HU (ficha de la melodía). https://hymnary.org/text/god_of_might_god_of_right
-- [^sefaria]: *Pesach Haggadah*, Nirtzah, "Adir Hu", texto hebreo y la versión inglesa de la Koren Haggadah (Koren, 2013), en Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Adir_Hu
+- [^sefaria]: *Pesach Haggadah*, Nirtzah, "Adir Hu", texto hebreo (la versión de dominio público de Sefaria, tomada del sitio de estudios judíos Da'at) y la versión inglesa de la Koren Haggadah (Koren, 2013), en Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Adir_Hu
 - [^brown]: Brown University Library, colección Haggadot, "Haggadah shel Pesah (Liber Ritum Paschalium)", Königsberg, 1644 (CAT_009). https://library.brown.edu/haggadot/portfolio/haggadah-shel-pesah-liber-ritum-paschalium-joannes-stephanus-rittangel/
 - [^braginsky]: The Braginsky Collection, "Liber Rituum Paschalium" (Braginsky Collection 337). https://braginskycollection.com/?p=2871
 - [^chalmers]: Alexander Chalmers, *The General Biographical Dictionary* (1812 a 1817), "Rittangelius, John Stephen", en fromoldbooks.org. https://words.fromoldbooks.org/Chalmers-Biography/r/rittangelius-john-stephen.html

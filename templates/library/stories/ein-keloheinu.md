@@ -60,6 +60,88 @@ The hymn is built from four titles. Each verse runs through the same four titles
 
 The page shows our words in modern Israeli pronunciation. The 1897 hymnal spelled them the Ashkenazi way, "En Kelohenu", "Boruch", "Atto hu", with the same syllables under the same notes.[^uh1897] We sing it with the substituted names customary when singing outside prayer, Kelokeinu and Elokeinu, with a k in place of the h: it is the custom not to say Hashem's name in full outside prayer, and a practice song is outside prayer. The title keeps the spelling the prayer is known by, Ein Keloheinu: the custom is about saying the name aloud, and a title is read, not sung.
 
+### The full words
+
+These are the five verses and the line that follows them as the Ashkenazi prayer book prints them, in the Hebrew of the Metsudah Siddur on Sefaria; some editions add Hashem's name to that last line.[^sefaria] It prints adonenu, "our Lord", where we sing adoneinu, another spelling of the same word, and the transliteration uses the substituted names we sing.
+
+**Verse 1**
+> אֵין כֵּאלֹהֵינוּ.
+*Ein kelokeinu,*
+There is none like Hashem,
+> אֵין כַּאדוֹנֵנוּ.
+*ein kadonenu,*
+none like our Lord,
+> אֵין כְּמַלְכֵּנוּ.
+*ein kemalkenu,*
+none like our King,
+> אֵין כְּמוֹשִׁיעֵנוּ:
+*ein k'moshienu.*
+none like our Saviour.
+
+**Verse 2**
+> מִי כֵאלֹהֵינוּ.
+*Mi chelokeinu,*
+Who is like Hashem?
+> מִי כַאדוֹנֵנוּ.
+*mi chadonenu,*
+Who is like our Lord?
+> מִי כְמַלְכֵּנוּ.
+*mi chemalkenu,*
+Who is like our King?
+> מִי כְמוֹשִׁיעֵנוּ:
+*mi ch'moshienu.*
+Who is like our Saviour?
+
+**Verse 3**
+> נוֹדֶה לֵאלֹהֵינוּ.
+*Node lelokeinu,*
+We give thanks to Hashem,
+> נוֹדֶה לַאדוֹנֵנוּ.
+*node ladonenu,*
+we give thanks to our Lord,
+> נוֹדֶה לְמַלְכֵּנוּ.
+*node lemalkenu,*
+we give thanks to our King,
+> נוֹדֶה לְמוֹשִׁיעֵנוּ:
+*node l'moshienu.*
+we give thanks to our Saviour.
+
+**Verse 4**
+> בָּרוּךְ אֱלֹהֵינוּ.
+*Baruch elokeinu,*
+Blessed is Hashem,
+> בָּרוּךְ אֲדוֹנֵנוּ.
+*baruch adonenu,*
+blessed is our Lord,
+> בָּרוּךְ מַלְכֵּנוּ.
+*baruch malkenu,*
+blessed is our King,
+> בָּרוּךְ מוֹשִׁיעֵנוּ:
+*baruch moshienu.*
+blessed is our Saviour.
+
+**Verse 5**
+> אַתָּה הוּא אֱלֹהֵינוּ.
+*Ata hu elokeinu,*
+You are Hashem,
+> אַתָּה הוּא אֲדוֹנֵנוּ.
+*ata hu adonenu,*
+You are our Lord,
+> אַתָּה הוּא מַלְכֵּנוּ.
+*ata hu malkenu,*
+You are our King,
+> אַתָּה הוּא מוֹשִׁיעֵנוּ.
+*ata hu moshienu.*
+You are our Saviour.
+
+**The line that follows (not sung)**
+> אַתָּה הוּא שֶׁהִקְטִרוּ אֲבוֹתֵינוּ לְפָנֶיךָ
+*Ata hu shehiktiru avoteinu lefanecha*
+You are the One before whom our ancestors offered
+> אֶת קְטֹרֶת הַסַּמִּים:
+*et ketoret hasamim.*
+the incense of spices.
+
 ## How it is sung
 
 In the Ashkenazi rite Ein Keloheinu follows the additional service, Musaf, on Sabbaths and festivals; in the Sephardi rite it ends the weekday morning service too.[^ej][^huji] It was also sung at home, at the Sabbath table.[^je][^huji] The medieval commentator Rashi recorded the Ashkenazi custom of keeping it for Sabbaths and festivals. The Encyclopaedia Judaica gives his reason: the Sabbath Amidah, the central prayer, has seven blessings in place of the weekday nineteen, and the hymn's praises make up some of the difference.[^ej][^posen][^mjl]
@@ -124,3 +206,4 @@ The soprano sings Freudenthal's tune throughout, up to its top E on "kemalkenu,"
 - [^austerklein]: Matt Austerklein, "Not a German Drinking Song", *Austerklein* (Substack, 8 June 2026). https://mattausterklein.substack.com/p/not-a-german-drinking-song
 - [^uh1897]: Central Conference of American Rabbis, *Union Hymnal* (1897), Appendix A, Nos. 17 to 20, "En Kelohenu", pp. 140 to 147, and index, p. 218. https://archive.org/details/unionhymnal0000unse_l7i5
 - [^uh1932]: Central Conference of American Rabbis, *Union Hymnal*, third edition (copyright 1932; 1936 printing), preface, p. v, and No. 292, "Ayn Kaylohaynu", p. 330, Morning Service for the Sabbath. https://archive.org/details/unionhymnal00cent
+- [^sefaria]: "Ein Kelohenu", *Siddur Ashkenaz*, weekday morning service, concluding prayers (as said in Israel), Hebrew from *The Metsudah Siddur* (1981), via Sefaria, licensed CC BY 3.0. https://www.sefaria.org/Siddur_Ashkenaz,_Weekday,_Shacharit,_Concluding_Prayers,_Korbanot_%28Israel%29,_Ein_Kelohenu

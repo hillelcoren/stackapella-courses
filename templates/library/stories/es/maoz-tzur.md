@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: maoz tzur significado | maoz tzur letra en español | maoz tzur traducción | quién escribió maoz tzur | maoz tzur historia | maoz tzur canción de janucá
-translatedFrom: 88dc43970394
+translatedFrom: 133634ab6ffd
 ---
 
 Maoz Tzur es un himno hebreo de Janucá. En los hogares asquenazíes se canta en cuanto se encienden las luces de Janucá, y también se canta en la sinagoga.[^je][^ej] Su poeta, Mordecai, lo escribió en las tierras alemanas en la Edad Media y dejó su nombre en las primeras letras de las estrofas.[^je][^ej] El himno recorre cuatro salvaciones, de Egipto, de Babilonia, del complot de Amán en Persia y de los griegos en tiempos de los asmoneos, y pide que se reconstruya el Templo.[^ej][^melamed] Su melodía alegre llegó a ser hasta tal punto el sonido de la fiesta que otros himnos y oraciones de Janucá también se cantan con ella.[^je][^ej] Las congregaciones de habla inglesa también lo cantan como Rock of Ages.[^ej][^uh1897]
@@ -62,6 +62,94 @@ Cantamos las estrofas 1 y 5.
 **Estrofa 6 (no se canta).** Muestra Tu santo brazo y acerca la redención.[^ej][^melamed]
 
 Nuestras canciones judías se cantan con los nombres sustitutos que se acostumbran al cantar fuera de la oración, pero ninguna de las dos estrofas que cantamos tiene uno de los nombres de Hashem: el himno se dirige a Hashem como "Tú", lecha.
+
+### La letra completa
+
+Estas son las seis estrofas tal como las imprime el Siddur Ashkenaz de Sefaria, tomado del siddur Daat, con sus vocales; el significado bajo cada verso es nuestro.[^siddur] El cancionero de Idelsohn, del que se lee nuestro arreglo, imprime las cinco primeras, y la mayoría de los libros de oraciones omiten la sexta, Chasof zeroa.[^id1912][^je][^ej] Su último verso pide a Hashem que aparte a Admón, "el rojo": Edom, que los escritos rabínicos asocian con Roma y el cristianismo.[^melamed] Donde el siddur tiene lashoshanim, "para los lirios", nosotros cantamos leshoshanim.
+
+**Estrofa 1**
+> מָעוֹז צוּר יְשׁוּעָתִי לְךָ נָאֶה לְשַׁבֵּחַ.
+*Maoz tzur yeshuati, lecha nae leshabeach.*
+Fortaleza, roca de mi salvación, es justo alabarte.
+> תִּכּוֹן בֵּית תְּפִלָּתִי וְשָׁם תּוֹדָה נְזַבֵּחַ.
+*Tikon beit tefilati, vesham toda nezabeach.*
+Que mi casa de oración vuelva a alzarse, y allí traeremos una ofrenda de gratitud.
+> לְעֵת תָּכִין מַטְבֵּחַ מִצָּר הַמְנַבֵּחַ.
+*Leet tachin matbeach mitzar hamenabeach,*
+Cuando prepares la matanza del enemigo que nos ladra,
+> אָז אֶגְמוֹר בְּשִׁיר מִזְמוֹר חֲנֻכַּת הַמִּזְבֵּחַ.
+*az egmor beshir mizmor chanukat hamizbeach.*
+entonces, con canto y salmo, completaré la dedicación del altar.
+
+**Estrofa 2**
+> רָעוֹת שָׂבְעָה נַפְשִׁי בְּיָגוֹן כֹּחִי כִּלָה.
+*Ra'ot sav'a nafshi, beyagon kochi kila.*
+Mi alma se hartó de penas; mi fuerza se agotó en la tristeza.
+> חַיַּי מָרְרוּ בְּקוֹשִׁי בְּשִׁעְבּוּד מַלְכוּת עֶגְלָה.
+*Chayai mareru bekoshi, beshibud malchut egla.*
+Mi vida se amargó con trabajo duro, esclavizada al reino del becerro, Egipto.
+> וּבְיָדוֹ הַגְּדוֹלָה הוֹצִיא אֶת הַסְּגֻלָּה.
+*Uveyado hagedola hotzi et hasegula.*
+Con Su gran mano Hashem sacó a Su pueblo querido.
+> חֵיל פַּרְעֹה וְכָל זַרְעוֹ יָרְדוּ כְאֶבֶן בִּמְצוּלָה.
+*Cheil Paro vechol zaro yardu ke'even bimtzula.*
+El ejército del faraón y toda su descendencia se hundieron como una piedra en el abismo.
+
+**Estrofa 3**
+> דְּבִיר קָדְשׁוֹ הֱבִיאַנִי וְגַם שָׁם לֹא שָׁקַטְתִּי.
+*Dvir kodsho hevi'ani, vegam sham lo shakateti.*
+Hashem me llevó a Su santo santuario, pero tampoco allí encontré descanso.
+> וּבָא נוֹגֵשׂ וְהִגְלַנִי. כִּי זָרִים עָבַדְתִּי.
+*Uva noges vehiglani, ki zarim avadti.*
+Vino el opresor y me llevó al exilio, porque había servido a dioses extraños.
+> וְיֵין רַעַל מָסַכְתִּי כִּמְעַט שֶׁעָבַרְתִּי.
+*Veyein ra'al masachti, kim'at she'avarti.*
+Bebí el vino que hace tambalear y casi perecí.
+> קֵץ בָּבֶל, זְרֻבָּבֶל, לְקֵץ שִׁבְעִים נוֹשָׁעְתִּי.
+*Ketz Bavel, Zerubavel, leketz shiv'im nosha'ti.*
+Al fin de Babilonia llegó Zorobabel; al cabo de setenta años fui salvado.
+
+**Estrofa 4**
+> כְּרוֹת קוֹמַת בְּרוֹשׁ, בִּקֵּשׁ אֲגָגִי בֶּן הַמְּדָתָא.
+*Krot komat brosh bikesh Agagi ben Hamedata.*
+El agagueo, hijo de Hamedata, quiso talar el alto ciprés.
+> וְנִהְיָתָה לוֹ לְפַח וּלְמוֹקֵשׁ וְגַאֲוָתוֹ נִשְׁבָּתָה.
+*Venihyata lo lefach ulemokesh, vega'avato nishbata.*
+Pero se le volvió lazo y trampa, y su soberbia llegó a su fin.
+> רֹאשׁ יְמִינִי נִשֵּׂאתָ וְאוֹיֵב שְׁמוֹ מָחִיתָ.
+*Rosh yemini niseta, ve'oyev shemo machita.*
+Tú enalteciste la cabeza del benjaminita y borraste el nombre del enemigo.
+> רֹב בָּנָיו וְקִנְיָנָיו עַל הָעֵץ תָּלִיתָ.
+*Rov banav vekinyanav al ha'etz talita.*
+A sus muchos hijos y su casa los colgaste en la horca.
+
+**Estrofa 5**
+> יְוָנִים נִקְבְּצוּ עָלַי אֲזַי בִּימֵי חַשְׁמַנִּים.
+*Yevanim nikbetzu alai, azai bimei Chashmanim.*
+Los griegos se juntaron contra mí entonces, en tiempos de los asmoneos.
+> וּפָרְצוּ חוֹמוֹת מִגְדָּלַי וְטִמְּאוּ כָּל הַשְּׁמָנִים.
+*Ufartzu chomot migdalai, vetim'u kol hashemanim.*
+Derribaron los muros de mis torres y profanaron todos los aceites.
+> וּמִנּוֹתַר קַנְקַנִּים נַעֲשָׂה נֵס לַשּׁוֹשַׁנִּים.
+*Uminotar kankanim naasa nes lashoshanim.*
+Y de lo que quedaba en la última de las vasijas se hizo un milagro para los lirios, Israel.
+> בְּנֵי בִינָה יְמֵי שְׁמוֹנָה קָבְעוּ שִׁיר וּרְנָנִים.
+*B'nei vina yemei sh'mona kav'u shir urenanim.*
+La gente sabia, ocho días los fijó para el canto y la alabanza gozosa.
+
+**Estrofa 6**
+> חֲשׂוֹף זְרוֹעַ קָדְשֶׁךָ וְקָרֵב קֵץ הַיְשׁוּעָה.
+*Chasof zeroa kodshecha, vekarev ketz hayeshua.*
+Muestra Tu santo brazo y acerca el tiempo de la redención.
+> נְקֹם נִקְמַת דַּם עֲבָדֶיךָ מֵאֻמָּה הָרְשָׁעָה.
+*Nekom nikmat dam avadecha me'uma haresha'a.*
+Venga la sangre de Tus siervos en la nación malvada.
+> כִּי אָרְכָה לָנוּ הַשָּׁעָה וְאֵין קֵץ לִימֵי הָרָעָה.
+*Ki archa lanu hasha'a, ve'ein ketz limei hara'a.*
+Porque la hora se nos ha hecho larga, y los días del mal no tienen fin.
+> דְּחֵה אַדְמוֹן בְּצֵל צַלְמוֹן, הָקֵם לָנוּ רוֹעֶה שִׁבְעָה.
+*Dche Admon betzel tzalmon, hakem lanu ro'e shiv'a.*
+Aparta al rojo a la sombra de Tzalmón; levántanos los siete pastores.
 
 ## Cómo se canta
 
@@ -125,3 +213,4 @@ La soprano canta la melodía todo el tiempo, como la imprimió Idelsohn. La cont
 - [^lh1941]: *The Lutheran Hymnal* (Concordia, 1941), n.º 387, "Dear Christians, One and All, Rejoice", en Hymnary.org. https://hymnary.org/hymn/LH1941/387
 - [^isaiah]: Isaías 17:10, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Mechon Mamre. https://mechon-mamre.org/p/pt/pt1017.htm
 - [^talmud]: Talmud de Babilonia, Shabbat 21b, en Sefaria. https://www.sefaria.org/Shabbat.21b
+- [^siddur]: *Siddur Ashkenaz*, Festivals, Chanukah, Service for Lighting Chanukah Candles, Maoz Tzur, texto hebreo del siddur Daat, en Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Festivals%2C_Chanukah%2C_Service_for_Lighting_Chanukah_Candles%2C_Maoz_Tzur

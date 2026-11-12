@@ -62,6 +62,94 @@ We sing stanzas 1 and 5.
 
 Our Jewish songs are sung with the substituted names customary when singing outside prayer, but neither stanza we sing has one of Hashem's names: the hymn speaks to Hashem as "You", lecha.
 
+### The full words
+
+These are all six stanzas as the Siddur Ashkenaz on Sefaria prints them, from the Daat siddur, with its vowels; the meaning under each line is our own.[^siddur] Idelsohn's songbook, which our arrangement is read from, prints the first five, and most prayer books leave out the sixth, Chasof zeroa.[^id1912][^je][^ej] Its last line asks Hashem to thrust away Admon, "the red one": Edom, which rabbinic writing ties to Rome and Christianity.[^melamed] Where the siddur has lashoshanim, "for the lilies", we sing leshoshanim.
+
+**Stanza 1**
+> מָעוֹז צוּר יְשׁוּעָתִי לְךָ נָאֶה לְשַׁבֵּחַ.
+*Maoz tzur yeshuati, lecha nae leshabeach.*
+Stronghold, rock of my salvation, it is right to praise You.
+> תִּכּוֹן בֵּית תְּפִלָּתִי וְשָׁם תּוֹדָה נְזַבֵּחַ.
+*Tikon beit tefilati, vesham toda nezabeach.*
+Let my house of prayer stand again, and there we will bring an offering of thanks.
+> לְעֵת תָּכִין מַטְבֵּחַ מִצָּר הַמְנַבֵּחַ.
+*Leet tachin matbeach mitzar hamenabeach,*
+When You make ready the slaughter of the foe who barks at us,
+> אָז אֶגְמוֹר בְּשִׁיר מִזְמוֹר חֲנֻכַּת הַמִּזְבֵּחַ.
+*az egmor beshir mizmor chanukat hamizbeach.*
+then with song and psalm I will complete the dedication of the altar.
+
+**Stanza 2**
+> רָעוֹת שָׂבְעָה נַפְשִׁי בְּיָגוֹן כֹּחִי כִּלָה.
+*Ra'ot sav'a nafshi, beyagon kochi kila.*
+My soul had its fill of troubles; my strength was spent in grief.
+> חַיַּי מָרְרוּ בְּקוֹשִׁי בְּשִׁעְבּוּד מַלְכוּת עֶגְלָה.
+*Chayai mareru bekoshi, beshibud malchut egla.*
+My life was made bitter by hard labor, enslaved to the calf kingdom, Egypt.
+> וּבְיָדוֹ הַגְּדוֹלָה הוֹצִיא אֶת הַסְּגֻלָּה.
+*Uveyado hagedola hotzi et hasegula.*
+With His great hand Hashem brought out His treasured people.
+> חֵיל פַּרְעֹה וְכָל זַרְעוֹ יָרְדוּ כְאֶבֶן בִּמְצוּלָה.
+*Cheil Paro vechol zaro yardu ke'even bimtzula.*
+Pharaoh's army and all his offspring sank like a stone into the deep.
+
+**Stanza 3**
+> דְּבִיר קָדְשׁוֹ הֱבִיאַנִי וְגַם שָׁם לֹא שָׁקַטְתִּי.
+*Dvir kodsho hevi'ani, vegam sham lo shakateti.*
+Hashem brought me to His holy sanctuary, but there too I found no rest.
+> וּבָא נוֹגֵשׂ וְהִגְלַנִי. כִּי זָרִים עָבַדְתִּי.
+*Uva noges vehiglani, ki zarim avadti.*
+The oppressor came and drove me into exile, because I had served strange gods.
+> וְיֵין רַעַל מָסַכְתִּי כִּמְעַט שֶׁעָבַרְתִּי.
+*Veyein ra'al masachti, kim'at she'avarti.*
+I drank the wine of staggering and almost perished.
+> קֵץ בָּבֶל, זְרֻבָּבֶל, לְקֵץ שִׁבְעִים נוֹשָׁעְתִּי.
+*Ketz Bavel, Zerubavel, leketz shiv'im nosha'ti.*
+At Babylon's end came Zerubbabel; after seventy years I was saved.
+
+**Stanza 4**
+> כְּרוֹת קוֹמַת בְּרוֹשׁ, בִּקֵּשׁ אֲגָגִי בֶּן הַמְּדָתָא.
+*Krot komat brosh bikesh Agagi ben Hamedata.*
+The Agagite, son of Hammedatha, sought to cut down the tall cypress.
+> וְנִהְיָתָה לוֹ לְפַח וּלְמוֹקֵשׁ וְגַאֲוָתוֹ נִשְׁבָּתָה.
+*Venihyata lo lefach ulemokesh, vega'avato nishbata.*
+But it became a snare and a trap for him, and his pride was brought to an end.
+> רֹאשׁ יְמִינִי נִשֵּׂאתָ וְאוֹיֵב שְׁמוֹ מָחִיתָ.
+*Rosh yemini niseta, ve'oyev shemo machita.*
+You lifted up the head of the Benjamite and blotted out the enemy's name.
+> רֹב בָּנָיו וְקִנְיָנָיו עַל הָעֵץ תָּלִיתָ.
+*Rov banav vekinyanav al ha'etz talita.*
+His many sons and his household You hanged on the gallows.
+
+**Stanza 5**
+> יְוָנִים נִקְבְּצוּ עָלַי אֲזַי בִּימֵי חַשְׁמַנִּים.
+*Yevanim nikbetzu alai, azai bimei Chashmanim.*
+The Greeks gathered against me then, in the days of the Hasmoneans.
+> וּפָרְצוּ חוֹמוֹת מִגְדָּלַי וְטִמְּאוּ כָּל הַשְּׁמָנִים.
+*Ufartzu chomot migdalai, vetim'u kol hashemanim.*
+They broke down the walls of my towers and made all the oils unclean.
+> וּמִנּוֹתַר קַנְקַנִּים נַעֲשָׂה נֵס לַשּׁוֹשַׁנִּים.
+*Uminotar kankanim naasa nes lashoshanim.*
+And from what was left in the last of the jars, a miracle was done for the lilies, Israel.
+> בְּנֵי בִינָה יְמֵי שְׁמוֹנָה קָבְעוּ שִׁיר וּרְנָנִים.
+*B'nei vina yemei sh'mona kav'u shir urenanim.*
+The people of understanding, eight days they set aside for song and joyful praise.
+
+**Stanza 6**
+> חֲשׂוֹף זְרוֹעַ קָדְשֶׁךָ וְקָרֵב קֵץ הַיְשׁוּעָה.
+*Chasof zeroa kodshecha, vekarev ketz hayeshua.*
+Show Your holy arm and bring near the time of redemption.
+> נְקֹם נִקְמַת דַּם עֲבָדֶיךָ מֵאֻמָּה הָרְשָׁעָה.
+*Nekom nikmat dam avadecha me'uma haresha'a.*
+Avenge the blood of Your servants on the wicked nation.
+> כִּי אָרְכָה לָנוּ הַשָּׁעָה וְאֵין קֵץ לִימֵי הָרָעָה.
+*Ki archa lanu hasha'a, ve'ein ketz limei hara'a.*
+For the hour has grown long for us, and the days of evil have no end.
+> דְּחֵה אַדְמוֹן בְּצֵל צַלְמוֹן, הָקֵם לָנוּ רוֹעֶה שִׁבְעָה.
+*Dche Admon betzel tzalmon, hakem lanu ro'e shiv'a.*
+Thrust the red one away into the shadow of Tzalmon; raise up for us the seven shepherds.
+
 ## How it is sung
 
 Maoz Tzur belongs to the Ashkenazi rite, where it follows the kindling of the Hanukkah lights, at home and in the synagogue.[^je][^ej] The Encyclopaedia Judaica notes that Reform and Conservative synagogues also sing Rock of Ages, in English, with the Hebrew or in its place.[^ej][^uh1897]
@@ -124,3 +212,4 @@ The soprano sings the tune throughout, as Idelsohn printed it. The alto sings wi
 - [^lh1941]: *The Lutheran Hymnal* (Concordia, 1941), No. 387, "Dear Christians, One and All, Rejoice", via Hymnary.org. https://hymnary.org/hymn/LH1941/387
 - [^isaiah]: Isaiah 17:10, in *The Holy Scriptures* (Jewish Publication Society, 1917), via Mechon Mamre. https://mechon-mamre.org/p/pt/pt1017.htm
 - [^talmud]: Babylonian Talmud, Shabbat 21b, via Sefaria. https://www.sefaria.org/Shabbat.21b
+- [^siddur]: *Siddur Ashkenaz*, Festivals, Chanukah, Service for Lighting Chanukah Candles, Maoz Tzur, Hebrew text of the Daat siddur, via Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Festivals%2C_Chanukah%2C_Service_for_Lighting_Chanukah_Candles%2C_Maoz_Tzur

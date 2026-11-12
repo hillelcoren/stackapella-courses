@@ -55,6 +55,144 @@ We sing it with the substituted names customary when singing outside prayer, Kel
 
 **Verse 9.** Come in peace, crown of her husband, with song and gladness, among the faithful of the treasured people. Come, O bride; come, O bride! "Ateret ba'la" echoes Proverbs: a good wife is the crown of her husband.[^prov] Segula, "treasure", is Hashem's word for Israel in Exodus: "ye shall be Mine own treasure from among all peoples".[^exod] "Bo'i chala" is Rabbi Yannai's greeting from the Talmud; chala is kala, "bride", its first sound softened after the vowel before it.[^shabbat] Prayer books differ on one word here. Ashkenazi prayer books have besimcha, "with joy"; the prayer books of Nusach Sefard, the Hasidic rite, have berina, "with song", on the Sabbath and give besimcha for a festival.[^ashkenaz][^sefard] We sing berina, the Nusach Sefard Sabbath word.
 
+### The full words
+
+The refrain and nine verses as the Siddur Ashkenaz on Sefaria prints them, from the Metsudah siddur of 1981; the meanings are our own.[^ashkenaz] The refrain returns after every verse. The last verse has besimcha where we sing berina, and calls the bride a third time, Shabat malketa, "Sabbath queen". The transliteration gives Hashem's names in their substituted forms, Kel, Adoshem and Elokayich.
+
+**Refrain**
+> לְכָה דוֹדִי לִקְרַאת כַּלָּה.
+*Lecha dodi likrat kala,*
+Come, my beloved, to meet the bride;
+> פְּנֵי שַׁבָּת נְקַבְּ֒לָה:
+*penei Shabat nekabela.*
+let us welcome the Sabbath's presence.
+
+**Verse 1**
+> שָׁמוֹר וְזָכוֹר בְּדִבּוּר אֶחָד.
+*Shamor vezachor bedibur echad,*
+"Keep" and "Remember", in one utterance,
+> הִשְׁמִיעָֽנוּ אֵל הַמְיוּחָד.
+*hishmianu Kel hameyuchad.*
+Hashem, the One, made us hear.
+> יְיָ אֶחָד וּשְׁמוֹ אֶחָד.
+*Adoshem echad ushmo echad,*
+Hashem is one and His name is one,
+> לְשֵׁם וּלְתִפְאֶֽרֶת וְלִתְהִלָּה:
+*leshem ultiferet velithila.*
+for renown, for glory and for praise.
+
+**Verse 2**
+> לִקְרַאת שַׁבָּת לְכוּ וְנֵלְ֒כָה.
+*Likrat Shabat lechu venelcha,*
+To meet the Sabbath, come, let us go,
+> כִּי הִיא מְקוֹר הַבְּ֒רָכָה.
+*ki hi mekor haberacha.*
+for she is the source of blessing.
+> מֵרֹאשׁ מִקֶּֽדֶם נְסוּכָה.
+*Merosh mikedem nesucha,*
+Set in place from the beginning, from of old,
+> סוֹף מַעֲשֶׂה בְּמַחֲשָׁבָה תְּחִלָּה:
+*sof maase bemachashava techila.*
+last in the making, first in thought.
+
+**Verse 3**
+> מִקְדַּשׁ מֶֽלֶךְ עִיר מְלוּכָה.
+*Mikdash melech ir melucha,*
+Sanctuary of the King, royal city,
+> קֽוּמִי צְאִי מִתּוֹךְ הַהֲפֵכָה.
+*kumi tzei mitoch hahafecha.*
+rise, come out from the ruins.
+> רַב לָךְ שֶֽׁבֶת בְּעֵֽמֶק הַבָּכָא.
+*Rav lach shevet beemek habacha,*
+Too long have you sat in the valley of weeping,
+> וְהוּא יַחְמוֹל עָלַֽיִךְ חֶמְלָה:
+*vehu yachmol alayich chemla.*
+and He will have compassion on you.
+
+**Verse 4**
+> הִתְנַעֲרִי מֵעָפָר קֽוּמִי.
+*Hitnaari meafar kumi,*
+Shake off the dust, rise,
+> לִבְשִׁי בִּגְדֵי תִפְאַרְתֵּךְ עַמִּי.
+*livshi bigdei tifartech ami.*
+put on your garments of glory, my people.
+> עַל יַד בֶּן יִשַּׁי בֵּית הַלַּחְמִי.
+*Al yad ben Yishai beit halachmi,*
+Through the son of Jesse of Bethlehem,
+> קָרְבָה אֶל נַפְשִׁי גְּאָלָהּ:
+*karva el nafshi gealah.*
+draw near to my soul and redeem it.
+
+**Verse 5**
+> הִתְעוֹרְ֒רִי. הִתְעוֹרְ֒רִי.
+*Hitoreri, hitoreri,*
+Wake up, wake up,
+> כִּי בָא אוֹרֵךְ קֽוּמִי אֽוֹרִי.
+*ki va orech kumi ori.*
+for your light has come; rise and shine.
+> עֽוּרִי עֽוּרִי שִׁיר דַּבֵּֽרִי.
+*Uri uri shir daberi,*
+Awake, awake, utter a song;
+> כְּבוֹד יְיָ עָלַֽיִךְ נִגְלָה:
+*kevod Adoshem alayich nigla.*
+the glory of Hashem is revealed upon you.
+
+**Verse 6**
+> לֹא תֵבֽוֹשִׁי וְלֹא תִכָּלְ֒מִי.
+*Lo tevoshi velo tikalmi,*
+Do not be ashamed, do not be disgraced;
+> מַה תִּשְׁתּוֹחֲחִי וּמַה תֶּהֱמִי.
+*ma tishtochachi uma tehemi.*
+why are you downcast, and why do you moan?
+> בָּךְ יֶחֱסוּ עֲנִיֵּי עַמִּי.
+*Bach yechesu aniyei ami,*
+In you the poor of my people will find shelter,
+> וְנִבְנְ֒תָה עִיר עַל תִּלָּהּ:
+*venivneta ir al tilah.*
+and the city will be rebuilt on its hill.
+
+**Verse 7**
+> וְהָיוּ לִמְשִׁסָּה שֹׁסָֽיִךְ.
+*Vehayu limshisa shosayich,*
+Those who plundered you will be plundered,
+> וְרָחֲקוּ כָּל מְבַלְּ֒עָֽיִךְ.
+*verachaku kol mevalayich.*
+and all who would devour you will be far away.
+> יָשִׂישׂ עָלַֽיִךְ אֱלֹהָֽיִךְ.
+*Yasis alayich Elokayich,*
+Hashem will rejoice over you
+> כִּמְשׂוֹשׂ חָתָן עַל כַּלָּה:
+*kimsos chatan al kala.*
+as a bridegroom rejoices over the bride.
+
+**Verse 8**
+> יָמִין וּשְׂמֹאל תִּפְרֽוֹצִי.
+*Yamin usmol tifrotzi,*
+To the right and the left you will spread out,
+> וְאֶת יְיָ תַּעֲרִֽיצִי.
+*veet Adoshem taaritzi.*
+and you will revere Hashem.
+> עַל יַד אִישׁ בֶּן פַּרְצִי.
+*Al yad ish ben Partzi,*
+Through a man descended from Perez
+> וְנִשְׂמְ֒חָה וְנָגִֽילָה:
+*venismecha venagila.*
+we will be glad and rejoice.
+
+**Verse 9**
+> בּֽוֹאִי בְשָׁלוֹם עֲטֶֽרֶת בַּעְלָהּ.
+*Boi veshalom ateret bala,*
+Come in peace, crown of her husband,
+> גַּם בְּשִׂמְחָה וּבְצָהֳלָה.
+*gam besimcha uvetzahala,*
+with joy and gladness,
+> תּוֹךְ אֱמוּנֵי עַם סְגֻלָּה.
+*toch emunei am segula.*
+among the faithful of the treasured people.
+> בֹּֽאִי כַלָּה בֹּֽאִי כַלָּה בֹּֽאִי כַלָּה שַׁבָּת מַלְכְּתָא:
+*Boi chala, boi chala, boi chala Shabat malketa!*
+Come, O bride; come, O bride; come, O bride, Sabbath queen!
+
 ## How it is sung
 
 In the Ashkenazi rite of Friday evening, six psalms come first, 95 to 99 and 29; Lecha Dodi follows them, and then Psalm 92, "A Psalm, a Song for the Sabbath Day".[^abrahams][^idel29] As the last verse begins, it is the custom to turn around to face the entrance of the synagogue and bow.[^ej] Abrahams saw in this turning a survival of the old procession out to receive the Sabbath.[^abrahams]
@@ -84,11 +222,11 @@ Our arrangement is read from Cohen's 1904 printing, "Lekah Dodi (Melody for 'Ome
 
 ### What does Lecha Dodi mean?
 
-"Come, my beloved", the opening words of the refrain, which go on: to meet the bride, let us welcome the Sabbath. The words come from the Song of Songs, and the bride is the Sabbath, as in the Talmud, where Rabbi Yannai greeted the Sabbath with "Come, O Bride". The hymn's last verse ends with that greeting.[^songofsongs][^shabbat][^abrahams]
+"Come, my beloved", the opening words of the refrain, which go on: to meet the bride, let us welcome the Sabbath. The words come from the Song of Songs, and the bride is the Sabbath, as in the Talmud, where Rabbi Yannai greeted the Sabbath with "Come, O Bride".[^songofsongs][^shabbat][^abrahams]
 
 ### Who wrote Lecha Dodi?
 
-Solomon ha-Levi Alkabetz, a poet and kabbalist of Safed, in the sixteenth century. He signed it: the first letters of the first eight verses spell Shlomo HaLevi. He was born about 1505; the sources differ on his death: Idelsohn gives 1580, the Encyclopaedia Judaica 1584. No source of his time records the tune it was first sung to.[^je][^ej][^ejalk][^idel29]
+Solomon ha-Levi Alkabetz, a poet and kabbalist of Safed, in the sixteenth century. He signed it: the first letters of the first eight verses spell Shlomo HaLevi. He was born about 1505; the sources differ on his death: Idelsohn gives 1580, the Encyclopaedia Judaica 1584.[^je][^ej][^ejalk][^idel29]
 
 ### Which part sings the tune?
 
@@ -122,5 +260,5 @@ The soprano, throughout: the Omer-weeks melody Francis L. Cohen printed in 1904.
 - [^deut]: Deuteronomy 26:19, in *The Holy Scriptures* (Jewish Publication Society, 1917), via Mechon Mamre. https://mechon-mamre.org/p/pt/pt0526.htm
 - [^exod]: Exodus 19:5, in *The Holy Scriptures* (Jewish Publication Society, 1917), via Mechon Mamre. https://mechon-mamre.org/p/pt/pt0219.htm
 - [^lev]: Leviticus 23:15 to 16, in *The Holy Scriptures* (Jewish Publication Society, 1917), via Mechon Mamre. https://mechon-mamre.org/p/pt/pt0323.htm
-- [^ashkenaz]: *Siddur Ashkenaz*, Kabbalat Shabbat, Lekha Dodi, Hebrew text of the Metsudah siddur (1981), via Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Kabbalat_Shabbat%2C_Lekha_Dodi
+- [^ashkenaz]: *Siddur Ashkenaz*, Kabbalat Shabbat, Lekha Dodi, Hebrew text of *The Metsudah Siddur* (1981), via Sefaria, licensed CC BY 3.0. https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Kabbalat_Shabbat%2C_Lekha_Dodi
 - [^sefard]: *Siddur Sefard*, Kabbalat Shabbat, Lekha Dodi, Hebrew text of Torat Emet, via Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Kabbalat_Shabbat%2C_Lekha_Dodi

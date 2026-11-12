@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: lecha dodi significado | lecha dodi traducción | quién escribió lecha dodi | lecha dodi historia | lecha dodi letra en español | lecha dodi significado en hebreo
-translatedFrom: 738ecb0bec9e
+translatedFrom: 8e8dd890feca
 ---
 
 Lecha Dodi, "Ven, amado mío", es el himno hebreo que recibe al sabbat el viernes por la noche. Forma parte de Kabbalat Shabbat, "recibir el sabbat", el breve oficio que se canta cuando entra el sabbat, y cuando empieza su última estrofa muchos en la congregación se dan la vuelta y hacen una reverencia.[^ej][^abrahams] Solomon ha-Levi Alkabetz lo escribió en Safed en el siglo XVI, y fue uno de los últimos poemas hebreos en entrar de forma fija en el libro de oraciones.[^je][^ej] Desde entonces se canta en comunidades judías de todo el mundo.[^schechter][^ejalk] En 1929, A. Z. Idelsohn escribió que había recibido unas dos mil versiones musicales.[^idel29][^ej] La nuestra es una antigua melodía asquenazí que se reservaba para las semanas entre Pésaj y Shavuot.[^je][^idel29]
@@ -56,6 +56,144 @@ La cantamos con los nombres sustitutos que se acostumbran al cantar fuera de la 
 
 **Estrofa 9.** Ven en paz, corona de su esposo, con canto y alegría, entre los fieles del pueblo atesorado. ¡Ven, oh novia; ven, oh novia! "Ateret ba'la" recuerda a Proverbios: la buena esposa es la corona de su marido.[^prov] Segula, "tesoro", es la palabra con que Hashem llama a Israel en el Éxodo: "seréis mi propio tesoro entre todos los pueblos".[^exod] "Bo'i chala" es el saludo del rabino Yannai en el Talmud; chala es kala, "novia", con su primer sonido suavizado por la vocal que lo precede.[^shabbat] Los libros de oraciones difieren aquí en una palabra. Los asquenazíes tienen besimcha, "con alegría"; los de Nusach Sefard, el rito jasídico, tienen berina, "con canto", en sabbat, y dan besimcha para una fiesta.[^ashkenaz][^sefard] Nosotros cantamos berina, la palabra del sabbat en Nusach Sefard.
 
+### La letra completa
+
+El estribillo y las nueve estrofas tal como los imprime el Siddur Ashkenaz de Sefaria, tomado del siddur Metsudah de 1981; los significados son nuestros.[^ashkenaz] El estribillo vuelve después de cada estrofa. La última estrofa tiene besimcha donde nosotros cantamos berina, y llama a la novia por tercera vez, Shabat malketa, "reina sabbat". La transliteración da los nombres de Hashem en sus formas sustitutas, Kel, Adoshem y Elokayich.
+
+**Estribillo**
+> לְכָה דוֹדִי לִקְרַאת כַּלָּה.
+*Lecha dodi likrat kala,*
+Ven, amado mío, al encuentro de la novia;
+> פְּנֵי שַׁבָּת נְקַבְּ֒לָה:
+*penei Shabat nekabela.*
+recibamos la presencia del sabbat.
+
+**Estrofa 1**
+> שָׁמוֹר וְזָכוֹר בְּדִבּוּר אֶחָד.
+*Shamor vezachor bedibur echad,*
+"Guarda" y "Recuerda", dichos de una vez,
+> הִשְׁמִיעָֽנוּ אֵל הַמְיוּחָד.
+*hishmianu Kel hameyuchad.*
+Hashem, el Único, nos los hizo oír.
+> יְיָ אֶחָד וּשְׁמוֹ אֶחָד.
+*Adoshem echad ushmo echad,*
+Hashem es uno y Su nombre es uno,
+> לְשֵׁם וּלְתִפְאֶֽרֶת וְלִתְהִלָּה:
+*leshem ultiferet velithila.*
+para renombre, para gloria y para alabanza.
+
+**Estrofa 2**
+> לִקְרַאת שַׁבָּת לְכוּ וְנֵלְ֒כָה.
+*Likrat Shabat lechu venelcha,*
+Al encuentro del sabbat, venid, vayamos,
+> כִּי הִיא מְקוֹר הַבְּ֒רָכָה.
+*ki hi mekor haberacha.*
+porque ella es la fuente de la bendición.
+> מֵרֹאשׁ מִקֶּֽדֶם נְסוּכָה.
+*Merosh mikedem nesucha,*
+Dispuesta desde el principio, desde antiguo,
+> סוֹף מַעֲשֶׂה בְּמַחֲשָׁבָה תְּחִלָּה:
+*sof maase bemachashava techila.*
+última en la obra, primera en el pensamiento.
+
+**Estrofa 3**
+> מִקְדַּשׁ מֶֽלֶךְ עִיר מְלוּכָה.
+*Mikdash melech ir melucha,*
+Santuario del Rey, ciudad real,
+> קֽוּמִי צְאִי מִתּוֹךְ הַהֲפֵכָה.
+*kumi tzei mitoch hahafecha.*
+levántate, sal de entre las ruinas.
+> רַב לָךְ שֶֽׁבֶת בְּעֵֽמֶק הַבָּכָא.
+*Rav lach shevet beemek habacha,*
+Demasiado has habitado en el valle del llanto,
+> וְהוּא יַחְמוֹל עָלַֽיִךְ חֶמְלָה:
+*vehu yachmol alayich chemla.*
+y Él tendrá compasión de ti.
+
+**Estrofa 4**
+> הִתְנַעֲרִי מֵעָפָר קֽוּמִי.
+*Hitnaari meafar kumi,*
+Sacúdete el polvo, levántate,
+> לִבְשִׁי בִּגְדֵי תִפְאַרְתֵּךְ עַמִּי.
+*livshi bigdei tifartech ami.*
+vístete tus ropas de gloria, pueblo mío.
+> עַל יַד בֶּן יִשַּׁי בֵּית הַלַּחְמִי.
+*Al yad ben Yishai beit halachmi,*
+Por medio del hijo de Isaí, de Belén,
+> קָרְבָה אֶל נַפְשִׁי גְּאָלָהּ:
+*karva el nafshi gealah.*
+acércate a mi alma y redímela.
+
+**Estrofa 5**
+> הִתְעוֹרְ֒רִי. הִתְעוֹרְ֒רִי.
+*Hitoreri, hitoreri,*
+Despierta, despierta,
+> כִּי בָא אוֹרֵךְ קֽוּמִי אֽוֹרִי.
+*ki va orech kumi ori.*
+porque ha llegado tu luz; levántate y brilla.
+> עֽוּרִי עֽוּרִי שִׁיר דַּבֵּֽרִי.
+*Uri uri shir daberi,*
+Despierta, despierta, entona un canto;
+> כְּבוֹד יְיָ עָלַֽיִךְ נִגְלָה:
+*kevod Adoshem alayich nigla.*
+la gloria de Hashem se revela sobre ti.
+
+**Estrofa 6**
+> לֹא תֵבֽוֹשִׁי וְלֹא תִכָּלְ֒מִי.
+*Lo tevoshi velo tikalmi,*
+No te avergüences ni te sientas humillada;
+> מַה תִּשְׁתּוֹחֲחִי וּמַה תֶּהֱמִי.
+*ma tishtochachi uma tehemi.*
+¿por qué te abates y por qué gimes?
+> בָּךְ יֶחֱסוּ עֲנִיֵּי עַמִּי.
+*Bach yechesu aniyei ami,*
+En ti se refugiarán los pobres de mi pueblo,
+> וְנִבְנְ֒תָה עִיר עַל תִּלָּהּ:
+*venivneta ir al tilah.*
+y la ciudad será reconstruida sobre su colina.
+
+**Estrofa 7**
+> וְהָיוּ לִמְשִׁסָּה שֹׁסָֽיִךְ.
+*Vehayu limshisa shosayich,*
+Serán saqueados los que te saquearon,
+> וְרָחֲקוּ כָּל מְבַלְּ֒עָֽיִךְ.
+*verachaku kol mevalayich.*
+y se alejarán todos los que querían devorarte.
+> יָשִׂישׂ עָלַֽיִךְ אֱלֹהָֽיִךְ.
+*Yasis alayich Elokayich,*
+Hashem se alegrará por ti
+> כִּמְשׂוֹשׂ חָתָן עַל כַּלָּה:
+*kimsos chatan al kala.*
+como se alegra el novio por la novia.
+
+**Estrofa 8**
+> יָמִין וּשְׂמֹאל תִּפְרֽוֹצִי.
+*Yamin usmol tifrotzi,*
+A derecha y a izquierda te extenderás,
+> וְאֶת יְיָ תַּעֲרִֽיצִי.
+*veet Adoshem taaritzi.*
+y a Hashem reverenciarás.
+> עַל יַד אִישׁ בֶּן פַּרְצִי.
+*Al yad ish ben Partzi,*
+Por medio de un hombre descendiente de Péretz
+> וְנִשְׂמְ֒חָה וְנָגִֽילָה:
+*venismecha venagila.*
+nos alegraremos y nos regocijaremos.
+
+**Estrofa 9**
+> בּֽוֹאִי בְשָׁלוֹם עֲטֶֽרֶת בַּעְלָהּ.
+*Boi veshalom ateret bala,*
+Ven en paz, corona de su esposo,
+> גַּם בְּשִׂמְחָה וּבְצָהֳלָה.
+*gam besimcha uvetzahala,*
+con alegría y regocijo,
+> תּוֹךְ אֱמוּנֵי עַם סְגֻלָּה.
+*toch emunei am segula.*
+entre los fieles del pueblo atesorado.
+> בֹּֽאִי כַלָּה בֹּֽאִי כַלָּה בֹּֽאִי כַלָּה שַׁבָּת מַלְכְּתָא:
+*Boi chala, boi chala, boi chala Shabat malketa!*
+¡Ven, oh novia; ven, oh novia; ven, oh novia, reina sabbat!
+
 ## Cómo se canta
 
 En el rito asquenazí del viernes por la noche se dicen primero seis salmos, del 95 al 99 y el 29; luego viene Lecha Dodi, y después el Salmo 92, "Un salmo, un cántico para el día del sabbat".[^abrahams][^idel29] Cuando empieza la última estrofa, es costumbre darse la vuelta hacia la entrada de la sinagoga y hacer una reverencia.[^ej] Abrahams veía en ese giro un resto de la antigua procesión que salía a recibir el sabbat.[^abrahams]
@@ -85,11 +223,11 @@ Nuestro arreglo se basa en la impresión de Cohen de 1904, "Lekah Dodi (Melody f
 
 ### ¿Qué significa Lecha Dodi?
 
-"Ven, amado mío", las primeras palabras del estribillo, que sigue así: al encuentro de la novia, recibamos el sabbat. Las palabras vienen del Cantar de los Cantares, y la novia es el sabbat, como en el Talmud, donde el rabino Yannai saludaba al sabbat con "Ven, oh novia". La última estrofa del himno termina con ese saludo.[^songofsongs][^shabbat][^abrahams]
+"Ven, amado mío", las primeras palabras del estribillo, que sigue así: al encuentro de la novia, recibamos el sabbat. Las palabras vienen del Cantar de los Cantares, y la novia es el sabbat, como en el Talmud, donde el rabino Yannai saludaba al sabbat con "Ven, oh novia".[^songofsongs][^shabbat][^abrahams]
 
 ### ¿Quién escribió Lecha Dodi?
 
-Solomon ha-Levi Alkabetz, poeta y cabalista de Safed, en el siglo XVI. Lo firmó: las primeras letras de las ocho primeras estrofas forman Shlomo HaLevi. Nació hacia 1505; las fuentes no coinciden sobre su muerte: Idelsohn da 1580, y la Encyclopaedia Judaica, 1584. Ninguna fuente de su época recoge la melodía con que se cantó por primera vez.[^je][^ej][^ejalk][^idel29]
+Solomon ha-Levi Alkabetz, poeta y cabalista de Safed, en el siglo XVI. Lo firmó: las primeras letras de las ocho primeras estrofas forman Shlomo HaLevi. Nació hacia 1505; las fuentes no coinciden sobre su muerte: Idelsohn da 1580, y la Encyclopaedia Judaica, 1584.[^je][^ej][^ejalk][^idel29]
 
 ### ¿Qué voz canta la melodía?
 
@@ -123,5 +261,5 @@ La soprano, de principio a fin: la melodía de las semanas del Ómer que Francis
 - [^deut]: Deuteronomio 26:19, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Mechon Mamre. https://mechon-mamre.org/p/pt/pt0526.htm
 - [^exod]: Éxodo 19:5, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Mechon Mamre. https://mechon-mamre.org/p/pt/pt0219.htm
 - [^lev]: Levítico 23:15 a 16, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Mechon Mamre. https://mechon-mamre.org/p/pt/pt0323.htm
-- [^ashkenaz]: *Siddur Ashkenaz*, Kabbalat Shabbat, Lekha Dodi, texto hebreo del siddur Metsudah (1981), en Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Kabbalat_Shabbat%2C_Lekha_Dodi
+- [^ashkenaz]: *Siddur Ashkenaz*, Kabbalat Shabbat, Lekha Dodi, texto hebreo de *The Metsudah Siddur* (1981), en Sefaria, con licencia CC BY 3.0. https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Kabbalat_Shabbat%2C_Lekha_Dodi
 - [^sefard]: *Siddur Sefard*, Kabbalat Shabbat, Lekha Dodi, texto hebreo de Torat Emet, en Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Kabbalat_Shabbat%2C_Lekha_Dodi

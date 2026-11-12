@@ -54,6 +54,118 @@ Who are the speakers? The Encyclopaedia Judaica reads them all as kinds of angel
 
 Where the Hebrew has the four-letter name, which the Union Haggadah spells "Adonoi", we sing Adoshem, the substituted name customary when singing outside prayer. Many Jews change Hashem's names when saying them outside prayer, out of reverence and to avoid taking the name in vain; our songs, sung outside prayer, use the changed form, and the meaning is the same.[^ohr][^outorah]
 
+### The full words
+
+Here are the opening title line and all eight stanzas, each ending on it, as Sefaria's Haggadah prints them, from the Da'at site, vowels as printed.[^sefaria] Jacob of London's extra lines spelling his name are not in the Haggadah.[^kaufmann] The transliteration is modern Israeli, with Adoshem for the four-letter name; the English is ours.
+
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*Ki lo nae, ki lo yae.*
+For to Him it is fitting, for to Him it is due.
+
+> אַדִּיר בִּמְלוּכָה, בָּחוּר כַּהֲלָכָה, גְּדוּדָיו יֹאמְרוּ לוֹ:
+*Adir bimlucha, bachur kahalacha, gedudav yomru lo:*
+Mighty in kingship, chosen, as is right, His troops say to Him:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Yours and Yours, Yours, for it is Yours,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Yours, yes, Yours, Yours, Hashem, is the kingdom,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+for to Him it is fitting, for to Him it is due.
+
+> דָּגוּל בִּמְלוּכָה, הָדוּר כַּהֲלָכָה, וָתִיקָיו יֹאמְרוּ לוֹ:
+*Dagul bimlucha, hadur kahalacha, vatikav yomru lo:*
+Distinguished in kingship, glorious, as is right, His faithful ones say to Him:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Yours and Yours, Yours, for it is Yours,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Yours, yes, Yours, Yours, Hashem, is the kingdom,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+for to Him it is fitting, for to Him it is due.
+
+> זַכַּאי בִּמְלוּכָה, חָסִין כַּהֲלָכָה טַפְסְרָיו יֹאמְרוּ לוֹ:
+*Zakai bimlucha, chasin kahalacha, tafserav yomru lo:*
+Blameless in kingship, strong, as is right, His officers say to Him:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Yours and Yours, Yours, for it is Yours,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Yours, yes, Yours, Yours, Hashem, is the kingdom,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+for to Him it is fitting, for to Him it is due.
+
+> יָחִיד בִּמְלוּכָה, כַּבִּיר כַּהֲלָכָה לִמּוּדָיו יֹאמְרוּ לוֹ:
+*Yachid bimlucha, kabir kahalacha, limudav yomru lo:*
+One in kingship, great in power, as is right, His learned ones say to Him:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Yours and Yours, Yours, for it is Yours,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Yours, yes, Yours, Yours, Hashem, is the kingdom,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+for to Him it is fitting, for to Him it is due.
+
+> מוֹשֵׁל בִּמְלוּכָה, נוֹרָא כַּהֲלָכָה סְבִיבָיו יֹאמְרוּ לוֹ:
+*Moshel bimlucha, nora kahalacha, sevivav yomru lo:*
+Ruling in kingship, awesome, as is right, those around Him say to Him:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Yours and Yours, Yours, for it is Yours,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Yours, yes, Yours, Yours, Hashem, is the kingdom,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+for to Him it is fitting, for to Him it is due.
+
+> עָנָיו בִּמְלוּכָה, פּוֹדֶה כַּהֲלָכָה, צַדִּיקָיו יֹאמְרוּ לוֹ:
+*Anav bimlucha, pode kahalacha, tzadikav yomru lo:*
+Humble in kingship, redeeming, as is right, His righteous ones say to Him:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Yours and Yours, Yours, for it is Yours,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Yours, yes, Yours, Yours, Hashem, is the kingdom,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+for to Him it is fitting, for to Him it is due.
+
+> קָדּוֹשׁ בִּמְלוּכָה, רַחוּם כַּהֲלָכָה שִׁנְאַנָּיו יֹאמְרוּ לוֹ:
+*Kadosh bimlucha, rachum kahalacha, shinanav yomru lo:*
+Holy in kingship, compassionate, as is right, His angels say to Him:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Yours and Yours, Yours, for it is Yours,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Yours, yes, Yours, Yours, Hashem, is the kingdom,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+for to Him it is fitting, for to Him it is due.
+
+> תַּקִיף בִּמְלוּכָה, תּוֹמֵךְ כַּהֲלָכָה תְּמִימָיו יֹאמְרוּ לוֹ:
+*Takif bimlucha, tomech kahalacha, temimav yomru lo:*
+Powerful in kingship, upholding, as is right, His perfect ones say to Him:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Yours and Yours, Yours, for it is Yours,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Yours, yes, Yours, Yours, Hashem, is the kingdom,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+for to Him it is fitting, for to Him it is due.
+
 ## How it is sung
 
 At a traditional Ashkenazi seder, after the closing wish "Next year in Jerusalem" and two longer poems come Ki Lo Na'eh, Adir Hu, the counting of the Omer, Echad Mi Yodea and Chad Gadya.[^sefaria][^ej] The Union Haggadah puts it after the fourth cup of wine and after Adir Hu, the reverse of the traditional order.[^uh1923][^sefaria]
@@ -116,7 +228,7 @@ The soprano, throughout, and it sings each verse alone, as the Union Haggadah's 
 - [^davidson]: Israel Davidson, *Otsar ha-shirah veha-piyut* (Thesaurus of Mediaeval Hebrew Poetry), vol. 2 (New York, Jewish Theological Seminary of America, 1924 to 1933), letter kaf, no. 215. https://archive.org/details/otsarhashiraheha21davi
 - [^uh1923]: Central Conference of American Rabbis, *The Union Haggadah: Home Service for the Passover*, revised edition (1923), contents, pp. 82 to 85 and 156 to 158. https://archive.org/details/unionhaggadahhom00unse
 - [^uh1908]: Central Conference of American Rabbis, *The Union Haggadah* (Cincinnati, 1908), preface, contents and pp. 54 and 55. https://archive.org/details/ccar1908union
-- [^sefaria]: *Pesach Haggadah*, Nirtzah, "Ki Lo Na'e", Hebrew text and the English of the Koren Haggadah (Koren, 2013), with the order of Nirtzah, via Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
+- [^sefaria]: *Pesach Haggadah*, Nirtzah, "Ki Lo Na'e", Hebrew text (Sefaria's public-domain version, from the Da'at Jewish studies site) and the English of the Koren Haggadah (Koren, 2013), with the order of Nirtzah, via Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
 - [^tanakh]: Jeremiah 10:7, 1 Chronicles 29:11, Psalms 74:16 and 89:12, Hebrew (Miqra according to the Masorah) and the JPS translation, via Sefaria. https://www.sefaria.org/Jeremiah.10.7
 - [^sacks]: Jonathan Sacks, *The Jonathan Sacks Haggadah* (Koren, 2013), Nirtzah, "Ki Lo Na'e", via Sefaria. https://www.sefaria.org/The_Jonathan_Sacks_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
 - [^baruch]: Barukh Epstein, *Barukh SheAmar on the Haggadah* (Tel Aviv, 1968), "Ki Lo Na'e", via Sefaria. https://www.sefaria.org/Barukh_SheAmar_on_Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e

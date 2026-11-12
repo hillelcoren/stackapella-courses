@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: ein keloheinu significado | ein keloheinu traducción | ein keloheinu oración | ein keloheinu letra | ein keloheinu canción
-translatedFrom: f8a5dcb27f19
+translatedFrom: 1aa52be81393
 ---
 
 Ein Keloheinu es un himno hebreo de cinco estrofas cortas que alaban a Hashem con cuatro títulos: Hashem, nuestro Señor, nuestro Rey, nuestro Salvador. En el rito asquenazí llega al cierre del oficio adicional de los sabbats y las fiestas; los judíos sefardíes lo dicen también entre semana.[^ej][^huji] Nadie sabe quién lo escribió, pero ya está en el libro de oraciones de Amram Gaon, del siglo IX.[^ej][^milken] Su letra es más antigua que cualquier melodía, así que los compositores siguen poniéndole música: el Union Hymnal, un himnario reformista estadounidense de 1897, imprimió cuatro versiones distintas, una tras otra.[^je][^uh1897][^uh1932] La melodía que cantamos es la que Julius Freudenthal escribió para la sinagoga de Braunschweig, impresa allí en 1843.[^idel29][^austerklein]
@@ -60,6 +60,88 @@ El himno está hecho de cuatro títulos. Cada estrofa recorre los mismos cuatro 
 **Estrofa 5.** Tú eres Hashem, nuestro Señor, nuestro Rey, nuestro Salvador. El himno termina hablándole a Hashem directamente. En el libro de oraciones asquenazí sigue un verso más, que recuerda el incienso que ofrecían los antepasados y lleva al pasaje sobre el incienso del Templo que se lee a continuación.[^je][^posen]
 
 La página muestra nuestra letra con la pronunciación israelí moderna. El himnario de 1897 la escribía a la manera asquenazí, "En Kelohenu", "Boruch", "Atto hu", con las mismas sílabas bajo las mismas notas.[^uh1897] Lo cantamos con los nombres sustitutos que se acostumbran al cantar fuera de la oración, Kelokeinu y Elokeinu, con una k en lugar de la h: es costumbre no pronunciar el nombre de Hashem completo fuera de la oración, y una canción para practicar está fuera de la oración. El título conserva la grafía con la que se conoce la oración, Ein Keloheinu: la costumbre se refiere a pronunciar el nombre en voz alta, y un título se lee, no se canta.
+
+### La letra completa
+
+Estas son las cinco estrofas y el verso que las sigue tal como las imprime el libro de oraciones asquenazí, en el hebreo del Metsudah Siddur en Sefaria; algunas ediciones añaden el nombre de Hashem a ese último verso.[^sefaria] Imprime adonenu, "nuestro Señor", donde nosotros cantamos adoneinu, otra grafía de la misma palabra, y la transliteración usa los nombres sustitutos que cantamos.
+
+**Estrofa 1**
+> אֵין כֵּאלֹהֵינוּ.
+*Ein kelokeinu,*
+No hay nadie como Hashem,
+> אֵין כַּאדוֹנֵנוּ.
+*ein kadonenu,*
+nadie como nuestro Señor,
+> אֵין כְּמַלְכֵּנוּ.
+*ein kemalkenu,*
+nadie como nuestro Rey,
+> אֵין כְּמוֹשִׁיעֵנוּ:
+*ein k'moshienu.*
+nadie como nuestro Salvador.
+
+**Estrofa 2**
+> מִי כֵאלֹהֵינוּ.
+*Mi chelokeinu,*
+¿Quién es como Hashem?
+> מִי כַאדוֹנֵנוּ.
+*mi chadonenu,*
+¿Quién es como nuestro Señor?
+> מִי כְמַלְכֵּנוּ.
+*mi chemalkenu,*
+¿Quién es como nuestro Rey?
+> מִי כְמוֹשִׁיעֵנוּ:
+*mi ch'moshienu.*
+¿Quién es como nuestro Salvador?
+
+**Estrofa 3**
+> נוֹדֶה לֵאלֹהֵינוּ.
+*Node lelokeinu,*
+Damos gracias a Hashem,
+> נוֹדֶה לַאדוֹנֵנוּ.
+*node ladonenu,*
+damos gracias a nuestro Señor,
+> נוֹדֶה לְמַלְכֵּנוּ.
+*node lemalkenu,*
+damos gracias a nuestro Rey,
+> נוֹדֶה לְמוֹשִׁיעֵנוּ:
+*node l'moshienu.*
+damos gracias a nuestro Salvador.
+
+**Estrofa 4**
+> בָּרוּךְ אֱלֹהֵינוּ.
+*Baruch elokeinu,*
+Bendito sea Hashem,
+> בָּרוּךְ אֲדוֹנֵנוּ.
+*baruch adonenu,*
+bendito sea nuestro Señor,
+> בָּרוּךְ מַלְכֵּנוּ.
+*baruch malkenu,*
+bendito sea nuestro Rey,
+> בָּרוּךְ מוֹשִׁיעֵנוּ:
+*baruch moshienu.*
+bendito sea nuestro Salvador.
+
+**Estrofa 5**
+> אַתָּה הוּא אֱלֹהֵינוּ.
+*Ata hu elokeinu,*
+Tú eres Hashem,
+> אַתָּה הוּא אֲדוֹנֵנוּ.
+*ata hu adonenu,*
+Tú eres nuestro Señor,
+> אַתָּה הוּא מַלְכֵּנוּ.
+*ata hu malkenu,*
+Tú eres nuestro Rey,
+> אַתָּה הוּא מוֹשִׁיעֵנוּ.
+*ata hu moshienu.*
+Tú eres nuestro Salvador.
+
+**El verso que sigue (no se canta)**
+> אַתָּה הוּא שֶׁהִקְטִרוּ אֲבוֹתֵינוּ לְפָנֶיךָ
+*Ata hu shehiktiru avoteinu lefanecha*
+Tú eres Aquel ante quien nuestros antepasados ofrecían
+> אֶת קְטֹרֶת הַסַּמִּים:
+*et ketoret hasamim.*
+el incienso de especias.
 
 ## Cómo se canta
 
@@ -125,3 +207,4 @@ La soprano canta la melodía de Freudenthal de principio a fin, hasta su Mi agud
 - [^austerklein]: Matt Austerklein, "Not a German Drinking Song", *Austerklein* (Substack, 8 de junio de 2026). https://mattausterklein.substack.com/p/not-a-german-drinking-song
 - [^uh1897]: Central Conference of American Rabbis, *Union Hymnal* (1897), apéndice A, n.os 17 a 20, "En Kelohenu", pp. 140 a 147, e índice, p. 218. https://archive.org/details/unionhymnal0000unse_l7i5
 - [^uh1932]: Central Conference of American Rabbis, *Union Hymnal*, tercera edición (copyright 1932; impresión de 1936), prefacio, p. v, y n.º 292, "Ayn Kaylohaynu", p. 330, Morning Service for the Sabbath. https://archive.org/details/unionhymnal00cent
+- [^sefaria]: "Ein Kelohenu", *Siddur Ashkenaz*, oficio de la mañana entre semana, oraciones finales (como se dicen en Israel), hebreo de *The Metsudah Siddur* (1981), en Sefaria, con licencia CC BY 3.0. https://www.sefaria.org/Siddur_Ashkenaz,_Weekday,_Shacharit,_Concluding_Prayers,_Korbanot_%28Israel%29,_Ein_Kelohenu

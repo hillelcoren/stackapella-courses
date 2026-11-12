@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: ki lo naeh letra | ki lo na eh transliteración | ki lo naeh pésaj | ki lo na eh traducción | ki lo naeh significado
-translatedFrom: 3896f7fa1e2a
+translatedFrom: 1fef1a1f356f
 ---
 
 Ki Lo Na'eh es un himno hebreo que se canta en el séder de Pésaj, el oficio en casa y la cena festiva de las primeras noches de la fiesta.[^je][^ej] Llega cerca del final, cuando ya ha terminado la parte formal de la Hagadá, entre las canciones que cierran la noche, y se canta sobre todo en hogares asquenazíes.[^ej][^sefaria][^bogomilsky] Sus estrofas recorren el alfabeto hebreo. Cada una llama a Hashem poderoso, elegido, santo o fuerte en Su reinado, y luego nombra a un grupo de Sus servidores que responden: Tuyo, y Tuyo, Hashem, es el reino.[^ej][^sefaria] La mesa lo lleva cantando más de siete siglos. Un erudito de Londres lo copió en su libro de ley judía en 1287, y la Hagadá del movimiento reformista aún lo imprimía con música en 1908 y 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
@@ -54,6 +54,118 @@ El himno completo tiene ocho estrofas, todas iguales salvo tres palabras cuyas p
 ¿Quiénes hablan? La Encyclopaedia Judaica los lee a todos como clases de ángeles.[^ej] Jacob de Lissa, en su comentario a la Hagadá, Maaseh Nissim, los divide: las tropas y los ángeles son ángeles, pero los justos y los íntegros son Israel. También lee los nombres a través del midrash. El midrash dice que Hashem se apareció en el mar Rojo como un guerrero y en el Sinaí como un anciano lleno de compasión, y él y otros maestros leen bachur, que también puede significar "joven", como ese joven guerrero. Rachum recuerda la historia del Talmud según la cual Hashem hizo callar a los ángeles que cantaban mientras los egipcios se ahogaban, porque también ellos eran obra de Sus manos.[^lissa][^ejlissa][^bogomilsky][^rashi][^megillah]
 
 Donde el hebreo tiene el nombre de cuatro letras, que la Union Haggadah escribe "Adonoi", cantamos Adoshem, el nombre sustituto que se acostumbra al cantar fuera de la oración. Muchos judíos cambian los nombres de Hashem al decirlos fuera de la oración, por reverencia y para no pronunciar el nombre en vano; nuestras canciones, que se cantan fuera de la oración, usan la forma cambiada, y el significado es el mismo.[^ohr][^outorah]
+
+### La letra completa
+
+Estos son el verso del título, que abre el himno, y las ocho estrofas, que cierran con él, tal como los imprime la Hagadá de Sefaria, tomados del sitio Da'at, con las vocales impresas.[^sefaria] Los versos de más de Jacob de Londres que forman su nombre no están en la Hagadá.[^kaufmann] La transliteración es israelí moderna, con Adoshem en lugar del nombre de cuatro letras; la traducción es nuestra.
+
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*Ki lo nae, ki lo yae.*
+Porque a Él le corresponde, porque a Él le es debido.
+
+> אַדִּיר בִּמְלוּכָה, בָּחוּר כַּהֲלָכָה, גְּדוּדָיו יֹאמְרוּ לוֹ:
+*Adir bimlucha, bachur kahalacha, gedudav yomru lo:*
+Poderoso en Su reinado, elegido, como es debido, Sus tropas le dicen:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Tuyo y Tuyo, Tuyo, porque es Tuyo,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Tuyo, sí, Tuyo, Tuyo, Hashem, es el reino,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+porque a Él le corresponde, porque a Él le es debido.
+
+> דָּגוּל בִּמְלוּכָה, הָדוּר כַּהֲלָכָה, וָתִיקָיו יֹאמְרוּ לוֹ:
+*Dagul bimlucha, hadur kahalacha, vatikav yomru lo:*
+Insigne en Su reinado, glorioso, como es debido, Sus fieles le dicen:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Tuyo y Tuyo, Tuyo, porque es Tuyo,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Tuyo, sí, Tuyo, Tuyo, Hashem, es el reino,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+porque a Él le corresponde, porque a Él le es debido.
+
+> זַכַּאי בִּמְלוּכָה, חָסִין כַּהֲלָכָה טַפְסְרָיו יֹאמְרוּ לוֹ:
+*Zakai bimlucha, chasin kahalacha, tafserav yomru lo:*
+Intachable en Su reinado, fuerte, como es debido, Sus oficiales le dicen:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Tuyo y Tuyo, Tuyo, porque es Tuyo,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Tuyo, sí, Tuyo, Tuyo, Hashem, es el reino,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+porque a Él le corresponde, porque a Él le es debido.
+
+> יָחִיד בִּמְלוּכָה, כַּבִּיר כַּהֲלָכָה לִמּוּדָיו יֹאמְרוּ לוֹ:
+*Yachid bimlucha, kabir kahalacha, limudav yomru lo:*
+Único en Su reinado, grande en poder, como es debido, Sus sabios le dicen:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Tuyo y Tuyo, Tuyo, porque es Tuyo,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Tuyo, sí, Tuyo, Tuyo, Hashem, es el reino,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+porque a Él le corresponde, porque a Él le es debido.
+
+> מוֹשֵׁל בִּמְלוּכָה, נוֹרָא כַּהֲלָכָה סְבִיבָיו יֹאמְרוּ לוֹ:
+*Moshel bimlucha, nora kahalacha, sevivav yomru lo:*
+Soberano en Su reinado, imponente, como es debido, los que lo rodean le dicen:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Tuyo y Tuyo, Tuyo, porque es Tuyo,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Tuyo, sí, Tuyo, Tuyo, Hashem, es el reino,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+porque a Él le corresponde, porque a Él le es debido.
+
+> עָנָיו בִּמְלוּכָה, פּוֹדֶה כַּהֲלָכָה, צַדִּיקָיו יֹאמְרוּ לוֹ:
+*Anav bimlucha, pode kahalacha, tzadikav yomru lo:*
+Humilde en Su reinado, redentor, como es debido, Sus justos le dicen:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Tuyo y Tuyo, Tuyo, porque es Tuyo,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Tuyo, sí, Tuyo, Tuyo, Hashem, es el reino,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+porque a Él le corresponde, porque a Él le es debido.
+
+> קָדּוֹשׁ בִּמְלוּכָה, רַחוּם כַּהֲלָכָה שִׁנְאַנָּיו יֹאמְרוּ לוֹ:
+*Kadosh bimlucha, rachum kahalacha, shinanav yomru lo:*
+Santo en Su reinado, compasivo, como es debido, Sus ángeles le dicen:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Tuyo y Tuyo, Tuyo, porque es Tuyo,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Tuyo, sí, Tuyo, Tuyo, Hashem, es el reino,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+porque a Él le corresponde, porque a Él le es debido.
+
+> תַּקִיף בִּמְלוּכָה, תּוֹמֵךְ כַּהֲלָכָה תְּמִימָיו יֹאמְרוּ לוֹ:
+*Takif bimlucha, tomech kahalacha, temimav yomru lo:*
+Fuerte en Su reinado, el que sostiene, como es debido, Sus íntegros le dicen:
+> לְךָ וּלְךָ, לְךָ כִּי לְךָ,
+*Lecha ulecha, lecha ki lecha,*
+Tuyo y Tuyo, Tuyo, porque es Tuyo,
+> לְךָ אַף לְךָ, לְךָ יְיָ הַמַּמְלָכָה,
+*lecha af lecha, lecha Adoshem hamamlacha,*
+Tuyo, sí, Tuyo, Tuyo, Hashem, es el reino,
+> כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
+*ki lo nae, ki lo yae.*
+porque a Él le corresponde, porque a Él le es debido.
 
 ## Cómo se canta
 
@@ -117,7 +229,7 @@ La soprano, de principio a fin, y canta sola cada estrofa, como el solo de la Un
 - [^davidson]: Israel Davidson, *Otsar ha-shirah veha-piyut* (Thesaurus of Mediaeval Hebrew Poetry), vol. 2 (New York, Jewish Theological Seminary of America, 1924 a 1933), letra kaf, n.º 215. https://archive.org/details/otsarhashiraheha21davi
 - [^uh1923]: Central Conference of American Rabbis, *The Union Haggadah: Home Service for the Passover*, edición revisada (1923), índice, pp. 82 a 85 y 156 a 158. https://archive.org/details/unionhaggadahhom00unse
 - [^uh1908]: Central Conference of American Rabbis, *The Union Haggadah* (Cincinnati, 1908), prefacio, índice y pp. 54 y 55. https://archive.org/details/ccar1908union
-- [^sefaria]: *Pesach Haggadah*, Nirtzah, "Ki Lo Na'e", texto hebreo y la versión inglesa de la Koren Haggadah (Koren, 2013), con el orden de Nirtzah, en Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
+- [^sefaria]: *Pesach Haggadah*, Nirtzah, "Ki Lo Na'e", texto hebreo (la versión de dominio público de Sefaria, tomada del sitio de estudios judíos Da'at) y la versión inglesa de la Koren Haggadah (Koren, 2013), con el orden de Nirtzah, en Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
 - [^tanakh]: Jeremías 10:7, 1 Crónicas 29:11, Salmos 74:16 y 89:12, hebreo (Miqra according to the Masorah) y la traducción de la JPS, en Sefaria. https://www.sefaria.org/Jeremiah.10.7
 - [^sacks]: Jonathan Sacks, *The Jonathan Sacks Haggadah* (Koren, 2013), Nirtzah, "Ki Lo Na'e", en Sefaria. https://www.sefaria.org/The_Jonathan_Sacks_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
 - [^baruch]: Barukh Epstein, *Barukh SheAmar on the Haggadah* (Tel Aviv, 1968), "Ki Lo Na'e", en Sefaria. https://www.sefaria.org/Barukh_SheAmar_on_Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e

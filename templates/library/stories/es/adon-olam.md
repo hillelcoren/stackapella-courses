@@ -14,7 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adon olam significado | adon olam traducción | quién escribió adon olam | adon olam historia | adon olam asher malach significado | adon olam melodía
-translatedFrom: d2cbf67d7242
+translatedFrom: 59ceca56bbc5
 ---
 
 Adon Olam, "Señor del mundo", es un himno hebreo sobre Hashem, que reinaba antes de que nada fuera creado y reinará solo cuando todo haya desaparecido.[^sefaria] Está en los dos extremos de las oraciones de la mañana. Se imprime al comienzo del oficio diario, y al cierre del oficio de la mañana del sabbat y de las fiestas muchas congregaciones lo cantan juntas.[^je][^ej][^posen] Sus últimos versos ponen el espíritu de quien canta en la mano de Hashem, "cuando duermo y cuando despierto", así que también es una oración de la noche: se dice antes de dormir y junto a quien se está muriendo.[^abrahams][^ej][^je]
@@ -43,7 +43,7 @@ Su Schirej Tefilah, cantos para la sinagoga, se imprimió en Rostov, y la edici�
 
 ## Qué dice la letra
 
-El himno va de Hashem, más allá del tiempo, a la confianza de quien canta: Abrahams veía su encanto en unir las grandes doctrinas de la fe con pensamientos sencillos del corazón.[^abrahams] Aquí están los diez versos en palabras sencillas, tal como los imprime el libro de oraciones asquenazí.[^sefaria] Cantamos los versos 1 a 6, 9 y 10, dos versos en cada vuelta de la sección de Gerovitsch, y dejamos fuera el 7 y el 8.
+El himno va de Hashem, más allá del tiempo, a la confianza de quien canta: Abrahams veía su encanto en unir las grandes doctrinas de la fe con pensamientos sencillos del corazón.[^abrahams] Aquí están los diez versos en palabras sencillas, tal como los imprime el libro de oraciones asquenazí.[^sefaria]
 
 **Verso 1 (cantado).** Señor del mundo, que fue Rey antes de que nada en absoluto fuera formado. Adon es "señor", y olam es "mundo", una palabra que también significa "para siempre". Malach es "reinó".
 
@@ -69,6 +69,80 @@ En el verso 10 el hebreo tiene el nombre de cuatro letras, y cantamos "Adoshem l
 
 Gerovitsch imprimió la letra con la pronunciación asquenazí, "Adon olom ascher molach".[^zemer] Nosotros la cantamos con la pronunciación israelí moderna, sobre las mismas notas.
 
+### La letra completa
+
+Estos son los diez versos tal como los imprime el libro de oraciones asquenazí, en el hebreo del Metsudah Siddur en Sefaria, cada verso partido en su coma.[^sefaria] La transliteración usa los nombres sustitutos: Keli por Eli en el verso 7, y Adoshem en el verso 10.
+
+**Versos 1 y 2**
+> אֲדוֹן עוֹלָם אֲשֶׁר מָלַךְ,
+*Adon olam asher malach,*
+Señor del mundo, que fue Rey
+> בְּטֶֽרֶם כָּל יְצִיר נִבְרָא:
+*b'terem kol yetzir nivra.*
+antes de que nada en absoluto fuera formado.
+> לְעֵת נַעֲשָׂה בְחֶפְצוֹ כֹּל,
+*L'et naasa vecheftzo kol,*
+Cuando todo fue hecho por Su voluntad,
+> אֲזַי מֶֽלֶךְ שְׁמוֹ נִקְרָא:
+*azai melech shemo nikra.*
+entonces fue llamado Rey.
+
+**Versos 3 y 4**
+> וְאַחֲרֵי כִּכְלוֹת הַכֹּל,
+*Veacharei kichlot hakol,*
+Y cuando todo llegue a su fin,
+> לְבַדּוֹ יִמְלֹךְ נוֹרָא:
+*levado yimloch nora.*
+solo Él, el Temible, reinará.
+> וְהוּא הָיָה וְהוּא הֹוֶה,
+*Vehu haya vehu hove,*
+Él fue, Él es
+> וְהוּא יִהְיֶה בְּתִפְאָרָה:
+*vehu yihye betifara.*
+y Él será, en gloria.
+
+**Versos 5 y 6**
+> וְהוּא אֶחָד וְאֵין שֵׁנִי,
+*Vehu echad veein sheni*
+Él es Uno, y no hay un segundo
+> לְהַמְשִׁיל לוֹ לְהַחְבִּֽירָה:
+*lehamshilo lehachbira.*
+que se le compare o se ponga a Su lado.
+> בְּלִי רֵאשִׁית בְּלִי תַכְלִית,
+*Beli reshit beli tachlit,*
+Sin principio, sin fin;
+> וְלוֹ הָעֹז וְהַמִּשְׂרָה:
+*velo haoz vehamisra.*
+Suyos son la fuerza y el dominio.
+
+**Versos 7 y 8 (no se cantan)**
+> וְהוּא אֵלִי וְחַי גּוֹאֲלִי,
+*Vehu Keli vechai goali,*
+Él es Hashem, mi redentor que vive,
+> וְצוּר חֶבְלִי בְּעֵת צָרָה:
+*vetzur chevli b'et tzara.*
+mi roca en mi dolor, en el tiempo de angustia.
+> וְהוּא נִסִּי וּמָנוֹס לִי,
+*Vehu nisi umanos li,*
+Él es mi estandarte y mi refugio,
+> מְנָת כּוֹסִי בְּיוֹם אֶקְרָא:
+*menat kosi beyom ekra.*
+mi porción el día en que lo llamo.
+
+**Versos 9 y 10**
+> בְּיָדוֹ אַפְקִיד רוּחִי,
+*Beyado afkid ruchi*
+En Su mano entrego mi espíritu
+> בְּעֵת אִישַׁן וְאָעִֽירָה:
+*b'et ishan veaira.*
+cuando duermo y cuando despierto.
+> וְעִם רוּחִי גְּוִיָּתִי,
+*Veim ruchi geviyati,*
+Y con mi espíritu, también mi cuerpo.
+> יְיָ לִי וְלֹא אִירָא:
+*Adoshem li velo ira.*
+Hashem está conmigo; no temeré.
+
 ## Cómo se canta
 
 Adon Olam tiene dos lugares en el oficio. Se imprime al comienzo de las oraciones diarias de la mañana, y es más conocido al final.[^je][^ej][^sefaria] En 1901, la Jewish Encyclopedia contaba que los judíos sefardíes, y las sinagogas británicas en general, lo cantaban todos juntos al cierre de los oficios de la mañana del sabbat y de las fiestas, mientras que los judíos asquenazíes lo cantaban a menudo al cierre del oficio de la tarde en lugar del himno Yigdal.[^je] Hoy, dice la Encyclopaedia Judaica, su lugar principal es al cierre del Musaf, el oficio adicional que termina la mañana del sabbat y de las fiestas.[^ej] La Jewish Encyclopedia lo encontraba cantado casi en todas partes la víspera de Yom Kipur, y la Encyclopaedia Judaica lo sitúa al cierre del oficio de Kol Nidre de esa noche.[^je][^ej][^abrahams]
@@ -81,7 +155,7 @@ Nuestro arreglo se basa en la página de Gerovitsch, en Re menor como está impr
 
 **Otras melodías.** Adon Olam tiene muchísimas melodías, unas escritas para él y otras prestadas, judías y no judías; su métrica sencilla y regular se presta a ello, y las congregaciones estadounidenses lo cantan a menudo con melodías populares, entre ellas "Rock Around the Clock".[^ej][^posen] Sin embargo, en 1901 la Jewish Encyclopedia encontraba pocas melodías tradicionales, solo cuatro o cinco, y la más antigua parecía ser una breve melodía de origen español.[^je]
 
-Salamone Rossi incluyó una versión a ocho voces en su colección de cantos hebreos para la sinagoga, impresa en Venecia en 1622 o 1623.[^ej][^imslp][^musicweb] En 1976, Uzi Hitman escribió una nueva melodía para el octavo Festival de la Canción Jasídica, y Zemereshet la llama la melodía más extendida de la última generación.[^zemer][^ice]
+Salamone Rossi incluyó una versión a ocho voces en su colección de cantos hebreos para la sinagoga, impresa en Venecia en 1622 o 1623.[^ej][^imslp][^musicweb] En 1976, Uzi Hitman escribió la melodía que Zemereshet llama la más extendida de la última generación.[^zemer][^ice]
 
 ## Cómo cantarla
 
@@ -115,7 +189,7 @@ La soprano canta la melodía antigua de principio a fin, cuatro veces, una por c
 - [^je]: Kaufmann Kohler y Francis L. Cohen, "Adon 'Olam", *The Jewish Encyclopedia*, vol. 1 (Funk and Wagnalls, 1901), pp. 205 a 206. https://www.jewishencyclopedia.com/articles/851
 - [^ej]: "Adon Olam", *Encyclopaedia Judaica*, 2.ª ed. (Macmillan Reference USA, 2007), sección musical de Avigdor Herzog, en Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/adon-olam
 - [^abrahams]: Israel Abrahams, *A Companion to the Authorised Daily Prayer Book*, edición revisada (London: Eyre and Spottiswoode, 1922), pp. vii a ix. https://archive.org/details/acompaniontotheauthoriseddailyprayerbookrevisededitionisraelabrahams1922
-- [^sefaria]: "Adon Olam", *Siddur Ashkenaz*, oficio de la mañana entre semana, oraciones preparatorias, hebreo del Metsudah Siddur (1981), Sefaria. https://www.sefaria.org/Siddur_Ashkenaz,_Weekday,_Shacharit,_Preparatory_Prayers,_Adon_Olam
+- [^sefaria]: "Adon Olam", *Siddur Ashkenaz*, oficio de la mañana entre semana, oraciones preparatorias, hebreo de *The Metsudah Siddur* (1981), en Sefaria, con licencia CC BY 3.0. https://www.sefaria.org/Siddur_Ashkenaz,_Weekday,_Shacharit,_Preparatory_Prayers,_Adon_Olam
 - [^jegab]: Richard Gottheil, Stephen S. Wise y Michael Friedländer, "Ibn Gabirol, Solomon ben Judah", *The Jewish Encyclopedia*, vol. 6 (Funk and Wagnalls, 1904), p. 526. https://jewishencyclopedia.com/articles/6448-gabirol-solomon-ibn
 - [^posen]: "Adon Olam Prayer to a Tune from the Musical Hamilton", *The Posen Library of Jewish Culture and Civilization* (2016). https://www.posenlibrary.com/node/12052
 - [^ejger]: Joshua Leib Ne'eman, "Gerovich, Eliezer Mordecai ben Isaac", *Encyclopaedia Judaica*, 2.ª ed. (Macmillan Reference USA, 2007), en Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/gerovich-eliezer-mordecai-ben-isaac
