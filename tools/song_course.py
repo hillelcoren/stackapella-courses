@@ -133,6 +133,10 @@ SONGS = {
     "heavenly-treasures": "with the song",
     "las-mananitas": "with the song",
     "riu-riu-chiu": "with the song",
+    # Villancicos, 2026-11-12.
+    "noche-de-paz": "with the song",
+    "pastores-a-belen": "with the song",
+    "el-cant-dels-ocells": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
