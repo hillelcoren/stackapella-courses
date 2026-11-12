@@ -74,7 +74,7 @@ So let us take nougat and honey
 > Para ofrecer al Niño Manuel,
 to offer to the Child Emmanuel;
 > Llevemos pues turrones y miel
-let us take nougat and honey
+so let us take nougat and honey
 > Para ofrecer al Niño Manuel.
 to offer to the Child Emmanuel,
 > al Niño Manuel

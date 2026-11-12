@@ -70,9 +70,9 @@ Among the lights of heaven that scatter their light,
 > Bella anunciando al niñito Jesús,
 lovely, telling of the little child Jesus,
 > Brilla la estrella de paz,
-the bright light of peace is shining,
+the star of peace is shining,
 > Brilla la estrella de paz.
-the bright light of peace is shining.
+the star of peace is shining.
 
 **Verse 2**
 > ¡Noche de paz, noche de amor!
