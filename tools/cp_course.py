@@ -140,7 +140,7 @@ def cp_1_pedal():
                 "with": [{"notes": notes(ODE_HOME, start=2, shift=0)}]}
     return {
         "id": "cp-1-pedal", "title": EN("Be the drone"),
-        "fact": {"id": "rheingold-pedal", "text": {"en": "Wagner's opera Das Rheingold opens with a 136-bar prelude over a pedal: the lowest instruments hold one note right through it while the orchestra builds above."}, "source": {"en": "Wikipedia, Das Rheingold"}, "url": "https://en.wikipedia.org/wiki/Das_Rheingold"},
+        "fact": {"id": "rheingold-pedal", "text": {"en": "Wagner's opera Das Rheingold opens with a 136-bar prelude over a pedal: the lowest instruments hold one note right through it while the orchestra builds above."}, "source": {"en": "Nattiez, Wagner Androgyne (Princeton, 1993)"}, "url": "https://books.google.com/books?id=aEgABAAAQBAJ"},
         "steps": [
             learn("A note held under a moving tune is a pedal, after the organ's pedals, which hold a low note as long as it's pressed.",
                   [("Hold one note", "Do, on \"oo\", easy and steady"),
@@ -167,7 +167,7 @@ def cp_1_ostinato():
     above = notes([(6, 9), (6, 7), (6, 5), (6, 4), (6, 4)])  # an original line falling slowly over the pattern
     return {
         "id": "cp-1-ostinato", "title": EN("A pattern that repeats"),
-        "fact": {"id": "bolero-169", "text": {"en": "Ravel's Boléro is built on one snare drum rhythm played 169 times. Ravel warned it was \"orchestral tissue without music\", one very long crescendo."}, "source": {"en": "Wikipedia, Boléro"}, "url": "https://en.wikipedia.org/wiki/Bol%C3%A9ro"},
+        "fact": {"id": "bolero-169", "text": {"en": "Ravel's Boléro is built on one snare drum rhythm played 169 times. Ravel warned it was \"orchestral tissue without music\", one very long crescendo."}, "source": {"en": "Blades, Percussion Instruments and Their History (1992)"}, "url": "https://books.google.com/books?id=a8V3Z6j2ExEC"},
         "steps": [
             learn("A pattern sung over and over is an ostinato. Once you know it, it keeps itself going.",
                   [("Four notes", "Do ti do la: a darker colour you'll meet properly in unit 2"),
@@ -384,7 +384,7 @@ def cp_3_call():
         beat += 10
     return {
         "id": "cp-3-call", "title": EN("Call and response"),
-        "fact": {"id": "duckworth-chant", "text": {"en": "The US Army's call-and-response \"Duckworth Chant\" is credited to Private Willie Duckworth. In 1944, on a night march back to Fort Slocum, New York, he chanted to lift his tired comrades' spirits."}, "source": {"en": "Wikipedia, Military cadence"}, "url": "https://en.wikipedia.org/wiki/Military_cadence"},
+        "fact": {"id": "duckworth-chant", "text": {"en": "The US Army's call-and-response \"Duckworth Chant\" is credited to Private Willie Duckworth. In 1944, on a night march back to Fort Slocum, New York, he chanted to lift his tired comrades' spirits."}, "source": {"en": "U.S. Army, Jody Call has black roots (2011)"}, "url": "https://www.army.mil/article/51827/u_s_army_jody_call_has_black_roots"},
         "steps": [
             learn("In call and response, a leader sings and others answer. Here the call ends away from do, and the answer brings it home.",
                   [("The guide calls", "A short phrase, ending away from do"),
@@ -405,7 +405,7 @@ def cp_3_counter():
     line = [{"beat": 4 + 4 * k, "length": 3.5, "step": step, "lyric": "oo"} for k, step in enumerate([0, -1, -3, -5])]
     return {
         "id": "cp-3-counter", "title": EN("A slow line under a tune"),
-        "fact": {"id": "lhomme-arme-masses", "text": {"en": "Renaissance composers wrote over 40 Masses on one song, L'homme armé, \"the armed man\", using its tune as a cantus firmus: a fixed line in long notes, with livelier lines built around it."}, "source": {"en": "Wikipedia, L'homme armé; Cantus firmus"}, "url": "https://en.wikipedia.org/wiki/L%27homme_arm%C3%A9"},
+        "fact": {"id": "lhomme-arme-masses", "text": {"en": "Renaissance composers wrote over 40 Masses on one song, L'homme armé, \"the armed man\", using its tune as a cantus firmus: a fixed line in long notes, with livelier lines built around it."}, "source": {"en": "Taruskin and Gibbs, The Oxford History of Western Music (2019)"}, "url": "https://books.google.com/books?id=T5-JEQAAQBAJ"},
         "steps": [
             learn("Your line keeps falling while the tune turns, so the two never move the same way for long.",
                   [("Four long notes", "Do, ti, la, so"),
@@ -437,7 +437,7 @@ def cp_3_descant():
             {"kind": "play", "text": EN("After a bar, sing the descant over the tune and its chords."),
              "exercise": {"tempo": 80, "notes": [{"beat": 0, "length": 2, "step": 0, "listenOnly": True}] + notes(DESCANT_1, 4, OCOME_DO), "turn": False,
                           "with": [{"notes": notes(OCOME_LINE1, 4, OCOME_DO)}], "chords": oc_chords(OCOME_DO, 4, 16)},
-             "measures": EN("Scored on the descant's notes on pitch over the tune. Did you know? The best-known descant to this carol, by David Willcocks, appeared in 1961, over the \"Sing, choirs of angels\" verse.")},
+             "measures": EN("Scored on the descant's notes on pitch over the tune. Did you know? David Willcocks's descant to this carol, over the \"Sing, choirs of angels\" verse, was published in 1961 in the first Carols for Choirs book.")},
         ],
     }
 
@@ -592,7 +592,7 @@ def cp_4_first():
             {"kind": "try", "text": EN("Your line, at your own pace."), "exercise": {"tempo": 60, "notes": line(FIRST_1, 0)}},
             {"kind": "play", "text": EN("After the guide's do, sing your line against the cantus."),
              "exercise": {"tempo": 60, "notes": CUE + line(FIRST_1, 4), "turn": False, "with": [{"notes": cantus(CANTUS_1, 4)}]},
-             "measures": EN("Scored on your line's notes on pitch against the cantus. This line moves contrary six times of eight, with no parallel fifths or octaves. Did you know? Fux wrote his book as a dialogue: the teacher, Aloysius, stands for Palestrina, and the student, Josephus, for Fux himself.")},
+             "measures": EN("Scored on your line's notes on pitch against the cantus. This line moves contrary six times of eight, with no parallel fifths or octaves. Did you know? Fux wrote his book as a dialogue. In the preface he says the teacher, Aloysius, stands for Palestrina, and the student, Josephus, for any pupil eager to learn.")},
         ],
     }
 
@@ -711,7 +711,7 @@ def cp_5_hold():
              ]}},
             {"kind": "play", "text": EN("Hold do while the bass moves, feel the rub, then step to ti and home to do."),
              "exercise": {"tempo": 60, "notes": CUE + held, "turn": False, "with": [{"notes": bass}, {"notes": re, "volume": 0.4}]},
-             "measures": EN("Scored on your notes on pitch, the held one too. Did you know? Fux's fourth species is all suspensions: notes tied over, rubbing on the strong beat, then falling a step.")},
+             "measures": EN("Scored on your notes on pitch, the held one too. Did you know? Fux's fourth species ties notes over the bar line. When a tied note rubs on the strong beat, Fux says it must always resolve by falling a step.")},
         ],
     }
 
