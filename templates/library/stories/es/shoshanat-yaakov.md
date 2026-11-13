@@ -1,9 +1,9 @@
 ---
 title: Shoshanat Yaakov: historia, significado y la letra explicada
-description: Shoshanat Yaakov se canta en Purim tras leer el libro de Ester: el final de un antiguo poema hebreo, con melodía impresa por un cantor de Gotemburgo tras 1883.
+description: Shoshanat Yaakov, para Purim tras leer el libro de Ester: el final de un antiguo poema hebreo; la impresión más antigua de su melodía es de Gotemburgo, 1877.
 lead: Shoshanat Yaakov, "la rosa de Jacob", es la canción de Purim que se canta una vez leído el libro de Ester. Cierra un antiguo poema hebreo con alegría y esperanza, y añade una buena palabra para Harbona.
 words: Anónima; los versos finales del poema de Purim Asher heni, y luego un verso de una costumbre que recoge el Talmud
-tune: Melodía de sinagoga, de autor desconocido, tal como la imprimió Abraham Baer (1834 a 1894)
+tune: Melodía de sinagoga, de autor desconocido, tal como la imprimió Abraham Baer (1834 a 1894); la impresión más antigua conocida es de 1877
 language: hebreo
 occasion: Purim, después de la lectura del libro de Ester, por la noche y por la mañana
 alsoKnownAs: Shoshanas Yaakov, Shoshannat Ya'akov, Schoschannas Jaakow, The Rose of Jacob, The Lily of Jacob
@@ -13,11 +13,11 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: shoshanat yaakov significado | shoshanat yaakov traducción | shoshanat yaakov letra | shoshanat yaakov texto | shoshanat yaakov purim | shoshanat yaakov canción
-translatedFrom: 814cba3d5d05
+translatedFrom: 4cf838a953d5
 original: Baal T'fillah (Gotemburgo, 1877), Statens musikverk | https://urn.kb.se/resolve?urn=urn:nbn:se:statensmusikverk-217
 ---
 
-Shoshanat Yaakov es una breve canción hebrea para Purim. Cuando se ha leído el libro de Ester en su rollo y se ha dicho la bendición que lo sigue, vienen estos versos.[^baer][^kitzur] Son los últimos versos de un antiguo poema, Asher heni, con un verso más que viene de una antigua costumbre, y reúnen toda la historia en unas pocas palabras: los judíos se alegraron al ver a Mardoqueo vestido de azul real, Hashem fue entonces su salvación y es su esperanza en cada generación, y Harbona, el servidor del rey que señaló la horca de Amán, es recordado para bien.[^vitry][^yer][^je-harbona] Nuestra melodía es la que imprimió Abraham Baer, cantor de la sinagoga de Gotemburgo, en Suecia.[^baer][^hammarlund]
+Shoshanat Yaakov es una breve canción hebrea para Purim. Cuando se ha leído el libro de Ester en su rollo y se ha dicho la bendición que lo sigue, vienen estos versos.[^baer][^kitzur] Son los últimos versos de un antiguo poema, Asher heni, con un verso más que viene de una antigua costumbre, y reúnen toda la historia en unas pocas palabras: los judíos se alegraron al ver a Mardoqueo vestido de azul real, Hashem fue entonces su salvación y es su esperanza en cada generación, y Harbona, el servidor del rey que señaló la horca de Amán, es recordado para bien.[^vitry][^yer][^je-harbona] Nuestra melodía es la que imprimió Abraham Baer, cantor de la sinagoga de Gotemburgo, en Suecia, y su libro de 1877 es la impresión más antigua conocida de ella.[^baer1877][^baer][^hammarlund]
 
 ## De dónde viene
 
@@ -31,19 +31,19 @@ El poema en sí, Asher heni, es un poema de alabanza que se dice después de la 
 
 **Un encabezamiento antiguo.** El Mahzor Vitry encabeza el poema como "un poema de la fundación de los Hombres de la Gran Asamblea", los sabios que la tradición sitúa al comienzo del periodo del Segundo Templo y a quienes el Talmud atribuye la fijación de los días de Purim.[^vitry][^je-great][^meg] Es una atribución tradicional, no un documento: el libro no nombra a ningún poeta.[^vitry]
 
-**La melodía.** Abraham Baer nació en 1834 y en 1857 se hizo cantor de la sinagoga de Gotemburgo, en Suecia, donde sirvió hasta su muerte en 1894.[^je-baer][^hammarlund] Su Baal T'fillah, o Der practische Vorbeter, "el oficiante práctico", reúne unas 1500 melodías para el cantor, alemanas, polacas y sefardíes.[^je-baer][^hammarlund] Baer la entregó al público en 1877, según sus prefacios y Hammarlund (la Jewish Encyclopedia da 1871), y en 1883 siguió una segunda edición ampliada.[^baer][^hammarlund][^je-baer] Nuestra canción es el n.º 197 de la página 59 de la tercera edición, impresa en Frankfurt am Main después de 1883.[^baer]
+**La melodía.** Abraham Baer nació en 1834 y en 1857 se hizo cantor de la sinagoga de Gotemburgo, en Suecia, donde sirvió hasta su muerte en 1894.[^je-baer][^hammarlund] Su Baal T'fillah, o Der practische Vorbeter, "el oficiante práctico", reúne unas 1500 melodías para el cantor, alemanas, polacas y sefardíes.[^je-baer][^hammarlund] Baer la entregó al público en 1877, según sus prefacios y Hammarlund (la Jewish Encyclopedia da 1871), y en 1883 siguió una segunda edición ampliada.[^baer][^hammarlund][^je-baer] Esa primera edición, con el prefacio firmado en Gotemburgo en septiembre de 1877, ya imprime nuestra canción como el n.º 197 de la página 59: es la impresión más antigua conocida de la melodía.[^baer1877] La tercera edición, impresa en Frankfurt am Main después de 1883, la trae también como el n.º 197 de la página 59, con las mismas notas, y nuestro arreglo se basa en esa página.[^baer][^baer1877]
 
 ![[2]]
 
-Baer no nombra a ningún autor para ella. Su prefacio de 1877 explica sus marcas: "N. W.", melodía nueva; "A. W.", melodía antigua, obra de un cantor concreto de otra época que solo se conoce en un lugar; y ninguna marca para las melodías muy antiguas, que se reconocen por su carácter y por lo mucho que se han extendido.[^baer] Los versículos de Ester y la bendición que hay encima en la página 59 llevan "A. W."; esta canción no lleva ninguna, así que, según su propia clave, es una melodía muy antigua y muy cantada.[^baer] Su segundo prefacio, de 1883, dice que todas las melodías polacas y parte de las asquenazíes marcadas "A. W.", y todas las piezas marcadas "N. W.", son composiciones suyas, así que ni siquiera "A. W." es siempre la marca de un cantor antiguo. El n.º 197 no está en su lista de piezas propias al estilo antiguo, aunque la lista termina con "y otros pasajes similares".[^baer] Las marcas son el juicio de un cantor, no un documento: no se sabe quién hizo la melodía ni cuándo.
+Baer no nombra a ningún autor para ella. Su prefacio de 1877 explica sus marcas: "N. W.", melodía nueva; "A. W.", melodía antigua, obra de un cantor concreto de otra época que solo se conoce en un lugar; y ninguna marca para las melodías muy antiguas, que se reconocen por su carácter y por lo mucho que se han extendido.[^baer] Los versículos de Ester y la bendición que hay encima en la página 59 llevan "A. W."; esta canción no lleva ninguna, ni en 1877 ni en la tercera edición, así que, según su propia clave, es una melodía muy antigua y muy cantada.[^baer1877][^baer] Su segundo prefacio, de 1883, dice que todas las melodías polacas y parte de las asquenazíes marcadas "A. W.", y todas las piezas marcadas "N. W.", son composiciones suyas, así que ni siquiera "A. W." es siempre la marca de un cantor antiguo. El n.º 197 no está en su lista de piezas propias al estilo antiguo, aunque la lista termina con "y otros pasajes similares".[^baer] Las marcas son el juicio de un cantor, no un documento: no se sabe quién hizo la melodía ni cuándo.
 
 ### Cronología
 
 - 1105: Simhah de Vitry, recopilador del Mahzor Vitry, ha muerto ya este año; el Mahzor Vitry impreso, que contiene el poema, sigue un manuscrito posterior y ampliado. [^je-simhah][^ej-vitry]
 - 1857: Abraham Baer se hace cantor de la sinagoga de Gotemburgo. [^je-baer][^hammarlund]
-- 1877: Baer entrega al público Baal T'fillah, según él mismo y según Hammarlund; la Jewish Encyclopedia da 1871. [^baer][^hammarlund][^je-baer]
+- 1877: Baer entrega al público Baal T'fillah, según él mismo y según Hammarlund (la Jewish Encyclopedia da 1871); imprime esta melodía como n.º 197, la impresión más antigua conocida de ella. [^baer1877][^baer][^hammarlund][^je-baer]
 - 1883: aparece la segunda edición ampliada. [^je-baer][^hammarlund]
-- después de 1883: la tercera edición, de Frankfurt am Main, imprime la canción como n.º 197; nuestro arreglo se basa en esta página. [^baer]
+- después de 1883: la tercera edición, de Frankfurt am Main, vuelve a imprimir la canción como n.º 197, con las mismas notas; nuestro arreglo se basa en esta página. [^baer][^baer1877]
 - 1894: muere Baer en Gotemburgo. [^je-baer][^hammarlund]
 
 ## Qué dice la letra
@@ -113,11 +113,11 @@ El Talmud manda leer el rollo de Ester de noche y otra vez de día, y da la bend
 
 ![[3]]
 
-La página de Baer describe la escena: se enrolla el rollo, se canta la bendición, se dice Asher heni en voz baja (por la mañana se omite, añade su nota), y luego viene esta canción, para el cantor solo, Andantino, en Si bemol mayor.[^baer] Encima de la bendición imprime los cuatro versículos de Ester que la congregación canta en voz alta durante la lectura, cada uno marcado "Chor, dann Solo", coro y luego solo: la congregación y después el cantor.[^baer][^je-purim] Por un momento, en "lo yikalmu lanetzach, kol hachosim bach", la impresión se divide en dos voces, la segunda una tercera por encima de la melodía. La canción termina con una doble barra y un último verso suave, marcado "Leise weiter" ("sigue en voz baja"): "W'gam charwonoh sochur latow".[^baer]
+La página de Baer, igual en 1877 y en la tercera edición, describe la escena: se enrolla el rollo, se canta la bendición, se dice Asher heni en voz baja (por la mañana se omite, añade su nota), y luego viene esta canción, para el cantor solo, Andantino, en Si bemol mayor.[^baer] Encima de la bendición imprime los cuatro versículos de Ester que la congregación canta en voz alta durante la lectura, cada uno marcado "Chor, dann Solo", coro y luego solo: la congregación y después el cantor.[^baer][^je-purim] Por un momento, en "lo yikalmu lanetzach, kol hachosim bach", la impresión se divide en dos voces, la segunda una tercera por encima de la melodía. La canción termina con una doble barra y un último verso suave, marcado "Leise weiter" ("sigue en voz baja"): "W'gam charwonoh sochur latow".[^baer]
 
 ![[4]]
 
-Nuestro arreglo se basa en esa página, en Si bemol como está impresa, para 2 a 4 cantantes, con la letra en pronunciación israelí moderna. La soprano canta la melodía de Baer, y la contralto, el bajo y el tenor son nuestros. La canción entera se canta dos veces, y luego una vez el último verso suave.[^baer]
+Nuestro arreglo se basa en la página de la tercera edición, en Si bemol como está impresa, para 2 a 4 cantantes, con la letra en pronunciación israelí moderna. La soprano canta la melodía de Baer, y la contralto, el bajo y el tenor son nuestros. La canción entera se canta dos veces, y luego una vez el último verso suave.[^baer]
 
 ## Versiones y otras letras
 
@@ -164,6 +164,7 @@ La soprano canta la melodía de principio a fin, tal como la imprimió Baer para
 ## Fuentes
 
 - [^baer]: Abraham Baer, *Baal T'fillah oder Der practische Vorbeter*, 3.ª edición (Frankfurt am Main: J. Kauffmann, después de 1883), prefacios de 1877 (hasta la p. X) y 1883 (pp. XI y XII), y p. 59, n.os 192 a 197; Internet Archive, ejemplar der-practische-vorbeter-baer, subido en 2024 sin nombrar la biblioteca que lo guarda, imagen n103 para la p. 59. https://archive.org/details/der-practische-vorbeter-baer/page/n103/mode/1up
+- [^baer1877]: Abraham Baer, *Baal T'fillah oder Der practische Vorbeter*, 1.ª edición (publicada por el autor, prefacio firmado en Gotemburgo en septiembre de 1877), prefacio (hasta la p. X) y p. 59, n.os 192 a 197; escaneo de Statens musikverk, Estocolmo. https://urn.kb.se/resolve?urn=urn:nbn:se:statensmusikverk-217
 - [^je-baer]: Isidore Singer y Alois Kaiser, "Baer, Abraham", *The Jewish Encyclopedia*, vol. 2 (Funk and Wagnalls, 1902), pp. 428 a 429. https://www.jewishencyclopedia.com/articles/2326-baer-abraham
 - [^hammarlund]: Anders Hammarlund, "Abraham Baer (1834 to 1894)", trad. Martin Thomson, *Swedish Musical Heritage* (Royal Swedish Academy of Music, 2014). https://swedishmusicalheritage.com/composers/baer-abraham/
 - [^esther]: El libro de Ester, 1:10, 2:5, 2:7, 2:10, 3:1 a 7, 4:11 a 16, 5:10, 7:3 a 10, 8:11, 8:15 a 16, 9:21 a 26 y 10:3, en *The Holy Scriptures* (Jewish Publication Society, 1917), con el texto hebreo, en Sefaria. https://www.sefaria.org/Esther.8.15

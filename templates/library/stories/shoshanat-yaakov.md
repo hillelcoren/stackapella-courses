@@ -1,9 +1,9 @@
 ---
 title: Shoshanat Yaakov: history, meaning and the words explained
-description: Shoshanat Yaakov, sung on Purim once the Book of Esther is read: the last lines of an old Hebrew poem, to a tune a Gothenburg cantor printed after 1883.
+description: Shoshanat Yaakov, sung on Purim once the Book of Esther is read: the end of an old Hebrew poem, to a tune whose earliest known printing is Gothenburg, 1877.
 lead: Shoshanat Yaakov, "the rose of Jacob", is the Purim song sung once the Book of Esther has been read. It closes an old Hebrew poem with joy and hope, then adds a good word for Harbona.
 words: Anonymous; the closing lines of the Purim poem Asher heni, then a line from a custom the Talmud records
-tune: Synagogue tune, maker unknown, as printed by Abraham Baer (1834 to 1894)
+tune: Synagogue tune, maker unknown, as printed by Abraham Baer (1834 to 1894); the earliest known printing is 1877
 language: Hebrew
 occasion: Purim, after the reading of the Book of Esther, evening and morning
 alsoKnownAs: Shoshanas Yaakov, Shoshannat Ya'akov, Schoschannas Jaakow, The Rose of Jacob, The Lily of Jacob
@@ -16,7 +16,7 @@ searches: shoshanat yaakov meaning | shoshanat yaakov translation | shoshanat ya
 original: Baal T'fillah (Gothenburg, 1877), Statens musikverk | https://urn.kb.se/resolve?urn=urn:nbn:se:statensmusikverk-217
 ---
 
-Shoshanat Yaakov is a short Hebrew song for Purim. Once the Book of Esther has been read from its scroll and the blessing after it said, these lines follow.[^baer][^kitzur] They are the last lines of an old poem, Asher heni, with one more line from an old custom, and they gather the whole story into a few words: the Jews rejoiced when they saw Mordecai in royal blue, Hashem was their rescue then and is their hope in every generation, and Harbona, the king's servant who pointed out Haman's gallows, is remembered for good.[^vitry][^yer][^je-harbona] Our tune is the one printed by Abraham Baer, cantor of the Gothenburg synagogue in Sweden.[^baer][^hammarlund]
+Shoshanat Yaakov is a short Hebrew song for Purim. Once the Book of Esther has been read from its scroll and the blessing after it said, these lines follow.[^baer][^kitzur] They are the last lines of an old poem, Asher heni, with one more line from an old custom, and they gather the whole story into a few words: the Jews rejoiced when they saw Mordecai in royal blue, Hashem was their rescue then and is their hope in every generation, and Harbona, the king's servant who pointed out Haman's gallows, is remembered for good.[^vitry][^yer][^je-harbona] Our tune is the one printed by Abraham Baer, cantor of the Gothenburg synagogue in Sweden, whose book of 1877 is its earliest known printing.[^baer1877][^baer][^hammarlund]
 
 ## Where it comes from
 
@@ -30,19 +30,19 @@ The poem itself, Asher heni, is a poem of praise said after the blessing that fo
 
 **An old heading.** The Mahzor Vitry heads the poem "a poem from the foundation of the Men of the Great Assembly", the sages whom tradition places at the start of the Second Temple period and the Talmud credits with fixing the days of Purim.[^vitry][^je-great][^meg] It is a traditional attribution, not a record: the book names no poet.[^vitry]
 
-**The tune.** Abraham Baer was born in 1834 and in 1857 became cantor of the synagogue in Gothenburg, Sweden, where he served until his death in 1894.[^je-baer][^hammarlund] His Baal T'fillah, or Der practische Vorbeter, "the practical prayer leader", gathers about 1,500 tunes for the cantor, German, Polish and Sephardi.[^je-baer][^hammarlund] Baer gave it to the public in 1877, as his prefaces and Hammarlund say (the Jewish Encyclopedia gives 1871), and a second, enlarged edition followed in 1883.[^baer][^hammarlund][^je-baer] Our song is No. 197 on page 59 of the third edition, printed in Frankfurt am Main after 1883.[^baer]
+**The tune.** Abraham Baer was born in 1834 and in 1857 became cantor of the synagogue in Gothenburg, Sweden, where he served until his death in 1894.[^je-baer][^hammarlund] His Baal T'fillah, or Der practische Vorbeter, "the practical prayer leader", gathers about 1,500 tunes for the cantor, German, Polish and Sephardi.[^je-baer][^hammarlund] Baer gave it to the public in 1877, as his prefaces and Hammarlund say (the Jewish Encyclopedia gives 1871), and a second, enlarged edition followed in 1883.[^baer][^hammarlund][^je-baer] That first edition, its preface signed at Gothenburg in September 1877, already prints our song as No. 197 on page 59: the tune's earliest known printing.[^baer1877] The third edition, printed in Frankfurt am Main after 1883, has it as No. 197 on page 59 too, with the same notes, and our arrangement is read from that page.[^baer][^baer1877]
 
 ![[2]]
 
-Baer names no maker for it. His 1877 preface explains his marks: "N. W.", new tune; "A. W.", old tune, a single earlier cantor's work known only locally; and no mark for the very old tunes, known by their character and how widely they have spread.[^baer] The Esther verses and the blessing above it on page 59 carry "A. W."; this song carries none, so by his own key it is a very old, widely sung tune.[^baer] His second preface, of 1883, says that all the Polish and some of the Ashkenazi melodies marked "A. W.", and all the pieces marked "N. W.", are his own compositions, so even "A. W." is not always an older cantor's mark. No. 197 is not in its list of his own pieces in the old style, though the list ends "and other similar passages".[^baer] The marks are a cantor's judgment, not a record: who made the tune, and when, is not known.
+Baer names no maker for it. His 1877 preface explains his marks: "N. W.", new tune; "A. W.", old tune, a single earlier cantor's work known only locally; and no mark for the very old tunes, known by their character and how widely they have spread.[^baer] The Esther verses and the blessing above it on page 59 carry "A. W."; this song carries none, in 1877 and in the third edition alike, so by his own key it is a very old, widely sung tune.[^baer1877][^baer] His second preface, of 1883, says that all the Polish and some of the Ashkenazi melodies marked "A. W.", and all the pieces marked "N. W.", are his own compositions, so even "A. W." is not always an older cantor's mark. No. 197 is not in its list of his own pieces in the old style, though the list ends "and other similar passages".[^baer] The marks are a cantor's judgment, not a record: who made the tune, and when, is not known.
 
 ### Timeline
 
 - 1105: Simhah of Vitry, compiler of the Mahzor Vitry, has died by this year; the printed Mahzor Vitry, which holds the poem, follows a later, enlarged manuscript. [^je-simhah][^ej-vitry]
 - 1857: Abraham Baer becomes cantor of the Gothenburg synagogue. [^je-baer][^hammarlund]
-- 1877: Baer gives Baal T'fillah to the public, by his own account and Hammarlund's; the Jewish Encyclopedia gives 1871. [^baer][^hammarlund][^je-baer]
+- 1877: Baer gives Baal T'fillah to the public, by his own account and Hammarlund's (the Jewish Encyclopedia gives 1871); it prints this tune as No. 197, the tune's earliest known printing. [^baer1877][^baer][^hammarlund][^je-baer]
 - 1883: The second, enlarged edition appears. [^je-baer][^hammarlund]
-- After 1883: The third edition, Frankfurt am Main, prints the song as No. 197; our arrangement is read from this page. [^baer]
+- After 1883: The third edition, Frankfurt am Main, prints the song again as No. 197, with the same notes; our arrangement is read from this page. [^baer][^baer1877]
 - 1894: Baer dies in Gothenburg. [^je-baer][^hammarlund]
 
 ## What the words mean
@@ -112,11 +112,11 @@ The Talmud has the scroll of Esther read at night and again by day, and gives th
 
 ![[3]]
 
-Baer's page sets the scene: the scroll is rolled up, the blessing is sung, Asher heni is said quietly (skipped in the morning, his note adds), and then comes this song, for the cantor alone, Andantino, in B-flat major.[^baer] Above the blessing he prints the four verses of Esther that the congregation sings aloud during the reading, each marked "Chor, dann Solo": the congregation, then the cantor.[^baer][^je-purim] For a moment, on "lo yikalmu lanetzach, kol hachosim bach", the print splits into two voices, the second a third above the tune. The song ends with a double bar and a quiet last line, marked "Leise weiter", go on softly: "W'gam charwonoh sochur latow".[^baer]
+Baer's page, the same in 1877 and in the third edition, sets the scene: the scroll is rolled up, the blessing is sung, Asher heni is said quietly (skipped in the morning, his note adds), and then comes this song, for the cantor alone, Andantino, in B-flat major.[^baer] Above the blessing he prints the four verses of Esther that the congregation sings aloud during the reading, each marked "Chor, dann Solo": the congregation, then the cantor.[^baer][^je-purim] For a moment, on "lo yikalmu lanetzach, kol hachosim bach", the print splits into two voices, the second a third above the tune. The song ends with a double bar and a quiet last line, marked "Leise weiter", go on softly: "W'gam charwonoh sochur latow".[^baer]
 
 ![[4]]
 
-Our arrangement is read from that page, in B-flat as printed, for 2 to 4 singers, with the words in modern Israeli pronunciation. The soprano sings Baer's tune, and the alto, bass and tenor are our own. The whole song is sung twice, then the soft last line once.[^baer]
+Our arrangement is read from the third edition's page, in B-flat as printed, for 2 to 4 singers, with the words in modern Israeli pronunciation. The soprano sings Baer's tune, and the alto, bass and tenor are our own. The whole song is sung twice, then the soft last line once.[^baer]
 
 ## Versions and other words
 
@@ -163,6 +163,7 @@ The soprano sings the tune throughout, as Baer printed it for the cantor; where 
 ## Sources
 
 - [^baer]: Abraham Baer, *Baal T'fillah oder Der practische Vorbeter*, 3rd edition (Frankfurt am Main: J. Kauffmann, after 1883), prefaces of 1877 (to p. X) and 1883 (pp. XI and XII), and p. 59, Nos. 192 to 197; Internet Archive item der-practische-vorbeter-baer, a 2024 upload that names no holding library, image n103 for p. 59. https://archive.org/details/der-practische-vorbeter-baer/page/n103/mode/1up
+- [^baer1877]: Abraham Baer, *Baal T'fillah oder Der practische Vorbeter*, 1st edition (published by the author, preface signed Gothenburg, September 1877), preface (to p. X) and p. 59, Nos. 192 to 197; scan by Statens musikverk, Stockholm. https://urn.kb.se/resolve?urn=urn:nbn:se:statensmusikverk-217
 - [^je-baer]: Isidore Singer and Alois Kaiser, "Baer, Abraham", *The Jewish Encyclopedia*, vol. 2 (Funk and Wagnalls, 1902), pp. 428 to 429. https://www.jewishencyclopedia.com/articles/2326-baer-abraham
 - [^hammarlund]: Anders Hammarlund, "Abraham Baer (1834 to 1894)", trans. Martin Thomson, *Swedish Musical Heritage* (Royal Swedish Academy of Music, 2014). https://swedishmusicalheritage.com/composers/baer-abraham/
 - [^esther]: The Book of Esther, 1:10, 2:5, 2:7, 2:10, 3:1 to 7, 4:11 to 16, 5:10, 7:3 to 10, 8:11, 8:15 to 16, 9:21 to 26 and 10:3, in *The Holy Scriptures* (Jewish Publication Society, 1917), with the Hebrew text, via Sefaria. https://www.sefaria.org/Esther.8.15
