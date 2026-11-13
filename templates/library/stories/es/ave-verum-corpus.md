@@ -17,7 +17,9 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: ave verum corpus significado | ave verum corpus traducción | ave verum corpus letra en español | ave verum corpus historia | quién escribió el ave verum corpus | ave verum corpus mozart
-translatedFrom: 3fc3c5706550
+translatedFrom: f315921a6a2b
+original: Partitura autógrafa de Mozart (1791), Biblioteca Nacional de Austria | https://data.onb.ac.at/rep/1321BF0C
+listen: Internet Archive, grabación de 1923 | https://archive.org/details/AveVerum746Az || Internet Archive, grabación de 1914 | https://archive.org/details/aveverumgoldora
 ---
 
 Ave verum corpus, "Salve, verdadero cuerpo", es una breve oración latina al cuerpo de Cristo en el pan de la Misa, hecha en la Edad Media para rezarse o cantarse cuando el sacerdote eleva la hostia [^ah54][^mone][^nce]. Muchos compositores le han puesto música, y la versión más famosa es el motete de Mozart, K. 618, que él fechó en la ciudad balneario de Baden, cerca de Viena, el 17 de junio de 1791, el último año de su vida [^ah54][^nma][^autograph][^koechel1862]. Dura solo 46 compases, todos marcados para cantarse suavemente, sotto voce, "bajo la voz" [^nma]. Cantamos las cuatro voces del propio Mozart, en latín, para cuatro cantantes.
@@ -32,7 +34,11 @@ Ave verum corpus, "Salve, verdadero cuerpo", es una breve oración latina al cue
 
 **El manuscrito.** La partitura de Mozart ocupa dos hojas, cuatro páginas escritas, y hoy está en la Biblioteca Nacional de Austria, en Viena [^koechel1862][^omi][^nma]. Su primera página lleva su encabezamiento en italiano, "di Wolfgango Amadeo Mozart mp" (manu propria, de su propia mano), "Baaden li 17 di giunnio 1791", tal como lo transcribió Köchel en 1862, sobre el título "Ave verum Corpus" y el tempo Adagio [^autograph][^koechel1862]. Los pentagramas van así: dos violines, viola, luego "Canto", "Alto", "Tenore" y "Basso", y por último el órgano y el bajo, con cifras para el organista, y cada voz lleva "sotto voce" escrito en su entrada [^autograph]. En su propio catálogo de obras, Mozart lo anotó un día después, "Baaden, 18ten Juny", como n.º 139, para soprano, contralto, tenor y bajo, dos violines, viola, órgano y bajo [^cat1805][^nma][^koechel1862]. En 1860 el manuscrito pertenecía a Joseph Schellhammer, director de escuela jubilado de Graz, cuyo nombre, "Ex rebus Joseph Schellhammer", está escrito al pie de la primera página [^koechel1862][^autograph].
 
+![[1]]
+
 **A la imprenta.** La primera impresión conocida es la de Johann André en Offenbach am Main, sin fecha pero situada en 1808: una partitura con una parte de teclado debajo, plancha 2478, precio 30 kreuzer, cuyo título, "Komponirt in Baaden den 18ten Junius 1791", sigue la fecha del catálogo [^andre1808][^sothebys]. Un aviso en el interior, en alemán y en francés, dice que la pieza puede usarse en la consagración de la Misa, que Mozart la compuso con ese fin y que, según su propio catálogo temático, es una de sus últimas obras [^andre1808]. Ludwig von Köchel le dio el número 618 en su catálogo de las obras de Mozart en 1862, y Breitkopf & Härtel lo imprimió en las obras completas de Mozart en 1880, la edición que seguimos [^koechel1862][^mw1880].
+
+![[2]]
 
 ### Cronología
 
@@ -89,6 +95,8 @@ en la prueba de la muerte.
 La oración se hizo para la elevación de la hostia [^ah54][^mone], un libro de oraciones católico posterior la da como oración privada "sub elevatione" [^julian], y André ofreció el motete de Mozart para ese mismo momento [^andre1808]. Una obra de referencia católica moderna dice que la oración ya no se usa en la liturgia [^nce].
 
 El motete de Mozart está en Re mayor, Adagio, alla breve, a dos pulsos por compás [^nma][^autograph]. Las cuerdas empiezan solas, tocan un breve interludio antes de "Cujus latus" y terminan solas [^nma]. Nuestro arreglo está tomado de la edición de 1880, en Re, con las cuatro voces de Mozart y la letra en latín, escrito aquí en pulsos de negra, con respiraciones para principiantes [^mw1880]. Se omiten la introducción y el final de las cuerdas, y su interludio se convierte en un compás de silencio. Es solo para cuatro cantantes, porque los acordes de Mozart necesitan las cuatro voces.
+
+![[3]]
 
 ## Versiones y otras letras
 

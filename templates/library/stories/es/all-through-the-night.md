@@ -20,7 +20,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: all through the night significado | all through the night historia | ar hyd y nos significado | ar hyd y nos traducción | quién escribió all through the night | all through the night letra en español
-translatedFrom: 1a5d3b9724f5
+translatedFrom: eae82af96074
+original: Edward Jones, Musical and Poetical Relicks of the Welsh Bards (1784), Internet Archive | https://archive.org/details/bib_fict_4103341
 ---
 
 All Through the Night, en galés Ar Hyd y Nos ("toda la noche"), es un aire galés que se canta como canción de cuna y como himno vespertino. Su primera impresión conocida está en Musical and Poetical Relicks of the Welsh Bards, de Edward Jones, publicado en Londres en 1784, donde es una canción de amor para voz y arpa [^jones1784][^dnb-jones][^balladindex]. La letra inglesa que cantamos, "Sleep my love and peace attend thee" (duerme, amor mío, y que la paz te acompañe), es de Harold Boulton; la impresión más antigua de ella que hemos encontrado es su Songs of the Four Nations, de 1892 [^sf4n][^ssu1894]. El poeta Ceiriog escribió para el aire una letra galesa [^sow][^ceiriog1902]. Un libro escolar de Dublín ya indicaba esta melodía para el himno vespertino de Reginald Heber en 1838, y el English Hymnal de 1906 imprimió los dos juntos, como la melodía de himno AR HYD Y NOS [^sacred1838][^eh1906][^hymnarchive].
@@ -28,6 +29,8 @@ All Through the Night, en galés Ar Hyd y Nos ("toda la noche"), es un aire gal�
 ## De dónde viene
 
 **La primera impresión.** Edward Jones (1752 a 1824) era un arpista nacido en Henblas, en la parroquia de Llandderfel, en Merioneth, en el norte de Gales [^dnb-jones][^dwb-jones]. En 1784 publicó sus Musical and Poetical Relicks of the Welsh Bards, aires "conservados por la tradición y por manuscritos auténticos, desde la más remota antigüedad" [^jones1784][^dnb-jones][^dwb-jones]. En la página 56, con el encabezado "Ar hŷd y nos", el aire está escrito para voz y arpa en Si bemol, una tercera menor por encima de nuestra tonalidad, con la indicación Maestoso, majestuoso; sus primeros compases son los que cantamos [^jones1784]. Bajo las notas van una estrofa en galés y otra en inglés. Siguen cinco variaciones para arpa, que continúan hasta la página 57 y el aire siguiente, Ffarwel Ednyfed Fychan [^jones1784][^hymnarchive].
+
+![[1]]
 
 **Un aire pastoral.** Jones clasifica las viejas melodías galesas en cuatro tipos: solemnes, marciales, lastimeras, y un tipo pastoral, "quizá el más agradable de todos", con "una grata sencillez y una tranquilidad sosegada, propias del amor tierno". Su nota al pie incluye "Ar hŷd y nos" entre ellas [^jones1784]. Su estrofa galesa encaja: alguien enamorado que no quiere creer que su amor está perdido [^jones1784][^richards1861].
 
@@ -53,6 +56,8 @@ Las tres estrofas de Harold Boulton, tal como las imprime Songs of the Four Nati
 **Estrofa 1.** Duerme, amor mío, y que la paz te acompañe toda la noche. Dios te prestará ángeles de la guarda que velen por ti. Las horas soñolientas pasan despacio, con suavidad, y colinas y valles quedan empapados, calados hasta el fondo, de sueño [^sf4n][^webster]. Solo el amor sigue despierto para hacer guardia, toda la noche [^sf4n].
 
 **Estrofa 2.** Quien canta es un juglar ("minstrel"), un cantor y arpista errante, que viaja solo [^webster]. Su arpa no alabará a nadie más. El sueño del amor joven se ha acabado, pero sus cantos ("strains"), sus canciones, seguirán rondando cerca de la persona a quien ama [^sf4n][^webster].
+
+![[2]]
 
 **Estrofa 3.** Suena una campana, solemne y clara, en la noche. La persona a quien ama vuela al cielo, va "home through the night" (a casa a través de la noche). Sacudido el polvo de la tierra, el alma inmortal despertará, hecho ya su "last dim journey" (último y oscuro viaje) [^sf4n].
 

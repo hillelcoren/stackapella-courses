@@ -18,9 +18,9 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: balm in gilead significado | balm in gilead historia | bálsamo de galaad significado | there is a balm in gilead letra en español | quién escribió there is a balm in gilead | bálsamo de galaad el cuervo poe
-translatedFrom: edcd65b6cdef
+translatedFrom: 6eb3fe94411e
 listen: Internet Archive, grabación de 1909 de un cuarteto masculino de la Fisk University (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-128181-there-is-a-balm-in-gilead
-original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), p. 88, Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett/page/n119
+original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), biblioteca del Princeton Theological Seminary | https://archive.org/details/religiousfolkson00dett
 ---
 
 There Is a Balm in Gilead, a menudo llamado Balm in Gilead (el bálsamo de Galaad), es un espiritual afroamericano (en inglés, spiritual) de consuelo [^canterbury][^dett1927]. En la Biblia, el profeta Jeremías pregunta: "¿No hay bálsamo en Galaad? ¿no hay allí médico?". El estribillo del espiritual responde que sí lo hay: un bálsamo "To make the wounded whole" (que sana al herido) y "To heal the sin-sick soul" (que cura el alma enferma de pecado) [^kjv][^canterbury][^dett1927]. Entre estribillos, una sola voz canta una estrofa sobre el desánimo y sobre volver a levantarse [^work1907][^dett1927]. No se conoce el nombre de quien lo hizo [^canterbury][^hymnary-text]. Su primera impresión conocida está en un cancionero de 1907 de Nashville, hecho por dos hermanos de la Universidad Fisk, y hoy lo imprimen los himnarios de muchas iglesias [^work1907][^hymnarchive][^hymnary-text].
@@ -31,6 +31,8 @@ There Is a Balm in Gilead, a menudo llamado Balm in Gilead (el bálsamo de Galaa
 
 **Un coro en los libros de avivamiento.** Para 1859, esos versos ya se habían convertido en un coro. Sacred Melodies for Social Worship (Nueva York, 1859), de Hiram Mattison, imprime "The good Physician" de Newton como n.º 82, con el encabezado "Balm in Gilead" y un coro: "There's a balm in Gilead To make the wounded whole; There's power enough in Jesus, To cure a sin-sick soul" (hay un bálsamo en Galaad que sana al herido; hay poder de sobra en Jesús para curar un alma enferma de pecado) [^mattison1859][^hymnarchive]. The Revivalist (Troy, Nueva York, 1868), de Joseph Hillman, imprime el mismo himno y el mismo coro como n.º 15 [^hillman1868][^hymnarchive]. El estudio encuentra la melodía de Hillman mucho más cercana a la del espiritual [^hymnarchive].
 
+![[1]]
+
 **Pedro y Pablo.** En 1869, Songs of Gladness for the Sabbath School (Filadelfia), de J. E. Gould, imprimió "Your Mission" (tu misión), un himno firmado "Rev. D. March" [^gould1869][^hymnarchive]. Su tercera estrofa empieza: "If you cannot speak like angels, / If you cannot preach like Paul, / You can tell the love of Jesus, / You can say he died for all" (si no puedes hablar como los ángeles, si no puedes predicar como Pablo, puedes contar el amor de Jesús, puedes decir que murió por todos) [^gould1869]. La tercera estrofa del espiritual se le parece mucho [^gould1869][^work1907][^hymnarchive].
 
 **Del himnario al espiritual.** No consta cómo se unieron estos versos en las iglesias afroamericanas. El estudio del himnólogo sugiere que pasaron de oído entre cantantes afroamericanos a finales del siglo XIX, y el Canterbury Dictionary fecha el espiritual en el siglo XIX [^hymnarchive][^canterbury]. Ninguna fuente de las que hemos leído muestra que se cantara en tiempos de la esclavitud, ni dice quién lo cantó primero.
@@ -39,7 +41,11 @@ There Is a Balm in Gilead, a menudo llamado Balm in Gilead (el bálsamo de Galaa
 
 **En disco, 1909.** El 9 de diciembre de 1909, un cuarteto masculino de Fisk, con John Wesley Work entre sus miembros, lo grabó para Victor, y salió como Victor 16487 [^jukebox1909][^victor1912][^hymnarchive]. En su propio libro de 1915, Folk Song of the American Negro, John W. Work lo cuenta entre las canciones "basadas directamente en pasajes de las Escrituras", junto a Jeremías 8:22, y vuelve a imprimir la armonización de 1907 [^work1915].
 
+![[2]]
+
 **La página de Dett, 1927.** R. Nathaniel Dett (1882 a 1943) nació en Drummondville, Ontario, hoy parte de Niagara Falls, y enseñó desde 1913 en el Hampton Institute, en Virginia, donde dirigió sus coros [^lva-dett][^ce-dett]. Su Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927) imprime "There Is a Balm in Gilead" en la página 88, entre los "Hymns of Consolation" (himnos de consuelo), con el encabezado "Transcribed from the singing of the Hampton Institute students by R. Nathaniel Dett" (transcrito por R. Nathaniel Dett del canto de los estudiantes del Hampton Institute) [^dett1927]. Está en Si mayor, con la indicación "Andante molto espress" (a paso de andar, muy expresivo), con la estrofa marcada "Solo" y las estrofas 2 y 3 impresas debajo [^dett1927]. La introducción de Dett dice que las melodías y las armonías son las que se cantan en Hampton, donde estas canciones se cantaban desde 1868; donde difieren de las de otros libros, "cada lugar es ley para sí mismo" [^dett1927].
+
+![[3]]
 
 ### Cronología
 
@@ -57,6 +63,8 @@ There Is a Balm in Gilead, a menudo llamado Balm in Gilead (el bálsamo de Galaa
 **La pregunta.** Jeremías sufre por su pueblo: "Quebrantado estoy por el quebrantamiento de la hija de mi pueblo". Luego pregunta: "¿No hay bálsamo en Galaad? ¿no hay allí médico? ¿Por qué pues no hubo medicina para la hija de mi pueblo?" (Jeremías 8:21 a 22) [^kjv]. El estribillo convierte su pregunta en una respuesta: sí, lo hay [^canterbury].
 
 **El bálsamo y Galaad.** El bálsamo era una goma o resina preciosa, apreciada como medicina y con la que comerciaban los mercaderes [^easton][^hastings]. Galaad era la región montañosa al este del Jordán; en el Génesis, unos mercaderes llevan bálsamo de Galaad a Egipto [^kjv][^easton][^hastings]. No se sabe con certeza qué planta daba el bálsamo de la Biblia [^hastings].
+
+![[4]]
 
 **El estribillo.** "To make the wounded whole" quiere decir sanar la herida. Un "sin-sick soul" es un alma enferma por el pecado. En el himno de Newton, quien sana es Jesús, el único "Physician" (Médico) [^olney1779][^mattison1859].
 

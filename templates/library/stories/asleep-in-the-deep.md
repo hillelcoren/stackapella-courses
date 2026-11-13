@@ -16,6 +16,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: asleep in the deep | asleep in the deep song | asleep in the deep meaning | asleep in the deep lyrics meaning | asleep in the deep song meaning | asleep in the deep lyrics | asleep in the deep original | asleep in the deep lowest note | asleep in the deep bass solo | who wrote asleep in the deep
+original: Lester S. Levy Sheet Music Collection, Box 145, Item 046, Johns Hopkins | https://levysheetmusic.mse.jhu.edu/collection/145/046
+listen: National Jukebox, 1901 recording | https://www.loc.gov/item/jukebox-5329/ || National Jukebox, 1913 recording | https://www.loc.gov/item/jukebox-186846/
 ---
 
 Asleep in the Deep is a song of 1897, with words by Arthur J. Lamb and music by H. W. Petrie [^nypl1897][^ascap1948]. It tells of a ship in a storm, a lighthouse bell ringing its warning, and two lovers on deck who go down with the wreck [^levy1901][^nypl1897]. Its refrain ends on the line that names the song: "Many brave hearts are asleep in the deep, So beware! beware!" [^levy1901]. It was published as a bass solo with a male quartet, and in that edition the last "beware!" sinks to a low D, below the bass staff [^nypl1897]. Bass singers recorded it from its first years, and the Parlor Songs Academy, a site on the period's songs, calls it a "war horse" for basses [^ucsb-hooley][^dahr-hooley][^parlorsongs].
@@ -26,7 +28,13 @@ Asleep in the Deep is a song of 1897, with words by Arthur J. Lamb and music by 
 
 **The bass edition.** A copy in the New York Public Library shows the song as it was sold to basses [^nypl1897]. Its red cover reads "Song for Baritone or Bass Voice", with a photograph of a singer, Geo. H. Carr, "As sung with success by", and a dedication "to Mr. W. Nicholson, Corning, N.Y." [^nypl1897]. At the foot, the publisher F. A. Mills of 48 West Twenty-ninth Street, New York, lists the bass edition in D and a baritone or contralto edition in F, at 50 cents each, and an orchestra arrangement [^nypl1897]. Inside, under the title "(Bass Solo and Male Quartette Chorus.)", the first page is marked "Copyright, 1897, by Julie C. Petrie. English copyright secured" [^nypl1897]. The voice part is written in the bass clef, in 12/8, after a piano introduction [^nypl1897].
 
+![[1]]
+
+![[2]]
+
 **A quartet like a bell.** The chorus is marked "Solo voice loud. Chorus very soft and stac.": under "Loudly the bell in the old tower rings", two tenors and two basses answer in short, soft chords, "Loud the bell in the old tow'r rings, yes!", like a bell striking [^nypl1897]. At the end the soloist falls from A to the low D, held under a pause, while the quartet sings its last "Beware!" ppp, as softly as possible [^nypl1897].
+
+![[3]]
 
 **On the minstrel stage.** The song was soon sung in minstrel shows. In December 1898 the New York Journal and Advertiser gave it away as a music supplement, in F, under Julie C. Petrie's 1897 copyright, and its cover reads "Sung by John W. Early with J. H. Haverly's American-European Minstrels" [^nypl1898]. A history of minstrelsy published in 1911 says Early, a baritone, joined Haverly's company in 1898 [^rice1911], and the Parlor Songs Academy also names Early and Haverly's minstrels as the song's singers that year [^parlorsongs]. A minstrel show was a stage entertainment in which white performers darkened their faces to mock Black people. The supplement's cover shows no performers at all, only ships, sea horses and a lighthouse in a storm [^nypl1898].
 

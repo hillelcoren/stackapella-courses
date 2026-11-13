@@ -20,6 +20,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: all through the night lullaby history | all through the night song history | all through the night welsh meaning | all through the night welsh lyrics meaning | all through the night hymn lyrics meaning | what does the song all through the night mean | who wrote the lullaby all through the night | who wrote the hymn all through the night | ar hyd y nos meaning | ar hyd y nos translation | ar hyd y nos lyrics english | ar hyd y nos pronunciation | ar hyd y nos hymn tune | all through the night welsh hymn
+original: Edward Jones, Musical and Poetical Relicks of the Welsh Bards (1784), Internet Archive | https://archive.org/details/bib_fict_4103341
 ---
 
 All Through the Night, in Welsh Ar Hyd y Nos, is a Welsh air sung as a lullaby and as an evening hymn. Its earliest known printing is in Edward Jones's Musical and Poetical Relicks of the Welsh Bards, published in London in 1784, where it is a love song for voice and harp [^jones1784][^dnb-jones][^balladindex]. The English words we sing, "Sleep my love and peace attend thee", are Harold Boulton's; the earliest printing of them we have found is his Songs of the Four Nations of 1892 [^sf4n][^ssu1894]. The poet Ceiriog wrote Welsh words for it [^sow][^ceiriog1902]. A Dublin schoolbook named the air for Reginald Heber's evening hymn by 1838, and the English Hymnal of 1906 printed the two together, as the hymn tune AR HYD Y NOS [^sacred1838][^eh1906][^hymnarchive].
@@ -27,6 +28,8 @@ All Through the Night, in Welsh Ar Hyd y Nos, is a Welsh air sung as a lullaby a
 ## Where it comes from
 
 **The earliest printing.** Edward Jones (1752 to 1824) was a harper born at Henblas, in Llandderfel parish, Merioneth, north Wales [^dnb-jones][^dwb-jones]. In 1784 he published his Musical and Poetical Relicks of the Welsh Bards, airs "preserved by tradition, and authentic manuscripts, from remote antiquity" [^jones1784][^dnb-jones][^dwb-jones]. On page 56, headed "Ar hŷd y nos", the air is set for voice and harp in B-flat, a minor third above our key, and marked Maestoso, majestic; its opening bars are the ones we sing [^jones1784]. Under the notes run one verse in Welsh and one in English. Five harp variations follow, running on to page 57 and the next air, Ffarwel Ednyfed Fychan [^jones1784][^hymnarchive].
+
+![[1]]
 
 **A pastoral air.** Jones sorts the old Welsh melodies into four kinds: solemn, martial, plaintive, and a pastoral kind, "of all perhaps the most agreeable", with "a pleasing simplicity and soothing tranquillity, suitable to genial love". His footnote lists "Ar hŷd y nos" among them [^jones1784]. His Welsh verse fits: a lover who will not believe that love is lost [^jones1784][^richards1861].
 
@@ -52,6 +55,8 @@ Harold Boulton's three verses, as Songs of the Four Nations prints them, are not
 **Verse 1.** Sleep, my love, and may peace stay with you all night. God will lend you guardian angels to watch over you. The sleepy hours creep softly by, and hills and valleys are steeped, soaked through, in sleep [^sf4n][^webster]. Only love stays awake to keep watch, all through the night [^sf4n].
 
 **Verse 2.** The singer is a minstrel, a wandering singer and harper, travelling alone [^webster]. The harp will praise no one else. Young love's dream is over, but the singer's strains, the songs, will still hover near the one the singer loves [^sf4n][^webster].
+
+![[2]]
 
 **Verse 3.** A bell rings, solemn and clear, through the night. The one the singer loves is flying up to heaven, going "home through the night". The dust of earth shaken off, the undying soul will wake, its "last dim journey" made [^sf4n].
 

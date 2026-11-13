@@ -17,6 +17,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: ave verum corpus meaning | ave verum corpus meaning in english | ave verum corpus translation word for word | ave verum corpus latin and english | ave verum corpus meaning origin | ave verum corpus text meaning | who wrote ave verum corpus | who wrote ave verum corpus text | ave verum corpus history | ave verum corpus mozart history | ave verum corpus mozart 1791 | ave verum corpus when to sing | ave verum corpus byrd | ave verum corpus mozart lyrics | ave verum corpus mozart satb
+original: Mozart's autograph score (1791), Austrian National Library | https://data.onb.ac.at/rep/1321BF0C
+listen: Internet Archive, 1923 recording | https://archive.org/details/AveVerum746Az || Internet Archive, 1914 recording | https://archive.org/details/aveverumgoldora
 ---
 
 Ave verum corpus, "Hail, true body", is a short Latin prayer to the body of Christ in the bread of the Mass, made in the Middle Ages to be said or sung when the priest lifts up the host [^ah54][^mone][^nce]. Many composers have set it, and the most famous setting is Mozart's motet, K. 618, which he dated at the spa town of Baden near Vienna on 17 June 1791, the last year of his life [^ah54][^nma][^autograph][^koechel1862]. It runs only 46 bars, all of it marked to be sung softly, sotto voce, "under the voice" [^nma]. We sing Mozart's own four voice parts, in Latin, for four singers.
@@ -31,7 +33,11 @@ Ave verum corpus, "Hail, true body", is a short Latin prayer to the body of Chri
 
 **The manuscript.** Mozart's score is two leaves, four written pages, now in the Austrian National Library in Vienna [^koechel1862][^omi][^nma]. Its first page carries his heading in Italian, "di Wolfgango Amadeo Mozart mp" (manu propria, in his own hand), "Baaden li 17 di giunnio 1791", as Köchel transcribed it in 1862, over the title "Ave verum Corpus" and the tempo Adagio [^autograph][^koechel1862]. The staves run two violins, viola, then "Canto", "Alto", "Tenore" and "Basso", and last organ and bass with figures for the organist, and each voice has "sotto voce" written at its entry [^autograph]. In his own catalogue of his works, Mozart entered it a day later, "Baaden, 18ten Juny", as No. 139, for soprano, alto, tenor and bass, two violins, viola, organ and bass [^cat1805][^nma][^koechel1862]. In 1860 the manuscript belonged to Joseph Schellhammer, a retired school director in Graz, whose name, "Ex rebus Joseph Schellhammer", is written at the foot of the first page [^koechel1862][^autograph].
 
+![[1]]
+
 **Into print.** The earliest known printing is Johann André's in Offenbach am Main, undated but placed in 1808: a score with a keyboard part beneath it, plate 2478, price 30 kreuzer, its title "Komponirt in Baaden den 18ten Junius 1791" following the catalogue's date [^andre1808][^sothebys]. A notice inside, in German and French, says the piece can be used at the consecration in the Mass, that Mozart composed it for that purpose, and that by his own thematic catalogue it is one of his last works [^andre1808]. Ludwig von Köchel gave it the number 618 in his catalogue of Mozart's works in 1862, and Breitkopf & Härtel printed it in Mozart's collected works in 1880, the edition we read [^koechel1862][^mw1880].
+
+![[2]]
 
 ### Timeline
 
@@ -88,6 +94,8 @@ in the test of death.
 The prayer was made for the elevation of the host [^ah54][^mone], a later Catholic prayer book gives it as a private prayer "sub elevatione" [^julian], and André offered Mozart's motet for the same moment [^andre1808]. A modern Catholic reference work calls the prayer no longer in liturgical use [^nce].
 
 Mozart's motet is in D major, Adagio, alla breve, two beats to the bar [^nma][^autograph]. The strings begin alone, play a short interlude before "Cujus latus" and end alone [^nma]. Our arrangement is read from the 1880 edition, in D, with Mozart's four voice parts and the Latin words, written here in quarter-note beats with breaths for beginners [^mw1880]. The strings' introduction and ending are left out and their interlude becomes a bar's rest. It is for four singers only, because Mozart's chords need all four voices.
+
+![[3]]
 
 ## Versions and other words
 

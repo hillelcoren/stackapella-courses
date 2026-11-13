@@ -19,7 +19,7 @@ checked: 2026-11-13
 reviewed: true
 searches: balm in gilead | balm in gilead meaning | there is a balm in gilead meaning | balm in gilead scripture | balm in gilead bible verse | balm in gilead lyrics | there is a balm in gilead lyrics meaning | who wrote there is a balm in gilead | there is a balm in gilead history | there is a balm in gilead hymn history | balm in gilead meaning in the raven | balm in gilead spiritual meaning
 listen: Internet Archive, 1909 recording by a male quartet from Fisk University (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-128181-there-is-a-balm-in-gilead
-original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), p. 88, Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett/page/n119
+original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett
 ---
 
 There Is a Balm in Gilead, often called Balm in Gilead, is an African American spiritual of comfort [^canterbury][^dett1927]. In the Bible the prophet Jeremiah asks, "Is there no balm in Gilead; is there no physician there?" The spiritual's refrain answers that there is: a balm "To make the wounded whole" and "To heal the sin-sick soul" [^kjv][^canterbury][^dett1927]. Between refrains, one voice sings a verse about feeling discouraged and being lifted up again [^work1907][^dett1927]. No maker's name is known [^canterbury][^hymnary-text]. Its earliest known printing is in a songbook of 1907 from Nashville, made by two brothers from Fisk University, and hymnals of many churches print it today [^work1907][^hymnarchive][^hymnary-text].
@@ -30,6 +30,8 @@ There Is a Balm in Gilead, often called Balm in Gilead, is an African American s
 
 **A chorus in the revival books.** By 1859 the lines had become a chorus. Hiram Mattison's Sacred Melodies for Social Worship (New York, 1859) prints Newton's "The good Physician" as No. 82, headed "Balm in Gilead", with a chorus: "There's a balm in Gilead To make the wounded whole; There's power enough in Jesus, To cure a sin-sick soul" [^mattison1859][^hymnarchive]. Joseph Hillman's The Revivalist (Troy, New York, 1868) prints the same hymn and chorus as No. 15 [^hillman1868][^hymnarchive]. The survey finds Hillman's tune much closer to the spiritual's [^hymnarchive].
 
+![[1]]
+
 **Peter and Paul.** In 1869 J. E. Gould's Songs of Gladness for the Sabbath School (Philadelphia) printed "Your Mission", a hymn signed "Rev. D. March" [^gould1869][^hymnarchive]. Its third verse begins, "If you cannot speak like angels, / If you cannot preach like Paul, / You can tell the love of Jesus, / You can say he died for all" [^gould1869]. The spiritual's third verse is very close to it [^gould1869][^work1907][^hymnarchive].
 
 **From hymnbook to spiritual.** How these lines came together in Black churches is not recorded. The hymnologist's survey suggests they passed by ear among African American singers in the late 1800s, and the Canterbury Dictionary dates the spiritual to the 19th century [^hymnarchive][^canterbury]. No source we have read shows it sung in slavery, or names who first sang it.
@@ -38,7 +40,11 @@ There Is a Balm in Gilead, often called Balm in Gilead, is an African American s
 
 **On record, 1909.** On 9 December 1909 a male quartet from Fisk, John Wesley Work among them, recorded it for Victor, released as Victor 16487 [^jukebox1909][^victor1912][^hymnarchive]. In his own book of 1915, Folk Song of the American Negro, John W. Work counts it among the songs "based upon direct scriptural passages", next to Jeremiah 8:22, and prints the 1907 setting again [^work1915].
 
+![[2]]
+
 **Dett's page, 1927.** R. Nathaniel Dett (1882 to 1943) was born in Drummondville, Ontario, now in Niagara Falls, and taught at Hampton Institute in Virginia from 1913, where he directed its choirs [^lva-dett][^ce-dett]. His Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927) prints "There Is a Balm in Gilead" on page 88, among the "Hymns of Consolation", headed "Transcribed from the singing of the Hampton Institute students by R. Nathaniel Dett" [^dett1927]. It is in B major, marked "Andante molto espress" (at a walking pace, very expressively), with the verse marked "Solo" and verses 2 and 3 printed below [^dett1927]. Dett's introduction says the tunes and harmonies are as sung at Hampton, where the songs had been sung since 1868; where they differ from other books, "every locality is a law unto itself" [^dett1927].
+
+![[3]]
 
 ### Timeline
 
@@ -56,6 +62,8 @@ There Is a Balm in Gilead, often called Balm in Gilead, is an African American s
 **The question.** Jeremiah grieves for his people: "For the hurt of the daughter of my people am I hurt". Then he asks, "Is there no balm in Gilead; is there no physician there? why then is not the health of the daughter of my people recovered?" (Jeremiah 8:21 to 22) [^kjv]. The refrain turns his question into an answer: yes, there is [^canterbury].
 
 **The balm and Gilead.** Balm was a precious gum or resin, prized as medicine and traded by merchants [^easton][^hastings]. Gilead was the hill country east of the Jordan; in Genesis, traders carry balm from Gilead to Egypt [^kjv][^easton][^hastings]. Which plant gave the Bible's balm is not known for certain [^hastings].
+
+![[4]]
 
 **The refrain.** "To make the wounded whole" means to heal the hurt. A "sin-sick soul" is a soul made ill by sin. In Newton's hymn the healer is Jesus, the one "Physician" [^olney1779][^mattison1859].
 

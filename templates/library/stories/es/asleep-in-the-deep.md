@@ -16,7 +16,9 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: asleep in the deep historia | asleep in the deep significado | quién escribió asleep in the deep | asleep in the deep letra en español | asleep in the deep solo de bajo | asleep in the deep nota más grave
-translatedFrom: 952a50a0de1f
+translatedFrom: 90d422d0c297
+original: Lester S. Levy Sheet Music Collection, caja 145, ítem 046, Johns Hopkins | https://levysheetmusic.mse.jhu.edu/collection/145/046
+listen: National Jukebox, grabación de 1901 | https://www.loc.gov/item/jukebox-5329/ || National Jukebox, grabación de 1913 | https://www.loc.gov/item/jukebox-186846/
 ---
 
 Asleep in the Deep es una canción de 1897, con letra de Arthur J. Lamb y música de H. W. Petrie [^nypl1897][^ascap1948]. Cuenta la historia de un barco en una tormenta, la campana de un faro que hace sonar su aviso y dos enamorados en la cubierta que se hunden con el naufragio [^levy1901][^nypl1897]. Su estribillo termina con el verso que da nombre a la canción: "Many brave hearts are asleep in the deep, So beware! beware!" (muchos corazones valientes duermen en el fondo del mar, así que ¡cuidado!, ¡cuidado!) [^levy1901]. Se publicó como solo de bajo con cuarteto masculino, y en esa edición el último "beware!" baja a un Re grave, por debajo del pentagrama en clave de fa [^nypl1897]. Los bajos la grabaron desde sus primeros años, y la Parlor Songs Academy, un sitio web sobre las canciones de la época, la llama "un caballo de batalla" ("war horse") de los bajos [^ucsb-hooley][^dahr-hooley][^parlorsongs].
@@ -27,7 +29,13 @@ Asleep in the Deep es una canción de 1897, con letra de Arthur J. Lamb y músic
 
 **La edición para bajo.** Un ejemplar de la New York Public Library muestra la canción tal como se vendía a los bajos [^nypl1897]. Su portada roja dice "Song for Baritone or Bass Voice" (canción para voz de barítono o de bajo), con la fotografía de un cantante, Geo. H. Carr, "As sung with success by" (tal como la cantó con éxito), y una dedicatoria "to Mr. W. Nicholson, Corning, N.Y." [^nypl1897]. Al pie, el editor F. A. Mills, de 48 West Twenty-ninth Street, Nueva York, anuncia la edición para bajo en Re y una edición para barítono o contralto en Fa, a 50 centavos cada una, y un arreglo para orquesta [^nypl1897]. Por dentro, bajo el título "(Bass Solo and Male Quartette Chorus.)" (solo de bajo y estribillo con cuarteto masculino), la primera página lleva la marca "Copyright, 1897, by Julie C. Petrie. English copyright secured" [^nypl1897]. La parte vocal está escrita en clave de fa, en 12/8, tras una introducción de piano [^nypl1897].
 
+![[1]]
+
+![[2]]
+
 **Un cuarteto como una campana.** El estribillo está marcado "Solo voice loud. Chorus very soft and stac." (la voz solista fuerte; el coro muy suave y staccato): bajo "Loudly the bell in the old tower rings", dos tenores y dos bajos responden con acordes cortos y suaves, "Loud the bell in the old tow'r rings, yes!", como los golpes de una campana [^nypl1897]. Al final, el solista baja del La al Re grave, sostenido bajo un calderón, mientras el cuarteto canta su último "Beware!" ppp, lo más suave posible [^nypl1897].
+
+![[3]]
 
 **En el escenario del minstrel.** La canción pronto se cantó en los minstrel shows. En diciembre de 1898, el New York Journal and Advertiser la regaló como suplemento musical, en Fa, bajo el copyright de 1897 de Julie C. Petrie, y su portada dice "Sung by John W. Early with J. H. Haverly's American-European Minstrels" [^nypl1898]. Una historia del minstrel publicada en 1911 dice que Early, barítono, entró en la compañía de Haverly en 1898 [^rice1911], y la Parlor Songs Academy también nombra a Early y a los minstrels de Haverly como quienes cantaron la canción ese año [^parlorsongs]. Un minstrel show era un espectáculo teatral en el que intérpretes blancos se pintaban la cara de negro para burlarse de los afroamericanos. La portada del suplemento no muestra a ningún intérprete, solo barcos, caballitos de mar y un faro en medio de una tormenta [^nypl1898].
 
