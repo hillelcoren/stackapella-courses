@@ -17,9 +17,13 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: auld lang syne meaning | auld lang syne meaning in english | auld lang syne meaning line by line | who wrote auld lang syne | who wrote auld lang syne music | auld lang syne history | auld lang syne original tune | why do we sing auld lang syne at new year's | auld lang syne how to pronounce | auld lang syne lyrics meaning
+original: The Scots Musical Museum, Internet Archive | https://archive.org/details/scotsmusicalmuv300john/page/n22
+listen: National Jukebox, 1918 recording | https://www.loc.gov/item/jukebox-28325/ || National Jukebox, 1908 recording | https://www.loc.gov/item/jukebox-422466/
 ---
 
 Auld Lang Syne, also printed as Auld Langsyne and known by its first line, Should Auld Acquaintance Be Forgot, is a Scots song by Robert Burns. Its title means "old long since": the days long ago [^hh4][^dick]. Its question is whether old friends should be forgotten, and its answer is a drink together, "a cup o' kindness", for the sake of those days [^smm5]. Burns sent it to a friend in 1788 as an old song he admired, and its earliest known printing came in Edinburgh in 1796, a few months after he died, to a slow old tune [^gebbie3][^dick][^smm5]. The tune sung at New Year all over the world joined the words in 1799, in George Thomson's collection of Scottish airs [^thomson][^dick][^mccue].
+
+![[1]]
 
 ## Where it comes from
 
@@ -29,7 +33,11 @@ Auld Lang Syne, also printed as Auld Langsyne and known by its first line, Shoul
 
 **The Museum, 1796.** Burns also gave the song to James Johnson, an Edinburgh engraver, for The Scots Musical Museum [^dick][^smm5]. Its fifth volume is undated; the National Library of Scotland dates it 1796. Its preface mourns "the late celebrated Scottish Bard" and prints a letter he wrote "a few weeks before his death", so it appeared after Burns died on 21 July 1796; Dick puts it at the end of that year, and thought it very probable that Burns had seen the song's engraved page [^smm5][^rpo][^dick]. On page 426, No. 413, "Auld lang syne" is set in D to the old tune, with the chorus "For auld lang syne my jo" [^smm5][^stenhouse]. No author is named; the song is signed Z, which the Museum's index explains as "old verses, with corrections or additions" [^smm5][^stenhouse][^hh3].
 
+![[2]]
+
 **The tune we sing.** In 1799 Thomson printed the song in the second volume of his Select Collection of Original Scottish Airs, No. 68, headed "From an old MS. in the Editor's possession"; Dick points out the manuscript was Burns's own, not five years old [^thomson][^dick][^gla]. His lively tune, marked "Allegretto", was arranged by the Bohemian composer Leopold Kozeluch [^thomson][^mccue]. It came from a strathspey, The Miller's Wedding, in Bremner's collection of reels of 1759, later also called The Miller's Daughter [^glen][^dick][^stenhouse]. Burns had already written "O can ye labour lea" to a form of it, printed in the Museum in 1792 [^glen][^mccue][^dick]. In November 1794 he told Thomson that "the other tune you may hear as a common Scots country dance", which Dick reads as this one [^gebbie5][^dick].
+
+![[3]]
 
 **The older songs.** The opening line was old. The Bannatyne Manuscript, written in 1568, has a poem on forgotten friendship, "Auld kyndnes foryett" [^dick][^stenhouse][^mccue]. James Watson printed a love song, "Old-Long-syne", in 1711, beginning "Should old Acquaintance be forgot, And never thought upon" [^watson][^dick][^hh3]. Allan Ramsay's "Should auld acquaintance be forgot, Tho' they return with scars" followed in 1720, and the Museum's first volume set it to the old tune in 1787 [^glen][^dick][^smm1]. Henry Playford had printed that tune in London in 1700 as "For Old long Gine my Joe" [^glen][^dick].
 

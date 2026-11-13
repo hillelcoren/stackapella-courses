@@ -16,7 +16,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: greensleeves historia | greensleeves significado | quién escribió greensleeves | greensleeves enrique viii ana bolena | greensleeves letra traducción | greensleeves y what child is this
-translatedFrom: 34a602ceeb8f
+translatedFrom: cc10de1d224c
+original: A Handful of Pleasant Delights (1584), reimpresión de Arber, Internet Archive | https://archive.org/details/handfulofpleasan00robiuoft/page/n38/mode/1up
 ---
 
 Greensleeves, escrita también Green Sleeves y conocida por su primer verso, "Alas, my love, you do me wrong" (ay, amor mío, me tratas injustamente), es una canción de amor inglesa del reinado de Isabel I [^chappell][^handful]. Un hombre pregunta por qué la dama Greensleeves lo ha rechazado después de haberla vestido de seda y oro [^handful][^chappell]. Nadie sabe quién escribió la letra ni la melodía [^balladindex][^pittaway1]. Su documento más antiguo es una balada registrada en Stationers' Hall, en Londres, en septiembre de 1580, y su primera impresión conocida es un cancionero de 1584 [^chappell][^pittaway2][^balladindex]. Su melodía está en libros de laúd copiados hacia 1590, y esa misma melodía llevó más tarde el villancico What Child Is This? [^hymnarchive][^tcd][^bramley]
@@ -25,9 +26,13 @@ Greensleeves, escrita también Green Sleeves y conocida por su primer verso, "Al
 
 **La balada de 1580.** El 3 de septiembre de 1580, el impresor londinense Richard Jones inscribió en el registro de la Stationers' Company "A new Northern Dittye of the Lady Greene Sleeves" [^chappell][^hymnarchive][^pittaway2][^balladindex]. Ese mismo día otro impresor, Edward White, inscribió una respuesta en boca de ella, "the Ladie Greene Sleeves Answere to Donkyn" [^chappell][^pittaway2][^balladindex]. William Chappell, el historiador victoriano de la canción inglesa, lo tomó como señal de que la canción ya era popular, pues "la fecha de la inscripción, sin embargo, no siempre es la fecha de la balada" [^chappell]. No se conoce ningún ejemplar superviviente de la impresión de 1580 [^pittaway2][^balladindex].
 
+![[1]]
+
 En menos de doce días se autorizó una versión "moralised to the Scripture" (moralizada según la Escritura), y en menos de un año siguieron más continuaciones [^chappell][^pittaway2]. Chappell atribuyó la moda más a "el alegre vaivén de la melodía" que a la letra [^chappell].
 
 **La letra en 1584.** Richard Jones imprimió la canción en su cancionero A Handefull of Pleasant Delites en 1584, la primera impresión conocida de la letra [^chappell][^pittaway2][^balladindex]. Su encabezado dice "A new Courtly Sonet, of the Lady Green sleeues. To the new tune of Greensleeues" [^handful][^pittaway2]. Tiene dieciocho estrofas de cuatro versos, cada una seguida del estribillo, que también se imprime encima de la primera estrofa; no lleva firma y termina solo con "Finis" [^handful].
+
+![[2]]
 
 **La melodía.** La melodía se conserva en libros de laúd y de cítola de finales del siglo XVI y principios del XVII [^pittaway2][^hymnarchive]. La copia que suele llamarse la más antigua está en el manuscrito MS 408 del Trinity College de Dublín, conocido como el libro de laúd de William Ballet [^hymnarchive][^tcd]. La biblioteca lo describe como dos manuscritos sin relación encuadernados juntos; Greensleeves está en el segundo, un libro de melodías de baladas y danzas de los últimos años de Isabel, no en el que lleva el nombre de Ballet [^tcd]. Un autor sobre música antigua fecha ese segundo manuscrito hacia 1592 a 1603 [^pittaway2]. Chappell imprimió su "Oldest copy" (copia más antigua) a partir de este volumen [^chappell]. Su forma es italiana: la estrofa avanza sobre el passamezzo antico y el estribillo sobre la romanesca, patrones de acordes repetidos venidos de Italia [^pittaway2][^skinner].
 
@@ -170,11 +175,15 @@ Chappell marca su copia más antigua "Smoothly and in moderate time" (con suavid
 
 Nuestro arreglo toma la melodía y la armonía de Macfarren de la página 230 de Chappell, un tono más arriba, en Fa sostenido menor y en un 6/8 lento [^chappell]. Cantamos la primera estrofa y el estribillo, para 2 a 4 cantantes: la soprano canta la melodía, el bajo sigue sobre todo las notas más graves de la parte de piano de Macfarren, y la contralto y el tenor son nuestros, sobre su armonía. Chappell encaja "company" bajo un solo acorde; nosotros cantamos "com-pa-ny", como lo imprime Frederick Bridge en su "versión generalmente aceptada" de 1923 [^bridge][^chappell]. Las respiraciones están marcadas para principiantes.
 
+![[3]]
+
 ## Versiones y otras letras
 
 **Otras letras para la melodía.** Un libro de villancicos de 1642, que Hymnology Archive identifica como Good and True, Fresh and New Christmas Carols, puso con ella un "Carol for New Year's Day" (villancico para el día de Año Nuevo), que empieza "The old year now away is fled" (el año viejo ya se ha ido) [^chappell][^hymnarchive].
 
 **What Child Is This?** "What Child is this, who, laid to rest", de William Chatterton Dix, es el n.º XIV, con la melodía, marcada "Old English", y la armonía de Stainer, en la primera serie de Christmas Carols New and Old, de Bramley y Stainer, que salió en noviembre de 1867 [^bramley][^mt1867][^hymnarchive]. La fecha de 1871, que se da a menudo, corresponde a una edición ilustrada posterior [^hymnarchive]. Hymnary.org y el autor sobre música antigua dicen que Dix sacó la letra de su poema The Manger Throne, de 1865; el mismo libro imprime con ese título otro villancico de Dix, como n.º II [^hymnary][^pittaway2][^bramley].
+
+![[4]]
 
 **La melodía posterior.** The Beggar's Opera, que Chappell fecha en 1728, pone letra a "Green Sleeves" como Air LXVI, en la celda de los condenados [^gay][^chappell]. Esa versión, con una segunda mitad distinta, era la más conocida en tiempos de Chappell; la fuente más antigua que él conocía era The Dancing Master, de 1686 [^chappell][^pittaway2]. La "versión generalmente aceptada" de Bridge, de 1923, como nuestro arreglo, tiene la segunda mitad más antigua de los libros de laúd [^chappell][^bridge].
 

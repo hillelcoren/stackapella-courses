@@ -16,6 +16,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: loch lomond song meaning | loch lomond high road low road meaning | who wrote loch lomond | when was bonnie banks of loch lomond written | loch lomond song history | loch lomond story behind the song | loch lomond lyrics meaning in english | loch lomond song original | how to pronounce loch lomond | what does the word loch mean
+original: Songs of the North, p. 10, Internet Archive | https://archive.org/details/31761034118778/page/n29/mode/1up
+listen: National Jukebox, 1905 recording | https://www.loc.gov/item/jukebox-121041/
 ---
 
 Loch Lomond, also called The Bonnie Banks o' Loch Lomond or known by its chorus, "Ye'll tak' the high road", is a Scottish song of two parted lovers. Its singer remembers walking with a true love on the banks of Loch Lomond, the largest stretch of fresh water in Britain, and its chorus ends "me and my true love will never meet again" [^sotn][^ecn][^visitscot]. Nobody knows who wrote it. Its earliest known printing is an Edinburgh sheet of about 1840, titled Bonnie Loch Loman [^browns][^tbi]. By the 1890s, after years half forgotten, it was popular again, and by 1904 a story was in print that its chorus was a Jacobite soldier's farewell before his execution at Carlisle [^greig][^ford].
@@ -24,6 +26,8 @@ Loch Lomond, also called The Bonnie Banks o' Loch Lomond or known by its chorus,
 
 **The earliest printing.** The earliest known printing is a song sheet titled Bonnie Loch Loman, published by Paterson & Roy of 27 George Street, Edinburgh, in about 1840. In 1911 an Aberdeen bookseller's magazine, Brown's Book-Stall, reprinted its words with that imprint, quoting the folk-song collector Gavin Greig: its seven verses were given as "written by a lady", and the music as arranged by Finlay Dun [^browns]. The Ballad Index gives 1841, naming The Vocal Melodies of Scotland, the firm's series of Scottish songs arranged by Dun and John Thomson [^tbi][^thirty]. Alfred Moffat had given the same account in the 1890s: Paterson's firm, Finlay Dun and a lady [^moffat].
 
+![[1]]
+
 **A Jacobite lament.** That first text already looks back on the 1745 rising. Its chorus runs "But trouble it is there, and mony hearts are sair", and later verses mourn the hopes that "On Culloden field they perish'd" and recall the looks of Prince Charlie [^browns]. The song sung now, Brown's Book-Stall noted, keeps only its first, second and seventh verses, reworded [^browns].
 
 **The lady and the street singer.** The song was often credited to Lady John Scott, who wrote the tune of Annie Laurie [^moffat][^ford][^thirty]. She said otherwise. Moffat's Minstrelsy of Scotland reports a letter from her: she and her husband "picked up both words and air from a poor little boy who was singing on the streets of Edinburgh", and she did not think the song was known before that [^moffat][^browns]. Moffat was also told she had been credited with it while it was still passed around in manuscript, before anyone printed it [^moffat][^browns]. She died in 1900, and the memoir of her life printed with her Thirty Songs in 1910 never mentions the song [^thirty][^berwick].
@@ -31,6 +35,8 @@ Loch Lomond, also called The Bonnie Banks o' Loch Lomond or known by its chorus,
 **The tune.** Moffat thought the air grew from an old Scottish tune, Kind Robin lo'es me, which William McGibbon printed in 1742 as Robin Cushie, a printing that John Glen, the historian of early Scottish tunes, also records [^moffat][^glen]. The Ballad Index, weighing a list of possible older tunes, finds noticeable differences in each and calls the question unsettled [^tbi].
 
 **Songs of the North.** The words and tune we sing come from Songs of the North, a book of Scottish songs edited by A. C. Macleod and Harold Boulton, with the piano parts by Malcolm Lawson [^sotn]. Our copy, a later Cramer reprint, carries no date. The book first came out in London from Field and Tuer in 1885: that July the Illustrated London News and Chambers's Journal both noticed it as a handsome new volume [^iln1885][^chambers1885]. The song's music page, headed "Loch Lomond", reads "Old Scottish Song" on one side and "Traditional Melody arranged by Malcolm Lawson" on the other. It is in F, marked "With much feeling and rather slow", and the refrain is marked "Brisker" [^sotn]. A page of its own then prints the whole poem, three verses each with the chorus, as The Bonnie Banks o' Loch Lomond [^sotn].
+
+![[2]]
 
 **Myth and record.** Often told: a Jacobite soldier of the 1745 rising, condemned to die at Carlisle, spoke the chorus to his sweetheart at the scaffold. She would go home by the high road; his spirit would reach Scotland first by the low road, the road of the dead [^ford][^tbi]. What the record shows: no copy of the song is known from before about 1840, nearly a century after the rising [^browns][^tbi]. That earliest text already mourns Culloden, but it has no prisoner, no Carlisle and no scaffold [^browns]. The story grew in print later. In the 1890s Scots Minstrelsie said the song was "supposed to have been written about 1746", and linked it to Prince Charles Edward Stuart's retreat from Derby; in 1904 Ford gave the Carlisle scaffold as "the tradition" [^greig][^ford]. The novelist William Black thought the whole song recent, Ford reports [^ford].
 
@@ -49,9 +55,13 @@ The song is in English with Scots words in it. Bonnie means beautiful, yon means
 
 **Verse 1.** By those lovely banks and slopes, where the sun shines bright on Loch Lomond, where my true love and I were always used to go (wont to gae: accustomed to go), on the banks of Loch Lomond [^sotn][^hh4]. Lomon' is Lomond with its last sound dropped, as the book spells it for singing [^sotn].
 
+![[3]]
+
 **Chorus.** You will take the high road and I will take the low road, and I will be in Scotland before (afore) you. But my true love and I will never meet again on the banks of Loch Lomond [^sotn][^hh4]. The words never say what the two roads are; the road of the dead is the later reading told above [^ford][^tbi].
 
 **Verse 2.** It was there that we parted, in that shady glen, a deep valley, on the steep side of Ben Lomond, the mountain above the loch. There we see the Highland (Hieland) hills in purple, and the moon coming out in the gloaming, the twilight [^moffat][^gebbie6][^greig].
+
+![[4]]
 
 **Verse 3.** The little birds sing and the wild flowers spring up, and the waters sleep in the sunshine. But a broken heart knows (kens) no (nae) second spring, though the sorrowful (waefu') may stop their weeping (greetin') [^gebbie6][^hh4]. Under the notes the book has "frae their greeting"; on the page of words, "from their greetin'" [^sotn].
 

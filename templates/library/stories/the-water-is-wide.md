@@ -18,6 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote the water is wide | the water is wide meaning | the water is wide song meaning | the water is wide folk song history | the water is wide origin | is the water is wide a scottish song | is the water is wide an irish song | o waly waly meaning | is the water is wide a hymn | o waly waly hymn tune | the water is wide lyrics | the water is wide satb | the water is wide alto
+original: Folk Songs from Somerset, third series (1906), p. 32, Internet Archive | https://archive.org/details/imslp-songs-from-somerset-sharp-cecil/SIBLEY1802.5603.14257.9a16-39087013594496thirdseries/page/n43/mode/1up
 ---
 
 The Water Is Wide, also printed as O Waly, Waly, is an English folk song about a love that cools. The singer cannot cross the water, wishes for a boat that will carry two, and ends knowing that love "fades away like morning dew". No author is known. Cecil Sharp took it down in Somerset from Mrs Cox of High Ham, and he and Charles Marson printed it in 1906, in the third series of Folk Songs from Somerset [^sharp1906][^sharp1907][^foxstrangways]. Several of its lines are older: they are in Waly, Waly, a Scottish lament already in print in the 1720s [^child][^glen]. The tune Sharp printed is now also a hymn tune, named O WALY WALY in hymnals [^hymnary-tune][^balladindex].
@@ -26,9 +27,15 @@ The Water Is Wide, also printed as O Waly, Waly, is an English folk song about a
 
 **Somerset, 1906.** Sharp collected many of his first songs at Hambridge in Somerset, where his friend Charles Marson was vicar [^sharp1907][^foxstrangways][^canterbury]. In the third series of their Folk Songs from Somerset, the song is No. 66, on pages 32 and 33, headed "O Waly, Waly" and marked Andante con espressione, slowly and with feeling. It has six verses, set for voice and piano [^sharp1906]. Sharp's note at the back reads: "Words and air from Mrs. Cox, of High Ham." He had noted the song five times in Somerset, with tunes and words that varied a great deal, and Mr Thomas of Cannington had sung him one very close to Mrs Cox's [^sharp1906]. The title was his, not hers: "Our Somerset words have so much affinity with the well-known Scottish ballad 'Waly Waly,' that we are publishing them under the same title" [^sharp1906].
 
+![[1]]
+
 **The Scottish song.** Waly, Waly, gin love be bonny is a woman's lament for a lover who has proved false [^child][^rpo]. William Thomson's Orpheus Caledonius, a London book with no date on it, usually dated 1725, printed four verses with a tune [^child][^glen][^stenhouse]. Allan Ramsay printed ten verses in the second volume of his Tea-Table Miscellany; the song is not in the first volume, dated 1724. Sources date the second volume 1726, "1724 or 1725", or simply before 1727 [^ramsay1724][^dsl-waly][^stenhouse][^child]. A London reprint dated 1727, A New Miscellany of Scots Sangs, has it on page 182, and the Dublin edition of 1729 on page 176 [^newmisc1727][^ramsay1729][^child]. Two of its verses are close to the Somerset words, almost line for line: the singer leans on an oak that "bow'd and syne it brak", bent and then broke, and love is lovely "a little time while it is new" but "fades away like morning dew" [^ramsay1729][^child][^sharp1906]. It names Edinburgh landmarks, Arthur's Seat and Saint Anton's Well, a spring on the hill's side [^chambers1862][^hes].
 
+![[2]]
+
 **A different tune.** The Scottish words had their own air. Sharp's note sends readers elsewhere for "the Scottish tune", printed, for one, in Robert Chambers's Songs of Scotland Prior to Burns [^sharp1906][^chambers1862].
+
+![[3]]
 
 **Myth and record.** Often told: the verses are the lament of Lady Barbara Erskine, who married James, second Marquis of Douglas, in 1670 and was formally separated from him in 1681; Robert Chambers wrote that the verses "are the lament of the unfortunate marchioness" [^chambers1862][^child]. Chambers dates the wedding to September, Child to near the end of the year [^chambers1862][^child]. What the record shows: verses of the song do turn up in the ballad of her story, Jamie Douglas, but Child found that the song was printed some fifty years before any copy of the ballad, and that the song is the lament of an unmarried woman, not a wife [^child]. A second legend placed the song in the reign of Mary Queen of Scots, because a burlesque of its "love is bonny" verse sits in a book of church music copied in 1566. David Laing answered in 1853 that the lines were written in that manuscript much later, and Child dated them about 1620 [^stenhouse][^child].
 

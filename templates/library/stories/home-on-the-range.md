@@ -16,19 +16,28 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote home on the range | who wrote the music for home on the range | who originally wrote home on the range | home on the range song meaning | home on the range lyrics meaning line by line | home on the range history | why is home on the range the kansas state song | what is a range | is home on the range public domain | home on the range lyrics
+original: Lomax, Cowboy Songs and Other Frontier Ballads (1910), Internet Archive | https://archive.org/details/cowboysongsother00lomauoft/page/n70/mode/1up
 ---
 
 Home on the Range, also sung as "Oh, Give Me a Home Where the Buffalo Roam", is the American song of the open plains and the state song of Kansas [^kansapedia][^kpr][^mechem]. Its words began as My Western Home, a poem by Brewster Higley, a doctor who had homesteaded in Smith County, Kansas, in 1871; the tune is credited to his neighbour Daniel E. Kelley [^mechem][^kansapedia][^kpr]. Cowboys carried it along the cattle trails, and John Lomax printed it as A Home on the Range in 1910, with no author named [^lomax1910][^mechem]. Twenty-four years later an Arizona couple sued for half a million dollars, saying it was theirs. The search that followed led back to Higley's poem [^mechem][^kansapedia][^cooper].
+
+![[1]]
 
 ## Where it comes from
 
 **A doctor on Beaver Creek.** Brewster Higley, born in Ohio, had practised medicine in Indiana before he took up a homestead in Smith County, Kansas, in 1871 [^mechem][^kansapedia][^ohs-marker]. He lived first in a dugout and later in a log cabin on Beaver Creek [^kansapedia][^mechem]. There, about 1873, he wrote a poem in praise of the prairie, My Western Home [^mechem][^kansapedia-higley]. The local paper, the Smith County Pioneer, printed it, but that issue no longer survives. The paper's own reprint of 1914 dates it to 1873, as does the Kansas Historical Society's entry on Higley; its entry on the song says early 1874 [^mechem][^kansapedia-higley][^kansapedia].
 
+![[2]]
+
 **The tune.** Daniel E. Kelley, a Civil War veteran, had settled at Gaylord, in Smith County, in 1872 [^mechem][^kansapedia][^iagenweb]. He is credited with setting Higley's words to music [^kansapedia][^kpr][^mechem]. Kelley played in the Harlan orchestra with his wife and her brothers, and the song became a favourite at their dances [^kansapedia][^kpr][^mechem]. Nobody is known to have written the tune down: as Kirke Mechem of the Kansas Historical Society put it in 1949, there is no reason to think Kelley ever did [^mechem].
 
 **In the papers.** The Kirwin Chief, of Kirwin in Phillips County, printed the poem on 21 March 1874 [^kansapedia][^kansapedia-higley][^mechem]. On 26 February 1876 it ran the poem again on its front page [^kansapedia][^mechem]. The heading was "PLAGIARISM": another paper had printed the poem under someone else's name, and the Chief set the record straight, crediting "Dr. B. Higley, of Beaver creek, Smith county, Kansas" [^mechem]. That 1876 page is the earliest copy Mechem could find, titled simply Western Home [^mechem]. In it the line we know as "Where seldom is heard a discouraging word" reads "never is heard", as in the Pioneer's 1914 reprint [^mechem].
 
+![[3]]
+
 **Down the trail.** In 1908 the Texas collector John Lomax recorded it in San Antonio from a Black man who kept a beer saloon there and had been a cook on cattle drives up the Chisholm Trail [^mechem][^kansapedia][^texascoop]. Henry Lebermann, a blind music teacher at the state school for the blind in Austin, took the tune down from Lomax's recording, listening through earphones [^mechem][^corcoran]. Lomax printed words and tune as A Home on the Range in Cowboy Songs and Other Frontier Ballads, published in November 1910, naming no author or composer [^lomax1910][^lomax1929].
+
+![[4]]
 
 **A radio hit and a lawsuit.** Sheet music followed: one edition from San Antonio in 1925, and in 1930 a new arrangement by David Guion of Dallas [^mechem][^kansapedia]. By the early 1930s it was a radio favourite, said to be President Franklin D. Roosevelt's too [^mechem][^kansapedia]. Then, in 1934, William and Mary Goodwin of Tempe, Arizona, sued for $500,000, against the National Broadcasting Company and many publishers [^mechem][^ljworld]. They said it copied a song of theirs registered for copyright in 1905, which Mechem calls An Arizona Home and the Historical Society calls My Arizona Home [^mechem][^kansapedia][^cooper].
 

@@ -16,6 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote greensleeves | did henry viii write greensleeves | greensleeves henry viii anne boleyn | what does greensleeves mean | lady greensleeves meaning | greensleeves lyrics meaning | is greensleeves the same as what child is this | greensleeves when was it written | greensleeves history origin | is greensleeves an english folk song | greensleeves original song
+original: A Handful of Pleasant Delights (1584), Arber's reprint, Internet Archive | https://archive.org/details/handfulofpleasan00robiuoft/page/n38/mode/1up
 ---
 
 Greensleeves, also written Green Sleeves and known by its first line, "Alas, my love, you do me wrong", is an English love song from the reign of Elizabeth I [^chappell][^handful]. A man asks why the Lady Greensleeves has cast him off after he dressed her in silk and gold [^handful][^chappell]. Nobody knows who wrote the words or the tune [^balladindex][^pittaway1]. Its earliest record is a ballad entered at Stationers' Hall in London in September 1580, and its earliest known printing is a songbook of 1584 [^chappell][^pittaway2][^balladindex]. Its tune is in lute books copied around 1590, and the same tune later carried the Christmas carol What Child Is This? [^hymnarchive][^tcd][^bramley]
@@ -24,9 +25,13 @@ Greensleeves, also written Green Sleeves and known by its first line, "Alas, my 
 
 **The ballad of 1580.** On 3 September 1580 the London printer Richard Jones entered, in the register of the Stationers' Company, "A new Northern Dittye of the Lady Greene Sleeves" [^chappell][^hymnarchive][^pittaway2][^balladindex]. That same day another printer, Edward White, entered a reply in her voice, "the Ladie Greene Sleeves Answere to Donkyn" [^chappell][^pittaway2][^balladindex]. William Chappell, the Victorian historian of English song, took that as a sign the song was already popular, since "the date of the entry, however, is not always the date of the ballad" [^chappell]. No copy of the 1580 printing is known to survive [^pittaway2][^balladindex].
 
+![[1]]
+
 Within twelve days a version "moralised to the Scripture" was licensed, and more sequels followed within the year [^chappell][^pittaway2]. Chappell put the craze down to "the merry swing of the tune" more than the words [^chappell].
 
 **The words in 1584.** Richard Jones printed the song in his songbook A Handefull of Pleasant Delites in 1584, the earliest known printing of the words [^chappell][^pittaway2][^balladindex]. Its heading reads "A new Courtly Sonet, of the Lady Green sleeues. To the new tune of Greensleeues" [^handful][^pittaway2]. It has eighteen four-line stanzas, each followed by the refrain, which is also printed above the first stanza; it is unsigned, ending only "Finis" [^handful].
+
+![[2]]
 
 **The tune.** The tune survives in lute and cittern books of the late 1500s and early 1600s [^pittaway2][^hymnarchive]. The copy usually called the oldest is in Trinity College Dublin MS 408, known as William Ballet's lute book [^hymnarchive][^tcd]. The library describes two unrelated manuscripts bound together; Greensleeves is in the second, a book of the ballad and dance tunes of Elizabeth's last years, not in the one that bears Ballet's name [^tcd]. An early-music writer dates that second manuscript about 1592 to 1603 [^pittaway2]. Chappell printed his "Oldest copy" from this volume [^chappell]. It is Italian in form: the verse moves over the passamezzo antico and the refrain over the romanesca, repeating chord patterns from Italy [^pittaway2][^skinner].
 
@@ -126,11 +131,15 @@ Chappell marks his oldest copy "Smoothly and in moderate time", in 6/8, and wrot
 
 Our arrangement reads the tune and Macfarren's harmony from Chappell's page 230, a whole tone higher, in F sharp minor and a slow 6/8 [^chappell]. We sing the first verse and the refrain, for 2 to 4 singers: the soprano sings the tune, the bass mostly follows the lowest notes of Macfarren's piano part, and the alto and tenor are our own on his harmony. Chappell squeezes "company" under one chord; we sing "com-pa-ny", as Frederick Bridge prints it in his "generally accepted version" of 1923 [^bridge][^chappell]. Breaths are written in for beginners.
 
+![[3]]
+
 ## Versions and other words
 
 **Other words for the tune.** A carol book of 1642, which the Hymnology Archive names Good and True, Fresh and New Christmas Carols, set a "Carol for New Year's Day" to it, beginning "The old year now away is fled" [^chappell][^hymnarchive].
 
 **What Child Is This?** William Chatterton Dix's "What Child is this, who, laid to rest" is No. XIV, set to the tune, marked "Old English", with Stainer's harmony, in the first series of Bramley and Stainer's Christmas Carols New and Old, which came out in November 1867 [^bramley][^mt1867][^hymnarchive]. The date 1871, often given, belongs to a later illustrated edition [^hymnarchive]. Hymnary.org and the early-music writer say Dix made the words from his poem The Manger Throne of 1865; the same book prints a different Dix carol under that title as No. II [^hymnary][^pittaway2][^bramley].
+
+![[4]]
 
 **The later tune.** The Beggar's Opera, which Chappell dates 1728, sets words to "Green Sleeves" as Air LXVI, in the condemned hold [^gay][^chappell]. That version, with a different second half, was the best known in Chappell's day; its earliest source he knew was The Dancing Master of 1686 [^chappell][^pittaway2]. Bridge's "generally accepted version" of 1923, like our arrangement, has the older second half of the lute books [^chappell][^bridge].
 

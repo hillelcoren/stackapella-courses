@@ -18,7 +18,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: the water is wide significado | the water is wide historia | quién escribió the water is wide | the water is wide letra traducida | o waly waly significado | the water is wide letra en español
-translatedFrom: 74d972cde56c
+translatedFrom: ba64f0b3b027
+original: Folk Songs from Somerset, tercera serie (1906), p. 32, Internet Archive | https://archive.org/details/imslp-songs-from-somerset-sharp-cecil/SIBLEY1802.5603.14257.9a16-39087013594496thirdseries/page/n43/mode/1up
 ---
 
 The Water Is Wide, impresa también como O Waly, Waly, es una canción popular inglesa sobre un amor que se enfría. Quien canta no puede cruzar el agua, desea una barca que lleve a dos y termina sabiendo que el amor "fades away like morning dew" (se desvanece como el rocío de la mañana). No se conoce autor. Cecil Sharp la anotó en Somerset de boca de la señora Cox, de High Ham, y él y Charles Marson la imprimieron en 1906, en la tercera serie de Folk Songs from Somerset [^sharp1906][^sharp1907][^foxstrangways]. Varios de sus versos son más antiguos: están en Waly, Waly, un lamento escocés que ya estaba impreso en la década de 1720 [^child][^glen]. La melodía que imprimió Sharp es hoy también una melodía de himno, llamada O WALY WALY en los himnarios [^hymnary-tune][^balladindex].
@@ -27,9 +28,15 @@ The Water Is Wide, impresa también como O Waly, Waly, es una canción popular i
 
 **Somerset, 1906.** Sharp recogió muchas de sus primeras canciones en Hambridge, en Somerset, donde su amigo Charles Marson era párroco [^sharp1907][^foxstrangways][^canterbury]. En la tercera serie de su Folk Songs from Somerset, la canción es el n.º 66, en las páginas 32 y 33, con el encabezado "O Waly, Waly" y la indicación Andante con espressione, lento y con sentimiento. Tiene seis estrofas, para voz y piano [^sharp1906]. La nota de Sharp al final del libro dice: "Letra y melodía de la señora Cox, de High Ham." Había anotado la canción cinco veces en Somerset, con melodías y letras que variaban mucho, y el señor Thomas, de Cannington, le había cantado una muy parecida a la de la señora Cox [^sharp1906]. El título fue de Sharp, no de ella: "Nuestra letra de Somerset tiene tanta afinidad con la conocida balada escocesa 'Waly Waly' que la publicamos con el mismo título" [^sharp1906].
 
+![[1]]
+
 **La canción escocesa.** Waly, Waly, gin love be bonny es el lamento de una mujer por un amante que ha resultado falso [^child][^rpo]. El Orpheus Caledonius de William Thomson, un libro de Londres que no lleva fecha, fechado normalmente en 1725, imprimió cuatro estrofas con una melodía [^child][^glen][^stenhouse]. Allan Ramsay imprimió diez estrofas en el segundo volumen de su Tea-Table Miscellany; la canción no está en el primer volumen, fechado en 1724. Las fuentes fechan el segundo volumen en 1726, en "1724 o 1725" o simplemente antes de 1727 [^ramsay1724][^dsl-waly][^stenhouse][^child]. Una reimpresión londinense fechada en 1727, A New Miscellany of Scots Sangs, la trae en la página 182, y la edición de Dublín de 1729, en la página 176 [^newmisc1727][^ramsay1729][^child]. Dos de sus estrofas se parecen mucho a la letra de Somerset, casi verso a verso: quien canta se apoya en un roble que "bow'd and syne it brak", que se dobló y luego se rompió, y el amor es hermoso "a little time while it is new" (un poco de tiempo, mientras es nuevo), pero "fades away like morning dew" (se desvanece como el rocío de la mañana) [^ramsay1729][^child][^sharp1906]. Nombra lugares conocidos de Edimburgo, Arthur's Seat y Saint Anton's Well, un manantial en la ladera de la colina [^chambers1862][^hes].
 
+![[2]]
+
 **Otra melodía.** La letra escocesa tenía su propia melodía. La nota de Sharp remite a otros libros para "la melodía escocesa", impresa, por ejemplo, en Songs of Scotland Prior to Burns, de Robert Chambers [^sharp1906][^chambers1862].
+
+![[3]]
 
 **Mito y documentos.** Se suele contar que las estrofas son el lamento de lady Barbara Erskine, que se casó con James, segundo marqués de Douglas, en 1670 y se separó formalmente de él en 1681; Robert Chambers escribió que las estrofas "son el lamento de la desdichada marquesa" [^chambers1862][^child]. Chambers fecha la boda en septiembre, y Child, hacia finales de año [^chambers1862][^child]. Lo que muestran los documentos: hay estrofas de la canción en la balada que cuenta su historia, Jamie Douglas, pero Child comprobó que la canción se imprimió unos cincuenta años antes que cualquier copia de la balada, y que la canción es el lamento de una mujer soltera, no de una esposa [^child]. Una segunda leyenda situaba la canción en el reinado de María Estuardo, reina de Escocia, porque una parodia burlesca de su estrofa "love is bonny" aparece en un libro de música de iglesia copiado en 1566. David Laing respondió en 1853 que esos versos se escribieron en el manuscrito mucho más tarde, y Child los fechó hacia 1620 [^stenhouse][^child].
 

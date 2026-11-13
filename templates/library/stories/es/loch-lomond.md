@@ -16,7 +16,9 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: loch lomond significado | loch lomond historia | quién escribió loch lomond | loch lomond letra traducción | high road low road significado | cómo se pronuncia loch lomond
-translatedFrom: a55f8dbc4a8b
+translatedFrom: ea9d2ba25a57
+original: Songs of the North, p. 10, Internet Archive | https://archive.org/details/31761034118778/page/n29/mode/1up
+listen: National Jukebox, grabación de 1905 | https://www.loc.gov/item/jukebox-121041/
 ---
 
 Loch Lomond, llamada también The Bonnie Banks o' Loch Lomond, o conocida por su estribillo, "Ye'll tak' the high road", es una canción escocesa de dos enamorados separados. Quien la canta recuerda sus paseos con su amor por las orillas del Loch Lomond, la mayor extensión de agua dulce de Gran Bretaña, y su estribillo termina "me and my true love will never meet again" (mi amor y yo no volveremos a vernos nunca) [^sotn][^ecn][^visitscot]. Nadie sabe quién la escribió. Su primera impresión conocida es una hoja de Edimburgo de hacia 1840, titulada Bonnie Loch Loman [^browns][^tbi]. En la década de 1890, tras años medio olvidada, volvía a ser popular, y en 1904 ya estaba impresa la historia de que su estribillo era la despedida de un soldado jacobita antes de su ejecución en Carlisle [^greig][^ford].
@@ -25,6 +27,8 @@ Loch Lomond, llamada también The Bonnie Banks o' Loch Lomond, o conocida por su
 
 **La primera impresión.** La primera impresión conocida es una hoja suelta titulada Bonnie Loch Loman, publicada por Paterson & Roy, del número 27 de George Street, en Edimburgo, hacia 1840. En 1911, la revista de un librero de Aberdeen, Brown's Book-Stall, reimprimió su letra con ese pie de imprenta, citando al recopilador de canciones populares Gavin Greig: sus siete estrofas figuraban como "escritas por una dama", y la música como arreglada por Finlay Dun [^browns]. El Ballad Index da 1841, y nombra The Vocal Melodies of Scotland, la serie de canciones escocesas de la casa, con arreglos de Dun y John Thomson [^tbi][^thirty]. Alfred Moffat había contado lo mismo en la década de 1890: la casa de Paterson, Finlay Dun y una dama [^moffat].
 
+![[1]]
+
 **Un lamento jacobita.** Ese primer texto ya vuelve la vista al levantamiento de 1745. Su estribillo dice "But trouble it is there, and mony hearts are sair" (pero allí hay pena, y muchos corazones sufren), y estrofas posteriores lloran las esperanzas que "On Culloden field they perish'd" (en el campo de Culloden perecieron) y recuerdan la mirada del príncipe Carlos Eduardo Estuardo (Bonnie Prince Charlie) [^browns]. La canción que se canta hoy, señalaba Brown's Book-Stall, conserva solo su primera, su segunda y su séptima estrofas, con otras palabras [^browns].
 
 **La dama y el cantor callejero.** La canción se atribuyó a menudo a Lady John Scott, autora de la melodía de Annie Laurie [^moffat][^ford][^thirty]. Ella decía otra cosa. The Minstrelsy of Scotland, de Moffat, recoge una carta suya: ella y su marido "recogieron la letra y la melodía de un pobre niño que cantaba por las calles de Edimburgo", y no creía que la canción se conociera antes [^moffat][^browns]. A Moffat le dijeron también que se le había atribuido cuando aún circulaba en manuscrito, antes de que nadie la imprimiera [^moffat][^browns]. Murió en 1900, y la semblanza de su vida impresa con sus Thirty Songs en 1910 nunca menciona la canción [^thirty][^berwick].
@@ -32,6 +36,8 @@ Loch Lomond, llamada también The Bonnie Banks o' Loch Lomond, o conocida por su
 **La melodía.** Moffat pensaba que la melodía nació de un viejo aire escocés, Kind Robin lo'es me, que William McGibbon imprimió en 1742 como Robin Cushie, una impresión que registra también John Glen, el historiador de las primeras melodías escocesas [^moffat][^glen]. El Ballad Index, tras sopesar una lista de posibles melodías más antiguas, encuentra diferencias notables en cada una y da la cuestión por no resuelta [^tbi].
 
 **Songs of the North.** La letra y la melodía que cantamos vienen de Songs of the North, un libro de canciones escocesas editado por A. C. Macleod y Harold Boulton, con los acompañamientos de piano de Malcolm Lawson [^sotn]. Nuestro ejemplar, una reimpresión posterior de Cramer, no lleva fecha. El libro salió por primera vez en Londres, con Field and Tuer, en 1885: en julio de ese año, The Illustrated London News y Chambers's Journal lo reseñaron como un hermoso volumen nuevo [^iln1885][^chambers1885]. La página de música de la canción, con el encabezado "Loch Lomond", dice "Old Scottish Song" (vieja canción escocesa) a un lado y "Traditional Melody arranged by Malcolm Lawson" (melodía tradicional arreglada por Malcolm Lawson) al otro. Está en Fa, con la indicación "With much feeling and rather slow" (con mucho sentimiento y bastante lento), y el estribillo lleva "Brisker" (más animado) [^sotn]. Después, una página aparte imprime el poema entero, tres estrofas, cada una con el estribillo, como The Bonnie Banks o' Loch Lomond [^sotn].
+
+![[2]]
 
 **Mito y documentos.** Se suele contar que un soldado jacobita del levantamiento de 1745, condenado a morir en Carlisle, dijo el estribillo a su enamorada al pie del cadalso. Ella volvería a casa por el camino alto; su espíritu llegaría antes a Escocia por el camino bajo, el camino de los muertos [^ford][^tbi]. Lo que muestran los documentos: no se conoce ninguna copia de la canción anterior a la de hacia 1840, casi un siglo después del levantamiento [^browns][^tbi]. Ese texto más antiguo ya llora Culloden, pero no tiene ningún prisionero, ni Carlisle, ni cadalso [^browns]. La historia fue creciendo después, en letra impresa. En la década de 1890, Scots Minstrelsie dijo que la canción "se supone escrita hacia 1746", y la relacionó con la retirada del príncipe Carlos Eduardo Estuardo desde Derby; en 1904, Ford dio el cadalso de Carlisle como "la tradición" [^greig][^ford]. El novelista William Black pensaba que toda la canción era reciente, según cuenta Ford [^ford].
 
@@ -50,9 +56,13 @@ La canción está en inglés, con palabras en escocés. Bonnie significa hermoso
 
 **Estrofa 1.** Por aquellas hermosas orillas y laderas, donde el sol brilla con fuerza sobre el Loch Lomond, donde mi amor y yo solíamos ir siempre (wont to gae: acostumbrados a ir), por las orillas del Loch Lomond [^sotn][^hh4]. Lomon' es Lomond sin su último sonido, como lo escribe el libro para cantarlo [^sotn].
 
+![[3]]
+
 **Estribillo.** Tú irás por el camino alto ("the high road") y yo por el camino bajo ("the low road"), y llegaré a Escocia antes (afore) que tú. Pero mi amor y yo no volveremos a encontrarnos nunca en las orillas del Loch Lomond [^sotn][^hh4]. La letra nunca dice cuáles son los dos caminos; el camino de los muertos es la lectura posterior que contamos arriba [^ford][^tbi].
 
 **Estrofa 2.** Fue allí donde nos separamos, en aquel glen sombreado, un valle hondo, en la empinada ladera del Ben Lomond, la montaña que se alza sobre el lago. Desde allí vemos las colinas de las Tierras Altas (Hieland) teñidas de púrpura, y la luna que sale en el gloaming, el crepúsculo [^moffat][^gebbie6][^greig].
+
+![[4]]
 
 **Estrofa 3.** Los pajarillos cantan y brotan las flores silvestres, y las aguas duermen al sol. Pero un corazón roto no (nae) conoce (kens) una segunda primavera, aunque los afligidos (waefu') dejen de llorar (greetin') [^gebbie6][^hh4]. Bajo las notas, el libro pone "frae their greeting"; en la página de la letra, "from their greetin'" [^sotn].
 

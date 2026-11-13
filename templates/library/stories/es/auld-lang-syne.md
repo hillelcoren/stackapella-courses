@@ -17,10 +17,14 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: auld lang syne significado | auld lang syne traducción | quién escribió auld lang syne | auld lang syne historia | por qué se canta auld lang syne en año nuevo
-translatedFrom: ec3456c7cc61
+translatedFrom: 41a3dc3265c2
+original: The Scots Musical Museum, Internet Archive | https://archive.org/details/scotsmusicalmuv300john/page/n22
+listen: National Jukebox, grabación de 1918 | https://www.loc.gov/item/jukebox-28325/ || National Jukebox, grabación de 1908 | https://www.loc.gov/item/jukebox-422466/
 ---
 
 Auld Lang Syne, impresa también como Auld Langsyne y conocida por su primer verso, Should Auld Acquaintance Be Forgot, es una canción en escocés de Robert Burns. Su título equivale al inglés "old long since": los días de hace mucho tiempo [^hh4][^dick]. Su pregunta es si hay que olvidar a los viejos amigos, y su respuesta es beber juntos "a cup o' kindness", una copa de afecto, por aquellos días [^smm5]. Burns la envió a una amiga en 1788 como una canción antigua que admiraba, y su primera impresión conocida llegó en Edimburgo en 1796, pocos meses después de su muerte, con una melodía antigua y lenta [^gebbie3][^dick][^smm5]. La melodía que se canta en Año Nuevo en todo el mundo se unió a la letra en 1799, en la colección de aires escoceses de George Thomson [^thomson][^dick][^mccue].
+
+![[1]]
 
 ## De dónde viene
 
@@ -30,7 +34,11 @@ Auld Lang Syne, impresa también como Auld Langsyne y conocida por su primer ver
 
 **El Museum, 1796.** Burns dio también la canción a James Johnson, un grabador de Edimburgo, para The Scots Musical Museum [^dick][^smm5]. Su quinto volumen no lleva fecha; la National Library of Scotland lo fecha en 1796. Su prefacio llora al "difunto y célebre bardo escocés" e imprime una carta que escribió "pocas semanas antes de su muerte", así que apareció después de que Burns muriera el 21 de julio de 1796; Dick lo sitúa a finales de ese año, y consideraba muy probable que Burns hubiera visto la página grabada de la canción [^smm5][^rpo][^dick]. En la página 426, n.º 413, "Auld lang syne" está en Re, con la melodía antigua, y con el estribillo "For auld lang syne my jo" [^smm5][^stenhouse]. No se nombra a ningún autor; la canción va firmada con una Z, que el índice del Museum explica como "versos antiguos, con correcciones o añadidos" [^smm5][^stenhouse][^hh3].
 
+![[2]]
+
 **La melodía que cantamos.** En 1799, Thomson imprimió la canción en el segundo volumen de su Select Collection of Original Scottish Airs, n.º 68, con el encabezado "From an old MS. in the Editor's possession" (de un viejo manuscrito en poder del editor); Dick señala que el manuscrito era del propio Burns y no tenía cinco años [^thomson][^dick][^gla]. Su melodía alegre, marcada "Allegretto", la arregló el compositor bohemio Leopold Kozeluch [^thomson][^mccue]. Venía de un strathspey, The Miller's Wedding, de la colección de reels de Bremner de 1759, llamado más tarde también The Miller's Daughter [^glen][^dick][^stenhouse]. Burns ya había escrito "O can ye labour lea" con una forma de esa melodía, impresa en el Museum en 1792 [^glen][^mccue][^dick]. En noviembre de 1794 le dijo a Thomson que "la otra melodía puede oírse como una danza campestre escocesa corriente", y Dick entiende que se refiere a esta [^gebbie5][^dick].
+
+![[3]]
 
 **Las canciones más antiguas.** El primer verso ya era antiguo. El Bannatyne Manuscript, escrito en 1568, contiene un poema sobre la amistad olvidada, "Auld kyndnes foryett" [^dick][^stenhouse][^mccue]. James Watson imprimió en 1711 una canción de amor, "Old-Long-syne", que empieza "Should old Acquaintance be forgot, And never thought upon" [^watson][^dick][^hh3]. Le siguió en 1720 "Should auld acquaintance be forgot, Tho' they return with scars", de Allan Ramsay, y el primer volumen del Museum la puso con la melodía antigua en 1787 [^glen][^dick][^smm1]. Henry Playford había impreso esa melodía en Londres en 1700 como "For Old long Gine my Joe" [^glen][^dick].
 

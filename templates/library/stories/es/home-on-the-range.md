@@ -16,20 +16,29 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: home on the range significado | home on the range historia | quién escribió home on the range | home on the range letra en español | home on the range canción de kansas
-translatedFrom: 6cbe02a88f7c
+translatedFrom: c95cfe0d3acb
+original: Lomax, Cowboy Songs and Other Frontier Ballads (1910), Internet Archive | https://archive.org/details/cowboysongsother00lomauoft/page/n70/mode/1up
 ---
 
 Home on the Range, que también se canta como "Oh, Give Me a Home Where the Buffalo Roam", es la canción estadounidense de las grandes llanuras abiertas y la canción oficial del estado de Kansas [^kansapedia][^kpr][^mechem]. Su letra nació como My Western Home, un poema de Brewster Higley, un médico que en 1871 se había instalado como colono en una parcela del condado de Smith, en Kansas; la melodía se atribuye a su vecino Daniel E. Kelley [^mechem][^kansapedia][^kpr]. Los vaqueros la llevaron por las rutas del ganado, y John Lomax la imprimió como A Home on the Range en 1910, sin nombre de autor [^lomax1910][^mechem]. Veinticuatro años después, una pareja de Arizona demandó por medio millón de dólares, alegando que la canción era suya. La búsqueda que siguió llevó hasta el poema de Higley [^mechem][^kansapedia][^cooper].
+
+![[1]]
 
 ## De dónde viene
 
 **Un médico en Beaver Creek.** Brewster Higley, nacido en Ohio, había ejercido la medicina en Indiana antes de instalarse como colono en una parcela del condado de Smith, en Kansas, en 1871 [^mechem][^kansapedia][^ohs-marker]. Vivió primero en una vivienda excavada en la tierra y después en una cabaña de troncos junto a Beaver Creek [^kansapedia][^mechem]. Allí, hacia 1873, escribió un poema en alabanza de la pradera, My Western Home [^mechem][^kansapedia-higley]. El periódico local, el Smith County Pioneer, lo imprimió, pero ese número ya no se conserva. La reimpresión que hizo el propio periódico en 1914 lo fecha en 1873, como también la entrada sobre Higley de la Kansas Historical Society; su entrada sobre la canción dice principios de 1874 [^mechem][^kansapedia-higley][^kansapedia].
 
+![[2]]
+
 **La melodía.** Daniel E. Kelley, veterano de la guerra civil estadounidense, se había establecido en Gaylord, en el condado de Smith, en 1872 [^mechem][^kansapedia][^iagenweb]. Se le atribuye haber puesto música a la letra de Higley [^kansapedia][^kpr][^mechem]. Kelley tocaba en la orquesta Harlan con su mujer y los hermanos de ella, y la canción se volvió una de las favoritas en sus bailes [^kansapedia][^kpr][^mechem]. No se sabe de nadie que escribiera la melodía en papel: como dijo en 1949 Kirke Mechem, de la Kansas Historical Society, no hay motivo para pensar que Kelley lo hiciera nunca [^mechem].
 
 **En los periódicos.** El Kirwin Chief, de Kirwin, en el condado de Phillips, imprimió el poema el 21 de marzo de 1874 [^kansapedia][^kansapedia-higley][^mechem]. El 26 de febrero de 1876 volvió a publicarlo en su primera página [^kansapedia][^mechem]. El encabezado era "PLAGIARISM" (plagio): otro periódico había impreso el poema con el nombre de otra persona, y el Chief puso las cosas en su sitio, atribuyéndolo al "Dr. B. Higley, of Beaver creek, Smith county, Kansas" [^mechem]. Esa página de 1876 es la copia más antigua que Mechem pudo encontrar, con el título Western Home a secas [^mechem]. En ella, el verso que conocemos como "Where seldom is heard a discouraging word" (donde rara vez se oye una palabra desalentadora) dice "never is heard" (nunca se oye), como en la reimpresión del Pioneer de 1914 [^mechem].
 
+![[3]]
+
 **Por la ruta del ganado.** En 1908, el recopilador texano John Lomax la grabó en San Antonio a un hombre negro que regentaba allí una taberna de cerveza y que había sido cocinero en los arreos de ganado por el Chisholm Trail [^mechem][^kansapedia][^texascoop]. Henry Lebermann, un profesor de música ciego de la escuela estatal para ciegos de Austin, transcribió la melodía de la grabación de Lomax, escuchándola con auriculares [^mechem][^corcoran]. Lomax imprimió letra y melodía como A Home on the Range en Cowboy Songs and Other Frontier Ballads, publicado en noviembre de 1910, sin nombrar autor ni compositor [^lomax1910][^lomax1929].
+
+![[4]]
 
 **Un éxito de la radio y una demanda.** Luego llegaron las partituras: una edición de San Antonio en 1925 y, en 1930, un nuevo arreglo de David Guion, de Dallas [^mechem][^kansapedia]. A principios de los años treinta era una de las favoritas de la radio, y se dice que también del presidente Franklin D. Roosevelt [^mechem][^kansapedia]. Entonces, en 1934, William y Mary Goodwin, de Tempe, Arizona, demandaron por 500 000 dólares a la National Broadcasting Company y a muchas editoriales [^mechem][^ljworld]. Decían que copiaba una canción suya registrada con derechos de autor en 1905, que Mechem llama An Arizona Home y la Historical Society, My Arizona Home [^mechem][^kansapedia][^cooper].
 
