@@ -120,6 +120,10 @@ It means pull on the bowline, a rope that kept the forward edge of a square sail
 
 There is no single original: the chorus was fixed and the shantyman made up his own lines [^onceaweek][^sharp]. The earliest words we found, printed in London in 1868, are "Haul the bowline, the fore and main-top bowline, Haul the bowline, the bowline haul", with a second line about Kitty [^onceaweek]. The words we sing are John Short's, as Cecil Sharp printed them in 1914 [^sharpscan].
 
+### Is it the same song as "Haul Away the Bowline"?
+
+Yes. The Traditional Ballad Index lists "Haul Away the Bowline" as another title of this shanty, and gives the Greig-Duncan collection from Aberdeenshire's text as "Haul Away Your Bowline" [^balladindex]. Other printings call it "Haul the Bowline" or "We'll Haul the Bowline" [^onceaweek][^alden][^terry]. It is not Haul Away, Joe, a different pulling song that Alden printed beside it in 1882 [^alden].
+
 ### Which part sings the tune?
 
 The soprano sings the tune. In our arrangement the soprano is the shantyman, singing the opening call and each verse's first line alone; the alto, tenor and bass join each verse's last line and the closing chorus on the harmony of Sharp's 1914 piano part [^sharpscan].
@@ -148,7 +152,7 @@ The soprano sings the tune. In our arrangement the soprano is the shantyman, sin
 - [^wright]: Thomas Wright and James Orchard Halliwell, eds., *Reliquiae Antiquae*, vol. 1 (London: John Russell Smith, 1845), pp. 2 and 3, from Trinity College, Cambridge, MS R.3.19 (p. 2 at scan page n15); University of Toronto copy, Internet Archive item reliquiaeantiqua01wriguoft, scan. https://archive.org/details/reliquiaeantiqua01wriguoft/page/n15
 - [^furnivall]: Frederick J. Furnivall, ed., *The Stacions of Rome and The Pilgrims Sea-Voyage* (London: Early English Text Society, N. Trübner & Co., 1867), "The Pilgrims Sea-Voyage and Sea-Sickness", pp. 37 and 38, from Trinity College, Cambridge, MS R.3.19; University of Toronto, PIMS copy, Internet Archive item stacionsofromepi00furnuoft, scan. https://archive.org/details/stacionsofromepi00furnuoft
 - [^arlima]: ARLIMA, Archives de littérature du Moyen Âge, "Cambridge, Trinity College, R.3.19", citing M. R. James's catalogue of the college's manuscripts. https://arlima.net/mss/united_kingdom/cambridge/trinity_college/R_3_19.html
-- [^balladindex]: Robert B. Waltz and David G. Engle, *The Traditional Ballad Index*, "Haul on the Bowline" (California State University, Fresno), Roud 652. https://balladindex.org/Ballads/Doe009b.html
+- [^balladindex]: Robert B. Waltz and David G. Engle, *The Traditional Ballad Index*, "Haul on the Bowline" (California State University, Fresno), Roud 652, with its references and alternate titles. https://balladindex.org/Ballads/Doe009b.html
 - [^winick]: Stephen Winick, "A Deep Dive Into Sea Shanties", *Folklife Today*, American Folklife Center, Library of Congress (29 January 2021). https://blogs.loc.gov/folklife/2021/01/a-deep-dive-into-sea-shanties/
 - [^csp]: David Sutcliffe, *Cecil Sharp's People*, "Short, John" (2019), citing the Vaughan Williams Memorial Library and parish and census records. https://cecilsharpspeople.org.uk/john-short.html
 - [^halsway]: Halsway Manor, *Stories of the Hills*, "John Short: Yankee Jack". https://www.halswaymanor.org.uk/projects/stories-of-the-hills/john-short-yankee-jack/index.html

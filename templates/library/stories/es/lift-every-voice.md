@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: lift every voice and sing historia | quién escribió lift every voice and sing | lift every voice and sing significado | lift every voice and sing himno nacional negro | lift every voice and sing letra en español | lift every voice and sing escultura
-translatedFrom: 5c10ebf2d01b
+translatedFrom: 2ec268bdfae3
 original: Lift Every Voice and Sing, National Hymn for the Colored People of America (Jos. W. Stern & Co., 1900), Biblioteca del Congreso | https://www.loc.gov/item/2021561009/
 ---
 
@@ -63,7 +63,7 @@ Johnson escribió tres estrofas. Nosotros cantamos la primera.
 
 ### La letra completa
 
-Estas son las tres estrofas tal como las imprime la partitura de Stern de 1900, con su ortografía y su puntuación, en los versos del poema [^stern1900]. Debajo de cada verso va su sentido en español.
+Estas son las tres estrofas tal como las imprime la partitura de Stern de 1900, con su ortografía y su puntuación, en los versos del poema [^stern1900]. Impresas en Estados Unidos en 1900, la letra y la música son allí de dominio público. James Weldon Johnson murió en 1938 y Rosamond Johnson en 1954, así que en los países que protegen una obra hasta 70 años después de la muerte de su autor son libres desde 2025 [^stern1900][^fenner][^loc-blog]. Los arreglos posteriores, como la edición para cuarteto registrada en 1927, tienen sus propios derechos [^yale-quartet]. Debajo de cada verso va su sentido en español.
 
 **Estrofa 1**
 > Lift ev'ry voice and sing
@@ -139,7 +139,7 @@ fieles a nuestro Dios, fieles a nuestra tierra natal.
 
 ## Cómo se canta
 
-Se canta a menudo para abrir o cerrar una reunión, primero en las celebraciones del cumpleaños de Lincoln y después en actos cívicos, escolares y de iglesia [^yale-impact][^nyt1918]. En cartas que hoy están en Yale, Johnson respondía a quienes le preguntaban cómo cantarla, hasta con qué fuerza cantar cada parte [^yale-impact]. Ediciones posteriores la arreglaron para cuarteto mixto y para coro a tres voces [^yale-origin], y hoy está en los himnarios de muchas iglesias, con una métrica irregular [^hymnary].
+Se canta a menudo para abrir o cerrar una reunión, primero en las celebraciones del cumpleaños de Lincoln y después en actos cívicos, escolares y de iglesia [^yale-impact][^nyt1918]. En cartas que hoy están en Yale, Johnson respondía a quienes le preguntaban cómo cantarla, hasta con qué fuerza cantar cada parte [^yale-impact]. Ediciones posteriores la arreglaron para cuarteto mixto y para coro a tres voces [^yale-origin], y hoy está en los himnarios de muchas iglesias, con una métrica irregular [^hymnary]. Se canta como himno cristiano, y su última estrofa es una oración a Dios; según el Hymnology Archive, el primer himnario que la imprimió fue The New National Baptist Hymnal de 1977 [^fenner][^hymnary-nnbh].
 
 Nuestro arreglo se lee de las cuatro partes vocales del propio Rosamond Johnson en la partitura de Stern de 1900 [^stern1900], comprobadas con una edición posterior para "Mixed Quartette" (cuarteto mixto) que está en Yale, firmada por Rosamond Johnson [^yale-quartet]. Cantamos la primera estrofa medio tono más baja, en Sol, en 6/8, amplia y solemne, con una respiración antes de cada verso del poema, salvo "Of our new day begun", que sigue sin pausa a "Facing the rising sun". Su calderón en "us" está escrito como una nota larga y un compás de más antes de "Facing the rising sun". La melodía es la suya, cantada con una nota por sílaba (se quitan dos de sus notas ligadas). Se conservan su contralto, su tenor y su bajo, con algunas notas cambiadas para principiantes, la mayoría en las anacrusas rápidas. Donde todas sus voces cantan la melodía en octavas, en "Sing a song full of the faith" y "full of the hope", nuestra contralto, nuestro tenor y nuestro bajo sostienen bajo la melodía los acordes de su parte de órgano. Con dos cantantes se cantan la soprano y la contralto, con tres se suma el bajo, y el tenor completa los cuatro.
 
@@ -169,6 +169,10 @@ Porque los estadounidenses negros la adoptaron como su propio canto nacional. Su
 ### ¿Qué es la escultura Lift Every Voice and Sing?
 
 Es una escultura de Augusta Savage, hecha para la Exposición Universal de Nueva York de 1939 y con el nombre de la canción; también se la llama The Harp (el arpa) [^studiomuseum][^saam]. Medía 16 pies de alto (unos 5 metros), era de yeso y tenía una fila de cantantes que crecían en altura como las cuerdas de un arpa. Como no había dinero para fundirla, se destruyó al cerrar la exposición [^saam][^studiomuseum].
+
+### ¿Por qué se canta Lift Every Voice and Sing en los partidos de la NFL?
+
+La NFL la adoptó en 2020, tras la muerte de George Floyd y las protestas de aquel verano contra la injusticia racial, para que sonara o se cantara antes de cada partido de la primera semana de la temporada [^npr2020][^fox2026]. En el partido inaugural, el 10 de septiembre de 2020, sonó antes del himno nacional [^ksat2020]. Antes de la Super Bowl de 2021 se proyectó una interpretación grabada, y en los años siguientes distintos cantantes la han interpretado antes del partido [^cbs2025]. Cada año, algunos aficionados critican en las redes sociales que la liga la use [^fox2026].
 
 ### ¿Qué voz canta la melodía?
 
@@ -205,3 +209,7 @@ La soprano canta la melodía de principio a fin, desde "Lift ev'ry voice and sin
 - [^hymnary-nnbh]: Hymnary.org, *The New National Baptist Hymnal* (1977), n.º 477, "Lift Every Voice And Sing (National Negro Hymn)". https://hymnary.org/hymn/NNBH1977/477
 - [^studiomuseum]: The Studio Museum in Harlem, "Augusta Savage". https://studiomuseum.org/artists/augusta-savage
 - [^saam]: Smithsonian American Art Museum, "Augusta Savage". https://americanart.si.edu/artist/augusta-savage-4269
+- [^npr2020]: NPR, "The NFL Will Play 'Lift Every Voice And Sing' Before Each Season-Opener Game", 2 de julio de 2020, reproducido por GBH News. https://www.wgbh.org/news/national/2020-07-02/the-nfl-will-play-lift-every-voice-and-sing-before-each-season-opener-game
+- [^ksat2020]: KSAT (San Antonio), "Texans remain in locker room during anthem, observe moment of unity with Chiefs", 10 de septiembre de 2020. https://www.ksat.com/sports/2020/09/11/texans-remain-in-locker-room-during-anthem-observe-moment-of-unity-with-chiefs
+- [^cbs2025]: CBS Sports, "2025 Super Bowl: Watch 'Lift Every Voice and Sing' performance ahead of Chiefs-Eagles in New Orleans", 9 de febrero de 2025. https://www.cbssports.com/nfl/news/2025-super-bowl-watch-lift-every-voice-and-sing-performance-ahead-of-chiefs-eagles-in-new-orleans
+- [^fox2026]: Fox News, "Black national anthem stokes social media outrage before Super Bowl LX", 8 de febrero de 2026. https://www.foxnews.com/sports/black-national-anthem-stokes-social-media-outrage-before-super-bowl-lx

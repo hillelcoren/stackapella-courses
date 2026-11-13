@@ -132,6 +132,10 @@ In two stages. Robert Chambers guessed the old verses dated from around 1700, in
 
 It means "the hill slopes of Maxwelton are lovely". In Scots a brae is the brow of a hill [^dsl-brae] and "bonnie" means beautiful or pretty [^dsl-bonny]. Maxwelton, the Laurie family's house on the Cairn Water in Dumfriesshire, was the real Annie Laurie's home [^chambers1862][^hes][^ross1910].
 
+### Is Annie Laurie a Scottish folk song, and who sang it?
+
+It is Scottish, but a composed song rather than a folk song: the two old verses printed in 1823 are said to be Douglas of Fingland's, and the song as sung, words reworked, third verse and tune, is Lady John Scott's of 1834 or 1835 [^sharpe][^warrender1911][^ross1910]. By the 1850s American sheet music carried Jenny Lind's portrait or "As sung by Catherine Hayes" [^hall][^peters]. The two early recordings linked here are the contralto Elsie Baker's (Victor, 1912) and the Columbia Stellar Quartette's (1914) [^dahr1912][^dahr1914].
+
 ### Which part sings the tune?
 
 The soprano sings Lady John Scott's tune, as the Hall printing gives it [^hall]. The alto starts with it on middle C and then sings mostly a third or a sixth below it. With two singers you have the tune and the alto; with three, add the bass, and the tenor makes four.
@@ -144,6 +148,8 @@ The soprano sings Lady John Scott's tune, as the Hall printing gives it [^hall].
 
 ## Sources
 
+- [^dahr1912]: Discography of American Historical Recordings (UC Santa Barbara Library), Victor matrix B-11571, "Annie Laurie", Elsie Baker (vocalist: contralto), recorded 6 February 1912, Camden, New Jersey, Victor 16388. https://adp.library.ucsb.edu/index.php/matrix/detail/200011728/B-11571-Annie_Laurie
+- [^dahr1914]: Discography of American Historical Recordings (UC Santa Barbara Library), Columbia matrix 39187, "Annie Laurie", Columbia Stellar Quartette (male vocal quartet), recorded 15 January 1914, New York, Columbia A1491. https://adp.library.ucsb.edu/index.php/matrix/detail/2000021982/39187-Annie_Laurie
 - [^hall]: *Annie Laurie* (New York: William Hall & Son, 239 Broadway, [catalogued 1848 from the publisher's address, used from 1848 to 1858; the Jenny Lind cover points to 1850 or later]), plate 793, pp. 2 to 5, for voice and piano, unsigned; cover a lithograph portrait of Jenny Lind listing it as No. 7; Washington University in St. Louis, Gaylord Music Library, facsimile, images n0 to n4 (page 5 at n3). https://archive.org/details/b10258073/page/n1
 - [^peters]: *Annie Laurie*, "As sung by Catherine Hayes" (Cincinnati: W. C. Peters & Sons; St. Louis: Balmer & Weber, [about 1853]), plate 1484, cover, image n0, and p. 3, image n2; Washington University in St. Louis, Gaylord Music Library, facsimile. https://archive.org/details/b10258115/page/n2
 - [^dun1877]: *Annie Laurie: Scotch Ballad*, arranged by Finlay Dun (St. Louis: Balmer & Weber, 1877), plate 692, p. 3; Washington University in St. Louis, Gaylord Music Library, facsimile, image n1. https://archive.org/details/b10013751/page/n1

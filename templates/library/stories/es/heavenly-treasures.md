@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: i am filled with heavenly treasures | heavenly treasures canción shaker | qué son las canciones shaker | canciones de don shakers | haceos tesoros en el cielo significado
-translatedFrom: 3192010535b4
+translatedFrom: 97e75d7f7881
 original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
@@ -105,6 +105,14 @@ Una canción de don es una canción que, según creían los shakers, el mundo es
 
 Es la enseñanza de Jesús en el Evangelio de Mateo: guardar junto a Dios lo que dura, en lugar de riquezas en la tierra, "where moth and rust doth corrupt" (donde la polilla y el orín corrompe), en Mateo 6:19 a 21 [^kjv-bg][^kjv-pg]. Andrews encontró muchas canciones de don que prometían a los fieles una recompensa en el cielo [^andrews]. Esta canción canta que el tesoro ya se tiene: "I am fill'd with heavenly treasures" [^hazzard].
 
+### ¿Cuáles son las canciones shakers más conocidas?
+
+Simple Gifts, por encima de todas. Aaron Copland construyó sobre su melodía el clímax de su ballet Appalachian Spring, estrenado en 1944, y el ballet la dio a conocer en todo Estados Unidos [^locblog][^boriskin]. Para buscar listas de canciones shakers, el himnario shaker impreso más antiguo es Millennial Praises, de Hancock, Massachusetts, de 1812 y 1813: 140 himnos [^andrews][^hymnary-mp]. The Gift to Be Simple (1940), de Edward D. Andrews, imprime muchas canciones de don con sus melodías, entre ellas canciones del libro de Mary Hazzard [^andrews].
+
+### ¿Quién fue Ann Lee y cómo empezó la música shaker?
+
+Ann Lee, llamada Madre Ann, nació en Mánchester, Inglaterra, hija de un herrero, y llegó a dirigir el pequeño grupo de los "shaking Quakers" (cuáqueros que se agitan) [^andrews][^nps-annlee]. En 1774 llevó a unos pocos seguidores a América, y murió cerca de Albany, Nueva York, en 1784 [^andrews][^nps-annlee][^shakermuseum]. Desde el principio los shakers celebraron su culto con danzas y cantos, a veces en "lenguas desconocidas" [^andrews]. Su himnario impreso más antiguo llegó en 1812 y 1813, y la oleada de canciones de don, entre ellas esta, llegó con el avivamiento que empezó en 1837 [^andrews][^hymnary-mp][^devinne].
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía, incluidas todas las series sin letra. Dos cantantes hacen la soprano y la contralto; tres añaden el bajo; el tenor completa las cuatro voces. La contralto y el tenor cantan la letra con la melodía y "oo" bajo sus series, y el bajo canta "oo". La página de Hazzard tiene solo la melodía, así que la armonía es nuestra [^hazzard].
@@ -121,7 +129,7 @@ La soprano canta la melodía, incluidas todas las series sin letra. Dos cantante
 - [^hazzardbook]: Winterthur Library, ASC 893, el mismo libro, portada (imagen 5) y páginas del manuscrito 15 (imagen 35), 21 (imagen 41), 24 "Baskets of Treasures" (imagen 44), 35 "Mother's Blessing" (imagen 55), 43 a 44 (imágenes 63 a 64), 101 (imagen 121) y 147 (imagen 167). Courtesy Winterthur Museum, Garden & Library. https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 - [^wintcat]: Winterthur Library, ficha de catálogo de ASC 893, "A collection of extra songs of various kinds, written and pricked for the purpose of retaining them by Mary Hazard; beginning February 7th, 1847, 1847-1856". https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 - [^wintcoll]: Winterthur Library, Shaker hymnals collection (ASC-Hymnals), 1808 a 1935, ficha de la colección: nota de alcance y adquisición. https://winterthur.libraryhost.com/repositories/2/resources/7
-- [^andrews]: Edward D. Andrews, *The Gift to Be Simple: Songs, Dances and Rituals of the American Shakers* (Nueva York: J. J. Augustin, 1940), pp. 21 a 25, 29 a 30, 32 a 33 con la nota 59, 64, 67, 73 a 74, 76 y 97; facsímil. https://archive.org/details/gifttobesimpleso027839mbp
+- [^andrews]: Edward D. Andrews, *The Gift to Be Simple: Songs, Dances and Rituals of the American Shakers* (Nueva York: J. J. Augustin, 1940), pp. 3 a 4, 12 a 13, 21 a 25, 29 a 30, 32 a 33 con la nota 59, 64, 67, 73 a 74, 76 y 97; facsímil. https://archive.org/details/gifttobesimpleso027839mbp
 - [^devinne]: Christine De Vinne, "The Culture of Shaker Placenames: Sacred Geography and Communal Biography", *Names*, vol. 51, n.º 3 y 4 (septiembre y diciembre de 2003), pp. 215 a 239: la tabla de la p. 219, y pp. 220 y 226. https://ans-names.pitt.edu/ans/article/download/1695/1694/3392
 - [^runnels]: M. T. Runnels, *History of Sanbornton, New Hampshire*, vol. 2, Genealogies (Boston: Alfred Mudge & Son, 1881), la familia Perkins, n.º 16, Abraham, p. 550; facsímil. https://archive.org/details/historyofsanborn02runn
 - [^enfield]: Enfield Shaker Museum, "Elder Abraham Perkins", Enfield Shaker portraits, de Mary Ann Haagen. https://shakermuseum.org/learn/shaker-studies/enfield-shaker-portraits/elder-abraham-perkins/
@@ -132,3 +140,7 @@ La soprano canta la melodía, incluidas todas las series sin letra. Dos cantante
 - [^kjv-pg]: *The King James Version of the Bible*, Project Gutenberg, eBook n.º 10, Mateo 6:19 a 21. https://www.gutenberg.org/ebooks/10
 - [^nwr]: New World Records, *I Am Filled with Heavenly Treasures*, CD 80617 (2004), notas del folleto, pista 23. https://nwr-site-liner-notes.s3.amazonaws.com/80617.pdf
 - [^ecu]: East Carolina University Libraries, ficha de catálogo de *I am filled with heavenly treasures* (Recorded Anthology of American Music, 2004), grabado del 12 al 14 de junio de 2003 en Hanover, Nuevo Hampshire. https://librarycatalog.ecu.edu/catalog/976147
+- [^hymnary-mp]: Hymnary.org, *Millennial Praises: containing a collection of gospel hymns, in four parts; adapted to the day of Christ's second appearing*, ed. Seth Young Wells (Hancock, Mass.: Josiah Tallcott, 1813), shakers. https://hymnary.org/hymnal/MPPI1812
+- [^nps-annlee]: National Park Service, "Ann Lee". https://www.nps.gov/people/ann-lee.htm
+- [^locblog]: Raymond White, "Documenting Dance: The Making of 'Appalachian Spring'", Library of Congress Blog (9 de octubre de 2014). https://blogs.loc.gov/loc/2014/10/documenting-dance-the-making-of-appalachian-spring/
+- [^boriskin]: Michael Boriskin, "'Copland Conducts Copland: Appalachian Spring', Aaron Copland (1974)", ensayo para el National Recording Registry, Library of Congress (añadido en 2013). https://www.loc.gov/static/programs/national-recording-preservation-board/documents/CoplandAppalachianSpring.pdf

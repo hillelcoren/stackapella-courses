@@ -130,6 +130,10 @@ No early printing names anyone, and Burns's note on his manuscript, as Stenhouse
 
 A song first: its earliest printings, Urbani's in 1794, the Museum's in 1796 and Thomson's in 1799, all give it with music, and Burns sent it to Johnson with a note naming its tune [^urbani][^smm1796][^dick][^stenhouse]. It is read as a poem too; the critic William Hazlitt praised it among Burns's love songs [^graham][^gebbie4].
 
+### What figure of speech is "my love is like a red, red rose"?
+
+A simile: a comparison made with "like". The singer's love is like a rose newly opened in June, and like a tune sweetly played [^smm1796][^smith]. The promises that follow are hyperbole, deliberate exaggeration: to love "'till a' the seas gang dry" and "the rocks melt wi' the sun", and to come back though it were "ten thousand mile" [^smm1796][^smith].
+
 ### Which part sings the tune?
 
 The soprano sings the tune, Smith's Low down in the Broom [^smith]. With two singers you have the tune and the alto; with three, add the bass, which mostly sings the roots of the chords; the tenor makes four.

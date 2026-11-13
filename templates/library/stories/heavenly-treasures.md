@@ -100,6 +100,14 @@ A gift song is a song the Shakers believed was given from the spirit world to a 
 
 It is Jesus's teaching in Matthew's Gospel: store up what lasts with God rather than riches on earth, "where moth and rust doth corrupt" (Matthew 6:19 to 21) [^kjv-bg][^kjv-pg]. Andrews found many gift songs that promised the faithful a reward in heaven [^andrews]. This song sings of having the treasure already: "I am fill'd with heavenly treasures" [^hazzard].
 
+### What are the best-known Shaker songs?
+
+Simple Gifts, above all. Aaron Copland built the climax of his ballet Appalachian Spring, first danced in 1944, on its tune, and the ballet made it known nationwide [^locblog][^boriskin]. For lists of Shaker songs, the earliest printed Shaker hymnal is Millennial Praises, from Hancock, Massachusetts, in 1812 and 1813: 140 hymns [^andrews][^hymnary-mp]. Edward D. Andrews's The Gift to Be Simple (1940) prints many gift songs with their tunes, among them songs from Mary Hazzard's book [^andrews].
+
+### Who was Ann Lee, and how did Shaker music begin?
+
+Ann Lee, called Mother Ann, was born in Manchester, England, a blacksmith's daughter, and became the leader of the small group called the "shaking Quakers" [^andrews][^nps-annlee]. In 1774 she brought a few followers to America, and she died near Albany, New York, in 1784 [^andrews][^nps-annlee][^shakermuseum]. From the start the Shakers worshipped with dancing and singing, at times in "unknown tongues" [^andrews]. Their earliest printed hymnal came in 1812 and 1813, and the flood of gift songs, this one among them, came in the revival that began in 1837 [^andrews][^hymnary-mp][^devinne].
+
 ### Which part sings the tune?
 
 The soprano sings the tune, including all the runs without words. Two singers take the soprano and alto; three add the bass; the tenor makes four. The alto and tenor sing the words with the tune and "oo" under its runs, and the bass sings "oo". Hazzard's page has the tune alone, so the harmony is ours [^hazzard].
@@ -116,7 +124,7 @@ The soprano sings the tune, including all the runs without words. Two singers ta
 - [^hazzardbook]: Winterthur Library, ASC 893, the same book, title page (page image 5) and manuscript pages 15 (image 35), 21 (image 41), 24 "Baskets of Treasures" (image 44), 35 "Mother's Blessing" (image 55), 43 to 44 (images 63 to 64), 101 (image 121) and 147 (image 167). Courtesy Winterthur Museum, Garden & Library. https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 - [^wintcat]: Winterthur Library, catalogue record for ASC 893, "A collection of extra songs of various kinds, written and pricked for the purpose of retaining them by Mary Hazard; beginning February 7th, 1847, 1847-1856". https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 - [^wintcoll]: Winterthur Library, Shaker hymnals collection (ASC-Hymnals), 1808 to 1935, collection record: scope note and acquisition. https://winterthur.libraryhost.com/repositories/2/resources/7
-- [^andrews]: Edward D. Andrews, *The Gift to Be Simple: Songs, Dances and Rituals of the American Shakers* (New York: J. J. Augustin, 1940), pp. 21 to 25, 29 to 30, 32 to 33 with note 59, 64, 67, 73 to 74, 76 and 97; facsimile. https://archive.org/details/gifttobesimpleso027839mbp
+- [^andrews]: Edward D. Andrews, *The Gift to Be Simple: Songs, Dances and Rituals of the American Shakers* (New York: J. J. Augustin, 1940), pp. 3 to 4, 12 to 13, 21 to 25, 29 to 30, 32 to 33 with note 59, 64, 67, 73 to 74, 76 and 97; facsimile. https://archive.org/details/gifttobesimpleso027839mbp
 - [^devinne]: Christine De Vinne, "The Culture of Shaker Placenames: Sacred Geography and Communal Biography", *Names*, vol. 51, nos. 3 and 4 (September and December 2003), pp. 215 to 239: the table on p. 219, and pp. 220 and 226. https://ans-names.pitt.edu/ans/article/download/1695/1694/3392
 - [^runnels]: M. T. Runnels, *History of Sanbornton, New Hampshire*, vol. 2, Genealogies (Boston: Alfred Mudge & Son, 1881), the Perkins family, No. 16, Abraham, p. 550; facsimile. https://archive.org/details/historyofsanborn02runn
 - [^enfield]: Enfield Shaker Museum, "Elder Abraham Perkins", Enfield Shaker portraits, by Mary Ann Haagen. https://shakermuseum.org/learn/shaker-studies/enfield-shaker-portraits/elder-abraham-perkins/
@@ -127,3 +135,7 @@ The soprano sings the tune, including all the runs without words. Two singers ta
 - [^kjv-pg]: *The King James Version of the Bible*, Project Gutenberg eBook No. 10, Matthew 6:19 to 21. https://www.gutenberg.org/ebooks/10
 - [^nwr]: New World Records, *I Am Filled with Heavenly Treasures*, CD 80617 (2004), booklet notes, track 23. https://nwr-site-liner-notes.s3.amazonaws.com/80617.pdf
 - [^ecu]: East Carolina University Libraries, catalogue record for *I am filled with heavenly treasures* (Recorded Anthology of American Music, 2004), recorded June 12 to 14, 2003, Hanover, New Hampshire. https://librarycatalog.ecu.edu/catalog/976147
+- [^hymnary-mp]: Hymnary.org, *Millennial Praises: containing a collection of gospel hymns, in four parts; adapted to the day of Christ's second appearing*, ed. Seth Young Wells (Hancock, Mass.: Josiah Tallcott, 1813), Shakers. https://hymnary.org/hymnal/MPPI1812
+- [^nps-annlee]: National Park Service, "Ann Lee". https://www.nps.gov/people/ann-lee.htm
+- [^locblog]: Raymond White, "Documenting Dance: The Making of 'Appalachian Spring'", Library of Congress Blog (9 October 2014). https://blogs.loc.gov/loc/2014/10/documenting-dance-the-making-of-appalachian-spring/
+- [^boriskin]: Michael Boriskin, "'Copland Conducts Copland: Appalachian Spring', Aaron Copland (1974)", essay for the National Recording Registry, Library of Congress (added 2013). https://www.loc.gov/static/programs/national-recording-preservation-board/documents/CoplandAppalachianSpring.pdf

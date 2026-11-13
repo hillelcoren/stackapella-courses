@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: jerusalem himno | jerusalem himno significado | quién compuso la música de jerusalem | dark satanic mills significado | es jerusalem el himno nacional de inglaterra | jerusalem william blake poema completo
-translatedFrom: ebf372f7da1a
+translatedFrom: fea07eb61f20
 original: The Old Country (1917), Internet Archive | https://archive.org/details/oldcountrybookof0000erne
 ---
 
@@ -142,6 +142,10 @@ No. Jerusalem nunca se ha convertido en himno oficial, y las peticiones de mucho
 ### ¿Es el himno el poema completo Jerusalem de William Blake?
 
 No. El himno pone música a las cuatro estrofas del prefacio de Milton: a Poem, de Blake, que no llevan título propio [^milton-ws][^princeton]. El largo poema de Blake Jerusalem: The Emanation of the Giant Albion es otro libro, que el Yale Center for British Art fecha entre 1804 y 1820 [^ycba].
+
+### ¿Es Jerusalem un himno? ¿Habla de la ciudad de Israel?
+
+Se canta como himno, aunque nació como poema. William Blake escribió los versos en el prefacio de su Milton, fechado en 1804 en la portada [^milton-asu]; Hubert Parry les puso música en marzo de 1916 [^graves][^dibble]; y los himnarios lo imprimen desde Songs of Praise, en 1925 [^sop1925][^ucc1930]. Su Jerusalén no es la ciudad de Israel, sino la ciudad santa como imagen de una vida justa y piadosa, como la nueva Jerusalén del Apocalipsis, que quien canta promete construir "in England's green and pleasant land" (en la verde y amable tierra de Inglaterra) [^milton-asu][^kjv].
 
 ### ¿Qué voz canta la melodía?
 

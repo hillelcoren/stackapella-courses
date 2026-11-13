@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: now is the month of maying significado | now is the month of maying historia | quién escribió now is the month of maying | now is the month of maying letra en español | now is the month of maying thomas morley | now is the month of maying traducción
-translatedFrom: ed9a0a1e6a78
+translatedFrom: 56ee01fd4357
 original: The First Booke of Balletts to Five Voyces de Thomas Morley (Londres: Thomas Este, 1595), microfilm de Early English Books, Internet Archive | https://archive.org/details/bim_early-english-books-1475-1640_the-first-booke-of-balle_morley-thomas-este_1595
 ---
 
@@ -127,6 +127,10 @@ Es una invitación a celebrar mayo. Es el mes del "Maying", cuando los jóvenes 
 ### ¿Quién escribió Now Is the Month of Maying?
 
 Thomas Morley compuso la música y la imprimió en Londres en 1595 [^morley1595][^fellowes1921]. Nadie sabe quién escribió la letra inglesa: el libro no nombra a ningún poeta, y se ha propuesto el nombre de Michael Drayton, aunque Fellowes no dio ninguna prueba de ello [^morley1595][^fellowes1920]. La edición italiana de Morley pone la misma música a los primeros versos de una canción de Orazio Vecchi, impresa en Venecia en 1590 [^morley1595it][^chilesotti].
+
+### ¿Now Is the Month of Maying es un madrigal?
+
+En sentido amplio, sí. Morley la llamó ballett: entre los géneros de música ligera tenía el madrigal por el mejor, y el ballett por "otro género más ligero", hecho para bailar, con sus estribillos de "fa la" [^morley1597][^olemiss]. Pero los balletts se han impreso y cantado siempre entre los madrigales ingleses, y Fellowes llamó a la colección de Morley el libro de madrigales inglés más conocido [^fellowes1921]. Es polifónica: cinco voces, cada una en su propio libro de parte y con una línea propia [^morley1595].
 
 ### ¿Now Is the Month of Maying es para SATB?
 

@@ -61,7 +61,7 @@ Weatherly wrote two verses. Our arrangement sings the first.[^conncoll]
 
 **Verse 2 (not sung).** The singer thinks ahead to dying before Danny comes home. If so, Danny will find the grave, kneel there and say an Ave, the Hail Mary prayer. The singer will hear him even through the ground, the grave will feel warmer for his love, and the singer will sleep in peace until Danny comes too.[^conncoll]
 
-The song never says who is singing, or what the pipes are calling Danny to. It can be a mother, a father or a sweetheart. Some printings tell a man who sings it to use other words, printed in italics, and the song becomes Eily Dear.[^cf][^uwm] In the war years it fitted soldiers and the people waiting for them at home; Irish Americans heard their own emigrants' partings in it.[^dillane][^odowd]
+Who is Danny? No one known: no account we have read ties him to a real person, and the song never says who is singing, or what the pipes are calling Danny to.[^dillane][^ballad] It can be a mother, a father or a sweetheart. Some printings tell a man who sings it to use other words, printed in italics, and the song becomes Eily Dear.[^cf][^uwm] Nor was it written as a war song: Weatherly wrote the words in 1910, and the song was published in 1913, before the First World War.[^dillane][^imslp] In the war years it fitted soldiers and the people waiting for them at home; Irish Americans heard their own emigrants' partings in it.[^dillane][^odowd]
 
 ### The full words
 

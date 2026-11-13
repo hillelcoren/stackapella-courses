@@ -315,9 +315,9 @@ Yes: fifteen six-line verses in Catalan, in print since at least 1874 [^briz1874
 
 No one knows. The words were printed in 1874 and the tune by 1903, both with no author named [^briz1874][^capmany1903]. Lluís Millet harmonised it for men's voices before 1912 and Pau Casals arranged it for cello [^millet1912][^paucasals-bio]. Its words were in print two years before Casals was born [^briz1874][^loc-casals].
 
-### Why did Pau Casals play El cant dels ocells at the United Nations?
+### Why did Pau Casals play El cant dels ocells at the United Nations and the White House?
 
-He played it on 24 October 1971, at 94, the day he received the United Nations Peace Medal, as a song of hope and peace, the Fundació Pau Casals says, after speaking about Catalonia [^paucasals-un][^un-av][^enccat-casals]. In exile since 1939, he had played it at the start of his concerts, the Enciclopèdia Catalana says, and it had come to be seen as a national symbol for Catalans [^enccat-casals][^enccat-ocells][^paucasals-bio].
+In exile from 1939 he opened his concerts with it, the Enciclopèdia Catalana says, and it came to stand for Catalonia [^enccat-casals][^enccat-ocells]. From 1946 he would not play in countries tolerating Franco's regime, the United States among them [^paucasals-bio][^nara2013], but on 13 November 1961 he played at the White House dinner the Kennedys gave for Puerto Rico's governor, ending with this song [^stategov][^nara2013][^musicweb]. On 24 October 1971 he played it at the United Nations on receiving its Peace Medal, as a song of hope and peace, his foundation says [^paucasals-un][^un-av].
 
 ### Which part sings the tune?
 
@@ -349,6 +349,7 @@ The soprano, alone and with all the words, as the solo voice does in Millet's 19
 - [^paucasals-un]: Fundació Pau Casals, "Pablo Casals and the United Nations", section "Hymn to the United Nations". https://paucasals.org/en/pablo-casals-and-the-united-nations
 - [^un-av]: United Nations Audiovisual Library, "UN Day Concert 1971", 24 October 1971, General Assembly Hall, New York: programme listing the UN Peace Medal presentation and "Song of the Birds, Traditional, performed by Pablo Casals, cello". https://media.un.org/avlibrary/en/asset/d236/d2362972
 - [^stategov]: U.S. Department of State, *Dinner Is Served*, "Pablo Casals", with photographs from the John F. Kennedy Presidential Library. https://stories.state.gov/dinner-is-served/dance/pablo-casals
+- [^nara2013]: National Archives (US), *Pieces of History* blog, "A night of music in honor of President and Mrs. Kennedy" (29 November 2013). https://prologue.blogs.archives.gov/2013/11/29/a-night-of-music-in-honor-of-president-and-mrs-kennedy
 - [^musicweb]: Jonathan Woolf, MusicWeb International, review of *Pablo Casals: A Concert at the White House* (Minuet 428408), September 2015. https://musicweb-international.com/classrev/2015/Sep/Casals_White_House_428408.htm
 - [^datebook]: Composers Datebook, "Casals and Copland at the White House" (YourClassical, American Public Media, 13 November 2022). https://www.yourclassical.org/episode/2022/11/13/casals-and-copland-at-the-white-house
 - [^genesis]: The Bible, Genesis 1:16, in the Latin Vulgate and the King James Version. https://www.biblegateway.com/passage/?search=Genesis%201%3A16&version=VULGATE;KJV

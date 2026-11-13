@@ -116,6 +116,10 @@ Our arrangement is read from Sharp's page, in G as printed, on the harmony of hi
 
 ## Questions
 
+### What is Bully in the Alley about?
+
+Not much, by design: it is a hauling shanty, and its words were mostly pegs for the pulls [^sharp]. In Sharp's 1914 version the shantyman swears he is "bully", doing fine, in his alley, and asks after his girl, Sally [^sharp][^hotten]. In Hugill's longer version he courts Sally in Shinbone Alley and is turned down by her or leaves her [^balladindex]. The tale of a drunk sailor left in the alley comes from modern sleeve notes, not the early record [^mainlynorfolk].
+
 ### What does "bully in the alley" mean?
 
 No one knows for sure. Slang dictionaries from 1874 to 1913 give "bully" as fine or first-rate, and as a sailors' word for a mate, so the singer may be boasting that he is doing fine in his alley [^hotten][^farmer1912][^webster]. Modern sleeve notes often say it means drunk, but we found no early evidence for that, and Sharp's 1914 words have no drink in them [^mainlynorfolk][^sharp].

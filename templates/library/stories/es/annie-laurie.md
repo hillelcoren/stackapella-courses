@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió annie laurie | quién era annie laurie | annie laurie significado | annie laurie historia | annie laurie letra traducción | maxwelton braes are bonnie significado
-translatedFrom: 095b51ceac61
+translatedFrom: 7ca57b45d3b6
 original: Annie Laurie (Nueva York: William Hall & Son, hacia 1850), Internet Archive | https://archive.org/details/b10258073
 listen: National Jukebox, grabación de 1912 | https://archive.org/details/loc-jukebox-131511-annie-laurie || National Jukebox, grabación de 1914 | https://archive.org/details/loc-jukebox-649596-annie-laurie
 ---
@@ -157,6 +157,10 @@ En dos etapas. Robert Chambers suponía que las estrofas antiguas eran de hacia 
 
 Significa "las laderas de Maxwelton son hermosas". En escocés, una brae es la cuesta de una colina [^dsl-brae], y "bonnie" significa hermosa o bonita [^dsl-bonny]. Maxwelton, la casa de la familia Laurie junto al Cairn Water, en Dumfriesshire, era el hogar de la verdadera Annie Laurie [^chambers1862][^hes][^ross1910].
 
+### ¿Es Annie Laurie una canción popular escocesa, y quién la cantó?
+
+Es escocesa, pero es una canción de autor más que una canción popular: las dos estrofas antiguas impresas en 1823 se atribuyen a Douglas de Fingland, y la canción tal como se canta, con la letra rehecha, la tercera estrofa y la melodía, es de Lady John Scott, de 1834 o 1835 [^sharpe][^warrender1911][^ross1910]. En la década de 1850 las partituras estadounidenses llevaban el retrato de Jenny Lind o "As sung by Catherine Hayes" (tal como la cantaba Catherine Hayes) [^hall][^peters]. Las dos grabaciones antiguas enlazadas aquí son de la contralto Elsie Baker (Victor, 1912) y del Columbia Stellar Quartette (1914) [^dahr1912][^dahr1914].
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía de Lady John Scott, tal como la da la impresión de Hall [^hall]. La contralto empieza con ella en el Do central y luego canta sobre todo una tercera o una sexta por debajo. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo, y el tenor completa las cuatro.
@@ -169,6 +173,8 @@ La soprano canta la melodía de Lady John Scott, tal como la da la impresión de
 
 ## Fuentes
 
+- [^dahr1912]: Discography of American Historical Recordings (UC Santa Barbara Library), Victor matrix B-11571, "Annie Laurie", Elsie Baker (vocalist: contralto), grabada el 6 de febrero de 1912, Camden, Nueva Jersey, Victor 16388. https://adp.library.ucsb.edu/index.php/matrix/detail/200011728/B-11571-Annie_Laurie
+- [^dahr1914]: Discography of American Historical Recordings (UC Santa Barbara Library), Columbia matrix 39187, "Annie Laurie", Columbia Stellar Quartette (cuarteto vocal masculino), grabada el 15 de enero de 1914, Nueva York, Columbia A1491. https://adp.library.ucsb.edu/index.php/matrix/detail/2000021982/39187-Annie_Laurie
 - [^hall]: *Annie Laurie* (Nueva York: William Hall & Son, 239 Broadway, [catalogada en 1848 por la dirección del editor, usada de 1848 a 1858; la portada de Jenny Lind apunta a 1850 o después]), plancha 793, pp. 2 a 5, para voz y piano, sin firma; portada con un retrato litografiado de Jenny Lind que la incluye como n.º 7; Washington University in St. Louis, Gaylord Music Library, facsímil, imágenes n0 a n4 (la página 5 en n3). https://archive.org/details/b10258073/page/n1
 - [^peters]: *Annie Laurie*, "As sung by Catherine Hayes" (Cincinnati: W. C. Peters & Sons; St. Louis: Balmer & Weber, [hacia 1853]), plancha 1484, portada, imagen n0, y p. 3, imagen n2; Washington University in St. Louis, Gaylord Music Library, facsímil. https://archive.org/details/b10258115/page/n2
 - [^dun1877]: *Annie Laurie: Scotch Ballad*, arreglo de Finlay Dun (St. Louis: Balmer & Weber, 1877), plancha 692, p. 3; Washington University in St. Louis, Gaylord Music Library, facsímil, imagen n1. https://archive.org/details/b10013751/page/n1

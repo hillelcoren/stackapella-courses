@@ -1,9 +1,9 @@
 ---
 title: The Skye Boat Song: historia, significado y la letra explicada
-description: La letra de Harold Boulton (década de 1880), con una melodía a medias de barqueros de las Hébridas, cuenta la huida a Skye del príncipe Carlos en junio de 1746.
-lead: Una canción victoriana sobre una huida real, la travesía de Carlos Eduardo Estuardo a Skye con Flora MacDonald en 1746. Harold Boulton escribió la letra; la mitad de la melodía vino de barqueros de las Hébridas.
+description: La letra de Boulton (década de 1880), con una melodía que su libro da a medias a barqueros de las Hébridas, cuenta la huida del príncipe Carlos a Skye en 1746.
+lead: Una canción victoriana sobre una huida real, la travesía de Carlos Eduardo Estuardo a Skye con Flora MacDonald en 1746. Harold Boulton escribió la letra; la mitad de la melodía, según su libro, vino de barqueros de las Hébridas.
 words: Harold Boulton (1859 a 1935)
-tune: cuatro compases de barqueros de las Hébridas y cuatro añadidos por Anne Campbell Macleod (murió en 1921)
+tune: cuatro compases que se dicen de barqueros de las Hébridas (Songs of the North) y cuatro añadidos por Anne Campbell Macleod (murió en 1921)
 earliestPrinting: Songs of the North, vol. I (Londres, Field and Tuer), sin fecha; reseñada en julio de 1885, citada a partir de ella en 1888
 earliestPrintingSource: smith1888
 language: inglés
@@ -15,7 +15,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: skye boat song significado | skye boat song letra original | quién escribió skye boat song | skye boat song historia | skye boat song letra en gaélico | skye boat song traducción
-translatedFrom: 0e81b11e32c4
+translatedFrom: 32fc131eac20
 original: Songs of the North, vol. I (reimpresión de Cramer), Internet Archive | https://archive.org/details/31761034118778
 ---
 
@@ -124,6 +124,7 @@ Nuestro arreglo toma la melodía, la letra y la armonía de Songs of the North, 
 ## ¿Sabías que...?
 
 - El relato de la propia Flora MacDonald da la vuelta a la segunda estrofa de la canción: en la travesía ella durmió, y el príncipe cantó canciones para entretener a los demás y veló por ella, para que nadie la pisara en la oscuridad. [^lyon][^balladindex]
+- El 19 de septiembre de 2022, día del funeral de la reina Isabel II, las gaitas y tambores de los regimientos escoceses e irlandeses la tocaron cuando su féretro se acercaba al castillo de Windsor, después del oficio en la abadía de Westminster. Las crónicas no dan el motivo de la elección. [^classicfm2022][^sdx2022]
 
 ## Cómo cantarla
 
@@ -145,6 +146,10 @@ La letra original es la de Boulton: un estribillo y cuatro estrofas, sobre la to
 ### ¿Tiene The Skye Boat Song letra en gaélico?
 
 Sí, pero traduce el inglés de Boulton; no es la canción de los barqueros. Smith señaló en 1888 que Songs of the North daba también una versión gaélica. La reimpresión posterior que leímos y Our National Songs, de 1923, imprimen "Iorram Sgitheanach", un iorram de Skye, es decir, una canción de barca, como la "única traducción autorizada" de Neil Shaw, y la reimpresión anuncia un volumen cuyo texto gaélico editó Shaw. No se conocen sus fechas, así que no se da aquí. Ninguna fuente antigua imprime ni nombra la canción de los propios barqueros.[^sotn][^smith1888][^ons1923][^standrews]
+
+### ¿Qué es la versión de Outlander de The Skye Boat Song?
+
+Es la letra de Robert Louis Stevenson, no la de Boulton, cantada con la misma melodía como tema de la serie de televisión Outlander, que empezó en 2014. El compositor de la serie recurrió a "Sing me a song of a lad that is gone" de Stevenson y cambió "lad" (muchacho) por "lass" (muchacha) por la protagonista de la historia; por eso es distinta del "Speed, bonnie boat" que conoce casi todo el mundo.[^mccreary2014][^variety2025][^songsoftravel]
 
 ### ¿Qué voz canta la melodía?
 
@@ -179,5 +184,9 @@ La soprano canta la melodía, como la imprime Songs of the North. Dos cantantes 
 - [^balladindex]: Robert B. Waltz y David G. Engle, *The Traditional Ballad Index*, "Skye Boat Song (Over the Sea to Skye)", California State University, Fresno. https://balladindex.org/Ballads/Brew79.html
 - [^imslp]: IMSLP, "Songs of the North (Folk Songs, Scottish)", página de la obra con sus datos de publicación. https://imslp.org/wiki/Songs_of_the_North_(Folk_Songs,_Scottish)
 - [^standrews]: Jane Pettegree, "Gaelic boating songs, ancient and more modern", Soundyngs, University of St Andrews (2024). https://soundyngs.wp.st-andrews.ac.uk/2024/gaelic-boating-songs-ancient-and-more-modern/
+- [^mccreary2014]: Bear McCreary, el compositor de la serie, "Outlander: Sassenach", bearmccreary.com (9 de agosto de 2014). https://bearmccreary.com/?p=12338
+- [^variety2025]: Variety Australia, sobre la grabación del tema para la última temporada (18 de diciembre de 2025). https://au.variety.com/2025/tv/news/annie-lennox-records-theme-for-final-season-of-outlander-31223
+- [^classicfm2022]: Sophia Alexandra Hall, "The Queen's funeral: how music moved a nation at Westminster Abbey and beyond", Classic FM (19 de septiembre de 2022). https://classicfm.com/music-news/queen-elizabeth-ii-funeral-music
+- [^sdx2022]: Ben Borland, Scottish Daily Express (19 de septiembre de 2022), sobre la música escocesa del funeral de la reina. https://www.scottishdailyexpress.co.uk/news/uk-news/elizabeth-queen-scots-what-significance-28029785
 - [^iln1885]: *The Illustrated London News*, vol. 87, n.º 2412 (Londres, 11 de julio de 1885), p. 49, reseña de *Songs of the North* (Field and Tuer). https://archive.org/details/sim_illustrated-london-news_1885-07-11_87_2412
 - [^chambers1885]: *Chambers's Journal of Popular Literature, Science and Arts*, vol. 2, n.º 82 (Edimburgo, 25 de julio de 1885), "The Month: Science and Arts", p. 476, reseña de *The Songs of the North* (Field and Tuer). https://archive.org/details/sim_chambers-journal-of-popular-literature-science-and-arts_1885-07-25_2_82

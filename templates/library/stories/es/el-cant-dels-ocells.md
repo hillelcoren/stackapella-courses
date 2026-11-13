@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: el cant dels ocells significado | el cant dels ocells letra | el cant dels ocells letra en español | quién compuso el cant dels ocells | el cant dels ocells pau casals | el cant dels ocells historia
-translatedFrom: 7a6418b06d42
+translatedFrom: 151c70cd3d39
 original: Millet, Pel nostre ideal, 1917, Internet Archive | https://archive.org/details/pel-nostre-ideal-lluis-millet/page/n237
 ---
 
@@ -316,9 +316,9 @@ Sí: quince estrofas de seis versos en catalán, impresas desde 1874 por lo meno
 
 Nadie lo sabe. La letra se imprimió en 1874 y la melodía ya en 1903, las dos sin autor [^briz1874][^capmany1903]. Lluís Millet lo armonizó para voces de hombre antes de 1912 y Pau Casals lo arregló para violonchelo [^millet1912][^paucasals-bio]. Su letra ya estaba impresa dos años antes de que naciera Casals [^briz1874][^loc-casals].
 
-### ¿Por qué tocó Pau Casals El cant dels ocells en las Naciones Unidas?
+### ¿Por qué tocó Pau Casals El cant dels ocells en las Naciones Unidas y en la Casa Blanca?
 
-Lo tocó el 24 de octubre de 1971, a los 94 años, el día en que recibió la Medalla de la Paz de las Naciones Unidas, como una canción de esperanza y de paz, según la Fundació Pau Casals, después de hablar de Cataluña [^paucasals-un][^un-av][^enccat-casals]. Exiliado desde 1939, lo había tocado al comienzo de sus conciertos, según la Enciclopèdia Catalana, y había llegado a verse como un símbolo nacional de los catalanes [^enccat-casals][^enccat-ocells][^paucasals-bio].
+Exiliado desde 1939, abría sus conciertos con él, según la Enciclopèdia Catalana, y llegó a representar a Cataluña [^enccat-casals][^enccat-ocells]. Desde 1946 no quiso tocar en los países que toleraban el régimen de Franco, entre ellos Estados Unidos [^paucasals-bio][^nara2013], pero el 13 de noviembre de 1961 tocó en la cena que los Kennedy ofrecieron en la Casa Blanca al gobernador de Puerto Rico, y terminó con esta canción [^stategov][^nara2013][^musicweb]. El 24 de octubre de 1971 lo tocó en las Naciones Unidas al recibir su Medalla de la Paz, como una canción de esperanza y de paz, según su fundación [^paucasals-un][^un-av].
 
 ### ¿Qué voz canta la melodía?
 
@@ -350,6 +350,7 @@ La soprano, sola y con toda la letra, como la voz solista en el impreso de Mille
 - [^paucasals-un]: Fundació Pau Casals, "Pablo Casals and the United Nations", sección "Hymn to the United Nations". https://paucasals.org/en/pablo-casals-and-the-united-nations
 - [^un-av]: United Nations Audiovisual Library, "UN Day Concert 1971", 24 de octubre de 1971, General Assembly Hall, Nueva York: programa que recoge la entrega de la UN Peace Medal y "Song of the Birds, Traditional, performed by Pablo Casals, cello". https://media.un.org/avlibrary/en/asset/d236/d2362972
 - [^stategov]: U.S. Department of State, *Dinner Is Served*, "Pablo Casals", con fotografías de la John F. Kennedy Presidential Library. https://stories.state.gov/dinner-is-served/dance/pablo-casals
+- [^nara2013]: National Archives (EE. UU.), blog *Pieces of History*, "A night of music in honor of President and Mrs. Kennedy" (29 de noviembre de 2013). https://prologue.blogs.archives.gov/2013/11/29/a-night-of-music-in-honor-of-president-and-mrs-kennedy
 - [^musicweb]: Jonathan Woolf, MusicWeb International, reseña de *Pablo Casals: A Concert at the White House* (Minuet 428408), septiembre de 2015. https://musicweb-international.com/classrev/2015/Sep/Casals_White_House_428408.htm
 - [^datebook]: Composers Datebook, "Casals and Copland at the White House" (YourClassical, American Public Media, 13 de noviembre de 2022). https://www.yourclassical.org/episode/2022/11/13/casals-and-copland-at-the-white-house
 - [^genesis]: La Biblia, Génesis 1:16, en la Vulgata latina y la King James Version; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Genesis%201%3A16&version=VULGATE;KJV;RVA

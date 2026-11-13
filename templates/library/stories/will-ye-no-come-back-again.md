@@ -57,7 +57,7 @@ Will Ye No Come Back Again? is a Scots song by Carolina Oliphant, Lady Nairne, a
 
 The song speaks to Charles after he has gone, in the voice of the Highlanders who hid him. Verse 4's "thirty thousand pound" is the government's real reward for him [^chambers][^blaikie].
 
-- Verse 1: Bonnie Charlie is now "awa", away, safe "owre", over, the friendly "main", the sea. "Mony" a heart, many a heart, will break in "twa", two, if he never comes back.
+- Verse 1: "Bonnie", handsome or fine, Charlie is now "awa", away, safe "owre", over, the friendly "main", the sea. "Mony" a heart, many a heart, will break in "twa", two, if he never comes back.
 - Chorus: Will you not come back again? You "canna", cannot, be better "lo'ed", loved.
 - Verse 2: You trusted your "Hieland", Highland, men, and they trusted you. They "kent", knew, where you hid in the glen, a narrow valley, and faced death or exile for it. Rogers's 1869 text ends instead "Your cleadin was but barely": your clothing was scant ("cleed" is to clothe) [^rogers1869][^dsl-cleed].
 - Verse 3: English bribes were all in vain. Though we must ("maun") be "puir and puirer", poorer and poorer, "siller", money, cannot buy the heart that "aye", always, beats for your cause and you.
@@ -137,11 +137,15 @@ The words differ between printings, and the record we have read does not settle 
 
 ### What does "Will ye no come back again" mean?
 
-It means "Won't you come back again?". In Scots "will ye no" is "will you not", and the song asks it of Prince Charles Edward Stuart after his escape to France in 1746, in the voice of the Highlanders who hid him [^gems1894][^chambers][^blaikie]. The chorus says why: you could not be better loved [^gems1894].
+It means "Won't you come back again?". In Scots "will ye no" is "will you not", and the song asks it of Prince Charles Edward Stuart after his escape to France in 1746, in the voice of the Highlanders who hid him [^gems1894][^chambers][^blaikie]. The chorus says why: you could not be better loved [^gems1894]. Every printing we have read has "no" [^rogers1855][^gems1883][^gems1894]. "Nae" is another Scots spelling of the same "not", its unstressed form, so "Will ye nae come back again?" means the same thing [^dsl-no][^dsl-na].
 
-### Who wrote Will ye no come back again?
+### Who wrote Will ye no come back again, and when?
 
-Carolina Oliphant, Lady Nairne (1766 to 1845), wrote the words, but her name was given only after her death [^rogers1869][^dnb]. Who made the tune is not known [^fitzgerald]. Ditson's Gems of Scottish Song prints it under the name of Finlay Dun, her arranger, without saying whether he composed it [^gems1883][^rogers1869].
+Carolina Oliphant, Lady Nairne (1766 to 1845), wrote the words, but when is not known: from 1821 she sent her songs out under a false name, and her own was given only after her death [^rogers1869][^dnb]. It may first have appeared in Lays from Strathearn, dated 1846 by the Dictionary of National Biography and undated by Rogers, which we have not read; the earliest printing we have read is Rogers's of 1855 [^dnb][^rogers1855]. The tune's maker is not known; Ditson prints it under Finlay Dun's name [^fitzgerald][^gems1883].
+
+### Is it the Bonnie Prince Charlie song?
+
+It is one of several songs about him. This one is the farewell: it asks Charles to come back after he sailed for France in September 1746 [^chambers][^blaikie]. The Skye Boat Song tells an earlier moment, his crossing to Skye with Flora MacDonald in June 1746 [^blaikie], in words by Harold Boulton printed in the 1880s [^sotn][^smith1888]. Neither song dates from 1746: Lady Nairne was born twenty years after it [^dnb].
 
 ### Which part sings the tune?
 
@@ -163,7 +167,7 @@ The soprano sings the tune, as Ditson's Gems of Scottish Song printed it [^gems1
 - [^kington]: T. L. Kington Oliphant, *The Jacobite Lairds of Gask* (London: Charles Griffin and Co., for the Grampian Club, 1870), pp. 107 to 109, 123, 211 to 212, 345, 348 to 349, 433 to 434; Allen County Public Library copy, facsimile. https://archive.org/details/jacobitelairdsof00king
 - [^minstrel]: R. A. Smith, arranger, *The Scotish Minstrel: A Selection from the Vocal Melodies of Scotland, Ancient and Modern*, vols. 1 and 2 (Edinburgh: Robert Purdie, catalogued as 1821), title page and preface; University of Western Ontario copy (MZ2079), facsimile. https://archive.org/details/scotishminstrels12smit
 - [^minstrel6]: R. A. Smith, arranger, *The Scotish Minstrel: A Selection from the Vocal Melodies of Scotland, Ancient and Modern*, vols. 5 and 6 (Edinburgh: Robert Purdie, catalogued as 1821), vol. 6, "Advertisement to Volume Sixth", dated Edinburgh, January 1824; University of Western Ontario copy (MZ2079), facsimile. https://archive.org/details/scotishminstrels56smit
-- [^blaikie]: Walter Biggar Blaikie, *Itinerary of Prince Charles Edward Stuart from His Landing in Scotland July 1745 to His Departure in September 1746* (Edinburgh: Scottish History Society, 1897), pp. 6, 8, 12, 29 to 31, 44 to 46, 70; University of Toronto copy, facsimile. https://archive.org/details/itineraryofprinc00blai
+- [^blaikie]: Walter Biggar Blaikie, *Itinerary of Prince Charles Edward Stuart from His Landing in Scotland July 1745 to His Departure in September 1746* (Edinburgh: Scottish History Society, 1897), pp. 6, 8, 12, 29 to 31, 44 to 46, 51 to 53, 70; University of Toronto copy, facsimile. https://archive.org/details/itineraryofprinc00blai
 - [^hazard]: Caroline Hazard, "The Value of History in the Formation of Character", *The School Review* 9, no. 10 (1901), pp. 636 to 648, at p. 639; JSTOR Early Journal Content, facsimile. https://archive.org/details/jstor-1075050
 - [^chambers]: Robert Chambers, *History of the Rebellion of 1745-6*, seventh edition (London and Edinburgh: W. & R. Chambers, 1869), pp. 52, 59, 233, 283, 338, 467, 482, 497; facsimile. https://archive.org/details/historyrebellio02chamgoog
 - [^dnb]: T. B. [Thomas Wilson Bayne], "Nairne, Carolina", *Dictionary of National Biography*, vol. 40 (London: Smith, Elder & Co., 1894), as reproduced at Wikisource. https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Nairne,_Carolina
@@ -173,3 +177,7 @@ The soprano sings the tune, as Ditson's Gems of Scottish Song printed it [^gems1
 - [^fitzgerald]: S. J. Adair Fitz-Gerald, *Stories of Famous Songs* (London: John C. Nimmo, 1898), pp. 303 to 304; Cornell University Library copy, facsimile. https://archive.org/details/cu31924022375277
 - [^dsl-laverock]: Dictionaries of the Scots Language, *Scottish National Dictionary*, "Laverock". https://dsl.ac.uk/entry/snd/laverock
 - [^dsl-cleed]: Dictionaries of the Scots Language, *Scottish National Dictionary*, "Cleed". https://dsl.ac.uk/entry/snd/cleed
+- [^dsl-no]: Dictionaries of the Scots Language, *Scottish National Dictionary*, "No, adv." ("Not, as the adv. negativing a v. ... More emphatic than the enclitic -Na. Cf. Nae, adv."). https://dsl.ac.uk/entry/snd/no
+- [^dsl-na]: Dictionaries of the Scots Language, *Scottish National Dictionary*, "Na, adv.2" ("Also n(a)e ... The unstressed, gen. enclitic form of No, not"). https://dsl.ac.uk/entry/snd/na_adv2
+- [^sotn]: A. C. Macleod and Harold Boulton, editors, music arranged by Malcolm Lawson, *Songs of the North, Gathered Together from the Highlands and Lowlands of Scotland*, vol. I (London: J. B. Cramer & Co., undated reprint, catalogued 19--; earlier published by Field and Tuer), "Skye Boat Song (Jacobite)", pp. 18 to 20, "Words by Harold Boulton"; University of Toronto, Faculty of Music Library, M1746 B78 S6 19--, facsimile, images n37 to n39. https://archive.org/details/31761034118778/page/n37
+- [^smith1888]: Laura Alexandrine Smith, *The Music of the Waters: A Collection of the Sailors' Chanties, or Working Songs of the Sea, of All Maritime Nations* (London: Kegan Paul, Trench & Co., 1888), pp. 90 to 91, "Skye Boat-Song"; University of Toronto, AAJ-7388, facsimile, images n127 to n128. https://archive.org/details/musicofwaterscol00smituoft/page/n127

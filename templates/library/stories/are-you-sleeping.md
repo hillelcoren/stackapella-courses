@@ -67,7 +67,7 @@ Frère Jacques, sung in English as Are You Sleeping? or Are You Sleeping, Brothe
 
 ### The French words
 
-These are the words as printed on pages 18 and 19 of Vieilles chansons pour les petits enfants (Paris, 1883), with our own plain English under each line [^widor1883].
+These are the words as printed on pages 18 and 19 of Vieilles chansons pour les petits enfants (Paris, 1883), with our own plain English under each line [^widor1883]. Said roughly, the French runs "frair ZHAHK, dor-may VOO? so-NAY lay mah-TEEN": Jacques is one syllable, and the endings "-ues" in Jacques, "-s" in vous and "-es" in matines are silent [^littre].
 
 > Frère Jacques, Frère Jacques,
 Brother Jacques, Brother Jacques,
@@ -172,3 +172,4 @@ All of them. In a round everyone sings the same tune, starting at different time
 - [^gustavmahler]: GustavMahler.com, "Musical Analysis of Third Movement: Funeral March in Callot's Manner" (Symphony No. 1). https://gustavmahler.com/symphonies/No1/Musical-Analysis-Of-Third-Movement-Funeral-March-in-Callots-Manner.html
 - [^ganem1999]: J. P. Ganem and C. C. Carson, "Frère Jacques Beaulieu: from rogue lithotomist to nursery rhyme character", *The Journal of Urology* 161, no. 4 (April 1999), pp. 1067 to 1069, abstract, PMID 10081839. https://doi.org/10.1016/s0022-5347(01)61591-x
 - [^douglas1726]: James Douglas, *The History of the Lateral Operation: or, an Account of the Method of Extracting a Stone ... first attempted by Frere Jacques in France* (London, 1726), title page; Internet Archive, item bim_eighteenth-century_the-history-of-the-later_douglas-james-m-d_1726. https://archive.org/details/bim_eighteenth-century_the-history-of-the-later_douglas-james-m-d_1726
+- [^littre]: Émile Littré, *Dictionnaire de la langue française* (Paris: Hachette, 1872 to 1877), the entries "frère", "jacques", "dormir", "vous", "sonner" and "matines", each with its pronunciation, at littre.org. https://www.littre.org/definition/matines

@@ -15,7 +15,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: go down moses significado | go down moses historia | quién escribió go down moses | go down moses espiritual historia | go down moses letra en español | go down moses louis armstrong
-translatedFrom: 425c4891c5a4
+translatedFrom: e12b1b07583c
 original: Jubilee Songs (1872), página 22, Emory University | https://archive.org/details/29208201.4853.emory.edu/page/n24
 listen: Internet Archive, grabación de 1914 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-11026-go-down-moses
 ---
@@ -346,6 +346,10 @@ Nuestro arreglo se lee de la página 22 del libro de 1872, un tono más alto, en
 ### ¿Quién escribió Go Down Moses?
 
 Nadie en concreto: es un espiritual creado por afroamericanos esclavizados, y no se conoce el nombre de quien lo hizo. Su primera impresión conocida con música, la partitura de 1861 con arreglo de Thomas Baker, dice que su letra y su música llegaron por medio del reverendo Lewis C. Lockwood, de refugiados en Fort Monroe, Virginia [^contrabands1861][^canterbury]. En 1872 George L. White y Theodore F. Seward la anotaron tal como la cantaban los Fisk Jubilee Singers [^jubilee1872].
+
+### ¿Estuvo prohibida Go Down Moses?
+
+En los documentos que hemos leído no aparece ninguna orden ni ley que la prohibiera, aunque se repite a menudo; una historia de 2025 afirma que en tiempos de la esclavitud estuvo prohibida por lo directo de su letra [^zoellner]. La nota que encabezaba su impresión en la prensa de 1861, según cuenta esa historia, decía que llevaba mucho tiempo cantándose "a escondidas, por miedo al látigo", y que "ahora se canta abiertamente" entre quienes habían escapado [^zoellner]. Su letra podía hablar de libertad además de fe: para Frederick Douglass, cantar sobre Canaán era cantar sobre el Norte [^douglass1855].
 
 ### ¿Qué voz canta la melodía?
 

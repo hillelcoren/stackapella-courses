@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: swing low sweet chariot significado | swing low sweet chariot significado esclavitud | swing low sweet chariot ferrocarril subterráneo | quién escribió swing low sweet chariot | swing low sweet chariot historia | swing low sweet chariot rugby inglaterra
-translatedFrom: 20e59b4078ce
+translatedFrom: 2645c455193e
 original: Jubilee Songs (1872), página 6, Emory University | https://archive.org/details/29208201.4853.emory.edu/page/n8/mode/1up
 listen: National Jukebox, grabación de 1909 | https://www.loc.gov/item/jukebox-128141/
 ---
@@ -145,7 +145,11 @@ No hay pruebas de que lo fuera. La idea de que avisaba de que un guía estaba ce
 
 ### ¿Por qué cantan Swing Low, Sweet Chariot las aficiones del rugby inglés?
 
-Los seguidores de Inglaterra la adoptaron en los partidos en los años ochenta [^rte][^espn]. En junio de 2020 la Rugby Football Union la revisó por sus raíces en la esclavitud estadounidense, y en octubre decidió no prohibirla, sino enseñar a la afición de dónde venía [^the42][^skysports].
+Viene de los clubes, donde se cantaba al menos desde los años sesenta [^wrm2020]. Unas imágenes de la BBC muestran al público de Twickenham cantándola en 1987 para un joven jugador negro apodado "Chariots" [^wrm2020][^rte]. Según el relato habitual, la afición inglesa la adoptó el 19 de marzo de 1988, cuando otro ala negro marcó tres ensayos a Irlanda [^rte][^wrm2020]. En junio de 2020 la Rugby Football Union la revisó por sus raíces en la esclavitud estadounidense, y en octubre decidió no prohibirla, sino enseñar a la afición de dónde venía [^the42][^skysports].
+
+### ¿Swing Low es un espiritual o una canción gospel?
+
+Es un espiritual, una canción religiosa popular de afroamericanos esclavizados, que los cantantes de Fisk llevaron a las salas de concierto en la década de 1870 [^seward1872][^carnegie]. El gospel es un estilo de iglesia posterior, nacido en Chicago en los años treinta; Thomas A. Dorsey, su pionero, dijo que "era distinto de los himnos aprobados y de los espirituales" [^carnegie-gospel]. Himnarios como el United Methodist Hymnal la incluyen para funerales [^hymnary-jordan][^psh]. No se conoce a su autor; su primera impresión conocida es de 1872, y los arreglos posteriores son obras propias [^seward1872].
 
 ### ¿Qué voz canta la melodía?
 
@@ -181,6 +185,8 @@ La soprano canta la melodía de principio a fin, y las otras voces cantan en arm
 - [^bordewich]: Fergus M. Bordewich, "Myths of the Underground Railroad", *Underground Railroad Online Handbook* (House Divided Project, Dickinson College). https://housedivided.dickinson.edu/sites/ugrr/thematic-essays/myths-of-the-underground-railroad-bordewich/
 - [^larson]: Kate Clifford Larson, "Myths & Facts About Harriet Tubman", Visit Maryland. https://www.visitmaryland.org/article/myths-facts-about-harriet-tubman
 - [^carnegie]: Carnegie Hall, *Timeline of African American Music*, "Concert Spiritual". https://timeline.carnegiehall.org/genres/concert-spiritual
+- [^carnegie-gospel]: Carnegie Hall, *Timeline of African American Music*, "Traditional Gospel". https://timeline.carnegiehall.org/genres/traditional-gospel
+- [^wrm2020]: World Rugby Museum, Twickenham, "Swing Low uncovered", From the Vaults (7 de marzo de 2020). https://worldrugbymuseum.com/from-the-vaults/twickenham-stadium/swing-low-uncovered
 - [^rte]: RTÉ Sport, "England fans' singing of Swing Low under review by RFU" (18 de junio de 2020). https://www.rte.ie/sport/rugby/2020/0618/1148305-england-fans-singing-of-swing-low-under-review-by-rfu
 - [^espn]: Reuters, "RFU review Swing Low, Sweet Chariot chant over slavery links", ESPN (18 de junio de 2020). https://africa.espn.com/rugby/story/_/id/29330926/rfu-review-swing-low-sweet-chariot-chant-slavery-links
 - [^the42]: Nora Creamer, "England rugby chiefs decide against banning Swing Low, Sweet Chariot", The42 (8 de octubre de 2020). https://www.the42.ie/england-rugby-chiefs-decide-against-banning-swing-low-sweet-chariot-5228168-Oct2020

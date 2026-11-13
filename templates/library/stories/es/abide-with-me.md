@@ -20,7 +20,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: abide with me historia | quién escribió abide with me y por qué | quién compuso la música de abide with me | abide with me final de la fa cup | señor jesús la luz del sol se fue himno | abide with me significado versículo bíblico
-translatedFrom: a566ccd3b1f2
+translatedFrom: 9034ab42fa73
 listen: National Jukebox, grabación de 1904 | https://archive.org/details/loc-jukebox-119028-abide-with-me || National Jukebox, grabación de 1914 | https://archive.org/details/loc-jukebox-11743-abide-with-me
 ---
 
@@ -168,7 +168,7 @@ Julian comparó cuatro textos antiguos: el manuscrito de Lyte, la hoja de 1847, 
 
 ## ¿Sabías que...?
 
-- Las bandas conjuntas de las fuerzas armadas de la India lo tocaron cada año desde 1950 en la ceremonia de Beating Retreat, que cierra las celebraciones del Día de la República. Se retiró del programa en 2022 [^dawn2020][^scroll2022].
+- Las bandas conjuntas de las fuerzas armadas de la India lo tocaron cada año desde 1950 en la ceremonia de Beating Retreat, que cierra las celebraciones del Día de la República. Se retiró del programa en 2022, y las crónicas lo llamaron uno de los himnos favoritos de Mahatma Gandhi [^dawn2020][^scroll2022].
 
 ## Cómo cantarla
 
@@ -190,6 +190,10 @@ Porque se cantó en la final de 1927 en Wembley, y la costumbre se quedó [^rich
 ### ¿Es "Abide with Me, 'Tis Eventide" el mismo himno?
 
 No. Es otro himno, estadounidense, con letra de Martin Lowrie Hofford y música de Harrison Millard [^hymnary-tis][^tabernacle]. El himno de Lyte empieza "Abide with me! Fast falls the eventide" y suele cantarse con EVENTIDE, de William Henry Monk [^remains1850][^ham1861].
+
+### ¿Es Abide with Me un himno de funeral?
+
+Sí, ante todo, aunque los himnarios lo clasifican entre los himnos de la tarde: como señaló Ellerton en 1881, su anochecer es el de la vida [^julian][^canterbury]. Lo escribió un coadjutor inglés y lo difundió Hymns Ancient and Modern, de la Iglesia de Inglaterra, pero se canta mucho más allá de esa iglesia: lo traen los himnarios católicos Journeysongs y Lead Me, Guide Me, y el segundo lo incluye para funerales [^ham1861][^hymnary-js2012][^hymnary-lmgm2012]. No es un himno de Navidad.
 
 ### ¿Qué voz canta la melodía?
 
@@ -222,6 +226,8 @@ En nuestro arreglo la melodía la canta la soprano: la de Monk, exactamente como
 - [^mystic]: Mystic Seaport Museum, *And the Band Plays on… in Mystic Seaport's Collections* (12 de diciembre de 2022). https://research.mysticseaport.org/?p=13965
 - [^richards]: Barry Richards, *A hymn confirms that the FA Cup final is a matter of life and death*, The Conversation (16 de mayo de 2014). https://theconversation.com/a-hymn-confirms-that-the-fa-cup-final-is-a-matter-of-life-and-death-26359
 - [^cardiff]: Cardiff City FC, *90 Years: A Final of 'Firsts'* (abril de 2017). https://www.cardiffcityfc.co.uk/news/2017/april/90-years---a-final-of-firsts
+- [^hymnary-js2012]: Hymnary.org, *Journeysongs (3rd ed.)* (Portland, Oregón: OCP, 2012), página del himnario, denominación "Roman Catholic Church". https://hymnary.org/hymnal/JS2012
+- [^hymnary-lmgm2012]: Hymnary.org, *Lead Me, Guide Me* (2.ª ed., Chicago: GIA Publications, 2012), página del himnario, denominación "Roman Catholic Church", y n.º 20, "Abide with Me", con sus temas ("Funeral: Sacraments"). https://hymnary.org/hymn/LMGM2012/20
 - [^dawn2020]: *Dawn*, "Christian hymn dropped from Indian military band" (16 de enero de 2020). https://www.dawn.com/news/1528639/christian-hymn-dropped-from-indian-military-band
 - [^scroll2022]: Scroll.in, "'Abide with me', Gandhi's favourite hymn, dropped from Republic Day's Beating the Retreat ceremony" (23 de enero de 2022, de PTI). https://scroll.in/latest/1015682/scroll_in
 - [^hymnary-tis]: Hymnary.org, *WELCOME GUEST* (melodía, Harrison Millard), para *Abide with Me, 'Tis Eventide* (letra, Martin Lowrie Hofford). https://hymnary.org/tune/welcome_guest_millard

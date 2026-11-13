@@ -65,7 +65,7 @@ On García Cubas's page 374 the refrain begins "Despierta divina aurora", wake, 
 
 ### The full words
 
-These are all seven quatrains as El laúd hispano-americano prints them (Los Angeles, 1921), pages 104 and 105, run together there without breaks; spelling and capitals as printed, including the old accent on "Á". They are traditional and the book names no author. Our arrangement sings the first three.
+These are all seven quatrains as El laúd hispano-americano prints them (Los Angeles, 1921), pages 104 and 105, run together there without breaks; spelling and capitals as printed, including the old accent on "Á". They are traditional and the book names no author; no maker of the words or the tune is known, and the tune was in print by 1904 [^garciacubas1904]. Later arrangements and recordings are works of their own, with their own rights; our arrangement and its harmony are our own. Our arrangement sings the first three.
 
 **Verse 1**
 > Estas son las mañanitas
@@ -168,6 +168,10 @@ Margit Frenk, as Gómez Mutio reports, counts ten different songs called Las ma�
 ### Who wrote Las Mañanitas?
 
 No one is known to have written it: it is a traditional Mexican song. Its tune and the Amapolita verse were printed in 1904 by García Cubas, from memory [^garciacubas1904]. Manuel M. Ponce, often named as its author, wrote in an essay printed in 1917 that it was the work of "the anonymous popular author" [^ponce1917]. The earliest printing of King David's verse we have found is a 1921 songbook that names no author [^laud1921].
+
+### Why is Las Mañanitas sung, and since when?
+
+To wake the person celebrated at dawn on their birthday or saint's day [^toor1947][^manfred1932]. Gómez Mutio counts it among the heirs of the old albas and alboradas, dawn songs [^gomez2024]. García Cubas, in a book of 1904, recalls singing mañanitas at daybreak in the 1860s [^garciacubas1904]; a broadside of 1911 sings them for a saint's day [^carter1911]; and in 1947 Frances Toor called it the national birthday serenade at dawn [^toor1947]. It is sung beyond Mexico too: it was printed in Los Angeles in 1921 [^laud1921].
 
 ### Why does Las Mañanitas mention King David?
 

@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: danny boy significado | danny boy historia | quién escribió danny boy | danny boy letra en español | danny boy canción de funeral | danny boy es irlandesa o escocesa
-translatedFrom: 22e98e2ba814
+translatedFrom: 63d8cf6bcd1b
 listen: National Jukebox, grabación de 1917 | https://www.loc.gov/item/jukebox-189331/ || Internet Archive, grabación de Edison de 1918 | https://archive.org/details/edison-82559_01_6475
 original: The Petrie Collection (1855), Internet Archive | https://archive.org/details/petriecollection01petr/page/n84/mode/1up || Danny Boy, Boosey & Co. (copyright de 1913; ejemplar impreso en 1920 o después), Connecticut College | https://digitalcommons.conncoll.edu/sheetmusic/45
 ---
@@ -62,7 +62,7 @@ Weatherly escribió dos estrofas. Nuestro arreglo canta la primera.[^conncoll]
 
 **Estrofa 2 (no se canta).** Quien canta piensa en la posibilidad de morir antes de que Danny vuelva a casa. Si es así, Danny encontrará la tumba, se arrodillará allí y rezará un "Ave", el avemaría. Quien canta lo oirá incluso a través de la tierra, la tumba se sentirá más cálida por su amor, y dormirá en paz hasta que Danny también llegue.[^conncoll]
 
-La canción nunca dice quién canta, ni a qué llaman las gaitas a Danny. Puede ser una madre, un padre o una persona amada. Algunas ediciones indican a un hombre que la cante que use otras palabras, impresas en cursiva, y la canción se convierte en Eily Dear.[^cf][^uwm] En los años de guerra encajaba con los soldados y con quienes los esperaban en casa; los irlandeses de Estados Unidos oían en ella las despedidas de sus propios emigrantes.[^dillane][^odowd]
+¿Quién es Danny? Nadie conocido: ningún relato que hayamos leído lo relaciona con una persona real, y la canción nunca dice quién canta, ni a qué llaman las gaitas a Danny.[^dillane][^ballad] Puede ser una madre, un padre o una persona amada. Algunas ediciones indican a un hombre que la cante que use otras palabras, impresas en cursiva, y la canción se convierte en Eily Dear.[^cf][^uwm] Tampoco se escribió como canción de guerra: Weatherly escribió la letra en 1910, y la canción se publicó en 1913, antes de la Primera Guerra Mundial.[^dillane][^imslp] En los años de guerra encajaba con los soldados y con quienes los esperaban en casa; los irlandeses de Estados Unidos oían en ella las despedidas de sus propios emigrantes.[^dillane][^odowd]
 
 ### La letra completa
 

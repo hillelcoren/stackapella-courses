@@ -15,7 +15,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: haul on the bowline significado | qué significa haul on the bowline | haul on the bowline historia | haul on the bowline letra | haul on the bowline letra significado | haul on the bowline canción marinera
-translatedFrom: 47bd09be20b3
+translatedFrom: d92ccef42db1
 original: Sharp, English Folk-Chanteys (1914), n.º XXXVII, p. 42, Internet Archive | https://archive.org/details/englishfolkchant00shar/page/n61/mode/1up
 ---
 
@@ -129,6 +129,10 @@ Significa tirar de la bolina, un cabo que mantenía tenso el borde de proa de un
 
 No hay una sola letra original: el estribillo era fijo y el solista inventaba sus propios versos [^onceaweek][^sharp]. La letra más antigua que hemos encontrado, impresa en Londres en 1868, es "Haul the bowline, the fore and main-top bowline, Haul the bowline, the bowline haul", con un segundo verso sobre Kitty [^onceaweek]. La letra que cantamos es la de John Short, tal como la imprimió Cecil Sharp en 1914 [^sharpscan].
 
+### ¿Es la misma canción que "Haul Away the Bowline"?
+
+Sí. The Traditional Ballad Index da "Haul Away the Bowline" como otro título de esta canción marinera, y recoge el texto de la colección Greig-Duncan, de Aberdeenshire, como "Haul Away Your Bowline" [^balladindex]. Otras ediciones la llaman "Haul the Bowline" o "We'll Haul the Bowline" [^onceaweek][^alden][^terry]. No es Haul Away, Joe, otra canción para halar que Alden imprimió junto a esta en 1882 [^alden].
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía. En nuestro arreglo, la soprano es el solista (el shantyman): canta sola la llamada inicial y el primer verso de cada estrofa; la contralto, el tenor y el bajo se unen en el último verso de cada estrofa y en el estribillo final, con la armonía del acompañamiento de piano de Sharp de 1914 [^sharpscan].
@@ -157,7 +161,7 @@ La soprano canta la melodía. En nuestro arreglo, la soprano es el solista (el s
 - [^wright]: Thomas Wright y James Orchard Halliwell, eds., *Reliquiae Antiquae*, vol. 1 (Londres: John Russell Smith, 1845), pp. 2 y 3, del manuscrito del Trinity College, Cambridge, MS R.3.19 (p. 2 en la página n15 del escaneo); ejemplar de la University of Toronto, Internet Archive, ítem reliquiaeantiqua01wriguoft, facsímil. https://archive.org/details/reliquiaeantiqua01wriguoft/page/n15
 - [^furnivall]: Frederick J. Furnivall, ed., *The Stacions of Rome and The Pilgrims Sea-Voyage* (Londres: Early English Text Society, N. Trübner & Co., 1867), "The Pilgrims Sea-Voyage and Sea-Sickness", pp. 37 y 38, del manuscrito del Trinity College, Cambridge, MS R.3.19; ejemplar de la University of Toronto, PIMS, Internet Archive, ítem stacionsofromepi00furnuoft, facsímil. https://archive.org/details/stacionsofromepi00furnuoft
 - [^arlima]: ARLIMA, Archives de littérature du Moyen Âge, "Cambridge, Trinity College, R.3.19", que cita el catálogo de los manuscritos del college de M. R. James. https://arlima.net/mss/united_kingdom/cambridge/trinity_college/R_3_19.html
-- [^balladindex]: Robert B. Waltz y David G. Engle, *The Traditional Ballad Index*, "Haul on the Bowline" (California State University, Fresno), Roud 652. https://balladindex.org/Ballads/Doe009b.html
+- [^balladindex]: Robert B. Waltz y David G. Engle, *The Traditional Ballad Index*, "Haul on the Bowline" (California State University, Fresno), Roud 652, con sus referencias y sus títulos alternativos. https://balladindex.org/Ballads/Doe009b.html
 - [^winick]: Stephen Winick, "A Deep Dive Into Sea Shanties", *Folklife Today*, American Folklife Center, Library of Congress (29 de enero de 2021). https://blogs.loc.gov/folklife/2021/01/a-deep-dive-into-sea-shanties/
 - [^csp]: David Sutcliffe, *Cecil Sharp's People*, "Short, John" (2019), que cita la Vaughan Williams Memorial Library y los registros parroquiales y del censo. https://cecilsharpspeople.org.uk/john-short.html
 - [^halsway]: Halsway Manor, *Stories of the Hills*, "John Short: Yankee Jack". https://www.halswaymanor.org.uk/projects/stories-of-the-hills/john-short-yankee-jack/index.html

@@ -124,7 +124,11 @@ There is no evidence that it was. The ideas that it signalled a guide was near, 
 
 ### Why do England rugby fans sing Swing Low, Sweet Chariot?
 
-England supporters took it up at matches in the 1980s [^rte][^espn]. In June 2020 the Rugby Football Union reviewed it over its roots in American slavery, and in October decided not to ban it but to teach fans where it came from [^the42][^skysports].
+It came from the clubhouse, where it had been sung since at least the 1960s [^wrm2020]. BBC footage shows the Twickenham crowd singing it in 1987 for a young Black player nicknamed "Chariots" [^wrm2020][^rte]. By the usual account England fans took it up on 19 March 1988, when another Black wing scored three tries against Ireland [^rte][^wrm2020]. In June 2020 the Rugby Football Union reviewed it over its roots in American slavery, and in October decided not to ban it but to teach fans where it came from [^the42][^skysports].
+
+### Is Swing Low a spiritual or a gospel song?
+
+It is a spiritual, a religious folk song of enslaved African Americans, carried to the concert stage by the Fisk singers in the 1870s [^seward1872][^carnegie]. Gospel is a later church style, made in Chicago in the 1930s; Thomas A. Dorsey, who led it, said it "was different from the approved hymns and spirituals" [^carnegie-gospel]. Hymnals such as the United Methodist Hymnal list it for funerals [^hymnary-jordan][^psh]. No maker is known; its earliest known printing is of 1872, and later arrangements are works of their own [^seward1872].
 
 ### Which part sings the tune?
 
@@ -160,6 +164,8 @@ The soprano sings the tune, all the way through, and the other parts sing in har
 - [^bordewich]: Fergus M. Bordewich, "Myths of the Underground Railroad", *Underground Railroad Online Handbook* (House Divided Project, Dickinson College). https://housedivided.dickinson.edu/sites/ugrr/thematic-essays/myths-of-the-underground-railroad-bordewich/
 - [^larson]: Kate Clifford Larson, "Myths & Facts About Harriet Tubman", Visit Maryland. https://www.visitmaryland.org/article/myths-facts-about-harriet-tubman
 - [^carnegie]: Carnegie Hall, *Timeline of African American Music*, "Concert Spiritual". https://timeline.carnegiehall.org/genres/concert-spiritual
+- [^carnegie-gospel]: Carnegie Hall, *Timeline of African American Music*, "Traditional Gospel". https://timeline.carnegiehall.org/genres/traditional-gospel
+- [^wrm2020]: World Rugby Museum, Twickenham, "Swing Low uncovered", From the Vaults (7 March 2020). https://worldrugbymuseum.com/from-the-vaults/twickenham-stadium/swing-low-uncovered
 - [^rte]: RTÉ Sport, "England fans' singing of Swing Low under review by RFU" (18 June 2020). https://www.rte.ie/sport/rugby/2020/0618/1148305-england-fans-singing-of-swing-low-under-review-by-rfu
 - [^espn]: Reuters, "RFU review Swing Low, Sweet Chariot chant over slavery links", ESPN (18 June 2020). https://africa.espn.com/rugby/story/_/id/29330926/rfu-review-swing-low-sweet-chariot-chant-slavery-links
 - [^the42]: Nora Creamer, "England rugby chiefs decide against banning Swing Low, Sweet Chariot", The42 (8 October 2020). https://www.the42.ie/england-rugby-chiefs-decide-against-banning-swing-low-sweet-chariot-5228168-Oct2020

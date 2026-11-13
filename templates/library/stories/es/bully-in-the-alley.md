@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: bully in the alley significado | qué significa bully in the alley | bully in the alley historia | bully in the alley origen | quién escribió bully in the alley | bully in the alley letra
-translatedFrom: 0a527881239f
+translatedFrom: 0640062f6f2d
 original: Cecil J. Sharp, English Folk-Chanteys (1914), Internet Archive | https://archive.org/details/englishfolkchant00shar
 ---
 
@@ -135,6 +135,10 @@ Nuestro arreglo está tomado de la página de Sharp, en Sol, como en el libro, s
 - [Bajo](/songs/bully-in-the-alley/bass): cantas la línea del bajo por debajo de las respuestas y del "So help my bob" de las estrofas, sobre todo en el Do y un Sol grave, y subes a tu Mi agudo solo una vez, en "ay" del primer "Way ay" del estribillo inicial. Aterriza en cada "Way" y cada "bully" con todos los demás: esos son los tirones.
 
 ## Preguntas
+
+### ¿De qué trata Bully in the Alley?
+
+De poca cosa, a propósito: es una canción marinera (shanty) para tirar de un cabo, y su letra era sobre todo perchas de las que colgar los tirones [^sharp]. En la versión de Sharp de 1914, el solista jura que está "bully", que le va bien, en su callejón, y pregunta por su chica, Sally [^sharp][^hotten]. En la versión más larga de Hugill corteja a Sally en Shinbone Alley y ella lo rechaza o él la deja [^balladindex]. La historia del marinero borracho abandonado en el callejón viene de notas de discos modernos, no de los documentos antiguos [^mainlynorfolk].
 
 ### ¿Qué significa "bully in the alley"?
 

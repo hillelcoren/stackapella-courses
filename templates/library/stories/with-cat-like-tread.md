@@ -132,6 +132,10 @@ It means stepping as softly as a cat [^webster-tread]. The pirates claim to cree
 
 Its chorus tune is. Hail! Hail! The Gang's All Here, published by Leo Feist in 1917, credits its music to Theodore Morse and Arthur Sullivan: its chorus is Sullivan's "Come, friends, who plough the sea", recast in 6/8 [^feist1917][^ballad-index]. The verse and words are new, credited to "D. A. Esrom", a pen name of Theodore and Theodora Morse [^feist1917][^ballad-index].
 
+### Were there real pirates in Penzance?
+
+Yes, long before Gilbert. In the 1600s corsairs from North Africa, called "Turks" in English papers, preyed on shipping and fishermen off the Cornish coast [^troze2016]. On 16 June 1640, the mayor of Exeter reported, four of their warships "in the open view of the town of Penzance" took three barks and five Penzance fishing boats, with 60 people [^cspd1640]. Cornwall's deputy lieutenants wrote that the pirates had "taken away divers of our people at Looe, Penzance, and other places" [^cspd1640][^troze2016]. Gilbert's pirates are gentler: The Era's 1880 report calls them "tender-hearted" [^era-ny].
+
 ### Which part sings the tune?
 
 The soprano. In Sullivan's score the tune belongs to the pirates, and in our arrangement the soprano and alto are the pirates, so the soprano carries "Come, friends, who plough the sea" and "With cat-like tread" [^chappell-score]. The alto sings the same words underneath, and the tenor and bass, as the police, sing only "Tarantara" and "ra".
@@ -172,3 +176,5 @@ The soprano. In Sullivan's score the tune belongs to the pirates, and in our arr
 - [^webster-truce]: *Webster's Revised Unabridged Dictionary* (1913), "Truce", n., senses 1 and 2. https://www.websters1913.com/words/Truce
 - [^webster-lantern]: *Webster's Revised Unabridged Dictionary* (1913), "Lantern", with "Dark lantern". https://www.websters1913.com/words/Lantern
 - [^webster-skeleton]: *Webster's Revised Unabridged Dictionary* (1913), "Skeleton", with "Skeleton key". https://www.websters1913.com/words/Skeleton
+- [^cspd1640]: William Douglas Hamilton, ed., *Calendar of State Papers, Domestic Series, of the Reign of Charles I, 1640* (London: Longman, 1880), p. 328, the mayor and aldermen of Exeter to the Council, 22 June 1640, and p. 438, the deputy lieutenants of Cornwall to the Earl of Pembroke and Montgomery, 1 July 1640; facsimile. https://archive.org/details/sim_great-britain-public-record-1625-1649-domestic-series_1640
+- [^troze2016]: "'Heer will be noe fishing': 17th century Barbary Piracy and the West Country Fisheries", *Troze*, the online journal of the National Maritime Museum Cornwall, vol. 7, no. 1 (March 2016), pp. 5 and 15, citing the State Papers. https://nmmc.co.uk/wp-content/uploads/2018/04/Barbary_piracy_and_SW_fishing.pdf

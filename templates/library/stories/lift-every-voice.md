@@ -62,7 +62,7 @@ Johnson wrote three stanzas. We sing the first.
 
 ### The full words
 
-Here are all three stanzas as the 1900 Stern sheet prints them, with its spelling and punctuation, in the poem's lines [^stern1900].
+Here are all three stanzas as the 1900 Stern sheet prints them, with its spelling and punctuation, in the poem's lines [^stern1900]. Printed in the United States in 1900, the words and music are in the public domain there. James Weldon Johnson died in 1938 and Rosamond Johnson in 1954, so in countries that protect a work for 70 years after its author's death they have been free since 2025 [^stern1900][^fenner][^loc-blog]. Later arrangements, such as the quartet edition copyrighted in 1927, carry their own rights [^yale-quartet].
 
 Lift ev'ry voice and sing
 Till earth and heaven ring,
@@ -102,7 +102,7 @@ True to our God, true to our Native land.
 
 ## How it is sung
 
-It is often sung to open or close a meeting, first at Lincoln's birthday celebrations, then at civic, school and church gatherings [^yale-impact][^nyt1918]. In letters now at Yale, Johnson answered people who asked how to sing it, down to how loudly to sing each part [^yale-impact]. Later printings set it for mixed quartet and for three-part chorus [^yale-origin], and today it is in the hymnals of many churches, in an irregular meter [^hymnary].
+It is often sung to open or close a meeting, first at Lincoln's birthday celebrations, then at civic, school and church gatherings [^yale-impact][^nyt1918]. In letters now at Yale, Johnson answered people who asked how to sing it, down to how loudly to sing each part [^yale-impact]. Later printings set it for mixed quartet and for three-part chorus [^yale-origin], and today it is in the hymnals of many churches, in an irregular meter [^hymnary]. It is sung as a Christian hymn, its last stanza a prayer to God; by the Hymnology Archive's account the first hymnal to print it was The New National Baptist Hymnal of 1977 [^fenner][^hymnary-nnbh].
 
 Our arrangement is read from Rosamond Johnson's own four voice parts in the 1900 Stern sheet [^stern1900], checked against a later "Mixed Quartette" printing at Yale, signed by Rosamond Johnson [^yale-quartet]. We sing the first stanza a semitone lower, in G, in 6/8, broad and stately, with a breath before every line of the poem but "Of our new day begun", which runs straight on from "Facing the rising sun". His pause on "us" is written out as a held note and an extra bar before "Facing the rising sun". The tune is his, sung one note to a syllable (two of his slurred notes are left out). His alto, tenor and bass are kept, with some notes changed for beginners, most of them in the quick pickups. Where his voices all sing the tune in octaves, at "Sing a song full of the faith" and "full of the hope", our alto, tenor and bass hold his organ part's chords under the tune instead. Two singers sing the soprano and alto, three add the bass, and the tenor makes four.
 
@@ -132,6 +132,10 @@ Because Black Americans took it up as their own national song. Its 1900 sheet mu
 ### What is the Lift Every Voice and Sing sculpture?
 
 It is a sculpture by Augusta Savage, made for the New York World's Fair of 1939 and named after the song; it is also called The Harp [^studiomuseum][^saam]. It stood 16 feet tall, in plaster, with a row of singers rising in height like a harp's strings. With no money to cast it, it was destroyed when the fair closed [^saam][^studiomuseum].
+
+### Why is Lift Every Voice and Sing sung at NFL games?
+
+The NFL took it up in 2020, after the death of George Floyd and that summer's protests against racial injustice, to be played or sung before every game of the season's first week [^npr2020][^fox2026]. At the opening game, on 10 September 2020, it was played before the national anthem [^ksat2020]. A recorded performance was shown before the 2021 Super Bowl, and singers have performed it before the game in the years since [^cbs2025]. Each year some fans object on social media to the league's use of it [^fox2026].
 
 ### Which part sings the tune?
 
@@ -168,3 +172,7 @@ The soprano sings the tune all the way through, from "Lift ev'ry voice and sing"
 - [^hymnary-nnbh]: Hymnary.org, *The New National Baptist Hymnal* (1977), No. 477, "Lift Every Voice And Sing (National Negro Hymn)". https://hymnary.org/hymn/NNBH1977/477
 - [^studiomuseum]: The Studio Museum in Harlem, "Augusta Savage". https://studiomuseum.org/artists/augusta-savage
 - [^saam]: Smithsonian American Art Museum, "Augusta Savage". https://americanart.si.edu/artist/augusta-savage-4269
+- [^npr2020]: NPR, "The NFL Will Play 'Lift Every Voice And Sing' Before Each Season-Opener Game", 2 July 2020, as republished by GBH News. https://www.wgbh.org/news/national/2020-07-02/the-nfl-will-play-lift-every-voice-and-sing-before-each-season-opener-game
+- [^ksat2020]: KSAT (San Antonio), "Texans remain in locker room during anthem, observe moment of unity with Chiefs", 10 September 2020. https://www.ksat.com/sports/2020/09/11/texans-remain-in-locker-room-during-anthem-observe-moment-of-unity-with-chiefs
+- [^cbs2025]: CBS Sports, "2025 Super Bowl: Watch 'Lift Every Voice and Sing' performance ahead of Chiefs-Eagles in New Orleans", 9 February 2025. https://www.cbssports.com/nfl/news/2025-super-bowl-watch-lift-every-voice-and-sing-performance-ahead-of-chiefs-eagles-in-new-orleans
+- [^fox2026]: Fox News, "Black national anthem stokes social media outrage before Super Bowl LX", 8 February 2026. https://www.foxnews.com/sports/black-national-anthem-stokes-social-media-outrage-before-super-bowl-lx

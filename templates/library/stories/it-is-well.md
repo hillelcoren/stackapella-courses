@@ -127,6 +127,10 @@ Horatio G. Spafford, a Chicago lawyer, wrote the words after his four daughters 
 
 Its earliest known printing, in 1876, heads it with Psalm 55:18, "He hath delivered my soul in peace" [^gh2][^hymnary-gh2]. The words "It is well" echo 2 Kings 4:26, where a mother whose son has just died answers "It is well" [^kjv]. The verses also borrow from Isaiah, Luke and Colossians, and the quoted "Even so" in the last verse is most likely the Bible's closing prayer, "Even so, come, Lord Jesus" [^kjv][^hymnary-text][^gh2].
 
+### Is It Is Well with My Soul in the public domain?
+
+Yes. Spafford's words and Bliss's tune, VILLE DU HAVRE, were printed together in Gospel Hymns No. 2 in 1876 [^gh2][^hymnary-gh2], and both men died long ago: Bliss in 1876 and Spafford in 1888 [^whittle][^hymnary-text]. Translations, such as the Spanish ones, and modern arrangements and recordings can carry their own rights. Ours is read from Bliss's own four parts of 1876, with the alto and tenor revoiced for small groups [^gh2].
+
 ### Which part sings the tune?
 
 The soprano sings Bliss's tune. With two singers you have the tune and the alto, mostly a sixth below it; with three, add the bass on the low notes of each chord; the tenor makes four. In the chorus the tune holds its long notes while the other three answer "It is well" underneath.

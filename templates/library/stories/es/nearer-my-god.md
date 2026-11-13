@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: más cerca oh dios de ti historia | quién escribió nearer my god to thee | quién compuso la música de nearer my god to thee | nearer my god to thee significado versículo bíblico | nearer my god to thee titanic | nearer my god to thee historia del himno
-translatedFrom: 04f2eda59c4d
+translatedFrom: 06b66470e5f1
 listen: National Jukebox, grabación de 1901 | https://archive.org/details/loc-jukebox-5890-nearer-my-god-to-thee || National Jukebox, grabación de 1908 | https://archive.org/details/loc-jukebox-119042-nearer-my-god-to-thee
 ---
 
@@ -67,7 +67,7 @@ El himno nunca nombra a Cristo; Adams era unitaria, y sus estrofas hablan solo d
 
 ### La letra completa
 
-Las cinco estrofas de Adams tal como las imprimió The Sabbath Hymn and Tune Book con BETHANY en 1859, donde unos signos de repetición marcan que el sexto verso de cada estrofa se canta dos veces [^sabbath1859]. Su propio texto de 1841 difiere en algunas palabras, que se indican en Versiones y otras letras [^fox1841]. Las estrofas que añadieron editores posteriores no son suyas y se dejan fuera.
+Las cinco estrofas de Adams tal como las imprimió The Sabbath Hymn and Tune Book con BETHANY en 1859, donde unos signos de repetición marcan que el sexto verso de cada estrofa se canta dos veces [^sabbath1859]. Su propio texto de 1841 difiere en algunas palabras, que se indican en Versiones y otras letras [^fox1841]. Las estrofas que añadieron editores posteriores no son suyas y se dejan fuera. Adams murió en 1848 y Mason en 1872, así que su letra y BETHANY son de dominio público [^dnb-adams][^hymnary-lds1985]; las estrofas añadidas y los arreglos posteriores pueden tener sus propios derechos.
 
 **Estrofa 1**
 > Nearer, my God, to thee,
@@ -151,7 +151,7 @@ más cerca de ti.
 
 ## Cómo se canta
 
-Cantado primero por unitarios, en menos de veinte años estaba en Hymns Ancient and Modern, de la Iglesia de Inglaterra [^ham1861][^canterbury], y en iglesias de muchas clases en Gran Bretaña y Estados Unidos [^julian][^bb1906]. En español se canta como "Más cerca, oh Dios, de ti", en la versión de Juan B. Cabrera [^hymnary-es]. Sus versos tienen seis y cuatro sílabas, y BETHANY canta dos veces el penúltimo verso, así que la métrica es 6.4.6.4.6.6.6.4 [^sabbath1859][^hymnary-text].
+Cantado primero por unitarios, en menos de veinte años estaba en Hymns Ancient and Modern, de la Iglesia de Inglaterra [^ham1861][^canterbury], y en iglesias de muchas clases en Gran Bretaña y Estados Unidos [^julian][^bb1906]. Los Santos de los Últimos Días lo cantan, como n.º 100 de su himnario de 1985 [^hymnary-lds1985], y también lo han impreso himnarios católicos, desde Hymns and Songs for Catholic Children (1870) hasta Lead Me, Guide Me (2012) [^hymnary-catholic]. En español se canta como "Más cerca, oh Dios, de ti", en la versión de Juan B. Cabrera [^hymnary-es]. Sus versos tienen seis y cuatro sílabas, y BETHANY canta dos veces el penúltimo verso, así que la métrica es 6.4.6.4.6.6.6.4 [^sabbath1859][^hymnary-text].
 
 Nuestro arreglo son las cuatro voces del propio Mason en Sol, leídas del libro de 1859 y comprobadas nota por nota con Hymns and Songs of Praise, de 1874 [^sabbath1859][^hsp1874], escritas en 3/4 donde el libro de 1859 tiene compases de seis negras. Cantamos la estrofa 1, con su verso repetido dos veces; las voces inferiores cantan una nota por sílaba, mientras la melodía liga dos notas en "That" y en el último "Nearer". Hay nueve notas de la armonía cambiadas, seis de ellas para suavizar las líneas de la contralto y del tenor. La última nota se sostiene, y hay una respiración marcada antes de cada verso.
 
@@ -187,6 +187,10 @@ En Génesis 28:10 a 22, la historia del sueño de Jacob en Betel, donde duerme s
 ### ¿De verdad tocó la orquesta del Titanic Nearer, My God, to Thee?
 
 Nadie lo sabe. Una mujer en un bote salvavidas dijo que lo oyó, pero el coronel Archibald Gracie, que sobrevivió al naufragio, escribió que las melodías que oyó eran alegres y no himnos [^marshall1912][^gracie]. El radiotelegrafista Harold Bride recordaba ragtime y luego "Autumn" [^marshall1912][^rogerhall].
+
+### ¿Es Nearer, My God, to Thee un himno para funerales?
+
+Se elige a menudo para ellos. Es un himno de confianza en medio del sufrimiento, y su última estrofa imagina a quien canta subiendo al final hacia lo alto, cantando aún "nearer, my God, to thee" (más cerca, Dios mío, de ti) [^sabbath1859]. Se cantó en los funerales del presidente McKinley en 1901, después de que lo oyeran decir sus palabras mientras agonizaba [^halstead][^panam]. Lead Me, Guide Me, un himnario católico de 2012, lo incluye entre sus himnos para funerales y para el Día de los Fieles Difuntos [^hymnary-lmgm784].
 
 ### ¿Qué voz canta la melodía?
 
@@ -227,3 +231,6 @@ La soprano canta la melodía de Mason, BETHANY, tal como la imprimió The Sabbat
 - [^trc]: Theodore Roosevelt Center, Dickinson State University, *President McKinley's funeral, 1901* (película de la Library of Congress). https://www.theodorerooseveltcenter.org/digital-library/o284583/
 - [^hsp1874]: Roswell D. Hitchcock, Zachary Eddy y Philip Schaff, eds., *Hymns and Songs of Praise for Public and Social Worship* (Nueva York: A. S. Barnes, 1874), p. 288, "Bethany. Arr. by Lowell Mason"; ejemplar de la Princeton Theological Seminary Library, página escaneada n295. https://archive.org/details/hymnssongso00hitc
 - [^kjv]: La Biblia, versión King James: Génesis 28:10 a 22; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Genesis%2028%3A10-22&version=KJV;RVA
+- [^hymnary-lds1985]: Hymnary.org, *Hymns of the Church of Jesus Christ of Latter-day Saints* (1985), n.º 100, "Nearer, My God, to Thee", Sarah F. Adams (1805 a 1848), melodía BETHANY de Lowell Mason (1792 a 1872). https://hymnary.org/hymn/LDS1985/100
+- [^hymnary-catholic]: Hymnary.org, búsqueda en himnarios de la Iglesia católica del primer verso "Nearer, my God, to thee" (18 apariciones, entre ellas *Hymns and Songs for Catholic Children*, 1870, n.º 166, y *Lead Me, Guide Me*, 2.ª edición, 2012, n.º 784). https://hymnary.org/search?qu=in%3Ainstances%20firstLine%3Anearer%20my%20god%20to%20thee%20denominations%3ACatholic
+- [^hymnary-lmgm784]: Hymnary.org, *Lead Me, Guide Me*, 2.ª edición (Chicago: GIA Publications, 2012; Iglesia católica), n.º 784, "Nearer, My God, to Thee", con sus temas "Funeral: Sacraments" y "All Souls: November 2nd". https://hymnary.org/hymn/LMGM2012/784

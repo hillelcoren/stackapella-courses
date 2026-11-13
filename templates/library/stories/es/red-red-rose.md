@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: a red red rose significado | a red red rose poema significado | quién escribió a red red rose | my love is like a red red rose traducción | a red red rose robert burns historia | a red red rose canción
-translatedFrom: ef28f05be619
+translatedFrom: 00b34d7825f7
 original: A Selection of Scots Songs de Peter Urbani, libro 2 (Edimburgo, 1794), Internet Archive | https://archive.org/details/selectionofscots02urba
 ---
 
@@ -154,6 +154,10 @@ Ninguna impresión temprana nombra a nadie, y la nota de Burns en su manuscrito,
 ### ¿A Red, Red Rose es un poema o una canción?
 
 Primero una canción: sus primeras impresiones, la de Urbani en 1794, la del Museum en 1796 y la de Thomson en 1799, la dan todas con música, y Burns se la envió a Johnson con una nota que nombraba su melodía [^urbani][^smm1796][^dick][^stenhouse]. También se lee como poema; el crítico William Hazlitt la elogió entre las canciones de amor de Burns [^graham][^gebbie4].
+
+### ¿Qué figura retórica es "my love is like a red, red rose"?
+
+Un símil: una comparación hecha con "like" (como). El amor de quien canta es como una rosa recién abierta en junio, y como una melodía tocada con dulzura [^smm1796][^smith]. Las promesas que siguen son hipérboles, exageraciones deliberadas: amar "'till a' the seas gang dry" (hasta que se sequen todos los mares) y "the rocks melt wi' the sun" (hasta que el sol derrita las rocas), y volver aunque fuera desde "ten thousand mile" (diez mil millas) [^smm1796][^smith].
 
 ### ¿Qué voz canta la melodía?
 

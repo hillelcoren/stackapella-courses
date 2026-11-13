@@ -1,9 +1,9 @@
 ---
 title: The Skye Boat Song: history, meaning and the words explained
-description: Harold Boulton's 1880s words, to an air half taken down from Hebridean boatmen, tell Bonnie Prince Charlie's June 1746 crossing to Skye with Flora MacDonald.
-lead: A Victorian song about a real escape, Bonnie Prince Charlie's crossing to Skye with Flora MacDonald in 1746. Harold Boulton wrote the words; half the air came from Hebridean boatmen.
+description: Harold Boulton's 1880s words, to an air its book says is half from Hebridean boatmen, tell Bonnie Prince Charlie's 1746 crossing to Skye with Flora MacDonald.
+lead: A Victorian song about a real escape, Bonnie Prince Charlie's crossing to Skye with Flora MacDonald in 1746. Harold Boulton wrote the words; half the air, its book says, came from Hebridean boatmen.
 words: Harold Boulton (1859 to 1935)
-tune: four bars from Hebridean boatmen, four added by Anne Campbell Macleod (died 1921)
+tune: four bars said to be from Hebridean boatmen (Songs of the North), four added by Anne Campbell Macleod (died 1921)
 earliestPrinting: Songs of the North, vol. I (London, Field and Tuer), undated; reviewed July 1885, quoted from it in 1888
 earliestPrintingSource: smith1888
 language: English
@@ -103,6 +103,7 @@ Our arrangement takes the melody, words and harmony from Songs of the North, in 
 ## Did you know?
 
 - Flora MacDonald's own account turns the song's second verse around: on the crossing she slept, and the Prince sang songs to entertain the company and kept watch over her, so that no one would tread on her in the dark. [^lyon][^balladindex]
+- On 19 September 2022, the day of Queen Elizabeth II's funeral, the massed pipes and drums of the Scottish and Irish regiments played it as her coffin neared Windsor Castle, after the service in Westminster Abbey. The reports give no reason for the choice. [^classicfm2022][^sdx2022]
 
 ## Singing it
 
@@ -124,6 +125,10 @@ The original words are Boulton's: a chorus and four verses, on the storm, Flora'
 ### Are there Gaelic lyrics to the Skye Boat Song?
 
 Yes, but they translate Boulton's English; they are not the boatmen's song. Smith noted in 1888 that Songs of the North also gave a Gaelic version. The later reprint we read, and Our National Songs of 1923, print "Iorram Sgitheanach", a Skye iorram or boat song, as Neil Shaw's "only authorised translation", and the reprint advertises a volume whose "Gaelic Text" Shaw edited. His dates are unknown, so it is not given here. No early source prints or names the boatmen's own song.[^sotn][^smith1888][^ons1923][^standrews]
+
+### What is the Outlander version of the Skye Boat Song?
+
+It is Robert Louis Stevenson's words, not Boulton's, sung to the same air as the theme of the Outlander television series, which began in 2014. The series' composer turned to Stevenson's "Sing me a song of a lad that is gone" and changed "lad" to "lass" for the story's heroine, which is why it differs from the "Speed, bonnie boat" most people know.[^mccreary2014][^variety2025][^songsoftravel]
 
 ### Which part sings the tune?
 
@@ -158,5 +163,9 @@ The soprano sings the tune, as Songs of the North prints it. Two singers take th
 - [^balladindex]: Robert B. Waltz and David G. Engle, *The Traditional Ballad Index*, "Skye Boat Song (Over the Sea to Skye)", California State University, Fresno. https://balladindex.org/Ballads/Brew79.html
 - [^imslp]: IMSLP, "Songs of the North (Folk Songs, Scottish)", work page with its publication data. https://imslp.org/wiki/Songs_of_the_North_(Folk_Songs,_Scottish)
 - [^standrews]: Jane Pettegree, "Gaelic boating songs, ancient and more modern", Soundyngs, University of St Andrews (2024). https://soundyngs.wp.st-andrews.ac.uk/2024/gaelic-boating-songs-ancient-and-more-modern/
+- [^mccreary2014]: Bear McCreary, the series' composer, "Outlander: Sassenach", bearmccreary.com (9 August 2014). https://bearmccreary.com/?p=12338
+- [^variety2025]: Variety Australia, on the final season's recording of the theme (18 December 2025). https://au.variety.com/2025/tv/news/annie-lennox-records-theme-for-final-season-of-outlander-31223
+- [^classicfm2022]: Sophia Alexandra Hall, "The Queen's funeral: how music moved a nation at Westminster Abbey and beyond", Classic FM (19 September 2022). https://classicfm.com/music-news/queen-elizabeth-ii-funeral-music
+- [^sdx2022]: Ben Borland, Scottish Daily Express (19 September 2022), on the Scottish music of the Queen's funeral. https://www.scottishdailyexpress.co.uk/news/uk-news/elizabeth-queen-scots-what-significance-28029785
 - [^iln1885]: *The Illustrated London News*, vol. 87, no. 2412 (London, 11 July 1885), p. 49, notice of *Songs of the North* (Field and Tuer). https://archive.org/details/sim_illustrated-london-news_1885-07-11_87_2412
 - [^chambers1885]: *Chambers's Journal of Popular Literature, Science and Arts*, vol. 2, no. 82 (Edinburgh, 25 July 1885), "The Month: Science and Arts", p. 476, notice of *The Songs of the North* (Field and Tuer). https://archive.org/details/sim_chambers-journal-of-popular-literature-science-and-arts_1885-07-25_2_82

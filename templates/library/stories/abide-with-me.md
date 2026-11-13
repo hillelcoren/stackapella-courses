@@ -135,7 +135,7 @@ Julian compared four early texts: Lyte's manuscript, the 1847 leaflet, the Remai
 
 ## Did you know?
 
-- The Massed Bands of India's armed forces played it at the Beating Retreat ceremony, which closes the Republic Day celebrations, every year from 1950. It was dropped from the programme in 2022 [^dawn2020][^scroll2022].
+- The Massed Bands of India's armed forces played it at the Beating Retreat ceremony, which closes the Republic Day celebrations, every year from 1950. It was dropped from the programme in 2022, and the reports called it a favourite of Mahatma Gandhi [^dawn2020][^scroll2022].
 
 ## Singing it
 
@@ -157,6 +157,10 @@ Because it was sung at the 1927 final at Wembley, and the custom stuck [^richard
 ### Is "Abide with Me, 'Tis Eventide" the same hymn?
 
 No. It is a separate American hymn, with words by Martin Lowrie Hofford and music by Harrison Millard [^hymnary-tis][^tabernacle]. Lyte's hymn begins "Abide with me! Fast falls the eventide" and is usually sung to William Henry Monk's EVENTIDE [^remains1850][^ham1861].
+
+### Is Abide with Me a funeral hymn?
+
+Yes, above all, though hymnals file it among evening hymns: as Ellerton noted in 1881, its evening is the evening of life [^julian][^canterbury]. Written by an English curate and spread by the Church of England's Hymns Ancient and Modern, it is sung far beyond that church: the Catholic hymnals Journeysongs and Lead Me, Guide Me carry it, the second listing it for funerals [^ham1861][^hymnary-js2012][^hymnary-lmgm2012]. It is not a Christmas hymn.
 
 ### Which part sings the tune?
 
@@ -189,6 +193,8 @@ The soprano sings the tune in our arrangement, Monk's melody exactly as Hymns An
 - [^mystic]: Mystic Seaport Museum, *And the Band Plays on… in Mystic Seaport's Collections* (12 December 2022). https://research.mysticseaport.org/?p=13965
 - [^richards]: Barry Richards, *A hymn confirms that the FA Cup final is a matter of life and death*, The Conversation (16 May 2014). https://theconversation.com/a-hymn-confirms-that-the-fa-cup-final-is-a-matter-of-life-and-death-26359
 - [^cardiff]: Cardiff City FC, *90 Years: A Final of 'Firsts'* (April 2017). https://www.cardiffcityfc.co.uk/news/2017/april/90-years---a-final-of-firsts
+- [^hymnary-js2012]: Hymnary.org, *Journeysongs (3rd ed.)* (Portland, Oregon: OCP, 2012), hymnal page, denomination "Roman Catholic Church". https://hymnary.org/hymnal/JS2012
+- [^hymnary-lmgm2012]: Hymnary.org, *Lead Me, Guide Me* (2nd ed., Chicago: GIA Publications, 2012), hymnal page, denomination "Roman Catholic Church", and No. 20, "Abide with Me", with its topics ("Funeral: Sacraments"). https://hymnary.org/hymn/LMGM2012/20
 - [^dawn2020]: *Dawn*, "Christian hymn dropped from Indian military band" (16 January 2020). https://www.dawn.com/news/1528639/christian-hymn-dropped-from-indian-military-band
 - [^scroll2022]: Scroll.in, "'Abide with me', Gandhi's favourite hymn, dropped from Republic Day's Beating the Retreat ceremony" (23 January 2022, from PTI). https://scroll.in/latest/1015682/scroll_in
 - [^hymnary-tis]: Hymnary.org, *WELCOME GUEST* (tune, Harrison Millard), for *Abide with Me, 'Tis Eventide* (words, Martin Lowrie Hofford). https://hymnary.org/tune/welcome_guest_millard

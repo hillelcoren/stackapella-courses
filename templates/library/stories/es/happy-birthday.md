@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: cumpleaños feliz historia | quién escribió cumpleaños feliz | origen de cumpleaños feliz | happy birthday to you historia | quién escribió happy birthday | happy birthday derechos de autor
-translatedFrom: b2034bfff2a7
+translatedFrom: 8d42ce64cc44
 ---
 
 Happy Birthday to You, a menudo llamada solo Happy Birthday, es la canción que un grupo le canta a alguien el día de su cumpleaños, con el nombre de esa persona en el tercer verso. Su melodía nació como Good Morning to All, un saludo para la clase que compuso Mildred J. Hill sobre una letra de su hermana Patty Smith Hill, publicado en Chicago en 1893 en su libro Song Stories for the Kindergarten [^order2015][^filson][^brauneis]. La letra de cumpleaños llegó después y nadie la firmó: su primera impresión conocida, en un manual metodista de escuela dominical de 1911, no nombra a ningún autor [^ew1911][^order2015]. Durante décadas, una editorial musical cobró por usar la canción [^brauneis][^order2015], hasta que en 2015 un tribunal federal de Estados Unidos resolvió que el copyright que reclamaba no cubría la letra [^order2015][^kqed].
@@ -120,6 +120,10 @@ La Clayton F. Summy Company de Chicago, editora del cancionero de las hermanas H
 
 En Estados Unidos, los documentos dicen que no: el copyright de Good Morning to All, que cubría la melodía, venció en 1949, y en 2015 un tribunal federal resolvió que el copyright que reclamaba Warner/Chappell no cubría la letra [^order2015][^brauneis]. En 2016, el tribunal aprobó un acuerdo por el que Warner/Chappell se comprometía a devolver 14 millones de dólares, y según las crónicas, su sentencia final declaró la canción de dominio público [^abc7][^kqed].
 
+### ¿Por qué cantamos Happy Birthday y soplamos las velas?
+
+La canción y las velas tienen historias distintas. La canción se difundió como saludo desde las clases de escuela dominical a partir de 1911, y luego por los cancioneros y las películas de principios de los años treinta [^ew1911][^order2015][^brauneis]. Las velas son más antiguas. En Gotha, en 1801, a Goethe le sirvieron una tarta de cumpleaños encendida con unas cincuenta velas, y anotó que en las fiestas de los niños se deja sitio para los años que vendrán [^goethe1801][^natgeo]. En Suiza, en 1881, la tarta de cumpleaños llevaba una vela por cada año, y quien cumplía años las apagaba de un soplo, una tras otra, antes de comerla [^folklore1883].
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía de principio a fin. Con dos cantantes, la contralto se une casi siempre una tercera o una sexta por debajo; con tres, el bajo añade notas largas y graves en "oo"; con cuatro, el tenor rellena el centro, casi siempre en Sol. Todas las voces menos el bajo cantan la letra.
@@ -145,3 +149,6 @@ La soprano canta la melodía de principio a fin. Con dos cantantes, la contralto
 - [^ipwatchdog2016]: Andrew MacKay y Daniel Schacht, "The Most Famous Song in the World Set Free: Impacts of the Happy Birthday to You Settlement", *IPWatchdog* (28 de julio de 2016). https://ipwatchdog.com/2016/07/28/happy-birthday-to-you-settlement/id=71242/
 - [^abc7]: ABC7 Los Angeles (KABC), "'Happy Birthday' song now in public domain; no more licensing fees required" (27 de junio de 2016). https://abc7.com/happy-birthday-song-licensing-agreement-public-domain-copyright/1403454/
 - [^kqed]: Cy Musiker, "Happy Birthday Song Has Been Set Free", KQED Arts (27 de junio de 2016). https://www.kqed.org/arts/11745186/happy-birthday-song-has-been-set-free
+- [^goethe1801]: Johann Wolfgang von Goethe, *Tag- und Jahreshefte*, el año 1801, in *Sämtliche Werke*, vol. 5 (Leipzig: Insel, sin fecha), pp. 421 a 422; ejemplar de la Robarts Library, Universidad de Toronto, facsímil. https://archive.org/details/smtlichewer05goet/page/421
+- [^natgeo]: National Geographic, "Blowing out birthday candles is surprisingly ancient" (17 de julio de 2025). https://www.nationalgeographic.com/history/article/history-of-birthday-candles
+- [^folklore1883]: "Continental Folk-lore Notes" (recogidas en Suiza y Wurtemberg en 1881), *The Folk-Lore Journal*, vol. 1 (Londres: Elliot Stock para la Folk-Lore Society, 1883), pp. 380 a 381; facsímil. https://archive.org/details/bub_gb_pE4KAAAAIAAJ/page/n431

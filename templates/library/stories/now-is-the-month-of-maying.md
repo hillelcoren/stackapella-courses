@@ -115,6 +115,10 @@ It is an invitation to celebrate May. It is the month of "Maying", when young pe
 
 Thomas Morley composed the music and printed it in London in 1595 [^morley1595][^fellowes1921]. Nobody knows who wrote the English words: the book names no poet, and Michael Drayton's name has been suggested, though Fellowes gave no evidence for it [^morley1595][^fellowes1920]. Morley's Italian edition sets the same music to the opening lines of a song by Orazio Vecchi, printed in Venice in 1590 [^morley1595it][^chilesotti].
 
+### Is Now Is the Month of Maying a madrigal?
+
+In the broad sense, yes. Morley called it a ballett: among the kinds of light music he counted the madrigal the best, and the ballett "another kind more light", made for dancing, with its "fa la" refrains [^morley1597][^olemiss]. But balletts have always been printed and sung among the English madrigals, and Fellowes called Morley's set the best-known English madrigal book [^fellowes1921]. It is polyphonic: five voices, each in its own part-book with a line of its own [^morley1595].
+
 ### Is Now Is the Month of Maying for SATB?
 
 Morley wrote it for five voices: the title of his book says "to five voyces", and the song appears in all five part-books [^morley1595]. Our arrangement is SATB. It keeps three of Morley's parts as they are and joins his two tenor parts into one, so four singers can sing all of it. It needs all four parts, as the tenor holds notes that complete the chords.

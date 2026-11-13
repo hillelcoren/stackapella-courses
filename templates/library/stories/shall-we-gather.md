@@ -72,7 +72,7 @@ We sing verse 1 and the chorus.
 
 ### The full words
 
-These are the six verses and the chorus as Lowry printed them in Bright Jewels (1869), page 110, the book our arrangement is read from. Happy Voices (1865) has five: it lacks the third verse here, has "Mirror of the Saviour's face" in the fifth, and "the silver river" in the last. The six verses as here are already in Bradbury's New Golden Shower (1866).
+These are the six verses and the chorus as Lowry printed them in Bright Jewels (1869), page 110, the book our arrangement is read from. Happy Voices (1865) has five: it lacks the third verse here, has "Mirror of the Saviour's face" in the fifth, and "the silver river" in the last. The six verses as here are already in Bradbury's New Golden Shower (1866). Lowry wrote the words and the tune and died in 1899, so both are in the public domain [^burrage1888][^canterbury-lowry][^hall]; later arrangements are works of their own, and ours is read from his own 1869 parts.
 
 **Verse 1**
 Shall we gather at the river
@@ -147,6 +147,10 @@ Revelation 22:1, "a pure river of water of life, clear as crystal, proceeding ou
 
 It is best known from two of John Ford's westerns. In Stagecoach (1939) it plays as two outcasts, a dance-hall girl and a drunken doctor, are driven out of town [^filmsite-stagecoach][^mmuk-stagecoach], and in The Searchers (1956) settlers sing it at the graves of a murdered family [^filmsite-searchers][^mmuk-searchers]. The film catalogue of the American Film Institute lists it in both [^afi-stagecoach][^afi-searchers].
 
+### Is Shall We Gather at the River a funeral hymn?
+
+It is a gospel hymn, written by a Baptist pastor for Sunday schools, not a spiritual [^burrage1888][^canterbury-hymn]. Because it sings of meeting again at the river of life, many hymnals list it for funerals, from the Chalice Hymnal to Glory to God [^hymnary-text]. It is in Catholic use too: Journeysongs and Glory and Praise list it under the Order of Christian Funerals, the Catholic funeral rite [^hymnary-text][^ocf]. In The Searchers it is sung at a graveside [^filmsite-searchers].
+
 ### Which part sings the tune?
 
 The soprano sings Lowry's tune, as he printed it in Bright Jewels in 1869 [^brightjewels1869]. With two singers you have the tune and the alto, which moves mostly in thirds below it; with three, add the bass on the roots, and the tenor makes four.
@@ -169,7 +173,8 @@ The soprano sings Lowry's tune, as he printed it in Bright Jewels in 1869 [^brig
 - [^canterbury-lowry]: *The Canterbury Dictionary of Hymnology*, "Robert Lowry" (Canterbury Press), opening section. https://hymnology.hymnsam.co.uk/r/robert-lowry
 - [^canterbury-hymn]: *The Canterbury Dictionary of Hymnology*, "Shall we gather at the river" (Canterbury Press), opening section. https://hymnology.hymnsam.co.uk/s/shall-we-gather-at-the-river
 - [^fenner]: Chris Fenner, "Shall we gather at the river", Hymnology Archive (17 July 2018, revised 11 February 2025). https://www.hymnologyarchive.com/shall-we-gather
-- [^hymnary-text]: Hymnary.org, *Shall We Gather at the River?* (text), with its notes for leaders. https://hymnary.org/text/shall_we_gather_at_the_river
+- [^hymnary-text]: Hymnary.org, *Shall We Gather at the River?* (text), with its notes for leaders and its list of hymnals (877), with their topics. https://hymnary.org/text/shall_we_gather_at_the_river
+- [^ocf]: Liturgy Office, Catholic Bishops' Conference of England and Wales, *Order of Christian Funerals*. https://liturgyoffice.org/Resources/OCF/index.shtml
 - [^hymnary-bh1956]: Hymnary.org, *Baptist Hymnal* (1956), No. 481, "Shall We Gather at the River", tune listed as HANSOM PLACE. https://hymnary.org/hymn/BH1956/481
 - [^ngs1866]: William B. Bradbury, *The New Golden Shower, Containing the Gems of the "Golden Shower," with About One-Half Additional (New) Pieces, Designed for Sunday Schools, Social, Missionary and Temperance Meetings* (Boston: D. B. Brooks & Brother; entered 1866 by William B. Bradbury, New York), p. 25, "Beautiful River", "By permission of the author, Rev. R. Lowry"; Princeton Theological Seminary Library copy, facsimile, image n26. https://archive.org/details/newgoldenshowerc00brad/page/n26
 - [^kjv]: The Bible, King James Version: Revelation 22:1 to 2. https://www.biblegateway.com/passage/?search=Revelation%2022%3A1-2&version=KJV

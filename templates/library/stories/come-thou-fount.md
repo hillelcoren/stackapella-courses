@@ -146,6 +146,14 @@ Ebenezer means "stone of help" [^nrsvue][^easton]. In 1 Samuel 7:12 the prophet 
 
 No one knows. NETTLETON was printed with no composer named, as HALLELUJAH, in Wyeth's Repository of Sacred Music, Part Second (Harrisburg, 1813) [^hymnary-nettleton][^hymnarchive][^psh]. Some hymnals print it unsigned or as a traditional American melody; others credit John Wyeth, its printer, or the preacher Asahel Nettleton, its namesake, but neither is known to have composed music [^steel][^hymnary-nettleton][^hymnarchive][^methodist1905].
 
+### What does "prone to wander" mean in Come Thou Fount?
+
+"Prone" means inclined: in verse 3 the singer admits a heart that tends to stray from God and asks grace to bind it like a chain [^madan1760][^methodist1905]. The line is often read as Robinson foretelling his own later life, but he wrote it in his early twenties, "when among the methodists" [^dyer][^julian]. The stagecoach scene of regret is a family story whose oldest known printing is of 1859 [^belcher], and how far his beliefs later changed is argued [^dyer][^julian-robinson].
+
+### Is Come Thou Fount a Catholic or Latter-day Saint hymn, and is it public domain?
+
+It is sung across churches. Latter-day Saints printed it in 1841 and in their 1948 hymnal, dropped it in 1985, and brought it back in Hymns: For Home and Church, as No. 1001 [^lds-about][^hymnary-lds]. Lead Me, Guide Me, a Catholic hymnal of 2012, has it as No. 433 [^hymnary-lmgm]. It is not a Christmas hymn; Robinson's Christmas hymn is another [^belcher][^duffield]. The words and NETTLETON are in the public domain: Robinson died in 1790, and the tune was printed in 1813 [^dnb][^wyeth1813]. Later rewordings and arrangements can carry their own rights.
+
 ### Which part sings the tune?
 
 The soprano sings NETTLETON. With two singers you have the tune and the alto, close underneath it and mostly on one note. A third singer adds the bass, mostly on the roots of the chords, and the tenor fills the middle for four [^methodist1905].
@@ -180,3 +188,9 @@ The soprano sings NETTLETON. With two singers you have the tune and the alto, cl
 - [^kjv]: The Bible, King James Version: 1 Samuel 7:12; Malachi 3:6; Hebrews 1:7; Hebrews 12:18 to 25; 2 Corinthians 1:22; Ephesians 1:13. https://www.biblegateway.com/passage/?search=1%20Samuel%207%3A12%3B%20Malachi%203%3A6%3B%20Hebrews%201%3A7%3B%20Hebrews%2012%3A18-25%3B%202%20Corinthians%201%3A22%3B%20Ephesians%201%3A13&version=KJV
 - [^nrsvue]: The Bible, New Revised Standard Version Updated Edition, 1 Samuel 7:12, with its note on the name. https://www.biblegateway.com/passage/?search=1+Samuel+7%3A12&version=NRSVUE
 - [^easton]: M. G. Easton, *Easton's Bible Dictionary* (1897), "Eben-ezer". https://biblegateway.com/resources/eastons-bible-dictionary/Eben-ezer
+- [^lds-about]: The Church of Jesus Christ of Latter-day Saints, "About the Hymns: Come, Thou Fount of Every Blessing", Sacred Music Gospel Study Resource. https://www.churchofjesuschrist.org/study/manual/sacred-music-gospel-study-resource-pilot/1001-come-thou-fount-of-every-blessing
+- [^hymnary-lds]: Hymnary.org, *Hymns: For Home and Church* (The Church of Jesus Christ of Latter-day Saints), No. 1001, "Come, Thou Fount of Every Blessing". https://hymnary.org/hymn/LDS2026/1001
+- [^hymnary-lmgm]: Hymnary.org, *Lead Me, Guide Me*, 2nd edition (Chicago: GIA Publications, 2012; Roman Catholic Church), No. 433, "Come, Thou Fount of Every Blessing". https://hymnary.org/hymn/LMGM2012/433
+- [^lds-about]: The Church of Jesus Christ of Latter-day Saints, "About the Hymns: Come, Thou Fount of Every Blessing", Sacred Music Gospel Study Resource. https://www.churchofjesuschrist.org/study/manual/sacred-music-gospel-study-resource-pilot/1001-come-thou-fount-of-every-blessing
+- [^hymnary-lds]: Hymnary.org, *Hymns: For Home and Church* (The Church of Jesus Christ of Latter-day Saints), No. 1001, "Come, Thou Fount of Every Blessing". https://hymnary.org/hymn/LDS2026/1001
+- [^hymnary-lmgm]: Hymnary.org, *Lead Me, Guide Me*, 2nd edition (Chicago: GIA Publications, 2012; Roman Catholic Church), No. 433, "Come, Thou Fount of Every Blessing". https://hymnary.org/hymn/LMGM2012/433

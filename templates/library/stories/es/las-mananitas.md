@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: las mañanitas historia | quién escribió las mañanitas | las mañanitas significado | las mañanitas del rey david | origen de las mañanitas | las mañanitas letra completa
-translatedFrom: 2706bcc8ddff
+translatedFrom: 3a6e9fad744b
 original: El laúd hispano-americano (Los Ángeles, 1921), ejemplar de la Library of Congress, Internet Archive | https://archive.org/details/ellaudhispanoame00sant
 ---
 
@@ -66,7 +66,7 @@ En la página 374 de García Cubas, el estribillo empieza "Despierta divina auro
 
 ### La letra completa
 
-Estas son las siete estrofas tal como las imprime El laúd hispano-americano (Los Ángeles, 1921), en las páginas 104 y 105, donde van seguidas, sin separación; con la ortografía y las mayúsculas del impreso, incluida la tilde antigua de "Á", que hoy se escribe "a". Son tradicionales, y el libro no nombra autor. Nuestro arreglo canta las tres primeras.
+Estas son las siete estrofas tal como las imprime El laúd hispano-americano (Los Ángeles, 1921), en las páginas 104 y 105, donde van seguidas, sin separación; con la ortografía y las mayúsculas del impreso, incluida la tilde antigua de "Á", que hoy se escribe "a". Son tradicionales, y el libro no nombra autor; no se conoce a nadie que hiciera la letra o la melodía, y la melodía ya estaba impresa en 1904 [^garciacubas1904]. Los arreglos y las grabaciones posteriores son obras propias, con sus propios derechos de autor; nuestro arreglo y su armonía son nuestros. Nuestro arreglo canta las tres primeras.
 
 **Estrofa 1**
 Estas son las mañanitas
@@ -141,6 +141,10 @@ Margit Frenk, según recoge Gómez Mutio, cuenta diez canciones distintas llamad
 ### ¿Quién escribió Las Mañanitas?
 
 No se sabe de nadie que la escribiera: es una canción tradicional mexicana. Su melodía y la estrofa de Amapolita las imprimió en 1904 García Cubas, de memoria [^garciacubas1904]. Manuel M. Ponce, a quien a menudo se nombra como su autor, escribió en un ensayo impreso en 1917 que era obra del "anónimo autor popular" [^ponce1917]. La primera impresión conocida de la estrofa del rey David es un cancionero de 1921 que no nombra autor [^laud1921].
+
+### ¿Por qué se cantan Las Mañanitas, y desde cuándo?
+
+Para despertar al festejado al amanecer de su cumpleaños o de su santo [^toor1947][^manfred1932]. Gómez Mutio la cuenta entre las herederas de las antiguas albas y alboradas, canciones del amanecer [^gomez2024]. García Cubas, en un libro de 1904, recuerda cantar mañanitas al alba en la década de 1860 [^garciacubas1904]; una hoja suelta de 1911 las canta para el día del santo [^carter1911]; y en 1947 Frances Toor la llamó la serenata nacional de cumpleaños al amanecer [^toor1947]. También se canta fuera de México: en 1921 se imprimió en Los Ángeles [^laud1921].
 
 ### ¿Por qué Las Mañanitas menciona al rey David?
 

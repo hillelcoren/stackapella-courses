@@ -20,7 +20,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió shall we gather at the river | shall we gather at the river significado | shall we gather at the river historia del himno | shall we gather at the river versículo bíblico | shall we gather at the river películas | shall we gather at the river letra
-translatedFrom: 81eecb871b4d
+translatedFrom: 6fcbcf3d8a96
 ---
 
 Shall We Gather at the River?, llamado Beautiful River en sus primeras impresiones conocidas, es un himno evangélico de Robert Lowry, pastor bautista de Brooklyn, que escribió su letra y su melodía en julio de 1864 [^burrage1888][^sankey1907][^canterbury-hymn]. Su primera estrofa hace una pregunta sobre el cielo, y el estribillo la responde: sí, nos reuniremos junto al río de la vida que brota del trono de Dios en el libro del Apocalipsis [^burrage1888][^brightjewels1869]. Su primera impresión conocida está en Happy Voices, un libro de escuela dominical de 1865 [^happyvoices1865][^julian], y Henry Burrage e Ira D. Sankey escribieron más tarde que cuarenta mil niños de Brooklyn lo cantaron en 1865, el año después de escribirlo [^burrage1888][^sankey1907]. Hymnary.org lo registra en más de 800 himnarios [^hymnary-text], y el director de cine John Ford lo usó en sus películas del Oeste, donde los críticos de cine lo llaman uno de sus himnos favoritos [^afi-stagecoach][^afi-searchers][^filmsite-stagecoach][^bbcmusic][^ebert-clementine].
@@ -73,7 +73,7 @@ Cantamos la estrofa 1 y el estribillo.
 
 ### La letra completa
 
-Estas son las seis estrofas y el estribillo tal como Lowry los imprimió en Bright Jewels (1869), página 110, el libro del que se lee nuestro arreglo. Happy Voices (1865) tiene cinco: le falta la que aquí es la tercera estrofa, trae "Mirror of the Saviour's face" en la quinta y "the silver river" en la última. Las seis estrofas, tal como aquí, ya están en The New Golden Shower (1866), de Bradbury.
+Estas son las seis estrofas y el estribillo tal como Lowry los imprimió en Bright Jewels (1869), página 110, el libro del que se lee nuestro arreglo. Happy Voices (1865) tiene cinco: le falta la que aquí es la tercera estrofa, trae "Mirror of the Saviour's face" en la quinta y "the silver river" en la última. Las seis estrofas, tal como aquí, ya están en The New Golden Shower (1866), de Bradbury. Lowry escribió la letra y la melodía y murió en 1899, así que las dos son de dominio público [^burrage1888][^canterbury-lowry][^hall]; los arreglos posteriores son obras propias, y el nuestro se lee de sus propias voces de 1869.
 
 **Estrofa 1**
 > Shall we gather at the river
@@ -176,6 +176,10 @@ En Apocalipsis 22:1, "un río limpio de agua de vida, resplandeciente como crist
 
 Se conoce sobre todo por dos películas del Oeste de John Ford. En Stagecoach (1939) suena mientras echan del pueblo a dos marginados, una chica de salón de baile y un médico borracho [^filmsite-stagecoach][^mmuk-stagecoach], y en The Searchers (1956) unos colonos lo cantan ante las tumbas de una familia asesinada [^filmsite-searchers][^mmuk-searchers]. El catálogo de películas del American Film Institute lo registra en las dos [^afi-stagecoach][^afi-searchers].
 
+### ¿Es Shall We Gather at the River un himno de funeral?
+
+Es un himno evangélico, escrito por un pastor bautista para las escuelas dominicales, no un espiritual [^burrage1888][^canterbury-hymn]. Como canta el reencuentro junto al río de la vida, muchos himnarios lo incluyen para funerales, del Chalice Hymnal a Glory to God [^hymnary-text]. También se canta en la Iglesia católica: Journeysongs y Glory and Praise lo incluyen en el Ritual de exequias (Order of Christian Funerals), el rito católico de funerales [^hymnary-text][^ocf]. En The Searchers se canta junto a una tumba [^filmsite-searchers].
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía de Lowry, tal como él la imprimió en Bright Jewels en 1869 [^brightjewels1869]. Con dos cantantes tienes la melodía y la contralto, que va casi siempre en terceras por debajo; con tres, añade el bajo en las fundamentales, y el tenor completa las cuatro voces.
@@ -198,7 +202,8 @@ La soprano canta la melodía de Lowry, tal como él la imprimió en Bright Jewel
 - [^canterbury-lowry]: *The Canterbury Dictionary of Hymnology*, "Robert Lowry" (Canterbury Press), sección inicial. https://hymnology.hymnsam.co.uk/r/robert-lowry
 - [^canterbury-hymn]: *The Canterbury Dictionary of Hymnology*, "Shall we gather at the river" (Canterbury Press), sección inicial. https://hymnology.hymnsam.co.uk/s/shall-we-gather-at-the-river
 - [^fenner]: Chris Fenner, "Shall we gather at the river", Hymnology Archive (17 de julio de 2018, revisado el 11 de febrero de 2025). https://www.hymnologyarchive.com/shall-we-gather
-- [^hymnary-text]: Hymnary.org, *Shall We Gather at the River?* (texto), con sus notas para quien dirige. https://hymnary.org/text/shall_we_gather_at_the_river
+- [^hymnary-text]: Hymnary.org, *Shall We Gather at the River?* (texto), con sus notas para quien dirige y su lista de himnarios (877), con sus temas. https://hymnary.org/text/shall_we_gather_at_the_river
+- [^ocf]: Liturgy Office, Catholic Bishops' Conference of England and Wales, *Order of Christian Funerals*. https://liturgyoffice.org/Resources/OCF/index.shtml
 - [^hymnary-bh1956]: Hymnary.org, *Baptist Hymnal* (1956), n.º 481, "Shall We Gather at the River", melodía registrada como HANSOM PLACE. https://hymnary.org/hymn/BH1956/481
 - [^ngs1866]: William B. Bradbury, *The New Golden Shower, Containing the Gems of the "Golden Shower," with About One-Half Additional (New) Pieces, Designed for Sunday Schools, Social, Missionary and Temperance Meetings* (Boston: D. B. Brooks & Brother; registrado en 1866 por William B. Bradbury, Nueva York), p. 25, "Beautiful River", "By permission of the author, Rev. R. Lowry"; ejemplar de la Princeton Theological Seminary Library, facsímil, imagen n26. https://archive.org/details/newgoldenshowerc00brad/page/n26
 - [^kjv]: La Biblia, versión King James: Apocalipsis 22:1 a 2; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Revelation%2022%3A1-2&version=KJV

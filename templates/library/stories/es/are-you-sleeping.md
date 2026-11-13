@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: frère jacques historia | frère jacques significado | quién escribió frère jacques | frère jacques canon | martinillo canción historia | fray santiago canción significado
-translatedFrom: dd06dabc7120
+translatedFrom: 82d2f5e6801f
 original: The Gem (Filadelfia, 1911), Internet Archive | https://archive.org/details/acredse00phil
 ---
 
@@ -68,7 +68,7 @@ Frère Jacques, que en inglés se canta como Are You Sleeping? o Are You Sleepin
 
 ### La letra francesa
 
-Esta es la letra tal como se imprimió en las páginas 18 y 19 de Vieilles chansons pour les petits enfants (París, 1883), con nuestra traducción sencilla al español bajo cada verso [^widor1883].
+Esta es la letra tal como se imprimió en las páginas 18 y 19 de Vieilles chansons pour les petits enfants (París, 1883), con nuestra traducción sencilla al español bajo cada verso [^widor1883]. Dicho de forma aproximada, el francés suena "frer YAK, dor-mé VU? so-NÉ le ma-TÍN", con la j de Jacques como la ll rioplatense: Jacques tiene una sola sílaba, y no se pronuncian las terminaciones "-ues" de Jacques, "-s" de vous ni "-es" de matines [^littre].
 
 > Frère Jacques, Frère Jacques,
 Hermano Jacques, hermano Jacques,
@@ -177,3 +177,4 @@ Todas. En un canon todos cantan la misma melodía, empezando en momentos distint
 - [^gustavmahler]: GustavMahler.com, "Musical Analysis of Third Movement: Funeral March in Callot's Manner" (Symphony No. 1). https://gustavmahler.com/symphonies/No1/Musical-Analysis-Of-Third-Movement-Funeral-March-in-Callots-Manner.html
 - [^ganem1999]: J. P. Ganem y C. C. Carson, "Frère Jacques Beaulieu: from rogue lithotomist to nursery rhyme character", *The Journal of Urology* 161, n.º 4 (abril de 1999), pp. 1067 a 1069, resumen, PMID 10081839. https://doi.org/10.1016/s0022-5347(01)61591-x
 - [^douglas1726]: James Douglas, *The History of the Lateral Operation: or, an Account of the Method of Extracting a Stone ... first attempted by Frere Jacques in France* (Londres, 1726), portada; Internet Archive, ítem bim_eighteenth-century_the-history-of-the-later_douglas-james-m-d_1726. https://archive.org/details/bim_eighteenth-century_the-history-of-the-later_douglas-james-m-d_1726
+- [^littre]: Émile Littré, *Dictionnaire de la langue française* (París: Hachette, 1872 a 1877), las entradas "frère", "jacques", "dormir", "vous", "sonner" y "matines", cada una con su pronunciación, en littre.org. https://www.littre.org/definition/matines

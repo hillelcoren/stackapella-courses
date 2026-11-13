@@ -66,7 +66,7 @@ The hymn never names Christ; Adams was a Unitarian, and her verses speak only of
 
 ### The full words
 
-Adams's five verses as The Sabbath Hymn and Tune Book printed them with BETHANY in 1859, where repeat signs mark each verse's sixth line to be sung twice [^sabbath1859]. Her own text of 1841 differs in a few words, given under Versions and other words [^fox1841]. Verses that later editors added are not hers and are left out.
+Adams's five verses as The Sabbath Hymn and Tune Book printed them with BETHANY in 1859, where repeat signs mark each verse's sixth line to be sung twice [^sabbath1859]. Her own text of 1841 differs in a few words, given under Versions and other words [^fox1841]. Verses that later editors added are not hers and are left out. Adams died in 1848 and Mason in 1872, so her words and BETHANY are in the public domain [^dnb-adams][^hymnary-lds1985]; added verses and later arrangements can carry their own rights.
 
 **Verse 1**
 Nearer, my God, to thee,
@@ -115,7 +115,7 @@ Nearer to thee.
 
 ## How it is sung
 
-First sung by Unitarians, it was in the Church of England's Hymns Ancient and Modern within twenty years [^ham1861][^canterbury] and in churches of many kinds in Britain and America [^julian][^bb1906]. In Spanish it is sung as "Más cerca, oh Dios, de ti", in Juan B. Cabrera's version [^hymnary-es]. Its lines run six and four syllables, and BETHANY sings the next-to-last line twice, so the meter is 6.4.6.4.6.6.6.4 [^sabbath1859][^hymnary-text].
+First sung by Unitarians, it was in the Church of England's Hymns Ancient and Modern within twenty years [^ham1861][^canterbury] and in churches of many kinds in Britain and America [^julian][^bb1906]. Latter-day Saints sing it, as No. 100 of their 1985 hymnbook [^hymnary-lds1985], and Catholic hymnals have printed it too, from Hymns and Songs for Catholic Children (1870) to Lead Me, Guide Me (2012) [^hymnary-catholic]. In Spanish it is sung as "Más cerca, oh Dios, de ti", in Juan B. Cabrera's version [^hymnary-es]. Its lines run six and four syllables, and BETHANY sings the next-to-last line twice, so the meter is 6.4.6.4.6.6.6.4 [^sabbath1859][^hymnary-text].
 
 Our arrangement is Mason's own four parts in G, read from the 1859 book and checked note for note against Hymns and Songs of Praise of 1874 [^sabbath1859][^hsp1874], written in 3/4 where the 1859 book has six-crotchet bars. We sing verse 1, its repeated line twice, the lower parts one note to a syllable while the tune slurs two notes on "That" and on the last "Nearer". Nine harmony notes are changed, six of them to smooth the alto and tenor. The last note is held, and a breath is marked before every line.
 
@@ -151,6 +151,10 @@ Genesis 28:10 to 22, the story of Jacob's dream at Bethel, where he sleeps on a 
 ### Did the Titanic's band really play Nearer, My God, to Thee?
 
 No one knows. A woman in a lifeboat said she heard it, but Colonel Archibald Gracie, who survived the sinking, wrote that the tunes he heard were cheerful and not hymns [^marshall1912][^gracie]. The wireless operator Harold Bride remembered ragtime and then "Autumn" [^marshall1912][^rogerhall].
+
+### Is Nearer, My God, to Thee a funeral hymn?
+
+It is often chosen for one. It is a hymn of trust through suffering, and its last verse pictures the singer flying upward at the end, still singing "nearer, my God, to thee" [^sabbath1859]. It was sung at President McKinley's funeral services in 1901, after he was heard saying its words as he lay dying [^halstead][^panam]. Lead Me, Guide Me, a Catholic hymnal of 2012, lists it among its hymns for funerals and for All Souls' Day [^hymnary-lmgm784].
 
 ### Which part sings the tune?
 
@@ -191,3 +195,6 @@ The soprano sings Mason's tune, BETHANY, as The Sabbath Hymn and Tune Book print
 - [^trc]: Theodore Roosevelt Center, Dickinson State University, *President McKinley's funeral, 1901* (film from the Library of Congress). https://www.theodorerooseveltcenter.org/digital-library/o284583/
 - [^hsp1874]: Roswell D. Hitchcock, Zachary Eddy and Philip Schaff, editors, *Hymns and Songs of Praise for Public and Social Worship* (New York: A. S. Barnes, 1874), p. 288, "Bethany. Arr. by Lowell Mason"; Princeton Theological Seminary Library copy, scan page n295. https://archive.org/details/hymnssongso00hitc
 - [^kjv]: The Bible, King James Version: Genesis 28:10 to 22. https://www.biblegateway.com/passage/?search=Genesis%2028%3A10-22&version=KJV
+- [^hymnary-lds1985]: Hymnary.org, *Hymns of the Church of Jesus Christ of Latter-day Saints* (1985), No. 100, "Nearer, My God, to Thee", Sarah F. Adams (1805 to 1848), tune BETHANY by Lowell Mason (1792 to 1872). https://hymnary.org/hymn/LDS1985/100
+- [^hymnary-catholic]: Hymnary.org, search of hymnals of the Roman Catholic Church for the first line "Nearer, my God, to thee" (18 instances, among them *Hymns and Songs for Catholic Children*, 1870, No. 166, and *Lead Me, Guide Me*, 2nd edition, 2012, No. 784). https://hymnary.org/search?qu=in%3Ainstances%20firstLine%3Anearer%20my%20god%20to%20thee%20denominations%3ACatholic
+- [^hymnary-lmgm784]: Hymnary.org, *Lead Me, Guide Me*, 2nd edition (Chicago: GIA Publications, 2012; Roman Catholic Church), No. 784, "Nearer, My God, to Thee", with its topics "Funeral: Sacraments" and "All Souls: November 2nd". https://hymnary.org/hymn/LMGM2012/784

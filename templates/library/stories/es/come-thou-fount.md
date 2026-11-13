@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: come thou fount of every blessing historia | come thou fount significado | qué significa ebenezer en come thou fount | quién escribió come thou fount of every blessing | quién compuso la música de come thou fount
-translatedFrom: bcd7924ff1d8
+translatedFrom: 971f82e10b0e
 listen: National Jukebox, grabación de 1922 | https://archive.org/details/loc-jukebox-61007-come-thou-fount-of-every-blessing
 ---
 
@@ -179,6 +179,14 @@ Ebenezer significa "piedra de ayuda" [^nrsvue][^easton]. En 1 Samuel 7:12, el pr
 
 No se sabe. NETTLETON se imprimió sin nombre de compositor, como HALLELUJAH, en Wyeth's Repository of Sacred Music, Part Second (Harrisburg, 1813) [^hymnary-nettleton][^hymnarchive][^psh]. Algunos himnarios la imprimen sin firma o como melodía tradicional estadounidense; otros la atribuyen a John Wyeth, su impresor, o al predicador Asahel Nettleton, que le da nombre, pero no se sabe que ninguno de los dos compusiera música [^steel][^hymnary-nettleton][^hymnarchive][^methodist1905].
 
+### ¿Qué significa "prone to wander" en Come Thou Fount?
+
+"Prone" significa inclinado: en la estrofa 3, quien canta reconoce un corazón que tiende a apartarse de Dios y pide a la gracia que lo ate como una cadena [^madan1760][^methodist1905]. Se suele leer como si Robinson anunciara su propia vida posterior, pero lo escribió con poco más de veinte años, "when among the methodists" (cuando estaba entre los metodistas) [^dyer][^julian]. La escena del arrepentimiento en la diligencia es una historia de familia cuya impresión más antigua conocida es de 1859 [^belcher], y cuánto cambiaron después sus creencias es algo que se discute [^dyer][^julian-robinson].
+
+### ¿Es Come Thou Fount un himno católico o de los Santos de los Últimos Días? ¿Es de dominio público?
+
+Se canta en muchas iglesias. Los Santos de los Últimos Días lo imprimieron en 1841 y en su himnario de 1948, lo quitaron en 1985 y lo recuperaron en Hymns: For Home and Church, como n.º 1001 [^lds-about][^hymnary-lds]. Lead Me, Guide Me, un himnario católico de 2012, lo trae como n.º 433 [^hymnary-lmgm]. No es un himno de Navidad; el himno navideño de Robinson es otro [^belcher][^duffield]. La letra y NETTLETON son de dominio público: Robinson murió en 1790 y la melodía se imprimió en 1813 [^dnb][^wyeth1813]. Las versiones retocadas y los arreglos posteriores pueden tener sus propios derechos.
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta NETTLETON. Con dos cantantes tienes la melodía y la contralto, muy cerca por debajo y casi siempre en una misma nota. Un tercer cantante añade el bajo, casi siempre en las fundamentales de los acordes, y el tenor completa el centro para cuatro [^methodist1905].
@@ -213,3 +221,6 @@ La soprano canta NETTLETON. Con dos cantantes tienes la melodía y la contralto,
 - [^kjv]: La Biblia, versión King James: 1 Samuel 7:12; Malaquías 3:6; Hebreos 1:7; Hebreos 12:18 a 25; 2 Corintios 1:22; Efesios 1:13; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=1%20Samuel%207%3A12%3B%20Malachi%203%3A6%3B%20Hebrews%201%3A7%3B%20Hebrews%2012%3A18-25%3B%202%20Corinthians%201%3A22%3B%20Ephesians%201%3A13&version=KJV;RVA
 - [^nrsvue]: La Biblia, New Revised Standard Version Updated Edition, 1 Samuel 7:12, con su nota sobre el nombre. https://www.biblegateway.com/passage/?search=1+Samuel+7%3A12&version=NRSVUE
 - [^easton]: M. G. Easton, *Easton's Bible Dictionary* (1897), "Eben-ezer". https://biblegateway.com/resources/eastons-bible-dictionary/Eben-ezer
+- [^lds-about]: La Iglesia de Jesucristo de los Santos de los Últimos Días, "About the Hymns: Come, Thou Fount of Every Blessing", Sacred Music Gospel Study Resource. https://www.churchofjesuschrist.org/study/manual/sacred-music-gospel-study-resource-pilot/1001-come-thou-fount-of-every-blessing
+- [^hymnary-lds]: Hymnary.org, *Hymns: For Home and Church* (La Iglesia de Jesucristo de los Santos de los Últimos Días), n.º 1001, "Come, Thou Fount of Every Blessing". https://hymnary.org/hymn/LDS2026/1001
+- [^hymnary-lmgm]: Hymnary.org, *Lead Me, Guide Me*, 2.ª edición (Chicago: GIA Publications, 2012; Iglesia católica), n.º 433, "Come, Thou Fount of Every Blessing". https://hymnary.org/hymn/LMGM2012/433

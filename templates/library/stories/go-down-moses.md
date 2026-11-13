@@ -244,6 +244,10 @@ Our arrangement is read from page 22 of the 1872 book, a tone higher, in G minor
 
 No one person wrote it: it is a spiritual made by enslaved African Americans, and no maker's name is known. Its earliest known printing with music, the sheet music of 1861 arranged by Thomas Baker, says its words and music came through the Rev. Lewis C. Lockwood, from refugees at Fort Monroe, Virginia [^contrabands1861][^canterbury]. In 1872 George L. White and Theodore F. Seward wrote it down as the Fisk Jubilee Singers sang it [^jubilee1872].
 
+### Was Go Down Moses banned?
+
+No order or law banning it has turned up in the records we have read, though the claim is often repeated; a history of 2025 says the song had been banned in slavery for its pointed words [^zoellner]. The 1861 newspaper printing's headnote, as that history reports it, said it had long been sung "stealthily, for fear of the lash", and was "now sung openly" by those who had escaped [^zoellner]. Its words could mean freedom as well as faith: for Frederick Douglass, singing of Canaan meant the North [^douglass1855].
+
 ### Which part sings the tune?
 
 The soprano sings the tune, and sings every call alone; the 1872 book gives the verse calls to one voice and has everyone sing the refrain's "Go down, Moses" in octaves. Everyone joins for the answer, "Let my people go", in harmony: the alto and tenor on two notes each, and the bass on D and a low G. With two singers you have the soprano and the alto, three add the bass, and four add the tenor.

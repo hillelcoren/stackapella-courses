@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió michael row the boat ashore | michael row the boat ashore significado | michael row the boat ashore significado aleluya | michael row the boat ashore en la biblia | michael row the boat ashore historia | michael row the boat ashore letra en español
-translatedFrom: 3fee5ceb00cb
+translatedFrom: 5a83ac50811b
 original: Slave Songs of the United States (1867), página 23, Smithsonian Libraries | https://archive.org/details/slavesongsofunit00alle/page/n82
 ---
 
@@ -174,9 +174,17 @@ Nuestro arreglo se lee de Slave Songs of the United States (1867), n.º 31, para
 
 Nadie sabe quién la creó. Es un espiritual de afroamericanos esclavizados de las Sea Islands de Carolina del Sur, que cantaban los remeros de las islas de Port Royal durante la guerra de Secesión [^slavesongs][^place2019]. Viene de la colección que Charles Pickard Ware reunió allí, sobre todo en Coffin's Point, y su primera impresión conocida es el n.º 31 de Slave Songs of the United States (1867), que Ware editó con William Francis Allen y Lucy McKim Garrison [^slavesongs][^pearson1906]. Ellos recopilaron la canción; no la escribieron.
 
-### ¿Aparece Miguel en la Biblia?
+### ¿Qué significa Michael, Row the Boat Ashore?
 
-Sí, aunque nunca en una barca. El libro de Daniel llama a Miguel "el gran príncipe", la carta de Judas lo llama "el arcángel Miguel", y en el Apocalipsis él y sus ángeles luchan contra el dragón en el cielo [^kjv]. El editor de 1867, William Francis Allen, estaba seguro de que la canción se refería al arcángel [^slavesongs].
+Es una oración cantada al remo. Quien canta pide al arcángel Miguel que lleve la barca a la orilla, y su barca se vuelve "a gospel boat", una barca del evangelio; ve a una madre "gwine home", camino de casa, y mira al otro lado del Jordán, el río de la tierra prometida, donde está Jesús [^scan31][^kjv]. Cada verso responde "Hallelujah", "¡alabado sea el Señor!" [^zondervan]. Miguel aparece en la Biblia, "el gran príncipe" en Daniel y "el arcángel Miguel" en Judas, pero nunca en una barca [^kjv].
+
+### ¿Es un espiritual o un himno?
+
+Es un espiritual, una canción religiosa popular de afroamericanos esclavizados, y una canción de trabajo: los remeros de las Sea Islands la cantaban para llevar el ritmo del remo, no en la iglesia con un himnario. William Francis Allen, que la imprimió en 1867, la llamó la única "auténtica canción de barca" que conocía y no tenía "ninguna duda" de que era "un verdadero espiritual", porque invoca al arcángel [^slavesongs]. Los espirituales de concierto, cantados por coros, llegaron después, con las giras de los Fisk Jubilee Singers en la década de 1870 [^amheritage][^tnenc].
+
+### ¿Quién hizo famosa Michael, Row the Boat Ashore?
+
+Primero los remeros de las Sea Islands, que la cantaban al remo en la década de 1860 [^slavesongs]. En los años cincuenta un cantante folk de Boston rehízo sus versos y se la enseñó a Pete Seeger, que la grabó para Folkways en 1956 [^kopp][^place2019][^fa2452]. El éxito llegó en 1961: una grabación de un grupo folk de estudiantes de la Universidad Wesleyan, con el título acortado a "Michael", llegó al número uno en Estados Unidos en septiembre y en Gran Bretaña en octubre [^stereogum][^wesleyan][^officialcharts][^number1s].
 
 ### ¿Qué voz canta la melodía?
 

@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: will ye no come back again significado | will ye no come back again traducción | quién escribió will ye no come back again | will ye no come back again letra en español | will ye no come back again historia | bonnie prince charlie canción
-translatedFrom: 819a95bc8482
+translatedFrom: bbe6b9740d43
 original: Gems of Scottish Song (Boston: Oliver Ditson & Company, catalogada como de 1883), Internet Archive | https://archive.org/details/gemsofscottishso0000vari
 ---
 
@@ -162,11 +162,15 @@ La letra varía entre impresiones, y lo que hemos leído no resuelve cuál es la
 
 ### ¿Qué significa "Will ye no come back again"?
 
-Significa "¿No volverás?". En escocés, "will ye no" equivale a "will you not", "¿no vas a...?", y la canción se lo pregunta al príncipe Carlos Eduardo Estuardo tras su huida a Francia en 1746, con la voz de los montañeses que lo escondieron [^gems1894][^chambers][^blaikie]. El estribillo dice por qué: no se te podría querer más [^gems1894].
+Significa "¿No volverás?". En escocés, "will ye no" equivale a "will you not", "¿no vas a...?", y la canción se lo pregunta al príncipe Carlos Eduardo Estuardo tras su huida a Francia en 1746, con la voz de los montañeses que lo escondieron [^gems1894][^chambers][^blaikie]. El estribillo dice por qué: no se te podría querer más [^gems1894]. Todas las ediciones que hemos leído dicen "no" [^rogers1855][^gems1883][^gems1894]. "Nae" es otra grafía escocesa del mismo "not", su forma átona, así que "Will ye nae come back again?" significa lo mismo [^dsl-no][^dsl-na].
 
-### ¿Quién escribió Will Ye No Come Back Again?
+### ¿Quién escribió Will Ye No Come Back Again, y cuándo?
 
-Carolina Oliphant, Lady Nairne (1766 a 1845), escribió la letra, pero su nombre solo se dio a conocer después de su muerte [^rogers1869][^dnb]. No se sabe quién hizo la melodía [^fitzgerald]. Gems of Scottish Song, de Ditson, la imprime con el nombre de Finlay Dun, su arreglista, sin decir si él la compuso [^gems1883][^rogers1869].
+Carolina Oliphant, Lady Nairne (1766 a 1845), escribió la letra, pero no se sabe cuándo: desde 1821 enviaba sus canciones con un nombre falso, y el suyo solo se dio a conocer después de su muerte [^rogers1869][^dnb]. Quizá apareció por primera vez en Lays from Strathearn, que el Dictionary of National Biography fecha en 1846 y Rogers da sin fecha, y que no hemos leído; la impresión más antigua que hemos leído es la de Rogers, de 1855 [^dnb][^rogers1855]. No se sabe quién hizo la melodía; Ditson la imprime con el nombre de Finlay Dun [^fitzgerald][^gems1883].
+
+### ¿Es la canción de Bonnie Prince Charlie?
+
+Es una de varias canciones sobre él. Esta es la despedida: le pide a Carlos que vuelva después de que zarpara hacia Francia en septiembre de 1746 [^chambers][^blaikie]. The Skye Boat Song cuenta un momento anterior, su travesía a Skye con Flora MacDonald en junio de 1746 [^blaikie], con letra de Harold Boulton impresa en la década de 1880 [^sotn][^smith1888]. Ninguna de las dos es de 1746: Lady Nairne nació veinte años después [^dnb].
 
 ### ¿Qué voz canta la melodía?
 
@@ -188,7 +192,7 @@ La soprano canta la melodía, tal como la imprimió Gems of Scottish Song, de Di
 - [^kington]: T. L. Kington Oliphant, *The Jacobite Lairds of Gask* (Londres: Charles Griffin and Co., para el Grampian Club, 1870), pp. 107 a 109, 123, 211 a 212, 345, 348 a 349, 433 a 434; ejemplar de la Allen County Public Library, facsímil. https://archive.org/details/jacobitelairdsof00king
 - [^minstrel]: R. A. Smith, arreglista, *The Scotish Minstrel: A Selection from the Vocal Melodies of Scotland, Ancient and Modern*, vols. 1 y 2 (Edimburgo: Robert Purdie, catalogado como de 1821), portada y prefacio; ejemplar de la University of Western Ontario (MZ2079), facsímil. https://archive.org/details/scotishminstrels12smit
 - [^minstrel6]: R. A. Smith, arreglista, *The Scotish Minstrel: A Selection from the Vocal Melodies of Scotland, Ancient and Modern*, vols. 5 y 6 (Edimburgo: Robert Purdie, catalogado como de 1821), vol. 6, "Advertisement to Volume Sixth", fechado en Edimburgo, enero de 1824; ejemplar de la University of Western Ontario (MZ2079), facsímil. https://archive.org/details/scotishminstrels56smit
-- [^blaikie]: Walter Biggar Blaikie, *Itinerary of Prince Charles Edward Stuart from His Landing in Scotland July 1745 to His Departure in September 1746* (Edimburgo: Scottish History Society, 1897), pp. 6, 8, 12, 29 a 31, 44 a 46, 70; ejemplar de la University of Toronto, facsímil. https://archive.org/details/itineraryofprinc00blai
+- [^blaikie]: Walter Biggar Blaikie, *Itinerary of Prince Charles Edward Stuart from His Landing in Scotland July 1745 to His Departure in September 1746* (Edimburgo: Scottish History Society, 1897), pp. 6, 8, 12, 29 a 31, 44 a 46, 51 a 53, 70; ejemplar de la University of Toronto, facsímil. https://archive.org/details/itineraryofprinc00blai
 - [^hazard]: Caroline Hazard, "The Value of History in the Formation of Character", *The School Review* 9, n.º 10 (1901), pp. 636 a 648, en la p. 639; JSTOR Early Journal Content, facsímil. https://archive.org/details/jstor-1075050
 - [^chambers]: Robert Chambers, *History of the Rebellion of 1745-6*, séptima edición (Londres y Edimburgo: W. & R. Chambers, 1869), pp. 52, 59, 233, 283, 338, 467, 482, 497; facsímil. https://archive.org/details/historyrebellio02chamgoog
 - [^dnb]: T. B. [Thomas Wilson Bayne], "Nairne, Carolina", *Dictionary of National Biography*, vol. 40 (Londres: Smith, Elder & Co., 1894), reproducido en Wikisource. https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Nairne,_Carolina
@@ -198,3 +202,7 @@ La soprano canta la melodía, tal como la imprimió Gems of Scottish Song, de Di
 - [^fitzgerald]: S. J. Adair Fitz-Gerald, *Stories of Famous Songs* (Londres: John C. Nimmo, 1898), pp. 303 a 304; ejemplar de la Cornell University Library, facsímil. https://archive.org/details/cu31924022375277
 - [^dsl-laverock]: Dictionaries of the Scots Language, *Scottish National Dictionary*, "Laverock". https://dsl.ac.uk/entry/snd/laverock
 - [^dsl-cleed]: Dictionaries of the Scots Language, *Scottish National Dictionary*, "Cleed". https://dsl.ac.uk/entry/snd/cleed
+- [^dsl-no]: Dictionaries of the Scots Language, *Scottish National Dictionary*, "No, adv." ("Not, as the adv. negativing a v. ... More emphatic than the enclitic -Na. Cf. Nae, adv."). https://dsl.ac.uk/entry/snd/no
+- [^dsl-na]: Dictionaries of the Scots Language, *Scottish National Dictionary*, "Na, adv.2" ("Also n(a)e ... The unstressed, gen. enclitic form of No, not"). https://dsl.ac.uk/entry/snd/na_adv2
+- [^sotn]: A. C. Macleod y Harold Boulton, editores, música arreglada por Malcolm Lawson, *Songs of the North, Gathered Together from the Highlands and Lowlands of Scotland*, vol. I (Londres: J. B. Cramer & Co., reimpresión sin fecha, catalogada 19--; publicada antes por Field and Tuer), "Skye Boat Song (Jacobite)", pp. 18 a 20, "Words by Harold Boulton"; University of Toronto, Faculty of Music Library, M1746 B78 S6 19--, facsímil, imágenes n37 a n39. https://archive.org/details/31761034118778/page/n37
+- [^smith1888]: Laura Alexandrine Smith, *The Music of the Waters: A Collection of the Sailors' Chanties, or Working Songs of the Sea, of All Maritime Nations* (Londres: Kegan Paul, Trench & Co., 1888), pp. 90 a 91, "Skye Boat-Song"; University of Toronto, AAJ-7388, facsímil, imágenes n127 a n128. https://archive.org/details/musicofwaterscol00smituoft/page/n127

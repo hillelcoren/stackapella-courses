@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: estoy bien con mi dios historia | alcancé salvación himno historia | quién escribió it is well with my soul y por qué | it is well with my soul historia | it is well with my soul significado | it is well with my soul versículo bíblico
-translatedFrom: c9562e712b0d
+translatedFrom: 942712fdebc6
 listen: National Jukebox, grabación de 1906 | https://archive.org/details/loc-jukebox-422502-it-is-well-with-my-soul
 ---
 
@@ -145,6 +145,10 @@ Horatio G. Spafford, un abogado de Chicago, escribió la letra después de que s
 ### ¿Cuál es el versículo bíblico de It Is Well with My Soul?
 
 Su primera impresión conocida, de 1876, lo encabeza con el Salmo 55:18, "El ha redimido en paz mi alma" [^gh2][^hymnary-gh2]. Las palabras "It is well" recuerdan 2 Reyes 4:26, donde una madre cuyo hijo acaba de morir responde "It is well" en la King James ("Paz", en la Reina-Valera de 1909) [^kjv]. Las estrofas también toman palabras de Isaías, Lucas y Colosenses, y el "Even so" entre comillas de la última estrofa es muy probablemente la oración con que se cierra la Biblia, "Amén, sea así. Ven: Señor Jesús" [^kjv][^hymnary-text][^gh2].
+
+### ¿Es It Is Well with My Soul de dominio público?
+
+Sí. La letra de Spafford y la melodía de Bliss, VILLE DU HAVRE, se imprimieron juntas en Gospel Hymns No. 2 en 1876 [^gh2][^hymnary-gh2], y los dos murieron hace mucho: Bliss en 1876 y Spafford en 1888 [^whittle][^hymnary-text]. Las traducciones, como las españolas, y los arreglos y grabaciones modernos pueden tener sus propios derechos. El nuestro parte de las cuatro voces del propio Bliss, de 1876, con la contralto y el tenor redistribuidos para grupos pequeños [^gh2].
 
 ### ¿Qué voz canta la melodía?
 

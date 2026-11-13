@@ -193,6 +193,8 @@ Still be my Vision, O Ruler of all.
 
 It is a hymn of devotion and trust, printed in the hymnals of many churches and not tied to one season [^hymnary-text][^hymnary-slane]. Its tune is SLANE, and its meter is 10.10.10.10: four lines of ten syllables [^rch1927][^hymnary-slane].
 
+Its Irish poem was written centuries before the Reformation, and Protestant churches brought it into hymnals first: the Church of Ireland in 1919 and the Presbyterian Church Hymnary in 1927 [^hymnary-ich3][^rch1927]. Catholic hymnals print it too, among them The Pius X Hymnal of 1953 [^hymnary-btmv-catholic]. It is in the public domain as Hull wrote it: the poem is medieval, Byrne died in 1931 and Hull in 1935, and SLANE is a traditional tune printed in 1909 [^canterbury-byrne][^dub-hull][^joyce1909]. Later hymnal versions and arrangements can carry their own rights.
+
 Our arrangement is one verse, Hull's first two couplets, for 2 to 4 singers in F major and 3/4 time. Joyce printed the tune in 3/4 too, with one flat in the key signature [^joyce1909]. The harmony is our own, not the 1919 hymnal's.
 
 ## Versions and other words
@@ -265,3 +267,4 @@ None: it is an Irish prayer, not a setting of one passage, but its pictures come
 - [^dub-hull]: Dictionary of Ulster Biography, *Eleanor Henrietta Hull (1860 to 1935)*. https://www.newulsterbiography.co.uk/index.php/home/viewPerson/719
 - [^hymnary-hopeful]: Hymnary.org, *Lord of all hopefulness, Lord of all joy* (text), with its notes. https://hymnary.org/text/lord_of_all_hopefulness_lord_of_all_joy
 - [^bible]: *The Holy Bible*, King James Version (1611), Psalm 18:2, Ephesians 6:16 to 17, Proverbs 29:18; BibleGateway. https://www.biblegateway.com/passage/?search=Psalm+18%3A2%3BEphesians+6%3A16-17%3BProverbs+29%3A18&version=KJV
+- [^hymnary-btmv-catholic]: Hymnary.org, search of hymnals of the Roman Catholic Church for the first line "Be thou my vision" (three instances: *The Pius X Hymnal*, 1953, No. 15, and 1956; *The Assumption Hymnal*, 1964). https://hymnary.org/search?qu=in%3Ainstances%20firstLine%3Abe%20thou%20my%20vision%20denominations%3ACatholic

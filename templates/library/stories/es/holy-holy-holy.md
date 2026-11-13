@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: santo santo santo himno historia | quién escribió santo santo santo señor omnipotente | quién escribió holy holy holy | quién compuso la música de holy holy holy | holy holy holy himno significado | el que era el que es y el que ha de venir significado
-translatedFrom: a966dc7fc365
+translatedFrom: 0b71c20f472c
 listen: National Jukebox, grabación de 1901 | https://archive.org/details/loc-jukebox-5485-holy-holy-holy || National Jukebox, grabación de 1904 | https://archive.org/details/loc-jukebox-119201-holy-holy-holy
 ---
 
@@ -68,7 +68,7 @@ El himno se inspira en dos visiones bíblicas del trono de Dios [^hymnary-text][
 
 ### La letra completa
 
-Las cuatro estrofas de Heber tal como las imprimió Hymns Ancient and Modern en 1861, himno 135, la página de la que se lee nuestro arreglo, con sus versalitas escritas como letras normales y sin el "Amen" final [^ham1861]. Son las cuatro estrofas del propio libro de Heber de 1827, que solo se diferencia en pequeños detalles de ortografía y puntuación [^heber1827][^ham1861]. Heber murió en 1826, así que todas las estrofas son de dominio público.
+Las cuatro estrofas de Heber tal como las imprimió Hymns Ancient and Modern en 1861, himno 135, la página de la que se lee nuestro arreglo, con sus versalitas escritas como letras normales y sin el "Amen" final [^ham1861]. Son las cuatro estrofas del propio libro de Heber de 1827, que solo se diferencia en pequeños detalles de ortografía y puntuación [^heber1827][^ham1861]. Heber murió en 1826, así que todas las estrofas son de dominio público, y también NICAEA y su armonía tal como se imprimieron en 1861, porque Dykes murió en 1876 [^dnb-dykes][^fowler]. Los arreglos posteriores son obras propias; el nuestro es nuestro, sobre la armonía de Dykes.
 
 **Estrofa 1**
 > Holy, Holy, Holy! Lord God Almighty!
@@ -134,6 +134,10 @@ Como el segundo verso empieza "Early in the morning" (de madrugada), algunos him
 
 ## Preguntas
 
+### ¿Por qué se dice "santo" tres veces?
+
+Porque los ángeles lo dicen tres veces en la Biblia: los serafines en Isaías 6:3 ("Santo, santo, santo, Jehová de los ejércitos") y los cuatro seres vivientes en Apocalipsis 4:8 [^kjv]. En hebreo, repetir una palabra la refuerza, y la Gramática hebrea de Gesenius cuenta el triple "santo" de Isaías entre esas repeticiones [^gesenius]. Heber escribió para el domingo de la Trinidad, así que une los tres a "God in Three Persons, Blessèd Trinity" (Dios en tres Personas, bendita Trinidad) [^heber1827][^bcp]. "Santo" quiere decir apartado y puro.
+
 ### ¿Qué significa "que era, y que es, y que ha de venir"?
 
 Es un nombre de Dios en Apocalipsis 4:8: el que era, el que es y el que ha de venir, Dios sin principio ni fin. En la visión de Juan, cuatro seres vivientes alrededor del trono lo cantan día y noche, después de "Santo, santo, santo el Señor Dios Todopoderoso" [^kjv]. Heber lo puso en su segunda estrofa como "Which wert and art and evermore shalt be" [^heber1827].
@@ -174,4 +178,5 @@ En nuestro arreglo la melodía la canta la soprano: la de Dykes, exactamente com
 - [^iln1892]: *Illustrated London News*, 15 de octubre de 1892, p. 473, que reproduce la crónica del funeral de la *Pall Mall Gazette*, en The Victorian Web. https://victorianweb.org/authors/tennyson/burial.html
 - [^methodist]: The Methodist Church in Britain, *Holy, holy, holy, Lord God Almighty! (StF 11)*. https://www.methodist.org.uk/for-churches/resources/hymns/holy-holy-holy-lord-god-almighty-stf-11/
 - [^bcp]: *The Book of Common Prayer* (1662), la colecta, la epístola y el evangelio del domingo de la Trinidad ("For the Epistle. Rev. 4. 1."). https://www.andrews.edu/~toews/classes/sources/modern/Thirty%20Nine%20Articles/communion/trinity.html
+- [^gesenius]: Wilhelm Gesenius, *Gesenius' Hebrew Grammar*, ed. y ampliada por E. Kautzsch, trad. de G. W. Collins, revisada por A. E. Cowley (Oxford: Clarendon Press, 1898), § 133, "The Comparison of Adjectives", p. 453 ("The intensification of attributes by means of repetition ... the adjective is even used three times in Is. 6, 3"); ejemplar de la Harvard University, facsímil. https://archive.org/details/hebrewgrammar00cowlgoog
 - [^kjv]: La Biblia, versión King James: Isaías 6:1 a 3; Apocalipsis 4:6 a 11; Apocalipsis 5:13; Apocalipsis 15:2 a 4; las citas en español, de la Reina-Valera de 1909 (Isaías 6:3; Apocalipsis 4:8, https://www.biblegateway.com/passage/?search=Isa%C3%ADas%206%3A3%3B%20Apocalipsis%204%3A8&version=RVA). https://www.biblegateway.com/passage/?search=Isaiah%206%3A1-3%3B%20Revelation%204%3A6-11%3B%20Revelation%205%3A13%3B%20Revelation%2015%3A2-4&version=KJV

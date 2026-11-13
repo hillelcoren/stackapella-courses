@@ -126,6 +126,10 @@ No. Jerusalem has never been made an official anthem, and calls over many years 
 
 No. The hymn sets the four stanzas from the preface to Blake's Milton: a Poem, which bear no title of their own [^milton-ws][^princeton]. Blake's long poem Jerusalem: The Emanation of the Giant Albion is a separate book, which the Yale Center for British Art dates 1804 to 1820 [^ycba].
 
+### Is Jerusalem a hymn, and is it about the city in Israel?
+
+It is sung as a hymn, though it began as a poem. William Blake wrote the verses in the preface to his Milton, dated 1804 on its title page [^milton-asu]; Hubert Parry set them to music in March 1916 [^graves][^dibble]; and hymnbooks have printed it since Songs of Praise in 1925 [^sop1925][^ucc1930]. Its Jerusalem is not the city in Israel but the holy city as a picture of a just and godly life, like the new Jerusalem of Revelation, which the singer vows to build "in England's green and pleasant land" [^milton-asu][^kjv].
+
 ### Which part sings the tune?
 
 The soprano sings Parry's tune, exactly as he wrote it, the last note shortened [^oldcountry]. With two singers, sing the tune and the alto; with three, add the bass; the tenor makes four. The tune spans an octave and a fourth, from a low B to a high E, so it suits a singer with a wide range.

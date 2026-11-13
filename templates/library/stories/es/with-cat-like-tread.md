@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: with cat like tread significado | with cat like tread letra | with cat like tread los piratas de penzance | come friends who plough the sea letra | hail hail the gang's all here origen | with cat like tread partitura
-translatedFrom: b8d79da4d51b
+translatedFrom: 5316049a158b
 original: The Pirates of Penzance, partitura vocal de Chappell (Londres, hacia 1920), Internet Archive | https://archive.org/details/vocalscoreofpira00sull
 listen: National Jukebox, grabación de 1910, un popurrí que incluye With Cat-like Tread | https://archive.org/details/loc-jukebox-129632-gems-from-pirates-of-penzance
 ---
@@ -157,6 +157,10 @@ Significa pisar tan suavemente como un gato [^webster-tread]. Los piratas asegur
 
 La melodía de su estribillo, sí. Hail! Hail! The Gang's All Here, publicada por Leo Feist en 1917, atribuye su música a Theodore Morse y Arthur Sullivan: su estribillo es "Come, friends, who plough the sea" de Sullivan, convertido en 6/8 [^feist1917][^ballad-index]. La estrofa y la letra son nuevas, atribuidas a "D. A. Esrom", un seudónimo de Theodore y Theodora Morse [^feist1917][^ballad-index].
 
+### ¿Hubo piratas de verdad en Penzance?
+
+Sí, mucho antes de Gilbert. En el siglo XVII, corsarios del norte de África, a los que los papeles ingleses llamaban "Turks" (turcos), asaltaban barcos y pescadores frente a la costa de Cornualles [^troze2016]. El 16 de junio de 1640, según informó el alcalde de Exeter, cuatro de sus barcos de guerra, "in the open view of the town of Penzance" (a la vista de la ciudad de Penzance), apresaron tres barcas y cinco barcos de pesca de Penzance, con 60 personas [^cspd1640]. Los lugartenientes de Cornualles escribieron que los piratas se habían llevado "divers of our people at Looe, Penzance, and other places" (a varios de los nuestros en Looe, Penzance y otros lugares) [^cspd1640][^troze2016]. Los piratas de Gilbert son más amables: la crónica de The Era de 1880 los llama "tender-hearted" (de buen corazón) [^era-ny].
+
 ### ¿Qué voz canta la melodía?
 
 La soprano. En la partitura de Sullivan la melodía es de los piratas, y en nuestro arreglo la soprano y la contralto son los piratas, así que la soprano lleva "Come, friends, who plough the sea" y "With cat-like tread" [^chappell-score]. La contralto canta la misma letra por debajo, y el tenor y el bajo, como policías, solo cantan "Tarantara" y "ra".
@@ -197,3 +201,5 @@ La soprano. En la partitura de Sullivan la melodía es de los piratas, y en nues
 - [^webster-truce]: *Webster's Revised Unabridged Dictionary* (1913), "Truce", n., acepciones 1 y 2. https://www.websters1913.com/words/Truce
 - [^webster-lantern]: *Webster's Revised Unabridged Dictionary* (1913), "Lantern", con "Dark lantern". https://www.websters1913.com/words/Lantern
 - [^webster-skeleton]: *Webster's Revised Unabridged Dictionary* (1913), "Skeleton", con "Skeleton key". https://www.websters1913.com/words/Skeleton
+- [^cspd1640]: William Douglas Hamilton, ed., *Calendar of State Papers, Domestic Series, of the Reign of Charles I, 1640* (London: Longman, 1880), p. 328, el alcalde y los regidores de Exeter al Consejo, 22 de junio de 1640, y p. 438, los lugartenientes de Cornualles al conde de Pembroke y Montgomery, 1 de julio de 1640; facsímil. https://archive.org/details/sim_great-britain-public-record-1625-1649-domestic-series_1640
+- [^troze2016]: "'Heer will be noe fishing': 17th century Barbary Piracy and the West Country Fisheries", *Troze*, revista en línea del National Maritime Museum Cornwall, vol. 7, no. 1 (marzo de 2016), pp. 5 y 15, que cita los State Papers. https://nmmc.co.uk/wp-content/uploads/2018/04/Barbary_piracy_and_SW_fishing.pdf

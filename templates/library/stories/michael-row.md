@@ -144,9 +144,17 @@ Our arrangement is read from Slave Songs of the United States (1867), No. 31, fo
 
 No one knows who made it. It is a spiritual of enslaved African Americans on the South Carolina Sea Islands, sung by oarsmen in the Port Royal islands during the Civil War [^slavesongs][^place2019]. It comes from the collection Charles Pickard Ware made there, chiefly at Coffin's Point, and its earliest known printing is No. 31 in Slave Songs of the United States (1867), which Ware edited with William Francis Allen and Lucy McKim Garrison [^slavesongs][^pearson1906]. They collected the song; they did not write it.
 
-### Is Michael in the Bible?
+### What does Michael, Row the Boat Ashore mean?
 
-Yes, though never in a boat. The Book of Daniel calls Michael "the great prince", the Letter of Jude calls him "Michael the archangel", and in Revelation he and his angels fight the dragon in heaven [^kjv]. The 1867 editor William Francis Allen was sure the song meant the archangel [^slavesongs].
+It is a prayer sung at the oars. The singer calls on the archangel Michael to row the boat ashore, and his boat becomes "a gospel boat"; the singer sees a mother "gwine home" and looks over the Jordan, the river into the promised land, to Jesus on the other side [^scan31][^kjv]. Each line answers "Hallelujah", "praise the Lord" [^zondervan]. Michael is in the Bible, "the great prince" in Daniel and "Michael the archangel" in Jude, but never in a boat [^kjv].
+
+### Is it a spiritual or a hymn?
+
+It is a spiritual, a religious folk song of enslaved African Americans, and a work song: Sea Island oarsmen sang it to keep the stroke, not in church from a hymn book. William Francis Allen, who printed it in 1867, called it the one "pure boat-song" he knew and had "no doubt" it was "a real spiritual", because it calls on the archangel [^slavesongs]. Choirs' concert spirituals came later, from the Fisk Jubilee Singers' tours of the 1870s [^amheritage][^tnenc].
+
+### Who made Michael, Row the Boat Ashore a hit?
+
+First the Sea Island oarsmen, who sang it at the oars in the 1860s [^slavesongs]. In the 1950s a Boston folk singer reworked its verses and taught it to Pete Seeger, who recorded it for Folkways in 1956 [^kopp][^place2019][^fa2452]. The hit came in 1961: a recording by a folk group of Wesleyan University students, shortened to "Michael", reached number one in the United States in September and in Britain in October [^stereogum][^wesleyan][^officialcharts][^number1s].
 
 ### Which part sings the tune?
 

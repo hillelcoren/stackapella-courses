@@ -119,6 +119,10 @@ The Clayton F. Summy Company of Chicago, publisher of the Hill sisters' songbook
 
 In the United States, the record says no: the copyright in Good Morning to All, which covered the tune, expired in 1949, and in 2015 a federal court ruled that the copyright Warner/Chappell claimed did not cover the words [^order2015][^brauneis]. In 2016 the court approved a settlement in which Warner/Chappell agreed to pay back $14 million, and reports say its final judgment declared the song in the public domain [^abc7][^kqed].
 
+### Why do we sing Happy Birthday and blow out candles?
+
+The song and the candles have separate histories. The song spread as a greeting from Sunday school classes from 1911, then through songbooks and the films of the early 1930s [^ew1911][^order2015][^brauneis]. The candles are older. At Gotha in 1801 Goethe was served a birthday cake ablaze with some fifty candles, and noted that at children's parties room is left for the years to come [^goethe1801][^natgeo]. In Switzerland in 1881 a birthday cake had a candle for each year, blown out one by one by the birthday person before it was eaten [^folklore1883].
+
 ### Which part sings the tune?
 
 The soprano sings the tune all the way through. With two singers, the alto joins mostly a third or a sixth below; with three, the bass adds long low notes on "oo"; with four, the tenor fills in the middle, mostly on G. Everyone but the bass sings the words.
@@ -144,3 +148,6 @@ The soprano sings the tune all the way through. With two singers, the alto joins
 - [^ipwatchdog2016]: Andrew MacKay and Daniel Schacht, "The Most Famous Song in the World Set Free: Impacts of the Happy Birthday to You Settlement", *IPWatchdog* (28 July 2016). https://ipwatchdog.com/2016/07/28/happy-birthday-to-you-settlement/id=71242/
 - [^abc7]: ABC7 Los Angeles (KABC), "'Happy Birthday' song now in public domain; no more licensing fees required" (27 June 2016). https://abc7.com/happy-birthday-song-licensing-agreement-public-domain-copyright/1403454/
 - [^kqed]: Cy Musiker, "Happy Birthday Song Has Been Set Free", KQED Arts (27 June 2016). https://www.kqed.org/arts/11745186/happy-birthday-song-has-been-set-free
+- [^goethe1801]: Johann Wolfgang von Goethe, *Tag- und Jahreshefte*, the year 1801, in *Sämtliche Werke*, vol. 5 (Leipzig: Insel, undated), pp. 421 to 422; University of Toronto, Robarts Library copy, facsimile. https://archive.org/details/smtlichewer05goet/page/421
+- [^natgeo]: National Geographic, "Blowing out birthday candles is surprisingly ancient" (17 July 2025). https://www.nationalgeographic.com/history/article/history-of-birthday-candles
+- [^folklore1883]: "Continental Folk-lore Notes" (noted in Switzerland and Württemberg in 1881), *The Folk-Lore Journal*, vol. 1 (London: Elliot Stock for the Folk-Lore Society, 1883), pp. 380 to 381; facsimile. https://archive.org/details/bub_gb_pE4KAAAAIAAJ/page/n431

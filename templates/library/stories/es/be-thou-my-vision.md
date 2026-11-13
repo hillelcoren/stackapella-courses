@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: quién escribió be thou my vision | quién compuso la música de be thou my vision | be thou my vision letra original | be thou my vision himno irlandés historia | be thou my vision significado | be thou my vision versículo bíblico
-translatedFrom: c3cb7d6be658
+translatedFrom: bbc2068c4eef
 original: The Poem-Book of the Gael (Londres, 1912), Internet Archive | https://archive.org/details/poembookofgaeltr00hulluoft
 ---
 
@@ -218,6 +218,8 @@ sé aún mi visión, oh soberano de todo.
 
 Es un himno de devoción y confianza, impreso en los himnarios de muchas iglesias y no ligado a ningún tiempo litúrgico [^hymnary-text][^hymnary-slane]. Su melodía es SLANE, y su métrica, 10.10.10.10: cuatro versos de diez sílabas [^rch1927][^hymnary-slane].
 
+Su poema irlandés se escribió siglos antes de la Reforma, y fueron iglesias protestantes las primeras en llevarlo a sus himnarios: la Iglesia de Irlanda en 1919 y el Church Hymnary presbiteriano en 1927 [^hymnary-ich3][^rch1927]. También lo imprimen himnarios católicos, entre ellos The Pius X Hymnal de 1953 [^hymnary-btmv-catholic]. Tal como lo escribió Hull, es de dominio público: el poema es medieval, Byrne murió en 1931 y Hull en 1935, y SLANE es una melodía tradicional impresa en 1909 [^canterbury-byrne][^dub-hull][^joyce1909]. Las versiones posteriores de los himnarios y los arreglos pueden tener sus propios derechos.
+
 Nuestro arreglo es una estrofa, los dos primeros pareados de Hull, para 2 a 4 cantantes, en Fa mayor y compás de 3/4. Joyce también imprimió la melodía en 3/4, con un bemol en la armadura [^joyce1909]. La armonía es nuestra, no la del himnario de 1919.
 
 ## Versiones y otras letras
@@ -290,3 +292,4 @@ En ninguno: es una oración irlandesa, no el arreglo de un pasaje, pero sus imá
 - [^dub-hull]: Dictionary of Ulster Biography, *Eleanor Henrietta Hull (1860 to 1935)*. https://www.newulsterbiography.co.uk/index.php/home/viewPerson/719
 - [^hymnary-hopeful]: Hymnary.org, *Lord of all hopefulness, Lord of all joy* (texto), con sus notas. https://hymnary.org/text/lord_of_all_hopefulness_lord_of_all_joy
 - [^bible]: La Biblia, versión King James (1611): Salmos 18:2; Efesios 6:16 a 17; Proverbios 29:18; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Psalm+18%3A2%3BEphesians+6%3A16-17%3BProverbs+29%3A18&version=KJV
+- [^hymnary-btmv-catholic]: Hymnary.org, búsqueda en himnarios de la Iglesia católica del primer verso "Be thou my vision" (tres apariciones: *The Pius X Hymnal*, 1953, n.º 15, y 1956; *The Assumption Hymnal*, 1964). https://hymnary.org/search?qu=in%3Ainstances%20firstLine%3Abe%20thou%20my%20vision%20denominations%3ACatholic

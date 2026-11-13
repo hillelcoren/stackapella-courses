@@ -67,7 +67,7 @@ The hymn draws on two visions of God's throne in the Bible [^hymnary-text][^hymn
 
 ### The full words
 
-Heber's four verses as Hymns Ancient and Modern printed them in 1861, Hymn 135, the page our arrangement is read from, with its small capitals set as ordinary letters and its closing "Amen" left out [^ham1861]. They are the four verses of Heber's own book of 1827, which differs only in small points of spelling and punctuation [^heber1827][^ham1861]. Heber died in 1826, so every verse is in the public domain.
+Heber's four verses as Hymns Ancient and Modern printed them in 1861, Hymn 135, the page our arrangement is read from, with its small capitals set as ordinary letters and its closing "Amen" left out [^ham1861]. They are the four verses of Heber's own book of 1827, which differs only in small points of spelling and punctuation [^heber1827][^ham1861]. Heber died in 1826, so every verse is in the public domain, and so are NICAEA and its harmony as printed in 1861, for Dykes died in 1876 [^dnb-dykes][^fowler]. Later arrangements are works of their own; ours is our own, on Dykes's harmony.
 
 **Verse 1**
 Holy, Holy, Holy! Lord God Almighty!
@@ -117,6 +117,10 @@ Because line 2 begins "Early in the morning", some hymnals rewrote it so the hym
 
 ## Questions
 
+### Why is "holy" said three times?
+
+Because the angels say it three times in the Bible: the seraphs in Isaiah 6:3 ("Holy, holy, holy, is the LORD of hosts") and the four living creatures in Revelation 4:8 [^kjv]. In Hebrew, repeating a word makes it stronger, and Gesenius's Hebrew Grammar counts Isaiah's threefold "holy" among such repetitions [^gesenius]. Heber wrote for Trinity Sunday, so he joins the three to "God in Three Persons, Blessèd Trinity" [^heber1827][^bcp]. "Holy" means set apart and pure.
+
 ### What does "who was and is and is to come" mean?
 
 It is a name for God in Revelation 4:8: the one who was, who is, and who is coming, God without beginning or end. In John's vision, four living creatures around the throne sing it day and night, after "Holy, holy, holy, Lord God Almighty" [^kjv]. Heber put it into his second verse as "Which wert and art and evermore shalt be" [^heber1827].
@@ -157,4 +161,5 @@ The soprano sings the tune in our arrangement: Dykes's melody exactly as Hymns A
 - [^iln1892]: *Illustrated London News*, 15 October 1892, p. 473, reprinting the *Pall Mall Gazette*'s report of the funeral, at The Victorian Web. https://victorianweb.org/authors/tennyson/burial.html
 - [^methodist]: The Methodist Church in Britain, *Holy, holy, holy, Lord God Almighty! (StF 11)*. https://www.methodist.org.uk/for-churches/resources/hymns/holy-holy-holy-lord-god-almighty-stf-11/
 - [^bcp]: *The Book of Common Prayer* (1662), the Collect, Epistle and Gospel for Trinity Sunday ("For the Epistle. Rev. 4. 1."). https://www.andrews.edu/~toews/classes/sources/modern/Thirty%20Nine%20Articles/communion/trinity.html
+- [^gesenius]: Wilhelm Gesenius, *Gesenius' Hebrew Grammar*, as edited and enlarged by E. Kautzsch, translated by G. W. Collins, revised by A. E. Cowley (Oxford: Clarendon Press, 1898), § 133, "The Comparison of Adjectives", p. 453 ("The intensification of attributes by means of repetition ... the adjective is even used three times in Is. 6, 3"); Harvard University copy, facsimile. https://archive.org/details/hebrewgrammar00cowlgoog
 - [^kjv]: The Bible, King James Version: Isaiah 6:1 to 3; Revelation 4:6 to 11; Revelation 5:13; Revelation 15:2 to 4. https://www.biblegateway.com/passage/?search=Isaiah%206%3A1-3%3B%20Revelation%204%3A6-11%3B%20Revelation%205%3A13%3B%20Revelation%2015%3A2-4&version=KJV
