@@ -9,15 +9,15 @@ earliestPrintingSource: ditson1857
 language: inglés
 origin: Boston, Massachusetts
 occasion: Invierno; hoy, la temporada de Navidad
-alsoKnownAs: The One Horse Open Sleigh
+alsoKnownAs: The One Horse Open Sleigh; Cascabel; Navidad, Navidad
 wikidata: Q406845
 quote: Oh! what joy it is to ride / In a one horse open sleigh.
 quoteSource: ditson1857
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
-searches: jingle bells historia | quién escribió jingle bells | jingle bells significado | jingle bells es una canción de navidad | jingle bells origen minstrel | jingle bells dominio público
-translatedFrom: daf687edd298
+searches: jingle bells historia | quién escribió jingle bells | jingle bells significado | jingle bells es una canción de navidad | jingle bells origen minstrel | jingle bells dominio público | cascabel villancico origen | navidad navidad hoy es navidad origen
+translatedFrom: 76451a43572f
 original: The One Horse Open Sleigh (1857), Library of Congress | https://www.loc.gov/item/2023812429/
 ---
 
@@ -25,32 +25,31 @@ Jingle Bells es una canción sobre un paseo rápido en trineo por la nieve reci�
 
 ## De dónde viene
 
-**El hombre.** James Lord Pierpont nació en Boston en 1822, hijo del reverendo John Pierpont, pastor unitario y abolicionista declarado [^hamill][^connectsav][^historycom]. El hijo de su hermana fue el banquero J. Pierpont Morgan [^bostonia][^historycom]. James se fue al oeste con la fiebre del oro de California, donde fracasó un negocio de fotografía en San Francisco, y volvió al este sin nada [^bostonia][^connectsav]. Desde 1852 escribió canciones para los minstrel shows con blackface del Ordway Hall de Boston, empezando por "The Returned Californian", una docena o más en total [^hamill][^bostonia]. En 1853 viajó por mar a Savannah, Georgia, donde su hermano John era pastor de la iglesia unitaria, y se convirtió en su director musical [^hamill][^historycom][^connectsav].
+**El hombre.** James Lord Pierpont nació en Boston en 1822, hijo del reverendo John Pierpont, pastor unitario y abolicionista declarado [^hamill][^connectsav][^historycom]. Era tío del banquero J. Pierpont Morgan [^bostonia][^historycom]. En la fiebre del oro de California fracasó su negocio de fotografía en San Francisco, y volvió al este sin nada [^bostonia][^connectsav]. Desde 1852 escribió canciones para compañías de minstrels con blackface, empezando por "The Returned Californian" para el Ordway Hall de Boston: una docena más o menos para la compañía de Ordway, y al menos trece en total para compañías de Boston y Nueva York, según la cuenta de Hamill [^hamill][^bostonia]. En 1853 viajó por mar a Savannah, Georgia, donde su hermano John era pastor de la iglesia unitaria, y se convirtió en su director musical [^hamill][^historycom][^connectsav]. No se quedó: las listas de impuestos de Medford lo sitúan allí de nuevo en 1855 y 1856, y a principios del verano de 1857 vivía en una casa de huéspedes de Boston [^hamill][^bostonia].
 
-**La canción.** El ejemplar de "The One Horse Open Sleigh" de la Library of Congress lleva la nota manuscrita "Deposited Sept. 16. 1857": el día en que se depositó para registrar sus derechos de autor [^ditson1857]. Su portada la llama "Song and Chorus, written & composed by J. Pierpont" (canción y estribillo, escrita y compuesta por J. Pierpont) y la dedica "to John P. Ordway, Esq." [^ditson1857]. John Ordway dirigía el Ordway Hall y encabezaba los Ordway's Aeolians, una compañía de minstrels de hombres blancos con blackface [^wittmann][^historycom][^bostonia]. La historiadora del teatro Kyna Hamill encontró un programa del Ordway Hall del 15 de septiembre de 1857, la víspera del depósito. En la primera parte del minstrel show con blackface de esa noche, Johnny Pell cantó "One Horse Open Sleigh", en el papel de un dandi con blackface [^hamill][^bostonia]. Hamill sostiene que la canción nació de una moda de los escenarios de minstrel del norte, la de parodiar la popular canción de cortejo en trineo a través de la figura del dandi con blackface, y que los orígenes de la canción en el blackface y en el entretenimiento racista se borraron después de su historia, de forma sutil y paso a paso [^hamill]. Su letra, señala, no está escrita del todo en dialecto, aunque una palabra como "upsot" le da un sonido sureño para el público del norte [^hamill].
+**La canción.** El ejemplar de "The One Horse Open Sleigh" de la Library of Congress lleva la nota manuscrita "Deposited Sept. 16. 1857": el día en que se depositó para registrar sus derechos de autor [^ditson1857]. Su portada la llama "Song and Chorus, written & composed by J. Pierpont" (canción y estribillo, escrita y compuesta por J. Pierpont) y la dedica "to John P. Ordway, Esq." [^ditson1857]. John Ordway dirigía el Ordway Hall y encabezaba los Ordway's Aeolians, una compañía de minstrels con blackface [^wittmann][^historycom][^bostonia]. La historiadora del teatro Kyna Hamill encontró un programa del Ordway Hall del 15 de septiembre de 1857, la víspera del depósito. En la primera parte del minstrel show con blackface de esa noche, un número de personajes de dandi, Johnny Pell cantó "One Horse Open Sleigh"; Hamill cree probable que la cantara como el dandi con blackface, un personaje fijo que ridiculizaba a los hombres negros como vanidosos y presumidos [^hamill][^bostonia]. Sostiene que la canción nació de una moda de los escenarios de minstrel de Boston y Nueva York desde 1853 más o menos, la de parodiar la popular canción de cortejo en trineo, y que sus orígenes en el blackface y en el entretenimiento racista se borraron después de su historia, de forma discreta y sistemática [^hamill]. El minstrel show con blackface era un espectáculo en el que artistas blancos se pintaban la cara de negro para burlarse de las personas negras con canciones, bailes y diálogos cómicos [^hamill][^bostonia]. La letra no está escrita del todo en un dialecto de burla, señala Hamill, pero grafías como "tho't" y "upsot" buscaban sonar sureñas ante el público del norte de un espectáculo con blackface [^hamill].
 
 ![[1]]
 
 **El título nuevo.** En 1859 se volvieron a registrar los derechos de la canción, como "Jingle Bells, or The One Horse Open Sleigh" [^hamill][^connectsav]. Según Hamill, esa edición quitó la dedicatoria a Ordway [^hamill]. Ese año la iglesia de Savannah cerró y el hermano de Pierpont volvió al norte [^historycom][^connectsav].
 
-**La guerra.** Cuando llegó la guerra civil estadounidense, Pierpont se alistó en el ejército confederado y sirvió como escribiente de compañía en una unidad de caballería de Georgia reclutada en los alrededores de Savannah [^historycom][^connectsav]. Escribió canciones para la causa del Sur; "We Conquer or Die" se publicó en Nueva Orleans en 1861 [^wustl1861][^hamill]. Su padre fue a la guerra en 1861 como capellán de un regimiento de la Unión, el 22nd Massachusetts Infantry [^historycom][^harvard]. James murió en Florida en 1893 y fue enterrado en Savannah [^historycom][^connectsav][^bostonia].
+**La guerra.** En la guerra civil estadounidense, Pierpont se alistó en el ejército confederado y sirvió como escribiente de compañía en el 1st Georgia Cavalry [^historycom][^connectsav]. Escribió canciones para la causa del Sur; "We Conquer or Die" se publicó en Nueva Orleans en 1861 [^wustl1861][^hamill]. Su padre fue a la guerra en 1861 como capellán de un regimiento de la Unión, el 22nd Massachusetts Infantry [^historycom][^harvard]. James murió en Florida en 1893 y fue enterrado en Savannah [^historycom][^connectsav][^bostonia].
 
-**La melodía.** La melodía de la estrofa de 1857 es, en su forma, la que se canta hoy [^ditson1857][^heartsongs1909]. La del estribillo no. En 1857 el segundo "Jingle bells" salta más arriba que el primero, la línea toca una nota fuera de la tonalidad, un Mi becuadro en "way", y la letra dice "Oh! what joy it is to ride" [^ditson1857]. El estribillo que se canta hoy, con cada "Jingle bells" en una misma nota repetida y "Oh! what fun it is to ride", está impreso ya en 1876, en un libro de Boston de canciones universitarias que no nombra compositor [^carmina1876]. La estrofa también ha cambiado un poco: 1857 tiene "o'er the hills" en lugar de "o'er the fields" y "Oh what sport to ride and sing" [^ditson1857][^carmina1876]. Quién le dio a la canción su forma nueva, y cuándo, no se sabe por las fuentes leídas para esta página.
+**La melodía.** La melodía de la estrofa de 1857 es, en su forma, la que se canta hoy [^ditson1857][^heartsongs1909]. La del estribillo no. En 1857 el segundo "Jingle bells" salta más arriba que el primero, la línea toca una nota fuera de la tonalidad, un Mi becuadro en "way", y la letra dice "Oh! what joy it is to ride" [^ditson1857]. El estribillo que se canta hoy, con cada "Jingle bells" en una misma nota repetida y "Oh! what fun it is to ride", está impreso ya en 1876, en Carmina Collegensia, que no nombra compositor [^carmina1876]. La estrofa también ha cambiado un poco: 1857 tiene "o'er the hills" en lugar de "o'er the fields" y "Oh what sport to ride and sing" [^ditson1857][^carmina1876]. Quién le dio su forma nueva, y cuándo, las fuentes leídas aquí no lo dicen.
 
 ![[2]]
 
-**Mito y documentos.** Se suele contar que se cantó por primera vez en un oficio o un concierto de escuela dominical de Acción de Gracias, en la versión de Savannah en la iglesia de su hermano allí, en 1857 [^historycom][^connectsav]. Lo que muestran los documentos: su primera actuación conocida y su depósito para los derechos de autor, ambos en septiembre de 1857, fueron semanas antes del Día de Acción de Gracias de ese año, y nada en su letra pertenece a una iglesia ni a una fiesta [^hamill][^ditson1857].
+**Mito y documentos.** Se suele contar que la escribió para Acción de Gracias, para cantarla en la iglesia de su padre o en la de su hermano; según la versión de Savannah, en el concierto de Acción de Gracias de la escuela dominical de la iglesia de su hermano allí, en 1857 [^historycom][^connectsav]. Lo que muestran los documentos: su primera actuación conocida y su depósito para los derechos de autor, ambos en septiembre de 1857, fueron semanas antes del Día de Acción de Gracias de ese año, y nada en su letra pertenece a una iglesia ni a una fiesta [^hamill][^ditson1857].
 
-Se suele contar también que Pierpont la escribió en 1850 en la Simpson Tavern de Medford, Massachusetts, como dice una placa que hay allí; o en Savannah a finales de 1857, como sostiene Savannah [^hamill][^bostonia][^connectsav]. Lo que muestran los documentos: Hamill no pudo remontar la afirmación de Medford más allá de un artículo del Boston Globe de 1946, y la canción se publicó en Boston antes de la fecha de Savannah [^hamill][^bostonia][^ditson1857]. Algunos relatos populares añaden que Pierpont estaba en California en 1850 [^bostonia][^historycom]; las notas de la propia Hamill son más cautas: lo encuentra en el censo y las listas de impuestos de Medford en 1850 y en San Francisco ya en junio de 1851 [^hamill]. No se sabe dónde la escribió; la mejor hipótesis de Hamill es la casa de huéspedes de Boston donde vivía a principios del verano de 1857 [^bostonia][^historycom].
+Se suele contar también que Pierpont la escribió en 1850 en la Simpson Tavern de Medford, Massachusetts, como dice una placa que hay allí; o en Savannah a finales de 1857, como sostiene Savannah [^hamill][^bostonia][^connectsav]. Lo que muestran los documentos: Hamill no pudo remontar la afirmación de Medford más allá de un artículo del Boston Globe de 1946, y la canción se publicó en Boston antes de la fecha de Savannah [^hamill][^bostonia][^ditson1857]. Algunos relatos populares sitúan a Pierpont en California en 1850 [^bostonia][^historycom]; las notas de Hamill lo encuentran en el censo y las listas de impuestos de Medford ese año, y en San Francisco ya en junio de 1851 [^hamill]. No se sabe dónde la escribió; la mejor hipótesis de Hamill es esa casa de huéspedes de Boston [^bostonia][^historycom].
 
 ### Cronología
 
 - 1822: James Lord Pierpont nace en Boston [^hamill][^connectsav]
 - 1853: Va a Savannah como director musical de la iglesia unitaria de su hermano [^hamill][^historycom]
-- 1857: Johnny Pell canta "One Horse Open Sleigh" en el Ordway Hall de Boston, el 15 de septiembre [^hamill][^bostonia]
-- 1857: La partitura de Ditson se deposita para registrar sus derechos el 16 de septiembre [^ditson1857]
+- 1857: Johnny Pell canta "One Horse Open Sleigh" en el Ordway Hall de Boston, el 15 de septiembre; la partitura de Ditson se deposita para registrar sus derechos al día siguiente [^hamill][^bostonia][^ditson1857]
 - 1859: Se vuelven a registrar sus derechos como "Jingle Bells, or The One Horse Open Sleigh" [^hamill][^connectsav]
-- 1876: La melodía del estribillo de hoy aparece en Carmina Collegensia, un cancionero universitario de Boston [^carmina1876]
+- 1876: La melodía del estribillo de hoy ya está impresa, en Carmina Collegensia [^carmina1876]
 - 1909: Heart Songs imprime la versión que cantamos [^heartsongs1909]
 - 1965: Dos astronautas la tocan en la Gemini 6 el 16 de diciembre [^nasm-story][^nasa]
 
@@ -70,7 +69,7 @@ La canción de 1857 tiene cuatro estrofas: una historia ligera de diversión y p
 
 ### La letra completa
 
-Esta es la letra tal como la imprime Heart Songs en 1909, la página de la que sale nuestro arreglo, con tres estrofas y el estribillo que cantamos [^heartsongs1909]. La partitura de Pierpont de 1857 tiene una más, que damos aquí como estrofa 3, donde está en ella, y su propio estribillo, que va al final [^ditson1857].
+Esta es la letra tal como la imprime Heart Songs en 1909, la página de la que sale nuestro arreglo, con tres estrofas y el estribillo que cantamos [^heartsongs1909]. La partitura de Pierpont de 1857 tiene una más, que damos aquí como estrofa 3, donde está en ella (Carmina Collegensia todavía la imprime en 1876), y su propio estribillo, que va al final [^ditson1857][^carmina1876].
 
 **Estrofa 1**
 > Dashing thro' the snow,
@@ -126,13 +125,13 @@ se metió en un montón de nieve,
 > And we, we got upsot.
 y nosotros, nosotros volcamos.
 
-**Estrofa 3 (solo en 1857)**
+**Estrofa 3 (no está en 1909)**
 > A day or two ago,
 Hace un día o dos,
 > The story I must tell
-y la historia debo contarla,
+(tengo que contar la historia):
 > I went out on the snow
-salí sobre la nieve
+salí a la nieve
 > And on my back I fell;
 y me caí de espaldas;
 > A gent was riding by
@@ -182,21 +181,20 @@ en un trineo abierto de un solo caballo!
 
 ## Cómo se canta
 
-En 1857 la estrofa es para una voz y el estribillo para cuatro, de una voz aguda hasta un bajo, sobre un acompañamiento de piano muy movido [^ditson1857]. Los estudiantes universitarios la adoptaron como canción de fiesta; tanto el libro universitario de 1876 como Heart Songs, de 1909, marcan el estribillo "acompañado de copas que tintinean" [^carmina1876][^heartsongs1909]. Heart Songs, hecho con canciones favoritas enviadas por unas veinte mil personas, no nombra autor [^heartsongs1909].
+En 1857 la estrofa es para una voz, y el estribillo es una pequeña pieza a cuatro voces, cada una en su propio pentagrama, sobre un acompañamiento de piano muy movido [^ditson1857]. Tanto el libro universitario de 1876 como Heart Songs, de 1909, marcan el estribillo "acompañado de copas que tintinean", lo que sugiere que los estudiantes universitarios la adoptaron como canción de fiesta [^carmina1876][^heartsongs1909]. Heart Songs, hecho con canciones favoritas enviadas por unas veinte mil personas, no nombra autor [^heartsongs1909].
 
 ![[3]]
 
-Nuestro arreglo toma la estrofa y el estribillo de Heart Songs, de 1909; las voces las escribió Stackapella sobre la armonía de su acompañamiento de piano, y lo bajamos un semitono, de La bemol a Sol. Cantamos la primera estrofa y luego el estribillo. Es para 2 a 4 cantantes, con un aire brillante y rápido, con una respiración en cada verso.
+Nuestro arreglo toma la estrofa y el estribillo de Heart Songs, de 1909; las voces las escribió Stackapella sobre la armonía de su acompañamiento de piano, y lo bajamos un semitono, de La bemol a Sol. Una nota sigue una edición de 1915, Songs the Whole World Sings: el "way" de "Laughing all the way" es una sola nota, donde la de 1909 baja ligada. Cantamos la primera estrofa y el estribillo, para 2 a 4 cantantes, con un aire brillante y rápido y una respiración en cada verso.
 
 ## ¿Sabías que...?
 
-- El estribillo de la primera edición es una pequeña pieza a voces: sus cuatro voces están impresas en cuatro pentagramas propios, encima del piano [^ditson1857].
-- En la Gemini 6 la tripulación primero avisó por radio de que veía un "objeto", una broma sobre Papá Noel, y luego tocó la melodía: Wally Schirra en una armónica Hohner diminuta y Tom Stafford con unos cascabeles pequeños. Los dos instrumentos están hoy en el National Air and Space Museum del Smithsonian [^nasm-story][^nasm-harmonica][^nasa].
+- En la Gemini 6 la tripulación primero avisó por radio de que veía un "objeto" desconocido en una órbita polar baja, y luego tocó la melodía: Wally Schirra en una armónica Hohner diminuta y Tom Stafford con unos cascabeles pequeños. Los dos instrumentos están hoy en el National Air and Space Museum del Smithsonian [^nasm-story][^nasm-harmonica][^nasa].
 
 ## Cómo cantarla
 
 - [Soprano](/songs/jingle-bells/soprano): la melodía. Cuatro veces en la estrofa la melodía salta una sexta, de Re grave a Si, en "Dash-ing", "one-horse", "Bells on" y "Mak-ing"; aterriza limpia en la nota. El Mi agudo llega una sola vez, en "sleigh-" de "A sleighing song tonight". En el estribillo cada "Jingle bells" está en un mismo Si: canta esas notas repetidas ligeras y afinadas, sin que se caigan.
-- [Contralto](/songs/jingle-bells/alto): la letra, casi siempre una sexta por debajo de la melodía, sobre todo en Re y Si. Cada "Jingle bells" va en Re, bajo el Si de la melodía. Tu nota más aguda es Fa sostenido, sostenido en "Laughing all the" y repetido en "ride and sing a sleighing": mantenlo brillante y afinado.
+- [Contralto](/songs/jingle-bells/alto): la letra, casi siempre una sexta por debajo de la melodía, sobre todo en Re y Si. Cada "Jingle bells" va en Re, bajo el Si de la melodía. Tu nota más aguda es Fa sostenido: la mantienes en "Laughing all the" y la repites en "ride and sing a sleighing"; que suene brillante y afinada.
 - [Tenor](/songs/jingle-bells/tenor): casi siempre en Sol. Los cambios son pocos: La desde "O'er the fields we go" hasta "Laughing all the", Do en "ride and sing a", La en "sleighing", y baja a Fa sostenido en "song to-". El estribillo se queda en Sol hasta el final de cada mitad: Si y La en "pen sleigh" la primera vez; La, luego Fa sostenido y de vuelta a Sol la última.
 - [Bajo](/songs/jingle-bells/bass): el caballo y los cascabeles. Un "dm" corto y grave en un pulso sí y otro no durante la estrofa, como cascos, y luego un "jing" que resuena durante el estribillo, sobre todo en Sol, Re y Do. Mantén el pulso firme y sostén el último "jing" en Sol grave un compás entero.
 
@@ -204,11 +202,11 @@ Nuestro arreglo toma la estrofa y el estribillo de Heart Songs, de 1909; las voc
 
 ### ¿Jingle Bells se escribió para Acción de Gracias?
 
-Ningún documento de la época lo dice. Se cuenta que se cantó por primera vez en un oficio o un concierto de escuela dominical de Acción de Gracias; en la versión de Savannah, en la iglesia de su hermano [^historycom][^connectsav]. Pero la canción se cantó en un escenario de minstrel show de Boston el 15 de septiembre de 1857 y se depositó para registrar sus derechos al día siguiente, semanas antes de Acción de Gracias [^hamill][^ditson1857].
+Ningún documento de la época lo dice. Un relato popular sitúa su estreno en un oficio de Acción de Gracias en la iglesia de su padre o en la de su hermano; la versión de Savannah habla de un concierto de Acción de Gracias de la escuela dominical en la iglesia de su hermano [^historycom][^connectsav]. Pero la canción se cantó en un escenario de minstrel show de Boston el 15 de septiembre de 1857 y se depositó para registrar sus derechos al día siguiente, semanas antes de Acción de Gracias [^hamill][^ditson1857].
 
 ### ¿Jingle Bells era una canción de minstrel show?
 
-Sí, en sus comienzos. Su primera interpretación conocida fue la de Johnny Pell, un artista blanco con blackface, en el Ordway Hall de Boston en septiembre de 1857, y la partitura está dedicada al dueño de la sala, John P. Ordway [^hamill][^bostonia][^ditson1857]. No era una canción de personas esclavizadas. La historiadora del teatro Kyna Hamill reconstruyó esta historia en un estudio de 2017 y sostiene que después se dejó fuera de la historia de la canción [^hamill].
+Sí, en sus comienzos. Su primera interpretación conocida fue la de Johnny Pell, un artista blanco con blackface, en el Ordway Hall de Boston en septiembre de 1857, y la partitura está dedicada al dueño de la sala, John P. Ordway [^hamill][^bostonia][^ditson1857]. No era una canción de personas esclavizadas. La historiadora del teatro Kyna Hamill reconstruyó esta historia en un estudio de 2017 y sostiene que después se borró de la historia de la canción [^hamill].
 
 ### ¿Jingle Bells es de dominio público?
 
@@ -216,24 +214,24 @@ Sí. Pierpont publicó la letra y la música en 1857 y murió en 1893 [^ditson18
 
 ### ¿Qué voz canta la melodía?
 
-En nuestro arreglo la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto; con tres, se suma el bajo; el tenor completa las cuatro.
+En nuestro arreglo la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto, casi siempre una sexta por debajo; con tres, se suma el bajo, que trota en "dm" en la estrofa y hace sonar "jing" en el estribillo; el tenor, casi siempre en Sol, completa las cuatro.
 
 ## Canta después
 
-- [Deck the Halls](/songs/deck-the-halls): otra canción brillante y rápida de la temporada de invierno que no dice nada del Nacimiento, con todas las voces en la letra.
-- [Daisy Bell](/songs/daisy-bell): una canción popular posterior, de estrofa y estribillo, tomada como esta de una edición antigua, con un paseo propio en una bicicleta para dos.
-- [God Rest Ye Merry, Gentlemen](/songs/god-rest-ye): un villancico para los mismos cantos de diciembre, animado como este pero en tonalidad menor.
+- [Deck the Halls](/songs/deck-the-halls): otra canción de invierno brillante y rápida que no dice nada del Nacimiento, con todas las voces en la letra.
+- [Daisy Bell](/songs/daisy-bell): una canción popular posterior, de estrofa y estribillo, con un paseo propio en una bicicleta para dos.
+- [God Rest Ye Merry, Gentlemen](/songs/god-rest-ye): un villancico de diciembre, animado como este pero en tonalidad menor.
 
 ## Fuentes
 
-- [^ditson1857]: J. Pierpont, *The One Horse Open Sleigh: Song and Chorus* (Boston: Oliver Ditson & Co., 1857), plancha 18200, portada y pp. 3 a 5, con la nota de depósito "Deposited Sept. 16. 1857"; ejemplar de la Library of Congress (registro 2023812429), https://www.loc.gov/item/2023812429/
-- [^carmina1876]: Henry Randall Waite, ed., *Carmina Collegensia* (Boston: Oliver Ditson & Co., 1876), pp. 18 a 19, "Jingle, Bells"; ejemplar de las York University Libraries, facsímil. https://archive.org/details/carminacollegens00wait
-- [^heartsongs1909]: Joe Mitchell Chapple, ed., *Heart Songs Dear to the American People* (Boston: The Chapple Publishing Company, 1909), prólogo y pp. 148 a 149, "Jingle, Bells"; facsímil. https://archive.org/details/heartsongsdearto00chap
+- [^ditson1857]: J. Pierpont, *The One Horse Open Sleigh: Song and Chorus* (Boston: Oliver Ditson & Co., 1857), plancha 18200, portada y pp. 3 a 5, con la nota de depósito "Deposited Sept. 16. 1857"; Library of Congress, Music Division, Music for the Nation: American Sheet Music, M1.A12 V Vol. 87 Case (LCCN 2023812429), https://www.loc.gov/item/2023812429/
+- [^carmina1876]: Henry Randall Waite, ed., *Carmina Collegensia* (Boston: Oliver Ditson & Co., 1876), sección de música, pp. 18 a 19, "Jingle, Bells"; ejemplar de las York University Libraries, facsímil. https://archive.org/details/carminacollegens00wait
+- [^heartsongs1909]: Joe Mitchell Chapple, ed., *Heart Songs Dear to the American People* (Boston: The Chapple Publishing Company, para la World Syndicate Company, Nueva York, 1909), prólogo y pp. 148 a 149, "Jingle, Bells"; ejemplar de la University of Illinois Urbana-Champaign, facsímil. https://archive.org/details/heartsongsdearto00chap
 - [^hamill]: Kyna Hamill, "'The story I must tell': 'Jingle Bells' in the Minstrel Repertoire", *Theatre Survey* 58, n.º 3 (septiembre de 2017), pp. 375 a 403. https://www.cambridge.org/core/journals/theatre-survey/article/story-i-must-tell-jingle-bells-in-the-minstrel-repertoire/D42C78950A58BDB88290954F73B195B2
 - [^bostonia]: Joel Brown, "Unearthing the Truth about 'Jingle Bells'", *Bostonia*, Boston University (9 de diciembre de 2016). https://www.bu.edu/bostonia/2016/jingle-bells-history/
 - [^historycom]: Christopher Klein, "8 Things You May Not Know About 'Jingle Bells'", History.com (2016, actualizado en 2025). https://www.history.com/articles/8-things-you-may-not-know-about-jingle-bells
 - [^connectsav]: Bill DeYoung, "Jingle, all the way!", *Connect Savannah* (2009, actualizado en 2024). https://www.connectsavannah.com/?p=149634
-- [^wittmann]: Matthew Wittmann, "Kelly and Leon's Minstrels (Part I)" (15 de septiembre de 2012). https://matthewwittmann.com/category/minstrelsy/
+- [^wittmann]: Matthew Wittmann, "Kelly and Leon's Minstrels (Part I)" (15 de septiembre de 2012). https://matthewwittmann.com/kelly-and-leons-minstrels-part-i/
 - [^wustl1861]: James Pierpont, *We Conquer or Die* (Nueva Orleans: P. P. Werlein & Halsey, 1861), plancha 621; Gaylord Music Library, Washington University in St. Louis, facsímil. https://archive.org/details/b88149122
 - [^bartlett1859]: John Russell Bartlett, *Dictionary of Americanisms*, 2.ª ed. (Boston: Little, Brown and Company, 1859), p. 412, "To Slat", que cita el Lafayette Chronicle; facsímil. https://archive.org/details/dictionaryofamer00bartiala
 - [^bartlett1877]: John Russell Bartlett, *Dictionary of Americanisms*, 4.ª ed. (Boston: Little, Brown, and Company, 1877), p. 725, "Two-forty Pace"; facsímil. https://archive.org/details/dictionaryameri01bartgoog
