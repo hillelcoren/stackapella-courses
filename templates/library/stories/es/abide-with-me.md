@@ -20,7 +20,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: abide with me historia | quién escribió abide with me y por qué | quién compuso la música de abide with me | abide with me final de la fa cup | señor jesús la luz del sol se fue himno | abide with me significado versículo bíblico
-translatedFrom: 7bb120262f9c
+translatedFrom: a566ccd3b1f2
+listen: National Jukebox, grabación de 1904 | https://archive.org/details/loc-jukebox-119028-abide-with-me || National Jukebox, grabación de 1914 | https://archive.org/details/loc-jukebox-11743-abide-with-me
 ---
 
 Abide with Me, que en español se canta como "Señor Jesús, la luz del sol se fue" o "Señor Jesús, el día ya se fue" [^hymnary-es1964][^hymnary-es2016], es una oración que pide la compañía de Dios cuando la vida se acaba. Henry Francis Lyte escribió este himno en 1847, el último año de su vida, cuando era cura de Lower Brixham, un pueblo de pescadores de Devon [^remains1850][^canterbury]. Suele cantarse con EVENTIDE, la melodía que William Henry Monk escribió para la primera edición con música de Hymns Ancient and Modern, en 1861 [^ham1861][^hymnary-eventide]. Desde hace mucho se canta en los funerales [^canterbury][^julian]. Además, las multitudes lo cantan antes de la final de la FA Cup en Inglaterra desde 1927 [^richards][^pdr].
@@ -33,9 +34,15 @@ Su familia contó el resto en la semblanza que abre sus Remains de 1850 [^remain
 
 John Julian registra una hoja suelta impresa en Berry Head en septiembre de 1847, la primera impresión conocida de la letra, y da sus variantes [^julian][^hymnarchive]. En 1850 los Remains imprimieron las ocho estrofas, sin música [^remains1850][^hymnarchive]. Julian registra que la melodía del propio Lyte, su "aire", se publicó en Bristol en 1863 [^julian][^hymnarchive], pero Hymnology Archive no conoce ningún ejemplar conservado de esa edición [^hymnarchive].
 
+![[1]]
+
 **La melodía.** William Henry Monk (nacido en Brompton, Londres, en 1823; muerto en 1889) fue organista de iglesia en Londres [^romance1889][^hymnary-monk] y editor musical de Hymns Ancient and Modern, el himnario de la Iglesia de Inglaterra cuya primera edición con música salió en 1861 [^ham1861][^romance1889]. Esa edición imprime el himno como n.º 14, entre los himnos de la tarde: cinco de las ocho estrofas de Lyte, con EVENTIDE, una melodía marcada como compuesta para el libro o impresa allí por primera vez [^ham1861]. La edición estándar de 1875 lo renumeró como 27 [^ham1875].
 
+![[2]]
+
 **Mito y documentos.** Se suele contar que Lyte escribió el himno en las horas que rodearon su sermón de despedida. Una versión lo sitúa en su despacho la tarde anterior [^canterbury]; un libro de 1889, después del oficio, cuando "arrastró su cuerpo cansado hasta su cuarto", y dice que "sin duda" trabajaba en el himno aquella tarde [^romance1889]. Lo que muestran los documentos: la semblanza dice solo que lo entregó esa tarde, nunca cuándo lo escribió [^remains1850]. Los Remains imprimen además una carta suya fechada en Berry Head el 25 de agosto de 1847, pero se detienen justo antes de la frase siguiente, que un descendiente publicó a partir del manuscrito en The Times en 1947: "Le envío, ya que hablamos de esto, unos versos que quizá le interesen, mi última efusión". Esos versos eran el himno [^remains1850][^hymnarchive]. El Canterbury Dictionary of Hymnology cree ahora más probable que lo escribiera en Berry Head en agosto [^canterbury].
+
+![[3]]
 
 Se suele contar también que Monk escribió EVENTIDE en diez minutos durante una reunión de comité [^hymnary-eventide]. Lo que muestran los documentos: el libro de 1889 lo cuenta de segunda mano, por un amigo al que Monk le contó que él y sir Henry Baker, a punto de salir, se acordaron de que no había melodía para el "himno 27", y que él escribió una en diez minutos mientras seguía una clase de piano [^romance1889][^hymnarchive]. Pero 27 es su número en la edición de 1875; en 1861 era el 14 [^ham1861][^ham1875][^hymnarchive]. La viuda de Monk contó otra historia, la de una melodía escrita en un momento de duelo mientras el matrimonio miraba la puesta de sol [^hymnarchive][^songsandhymns]. Hoy no se puede comprobar ninguna de las dos.
 

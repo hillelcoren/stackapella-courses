@@ -13,7 +13,7 @@ alsoKnownAs: Happy Birthday; Good Morning to All (the tune); Good Morning to You
 wikidata: Q167545
 quote: Good-morning to you, Good-morning to you, Good-morning dear children, Good-morning to all.
 quoteSource: hill1896
-original: Song Stories for the Kindergarten, revised edition (Chicago, 1896), p. 3, Internet Archive | https://archive.org/details/SongStoriesForTheKindergarten
+original: The Elementary Worker and His Work (1911), pp. 62 to 63, Library of Congress copy, Internet Archive | https://archive.org/details/elementaryworker00jaco/page/62
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
@@ -26,9 +26,13 @@ Happy Birthday to You, often just called Happy Birthday, is the song a group sin
 
 **Two sisters in Louisville.** Mildred Jane Hill was born in 1859 and Patty Smith Hill in 1868, two of the six children of William Wallace Hill and Martha Smith Hill of Kentucky [^brauneis][^wwh][^jstordaily]. Patty trained as a kindergarten teacher in Louisville under Anna E. Bryan and finished in 1889; in 1893 she succeeded Bryan at the head of the city's kindergarten training work [^brauneis][^wwh]. She later taught at Teachers College, Columbia University, until 1935 [^brauneis][^wwh][^tclib]. Mildred was a musician and composer, an accomplished pianist and organist [^brauneis][^wwh][^jstordaily].
 
+![[1]]
+
 **Songs tried on children.** The sisters began writing songs for the kindergarten in 1889 [^brauneis][^order2015]. In a 1935 deposition Patty described the method: she tried each new song with the children the next morning, and if it lay beyond their voices the sisters changed it that night, again and again, until even the youngest could learn it with ease [^order2015][^brauneis]. Good Morning to All was one of the earliest, she said [^order2015][^brauneis].
 
 **The book.** Clayton F. Summy of Chicago published the songs in 1893 as Song Stories for the Kindergarten [^order2015][^filson]. One law professor's study gives 1894 in a few places but 1893 in most [^brauneis]. We found no scan of the 1893 printing, so we read the "New Edition, Revised, Illustrated and Enlarged", copyright 1896 by Clayton F. Summy [^hill1896]. Its title page credits "Music Composed and Arranged by Mildred J. Hill" and "Words Written and Adapted by Patty S. Hill", and Mildred thanks Calvin B. Cady for his careful revision of the songs [^hill1896]. The first song, on page 3, is "Good-Morning to All", marked "Brightly", in G major and 3/4 time with a piano part [^hill1896].
+
+![[2]]
 
 **The birthday words.** No one knows for certain who first sang "Happy birthday to you" to the tune. The earliest known printing of the full words is in The Elementary Worker and His Work, a teacher-training text by Alice Jacobs and Ermina C. Lincoln, copyright 1911 by the Board of Sunday Schools of the Methodist Episcopal Church [^ew1911][^order2015]. Its model program for a beginners' class has the children sing "Good morning to you", welcome newcomers with "A welcome to you", and then, after the class has counted aloud as a four-year-old named John drops his pennies in the bank, sing "Happy birthday, dear John", each to be sung "to the same tune as the Good Morning" [^ew1911]. It names no author for the words [^ew1911][^order2015]. A note after the program sends teachers to "Song Stories for the Sunday School," by Patty Hill, for its songs [^ew1911][^order2015].
 

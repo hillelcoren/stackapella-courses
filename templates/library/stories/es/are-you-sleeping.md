@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: frère jacques historia | frère jacques significado | quién escribió frère jacques | frère jacques canon | martinillo canción historia | fray santiago canción significado
-translatedFrom: a37421fd141f
+translatedFrom: bf5c1a7f7331
 ---
 
 Frère Jacques, que en inglés se canta como Are You Sleeping? o Are You Sleeping, Brother John?, es un canon: una melodía corta que los cantantes empiezan uno tras otro, de modo que suena contra sí misma [^grove-round][^rodeheaver1928]. En la letra francesa, a un fraile llamado hermano Jacques le preguntan si está dormido y le dicen que toque la campana de maitines, las oraciones de la noche [^widor1883][^academie-matines]. Su primera impresión conocida, en París en 1811, da la melodía sin ninguna letra [^cle1811][^ballad]. En 1817 un libro sobre música lo llamó el canon que todo el mundo conoce [^stendhal1817], y en 1916 un educador musical estadounidense imprimió la letra inglesa para una semana nacional de canto comunitario [^normal1916]. Gustav Mahler lo convirtió en una marcha fúnebre en tonalidad menor en su Primera Sinfonía [^sfs][^bso].
@@ -28,11 +28,17 @@ Frère Jacques, que en inglés se canta como Are You Sleeping? o Are You Sleepin
 
 **La primera impresión conocida.** En 1811, Pierre Capelle, que firmó la portada solo como "C***, du Caveau moderne", publicó en París La Clé du Caveau: un libro con cientos de melodías numeradas, para que los aficionados a la canción que vivían lejos de París y de sus teatros pudieran encontrar la melodía con la que debía cantarse cada canción [^cle1811][^ballad]. Su prefacio explica el "timbre": una melodía que se nombra por el primer verso de la canción de la que viene [^cle1811]. El número 726, en la página 309, es nuestra melodía: una línea de notas en Sol, marcada con un 2, dos tiempos por compás, sin letra, que empieza a mitad de compás [^cle1811]. La tabla de melodías la llama "Air des Matines du frère Jacques, ou frère Jacques, dormez-vous?", el aire de los maitines del hermano Jacques, o "Hermano Jacques, ¿duermes?" [^cle1811]. Como un timbre es el primer verso de una canción, la letra francesa ya se conocía en 1811, aunque la página no imprime ninguna [^cle1811].
 
+![[1]]
+
 **"Todo el mundo lo conoce".** En 1817, un libro de vidas de Haydn, Mozart y Metastasio, salido en 1814 con el seudónimo de Bombet y después impreso con el nombre de Stendhal, explicaba la fuga en una nota al pie: todo el mundo conoce el canon de "Frère Jacques, dormez-vous? Sonnez les matines" (hermano Jacques, ¿duermes? Toca la campana de maitines), y eso es una especie de fuga [^stendhal1817][^stendhal-levy]. François-Joseph Fétis, director del Conservatorio de Bruselas, dijo lo mismo en su guía de la música, impresa en Bruselas en 1839 y en París en 1847: todo el mundo conoce el canon que empieza "Frère Jacques, dormez-vous?" [^fetis1839][^fetis1847].
 
 **Letra y melodía juntas.** James Fuld, según lo recoge el Ballad Index, fechó en 1860 la impresión más antigua de la letra y la música juntas; no hemos visto esa impresión [^ballad]. La página más antigua con la letra francesa y la melodía juntas que hemos leído está en Vieilles chansons pour les petits enfants, viejas canciones para niños pequeños, publicado en París en 1883 con partes de piano de Charles-Marie Widor [^widor1883][^met1883]. En las páginas 18 y 19 es un canon para tres voces en Sol, cada una entrando dos compases después de la anterior, sobre un bajo de piano sencillo, y lo enmarca un dibujo de cinco campanas en un campanario, con frailes tirando de las cuerdas [^widor1883].
 
+![[2]]
+
 **La letra inglesa.** "Jacques" es la forma francesa de James (en español, Jacobo, Santiago o Jaime), no de John (Juan) [^yonge]. No se sabe quién escribió "Are you sleeping, Brother John?". La impresión más antigua de la letra inglesa que hemos encontrado está en una revista para maestros, Normal Instructor and Primary Plans, de febrero de 1916. Peter W. Dykema, jefe de música comunitaria de la University of Wisconsin, incluyó "Are You Sleeping" entre cinco cánones para una National Week of Song (semana nacional de la canción) en torno al cumpleaños de Washington, e imprimió su letra [^normal1916]. Los cánones, escribió, "difícilmente pueden superarse para despertar el interés y el entusiasmo" [^normal1916]. En 1928 ya estaba en Sociability Songs, de Homer Rodeheaver, el libro del que leemos nuestra melodía [^rodeheaver1928].
+
+![[3]]
 
 **Mito y documentos.** Se suele contar que la canción se burla de Frère Jacques, un cirujano del siglo XVII que operaba de cálculos en la vejiga vestido con hábito de monje [^mentalfloss][^ganem1999]. Lo que muestran los documentos: existió, y un libro londinense de 1726 atribuye a "Frere Jacques in France" (Frère Jacques, en Francia) el primer intento de la operación que describe [^douglas1726]. Pero dos urólogos que revisaron su carrera en 1999 no encontraron ningún vínculo directo entre él y la canción [^ganem1999].
 
@@ -89,6 +95,8 @@ din, din, don, din, din, don.
 **En canon.** En un canon, cada cantante empieza la misma melodía a una distancia fija del anterior [^grove-round]. La página de Widor de 1883 hace entrar tres voces, a dos compases de distancia [^widor1883]; la página de 1928 numera cuatro entradas [^rodeheaver1928]. En 1916 fue uno de los cinco cánones propuestos para escuelas y reuniones de canto comunitario en una National Week of Song [^normal1916], y más tarde lo conservaron los cancioneros de los Scouts y de los clubes 4-H [^ballad][^scouts1931].
 
 **Lo que canta nuestro arreglo.** Nuestra melodía sigue la página de 1928 nota por nota y en la misma tonalidad, Mi bemol, escrita en 4/4 en lugar del 2/4 de la página, con los mismos puntos de entrada [^rodeheaver1928]. La soprano empieza sola; la contralto entra dos compases después a la misma altura; luego el tenor y después el bajo, cada uno dos compases después del anterior y una octava más grave. Todos cantan la melodía dos veces de principio a fin, por decisión nuestra, y las voces terminan una a una, así que el bajo acaba solo. Acortamos "John" y los tres primeros "dong" a un solo tiempo, con una respiración después, y cantamos "ding, dang, dong" donde la página dice "ding, ding, dong".
+
+![[4]]
 
 ## Versiones y otras letras
 

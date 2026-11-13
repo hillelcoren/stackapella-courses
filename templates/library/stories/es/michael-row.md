@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió michael row the boat ashore | michael row the boat ashore significado | michael row the boat ashore significado aleluya | michael row the boat ashore en la biblia | michael row the boat ashore historia | michael row the boat ashore letra en español
-translatedFrom: 59d859ccce9f
+translatedFrom: 3fee5ceb00cb
 original: Slave Songs of the United States (1867), página 23, Smithsonian Libraries | https://archive.org/details/slavesongsofunit00alle/page/n82
 ---
 
@@ -29,11 +29,17 @@ Michael, Row the Boat Ashore es un espiritual (en inglés, spiritual), una canci
 
 **Quién la anotó.** Charles Pickard Ware, un joven del Norte, trabajaba en Coffin's Point, una plantación de la isla de St. Helena, y anotó las canciones que oía allí [^slavesongs][^pearson1906]. La introducción de William Francis Allen llamó a su colección "probablemente" la colección individual más grande y más exacta de estas canciones, hecha "sobre todo en Coffin's Point". Los editores la imprimieron entera como base de su libro [^slavesongs].
 
+![[1]]
+
 Ware dejó también una nota sobre cómo usaban los remeros las canciones. "Tal como he escrito estas melodías", escribió, "se cantan dos compases por cada palada": el primero lo marca el comienzo de la palada y el segundo el golpeteo de los remos en los toletes. Incluyó "Michael row" entre las canciones que "se usaban cuando la carga pesaba o la marea iba en contra" [^slavesongs].
 
 **El libro.** Slave Songs se publicó en Nueva York, en A. Simpson & Co., en 1867. Sus editores fueron Allen (1830 a 1889), Ware y Lucy McKim Garrison, tres personas blancas del Norte; Allen y Ware habían bajado al Sur con la misión, así que las canciones llegaron a la imprenta tal como las oían personas de fuera [^slavesongs][^uscpress][^pearson1906][^dbcs]. Allen trabajó en St. Helena desde finales de 1863 hasta mediados de 1864 [^uscpress][^slavesongs]. En su introducción escribió que los isleños usaban las mismas canciones para remar que para el "shout", la danza de culto que se hacía en la casa de oración después de una reunión. Solo conocía "una auténtica canción de barca", esta, y no tenía "ninguna duda" de que era "un verdadero espiritual", porque a quien se dirige es al arcángel Miguel [^slavesongs].
 
+![[2]]
+
 **La página.** El n.º 31 está en la página 23 de la primera edición, con el encabezado "MICHAEL ROW THE BOAT ASHORE." y sin compositor ni nombre de recopilador [^scan31]. El índice del libro lo atribuye a "Port Royal Islands. C. P. W.", las iniciales de Ware [^slavesongs][^pearson1906]. Nadie sabe quién la creó, y la letra y la melodía comparten esta primera impresión conocida. La melodía está en Mi bemol, en 2/4, en dos líneas cortas de música. Bajo la primera está "1. Michael row de boat a-shore, Hal-le-lu-jah!"; la segunda, "2. Mich-ael boat a gos-pel boat, Hal-le-lu-jah!", está impresa a dos voces, con dos notas en casi todos los pulsos [^scan31]. Los versos 3 a 22 siguen solo como texto, hasta la página 24; la única nota es la glosa "(there)" después de "deh" en el verso 3. Luego vienen siete "Words from Hilton Head" (versos de Hilton Head), que empiezan "Michael haul the boat ashore" [^scan31]. Los editores pusieron una sola letra con cada melodía y dejaron que quien cantara encajara el resto, como hacían los isleños [^slavesongs].
+
+![[3]]
 
 La canción está dentro de la colección de Ware, los números 1 a 43, y en medio de una serie, los números 27 a 33, que la introducción cuenta entre "las melodías de remo más comunes" [^slavesongs][^scan31].
 

@@ -13,12 +13,12 @@ alsoKnownAs: Happy Birthday; Good Morning to All (the tune); Good Morning to You
 wikidata: Q167545
 quote: Good-morning to you, Good-morning to you, Good-morning dear children, Good-morning to all.
 quoteSource: hill1896
-original: Song Stories for the Kindergarten, edición revisada (Chicago, 1896), p. 3, Internet Archive | https://archive.org/details/SongStoriesForTheKindergarten
+original: The Elementary Worker and His Work (1911), pp. 62 y 63, ejemplar de la Library of Congress, Internet Archive | https://archive.org/details/elementaryworker00jaco/page/62
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: cumpleaños feliz historia | quién escribió cumpleaños feliz | origen de cumpleaños feliz | happy birthday to you historia | quién escribió happy birthday | happy birthday derechos de autor
-translatedFrom: 902cbaf8ac38
+translatedFrom: 0824be035508
 ---
 
 Happy Birthday to You, a menudo llamada solo Happy Birthday, es la canción que un grupo le canta a alguien el día de su cumpleaños, con el nombre de esa persona en el tercer verso. Su melodía nació como Good Morning to All, un saludo para la clase que compuso Mildred J. Hill sobre una letra de su hermana Patty Smith Hill, publicado en Chicago en 1893 en su libro Song Stories for the Kindergarten [^order2015][^filson][^brauneis]. La letra de cumpleaños llegó después y nadie la firmó: su primera impresión conocida, en un manual metodista de escuela dominical de 1911, no nombra a ningún autor [^ew1911][^order2015]. Durante décadas, una editorial musical cobró por usar la canción [^brauneis][^order2015], hasta que en 2015 un tribunal federal de Estados Unidos resolvió que el copyright que reclamaba no cubría la letra [^order2015][^kqed].
@@ -27,9 +27,13 @@ Happy Birthday to You, a menudo llamada solo Happy Birthday, es la canción que 
 
 **Dos hermanas en Louisville.** Mildred Jane Hill nació en 1859 y Patty Smith Hill en 1868; eran dos de los seis hijos de William Wallace Hill y Martha Smith Hill, de Kentucky [^brauneis][^wwh][^jstordaily]. Patty se formó como maestra de jardín de infancia en Louisville con Anna E. Bryan y terminó en 1889; en 1893 sucedió a Bryan al frente de la formación de maestras de jardín de infancia de la ciudad [^brauneis][^wwh]. Más tarde enseñó en el Teachers College de la Universidad de Columbia, hasta 1935 [^brauneis][^wwh][^tclib]. Mildred era música y compositora, una pianista y organista consumada [^brauneis][^wwh][^jstordaily].
 
+![[1]]
+
 **Canciones probadas con los niños.** Las hermanas empezaron a escribir canciones para el jardín de infancia en 1889 [^brauneis][^order2015]. En una declaración jurada de 1935, Patty describió el método: probaba cada canción nueva con los niños a la mañana siguiente, y si quedaba fuera del alcance de sus voces, las hermanas la cambiaban esa noche, una y otra vez, hasta que hasta los más pequeños pudieran aprenderla con facilidad [^order2015][^brauneis]. Good Morning to All fue una de las primeras, dijo [^order2015][^brauneis].
 
 **El libro.** Clayton F. Summy, de Chicago, publicó las canciones en 1893 como Song Stories for the Kindergarten [^order2015][^filson]. El estudio de un profesor de derecho da 1894 en algunos lugares, pero 1893 en la mayoría [^brauneis]. No encontramos ninguna copia digitalizada de la impresión de 1893, así que leímos la "New Edition, Revised, Illustrated and Enlarged", con copyright de 1896 a nombre de Clayton F. Summy [^hill1896]. Su portada acredita "Music Composed and Arranged by Mildred J. Hill" (música compuesta y arreglada por Mildred J. Hill) y "Words Written and Adapted by Patty S. Hill" (letra escrita y adaptada por Patty S. Hill), y Mildred agradece a Calvin B. Cady su cuidadosa revisión de las canciones [^hill1896]. La primera canción, en la página 3, es "Good-Morning to All", marcada "Brightly" (con viveza), en Sol mayor y en 3/4, con parte de piano [^hill1896].
+
+![[2]]
 
 **La letra de cumpleaños.** Nadie sabe con certeza quién cantó primero "Happy birthday to you" con esta melodía. La primera impresión conocida de la letra completa está en The Elementary Worker and His Work, un texto de formación de maestros de Alice Jacobs y Ermina C. Lincoln, con copyright de 1911 a nombre de la Board of Sunday Schools de la Iglesia Metodista Episcopal [^ew1911][^order2015]. Su programa modelo para una clase de principiantes hace que los niños canten "Good morning to you", reciban a los recién llegados con "A welcome to you" y luego, después de que la clase cuente en voz alta mientras un niño de cuatro años llamado John echa sus monedas en la hucha, canten "Happy birthday, dear John", todo "to the same tune as the Good Morning" (con la misma melodía que el Good Morning) [^ew1911]. No nombra a ningún autor de la letra [^ew1911][^order2015]. Una nota tras el programa remite a los maestros a "Song Stories for the Sunday School," de Patty Hill, para sus canciones [^ew1911][^order2015].
 

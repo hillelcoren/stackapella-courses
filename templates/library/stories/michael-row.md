@@ -28,11 +28,17 @@ Michael, Row the Boat Ashore is a spiritual, a song made by enslaved African Ame
 
 **Who wrote it down.** Charles Pickard Ware, a young Northerner, worked at Coffin's Point, a plantation on St. Helena Island, and wrote down the songs he heard there [^slavesongs][^pearson1906]. William Francis Allen's introduction called it "probably" the largest and most accurate single collection of these songs, made "chiefly at Coffin's Point". The editors printed it whole as the basis of their book [^slavesongs].
 
+![[1]]
+
 Ware also left a note on how the rowers used the songs. "As I have written these tunes," he wrote, "two measures are to be sung to each stroke", the first marked by the beginning of the stroke and the second by the rattle of the oars in the rowlocks. He listed "Michael row" among the songs "used when the load was heavy or the tide was against us" [^slavesongs].
 
 **The book.** Slave Songs was published in New York by A. Simpson & Co. in 1867. Its editors were Allen (1830 to 1889), Ware and Lucy McKim Garrison, three white Northerners; Allen and Ware had come south with the mission, so the songs reached print as outsiders heard them [^slavesongs][^uscpress][^pearson1906][^dbcs]. Allen worked on St. Helena from late 1863 to mid-1864 [^uscpress][^slavesongs]. In his introduction he wrote that the islanders used the same songs for rowing as for the shout, the dance of worship held in the praise house after a meeting. He knew "only one pure boat-song", this one, and had "no doubt" it was "a real spiritual", because it is the archangel Michael who is addressed [^slavesongs].
 
+![[2]]
+
 **The page.** No. 31 stands on page 23 of the first edition, headed "MICHAEL ROW THE BOAT ASHORE." with no composer and no collector's name [^scan31]. The book's table of contents credits it "Port Royal Islands. C. P. W.", Ware's initials [^slavesongs][^pearson1906]. Nobody knows who made it, and the words and the tune share this earliest known printing. The tune is in E-flat, in 2/4 time, on two short lines of music. Under the first is "1. Michael row de boat a-shore, Hal-le-lu-jah!"; the second, "2. Mich-ael boat a gos-pel boat, Hal-le-lu-jah!", is printed in two parts, with two notes on most beats [^scan31]. Lines 3 to 22 follow as words only, onto page 24; the only note is the gloss "(there)" after "deh" in line 3. Then come seven "Words from Hilton Head", beginning "Michael haul the boat ashore" [^scan31]. The editors set one set of words to each tune and left singers to fit the rest, as the islanders did [^slavesongs].
+
+![[3]]
 
 The song sits inside Ware's collection, Nos. 1 to 43, and in the middle of a run, Nos. 27 to 33, that the introduction counts among "the most common rowing tunes" [^slavesongs][^scan31].
 

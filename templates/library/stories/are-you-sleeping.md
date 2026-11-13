@@ -27,11 +27,17 @@ Frère Jacques, sung in English as Are You Sleeping? or Are You Sleeping, Brothe
 
 **The earliest known printing.** In 1811 Pierre Capelle, who signed the title page only "C***, du Caveau moderne", published La Clé du Caveau in Paris: a book of hundreds of numbered song tunes, so that song lovers far from Paris and its theatres could find the tune a song was meant to be sung to [^cle1811][^ballad]. His preface explains the timbre: a tune named by the first line of the song it came from [^cle1811]. Number 726, on page 309, is our tune: one line of notes in G, marked 2 for two beats to the bar, with no words, starting halfway through a bar [^cle1811]. The table of tunes names it "Air des Matines du frère Jacques, ou frère Jacques, dormez-vous?", the air of Brother Jacques's matins, or "Brother Jacques, are you sleeping?" [^cle1811]. Since a timbre is the first line of a song, the French words were already known in 1811, though the page prints none [^cle1811].
 
+![[1]]
+
 **"Everyone knows it."** In 1817 a book of lives of Haydn, Mozart and Metastasio, first issued in 1814 under the pen name Bombet and later printed under Stendhal's name, explained a fugue in a footnote: everyone knows the canon of "Frère Jacques, dormez-vous? Sonnez les matines", and that is a kind of fugue [^stendhal1817][^stendhal-levy]. François-Joseph Fétis, director of the Brussels Conservatoire, said the same in his guide to music, printed at Brussels in 1839 and at Paris in 1847: everyone knows the canon that begins "Frère Jacques, dormez-vous?" [^fetis1839][^fetis1847].
 
 **Words and tune together.** James Fuld, as the Ballad Index reports him, dated the earliest printing of the words and music together to 1860; we have not seen that printing [^ballad]. The earliest page with the French words and the tune together that we have read is in Vieilles chansons pour les petits enfants, old songs for little children, published in Paris in 1883 with piano parts by Charles-Marie Widor [^widor1883][^met1883]. On pages 18 and 19 it is a canon for three voices in G, each coming in two bars after the last, above a plain piano bass, framed by a drawing of five bells in a belfry, with friars hauling on the ropes [^widor1883].
 
+![[2]]
+
 **The English words.** "Jacques" is the French form of James, not John [^yonge]. Who wrote "Are you sleeping, Brother John?" is not known. The earliest printing of the English words we have found is in a teachers' magazine, Normal Instructor and Primary Plans, in February 1916. Peter W. Dykema, head of community music at the University of Wisconsin, listed "Are You Sleeping" among five rounds for a National Week of Song around Washington's birthday, and printed its words [^normal1916]. Rounds, he wrote, "can hardly be surpassed for developing interest and enthusiasm" [^normal1916]. By 1928 it was in Homer Rodeheaver's Sociability Songs, the book our tune is read from [^rodeheaver1928].
+
+![[3]]
 
 **Myth and record.** Often told: the song mocks Frère Jacques, a 17th-century surgeon who cut patients for bladder stones dressed in a monk's habit [^mentalfloss][^ganem1999]. What the record shows: he was real, and a London book of 1726 credits "Frere Jacques in France" with first trying the operation it describes [^douglas1726]. But two urologists who reviewed his career in 1999 found no direct link between him and the song [^ganem1999].
 
@@ -84,6 +90,8 @@ Ding, ding, dong, Ding, ding, dong.
 **As a round.** In a round, each singer begins the same melody at a fixed distance after the one before [^grove-round]. Widor's 1883 page brings in three voices, two bars apart [^widor1883]; the 1928 page numbers four entries [^rodeheaver1928]. In 1916 it was one of five rounds suggested for schools and community sings in a National Week of Song [^normal1916], and later Scout and 4-H songbooks kept it [^ballad][^scouts1931].
 
 **What our arrangement sings.** Our tune follows the 1928 page note for note in the same key, E-flat, written in 4/4 for the page's 2/4, with the same entry points [^rodeheaver1928]. The soprano starts alone; the alto comes in two bars later at the same pitch; then the tenor and then the bass, each two bars after the last and an octave lower. Everyone sings the tune twice through, our choice, and the parts stop one by one, so the bass finishes alone. We shorten "John" and the first three "dong"s to a single beat with a breath after, and sing "ding, dang, dong" for the page's "ding, ding, dong".
+
+![[4]]
 
 ## Versions and other words
 

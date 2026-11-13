@@ -20,6 +20,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: who wrote abide with me and why | abide with me history of hymn | who wrote the music for abide with me | abide with me fa cup history | abide with me meaning bible verse | abide with me tis eventide
+listen: National Jukebox, 1904 recording | https://archive.org/details/loc-jukebox-119028-abide-with-me || National Jukebox, 1914 recording | https://archive.org/details/loc-jukebox-11743-abide-with-me
 ---
 
 Abide with Me is a prayer for God's company as life ends. Henry Francis Lyte wrote it in 1847, the last year of his life, while he was curate of Lower Brixham, a fishing town in Devon [^remains1850][^canterbury]. It is usually sung to EVENTIDE, the tune William Henry Monk wrote for the first music edition of Hymns Ancient and Modern in 1861 [^ham1861][^hymnary-eventide]. It has long been sung at funerals [^canterbury][^julian]. Crowds have also sung it before the FA Cup Final in England since 1927 [^richards][^pdr].
@@ -32,9 +33,15 @@ His family told the rest in the memoir that opens his Remains of 1850 [^remains1
 
 John Julian records a leaflet printed at Berry Head in September 1847, the earliest known printing of the words, and gives its readings [^julian][^hymnarchive]. In 1850 the Remains printed all eight verses, without music [^remains1850][^hymnarchive]. Julian records that Lyte's own tune, his "air", was published in Bristol in 1863 [^julian][^hymnarchive], but Hymnology Archive knows of no surviving copy of that edition [^hymnarchive].
 
+![[1]]
+
 **The tune.** William Henry Monk (born at Brompton, London, 1823; died 1889) was a London church organist [^romance1889][^hymnary-monk] and the music editor of Hymns Ancient and Modern, the Church of England hymnal whose first music edition came out in 1861 [^ham1861][^romance1889]. It prints the hymn as No. 14, among its evening hymns: five of Lyte's eight verses, set to EVENTIDE, a tune marked as composed for the book or printed there for the first time [^ham1861]. The standard edition of 1875 renumbered it 27 [^ham1875].
 
+![[2]]
+
 **Myth and record.** Often told: Lyte wrote the hymn in the hours around his farewell sermon. One telling puts it in his study the evening before [^canterbury]; a book of 1889 puts it after the service, when he "dragged his weary frame to his room" and was "no doubt" at work on the hymn that afternoon [^romance1889]. What the record shows: the memoir says only that he handed it over that evening, never when he wrote it [^remains1850]. The Remains also prints a letter of his from Berry Head dated 25 August 1847, but stops just before its next line, which a descendant published from the manuscript in The Times in 1947: "I send you while on this subject a few lines which may interest you, as my latest effusion." The lines were the hymn [^remains1850][^hymnarchive]. The Canterbury Dictionary of Hymnology now thinks it more likely that he wrote it at Berry Head in August [^canterbury].
+
+![[3]]
 
 Often told, too: Monk wrote EVENTIDE in ten minutes at a committee meeting [^hymnary-eventide]. What the record shows: the 1889 book has it second-hand, from a friend Monk told that he and Sir Henry Baker, about to go out, remembered there was no tune for "hymn 27", and that he wrote one in ten minutes while a piano lesson went on [^romance1889][^hymnarchive]. Yet 27 is its number in the 1875 edition; in 1861 it was 14 [^ham1861][^ham1875][^hymnarchive]. Monk's widow told a different story, of a tune written in a time of grief as the couple watched the sunset [^hymnarchive][^songsandhymns]. Neither can now be checked.
 
