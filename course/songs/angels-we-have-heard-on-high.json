@@ -1,0 +1,2178 @@
+{
+    "id": "song-angels-we-have-heard-on-high",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Angels We Have Heard on High", "es": "Angels We Have Heard on High"},
+    "units": [
+        {
+            "id": "song-angels-we-have-heard-on-high-soprano",
+            "title": {"en": "The melody", "es": "La melodía"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-angels-we-have-heard-on-high-soprano-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Angels We Have Heard on High: hear the whole song first, then the tune on its own.", "es": "Angels We Have Heard on High: escucha primero la canción entera y luego la melodía sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "awhh-solo-chorus", "text": {"en": "The Holy Family Hymns of 1860, where James Chadwick's English began, marks the verse \"Solo\" and the Gloria \"Chorus\". Its preface explains: a few singers who know the tune sing the verse, and the whole congregation answers.", "es": "The Holy Family Hymns, de 1860, donde empezó la versión inglesa de James Chadwick, marca la estrofa como \"Solo\" y el Gloria como \"Chorus\" (coro). Su prefacio lo explica: unos pocos cantantes que conocen la melodía cantan la estrofa, y toda la congregación responde."}, "source": {"en": "The Holy Family Hymns, with Music for the Holy Family Hymns (London: Richardson and Son, 1860), preface, p. viii, and music, pp. 8 and 9, read from the scan", "es": "The Holy Family Hymns, with Music for the Holy Family Hymns (Londres: Richardson and Son, 1860), prefacio, p. viii, y música, pp. 8 y 9, leído en el escaneo"}, "url": "https://archive.org/details/TheHolyFamilyHymns1860"}
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-soprano-2",
+                    "title": {"en": "Lines 1 to 4", "es": "Frases 1 a 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 3 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 3 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 4 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 4 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 4 joined, with the guide.", "es": "Ahora las frases 1 a 4 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-soprano-3",
+                    "title": {"en": "Lines 5 to 8", "es": "Frases 5 a 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 7 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined, with the guide.", "es": "Ahora las frases 5 a 8 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-soprano-4",
+                    "title": {"en": "Lines 9 to 12", "es": "Frases 9 a 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 9 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide.", "es": "La frase 11 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 6 again. Sing it with the guide.", "es": "La frase 12 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 to 12 joined, with the guide.", "es": "Ahora las frases 9 a 12 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [8, 9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-soprano-5",
+                    "title": {"en": "Lines 13 to 16", "es": "Frases 13 a 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 13 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 14 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 15 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 15 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 16 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 to 16 joined, with the guide.", "es": "Ahora las frases 13 a 16 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-soprano-6",
+                    "title": {"en": "Lines 17 and 18", "es": "Frases 17 y 18"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is line 5 again. Sing it with the guide.", "es": "La frase 17 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [17]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 17 and 18 joined, with the guide.", "es": "Ahora las frases 17 y 18 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-soprano-7",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [6, 7, 8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-soprano-8",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-soprano-9",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-soprano-10",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of Angels We Have Heard on High in Sing, with the other parts playing.", "es": "Graba la melodía de Angels We Have Heard on High en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "angels-we-have-heard-on-high", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "awhh-in-excelsis", "text": {"en": "In the Latin Bible, Luke's angels sing \"Gloria in altissimis Deo\". The carol's \"in excelsis\" comes from the Gloria of the Mass, the ancient hymn that opens with the angels' song in those words.", "es": "En la Biblia latina, los ángeles de Lucas cantan \"Gloria in altissimis Deo\". El \"in excelsis\" del villancico viene del Gloria de la misa, el antiguo himno que empieza con el canto de los ángeles en esas palabras."}, "source": {"en": "Latin Vulgate, Luke 2:14, at DRBO.org; Adrian Fortescue, \"Gloria in Excelsis Deo\", The Catholic Encyclopedia, vol. 6 (New York: Robert Appleton Company, 1909)", "es": "Vulgata latina, Lucas 2:14, en DRBO.org; Adrian Fortescue, \"Gloria in Excelsis Deo\", The Catholic Encyclopedia, vol. 6 (Nueva York: Robert Appleton Company, 1909)"}, "url": "https://www.drbo.org/lvb/chapter/49002.htm"}
+                }
+            ]
+        },
+        {
+            "id": "song-angels-we-have-heard-on-high-alto",
+            "title": {"en": "Alto", "es": "Contralto"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-angels-we-have-heard-on-high-alto-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Angels We Have Heard on High: hear the whole song first, then the alto part on its own.", "es": "Angels We Have Heard on High: escucha primero la canción entera y luego la voz de contralto sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-alto-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-alto-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-alto-4",
+                    "title": {"en": "Lines 5 to 8", "es": "Frases 5 a 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 7 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined, with the guide.", "es": "Ahora las frases 5 a 8 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-alto-5",
+                    "title": {"en": "Lines 9 to 12", "es": "Frases 9 a 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 9 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide.", "es": "La frase 11 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 6 again. Sing it with the guide.", "es": "La frase 12 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 to 12 joined, with the guide.", "es": "Ahora las frases 9 a 12 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [8, 9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-alto-6",
+                    "title": {"en": "Lines 13 to 16", "es": "Frases 13 a 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 13 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 14 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 15 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 15 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 16 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 to 16 joined, with the guide.", "es": "Ahora las frases 13 a 16 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-alto-7",
+                    "title": {"en": "Lines 17 and 18", "es": "Frases 17 y 18"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is line 5 again. Sing it with the guide.", "es": "La frase 17 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [17]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 17 and 18 joined, with the guide.", "es": "Ahora las frases 17 y 18 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-alto-8",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [6, 7, 8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-alto-9",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-alto-10",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-alto-11",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of Angels We Have Heard on High in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Angels We Have Heard on High en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "angels-we-have-heard-on-high", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-angels-we-have-heard-on-high-bass",
+            "title": {"en": "Bass", "es": "Bajo"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-angels-we-have-heard-on-high-bass-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Angels We Have Heard on High: hear the whole song first, then the bass part on its own.", "es": "Angels We Have Heard on High: escucha primero la canción entera y luego la voz de bajo sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-bass-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-bass-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-bass-4",
+                    "title": {"en": "Lines 5 to 8", "es": "Frases 5 a 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 7 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined, with the guide.", "es": "Ahora las frases 5 a 8 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-bass-5",
+                    "title": {"en": "Lines 9 to 12", "es": "Frases 9 a 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 9 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide.", "es": "La frase 11 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 6 again. Sing it with the guide.", "es": "La frase 12 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 to 12 joined, with the guide.", "es": "Ahora las frases 9 a 12 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [8, 9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-bass-6",
+                    "title": {"en": "Lines 13 to 16", "es": "Frases 13 a 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 13 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 14 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 15 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 15 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 16 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 to 16 joined, with the guide.", "es": "Ahora las frases 13 a 16 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-bass-7",
+                    "title": {"en": "Lines 17 and 18", "es": "Frases 17 y 18"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is line 5 again. Sing it with the guide.", "es": "La frase 17 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [17]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 17 and 18 joined, with the guide.", "es": "Ahora las frases 17 y 18 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-bass-8",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [6, 7, 8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-bass-9",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-bass-10",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-bass-11",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of Angels We Have Heard on High in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Angels We Have Heard on High en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "angels-we-have-heard-on-high", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-angels-we-have-heard-on-high-tenor",
+            "title": {"en": "Tenor", "es": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-angels-we-have-heard-on-high-tenor-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Angels We Have Heard on High: hear the whole song first, then the tenor part on its own.", "es": "Angels We Have Heard on High: escucha primero la canción entera y luego la voz de tenor sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-tenor-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-tenor-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-tenor-4",
+                    "title": {"en": "Lines 5 to 8", "es": "Frases 5 a 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 7 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 to 8 joined, with the guide.", "es": "Ahora las frases 5 a 8 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [4, 5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-tenor-5",
+                    "title": {"en": "Lines 9 to 12", "es": "Frases 9 a 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 9 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 5 again. Sing it with the guide.", "es": "La frase 11 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 6 again. Sing it with the guide.", "es": "La frase 12 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 to 12 joined, with the guide.", "es": "Ahora las frases 9 a 12 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [8, 9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-tenor-6",
+                    "title": {"en": "Lines 13 to 16", "es": "Frases 13 a 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 13 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 14 is the tune of line 2 again, with new words. Sing it with the guide.", "es": "La frase 14 repite la melodía de la frase 2, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 15 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 15 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 16 is the tune of line 4 again, with new words. Sing it with the guide.", "es": "La frase 16 repite la melodía de la frase 4, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 to 16 joined, with the guide.", "es": "Ahora las frases 13 a 16 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-tenor-7",
+                    "title": {"en": "Lines 17 and 18", "es": "Frases 17 y 18"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 17 is line 5 again. Sing it with the guide.", "es": "La frase 17 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [16]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [17]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 17 and 18 joined, with the guide.", "es": "Ahora las frases 17 y 18 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-tenor-8",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 2 start to end, with the guide.", "es": "La estrofa 2 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [6, 7, 8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Refrain start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-tenor-9",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-tenor-10",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "angels-we-have-heard-on-high",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-angels-we-have-heard-on-high-tenor-11",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of Angels We Have Heard on High in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Angels We Have Heard on High en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "angels-we-have-heard-on-high", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
