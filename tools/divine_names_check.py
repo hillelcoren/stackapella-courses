@@ -19,8 +19,10 @@ LIB = os.path.join(ROOT, 'templates/library')
 # Full forms in transliteration, any language. Capitalised, whole words.
 TRANSLIT = re.compile(r"\b(Elohim|Elohei|Eloheinu|Elohenu|Elohai|Elohecha|Elohekha|Eloha|Adonai|Adonoy|Adonay|"
                       r"Shaddai|Shadai|Yahweh|Yahveh|Jehovah|Jehová|YHWH|Tzevaot|Tzeva'ot|Tsevaot|Sabaoth)\b")
-# "El" and "Eli" as the name: English text only (Spanish "El" is the article).
+# "El" and "Eli" as the name. In English text anywhere; in Spanish only mid-sentence (after a lowercase word or a
+# comma), since a capital "El" opening a sentence is the article (backend's rule, 2026-11-13).
 EL = re.compile(r"\b(El|Eli)\b")
+EL_ES = re.compile(r"(?:[a-záéíóúñü]|,) (El|Eli)\b")
 EL_ALLOWED = ('Eli Ziyyon', 'Eli Tziyon', 'Eli Zion', 'El Paso')
 # Hebrew script: compare with vowels and cantillation removed, whole words.
 HEB_POINTS = re.compile('[֑-ׇ]')
@@ -32,10 +34,9 @@ HEB_EL = re.compile('(?<![א-ת֑-ׇ])א[֑-֯]*ֵ[֑-֯]*ל[֑-֯]*(ִ[֑-֯]*�
 
 def hits(text, english):
     found = [m.group(0) for m in TRANSLIT.finditer(text)]
-    if english:
-        for m in EL.finditer(text):
-            if not any(a in text[max(0, m.start() - 12):m.end() + 12] for a in EL_ALLOWED):
-                found.append(m.group(0))
+    for m in (EL if english else EL_ES).finditer(text):
+        if not any(a in text[max(0, m.start() - 12):m.end() + 12] for a in EL_ALLOWED):
+            found.append(m.group(1))
     for w in HEB_WORD.findall(text):
         if HEB_POINTS.sub('', w) in HEB_FULL:
             found.append(w)
