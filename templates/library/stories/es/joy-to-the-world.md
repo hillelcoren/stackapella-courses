@@ -9,17 +9,17 @@ meter: CM (8.6.8.6), con repeticiones
 earliestPrinting: The Psalms of David Imitated in the Language of the New Testament, Londres, 1719
 earliestPrintingSource: watts1719
 language: inglés
-origin: Londres (letra); Boston (ANTIOCH)
+origin: Londres (letra); Inglaterra (melodía)
 occasion: Navidad
 alsoKnownAs: The Messiah's Coming and Kingdom; Al mundo paz
 wikidata: Q1192264
 quote: En todas partes he tenido presente mi gran propósito, que es enseñar a mi autor a hablar como un cristiano.
 quoteSource: watts-preface
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: joy to the world historia | quién escribió joy to the world | joy to the world es un villancico | joy to the world significado | al mundo paz himno historia | joy to the world händel
-translatedFrom: 1e8ee7998a2c
+translatedFrom: b2137edfaede
 listen: Internet Archive, grabación de 1916 | https://archive.org/details/78_joy-to-the-world_the-carol-singers_gbia0132469b || Internet Archive, grabación de 1920 | https://archive.org/details/78_joy-to-the-world_regal-male-quartette-handel_gbia0177355b
 original: Psalms of David Imitated de Watts (1719), Internet Archive | https://archive.org/details/chrtwimi00watt/page/n288/mode/1up
 ---
@@ -30,23 +30,23 @@ Joy to the World, que en español se canta como Al mundo paz, es el himno de Nav
 
 **La letra.** Isaac Watts nació en Southampton en 1674 y en 1702 pasó a ser pastor de una iglesia independiente, o congregacionalista, de Londres [^hymnarchive-watts][^hymnary-watts]. Sus Hymns and Spiritual Songs salieron en 1707 [^hymnarchive-watts][^hymnary-watts]. En 1719 publicó The Psalms of David Imitated in the Language of the New Testament, los salmos reescritos para el canto cristiano [^watts1719][^hymnarchive-watts]. Su prefacio dice: "En todas partes he tenido presente mi gran propósito, que es enseñar a mi autor a hablar como un cristiano" [^watts1719][^watts-preface].
 
-Watts sacó dos himnos del Salmo 98; el primero es "Praise for the Gospel" (Alabanza por el Evangelio) [^watts1719][^hymnarchive]. El segundo, de los versículos 4 a 9 del salmo, se titula "The Messiah's Coming and Kingdom" y tiene cuatro estrofas; empieza "Joy to the World; the Lord is come" [^watts1719][^canterbury]. En una nota bajo el primer himno, Watts escribió que los dos juntos expresaban lo que él tenía por el "sentido primero y principal" de este salmo y del Salmo 96 [^watts1719]. Bajo la primera parte del Salmo 99 añadió que los tres salmos anteriores "se refieren a la Encarnación de Cristo y al establecimiento de su Reino entre los gentiles" [^watts1719]. Un himnólogo citado por Hymnology Archive juzga que Watts probablemente no lo pensó como himno de Navidad, y Hymnary.org dice lo mismo [^hymnarchive][^hymnary-text]. Un comentario de himnario, citado también allí, señala con qué facilidad "Let every heart prepare him room" (que cada corazón le prepare sitio) se oye como el "no room for them in the inn" (no había lugar para ellos en el mesón) de Lucas 2:7 [^hymnarchive][^kjv].
+Watts sacó dos himnos del Salmo 98 [^watts1719][^hymnarchive]; el primero es "Praise for the Gospel" (Alabanza por el Evangelio) [^watts1719]. El segundo, de los versículos 4 a 9 del salmo [^canterbury][^hymnarchive], se titula "The Messiah's Coming and Kingdom" y tiene cuatro estrofas; empieza "Joy to the World; the Lord is come" [^watts1719][^canterbury]. En una nota bajo el primer himno, Watts escribió que los dos juntos expresaban lo que él tenía por el "sentido primero y principal" de este salmo y del Salmo 96 [^watts1719]. Bajo la primera parte del Salmo 99 añadió que los tres salmos anteriores "se refieren a la Encarnación de Cristo y al establecimiento de su Reino entre los gentiles" [^watts1719]. Un himnólogo citado por Hymnology Archive juzga que Watts probablemente no lo pensó como himno de Navidad, y Hymnary.org dice lo mismo [^hymnarchive][^hymnary-text]. Un comentario de himnario, citado también allí, señala con qué facilidad "Let every heart prepare him room" (que cada corazón le prepare sitio) se oye como el "no room for them in the inn" (no había lugar para ellos en el mesón) de Lucas 2:7 [^hymnarchive][^kjv].
 
 ![[1]]
 
-**La melodía.** Las primeras impresiones conocidas de la melodía son de principios de la década de 1830 [^hymnarchive][^cyber], en libros de melodías ingleses que la llaman COMFORT [^hymnarchive]. Una es la Collection of Tunes de Thomas Hawkes, de 1833; otra es la Voce di Melodia de William Holford, que Hymnology Archive fecha hacia 1833 o 1834 y el Cyber Hymnal hacia 1835 [^hymnarchive][^cyber]. Según la lectura de Hymnology Archive, la de Holford es la primera que atribuye la melodía a Händel [^hymnarchive]. Según las notas del Cyber Hymnal, John Wilson, en la revista The Hymn de enero de 1986, siguió el rastro de la melodía hasta los libros de Hawkes y de Holford [^cyber].
+**La melodía.** Las primeras impresiones conocidas de la melodía son de principios de la década de 1830 [^hymnarchive][^cyber], en libros de melodías ingleses que la llaman COMFORT [^hymnarchive]. Una es la Collection of Tunes de Thomas Hawkes, de 1833; otra es la Voce di Melodia de William Holford, que Hymnology Archive fecha hacia 1833 o 1834 y el Cyber Hymnal hacia 1835 [^hymnarchive][^cyber]. Según la lectura de Hymnology Archive, la de Holford es la primera que atribuye la melodía a Händel [^hymnarchive]. Según las notas del Cyber Hymnal, John Wilson siguió el rastro de la melodía hasta los libros de Hawkes y de Holford en The Hymn, enero de 1986 [^cyber].
 
 Lowell Mason, nacido en Medfield, Massachusetts, en 1792, era un músico de iglesia de Boston que había presidido la Handel and Haydn Society de la ciudad [^hymnary-mason][^bakers]. En 1836 imprimió la melodía como n.º 73 del tercer número de sus Occasional Psalm and Hymn Tunes, la llamó ANTIOCH, la marcó "Arranged from Handel" y la puso con el Salmo 98, segunda parte, de Watts [^mason1836][^hymnarchive]. Esa página está en La [^mason1836]. Su Modern Psalmist de 1839 la trae en Re, marcada "From HANDEL" [^mason1839]. En The National Psalmist de 1848, editado con George James Webb, está en Mi bemol y en notas más largas, la forma que conocen los coros, marcada "Arranged from HANDEL" [^mason1848][^hymnarchive]. Debajo, Mason añadió una nota al pie: la melodía había sido "muy popular para la práctica de coros y escuelas de canto", y quizá convenía dejarla para eso, ya que "no puede ser apropiada para muchos salmos e himnos, ni para las circunstancias ordinarias del culto público" [^mason1848][^hymnarchive].
 
 ![[2]]
 
-**Mito y documentos.** Se suele contar que Händel escribió la melodía, o que Mason la sacó del Mesías. Lo que muestran los documentos: Hymnology Archive informa de que no se ha encontrado ninguna melodía así entre las obras de Händel [^hymnarchive]. La melodía sí recuerda momentos del Mesías: su comienzo se compara a menudo con el coro "Lift up your heads", y una frase posterior con "Comfort ye" [^hymnarchive][^cyber]. Las notas del Cyber Hymnal van más allá y la llaman un montaje de temas del Mesías; Hymnology Archive lo trata solo como un parecido [^cyber][^hymnarchive]. Hymnology Archive sugiere que el nombre inglés COMFORT puede venir de ahí [^hymnarchive]. Las páginas del propio Mason dicen solo "Arranged from Handel" o "From HANDEL" [^mason1836][^mason1839][^mason1848]. Se suele contar también que Watts lo escribió como villancico. Lo que muestran los documentos: lo escribió como salmo, con el título "The Messiah's Coming and Kingdom", y leía los Salmos 96 a 98 como textos sobre la Encarnación de Cristo y su reino extendiéndose entre las naciones, no como cantos para el día de Navidad [^watts1719][^hymnarchive].
+**Mito y documentos.** Se suele contar que Händel escribió la melodía, o que Mason la sacó del Mesías. Lo que muestran los documentos: Hymnology Archive informa de que no se ha encontrado ninguna melodía así entre las obras de Händel [^hymnarchive]. La melodía sí recuerda momentos del Mesías: su comienzo se compara a menudo con el coro "Lift up your heads", y una frase posterior con "Comfort ye" [^hymnarchive][^cyber]. Las notas del Cyber Hymnal van más allá y la llaman un montaje de temas del Mesías; Hymnology Archive lo trata solo como un parecido [^cyber][^hymnarchive]. Hymnology Archive sugiere que el nombre inglés COMFORT puede venir del parecido con "Comfort ye" [^hymnarchive]. Las páginas del propio Mason dicen solo "Arranged from Handel" o "From HANDEL" [^mason1836][^mason1839][^mason1848]. Se suele contar también que Watts lo escribió como villancico. Lo que muestran los documentos: lo escribió como salmo, con el título "The Messiah's Coming and Kingdom", y leía los Salmos 96 a 98 como textos sobre la Encarnación de Cristo y su reino entre las naciones, no como cantos para el día de Navidad [^watts1719][^hymnarchive].
 
 ### Cronología
 
 - 1719: Watts imprime "Joy to the World" como Salmo 98, segunda parte, en The Psalms of David Imitated [^watts1719][^canterbury]
 - 1833: Thomas Hawkes imprime la melodía en su Collection of Tunes [^hymnarchive][^cyber], como COMFORT [^hymnarchive]
-- 1833 a 1835: la Voce di Melodia de William Holford, fechada hacia esos años, la imprime como COMFORT, el primer libro que Hymnology Archive encuentra que la atribuye a Händel [^hymnarchive][^cyber]
+- 1833 a 1835: la Voce di Melodia de William Holford la imprime como COMFORT, el primer libro que, según Hymnology Archive, la atribuye a Händel [^hymnarchive][^cyber]
 - 1836: Mason la llama ANTIOCH, "Arranged from Handel", y la pone con la letra de Watts [^mason1836][^hymnarchive]
 - 1839: Mason la imprime en Re en The Modern Psalmist [^mason1839]
 - 1848: The National Psalmist de Mason y Webb da la forma que conocen los coros [^mason1848]
@@ -65,7 +65,7 @@ Watts escribió cuatro estrofas [^watts1719][^hymnary-text]. Cantamos la primera
 
 ### La letra completa
 
-La National Psalmist de Mason solo imprime la primera estrofa bajo la música [^mason1848], así que aquí van las cuatro estrofas de Watts tal como las imprimió en The Psalms of David Imitated en 1719, página 253, con la s larga escrita como s [^watts1719]. Cantada con ANTIOCH, se repite el último verso de cada estrofa, y algunos himnarios omiten la tercera estrofa [^mason1848][^hymnary-text]. Watts murió en 1748, así que todas las estrofas son de dominio público.
+La National Psalmist de Mason solo imprime la primera estrofa bajo la música [^mason1848], así que aquí van las cuatro estrofas de Watts tal como las imprimió en The Psalms of David Imitated en 1719, página 253, con la s larga escrita como s [^watts1719]. Al cantarla con ANTIOCH se repite el último verso de cada estrofa, y algunos himnarios omiten la tercera [^mason1848][^hymnary-text]. Watts murió en 1748, así que todas las estrofas son de dominio público.
 
 **Estrofa 1**
 > Joy to the World; the Lord is come;
@@ -81,7 +81,7 @@ y que canten el cielo y la naturaleza.
 > Joy to the Earth, The Saviour reigns;
 Alegría a la tierra: el Salvador reina;
 > Let Men their Songs employ;
-que la gente alce sus cantos,
+que la gente emplee sus cantos,
 > While Fields & Floods, Rocks, Hills & Plains
 mientras campos y ríos, rocas, colinas y llanuras
 > Repeat the sounding Joy.
@@ -109,9 +109,9 @@ y las maravillas de su amor.
 
 ## Cómo se canta
 
-Es ante todo un himno para el día de Navidad. El Psalter Hymnal Handbook añade que sirve para cualquier época del año en que se lea el Salmo 98 [^hymnary-text]. Hymnology Archive llama a la unión de la letra de Watts con ANTIOCH un clásico de la Navidad, sobre todo en Estados Unidos [^hymnarchive]. En los himnarios la melodía es ANTIOCH, en métrica común (8.6.8.6) con el último verso repetido [^mason1848][^hymnary-text]. Un comentario de himnario irlandés de 2005, citado por Hymnology Archive, señalaba que los himnarios apenas empezaban a recoger el himno, y que solo en los últimos años se cantaba en las islas británicas con algo parecido al entusiasmo estadounidense [^hymnarchive].
+Es ante todo un himno para el día de Navidad. El Psalter Hymnal Handbook añade que sirve para cualquier época del año en que se lea el Salmo 98 [^hymnary-text]. Hymnology Archive llama a la unión de la letra de Watts con ANTIOCH un clásico de la Navidad, sobre todo en Estados Unidos [^hymnarchive]. En los himnarios la melodía es ANTIOCH, en métrica común (8.6.8.6) con el último verso repetido [^mason1848][^hymnary-text]. Un comentario de himnario irlandés de 2005, citado por Hymnology Archive, señalaba que los himnarios apenas empezaban a recogerlo, y que solo hacía poco se cantaba en las islas británicas con algo parecido al entusiasmo estadounidense [^hymnarchive].
 
-Nuestro arreglo toma las cuatro voces de Mason de The National Psalmist de 1848, página 132, impresas en Mi bemol y cantadas aquí un semitono más abajo, en Re, la tonalidad de su edición de 1839 [^mason1848][^mason1839]. Cantamos la primera estrofa para 2 a 4 cantantes, con brillo y a paso firme. Debajo de "Let ev'ry heart prepare him room" el bajo canta las notas pequeñas de Mason, un Re sostenido en el tiempo, mientras el tenor descansa. Hay cuatro notas cambiadas para que el dúo mantenga sus terceras y las voces interiores no tengan saltos amplios.
+Nuestro arreglo toma las cuatro voces de Mason de The National Psalmist de 1848, página 132, impresas en Mi bemol y cantadas aquí un semitono más abajo, en Re, la tonalidad de su edición de 1839 [^mason1848][^mason1839]. Cantamos la primera estrofa para 2 a 4 cantantes, con brillo y a paso firme. Debajo de "Let ev'ry heart prepare him room" el bajo canta las notas pequeñas de Mason, un Re largo y mantenido, mientras el tenor calla. Hay cuatro notas cambiadas para que el dúo mantenga sus terceras y las voces interiores no tengan saltos amplios.
 
 ![[3]]
 
@@ -135,7 +135,7 @@ Se canta como tal, pero no se escribió como tal. Isaac Watts la imprimió en 17
 
 ### ¿Habla Joy to the World de la segunda venida de Cristo?
 
-Las propias notas de Watts apuntan a la primera venida. Escribió que los Salmos 96 a 98 se refieren a la Encarnación de Cristo y al establecimiento de su reino entre los gentiles, los pueblos fuera de Israel [^watts1719]. El himno habla en presente: el Señor ha venido, el Salvador reina, gobierna el mundo. Donde el salmo termina con el Señor que viene a juzgar la tierra con justicia, Watts lo convirtió en un reinado de "truth and grace", de verdad y gracia [^kjv][^watts1719].
+Sobre todo de la primera, según el propio Watts, aunque dijo que tenía presentes las dos. En una nota sobre los Salmos 96 a 98 escribió que en ellos la primera venida de Cristo se cuenta "como si viniera por segunda vez al Juicio Final", pero que su verdadero propósito es "la Encarnación de Cristo" y su reino entre los gentiles. Como esa última venida "tiene algo paralelo a la primera", añadió, "en las distintas partes de los salmos me he referido a las dos" [^watts1719].
 
 ### ¿Escribió Händel Joy to the World?
 
@@ -153,7 +153,7 @@ En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la me
 
 ## Fuentes
 
-- [^watts1719]: Isaac Watts, *The Psalms of David Imitated in the Language of the New Testament* (Londres: J. Clark, R. Ford and R. Cruttenden, 1719), pp. 250, 252 a 254 y el prefacio; ejemplar de la Princeton Theological Seminary Library, facsímil. https://archive.org/details/chrtwimi00watt
+- [^watts1719]: Isaac Watts, *The Psalms of David Imitated in the Language of the New Testament* (Londres: J. Clark, R. Ford and R. Cruttenden, 1719), pp. 248, 250, 252 a 254 y el prefacio; ejemplar de la Princeton Theological Seminary Library, facsímil. https://archive.org/details/chrtwimi00watt
 - [^watts-preface]: Isaac Watts, prefacio a *The Psalms of David Imitated* (1719), transcrito de la primera edición de la Wrenn Library, University of Texas at Austin, Christian Classics Ethereal Library. https://www.ccel.org/ccel/ccel/eee/files/wattspre.htm
 - [^mason1836]: Lowell Mason, *Occasional Psalm and Hymn Tunes*, n.º 3 (Boston, registrado para copyright en 1836; archive.org cataloga el ejemplar encuadernado como de 1837), n.º 73, p. 70, "Antioch. C. M."; ejemplar de la Boston Public Library, facsímil. https://archive.org/details/occasionalpsalmh00maso
 - [^mason1839]: Lowell Mason, *The Modern Psalmist* (Boston: Wilkins and Carter, 1839), p. 144, "Antioch. C. M."; ejemplar de la Boston Public Library, facsímil. https://archive.org/details/modernpsalmistco00maso

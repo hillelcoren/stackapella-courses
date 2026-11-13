@@ -1,5 +1,5 @@
 ---
-title: O Come, All Ye Faithful: historia, significado y la letra explicada
+title: O Come, All Ye Faithful: historia, significado y letra explicada
 description: Copiado por John Francis Wade en la década de 1740 y pasado al inglés por Frederick Oakeley en 1841: historia de Adeste Fideles, la teoría jacobita y su letra.
 lead: Un himno latino de Navidad, Adeste Fideles, conocido primero por las copias de John Francis Wade, copista de música católico inglés, de la década de 1740. Cantamos la versión inglesa de Frederick Oakeley (1841), revisada en 1852.
 words: en latín, siglo XVIII; en inglés, Frederick Oakeley (1841), revisada en el Murray's Hymnal (1852)
@@ -15,22 +15,22 @@ alsoKnownAs: Adeste Fideles; Portuguese Hymn (la melodía); Venid, fieles todos
 wikidata: Q356486
 quote: el Sr. John Francis Wade, laico, de 75 años
 quoteSource: zon
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
-searches: adeste fideles historia | adeste fideles significado | quién escribió adeste fideles | adeste fideles letra original en latín | o come all ye faithful significado | o come all ye faithful historia
-translatedFrom: 2140e651baf3
+searches: adeste fideles historia | adeste fideles significado | quién escribió adeste fideles | adeste fideles letra original en latín | o come all ye faithful significado | o come all ye faithful historia | venid fieles todos letra | adeste fideles en español
+translatedFrom: 056eb365dd33
 listen: National Jukebox, grabación de 1919 | https://www.loc.gov/item/jukebox-661390/ || National Jukebox, grabación de 1915 | https://www.loc.gov/item/jukebox-12842/
 original: Hymns of Worship and Service (1909), Internet Archive | https://archive.org/details/hymnsofworship00newy/page/n102
 ---
 
-O Come, All Ye Faithful es la forma inglesa de Adeste Fideles, un himno latino de Navidad del siglo XVIII. Sus primeras copias conocidas, letra y melodía juntas, son de la mano de John Francis Wade, un católico inglés que se ganaba la vida copiando música religiosa [^hymnarchive][^zon]. No se sabe si lo escribió él o solo lo copió [^hymnarchive][^zon][^america]. En la década de 1790 se cantaba en la capilla de la embajada de Portugal en Londres, y en 1841 un sacerdote anglicano, Frederick Oakeley, lo pasó al inglés para su congregación de Londres [^julian][^hymnarchive]. En 1907, el Dictionary of Hymnology de Julian encontraba la versión inglesa de Oakeley en "un gran número de colecciones" [^julian].
+O Come, All Ye Faithful es la forma inglesa de Adeste Fideles, un himno latino de Navidad del siglo XVIII que en español se canta como Venid, fieles todos [^elhimnario]. Sus primeras copias conocidas, letra y melodía juntas, son de la mano de John Francis Wade, un católico inglés que se ganaba la vida copiando música religiosa [^hymnarchive][^zon]. No se sabe si lo escribió él o solo lo copió [^hymnarchive][^zon][^america]. En la década de 1790 se cantaba en la capilla de la embajada de Portugal en Londres, y en 1841 un sacerdote anglicano, Frederick Oakeley, lo pasó al inglés para su congregación de Londres [^julian][^hymnarchive]. En 1907, el Dictionary of Hymnology de Julian encontraba esa forma de 1852 de la versión inglesa de Oakeley en "un gran número de colecciones" [^julian].
 
 ## De dónde viene
 
 **El copista.** La necrológica de Wade, impresa en el Catholic Laity's Directory, lo llamaba "el Sr. John Francis Wade, laico, de 75 años"; murió en 1786 [^zon][^hymnarchive][^canterbury]. Se ganaba la vida copiando canto llano, el canto sin acompañamiento de la liturgia latina, para capillas católicas, entre ellas las capillas de las embajadas en Londres [^hymnarchive][^zon][^canterbury]. Muchos relatos lo sitúan, a él y a su muerte, en el Colegio Inglés de Douai, en Francia [^canterbury][^phh]. Un estudio de 1996 sobre sus manuscritos concluye que apuntan más bien a Inglaterra, quizá al propio Londres [^zon][^hymnarchive].
 
-**Las copias.** Adeste Fideles aparece, en cuatro estrofas latinas con su melodía, en varios libros de Wade [^hymnarchive][^phh]. Probablemente la más antigua, una copia que describió dom John Stéphan, de la abadía de Buckfast, en un estudio de 1947 y que hoy está perdida, es de mediados de la década de 1740: hacia 1743 o 1744 según un relato de la datación de Stéphan, hacia 1745 según el estudio de 1996 [^hcnotes][^zon]. El musicólogo irlandés W. H. Grattan Flood fechó en 1746 una copia del Clongowes Wood College, en Irlanda; James Britten, en 1924, dijo que el propio manuscrito indicaba 1749. Hoy está perdida [^hymnarchive][^britten][^america]. Se conservan dos copias fechadas en 1750, una de ellas en la Universidad de Glasgow, y una del Stonyhurst College está fechada en 1751 [^hymnarchive][^britten][^zon].
+**Las copias.** Adeste Fideles aparece, en cuatro estrofas latinas con su melodía, en varios libros de Wade [^hymnarchive][^phh]. Probablemente la más antigua, una copia que describió dom John Stéphan, de la abadía de Buckfast, en un estudio de 1947 y que hoy está perdida, es de mediados de la década de 1740: hacia 1743 o 1744 según un relato de la datación de Stéphan, hacia 1745 según el relato del estudio de 1996 [^hcnotes][^zon]. Una copia del Clongowes Wood College, en Irlanda, solía fecharse en 1746, la fecha que había dado el musicólogo irlandés W. H. Grattan Flood; en 1924, James Britten escribió que Flood, al examinar el manuscrito, halló que la fecha correcta era 1749 [^hymnarchive][^britten]. Se perdió o la robaron en la década de 1940 [^hymnarchive][^hcnotes]. Se conservan dos copias fechadas en 1750, una de ellas en la Universidad de Glasgow, y una del Stonyhurst College está fechada en 1751 [^hymnarchive][^britten][^zon].
 
 **La melodía.** En las primeras copias de Wade la melodía va en compás ternario. La melodía regular, de cuatro tiempos, que se canta hoy tiene su primera impresión conocida en 1782, en An Essay on the Church Plain Chant, publicado en Londres por J. P. Coghlan [^zon][^phh][^hymnarchive]. Quién preparó el Essay es discutido: Stéphan y otros nombran a Samuel Webbe, organista de las capillas de las embajadas en Londres, mientras que los editores de The New Oxford Book of Carols (1992) lo dan por anónimo [^hcnotes][^phh][^hymnarchive]. La letra latina se imprimió antes, en The Evening Office of the Church de 1760, un libro de oraciones en latín y en inglés [^hymnarchive][^hymnary-latin].
 
@@ -38,14 +38,14 @@ O Come, All Ye Faithful es la forma inglesa de Adeste Fideles, un himno latino d
 
 **El "Portuguese Hymn".** Webbe era también organista de la capilla de la embajada de Portugal, donde el himno se cantaba en la década de 1790, así que en Inglaterra la melodía se conoció mucho tiempo como el Portuguese Hymn, el himno portugués [^cath-webbe][^julian][^hymnarchive][^america]. Vincent Novello, organista posterior de esa capilla, atribuyó la melodía a John Reading, organista de la catedral de Winchester en el siglo XVII; los estudiosos lo descartan, porque la melodía no está en la música conocida de Reading y ninguna copia es anterior a la década de 1740 [^julian][^hymnarchive][^britten]. El estudio de 1996 también ha propuesto a Thomas Arne, al que sitúa en la capilla de la embajada de Cerdeña, aunque admite que la idea puede parecer inverosímil [^zon][^hymnarchive].
 
-**La versión inglesa.** Frederick Oakeley era el ministro anglicano de la Margaret Chapel, en Margaret Street, Londres [^hymnary-oakeley][^canterbury-o]. Tradujo las cuatro estrofas de Wade para su congregación de allí en 1841, empezando por "Ye faithful, approach ye" [^julian][^hymnarchive][^canterbury-o]. Julian dice que Oakeley nunca la publicó y que se imprimió por primera vez en A Hymnal for Use in the English Church, de Francis H. Murray, en 1852; Hymnology Archive la encuentra en una colección de Leeds, Sacred Hymns and Anthems, ya en 1846 [^julian][^hymnarchive]. El libro de Murray le dio el primer verso que todos conocen, "O come, all ye faithful" [^julian][^hymnarchive][^praise].
+**La versión inglesa.** Frederick Oakeley era el ministro anglicano de la Margaret Chapel, en Margaret Street, Londres [^hymnary-oakeley][^canterbury-o]. Tradujo las cuatro estrofas de Wade para su congregación de allí en 1841, empezando por "Ye faithful, approach ye" [^julian][^hymnarchive][^canterbury-o]. Julian dice que Oakeley nunca la publicó y que se imprimió por primera vez en A Hymnal for Use in the English Church, de Francis H. Murray, en 1852; Hymnology Archive la encuentra en una colección de Leeds, Sacred Hymns and Anthems, ya en 1846 [^julian][^praise][^hymnarchive]. El libro de Murray le dio el primer verso que todos conocen, "O come, all ye faithful" [^julian][^hymnarchive][^praise].
 
-**Mito y documentos.** Se suele contar que el villancico es una canción jacobita en clave, una oda al nacimiento de Bonnie Prince Charlie, el heredero Estuardo en el exilio, en la que "Belén" quiere decir Inglaterra, los fieles son los jacobitas, y "regem angelorum", rey de los ángeles, esconde "regem Anglorum", rey de los ingleses. Lo que muestran los documentos: es la teoría de un estudioso, expuesta por primera vez en el estudio de 1996 [^zon][^durham]. Su prueba es el lugar que ocupa el himno. En algunos libros está junto a una oración por el rey, que nombra al exiliado James Stuart en uno y a "Carolus" en otro, y el estudio encuentra emblemas jacobitas en los libros impresos de Wade [^zon][^hymnarchive][^durham]. El propio estudio señala que "Carolus" podría ser Carlos Eduardo Estuardo o Carlos Manuel, rey de Cerdeña, y un Evening Office impreso deja en blanco el nombre del rey [^zon][^hymnarchive]. El estudio concluía que el jacobitismo por sí solo no explica el himno; citado por la Universidad de Durham en 2022, su autor defendió la idea con más firmeza [^zon][^durham].
+**Mito y documentos.** Se suele contar que el villancico es una canción jacobita en clave, una oda al nacimiento de Bonnie Prince Charlie, el heredero Estuardo en el exilio, en la que "Belén" quiere decir Inglaterra, los fieles son los jacobitas, y "regem angelorum", rey de los ángeles, esconde "regem Anglorum", rey de los ingleses. Lo que muestran los documentos: es la teoría de un estudioso, expuesta en el estudio de 1996 [^zon][^durham]. Su prueba es el lugar que ocupa el himno. En algunos libros está junto a una oración por el rey, que nombra al exiliado James Stuart en uno y a "Carolus" en otro, y el estudio encuentra emblemas jacobitas en los libros impresos de Wade [^zon][^hymnarchive][^durham]. El propio estudio señala que "Carolus" podría ser Carlos Eduardo Estuardo o Carlos Manuel, rey de Cerdeña, y un Evening Office impreso deja en blanco el nombre del rey [^zon][^hymnarchive]. El estudio concluía que el jacobitismo por sí solo no explica el himno; citado por la Universidad de Durham en 2022, su autor defendió la idea con más firmeza [^zon][^durham].
 
 ### Cronología
 
-- década de 1740: Se hacen las primeras copias conocidas de Wade del himno, letra y melodía juntas. [^zon][^hymnarchive][^hcnotes]
-- 1750: Wade firma y fecha una copia que hoy está en la Universidad de Glasgow, entre las copias fechadas más antiguas que se conservan. [^hymnarchive][^britten][^zon]
+- década de 1740: Se hacen las primeras copias conocidas de Wade del himno. [^zon][^hymnarchive][^hcnotes]
+- 1750: Wade firma y fecha una copia que hoy está en la Universidad de Glasgow. [^hymnarchive][^britten][^zon]
 - 1760: La letra latina se imprime en The Evening Office of the Church, en cuatro estrofas. [^hymnarchive][^hymnary-latin]
 - 1782: La melodía se imprime en Londres, en An Essay on the Church Plain Chant, en un compás regular de cuatro tiempos. [^zon][^phh][^hymnarchive]
 - 1841: Frederick Oakeley hace su versión inglesa para la Margaret Chapel de Londres. [^julian][^hymnarchive][^canterbury-o]
@@ -53,7 +53,7 @@ O Come, All Ye Faithful es la forma inglesa de Adeste Fideles, un himno latino d
 
 ## Qué dice la letra
 
-El latín de Wade tiene cuatro estrofas. Autores posteriores añadieron otras cuatro, así que el latín completo tiene ocho; los himnarios ingleses cantan las cuatro de Wade, que son la primera, la segunda, la séptima y la octava de las ocho [^julian][^hymnary-latin]. Oakeley tradujo esas cuatro [^canterbury-o][^hymnarchive]. Cantamos la primera estrofa y el estribillo en la forma que imprimen casi todos los himnarios: el primer verso de Murray de 1852, con el resto muy cerca de Oakeley [^hymnarchive][^praise].
+El latín de Wade tiene cuatro estrofas. Autores posteriores añadieron otras cuatro, así que el latín completo tiene ocho [^hymnarchive][^julian]; en el orden de ocho estrofas que imprime Julian, los himnarios ingleses cantan las cuatro de Wade como la primera, la segunda, la séptima y la octava [^julian][^hymnary-latin]. Oakeley tradujo esas cuatro [^canterbury-o][^hymnarchive]. Cantamos la primera estrofa y el estribillo en la forma que imprimen casi todos los himnarios: el primer verso de Murray de 1852, con el resto muy cerca de Oakeley [^hymnarchive][^praise].
 
 **Estrofa 1, la que cantamos.** El latín empieza "Adeste fideles", una llamada a los fieles a estar presentes, a acercarse [^hymnarchive][^julian]. "Ye" es una forma antigua de "you" en plural. "Joyful and triumphant" significa alegres y exultantes. "O come ye to Bethlehem" pone a los cantantes junto a los pastores del Evangelio de Lucas, que se decían unos a otros: "Let us now go even unto Bethlehem" (Pasemos pues hasta Bethlehem) [^kjv-luke]. "Behold" significa mirar, contemplar; el latín dice aquí "natum videte regem angelorum", una llamada a ver nacido al rey de los ángeles. El estribillo, "O come, let us adore him", es el latín "venite adoremus", una llamada a venir y adorarlo. Termina en "Christ the Lord", Cristo el Señor, las palabras del propio ángel a los pastores en Lucas 2:11 [^kjv-luke].
 
@@ -123,7 +123,7 @@ Vamos, adoremos al Señor.
 
 ### La letra completa
 
-Esta es la letra de Frederick Oakeley de 1841, con los cambios que le hizo el himnario de Murray en 1852, tal como la imprime Hymns of Worship and Service (Nueva York, 1909) en el número 89, la página de la que sale nuestro arreglo; escribe "Oh" donde nosotros cantamos "O", y canta el estribillo después de cada estrofa [^hws1909][^julian]. Ese libro imprime tres estrofas y deja fuera la segunda de Oakeley, "God of God", así que esa estrofa no sale del libro de 1909: se da aquí tal como la imprimió The English Hymnal en 1906, en el número 28 [^eh1906]. Los himnarios más completos añaden la versión inglesa de W. T. Brooke de las cuatro estrofas latinas posteriores, de 1884 [^hymnary-latin][^hymnarchive].
+Esta es la letra de Frederick Oakeley de 1841, con los cambios que le hizo el himnario de Murray en 1852, tal como la imprime Hymns of Worship and Service (Nueva York, 1909) en el número 89, la página de la que sale nuestro arreglo; escribe "Oh" donde nosotros cantamos "O", y canta el estribillo después de cada estrofa [^hws1909][^julian]. La página va bajo el título "Nativity", en La, con la indicación "P. M. Irregular", y atribuye la letra a "Anon. (Latin, 17th Cent.)", traducida por Oakeley en 1841, y la melodía a "Anon. 1751 (?)": en 1909 el libro aún daba las dos por anónimas [^hws1909]. Ese libro imprime tres estrofas y deja fuera la segunda de Oakeley, "God of God", así que esa estrofa no sale del libro de 1909: se da aquí tal como la imprimió The English Hymnal en 1906, en el número 28 [^eh1906]. Los himnarios más completos añaden la versión inglesa de W. T. Brooke de las cuatro estrofas latinas posteriores, de 1884 [^hymnary-latin][^hymnarchive].
 
 ![[2]]
 
@@ -158,7 +158,7 @@ Luz de Luz,
 mira: no rehúye el seno de la Virgen;
 > Very God,
 Dios verdadero,
-> Begotten not created:
+> Begotten, not created:
 engendrado, no creado.
 
 **Estrofa 3**
@@ -185,7 +185,7 @@ que ahora aparece en carne.
 
 ## Cómo se canta
 
-Adeste Fideles nació en el culto católico en latín. El Evening Office de 1760 lo pone para la bendición con el Santísimo en Navidad, y Julian dice que así se cantaba en Inglaterra y en Francia a finales del siglo XVIII [^hymnarchive][^julian]. La versión inglesa de Oakeley lo llevó a las iglesias anglicanas, y las colecciones católicas también adoptaron el inglés [^julian]. Su melodía se llama ADESTE FIDELES, su métrica es irregular, con estribillo, y el inglés no rima [^hymnary-text][^phh]. Un manual de himnario sugiere cantar las estrofas al unísono y el estribillo a voces [^phh].
+Adeste Fideles nació en el culto católico en latín. El Evening Office de 1760 lo pone para la bendición con el Santísimo en Navidad, y Julian dice que así se cantaba en Inglaterra y en Francia a finales del siglo XVIII [^hymnarchive][^julian]. La versión inglesa de Oakeley lo llevó a las iglesias anglicanas, y las colecciones católicas también adoptaron el inglés [^julian]. Su melodía se llama ADESTE FIDELES, su métrica es irregular, con estribillo, y el inglés no rima [^hymnary-text][^phh][^eh1906][^hws1909]. Un manual de himnario sugiere cantar las estrofas al unísono y el estribillo a voces [^phh].
 
 Nuestro arreglo canta la primera estrofa y el estribillo, en Sol y en 4/4, para 2 a 4 cantantes, y todos cantan la letra. Dos cantantes hacen soprano y contralto; un tercero añade el bajo. El estribillo dice tres veces "O come, let us adore him", y cada "come" está más alto que el anterior, en Sol, luego en Si y luego en Do, antes de que "Christ the Lord" lo devuelva a casa, a Sol.
 
@@ -194,23 +194,24 @@ Nuestro arreglo canta la primera estrofa y el estribillo, en Sol y en 4/4, para 
 - **Las estrofas latinas añadidas:** tres del sacerdote francés Étienne Borderies, impresas en 1822, sobre los pastores, la gloria del Padre y el niño pobre en el pesebre, que el uso francés canta en lugar de tres de las de Wade; y una anónima sobre los magos [^hymnarchive][^hcnotes][^julian].
 - **Las ocho en inglés:** W. T. Brooke tradujo las cuatro estrofas añadidas para The Altar Hymnal de 1884, que las imprimió con las de Oakeley para tener un texto inglés completo [^hymnary-latin][^hymnarchive].
 - **The English Hymnal (1906):** cuatro estrofas en el n.º 28, y una versión completa en el n.º 614 [^eh1906].
+- **En español:** el himno se canta como "Venid, fieles todos", en la traducción de Juan Bautista Cabrera, en muchos himnarios en español [^elhimnario].
 
 ## ¿Sabías que...?
 
-- El sacerdote que llevó este himno católico a las iglesias anglicanas se hizo católico él mismo. Frederick Oakeley fue recibido en la Iglesia católica en 1845 y llegó a ser canónigo en Westminster [^hymnary-oakeley][^america][^phh].
+- El sacerdote que llevó este himno católico a las iglesias anglicanas se hizo católico él mismo. Frederick Oakeley fue recibido en la Iglesia católica en 1845 y llegó a ser canónigo en Westminster [^hymnary-oakeley][^america][^phh][^cath-oakeley].
 
 ## Cómo cantarla
 
-- [Soprano](/songs/o-come-all-ye-faithful/soprano): la melodía, del Re grave al Re agudo. "Bethlehem" baja al Re grave y lo sostiene, y luego "Come and behold him" se abre en el Re agudo: toma aire a fondo entre los dos. Cada "come" del estribillo cae más alto, en Sol, Si y luego Do, así que guarda algo de voz.
+- [Soprano](/songs/o-come-all-ye-faithful/soprano): la melodía, del Re grave al Re agudo. "Bethlehem" baja al Re grave y lo sostiene, y luego "Come and behold him" se abre en el Re agudo: toma aire a fondo entre los dos. Cada "come" del estribillo llega más arriba, a Sol, Si y luego Do, así que guarda algo de voz.
 - [Contralto](/songs/o-come-all-ye-faithful/alto): casi siempre una tercera por debajo de la melodía; "joyful and triumphant" es el tramo más claro. En "Bethlehem" toca un Do sostenido, su única nota fuera de la tonalidad, y luego sostiene un Fa sostenido mientras la melodía baja a su Re grave: durante esos tiempos, la contralto es la voz más aguda.
-- [Tenor](/songs/o-come-all-ye-faithful/tenor): casi siempre Sol, La y Re. "Joyful and triumphant" es casi todo un mismo Re, y "Bethlehem" termina en un La sostenido casi cinco tiempos. En el segundo "O come, let us adore him" se queda casi siempre en Sol debajo del Si y el Do de la melodía: mantenlo firme. Termina en su nota más grave, un Re largo debajo de "Lord".
-- [Bajo](/songs/o-come-all-ye-faithful/bass): exactamente una octava, del Sol grave al Sol agudo. "Come and behold him" empieza en el Sol agudo y baja paso a paso hasta Do. En el estribillo salta del Sol grave de "him" al Sol agudo del siguiente "O come", y más tarde vuelve a bajar. Termina en el Sol grave.
+- [Tenor](/songs/o-come-all-ye-faithful/tenor): casi siempre Sol, La y Re. "Joyful and triumphant" es casi todo un mismo Re, y "Bethlehem" termina en un La que se mantiene casi cinco tiempos. En el segundo "O come, let us adore him" se queda casi siempre en Sol debajo del Si y el Do de la melodía: mantenlo firme. Termina en su nota más grave, un Re largo debajo de "Lord".
+- [Bajo](/songs/o-come-all-ye-faithful/bass): exactamente una octava, del Sol grave al Sol agudo. "Come and behold him" empieza en el Sol agudo y baja por Fa sostenido y Mi hasta Do. En el estribillo salta del Sol grave de "him" al Sol agudo del siguiente "O come", y más tarde vuelve a bajar. Termina en el Sol grave.
 
 ## Preguntas
 
 ### ¿Qué significa "Adeste Fideles"?
 
-"Adeste fideles" es latín: una llamada a los fieles a estar presentes, a acercarse, "que acudan los fieles" [^hymnarchive][^julian]. El primer verso entero, "Adeste, fideles, laeti triumphantes", significa "que acudan los fieles, alegres y triunfantes" [^julian]. Los himnarios ingleses cantan "O come, all ye faithful, joyful and triumphant": la versión inglesa de Frederick Oakeley, de 1841, con el primer verso que le dio el himnario de Murray en 1852[^julian][^hymnarchive].
+"Adeste fideles" es latín: una llamada a los fieles a estar presentes, a acercarse, "que acudan los fieles" [^hymnarchive][^julian]. El primer verso entero, "Adeste, fideles, laeti triumphantes", significa "que acudan los fieles, alegres y triunfantes" [^julian]. Los himnarios ingleses cantan "O come, all ye faithful, joyful and triumphant": la versión inglesa de Frederick Oakeley, de 1841, con el primer verso que le dio el himnario de Murray en 1852 [^julian][^hymnarchive].
 
 ### ¿En qué versículo de la Biblia se basa O Come, All Ye Faithful?
 
@@ -222,7 +223,7 @@ El original está en latín, Adeste Fideles, en cuatro estrofas conocidas primer
 
 ### ¿Hay una versión católica de O Come, All Ye Faithful?
 
-El himno es católico desde el principio: un himno latino copiado por un laico católico y cantado en la bendición con el Santísimo en Navidad [^hymnarchive][^julian]. La versión inglesa vino de Oakeley, entonces sacerdote anglicano, y en 1907 Julian la encontraba en varias colecciones católicas [^julian]. Los himnarios católicos y protestantes imprimen el inglés de Oakeley; los más completos añaden estrofas posteriores sobre los pastores y los magos [^julian][^eh1906][^hymnarchive].
+El himno es católico desde el principio: un himno latino copiado por un laico católico y cantado en la bendición con el Santísimo en Navidad [^hymnarchive][^julian]. La versión inglesa vino de Oakeley, entonces sacerdote anglicano, y en 1907 Julian encontraba su primer texto, "Ye faithful, approach ye", en varias colecciones católicas [^julian]. Los himnarios católicos y protestantes imprimen el inglés de Oakeley; los más completos añaden estrofas posteriores sobre los pastores y los magos [^julian][^eh1906][^hymnarchive].
 
 ### ¿Qué voz canta la melodía?
 
@@ -232,7 +233,7 @@ En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la me
 
 - [Hark! The Herald Angels Sing](/songs/hark-the-herald): otro himno de Navidad para principiantes, en Sol, con letra del siglo XVIII.
 - [Ave verum corpus](/songs/ave-verum-corpus): otro himno católico en latín, a las cuatro voces de Mozart de 1791, un paso más allá.
-- [Silent Night](/songs/silent-night): el villancico callado de Nochebuena, después de este tan luminoso.
+- [Silent Night](/songs/silent-night): el villancico sereno de Nochebuena, después de este tan luminoso.
 
 ## Fuentes
 
@@ -250,10 +251,12 @@ En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la me
 - [^hcnotes]: Hymns and Carols of Christmas, *Adeste Fideles: Notes on the Hymn* (cita a Stéphan 1947 y Bradley 1999). https://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/Notes_On_Carols/adeste_fideles.htm
 - [^praise]: Praise Trust, *O come, all you faithful* (Praise!, n.º 367, notas). https://www.praise.org.uk/hymns/o-come-all-you-faithful
 - [^america]: Benjamin Ivry, *The history of a Christmas classic, "O Come, All Ye Faithful"* (America, 10 de diciembre de 2021). https://americamagazine.org/arts-culture/2021/12/10/christmas-hymn-adeste-come-faithful-241957
+- [^cath-oakeley]: Bernard Ward, "Frederick Oakeley", *The Catholic Encyclopedia*, vol. 11 (Robert Appleton Company, 1911). https://www.newadvent.org/cathen/11173a.htm
 - [^cath-webbe]: W. H. Grattan Flood, "Samuel Webbe", *The Catholic Encyclopedia*, vol. 15 (Robert Appleton Company, 1912). https://www.newadvent.org/cathen/15573a.htm
 - [^creed]: Joseph Wilhelm, "The Nicene Creed", *The Catholic Encyclopedia*, vol. 11 (Robert Appleton Company, 1911). https://www.newadvent.org/cathen/11049a.htm
 - [^kjv-luke]: *The Holy Bible*, King James Version, Lucas 2:8 a 20; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Luke+2%3A8-20&version=KJV
 - [^kjv-john]: *The Holy Bible*, King James Version, Juan 1:14; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=John+1%3A14&version=KJV
 - [^eh1906]: *The English Hymnal* (Oxford University Press, 1906), n.º 28, facsímil de la página en Wikisource. https://en.wikisource.org/wiki/Page:The_English_hymnal_(1906).djvu/79
-- [^hws1909]: *Hymns of Worship and Service*, 20.ª ed. (The Century Co., Nueva York, 1909), n.º 89, "Adeste Fideles", p. 63, ejemplar de la Princeton Theological Seminary Library. https://archive.org/details/hymnsofworship00newy
+- [^hws1909]: *Hymns of Worship and Service*, 20.ª ed. (The Century Co., Nueva York, 1909), n.º 89, "Adeste Fideles", p. 63 (imagen n102), ejemplar de la Princeton Theological Seminary Library, signatura 6157. https://archive.org/details/hymnsofworship00newy/page/n102
+- [^elhimnario]: *El Himnario* (Church Publishing, 1998), n.º 81, "Venid, fieles todos", en Hymnary.org. https://hymnary.org/hymn/EH1998/81
 - [^neh]: *The New English Hymnal*, n.º 30, texto en Hymnary.org. https://hymnary.org/hymn/NEH1985/30?media=text
