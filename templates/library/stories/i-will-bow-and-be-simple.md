@@ -26,6 +26,8 @@ I Will Bow and Be Simple is a song of the Shakers, the celibate religious commun
 
 **The songbook.** Mary Hazzard, a sister at New Lebanon, New York, the Shakers' leading village, began her book on 7 February 1847 and titled it "A Collection of Extra Songs of Various Kinds Written and Pricked For the Purpose of Retaining them" [^hazzardbook][^wintcat][^andrews][^shakermuseum]. "Pricked" means the tunes are written down as well as the words [^webster1828][^hazzard]. The Winterthur Library in Delaware holds it as ASC 893, catalogued with dates of 1847 to 1856 [^wintcat]. Our story of [Simple Gifts](/songs/simple-gifts) tells more about the book, which holds that song too [^hazzardbook].
 
+![[1]]
+
 **The page.** On the book's page 108 the song has no heading: it starts straight in with "I will bow & be simple" [^hazzard]. The words run across the page in a neat slanting hand, and under each line is the tune in Shaker letteral notation, small letters such as c, e and g for the pitches, with strokes and joining lines for the rhythm [^hazzard][^wintcoll]. Both strains are marked to repeat. At its end, after the double bar, is written "North Family", with no village, no giver and no date. A wordless tune marked "Watervliete" fills the rest of the page [^hazzard].
 
 **Where it sits in the book.** Page 105 ends "Canterbury 1851", and page 116 ends "Watervliet. 1852" [^hazzardbook]. Our page itself is undated, between songs dated 1851 and 1852, and since the book is not kept strictly in date order, that is as near as it can be placed [^hazzard][^hazzardbook].
@@ -46,7 +48,11 @@ I Will Bow and Be Simple is a song of the Shakers, the celibate religious commun
 
 The song is all one promise, "I will bow", made five times over. Bowing was something Shakers did as well as sang about. Andrews, from a Hancock record begun in 1842, describes worshippers at an outdoor feast bowing low, turning and reeling, and he notes that in many songs the singers acted out their words, with shaking, turning, bowing and reeling [^andrews]. The Canterbury Shakers' own hymnal of 1852 sings "To bow and bend be not ashamed, For angels bow low down" in a hymn about the dance [^sacredrep]. A song from Enfield, New Hampshire, dated April 1848, asks "Can't you bend your necks a little", for it is not the haughty but "those who're truly simple" who receive "Mothers love" [^andrews].
 
+![[2]]
+
 **"I will bow and be simple, I will bow and be free."** Simplicity was one of the twelve Christian virtues the Shakers taught, beside meekness and humility [^summaryview][^andrews]. Their Summary View of the Millennial Church, in its edition of 1848, says that "True gospel simplicity implies a godly sincerity, and a real singleness of heart" [^summaryview]. Andrews called simplicity one of the most pervasive Shaker virtues, and wrote that in its more mature forms it appeared as Christian humility, as singleness of purpose and as purity [^andrews]. "Free" is a word the Shaker songs of these years return to again and again: Andrews counts "freedom from bondage" among their constant themes [^andrews].
+
+![[3]]
 
 **"I will bow and be humble, yea bow like the willow tree."** "Yea" means yes, or indeed. In Shaker speech, Andrews notes, it was said "ye", with the e of "greet" [^andrews]. A willow bends in the wind without breaking, so to bow like the willow tree is to give way without being broken by pride.
 

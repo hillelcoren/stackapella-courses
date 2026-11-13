@@ -14,12 +14,13 @@ occasion: domingo de la Trinidad
 wikidata: Q1185012
 quote: Perfect in power, in love, and purity!
 quoteSource: heber1827
-original: Heber, Hymns (1827), p. 84, Internet Archive | https://archive.org/details/writadap00hebe/page/84 || Hymns Ancient and Modern (1861), himno 135, Internet Archive | https://archive.org/details/hymnsancientmode00unse/page/n199
+original: Heber, Hymns (1827), Internet Archive | https://archive.org/details/writadap00hebe
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: santo santo santo himno historia | quién escribió santo santo santo señor omnipotente | quién escribió holy holy holy | quién compuso la música de holy holy holy | holy holy holy himno significado | el que era el que es y el que ha de venir significado
-translatedFrom: 4d5e20317c2b
+translatedFrom: a966dc7fc365
+listen: National Jukebox, grabación de 1901 | https://archive.org/details/loc-jukebox-5485-holy-holy-holy || National Jukebox, grabación de 1904 | https://archive.org/details/loc-jukebox-119201-holy-holy-holy
 ---
 
 Holy, Holy, Holy, en español "Santo, santo, santo", es un himno a Dios como Trinidad: un solo Dios, Padre, Hijo y Espíritu Santo. Reginald Heber lo escribió para el domingo de la Trinidad cuando era párroco rural en Hodnet, en Shropshire [^heber1827][^hymnarchive]. Su letra pone en verso el canto ante el trono de Dios del Apocalipsis [^julian1892][^canterbury]. Su primera impresión conocida, según el diccionario de Julian, es de 1826, cuando Heber murió en la India; no se conoce ningún ejemplar [^julian1907][^hymnarchive]. Su melodía, NICAEA, la escribió John Bacchus Dykes para la primera edición de Hymns Ancient and Modern (1861) [^ham1861][^hymnary-nicaea]. En 1892 Julian ya lo llamaba el más conocido de los himnos de Heber [^julian1892], y hoy Hymnary.org registra la melodía en bastante más de mil himnarios [^hymnary-nicaea].
@@ -28,13 +29,19 @@ Holy, Holy, Holy, en español "Santo, santo, santo", es un himno a Dios como Tri
 
 **La letra.** Heber nació en Malpas, en Cheshire, el 21 de abril de 1783 y estudió en el Brasenose College de Oxford [^julian1892][^dnb-heber]. Se ordenó en 1807 y pasó los dieciséis años siguientes en Hodnet, en Shropshire, el beneficio de su familia [^julian1892][^dnb-heber]. Era su rector, como él mismo se llamaba en sus libros y en sus cartas [^bampton1816][^life1830v1]. Allí se propuso escribir un himno para cada domingo y cada fiesta del año. Cuando los primeros aparecieron en una revista, el Christian Observer, en 1811 y 1812, explicó que estaban "pensados para cantarse entre el credo niceno y el sermón", cada uno unido en alguna medida a la colecta y al evangelio de ese día [^life1830v1][^julian1892]. En junio de 1819 escribió a un amigo que estaba ocupado "corrigiendo, reuniendo y ordenando todos mis himnos", aunque habían empezado a entrarle "escrúpulos de Alta Iglesia" sobre usarlos en el culto público [^life1830v1].
 
+![[1]]
+
 Holy, Holy, Holy era su himno para el domingo de la Trinidad, el domingo siguiente a Pentecostés [^heber1827][^hymnarchive]. Ese día el Libro de Oración Común lee como epístola Apocalipsis 4, la visión del trono de Dios [^bcp][^hymnary-text]. Todos sus himnos se escribieron en los años de Hodnet [^julian1892][^heber1827].
 
 En 1823 Heber fue nombrado obispo de Calcuta [^julian1892][^hymnary-text], y pasó buena parte de los tres años siguientes en largos viajes por su diócesis [^julian1892][^dnb-heber]. El domingo 2 de abril de 1826 predicó y confirmó en Trichinopoly, en el sur de la India. A primera hora de la mañana siguiente volvió a confirmar, en el fuerte [^chatterton][^dnb-heber]. De vuelta en la casa donde se alojaba, escribió "Trichinopoly, 3 de abril de 1826" en el reverso de su plática de confirmación y se metió en un gran baño de agua fría, como las dos mañanas anteriores. Media hora después su criado lo encontró muerto [^life1830v2][^chatterton]. Tenía 42 años. La biografía escrita por su viuda dice que una enfermedad llevaba algún tiempo avanzando sin que nadie lo sospechara, y que los médicos pensaban que de todos modos no habría vivido mucho más [^life1830v2]. Fue enterrado en el lado norte del altar de la iglesia de San Juan de Trichinopoly [^life1830v2][^dnb-heber].
 
 El diccionario de Julian informó en 1907 de que la impresión más antigua que conocían sus editores estaba en la tercera edición de A Selection of Psalms and Hymns for the Parish Church of Banbury, de 1826 [^julian1907]. Hoy no se conoce ningún ejemplar, y Hymnology Archive dice que el libro parece perdido [^hymnarchive]. En 1827 su viuda, Amelia Heber, publicó su colección con el título Hymns, Written and Adapted to the Weekly Church Service of the Year, la impresión más antigua que se conserva. Holy, Holy, Holy está en la página 84, con el encabezado "Trinity Sunday" (domingo de la Trinidad), en cuatro estrofas y sin música [^heber1827][^julian1892]. La edición de 1892 del diccionario de Julian había señalado este libro como la primera impresión; la noticia de Banbury llegó en 1907 [^julian1892][^julian1907].
 
+![[2]]
+
 **La melodía.** John Bacchus Dykes nació en Hull el 10 de marzo de 1823 [^fowler][^dnb-dykes][^hymnary-nicaea]. Clérigo y músico, en 1849 fue nombrado chantre de la catedral de Durham, a cargo de su música [^dnb-dykes][^hymnary-nicaea]. En el otoño de 1860 unos amigos lo animaron a ofrecer melodías a un nuevo himnario de la Iglesia de Inglaterra, Hymns Ancient and Modern. El 12 de octubre escribió desde Durham a su editor musical, William Henry Monk, y le envió "unas cuantas melodías manuscritas", disculpándose porque "no sabía nada de la parte musical de la obra hasta ahora mismo" [^fowler][^hymnarchive]. En el libro de 1861, el himno de Heber es el n.º 135, entre los del domingo de la Trinidad, con la melodía de Dykes y su propia armonía [^ham1861][^hymnary-nicaea].
+
+![[3]]
 
 La melodía lleva el nombre de Nicea, donde los dirigentes de la Iglesia se reunieron en concilio en el año 325. Aquel concilio fijó la enseñanza de la Iglesia sobre Dios como Trinidad, el tema del himno de Heber [^hymnary-nicaea][^hymnarchive]. Hay autores que han comparado su comienzo, que sube por las notas del acorde de tónica, con la melodía del coral alemán WACHET AUF [^hymnary-nicaea][^hymnarchive]. Dykes fue después vicario de St Oswald's, en Durham, desde 1862, y murió el 22 de enero de 1876 [^dnb-dykes][^fowler].
 

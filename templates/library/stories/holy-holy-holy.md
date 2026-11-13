@@ -14,11 +14,12 @@ occasion: Trinity Sunday
 wikidata: Q1185012
 quote: Perfect in power, in love, and purity!
 quoteSource: heber1827
-original: Heber, Hymns (1827), p. 84, Internet Archive | https://archive.org/details/writadap00hebe/page/84 || Hymns Ancient and Modern (1861), Hymn 135, Internet Archive | https://archive.org/details/hymnsancientmode00unse/page/n199
+original: Heber, Hymns (1827), Internet Archive | https://archive.org/details/writadap00hebe
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: who wrote holy holy holy lord god almighty | who wrote the music for holy holy holy | holy holy holy hymn history | holy holy holy lord god almighty meaning | holy holy holy lord god almighty who was and is and is to come meaning
+listen: National Jukebox, 1901 recording | https://archive.org/details/loc-jukebox-5485-holy-holy-holy || National Jukebox, 1904 recording | https://archive.org/details/loc-jukebox-119201-holy-holy-holy
 ---
 
 Holy, Holy, Holy is a hymn to God as Trinity: one God, Father, Son and Holy Spirit. Reginald Heber wrote it for Trinity Sunday while he was a country parson at Hodnet in Shropshire [^heber1827][^hymnarchive]. Its words are the song sung around God's throne in the Book of Revelation, retold in verse [^julian1892][^canterbury]. Its earliest known printing, as Julian's Dictionary of Hymnology records it, is from 1826, the year Heber died in India; no copy is known [^julian1907][^hymnarchive]. Its tune, NICAEA, is John Bacchus Dykes's, written for the first edition of Hymns Ancient and Modern in 1861 [^ham1861][^hymnary-nicaea]. In 1892 that dictionary already called it the best known of Heber's hymns [^julian1892], and Hymnary.org now lists the tune in well over a thousand hymnals [^hymnary-nicaea].
@@ -27,13 +28,19 @@ Holy, Holy, Holy is a hymn to God as Trinity: one God, Father, Son and Holy Spir
 
 **The words.** Heber was born at Malpas in Cheshire on 21 April 1783 and studied at Brasenose College, Oxford [^julian1892][^dnb-heber]. He was ordained in 1807 and spent the next sixteen years at Hodnet in Shropshire, his family's living [^julian1892][^dnb-heber]. He was its rector, as he called himself in print and in his letters [^bampton1816][^life1830v1]. There he planned a hymn for every Sunday and holy day of the year. When the first few appeared in a magazine, the Christian Observer, in 1811 and 1812, he explained that they were "designed to be sung between the Nicene Creed and the sermon", each tied in some degree to that day's Collect and Gospel [^life1830v1][^julian1892]. In June 1819 he wrote to a friend that he was busy "correcting, collecting, and arranging all my hymns", though he had begun to have "high Church scruples" about using them in public [^life1830v1].
 
+![[1]]
+
 Holy, Holy, Holy was his hymn for Trinity Sunday, the Sunday after Whitsun [^heber1827][^hymnarchive]. On that day the Book of Common Prayer reads Revelation 4, the vision of God's throne, as the Epistle [^bcp][^hymnary-text]. All his hymns were written in the Hodnet years [^julian1892][^heber1827].
 
 In 1823 Heber became Bishop of Calcutta [^julian1892][^hymnary-text], and spent much of the next three years on long journeys through his diocese [^julian1892][^dnb-heber]. On Sunday 2 April 1826 he preached and confirmed at Trichinopoly, in southern India. Early the next morning he confirmed again, at the fort [^chatterton][^dnb-heber]. Back at the house where he was staying, he wrote "Trichinopoly April 3, 1826" on the back of his confirmation address and went into a large cold bath, as he had the two mornings before. Half an hour later his servant found him dead [^life1830v2][^chatterton]. He was 42. His widow's Life says an illness had been at work unsuspected for some time, and that the doctors thought he could not have lived very long in any case [^life1830v2]. He was buried on the north side of the altar of St John's Church, Trichinopoly [^life1830v2][^dnb-heber].
 
 Julian's dictionary reported in 1907 that the earliest printing known to its editors was in the third edition of A Selection of Psalms and Hymns for the Parish Church of Banbury, 1826 [^julian1907]. No copy is known today, and Hymnology Archive calls the book apparently lost [^hymnarchive]. In 1827 his widow, Amelia Heber, published his collection as Hymns, Written and Adapted to the Weekly Church Service of the Year, the earliest printing that survives. Holy, Holy, Holy is on page 84, headed "Trinity Sunday", in four verses, without music [^heber1827][^julian1892]. The 1892 edition of Julian's dictionary had named this book as the earliest printing; the Banbury report came in 1907 [^julian1892][^julian1907].
 
+![[2]]
+
 **The tune.** John Bacchus Dykes was born in Hull on 10 March 1823 [^fowler][^dnb-dykes][^hymnary-nicaea]. A clergyman and musician, he became precentor of Durham Cathedral, in charge of its music, in 1849 [^dnb-dykes][^hymnary-nicaea]. In the autumn of 1860 friends urged him to offer tunes to a new Church of England hymn book, Hymns Ancient and Modern. On 12 October he wrote from Durham to its music editor, William Henry Monk, sending "a few MS. Tunes", sorry that he "knew nothing of the musical arrangement of the work till just now" [^fowler][^hymnarchive]. In the book of 1861, Heber's hymn is No. 135, under Trinity Sunday, with Dykes's tune and his own harmony [^ham1861][^hymnary-nicaea].
+
+![[3]]
 
 The tune is named after Nicaea, where church leaders met in council in 325. That council set out the Church's teaching on God as Trinity, the subject of Heber's hymn [^hymnary-nicaea][^hymnarchive]. Writers have compared its opening, which climbs up the notes of the home chord, with the German chorale tune WACHET AUF [^hymnary-nicaea][^hymnarchive]. Dykes went on to be vicar of St Oswald's, Durham, from 1862, and died on 22 January 1876 [^dnb-dykes][^fowler].
 

@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: i will bow and be simple | i will bow and be simple letra | i will bow and be simple partitura
-translatedFrom: 14486219eba2
+translatedFrom: f0aeb444350f
 ---
 
 I Will Bow and Be Simple es una canción de los shakers, la comunidad religiosa célibe que celebraba su culto cantando y bailando [^shakermuseum][^andrews]. En dos breves secciones, quien canta promete inclinarse: ser sencillo, libre y humilde, inclinarse como el sauce, llevar el "easy yoke" (el yugo fácil) y caer sobre la roca [^hazzard][^andrews]. No tiene autor conocido. La copia que cantamos, en el cancionero manuscrito de Mary Hazzard, no lleva título ni fecha, solo las palabras "North Family" (Familia del Norte) al pie [^hazzard]. El estudioso de los shakers Edward Deming Andrews imprimió su letra en 1937, y dos veces más en 1940, en The Gift to Be Simple, una entre las canciones de humildad y otra con su melodía, y la llamó una "bowing song", una canción de reverencias [^andrews1937][^andrews].
@@ -26,6 +26,8 @@ I Will Bow and Be Simple es una canción de los shakers, la comunidad religiosa 
 **La comunidad.** Los shakers, la United Society of Believers, vivían en aldeas que compartían el trabajo y los bienes [^shakermuseum][^andrews]. Cada aldea se dividía en "familias", hogares que vivían y trabajaban juntos bajo sus propios élderes [^andrews][^shakerheritage], y que a menudo se nombraban según dónde estaban respecto a la Church Family, la del centro: la Familia del Norte, la Familia del Sur, y así [^andrews][^nps]. Desde 1837, un largo avivamiento, que ellos llamaron la Obra de Madre Ann (Mother Ann's Work), llenó sus reuniones de "gift songs", canciones de don: canciones que, según creía quien las recibía en el culto, le había dado el espíritu [^andrews][^wintcoll]. Andrews escribió que, a lo largo de la década de 1840, las canciones volvían una y otra vez al amor del evangelio, la unión, la liberación de la servidumbre y, sobre todo, la mansedumbre y la humildad [^andrews].
 
 **El cancionero.** Mary Hazzard, una hermana de New Lebanon, Nueva York, la aldea principal de los shakers, empezó su libro el 7 de febrero de 1847 y lo tituló "A Collection of Extra Songs of Various Kinds Written and Pricked For the Purpose of Retaining them" [^hazzardbook][^wintcat][^andrews][^shakermuseum]. "Pricked" significa que las melodías están escritas además de la letra [^webster1828][^hazzard]. La Winterthur Library, en Delaware, lo guarda como ASC 893, catalogado con fechas de 1847 a 1856 [^wintcat]. Nuestra historia de [Simple Gifts](/songs/simple-gifts) cuenta más sobre el libro, que también contiene esa canción [^hazzardbook].
+
+![[1]]
 
 **La página.** En la página 108 del libro, la canción no tiene encabezado: empieza directamente con "I will bow & be simple" [^hazzard]. La letra corre por la página en una pulcra letra inclinada, y bajo cada verso está la melodía en la notación por letras de los shakers, la letteral notation, con letras pequeñas como c, e y g para las alturas, y trazos y líneas de unión para el ritmo [^hazzard][^wintcoll]. Las dos secciones están marcadas para repetirse. Al final, después de la doble barra, está escrito "North Family" (Familia del Norte), sin aldea, sin el nombre de quien la dio y sin fecha. Una melodía sin letra marcada "Watervliete" ocupa el resto de la página [^hazzard].
 
@@ -47,7 +49,11 @@ I Will Bow and Be Simple es una canción de los shakers, la comunidad religiosa 
 
 Toda la canción es una sola promesa, "I will bow" (me inclinaré), repetida cinco veces. Inclinarse era algo que los shakers hacían, además de cantarlo. Andrews, a partir de un registro de Hancock empezado en 1842, describe a fieles en una fiesta al aire libre que se inclinaban hasta el suelo, giraban y daban vueltas, y señala que en muchas canciones los cantores representaban su letra con sacudidas, giros, reverencias y vueltas [^andrews]. El propio himnario de los shakers de Canterbury, de 1852, canta "To bow and bend be not ashamed, For angels bow low down" (no te avergüences de inclinarte y doblarte, pues los ángeles se inclinan hasta el suelo) en un himno sobre la danza [^sacredrep]. Una canción de Enfield, New Hampshire, fechada en abril de 1848, pregunta "Can't you bend your necks a little" (¿no se puede doblar un poco el cuello?), porque no son los altivos sino "those who're truly simple" (los que son de verdad sencillos) quienes reciben "Mothers love", el amor de Madre [^andrews].
 
+![[2]]
+
 **"I will bow and be simple, I will bow and be free."** (Me inclinaré y seré sencillo, me inclinaré y seré libre.) La sencillez era una de las doce virtudes cristianas que enseñaban los shakers, junto a la mansedumbre y la humildad [^summaryview][^andrews]. Su Summary View of the Millennial Church, en la edición de 1848, dice que "True gospel simplicity implies a godly sincerity, and a real singleness of heart" (la verdadera sencillez del evangelio implica una sinceridad piadosa y una auténtica unidad de corazón) [^summaryview]. Andrews llamó a la sencillez una de las virtudes shakers más presentes en todo, y escribió que en sus formas más maduras aparecía como humildad cristiana, como unidad de propósito y como pureza [^andrews]. "Free" (libre) es una palabra a la que las canciones shakers de esos años vuelven una y otra vez: Andrews cuenta "freedom from bondage" (la liberación de la servidumbre) entre sus temas constantes [^andrews].
+
+![[3]]
 
 **"I will bow and be humble, yea bow like the willow tree."** (Me inclinaré y seré humilde, sí, me inclinaré como el sauce.) "Yea" significa sí, o en verdad. En el habla de los shakers, señala Andrews, se pronunciaba "ye", con la e de "greet", es decir, como "yi" [^andrews]. Un sauce se dobla con el viento sin romperse, así que inclinarse como el sauce es ceder sin dejar que el orgullo lo rompa a uno.
 
