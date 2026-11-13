@@ -18,7 +18,7 @@ checked: 2026-11-12
 reviewed: true
 searches: who wrote brahms lullaby | who wrote the melody brahms lullaby | who wrote the lyrics to brahms lullaby | brahms lullaby meaning | brahms lullaby history | brahms lullaby lyrics meaning | brahms lullaby original language | brahms lullaby original lyrics | brahms lullaby song in english | brahms lullaby when was it written | lullaby and good night with roses bedight | guten abend gut nacht | why gute nacht and not guten nacht
 listen: National Jukebox, 1906 recording, in German | https://www.loc.gov/item/jukebox-123756/ || National Jukebox, 1912 recording, in English | https://www.loc.gov/item/jukebox-132112/
-original: The first edition, N. Simrock, Berlin, 1868, page 11 | https://archive.org/details/imslp-lieder-op49-brahms-johannes/page/n10/mode/1up
+original: The first edition, N. Simrock, Berlin, 1868, Brahms-Institut Lübeck | https://www.brahms-portal.de/objekt/dc00008243
 ---
 
 Brahms's Lullaby is the Wiegenlied, "cradle song", Op. 49 No. 4, for voice and piano by Johannes Brahms (1833 to 1897) [^baker][^forty]. It begins "Guten Abend, gut' Nacht"; in English it is the Cradle Song, or "Lullaby and Good Night", a line from Natalia Macfarren's English of the 1870s that Arthur Westbrook kept in his of 1901 [^simrock-en][^forty]. Brahms wrote it in the summer of 1868 as a gift for his friend Bertha Faber in Vienna, on the birth of her second son, and hid in its piano part a Viennese song she had sung to him years before [^kalbeck2][^friedlaender][^buja]. Its first verse is older: a children's rhyme printed in 1808 [^wunderhorn][^friedlaender]. By 1922 Max Friedlaender could call it the most popular and best known of all his songs [^friedlaender].
@@ -29,7 +29,11 @@ Brahms's Lullaby is the Wiegenlied, "cradle song", Op. 49 No. 4, for voice and p
 
 **The lullaby.** In the summer of 1868, in Bonn, Brahms heard that the Fabers had a second son, Hans, and wrote them a cradle song [^bi][^omi][^kalbeck2]. He sent it with a letter dated 15 July 1868: Bertha would see, he told Arthur, that he had made it "yesterday", just for her little one [^omi][^kalbeck2][^friedlaender]. He added a joke she would understand: while she sings Hans to sleep, her husband sings to her and murmurs a love song [^kalbeck2][^friedlaender]. The love song was Baumann's. Its waltz tune lies almost note for note in the piano part, while the voice sings a new melody against it [^kalbeck1][^friedlaender]. Brahms pointed it out to his Bonn friend Hermann Deiters: the accompaniment hinted at a waltz the lady knew [^kalbeck2][^friedlaender]. He wrote on the copy "Arthur und Bertha Faber zu allzeit fröhlichem Gebrauch": for Arthur and Bertha Faber, to use happily at any time [^kalbeck1][^friedlaender].
 
+![[1]]
+
 **Into print.** Brahms had not meant to publish it, he told Bertha, but his publisher, Fritz Simrock, saw it and held on to it [^kalbeck2][^friedlaender]. It came out in Berlin as No. 4 of the Fünf Lieder, Op. 49 [^first-ed][^bi]. The Brahms-Institut in Lübeck dates the set to November 1868, but by Kalbeck's account Brahms had already sent Bertha the printed book with a letter of 25 October [^bi][^kalbeck2]. Over the song the page says only "An B. F. in Wien", to B. F. in Vienna, and Brahms wrote to her hoping she would not mind those familiar initials [^first-ed][^kalbeck2][^friedlaender]. In the same letter, as Kalbeck prints it, he joked about whether Hanslick, of all people, would sniff out the Austrian tune he had smuggled in [^kalbeck2][^friedlaender].
+
+![[2]]
 
 **The words.** The first edition's single verse is a German children's rhyme [^first-ed], which Achim von Arnim and Clemens Brentano printed in 1808 as "Gute Nacht, mein Kind!", "Good night, my child!", among the children's songs closing Des Knaben Wunderhorn, their collection of old German songs [^wunderhorn][^friedlaender]. The cover of Brahms's set says the song came "aus Simrock's Kinderbuch", from Simrock's children's book, and a Boston edition of 1903 went further and printed "Karl Simrock (1802-1876)" over it as the author [^first-ed][^forty]. But Friedlaender showed in 1922 that Brahms's words follow the Wunderhorn [^wunderhorn][^friedlaender].
 
@@ -112,6 +116,8 @@ With fair dream-land's sweet charm.
 ## How it is sung
 
 It is a Lied, an art song for voice and piano, and for half a century before 1922, Friedlaender wrote, mothers had sung their children to sleep with it [^first-ed][^friedlaender]. Brahms marked it "Zart bewegt", gently moving, and set it in E-flat major, in 3/4 time, beginning on an upbeat [^first-ed]. Most lullabies drift downward, Friedlaender noticed, but this one climbs from its first notes [^friedlaender]. By 1888 Deiters called it very popular, and Brahms teased Simrock about its many arrangements: why not an edition in a minor key, for naughty or sickly children? [^deiters][^friedlaender]
+
+![[3]]
 
 Our arrangement is read from the first edition, in Brahms's key of E-flat, with Westbrook's English and its underlay from the 1903 Ditson book, which printed the song in C [^first-ed][^forty]. We sing two verses, as printings from the 1870s on give them (the first edition has one verse, with a repeat sign to sing it again), and leave out his two grace notes [^first-ed][^simrock-en]. It is for 2 to 4 singers: the soprano has the tune, the alto the same words a third or a sixth below, and the tenor and bass soft "oo" chords from Brahms's left hand.
 

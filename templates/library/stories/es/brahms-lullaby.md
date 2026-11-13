@@ -17,9 +17,9 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: canción de cuna de brahms historia | canción de cuna de brahms significado | quién escribió la canción de cuna de brahms | canción de cuna de brahms letra original en alemán | guten abend gut nacht significado | lullaby and good night letra en español
-translatedFrom: 8a254ecfccde
+translatedFrom: 70b1fbc483eb
 listen: National Jukebox, grabación de 1906, en alemán | https://www.loc.gov/item/jukebox-123756/ || National Jukebox, grabación de 1912, en inglés | https://www.loc.gov/item/jukebox-132112/
-original: La primera edición, N. Simrock, Berlín, 1868, página 11 | https://archive.org/details/imslp-lieder-op49-brahms-johannes/page/n10/mode/1up
+original: La primera edición, N. Simrock, Berlín, 1868, Brahms-Institut Lübeck | https://www.brahms-portal.de/objekt/dc00008243
 ---
 
 Brahms's Lullaby, la Canción de cuna de Brahms en español, es el Wiegenlied, "canción de cuna", Op. 49 n.º 4, para voz y piano, de Johannes Brahms (1833 a 1897) [^baker][^forty]. Empieza "Guten Abend, gut' Nacht"; en inglés es el Cradle Song, o "Lullaby and Good Night", un verso de la versión inglesa de Natalia Macfarren de la década de 1870 que Arthur Westbrook conservó en la suya de 1901 [^simrock-en][^forty]. Brahms la escribió en el verano de 1868 como regalo para su amiga Bertha Faber, en Viena, cuando nació su segundo hijo, y escondió en la parte de piano una canción vienesa que ella le había cantado años antes [^kalbeck2][^friedlaender][^buja]. Su primera estrofa es más antigua: una rima infantil impresa en 1808 [^wunderhorn][^friedlaender]. Ya en 1922 Max Friedlaender podía llamarla la más popular y la más conocida de todas sus canciones [^friedlaender].
@@ -30,7 +30,11 @@ Brahms's Lullaby, la Canción de cuna de Brahms en español, es el Wiegenlied, "
 
 **La canción de cuna.** En el verano de 1868, en Bonn, Brahms supo que los Faber habían tenido un segundo hijo, Hans, y les escribió una canción de cuna [^bi][^omi][^kalbeck2]. La envió con una carta fechada el 15 de julio de 1868: Bertha vería, le dijo a Arthur, que la había hecho "ayer", solo para su pequeño [^omi][^kalbeck2][^friedlaender]. Añadió una broma que ella entendería: mientras ella canta a Hans para dormirlo, su marido le canta a ella y le murmura una canción de amor [^kalbeck2][^friedlaender]. La canción de amor era la de Baumann. Su melodía de vals está casi nota por nota en la parte de piano, mientras la voz canta encima una melodía nueva [^kalbeck1][^friedlaender]. Brahms se lo señaló a su amigo de Bonn Hermann Deiters: el acompañamiento aludía a un vals que la señora conocía [^kalbeck2][^friedlaender]. En la copia escribió "Arthur und Bertha Faber zu allzeit fröhlichem Gebrauch": para Arthur y Bertha Faber, para que la usen con alegría en todo momento [^kalbeck1][^friedlaender].
 
+![[1]]
+
 **A la imprenta.** Brahms no había pensado publicarla, le dijo a Bertha, pero su editor, Fritz Simrock, la vio y se quedó con ella [^kalbeck2][^friedlaender]. Salió en Berlín como n.º 4 de los Fünf Lieder, Op. 49 [^first-ed][^bi]. El Brahms-Institut de Lübeck fecha la colección en noviembre de 1868, pero según el relato de Kalbeck, Brahms ya le había enviado a Bertha el cuaderno impreso con una carta del 25 de octubre [^bi][^kalbeck2]. Sobre la canción, la página dice solo "An B. F. in Wien", a B. F. en Viena, y Brahms le escribió con la esperanza de que no le molestaran esas iniciales tan familiares [^first-ed][^kalbeck2][^friedlaender]. En la misma carta, tal como la imprime Kalbeck, bromeaba sobre si Hanslick, precisamente él, olfatearía la melodía austriaca que había metido de contrabando [^kalbeck2][^friedlaender].
+
+![[2]]
 
 **La letra.** La única estrofa de la primera edición es una rima infantil alemana [^first-ed], que Achim von Arnim y Clemens Brentano imprimieron en 1808 como "Gute Nacht, mein Kind!", "¡Buenas noches, mi niño!", entre las canciones infantiles que cierran Des Knaben Wunderhorn, su colección de antiguas canciones alemanas [^wunderhorn][^friedlaender]. La portada de la colección de Brahms dice que la canción viene "aus Simrock's Kinderbuch", del libro infantil de Simrock, y una edición de Boston de 1903 fue más allá e imprimió encima "Karl Simrock (1802-1876)" como autor [^first-ed][^forty]. Pero Friedlaender demostró en 1922 que la letra de Brahms sigue el Wunderhorn [^wunderhorn][^friedlaender].
 
@@ -125,6 +129,8 @@ con el dulce encanto del bello país de los sueños.
 ## Cómo se canta
 
 Es un Lied, una canción de concierto para voz y piano, y durante medio siglo antes de 1922, escribió Friedlaender, las madres habían dormido a sus hijos cantándola [^first-ed][^friedlaender]. Brahms la marcó "Zart bewegt", con un movimiento suave, y la escribió en Mi bemol mayor, en 3/4, empezando con una anacrusa [^first-ed]. La mayoría de las canciones de cuna van bajando, observó Friedlaender, pero esta sube desde sus primeras notas [^friedlaender]. Ya en 1888 Deiters la llamaba muy popular, y Brahms bromeaba con Simrock sobre sus muchos arreglos: ¿por qué no una edición en modo menor, para niños traviesos o enfermizos? [^deiters][^friedlaender]
+
+![[3]]
 
 Nuestro arreglo está tomado de la primera edición, en la tonalidad de Brahms, Mi bemol, con la letra inglesa de Westbrook y su reparto de sílabas bajo las notas tomados del libro de Ditson de 1903, que imprimió la canción en Do [^first-ed][^forty]. Cantamos dos estrofas, como las dan las impresiones desde la década de 1870 en adelante (la primera edición tiene una estrofa, con un signo de repetición para cantarla otra vez), y dejamos fuera sus dos notas de adorno [^first-ed][^simrock-en]. Es para 2 a 4 cantantes: la soprano lleva la melodía, la contralto canta la misma letra una tercera o una sexta por debajo, y el tenor y el bajo cantan suaves acordes en "oo" (una u) tomados de la mano izquierda de Brahms.
 

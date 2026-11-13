@@ -15,12 +15,12 @@ alsoKnownAs: After Harvest
 wikidata: Q5151035
 quote: All is safely gathered in, ere the winter storms begin.
 quoteSource: yop1867
-original: Alford, Psalms and Hymns (1844), himno CXVI, Internet Archive | https://archive.org/details/psalmsandhymnsa01unkngoog/page/n167 || Hymns Ancient and Modern (1861), himno 223, Internet Archive | https://archive.org/details/hymnsancientmode00unse/page/n311
+original: Alford, Psalms and Hymns (1844), Internet Archive | https://archive.org/details/psalmsandhymnsa01unkngoog
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió come ye thankful people come | come ye thankful people come historia | come ye thankful people come significado | cuándo se escribió come ye thankful people come | come ye thankful people come letra original | come ye thankful people come himno melodía
-translatedFrom: 435d1557c22f
+translatedFrom: 562964fe95e0
 ---
 
 Come, Ye Thankful People, Come es un himno de la cosecha. Henry Alford, vicario del pueblo de Wymeswold, en Leicestershire, lo imprimió en 1844, nuevo, en el himnario que preparó para su parroquia, con el encabezamiento "After Harvest" (después de la cosecha) [^ph1844][^life1873]. Su primera estrofa da gracias a Dios por una cosecha recogida antes del invierno. Las otras tres pasan a la parábola de Jesús del trigo y la cizaña, y a la cosecha del fin de los tiempos [^ph1844][^kjv]. Hymns Ancient and Modern le dio en 1861 la melodía con la que aún se canta, ST. GEORGE'S WINDSOR, de George Elvey, organista de la capilla de San Jorge de Windsor [^ham1861][^hymnary-tune]. En Inglaterra pertenece a la fiesta de la cosecha [^life1873][^hymnarchive]. Los himnarios episcopales estadounidenses lo imprimieron para el Día de Acción de Gracias al menos desde 1871 [^pe1871][^pe1892].
@@ -31,15 +31,21 @@ Come, Ye Thankful People, Come es un himno de la cosecha. Henry Alford, vicario 
 
 La página muestra el himno como n.º CXVI (116), con el encabezamiento "After Harvest", en cuatro estrofas de ocho versos. El índice da como metro "D. sevens" y como autor "H. A.", con el asterisco que el libro usa para los himnos "publicados por primera vez en esta colección" [^ph1844].
 
+![[1]]
+
 Dar gracias por la cosecha en la iglesia era entonces una costumbre que volvía a aparecer. En septiembre de 1843, Robert Stephen Hawker, vicario de Morwenstow, en Cornualles, convocó a su gente a dar gracias por la cosecha al mes siguiente, con pan de comunión hecho con el grano nuevo. Sus biógrafos lo llaman "probablemente el primero" o "uno de los primeros" de la Iglesia de Inglaterra en hacerlo [^baringgould][^byles]. Nada de lo que hemos leído relaciona el himno de Alford con Hawker.
 
 **Otras manos, y las del propio Alford.** La primera edición con música de Hymns Ancient and Modern, el himnario de la Iglesia de Inglaterra cuyo prefacio está fechado en la Cuaresma de 1861, imprimió el himno como n.º 223 bajo "Harvest" (cosecha) [^ham1861][^julian]. Sus compiladores reescribieron buena parte de él. En el prefacio dan las gracias al deán de Canterbury, cargo de Alford desde 1857, por permitir usarlo, y añaden en una nota al pie: "ellos hicieron cambios considerables en este himno, sin su autorización; y ... él desea que no se le considere responsable de él en su forma actual" [^ham1861][^dnb-alford][^hymnarchive-alford]. El Dictionary of Hymnology de Julian dice que los compiladores añadieron esa nota en ediciones posteriores; el libro de 1861 ya la trae [^julian][^ham1861].
+
+![[2]]
 
 Alford respondió en la cuarta edición de sus Poetical Works, en 1865. Allí el himno es "After Harvest (1844)", con una nota al pie: había sido "desfigurado en varias colecciones por cambios hechos sin el consentimiento del autor", y él era "responsable solo de esta forma" [^pw1865][^hymnarchive]. El Canterbury Dictionary of Hymnology fecha esta nota en la quinta edición, de 1868; la impresión de 1865 ya la trae [^canterbury][^pw1865]. Una segunda nota recoge su propio cambio. Sus versos de 1844, "From his field shall purge away / All that doth offend that day", dicen ahora "From His field shall in that day / All offences purge away". Lo hizo, dice, a petición del Tract Committee de la Christian Knowledge Society, la SPCK, porque la redacción antigua "quizá podía tener un sentido ambiguo" [^pw1865][^ph1844][^canterbury].
 
 En 1867 lo revisó una vez más para The Year of Praise, un himnario que editó para la catedral de Canterbury. La estrofa 2 empieza ahora "All the world is God's own field" (el mundo entero es el campo de Dios) en lugar de "We ourselves are God's own field" (nosotros mismos somos el campo de Dios), y la estrofa 4 está reescrita casi entera: empieza "Even so, Lord, quickly come", aunque conserva tres versos de 1844, entre ellos "Free from sorrow, free from sin" [^yop1867][^ph1844][^hymnarchive]. Murió en la residencia del deán, en Canterbury, en enero de 1871 [^life1873][^hymnarchive-alford].
 
 **La melodía.** George Job Elvey nació en Canterbury en 1816 y de niño cantó en el coro de su catedral [^dnb-elvey][^hymnary-elvey]. En 1835, a los diecinueve años, pasó a ser organista de la capilla de San Jorge de Windsor, y conservó el puesto hasta 1882. Fue nombrado caballero en 1871 y murió en Windlesham, en Surrey, en 1893 [^dnb-elvey][^hymnary-elvey]. La primera impresión conocida de su melodía está en *A Selection of Psalm and Hymn Tunes* de E. H. Thorne, de 1858, y lleva el nombre de su capilla [^hymnary-tune][^hymnarchive]. Hymns Ancient and Modern dio las gracias al "Dr. G. J. Elvey, por el uso de la melodía" y la llamó "St. George" en su índice de melodías [^ham1861]. La entrada de Elvey en el Dictionary of National Biography la nombra entre sus obras más populares [^dnb-elvey].
+
+![[3]]
 
 **En Estados Unidos.** El himnario de la Iglesia episcopal de 1871, impreso en Filadelfia, lo trae como n.º 289, en una sección titulada "Thanksgiving and Harvest-Home" (acción de gracias y fiesta de la cosecha), con el texto de 1861 y, encima, un versículo de Isaías 9:3 [^pe1871][^kjv]. En el himnario de esa misma iglesia de 1892 es el n.º 193, bajo "Thanksgiving Day" [^pe1892]. Cómo cruzó el océano, y quién lo cantó primero en Acción de Gracias, no lo dicen las fuentes que hemos leído.
 

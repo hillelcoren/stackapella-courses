@@ -16,7 +16,9 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: comin thro the rye significado | comin thro the rye letra significado | comin thro the rye poema significado | quién escribió comin thro the rye | robert burns comin thro the rye significado | comin thro the rye traducción
-translatedFrom: b2ff5417ce93
+translatedFrom: 33f59833f94c
+original: The Scots Musical Museum, vol. 5 (1796), National Library of Scotland, Internet Archive | https://archive.org/details/scotsmusicalmuv300john
+listen: Internet Archive, grabación de 1914 | https://archive.org/details/loc-jukebox-10755-comin-thro-the-rye || Internet Archive, grabación de 1912 | https://archive.org/details/loc-jukebox-646995-comin-thro-the-rye
 ---
 
 Comin' Thro' the Rye, impresa también como Coming Through the Rye y conocida por su primer verso, Gin a Body Meet a Body, es una canción en escocés sobre alguien que se encuentra con otra persona en un sendero y le roba un beso. Robert Burns la rehízo a partir de una canción más antigua y mucho más picante, y se imprimió en Edimburgo, en dos versiones, en el quinto volumen de The Scots Musical Museum, que las bibliotecas fechan en 1796.[^smm][^dick][^mm1911] La segunda versión, con la letra "Ilka body has a body", es la que se hizo popular, y su melodía pertenece a la misma familia de danzas escocesas que Auld Lang Syne.[^graham][^dick][^glen] Su verso sobre encontrarse con alguien en el centeno dio más tarde a J. D. Salinger el título de The Catcher in the Rye (El guardián entre el centeno).[^litcharts][^tearle]
@@ -25,11 +27,17 @@ Comin' Thro' the Rye, impresa también como Coming Through the Rye y conocida po
 
 **Las dos versiones de 1796.** James Johnson, grabador y vendedor de música de Edimburgo, publicó The Scots Musical Museum en seis volúmenes, y Burns reunió y escribió canciones para él hasta su muerte.[^smm][^dick][^rpopoet] El quinto volumen no lleva fecha. La National Library of Scotland y el estudioso de Burns James C. Dick lo fechan en 1796, Dick en diciembre de ese año; en 1876, dos autores de Notes and Queries, entre ellos el historiador de la música inglés William Chappell, lo situaron en 1797.[^smm][^dick][^nq1876] En la página 430 está el n.º 417, "Comin thro' the rye. 1st Sett", marcado Very Slow, en Sol. Su estribillo, "Oh Jenny's a' weet poor body, Jenny's seldom dry", habla de Jenny, que lleva la enagua empapada del camino (weet es mojada), y le siguen dos estrofas cortas: "Gin a body kiss a body Need a body cry", y la misma "thro' the glen", donde la pregunta es "Need the warld ken!", es decir, si tiene que saberlo el mundo.[^smm][^dick-gloss] Al pie de la página hay grabada una letra B, que Dick lee como la firma de Burns.[^smm][^dick] En la página siguiente, el n.º 418, la "2d Sett", está en Si bemol, también Very Slow. Aquí la pregunta conocida recibe una respuesta nueva: "Ilka body has a body, ne'er a ane hae I, But a' the lads they loe me, And what the war am I." Siguen dos estrofas más, "comin frae the well" y "comin frae the town".[^smm]
 
+![[1]]
+
 **La canción más antigua.** Un colaborador de Notes and Queries escribió en 1876 que Burns tomó una canción antigua y muy conocida y dejó sin cambios su estrofa de Jenny; otro pensaba que la estrofa inicial y su estribillo de Jenny eran probablemente todo lo que quedaba de la canción antigua.[^nq1876] Dick dice que el estribillo era muy popular en Escocia en el siglo XVIII, y que hay una versión de circulación privada en The Merry Muses of Caledonia, la colección picante impresa después de la muerte de Burns.[^dick][^mm1911] La reimpresión de 1911 la llama una canción antigua que la "versión purificada" de Burns "desplazó por completo".[^mm1911]
 
 **¿Quién escribió la segunda versión?** No lleva firma. Un autor de 1876 no encontró pruebas fiables que la relacionaran con Burns, aunque podía deber algo a su mano. Representative Poetry Online dice que no lleva firma, pero que se acepta ampliamente como suya.[^nq1876][^rpo]
 
+![[2]]
+
 **La melodía.** Burns escribió junto al título "Tune, Miller's Wedding, a Strathspey", según lee Dick su lista manuscrita. Un strathspey es una melodía de danza escocesa.[^dick][^ballad] Tanto Dick como el coleccionista John Glen la remontan a una melodía impresa como The Miller's Wedding en la colección de reels de Robert Bremner de 1759; Glen añade que de ella se tomó el strathspey The Miller's Daughter.[^dick][^glen] William Stenhouse, cuyas notas se reunieron para acompañar el Museum, dijo que la melodía de la primera versión venía de la tercera y la cuarta parte de The Miller's Daughter en la First Collection de Niel Gow.[^stenhouse][^graham] Dick incluye el n.º 418 entre las variantes de la melodía de Auld Lang Syne, y Glen dice que la primera versión le es "muy afín".[^dick][^glen]
+
+![[3]]
 
 **La versión de Watlen.** Stenhouse escribió que la canción "Gin a body meet a body" era una "parodia de la primera versión, que se publicó como canción en hoja suelta antes de copiarse en el Museum", y que John Watlen, músico y vendedor de música de Edimburgo, alteró un poco la primera parte de la melodía y la publicó con la letra nueva. "Su edición tuvo bastante éxito."[^stenhouse][^graham] Chappell, leyendo a Stenhouse, escribió en 1876 que la edición de Watlen fue posterior a la pantomima londinense que se describe más abajo. Glen estuvo de acuerdo en que el n.º 418 es la versión de Watlen, pero dedujo de las fechas de la serie numerada de Watlen que se imprimió en agosto de 1794, más de un año antes de la pantomima.[^nq1876][^glen]
 
@@ -130,6 +138,8 @@ no tengo ganas de decirlo.
 ## Cómo se canta
 
 Es una canción escocesa para una voz con teclado: el Museum imprime dos pentagramas, y Graham, una parte de piano de T. M. Mudie, Moderato a 72 pulsos por minuto, en Sol.[^smm][^graham] Graham eligió la segunda versión porque, escribió, era "la más popular, y también la más característica".[^graham]
+
+![[4]]
 
 Nuestro arreglo está en Sol mayor, en 4/4, en nuestras propias cuatro voces. La soprano canta la melodía de Graham con cada altura tal como está impresa, sin dos pequeñas notas de adorno, y con todos los ritmos menos uno: la nota larga de "I!" se acorta para dejar una respiración antes de "Yet". Va a 60 pulsos por minuto, algo más lento que sus 72. La parte de piano de Mudie solo se usó para comprobar los acordes. Dos cantantes cantan soprano y contralto, y un tercero añade el bajo.
 

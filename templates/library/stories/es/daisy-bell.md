@@ -17,16 +17,21 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: daisy bell historia | daisy bell significado | quién escribió daisy bell | daisy bell letra en español | daisy bell computadora | daisy bell hal 9000
-translatedFrom: 9a16cec7ba03
+translatedFrom: 23a469c90aee
+original: Harry Dacre, Daisy Bell (T. B. Harms & Co., copyright 1892), Internet Archive | https://archive.org/details/daisybell00harr
 ---
 
 Daisy Bell, la canción que muchos conocen como A Bicycle Built for Two (una bicicleta hecha para dos) o simplemente "Daisy, Daisy", fue escrita y compuesta por Harry Dacre y publicada en 1892 por T. B. Harms en Nueva York y por Francis, Day and Hunter en Londres [^harms1892][^powell][^loc-nrr]. Es un vals en el que un joven le pide matrimonio a Daisy: no puede permitirse un carruaje, pero ella estará preciosa en el asiento de una bicicleta tándem [^harms1892]. Su estribillo se cantaba en los music halls (los teatros de variedades) de la década de 1890 [^powell][^loc-nrr], y en 1961 unos investigadores de Bell Labs hicieron que una computadora la cantara con voz sintetizada [^loc-nrr][^ccrma][^mathews2011]. Siete años después la cantó HAL 9000, la computadora moribunda de la película 2001: Una odisea del espacio [^loc-nrr][^mathews2011].
+
+![[1]]
 
 ## De dónde viene
 
 **El autor.** Harry Dacre era el seudónimo de Frank Dean, nacido en Douglas, en la isla de Man, en 1857, el año de su bautismo; el catálogo del Victoria and Albert Museum da 1860 [^powell][^lucerna][^vam]. Algunas fuentes estadounidenses lo llaman Henry Decker, quizá un nombre que usó allí; el censo y los registros testamentarios lo conocen como Frank Dean [^loc-nrr][^powell][^lucerna]. El censo de 1881 lo encontró viviendo en Mánchester, inscrito como "autor dramático" [^powell][^lucerna]. Más tarde dirigió en Londres una editorial de música, Frank Dean and Co. [^powell][^lucerna][^loc-auth].
 
 **La partitura.** El ejemplar que leímos, escaneado para Internet Archive, tiene una portada roja y verde: "Daisy Bell, Song, Written and Composed by Harry Dacre", publicada por T. B. Harms and Co., de Nueva York, y Francis, Day and Hunter, de Londres, "Copyright MDCCCXCII" (1892), y registrada en Stationers' Hall, en Londres [^harms1892]. Un comercio de música de St. Paul, Minnesota, puso su sello en la portada, y alguien que la tuvo firmó en la parte de arriba y añadió "94, Jan." [^harms1892]. Su contraportada anuncia otras dos canciones de Harms con copyright de 1893, una de ellas Rainbow in de Sky!, de Dacre, así que este ejemplar se imprimió en 1893 o después, con las planchas de 1892 [^harms1892]. Por dentro, la canción está marcada Tempo di Valse, en tiempo de vals, en Sol, y las tres estrofas van impresas bajo la misma melodía, con el estribillo en la página 5, marcado "A little faster" (un poco más rápido) [^harms1892]. Las comillas señalan los juegos de palabras: "tandem", "Ped'ling", "lamps", "bright lights", "wheel", "lead" y "trip", y la campana ("bell") va impresa como "bell(e)" [^harms1892].
+
+![[2]]
 
 **Los music halls.** La cantante más ligada a la canción en sus primeros años fue Katie Lawrence, artista británica de music hall [^powell][^loc-nrr]. Dacre escribió una continuación, Fare You Well, Daisy Bell (adiós, Daisy Bell), publicada en Londres en 1894, en la que Daisy rechaza a su pretendiente y él decide seguir pedaleando solo [^vam][^powell]. Dacre murió en Londres el 16 de julio de 1922 [^lucerna][^powell][^loc-auth].
 
@@ -56,6 +61,8 @@ Daisy Bell, la canción que muchos conocen como A Bicycle Built for Two (una bic
 ### La letra completa
 
 Estas son las tres estrofas y el estribillo tal como se imprimieron en la partitura de Dacre (copyright 1892), páginas 3 a 5, con todas sus comillas. El estribillo va impreso una sola vez, en la página 5, después de las estrofas. Dacre murió en 1922 y la canción se publicó en 1892, así que todo es de dominio público.
+
+![[3]]
 
 **Estrofa 1**
 > There is a flower within my heart,

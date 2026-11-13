@@ -17,15 +17,20 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote daisy bell | daisy bell harry dacre | daisy bell original 1892 | when was daisy bell written | daisy bell meaning | what is daisy bell about | bicycle built for two meaning | daisy bell lyrics | daisy bell computer | daisy bell ibm 7094 | daisy bell hal 9000 | daisy bell computer history | why is daisy bell creepy | daisy bell dark meaning | who was daisy in daisy bell | is daisy bell a nursery rhyme
+original: Harry Dacre, Daisy Bell (T. B. Harms & Co., copyright 1892), Internet Archive | https://archive.org/details/daisybell00harr
 ---
 
 Daisy Bell, the song many people know as A Bicycle Built for Two or simply "Daisy, Daisy", was written and composed by Harry Dacre and published in 1892 by T. B. Harms in New York and Francis, Day and Hunter in London [^harms1892][^powell][^loc-nrr]. It is a waltz in which a young man proposes to Daisy: he can't afford a carriage, but she will look sweet on the seat of a tandem bicycle [^harms1892]. Its chorus was sung in the music halls of the 1890s [^powell][^loc-nrr], and in 1961 researchers at Bell Labs made a computer sing it in a synthesized voice [^loc-nrr][^ccrma][^mathews2011]. Seven years later the dying computer HAL sang it in the film 2001: A Space Odyssey [^loc-nrr][^mathews2011].
+
+![[1]]
 
 ## Where it comes from
 
 **The songwriter.** Harry Dacre was the pen name of Frank Dean, born in Douglas, on the Isle of Man, in 1857, the year of his baptism; the Victoria and Albert Museum's catalogue gives 1860 [^powell][^lucerna][^vam]. Some American sources call him Henry Decker, perhaps a name he used there; the census and probate records know him as Frank Dean [^loc-nrr][^powell][^lucerna]. The census of 1881 found him living in Manchester, listed as a "dramatic author" [^powell][^lucerna]. He later ran a music publishing firm in London, Frank Dean and Co. [^powell][^lucerna][^loc-auth].
 
 **The sheet music.** The copy we read, scanned for the Internet Archive, has a red and green cover: "Daisy Bell, Song, Written and Composed by Harry Dacre", published by T. B. Harms and Co. of New York and Francis, Day and Hunter of London, "Copyright MDCCCXCII" (1892), and entered at Stationers' Hall, London [^harms1892]. A music dealer in St. Paul, Minnesota stamped the cover, and an owner signed the top and added "94, Jan." [^harms1892]. Its back page advertises two other Harms songs copyrighted in 1893, one of them Dacre's Rainbow in de Sky!, so this copy was printed in 1893 or later, from the plates of 1892 [^harms1892]. Inside, the song is marked Tempo di Valse, waltz time, in G, and all three verses are printed under the one tune, with the chorus on page 5, marked "A little faster" [^harms1892]. Quotation marks flag the puns: "tandem", "Ped'ling", "lamps", "bright lights", "wheel", "lead" and "trip", and the bell is printed "bell(e)" [^harms1892].
+
+![[2]]
 
 **The music halls.** The singer most closely tied to the song in its first years was Katie Lawrence, a British music hall performer [^powell][^loc-nrr]. Dacre wrote a sequel, Fare You Well, Daisy Bell, published in London in 1894, in which Daisy turns her suitor down and he resolves to ride alone [^vam][^powell]. Dacre died in London on 16 July 1922 [^lucerna][^powell][^loc-auth].
 
@@ -55,6 +60,8 @@ Daisy Bell, the song many people know as A Bicycle Built for Two or simply "Dais
 ### The full words
 
 These are the three verses and the chorus as printed in Dacre's sheet music (copyright 1892), pages 3 to 5, quotation marks and all. The chorus is printed once, on page 5, after the verses. Dacre died in 1922 and the song was published in 1892, so all of it is in the public domain.
+
+![[3]]
 
 **Verse 1**
 There is a flower within my heart,

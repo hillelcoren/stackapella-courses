@@ -15,7 +15,7 @@ alsoKnownAs: After Harvest
 wikidata: Q5151035
 quote: All is safely gathered in, ere the winter storms begin.
 quoteSource: yop1867
-original: Alford, Psalms and Hymns (1844), Hymn CXVI, Internet Archive | https://archive.org/details/psalmsandhymnsa01unkngoog/page/n167 || Hymns Ancient and Modern (1861), Hymn 223, Internet Archive | https://archive.org/details/hymnsancientmode00unse/page/n311
+original: Alford, Psalms and Hymns (1844), Internet Archive | https://archive.org/details/psalmsandhymnsa01unkngoog
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
@@ -30,15 +30,21 @@ Come, Ye Thankful People, Come is a harvest hymn. Henry Alford, vicar of the vil
 
 The page shows the hymn as No. CXVI (116), under the heading "After Harvest", in four verses of eight lines. The table of contents gives its meter as "D. sevens" and its author as "H. A.", with the asterisk the book uses for hymns "published in this Collection for the first time" [^ph1844].
 
+![[1]]
+
 A harvest thanksgiving in church was then new again. In September 1843 Robert Stephen Hawker, vicar of Morwenstow in Cornwall, called his people to give thanks for the harvest the next month, with Communion bread made of the new corn. His biographers call him "probably the first" or "one of the first" in the Church of England to do so [^baringgould][^byles]. Nothing we have read ties Alford's hymn to Hawker.
 
 **Other hands, and Alford's own.** The first music edition of Hymns Ancient and Modern, the Church of England hymnal whose preface is dated Lent 1861, printed the hymn as No. 223 under "Harvest" [^ham1861][^julian]. Its compilers rewrote much of it. In their preface they thank the Dean of Canterbury, as Alford had been since 1857, for its use, and add in a footnote: "considerable alterations were made by them in this Hymn, without his sanction; and ... he wishes not to be considered responsible for it in its present form" [^ham1861][^dnb-alford][^hymnarchive-alford]. Julian's Dictionary of Hymnology says the compilers added such a note in later editions; the 1861 book already has it [^julian][^ham1861].
+
+![[2]]
 
 Alford answered in the fourth edition of his Poetical Works in 1865. There the hymn is "After Harvest (1844)", with a footnote: it had been "in various collections much disfigured by alterations made without the author's consent", and he was "responsible for this form of it only" [^pw1865][^hymnarchive]. The Canterbury Dictionary of Hymnology dates this note to the fifth edition, of 1868; the 1865 printing already has it [^canterbury][^pw1865]. A second footnote records his own change. His 1844 lines, "From his field shall purge away / All that doth offend that day", now read "From His field shall in that day / All offences purge away". He made it, he says, at the request of the Tract Committee of the Christian Knowledge Society, the SPCK, the old wording "possibly bearing an ambiguous meaning" [^pw1865][^ph1844][^canterbury].
 
 In 1867 he revised it once more for The Year of Praise, a hymnal he edited for use in Canterbury Cathedral. Verse 2 now opens "All the world is God's own field" instead of "We ourselves are God's own field", and verse 4 is largely rewritten, opening "Even so, Lord, quickly come", though it keeps three of its 1844 lines, among them "Free from sorrow, free from sin" [^yop1867][^ph1844][^hymnarchive]. He died at the Deanery in Canterbury in January 1871 [^life1873][^hymnarchive-alford].
 
 **The tune.** George Job Elvey was born at Canterbury in 1816 and sang as a boy in the cathedral choir there [^dnb-elvey][^hymnary-elvey]. In 1835, at nineteen, he became organist of St George's Chapel, Windsor, and kept the post until 1882. He was knighted in 1871 and died at Windlesham in Surrey in 1893 [^dnb-elvey][^hymnary-elvey]. The earliest known printing of his tune is in E. H. Thorne's *A Selection of Psalm and Hymn Tunes* of 1858, and it is named after his chapel [^hymnary-tune][^hymnarchive]. Hymns Ancient and Modern thanked "Dr. G. J. Elvey, for the use of the tune" and called it "St. George" in its index of tunes [^ham1861]. Elvey's entry in the Dictionary of National Biography names it among his most popular works [^dnb-elvey].
+
+![[3]]
 
 **In America.** The Episcopal Church's Hymnal of 1871, printed in Philadelphia, has it as No. 289, in a section headed "Thanksgiving and Harvest-Home", with the 1861 text and, above it, a line from Isaiah 9:3 [^pe1871][^kjv]. In that church's Hymnal of 1892 it is No. 193 under "Thanksgiving Day" [^pe1892]. How it first crossed, and who first sang it for Thanksgiving, the sources we read don't say.
 

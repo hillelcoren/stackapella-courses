@@ -16,6 +16,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: comin thro the rye meaning | comin thro the rye poem meaning | comin thro the rye lyrics meaning | comin thro the rye meaning line by line | robert burns comin thro the rye meaning | who wrote comin thro the rye | who wrote the original poem comin thro the rye
+original: The Scots Musical Museum, vol. 5 (1796), National Library of Scotland, Internet Archive | https://archive.org/details/scotsmusicalmuv300john
+listen: Internet Archive, 1914 recording | https://archive.org/details/loc-jukebox-10755-comin-thro-the-rye || Internet Archive, 1912 recording | https://archive.org/details/loc-jukebox-646995-comin-thro-the-rye
 ---
 
 Comin' Thro' the Rye, also printed as Coming Through the Rye and known by its first line, Gin a Body Meet a Body, is a Scots song about meeting someone on a path and stealing a kiss. Robert Burns reworked it from an older, much bawdier song, and it was printed in Edinburgh, in two sets, in the fifth volume of The Scots Musical Museum, which libraries date to 1796.[^smm][^dick][^mm1911] The second set, with the words "Ilka body has a body", is the one that became popular, and its tune belongs to the same family of Scottish dance tunes as Auld Lang Syne.[^graham][^dick][^glen] Its line about meeting a body in the rye later gave J. D. Salinger the title of The Catcher in the Rye.[^litcharts][^tearle]
@@ -24,11 +26,17 @@ Comin' Thro' the Rye, also printed as Coming Through the Rye and known by its fi
 
 **The two sets of 1796.** James Johnson, an Edinburgh engraver and music-seller, published The Scots Musical Museum in six volumes, and Burns gathered and wrote songs for it until his death.[^smm][^dick][^rpopoet] The fifth volume carries no date. The National Library of Scotland and the Burns scholar James C. Dick date it 1796, Dick to December of that year; in 1876 two writers in Notes and Queries, among them the English music historian William Chappell, put it in 1797.[^smm][^dick][^nq1876] On page 430 is No. 417, "Comin thro' the rye. 1st Sett", marked Very Slow, in G. Its chorus, "Oh Jenny's a' weet poor body, Jenny's seldom dry", is about Jenny, whose petticoat is soaked from the walk (weet is wet), and two short verses follow: "Gin a body kiss a body Need a body cry", and the same "thro' the glen", where the question is "Need the warld ken!", need the world know.[^smm][^dick-gloss] A letter B is engraved at the foot of the page, which Dick reads as Burns's signature.[^smm][^dick] On the next page, No. 418, the "2d Sett", is in B flat, also Very Slow. Here the familiar question gets a new answer: "Ilka body has a body, ne'er a ane hae I, But a' the lads they loe me, And what the war am I." Two more verses follow, "comin frae the well" and "comin frae the town".[^smm]
 
+![[1]]
+
 **The older song.** A correspondent in Notes and Queries in 1876 wrote that Burns took an old, well-known song and kept its Jenny verse unaltered; another thought the opening verse and its Jenny chorus were probably all that remained of the old song.[^nq1876] Dick says the refrain was very popular in Scotland in the 18th century, and that a private version is in The Merry Muses of Caledonia, the bawdy collection printed after Burns's death.[^dick][^mm1911] The 1911 reprint calls it an old song that Burns's "purified version completely superseded".[^mm1911]
 
 **Who wrote the second set?** It is unsigned. One 1876 writer found no trustworthy evidence tying it to Burns, though it might owe something to his hand. Representative Poetry Online calls it unsigned "but widely accepted as his".[^nq1876][^rpo]
 
+![[2]]
+
 **The tune.** Burns wrote against the title "Tune, Miller's Wedding, a Strathspey", as Dick reads his manuscript list. A strathspey is a Scottish dance tune.[^dick][^ballad] Both Dick and the collector John Glen trace it to a tune printed as The Miller's Wedding in Robert Bremner's collection of reels of 1759; Glen adds that the strathspey The Miller's Daughter was taken from it.[^dick][^glen] William Stenhouse, whose notes were compiled to accompany the Museum, said the first set's air came from the third and fourth strains of The Miller's Daughter in Niel Gow's First Collection.[^stenhouse][^graham] Dick lists No. 418 among the variants of the Auld Lang Syne air, and Glen calls the first set "closely allied" to it.[^dick][^glen]
+
+![[3]]
 
 **Watlen's version.** Stenhouse wrote that the "Gin a body meet a body" song was "parodied from the first set, which was published as a single sheet song before it was copied into the Museum", and that John Watlen, an Edinburgh musician and music-seller, altered the first strain of the tune a little and published it with the new words. "His edition had a considerable run."[^stenhouse][^graham] Chappell, reading Stenhouse, wrote in 1876 that Watlen's edition came after the London pantomime described below. Glen agreed that No. 418 is Watlen's version, but worked out from the dates of Watlen's numbered series that it was printed in August 1794, more than a year before the pantomime.[^nq1876][^glen]
 
@@ -101,6 +109,8 @@ I dinna care to tell.
 ## How it is sung
 
 It is a Scottish song for one voice with keyboard: the Museum prints two staves, and Graham a piano part by T. M. Mudie, Moderato at 72 beats a minute, in G.[^smm][^graham] Graham chose the second set because, he wrote, it was "the most popular, as well as the most characteristic".[^graham]
+
+![[4]]
 
 Our arrangement is in G major, in 4/4, in our own four parts. The soprano sings Graham's tune with every pitch as printed, leaving out two small grace notes, and every rhythm but one: the long "I!" is cut short to leave a breath before "Yet". It goes at 60 beats a minute, a little slower than his 72. Mudie's piano part was used only to check the chords. Two singers sing soprano and alto, and a third adds the bass.
 
