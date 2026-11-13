@@ -15,7 +15,7 @@ quote: Jesús es nat per tráurens de pecat
 quoteSource: millet1917
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: el cant dels ocells significado | el cant dels ocells letra | el cant dels ocells letra en español | quién compuso el cant dels ocells | el cant dels ocells pau casals | el cant dels ocells historia
 translatedFrom: 151c70cd3d39
 original: Millet, Pel nostre ideal, 1917, Internet Archive | https://archive.org/details/pel-nostre-ideal-lluis-millet/page/n237
@@ -35,7 +35,7 @@ El cant dels ocells, "el canto de los pájaros", es un villancico catalán. Los 
 
 **La armonía de Millet.** Lluís Millet (1867 a 1941) fundó el Orfeó Català, una sociedad coral de Barcelona, con Amadeu Vives en 1891 [^enccat-millet][^palau-orfeo][^loc-millet]. En noviembre de 1912 dio una conferencia en el Palau de la Música Catalana sobre el canto religioso popular, en el tercer congreso nacional de música sagrada (el día 20, según la nota al pie de su libro; la lista de sus obras de la Enciclopèdia da el 23), con cantores del Orfeó que daban los ejemplos. Entre las canciones de Navidad sonó esta, las aves que proclaman la buena nueva, en la armonía para voces de hombre que había escrito unos años antes [^millet1912][^enccat-millet].
 
-**La página.** Su música se imprimió en *Pel nostre ideal* de Millet, terminado en Barcelona el 26 de mayo de 1917 [^millet1917]. El Exemple XIV, "El cant dels aucells", "Harm. de'n Lluís Millet", lleva la indicación Moderat. Los cuatro pentagramas de hombres, Tenors I y II, Baritons y Baixos, llevan pp y "(Boca tancada)", boca cerrada: los hombres cantan con la boca cerrada, tres compases solos antes del primer "Al" del solo. Las quince estrofas siguen bajo la música, y una nota al pie dice que Iberia Musical había publicado la partitura y las particellas [^millet1917].
+**La página.** Su música se imprimió en *Pel nostre ideal* de Millet, terminado en Barcelona el 26 de mayo de 1917 [^millet1917]. El Exemple XIV, "El cant dels aucells", "Harm. de'n Lluís Millet", lleva la indicación Moderat. Los cuatro pentagramas de voces de hombre, Tenors I y II, Baritons y Baixos, llevan pp y "(Boca tancada)", boca cerrada: los hombres cantan con la boca cerrada, tres compases solos antes del primer "Al" del solo. Las quince estrofas siguen bajo la música, y una nota al pie dice que Iberia Musical había publicado la partitura y las particellas [^millet1917].
 
 ![[2]]
 

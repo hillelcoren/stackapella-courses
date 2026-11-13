@@ -15,7 +15,7 @@ quote: Despierta, mi bien, despierta
 quoteSource: laud1921
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: las mañanitas historia | quién escribió las mañanitas | las mañanitas significado | las mañanitas del rey david | origen de las mañanitas | las mañanitas letra completa
 translatedFrom: 3a6e9fad744b
 original: El laúd hispano-americano (Los Ángeles, 1921), ejemplar de la Library of Congress, Internet Archive | https://archive.org/details/ellaudhispanoame00sant

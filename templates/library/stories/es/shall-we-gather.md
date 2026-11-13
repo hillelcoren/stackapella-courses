@@ -18,7 +18,7 @@ original: Happy Voices (1865), Internet Archive | https://archive.org/details/ha
 listen: National Jukebox, grabación de 1924 | https://archive.org/details/loc-jukebox-673883-shall-we-gather-at-the-river
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: quién escribió shall we gather at the river | shall we gather at the river significado | shall we gather at the river historia del himno | shall we gather at the river versículo bíblico | shall we gather at the river películas | shall we gather at the river letra
 translatedFrom: 6fcbcf3d8a96
 ---
@@ -147,7 +147,7 @@ con la melodía de la paz.
 
 ## Cómo se canta
 
-Nació como canción de escuela dominical y se convirtió en un himno evangélico que se canta en iglesias de muchas clases [^burrage1888][^hymnary-text]. Su métrica es 8.7.8.7 con estribillo [^hymnary-text]. Lowry lo oía como una marcha [^sankey1907], y Bright Jewels lo marca "Cheerful" (alegre) [^brightjewels1869]. Los dos primeros libros marcan "beautiful, the beautiful river", en el estribillo, para cantarlo suave [^happyvoices1865][^brightjewels1869].
+Nació como canción de escuela dominical y se convirtió en un himno evangélico que se canta en iglesias de muchas clases [^burrage1888][^hymnary-text]. Su métrica es 8.7.8.7 con estribillo [^hymnary-text]. Lowry lo oía como una marcha [^sankey1907], y Bright Jewels lo marca "Cheerful" (alegre) [^brightjewels1869]. Los dos libros antiguos marcan "beautiful, the beautiful river", en el estribillo, para cantarlo suave [^happyvoices1865][^brightjewels1869].
 
 Las impresiones de 1865 y 1866 lo armonizan de forma distinta. En Happy Voices la estrofa va a tres voces, soprano y contralto en el pentagrama de arriba y el bajo solo abajo, y un tenor se une solo en el estribillo [^happyvoices1865]. Desde The New Golden Shower, las cuatro voces cantan de principio a fin [^ngs1866][^brightjewels1869].
 

@@ -18,7 +18,7 @@ quoteSource: cbe1863
 original: Neander, Glaub- und Liebes-Übung (Bremen, 1680), Biblioteca Estatal y Universitaria de Bremen | https://nbn-resolving.org/urn:nbn:de:gbv:46:1-115194
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: quién escribió praise to the lord the almighty | praise to the lord the almighty historia | praise to the lord the almighty significado | en qué salmo se basa praise to the lord the almighty | lobe den herren significado | alma bendice al señor himno historia
 translatedFrom: f74af3c48ec9
 ---

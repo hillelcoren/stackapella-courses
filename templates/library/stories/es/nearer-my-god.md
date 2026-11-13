@@ -17,7 +17,7 @@ quoteSource: fox1841
 original: The Sabbath Hymn and Tune Book (1859), Internet Archive | https://archive.org/details/sabbtune00maso
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: más cerca oh dios de ti historia | quién escribió nearer my god to thee | quién compuso la música de nearer my god to thee | nearer my god to thee significado versículo bíblico | nearer my god to thee titanic | nearer my god to thee historia del himno
 translatedFrom: 06b66470e5f1
 listen: National Jukebox, grabación de 1901 | https://archive.org/details/loc-jukebox-5890-nearer-my-god-to-thee || National Jukebox, grabación de 1908 | https://archive.org/details/loc-jukebox-119042-nearer-my-god-to-thee

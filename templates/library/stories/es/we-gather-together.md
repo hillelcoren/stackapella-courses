@@ -17,7 +17,7 @@ quote: Wilt heden Nu treden Voor God den Heere
 quoteSource: valerius1626
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: quién escribió we gather together | we gather together himno historia | es we gather together un himno neerlandés | por qué se canta we gather together en acción de gracias | we gather together significado | he chastens and hastens his will to make known significado
 translatedFrom: 6356c0a603cc
 original: Valerius, Nederlandtsche Gedenck-clanck, 1626, Internet Archive | https://archive.org/details/bub_gb_wxxKAAAAcAAJ/page/n183/mode/1up || The Beacon Hymnal (1924), n.º 17, Internet Archive | https://archive.org/details/beaconhymnalforc00unse/page/n147

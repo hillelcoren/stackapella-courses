@@ -16,7 +16,7 @@ quote: Now thank we all our God, With heart, and hands, and voices
 quoteSource: hymnal1916
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: quién escribió now thank we all our god | now thank we all our god historia | now thank we all our god significado | cuándo se escribió now thank we all our god | nun danket alle gott traducción | nun danket alle gott bach | es now thank we all our god un himno fúnebre
 translatedFrom: ecb154d25b45
 original: Crüger, Praxis pietatis melica (1653), Biblioteca Estatal de Baviera | https://www.digitale-sammlungen.de/en/view/bsb00065813

@@ -15,7 +15,7 @@ quote: Dios guardo el lobo de nuestra cordera
 quoteSource: uppsala-riu
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: riu riu chiu significado | qué significa riu riu chiu | quién escribió riu riu chiu | riu riu chiu historia | riu riu chiu letra | cancionero de upsala
 translatedFrom: 48cd7eb4f5e4
 original: Cancionero de Upsala, Biblioteca de la Universidad de Uppsala | https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:55063
@@ -54,7 +54,7 @@ El impreso trae un estribillo y siete estrofas; cantamos el estribillo, la prime
 
 **El estribillo.** "Riu, riu, chiu" es una llamada de sonidos, no de palabras, y ni el impreso ni Mitjana la explican [^uppsala-riu][^mitjana1909]. "La guarda ribera" es la guarda de la ribera, quien vigila junto al río. En "Dios guardó el lobo de nuestra cordera", guardar es apartar: Dios mantuvo al lobo lejos de nuestra cordera, la oveja joven.
 
-**La estrofa 1** nombra a la cordera. El "lobo rabioso" quiso morderla, pero Dios la defendió: quiso ("quisole hazer") que no pudiera pecar, "ni aun original", ni siquiera con el pecado original [^uppsala-riu]. Es la Inmaculada Concepción: María, libre del pecado original desde el principio. En el siglo de la canción aún se discutía: el Concilio de Trento, en 1546, la dejó fuera de su decreto sobre el pecado original, y la Iglesia definió la doctrina solo en 1854 [^trent][^cathen][^ineffabilis]. La cordera es la Virgen [^uppsala-riu][^lopez2026]. El lobo es lo que la habría llevado a pecar; un comentario moderno lo lee como la serpiente del Génesis con otra forma [^lopez2026].
+**La estrofa 1** nombra a la cordera. El "lobo rabioso" quiso morderla, pero Dios la defendió: quiso ("quisole hazer") que no pudiera pecar, "ni aun original", ni siquiera el pecado original [^uppsala-riu]. Es la Inmaculada Concepción: María, libre del pecado original desde el principio. En el siglo de la canción aún se discutía: el Concilio de Trento, en 1546, la dejó fuera de su decreto sobre el pecado original, y la Iglesia definió la doctrina solo en 1854 [^trent][^cathen][^ineffabilis]. La cordera es la Virgen [^uppsala-riu][^lopez2026]. El lobo es lo que la habría llevado a pecar; un comentario moderno lo lee como la serpiente del Génesis con otra forma [^lopez2026].
 
 **Las otras estrofas** pasan a la Navidad: el niño es el gran rey, vestido de carne, pequeño aunque era infinito. En la estrofa que cantamos en segundo lugar, mil "garçones", mozos (los ángeles), andan volando y haciendo mil "sones", sonidos, y cantando gloria en el cielo y paz en la tierra, el canto de los ángeles de Lucas 2:14 [^uppsala-riu][^kjv-luke]. Su "a gascones", palabra por palabra "a los gascones", no tiene explicación. El niño es también el cordero del "He aquí el Cordero de Dios" de Juan el Bautista [^uppsala-riu][^kjv-john].
 

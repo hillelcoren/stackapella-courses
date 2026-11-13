@@ -17,7 +17,7 @@ quote: ¡Noche de paz, noche de amor!
 quoteSource: h1893
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: noche de paz historia | noche de paz significado | quién escribió noche de paz en español | noche de paz letra | noche de paz autor y año | noche de paz original en alemán
 translatedFrom: 002cf101e631
 original: El Himnario evangélico, 1893, Internet Archive | https://archive.org/details/elhimevangl93amer/page/n43
@@ -131,9 +131,9 @@ Es un canto de Navidad sobre la noche en que nació Jesús. En la primera estrof
 
 En Navidad, y sobre todo en Nochebuena: la canción se cantó por primera vez en la misa de Nochebuena de 1818, en Oberndorf [^sng-time][^hymnarchive]. Los himnarios la ponen entre los cantos de Navidad; el himnario en español de 1907 la incluye bajo "Navidad" [^h1907]. En Oberndorf, cada 24 de diciembre a las cinco de la tarde, un acto junto a la capilla de Noche de paz honra a sus autores, y llega gente de muchos países a escucharla y cantarla [^salzburgerland][^salzburginfo].
 
-### ¿Tiene derechos de autor Noche de paz?
+### ¿Es Noche de paz de dominio público?
 
-La letra y la melodía que cantamos son de dominio público. Joseph Mohr, autor de la letra alemana, murió en 1848, y Franz Xaver Gruber, autor de la melodía, en 1863 [^sng-time][^hymnarchive]. Nuestra letra española se imprimió sin firma en Nueva York en 1893 y se revisó en 1915; Federico Fliedner, a quien se suele atribuir, murió en 1901 [^h1893][^h1915][^ndb]. Las estrofas posteriores, como las de Flor y Canto (2011), y los arreglos modernos pueden tener sus propios derechos [^hymnary-fyc]. Nuestro arreglo es nuestro.
+Sí: la letra y la melodía que cantamos son de dominio público. Joseph Mohr, autor de la letra alemana, murió en 1848, y Franz Xaver Gruber, autor de la melodía, en 1863 [^sng-time][^hymnarchive]. Nuestra letra española se imprimió sin firma en Nueva York en 1893 y se revisó en 1915; Federico Fliedner, a quien se suele atribuir, murió en 1901 [^h1893][^h1915][^ndb]. Las estrofas posteriores, como las de Flor y Canto (2011), y los arreglos modernos pueden tener sus propios derechos [^hymnary-fyc]. Nuestro arreglo es nuestro.
 
 ### ¿Se escribió porque se rompió el órgano?
 
