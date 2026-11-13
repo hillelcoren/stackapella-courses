@@ -138,6 +138,22 @@ No one knows for certain. The earliest known printing, in a New York hymnal of 1
 
 The song is Austrian. Joseph Mohr wrote the German words in 1816, and Franz Xaver Gruber the tune in 1818 in Oberndorf, near Salzburg [^sng-time][^hymnarchive]. The Spanish words are first known from a hymnal printed in New York in 1893 by the American Tract Society for Spanish-speaking churches [^h1893][^h1893-preface].
 
+### What does Noche de paz mean?
+
+It is a Christmas song about the night Jesus was born. In verse 1 everything sleeps and the star of peace announces the child; in verse 2 choirs from heaven bring the shepherds the news of salvation, as in Luke's Gospel [^luke2]; in verse 3 light shines on the child's face in the manger, the Light of the world of John's Gospel [^john8]. It is a free Spanish version of Silent Night, not a line-by-line translation [^h1893][^mohr-ms][^young].
+
+### When is Noche de paz sung?
+
+At Christmas, above all on Christmas Eve: the song was first sung at the Christmas Eve Mass of 1818 in Oberndorf [^sng-time][^hymnarchive]. Hymnals print it among their Christmas songs; the Spanish-language hymnal of 1907 files it under "Navidad", Christmas [^h1907]. In Oberndorf, every 24 December at five in the afternoon, a gathering by the Silent Night Chapel honours its makers, and people come from many countries to hear and sing it [^salzburgerland][^salzburginfo].
+
+### Is Noche de paz public domain?
+
+Yes, the words and tune we sing are. Joseph Mohr, who wrote the German words, died in 1848, and Franz Xaver Gruber, who wrote the tune, in 1863 [^sng-time][^hymnarchive]. Our Spanish words were printed unsigned in New York in 1893 and revised in 1915; Federico Fliedner, the usual credit, died in 1901 [^h1893][^h1915][^ndb]. Later verses, such as those in Flor y Canto (2011), and modern arrangements can carry their own rights [^hymnary-fyc]. Our arrangement is our own.
+
+### Was it written because the organ broke?
+
+No record says so. Gruber's own account, written in 1854, gives no reason for the guitar, and the mice said to have chewed the organ's bellows are a later embroidery [^hymnarchive]. The [Silent Night](/songs/silent-night) page tells the whole story.
+
 ### Which part sings the tune?
 
 The soprano sings Gruber's tune as the 1893 Spanish hymnal prints it. With two singers you have the tune and the alto; with three, add the bass on "oo"; the tenor makes four. The tune runs from low C to high F, so take the edges gently, or move the key.
@@ -168,6 +184,8 @@ The soprano sings Gruber's tune as the 1893 Spanish hymnal prints it. With two s
 - [^dbclm]: Enrique Sánchez Lubián, "Friedrich Fliedner Bertheau", *Diccionario biográfico de Castilla-La Mancha* (in Spanish). https://diccionariobiograficodecastillalamancha.es/biografias/friedrich-fliedner-bertheau/
 - [^eldebate]: Fernando Carratalá, "'Noche de paz', el villancico que entonaron soldados rivales en la Navidad de la Primera Guerra Mundial", *El Debate* (26 December 2023), in Spanish. https://www.eldebate.com/religion/20231226/noche-paz-villancico-entonaron-soldados-rivales-navidad-primera-guerra-mundial_162271.html
 - [^cyber2009]: The Cyber Hymnal, *Noche de paz, noche de amor*, as archived by the Internet Archive on 8 March 2009: "traductor desconocido". https://web.archive.org/web/20090308132026/http://www.cyberhymnal.org/non/es/nochepaz.htm
+- [^salzburgerland]: SalzburgerLand Tourismus, *Oberndorf bei Salzburg* (in German): every year on Christmas Eve at 5 p.m. by the chapel, to hear and sing "Stille Nacht! Heilige Nacht!". https://www.salzburgerland.com/de/oberndorf-stille-nacht/
+- [^salzburginfo]: Tourismus Salzburg, *Stille Nacht Museum Oberndorf* (in German): "Jedes Jahr am 24. Dezember um 17.00 Uhr" a commemoration in honour of the song's makers. https://salzburg.info/de/sehenswertes/ausflugsziele/stille-nacht-museum-oberndorf
 - [^sng-time]: Stille Nacht Gesellschaft (Silent Night Association), *Research Timetable*. https://www.stillenacht.at/en/research/timetable
 - [^sng-text]: Stille Nacht Gesellschaft, *Text and Music* (the autographs and the six verses). https://www.stillenacht.at/en/text-and-music
 - [^hymnarchive]: Hymnology Archive, *Stille Nacht / Silent Night*. https://www.hymnologyarchive.com/stille-nacht-silent-night

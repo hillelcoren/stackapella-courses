@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: oh ven oh ven emanuel historia | oh ven oh ven emanuel significado | quién escribió o come o come emmanuel | o come o come emmanuel significado | veni veni emmanuel significado | veni veni emmanuel letra en latín
-translatedFrom: 6d3c19090b6f
+translatedFrom: 6c8927c58d36
 original: The Hymnal Noted, Part II (Londres, 1856; una impresión posterior), página 131, la melodía con el inglés revisado de Neale | https://archive.org/details/bub_gb_2E3Dya5ON5oC/page/n143/mode/1up
 ---
 
@@ -238,6 +238,18 @@ Es un himno de Adviento, para las semanas de espera antes de Navidad más que pa
 
 Porque su letra viene de las antífonas de la O, que llaman al Mesías que ha de venir con títulos del Antiguo Testamento [^ce-oant][^pocknee]. La primera estrofa presenta a Israel como un pueblo cautivo en el destierro, que espera al niño que prometió Isaías: "la virgen concebirá, y parirá hijo, y llamará su nombre Emmanuel" (Isaías 7:14) [^kjv]. El Evangelio de Mateo aplica esa promesa a Jesús [^kjv].
 
+### ¿Qué significa "ransom captive Israel"? ¿Es una canción judía?
+
+"Ransom" un cautivo es pagar el precio que lo deja libre, rescatarlo [^webster-ransom]. La estrofa presenta a Israel en el destierro, esperando al Emmanuel prometido, "Dios con nosotros", a quien el Evangelio de Mateo identifica con Jesús [^kjv]. Es un himno cristiano, no judío: su latín pone en verso las antífonas de la O de la Iglesia y se imprimió en un cancionero católico de Colonia en 1710 [^ce-oant][^psalteriolum1710][^pocknee]. Los cristianos cantan la espera de Israel como propia; en palabras de Hymnology Archive, "just as Israel waited for its Messiah, we also wait for his return", así como Israel esperó a su Mesías, también nosotros esperamos su regreso [^ha].
+
+### ¿Por qué O Come, O Come, Emmanuel está en tono menor?
+
+Porque su melodía es un canto llano, de un manuscrito francés del siglo XV o de hacia 1500, en uno de los antiguos modos eclesiásticos: el Psalter Hymnal Handbook lo llama dórico, un modo cercano al menor [^pocknee][^hymnary-tune]. Hymns Ancient and Modern lo imprime en Mi menor, y nuestro arreglo conserva la armonía de W. H. Monk de 1861, aunque Monk termina en un acorde luminoso de Mi mayor [^ham1861][^hamrev]. En nuestro arreglo, el primer "Rejoice!" del estribillo sube a la nota más aguda de la melodía.
+
+### ¿Es O Come, O Come, Emmanuel de dominio público?
+
+Sí. El himno latino es anónimo, impreso ya en 1710 [^psalteriolum1710][^julian]. John Mason Neale, que lo tradujo, murió en 1866; Thomas Helmore, que adaptó la melodía, en 1890; y W. H. Monk, cuya armonía leemos, en 1889 [^canterbury-neale][^canterbury-helmore][^canterbury-monk][^julian]. Nuestro arreglo es nuestro, adaptado de las cuatro voces de Monk; las traducciones y arreglos modernos de otros pueden tener sus propios derechos.
+
 ## Canta después
 
 - [Good King Wenceslas](/songs/good-king-wenceslas): letra de Neale con la melodía tal como la arregló Helmore, los dos hombres detrás de la impresión de este himno en 1856.
@@ -267,7 +279,7 @@ Porque su letra viene de las antífonas de la O, que llaman al Mesías que ha de
 - [^canterbury-baker]: *The Canterbury Dictionary of Hymnology* (Canterbury Press, 2013), "Henry Williams Baker", extracto abierto. https://hymnology.hymnsam.co.uk/h/henry-williams-baker
 - [^rankin]: Susan Rankin, "Mary Berry (1917-2008)", *Plainsong and Medieval Music*, vol. 18, n.º 1 (2009), pp. 1 a 10, con una entrada bibliográfica de Mother Thomas More, "O Come O Come Emmanuel", *The Musical Times*, vol. 107 (septiembre de 1966), p. 772. https://doi.org/10.1017/S096113710900093X
 - [^gdc]: Gloriae Dei Cantores, "Dr. Mary Berry", página del consejo de referencia. https://gdcchoir.org/about/board-of-reference/dr-mary-berry/
-- [^hymnary-tune]: Hymnary.org, "VENI EMMANUEL" (melodía), notas sobre la melodía. https://hymnary.org/tune/veni_emmanuel
+- [^hymnary-tune]: Hymnary.org, "VENI EMMANUEL" (melodía), notas sobre la melodía, del Psalter Hymnal Handbook: "VENI IMMANUEL is in the Dorian mode". https://hymnary.org/tune/veni_emmanuel
 - [^luyh]: Sitio web del himnario *Lift Up Your Hearts*, "O Come, O Come, Emmanuel", créditos de letra y música. https://liftupyourheartshymnal.org/node/676
 - [^kjv]: *The Holy Bible, King James Version* (1611), Isaías 7:14, 11:1 y 22:22; Rut 4:22; Éxodo 19:16 a 20; Mateo 1:23; Lucas 1:46 y 1:78; Project Gutenberg, libro electrónico n.º 10; las citas en español, de la Reina-Valera de 1909. https://www.gutenberg.org/ebooks/10
 - [^webster-ransom]: Noah Webster, *An American Dictionary of the English Language* (1828), "Ransom", sustantivo, acepción 1. https://webstersdictionary1828.com/Dictionary/ransom

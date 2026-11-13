@@ -144,9 +144,17 @@ Nobody knows. The words are traditional; their earliest known printings are Birm
 
 No. Its words are Christian all through: each verse matches a part of the holly with Jesus's birth or death [^sharp1911][^wrighton]. The custom behind it is older: English houses and churches were decked with holly and ivy at Christmas [^stow][^sylvester1861]. In 1861 Joshua Sylvester called decking with evergreens a survival from pagan times, but no text of this carol is known before the early 1800s [^sylvester1861][^glostrad-song][^palmer-w].
 
+### What do the holly and the ivy stand for?
+
+In this carol the holly stands for Jesus: its white flower for his birth, its red berry for his blood, its prickle for the crown of thorns, its bitter bark for the gall he was offered on the cross [^sharp1911][^kjv]. The ivy is named only in the first line [^sharp1911]. In older songs the two were rivals, holly the men's plant and ivy the women's, and "Holly must have the mastry" [^chambers1907][^balladindex]. Both are evergreens that decked English houses and churches at Christmas [^stow][^sylvester1861].
+
 ### What does "the holly bears the crown" mean?
 
 It means the holly wins: of all the trees in the wood, it takes the crown, the old sign of a victor's prize [^webster1913]. It echoes medieval songs in which holly and ivy fight for the mastery and the holly wins [^chambers1907]. Here the winner becomes a picture of Jesus, and its prickles recall his crown of thorns [^sharp1911][^kjv].
+
+### Is The Holly and the Ivy a hymn, and is it public domain?
+
+It is a Christmas carol that hymnbooks also print; the Canterbury Dictionary of Hymnology calls it "a carol rather than a hymn" [^canterbury][^hymnary]. Its words and tune are traditional, with no known author: the words were in print by the early 1800s, and the tune was noted from Mary Clayton in 1909 [^wrighton][^palmer-w][^fees1988]. Cecil Sharp, who printed it in 1911, died in 1924 [^sharp1911][^sutcliffe-sharp][^penn-sharp]. Our alto, tenor and bass are our own; other modern arrangements can carry their own rights.
 
 ## Sing next
 

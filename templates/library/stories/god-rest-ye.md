@@ -167,9 +167,21 @@ Our arrangement reads Stainer's four parts for No. 1 in a printing of the 1870s,
 
 After "merry": "God rest you merry, gentlemen." The phrase is "rest you merry", stay merry, and "gentlemen" are the people addressed [^ned-rest][^rolfe]. Old printers disagreed: the Bow Church Yard sheet of about 1760 and William Sandys in 1833 put it after "merry", while William Hone's list of 1823 and Bramley and Stainer's book put it after "you" [^ecco1760][^sandys1833][^hone1823][^bramley].
 
+### Is it "God rest ye" or "God rest you", or "God bless ye"?
+
+The old printings say "you": the sheet of about 1760, Hone's list of 1823, Sandys in 1833 and Bramley and Stainer in 1867 all have "God rest you merry" [^ecco1760][^hone1823][^sandys1833][^bramley]. "Ye" is the older-sounding form many sing now, with the same meaning; our title keeps it, and we sing "you". "God bless you" is a different greeting: it is how the caroller at Scrooge's keyhole sings it in Dickens's A Christmas Carol of 1843 [^dickens-mcgill]. "God rest you merry" means "God keep you merry" [^ned-rest][^rolfe].
+
 ### Who originally wrote God Rest Ye Merry Gentlemen?
 
 Nobody knows. Hymns and Carols of Christmas reports a text called "Sit You, Merry Gentlemen" in a Bodleian manuscript of about 1650 [^hcc-notes]; the earliest known printings, broadsides of the 1700s, name no author, and a modern dictionary of hymns calls it anonymous and British [^ebba][^ecco1760][^canterbury]. The tune is traditional too: the earliest copy William Chappell had seen was in the hand of the composer James Nares, who died in 1783 [^chappell][^grove-nares][^dnb-nares]. Bramley and Stainer's book of 1867 standardized the version most people know [^bramley][^cam-blog][^hcc-notes].
+
+### Is God Rest Ye Merry, Gentlemen a Christian carol, a hymn, or pagan?
+
+It is a Christian Christmas carol: its verses tell the Nativity as Luke's Gospel does, with the angel, the shepherds and the manger [^kjv]. Its earliest known copies, broadsides of the 1700s, are already Christian [^ebba][^ecco1760]. It began as a street song and a "luck-visit song", sung by visitors at a house, rather than a church hymn, though hymnals print it now, The Hymnal 1982 as No. 105 [^sandys1833][^canterbury][^h82]. No record shows a pagan version.
+
+### Is God Rest Ye Merry, Gentlemen public domain?
+
+Yes. Its words and tune are traditional and anonymous, printed on broadsides in the 1700s [^ebba][^ecco1760]. The version we read is Bramley and Stainer's of 1867: Henry Ramsden Bramley died in 1917, and John Stainer in 1901 [^bramley][^canterbury-bramley][^hymnary-bramley][^hymnarchive-stainer][^dnb-stainer]. Our arrangement is our own, adapted from Stainer's four parts; modern arrangements by others can carry their own rights.
 
 ### Which part sings the tune?
 
@@ -186,6 +198,9 @@ The soprano sings the tune in our arrangement. With two singers you have the tun
 - [^bramley]: H. R. Bramley and John Stainer, *Christmas Carols New and Old*, first series (London: Novello, Ewer and Co., undated; a printing of the 1870s, University of California Libraries copy), title page, preface and No. 1, "God rest you, merry Gentlemen", pp. 2 to 3. https://archive.org/details/christmascarolsn00staiiala
 - [^hcc-bs]: Hymns and Carols of Christmas, *Bramley and Stainer, Christmas Carols New and Old*, quoting Joseph Bennett, *A Short History of Cheap Music* (Novello, 1887), p. 113. https://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/Images/Bramley_Stainer/bramley_and_stainer.htm
 - [^hymnarchive-stainer]: Chris Fenner, *John Stainer*, Hymnology Archive, its list of editions and of Musical Times reviews. https://www.hymnologyarchive.com/john-stainer
+- [^canterbury-bramley]: *The Canterbury Dictionary of Hymnology* (Canterbury Press, 2013), "Henry Ramsden Bramley", open excerpt: "b. 4 June 1833; d. 28 January 1917". https://hymnology.hymnsam.co.uk/h/henry-ramsden-bramley
+- [^hymnary-bramley]: Hymnary.org, *Henry Ramsden Bramley* ("Bramley, Henry Ramsden, 1833-1917"). https://hymnary.org/person/Bramley_HR
+- [^dnb-stainer]: W. G. McNaught, "Stainer, Sir John", *Dictionary of National Biography*, 1912 supplement (London: Smith, Elder, 1912): "He died suddenly at Verona on 31 March 1901", at Wikisource. https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Stainer,_John
 - [^mt1867]: *The Musical Times*, vol. 13, no. 298 (London: Novello, 1 December 1867), Novello's list "During the last month", "Twenty Christmas Carols, Old and New". https://archive.org/details/sim_musical-times_1867-12-01_13_298
 - [^mt1868]: *The Musical Times*, vol. 13, no. 310 (1 December 1868), p. 616, review of *Christmas Carols, New and Old*. https://archive.org/details/jstor-3352356
 - [^cam-blog]: William Hale, Cambridge University Library Special Collections, *The Christmas Carol in Print* (blog post, 13 December 2019, updated 24 July 2023). https://specialcollections-blog.lib.cam.ac.uk/?p=19504

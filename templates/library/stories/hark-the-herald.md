@@ -162,11 +162,19 @@ Our arrangement reads the four parts of the hymnal's 1875 standard edition, in G
 
 ### What does Hark the Herald Angels Sing mean?
 
-It means "Listen! The angels who bring the news are singing." "Hark" is an old word for listen, and a herald is one who proclaims news [^webster]. The angels are those of Luke's Gospel, who appear to shepherds near Bethlehem and sing "Glory to God in the highest, and on earth peace" [^kjv].
+It means "Listen! The angels who bring the news are singing." "Hark" is an old word for listen, and a herald is one who proclaims news [^webster]. The angels are those of Luke's Gospel, who appear to shepherds near Bethlehem and sing "Glory to God in the highest, and on earth peace" [^kjv]. "Peace on earth, and mercy mild" is that peace with God's gentle mercy, so that "God and sinners" are "reconciled", made friends again [^kjv]. In verse 2, "Late in time behold Him come" means that Christ comes at last, after long ages of waiting.
 
 ### What does Harold mean in Hark the Herald Angels Sing?
 
 There is no Harold in it: the word is "herald", which sounds the same. A herald was an officer who proclaimed war or peace and carried a commander's messages [^webster]. Here the heralds are angels announcing Christ's birth. The line is George Whitefield's of 1753; Wesley's began "Hark how all the welkin rings", the welkin being the sky [^duke-hsp][^julian][^webster].
+
+### Is Hark the Herald Angels Sing a Catholic hymn, and is it public domain?
+
+It is not Catholic in origin, but Catholics sing it too. Charles Wesley was a Church of England priest, ordained in 1735, who said near his death that he died in its communion [^hymnary-wesley]. Catholic hymnals now print it, among them the Catholic Book of Worship III (1994, No. 323) and Gather Comprehensive (1994, No. 348) [^hymnary-text]. It is in the public domain: Wesley died in 1788, Whitefield in 1770 and Madan in 1790, and Mendelssohn, who died in 1847, wrote the tune in 1840, printed with these words in 1856 [^duke-hsp][^julian][^hymnary-mendelssohn][^mt1897]. Our arrangement is our own, read from the 1875 hymnal.
+
+### Is there a descant?
+
+Not in ours: our arrangement sings the four parts of the 1875 Hymns Ancient and Modern, with the soprano on the tune [^ham1875]. The descant many choirs sing is David Willcocks's, from Carols for Choirs, published by Oxford University Press in 1961; hymnals that print it credit it as copyright 1961, Oxford University Press, used by permission, so it is not sung here [^ph1990][^musicanet][^oupblog].
 
 ### Which part sings the tune?
 
@@ -188,8 +196,12 @@ The soprano sings Mendelssohn's tune in our arrangement. With two singers you ha
 - [^wf1753]: George Whitefield, *A Collection of Hymns for Social Worship* (London, 1753), Hymn XXXI. https://archive.org/details/bim_eighteenth-century_a-collection-of-hymns-fo_whitefield-george_1753
 - [^canterbury]: "Hark! the herald angels sing", *The Canterbury Dictionary of Hymnology* (Canterbury Press, 2013), open excerpt. https://hymnology.hymnsam.co.uk/h/hark!-the-herald-angels-sing
 - [^hymnarchive]: Chris Fenner, *Hark how all the welkin rings*, Hymnology Archive (2018, revised 2022). https://www.hymnologyarchive.com/hark-the-herald-angels
-- [^hymnary-text]: Hymnary.org, *Hark! The Herald Angels Sing* (text). https://hymnary.org/text/hark_the_herald_angels_sing_glory_to
+- [^hymnary-text]: Hymnary.org, *Hark! The Herald Angels Sing* (text), with its list of hymnals: Catholic Book of Worship III (1994) No. 323, Gather Comprehensive (1994) No. 348. https://hymnary.org/text/hark_the_herald_angels_sing_glory_to
 - [^hymnary-tune]: Hymnary.org, *MENDELSSOHN* (tune). https://hymnary.org/tune/mendelssohn_mendelssohn
+- [^hymnary-wesley]: Hymnary.org, *Charles Wesley* (biography, from Julian's *Dictionary of Hymnology*): "received Deacon's and Priest's Orders on two successive Sundays" in 1735, and "I have lived, and I die, in the Communion of the Church of England". https://hymnary.org/person/Wesley_Charles
+- [^ph1990]: Hymnary.org, *The Presbyterian Hymnal* (Westminster/John Knox, 1990), No. 32, "Hark! The Herald Angels Sing": "Descant with accompaniment from Carols for Choirs" by David Willcocks (1961), "(c) 1961, Oxford University Press". https://hymnary.org/hymn/PH1990/32
+- [^musicanet]: Musicanet, *Hark! The herald angels sing*, arr. David Willcocks (1919-2015), in *Carols for Choirs 1: 50 Christmas Carols* (Oxford University Press, 1961). https://www.musicanet.org/bdd/en/score/71193-hark--the-herald-angels-sing-david-willcocks
+- [^oupblog]: Oxford University Press Sheet Music team, "Carols for Choirs: the journey to press", OUPblog (7 December 2021): published "on 24 August 1961", with "several with powerful descants and last verse arrangements by Willcocks". https://blog.oup.com/?p=147229
 - [^hymnary-light]: Hymnary.org, *Jesus, the Light of the World* (text). https://hymnary.org/text/hark_the_herald_angels_sing_jesus_the
 - [^hymnary-oid]: Hymnary.org, *Oíd un son en alta esfera* (text), Federico Fliedner's Spanish translation, in 39 hymnals. https://hymnary.org/text/oid_un_son_en_alta_esfera
 - [^singpraises]: SingPraises.net, *Federico Fliedner* (songs indexed), "Oíd un son en alta esfera", translator, in the Himnario (RLDS) of 1964, No. 53. https://singpraises.net/people/6226/federico-fliedner

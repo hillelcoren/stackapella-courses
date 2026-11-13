@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: god rest ye merry gentlemen historia | god rest ye merry gentlemen significado | quién escribió god rest ye merry gentlemen | god rest ye merry gentlemen dónde va la coma | god rest ye merry gentlemen letra original
-translatedFrom: baf09727c601
+translatedFrom: d54c8b3beea0
 listen: Internet Archive, grabación de 1917 | https://archive.org/details/edison-50447_01_5677 || Internet Archive, grabación de 1923 | https://archive.org/details/78_god-rest-ye-merry-gentlemen_champion-quartette_gbia0535287a
 original: Four Choice Carols for Christmas Holidays (hacia 1700), English Broadside Ballad Archive | https://ebba.english.ucsb.edu/ballad/31130/citation || Three New Christmas Carols (hacia 1760), Internet Archive | https://archive.org/details/bim_eighteenth-century_three-new-christmas-caro_1760
 ---
@@ -212,9 +212,21 @@ Nuestro arreglo toma las cuatro voces de Stainer para el n.º 1 en una impresió
 
 Después de "merry": "God rest you merry, gentlemen." La expresión es "rest you merry", seguir alegres, y los "gentlemen" son las personas a las que se habla [^ned-rest][^rolfe]. Los impresores antiguos no estaban de acuerdo: la hoja de Bow Church Yard de hacia 1760 y William Sandys en 1833 la pusieron después de "merry", mientras que la lista de William Hone de 1823 y el libro de Bramley y Stainer la ponen después de "you" [^ecco1760][^sandys1833][^hone1823][^bramley].
 
+### ¿Es "God rest ye" o "God rest you", o "God bless ye"?
+
+Las impresiones antiguas dicen "you": la hoja de hacia 1760, la lista de Hone de 1823, Sandys en 1833 y Bramley y Stainer en 1867 traen todas "God rest you merry" [^ecco1760][^hone1823][^sandys1833][^bramley]. "Ye" es la forma de sonido más antiguo que muchos cantan hoy, con el mismo significado; nuestro título la conserva, y cantamos "you". "God bless you" es otro saludo: así lo canta el joven cantor ante la cerradura de Scrooge en Cuento de Navidad (A Christmas Carol), de Dickens, en 1843 [^dickens-mcgill]. "God rest you merry" quiere decir "God keep you merry", que Dios los guarde alegres [^ned-rest][^rolfe].
+
 ### ¿Quién escribió originalmente God Rest Ye Merry Gentlemen?
 
 Nadie lo sabe. Hymns and Carols of Christmas da noticia de un texto llamado "Sit You, Merry Gentlemen" en un manuscrito de la Bodleiana de hacia 1650 [^hcc-notes]; las primeras impresiones conocidas, hojas sueltas del siglo XVIII, no nombran a ningún autor, y un diccionario moderno de himnos lo considera anónimo y británico [^ebba][^ecco1760][^canterbury]. La melodía también es tradicional: la copia más antigua que había visto William Chappell estaba escrita de mano del compositor James Nares, que murió en 1783 [^chappell][^grove-nares][^dnb-nares]. El libro de Bramley y Stainer de 1867 fijó la versión que conoce casi todo el mundo [^bramley][^cam-blog][^hcc-notes].
+
+### ¿Es God Rest Ye Merry, Gentlemen un villancico cristiano, un himno o una canción pagana?
+
+Es un villancico cristiano de Navidad: sus estrofas cuentan el nacimiento de Jesús como el Evangelio de Lucas, con el ángel, los pastores y el pesebre [^kjv]. Sus primeras copias conocidas, hojas sueltas del siglo XVIII, ya son cristianas [^ebba][^ecco1760]. Nació como canción de la calle y como "luck-visit song", la que cantaban quienes visitaban una casa, más que como himno de iglesia, aunque hoy lo imprimen los himnarios, The Hymnal 1982 como n.º 105 [^sandys1833][^canterbury][^h82]. Ningún documento muestra una versión pagana.
+
+### ¿Es God Rest Ye Merry, Gentlemen de dominio público?
+
+Sí. Su letra y su melodía son tradicionales y anónimas, impresas en hojas sueltas en el siglo XVIII [^ebba][^ecco1760]. La versión que leemos es la de Bramley y Stainer de 1867: Henry Ramsden Bramley murió en 1917, y John Stainer en 1901 [^bramley][^canterbury-bramley][^hymnary-bramley][^hymnarchive-stainer][^dnb-stainer]. Nuestro arreglo es nuestro, adaptado de las cuatro voces de Stainer; los arreglos modernos de otros pueden tener sus propios derechos.
 
 ### ¿Qué voz canta la melodía?
 
@@ -231,6 +243,9 @@ En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la me
 - [^bramley]: H. R. Bramley y John Stainer, *Christmas Carols New and Old*, primera serie (Londres: Novello, Ewer and Co., sin fecha; una impresión de la década de 1870, ejemplar de las University of California Libraries), portada, prefacio y n.º 1, "God rest you, merry Gentlemen", pp. 2 a 3. https://archive.org/details/christmascarolsn00staiiala
 - [^hcc-bs]: Hymns and Carols of Christmas, *Bramley and Stainer, Christmas Carols New and Old*, cita a Joseph Bennett, *A Short History of Cheap Music* (Novello, 1887), p. 113. https://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/Images/Bramley_Stainer/bramley_and_stainer.htm
 - [^hymnarchive-stainer]: Chris Fenner, *John Stainer*, Hymnology Archive, su lista de ediciones y de reseñas del Musical Times. https://www.hymnologyarchive.com/john-stainer
+- [^canterbury-bramley]: *The Canterbury Dictionary of Hymnology* (Canterbury Press, 2013), "Henry Ramsden Bramley", extracto abierto: "b. 4 June 1833; d. 28 January 1917". https://hymnology.hymnsam.co.uk/h/henry-ramsden-bramley
+- [^hymnary-bramley]: Hymnary.org, *Henry Ramsden Bramley* ("Bramley, Henry Ramsden, 1833-1917"). https://hymnary.org/person/Bramley_HR
+- [^dnb-stainer]: W. G. McNaught, "Stainer, Sir John", *Dictionary of National Biography*, suplemento de 1912 (Londres: Smith, Elder, 1912): "He died suddenly at Verona on 31 March 1901", en Wikisource. https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Stainer,_John
 - [^mt1867]: *The Musical Times*, vol. 13, n.º 298 (Londres: Novello, 1 de diciembre de 1867), la lista de Novello "During the last month", "Twenty Christmas Carols, Old and New". https://archive.org/details/sim_musical-times_1867-12-01_13_298
 - [^mt1868]: *The Musical Times*, vol. 13, n.º 310 (1 de diciembre de 1868), p. 616, reseña de *Christmas Carols, New and Old*. https://archive.org/details/jstor-3352356
 - [^cam-blog]: William Hale, Cambridge University Library Special Collections, *The Christmas Carol in Print* (entrada de blog, 13 de diciembre de 2019, actualizada el 24 de julio de 2023). https://specialcollections-blog.lib.cam.ac.uk/?p=19504

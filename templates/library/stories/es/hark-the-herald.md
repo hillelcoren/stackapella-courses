@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: hark the herald angels sing historia | quién escribió hark the herald angels sing | hark the herald angels sing significado | qué significa herald en hark the herald angels sing | quién compuso la melodía de hark the herald angels sing | oíd un son en alta esfera
-translatedFrom: 76555d278851
+translatedFrom: 6e61e177ceb0
 listen: National Jukebox, grabación de 1919 | https://www.loc.gov/item/jukebox-661398/ || National Jukebox, grabación de 1911 | https://www.loc.gov/item/jukebox-130938/
 original: Hymns and Sacred Poems (1739, segunda edición), Internet Archive | https://archive.org/details/bim_eighteenth-century_hymns-and-sacred-poems-_wesley-john_1739_1/page/n219
 ---
@@ -209,11 +209,19 @@ Nuestro arreglo toma las cuatro voces de la edición estándar de 1875 del himna
 
 ### ¿Qué significa Hark the Herald Angels Sing?
 
-Significa "¡Escucha! Cantan los ángeles que traen la noticia". "Hark" es una palabra antigua para escuchar, y un "herald", un heraldo, es quien proclama noticias [^webster]. Los ángeles son los del Evangelio de Lucas, que se aparecen a los pastores cerca de Belén y cantan "Glory to God in the highest, and on earth peace" (Gloria en las alturas á Dios, Y en la tierra paz) [^kjv].
+Significa "¡Escucha! Cantan los ángeles que traen la noticia". "Hark" es una palabra antigua para escuchar, y un "herald", un heraldo, es quien proclama noticias [^webster]. Los ángeles son los del Evangelio de Lucas, que se aparecen a los pastores cerca de Belén y cantan "Glory to God in the highest, and on earth peace" (Gloria en las alturas á Dios, Y en la tierra paz) [^kjv]. "Peace on earth, and mercy mild" es esa paz junto con la misericordia mansa de Dios, para que "God and sinners" (Dios y los pecadores) queden "reconciled", reconciliados, amigos otra vez [^kjv]. En la estrofa 2, "Late in time behold Him come" quiere decir que Cristo llega por fin, tras largos siglos de espera.
 
 ### ¿Qué significa "Harold" en Hark the Herald Angels Sing?
 
 No hay ningún Harold: la palabra es "herald", que en inglés suena igual. Un "herald", un heraldo, era un oficial que proclamaba la guerra o la paz y llevaba los mensajes de un jefe [^webster]. Aquí los heraldos son ángeles que anuncian el nacimiento de Cristo. El verso es de George Whitefield, de 1753; el de Wesley empezaba "Hark how all the welkin rings", y el "welkin" es el cielo [^duke-hsp][^julian][^webster].
+
+### ¿Es Hark the Herald Angels Sing un himno católico? ¿Es de dominio público?
+
+No es católico de origen, pero los católicos también lo cantan. Charles Wesley era sacerdote de la Iglesia de Inglaterra, ordenado en 1735, y cerca de su muerte dijo que moría en su comunión [^hymnary-wesley]. Hoy lo imprimen himnarios católicos, entre ellos el Catholic Book of Worship III (1994, n.º 323) y Gather Comprehensive (1994, n.º 348) [^hymnary-text]. Es de dominio público: Wesley murió en 1788, Whitefield en 1770 y Madan en 1790, y Mendelssohn, que murió en 1847, escribió la melodía en 1840, impresa con esta letra en 1856 [^duke-hsp][^julian][^hymnary-mendelssohn][^mt1897]. Nuestro arreglo es nuestro, leído del himnario de 1875.
+
+### ¿Tiene contracanto agudo?
+
+El nuestro no: nuestro arreglo canta las cuatro voces del Hymns Ancient and Modern de 1875, con la soprano en la melodía [^ham1875]. El contracanto agudo que cantan muchos coros es de David Willcocks, de Carols for Choirs, publicado por Oxford University Press en 1961; los himnarios que lo imprimen lo acreditan como copyright 1961 de Oxford University Press, usado con permiso, así que aquí no se canta [^ph1990][^musicanet][^oupblog].
 
 ### ¿Qué voz canta la melodía?
 
@@ -235,8 +243,12 @@ En nuestro arreglo, la soprano canta la melodía de Mendelssohn. Con dos cantant
 - [^wf1753]: George Whitefield, *A Collection of Hymns for Social Worship* (Londres, 1753), himno XXXI. https://archive.org/details/bim_eighteenth-century_a-collection-of-hymns-fo_whitefield-george_1753
 - [^canterbury]: "Hark! the herald angels sing", *The Canterbury Dictionary of Hymnology* (Canterbury Press, 2013), extracto abierto. https://hymnology.hymnsam.co.uk/h/hark!-the-herald-angels-sing
 - [^hymnarchive]: Chris Fenner, *Hark how all the welkin rings*, Hymnology Archive (2018, revisado en 2022). https://www.hymnologyarchive.com/hark-the-herald-angels
-- [^hymnary-text]: Hymnary.org, *Hark! The Herald Angels Sing* (texto). https://hymnary.org/text/hark_the_herald_angels_sing_glory_to
+- [^hymnary-text]: Hymnary.org, *Hark! The Herald Angels Sing* (texto), con su lista de himnarios: Catholic Book of Worship III (1994) n.º 323, Gather Comprehensive (1994) n.º 348. https://hymnary.org/text/hark_the_herald_angels_sing_glory_to
 - [^hymnary-tune]: Hymnary.org, *MENDELSSOHN* (melodía). https://hymnary.org/tune/mendelssohn_mendelssohn
+- [^hymnary-wesley]: Hymnary.org, *Charles Wesley* (biografía, del *Dictionary of Hymnology* de Julian): "received Deacon's and Priest's Orders on two successive Sundays" en 1735, y "I have lived, and I die, in the Communion of the Church of England". https://hymnary.org/person/Wesley_Charles
+- [^ph1990]: Hymnary.org, *The Presbyterian Hymnal* (Westminster/John Knox, 1990), n.º 32, "Hark! The Herald Angels Sing": "Descant with accompaniment from Carols for Choirs" de David Willcocks (1961), "(c) 1961, Oxford University Press". https://hymnary.org/hymn/PH1990/32
+- [^musicanet]: Musicanet, *Hark! The herald angels sing*, arr. David Willcocks (1919-2015), en *Carols for Choirs 1: 50 Christmas Carols* (Oxford University Press, 1961). https://www.musicanet.org/bdd/en/score/71193-hark--the-herald-angels-sing-david-willcocks
+- [^oupblog]: Equipo de Sheet Music de Oxford University Press, "Carols for Choirs: the journey to press", OUPblog (7 de diciembre de 2021): publicado "on 24 August 1961", con "several with powerful descants and last verse arrangements by Willcocks". https://blog.oup.com/?p=147229
 - [^hymnary-light]: Hymnary.org, *Jesus, the Light of the World* (texto). https://hymnary.org/text/hark_the_herald_angels_sing_jesus_the
 - [^hymnary-oid]: Hymnary.org, *Oíd un son en alta esfera* (texto), traducción al español de Federico Fliedner, en 39 himnarios. https://hymnary.org/text/oid_un_son_en_alta_esfera
 - [^singpraises]: SingPraises.net, *Federico Fliedner* (cantos indexados), "Oíd un son en alta esfera", traductor, en el Himnario (RLDS) de 1964, n.º 53. https://singpraises.net/people/6226/federico-fliedner

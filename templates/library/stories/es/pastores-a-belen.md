@@ -15,7 +15,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: pastores a belén | pastores a belén letra | pastores a belén significado | pastores a belén autor | pastores a belén puerto rico | pastores a belén letra completa
-translatedFrom: 103fb8df8900
+translatedFrom: 29ac517c23f7
 original: Cánticos espirituales, 1916, Internet Archive | https://archive.org/details/b19151652/page/n19
 ---
 
@@ -110,6 +110,10 @@ No se nombra a nadie. La impresión más antigua que hemos visto, en un cancione
 ### ¿Pastores a Belén es de Puerto Rico?
 
 No, según los documentos. Desde 1986, varios himnarios imprimen un villancico puertorriqueño que empieza con el mismo verso, pero su estribillo y su melodía son distintos, y su letra en español lleva un copyright de 1949 [^hymnary-text][^hymnary-tune][^nch1995]. La canción que cantamos es la impresa en Las Vegas, Nuevo México, en 1916, que no nombra ningún lugar de origen, solo que la gente de su región la cantaba [^canticos1916][^canticos1916-note]. No se sabe dónde empezó ninguna de las dos.
+
+### ¿Cuál de los "Pastores a Belén" es este?
+
+El nuestro es el villancico que empieza "Pastores á Belén, vamos con alegría", con el estribillo "Llevemos, pues, turrones y miel, para ofrecer al Niño Manuel", el n.º 23 del libro de Nuevo México de 1916 [^canticos1916]. No es "Los pastores a Belén corren presurosos" ni "Vamos, pastores, vamos": esos son otros villancicos, con otra letra. No hemos encontrado ningún documento fiable sobre dónde o cuándo nació ninguno de los dos. Tampoco es el villancico puertorriqueño que comparte su primer verso, impreso en himnarios desde 1986 [^hymnary-text][^nch1995].
 
 ### ¿Dónde está la letra completa de Pastores a Belén?
 

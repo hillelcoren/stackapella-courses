@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: i saw three ships significado | i saw three ships letra | i saw three ships historia | quién escribió i saw three ships | i saw three ships letra en español | i saw three ships villancico
-translatedFrom: baded6573f7b
+translatedFrom: 5fbcdd301033
 original: Christmas Carols, Ancient and Modern (1833), p. 112, Internet Archive | https://archive.org/details/christmascarolsa00sandrich/page/112/
 ---
 
@@ -189,6 +189,22 @@ Es una adivinanza navideña en forma de canción. Quien canta ve llegar tres bar
 
 No. Los relatos de Navidad de Lucas y Mateo hablan de pastores, ángeles y magos, pero no de barcos [^kjv][^ballad-index]. El villancico es una canción popular de la Navidad inglesa, impresa por William Sandys en 1833 y en muchos pliegos de villancicos [^sandys1833][^husk1868].
 
+### ¿Qué representan los tres barcos?
+
+El villancico no lo dice, y ninguna fuente antigua da un significado a los tres [^ballad-index]. En todas las impresiones que leímos, los barcos llevan a Cristo y María, o a José y María, nunca a los Reyes [^sandys1833][^husk1868][^sharp1911][^ccno-complete]. La idea de que representan los barcos que llevaron las reliquias de los Magos a Colonia, hacia 1164, es una sugerencia moderna, del Penguin Book of Carols de 1999 y de un reportaje de BBC Music Magazine de 2024 [^ballad-index][^classical-music][^koelner-dom]. Belén está tierra adentro, a unas cinco millas de Jerusalén, así que los barcos son una imagen de canción popular, no un viaje [^eb1911-bethlehem].
+
+### ¿Es I Saw Three Ships un himno? ¿Es irlandés?
+
+Es un villancico popular más que un himno: no tiene autor conocido, y en el siglo XIX se vendía en pliegos impresos para Navidad [^husk1868][^obc1928]. Es inglés. Sus versiones vienen de Londres, el oeste de Inglaterra, Gloucestershire, Worcestershire y Derbyshire, con una estrofa antigua del barco impresa en Aberdeen, Escocia, en 1666 [^sandys1833][^sharp1911][^ccno-complete][^cantus1666]. El Ballad Index registra una cantante irlandesa, Elizabeth Cronin, con una canción emparentada, "The Bells of Heaven" [^ballad-index].
+
+### ¿Es I Saw Three Ships una canción infantil?
+
+Tiene una prima entre las canciones infantiles. En 1898 Alice Gomme imprimió "I saw three ships come sailing by / On New Year's day in the morning" (vi tres barcos pasar navegando la mañana de Año Nuevo), con "Three pretty girls", tres chicas guapas, a bordo, tomada de las canciones infantiles de Rimbault, y un juego de baile de niños de Londres con casi la misma letra; pensaba que las dos venían probablemente del villancico [^gomme1898]. El Oxford Dictionary of Nursery Rhymes también recoge la versión de Año Nuevo [^ballad-index].
+
+### ¿Es I Saw Three Ships de dominio público?
+
+Sí. Su letra y su melodía son tradicionales, sin autor conocido, y ya estaban impresas en 1833 y 1868 [^sandys1833][^husk1868]. Husk murió en 1887, y John Stainer, que lo armonizó en 1878, en 1901 [^dnb-husk][^dnb-stainer]. Nuestro arreglo es nuestro, adaptado de la armonía de Stainer; los arreglos posteriores de otros pueden tener sus propios derechos.
+
 ### ¿Quién escribió I Saw Three Ships?
 
 Nadie lo sabe. Es un villancico tradicional inglés [^ballad-index][^obc1928]. William Sandys imprimió nueve estrofas y una forma anterior de su melodía en 1833 [^sandys1833]. La melodía en seis por ocho que cantamos, que el índice de Bramley y Stainer llama de Derbyshire, ya estaba impresa en 1868, en Songs of the Nativity, de William Henry Husk; John Stainer la armonizó para la tercera serie de Christmas Carols New and Old, publicada en Londres en octubre de 1878 [^husk1868][^ccno-complete][^mt1878oct].
@@ -221,6 +237,7 @@ Nadie lo sabe. Es un villancico tradicional inglés [^ballad-index][^obc1928]. W
 - [^hymnarchive-carols]: Chris Fenner, *Christmas Carols*, Hymnology Archive, lista de colecciones y ediciones de villancicos (Bramley y Stainer: primera, segunda y tercera series, ediciones ilustrada y completa). https://hymnologyarchive.com/christmas-carols
 - [^obc1928]: Percy Dearmer, R. Vaughan Williams y Martin Shaw, *The Oxford Book of Carols* (Londres: Oxford University Press, 1928), n.º 3, "Sunny Bank", y n.º 18, "I Saw Three Ships", con sus notas. https://archive.org/details/oxfordbookofcaro0000perc_m1t9
 - [^ballad-index]: Robert B. Waltz y David G. Engle, *The Traditional Ballad Index*, "I Saw Three Ships" (OBB104), con sus notas y referencias (Roud 700). https://balladindex.org/Ballads/OBB104.html
+- [^gomme1898]: Alice Bertha Gomme, *The Traditional Games of England, Scotland, and Ireland*, vol. 2 (Londres: David Nutt, 1898), "Three Little Ships" (una versión de Londres y otra de *Nursery Rhymes* de Rimbault, con el villancico de Shropshire de Burne y la nota de Gomme), en Project Gutenberg. https://www.gutenberg.org/ebooks/41728
 - [^churchtimes2020]: *Church Times*, reseña de *The Oxford Handbook of Christmas*, ed. Timothy Larsen (18 de diciembre de 2020), nota sobre el autor de la reseña ("Emeritus Professor of Cultural and Spiritual History at the University of St Andrews"). https://www.churchtimes.co.uk/articles/2020/18-december/books-arts/book-reviews/the-oxford-handbook-of-christmas-edited-by-timothy-larsen
 - [^classical-music]: Steve Wright, "Christmas carol meanings: the hidden messages behind your favourite carols", *BBC Music Magazine*, classical-music.com (12 de diciembre de 2024). https://www.classical-music.com/features/works/christmas-carol-lyrics-meanings
 - [^koelner-dom]: Hohe Domkirche Köln, *Geschichte* (página de historia de la catedral: las reliquias de los Reyes Magos, traídas de Milán en 1164). https://www.koelner-dom.de/erleben/geschichte

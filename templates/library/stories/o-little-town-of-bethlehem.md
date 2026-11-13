@@ -153,6 +153,10 @@ FOREST GREEN is the main other tune. In The English Hymnal it carries all five s
 
 ## Questions
 
+### What is O Little Town of Bethlehem about?
+
+It looks at Bethlehem asleep on the night Christ is born. The "everlasting Light" shines in its dark streets, and the hopes and fears of all the years meet there; angels keep watch, and the gift comes silently to anyone meek enough to receive him [^kjv][^hymnarchive]. The last stanza turns to prayer, asking the child to "be born in us to-day" [^hutchins1916]. Brooks wrote it in 1868, after spending Christmas Eve of 1865 in Bethlehem [^benson1903][^lot1893].
+
 ### What year was O Little Town of Bethlehem written?
 
 In 1868. Phillips Brooks wrote it in Philadelphia for his Sunday school's Christmas service, and it was first sung there at Christmas 1868 [^benson1903][^allen1900]. It grew from his Christmas Eve in Bethlehem three years earlier [^lot1893][^canterbury][^benson1903].
@@ -160,6 +164,10 @@ In 1868. Phillips Brooks wrote it in Philadelphia for his Sunday school's Christ
 ### Who wrote the music for O Little Town of Bethlehem?
 
 Lewis H. Redner (1831 to 1908), the organist of Brooks's church in Philadelphia, wrote the tune ST. LOUIS for it in 1868 [^benson1903][^hymnary-redner]. By his own account the melody came to him in the night [^benson1903].
+
+### Is O Little Town of Bethlehem a hymn, and is it public domain?
+
+It is a Christmas carol that hymnals print as a hymn: the Episcopal Church's Hymnal of 1892 as No. 58, The Hymnal 1982 as Nos. 78 and 79, and The United Methodist Hymnal as No. 230 [^hrgc1892][^eh1982-78][^eh1982-79][^umh1989]. Phillips Brooks wrote the words and died in 1893; Lewis H. Redner wrote the tune we sing, ST. LOUIS, and died in 1908 [^benson1903][^hymnarchive-brooks][^hymnary-redner]. Our arrangement is our own, read from Redner's four parts; other settings and modern arrangements can carry their own rights.
 
 ### What key is O Little Town of Bethlehem in?
 

@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: the holly and the ivy significado | the holly and the ivy historia | quién escribió the holly and the ivy | the holly and the ivy letra en español | the holly and the ivy es pagana | el acebo y la hiedra villancico
-translatedFrom: 7695be1c247a
+translatedFrom: 1e8f09e3456f
 original: Cecil J. Sharp, English Folk-Carols (1911), n.º VII, p. 17, Internet Archive | https://archive.org/details/englishfolkcarol00shar/page/n34/mode/2up
 ---
 
@@ -173,9 +173,17 @@ Nadie lo sabe. La letra es tradicional; sus primeras impresiones conocidas son p
 
 No. Su letra es cristiana de principio a fin: cada estrofa une una parte del acebo con el nacimiento o la muerte de Jesús [^sharp1911][^wrighton]. La costumbre que hay detrás es más antigua: las casas y las iglesias inglesas se adornaban con acebo y hiedra en Navidad [^stow][^sylvester1861]. En 1861 Joshua Sylvester llamó a esa costumbre de adornar con plantas de hoja perenne un resto de los tiempos paganos, pero no se conoce ningún texto de este villancico anterior a principios del siglo XIX [^sylvester1861][^glostrad-song][^palmer-w].
 
+### ¿Qué representan el acebo y la hiedra?
+
+En este villancico el acebo representa a Jesús: su flor blanca, su nacimiento; su baya roja, su sangre; su púa, la corona de espinas; su corteza amarga, la hiel que le ofrecieron en la cruz [^sharp1911][^kjv]. La hiedra solo se nombra en el primer verso [^sharp1911]. En canciones más antiguas las dos plantas eran rivales, el acebo la planta de los hombres y la hiedra la de las mujeres, y "Holly must have the mastry", el acebo ha de llevarse el dominio [^chambers1907][^balladindex]. Las dos son plantas de hoja perenne que adornaban las casas y las iglesias inglesas en Navidad [^stow][^sylvester1861].
+
 ### ¿Qué significa "the holly bears the crown"?
 
 Significa que el acebo gana: de todos los árboles del bosque, se lleva la corona, la antigua señal del premio del vencedor [^webster1913]. Recuerda las canciones medievales en las que el acebo y la hiedra luchan por el dominio y gana el acebo [^chambers1907]. Aquí el vencedor se convierte en una imagen de Jesús, y sus púas recuerdan su corona de espinas [^sharp1911][^kjv].
+
+### ¿Es The Holly and the Ivy un himno? ¿Es de dominio público?
+
+Es un villancico de Navidad que también imprimen los himnarios; el Canterbury Dictionary of Hymnology lo llama "un villancico más que un himno" [^canterbury][^hymnary]. Su letra y su melodía son tradicionales, sin autor conocido: la letra ya estaba impresa a principios del siglo XIX, y la melodía se anotó de Mary Clayton en 1909 [^wrighton][^palmer-w][^fees1988]. Cecil Sharp, que la imprimió en 1911, murió en 1924 [^sharp1911][^sutcliffe-sharp][^penn-sharp]. Nuestras voces de contralto, tenor y bajo son nuestras; otros arreglos modernos pueden tener sus propios derechos.
 
 ## Canta después
 

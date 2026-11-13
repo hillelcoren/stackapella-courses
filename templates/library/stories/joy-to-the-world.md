@@ -112,6 +112,10 @@ Our arrangement reads Mason's four parts from The National Psalmist of 1848, pag
 
 ## Questions
 
+### What does Joy to the World mean?
+
+It calls the whole world to welcome the Lord as its king. It is Isaac Watts's Christian reading of Psalm 98:4 to 9, headed "The Messiah's Coming and Kingdom" [^watts1719][^canterbury]. In verses 1 and 2 people, heaven and nature, fields, floods, rocks and hills all sing [^kjv]. Verse 3 says his blessings reach "far as the curse is found", undoing the curse of Genesis [^kjv][^hymnary-text]. Verse 4 tells of his reign of "truth and grace" over the nations [^watts1719].
+
 ### Is Joy to the World a Christmas song?
 
 It is sung as one, but it was not written as one. Isaac Watts printed it in 1719 as his version of Psalm 98, under the heading "The Messiah's Coming and Kingdom" [^watts1719]. He read the psalm as being about Christ's coming and reign, and a hymnologist quoted by Hymnology Archive and Hymnary.org's notes both judge he did not mean it for Christmas [^hymnarchive][^hymnary-text].

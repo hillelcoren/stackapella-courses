@@ -18,7 +18,7 @@ searches: pastores a belen | pastores a belen letra | pastores a belen meaning |
 original: Cánticos espirituales, 1916, Internet Archive | https://archive.org/details/b19151652/page/n19
 ---
 
-Pastores a Belén, printed in 1916 as Pastores á Belén and known by its first line, "Pastores a Belén, vamos con alegría", is a Spanish-language Christmas villancico, a carol of verse and refrain [^canticos1916][^rae1869][^rae1914]. The shepherds call one another to Bethlehem to see the son of Mary, and agree to bring him turrones (nougat) and honey [^canticos1916][^rae1914]. The earliest printing we have seen is No. 23 in *Cánticos espirituales con música*, a Catholic songbook published in Las Vegas, New Mexico, in 1916 by the Revista Católica, among sixteen songs for Christmas Eve [^canticos1916][^canticos1916-index]. No poet or composer is named [^canticos1916][^canticos1916-index]. Its editors wrote that they left these songs as untouched as they could, because the people of their region knew and sang them that way [^canticos1916-note].
+Pastores a Belén, printed in 1916 as Pastores á Belén and known by its first line, "Pastores a Belén, vamos con alegría", is a Spanish-language Christmas villancico, a carol of verse and refrain [^canticos1916][^rae1869][^rae1914]. Belén is Spanish for Bethlehem: the shepherds call one another there to see the son of Mary, and agree to bring him turrones (nougat) and honey [^canticos1916][^rae1914]. The earliest printing we have seen is No. 23 in *Cánticos espirituales con música*, a Catholic songbook published in Las Vegas, New Mexico, in 1916 by the Revista Católica, among sixteen songs for Christmas Eve [^canticos1916][^canticos1916-index]. No poet or composer is named [^canticos1916][^canticos1916-index]. Its editors wrote that they left these songs as untouched as they could, because the people of their region knew and sang them that way [^canticos1916-note].
 
 ![[1]]
 
@@ -123,6 +123,10 @@ No one is named. The earliest printing we have seen, in a New Mexico Catholic so
 ### Is Pastores a Belén from Puerto Rico?
 
 Not as far as the record shows. Hymnals since 1986 print a Puerto Rican carol that opens with the same line, but its refrain and tune are different, and its Spanish words carry a 1949 copyright [^hymnary-text][^hymnary-tune][^nch1995]. The song we sing is the one printed in Las Vegas, New Mexico, in 1916, which names no place of origin, only that the people of its region sang it [^canticos1916][^canticos1916-note]. Where either song began is not known.
+
+### Which Pastores a Belén is this?
+
+Ours is the villancico that opens "Pastores á Belén, vamos con alegría", with the refrain "Llevemos, pues, turrones y miel, para ofrecer al Niño Manuel", No. 23 in the New Mexico book of 1916 [^canticos1916]. It is not "Los pastores a Belén corren presurosos" or "Vamos, pastores, vamos": those are other Christmas songs with other words. We have found no reliable record of where or when either began. Nor is it the Puerto Rican carol that shares its first line, printed in hymnals since 1986 [^hymnary-text][^nch1995].
 
 ### Where are the complete words (letra completa) of Pastores a Belén?
 

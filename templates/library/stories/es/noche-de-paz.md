@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: noche de paz historia | noche de paz significado | quién escribió noche de paz en español | noche de paz letra | noche de paz autor y año | noche de paz original en alemán
-translatedFrom: 36c64e40bc65
+translatedFrom: 002cf101e631
 original: El Himnario evangélico, 1893, Internet Archive | https://archive.org/details/elhimevangl93amer/page/n43
 listen: Internet Archive, grabación de 1906, en alemán | https://archive.org/details/loc-jukebox-122507-stille-nacht-heilige-nacht || Internet Archive, grabación de 1912, en alemán | https://archive.org/details/loc-jukebox-131775-stille-nacht-heilige-nacht
 ---
@@ -123,6 +123,22 @@ Nadie lo sabe con certeza. La primera impresión conocida, en un himnario de Nue
 
 La canción es austriaca. Joseph Mohr escribió la letra alemana en 1816, y Franz Xaver Gruber la melodía en 1818, en Oberndorf, cerca de Salzburgo [^sng-time][^hymnarchive]. La letra española se conoce por primera vez por un himnario impreso en Nueva York en 1893 por la Sociedad Americana de Tratados para iglesias de habla hispana [^h1893][^h1893-preface].
 
+### ¿Qué significa Noche de paz?
+
+Es un canto de Navidad sobre la noche en que nació Jesús. En la primera estrofa todo duerme y la estrella de la paz anuncia al niño; en la segunda, coros del cielo traen a los pastores la noticia de la salvación, como en el Evangelio de Lucas [^luke2]; en la tercera, la luz brilla en el rostro del niño en el pesebre, la Luz del mundo del Evangelio de Juan [^john8]. Es una versión libre de Silent Night, no una traducción verso a verso [^h1893][^mohr-ms][^young].
+
+### ¿Cuándo se canta Noche de paz?
+
+En Navidad, y sobre todo en Nochebuena: la canción se cantó por primera vez en la misa de Nochebuena de 1818, en Oberndorf [^sng-time][^hymnarchive]. Los himnarios la ponen entre los cantos de Navidad; el himnario en español de 1907 la incluye bajo "Navidad" [^h1907]. En Oberndorf, cada 24 de diciembre a las cinco de la tarde, un acto junto a la capilla de Noche de paz honra a sus autores, y llega gente de muchos países a escucharla y cantarla [^salzburgerland][^salzburginfo].
+
+### ¿Tiene derechos de autor Noche de paz?
+
+La letra y la melodía que cantamos son de dominio público. Joseph Mohr, autor de la letra alemana, murió en 1848, y Franz Xaver Gruber, autor de la melodía, en 1863 [^sng-time][^hymnarchive]. Nuestra letra española se imprimió sin firma en Nueva York en 1893 y se revisó en 1915; Federico Fliedner, a quien se suele atribuir, murió en 1901 [^h1893][^h1915][^ndb]. Las estrofas posteriores, como las de Flor y Canto (2011), y los arreglos modernos pueden tener sus propios derechos [^hymnary-fyc]. Nuestro arreglo es nuestro.
+
+### ¿Se escribió porque se rompió el órgano?
+
+Ningún documento lo dice. El relato del propio Gruber, escrito en 1854, no da ningún motivo para la guitarra, y los ratones que habrían roído el fuelle del órgano son un adorno posterior [^hymnarchive]. La página de [Silent Night](/songs/silent-night) cuenta la historia completa.
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía de Gruber tal como la imprime el himnario español de 1893. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo en "oo"; el tenor completa las cuatro voces. La melodía va del Do grave al Fa agudo, así que canta los extremos con suavidad o cambia la tonalidad.
@@ -153,6 +169,8 @@ La soprano canta la melodía de Gruber tal como la imprime el himnario español 
 - [^dbclm]: Enrique Sánchez Lubián, "Friedrich Fliedner Bertheau", *Diccionario biográfico de Castilla-La Mancha* (en español). https://diccionariobiograficodecastillalamancha.es/biografias/friedrich-fliedner-bertheau/
 - [^eldebate]: Fernando Carratalá, "'Noche de paz', el villancico que entonaron soldados rivales en la Navidad de la Primera Guerra Mundial", *El Debate* (26 de diciembre de 2023), en español. https://www.eldebate.com/religion/20231226/noche-paz-villancico-entonaron-soldados-rivales-navidad-primera-guerra-mundial_162271.html
 - [^cyber2009]: The Cyber Hymnal, *Noche de paz, noche de amor*, tal como lo archivó Internet Archive el 8 de marzo de 2009: "traductor desconocido". https://web.archive.org/web/20090308132026/http://www.cyberhymnal.org/non/es/nochepaz.htm
+- [^salzburgerland]: SalzburgerLand Tourismus, *Oberndorf bei Salzburg* (en alemán): cada año en Nochebuena a las 17.00 junto a la capilla, para escuchar y cantar "Stille Nacht! Heilige Nacht!". https://www.salzburgerland.com/de/oberndorf-stille-nacht/
+- [^salzburginfo]: Tourismus Salzburg, *Stille Nacht Museum Oberndorf* (en alemán): "Jedes Jahr am 24. Dezember um 17.00 Uhr", un acto en honor de los autores de la canción. https://salzburg.info/de/sehenswertes/ausflugsziele/stille-nacht-museum-oberndorf
 - [^sng-time]: Stille Nacht Gesellschaft (Asociación Stille Nacht), *Research Timetable*. https://www.stillenacht.at/en/research/timetable
 - [^sng-text]: Stille Nacht Gesellschaft, *Text and Music* (los autógrafos y las seis estrofas). https://www.stillenacht.at/en/text-and-music
 - [^hymnarchive]: Hymnology Archive, *Stille Nacht / Silent Night*. https://www.hymnologyarchive.com/stille-nacht-silent-night

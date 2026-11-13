@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: joy to the world historia | quién escribió joy to the world | joy to the world es un villancico | joy to the world significado | al mundo paz himno historia | joy to the world händel
-translatedFrom: b2137edfaede
+translatedFrom: 423f112b6c9b
 listen: Internet Archive, grabación de 1916 | https://archive.org/details/78_joy-to-the-world_the-carol-singers_gbia0132469b || Internet Archive, grabación de 1920 | https://archive.org/details/78_joy-to-the-world_regal-male-quartette-handel_gbia0177355b
 original: Psalms of David Imitated de Watts (1719), Internet Archive | https://archive.org/details/chrtwimi00watt/page/n288/mode/1up
 ---
@@ -128,6 +128,10 @@ Nuestro arreglo toma las cuatro voces de Mason de The National Psalmist de 1848,
 - [Bajo](/songs/joy-to-the-world/bass): cantas la línea del bajo, casi siempre Re y La. Debajo de "Let ev'ry heart prepare him room" te quedas en Re, y luego entras con el tenor un compás detrás en "And heav'n and nature sing". Tu nota más grave, un Sol grave, está en el último "and".
 
 ## Preguntas
+
+### ¿Qué significa Joy to the World?
+
+Llama al mundo entero a recibir al Señor como su rey. Es la lectura cristiana que hizo Isaac Watts del Salmo 98:4 a 9, con el título "The Messiah's Coming and Kingdom" (la venida y el reino del Mesías) [^watts1719][^canterbury]. En las estrofas 1 y 2 cantan la gente, el cielo y la naturaleza, los campos, las aguas, las rocas y los montes [^kjv]. La estrofa 3 dice que sus bendiciones llegan "far as the curse is found", hasta donde llega la maldición, y deshacen la maldición del Génesis [^kjv][^hymnary-text]. La estrofa 4 habla de su reinado de "truth and grace", verdad y gracia, sobre las naciones [^watts1719].
 
 ### ¿Es Joy to the World una canción de Navidad?
 

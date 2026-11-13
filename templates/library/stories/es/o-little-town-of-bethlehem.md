@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: o little town of bethlehem historia | o little town of bethlehem significado | quién escribió o little town of bethlehem | o little town of bethlehem letra significado | o little town of bethlehem melodía st louis | o little town of bethlehem en qué tonalidad está
-translatedFrom: f4cfa96039d7
+translatedFrom: 25b9f649185a
 original: The Church Porch, Nueva York, 1874, n.º 43, Internet Archive | https://archive.org/details/churchporchservi00hunt/page/n112
 listen: Internet Archive, grabación de 1916 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-19923-oh-little-town-of-bethlehem
 ---
@@ -194,6 +194,10 @@ FOREST GREEN es la otra melodía principal. En The English Hymnal lleva las cinc
 
 ## Preguntas
 
+### ¿De qué trata O Little Town of Bethlehem?
+
+Contempla Belén dormida la noche en que nace Cristo. La "everlasting Light", la luz eterna, brilla en sus calles oscuras, y allí se encuentran las esperanzas y los temores de todos los años; los ángeles velan, y el regalo llega en silencio a quien es lo bastante humilde para recibirlo [^kjv][^hymnarchive]. La última estrofa se vuelve oración y pide al niño que nazca en nosotros hoy, "be born in us to-day" [^hutchins1916]. Brooks lo escribió en 1868, después de pasar la Nochebuena de 1865 en Belén [^benson1903][^lot1893].
+
 ### ¿En qué año se escribió O Little Town of Bethlehem?
 
 En 1868. Phillips Brooks lo escribió en Filadelfia para el oficio de Navidad de su escuela dominical, y allí se cantó por primera vez en la Navidad de 1868 [^benson1903][^allen1900]. Nació de su Nochebuena en Belén, tres años antes [^lot1893][^canterbury][^benson1903].
@@ -201,6 +205,10 @@ En 1868. Phillips Brooks lo escribió en Filadelfia para el oficio de Navidad de
 ### ¿Quién compuso la música de O Little Town of Bethlehem?
 
 Lewis H. Redner (1831 a 1908), organista de la iglesia de Brooks en Filadelfia, escribió para él la melodía ST. LOUIS en 1868 [^benson1903][^hymnary-redner]. Según su propio relato, la melodía le llegó de noche [^benson1903].
+
+### ¿Es O Little Town of Bethlehem un himno? ¿Es de dominio público?
+
+Es un villancico de Navidad que los himnarios imprimen como himno: el Hymnal de 1892 de la Iglesia Episcopal como n.º 58, The Hymnal 1982 como n.º 78 y 79, y The United Methodist Hymnal como n.º 230 [^hrgc1892][^eh1982-78][^eh1982-79][^umh1989]. Phillips Brooks escribió la letra y murió en 1893; Lewis H. Redner escribió la melodía que cantamos, ST. LOUIS, y murió en 1908 [^benson1903][^hymnarchive-brooks][^hymnary-redner]. Nuestro arreglo es nuestro, leído de las cuatro voces de Redner; otras versiones y arreglos modernos pueden tener sus propios derechos.
 
 ### ¿En qué tonalidad está O Little Town of Bethlehem?
 

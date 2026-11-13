@@ -152,6 +152,22 @@ It is a Christmas riddle in song. The singer sees three ships come in on Christm
 
 No. The Christmas stories in Luke and Matthew tell of shepherds, angels and wise men, but no ships [^kjv][^ballad-index]. The carol is a folk song of the English Christmas, printed by William Sandys in 1833 and on many carol sheets [^sandys1833][^husk1868].
 
+### What do the three ships stand for?
+
+The carol never says, and no early source gives the three a meaning [^ballad-index]. In every printing we read, the ships carry Christ and Mary, or Joseph and Mary, never kings [^sandys1833][^husk1868][^sharp1911][^ccno-complete]. That they stand for the ships that took the Magi's relics to Cologne, around 1164, is a modern suggestion, made in the Penguin Book of Carols of 1999 and a BBC Music Magazine feature of 2024 [^ballad-index][^classical-music][^koelner-dom]. Bethlehem lies inland, about five miles from Jerusalem, so the ships are a folk song's picture, not a voyage [^eb1911-bethlehem].
+
+### Is I Saw Three Ships a hymn, and is it Irish?
+
+It is a folk carol rather than a hymn: it has no known author, and in the 1800s it was sold on printed carol sheets for Christmas [^husk1868][^obc1928]. It is English. Its versions come from London, the West of England, Gloucestershire, Worcestershire and Derbyshire, with an early ship verse printed in Aberdeen, Scotland, in 1666 [^sandys1833][^sharp1911][^ccno-complete][^cantus1666]. The Ballad Index lists one Irish singer, Elizabeth Cronin, with a related song, "The Bells of Heaven" [^ballad-index].
+
+### Is I Saw Three Ships a nursery rhyme?
+
+It has a nursery-rhyme cousin. In 1898 Alice Gomme printed "I saw three ships come sailing by / On New Year's day in the morning", with "Three pretty girls" aboard, from Rimbault's nursery rhymes, and a London children's dance game with almost the same words; she thought both probably came from the carol [^gomme1898]. The Oxford Dictionary of Nursery Rhymes also has the New Year's day version [^ballad-index].
+
+### Is I Saw Three Ships public domain?
+
+Yes. Its words and tune are traditional, with no known author, and were in print by 1833 and 1868 [^sandys1833][^husk1868]. Husk died in 1887, and John Stainer, who harmonised it in 1878, in 1901 [^dnb-husk][^dnb-stainer]. Our arrangement is our own, adapted from Stainer's harmony; later arrangements by others can carry their own rights.
+
 ### Who wrote I Saw Three Ships?
 
 Nobody knows. It is a traditional English carol [^ballad-index][^obc1928]. William Sandys printed nine verses and an earlier form of its tune in 1833 [^sandys1833]. The six-eight tune we sing, which Bramley and Stainer's index calls Derbyshire, was in print by 1868, in William Henry Husk's Songs of the Nativity; John Stainer harmonised it for the third series of Christmas Carols New and Old, published in London in October 1878 [^husk1868][^ccno-complete][^mt1878oct].
@@ -184,6 +200,7 @@ Nobody knows. It is a traditional English carol [^ballad-index][^obc1928]. Willi
 - [^hymnarchive-carols]: Chris Fenner, *Christmas Carols*, Hymnology Archive, list of carol collections and editions (Bramley and Stainer: first, second and third series, illustrated and complete editions). https://hymnologyarchive.com/christmas-carols
 - [^obc1928]: Percy Dearmer, R. Vaughan Williams and Martin Shaw, *The Oxford Book of Carols* (London: Oxford University Press, 1928), No. 3, "Sunny Bank", and No. 18, "I Saw Three Ships", with their notes. https://archive.org/details/oxfordbookofcaro0000perc_m1t9
 - [^ballad-index]: Robert B. Waltz and David G. Engle, *The Traditional Ballad Index*, "I Saw Three Ships" (OBB104), with its notes and references (Roud 700). https://balladindex.org/Ballads/OBB104.html
+- [^gomme1898]: Alice Bertha Gomme, *The Traditional Games of England, Scotland, and Ireland*, vol. 2 (London: David Nutt, 1898), "Three Little Ships" (a London version and one from Rimbault's *Nursery Rhymes*, with Burne's Shropshire carol and Gomme's note), at Project Gutenberg. https://www.gutenberg.org/ebooks/41728
 - [^churchtimes2020]: *Church Times*, review of *The Oxford Handbook of Christmas*, ed. Timothy Larsen (18 December 2020), reviewer's note ("Emeritus Professor of Cultural and Spiritual History at the University of St Andrews"). https://www.churchtimes.co.uk/articles/2020/18-december/books-arts/book-reviews/the-oxford-handbook-of-christmas-edited-by-timothy-larsen
 - [^classical-music]: Steve Wright, "Christmas carol meanings: the hidden messages behind your favourite carols", *BBC Music Magazine*, classical-music.com (12 December 2024). https://www.classical-music.com/features/works/christmas-carol-lyrics-meanings
 - [^koelner-dom]: Hohe Domkirche Köln, *Geschichte* (the cathedral's history page: the relics of the Three Kings brought from Milan in 1164). https://www.koelner-dom.de/erleben/geschichte

@@ -207,6 +207,18 @@ It is an Advent hymn, for the weeks of waiting before Christmas rather than for 
 
 Because its words come from the O antiphons, which call the coming Messiah by titles from the Old Testament [^ce-oant][^pocknee]. The first verse pictures Israel as a captive people in exile, waiting for the child Isaiah promised: "a virgin shall conceive, and bear a son, and shall call his name Immanuel" (Isaiah 7:14) [^kjv]. Matthew's Gospel applies that promise to Jesus [^kjv].
 
+### What does "ransom captive Israel" mean, and is it a Jewish song?
+
+To ransom a captive is to pay the price that sets him free [^webster-ransom]. The verse pictures Israel in exile, waiting for the promised Emmanuel, "God with us", whom Matthew's Gospel names as Jesus [^kjv]. It is a Christian hymn, not a Jewish one: its Latin turns the church's O antiphons into verse and was printed in a Catholic song book in Cologne in 1710 [^ce-oant][^psalteriolum1710][^pocknee]. Christians sing Israel's waiting as their own; in Hymnology Archive's words, "just as Israel waited for its Messiah, we also wait for his return" [^ha].
+
+### Why is O Come, O Come, Emmanuel in a minor key?
+
+Because its tune is a chant melody, from a French manuscript of the 1400s or about 1500, in one of the old church modes: the Psalter Hymnal Handbook calls it Dorian, a mode close to the minor [^pocknee][^hymnary-tune]. Hymns Ancient and Modern prints it in E minor, and our arrangement keeps W. H. Monk's harmony of 1861, though Monk ends on a bright E major chord [^ham1861][^hamrev]. In our arrangement the refrain's first "Rejoice!" climbs to the tune's top note.
+
+### Is O Come, O Come, Emmanuel public domain?
+
+Yes. The Latin hymn is anonymous, in print by 1710 [^psalteriolum1710][^julian]. John Mason Neale, who translated it, died in 1866; Thomas Helmore, who adapted the tune, in 1890; and W. H. Monk, whose harmony we read, in 1889 [^canterbury-neale][^canterbury-helmore][^canterbury-monk][^julian]. Our arrangement is our own, adapted from Monk's four parts; modern translations and arrangements by others can carry their own rights.
+
 ## Sing next
 
 - [Good King Wenceslas](/songs/good-king-wenceslas): Neale's words and Helmore's setting, the two men behind this hymn's 1856 printing.
@@ -236,7 +248,7 @@ Because its words come from the O antiphons, which call the coming Messiah by ti
 - [^canterbury-baker]: *The Canterbury Dictionary of Hymnology* (Canterbury Press, 2013), "Henry Williams Baker", open excerpt. https://hymnology.hymnsam.co.uk/h/henry-williams-baker
 - [^rankin]: Susan Rankin, "Mary Berry (1917-2008)", *Plainsong and Medieval Music*, vol. 18, no. 1 (2009), pp. 1 to 10, with a bibliography entry for Mother Thomas More, "O Come O Come Emmanuel", *The Musical Times*, vol. 107 (September 1966), p. 772. https://doi.org/10.1017/S096113710900093X
 - [^gdc]: Gloriae Dei Cantores, "Dr. Mary Berry", board of reference page. https://gdcchoir.org/about/board-of-reference/dr-mary-berry/
-- [^hymnary-tune]: Hymnary.org, "VENI EMMANUEL" (tune), tune notes. https://hymnary.org/tune/veni_emmanuel
+- [^hymnary-tune]: Hymnary.org, "VENI EMMANUEL" (tune), tune notes, from the Psalter Hymnal Handbook: "VENI IMMANUEL is in the Dorian mode". https://hymnary.org/tune/veni_emmanuel
 - [^luyh]: *Lift Up Your Hearts* hymnal website, "O Come, O Come, Emmanuel", credits for words and music. https://liftupyourheartshymnal.org/node/676
 - [^kjv]: *The Holy Bible, King James Version* (1611), Isaiah 7:14, 11:1 and 22:22; Ruth 4:22; Exodus 19:16 to 20; Matthew 1:23; Luke 1:46 and 1:78; Project Gutenberg eBook No. 10. https://www.gutenberg.org/ebooks/10
 - [^webster-ransom]: Noah Webster, *An American Dictionary of the English Language* (1828), "Ransom", noun, sense 1. https://webstersdictionary1828.com/Dictionary/ransom
