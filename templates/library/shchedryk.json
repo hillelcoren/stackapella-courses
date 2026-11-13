@@ -1,6 +1,6 @@
 {
  "id": "shchedryk",
- "version": 5,
+ "version": 6,
  "reviewed": true,
  "title": "Shchedryk",
  "description": "The Ukrainian New Year song of the swallow, for 2 to 4 singers: the soprano sings the famous four-note tune all the way through, the alto joins in thirds and sixths, and the bass and tenor ring slowly underneath like bells.",
@@ -11,7 +11,7 @@
   "christmas"
  ],
  "style": "straight",
- "tempo": 132,
+ "tempo": 120,
  "key": "Gm",
  "timeSignature": "3/4",
  "pickupBeats": 0,
@@ -23,7 +23,7 @@
  "licence": {
   "words": "public domain: traditional Ukrainian folk words",
   "tune": "public domain: traditional; the four-note folk melody as printed in 1913 (Polishchuk and Ostapovych, Kyiv), the same motif Mykola Leontovych (died 1921) set in his \"Shchedryk\"",
-  "arrangement": "original, written for Stackapella. Accepted exception (the singability pass, 2026-11-01): the soprano and alto ostinato puts a syllable on every beat, four to a bar at 132, so it cannot give a full breath without dropping words; it is sung with quick catch breaths at each couplet's end, and the tenor and bass rest a beat and a half there, as choirs sing it.",
+  "arrangement": "original, written for Stackapella. Breaths: the soprano and alto end every couplet (beats 11, 23, 35, 47, 59 and 71) on an eighth instead of a quarter, a half-beat catch breath taken together with the tenor and bass, which already rest there, so the whole choir lifts for one eighth and comes back on the next downbeat; no pitch or syllable moves. Tempo 120 (was 132), nearer the 1913 printing's \"slowly\", so every eighth is a quarter of a second. Accepted exception: the four-syllable ostinato fills every bar, so the soprano and alto cannot rest a full beat without losing a word; their breath is the half-beat catch breath, each line about 6 seconds",
   "recordings": "synthesized guides",
   "checked": null,
   "source": "folk melody and words from K. L. Polishchuk (collector, died 1937) and M. Ostapovych (who took down the notes), ed. O. Koshyts (died 1944), Zbirnychok naikrashchykh ukrainskykh pisen z notamy, part IV (Kyiv: Y. T. Hubanov, 1913), No. 23, \"Shchedryk, shchedryk shchedrivochka\", p. 43, from Krasnopil, Volhynia, in G minor, 3/4, \"slowly\", read on archive.org (zbirnychoknakras00poli, leaf n154); the same melody and words in M. Leontovych, Try pisni (Kharkiv, 1921), pp. 2 and 3 (Vernadsky National Library of Ukraine copy, seen in low-resolution photographs), whose wording we follow in the later lines (\"V tebe zhinka chornobrova\") and in the final return of the opening, which the 1913 printing lacks; our four parts are our own, not Leontovych's part-writing, and nothing of \"Carol of the Bells\" (Wilhousky, 1936) is used"
@@ -373,7 +373,7 @@
      },
      {
       "beat": 11,
-      "length": 1,
+      "length": 0.5,
       "pitch": 67,
       "lyric": "ка,"
      },
@@ -470,7 +470,7 @@
      },
      {
       "beat": 23,
-      "length": 1,
+      "length": 0.5,
       "pitch": 67,
       "lyric": "ти:"
      },
@@ -567,7 +567,7 @@
      },
      {
       "beat": 35,
-      "length": 1,
+      "length": 0.5,
       "pitch": 67,
       "lyric": "ру,"
      },
@@ -664,7 +664,7 @@
      },
      {
       "beat": 47,
-      "length": 1,
+      "length": 0.5,
       "pitch": 67,
       "lyric": "лись."
      },
@@ -761,7 +761,7 @@
      },
      {
       "beat": 59,
-      "length": 1,
+      "length": 0.5,
       "pitch": 67,
       "lyric": "шей."
      },
@@ -858,7 +858,7 @@
      },
      {
       "beat": 71,
-      "length": 1,
+      "length": 0.5,
       "pitch": 67,
       "lyric": "ва."
      },
@@ -1066,7 +1066,7 @@
      },
      {
       "beat": 23,
-      "length": 1,
+      "length": 0.5,
       "pitch": 62,
       "lyric": "ти:"
      },
@@ -1163,7 +1163,7 @@
      },
      {
       "beat": 35,
-      "length": 1,
+      "length": 0.5,
       "pitch": 62,
       "lyric": "ру,"
      },
@@ -1260,7 +1260,7 @@
      },
      {
       "beat": 47,
-      "length": 1,
+      "length": 0.5,
       "pitch": 62,
       "lyric": "лись."
      },
@@ -1357,7 +1357,7 @@
      },
      {
       "beat": 59,
-      "length": 1,
+      "length": 0.5,
       "pitch": 63,
       "lyric": "шей."
      },
@@ -1454,7 +1454,7 @@
      },
      {
       "beat": 71,
-      "length": 1,
+      "length": 0.5,
       "pitch": 62,
       "lyric": "ва."
      },
