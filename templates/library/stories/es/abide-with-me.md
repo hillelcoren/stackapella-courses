@@ -52,7 +52,7 @@ El himno acabó acompañando muertes lejos de Brixham. El 11 de octubre de 1915,
 
 ## Qué dice la letra
 
-Lyte puso al frente del himno Lucas 24:29: "Quédate con nosotros, que ya cae la tarde y el día se va acabando" [^remains1850][^kjv]. Lo dicen dos discípulos en el camino de Emaús a Jesús resucitado, antes de saber quién es. "Abide" significa quedarse; "eventide", el anochecer, y aquí el anochecer es el final de la vida. El himnólogo John Ellerton señaló en 1881 que, más allá de sus primeros versos, no dice nada del final del día, y que encaja mejor en los funerales [^julian][^romance1889].
+Lyte puso al frente del himno Lucas 24:29: "Quédate con nosotros, porque se hace tarde, y el día ya ha declinado" [^remains1850][^kjv]. Lo dicen dos discípulos en el camino de Emaús a Jesús resucitado, antes de saber quién es. "Abide" significa quedarse; "eventide", el anochecer, y aquí el anochecer es el final de la vida. El himnólogo John Ellerton señaló en 1881 que, más allá de sus primeros versos, no dice nada del final del día, y que encaja mejor en los funerales [^julian][^romance1889].
 
 1. La noche cae deprisa; cuando cualquier otra ayuda y todo consuelo fallan, quédate conmigo.
 2. El "little day" (pequeño día) de la vida se retira como la marea y sus alegrías se apagan. Todo cambia; Dios no.
@@ -219,4 +219,4 @@ En nuestro arreglo la melodía la canta la soprano: la de Monk, exactamente como
 - [^scroll2022]: Scroll.in, "'Abide with me', Gandhi's favourite hymn, dropped from Republic Day's Beating the Retreat ceremony" (23 de enero de 2022, de PTI). https://scroll.in/latest/1015682/scroll_in
 - [^hymnary-tis]: Hymnary.org, *Abide with Me, 'Tis Eventide* (texto). https://hymnary.org/text/abide_with_me_tis_eventide
 - [^tabernacle]: The Tabernacle Choir at Temple Square, *Abide with Me; 'Tis Eventide: A Product of the American Civil War* (8 de noviembre de 2023). https://www.thetabernaclechoir.org/articles/abide-with-me-tis-eventide.html?lang=eng
-- [^kjv]: La Biblia, versión King James: Lucas 24:29; Malaquías 4:2; Mateo 11:19; 1 Corintios 15:55. https://www.biblegateway.com/passage/?search=Luke%2024%3A29%3B%20Malachi%204%3A2%3B%20Matthew%2011%3A19%3B%201%20Corinthians%2015%3A55&version=KJV
+- [^kjv]: La Biblia, versión King James: Lucas 24:29; Malaquías 4:2; Mateo 11:19; 1 Corintios 15:55; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Luke%2024%3A29%3B%20Malachi%204%3A2%3B%20Matthew%2011%3A19%3B%201%20Corinthians%2015%3A55&version=KJV

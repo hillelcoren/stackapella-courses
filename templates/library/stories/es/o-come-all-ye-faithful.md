@@ -55,11 +55,11 @@ O Come, All Ye Faithful es la forma inglesa de Adeste Fideles, un himno latino d
 
 El latín de Wade tiene cuatro estrofas. Autores posteriores añadieron otras cuatro, así que el latín completo tiene ocho; los himnarios ingleses cantan las cuatro de Wade, que son la primera, la segunda, la séptima y la octava de las ocho [^julian][^hymnary-latin]. Oakeley tradujo esas cuatro [^canterbury-o][^hymnarchive]. Cantamos la primera estrofa y el estribillo en la forma que imprimen casi todos los himnarios: el primer verso de Murray de 1852, con el resto muy cerca de Oakeley [^hymnarchive][^praise].
 
-**Estrofa 1, la que cantamos.** El latín empieza "Adeste fideles", una llamada a los fieles a estar presentes, a acercarse [^hymnarchive][^julian]. "Ye" es una forma antigua de "you" en plural. "Joyful and triumphant" significa alegres y exultantes. "O come ye to Bethlehem" pone a los cantantes junto a los pastores del Evangelio de Lucas, que se decían unos a otros: "Let us now go even unto Bethlehem" (vayamos, pues, hasta Belén) [^kjv-luke]. "Behold" significa mirar, contemplar; el latín dice aquí "natum videte regem angelorum", una llamada a ver nacido al rey de los ángeles. El estribillo, "O come, let us adore him", es el latín "venite adoremus", una llamada a venir y adorarlo. Termina en "Christ the Lord", Cristo el Señor, las palabras del propio ángel a los pastores en Lucas 2:11 [^kjv-luke].
+**Estrofa 1, la que cantamos.** El latín empieza "Adeste fideles", una llamada a los fieles a estar presentes, a acercarse [^hymnarchive][^julian]. "Ye" es una forma antigua de "you" en plural. "Joyful and triumphant" significa alegres y exultantes. "O come ye to Bethlehem" pone a los cantantes junto a los pastores del Evangelio de Lucas, que se decían unos a otros: "Let us now go even unto Bethlehem" (Pasemos pues hasta Bethlehem) [^kjv-luke]. "Behold" significa mirar, contemplar; el latín dice aquí "natum videte regem angelorum", una llamada a ver nacido al rey de los ángeles. El estribillo, "O come, let us adore him", es el latín "venite adoremus", una llamada a venir y adorarlo. Termina en "Christ the Lord", Cristo el Señor, las palabras del propio ángel a los pastores en Lucas 2:11 [^kjv-luke].
 
 **Estrofa 2 (aquí no se canta).** "God of God, Light of Light" toma el Credo de Nicea casi palabra por palabra: el niño es Dios de Dios, Luz de Luz, "engendrado, no creado", es decir, nacido del Padre y no hecho [^hymnarchive][^creed]. "Abhors not the Virgin's womb" significa que no rehuyó nacer de María.
 
-**Estrofas 3 y 4 (aquí no se cantan).** En "Sing, choirs of angels", los ángeles cantan "Glory to God in the highest" (gloria a Dios en las alturas), como en Lucas 2:14 [^kjv-luke][^phh]. "Yea, Lord, we greet thee" saluda al niño nacido "this happy morning", esta mañana feliz, la Palabra del Padre "now in flesh appearing", que ahora aparece en carne: el Evangelio de Juan dice "the Word was made flesh" (el Verbo se hizo carne) [^kjv-john][^phh]. Algunos himnarios marcan esta estrofa "On Christmas Day", para el día de Navidad [^neh].
+**Estrofas 3 y 4 (aquí no se cantan).** En "Sing, choirs of angels", los ángeles cantan "Glory to God in the highest" (Gloria en las alturas á Dios), como en Lucas 2:14 [^kjv-luke][^phh]. "Yea, Lord, we greet thee" saluda al niño nacido "this happy morning", esta mañana feliz, la Palabra del Padre "now in flesh appearing", que ahora aparece en carne: el Evangelio de Juan dice "the Word was made flesh" (aquel Verbo fué hecho carne) [^kjv-john][^phh]. Algunos himnarios marcan esta estrofa "On Christmas Day", para el día de Navidad [^neh].
 
 ### El latín
 
@@ -214,7 +214,7 @@ Nuestro arreglo canta la primera estrofa y el estribillo, en Sol y en 4/4, para 
 
 ### ¿En qué versículo de la Biblia se basa O Come, All Ye Faithful?
 
-Se inspira en la historia de Navidad de Lucas 2. La llamada a Belén es un eco del "Let us now go even unto Bethlehem" (vayamos, pues, hasta Belén) de los pastores (Lucas 2:15), y "Christ the Lord" es la expresión del ángel en Lucas 2:11 [^kjv-luke]. La tercera estrofa trae el canto de los ángeles de Lucas 2:14, y la cuarta es un eco de Juan 1:14 [^kjv-john][^phh]. La segunda estrofa cita el Credo de Nicea, no la Biblia [^hymnarchive][^creed].
+Se inspira en la historia de Navidad de Lucas 2. La llamada a Belén es un eco del "Let us now go even unto Bethlehem" (Pasemos pues hasta Bethlehem) de los pastores (Lucas 2:15), y "Christ the Lord" es la expresión del ángel en Lucas 2:11 [^kjv-luke]. La tercera estrofa trae el canto de los ángeles de Lucas 2:14, y la cuarta es un eco de Juan 1:14 [^kjv-john][^phh]. La segunda estrofa cita el Credo de Nicea, no la Biblia [^hymnarchive][^creed].
 
 ### ¿Cuál es la letra original de O Come, All Ye Faithful?
 
@@ -252,8 +252,8 @@ En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la me
 - [^america]: Benjamin Ivry, *The history of a Christmas classic, "O Come, All Ye Faithful"* (America, 10 de diciembre de 2021). https://americamagazine.org/arts-culture/2021/12/10/christmas-hymn-adeste-come-faithful-241957
 - [^cath-webbe]: W. H. Grattan Flood, "Samuel Webbe", *The Catholic Encyclopedia*, vol. 15 (Robert Appleton Company, 1912). https://www.newadvent.org/cathen/15573a.htm
 - [^creed]: Joseph Wilhelm, "The Nicene Creed", *The Catholic Encyclopedia*, vol. 11 (Robert Appleton Company, 1911). https://www.newadvent.org/cathen/11049a.htm
-- [^kjv-luke]: *The Holy Bible*, King James Version, Lucas 2:8 a 20. https://www.biblegateway.com/passage/?search=Luke+2%3A8-20&version=KJV
-- [^kjv-john]: *The Holy Bible*, King James Version, Juan 1:14. https://www.biblegateway.com/passage/?search=John+1%3A14&version=KJV
+- [^kjv-luke]: *The Holy Bible*, King James Version, Lucas 2:8 a 20; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Luke+2%3A8-20&version=KJV
+- [^kjv-john]: *The Holy Bible*, King James Version, Juan 1:14; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=John+1%3A14&version=KJV
 - [^eh1906]: *The English Hymnal* (Oxford University Press, 1906), n.º 28, facsímil de la página en Wikisource. https://en.wikisource.org/wiki/Page:The_English_hymnal_(1906).djvu/79
 - [^hws1909]: *Hymns of Worship and Service*, 20.ª ed. (The Century Co., Nueva York, 1909), n.º 89, "Adeste Fideles", p. 63, ejemplar de la Princeton Theological Seminary Library. https://archive.org/details/hymnsofworship00newy
 - [^neh]: *The New English Hymnal*, n.º 30, texto en Hymnary.org. https://hymnary.org/hymn/NEH1985/30?media=text

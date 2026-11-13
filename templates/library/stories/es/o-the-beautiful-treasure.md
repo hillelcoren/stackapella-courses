@@ -43,13 +43,13 @@ O the Beautiful Treasure, titulada "Valuable Riches" (riquezas valiosas) en su m
 
 ## Qué dice la letra
 
-**"O the beautiful treasure laid up for the wise."** "Lay up" algo es guardarlo para más adelante. El verso recuerda las palabras de Jesús en el Sermón del Monte, que en la Biblia King James dicen "lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt" (haceos tesoros en el cielo, donde ni la polilla ni el óxido corrompen), en Mateo 6:20, con la advertencia de que "where your treasure is, there will your heart be also" (donde esté vuestro tesoro, allí estará también vuestro corazón) [^kjv-bg][^kjv-pg]. "The wise", los sabios, quizá sea un eco de Proverbios, donde "There is treasure to be desired and oil in the dwelling of the wise" (tesoro deseable y aceite hay en la casa del sabio), en Proverbios 21:20 [^kjv-bg][^kjv-pg]. La canción no cita ninguno de los dos versículos, así que son ecos, no fuentes.
+**"O the beautiful treasure laid up for the wise."** "Lay up" algo es guardarlo para más adelante. El verso recuerda las palabras de Jesús en el Sermón del Monte, que en la Biblia King James dicen "lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt" (haceos tesoros en el cielo, donde ni polilla ni orín corrompe), en Mateo 6:20, con la advertencia de que "where your treasure is, there will your heart be also" (donde estuviere vuestro tesoro, allí estará vuestro corazón) [^kjv-bg][^kjv-pg]. "The wise", los sabios, quizá sea un eco de Proverbios, donde "There is treasure to be desired and oil in the dwelling of the wise" (Tesoro codiciable y pingüe hay en la casa del sabio), en Proverbios 21:20 [^kjv-bg][^kjv-pg]. La canción no cita ninguno de los dos versículos, así que son ecos, no fuentes.
 
 **"How precious the value, how glorious the prize."** El tesoro es también un premio, una recompensa. La recompensa recorre todas las canciones de don que reunió Andrews, canciones que, según los shakers, se recibían del mundo espiritual; una cantada en New Lebanon en 1839 empieza "O what a pretty treasure Mother has for every one" (qué tesoro tan bonito tiene Madre para cada uno) [^andrews]. En el libro de Hazzard, una canción de Canterbury hace la misma pareja: su tesoro es "The greatest prize that can be found" (el mayor premio que se puede encontrar) [^hazzardbook].
 
 **"Far brighter than diamonds on Princes brow."** Los diamantes son los de una corona. Hazzard escribió "Princes" sin apóstrofo, así que puede ser un príncipe o muchos. Andrews imprimió "prince's"; nosotros imprimimos "Princes'" [^hazzard][^andrews].
 
-**"And richer than royalty can bestow."** "To bestow" es dar, conceder. Ningún rey podría dar algo que valiera tanto. Para gente que había renunciado a sus propios bienes, el sentido de la canción era claro: habían cambiado las riquezas de la tierra por las de la mejor clase, como el hombre de la parábola de Jesús que encontró un "treasure hid in a field" (tesoro escondido en un campo) y vendió todo lo que tenía para comprarlo, en Mateo 13:44 [^kjv-bg][^kjv-pg][^andrews].
+**"And richer than royalty can bestow."** "To bestow" es dar, conceder. Ningún rey podría dar algo que valiera tanto. Para gente que había renunciado a sus propios bienes, el sentido de la canción era claro: habían cambiado las riquezas de la tierra por las de la mejor clase, como el hombre de la parábola de Jesús que encontró un "treasure hid in a field" (tesoro escondido en el campo) y vendió todo lo que tenía para comprarlo, en Mateo 13:44 [^kjv-bg][^kjv-pg][^andrews].
 
 El tesoro aparece una y otra vez en el libro de Hazzard. Cuatro páginas antes de esta canción viene otra, titulada "A Beautiful Treasure", y más adelante ella copió "What a pure and spotless treasure", cuyo tesoro está "laid up in store in the mansions of heaven" (guardado en las moradas del cielo) [^hazzardbook].
 
@@ -79,7 +79,7 @@ La impresión de Andrews de 1940 tiene la misma letra y escribe cada sección do
 
 ## ¿Sabías que...?
 
-- Holy Ground es uno de los nombres espirituales que, según la lectura de Christine De Vinne, unían un rasgo del terreno con una alusión bíblica [^devinne]. La expresión es la que oye Moisés en la zarza ardiente: "the place whereon thou standest is holy ground" (el lugar donde estás es tierra santa), en Éxodo 3:5 [^kjv-bg][^kjv-pg].
+- Holy Ground es uno de los nombres espirituales que, según la lectura de Christine De Vinne, unían un rasgo del terreno con una alusión bíblica [^devinne]. La expresión es la que oye Moisés en la zarza ardiente: "the place whereon thou standest is holy ground" (el lugar en que tú estás, tierra santa es), en Éxodo 3:5 [^kjv-bg][^kjv-pg].
 
 ## Cómo cantarla
 
@@ -118,5 +118,5 @@ La soprano canta la melodía de principio a fin. Dos cantantes hacen la soprano 
 - [^devinne]: Christine De Vinne, "The Culture of Shaker Placenames: Sacred Geography and Communal Biography", *Names*, vol. 51, n.º 3 y 4 (septiembre y diciembre de 2003), pp. 215 a 239: pp. 216 a 217, la tabla de la p. 219, y pp. 220 y 226. https://ans-names.pitt.edu/ans/article/download/1695/1694/3392
 - [^smportrait]: Shaker Museum | Mount Lebanon, ficha de la colección, "Portrait of Sister Mary Hazard". https://shakermuseum.us/object?id=16544
 - [^shakermuseum]: Shaker Museum | Mount Lebanon, "The Shakers". https://www.shakermuseum.us/the-shakers
-- [^kjv-bg]: La Biblia, versión King James: Mateo 6:19 a 21 y 13:44, Proverbios 21:20 y Éxodo 3:5, en Bible Gateway. https://www.biblegateway.com/passage/?search=Matthew+6%3A19-21%3BMatthew+13%3A44%3BProverbs+21%3A20%3BExodus+3%3A5&version=KJV
+- [^kjv-bg]: La Biblia, versión King James: Mateo 6:19 a 21 y 13:44, Proverbios 21:20 y Éxodo 3:5, en Bible Gateway; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Matthew+6%3A19-21%3BMatthew+13%3A44%3BProverbs+21%3A20%3BExodus+3%3A5&version=KJV
 - [^kjv-pg]: *The King James Version of the Bible*, Project Gutenberg, eBook n.º 10: Mateo 6:19 a 21 y 13:44, Proverbios 21:20 y Éxodo 3:5. https://www.gutenberg.org/ebooks/10

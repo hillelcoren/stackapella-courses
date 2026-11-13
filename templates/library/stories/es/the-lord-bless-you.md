@@ -53,7 +53,7 @@ Lutkin cambió el texto de la King James de cuatro maneras. Puso "you" en lugar 
 
 ### La letra completa
 
-Esta es la letra tal como la puso en música Lutkin en la impresión de Summy, tal como la canta la soprano (las voces inferiores cantan dos veces "and be gracious" en lugar de "and be gracious unto you, be gracious"), con el Amén tal como lo cantan el tenor y el bajo, siete veces, y después los tres versículos tal como los imprime la versión King James de 1611, en la ortografía de hoy. El texto bíblico es de 1611 y Lutkin murió en 1931, así que ambos son de dominio público. El español de la letra de Lutkin es nuestro; el de los versículos es de la Reina-Valera 1960.
+Esta es la letra tal como la puso en música Lutkin en la impresión de Summy, tal como la canta la soprano (las voces inferiores cantan dos veces "and be gracious" en lugar de "and be gracious unto you, be gracious"), con el Amén tal como lo cantan el tenor y el bajo, siete veces, y después los tres versículos tal como los imprime la versión King James de 1611, en la ortografía de hoy. El texto bíblico es de 1611 y Lutkin murió en 1931, así que ambos son de dominio público. El español de la letra de Lutkin es nuestro; el de los versículos es de la Reina-Valera de 1909.
 
 **Como la puso en música Lutkin**
 > The Lord bless you and keep you,
@@ -75,11 +75,11 @@ Amén, amén, amén, amén, amén, amén, amén.
 
 **Números 6:24 a 26, versión King James**
 > The LORD bless thee, and keep thee:
-Jehová te bendiga, y te guarde;
+Jehová te bendiga, y te guarde:
 > The LORD make his face shine upon thee, and be gracious unto thee:
-Jehová haga resplandecer su rostro sobre ti, y tenga de ti misericordia;
+Haga resplandecer Jehová su rostro sobre ti, y haya de ti misericordia:
 > The LORD lift up his countenance upon thee, and give thee peace.
-Jehová alce sobre ti su rostro, y ponga en ti paz.
+Jehová alce á ti su rostro, y ponga en ti paz.
 
 ## Cómo se canta
 
@@ -147,7 +147,7 @@ La soprano canta la línea superior de la bendición. Pero las cuatro voces cant
 - [^phh]: *Psalter Hymnal Handbook* (Grand Rapids: CRC Publications, 1998), notas sobre el n.º 156, "The LORD Bless You and Keep You", texto, melodía BENEDICTION y compositor, en Hymnary.org. https://hymnary.org/hymn/PsH/156
 - [^hymnary]: Hymnary.org, "The Lord bless you and keep you" (texto), melodías: BENEDICTION (Lutkin). https://hymnary.org/text/the_lord_bless_you_and_keep_you
 - [^kjv1611]: *The Holy Bible, Conteyning the Old Testament and the New* (Londres, 1611), Números 6:22 a 27, imagen n230; microfilme de Early English Books (IA40313703-03), Internet Archive. https://archive.org/details/bim_early-english-books-1475-1640_the-holy-bible-conteyni_bible-english_1611_0
-- [^kjv]: *The Holy Bible*, versión King James, Números 6:22 a 27, Bible Gateway; las citas en español, de la Reina-Valera 1960. https://www.biblegateway.com/passage/?search=Numbers%206%3A22-27&version=KJV
+- [^kjv]: *The Holy Bible*, versión King James, Números 6:22 a 27, Bible Gateway; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Numbers%206%3A22-27&version=KJV
 - [^masorah]: Números 6:24 a 26, texto hebreo, "Miqra according to the Masorah", Sefaria. https://www.sefaria.org/Numbers.6.24-26
 - [^bdb]: Francis Brown, S. R. Driver y Charles A. Briggs, *A Hebrew and English Lexicon of the Old Testament* (Oxford: Clarendon Press, 1906), s.v. "shamar" (guardar, custodiar), "chanan" (tener misericordia, mostrar favor), "nasa" (alzar el rostro, dicho de Dios una señal de favor, Números 6:26), "shalom" (plenitud, integridad, bienestar, paz), en Sefaria. https://www.sefaria.org/BDB
 - [^mishnah]: Mishná Sotah 7:6 y Mishná Tamid 7:2, William Davidson Edition, Sefaria. https://www.sefaria.org/Mishnah_Sotah.7.6

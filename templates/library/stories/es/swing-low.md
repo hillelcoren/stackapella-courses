@@ -47,7 +47,7 @@ Swing Low, Sweet Chariot es un espiritual (en inglés, spiritual), uno de los ca
 
 ## Qué dice la letra
 
-**El estribillo.** "Swing low, sweet chariot": baja, dulce carro, acércate tanto que pueda alcanzarte. El carro es el de Elías. En el Segundo libro de los Reyes (2 Reyes 2:11), mientras Elías y su discípulo Eliseo caminan juntos, "apareció un carro de fuego, con caballos de fuego", y Elías sube "en un torbellino al cielo" [^kjv][^psh]. El carro y los caballos de fuego separan a los dos hombres, y un torbellino se lleva a Elías hacia lo alto [^kjv]. En "Coming for to carry me home", "for to" es una forma antigua de decir "to" (para). La casa es el cielo. La canción recibe la muerte como el momento en que te llevan a casa [^psh].
+**El estribillo.** "Swing low, sweet chariot": baja, dulce carro, acércate tanto que pueda alcanzarte. El carro es el de Elías. En el Segundo libro de los Reyes (2 Reyes 2:11), mientras Elías y su discípulo Eliseo caminan juntos, aparece "un carro de fuego con caballos de fuego", y "Elías subió al cielo en un torbellino" [^kjv][^psh]. El carro y los caballos de fuego separan a los dos hombres, y un torbellino se lleva a Elías hacia lo alto [^kjv]. En "Coming for to carry me home", "for to" es una forma antigua de decir "to" (para). La casa es el cielo. La canción recibe la muerte como el momento en que te llevan a casa [^psh].
 
 **La estrofa 1, la que cantamos.** "I looked over Jordan, and what did I see": miré al otro lado del río. El Jordán es el río que los israelitas cruzaron a pie enjuto hacia la tierra prometida, y el río que Elías y Eliseo cruzaron, también a pie enjuto, justo antes de que apareciera el carro [^kjv][^psh]. Al otro lado del río, quien canta ve "a band of angels coming after me": un grupo de ángeles que viene a buscarme.
 
@@ -164,7 +164,7 @@ La soprano canta la melodía de principio a fin, y las otras voces cantan en arm
 - [^hampton1874]: M. F. Armstrong y Helen W. Ludlow, *Hampton and Its Students*, con cincuenta cabin and plantation songs arregladas por Thomas P. Fenner (Nueva York: G. P. Putnam's Sons, 1874), p. 179; facsímil. https://archive.org/details/hampton00arms
 - [^psh]: Hymnary.org, *Psalter Hymnal* (1987), n.º 617, "Swing Low, Sweet Chariot", con las notas del Psalter Hymnal Handbook. https://hymnary.org/hymn/PsH/617
 - [^hymnary-text]: Hymnary.org, "Swing Low, Sweet Chariot" (texto), con notas. https://hymnary.org/text/swing_low_sweet_chariot
-- [^kjv]: La Biblia, versión King James: 2 Reyes 2:7 a 11; Josué 3:17. https://www.biblegateway.com/passage/?search=2%20Kings%202%3A7-11%3B%20Joshua%203%3A17&version=KJV
+- [^kjv]: La Biblia, versión King James: 2 Reyes 2:7 a 11; Josué 3:17; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=2%20Kings%202%3A7-11%3B%20Joshua%203%3A17&version=KJV
 - [^douglass1855]: Frederick Douglass, *My Bondage and My Freedom* (1855), capítulo 19, "The Run-Away Plot"; texto de Project Gutenberg. https://www.gutenberg.org/ebooks/202
 - [^bordewich]: Fergus M. Bordewich, "Myths of the Underground Railroad", *Underground Railroad Online Handbook* (House Divided Project, Dickinson College). https://housedivided.dickinson.edu/sites/ugrr/thematic-essays/myths-of-the-underground-railroad-bordewich/
 - [^larson]: Kate Clifford Larson, "Myths & Facts About Harriet Tubman", Visit Maryland. https://www.visitmaryland.org/article/myths-facts-about-harriet-tubman

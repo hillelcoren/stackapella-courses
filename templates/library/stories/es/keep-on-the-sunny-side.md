@@ -183,4 +183,4 @@ La soprano, como en la impresión de Entwisle, donde la melodía es la línea m�
 - [^jukebox1906b]: Library of Congress, National Jukebox, "Keep on the sunny side" (Theodore F. Morse y Jack Drislane), Columbia, matriz 3398, grabado el 31 de mayo de 1906, con copia en Internet Archive. https://archive.org/details/loc-jukebox-727505-keep-on-the-sunny-side
 - [^copyright-office]: U.S. Copyright Office, *Pre-1972 Sound Recordings* (Music Modernization Act, título II). https://www.copyright.gov/music-modernization/pre1972-soundrecordings/
 - [^cornell]: Cornell University Library, *Copyright Term and the Public Domain in the United States*. https://guides.library.cornell.edu/copyright/publicdomain
-- [^kjv]: La Biblia, versión King James, Salmo 36:9; las citas en español, de la Reina-Valera 1960. https://www.biblegateway.com/passage/?search=Psalm%2036%3A9&version=KJV
+- [^kjv]: La Biblia, versión King James, Salmo 36:9; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Psalm%2036%3A9&version=KJV

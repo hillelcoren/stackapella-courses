@@ -52,7 +52,7 @@ En el siglo XX se convirtió en un sonido del Oeste americano en el cine, en dos
 
 ## Qué dice la letra
 
-El río es el del último capítulo de la Biblia. En Apocalipsis 22:1 a 2, un ángel muestra a Juan "un río puro de agua de vida, claro como el cristal, que salía del trono de Dios y del Cordero". Junto a él crece el árbol de la vida, cuyas hojas sanan a las naciones [^kjv]. "El Cordero" es Cristo. Bright Jewels imprime el versículo 1 de ese capítulo sobre la música, y el himno retoma sus palabras: "clear as crystal" (claro como el cristal) se convierte en "crystal tide" (corriente de cristal), y "the throne of God" (el trono de Dios) queda tal cual [^brightjewels1869][^kjv]. Esa era la idea de la historia tal como la cuenta Burrage: a Lowry le parecía que los himnos habían dicho mucho sobre "el río de la muerte" y demasiado poco sobre el río de la vida [^burrage1888][^long1876].
+El río es el del último capítulo de la Biblia. En Apocalipsis 22:1 a 2, un ángel muestra a Juan "un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero". Junto a él crece el árbol de la vida, cuyas hojas sanan a las naciones [^kjv]. "El Cordero" es Cristo. Bright Jewels imprime el versículo 1 de ese capítulo sobre la música, y el himno retoma sus palabras: "clear as crystal" (resplandeciente como cristal) se convierte en "crystal tide" (corriente de cristal), y "the throne of God" (el trono de Dios) queda tal cual [^brightjewels1869][^kjv]. Esa era la idea de la historia tal como la cuenta Burrage: a Lowry le parecía que los himnos habían dicho mucho sobre "el río de la muerte" y demasiado poco sobre el río de la vida [^burrage1888][^long1876].
 
 1. ¿Nos reuniremos junto al río celestial, por donde caminan los ángeles, que fluye para siempre junto al trono de Dios? El estribillo responde: sí, con los santos, el pueblo de Dios.
 2. En su "margin", su orilla, donde levanta una espuma de plata, caminaremos y adoraremos durante todo el día feliz y dorado.
@@ -160,7 +160,7 @@ La Sonata para violín n.º 4 de Charles Ives, "Children's Day at the Camp Meeti
 
 ### ¿En qué versículo de la Biblia se basa Shall We Gather at the River?
 
-En Apocalipsis 22:1, "un río puro de agua de vida, claro como el cristal, que salía del trono de Dios y del Cordero" [^kjv]. Lowry imprimió ese versículo sobre el himno en su Bright Jewels de 1869 [^brightjewels1869]. Su "crystal tide" (corriente de cristal) recuerda el "claro como el cristal" del versículo [^kjv].
+En Apocalipsis 22:1, "un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero" [^kjv]. Lowry imprimió ese versículo sobre el himno en su Bright Jewels de 1869 [^brightjewels1869]. Su "crystal tide" (corriente de cristal) recuerda el "resplandeciente como cristal" del versículo [^kjv].
 
 ### ¿En qué películas aparece Shall We Gather at the River?
 
@@ -190,7 +190,7 @@ La soprano canta la melodía de Lowry, tal como él la imprimió en Bright Jewel
 - [^fenner]: Chris Fenner, "Shall we gather at the river", Hymnology Archive (17 de julio de 2018, revisado el 11 de febrero de 2025). https://www.hymnologyarchive.com/shall-we-gather
 - [^hymnary-text]: Hymnary.org, *Shall We Gather at the River?* (texto), con sus notas para quien dirige. https://hymnary.org/text/shall_we_gather_at_the_river
 - [^hymnary-ngs]: Hymnary.org, *The New Golden Shower*, ed. W. B. Bradbury (Nueva York, 1866), índice, n.º 25. https://hymnary.org/hymnal/NGS1866
-- [^kjv]: La Biblia, versión King James: Apocalipsis 22:1 a 2. https://www.biblegateway.com/passage/?search=Revelation%2022%3A1-2&version=KJV
+- [^kjv]: La Biblia, versión King James: Apocalipsis 22:1 a 2; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Revelation%2022%3A1-2&version=KJV
 - [^afi-stagecoach]: American Film Institute, *AFI Catalog of Feature Films*, "Stagecoach (1939)", notas históricas. https://catalog.afi.com/Catalog/moviedetails/4173
 - [^filmsite-stagecoach]: Tim Dirks, "Stagecoach (1939)", Filmsite. https://www.filmsite.org/stagec.html
 - [^mmuk-stagecoach]: Craig Lysy, "Stagecoach, Richard Hageman", Movie Music UK (8 de enero de 2024). https://moviemusicuk.us/2024/01/08/stagecoach-richard-hageman/

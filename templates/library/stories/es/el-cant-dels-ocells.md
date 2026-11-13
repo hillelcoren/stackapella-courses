@@ -50,7 +50,7 @@ El cant dels ocells, "el canto de los pájaros", es un villancico catalán. Los 
 
 Después de la primera estrofa, en cada estrofa de seis versos cantan o hablan de una a cuatro aves [^millet1917]. El impreso conserva grafías antiguas: "aucells" por el actual ocells (pájaros), "lo" y "los" por el y els (el, los), "ab" por amb (con), "dihent" por dient (diciendo), "tráurens" por treure'ns (sacarnos) y "darnos" por donar-nos (darnos) [^millet1917][^capmany1903].
 
-**Estrofa 1.** "Despuntar" es lo que hace el sol cuando empieza a asomar [^dcvb-words]. "Lo major lluminar" recuerda la "luz mayor para regir el día" del Génesis 1:16, el "luminare majus" de la Vulgata [^genesis][^dcvb-words]. Aquí ese sol sale de noche, en la "nit més ditxosa", la noche más dichosa: es el niño, y los pajaritos van a festejarlo "ab sa veu melindrosa", con su voz delicada [^millet1917][^dcvb-words][^materials].
+**Estrofa 1.** "Despuntar" es lo que hace el sol cuando empieza a asomar [^dcvb-words]. "Lo major lluminar" recuerda la "lumbrera mayor para que señorease en el día" del Génesis 1:16, el "luminare majus" de la Vulgata [^genesis][^dcvb-words]. Aquí ese sol sale de noche, en la "nit més ditxosa", la noche más dichosa: es el niño, y los pajaritos van a festejarlo "ab sa veu melindrosa", con su voz delicada [^millet1917][^dcvb-words][^materials].
 
 **Estrofa 2.** El águila imperial vuela por los aires cantando que Jesús ha nacido para sacarnos del pecado y darnos alegría [^millet1917].
 
@@ -345,4 +345,4 @@ La soprano, sola y con toda la letra, como la voz solista en el impreso de Mille
 - [^stategov]: U.S. Department of State, *Dinner Is Served*, "Pablo Casals", con fotografías de la John F. Kennedy Presidential Library. https://stories.state.gov/dinner-is-served/dance/pablo-casals
 - [^musicweb]: Jonathan Woolf, MusicWeb International, reseña de *Pablo Casals: A Concert at the White House* (Minuet 428408), septiembre de 2015. https://musicweb-international.com/classrev/2015/Sep/Casals_White_House_428408.htm
 - [^datebook]: Composers Datebook, "Casals and Copland at the White House" (YourClassical, American Public Media, 13 de noviembre de 2022). https://www.yourclassical.org/episode/2022/11/13/casals-and-copland-at-the-white-house
-- [^genesis]: La Biblia, Génesis 1:16, en la Vulgata latina y la King James Version. https://www.biblegateway.com/passage/?search=Genesis%201%3A16&version=VULGATE;KJV
+- [^genesis]: La Biblia, Génesis 1:16, en la Vulgata latina y la King James Version; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Genesis%201%3A16&version=VULGATE;KJV

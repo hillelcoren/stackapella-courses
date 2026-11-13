@@ -49,10 +49,10 @@ El doble sentido de estas canciones está documentado. De aquella despedida, Bra
 
 ## Qué dice la letra
 
-- **El estribillo.** "God's a-going to trouble the water" significa que Dios va a agitar el agua. En el Evangelio de Juan, los enfermos esperaban junto al estanque de Betesda, porque "un ángel descendía de tiempo en tiempo al estanque, y agitaba el agua", y el primero que entraba después quedaba sano [^kjv]. Un himnólogo metodista lee el estribillo desde ese relato, y The Faith We Sing da Juan 5:2-9 como su pasaje bíblico [^hawn][^hymnaryfws].
+- **El estribillo.** "God's a-going to trouble the water" significa que Dios va a agitar el agua. En el Evangelio de Juan, los enfermos esperaban junto al estanque de Betesda, porque "un ángel descendía á cierto tiempo al estanque, y revolvía el agua", y el primero que entraba después quedaba sano [^kjv]. Un himnólogo metodista lee el estribillo desde ese relato, y The Faith We Sing da Juan 5:2-9 como su pasaje bíblico [^hawn][^hymnaryfws].
 - **Estrofa 1.** "See that band all dressed in white": "band" es aquí un grupo de personas. En el Apocalipsis, una gran multitud está de pie ante el trono, "vestidos de ropas blancas" [^kjv]. "The leader looks like the Israelite": quien va delante parece el israelita, uno del pueblo de Israel.
 - **Estrofa 2.** Un grupo "dressed in red" (vestido de rojo) parece "like the band that Moses led" (el grupo que guiaba Moisés), los israelitas que Moisés sacó de Egipto a través del mar, en seco [^kjv]. El himnólogo lee las dos primeras estrofas como el paso del mar Rojo [^hawn].
-- **Estrofa 3.** "Look over yonder what do I see? The Holy Ghost a-coming on me": el Espíritu de Dios desciende sobre quien canta. La estrofa no nombra ningún pasaje bíblico; Isaías 61, "El Espíritu del Señor Dios está sobre mí", es una propuesta [^hawn][^kjv].
+- **Estrofa 3.** "Look over yonder what do I see? The Holy Ghost a-coming on me": el Espíritu de Dios desciende sobre quien canta. La estrofa no nombra ningún pasaje bíblico; Isaías 61, "El espíritu del Señor Jehová es sobre mí", es una propuesta [^hawn][^kjv].
 - **Estrofa 4.** "You don't believe I've been redeemed?": ser redimido es ser salvado, rescatado. "Just follow me down to Jordan's stream": el Jordán es el río que los israelitas cruzaron para entrar en la tierra prometida, y donde Jesús fue a Juan para ser bautizado [^kjv][^hawn].
 
 ### La letra completa
@@ -115,7 +115,7 @@ Nuestro arreglo toma la melodía y la letra de la página de 1904, subidas medio
 
 ### ¿Qué significa "God's gonna trouble the water"?
 
-Significa que Dios va a agitar el agua, como un ángel "agitaba el agua" del estanque sanador de Betesda en el Evangelio de Juan [^kjv][^hawn]. The Faith We Sing da Juan 5:2-9 como su pasaje bíblico y la pone en el apartado del bautismo, y el libro de Fisk de 1904 la llama melodía de bautismo, así que el agua agitada es también el agua del bautismo [^hymnaryfws][^work1904].
+Significa que Dios va a agitar el agua, como un ángel "revolvía el agua" del estanque sanador de Betesda en el Evangelio de Juan [^kjv][^hawn]. The Faith We Sing da Juan 5:2-9 como su pasaje bíblico y la pone en el apartado del bautismo, y el libro de Fisk de 1904 la llama melodía de bautismo, así que el agua agitada es también el agua del bautismo [^hymnaryfws][^work1904].
 
 ### ¿Escribió o cantó Harriet Tubman Wade in the Water?
 
@@ -159,4 +159,4 @@ Nadie lo sabe. Es un espiritual tradicional, y la impresión más antigua que he
 - [^burleigh1925]: H. T. Burleigh, arr., "Wade in de Water", en *The Celebrated Negro Spirituals Arranged for Solo Voice by H. T. Burleigh, Second Album* (página de contenido "Negro Spirituals, Album No. 2"; Londres: G. Ricordi & Co., sin fecha), pp. 37 a 41, "Copyright MCMXXV by G. Ricordi & Co., Inc."; University of Toronto, Faculty of Music Library, M1670 .B87 N4, facsímil. https://archive.org/details/negrospirituals01burl
 - [^cce1925]: Library of Congress, Copyright Office, *Catalog of Copyright Entries*, parte 3, Musical Compositions, nueva serie, vol. 20, n.º 9-10 (1925), p. 1041, entradas 21431, "Wade in de water; four-part cho., negro spiritual, arr. H. T. Burleigh", 18 de septiembre de 1925, y 21432, la misma para voz aguda, 5 de octubre de 1925, G. Ricordi & Co., Inc., Nueva York (imagen n1084); facsímil. https://archive.org/details/catalogofcopyrig203libr
 - [^johnson1926]: James Weldon Johnson, ed., y J. Rosamond Johnson, arr., *The Second Book of Negro Spirituals* (Nueva York: Viking Press, 1926), prefacio y "God's A-Gwineter Trouble De Water", pp. 84 a 85; University of Toronto, Faculty of Music Library, M1670 .S43 1926, facsímil. https://archive.org/details/31761034975011
-- [^kjv]: La Biblia, versión King James: Juan 5:2-7; Éxodo 14:21-22; Apocalipsis 7:9; Isaías 61:1; Josué 3:17; Mateo 3:13. https://www.biblegateway.com/passage/?search=John%205%3A2-7%3B%20Exodus%2014%3A21-22%3B%20Revelation%207%3A9%3B%20Isaiah%2061%3A1%3B%20Joshua%203%3A17%3B%20Matthew%203%3A13&version=KJV
+- [^kjv]: La Biblia, versión King James: Juan 5:2-7; Éxodo 14:21-22; Apocalipsis 7:9; Isaías 61:1; Josué 3:17; Mateo 3:13; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=John%205%3A2-7%3B%20Exodus%2014%3A21-22%3B%20Revelation%207%3A9%3B%20Isaiah%2061%3A1%3B%20Joshua%203%3A17%3B%20Matthew%203%3A13&version=KJV

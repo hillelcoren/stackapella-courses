@@ -171,4 +171,4 @@ La soprano canta la melodía, la de Friedenthal de 1913, aquí en Sol [^friedent
 - [^infobae2022]: Infobae, "Cuál es el origen de 'Las mañanitas'" (21 de mayo de 2022, actualizado el 22 de mayo de 2022). https://www.infobae.com/america/2022/05/22/cual-es-el-origen-de-las-mananitas/
 - [^quadratin2026]: Alberto Carbot, sobre la autoría de Las mañanitas, Quadratín México (28 de agosto de 2026). https://mexico.quadratin.com.mx/las-mananitas-mexicanas-una-cancion-sin-autor-definido/
 - [^hernandez-desdelafe]: José Alberto Hernández Ibáñez, "¿El rey David escribió Las Mañanitas? ¿Qué dice la Biblia de él?", Desde la Fe, reproducido en Catholic.net. https://es.catholic.net/op/articulos/79630/el-rey-david-escribio-las-mananitas-que-dice-la-biblia-de-el.html
-- [^kjv-ps5]: La Biblia, versión King James: Salmo 5:3. https://www.biblegateway.com/passage/?search=Psalm%205&version=KJV
+- [^kjv-ps5]: La Biblia, versión King James: Salmo 5:3; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Psalm%205&version=KJV

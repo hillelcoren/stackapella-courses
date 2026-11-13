@@ -49,7 +49,7 @@ Once años antes había marcado otra pérdida. El presidente William McKinley re
 
 ## Qué dice la letra
 
-El himno sigue a Jacob en Génesis 28. De camino a Harán, se detiene a pasar la noche cuando se ha puesto el sol, duerme con una piedra por almohada y sueña con una escala, o escalera, de la tierra al cielo, por la que suben y bajan ángeles. Al despertar, levanta la piedra como pilar y llama al lugar Betel, diciendo que es "la casa de Dios" [^kjv]. Hay himnarios que han impreso versículos de este capítulo sobre el himno [^hymnary1872][^hymnalcompanion1890].
+El himno sigue a Jacob en Génesis 28. De camino a Harán, se detiene a pasar la noche cuando se ha puesto el sol, duerme con una piedra por almohada y sueña con una escala, o escalera, de la tierra al cielo, por la que suben y bajan ángeles. Al despertar, levanta la piedra como pilar y llama al lugar Betel, diciendo que es la "casa de Dios" [^kjv]. Hay himnarios que han impreso versículos de este capítulo sobre el himno [^hymnary1872][^hymnalcompanion1890].
 
 1. Que me acerque más a Dios, aunque lo que me eleve ("raiseth me") sea una cruz: una carga, o el sufrimiento.
 2. Como Jacob, el "wanderer" (el caminante), a oscuras y con una piedra por almohada, aun así estaría cerca de Dios en mis sueños.
@@ -217,4 +217,4 @@ La soprano canta la melodía de Mason, BETHANY, tal como la imprimió The Sabbat
 - [^oregonian0916]: *Morning Oregonian* (Portland, Oregón), 16 de septiembre de 1901, p. 8, sermones sobre la muerte del presidente; facsímil, Historic Oregon Newspapers. https://oregonnews.uoregon.edu/lccn/sn83025138/1901-09-16/ed-1/seq-8/
 - [^trc]: Theodore Roosevelt Center, Dickinson State University, *President McKinley's funeral, 1901* (película de la Library of Congress). https://www.theodorerooseveltcenter.org/digital-library/o284583/
 - [^hsp1874]: Roswell D. Hitchcock, Zachary Eddy y Philip Schaff, eds., *Hymns and Songs of Praise for Public and Social Worship* (Nueva York: A. S. Barnes, 1874), p. 288, "Bethany. Arr. by Lowell Mason"; ejemplar de la Princeton Theological Seminary Library, página escaneada n295. https://archive.org/details/hymnssongso00hitc
-- [^kjv]: La Biblia, versión King James: Génesis 28:10 a 22. https://www.biblegateway.com/passage/?search=Genesis%2028%3A10-22&version=KJV
+- [^kjv]: La Biblia, versión King James: Génesis 28:10 a 22; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Genesis%2028%3A10-22&version=KJV

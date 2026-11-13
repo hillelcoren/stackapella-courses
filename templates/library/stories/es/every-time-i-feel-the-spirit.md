@@ -52,9 +52,9 @@ Every Time I Feel the Spirit, también impreso como Ev'ry Time I Feel the Spirit
 
 ## Qué dice la letra
 
-El estribillo es una promesa: siempre que siento al Espíritu Santo moverse en mi corazón, oraré. La Carta a los Romanos, en la Biblia, dice que el Espíritu ayuda a orar cuando "no sabemos qué pedir como conviene" [^kjv]. Los himnarios también remiten a Romanos 8:15 a 17 y a Lucas 11:13, donde el Padre da "el Espíritu Santo a los que se lo pidan" [^hymnary-umh][^hymnary-ph1990][^kjv].
+El estribillo es una promesa: siempre que siento al Espíritu Santo moverse en mi corazón, oraré. La Carta a los Romanos, en la Biblia, dice que el Espíritu ayuda a orar porque "qué hemos de pedir como conviene, no lo sabemos" [^kjv]. Los himnarios también remiten a Romanos 8:15 a 17 y a Lucas 11:13, donde el Padre da "el Espíritu Santo á los que lo pidieren de él" [^hymnary-umh][^hymnary-ph1990][^kjv].
 
-- **"Upon the mountain my Lord spoke, Out His mouth came fire and smoke."** (En el monte habló mi Señor; de su boca salieron fuego y humo.) El monte es muy probablemente el Sinaí, como lo interpreta el Hymnology Archive: allí, dice el libro del Éxodo, el Señor descendió "en fuego" y que el monte estaba "todo humeando"; un salmo dice que "fuego de su boca devoraba" [^hymnarchive][^kjv].
+- **"Upon the mountain my Lord spoke, Out His mouth came fire and smoke."** (En el monte habló mi Señor; de su boca salieron fuego y humo.) El monte es muy probablemente el Sinaí, como lo interpreta el Hymnology Archive: allí, dice el libro del Éxodo, "todo el monte de Sinaí humeaba", porque el Señor había descendido sobre él "en fuego"; un salmo dice: "de su boca consumidor fuego" [^hymnarchive][^kjv].
 - **"All around me looks so shine, Ask my Lord if all was mine."** (Todo a mi alrededor se ve tan brillante; le pregunto a mi Señor si todo era mío.) Aquí "shine" quiere decir brillante: todo lo que rodea a quien canta se ve luminoso, y le pregunta al Señor si todo aquello era suyo. Un himnólogo oye un posible eco del jardín del Edén [^hymnarchive].
 - **"Jordan river is chilly and cold, Chills the body but not the soul."** (El río Jordán está helado y frío; enfría el cuerpo, pero no el alma.) Los israelitas cruzaron el Jordán para entrar en la tierra prometida [^kjv]. El agua fría enfría el cuerpo, pero no puede tocar el alma.
 
@@ -155,4 +155,4 @@ En el estribillo la soprano canta la melodía, la voz superior impresa, con las 
 - [^cbb-dawson]: James M. Manheim, "Dawson, William Levi 1899-1990", *Contemporary Black Biography*, en Encyclopedia.com. https://www.encyclopedia.com/people/literature-and-arts/music-history-composers-and-performers-biographies/william-levi-dawson
 - [^alamhof-dawson]: Alabama Music Hall of Fame, "William Levi Dawson". https://alamhof.org/williamldawson
 - [^douglass1855]: Frederick Douglass, *My Bondage and My Freedom* (1855), capítulo 19, "The Run-Away Plot", edición de Project Gutenberg. https://www.gutenberg.org/files/202/202-h/202-h.htm
-- [^kjv]: La Biblia, versión King James: Éxodo 19:18; Josué 3:17; Salmo 18:8; Lucas 11:13; Romanos 8:26. https://www.biblegateway.com/passage/?search=Exodus%2019%3A18%3B%20Joshua%203%3A17%3B%20Psalm%2018%3A8%3B%20Luke%2011%3A13%3B%20Romans%208%3A26&version=KJV
+- [^kjv]: La Biblia, versión King James: Éxodo 19:18; Josué 3:17; Salmo 18:8; Lucas 11:13; Romanos 8:26; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Exodus%2019%3A18%3B%20Joshua%203%3A17%3B%20Psalm%2018%3A8%3B%20Luke%2011%3A13%3B%20Romans%208%3A26&version=KJV

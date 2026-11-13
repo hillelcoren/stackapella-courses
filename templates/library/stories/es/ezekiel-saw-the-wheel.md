@@ -21,7 +21,7 @@ listen: UC Santa Barbara Library, Discography of American Historical Recordings,
 original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), pp. 60 a 61, Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett/page/n91
 ---
 
-Ezekiel Saw the Wheel, impreso como "Ezekiel Saw de Wheel", es un espiritual afroamericano (en inglés, spiritual) sobre la visión con la que empieza el libro de Ezequiel, donde el profeta ve unas ruedas: "su apariencia y su obra eran como rueda en medio de rueda" [^kjv][^hampton1909]. No se conoce el nombre de quien lo hizo. Su primera impresión conocida es de 1909, en el cancionero del Hampton Institute de Virginia, cuyos estudiantes cantaban y publicaban espirituales desde la década de 1870 [^hampton1909][^hampton1874]. Su forma es de llamada y respuesta: todos cantan el estribillo, y en cada estrofa una voz canta sola un verso y todos responden "'Way in de middle ob de air" (allá, en medio del aire) [^dett1927][^carnegiefolk].
+Ezekiel Saw the Wheel, impreso como "Ezekiel Saw de Wheel", es un espiritual afroamericano (en inglés, spiritual) sobre la visión con la que empieza el libro de Ezequiel, donde el profeta ve unas ruedas: "su apariencia y su obra como rueda en medio de rueda" [^kjv][^hampton1909]. No se conoce el nombre de quien lo hizo. Su primera impresión conocida es de 1909, en el cancionero del Hampton Institute de Virginia, cuyos estudiantes cantaban y publicaban espirituales desde la década de 1870 [^hampton1909][^hampton1874]. Su forma es de llamada y respuesta: todos cantan el estribillo, y en cada estrofa una voz canta sola un verso y todos responden "'Way in de middle ob de air" (allá, en medio del aire) [^dett1927][^carnegiefolk].
 
 ## De dónde viene
 
@@ -49,9 +49,9 @@ Ezekiel Saw the Wheel, impreso como "Ezekiel Saw de Wheel", es un espiritual afr
 
 ## Qué dice la letra
 
-**La rueda.** El libro de Ezequiel empieza con el profeta entre los cautivos "junto al río Quebar", cuando "los cielos se abrieron, y vi visiones de Dios" [^kjv]. Cuatro seres vivientes salen de un torbellino y de fuego, y junto a ellos van unas ruedas: "su apariencia y su obra eran como rueda en medio de rueda" [^kjv]. Sus aros están llenos de ojos, y "el espíritu de los seres vivientes estaba en las ruedas" [^kjv]. Sobre ellos hay un trono con una figura sentada en él, y Ezequiel dice que aquello fue "la visión de la semejanza de la gloria de Jehová"; se postró sobre su rostro [^kjv].
+**La rueda.** El libro de Ezequiel empieza con el profeta entre los cautivos "junto al río de Chebar", cuando "los cielos se abrieron, y vi visiones de Dios" [^kjv]. Cuatro seres vivientes salen de un torbellino y de fuego, y junto a ellos van unas ruedas: "su apariencia y su obra como rueda en medio de rueda" [^kjv]. Sus aros están llenos de ojos, y "el espíritu de los animales estaba en las ruedas" [^kjv]. Sobre ellos hay un trono con una figura sentada en él, y Ezequiel dice que aquello fue "la visión de la semejanza de la gloria de Jehová"; se postró sobre su rostro [^kjv].
 
-**"'Way in de middle ob de air."** Allá arriba, en medio del aire. Pablo escribe que los fieles serán "arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire" [^kjv]. En 1899 Barton imprimió una canción que contaba entre los "cantos escatológicos", sobre el fin de los tiempos, con el verso "Wait till I gits in de middle of de air, Won't be nary sinnah dere" (espera a que llegue al medio del aire: allí no habrá ni un pecador) [^barton1899].
+**"'Way in de middle ob de air."** Allá arriba, en medio del aire. Pablo escribe: "juntamente con ellos seremos arrebatados en las nubes á recibir al Señor en el aire" [^kjv]. En 1899 Barton imprimió una canción que contaba entre los "cantos escatológicos", sobre el fin de los tiempos, con el verso "Wait till I gits in de middle of de air, Won't be nary sinnah dere" (espera a que llegue al medio del aire: allí no habrá ni un pecador) [^barton1899].
 
 **"An' de little wheel run by faith, An' de big wheel run by de grace ob God."** Y la rueda pequeña gira por la fe, y la rueda grande gira por la gracia de Dios. La canción hace girar las ruedas de Ezequiel por la fe y por la gracia de Dios, como espirituales más antiguos hacían andar un carro. Slave Songs (1867) tiene "De fore wheels run by de grace ob God, An' de hind wheels dey run by faith" (las ruedas delanteras giran por la gracia de Dios, y las traseras giran por la fe), y el libro de Hampton de 1874 tiene una rueda delantera que gira "by love" (por amor) y una trasera que gira "by faith" (por la fe) [^slavesongs1867][^hampton1874].
 
@@ -59,7 +59,7 @@ Ezekiel Saw the Wheel, impreso como "Ezekiel Saw de Wheel", es un espiritual afr
 
 **Estrofa 2.** Un hipócrita murmura de mí y de ti. Jesús advierte contra los hipócritas que oran "para ser vistos de los hombres" [^kjv].
 
-**Estrofa 3.** Un día, a las doce, el viejo mundo se tambaleará y se sacudirá: el fin del mundo. Isaías dice: "Temblará la tierra como un ebrio" [^kjv].
+**Estrofa 3.** Un día, a las doce, el viejo mundo se tambaleará y se sacudirá: el fin del mundo. Isaías dice: "Temblará la tierra vacilando como un borracho" [^kjv].
 
 Cantamos la grafía del libro: "de" es "the" (el, la), "ob" es "of" (de), "befo'" es "before" (antes de), "dey" es "they" (ellos), "hypocrit'll" es "hypocrite will" (un hipócrita va a), "'bout" es "about" (de, sobre), "dese" es "these" (estos), "worl'" es "world" (mundo), "gwine" es "going" (va a), "an'" es "and" (y), "fo'" es "for" (para), "o'" es "of" (de), "dis" es "this" (este) y "ole" es "old" (viejo).
 
@@ -139,7 +139,7 @@ Nuestro arreglo toma la melodía y la letra de las páginas de Dett, un semitono
 
 ### ¿Qué era la rueda que vio Ezequiel?
 
-Formaba parte de una visión, en el capítulo 1 de Ezequiel. Junto a cuatro seres vivientes, el profeta vio unas ruedas cuya apariencia y obra eran "como rueda en medio de rueda", con aros llenos de ojos; se levantaban cuando se levantaban los seres, "porque el espíritu de los seres vivientes estaba en las ruedas" [^kjv]. Sobre ellos había un trono, y Ezequiel llama a lo que vio "la visión de la semejanza de la gloria de Jehová" [^kjv].
+Formaba parte de una visión, en el capítulo 1 de Ezequiel. Junto a cuatro seres vivientes, el profeta vio unas ruedas cuya apariencia y obra eran "como rueda en medio de rueda", con aros llenos de ojos; se levantaban cuando se levantaban los seres, "porque el espíritu de los animales estaba en las ruedas" [^kjv]. Sobre ellos había un trono, y Ezequiel llama a lo que vio "la visión de la semejanza de la gloria de Jehová" [^kjv].
 
 ### ¿De qué trata la canción Ezekiel Saw the Wheel?
 
@@ -181,4 +181,4 @@ La soprano, en nuestro arreglo. El libro de Hampton de 1927 marca el primer vers
 - [^carnegiefolk]: Carnegie Hall, *Timeline of African American Music*, "Folk Spiritual". https://timeline.carnegiehall.org/genres/folk-spiritual
 - [^bordewich]: Fergus M. Bordewich, "Myths of the Underground Railroad", *Underground Railroad Online Handbook* (House Divided Project, Dickinson College). https://housedivided.dickinson.edu/sites/ugrr/thematic-essays/myths-of-the-underground-railroad-bordewich/
 - [^webster1913]: *Webster's Revised Unabridged Dictionary* (Springfield, Mass.: G. & C. Merriam, 1913), "turn", "To turn out. (a) To drive out; to expel"; edición de Project Gutenberg. https://www.gutenberg.org/ebooks/29765
-- [^kjv]: La Biblia, versión King James: Ezequiel 1:1 a 3, 1:4 a 5, 1:15 a 20 y 1:26 a 28; Isaías 24:20; Mateo 6:5; 1 Tesalonicenses 4:17; las citas en español, de la Reina-Valera 1960. https://www.biblegateway.com/passage/?search=Ezekiel%201%3B%20Isaiah%2024%3A20%3B%20Matthew%206%3A5%3B%201%20Thessalonians%204%3A17&version=KJV
+- [^kjv]: La Biblia, versión King James: Ezequiel 1:1 a 3, 1:4 a 5, 1:15 a 20 y 1:26 a 28; Isaías 24:20; Mateo 6:5; 1 Tesalonicenses 4:17; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Ezekiel%201%3B%20Isaiah%2024%3A20%3B%20Matthew%206%3A5%3B%201%20Thessalonians%204%3A17&version=KJV

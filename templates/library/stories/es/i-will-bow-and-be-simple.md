@@ -50,9 +50,9 @@ Toda la canción es una sola promesa, "I will bow" (me inclinaré), repetida cin
 
 **"I will bow, this is the token."** (Me inclinaré, esta es la señal.) Un "token" es una señal: inclinarse es la señal exterior de un corazón humilde.
 
-**"I will wear the easy yoke."** (Llevaré el yugo suave.) Son las palabras de Jesús en Mateo 11: "Take my yoke upon you, and learn of me; for I am meek and lowly in heart" (que tomen su yugo y aprendan de él, porque es manso y humilde de corazón), y "my yoke is easy, and my burden is light" (mi yugo es suave y mi carga es ligera) [^kjv]. Un yugo es el armazón de madera que une un buey a su trabajo. Llevarlo significa tomar el camino de Cristo, que él llama suave.
+**"I will wear the easy yoke."** (Llevaré el yugo suave.) Son las palabras de Jesús en Mateo 11: "Take my yoke upon you, and learn of me; for I am meek and lowly in heart" (Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón), y "my yoke is easy, and my burden is light" (mi yugo es fácil, y ligera mi carga) [^kjv]. Un yugo es el armazón de madera que une un buey a su trabajo. Llevarlo significa tomar el camino de Cristo, que él llama "easy" (fácil).
 
-**"I will bow and be broken, yea I'll fall upon the rock."** (Me inclinaré y seré quebrantado, sí, caeré sobre la roca.) Esto recuerda otro dicho de Jesús, sobre la piedra que desecharon los constructores: "whosoever shall fall on this stone shall be broken" (el que caiga sobre esta piedra será quebrantado), en Mateo 21:44 y en Lucas 20:18 [^kjv]. La canción parece convertir la advertencia en una elección: quien canta cae sobre la roca por su propia voluntad, para que su orgullo se quiebre.
+**"I will bow and be broken, yea I'll fall upon the rock."** (Me inclinaré y seré quebrantado, sí, caeré sobre la roca.) Esto recuerda otro dicho de Jesús, sobre la piedra que desecharon los constructores: "whosoever shall fall on this stone shall be broken" (el que cayere sobre esta piedra, será quebrantado), en Mateo 21:44 y en Lucas 20:18 [^kjv]. La canción parece convertir la advertencia en una elección: quien canta cae sobre la roca por su propia voluntad, para que su orgullo se quiebre.
 
 ### La letra completa
 
@@ -126,5 +126,5 @@ La soprano canta la melodía de principio a fin. Dos cantantes hacen la soprano 
 - [^smportrait]: Shaker Museum | Mount Lebanon, ficha de la colección, "Portrait of Sister Mary Hazard". https://shakermuseum.us/object?id=16544
 - [^smpostmark]: Shaker Museum | Mount Lebanon, ficha de la colección, "Postal stamp for Mount Lebanon, NY". https://www.shakermuseum.us/object?id=21286
 - [^webster1828]: Noah Webster, *An American Dictionary of the English Language* (Nueva York: S. Converse, 1828), "prick", verbo, acepción 9. https://webstersdictionary1828.com/Dictionary/prick
-- [^kjv]: La Biblia, versión King James: Mateo 11:29 a 30, Mateo 21:42 a 44 y Lucas 20:17 a 18. https://www.biblegateway.com/passage/?search=Matthew%2011%3A29-30%3BMatthew%2021%3A42-44%3BLuke%2020%3A17-18&version=KJV
+- [^kjv]: La Biblia, versión King James: Mateo 11:29 a 30, Mateo 21:42 a 44 y Lucas 20:17 a 18; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Matthew%2011%3A29-30%3BMatthew%2021%3A42-44%3BLuke%2020%3A17-18&version=KJV
 - [^riseup]: Rise Up Singing, "I Will Bow and Be Simple", página de la canción, "About the Song". https://www.riseupsinging.org/songs/i-will-bow-and-be-simple

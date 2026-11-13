@@ -18,7 +18,7 @@ searches: go down moses significado | go down moses historia | quién escribió 
 translatedFrom: fb781a754062
 ---
 
-Go Down, Moses es un espiritual afroamericano (en inglés, spiritual), creado por personas esclavizadas que cantaban como suya la historia bíblica del Éxodo. Dios envía a Moisés ante Faraón, el rey de Egipto, con una sola exigencia, "Let my people go" (deja ir a mi pueblo), y la canción responde con ella a cada verso de sus estrofas. Su primera impresión conocida con música es una partitura de 1861, The Song of the Contrabands, anotada en Fort Monroe, Virginia, de personas que habían escapado de la esclavitud en los primeros meses de la guerra civil estadounidense [^contrabands1861][^canterbury]. En 1872 los Fisk Jubilee Singers la imprimieron con 24 estrofas [^jubilee1872]. Harry T. Burleigh la arregló para voz y piano en 1917 [^burleigh1917][^imslp-burleigh], y Louis Armstrong la grabó en 1958 [^jazzjournal][^freshsound].
+Go Down, Moses es un espiritual afroamericano (en inglés, spiritual), creado por personas esclavizadas que cantaban como suya la historia bíblica del Éxodo. Dios envía a Moisés ante Faraón, el rey de Egipto, con una sola exigencia, "Let my people go" (deja ir á mi pueblo), y la canción responde con ella a cada verso de sus estrofas. Su primera impresión conocida con música es una partitura de 1861, The Song of the Contrabands, anotada en Fort Monroe, Virginia, de personas que habían escapado de la esclavitud en los primeros meses de la guerra civil estadounidense [^contrabands1861][^canterbury]. En 1872 los Fisk Jubilee Singers la imprimieron con 24 estrofas [^jubilee1872]. Harry T. Burleigh la arregló para voz y piano en 1917 [^burleigh1917][^imslp-burleigh], y Louis Armstrong la grabó en 1958 [^jazzjournal][^freshsound].
 
 ## De dónde viene
 
@@ -372,7 +372,7 @@ Según su propio relato, cantaba una canción muy parecida, como aviso. En el li
 - [^fisk]: Fisk University, "History". https://www.fisk.edu/about/history/
 - [^tsu]: Kay Beasley, "Fisk Jubilee Singers (1871- )", Tennessee State University Library. https://library3.tnstate.edu/library/DIGITAL/FISK.HTM
 - [^amheritage]: Andrew S. Ward, "They Brought Jubilee", *American Heritage* 51, n.º 4 (julio/agosto de 2000). https://www.americanheritage.com/they-brought-jubilee
-- [^kjv]: La Biblia, versión King James: Éxodo 1:11 a 14; 4:22 a 23; 5:1; 12:29 a 31. https://www.biblegateway.com/passage/?search=Exodus%201%3A11-14%3B%20Exodus%204%3A22-23%3B%20Exodus%205%3A1%3B%20Exodus%2012%3A29-31&version=KJV
+- [^kjv]: La Biblia, versión King James: Éxodo 1:11 a 14; 4:22 a 23; 5:1; 12:29 a 31; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Exodus%201%3A11-14%3B%20Exodus%204%3A22-23%3B%20Exodus%205%3A1%3B%20Exodus%2012%3A29-31&version=KJV
 - [^douglass1855]: Frederick Douglass, *My Bondage and My Freedom* (1855), capítulo 19, "The Run-Away Plot", edición de Project Gutenberg. https://www.gutenberg.org/files/202/202-h/202-h.htm
 - [^bradford1869]: Sarah H. Bradford, *Scenes in the Life of Harriet Tubman* (Auburn, N.Y.: W. J. Moses, Printer, 1869), pp. [9], 26 a 27 (imágenes n20, n37 y n38); ejemplar de la New York Public Library, facsímil. https://archive.org/details/scenesinlifeofha00brad
 - [^larson]: Kate Clifford Larson, "Myths and Facts About Harriet Tubman", Visit Maryland. https://www.visitmaryland.org/article/myths-facts-about-harriet-tubman

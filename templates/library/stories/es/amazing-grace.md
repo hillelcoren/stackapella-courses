@@ -33,7 +33,7 @@ Amazing Grace, cuyo primer verso imprimió Newton como "Amazing grace! (how swee
 
 ![[1]]
 
-**La letra.** Las notas de Newton para un sermón de la "mañana de Año Nuevo" de 1773 se conservan en la Lambeth Palace Library, con el encabezado "1 Chron. 17. 16, 17" [^sermonnotes]. Los himnólogos relacionan el himno con ese sermón, y una investigadora de Newton ha emparejado sus versos con los puntos del sermón, no todos con certeza [^hymnarchive][^canterbury][^motb-creation]. En esos versículos el rey David pregunta a Dios "¿qué es mi casa, para que me hayas traído hasta aquí?" y da gracias por una promesa "para mucho tiempo por venir" [^kjv]. El himno, como dice su título, mira atrás y adelante del mismo modo: "Faith's review and expectation" (la fe mira atrás y espera) [^olney1779][^hymnarchive].
+**La letra.** Las notas de Newton para un sermón de la "mañana de Año Nuevo" de 1773 se conservan en la Lambeth Palace Library, con el encabezado "1 Chron. 17. 16, 17" [^sermonnotes]. Los himnólogos relacionan el himno con ese sermón, y una investigadora de Newton ha emparejado sus versos con los puntos del sermón, no todos con certeza [^hymnarchive][^canterbury][^motb-creation]. En esos versículos el rey David pregunta a Dios "¿quién soy yo, y cuál es mi casa, que me has traído hasta este lugar?" y da gracias porque Dios ha hablado de su casa "para más lejos", para mucho tiempo por venir [^kjv]. El himno, como dice su título, mira atrás y adelante del mismo modo: "Faith's review and expectation" (la fe mira atrás y espera) [^olney1779][^hymnarchive].
 
 ![[2]]
 
@@ -73,7 +73,7 @@ Se suele contar, según recoge el museo de Olney, que es una vieja melodía esco
 3. La mirada atrás: a través de peligros, trabajos y trampas, la gracia ha traído a quien canta "safe thus far" (a salvo hasta aquí), como David da gracias a Dios por haberlo traído "hitherto" (hasta aquí) [^kjv][^motb-creation]. "Home" (el hogar) es el cielo.
 4. La mirada adelante: la promesa de Dios da firmeza a la esperanza. Una "portion" es la parte de una herencia; Dios mismo es la parte que le toca a quien canta.
 5. "When this flesh and heart shall fail" (cuando esta carne y este corazón desfallezcan) toma las palabras del Salmo 73:26 [^kjv]. "Within the vail" significa tras el velo del lugar santísimo del Templo, la imagen que usa Hebreos 6:19 para la esperanza que llega hasta Dios [^kjv].
-6. La tierra se derretirá como la nieve y el sol se apagará, pero Dios permanece: una imagen como la de 2 Pedro 3:12, donde "los elementos se fundirán" [^kjv].
+6. La tierra se derretirá como la nieve y el sol se apagará, pero Dios permanece: una imagen como la de 2 Pedro 3:12, donde "los elementos siendo abrasados, se fundirán" [^kjv].
 
 ### La letra completa
 
@@ -225,4 +225,4 @@ No, hasta donde muestran los documentos. Su letra la escribió un inglés para s
 - [^scotsdg]: The Royal Scots Dragoon Guards Museum, *Collections*, el disco de oro de Amazing Grace. https://scotsdg.org.uk/museum-and-archive/collections
 - [^tna]: The National Archives (UK), *Slavery and the British transatlantic slave trade*, guía de investigación. https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-transatlantic-slave-trade-records/
 - [^rmg-end]: Royal Museums Greenwich, *How did the slave trade end in Britain?* https://www.rmg.co.uk/stories/topics/how-did-slave-trade-end-britain
-- [^kjv]: La Biblia, versión King James: 1 Crónicas 17:16-17; Salmo 73:26; Lucas 15:24 y 32; Juan 9:25; Hebreos 6:19; 2 Pedro 3:12. https://www.biblegateway.com/passage/?search=1%20Chronicles%2017%3A16-17%3B%20Psalm%2073%3A26%3B%20Luke%2015%3A24%2C%2032%3B%20John%209%3A25%3B%20Hebrews%206%3A19%3B%202%20Peter%203%3A12&version=KJV
+- [^kjv]: La Biblia, versión King James: 1 Crónicas 17:16-17; Salmo 73:26; Lucas 15:24 y 32; Juan 9:25; Hebreos 6:19; 2 Pedro 3:12; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=1%20Chronicles%2017%3A16-17%3B%20Psalm%2073%3A26%3B%20Luke%2015%3A24%2C%2032%3B%20John%209%3A25%3B%20Hebrews%206%3A19%3B%202%20Peter%203%3A12&version=KJV

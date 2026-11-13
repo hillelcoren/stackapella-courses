@@ -39,13 +39,13 @@ Pastores a Belén, impreso en 1916 como Pastores á Belén y que muchos buscan c
 
 ## Qué dice la letra
 
-La letra es en español, tal como la imprime el libro de 1916: una estrofa y el estribillo bajo la música [^canticos1916]. La escena es del Evangelio de Lucas, donde los pastores se dicen unos a otros "Let us now go even unto Bethlehem" (vayamos, pues, hasta Belén), y encuentran a María, a José y al niño acostado en un pesebre [^kjv].
+La letra es en español, tal como la imprime el libro de 1916: una estrofa y el estribillo bajo la música [^canticos1916]. La escena es del Evangelio de Lucas, donde los pastores se dicen unos a otros "Let us now go even unto Bethlehem" (Pasemos pues hasta Bethlehem), y encuentran a María, a José y al niño acostado en un pesebre [^kjv].
 
 La página escribe "a" con tilde, "á": la ortografía antigua, que se canta igual. El diccionario de la Real Academia Española de 1869 todavía imprimía la palabra "á"; su edición de 1914 imprime "a" [^rae1869][^rae1914]. El libro de 1916 muestra las dos: su índice da la canción como "Pastores a Belén", mientras que la página de la canción mantiene "Pastores á Belén" [^canticos1916-index][^canticos1916].
 
 **La estrofa.** ¡Pastores, a Belén! Vamos con alegría a ver a "nuestro bien": el diccionario de la Academia de 1869 define "bien" como aquello que tiene en sí toda perfección y bondad, de modo que solo Dios es el sumo bien [^rae1869]. Él es el hijo de María. Allí, allí, allí nos espera Jesús; allí su luz "nos convida", la palabra que se usa para invitar a alguien a venir a compartir una comida [^rae1869].
 
-**El estribillo.** Llevemos, pues, turrones y miel para ofrecer al Niño Manuel. El turrón es una pasta dulce de almendras, piñones, avellanas o nueces tostadas mezcladas con miel [^rae1869][^rae1914]. Manuel es Emanuel, el nombre que el Evangelio de Mateo da al niño, "which being interpreted is, God with us" (que traducido es: Dios con nosotros) [^kjv]; el español usaba las dos formas del nombre para una misma persona [^covarrubias1611].
+**El estribillo.** Llevemos, pues, turrones y miel para ofrecer al Niño Manuel. El turrón es una pasta dulce de almendras, piñones, avellanas o nueces tostadas mezcladas con miel [^rae1869][^rae1914]. Manuel es Emanuel, el nombre que el Evangelio de Mateo da al niño, "which being interpreted is, God with us" (que declarado, es: Con nosotros Dios) [^kjv]; el español usaba las dos formas del nombre para una misma persona [^covarrubias1611].
 
 ### La letra completa
 
@@ -135,7 +135,7 @@ La soprano canta la melodía tal como la imprime el libro de 1916, un tono más 
 - [^rae1869]: Real Academia Española, *Diccionario de la lengua castellana*, undécima edición (Madrid: Imprenta de Manuel Rivadeneyra, 1869), entradas "Bien", "Convidar", "Noche", "Turron" y "Villancico"; ejemplar de la University of Illinois, facsímil. https://archive.org/details/diccionariodelal00real_0
 - [^rae1914]: Real Academia Española, *Diccionario de la lengua castellana*, decimocuarta edición (Madrid: Hernando, 1914), entradas "Turrón" y "Villancico"; ejemplar de la University of Toronto, facsímil. https://archive.org/details/diccionariodelal00realuoft
 - [^covarrubias1611]: Sebastián de Covarrubias Orozco, *Tesoro de la lengua castellana, o española* (Madrid: Luis Sánchez, 1611), entrada "Elefante", donde el mismo rey de Portugal es "Emanuel" y "el Rey don Manuel"; facsímil. https://archive.org/details/bub_gb_qitRIkmyMt8C
-- [^kjv]: La Biblia, versión King James: Lucas 2:15 a 16 y Mateo 1:23. https://www.biblegateway.com/passage/?search=Luke%202%3A15-16%3BMatthew%201%3A23&version=KJV
+- [^kjv]: La Biblia, versión King James: Lucas 2:15 a 16 y Mateo 1:23; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Luke%202%3A15-16%3BMatthew%201%3A23&version=KJV
 - [^hymnary-text]: Hymnary.org, "Pastores, a Belén" (texto), el villancico de los himnarios con el mismo primer verso, con su lista de himnarios y atribuciones, "Traditional Puerto Rican carol". https://hymnary.org/text/pastores_a_belen_vamos_con_alegria
 - [^hymnary-tune]: Hymnary.org, "PASTORES A BELEN (Puerto Rico)" (melodía), "Traditional Puerto Rican melody", íncipit y lista de himnarios. https://hymnary.org/tune/pastores_a_belen
 - [^nch1995]: Hymnary.org, *The New Century Hymnal* (Pilgrim Press, 1995), n.º 149, "Pastores a Belén (As Shepherds Filled with Joy)", "Spanish words © 1949 Silver Burdett Company". https://hymnary.org/hymn/NCH1995/149

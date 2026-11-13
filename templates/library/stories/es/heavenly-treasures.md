@@ -47,7 +47,7 @@ Dos páginas antes, en la página 21, otra canción, "Come Mother's love and fil
 
 ## Qué dice la letra
 
-**"I am fill'd with heavenly treasures."** "Fill'd" es "filled" (lleno), y el apóstrofo indica que la "e" no se pronuncia. En la Biblia King James, Jesús dice a quienes lo escuchan: "lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt" (haceos tesoros en el cielo, donde ni la polilla ni el óxido corrompen), en Mateo 6:20 [^kjv-bg][^kjv-pg]. Quien canta esta canción no los espera: los tesoros ya están aquí, y lo llenan ahora.
+**"I am fill'd with heavenly treasures."** "Fill'd" es "filled" (lleno), y el apóstrofo indica que la "e" no se pronuncia. En la Biblia King James, Jesús dice a quienes lo escuchan: "lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt" (haceos tesoros en el cielo, donde ni polilla ni orín corrompe), en Mateo 6:20 [^kjv-bg][^kjv-pg]. Quien canta esta canción no los espera: los tesoros ya están aquí, y lo llenan ahora.
 
 En el avivamiento, los tesoros se repartían en el culto. Antes de los días de fiesta, los élderes daban a los miembros túnicas espirituales que nadie podía ver, sacadas de un cofre imaginario [^andrews]. La canción que viene justo después en el libro de Hazzard, "Baskets of Treasures" (cestas de tesoros), de Canterbury, ofrece "jewels and diamonds and many pretty rings" (joyas y diamantes y muchos anillos bonitos) traídos en alas de plata [^hazzardbook][^andrews]. Andrews señaló con qué frecuencia las canciones de don prometían esos tesoros como recompensa de los fieles [^andrews].
 
@@ -95,7 +95,7 @@ Una canción de don es una canción que, según creían los shakers, el mundo es
 
 ### ¿Qué significa "haceos tesoros en el cielo"?
 
-Es la enseñanza de Jesús en el Evangelio de Mateo: guardar junto a Dios lo que dura, en lugar de riquezas en la tierra, "where moth and rust doth corrupt" (donde la polilla y el óxido corrompen), en Mateo 6:19 a 21 [^kjv-bg][^kjv-pg]. Las canciones de don shakers llevaban a menudo esa promesa de una recompensa celestial para los fieles, según comprobó Andrews [^andrews]. Esta canción canta que el tesoro ya se tiene: "I am fill'd with heavenly treasures" [^hazzard].
+Es la enseñanza de Jesús en el Evangelio de Mateo: guardar junto a Dios lo que dura, en lugar de riquezas en la tierra, "where moth and rust doth corrupt" (donde la polilla y el orín corrompe), en Mateo 6:19 a 21 [^kjv-bg][^kjv-pg]. Las canciones de don shakers llevaban a menudo esa promesa de una recompensa celestial para los fieles, según comprobó Andrews [^andrews]. Esta canción canta que el tesoro ya se tiene: "I am fill'd with heavenly treasures" [^hazzard].
 
 ### ¿Qué voz canta la melodía?
 
@@ -120,5 +120,5 @@ La soprano canta la melodía, incluidos todos los pasajes sin letra. Dos cantant
 - [^wonders]: Shaker Heritage Society, "'Beautiful and Important Wonders': The Shakers and Spiritualism" (12 de septiembre de 2013). https://home.shakerheritage.org/beautiful-important-wonders-shakers-spiritualism/
 - [^smportrait]: Shaker Museum | Mount Lebanon, ficha de la colección, "Portrait of Sister Mary Hazard". https://shakermuseum.us/object?id=16544
 - [^shakermuseum]: Shaker Museum | Mount Lebanon, "The Shakers". https://www.shakermuseum.us/the-shakers
-- [^kjv-bg]: La Biblia, versión King James, Mateo 6:19 a 21, en Bible Gateway. https://www.biblegateway.com/passage/?search=Matthew+6%3A19-21&version=KJV
+- [^kjv-bg]: La Biblia, versión King James, Mateo 6:19 a 21, en Bible Gateway; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Matthew+6%3A19-21&version=KJV
 - [^kjv-pg]: *The King James Version of the Bible*, Project Gutenberg, eBook n.º 10, Mateo 6:19 a 21. https://www.gutenberg.org/ebooks/10

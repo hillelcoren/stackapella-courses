@@ -200,4 +200,4 @@ La soprano, como el tiple, la voz más aguda, en el impreso de 1556. Nuestra sop
 - [^ineffabilis]: Pius IX, *Ineffabilis Deus* (8 de diciembre de 1854), reproducido en Papal Encyclicals Online. https://www.papalencyclicals.net/pius09/p9ineff.htm
 - [^cathen]: Frederick Holweck, "Immaculate Conception", *The Catholic Encyclopedia*, vol. 7 (Nueva York: Robert Appleton, 1910), reproducido en New Advent. https://www.newadvent.org/cathen/07674d.htm
 - [^kjv-luke]: La Biblia, versión King James: Lucas 2:13 a 14. https://www.biblegateway.com/passage/?search=Luke%202%3A13-14&version=KJV
-- [^kjv-john]: La Biblia, versión King James: Juan 1:29. https://www.biblegateway.com/passage/?search=John%201%3A29&version=KJV
+- [^kjv-john]: La Biblia, versión King James: Juan 1:29; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=John%201%3A29&version=KJV

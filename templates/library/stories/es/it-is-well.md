@@ -47,17 +47,17 @@ It Is Well with My Soul, que en español se canta como "Estoy bien con mi Dios" 
 
 ## Qué dice la letra
 
-Gospel Hymns No. 2 imprime cuatro estrofas, cada una seguida del estribillo, y las encabeza con el Salmo 55:18, "Él ha librado mi alma en paz" [^gh2][^hymnary-gh2]. Casi todos los himnarios siguen imprimiendo las cuatro estrofas tal como eran [^hymnary-text]. Nosotros cantamos la primera.
+Gospel Hymns No. 2 imprime cuatro estrofas, cada una seguida del estribillo, y las encabeza con el Salmo 55:18, "El ha redimido en paz mi alma" [^gh2][^hymnary-gh2]. Casi todos los himnarios siguen imprimiendo las cuatro estrofas tal como eran [^hymnary-text]. Nosotros cantamos la primera.
 
-**Estrofa 1, la que cantamos.** "When peace, like a river, attendeth my way" (cuando la paz, como un río, acompaña mi camino): cuando la paz va conmigo, constante como un río. En Isaías se lee "tu paz habría sido como un río" [^kjv]. "When sorrows like sea billows roll" (cuando las penas ruedan como olas del mar): "billows" son olas grandes. "Whatever my lot" (sea cual sea mi suerte): pase lo que me pase, bueno o malo, Dios me ha enseñado a decir que todo está bien.
+**Estrofa 1, la que cantamos.** "When peace, like a river, attendeth my way" (cuando la paz, como un río, acompaña mi camino): cuando la paz va conmigo, constante como un río. En Isaías se lee "fuera entonces tu paz como un río" [^kjv]. "When sorrows like sea billows roll" (cuando las penas ruedan como olas del mar): "billows" son olas grandes. "Whatever my lot" (sea cual sea mi suerte): pase lo que me pase, bueno o malo, Dios me ha enseñado a decir que todo está bien.
 
-**Estrofa 2.** Aunque Satanás lo golpee una y otra vez ("buffet") y lleguen las pruebas, quien canta pide que lo gobierne una sola certeza: que Cristo "hath regarded my helpless estate", es decir, que se ha fijado en su indefensión, y ha muerto por él. "Regarded the low estate" (miró la pequeñez) es la expresión de María en Lucas [^kjv].
+**Estrofa 2.** Aunque Satanás lo golpee una y otra vez ("buffet") y lleguen las pruebas, quien canta pide que lo gobierne una sola certeza: que Cristo "hath regarded my helpless estate", es decir, que se ha fijado en su indefensión, y ha muerto por él. "Regarded the low estate" (ha mirado á la bajeza) es la expresión de María en Lucas [^kjv].
 
-**Estrofa 3.** La alegría de saber que el pecado, todo y no solo una parte, está "nailed to His cross" (clavado en su cruz). La imagen viene de Colosenses, donde lo que estaba en contra nuestra se quita de en medio, "clavándolo en su cruz" [^kjv][^hymnary-text].
+**Estrofa 3.** La alegría de saber que el pecado, todo y no solo una parte, está "nailed to His cross" (clavado en su cruz). La imagen viene de Colosenses, donde lo que estaba en contra nuestra se quita de en medio, "enclavándola en la cruz" [^kjv][^hymnary-text].
 
-**Estrofa 4.** Una oración por el fin de los tiempos, cuando "faith shall be sight" (la fe se convierta en vista), cuando los creyentes vean aquello en lo que ahora confían (el "andamos por fe, no por vista" de Pablo) [^kjv]. Las nubes se retiran "as a scroll" (como un rollo), como los cielos en Isaías, suena la trompeta y el Señor desciende [^kjv][^hymnary-text]. El último verso empieza con "Even so" (así sea), entre comillas en la página de 1876 [^gh2], muy probablemente tomado de la oración con que se cierra la Biblia, "Así sea, ven, Señor Jesús" [^kjv].
+**Estrofa 4.** Una oración por el fin de los tiempos, cuando "faith shall be sight" (la fe se convierta en vista), cuando los creyentes vean aquello en lo que ahora confían (el "por fe andamos, no por vista" de Pablo) [^kjv]. Las nubes se retiran "as a scroll" (como un rollo), como los cielos en Isaías, suena la trompeta y el Señor desciende [^kjv][^hymnary-text]. El último verso empieza con "Even so" (así sea), entre comillas en la página de 1876 [^gh2], muy probablemente tomado de la oración con que se cierra la Biblia, "Amén, sea así. Ven: Señor Jesús" [^kjv].
 
-**El estribillo.** "It is well, it is well with my soul" (está bien, mi alma está bien). La expresión es antigua en la Biblia King James: cuando el criado del profeta Eliseo pregunta a la sunamita, cuyo hijo acaba de morir, si todo va bien, ella responde "Está bien" ("It is well") [^kjv][^hymnary-text].
+**El estribillo.** "It is well, it is well with my soul" (está bien, mi alma está bien). La expresión es antigua en la Biblia King James: cuando el criado del profeta Eliseo pregunta a la sunamita, cuyo hijo acaba de morir, si todo va bien, ella responde "It is well" ("Paz", en la Reina-Valera de 1909) [^kjv][^hymnary-text].
 
 ### La letra completa
 
@@ -134,7 +134,7 @@ Horatio G. Spafford, un abogado de Chicago, escribió la letra después de que s
 
 ### ¿Cuál es el versículo bíblico de It Is Well with My Soul?
 
-Su primera impresión conocida, de 1876, lo encabeza con el Salmo 55:18, "Él ha librado mi alma en paz" [^gh2][^hymnary-gh2]. Las palabras "It is well" recuerdan 2 Reyes 4:26, donde una madre cuyo hijo acaba de morir responde "Está bien" [^kjv]. Las estrofas también toman palabras de Isaías, Lucas y Colosenses, y el "Even so" entre comillas de la última estrofa es muy probablemente la oración con que se cierra la Biblia, "Así sea, ven, Señor Jesús" [^kjv][^hymnary-text][^gh2].
+Su primera impresión conocida, de 1876, lo encabeza con el Salmo 55:18, "El ha redimido en paz mi alma" [^gh2][^hymnary-gh2]. Las palabras "It is well" recuerdan 2 Reyes 4:26, donde una madre cuyo hijo acaba de morir responde "It is well" en la King James ("Paz", en la Reina-Valera de 1909) [^kjv]. Las estrofas también toman palabras de Isaías, Lucas y Colosenses, y el "Even so" entre comillas de la última estrofa es muy probablemente la oración con que se cierra la Biblia, "Amén, sea así. Ven: Señor Jesús" [^kjv][^hymnary-text][^gh2].
 
 ### ¿Qué voz canta la melodía?
 
@@ -166,4 +166,4 @@ La soprano canta la melodía de Bliss. Con dos cantantes tienes la melodía y la
 - [^vester1950]: Bertha Spafford Vester, *Our Jerusalem: An American Family in the Holy City, 1881-1949* (1950), ficha de catálogo. https://archive.org/details/ourjerusalemamer0000vest
 - [^canterbury-redeemer]: *The Canterbury Dictionary of Hymnology*, "I will sing of my Redeemer" (Canterbury Press, 2013). https://hymnology.hymnsam.co.uk/i/i-will-sing-of-my-redeemer
 - [^hymnary-psh479]: Hymnary.org, *Psalter Hymnal* (1987), n.º 479, "I Will Sing of My Redeemer", con las notas del Psalter Hymnal Handbook. https://www.hymnary.org/hymn/PsH/479
-- [^kjv]: La Biblia, versión King James: 2 Reyes 4:26; Salmo 55:18; Isaías 34:4; Isaías 48:18; Lucas 1:48; 2 Corintios 5:7; Colosenses 2:14; Apocalipsis 22:20. https://www.biblegateway.com/passage/?search=2%20Kings%204%3A26%3B%20Psalm%2055%3A18%3B%20Isaiah%2034%3A4%3B%20Isaiah%2048%3A18%3B%20Luke%201%3A48%3B%202%20Corinthians%205%3A7%3B%20Colossians%202%3A14%3B%20Revelation%2022%3A20&version=KJV
+- [^kjv]: La Biblia, versión King James: 2 Reyes 4:26; Salmo 55:18; Isaías 34:4; Isaías 48:18; Lucas 1:48; 2 Corintios 5:7; Colosenses 2:14; Apocalipsis 22:20; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=2%20Kings%204%3A26%3B%20Psalm%2055%3A18%3B%20Isaiah%2034%3A4%3B%20Isaiah%2048%3A18%3B%20Luke%201%3A48%3B%202%20Corinthians%205%3A7%3B%20Colossians%202%3A14%3B%20Revelation%2022%3A20&version=KJV

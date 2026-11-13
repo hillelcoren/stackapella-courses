@@ -23,7 +23,7 @@ listen: Internet Archive, grabación de 1909 de un cuarteto masculino de la Fisk
 original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), p. 88, Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett/page/n119
 ---
 
-There Is a Balm in Gilead, a menudo llamado Balm in Gilead (el bálsamo de Galaad), es un espiritual afroamericano (en inglés, spiritual) de consuelo [^canterbury][^dett1927]. En la Biblia, el profeta Jeremías pregunta: "¿No hay bálsamo en Galaad? ¿No hay allí médico?". El estribillo del espiritual responde que sí lo hay: un bálsamo "To make the wounded whole" (que sana al herido) y "To heal the sin-sick soul" (que cura el alma enferma de pecado) [^kjv][^canterbury][^dett1927]. Entre estribillos, una sola voz canta una estrofa sobre el desánimo y sobre volver a levantarse [^work1907][^dett1927]. No se conoce el nombre de quien lo hizo [^canterbury][^hymnary-text]. Su primera impresión conocida está en un cancionero de 1907 de Nashville, hecho por dos hermanos de la Universidad Fisk, y hoy lo imprimen los himnarios de muchas iglesias [^work1907][^hymnarchive][^hymnary-text].
+There Is a Balm in Gilead, a menudo llamado Balm in Gilead (el bálsamo de Galaad), es un espiritual afroamericano (en inglés, spiritual) de consuelo [^canterbury][^dett1927]. En la Biblia, el profeta Jeremías pregunta: "¿No hay bálsamo en Galaad? ¿no hay allí médico?". El estribillo del espiritual responde que sí lo hay: un bálsamo "To make the wounded whole" (que sana al herido) y "To heal the sin-sick soul" (que cura el alma enferma de pecado) [^kjv][^canterbury][^dett1927]. Entre estribillos, una sola voz canta una estrofa sobre el desánimo y sobre volver a levantarse [^work1907][^dett1927]. No se conoce el nombre de quien lo hizo [^canterbury][^hymnary-text]. Su primera impresión conocida está en un cancionero de 1907 de Nashville, hecho por dos hermanos de la Universidad Fisk, y hoy lo imprimen los himnarios de muchas iglesias [^work1907][^hymnarchive][^hymnary-text].
 
 ## De dónde viene
 
@@ -54,7 +54,7 @@ There Is a Balm in Gilead, a menudo llamado Balm in Gilead (el bálsamo de Galaa
 
 ## Qué dice la letra
 
-**La pregunta.** Jeremías sufre por su pueblo: "Quebrantado estoy por el quebrantamiento de la hija de mi pueblo". Luego pregunta: "¿No hay bálsamo en Galaad? ¿No hay allí médico? ¿Por qué, pues, no hubo medicina para la hija de mi pueblo?" (Jeremías 8:21 a 22) [^kjv]. El estribillo convierte su pregunta en una respuesta: sí, lo hay [^canterbury].
+**La pregunta.** Jeremías sufre por su pueblo: "Quebrantado estoy por el quebrantamiento de la hija de mi pueblo". Luego pregunta: "¿No hay bálsamo en Galaad? ¿no hay allí médico? ¿Por qué pues no hubo medicina para la hija de mi pueblo?" (Jeremías 8:21 a 22) [^kjv]. El estribillo convierte su pregunta en una respuesta: sí, lo hay [^canterbury].
 
 **El bálsamo y Galaad.** El bálsamo era una goma o resina preciosa, apreciada como medicina y con la que comerciaban los mercaderes [^easton][^hastings]. Galaad era la región montañosa al este del Jordán; en el Génesis, unos mercaderes llevan bálsamo de Galaad a Egipto [^kjv][^easton][^hastings]. No se sabe con certeza qué planta daba el bálsamo de la Biblia [^hastings].
 
@@ -62,7 +62,7 @@ There Is a Balm in Gilead, a menudo llamado Balm in Gilead (el bálsamo de Galaa
 
 **Estrofa 1.** A quien canta le parece que su trabajo no sirve de nada, "But then the Holy Spirit / Revives my soul again" (pero entonces el Espíritu Santo reaviva otra vez mi alma): vuelve la esperanza [^dett1927].
 
-**Estrofa 2.** "Don't ever be discouraged, for Jesus is your friend." (Nunca te desanimes, porque Jesús es tu amigo.) "If you lack for knowledge, He'll ne'er refuse to lend": si no sabes lo suficiente, él nunca ("ne'er") te negará su ayuda. El índice de Hymnary.org relaciona la canción con Santiago 1:5: "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios" [^dett1927][^hymnary-text][^kjv].
+**Estrofa 2.** "Don't ever be discouraged, for Jesus is your friend." (Nunca te desanimes, porque Jesús es tu amigo.) "If you lack for knowledge, He'll ne'er refuse to lend": si no sabes lo suficiente, él nunca ("ne'er") te negará su ayuda. El índice de Hymnary.org relaciona la canción con Santiago 1:5: "Y si alguno de vosotros tiene falta de sabiduría, demándela á Dios" [^dett1927][^hymnary-text][^kjv].
 
 **Estrofa 3.** En el libro de los Hechos, Pedro se pone en pie y predica a la multitud en Jerusalén [^kjv]. La estrofa dice que no hace falta ser un gran predicador: aun así puedes contar el amor de Jesús y decir que "died for all" (murió por todos), la frase que usa Pablo en su segunda carta a los Corintios [^dett1927][^kjv][^hymnary-text].
 
@@ -134,11 +134,11 @@ Nuestro arreglo, para 2 a 4 cantantes, mantiene las cuatro voces del propio Dett
 
 ### ¿Qué significa "There is a balm in Gilead"?
 
-Significa que hay curación para el alma herida. Responde a Jeremías 8:22, donde el profeta, lleno de dolor, pregunta: "¿No hay bálsamo en Galaad? ¿No hay allí médico?" [^kjv]. El espiritual le contesta cantando que sí hay un bálsamo "To make the wounded whole" (que sana al herido) y "To heal the sin-sick soul" (que cura el alma enferma de pecado) [^canterbury][^dett1927].
+Significa que hay curación para el alma herida. Responde a Jeremías 8:22, donde el profeta, lleno de dolor, pregunta: "¿No hay bálsamo en Galaad? ¿no hay allí médico?" [^kjv]. El espiritual le contesta cantando que sí hay un bálsamo "To make the wounded whole" (que sana al herido) y "To heal the sin-sick soul" (que cura el alma enferma de pecado) [^canterbury][^dett1927].
 
 ### ¿Qué era el bálsamo de Galaad?
 
-Una goma o resina preciosa, valorada como medicina y transportada por mercaderes a través de Galaad, la región montañosa al este del río Jordán [^easton][^hastings]. El Génesis cuenta que unos mercaderes venían "de Galaad, y sus camellos traían aromas, bálsamo y mirra" para venderlos en Egipto [^kjv]. No se sabe con certeza qué árbol lo daba: un diccionario bíblico de 1898 dice que el significado de la palabra hebrea "debe quedar incierto" [^hastings].
+Una goma o resina preciosa, valorada como medicina y transportada por mercaderes a través de Galaad, la región montañosa al este del río Jordán [^easton][^hastings]. El Génesis cuenta que unos mercaderes venían "de Galaad, y sus camellos traían aromas y bálsamo y mirra" para venderlos en Egipto [^kjv]. No se sabe con certeza qué árbol lo daba: un diccionario bíblico de 1898 dice que el significado de la palabra hebrea "debe quedar incierto" [^hastings].
 
 ### ¿Quién escribió There Is a Balm in Gilead?
 
@@ -160,7 +160,7 @@ La soprano. En nuestro arreglo lleva la melodía en cada estribillo sobre la arm
 
 ## Fuentes
 
-- [^kjv]: La Biblia, versión King James: Génesis 37:25; Jeremías 8:21 a 22; Hechos 2:14; 2 Corintios 5:14 a 15; Santiago 1:5. https://www.biblegateway.com/passage/?search=Genesis%2037%3A25%3B%20Jeremiah%208%3A21-22%3B%20Acts%202%3A14%3B%202%20Corinthians%205%3A14-15%3B%20James%201%3A5&version=KJV
+- [^kjv]: La Biblia, versión King James: Génesis 37:25; Jeremías 8:21 a 22; Hechos 2:14; 2 Corintios 5:14 a 15; Santiago 1:5; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Genesis%2037%3A25%3B%20Jeremiah%208%3A21-22%3B%20Acts%202%3A14%3B%202%20Corinthians%205%3A14-15%3B%20James%201%3A5&version=KJV
 - [^olney1779]: [John Newton], *Olney Hymns, in Three Books* (1779), libro I, himno LXII, "The good Physician", p. 78 (imagen n103), e himno CXIII, "Another" (a continuación de "The pool of Bethesda"), p. 140 (imagen n165); Londres: W. Oliver, 1779; microfilme Eighteenth Century (catálogo t018634), facsímil de Internet Archive. https://archive.org/details/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1779/page/n165
 - [^cdh-newton]: "How lost was my condition", *The Canterbury Dictionary of Hymnology* (Canterbury Press, 2013), el comienzo del artículo tal como se muestra en línea (Olney Hymns, 1779, libro I, himno 62, "The good Physician"). https://hymnology.hymnsam.co.uk/h/how-lost-was-my-condition
 - [^mattison1859]: Rev. H. Mattison, *Sacred Melodies for Social Worship* (Nueva York: Mason Brothers, 1859), n.º 82, "Balm in Gilead", p. 70, con la nota al pie "Sing Chorus line twice over after each verse"; ejemplar de la Princeton Theological Seminary Library (SCB #5859), facsímil. https://archive.org/details/sacredmelodiesfo00matt/page/70

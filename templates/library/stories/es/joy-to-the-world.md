@@ -166,4 +166,4 @@ En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la me
 - [^hymnary-watts]: Hymnary.org, *Isaac Watts* (de John Julian, *Dictionary of Hymnology*, 1907, y Charles Hutchins, *Annotations of the Hymnal*, 1872). https://hymnary.org/person/Watts_Isaac
 - [^hymnary-mason]: Hymnary.org, *Lowell Mason* (de J. H. Hall, *Biography of Gospel Song and Hymn Writers*, Revell, hacia 1914). https://hymnary.org/person/Mason_Lowell
 - [^bakers]: *Baker's Biographical Dictionary of Musicians*, "Mason, Lowell", en Encyclopedia.com. https://www.encyclopedia.com/people/literature-and-arts/music-history-composers-and-performers-biographies/lowell-mason
-- [^kjv]: La Biblia, versión King James: Salmo 98:4 a 9; Génesis 3:17 a 18; Lucas 2:7. https://www.biblegateway.com/passage/?search=Psalm%2098%3B%20Genesis%203%3A17-18%3B%20Luke%202%3A7&version=KJV
+- [^kjv]: La Biblia, versión King James: Salmo 98:4 a 9; Génesis 3:17 a 18; Lucas 2:7; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Psalm%2098%3B%20Genesis%203%3A17-18%3B%20Luke%202%3A7&version=KJV

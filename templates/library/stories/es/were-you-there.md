@@ -59,10 +59,10 @@ Were You There, también llamado Were You There When They Crucified My Lord?, es
 
 Cada estrofa es un momento de la muerte de Jesús tal como la cuentan los Evangelios, convertido en pregunta; como observó Barton, cada una añade un solo verso nuevo [^kjv][^barton1899].
 
-- **"When they crucified my Lord."** (Cuando crucificaron a mi Señor.) Los Evangelios dicen simplemente: "lo crucificaron" [^kjv].
-- **"When they nailed Him to the tree."** (Cuando lo clavaron al madero.) El madero es la cruz. El libro de los Hechos dice que Jesús fue "colgado en un madero"; la página de Barton dice "to the cross" (a la cruz) [^kjv][^barton1899].
-- **"When they pierced Him in the side."** (Cuando le traspasaron el costado.) En el Evangelio de Juan, un soldado "le traspasó el costado con una lanza" [^kjv].
-- **"When the sun refused to shine."** (Cuando el sol se negó a brillar.) El Evangelio de Lucas cuenta que hubo tinieblas sobre toda la tierra desde la hora sexta hasta la novena, del mediodía a las tres de la tarde, y que "el sol se oscureció" [^kjv].
+- **"When they crucified my Lord."** (Cuando crucificaron a mi Señor.) Los Evangelios dicen simplemente: "después que le hubieron crucificado, repartieron sus vestidos" [^kjv].
+- **"When they nailed Him to the tree."** (Cuando lo clavaron al madero.) El madero es la cruz. El libro de los Hechos dice que a Jesús lo mataron "colgándole de un madero"; la página de Barton dice "to the cross" (a la cruz) [^kjv][^barton1899].
+- **"When they pierced Him in the side."** (Cuando le traspasaron el costado.) En el Evangelio de Juan, un soldado "le abrió el costado con una lanza" [^kjv].
+- **"When the sun refused to shine."** (Cuando el sol se negó a brillar.) El Evangelio de Lucas cuenta que hubo tinieblas sobre toda la tierra desde la hora sexta hasta la novena, del mediodía a las tres de la tarde, y que "el sol se obscureció" [^kjv].
 - **"When they laid Him in the tomb."** (Cuando lo pusieron en la tumba.) Su cuerpo fue envuelto en lino y puesto en una tumba excavada en la roca [^kjv].
 - **"Oh! Sometimes it causes me to tremble."** (¡Oh! A veces me hace temblar.) Es la respuesta de quien canta: pensar en aquel día me hace temblar. La mayúscula de "Him" es la de los propios libros [^dett1927][^work1907].
 
@@ -185,4 +185,4 @@ Sí. Cuenta la crucifixión, las tinieblas y la sepultura, que el Viernes Santo 
 - [^jukebox1920]: Library of Congress, National Jukebox, "Were you there?", Fisk University Jubilee Singers, matriz Columbia 79606, toma 1, grabado el 28 de diciembre de 1920 (ítem de loc.gov jukebox-665185); copia en Internet Archive. https://archive.org/details/loc-jukebox-665185-were-you-there
 - [^dahr]: *Discography of American Historical Recordings* (UC Santa Barbara Library), "Columbia matrix 79606. Were you there? / Fisk University Jubilee Singers": cuarteto vocal masculino, sin acompañamiento; 28 de diciembre de 1920, Nueva York; Columbia A3919. https://adp.library.ucsb.edu/index.php/matrix/detail/2000027381/79606-Were_you_there
 - [^bbcmusic]: BBC Music Magazine, "'Were you there when they crucified my Lord?' lyrics", *Classical Music* (12 de enero de 2023). https://www.classical-music.com/articles/were-you-there-when-they-crucified-my-lord-lyrics
-- [^kjv]: La Biblia, versión King James: Mateo 27:35; Lucas 23:44 a 45 y 23:53; Juan 19:34; Hechos 5:30. https://www.biblegateway.com/passage/?search=Matthew%2027%3A35%3B%20Luke%2023%3A44-45%3B%20John%2019%3A34%3B%20Acts%205%3A30%3B%20Luke%2023%3A53&version=KJV
+- [^kjv]: La Biblia, versión King James: Mateo 27:35; Lucas 23:44 a 45 y 23:53; Juan 19:34; Hechos 5:30; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Matthew%2027%3A35%3B%20Luke%2023%3A44-45%3B%20John%2019%3A34%3B%20Acts%205%3A30%3B%20Luke%2023%3A53&version=KJV

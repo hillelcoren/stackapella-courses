@@ -51,7 +51,7 @@ La melodía lleva el nombre de Nicea, donde los dirigentes de la Iglesia se reun
 
 ## Qué dice la letra
 
-El himno se inspira en dos visiones bíblicas del trono de Dios [^hymnary-text][^hymnarchive]. En Isaías 6, el profeta ve al Señor en un trono alto. Los serafines, ángeles de seis alas cada uno, se llaman unos a otros: "Santo, santo, santo es el Señor de los ejércitos". En Apocalipsis 4, Juan ve un trono en el cielo y, delante, un mar de vidrio como el cristal. Cuatro seres vivientes cantan día y noche: "Santo, santo, santo, Señor Dios todopoderoso, el que era, el que es y el que viene". Veinticuatro ancianos se postran y dejan sus coronas ante el trono [^kjv]. "Holy" (santo) quiere decir apartado y puro. Heber mantiene una sola rima de principio a fin: todos los versos de las cuatro estrofas terminan en el mismo sonido "ee" (una i) [^heber1827][^hymnary-text].
+El himno se inspira en dos visiones bíblicas del trono de Dios [^hymnary-text][^hymnarchive]. En Isaías 6, el profeta ve al Señor en un trono alto. Los serafines, ángeles de seis alas cada uno, se llaman unos a otros: "Santo, santo, santo, Jehová de los ejércitos". En Apocalipsis 4, Juan ve un trono en el cielo y, delante, un mar de vidrio como el cristal. Cuatro seres vivientes cantan día y noche: "Santo, santo, santo el Señor Dios Todopoderoso, que era, y que es, y que ha de venir". Veinticuatro ancianos se postran y dejan sus coronas ante el trono [^kjv]. "Holy" (santo) quiere decir apartado y puro. Heber mantiene una sola rima de principio a fin: todos los versos de las cuatro estrofas terminan en el mismo sonido "ee" (una i) [^heber1827][^hymnary-text].
 
 1. Nuestro canto sube a Dios de madrugada. "God in Three Persons, Blessèd Trinity" (Dios en tres Personas, bendita Trinidad) nombra aquello que celebra el domingo de la Trinidad: Padre, Hijo y Espíritu Santo, un solo Dios.
 2. Los santos del cielo adoran y arrojan sus coronas de oro alrededor del "glassy sea" (mar de vidrio), el mar de vidrio de Juan. Querubines y serafines son órdenes de ángeles. "Which wert, and art, and evermore shalt be": que eras, y eres, y siempre serás. "Wert" es una forma antigua de "were" (eras), que se usa con "thou" (tú).
@@ -117,7 +117,7 @@ Como el segundo verso empieza "Early in the morning" (de madrugada), algunos him
 ## ¿Sabías que...?
 
 - El prefacio de los Hymns de Heber de 1827 dice que pensaba publicarlos poco después de llegar a la India, pero el trabajo de su diócesis no le dejó tiempo [^heber1827].
-- Hymns Ancient and Modern imprimió en 1861 Apocalipsis 4:8 encima del himno: "No descansan ni de día ni de noche, y dicen: Santo, santo, santo, Señor Dios todopoderoso, el que era, el que es y el que viene". [^ham1861]
+- Hymns Ancient and Modern imprimió en 1861 Apocalipsis 4:8 encima del himno: "no tenían reposo día ni noche, diciendo: Santo, santo, santo el Señor Dios Todopoderoso, que era, y que es, y que ha de venir". [^ham1861]
 
 ## Cómo cantarla
 
@@ -130,7 +130,7 @@ Como el segundo verso empieza "Early in the morning" (de madrugada), algunos him
 
 ### ¿Qué significa "el que era, el que es y el que viene"?
 
-Es un nombre de Dios en Apocalipsis 4:8: el que fue, el que es y el que ha de venir, Dios sin principio ni fin. En la visión de Juan, cuatro seres vivientes alrededor del trono lo cantan día y noche, después de "Santo, santo, santo, Señor Dios todopoderoso" [^kjv]. Heber lo puso en su segunda estrofa como "Which wert and art and evermore shalt be" [^heber1827].
+Es un nombre de Dios en Apocalipsis 4:8: el que fue, el que es y el que ha de venir, Dios sin principio ni fin. En la visión de Juan, cuatro seres vivientes alrededor del trono lo cantan día y noche, después de "Santo, santo, santo el Señor Dios Todopoderoso" [^kjv]. Heber lo puso en su segunda estrofa como "Which wert and art and evermore shalt be" [^heber1827].
 
 ### ¿En qué tonalidad está Holy, Holy, Holy?
 
@@ -168,4 +168,4 @@ En nuestro arreglo la melodía la canta la soprano: la de Dykes, exactamente com
 - [^iln1892]: *Illustrated London News*, 15 de octubre de 1892, p. 473, que reproduce la crónica del funeral de la *Pall Mall Gazette*, en The Victorian Web. https://victorianweb.org/authors/tennyson/burial.html
 - [^methodist]: The Methodist Church in Britain, *Holy, holy, holy, Lord God Almighty! (StF 11)*. https://www.methodist.org.uk/for-churches/resources/hymns/holy-holy-holy-lord-god-almighty-stf-11/
 - [^bcp]: *The Book of Common Prayer* (1662), la colecta, la epístola y el evangelio del domingo de la Trinidad ("For the Epistle. Rev. 4. 1."). https://www.andrews.edu/~toews/classes/sources/modern/Thirty%20Nine%20Articles/communion/trinity.html
-- [^kjv]: La Biblia, versión King James: Isaías 6:1 a 3; Apocalipsis 4:6 a 11; Apocalipsis 5:13; Apocalipsis 15:2 a 4. https://www.biblegateway.com/passage/?search=Isaiah%206%3A1-3%3B%20Revelation%204%3A6-11%3B%20Revelation%205%3A13%3B%20Revelation%2015%3A2-4&version=KJV
+- [^kjv]: La Biblia, versión King James: Isaías 6:1 a 3; Apocalipsis 4:6 a 11; Apocalipsis 5:13; Apocalipsis 15:2 a 4; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Isaiah%206%3A1-3%3B%20Revelation%204%3A6-11%3B%20Revelation%205%3A13%3B%20Revelation%2015%3A2-4&version=KJV

@@ -175,4 +175,4 @@ La soprano canta la melodía de Kirkpatrick, desde un Re grave hasta el Mi una n
 - [^iph2004]: Hymnary.org, *The Irish Presbyterian Hymnbook* (2004), n.º 309a, melodía AWAY IN A MANGER de William James Kirkpatrick. https://hymnary.org/hymn/IPH2004/309a
 - [^umh1989]: Hymnary.org, *The United Methodist Hymnal* (1989), n.º 217, melodía AWAY IN A MANGER de James R. Murray. https://hymnary.org/hymn/UMH/217
 - [^eh1982]: Hymnary.org, *The Hymnal 1982* (Episcopal Church), n.º 101, melodía CRADLE SONG. https://hymnary.org/hymn/EH1982/101
-- [^kjv]: La Biblia, versión King James: Lucas 2:7, 12 y 16. https://www.biblegateway.com/passage/?search=Luke%202%3A7-16&version=KJV
+- [^kjv]: La Biblia, versión King James: Lucas 2:7, 12 y 16; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Luke%202%3A7-16&version=KJV
