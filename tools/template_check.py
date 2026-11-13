@@ -67,6 +67,9 @@ def check(path):
             if not low <= pitch <= high:
                 problems.append(f"{where} {part.get('key')}: pitch {pitch} at beat {beat} is outside its range {low} to {high}")
             end = beat + length
+        pitches = [n.get("pitch") for n in notes if isinstance(n.get("pitch"), (int, float))]
+        if rng is not None and pitches and (low, high) != (min(pitches), max(pitches)):
+            problems.append(f"{where} {part.get('key')}: range {low} to {high}, but its notes run {min(pitches)} to {max(pitches)} (the page and the app show the range as the part's lowest and highest notes)")
     long_floats = []
 
     def walk(value, path):
