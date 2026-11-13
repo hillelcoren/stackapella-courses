@@ -13,20 +13,20 @@ alsoKnownAs: Khanike, oy Khanike; Oj chanuke, oj chanuke; A Khanike-lid
 wikidata: Q7080431
 quote: Oy, Khanike, oy Khanike, a yontev a sheyner.
 quoteSource: k4
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: oy chanukah yiddish lyrics | oy chanukah yiddish song | oy chanukah lyrics | chanukah oh chanukah song | oh chanukah yiddish | oh chanukah yiddish lyrics
 original: Lider-zamelbukh, No. 24, p. 32, Internet Archive | https://archive.org/details/nybc202667/page/n142/mode/1up
 ---
 
-Oy Chanukah is a Yiddish song for Hanukkah, the eight-day Jewish festival of lights. Its first verse is the holiday at home: dreidels every night, hot latkes without end, the thin little candles lit, the prayer for the miracles said, and then a dance.[^k4] Its second praises Judah the Maccabee, who drove out the enemy and brought Jerusalem back to life.[^k4][^1macc] Mordkhe Rivesman wrote the words for a songbook "for the Jewish school and family", published in St Petersburg in 1911 or 1912, and the book calls the tune simply Hasidic.[^k4][^idel29][^leksk] The tune has travelled beyond Yiddish. In Hebrew it is sung as Yemei HaChanukah, and English speakers sing it with English words of their own.[^zemer][^chagim][^mjl]
+Oy Chanukah is a Yiddish song for Hanukkah, the eight-day Jewish festival of lights. Its first verse is the holiday at home: dreidels every night, hot latkes without end, the thin little candles lit, the prayer for the miracles said, and then a dance.[^k4] Its second praises Judah the Maccabee, who drove out the enemy and brought Jerusalem back to life.[^k4][^1macc] Mordkhe Rivesman wrote the words for a songbook "for the Jewish school and family", published in St Petersburg in 1911 or 1912, and the book calls the tune simply Hasidic.[^k4][^idel29][^leksk] In Hebrew the tune is sung as Yemei HaChanukah, and English speakers sing it with English words of their own.[^zemer][^chagim][^mjl]
 
 ![[1]]
 
 ## Where it comes from
 
-In 1908 a group of young Jewish musicians, students of the St Petersburg conservatory, founded the Society for Jewish Folk Music there.[^ejsjfm][^idel29][^yusfin] It meant to gather Jewish folk songs, arrange them for concert, school and home, and publish them.[^idel29][^ejsjfm] Among its books was a songbook for schools and homes. Susman Kisselgof, a teacher who collected folk songs, gathered most of its folk songs himself, and Pesach Lvov and A. Zhitomirsky arranged them.[^k4][^ipri][^leksk] The edition we read holds 85 songs for three-part choir, which can also be sung by one voice, all with piano: 62 Jewish songs and 23 from German and Russian art music, three of them added in the second edition.[^k4][^idel29]
+In 1908 a group of young Jewish musicians, students of the St Petersburg conservatory, founded the Society for Jewish Folk Music there.[^ejsjfm][^idel29][^yusfin] It meant to gather Jewish folk songs, arrange them for concert, school and home, and publish them.[^idel29][^ejsjfm] Among its books was this songbook. Susman Kisselgof, a teacher who collected folk songs, gathered most of its folk songs himself, and Pesach Lvov and A. Zhitomirsky arranged them.[^k4][^ipri][^leksk] The edition we read holds 85 songs, set on its title page for three-part choir, which can also be sung by one voice, all with piano: 62 Jewish songs and 23 from German and Russian art music, three of them added in the second edition. Some, No. 24 among them, have only two voices.[^k4][^idel29][^penn]
 
 ![[2]]
 
@@ -34,9 +34,9 @@ Kisselgof's preface says why. Teachers kept writing to the Society, and to the S
 
 **The words.** Mordkhe Rivesman was born in Vilna in 1868 and died in 1924. He taught in Jewish schools, from 1896 at a school of that same enlightenment society in St Petersburg, and wrote in Yiddish and Russian.[^leksr][^posenr] He sat on the commission that planned the songbook, and Kisselgof's preface credits him with "some original texts" and with putting its art songs into Yiddish.[^k4] Song No. 24 is headed "A chanuke lid", a Hanukkah song, "Werter fun M. Riwesman", words by M. Rivesman.[^k4]
 
-**The tune.** Under the title the book prints one word about the tune: "Chsidisch", Hasidic.[^k4] It names no maker and no place. Idelsohn, the historian of Jewish music, counted Hasidic song as the Jews of Poland and Ukraine's own creation. He wrote that its tunes for "awakening" are built on vigorous, dancing rhythms, and that its melodies are built on the Ahavoh Rabboh mode or the minor scale, and only rarely on the major.[^idel29] This one fits that picture: it is in F minor, marked Allegretto and "Freilich", merrily.[^k4] We have found no earlier printing of it.
+**The tune.** Under the title the book prints one word about the tune: "Chsidisch", Hasidic.[^k4] It names no maker and no place. Idelsohn, the historian of Jewish music, wrote that in Hasidic song the Jews of Poland and the Ukraine "produced an original type of song". Some tzadikim, the Hasidic leaders, loved "subtle rhythms, syncopations and tempo vivace", he wrote, and others "dance and march rhythms"; Hasidic singers drew on the synagogue modes, on Ukrainian and Slavic folk song, and on Cossack dances and military marches.[^idel29] This one is a quick dance tune in a minor key: F minor, marked Allegretto and "Freilich", merrily, with a calmer Meno mosso at "geshvinder tsindt, kinder".[^k4] We have found no earlier printing of it.
 
-**The arrangement.** Pesach Lvov set it for sopranos and altos with piano.[^k4] For the second edition Zhitomirsky reworked a number of the book's arrangements to make them easier for children's choirs; the book doesn't say which, and No. 24 still carries Lvov's name.[^k4] He had arranged nearly half of the book's songs when he died in Kyiv in 1913, on 22 February as Kisselgof's memorial dates it, before the second edition came out.[^k4][^penn][^yusfin] Kisselgof's memorial page in that edition, dated January 1914, ends: "Jewish children will sing your songs and will never forget you."[^k4] After the First World War members of the Society's circle founded the Juwal publishing company in Berlin, in 1922, and Juwal reissued the songbook there.[^idel29][^jmrc][^penn]
+**The arrangement.** Pesach Lvov set it for sopranos and altos with piano.[^k4] For the second edition Zhitomirsky reworked a number of the book's arrangements to make them easier for children's choirs; the book doesn't say which, and No. 24 still carries Lvov's name.[^k4] Lvov had arranged nearly half of the book's songs when he died, on 22 February 1913 as Kisselgof's memorial dates it, before the second edition came out; he was buried in Kyiv.[^k4][^penn][^yusfin] Kisselgof's memorial page in that edition, dated January 1914, ends: "Jewish children will sing your songs and will never forget you."[^k4] After the First World War members of the Society's circle founded the Juwal publishing company in Berlin, in 1922, and Juwal reissued the songbook there.[^idel29][^jmrc][^penn]
 
 ### Timeline
 
@@ -127,25 +127,29 @@ and you should love the people too.
 
 Hanukkah begins on the 25th of Kislev and lasts eight days. It remembers the rededication of the Temple in Jerusalem by Judah the Maccabee and his brothers, after the Greeks had defiled it.[^1macc][^jehan][^shab21] Each evening after sunset the lights are kindled at home, set where they can be seen from outside, one more each night, as the school of Hillel taught.[^shab21][^jehan] The Jewish Encyclopedia notes that games, riddles and pastimes belong to the Hanukkah evenings.[^jehan]
 
-Oy Chanukah is not a prayer. It is a song of those evenings, made for a book "for the Jewish school and family".[^k4]
+Oy Chanukah is not a prayer but a song of those evenings, made for school and family.[^k4]
 
 Our arrangement is read from the songbook's fourth edition, published in Berlin by Juwal, No. 24 on page 32, in F minor in 2/4 as printed, a little slower than the book's 88 beats a minute, at 80.[^k4] It is for 2 to 4 singers, sung in Yiddish: verse 1, verse 2, then verse 1 again. The soprano and alto sing the two voices printed under Lvov's name. The tenor and bass are taken from his piano's left hand: the tenor sings the words, and the bass sings a short "dm" under the others, joining the words only at the end of each verse. In verse 2 a few notes are split on the same pitch to fit its extra syllables.
 
 ## Did you know?
 
 - Rivesman wrote the words of the next two songs in the same book as well: another Hanukkah song, No. 25, and a Purim song, No. 26. [^k4]
-- Kisselgof's preface says the Hebrew versions of the book's art songs were made by the poet Shaul Tchernichovsky, while Rivesman made the Yiddish ones. [^k4]
+- Kisselgof's preface says the Hebrew versions of the book's art songs were made by the poet Shaul Tchernichovsky. [^k4]
 - Lvov studied at the St Petersburg conservatory in the class of Nikolai Rimsky-Korsakov, entering it in 1905. [^k4][^yusfin]
 - Kisselgof later took part in S. An-sky's ethnographic expedition of 1912 to 1914, recording Jewish folk music for it. [^ipri][^ego]
 
 ## Singing it
 
-- [Soprano](/songs/oy-chanukah/soprano): the Hasidic tune as the book prints it, quick and light, mostly in sixteenth notes, four to a beat. It springs to its top F on the second "Khanike," and on "freylekher,". Then, in "geshvinder tsindt, kinder", it swings between its low F and the C above, holding each "-der" for a whole beat.
+- [Soprano](/songs/oy-chanukah/soprano): the Hasidic tune as the book prints it, quick and light, mostly in sixteenth notes, four to a beat. It springs to its top F on the second "Khanike," and on "freylekher," in verse 1, and on "fartribn" and "hamikdesh" in verse 2. Then, in "geshvinder tsindt, kinder", it swings between its low F and the C above, holding each "-der" for a whole beat.
 - [Alto](/songs/oy-chanukah/alto): Lvov's second voice, with the words, mostly a third or a sixth below the tune, most often on A-flat. Its top B-flat comes on "likhtelekh" and on "hamakabi". At the end of each verse it steps down beside the tune, a sixth below, to its low A-flat on "kon." and "oykh.".
-- [Tenor](/songs/oy-chanukah/tenor): the middle of the chord, from Lvov's piano left hand, with the words. It sits on C through "Oy, Khanike, oy Khanike" and lifts to its top E on "sheyner," and "azoyner.". In the last bar of each verse it walks down to its low C on "kon." and "oykh.".
+- [Tenor](/songs/oy-chanukah/tenor): the middle of the chord, from Lvov's piano left hand, with the words. It sits on C through "Oy, Khanike, oy Khanike" and lifts to its top E on "sheyner," and "azoyner." in verse 1 and on "rotseyekh," and "lamnatseyekh." in verse 2. In the last two bars of each verse it drops through G and E to its low C on "kon." and "oykh.".
 - [Bass](/songs/oy-chanukah/bass): the bass line of Lvov's piano on "dm", a short note once or twice a bar, mostly on F, and on its low F under "geshvinder tsindt, kinder". It joins the words only for the last word of each verse, "kon." and "oykh.", on its low F.
 
 ## Questions
+
+### Who wrote Oy Chanukah?
+
+Mordkhe Rivesman wrote the words. The book heads No. 24 "Werter fun M. Riwesman", words by M. Rivesman, and marks the tune only "Chsidisch", Hasidic, naming no maker; Pesach Lvov arranged it.[^k4]
 
 ### Is "Chanukah, Oh Chanukah" the same song as Oy Chanukah?
 
@@ -155,10 +159,6 @@ It is the same tune with different words. Oy Chanukah is Mordkhe Rivesman's Yidd
 
 Say them as they are spelled, in the YIVO system: kh as in Scottish "loch", ey as in "date", oy as in "toy", ay as in "ride", ts as in "patsy".[^yivo] In our notes each syllable has its own note, so Khanike is three: Kha-ni-ke. Where a word ends in -ln or -n with no vowel, as in shpiln and tantsn, our notes give that n a note of its own: shpi-ln, tan-tsn.
 
-### Which part sings the tune?
-
-The soprano sings the tune throughout, as the book prints it. The alto sings his second voice, mostly a third or a sixth below. With two singers it is soprano and alto; with three the bass joins on "dm"; with four the tenor fills the middle of each chord with the words. The tenor and bass are taken from Lvov's piano part.[^k4]
-
 ## Sing next
 
 - [Maoz Tzur](/songs/maoz-tzur): the Hebrew hymn sung after the Hanukkah lights are kindled, read from Idelsohn's school songbook of the same years.
@@ -167,7 +167,7 @@ The soprano sings the tune throughout, as the book prints it. The alto sings his
 
 ## Sources
 
-- [^k4]: Z. Kisselgof, comp., arranged by A. Zhitomirsky and P. Lvov, *Lider-zamelbukh far der yidisher shul un familye*, 4th ed. (Berlin: Juwal, [1923]), title page; preface pp. 3 to 4, dated St Petersburg, 1 June 1911; preface to the second edition p. 5; memorial to P. Lvov p. 6, dated January 1914; words No. 24 p. 13; No. 24 p. 32. https://archive.org/details/nybc202667
+- [^k4]: Z. Kisselgof, comp., arranged by A. Zhitomirsky and P. Lvov, *Lider-zamelbukh far der yidisher shul un familye*, 4th ed. (Berlin: Juwal, [1923]), National Yiddish Book Center copy, Internet Archive nybc202667: title page (image n4); preface pp. 3 to 4 (n6 and n7), dated St Petersburg, 1 June 1911; preface to the second edition p. 5 (n8); memorial to P. Lvov p. 6 (n9), dated January 1914; words No. 24 p. 13 (n16); No. 24 p. 32 (n142). https://archive.org/details/nybc202667
 - [^idel29]: A. Z. Idelsohn, *Jewish Music in its Historical Development* (Henry Holt, 1929), pp. 411 to 420 and 463 to 464. https://archive.org/details/jewishmusicinits00idel_0
 - [^ejsjfm]: Bathja Bayer, "Society for Jewish Folk Music", *Encyclopaedia Judaica*, 2nd ed. (Macmillan Reference USA, 2007), via Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/society-jewish-folk-music
 - [^yusfin]: Abram Yusfin, "Mikhail Fabianovich Gnesin, Composer, Scholar, Teacher, Citizen" (St Petersburg, 2002), via Joodse Muziekprojecten. https://joodsemuziekprojecten.nl/?p=2317
