@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: greensleeves historia | greensleeves significado | quién escribió greensleeves | greensleeves enrique viii ana bolena | greensleeves letra traducción | greensleeves y what child is this
-translatedFrom: cc10de1d224c
+translatedFrom: 41a52a9aea25
 original: A Handful of Pleasant Delights (1584), reimpresión de Arber, Internet Archive | https://archive.org/details/handfulofpleasan00robiuoft/page/n38/mode/1up
 ---
 
@@ -181,7 +181,7 @@ Nuestro arreglo toma la melodía y la armonía de Macfarren de la página 230 de
 
 **Otras letras para la melodía.** Un libro de villancicos de 1642, que Hymnology Archive identifica como Good and True, Fresh and New Christmas Carols, puso con ella un "Carol for New Year's Day" (villancico para el día de Año Nuevo), que empieza "The old year now away is fled" (el año viejo ya se ha ido) [^chappell][^hymnarchive].
 
-**What Child Is This?** "What Child is this, who, laid to rest", de William Chatterton Dix, es el n.º XIV, con la melodía, marcada "Old English", y la armonía de Stainer, en la primera serie de Christmas Carols New and Old, de Bramley y Stainer, que salió en noviembre de 1867 [^bramley][^mt1867][^hymnarchive]. La fecha de 1871, que se da a menudo, corresponde a una edición ilustrada posterior [^hymnarchive]. Hymnary.org y el autor sobre música antigua dicen que Dix sacó la letra de su poema The Manger Throne, de 1865; el mismo libro imprime con ese título otro villancico de Dix, como n.º II [^hymnary][^pittaway2][^bramley].
+**What Child Is This?** "What Child is this, who, laid to rest", de William Chatterton Dix, es el n.º XIV, con la melodía, marcada "Old English", en la primera serie de Christmas Carols New and Old, de Bramley y Stainer, que salió en noviembre de 1867 [^bramley][^mt1867][^hymnarchive]. La fecha de 1871, que se da a menudo, corresponde a una edición ilustrada posterior [^hymnarchive]. Hymnary.org y el autor sobre música antigua dicen que Dix sacó la letra de su poema The Manger Throne, de 1865; el mismo libro imprime con ese título otro villancico de Dix, como n.º II [^hymnary][^pittaway2][^bramley].
 
 ![[4]]
 

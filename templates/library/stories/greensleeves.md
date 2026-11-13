@@ -137,7 +137,7 @@ Our arrangement reads the tune and Macfarren's harmony from Chappell's page 230,
 
 **Other words for the tune.** A carol book of 1642, which the Hymnology Archive names Good and True, Fresh and New Christmas Carols, set a "Carol for New Year's Day" to it, beginning "The old year now away is fled" [^chappell][^hymnarchive].
 
-**What Child Is This?** William Chatterton Dix's "What Child is this, who, laid to rest" is No. XIV, set to the tune, marked "Old English", with Stainer's harmony, in the first series of Bramley and Stainer's Christmas Carols New and Old, which came out in November 1867 [^bramley][^mt1867][^hymnarchive]. The date 1871, often given, belongs to a later illustrated edition [^hymnarchive]. Hymnary.org and the early-music writer say Dix made the words from his poem The Manger Throne of 1865; the same book prints a different Dix carol under that title as No. II [^hymnary][^pittaway2][^bramley].
+**What Child Is This?** William Chatterton Dix's "What Child is this, who, laid to rest" is No. XIV, set to the tune, marked "Old English", in the first series of Bramley and Stainer's Christmas Carols New and Old, which came out in November 1867 [^bramley][^mt1867][^hymnarchive]. The date 1871, often given, belongs to a later illustrated edition [^hymnarchive]. Hymnary.org and the early-music writer say Dix made the words from his poem The Manger Throne of 1865; the same book prints a different Dix carol under that title as No. II [^hymnary][^pittaway2][^bramley].
 
 ![[4]]
 
