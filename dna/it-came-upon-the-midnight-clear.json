@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "it-came-upon-the-midnight-clear",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 74,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": [
+      "fa"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "6/8",
+    "pickupBeats": 0.333333
+  },
+  "rhythm": {
+    "notes": 66,
+    "scotchSnaps": 0,
+    "dottedPairs": 0,
+    "syncopations": 4
+  },
+  "phraseEndHold": 3.61,
+  "climaxAt": 0.02,
+  "opening": [
+    "sol",
+    "mi",
+    "re",
+    "do"
+  ],
+  "ending": [
+    "la",
+    "sol",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 43,
+    "parts": {
+      "soprano": 43,
+      "alto": 28,
+      "tenor": 31,
+      "bass": 51
+    }
+  },
+  "kin": [
+    {
+      "id": "comin-thro-the-rye",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "mi",
+        "re",
+        "do"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "jingle-bells",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "mi",
+        "re",
+        "do"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}

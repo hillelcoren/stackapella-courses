@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "we-three-kings",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 74,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 7,
+    "kind": "diatonic",
+    "solfa": [
+      "la",
+      "ti",
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol"
+    ],
+    "missing": []
+  },
+  "mode": "minor",
+  "meter": {
+    "timeSignature": "3/4",
+    "pickupBeats": 0
+  },
+  "rhythm": {
+    "notes": 93,
+    "scotchSnaps": 0,
+    "dottedPairs": 2,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.04,
+  "climaxAt": 0.24,
+  "opening": [
+    "mi",
+    "re",
+    "do",
+    "la"
+  ],
+  "ending": [
+    "do",
+    "la",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 29,
+    "parts": {
+      "soprano": 29,
+      "alto": 25,
+      "tenor": 18,
+      "bass": 38
+    }
+  },
+  "kin": [
+    {
+      "id": "nearer-my-god",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "mi",
+        "re",
+        "do",
+        "la"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "leave-her-johnny",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "mi",
+        "re",
+        "do",
+        "la"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}
