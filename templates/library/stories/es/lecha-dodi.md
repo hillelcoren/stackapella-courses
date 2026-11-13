@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: lecha dodi significado | lecha dodi traducción | quién escribió lecha dodi | lecha dodi historia | lecha dodi letra en español | lecha dodi significado en hebreo
-translatedFrom: f7abe11b0354
+translatedFrom: 9a5d2fc6c41d
 original: Jewish Encyclopedia, vol. 7, p. 677, Internet Archive | https://archive.org/details/jewishencyclopedia07sing/page/n712/mode/1up
 ---
 
@@ -53,7 +53,7 @@ El poema tiene un estribillo y nueve estrofas. Las primeras letras de las ocho p
 
 La página muestra la letra que cantamos, con la pronunciación israelí moderna. Idelsohn, en 1929, escribía el título a la manera asquenazí, Lechoh dodi.[^idel29] De las nueve estrofas cantamos la primera y la última. Las de en medio pasan del sabbat a Jerusalén: a la ciudad se le dice que se levante de sus ruinas, que se sacuda el polvo y despierte, con palabras de Isaías, y la esperanza de redención crece estrofa a estrofa.[^je][^abrahams][^ashkenaz]
 
-La cantamos con los nombres sustitutos que se acostumbran al cantar fuera de la oración, Kel por El y Adoshem por el nombre de cuatro letras: es costumbre no pronunciar el nombre de Hashem completo fuera de la oración, y una canción para practicar está fuera de la oración.
+La cantamos con los nombres sustitutos que se acostumbran al cantar fuera de la oración, Kel y Adoshem: es costumbre no pronunciar el nombre de Hashem completo fuera de la oración, y una canción para practicar está fuera de la oración.
 
 **El estribillo.** Ven, amado mío, al encuentro de la novia; recibamos la presencia del sabbat. "Lecha dodi" es una frase del Cantar de los Cantares: "Ven, amado mío, salgamos al campo".[^songofsongs] Kala es "novia". "Penei Shabbat" es, palabra por palabra, el rostro del sabbat.
 

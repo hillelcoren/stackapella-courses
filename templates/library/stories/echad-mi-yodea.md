@@ -50,7 +50,7 @@ The tune we sing has no known composer. The Union Haggadah of the Central Confer
 
 The title is the first line: echad, one; mi, who; yodea, knows. "Who knows one?"[^sefaria][^uh1923] Each verse asks who knows a number, "Shenayim mi yodea?", who knows two?, and answers "shenayim ani yodea", I know two, then names what it stands for and counts back down through every answer before it.[^sefaria][^uh1923] Every verse ends on the same line: "echad Elokeinu shebashamayim uvaaretz", one is Hashem, who is in heaven and on earth.[^sefaria][^uh1923]
 
-Where the Haggadah has Eloheinu, we sing Elokeinu, with a k, the substituted name customary when singing outside prayer. Many Jews alter Hashem's names when they say them outside prayer, out of reverence and to avoid taking the name in vain, and a practice song is outside prayer.[^ohr]
+We sing Elokeinu, with a k, the substituted name customary when singing outside prayer. Many Jews alter Hashem's names when they say them outside prayer, out of reverence and to avoid taking the name in vain, and a practice song is outside prayer.[^ohr]
 
 **Verse 1.** One is Hashem, in heaven and on earth.[^sefaria]
 

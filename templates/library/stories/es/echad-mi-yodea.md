@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: echad mi yodea significado | echad mi yodea letra en español | echad mi yodea transliteración | echad mi yodea historia | quién escribió echad mi yodea | echad mi yodea pésaj
-translatedFrom: 91155e907d85
+translatedFrom: 82cfc1210cad
 original: The Union Haggadah, 1923, p. 93, Internet Archive | https://archive.org/details/unionhaggadahhom00unse/page/93/mode/1up
 ---
 
@@ -51,7 +51,7 @@ La melodía que cantamos no tiene compositor conocido. La Union Haggadah de la C
 
 El título es el primer verso: echad, uno; mi, quién; yodea, sabe. "¿Quién sabe qué es uno?"[^sefaria][^uh1923] Cada estrofa pregunta quién sabe un número, "Shenayim mi yodea?", ¿quién sabe qué es dos?, y responde "shenayim ani yodea", yo sé qué es dos; luego dice lo que significa y cuenta hacia atrás todas las respuestas anteriores.[^sefaria][^uh1923] Todas las estrofas terminan con el mismo verso: "echad Elokeinu shebashamayim uvaaretz", uno es Hashem, que está en el cielo y en la tierra.[^sefaria][^uh1923]
 
-Donde la Hagadá tiene Eloheinu, cantamos Elokeinu, con k, el nombre sustituto que se acostumbra al cantar fuera de la oración. Muchos judíos cambian los nombres de Hashem cuando los dicen fuera de la oración, por reverencia y para no pronunciar el nombre en vano, y una canción para practicar está fuera de la oración.[^ohr]
+Cantamos Elokeinu, con k, el nombre sustituto que se acostumbra al cantar fuera de la oración. Muchos judíos cambian los nombres de Hashem cuando los dicen fuera de la oración, por reverencia y para no pronunciar el nombre en vano, y una canción para practicar está fuera de la oración.[^ohr]
 
 **Estrofa 1.** Uno es Hashem, en el cielo y en la tierra.[^sefaria]
 

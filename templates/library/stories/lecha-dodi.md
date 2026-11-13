@@ -52,7 +52,7 @@ The poem has a refrain and nine verses. The first letters of the first eight spe
 
 The page shows the words we sing, in modern Israeli pronunciation. Idelsohn, in 1929, spelled the title the Ashkenazi way, Lechoh dodi.[^idel29] Of the nine verses we sing the first and the last. The verses between turn from the Sabbath to Jerusalem: the city is told to rise from its ruins, shake off the dust and wake, in the words of Isaiah, and the hope for redemption grows verse by verse.[^je][^abrahams][^ashkenaz]
 
-We sing it with the substituted names customary when singing outside prayer, Kel for El and Adoshem for the four-letter name: it is the custom not to say Hashem's name in full outside prayer, and a practice song is outside prayer.
+We sing it with the substituted names customary when singing outside prayer, Kel and Adoshem: it is the custom not to say Hashem's name in full outside prayer, and a practice song is outside prayer.
 
 **The refrain.** Come, my beloved, to meet the bride; let us welcome the Sabbath's presence. "Lecha dodi" is a phrase from the Song of Songs, "Come, my beloved, let us go forth into the field".[^songofsongs] Kala is "bride". "Penei Shabbat" is, word for word, the face of the Sabbath.
 
