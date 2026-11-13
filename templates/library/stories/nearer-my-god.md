@@ -10,40 +10,39 @@ earliestPrinting: Hymns and Anthems, London, 1841
 earliestPrintingSource: fox1841
 language: English
 origin: South Place Chapel, Finsbury, London
+alsoKnownAs: Nearer My God to Thee; Más cerca, oh Dios, de ti
 wikidata: Q833220
 quote: Still all my song shall be, Nearer, my God, to thee
 quoteSource: fox1841
-updated: 2026-11-12
-checked: 2026-11-12
+original: Fox, Hymns and Anthems (1841), No. 85, Internet Archive | https://archive.org/details/hymnsandanthems01foxgoog/page/n70 || The Sabbath Hymn and Tune Book (1859), p. 244, Internet Archive | https://archive.org/details/sabbtune00maso/page/n249
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: who wrote nearer my god to thee | who wrote the music for nearer my god to thee | nearer my god to thee meaning bible verse | nearer my god to thee titanic meaning | nearer my god to thee hymn history | nearer my god to thee lyrics meaning
 ---
 
-Nearer, My God, to Thee is a hymn about longing to be close to God, even through hardship. Sarah Flower Adams wrote it for the Unitarian chapel of William Johnson Fox in London, and its earliest known printing is No. 85 in Fox's Hymns and Anthems of 1841 [^fox1841][^julian][^canterbury]. Its verses follow Jacob's dream from Genesis, of a stairway between earth and heaven [^fox1841][^kjv]. By 1907 the hymnologist John Julian found it in very wide use in all English-speaking countries, and translated into many languages [^julian]. It was sung at the funeral services for President McKinley in 1901 [^halstead][^hazelton], and it is the hymn most often linked with the sinking of the Titanic, though survivors disagreed about whether the band played it [^gracie][^marshall1912].
+Nearer, My God, to Thee is a hymn about longing to be close to God, even through hardship. Sarah Flower Adams wrote it for the Unitarian chapel of William Johnson Fox in London, and its earliest known printing is No. 85 in Fox's Hymns and Anthems of 1841 [^fox1841][^julian][^canterbury]. Its verses follow Jacob's dream from Genesis, of a stairway between earth and heaven [^fox1841][^kjv]. By 1892 the hymnologist John Julian found it in very wide use in all English-speaking countries, and translated into many languages [^julian]. It was sung at the funeral services for President McKinley in 1901 [^halstead][^hazelton], and it is the hymn most often linked with the sinking of the Titanic, though survivors disagreed about whether the band played it [^gracie][^marshall1912].
 
 ## Where it comes from
 
-**The words.** Sarah Flower was born at Harlow, Essex, on 22 February 1805 [^julian][^dnb-adams]. Her father, Benjamin Flower, edited a radical newspaper, The Cambridge Intelligencer [^julian][^conway]. When he died in 1829, Sarah and her elder sister Eliza were left in the care of William Johnson Fox, the Unitarian minister of South Place Chapel in Finsbury, London [^conway][^humanists]. Sarah hoped for a time to become an actress, but she never made the stage her career [^conway][^dnb-adams][^baylor]. In 1834 she married William Bridges Adams, and in 1841 she published Vivia Perpetua, a verse drama about an early Christian martyr [^julian][^dnb-adams][^conway].
+**The words.** Sarah Flower was born at Harlow, Essex, on 22 February 1805 [^julian][^dnb-adams]. Her father, Benjamin Flower, edited a radical newspaper, The Cambridge Intelligencer [^julian][^conway]. When he died in 1829, Sarah and her elder sister Eliza were left in the care of William Johnson Fox, the Unitarian minister of South Place Chapel in Finsbury, London [^conway][^dnb-adams][^dnb-eliza]. Sarah hoped for a time to become an actress, and by one account tried, but she never made the stage her career [^conway][^dnb-adams][^baylor]. In 1834 she married William Bridges Adams, and in 1841 she published Vivia Perpetua, a verse drama about an early Christian martyr [^julian][^dnb-adams][^conway].
 
-Fox's chapel wanted new music for its services, and Eliza, a composer, supplied much of it: she set many of the Hymns and Anthems to her own music or adapted music by others [^dnb-eliza][^conway]. The 1841 book prints words only; a note in it says many of its pieces come from a series of sacred music by "E. Flower" [^fox1841]. Julian counted 13 hymns by her in it; the book's own index puts her name to 14 [^julian][^fox1841]. Hymn historians date this one to 1840 [^canterbury][^bb1906]. Moncure Conway, writing the chapel's history in 1894, saw it as born of Sarah's long struggle with religious doubt, and reproduced her first draft, sent to Fox [^conway][^humanists].
+Eliza, a composer, supplied much of the music for the chapel's services, setting many of the Hymns and Anthems to her own music or adapting music by others [^dnb-eliza][^conway]. The 1841 book prints words only; a note in it says many of its pieces come from a series of sacred music by "E. Flower" [^fox1841]. Julian counted 13 hymns by her in it; the book's own index puts her name to 14 [^julian][^fox1841]. Hymn historians date this one to 1840 [^canterbury][^bb1906]. Moncure Conway, writing the chapel's history in 1894, saw it as born of Sarah's long struggle with religious doubt, and reproduced her first draft, sent to Fox [^conway][^humanists].
 
 Eliza died of consumption in December 1846 [^dnb-eliza][^conway]. Sarah died in August 1848, and both sisters were buried at Harlow [^julian][^conway][^telford].
 
-**The tune.** Hymns Ancient and Modern printed it in 1861, four verses without the last, to HORBURY by John Bacchus Dykes, marked as new to that book [^ham1861][^canterbury]. Arthur Sullivan's PROPIOR DEO is dated 1872 [^hymnary-text][^rogerhall]. In America the words were wedded to Lowell Mason's BETHANY, which Hymnary.org's notes say he wrote for them [^bb1906][^hymnary-text]. BETHANY is usually dated 1856 [^bb1906][^rogerhall], and it was in print with these words by 1859: its earliest known printing is on page 244 of The Sabbath Hymn and Tune Book (New York, 1859), which Mason edited with Edwards A. Park and Austin Phelps [^sabbath1859][^hymnary-text].
+**The tune.** The first music for the words was Eliza Flower's, for the chapel choir: Sarah's draft was laid out for choir and congregation to answer each other, and the Dictionary of National Biography noted in 1889 that many who loved the hymn had never heard her setting [^conway][^dnb-eliza]. Hymns Ancient and Modern printed it in 1861, four verses without the last, to HORBURY by John Bacchus Dykes, marked as new to that book [^ham1861][^canterbury]. Arthur Sullivan's PROPIOR DEO is dated 1872 [^hymnary-text][^rogerhall]. In America the words were wedded to Lowell Mason's BETHANY, which Hymnary.org's notes say he wrote for them [^bb1906][^hymnary-text]. BETHANY is usually dated 1856 [^bb1906][^rogerhall], though a hymnal of 1874 dates it 1858 [^hsp1874]; it was in print with these words by 1859: its earliest known printing is on page 244 of The Sabbath Hymn and Tune Book (New York, 1859), which Mason edited with Edwards A. Park and Austin Phelps [^sabbath1859][^hymnary-text].
 
-**Myth and record.** Often told: as the Titanic went down on 15 April 1912, the ship's band played this hymn to the end. What the record shows: survivors disagreed. One woman told reporters that from her lifeboat she heard the band playing it [^marshall1912]. Colonel Archibald Gracie, who survived the sinking, wrote that the band played cheerful tunes, not hymns; this one, he said, would have seemed a tactless warning of death [^gracie]. Harold Bride, the surviving wireless operator, told reporters that the band played ragtime, then "Autumn", which it was still playing as the ship sank [^marshall1912][^rogerhall]. "Autumn" may have meant a hymn tune of that name or the waltz "Songe d'Automne", a hit of the day [^marshall1912][^rogerhall][^mystic]. Which tune it would have been is argued over too: Hymnary.org's notes judge BETHANY the least likely, since the European band members and passengers would have known it less well than HORBURY or PROPIOR DEO, and one music historian thinks the question will probably never be settled [^hymnary-text][^rogerhall].
+**Myth and record.** Often told: as the Titanic went down on 15 April 1912, the ship's band played this hymn to the end. What the record shows: survivors disagreed. One woman said that from her lifeboat she heard the band playing it [^marshall1912]. Colonel Archibald Gracie, who survived the sinking, wrote that the band played cheerful tunes, not hymns; this one, he said, would have seemed a tactless warning of death [^gracie]. Harold Bride, the surviving wireless operator, told reporters that the band played ragtime, then "Autumn", which it was still playing as the ship sank [^marshall1912][^rogerhall]. "Autumn" may have meant a hymn tune of that name or the waltz "Songe d'Automne", a hit of the day [^marshall1912][^rogerhall][^mystic]. Which tune it would have been is argued over too: Hymnary.org's notes judge BETHANY, less known in Europe than HORBURY or PROPIOR DEO, the least likely, and one music historian thinks the question will probably never be settled [^hymnary-text][^rogerhall].
 
-Eleven years earlier it had marked another loss. President William McKinley was shot at the Pan-American Exposition in Buffalo, New York, and died of his wounds on 14 September 1901 [^halstead][^panam]. In his last conscious hours he was heard saying the words of this hymn, and his last words, as reported, were "Good-bye, all; good-bye. It is God's way. His will be done." [^halstead][^oregonian0916][^bb1906]. It was sung at the service for him in Buffalo [^halstead][^panam], and again when his body lay in state in the Capitol in Washington [^halstead][^hazelton][^trc]. He was buried at Canton, Ohio [^halstead][^trc].
+Eleven years earlier, President William McKinley was shot at the Pan-American Exposition in Buffalo, New York, and died of his wounds on 14 September 1901 [^halstead][^panam]. In his last conscious hours he was heard saying the words of this hymn, and his last words, as reported, were "Good-bye, all; good-bye. It is God's way. His will be done." [^halstead][^oregonian0916][^bb1906]. It was sung at the service for him in Buffalo [^halstead][^panam], and again when his body lay in state in the Capitol in Washington [^halstead][^hazelton][^trc].
 
 ### Timeline
 
-- 1805: Sarah Flower is born at Harlow, Essex, on 22 February [^julian][^dnb-adams]
 - 1841: The earliest known printing, No. 85 in Fox's Hymns and Anthems, London [^fox1841][^julian]
-- 1846: Her sister Eliza, the chapel's composer, dies in December [^dnb-eliza][^conway]
-- 1848: Sarah Flower Adams dies in August [^julian][^dnb-adams]
-- 1859: Mason's BETHANY, usually dated 1856, is in print with the words in The Sabbath Hymn and Tune Book, its earliest known printing [^sabbath1859][^bb1906]
+- 1859: BETHANY's earliest known printing, with these words, in The Sabbath Hymn and Tune Book [^sabbath1859][^bb1906]
 - 1861: Hymns Ancient and Modern prints four verses to Dykes's HORBURY [^ham1861][^canterbury]
-- 1901: It is sung at President McKinley's funeral services in Buffalo and Washington [^halstead][^panam][^hazelton]
+- 1901: Sung at President McKinley's funeral services in Buffalo and Washington [^halstead][^panam][^hazelton]
 - 1912: Titanic survivors disagree about whether the band played it [^gracie][^marshall1912]
 
 ## What the words mean
@@ -56,7 +55,7 @@ The hymn follows Jacob in Genesis 28. On the road to Haran he stops for the nigh
 4. Waking, I will make my griefs into a Bethel, as Jacob made his stone into a pillar: my sorrows become the place where I meet God.
 5. And if at last I fly upward, leaving sun and moon behind, my song will still be "nearer, my God, to thee".
 
-The hymn never names Christ; Adams was a Unitarian, and her verses speak only of God [^fox1841][^julian]. Editors added verses or changed lines to make it more plainly Christian; a Methodist writer of 1906 thought none of it succeeded [^julian][^telford]. Edward Henry Bickersteth, editor of the Hymnal Companion, wrote in a note that he shrank from adding a closing verse to a hymn so widely thought complete, then gave the one he would have suggested: "There in my Father's home, Safe and at rest" [^julian][^telford].
+The hymn never names Christ; Adams was a Unitarian, and her verses speak only of God [^fox1841][^julian]. Editors added verses or changed lines to make it more plainly Christian; a Methodist writer of 1906 thought none of it succeeded [^julian][^telford]. Edward Henry Bickersteth, editor of the Hymnal Companion, wrote in a note in its annotated edition of 1876 that he shrank from adding a closing verse to a hymn so widely thought complete, then gave the one he would have suggested: "There in my Father's home, Safe and at rest" [^julian][^telford].
 
 ### The full words
 
@@ -109,15 +108,15 @@ Nearer to thee.
 
 ## How it is sung
 
-First sung by Unitarians, it was in the Church of England's Hymns Ancient and Modern within twenty years [^ham1861][^canterbury] and in churches of many kinds in Britain and America [^julian][^bb1906]. Its lines run six and four syllables, and BETHANY sings the next-to-last line twice, so the meter is 6.4.6.4.6.6.6.4 [^sabbath1859][^hymnary-text].
+First sung by Unitarians, it was in the Church of England's Hymns Ancient and Modern within twenty years [^ham1861][^canterbury] and in churches of many kinds in Britain and America [^julian][^bb1906]. In Spanish it is sung as "Más cerca, oh Dios, de ti", in Juan B. Cabrera's version [^hymnary-es]. Its lines run six and four syllables, and BETHANY sings the next-to-last line twice, so the meter is 6.4.6.4.6.6.6.4 [^sabbath1859][^hymnary-text].
 
-Our arrangement is Mason's own four parts in G, read from the 1859 book and checked note for note against Hymns and Songs of Praise of 1874 [^sabbath1859][^hsp1874], written in 3/4 where the 1859 book has six-crotchet bars. We sing verse 1, its repeated line twice, the lower parts one note to a syllable while the tune slurs two notes on "That" and on the last "Nearer". Nine harmony notes are changed: six so the alto and tenor move by step after a leap, the rest for the bass and for the two-voice version. The last note is held, and a breath is marked before every line.
+Our arrangement is Mason's own four parts in G, read from the 1859 book and checked note for note against Hymns and Songs of Praise of 1874 [^sabbath1859][^hsp1874], written in 3/4 where the 1859 book has six-crotchet bars. We sing verse 1, its repeated line twice, the lower parts one note to a syllable while the tune slurs two notes on "That" and on the last "Nearer". Nine harmony notes are changed, six of them to smooth the alto and tenor. The last note is held, and a breath is marked before every line.
 
 ## Versions and other words
 
-Adams's own first verse ended "Still all my song would be"; only her last verse had "shall be" [^fox1841][^julian]. The Sabbath Hymn and Tune Book already printed "shall" in both, and made her second verse's "The sun gone down" into "Daylight all gone" [^sabbath1859]. Hymns Ancient and Modern sang "like a wanderer" and "Darkness comes over me", and left out the last verse [^ham1861].
+In Adams's own text of 1841 the first verse's fifth line is "Still all my song would be"; only her last verse had "shall be" [^fox1841][^julian]. The Sabbath Hymn and Tune Book of 1859 prints "shall" in both, and differs from her in six more places: "Ev'n" for "E'en", "like a wanderer" for "like the wanderer", "Daylight all gone" for "The sun gone down", "Steps up to heaven" for "Steps unto heaven", "All that thou sendest me" for "All that thou send'st to me", and "Upward" for "Upwards" [^fox1841][^sabbath1859]. Hymns Ancient and Modern kept "The sun gone down" but sang "Darkness comes over me" and "There let my way appear", and left out the last verse [^ham1861].
 
-In the third edition of 1890, Bickersteth's own Hymnal Companion rewrote the second verse, "Though night steal over me, My rest a stone, As o'er the patriarch", and in place of Adams's last verse ended with a verse of rest, "Till in my Father's house Perfectly blest", closing "Ever, my God, with Thee"; the book does not say who wrote it. Its tunes are none of those above, but ST. BEDE by T. B. Southgate and WHITEFORD by E. J. Hopkins [^hymnalcompanion1890].
+In the third edition of 1890, Bickersteth's own Hymnal Companion rewrote the second verse, "Though night steal over me, My rest a stone, As o'er the patriarch", changed words in the fourth, and in place of Adams's last verse ended with a verse of rest, "Till in my Father's house Perfectly blest", closing "Ever, my God, with Thee". The book does not say who wrote it, but it reworks the lines Bickersteth had suggested in 1876 [^hymnalcompanion1890][^julian]. Its tunes are ST. BEDE by T. B. Southgate and WHITEFORD by E. J. Hopkins [^hymnalcompanion1890].
 
 ## Did you know?
 
@@ -125,16 +124,16 @@ In the third edition of 1890, Bickersteth's own Hymnal Companion rewrote the sec
 
 ## Singing it
 
-- [Soprano](/songs/nearer-my-god/soprano): you carry Mason's tune, calm and even. Lines 1, 3 and 7 fall the same way, from B down to E. Its low D comes on "Nearer" at the start of the second and last lines and on "That", and it climbs to its top E on "all" in "Still all my song" and on the "Nearer" that follows.
-- [Alto](/songs/nearer-my-god/alto): you sing the words under the tune, mostly on D, with G, C and B. Under "Still all my song shall be, Nearer, my", you stay on G while the tune climbs to its top. You go down to B on "Nearer", "That" and the last "thee".
-- [Tenor](/songs/nearer-my-god/tenor): you sing in the middle of the chords, mostly on G, between F-sharp and C. On "That raiseth me" and the closing "Nearer to thee" you climb G, A, C and settle on B; solo it in the player to tune that C.
-- [Bass](/songs/nearer-my-god/bass): you sing mostly the roots of the chords, on G, D and C, from the high G on the opening "Nearer" down to the low G on the last "thee". Like the alto, you stay on one G, the note you open on, through "Still all my song shall be, Nearer, my".
+- [Soprano](/songs/nearer-my-god/soprano): you carry Mason's tune, calm and even. Lines 1, 3 and 7 fall the same way, from B down to E. Its low D comes on "Near-" at the start of the second and last lines and on "That", and it climbs to its top E on "all" in "Still all my song" and on the "-er" of the "Nearer" that follows.
+- [Alto](/songs/nearer-my-god/alto): you sing the words under the tune, most often on D, with G, C, B and E. Under "Still all my song shall be, Nearer, my", you stay on G while the tune climbs to its top. You go down to B on "Near-" at the start of the second and last lines, on "That" and on the last "thee".
+- [Tenor](/songs/nearer-my-god/tenor): you sing in the middle of the chords, most often on G, between F-sharp and C. On "That raiseth me" and the closing "Nearer to thee" you climb G, A, C and settle on B; solo it in the player to tune that C.
+- [Bass](/songs/nearer-my-god/bass): you sing mostly the roots of the chords, on G, D and C, from the high G you open on down to the low G an octave below, on the second line's "Near-" and "to", on "me" in "That raiseth me" and on the last "thee". Like the alto, you stay on that high G through "Still all my song shall be, Nearer, my".
 
 ## Questions
 
 ### Who wrote the music for Nearer, My God, to Thee?
 
-It depends on where it is sung. In America it is Lowell Mason's BETHANY, usually dated 1856 and in print with these words by 1859 [^sabbath1859][^bb1906]. British hymnals have used John Bacchus Dykes's HORBURY, new in 1861, and Arthur Sullivan's PROPIOR DEO, dated 1872 [^ham1861][^hymnary-text][^rogerhall]. The words are by Sarah Flower Adams [^fox1841][^julian].
+In America the music is Lowell Mason's BETHANY, usually dated 1856 and in print with these words by 1859 [^sabbath1859][^bb1906]. British hymnals have used John Bacchus Dykes's HORBURY, new in 1861, and Arthur Sullivan's PROPIOR DEO, dated 1872 [^ham1861][^hymnary-text][^rogerhall]. The words are by Sarah Flower Adams [^fox1841][^julian].
 
 ### What Bible verse is Nearer, My God, to Thee based on?
 
@@ -142,7 +141,7 @@ Genesis 28:10 to 22, the story of Jacob's dream at Bethel, where he sleeps on a 
 
 ### Did the Titanic's band really play Nearer, My God, to Thee?
 
-No one knows. A woman in a lifeboat said she heard it, but Colonel Archibald Gracie, who survived the sinking, wrote that the band played no hymns [^marshall1912][^gracie]. The wireless operator Harold Bride remembered ragtime and then "Autumn" [^marshall1912][^rogerhall]. Which tune it would have been is debated too [^hymnary-text][^rogerhall].
+No one knows. A woman in a lifeboat said she heard it, but Colonel Archibald Gracie, who survived the sinking, wrote that the tunes he heard were cheerful and not hymns [^marshall1912][^gracie]. The wireless operator Harold Bride remembered ragtime and then "Autumn" [^marshall1912][^rogerhall].
 
 ### Which part sings the tune?
 
@@ -157,7 +156,7 @@ The soprano sings Mason's tune, BETHANY, as The Sabbath Hymn and Tune Book print
 ## Sources
 
 - [^fox1841]: William Johnson Fox, compiler, *Hymns and Anthems* (London: Charles Fox, 1841), title page (scan page n7), No. LXXXV (scan page n70), and the indexes of authors (scan pages n123 to n126) with the note on the music by E. Flower (scan page n125); New York Public Library copy, facsimile. https://archive.org/details/hymnsandanthems01foxgoog
-- [^julian]: John Julian, *A Dictionary of Hymnology* (London: John Murray, 1892; revised 1907), "Adams, Sarah" and "Nearer, my God, to Thee, Nearer to Thee"; facsimile. https://archive.org/details/dictionaryofhymn01lond
+- [^julian]: John Julian, *A Dictionary of Hymnology* (London: John Murray, 1892; revised 1907; Dover reprint, 1957), vol. 1, "Adams, Sarah", p. 16, and "Nearer, my God, to Thee, Nearer to Thee", p. 792; facsimile. https://archive.org/details/dictionaryofhymn01lond
 - [^dnb-adams]: Richard Garnett, "Adams, Sarah Flower", *Dictionary of National Biography*, vol. 1 (London: Smith, Elder, 1885), with the 1904 erratum, at Wikisource. https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Adams,_Sarah_Flower
 - [^dnb-eliza]: Louisa M. Middleton, "Flower, Eliza", *Dictionary of National Biography*, vol. 19 (London: Smith, Elder, 1889), at Wikisource. https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Flower,_Eliza
 - [^conway]: Moncure D. Conway, *Centenary History of the South Place Society* (London: Williams and Norgate, 1894), pp. 46 to 50 and 87 to 93; Cornell University Library copy, facsimile. https://archive.org/details/cu31924029481342
@@ -167,12 +166,13 @@ The soprano sings Mason's tune, BETHANY, as The Sabbath Hymn and Tune Book print
 - [^telford]: John Telford, *The Methodist Hymn-Book Illustrated* (London: Charles H. Kelly, 1906), p. 270, at Wikisource. https://en.wikisource.org/wiki/Page:The_Methodist_Hymn-Book_Illustrated.djvu/282
 - [^bb1906]: Theron Brown and Hezekiah Butterworth, *The Story of the Hymns and Tunes* (New York: American Tract Society, 1906), pp. 36 and 150 to 153; University of Toronto copy, facsimile. https://archive.org/details/storyofhymnstune00buttuoft
 - [^hymnary-text]: Hymnary.org, *Nearer, My God, to Thee* (text), with its notes for leaders on the author, the tunes BETHANY, HORBURY and PROPIOR DEO, and the Titanic. https://hymnary.org/text/nearer_my_god_to_thee_nearer_to_thee_een
-- [^sabbath1859]: Lowell Mason, Edwards A. Park and Austin Phelps, editors, *The Sabbath Hymn and Tune Book* (New York: Mason Brothers, 1859), p. 244, "Bethany. 6s & 4s.", hymn 989; Princeton Theological Seminary Library copy, scan page n249. https://archive.org/details/sabbtune00maso
+- [^hymnary-es]: Hymnary.org, *Más cerca, oh Dios, de tí anhelo estar* (text), Juan B. Cabrera (1837 to 1916), after Sarah Flower Adams. https://hymnary.org/text/mas_cerca_oh_dios_de_ti_anhelo_estar
+- [^sabbath1859]: Lowell Mason, Edwards A. Park and Austin Phelps, editors, *The Sabbath Hymn and Tune Book* (New York: Mason Brothers, 1859), p. 244, "Bethany. 6s & 4s.", hymn 989; Princeton Theological Seminary Library copy (call number SCC), Internet Archive item sabbtune00maso, scan page n249. https://archive.org/details/sabbtune00maso
 - [^ham1861]: *Hymns Ancient and Modern, for use in the services of the Church, with accompanying tunes*, musical editor William Henry Monk (London: Novello, 1861), Hymn 200 (scan page n280) and the metrical index of tunes (scan page n25; "The tunes marked (*) were composed for this work, or are now printed for the first time"); University of Toronto Faculty of Music Library copy, facsimile. https://archive.org/details/hymnsancientmode00unse
 - [^hymnary1872]: William Cooke and Benjamin Webb, editors, music edited by Joseph Barnby, *The Hymnary: a book of church song* (London: Novello, Ewer, 1872), No. 570, p. 531, under Genesis 28:11; Princeton Theological Seminary Library copy, scan page n578. https://archive.org/details/bochu00lond
 - [^hymnalcompanion1890]: Edward Henry Bickersteth, editor, *The Hymnal Companion to the Book of Common Prayer, with accompanying tunes*, third edition, revised and enlarged (London: Sampson Low, Marston, Searle & Rivington, 1890), No. 334, its words at scan page n433; Princeton Theological Seminary Library copy, facsimile. https://archive.org/details/coniont00bick
 - [^rogerhall]: Roger Lee Hall, *What Was the Last Tune Played on the Titanic?*, American Music Preservation (2012). https://www.americanmusicpreservation.rogerleehall.com/LastTuneOnTheTitanic.htm
-- [^mystic]: Mystic Seaport Museum, *And the Band Plays on… in Mystic Seaport's Collections* (12 December 2022). https://research.mysticseaport.org/?p=13965
+- [^mystic]: Leah Prescott, *And the Band Plays on… in Mystic Seaport's Collections*, Mystic Seaport Museum (12 December 2022). https://research.mysticseaport.org/?p=13965
 - [^gracie]: Archibald Gracie, *The Truth about the Titanic* (New York: Mitchell Kennerley, 1913), chapter 2, "Struck by an Iceberg", at Project Gutenberg. https://www.gutenberg.org/ebooks/67584
 - [^marshall1912]: Logan Marshall, editor, *Sinking of the Titanic and Great Sea Disasters* (1912), chapters 7, 9 and 17, with the accounts of Harold Bride and a woman passenger, at Project Gutenberg. https://www.gutenberg.org/ebooks/781
 - [^halstead]: Murat Halstead, *The Illustrious Life of William McKinley, Our Martyred President* (Chicago, 1901), pp. 46 and 52 (the shooting and the certificate of death), 54 (his last hours), 230 (the service in Buffalo), 239 (the Capitol) and 241 (Canton); University of California Libraries copy, facsimile. https://archive.org/details/murathalstead00halsrich
