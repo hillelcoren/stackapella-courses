@@ -100,7 +100,7 @@ def acb_1_root():
                   [("The root", "The note at the bottom of the chord"), ("Under the group", "Three voices above, you underneath"), ("Low and easy", SAFETY)], hear),
             play("Find the four chords' roots on \"doo\": each plays, then waits until you're on it. Just try it.", line, None, kind="try"),
             # The group sings under your turn too (beats 9 to 17), not only under the call: the lesson is "Under the group".
-            play(f"Now hear the line with the group, then sing it back with the group above you. {SHORT_SAFETY}",
+            play(f"Now hear the line with the group, then sing it back. With headphones, the group stays above you. {SHORT_SAFETY}",
                  dict(line, turn=True, keep="acb.first-line", generous=True, **{"with": group(FOUR, 0) + group(FOUR, 9)}),
                  "Scored on your notes on pitch. Listen back: are your low notes easy and steady?"),
         ],
