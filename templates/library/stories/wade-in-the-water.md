@@ -27,7 +27,11 @@ Wade in the Water is an African American spiritual, a religious folk song of the
 
 **Fisk's new book.** Fisk University's Jubilee Singers had made spirituals famous on the concert stage since 1871 [^work1907][^carnegie]. The preface of their new book, signed in Nashville in June 1902 by a Committee on Publication, says that in the more than eighteen years since the last edition of their old songbook, by Theodore F. Seward and George L. White, "many new and beautiful songs from various localities and sources" had been collected, most of them harmonized, and many collected, by Frederick J. Work, a Fisk student "of the class of 1903" [^work1904]. Fisk University registered the first edition for copyright on 19 June 1902, as "New jubilee songs; collected and harmonized by Frederick J. Work" [^cce1902]. Some accounts date it 1901 [^maymachunda][^songofamerica], and one says Wade in the Water was already in it [^songofamerica]; the copyright record, the book's title page and two hymnology references all give 1902, and the copyright catalogues of 1901 have no entry for it [^cce1902][^work1904][^canterburyfjw][^hymnologyarchive]. We have not seen a copy of the first edition, so the 1904 page is the earliest we can describe.
 
+![[1]]
+
 **What the 1904 page shows.** "WADE IN THE WATER" starts at the foot of page 8, under a note in parentheses: "(A favorite melody among Southern Baptists while a baptism is in progress.)" [^work1904]. It is in E minor and 2/4 time, and though the preface says most of the book's songs were harmonized, this one is printed as a bare tune on a single staff [^work1904]. The chorus takes the foot of page 8; page 9, headed "WADE IN THE WATER, Concluded", stacks four verses under the two lines of the verse tune [^work1904]. The title page names only Frederick J. Work, as "Collected and Harmonized by" [^work1904][^canterburyjww].
+
+![[2]]
 
 **The Work brothers.** In 1907 the same pages came out again, line for line, in Folk Songs of the American Negro, Number Two, edited by Frederick J. Work [^work1907][^hymnologyarchive]. His brother John Wesley Work II, then leading the Fisk Jubilee Singers, wrote its introduction, dated 15 May 1907 [^work1907][^canterburyjww][^worknum1rev]. "These songs are still being hunted and found", he wrote, and "They are sources of great joy as well as sources of history" [^work1907]. John W. Work II died in 1925 and Frederick J. Work in 1942 [^canterburyjww][^canterburyfjw][^dlg][^admp].
 
@@ -54,9 +58,13 @@ A double meaning in such songs is documented. Of that farewell, Bradford wrote t
 - **Verse 3.** "Look over yonder what do I see? The Holy Ghost a-coming on me": the Spirit of God comes down on the singer. The verse names no scripture; Isaiah 61, "The Spirit of the Lord God is upon me", is one suggestion [^hawn][^kjv].
 - **Verse 4.** "You don't believe I've been redeemed?": to be redeemed is to be saved, bought back. "Just follow me down to Jordan's stream": the Jordan is the river the Israelites crossed into the promised land, and where Jesus came to John to be baptized [^kjv][^hawn].
 
+![[3]]
+
 ### The full words
 
 These are the words as New Jubilee Songs (1904) prints them on pages 8 and 9, with its spelling and punctuation; the page prints "a going" without a hyphen once, in verse 2 [^work1904].
+
+![[4]]
 
 **Chorus**
 Wade in the water, Wade in the water, children,

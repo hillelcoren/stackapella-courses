@@ -31,6 +31,8 @@ Were You There, also called Were You There When They Crucified My Lord?, is an A
 
 **The earliest known printing, 1892.** In 1892 a new edition of The Story of the Jubilee Singers came out in Cleveland, Ohio, with a supplement by Frederick J. Loudin, the singer who had become the company's manager, adding "many new songs" [^loudin1892][^coleridgetaylor1905]. No. 131, on page 302, is headed "The Crucifixion" [^loudin1892][^hymnarchive]. It is in G major for four voices, with no echo, and its four verses are not quite today's: crucified, "crowned him with the thorns", pierced in the side, and laid in the tomb [^loudin1892]. The book does not say where its new songs came from [^hymnarchive].
 
+![[1]]
+
 **A report from Georgia, 1897.** In 1897 the Journal of American Folk-Lore printed a text sent by Mrs. E. M. Backus of Columbia County, Georgia [^backus1897][^hymnarchive]. It goes on past the tomb to the stone rolled away, and ends with Jesus wearing a crown [^backus1897].
 
 **Barton's page, 1899.** William E. Barton, a minister who had lived in the South from 1880 to 1887 and written down songs there, printed it in Old Plantation Hymns (Boston, 1899), without saying where he heard it [^barton1899][^berea-barton][^hymnarchive]. He calls it "a tender and beautiful hymn", whose effect hangs on the held, slurred "Oh!" and the repeated "tremble" [^barton1899]. His page 40 gives the tune alone, in E-flat, with four verses, an echo, "(Were you there?)", a free flourish on the "O" marked "ad lib.", and trembles that slow and fade [^barton1899].
@@ -40,6 +42,8 @@ Were You There, also called Were You There When They Crucified My Lord?, is an A
 **Hampton, 1909.** Hampton Institute in Virginia had published its students' songs since 1874 [^hampton1909][^dett1927][^lva-dett]. Its new edition of 1909, Religious Folk Songs of the Negro as Sung on the Plantations, prints "Were You There?" on page 162: the same setting as the Fisk page, with the same five verses and echoes [^hampton1909][^work1907][^hymnarchive]. Its note, signed by Robert R. Moton, Hampton's commandant, thanks "Professor F. J. Work of Fisk University" for some of the "some twenty-five" new songs it adds [^hampton1909][^hymnarchive].
 
 **Dett's book, 1927.** In 1927 the composer R. Nathaniel Dett (1882 to 1943), who directed Hampton's choirs, edited Religious Folk-Songs of the Negro as Sung at Hampton Institute [^lva-dett][^dett1927]. It prints "Were You There" twice, under "Hymns of the Death of Christ": Dett's own new transcription on page 106, and, in the Appendix, where he keeps earlier scores "that nothing may be lost", the 1909 setting on page VI [^dett1927]. That page is marked "Adagio con molto espress.", slow and very expressive, at 68 beats a minute, with the first line "Solo", markings the 1909 page lacks [^dett1927][^hampton1909]. Our arrangement is read from it.
+
+![[2]]
 
 **Myth and record.** Often told: it was first printed in Barton's book of 1899 [^bbcmusic], which hymnals still give as its source [^hymnary-gap]. What the record shows: it was in print in 1892 and 1897, so Barton's page is early, but not the first [^loudin1892][^backus1897][^hymnarchive].
 

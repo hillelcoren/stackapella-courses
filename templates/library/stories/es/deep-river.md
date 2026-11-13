@@ -16,8 +16,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: deep river significado | deep river espiritual historia | quién escribió deep river | deep river letra en español | qué significa camp ground en deep river | deep river río jordán significado
-translatedFrom: d47b7861322a
-listen: Internet Archive, grabación de 1923 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-68748-deep-river
+translatedFrom: c9fd4726db5c
+listen: Internet Archive, grabación de 1916 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-655500-deep-river || Internet Archive, grabación de 1923 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-68748-deep-river
 original: The Story of the Jubilee Singers, segunda edición (1875), Universitätsbibliothek Gießen | https://digisam.ub.uni-giessen.de/ubg-ihd-gb/content/pageview/5174010
 ---
 
@@ -27,15 +27,21 @@ Deep River es un espiritual afroamericano (en inglés, spiritual), creado por pe
 
 **Los cantantes que la llevaron.** En 1871 la Universidad Fisk, en Nashville, estaba muy endeudada. El 6 de octubre de ese año su tesorero, George L. White, salió de Nashville con un pequeño grupo de estudiantes cantantes para reunir dinero para ella [^marsh1876][^fisk][^jubilee1872]. Cantaban espirituales, las canciones religiosas de las personas esclavizadas, por todo el Norte y en Gran Bretaña, donde cantaron ante la reina Victoria [^marsh1876][^fisk]. La historia del grupo escrita por J. B. T. Marsh cuenta veinticuatro cantantes que habían formado parte de la compañía hasta entonces: veinte, dice, habían sido esclavizados, y tres de los otros cuatro eran hijos de padres esclavizados [^marsh1876].
 
+![[1]]
+
 **La primera impresión conocida.** Deep River no está en el primer cancionero de los cantantes, Jubilee Songs (1872), cuyas 24 canciones incluyen Go Down, Moses y Steal Away, ni en los dos libros sobre sus giras de 1873 y 1875 [^jubilee1872][^pike1873][^pike1875]. Es el n.º 77, "Deep River", en las páginas 196 y 197 del libro de Marsh en su segunda edición, Londres, 1875, cuya nota, fechada el 6 de noviembre de 1875, dice que "se ha añadido un gran número de canciones nuevas" [^marsh1875]. La guía didáctica de la Universidad de Pittsburgh también fecha su primera aparición en Londres, en 1875 [^pitt]. La sexta edición, de 1876, la imprime en las mismas páginas [^marsh1876].
 
 **Lo que muestra la página de 1875.** La canción está impresa como melodía sola, en un solo pentagrama, en Mi mayor y en compasillo, sin indicación de tempo [^marsh1875]. Su estribillo es el que se canta hoy, pero su último verso, "Lord, I want to cross over into camp ground" (Señor, quiero cruzar al campamento), se repite cuatro veces, en notas breves con puntillo, marcadas alternativamente muy suave y fuerte. Siguen tres estrofas, cada una un pareado al que responde ese verso, y luego se vuelve al principio ("D.C.") [^marsh1875].
+
+![[2]]
 
 **El arreglo lento de Coleridge-Taylor.** En 1905 el compositor londinense Samuel Coleridge-Taylor publicó Twenty-Four Negro Melodies para piano [^coleridgetaylor1905][^englishheritage]. Su prólogo da las gracias a Frederick J. Loudin, mánager de los Jubilee Singers, por medio del cual, dice, "aprendí por primera vez a apreciar la hermosa música popular de mi raza". Su n.º 10, "Deep River", lleva la indicación "From 'Jubilee Songs'" (de "Jubilee Songs") y Lento, es decir, despacio, con "camp ground" cantado una sola vez, y una nota al pie lo llama "la melodía más bella y conmovedora de toda la serie" [^coleridgetaylor1905].
 
 **Harry T. Burleigh.** Burleigh nació en Erie, Pensilvania, en 1866 [^hymnarchive-burleigh][^hymnary-burleigh]. En el National Conservatory of Music de Nueva York, el compositor Antonín Dvořák se hizo amigo suyo y, según la historia del Carnegie Hall, lo animó a preservar el espiritual [^hymnary-burleigh][^carnegie]. El 20 de diciembre de 1913 G. Schirmer registró sus arreglos de Dig My Grave y Deep River para coro mixto a cuatro voces [^cce1913]. La partitura coral en octavo de la que cantamos dice "Copyright, 1914, by G. Schirmer" y lleva la indicación Lento, con una parte de piano "solo para el ensayo" [^burleigh1914]. Burleigh da la melodía a las contraltos y pone música a una estrofa, la primera de las tres del libro de Marsh [^burleigh1914][^marsh1875].
 
 En 1916 G. Ricordi empezó a publicar los espirituales de Burleigh como canciones para voz formada y piano, escritas como canciones artísticas, y registró su Deep River el 3 de junio; se convirtió en el más conocido de todos [^cce1916][^carnegie]. En 1925 James Weldon Johnson llamó a Burleigh "el pionero en hacer arreglos de los espirituales que ampliaron su atractivo" entre los cantantes y el público musical [^johnson1925]. Burleigh murió en Stamford, Connecticut, en 1949; su arreglo más conocido, dijo su necrológica, era Deep River [^hymnarchive-burleigh][^hymnary-burleigh].
+
+![[3]]
 
 ### Cronología
 
@@ -49,6 +55,8 @@ En 1916 G. Ricordi empezó a publicar los espirituales de Burleigh como cancione
 ## Qué dice la letra
 
 El río es el Jordán. En la Biblia, Moisés ve la tierra prometida desde la otra orilla, pero no se le permite cruzarlo; tras su muerte, Josué hace cruzar a los israelitas a pie enjuto [^kjv]. El canto cristiano hizo de ese cruce una imagen de la muerte, con el cielo en la otra orilla: el Canterbury Dictionary of Hymnology lee el río profundo como el Jordán, "el río tradicional de la muerte", y el campamento del otro lado como un lugar de descanso [^canterbury][^pitt].
+
+![[4]]
 
 - **El estribillo.** "My home is over Jordan" (mi hogar está al otro lado del Jordán): el hogar no está aquí, sino al otro lado del río, en el cielo. Quien canta anhela "cross over into camp ground" (cruzar al campamento).
 - **"Camp ground".** Una "camp meeting" era una reunión de avivamiento al aire libre que duraba varios días, con la gente acampada en el terreno [^tnencyc]. Theodore F. Seward, que anotó la música de los cantantes de Fisk, dijo que los espirituales nacían "durante alguna reunión prolongada en la iglesia o en el campamento" [^jubilee1872][^marsh1876]. El campamento de la canción es ese lugar de reunión, convertido en imagen del cielo [^canterbury].

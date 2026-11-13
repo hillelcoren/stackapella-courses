@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: deep river spiritual meaning | what does campground mean in deep river | deep river my home is over jordan meaning | who wrote deep river spiritual | deep river spiritual history | deep river song history | deep river american spiritual | why is the river jordan important | deep river spiritual lyrics | deep river choir sheet music
-listen: Internet Archive, 1923 recording (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-68748-deep-river
+listen: Internet Archive, 1916 recording (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-655500-deep-river || Internet Archive, 1923 recording (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-68748-deep-river
 original: The Story of the Jubilee Singers, second edition (1875), Universitätsbibliothek Gießen | https://digisam.ub.uni-giessen.de/ubg-ihd-gb/content/pageview/5174010
 ---
 
@@ -26,15 +26,21 @@ Deep River is an African American spiritual, made by enslaved people, about cros
 
 **The singers who carried it.** Fisk University in Nashville was deep in debt by 1871. On 6 October that year its treasurer, George L. White, left Nashville with a small company of student singers to raise money for it [^marsh1876][^fisk][^jubilee1872]. They sang spirituals, the religious songs of enslaved people, across the North and in Britain, where they sang before Queen Victoria [^marsh1876][^fisk]. J. B. T. Marsh's history of the group counts twenty-four singers who had belonged to the company by then: twenty, it says, had been enslaved, and three of the other four were children of enslaved parents [^marsh1876].
 
+![[1]]
+
 **The earliest known printing.** Deep River is not in the singers' first songbook, Jubilee Songs (1872), whose 24 songs include Go Down, Moses and Steal Away, nor in the two books about their tours of 1873 and 1875 [^jubilee1872][^pike1873][^pike1875]. It is No. 77, "Deep River", on pages 196 and 197 of Marsh's book in its second edition, London, 1875, whose note, dated 6 November 1875, says "a large number of new songs have been added" [^marsh1875]. The University of Pittsburgh's teaching guide also dates its first appearance to London, 1875 [^pitt]. The sixth edition of 1876 prints it on the same pages [^marsh1876].
 
 **What the 1875 page shows.** The song is printed as a tune alone, on one staff, in E major and common time, with no tempo mark [^marsh1875]. Its refrain is the one sung today, but its last line, "Lord, I want to cross over into camp ground", comes four times, in short dotted notes, marked by turns very soft and loud. Three verses follow, each a couplet answered by that line, then back to the start ("D.C.") [^marsh1875].
+
+![[2]]
 
 **Coleridge-Taylor's slow setting.** In 1905 the London composer Samuel Coleridge-Taylor published Twenty-Four Negro Melodies for piano [^coleridgetaylor1905][^englishheritage]. His foreword thanks Frederick J. Loudin, manager of the Jubilee Singers, through whom he "first learned to appreciate the beautiful folk-music of my race". His No. 10, "Deep River", is marked "From 'Jubilee Songs'" and Lento, slow, with "camp ground" sung once, and a footnote calls it "the most beautiful and touching melody of the whole series" [^coleridgetaylor1905].
 
 **Harry T. Burleigh.** Burleigh was born in Erie, Pennsylvania, in 1866 [^hymnarchive-burleigh][^hymnary-burleigh]. At the National Conservatory of Music in New York the composer Antonín Dvořák befriended him and, Carnegie Hall's history says, encouraged him to preserve the spiritual [^hymnary-burleigh][^carnegie]. On 20 December 1913 G. Schirmer registered his settings of Dig My Grave and Deep River for four-part mixed chorus [^cce1913]. The octavo we sing from reads "Copyright, 1914, by G. Schirmer" and is marked Lento, with a piano part "only for rehearsal" [^burleigh1914]. Burleigh gives the tune to the altos and sets one verse, the first of the three in Marsh's book [^burleigh1914][^marsh1875].
 
 In 1916 G. Ricordi began to issue Burleigh's spirituals as songs for a trained voice with piano, written like art songs, registering his Deep River on 3 June, and it became the best known of them [^cce1916][^carnegie]. In 1925 James Weldon Johnson called Burleigh "the pioneer in making arrangements for the Spirituals that widened their appeal" to singers and the musical public [^johnson1925]. Burleigh died in Stamford, Connecticut, in 1949; his best-known arrangement, his obituary said, was Deep River [^hymnarchive-burleigh][^hymnary-burleigh].
+
+![[3]]
 
 ### Timeline
 
@@ -48,6 +54,8 @@ In 1916 G. Ricordi began to issue Burleigh's spirituals as songs for a trained v
 ## What the words mean
 
 The river is the Jordan. In the Bible, Moses sees the promised land from across it but may not go over; after his death Joshua leads the Israelites across it on dry ground [^kjv]. Christian song made that crossing an image of death, with heaven on the far bank: the Canterbury Dictionary of Hymnology reads the deep river as Jordan, "the traditional river of death", and the campground beyond it as a place of rest [^canterbury][^pitt].
+
+![[4]]
 
 - **The refrain.** "My home is over Jordan": home is not here but across the river, in heaven. The singer longs to "cross over into camp ground".
 - **"Camp ground".** A camp meeting was an outdoor revival lasting several days, with people camping on the grounds [^tnencyc]. Theodore F. Seward, who wrote down the Fisk singers' music, said the spirituals were born "during some protracted meeting in church or camp" [^jubilee1872][^marsh1876]. The song's campground is that gathering place, made an image of heaven [^canterbury].

@@ -16,6 +16,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: swing low sweet chariot meaning | swing low sweet chariot meaning slavery | swing low sweet chariot meaning underground railroad | who wrote swing low sweet chariot | swing low sweet chariot original | swing low sweet chariot england rugby history | history behind swing low sweet chariot
+original: Jubilee Songs (1872), page 6, Emory University | https://archive.org/details/29208201.4853.emory.edu/page/n8/mode/1up
+listen: National Jukebox, 1909 recording | https://www.loc.gov/item/jukebox-128141/
 ---
 
 Swing Low, Sweet Chariot is a spiritual, one of the religious songs made by enslaved African Americans. Its chorus asks for a chariot to come down low and carry the singer home, a picture taken from the Bible's story of the prophet Elijah [^kjv][^psh]. Students from Fisk University in Nashville sang it on the concert tours they began in October 1871, and it was printed in their book, Jubilee Songs, in 1872 [^seward1872][^balladindex][^marsh][^okhist]. A tradition credits it to Wallace Willis, an enslaved man in the Choctaw Nation, in what is now Oklahoma [^okhist][^oksenate]. Hymnals still print it, and English rugby crowds have sung it since the 1980s [^hymnary-text][^psh][^rte][^espn].
@@ -23,6 +25,8 @@ Swing Low, Sweet Chariot is a spiritual, one of the religious songs made by ensl
 ## Where it comes from
 
 **The Fisk singers.** On 6 October 1871 a small group of Fisk students left Nashville under George L. White, the university's treasurer, to give concerts and raise money for their school [^marsh][^pbs][^tnenc]. In 1872 Biglow & Main of New York published Jubilee Songs: twenty-four songs, the words taken down from the singers by White and the music by Theodore F. Seward [^seward1872][^adsl]. Seward's preface says the music came from the singers' own singing, over repeated sessions, and nothing went in without their approval [^seward1872]. "Swing low, sweet chariot" is on page 6, with four verses, the earliest known printing of the song with its music [^seward1872][^balladindex]. The page sets it in F major and 2/4 time, in four parts on two staves. Under "Swing low, sweet chariot" and each verse's opening line the lower staff is silent, and every part comes in on "Coming for to carry me home": call and response, printed on the page [^seward1872]. His preface (p. 3) singles the song out. The turn on the last syllable of "chariot" in its first line, he writes, recurs so often in the book that it gives a false sense of sameness. More than half the melodies, he adds, use a scale without the fourth and seventh notes, as this one does [^seward1872].
+
+![[1]]
 
 **An earlier mention.** The song's name was in print the year before the book. In October 1871 the New York magazine The Galaxy printed an essay by Edward A. Pollard that names "the hymn of 'Swing low, Chariot'" in passing, by title only, with no words or music [^galaxy][^adsl].
 
@@ -55,6 +59,8 @@ Swing Low, Sweet Chariot is a spiritual, one of the religious songs made by ensl
 ### The full words
 
 Jubilee Songs prints the refrain and four verses on page 6: verses 1 and 2 under the music, verses 3 and 4 in full below it, and the refrain is sung again after each verse [^seward1872]. The spelling is the book's.
+
+![[2]]
 
 **Refrain**
 Swing low, sweet chariot,
@@ -89,6 +95,8 @@ Coming for to carry me home.
 ## How it is sung
 
 It began as a folk spiritual, sung by enslaved people among themselves [^carnegie]. The Fisk singers took such songs to the concert stage in arranged harmony, the start of the concert spiritual, and singers from Hampton Institute and other Black colleges followed [^carnegie][^psh]. The Psalter Hymnal Handbook describes its tune, SWING LOW, as pentatonic and built as call and response: a soloist or a few voices sing the calls and everyone answers in harmony. It suggests singing it unaccompanied and slowly [^psh].
+
+![[3]]
 
 Our arrangement is the chorus, the first verse and the chorus again, in G, a tone above the 1872 page's F, warm and unhurried [^seward1872]. Its melody was checked against a modern songbook's transcription, not read from the 1872 page. It is for 2 to 4 singers. The soprano sings the tune; with two singers the alto joins on the words beneath it; with three the bass adds the low notes on "oo"; with four the tenor fills in the middle on the words.
 

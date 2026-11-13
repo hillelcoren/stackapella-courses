@@ -19,7 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: were you there significado | were you there historia | were you there letra en español | quién escribió were you there | were you there when they crucified my lord significado | were you there viernes santo
-translatedFrom: ea370822def2
+translatedFrom: 79f2aa053fd2
 listen: Internet Archive, grabación de 1920 de los Fisk University Jubilee Singers (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-665185-were-you-there
 original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), apéndice, p. VI, Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett/page/n277
 ---
@@ -32,6 +32,8 @@ Were You There, también llamado Were You There When They Crucified My Lord?, es
 
 **La primera impresión conocida, 1892.** En 1892 salió en Cleveland, Ohio, una nueva edición de The Story of the Jubilee Singers, con un suplemento de Frederick J. Loudin, el cantante que se había convertido en mánager de la compañía, que añadía "muchas canciones nuevas" [^loudin1892][^coleridgetaylor1905]. El n.º 131, en la página 302, lleva el encabezado "The Crucifixion" [^loudin1892][^hymnarchive]. Está en Sol mayor, a cuatro voces, sin eco, y sus cuatro estrofas no son exactamente las de hoy: lo crucificaron, "crowned him with the thorns" (lo coronaron de espinas), le traspasaron el costado y lo pusieron en la tumba [^loudin1892]. El libro no dice de dónde salieron sus canciones nuevas [^hymnarchive].
 
+![[1]]
+
 **Un texto de Georgia, 1897.** En 1897 el Journal of American Folk-Lore imprimió un texto enviado por Mrs. E. M. Backus, del condado de Columbia, Georgia [^backus1897][^hymnarchive]. Sigue más allá de la tumba, hasta la piedra removida, y termina con Jesús llevando una corona [^backus1897].
 
 **La página de Barton, 1899.** William E. Barton, un pastor que había vivido en el Sur de 1880 a 1887 y había anotado canciones allí, lo imprimió en Old Plantation Hymns (Boston, 1899), sin decir dónde lo había oído [^barton1899][^berea-barton][^hymnarchive]. Lo llama "un himno tierno y hermoso", cuyo efecto depende del "Oh!" sostenido y ligado y del "tremble" repetido [^barton1899]. Su página 40 da la melodía sola, en Mi bemol, con cuatro estrofas, un eco, "(Were you there?)", un adorno libre sobre la "O" marcado "ad lib.", y unos "tremble" que se hacen más lentos y se apagan [^barton1899].
@@ -41,6 +43,8 @@ Were You There, también llamado Were You There When They Crucified My Lord?, es
 **Hampton, 1909.** El Hampton Institute, en Virginia, publicaba las canciones de sus estudiantes desde 1874 [^hampton1909][^dett1927][^lva-dett]. Su nueva edición de 1909, Religious Folk Songs of the Negro as Sung on the Plantations, imprime "Were You There?" en la página 162: la misma armonización que la página de Fisk, con las mismas cinco estrofas y los mismos ecos [^hampton1909][^work1907][^hymnarchive]. Su nota, firmada por Robert R. Moton, comandante de Hampton, da las gracias al "profesor F. J. Work, de la Universidad Fisk" por algunas de las "unas veinticinco" canciones nuevas que añade [^hampton1909][^hymnarchive].
 
 **El libro de Dett, 1927.** En 1927 el compositor R. Nathaniel Dett (1882 a 1943), que dirigía los coros de Hampton, editó Religious Folk-Songs of the Negro as Sung at Hampton Institute [^lva-dett][^dett1927]. Imprime "Were You There" dos veces, entre los "Hymns of the Death of Christ" (himnos de la muerte de Cristo): la nueva transcripción del propio Dett, en la página 106, y, en el apéndice, donde conserva partituras anteriores "para que nada se pierda", la armonización de 1909, en la página VI [^dett1927]. Esa página lleva la indicación "Adagio con molto espress.", es decir, lento y muy expresivo, a 68 pulsos por minuto, con el primer verso marcado "Solo", indicaciones que no tiene la página de 1909 [^dett1927][^hampton1909]. Nuestro arreglo está tomado de ella.
+
+![[2]]
 
 **Mito y documentos.** Se suele contar que se imprimió por primera vez en el libro de Barton de 1899 [^bbcmusic], que los himnarios todavía dan como su fuente [^hymnary-gap]. Lo que muestran los documentos: ya estaba impreso en 1892 y en 1897, así que la página de Barton es temprana, pero no la primera [^loudin1892][^backus1897][^hymnarchive].
 

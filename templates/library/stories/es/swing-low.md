@@ -16,7 +16,9 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: swing low sweet chariot significado | swing low sweet chariot significado esclavitud | swing low sweet chariot ferrocarril subterráneo | quién escribió swing low sweet chariot | swing low sweet chariot historia | swing low sweet chariot rugby inglaterra
-translatedFrom: 2579d3ef2770
+translatedFrom: cb7025cfa9a2
+original: Jubilee Songs (1872), página 6, Emory University | https://archive.org/details/29208201.4853.emory.edu/page/n8/mode/1up
+listen: National Jukebox, grabación de 1909 | https://www.loc.gov/item/jukebox-128141/
 ---
 
 Swing Low, Sweet Chariot es un espiritual (en inglés, spiritual), uno de los cantos religiosos que crearon los afroamericanos esclavizados. Su estribillo pide a un carro que baje y se lleve a quien canta a casa, una imagen tomada de la historia bíblica del profeta Elías [^kjv][^psh]. Estudiantes de la Universidad Fisk de Nashville la cantaron en las giras de conciertos que empezaron en octubre de 1871, y se imprimió en su libro, Jubilee Songs, en 1872 [^seward1872][^balladindex][^marsh][^okhist]. Una tradición la atribuye a Wallace Willis, un hombre esclavizado en la Nación Choctaw, en lo que hoy es Oklahoma [^okhist][^oksenate]. Los himnarios aún la imprimen, y las aficiones de rugby inglesas la cantan desde los años ochenta [^hymnary-text][^psh][^rte][^espn].
@@ -24,6 +26,8 @@ Swing Low, Sweet Chariot es un espiritual (en inglés, spiritual), uno de los ca
 ## De dónde viene
 
 **Los cantantes de Fisk.** El 6 de octubre de 1871 un pequeño grupo de estudiantes de Fisk salió de Nashville con George L. White, el tesorero de la universidad, para dar conciertos y reunir dinero para su escuela [^marsh][^pbs][^tnenc]. En 1872 Biglow & Main, de Nueva York, publicó Jubilee Songs: veinticuatro canciones, con la letra anotada de boca de los cantantes por White y la música por Theodore F. Seward [^seward1872][^adsl]. El prefacio de Seward dice que la música salió del propio canto de los cantantes, en sesiones repetidas, y que no se incluyó nada sin su aprobación [^seward1872]. "Swing low, sweet chariot" está en la página 6, con cuatro estrofas, la primera impresión conocida de la canción con su música [^seward1872][^balladindex]. La página la pone en Fa mayor y en 2/4, a cuatro voces en dos pentagramas. Bajo "Swing low, sweet chariot" y bajo el primer verso de cada estrofa, el pentagrama inferior calla, y todas las voces entran en "Coming for to carry me home": la llamada y respuesta, impresa en la página [^seward1872]. Su prefacio (p. 3) destaca la canción. El giro en la última sílaba de "chariot" en su primer verso, escribe, se repite tanto en el libro que da una falsa sensación de monotonía. Más de la mitad de las melodías, añade, usan una escala sin la cuarta ni la séptima notas, como esta [^seward1872].
+
+![[1]]
 
 **Una mención anterior.** El nombre de la canción ya estaba impreso el año antes del libro. En octubre de 1871 la revista neoyorquina The Galaxy publicó un ensayo de Edward A. Pollard que nombra de pasada "el himno de 'Swing low, Chariot'", solo por el título, sin letra ni música [^galaxy][^adsl].
 
@@ -56,6 +60,8 @@ Swing Low, Sweet Chariot es un espiritual (en inglés, spiritual), uno de los ca
 ### La letra completa
 
 Jubilee Songs imprime en la página 6 el estribillo y cuatro estrofas: la 1 y la 2 bajo la música, la 3 y la 4 completas debajo, y el estribillo se vuelve a cantar después de cada estrofa [^seward1872]. Las líneas en inglés siguen la ortografía del libro.
+
+![[2]]
 
 **Estribillo**
 > Swing low, sweet chariot,
@@ -110,6 +116,8 @@ viniendo para llevarme a casa.
 ## Cómo se canta
 
 Nació como espiritual folclórico, cantado por personas esclavizadas entre ellas [^carnegie]. Los cantantes de Fisk llevaron estas canciones al escenario de concierto en armonías arregladas, el comienzo del espiritual de concierto, y les siguieron cantantes del Hampton Institute y de otras universidades negras [^carnegie][^psh]. El Psalter Hymnal Handbook describe su melodía, SWING LOW, como pentatónica y construida como llamada y respuesta: un solista o unas pocas voces cantan las llamadas y todos responden en armonía. Sugiere cantarla sin acompañamiento y despacio [^psh].
+
+![[3]]
 
 Nuestro arreglo es el estribillo, la primera estrofa y otra vez el estribillo, en Sol, un tono por encima del Fa de la página de 1872, cálido y sin prisa [^seward1872]. Su melodía se comprobó con la transcripción de un cancionero moderno, no se leyó de la página de 1872. Es para 2 a 4 cantantes. La soprano canta la melodía; con dos cantantes, la contralto se une con la letra por debajo; con tres, el bajo añade las notas graves en "oo" (una u); con cuatro, el tenor completa el centro con la letra.
 

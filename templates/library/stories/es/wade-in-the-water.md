@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: wade in the water significado | wade in the water historia | quién escribió wade in the water | wade in the water harriet tubman | wade in the water letra en español | wade in the water espiritual
-translatedFrom: a4e97a864b20
+translatedFrom: a036688286e8
 original: New Jubilee Songs, segunda edición (1904), páginas 8 y 9, Digital Library of Georgia | https://dlg.usg.edu/record/dlg_aaed_aarl90-001-001-001
 ---
 
@@ -28,7 +28,11 @@ Wade in the Water es un espiritual afroamericano (en inglés, spiritual), un can
 
 **El nuevo libro de Fisk.** Los Fisk Jubilee Singers, de la Universidad Fisk, habían hecho famosos los espirituales en las salas de concierto desde 1871 [^work1907][^carnegie]. El prefacio de su nuevo libro, firmado en Nashville en junio de 1902 por un Comité de Publicación, dice que en los más de dieciocho años transcurridos desde la última edición de su antiguo cancionero, de Theodore F. Seward y George L. White, se habían reunido "muchas canciones nuevas y hermosas de diversos lugares y fuentes", la mayoría armonizadas, y muchas recopiladas, por Frederick J. Work, un estudiante de Fisk "de la promoción de 1903" [^work1904]. La Universidad Fisk registró la primera edición con derechos de autor el 19 de junio de 1902, como "New jubilee songs; collected and harmonized by Frederick J. Work" [^cce1902]. Algunos relatos la fechan en 1901 [^maymachunda][^songofamerica], y uno dice que Wade in the Water ya estaba en ella [^songofamerica]; el registro de derechos de autor, la portada del libro y dos obras de referencia de himnología dan 1902, y los catálogos de derechos de autor de 1901 no tienen ninguna entrada para él [^cce1902][^work1904][^canterburyfjw][^hymnologyarchive]. No hemos visto ningún ejemplar de la primera edición, así que la página de 1904 es la más antigua que podemos describir.
 
+![[1]]
+
 **Lo que muestra la página de 1904.** "WADE IN THE WATER" empieza al pie de la página 8, bajo una nota entre paréntesis: "(A favorite melody among Southern Baptists while a baptism is in progress.)" (una melodía preferida entre los bautistas del Sur mientras se celebra un bautismo) [^work1904]. Está en Mi menor y en 2/4, y aunque el prefacio dice que la mayoría de las canciones del libro están armonizadas, esta aparece como una melodía sola, sin armonía, en un único pentagrama [^work1904]. El estribillo ocupa el pie de la página 8; la página 9, encabezada "WADE IN THE WATER, Concluded", reúne cuatro estrofas bajo los dos renglones de la melodía de la estrofa [^work1904]. La portada nombra solo a Frederick J. Work, con "Collected and Harmonized by" (recopiladas y armonizadas por) [^work1904][^canterburyjww].
+
+![[2]]
 
 **Los hermanos Work.** En 1907 las mismas páginas volvieron a salir, línea por línea, en Folk Songs of the American Negro, Number Two, editado por Frederick J. Work [^work1907][^hymnologyarchive]. Su hermano John Wesley Work II, que entonces dirigía a los Fisk Jubilee Singers, escribió su introducción, fechada el 15 de mayo de 1907 [^work1907][^canterburyjww][^worknum1rev]. "Estas canciones todavía se están buscando y encontrando", escribió, y "son fuentes de gran alegría y también fuentes de historia" [^work1907]. John W. Work II murió en 1925 y Frederick J. Work en 1942 [^canterburyjww][^canterburyfjw][^dlg][^admp].
 
@@ -55,9 +59,13 @@ El doble sentido de estas canciones está documentado. De aquella despedida, Bra
 - **Estrofa 3.** "Look over yonder what do I see? The Holy Ghost a-coming on me": el Espíritu de Dios desciende sobre quien canta. La estrofa no nombra ningún pasaje bíblico; Isaías 61, "El espíritu del Señor Jehová es sobre mí", es una propuesta [^hawn][^kjv].
 - **Estrofa 4.** "You don't believe I've been redeemed?": ser redimido es ser salvado, rescatado. "Just follow me down to Jordan's stream": el Jordán es el río que los israelitas cruzaron para entrar en la tierra prometida, y donde Jesús fue a Juan para ser bautizado [^kjv][^hawn].
 
+![[3]]
+
 ### La letra completa
 
 Esta es la letra tal como la imprime New Jubilee Songs (1904) en las páginas 8 y 9, con su grafía y su puntuación; la página imprime "a going" sin guion una vez, en la estrofa 2 [^work1904].
+
+![[4]]
 
 **Estribillo**
 > Wade in the water, Wade in the water, children,
