@@ -14,8 +14,8 @@ alsoKnownAs: Ma'oz Tzur, Maoz Tsur, Mooz Tsur
 wikidata: Q1785997
 quote: Maoz tzur yeshuati, lecha nae leshabeach.
 quoteSource: id1912
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: meaning of maoz tzur | maoz tzur lyrics in english | maoz tzur translation | who wrote maoz tzur | maoz tzur history | maoz tzur tune origin | rock of ages hanukkah song english
 original: Idelsohn, Sefer ha-Shirim, p. 77, Internet Archive | https://archive.org/details/32882013391126-seferhashirimko/page/n88/mode/1up
@@ -29,11 +29,11 @@ Maoz Tzur is a Hebrew hymn for Hanukkah. In Ashkenazi homes it is sung once the 
 
 Almost nothing is known of the poet but his name. The first letters of the first five stanzas spell Mordecai in Hebrew.[^je][^ej] The stanzas open Maoz, Ra'ot, Dvir, Krot and Yevanim: mem, resh, dalet, kaf, yod.[^id1912] The scholar Zunz placed the poet in the middle of the thirteenth century, in Germany; a 2016 article puts him a little earlier, in the late twelfth or early thirteenth century.[^je][^ej][^melamed] Some scholars have identified him with Mordecai ben Isaac, who wrote the Sabbath table song Mah Yafit.[^je][^ej] The hymn belonged first to the home, sung after the lights were kindled, and only later came into the synagogue.[^je][^idel29]
 
-A sixth stanza, "Chasof zeroa", pleads for the redemption to come near and for Hashem to avenge His servants. Most prayer books leave it out.[^je][^ej] Its first letters spell chazak, "be strong".[^ej][^melamed] It is not known in print until centuries after the hymn was written, so some scholars think it was added later; others, the Encyclopaedia Judaica among them, take the acrostic as a sign that it is the poet's own.[^ej][^melamed] Idelsohn's songbook prints five stanzas.[^id1912]
+A sixth stanza, "Chasof zeroa", pleads for the redemption to come near and for Hashem to avenge His servants. Most prayer books leave it out.[^je][^ej] The first letters of its first three words, Chasof zeroa kodshecha, spell chazak, "be strong".[^ej][^melamed] It is not known in print until centuries after the hymn was written; Melamed knows of no printing before one in Amsterdam in 1702. So some scholars think it was added later; others, the Encyclopaedia Judaica and Melamed among them, take its acrostic and style as signs that it is the poet's own.[^ej][^melamed] Idelsohn's songbook prints five stanzas.[^id1912]
 
 The tune has no known composer. Its earliest known printing is in Isaac Nathan's Hebrew Melodies, published in London in 1815, where it carries Lord Byron's poem "On Jordan's Banks".[^ej][^je] The Jewish Encyclopedia reports that the Königsberg cantor Eduard Birnbaum identified it as an adaptation of an old German folk song, "So weiss ich eins, dass mich erfreut, das pluemlein auff preiter heyde": "I know a thing that gladdens me, the little flower on the wide heath".[^je][^idel29] Martin Luther set that folk melody to his hymn "Nun freut euch, lieben Christen gmein", written in 1523.[^je][^idel29][^lh1941]
 
-In his history of Jewish music of 1929, A. Z. Idelsohn found only the first four and last two bars of Luther's chorale in Maoz Tzur. The middle bars, he wrote, recall the Benzenauer, a German battle song. He thought a Jewish singer had joined the two German songs into a single Hanukkah tune.[^idel29] The Encyclopaedia Judaica answers that the likeness Birnbaum and Idelsohn saw, to early Protestant chorales and a German soldiers' song, rests on isolated motifs, and it finds a closer match for the whole line in a Latin church melody.[^ej] Idelsohn himself, in his songbook of 1911 to 1912, headed the tune neima mekubala, "a received tune". His preface gives that name to foreign tunes the people took in and made their own.[^id1912] They disagree on its age too. The Jewish Encyclopedia of 1904 says the folk song was widely known among German Jews as early as 1450, Idelsohn that in 1450 the poem was still sung to another melody, and the Encyclopaedia Judaica dates the tune we sing to around the early fifteenth century.[^je][^idel29][^ej]
+In his history of Jewish music of 1929, A. Z. Idelsohn found only the first four and last two bars of Luther's chorale in Maoz Tzur. The middle bars, he wrote, recall the Benzenauer, a German battle song. He thought a Jewish singer had joined the two German songs into a single Hanukkah tune.[^idel29] The Encyclopaedia Judaica answers that the likeness Birnbaum and Idelsohn saw, to early Protestant chorales and a German soldiers' song, rests on isolated motifs, and it finds a closer match for the whole line in a Latin church melody.[^ej] Idelsohn himself, in his songbook of 1911 to 1912, headed the tune neima mekubala, "a received tune". His preface gives that name to foreign tunes the people took in and made their own.[^id1912] They disagree on its age too. The Jewish Encyclopedia of 1904 says the folk song was widely known among German Jews as early as 1450, Idelsohn that in 1450 the poem was still sung to another melody, and the Encyclopaedia Judaica says the tune we sing may date from around the early fifteenth century.[^je][^idel29][^ej]
 
 
 ### Timeline
@@ -67,7 +67,7 @@ Our Jewish songs are sung with the substituted names customary when singing outs
 
 ### The full words
 
-These are all six stanzas as the Siddur Ashkenaz on Sefaria prints them, from the Daat siddur, with its vowels; the meaning under each line is our own.[^siddur] Idelsohn's songbook, which our arrangement is read from, prints the first five, and most prayer books leave out the sixth, Chasof zeroa.[^id1912][^je][^ej] Its last line asks Hashem to thrust away Admon, "the red one": Edom, which rabbinic writing ties to Rome and Christianity.[^melamed] Where the siddur has lashoshanim, "for the lilies", we sing leshoshanim.
+These are all six stanzas as the Siddur Ashkenaz on Sefaria prints them, from the Daat siddur, with its vowels; the meaning under each line is our own.[^siddur] Idelsohn's songbook, which our arrangement is read from, prints the first five, and most prayer books leave out the sixth, Chasof zeroa.[^id1912][^je][^ej] Its last line asks Hashem to thrust away Admon, "the red one": Edom, which rabbinic writing ties to Rome and Christianity.[^melamed] Where the siddur has lashoshanim, "for the lilies", we sing leshoshanim, as Idelsohn's page prints it.[^id1912]
 
 **Stanza 1**
 > מָעוֹז צוּר יְשׁוּעָתִי לְךָ נָאֶה לְשַׁבֵּחַ.
@@ -157,7 +157,7 @@ Thrust the red one away into the shadow of Tzalmon; raise up for us the seven sh
 
 Maoz Tzur belongs to the Ashkenazi rite, where it follows the kindling of the Hanukkah lights, at home and in the synagogue.[^je][^ej] The Encyclopaedia Judaica notes that Reform and Conservative synagogues also sing Rock of Ages, in English, with the Hebrew or in its place.[^ej][^uh1897]
 
-Our arrangement is read from page 77 of A. Z. Idelsohn's Sefer ha-Shirim, a songbook for Hebrew schools published in Berlin and Jerusalem and dated 5672, that is 1911 to 1912, where it is No. 83, in E major, in common time.[^id1912] We sing stanzas 1 and 5, for 2 to 4 singers, with four parts written on the harmony of his two and three voices. The words are in modern Israeli pronunciation, which fits his book: his preface faults earlier songbooks for using the Ashkenazi accent, which pupils in the East, who spoke Hebrew with the Sephardi accent, could not follow.[^id1912]
+Our arrangement is read from page 77 of A. Z. Idelsohn's Sefer ha-Shirim, a songbook for Hebrew schools published in Berlin and Jerusalem and dated 5672, that is 1911 to 1912, where it is No. 83, in E major, in common time. Beside "neima mekubala" he marks the pace halicha bechazaka, roughly "a firm walking pace".[^id1912] We sing stanzas 1 and 5, for 2 to 4 singers, with four parts written on the harmony of his two and three voices. The words are in modern Israeli pronunciation, which fits his book: his preface faults earlier songbooks for using the Ashkenazi accent, which pupils in the East, who spoke Hebrew with the Sephardi accent, could not follow.[^id1912]
 
 ![[2]]
 
@@ -211,7 +211,7 @@ The soprano sings the tune throughout, as Idelsohn printed it. The alto sings wi
 - [^je]: Cyrus Adler and Francis L. Cohen, "Ma'oz Zur", *The Jewish Encyclopedia*, vol. 8 (Funk and Wagnalls, 1904), pp. 315 to 316. https://www.jewishencyclopedia.com/articles/10384-ma-oz-zur
 - [^ej]: "Ma'oz Tzur", with its music section by Bathja Bayer, *Encyclopaedia Judaica*, 2nd ed. (Macmillan Reference USA, 2007), via Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/maoz-zur
 - [^idel29]: A. Z. Idelsohn, *Jewish Music in its Historical Development* (Henry Holt, 1929), pp. 171 to 174, 293, 338 and 504 (notes). https://archive.org/details/jewishmusicinits00idel_0
-- [^id1912]: A. Z. Idelsohn, *Sefer ha-Shirim* (Berlin and Jerusalem: Hilfsverein der deutschen Juden, 5672, 1911 to 1912), preface pp. III to IV, and No. 83, "Ma'oz tzur", p. 77. https://archive.org/details/32882013391126-seferhashirimko
+- [^id1912]: A. Z. Idelsohn, *Sefer ha-Shirim* (Berlin and Jerusalem: Hilfsverein der deutschen Juden, 5672, 1911 to 1912), title page, preface pp. III to IV, and No. 83, "Ma'oz tzur", p. 77, George Washington University Libraries, I. Edward Kiev Judaica Collection (OCLC 18648555), Internet Archive 32882013391126-seferhashirimko, leaf n88. https://archive.org/details/32882013391126-seferhashirimko/page/n88/mode/1up
 - [^melamed]: Yitzhak Y. Melamed, "Maoz Tzur and the 'End of Christianity'", *TheTorah.com* (2016). https://www.thetorah.com/article/maoz-tzur-and-the-end-of-christianity
 - [^uh1897]: Central Conference of American Rabbis, *Union Hymnal* (1897), No. 107, "Rock of Ages", pp. 117 to 118. https://archive.org/details/unionhymnal00rabbgoog
 - [^uh1932]: Central Conference of American Rabbis, *Union Hymnal*, third edition (copyright 1932; 1936 printing), No. 207, "Rock of Ages", pp. 233 to 234. https://archive.org/details/unionhymnal00cent

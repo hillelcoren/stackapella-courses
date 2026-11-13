@@ -14,11 +14,11 @@ alsoKnownAs: Ma'oz Tzur, Maoz Tsur, Mooz Tsur
 wikidata: Q1785997
 quote: Maoz tzur yeshuati, lecha nae leshabeach.
 quoteSource: id1912
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: maoz tzur significado | maoz tzur letra en español | maoz tzur traducción | quién escribió maoz tzur | maoz tzur historia | maoz tzur canción de janucá
-translatedFrom: ffb655b813a2
+translatedFrom: 24fcc51e9f89
 original: Idelsohn, Sefer ha-Shirim, p. 77, Internet Archive | https://archive.org/details/32882013391126-seferhashirimko/page/n88/mode/1up
 ---
 
@@ -30,11 +30,11 @@ Maoz Tzur es un himno hebreo de Janucá. En los hogares asquenazíes se canta en
 
 Del poeta casi no se sabe nada más que su nombre. Las primeras letras de las cinco primeras estrofas forman Mordecai en hebreo.[^je][^ej] Las estrofas empiezan por Maoz, Ra'ot, Dvir, Krot y Yevanim: mem, resh, dálet, kaf, yod.[^id1912] El estudioso Zunz situó al poeta a mediados del siglo XIII, en Alemania; un artículo de 2016 lo sitúa algo antes, a finales del siglo XII o principios del XIII.[^je][^ej][^melamed] Algunos estudiosos lo han identificado con Mordecai ben Isaac, autor del canto de mesa del sabbat Mah Yafit.[^je][^ej] El himno perteneció primero al hogar, donde se cantaba después de encender las luces, y solo más tarde entró en la sinagoga.[^je][^idel29]
 
-Una sexta estrofa, "Chasof zeroa", ruega que la redención se acerque y que Hashem vengue a Sus siervos. La mayoría de los libros de oraciones la omiten.[^je][^ej] Sus primeras letras forman chazak, "sé fuerte".[^ej][^melamed] No se conoce impresa hasta siglos después de que se escribiera el himno, así que algunos estudiosos creen que se añadió más tarde; otros, entre ellos la Encyclopaedia Judaica, ven en el acróstico una señal de que es del propio poeta.[^ej][^melamed] El cancionero de Idelsohn imprime cinco estrofas.[^id1912]
+Una sexta estrofa, "Chasof zeroa", ruega que la redención se acerque y que Hashem vengue a Sus siervos. La mayoría de los libros de oraciones la omiten.[^je][^ej] Las primeras letras de sus tres primeras palabras, Chasof zeroa kodshecha, forman chazak, "sé fuerte".[^ej][^melamed] No se conoce impresa hasta siglos después de que se escribiera el himno; Melamed no conoce ninguna impresión anterior a una de Ámsterdam de 1702. Por eso algunos estudiosos creen que se añadió más tarde; otros, entre ellos la Encyclopaedia Judaica y Melamed, ven en su acróstico y su estilo señales de que es del propio poeta.[^ej][^melamed] El cancionero de Idelsohn imprime cinco estrofas.[^id1912]
 
-La melodía no tiene compositor conocido. Su primera impresión conocida está en las Hebrew Melodies de Isaac Nathan, publicadas en Londres en 1815, donde lleva el poema de Lord Byron "On Jordan's Banks".[^ej][^je] La Jewish Encyclopedia cuenta que el cantor de Königsberg Eduard Birnbaum la identificó como una adaptación de una antigua canción popular alemana, "So weiss ich eins, dass mich erfreut, das pluemlein auff preiter heyde": "Sé de una cosa que me alegra, la florecilla del ancho brezal".[^je][^idel29] Martín Lutero puso esa melodía popular a su himno "Nun freut euch, lieben Christen gmein", escrito en 1523.[^je][^idel29][^lh1941]
+La melodía no tiene compositor conocido. Su primera impresión conocida está en las Hebrew Melodies de Isaac Nathan, publicadas en Londres en 1815, donde lleva el poema de Lord Byron "On Jordan's Banks".[^ej][^je] La Jewish Encyclopedia cuenta que el cantor de Königsberg Eduard Birnbaum la identificó como una adaptación de una antigua canción popular alemana, "So weiss ich eins, dass mich erfreut, das pluemlein auff preiter heyde": "Sé de una cosa que me alegra, la florecilla del ancho brezal".[^je][^idel29] Martín Lutero tomó esa melodía popular para su himno "Nun freut euch, lieben Christen gmein", escrito en 1523.[^je][^idel29][^lh1941]
 
-En su historia de la música judía de 1929, A. Z. Idelsohn solo encontró en Maoz Tzur los cuatro primeros y los dos últimos compases del coral de Lutero. Los compases centrales, escribió, recuerdan el Benzenauer, una canción de batalla alemana. Pensaba que un cantor judío había unido las dos canciones alemanas en una sola melodía de Janucá.[^idel29] La Encyclopaedia Judaica responde que el parecido que vieron Birnbaum e Idelsohn, con los primeros corales protestantes y con una canción de soldados alemana, se basa en motivos aislados, y encuentra un parecido más cercano para toda la línea en una melodía litúrgica latina.[^ej] El propio Idelsohn, en su cancionero de 1911 a 1912, encabezó la melodía con neima mekubala, "una melodía recibida". Su prefacio da ese nombre a las melodías extranjeras que el pueblo adoptó e hizo suyas.[^id1912] Tampoco coinciden en su antigüedad. La Jewish Encyclopedia de 1904 dice que la canción popular ya era muy conocida entre los judíos alemanes en 1450; Idelsohn, que en 1450 el poema aún se cantaba con otra melodía; y la Encyclopaedia Judaica fecha la melodía que cantamos hacia principios del siglo XV.[^je][^idel29][^ej]
+En su historia de la música judía de 1929, A. Z. Idelsohn solo encontró en Maoz Tzur los cuatro primeros y los dos últimos compases del coral de Lutero. Los compases centrales, escribió, recuerdan el Benzenauer, una canción de batalla alemana. Pensaba que algún cantante judío había fundido las dos canciones alemanas en una sola melodía de Janucá.[^idel29] La Encyclopaedia Judaica responde que el parecido que vieron Birnbaum e Idelsohn, con los primeros corales protestantes y con una canción de soldados alemana, se basa en motivos aislados, y encuentra un parecido más cercano para toda la línea en una melodía litúrgica latina.[^ej] El propio Idelsohn, en su cancionero de 1911 a 1912, encabezó la melodía con neima mekubala, "una melodía recibida". Su prefacio da ese nombre a las melodías extranjeras que el pueblo adoptó e hizo suyas.[^id1912] Tampoco coinciden en su antigüedad. La Jewish Encyclopedia de 1904 dice que la canción popular ya era muy conocida entre los judíos alemanes en 1450; Idelsohn, que en 1450 el poema aún se cantaba con otra melodía; y la Encyclopaedia Judaica dice que la melodía que cantamos puede remontarse a principios del siglo XV.[^je][^idel29][^ej]
 
 
 ### Cronología
@@ -48,13 +48,13 @@ En su historia de la música judía de 1929, A. Z. Idelsohn solo encontró en Ma
 
 ## Qué dice la letra
 
-El título son las primeras palabras del himno. Maoz es una fortaleza o un refugio, tzur es una roca, y yeshuati es "mi salvación": a Hashem se le llama fortaleza y roca de la salvación de quien canta.[^ej] La frase recuerda a Isaías, que reprocha a Israel haber olvidado "la Roca de tu fortaleza".[^isaiah][^ej]
+El título son las primeras palabras del himno. Maoz es una fortaleza o un refugio, tzur es una roca, y yeshuati es "mi salvación": a Hashem se le llama fortaleza y roca de la salvación de quien canta.[^ej] La frase recuerda a Isaías, que reprocha a Israel haber olvidado "la roca de tu fortaleza".[^isaiah][^ej]
 
 Cantamos las estrofas 1 y 5.
 
 **Estrofa 1 (se canta).** Fortaleza, roca de mi salvación, es justo alabarte. Que mi casa de oración, el Templo, vuelva a alzarse, y allí traeremos una ofrenda de gratitud. Cuando prepares la matanza del enemigo que nos ladra, entonces, con canto y salmo, completaré la dedicación del altar. Chanukat, "dedicación", es el nombre mismo de la fiesta: Janucá es la Fiesta de la Dedicación.[^je][^melamed]
 
-**Estrofa 2.** Mi alma se hartó de penas, mi vida amargada por el trabajo duro bajo Egipto. Con Su gran mano Hashem sacó a Su pueblo querido, y el ejército del faraón se hundió como una piedra en el abismo.[^id1912][^ej]
+**Estrofa 2.** Mi alma se hartó de penas, mi vida amargada por el trabajo duro bajo el yugo de Egipto. Con Su gran mano Hashem sacó a Su pueblo querido, y el ejército del faraón se hundió como una piedra en el abismo.[^id1912][^ej]
 
 **Estrofa 3.** Hashem me llevó a Su santa casa, pero tampoco allí encontré descanso. Vino el opresor y me llevó al exilio, porque había servido a dioses extraños. Bebí una copa de vino que hace tambalear y casi perecí. Cayó Babilonia, llegó Zorobabel, y al cabo de setenta años fui salvado.[^id1912][^ej]
 
@@ -68,7 +68,7 @@ Nuestras canciones judías se cantan con los nombres sustitutos que se acostumbr
 
 ### La letra completa
 
-Estas son las seis estrofas tal como las imprime el Siddur Ashkenaz de Sefaria, tomado del siddur Daat, con sus vocales; el significado bajo cada verso es nuestro.[^siddur] El cancionero de Idelsohn, del que se lee nuestro arreglo, imprime las cinco primeras, y la mayoría de los libros de oraciones omiten la sexta, Chasof zeroa.[^id1912][^je][^ej] Su último verso pide a Hashem que aparte a Admón, "el rojo": Edom, que los escritos rabínicos asocian con Roma y el cristianismo.[^melamed] Donde el siddur tiene lashoshanim, "para los lirios", nosotros cantamos leshoshanim.
+Estas son las seis estrofas tal como las imprime el Siddur Ashkenaz de Sefaria, tomado del siddur Daat, con sus vocales; el significado bajo cada verso es nuestro.[^siddur] El cancionero de Idelsohn, del que se lee nuestro arreglo, imprime las cinco primeras, y la mayoría de los libros de oraciones omiten la sexta, Chasof zeroa.[^id1912][^je][^ej] Su último verso pide a Hashem que aparte a Admón, "el rojo": Edom, que los escritos rabínicos asocian con Roma y el cristianismo.[^melamed] Donde el siddur tiene lashoshanim, "para los lirios", nosotros cantamos leshoshanim, como lo imprime la página de Idelsohn.[^id1912]
 
 **Estrofa 1**
 > מָעוֹז צוּר יְשׁוּעָתִי לְךָ נָאֶה לְשַׁבֵּחַ.
@@ -146,19 +146,19 @@ La gente sabia, ocho días los fijó para el canto y la alabanza gozosa.
 Muestra Tu santo brazo y acerca el tiempo de la redención.
 > נְקֹם נִקְמַת דַּם עֲבָדֶיךָ מֵאֻמָּה הָרְשָׁעָה.
 *Nekom nikmat dam avadecha me'uma haresha'a.*
-Venga la sangre de Tus siervos en la nación malvada.
+Cobra venganza en la nación malvada por la sangre de Tus siervos.
 > כִּי אָרְכָה לָנוּ הַשָּׁעָה וְאֵין קֵץ לִימֵי הָרָעָה.
 *Ki archa lanu hasha'a, ve'ein ketz limei hara'a.*
 Porque la hora se nos ha hecho larga, y los días del mal no tienen fin.
 > דְּחֵה אַדְמוֹן בְּצֵל צַלְמוֹן, הָקֵם לָנוּ רוֹעֶה שִׁבְעָה.
 *Dche Admon betzel tzalmon, hakem lanu ro'e shiv'a.*
-Aparta al rojo a la sombra de Tzalmón; levántanos los siete pastores.
+Aparta al rojo a la sombra de Tzalmón; levanta para nosotros a los siete pastores.
 
 ## Cómo se canta
 
 Maoz Tzur pertenece al rito asquenazí, donde sigue al encendido de las luces de Janucá, en casa y en la sinagoga.[^je][^ej] La Encyclopaedia Judaica señala que las sinagogas reformistas y conservadoras también cantan Rock of Ages, en inglés, junto al hebreo o en su lugar.[^ej][^uh1897]
 
-Nuestro arreglo está tomado de la página 77 del Sefer ha-Shirim de A. Z. Idelsohn, un cancionero para escuelas hebreas publicado en Berlín y Jerusalén y fechado en 5672, es decir, 1911 a 1912, donde es el n.º 83, en Mi mayor, en 4/4.[^id1912] Cantamos las estrofas 1 y 5, para 2 a 4 cantantes, con cuatro voces escritas sobre la armonía de sus dos y tres voces. La letra va en pronunciación israelí moderna, que encaja con su libro: su prefacio critica a los cancioneros anteriores por usar el acento asquenazí, que no podían seguir los alumnos de Oriente, que hablaban hebreo con acento sefardí.[^id1912]
+Nuestro arreglo está tomado de la página 77 del Sefer ha-Shirim de A. Z. Idelsohn, un cancionero para escuelas hebreas publicado en Berlín y Jerusalén y fechado en 5672, es decir, 1911 a 1912, donde es el n.º 83, en Mi mayor, en 4/4. Junto a "neima mekubala" marca el paso halicha bechazaka, más o menos "a paso firme".[^id1912] Cantamos las estrofas 1 y 5, para 2 a 4 cantantes, con cuatro voces escritas sobre la armonía de sus dos y tres voces. La letra va en pronunciación israelí moderna, que encaja con su libro: su prefacio critica a los cancioneros anteriores por usar el acento asquenazí, que no podían seguir los alumnos de Oriente, que hablaban hebreo con acento sefardí.[^id1912]
 
 ![[2]]
 
@@ -183,7 +183,7 @@ Cada estrofa canta dos veces su último verso, como piden los signos de repetici
 
 ### ¿Qué significa "Maoz Tzur"?
 
-"Fortaleza, Roca", las primeras palabras del himno, que siguen "de mi salvación, es justo alabarte". La letra se dirige a Hashem y recuerda "la Roca de tu fortaleza" de Isaías; la versión inglesa se llama Rock of Ages.[^ej][^isaiah][^uh1897]
+"Fortaleza, Roca", las primeras palabras del himno, que siguen "de mi salvación, es justo alabarte". La letra se dirige a Hashem y recuerda "la roca de tu fortaleza" de Isaías; la versión inglesa se llama Rock of Ages.[^ej][^isaiah][^uh1897]
 
 ### ¿Quién escribió Maoz Tzur?
 
@@ -212,12 +212,12 @@ La soprano canta la melodía todo el tiempo, como la imprimió Idelsohn. La cont
 - [^je]: Cyrus Adler y Francis L. Cohen, "Ma'oz Zur", *The Jewish Encyclopedia*, vol. 8 (Funk and Wagnalls, 1904), pp. 315 a 316. https://www.jewishencyclopedia.com/articles/10384-ma-oz-zur
 - [^ej]: "Ma'oz Tzur", con su sección musical de Bathja Bayer, *Encyclopaedia Judaica*, 2.ª ed. (Macmillan Reference USA, 2007), en Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/maoz-zur
 - [^idel29]: A. Z. Idelsohn, *Jewish Music in its Historical Development* (Henry Holt, 1929), pp. 171 a 174, 293, 338 y 504 (notas). https://archive.org/details/jewishmusicinits00idel_0
-- [^id1912]: A. Z. Idelsohn, *Sefer ha-Shirim* (Berlín y Jerusalén: Hilfsverein der deutschen Juden, 5672, 1911 a 1912), prefacio pp. III a IV, y n.º 83, "Ma'oz tzur", p. 77. https://archive.org/details/32882013391126-seferhashirimko
+- [^id1912]: A. Z. Idelsohn, *Sefer ha-Shirim* (Berlín y Jerusalén: Hilfsverein der deutschen Juden, 5672, 1911 a 1912), portada, prefacio pp. III a IV, y n.º 83, "Ma'oz tzur", p. 77, George Washington University Libraries, I. Edward Kiev Judaica Collection (OCLC 18648555), Internet Archive 32882013391126-seferhashirimko, hoja n88. https://archive.org/details/32882013391126-seferhashirimko/page/n88/mode/1up
 - [^melamed]: Yitzhak Y. Melamed, "Maoz Tzur and the 'End of Christianity'", *TheTorah.com* (2016). https://www.thetorah.com/article/maoz-tzur-and-the-end-of-christianity
 - [^uh1897]: Central Conference of American Rabbis, *Union Hymnal* (1897), n.º 107, "Rock of Ages", pp. 117 a 118. https://archive.org/details/unionhymnal00rabbgoog
 - [^uh1932]: Central Conference of American Rabbis, *Union Hymnal*, tercera edición (copyright 1932; impresión de 1936), n.º 207, "Rock of Ages", pp. 233 a 234. https://archive.org/details/unionhymnal00cent
 - [^hymnary]: Hymnary.org, "Rock of Ages, let our song" (ficha del texto). https://hymnary.org/text/rock_of_ages_let_our_song
 - [^lh1941]: *The Lutheran Hymnal* (Concordia, 1941), n.º 387, "Dear Christians, One and All, Rejoice", en Hymnary.org. https://hymnary.org/hymn/LH1941/387
-- [^isaiah]: Isaías 17:10, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Mechon Mamre. https://mechon-mamre.org/p/pt/pt1017.htm
+- [^isaiah]: Isaías 17:10, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Mechon Mamre; las citas en español, de la Reina-Valera de 1909. https://mechon-mamre.org/p/pt/pt1017.htm
 - [^talmud]: Talmud de Babilonia, Shabbat 21b, en Sefaria. https://www.sefaria.org/Shabbat.21b
 - [^siddur]: *Siddur Ashkenaz*, Festivals, Chanukah, Service for Lighting Chanukah Candles, Maoz Tzur, texto hebreo del siddur Daat, en Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Festivals%2C_Chanukah%2C_Service_for_Lighting_Chanukah_Candles%2C_Maoz_Tzur
